@@ -244,13 +244,16 @@ export function PlaySetup({
           </div>
         )}
         {playGroup === "duel" ? (
-          <button
-            className="primary"
-            disabled={busy || !!active}
-            onClick={() => void nav("duels")}
-          >
-            Losspielen <span>→</span>
-          </button>
+          <>
+            <button
+              className="primary"
+              disabled={busy || !!active}
+              onClick={() => void nav("duels")}
+            >
+              Losspielen <span>→</span>
+            </button>
+            <RoundGuide mode="duel" />
+          </>
         ) : (
           <>
             {!isRecordMode(mode) && (

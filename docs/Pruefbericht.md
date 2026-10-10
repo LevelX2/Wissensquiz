@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 10.10.2026 – Erklärung zum gewählten Spielmodus
+
+„Mehr zu Auswahl und Ablauf“ durch „So funktioniert …“ mit dem gewählten Modusnamen ersetzt. Alle sechs Solomodi und Duell erklären nur die eigene Spielidee, Auswahl und den Ablauf in drei kurzen Absätzen. Die Duell-Erklärung wird unabhängig vom zuletzt gewählten Solomodus eingebunden. Bestehende Spielregeln und Speicherung unverändert. [Anzeigevertrag und Nutzerquelle](Hilfe-und-Navigation.md#erklärung-zum-gewählten-spielmodus--10102026).
+
+**433 Tests in 70 Dateien**, TypeScript und Produktionsbuild erfolgreich; Logiklauf mit `NODE_OPTIONS=--max-old-space-size=8192 npm test -- --maxWorkers=1 --testTimeout=60000 --hookTimeout=60000`. **Zwei Spieleinstiegs-Browserfälle** in Chromium und mobilem WebKit erfolgreich: Duell, Filmreise, Freies Spiel und 10 Fragen mit passender Erklärung, Moduswechsel mit geschlossener Klappe, Tastaturbedienung, 320-Pixel-Ansicht und Axe ohne Befund. Bestehenden Test auf angemeldete synthetische Konten und den Startbutton unter der aktuellen Fragenauswahl angepasst; zwei Vorläufe scheiterten an diesen veralteten Erwartungen. Mobile Bildschirmaufnahme der geöffneten Erklärung visuell geprüft. Isolierte Browserprofile, feste Testzeit und eigener Vorschauport mit eingefrorener Buildkopie; keine echten Spielstände verändert. Kein vollständiger Browser-Suite-Lauf. Bekannte Vite-Größen-/Abhängigkeitskommentarwarnungen bleiben. Lokale Umsetzung, keine Veröffentlichung.
+
 ## 10.10.2026 – Zusatztexte zu falschen Antworten
 
 Auf Nutzerpräzisierung bekannte reine Verneinungsformeln und Lösungswiederholungen aus der Anzeige entfernt. Konkrete Zusatzinformationen bleiben erhalten, auch wenn sie selbst eine sinnvolle Verneinung enthalten. Ganze führende Leersätze dürfen vor einem eigenständigen Hinweis entfallen; Namen mit Punkten und begründende Nebensätze werden dabei nicht zerlegt. Der gemeldete „Tron: Legacy“-Zusatz zu Motorradhelm, Sonnenbrille und Armbanduhr entfällt vollständig. Keine unbelegte Ersatzgeschichte ergänzt. [Redaktionsmaßstab und Recherchegrenze](Fragenredaktion.md#falsche-antworten-sinnvoll-einordnen--10102026).

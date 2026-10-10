@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Kompakte Erklärung ausschließlich zum gewählten Spielmodus – 10.10.2026](../../../docs/Hilfe-und-Navigation.md#erklärung-zum-gewählten-spielmodus--10102026)
+
 - [Version 60 veröffentlicht: alle Filmposter und kompakte Antwortansicht](../../../docs/Sites-Betrieb.md#version-60-alle-filmposter-und-kompakte-antwortansicht)
 - [Version 60: Quelle, Archiv, Liveprüfungen und Grenzen](../../../docs/Veroeffentlichung-2026-10-10-Version-60.json)
 

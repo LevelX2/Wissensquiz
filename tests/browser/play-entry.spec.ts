@@ -62,12 +62,17 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await duel.focus();
   await page.keyboard.press("Enter");
   await page.getByRole("button", { name: /^Duell Drei Runden/ }).click();
+  const duelGuide = page.locator(".round-guide");
+  await expect(duelGuide.locator("summary")).toHaveText("So funktioniert Duell");
+  await duelGuide.locator("summary").click();
+  await expect(duelGuide).toContainText("drei Runden mit je zehn Fragen");
+  await expect(duelGuide).not.toContainText("offenen Fehlern");
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(
-    page.getByRole("heading", { name: "Duell", exact: true }),
+    page.getByRole("heading", { name: "Deine Duelle", exact: true }),
   ).toBeVisible();
   await expect(
-    page.getByRole("button", { name: "Zum Profil und anmelden" }),
+    page.getByRole("button", { name: "Zufälligen Gegner finden" }),
   ).toBeVisible();
   await page.getByRole("button", { name: "← Zurück zum Spielen" }).click();
   await expect(start).toBeEnabled();
@@ -78,21 +83,20 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.setViewportSize({ width: 320, height: 740 });
   await page.evaluate(() => scrollTo(0, 0));
   const startBox = (await start.boundingBox())!;
-  const gridBox = (await page.locator(".setup-section").first().boundingBox())!;
-  expect(startBox.y - gridBox.y - gridBox.height).toBeLessThan(32);
+  const selectionBox = (await page.locator(".learning-selection").boundingBox())!;
+  expect(startBox.y - selectionBox.y - selectionBox.height).toBeLessThan(32);
   const guide = page.locator(".round-guide");
   const more = guide.locator("summary");
-  await expect(guide).toContainText("bevorzugt neue Fragen");
+  await expect(more).toHaveText("So funktioniert Filmreise");
+  await expect(guide).toContainText("nur fällige Wiederholungen");
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await more.focus();
   await page.keyboard.press("Enter");
   await expect(
     guide.getByText("Deine Auswahl:", { exact: true }),
   ).toBeVisible();
-  await expect(guide).toContainText(
-    "Als geraten markierte Treffer zählen dafür nicht",
-  );
-  await expect(guide).toContainText("höchstens eine dieser Fragen");
+  await expect(guide).toContainText("geratene Treffer zählen dafür nicht");
+  await expect(guide).toContainText("jedes Wissensziel höchstens einmal");
   await page.screenshot({ path: "test-results/rundenhinweis-320.png" });
   expect(
     await page.evaluate(
@@ -122,9 +126,10 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await openRoundSetup(page);
   await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await expect(guide).toContainText("zufällige Fragen ohne Zeitdruck");
+  await expect(more).toHaveText("So funktioniert Freies Spiel");
   await more.click();
   await expect(
-    guide.getByText("Zufällige Fragen:", { exact: true }),
+    guide.getByText("Deine Auswahl:", { exact: true }),
   ).toBeVisible();
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
@@ -132,12 +137,13 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await modePreparation(page, /^10 Fragen 30 Sekunden/).click();
   await page.getByLabel(/Ein Genre ·/).check();
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
-  await expect(guide).toContainText("Pro Frage hast Du 30 Sekunden");
+  await expect(more).toHaveText("So funktioniert 10 Fragen");
+  await expect(guide).toContainText("jeweils 30 Sekunden Zeit");
   await more.click();
   await expect(
-    guide.getByText("Die Uhr läuft beim Tabwechsel weiter.", { exact: true }),
+    guide.getByText(/Beim Tabwechsel läuft die Frageuhr weiter/),
   ).toBeVisible();
-  await expect(guide).toContainText("Neuladen beendet die Rekordrunde");
+  await expect(guide).toContainText("Neuladen beendet den Lauf");
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);

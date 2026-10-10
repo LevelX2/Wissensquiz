@@ -1,85 +1,83 @@
 import type { Mode } from "./model";
-import { isRecordMode, isEndlessMode } from "./recordModes";
+import { modeNames } from "./recordModes";
 
-const introductions: Record<Mode, string> = {
-  entdecken:
-    "Die Filmreise mischt Deine gewählten Fragenbereiche und bevorzugt neue Fragen aus den freigeschalteten Stufen. Filmgenres, Schauspieler und Preisträger haben jeweils ihren eigenen Fortschritt.",
-  ueben:
-    "Du kombinierst Filmfragen, Schauspieler und Preisträger zu einem gemeinsamen Pool. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
-  rekord:
-    "Du spielst zehn Fragen in der Königsklasse oder aus genau einem Genre. Der Schwierigkeitsmix ist fest. Pro Frage hast Du 30 Sekunden; richtige und schnelle Antworten bringen Punkte für Deinen Rekord.",
-  fehlerfrei:
-    "Pro Frage hast Du 30 Sekunden. Richtige Antworten verlängern die Serie; der erste Fehler, Keine Ahnung oder Zeitablauf beendet Deinen Lauf.",
-  zeitkonto:
-    "Du startest mit 120 Sekunden. Richtige Antworten geben 15 Sekunden, Fehler kosten 45 Sekunden. Deine Antwortzeit verbraucht zusätzlich Vorrat; je Frage hast Du höchstens 30 Sekunden.",
-  fehler:
-    "Hier wiederholst Du gezielt falsch beantwortete Fragen und Zeitabläufe – ohne Zeitdruck. Sobald Du ein Wissensziel sicher richtig beantwortest, fällt es aus dem Fehlertraining heraus.",
+const recordSelection =
+  "Du wählst die Königsklasse mit allen offiziellen Fragenbereichen oder genau ein Filmgenre. Der feste Mix enthält je Zehnerblock drei leichte, vier mittlere und drei schwere Fragen. Richtige und schnelle Antworten bringen Rekordpunkte; jede Auswahl hat ihre eigene Rangliste.";
+const timedFlow =
+  "Die Lösungsanzeige stellst Du unter Profil → Optionen ein. Erklärungen liest Du ohne Zeitdruck. Beim Tabwechsel läuft die Frageuhr weiter; Neuladen beendet den Lauf.";
+
+const guides: Record<
+  Mode | "duel",
+  { introduction: string; selection: string; flow: string }
+> = {
+  entdecken: {
+    introduction:
+      "Du entdeckst Filmwissen ohne Zeitdruck und schaltest Schritt für Schritt neue Stufen frei. Filmgenres, Schauspieler und Preisträger haben jeweils ihren eigenen Fortschritt.",
+    selection:
+      "Du kombinierst Fragenbereiche und Filmgenres aus Deinen freigeschalteten Stufen. Wähle nur fällige Wiederholungen oder „Gemischt“: möglichst zur Hälfte fällige Wiederholungen und neue Ziele. Freie Plätze werden aus Deiner Auswahl ergänzt.",
+    flow: "Die erste Runde umfasst bis zu fünf Fragen, danach bis zu zehn. Nach jeder Antwort siehst Du Lösung und Erklärung. Sichere Treffer bringen Dich beim Rundenabschluss weiter; geratene Treffer zählen dafür nicht. Pro Runde kommt jedes Wissensziel höchstens einmal vor. Deine Stufenfortschritte zeigen die nächste Freischaltung.",
+  },
+  ueben: {
+    introduction:
+      "Du spielst zufällige Fragen ohne Zeitdruck. Dein Lernstand bestimmt die Auswahl nicht; bereits beantwortete Fragen können wieder vorkommen.",
+    selection:
+      "Du kombinierst Filmfragen, Schauspieler und Preisträger und wählst die Schwierigkeit frei. Genres, Classics, Arthouse und Filmgruppen filtern nur Filmfragen. Filmgruppen beschreiben die Bekanntheit der Filme, nicht die Schwierigkeit der Fragen.",
+    flow: "Die erste Runde umfasst bis zu fünf Fragen, danach bis zu zehn. Bei kleiner Auswahl sind es weniger. Die Lösungsanzeige stellst Du unter Profil → Optionen ein. Sichere Treffer zählen beim Rundenabschluss für Deinen Lernfortschritt; geratene Treffer zählen dafür nicht.",
+  },
+  fehler: {
+    introduction:
+      "Du wiederholst falsch beantwortete Fragen und Zeitabläufe ohne Zeitdruck. Ein sicherer Treffer entfernt das Wissensziel aus Deinen offenen Fehlern; ein geratener Treffer reicht dafür nicht.",
+    selection:
+      "Deine Fragenbereiche, Genres, Schwierigkeitsstufen und Filmgruppen grenzen die offenen Fehler ein. Häufige Fehler kommen zuerst, bei Gleichstand die zuletzt falsch beantworteten. Du kannst sofort üben und musst nicht auf den Wiederholungstermin warten.",
+    flow: "Die erste Runde umfasst bis zu fünf Fragen, danach bis zu zehn – bei weniger offenen Fehlern entsprechend weniger. Jedes Wissensziel kommt höchstens einmal pro Runde vor. Nach jeder Antwort siehst Du Lösung und Erklärung. Allein geratene Fragen kommen nicht ins Fehlertraining.",
+  },
+  rekord: {
+    introduction:
+      "Du beantwortest zehn Fragen mit jeweils 30 Sekunden Zeit. Fehler, „Keine Ahnung“ und Zeitabläufe bringen keine Punkte; die Runde geht bis zur zehnten Frage weiter.",
+    selection: recordSelection,
+    flow: timedFlow,
+  },
+  fehlerfrei: {
+    introduction:
+      "Wie lange hält Deine Serie? Du hast 30 Sekunden pro Frage. Der erste Fehler, „Keine Ahnung“ oder Zeitablauf beendet Deinen Lauf.",
+    selection: recordSelection,
+    flow:
+      "Es gibt keine feste Fragenzahl. Ist der Fragenpool ausgeschöpft, werden die Wissensziele neu gemischt. " +
+      timedFlow,
+  },
+  zeitkonto: {
+    introduction:
+      "Du startest mit 120 Sekunden Zeitkonto. Deine Antwortzeit verbraucht Vorrat. Richtige Antworten geben 15 Sekunden zurück, Fehler und „Keine Ahnung“ kosten 45 Sekunden. Das Konto fasst höchstens 120 Sekunden; je Frage bleiben höchstens 30 Sekunden oder der kleinere Restvorrat.",
+    selection: recordSelection,
+    flow:
+      "Der Lauf endet, sobald Dein Zeitkonto leer ist. Nach Ausschöpfen des Fragenpools werden die Wissensziele neu gemischt. " +
+      timedFlow,
+  },
+  duel: {
+    introduction:
+      "Du spielst gegen einen Mitspieler: drei Runden mit je zehn Fragen und 30 Sekunden pro Frage. Ihr bekommt dieselben Fragen und spielt abwechselnd, ohne gleichzeitig online sein zu müssen.",
+    selection:
+      "Mit Losspielen öffnest Du die Duellübersicht. Dort findest Du offene Duelle und kannst einen zufälligen Gegner suchen oder jemanden per Link einladen.",
+    flow: "Jeder Treffer zählt einen Punkt, ohne Zeitbonus. Nach Deiner Zehnerrunde siehst Du Lösungen und Erklärungen. Gegnerergebnisse erscheinen, sobald beide die Runde beendet haben. Die Gesamtzahl richtiger Antworten entscheidet; bei Gleichstand ist es ein Unentschieden. Eine gestartete Frage läuft auch bei Unterbrechung weiter.",
+  },
 };
 
-export function RoundGuide({ mode }: { mode: Mode }) {
+export function RoundGuide({ mode }: { mode: Mode | "duel" }) {
+  const guide = guides[mode];
   return (
     <div className="round-guide">
       <details key={mode}>
-        <summary>Mehr zu Auswahl und Ablauf</summary>
+        <summary>
+          So funktioniert {mode === "duel" ? "Duell" : modeNames[mode]}
+        </summary>
         <div className="round-guide-details">
-          <p>{introductions[mode]}</p>
+          <p>{guide.introduction}</p>
           <p>
-            <strong>Deine Auswahl:</strong> Die Zeile unter Losspielen zeigt die
-            gewählten Filter und die Anzahl der Fragen in Deiner nächsten Runde.
-            {isEndlessMode(mode)
-              ? "Der Lauf hat keine feste Fragenzahl; nach Ausschöpfen des Pools werden die Ziele neu gemischt."
-              : isRecordMode(mode)
-                ? "Die Rekordrunde umfasst zehn Fragen. Die Königsklasse und jedes einzelne Genre haben getrennte Kategorien."
-                : "Die erste Runde umfasst bis zu fünf Fragen, danach sind es bis zu zehn. Bei einer kleinen Auswahl können es weniger sein."}
-            {!isRecordMode(mode) &&
-              " Die Wiederholungsübersicht zählt alle fälligen Fragen Deiner Auswahl, unabhängig von der Größe der nächsten Runde. Gerade beantwortete Fragen zählen erst ab ihrem Wiederholungstermin; Varianten desselben Wissensziels zählen einmal."}
+            <strong>Deine Auswahl:</strong> {guide.selection}
           </p>
-          {mode === "entdecken" ? (
-            <p>
-              <strong>Schritt für Schritt:</strong> Du beginnst je Genre mit
-              leichten Fragen zu den bekanntesten verfügbaren Filmen. Bei
-              Schauspielern und Preisträgern beginnst Du mit Leicht; je 20
-              sichere Ziele öffnen Mittel, Schwer und Experte. Deine
-              Stufenfortschritte unten zeigen, was als Nächstes freigeschaltet
-              wird. Bekannte Inhalte kommen zum Wiederholen wieder vor; neue
-              Fragen und neu freigeschaltete Stufen haben Vorrang.
-            </p>
-          ) : mode === "fehler" ? (
-            <p>
-              <strong>Offene Fehler zuerst:</strong> Häufige Fehler haben
-              Vorrang, bei Gleichstand die zuletzt falsch beantworteten Fragen.
-              Deine Genre-, Stufen- und Filmgruppenfilter gelten weiterhin. Du
-              musst nicht auf den Wiederholungstermin warten. Ein geratener
-              Treffer löst einen früheren Fehler noch nicht; allein geratene
-              Fragen kommen aber nicht in das Fehlertraining. Jedes Wissensziel
-              kommt pro Runde höchstens einmal vor.
-            </p>
-          ) : (
-            <p>
-              <strong>Zufällige Fragen:</strong> Dein bisheriger Lernstand
-              beeinflusst die Auswahl nicht. Die vier Filmgruppen reichen von
-              Film-Ikonen bis zu selten bekannten Entdeckungen; sie beschreiben
-              die Bekanntheit der Filme, nicht die Schwierigkeit der Fragen.
-              {mode === "rekord" &&
-                " Der feste Mix enthält drei leichte, vier mittlere und drei schwere Fragen je Zehnerblock. Weitere Themen-, Stufen- oder Filmgruppenfilter sind für Rekorde nicht möglich."}
-            </p>
-          )}
           <p>
-            <strong>Gemeinsamer Fortschritt:</strong> Richtige Antworten auf
-            Fragen zählen in allen Modi für den jeweiligen Bereich der
-            Filmreise, sobald Du die Runde abschließt. Als geraten markierte
-            Treffer zählen dafür nicht. Mehrere Fragen zum selben Zusammenhang
-            teilen sich ein Wissensziel: Für eine Freischaltung zählt es nur
-            einmal, und pro Runde kommt höchstens eine dieser Fragen vor. In
-            Endlosläufen gilt das je vollständigem Pooldurchgang.
+            <strong>Ablauf:</strong> {guide.flow}
           </p>
-          {isRecordMode(mode) && (
-            <p>
-              <strong>Die Uhr läuft beim Tabwechsel weiter.</strong> Neuladen
-              beendet die Rekordrunde. Nach jeder Antwort kannst Du die
-              Erklärung ohne Zeitdruck lesen.
-            </p>
-          )}
         </div>
       </details>
       <p className="round-spoiler">
