@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "bd5a2fea00306a9b0ff8e761d88481de34fed46d",
+  "sourceCommit": "4f9e51b4de1fcf704516f7bb5625fc503193ce9d",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 800,
-  "totalReviewed": 950,
-  "remainingFilmQuestions": 9783,
+  "completedInThisRun": 850,
+  "totalReviewed": 1000,
+  "remainingFilmQuestions": 9733,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 11823,
+  "remainingAllQuestions": 11773,
   "blocks": [
     {
       "block": 1,
@@ -88,6 +88,11 @@
     {
       "block": 16,
       "path": "Block-16.json",
+      "count": 50
+    },
+    {
+      "block": 17,
+      "path": "Block-17.json",
       "count": 50
     }
   ],
@@ -1041,209 +1046,59 @@
     "G100-20261008-ROMCOM-002-S2",
     "G100-20261008-ROMCOM-002-Y",
     "G100-20261008-ROMCOM-002-D",
-    "F240-20261006-200-L1"
+    "F240-20261006-200-L1",
+    "F240-20261006-200-L2",
+    "F240-20261006-200-M1",
+    "F240-20261006-200-M2",
+    "F240-20261006-200-S1",
+    "F240-20261006-200-S2",
+    "F240-20261006-200-Y",
+    "F240-20261006-200-D",
+    "F240-20261006-046-L1",
+    "F240-20261006-046-L2",
+    "F240-20261006-046-M1",
+    "F240-20261006-046-M2",
+    "F240-20261006-046-S1",
+    "F240-20261006-046-S2",
+    "F240-20261006-046-Y",
+    "F240-20261006-046-D",
+    "F240-20261006-218-L1",
+    "F240-20261006-218-L2",
+    "F240-20261006-218-M1",
+    "F240-20261006-218-M2",
+    "F240-20261006-218-S1",
+    "F240-20261006-218-S2",
+    "F240-20261006-218-Y",
+    "F240-20261006-218-D",
+    "ART-L-013",
+    "ART-L-014",
+    "ART-M-013",
+    "ART-M-014",
+    "ART-S-013",
+    "ART-S-014",
+    "FF-032-YEAR",
+    "ACT-L-023",
+    "ACT-L-024",
+    "ACT-M-023",
+    "ACT-M-024",
+    "ACT-S-023",
+    "ACT-S-024",
+    "FF-012-YEAR",
+    "FF-012-DIRECTOR",
+    "F240-20261006-106-L1",
+    "F240-20261006-106-L2",
+    "F240-20261006-106-M1",
+    "F240-20261006-106-M2",
+    "F240-20261006-106-S1",
+    "F240-20261006-106-S2",
+    "F240-20261006-106-Y",
+    "F240-20261006-106-D",
+    "KOM-L-009",
+    "KOM-L-010",
+    "KOM-M-009",
+    "KOM-M-010"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-200-L2",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-M1",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-M2",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-S1",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-S2",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-Y",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-D",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-046-L1",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-L2",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-M1",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-M2",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-S1",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-S2",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-Y",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-D",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-218-L1",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-L2",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-M1",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-M2",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-S1",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-S2",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-Y",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-D",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "ART-L-013",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ART-L-014",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ART-M-013",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ART-M-014",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ART-S-013",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ART-S-014",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "FF-032-YEAR",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ACT-L-023",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "ACT-L-024",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "ACT-M-023",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "ACT-M-024",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "ACT-S-023",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "ACT-S-024",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "FF-012-YEAR",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "FF-012-DIRECTOR",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "F240-20261006-106-L1",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-L2",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-M1",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-M2",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-S1",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-S2",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-Y",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-D",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "KOM-L-009",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "KOM-L-010",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "KOM-M-009",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "KOM-M-010",
-      "filmKey": "Airplane!|1980"
-    },
     {
       "id": "KOM-S-009",
       "filmKey": "Airplane!|1980"
@@ -40179,204 +40034,204 @@
   ],
   "next": [
     {
-      "id": "F240-20261006-200-L2",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-M1",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-M2",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-S1",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-S2",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-Y",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-200-D",
-      "filmKey": "After Yang|2021"
-    },
-    {
-      "id": "F240-20261006-046-L1",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-L2",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-M1",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-M2",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-S1",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-S2",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-Y",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-046-D",
-      "filmKey": "Aftersun|2022"
-    },
-    {
-      "id": "F240-20261006-218-L1",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-L2",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-M1",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-M2",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-S1",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-S2",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-Y",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "F240-20261006-218-D",
-      "filmKey": "Agassi|2016"
-    },
-    {
-      "id": "ART-L-013",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ART-L-014",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ART-M-013",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ART-M-014",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ART-S-013",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ART-S-014",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "FF-032-YEAR",
-      "filmKey": "Aguirre, der Zorn Gottes|1972"
-    },
-    {
-      "id": "ACT-L-023",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "ACT-L-024",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "ACT-M-023",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "ACT-M-024",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "ACT-S-023",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "ACT-S-024",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "FF-012-YEAR",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "FF-012-DIRECTOR",
-      "filmKey": "Air Force One|1997"
-    },
-    {
-      "id": "F240-20261006-106-L1",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-L2",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-M1",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-M2",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-S1",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-S2",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-Y",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "F240-20261006-106-D",
-      "filmKey": "Airplane II: The Sequel|1982"
-    },
-    {
-      "id": "KOM-L-009",
+      "id": "KOM-S-009",
       "filmKey": "Airplane!|1980"
     },
     {
-      "id": "KOM-L-010",
+      "id": "KOM-S-010",
       "filmKey": "Airplane!|1980"
     },
     {
-      "id": "KOM-M-009",
+      "id": "KOM-L-010-V1",
       "filmKey": "Airplane!|1980"
     },
     {
-      "id": "KOM-M-010",
+      "id": "KOM-M-010-V1",
       "filmKey": "Airplane!|1980"
+    },
+    {
+      "id": "KOM-S-010-V1",
+      "filmKey": "Airplane!|1980"
+    },
+    {
+      "id": "FF-205-YEAR",
+      "filmKey": "Airplane!|1980"
+    },
+    {
+      "id": "FF-205-DIRECTOR",
+      "filmKey": "Airplane!|1980"
+    },
+    {
+      "id": "F240-20261006-197-L1",
+      "filmKey": "Akira|1988"
+    },
+    {
+      "id": "F240-20261006-197-L2",
+      "filmKey": "Akira|1988"
+    },
+    {
+      "id": "F240-20261006-197-M1",
+      "filmKey": "Akira|1988"
+    },
+    {
+      "id": "F240-20261006-197-M2",
+      "filmKey": "Akira|1988"
+    },
+    {
+      "id": "F240-20261006-197-S1",
+      "filmKey": "Akira|1988"
+    },
+    {
+      "id": "F240-20261006-197-S2",
+      "filmKey": "Akira|1988"
+    },
+    {
+      "id": "F240-20261006-197-Y",
+      "filmKey": "Akira|1988"
+    },
+    {
+      "id": "F240-20261006-197-D",
+      "filmKey": "Akira|1988"
+    },
+    {
+      "id": "E20261007-F-061-L1",
+      "filmKey": "Alice in Wonderland|2010"
+    },
+    {
+      "id": "E20261007-F-061-L2",
+      "filmKey": "Alice in Wonderland|2010"
+    },
+    {
+      "id": "E20261007-F-061-M1",
+      "filmKey": "Alice in Wonderland|2010"
+    },
+    {
+      "id": "E20261007-F-061-M2",
+      "filmKey": "Alice in Wonderland|2010"
+    },
+    {
+      "id": "E20261007-F-061-S1",
+      "filmKey": "Alice in Wonderland|2010"
+    },
+    {
+      "id": "E20261007-F-061-S2",
+      "filmKey": "Alice in Wonderland|2010"
+    },
+    {
+      "id": "E20261007-F-061-Y",
+      "filmKey": "Alice in Wonderland|2010"
+    },
+    {
+      "id": "E20261007-F-061-D",
+      "filmKey": "Alice in Wonderland|2010"
+    },
+    {
+      "id": "SF-L-001",
+      "filmKey": "Alien|1979"
+    },
+    {
+      "id": "SF-L-001-V1",
+      "filmKey": "Alien|1979"
+    },
+    {
+      "id": "SF-M-001",
+      "filmKey": "Alien|1979"
+    },
+    {
+      "id": "SF-M-001-V1",
+      "filmKey": "Alien|1979"
+    },
+    {
+      "id": "SF-S-001",
+      "filmKey": "Alien|1979"
+    },
+    {
+      "id": "SF-S-001-V1",
+      "filmKey": "Alien|1979"
+    },
+    {
+      "id": "FF-126-YEAR",
+      "filmKey": "Alien|1979"
+    },
+    {
+      "id": "FF-126-DIRECTOR",
+      "filmKey": "Alien|1979"
+    },
+    {
+      "id": "SF-L-002",
+      "filmKey": "Aliens|1986"
+    },
+    {
+      "id": "SF-L-002-V1",
+      "filmKey": "Aliens|1986"
+    },
+    {
+      "id": "SF-M-002",
+      "filmKey": "Aliens|1986"
+    },
+    {
+      "id": "SF-M-002-V1",
+      "filmKey": "Aliens|1986"
+    },
+    {
+      "id": "SF-S-002",
+      "filmKey": "Aliens|1986"
+    },
+    {
+      "id": "SF-S-002-V1",
+      "filmKey": "Aliens|1986"
+    },
+    {
+      "id": "FF-127-YEAR",
+      "filmKey": "Aliens|1986"
+    },
+    {
+      "id": "FF-127-DIRECTOR",
+      "filmKey": "Aliens|1986"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-024-L1",
+      "filmKey": "Alive|1993"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-024-L2",
+      "filmKey": "Alive|1993"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-024-M1",
+      "filmKey": "Alive|1993"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-024-M2",
+      "filmKey": "Alive|1993"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-024-S1",
+      "filmKey": "Alive|1993"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-024-S2",
+      "filmKey": "Alive|1993"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-024-Y",
+      "filmKey": "Alive|1993"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-024-D",
+      "filmKey": "Alive|1993"
+    },
+    {
+      "id": "F240-20261006-142-L1",
+      "filmKey": "All That Jazz|1979"
+    },
+    {
+      "id": "F240-20261006-142-L2",
+      "filmKey": "All That Jazz|1979"
+    },
+    {
+      "id": "F240-20261006-142-M1",
+      "filmKey": "All That Jazz|1979"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
