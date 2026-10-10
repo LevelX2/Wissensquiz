@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 10.10.2026 – Version 60 veröffentlicht
+
+Nativ succeeded um 09:14:29 Uhr Europe/Berlin, exakter geprüfter Main-Quellcommit 66ae0e1. 427 Tests und 20 gezielte Browserfälle wiederverwendet; TypeScript/Versionsbuild und zwei Versionsfälle aus sauberer Veröffentlichungskopie zusätzlich erfolgreich. Alle 479 Produktionsdateien im Archiv bytegleich. Öffentlicher Zugriff Revision 2 erhalten, fünf Live-Dateien anonym bytegleich, Versionszeit dauerhaft gespeichert und separat/anonym bestätigt, direkter Tabellenzugriff 401. Python-HTTP-Client zunächst 403; anonymer Node-fetch ohne Cookies oder Bypass erfolgreich. Kein echter Live-Spielversuch, keine Migration oder Katalogänderung, kein GitHub-Push. Vorgefundene Berichte bis zur Quellvorbereitung bytegleich erhalten; anschließend parallele Bericht-/Antwortfeedback-Arbeiten unangetastet belassen. [Vollständiger Nachweis](Veroeffentlichung-2026-10-10-Version-60.json), [Betrieb](Sites-Betrieb.md#version-60-alle-filmposter-und-kompakte-antwortansicht).
+
 ## 10.10.2026 – Alle Filmposter und kompakte Antwortansicht
 
 Alle **1.405 referenzierten Filmfassungen / 11.013 Fragen** des unveränderten Onlinekatalogs eindeutig TMDB zugeordnet: 1.302 Fassungen in 10.733 Filmfragen und 103 zusätzliche Fassungen aus 280 Preisfragen. Regie einschließlich internationaler Namensformen, alternative Titel und veröffentlichte Startdaten geprüft. Once (2006) anhand des belegten Galway-Premierenjahrs zugeordnet, ohne das bestehende Katalogjahr zu ändern. Sämtliche 1.405 Bildadressen liefern auf HEAD Status 200; bei einer fehlt der Content-Type-Header. Genau dieses Poster (Juliet, Naked) im isolierten Browser erfolgreich dekodiert und die mobile Antwortansicht visuell geprüft. [Umfang und Identitätsprüfung](Filmposter.md).

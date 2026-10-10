@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**10.10.2026 – Version 60 veröffentlicht:** Poster zu allen 1.405 referenzierten Filmfassungen, kompakte Rückmeldung und dezentes Neu-Kennzeichen. 427 Tests, Versionsbuild, 20 gezielte Browserfälle und Archiv-/Livegleichheit geprüft. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-60.json).
+
 **10.10.2026 – Version 59 veröffentlicht:** SciFi-Poster, Anmeldungspflicht und ausschließlich online gespeicherter Spielstand; Antwortfarben und Anzeigedauer auch bei gesammelter Auflösung. 417 Tests, Versionsbuild, 13 gezielte Poster-/Versions-Browserfälle und Archivgleichheit geprüft. Öffentliche Adresse erhalten. Bei zusätzlicher Liveprüfung versehentlich Runde in bestehender Quiz-Sitzung gestartet, keine Antwort gewählt; Nutzer informiert. [Betrieb und Grenzen](../docs/Sites-Betrieb.md#version-59-scifi-poster-anmeldung-und-online-spielstand).
 
 07.10.2026 – **320 Einträge und 2.480 Fragen als Version 57 veröffentlicht:** Je 20 neue Einträge in allen 16 Auswahlkategorien. Gesamt **24 Pakete, 10.877 Fragen und 10.315 Wissensziele**; 8.837 Filmfragen, 1.760 Personenfragen für 220 Personen und 280 Preisfragen. Filmauswahl vorrangig aus der persönlichen Sammlung; Einzelbesitzangaben bleiben privat. Seit Sites-Version 57 öffentlich veröffentlicht. [Redaktion, Lesefassung und Prüfnachweise](../docs/Erweiterung-2026-10-07/Pruefbericht.md).
@@ -10,7 +12,7 @@ Stand: 10.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
-- Lokal am 10.10.2026 Poster auf alle **1.405 referenzierten Filmfassungen / 11.013 Fragen** erweitert, einschließlich filmbezogener Preisfragen. Antwortansicht vereinfacht: kleine sachliche Rückmeldung, dezentes „Neu“ bei der Fragenstatistik, Erklärung vor Poster ohne doppelte Textausgabe oder „Die Idee dahinter“. Katalog und Lernregeln zur Bewertung unverändert. [Poster](../docs/Filmposter.md), [Anzeigevertrag](../docs/Lernregeln.md#kompakte-antwortansicht--10102026).
+- Seit Sites-Version 60 am 10.10.2026 Poster auf alle **1.405 referenzierten Filmfassungen / 11.013 Fragen** erweitert, einschließlich filmbezogener Preisfragen. Antwortansicht vereinfacht: kleine sachliche Rückmeldung, dezentes „Neu“ bei der Fragenstatistik, Erklärung vor Poster ohne doppelte Textausgabe oder „Die Idee dahinter“. Katalog und Lernregeln zur Bewertung unverändert. [Poster](../docs/Filmposter.md), [Anzeigevertrag](../docs/Lernregeln.md#kompakte-antwortansicht--10102026).
 
 - Lokal am 10.10.2026 die kurze Soloantwortanzeige auch bei „Nach der Runde“ erhalten: richtige Lösung grün, falsche Auswahl rot, eingestellte Dauer ohne Verbrauch von Fragenzeit oder Zeitkonto. Danach automatisch nächste Frage oder Rückblick; Erklärungen erst im Rückblick. Seit Sites-Version 59 veröffentlicht. [Aktueller Ablauf](../docs/Lernregeln.md#antwortanzeige-bei-auflösung-nach-der-runde--10102026).
 

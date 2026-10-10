@@ -1,6 +1,6 @@
 # Filmposter nach der Antwort
 
-Stand: 10.10.2026. **TMDB-Zugang vorhanden und geprüft; Poster lokal auf alle Filmgenres und filmbezogenen Preisfragen erweitert.** SciFi-Poster sind seit Sites-Version 59 veröffentlicht. Der vorhandene Zugang des Nutzers wurde nach seiner Anmeldung verwendet. Kein neuer Account, neuer Schlüssel oder neuer API-Antrag war erforderlich.
+Stand: 10.10.2026. **Poster für alle Filmgenres und filmbezogenen Preisfragen seit Sites-Version 60 veröffentlicht.** [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-10-Version-60.json). Der vorhandene Zugang des Nutzers wurde nach seiner Anmeldung verwendet. Kein neuer Account, neuer Schlüssel oder neuer API-Antrag war erforderlich.
 
 ## Umfang und Darstellung
 

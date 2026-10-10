@@ -2,7 +2,7 @@
 
 Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Zum Spielen ist ein bestätigtes Quiz-Konto erforderlich. Der Fortschritt wird ausschließlich privat online gespeichert; ein Offline-Paket und automatische lokale Spielstände gibt es nicht.
 
-Stand 10.10.2026, öffentlich als **Sites-Version 59**: Anmeldungspflicht, ausschließlich online gespeicherter Spielstand und Poster zu allen **154 SciFi-Filmfassungen** nach der Antwort. Antwortfarben und Anzeigedauer auch bei gesammelter Auflösung erhalten. Unverändert **33 Quellenpakete, 12.773 Fragen und 12.207 Wissensziele**. Alle zwölf Filmgenres umfassen mindestens 100 Filme; die Übersicht fälliger Wiederholungen ist ebenfalls veröffentlicht. [Bestand aller Bereiche](docs/Genres-100-2026-10-08/Bestandsuebersicht.md), [Betrieb](docs/Sites-Betrieb.md), [Prüfnachweise](docs/Pruefbericht.md).
+Stand 10.10.2026, öffentlich als **Sites-Version 60**: Anmeldungspflicht, ausschließlich online gespeicherter Spielstand und Poster zu allen **1.405 referenzierten Filmfassungen** nach der Antwort. Kompakte Rückmeldung und dezentes „Neu“ ersetzen die große Entdeckungsüberschrift. Antwortfarben und Anzeigedauer auch bei gesammelter Auflösung erhalten. Unverändert **33 Quellenpakete, 12.773 Fragen und 12.207 Wissensziele**. Alle zwölf Filmgenres umfassen mindestens 100 Filme; die Übersicht fälliger Wiederholungen ist ebenfalls veröffentlicht. [Bestand aller Bereiche](docs/Genres-100-2026-10-08/Bestandsuebersicht.md), [Betrieb](docs/Sites-Betrieb.md), [Prüfnachweise](docs/Pruefbericht.md).
 
 ## Starten
 
@@ -18,7 +18,7 @@ npm run preview
 
 Vorschau unter http://localhost:4173; Entwicklung mit `npm run dev` auf Port 5173. Die Vorschau kann im selben Netz über die aktuelle Netzwerkadresse des Rechners geöffnet werden; Rechner und Prozess müssen laufen. Zum Spielen und Laden von Bildern ist Internet erforderlich. Der Fortschritt gehört zum angemeldeten Konto.
 
-Poster für alle **1.405 referenzierten Filmfassungen** sind lokal eingebaut und erscheinen erst zur Lösung. Die Antwortansicht zeigt eine kleine Rückmeldung und kennzeichnet erstmals beantwortete Fragen dezent mit „Neu“; unnötige Zwischenüberschriften und doppelte Erklärungen entfallen. Für eine frische Projektkopie den Posterindex mit `npm run prepare:posters` vorbereiten; Zugangsdaten bleiben ausschließlich in `.env.tmdb.local`. Den erzeugten, ignorierten Index vor einer Veröffentlichung in die geprüfte Buildkopie aufnehmen. [Betreiberablauf, Erneuerung und Bildnutzung](docs/Filmposter.md).
+Poster für alle **1.405 referenzierten Filmfassungen** sind veröffentlicht und erscheinen erst zur Lösung. Die Antwortansicht zeigt eine kleine Rückmeldung und kennzeichnet erstmals beantwortete Fragen dezent mit „Neu“; unnötige Zwischenüberschriften und doppelte Erklärungen entfallen. Für eine frische Projektkopie den Posterindex mit `npm run prepare:posters` vorbereiten; Zugangsdaten bleiben ausschließlich in `.env.tmdb.local`. Den erzeugten, ignorierten Index vor einer Veröffentlichung in die geprüfte Buildkopie aufnehmen. [Betreiberablauf, Erneuerung und Bildnutzung](docs/Filmposter.md).
 
 ## Spielen und Fortschritt
 

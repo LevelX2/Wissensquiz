@@ -1,0 +1,118 @@
+{
+  "asOf": "2026-10-10",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 60,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_fa2afc287b888191ac7be58980f36ec3",
+  "source_commit": "66ae0e126bdc6e94d38ecdb69c47ed27c213f940",
+  "deployment_id": "appgdep_6ac9e5c015408191aab1900e78643654",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-10T07:14:29.034427+00:00",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_0000000040f882438dce911fd25637c5",
+    "content_hash": "sha256:fa7b395397fc3d6355d125fdab04662e68db46bf98cc193b8d683b463d2f8b09",
+    "size_bytes": 83773440,
+    "file_count": 480
+  },
+  "localArchive": {
+    "buildFiles": 479,
+    "archiveFiles": 480,
+    "sha256": "4f8714425cab4800826927117d82cc72ff7cb6d2b38128c2ca5564e8a0ee3209",
+    "bytes": 63746030,
+    "posters": 1405
+  },
+  "access": {
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "packages": 33,
+  "catalog": {
+    "questions": 12773,
+    "knowledgeGoals": 12207,
+    "releaseHash": "35ba8d20e83b30f5b285abc115ff69f1f416ffde0b44d945840548f18cc8721d",
+    "unchanged": true,
+    "republished": false
+  },
+  "posters": {
+    "filmEditions": 1405,
+    "questions": 11013,
+    "primaryFilmEditions": 1302,
+    "filmQuestions": 10733,
+    "additionalAwardFilmEditions": 103,
+    "awardQuestions": 280,
+    "indexCheckedAt": "2026-10-10",
+    "expiresAt": "2027-03-10",
+    "indexInGit": false,
+    "indexInDeployment": true,
+    "apiKeyInDeployment": false
+  },
+  "checks": {
+    "tests": 427,
+    "testFiles": 70,
+    "targetedBrowserCases": 20,
+    "releaseBrowserCasesRepeated": 2,
+    "buildVersion": 60,
+    "typeScript": true,
+    "productionBuild": true,
+    "packagedBuildFiles": 479,
+    "packagedBuildByteIdentical": true,
+    "sourceWorkflowCommitMatchesMainAtPreparation": true,
+    "githubPush": false,
+    "schemaMigration": false,
+    "releaseMetadataPersistedAndRead": true,
+    "anonymousReleaseRpc": true,
+    "directReleaseTableAccess": false,
+    "nativeBrowserHandoff": "queued",
+    "foreignImportReportsPreservedThroughSourcePreparation": 14,
+    "concurrentImportReportsChangedAfterSourcePreparation": 14
+  },
+  "live": {
+    "anonymousHTML": 200,
+    "checks": [
+      {
+        "path": "/assets/index-BDpDtABB.js",
+        "status": 200,
+        "bytes": 5747808,
+        "sha256": "ab9040944e345a2d79a07c59342f7f25b8d739792e2f2f1bfca61f64dd08dc9b"
+      },
+      {
+        "path": "/film-posters.json",
+        "status": 200,
+        "bytes": 555690,
+        "sha256": "5baa10a47e3af9363c169dbc9227aa24eec545cc605594b0820881343833bdd5"
+      },
+      {
+        "path": "/tmdb-logo.svg",
+        "status": 200,
+        "bytes": 2232,
+        "sha256": "5bdc75aaebeb75dc7ae79426ddd9be3b2be1e342510f8202baf6bffa71d7f5c4"
+      },
+      {
+        "path": "/sw.js",
+        "status": 200,
+        "bytes": 726,
+        "sha256": "f005a22fcf4146fe6724f0e9b52eea6dd2a314677c69d08a8bbc14db9543b34b"
+      },
+      {
+        "path": "/account-config.json",
+        "status": 200,
+        "bytes": 158,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      }
+    ],
+    "anonymousRelease": [
+      {
+        "version": 60,
+        "published_at": "2026-10-10T07:14:29.034427+00:00"
+      }
+    ],
+    "directTableStatus": 401
+  },
+  "limits": [
+    "Kein vollständiger neuer Browser-Suite-Lauf oder physische Geräteprüfung.",
+    "Keine echte Quiz-Sitzung im Livebrowser verwendet; Live-Prüfung ausschließlich anonyme HTTP-Lesezugriffe.",
+    "Python-HTTP-Client erhielt 403; anonyme Node-fetch-Prüfung ohne Cookies oder Bypasstoken erfolgreich.",
+    "Parallele Erweiterung des Antwortfeedbacks im Arbeitsordner erhalten, nicht Teil dieses geprüften Quellcommits."
+  ]
+}
