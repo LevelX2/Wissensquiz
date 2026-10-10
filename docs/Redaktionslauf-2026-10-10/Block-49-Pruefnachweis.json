@@ -1,0 +1,56 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 0,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 7,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Di Renjie zhi shen du long wang|2013",
+      "contentGoals": {
+        "leicht": 1,
+        "mittel": 0,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    2,
+    5,
+    7,
+    9,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    28,
+    30,
+    41,
+    42,
+    43,
+    44,
+    45,
+    48
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "d4bab7facd9d3b8734b43d631ae2a1e762e51b84467f99bbc7b1f89ea7d7f60c",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf",
+  "canonicalDisplayFieldsComplete": true
+}

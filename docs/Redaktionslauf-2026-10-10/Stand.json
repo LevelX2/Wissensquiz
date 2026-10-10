@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 2400,
-  "totalReviewed": 2550,
-  "remainingFilmQuestions": 8183,
+  "completedInThisRun": 2450,
+  "totalReviewed": 2600,
+  "remainingFilmQuestions": 8133,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 10223,
+  "remainingAllQuestions": 10173,
   "blocks": [
     {
       "block": 1,
@@ -248,6 +248,11 @@
     {
       "block": 48,
       "path": "Block-48.json",
+      "count": 50
+    },
+    {
+      "block": 49,
+      "path": "Block-49.json",
       "count": 50
     }
   ],
@@ -2801,209 +2806,59 @@
     "ART-L-004",
     "ART-M-003",
     "ART-M-004",
-    "ART-S-003"
+    "ART-S-003",
+    "ART-S-004",
+    "ART-L-003-V1",
+    "ART-M-003-V1",
+    "ART-S-003-V1",
+    "FF-027-YEAR",
+    "FF-027-DIRECTOR",
+    "E20261007-F-139-L1",
+    "E20261007-F-139-L2",
+    "E20261007-F-139-M1",
+    "E20261007-F-139-M2",
+    "E20261007-F-139-S1",
+    "E20261007-F-139-S2",
+    "E20261007-F-139-Y",
+    "E20261007-F-139-D",
+    "E20261007-F-137-L1",
+    "E20261007-F-137-L2",
+    "E20261007-F-137-M1",
+    "E20261007-F-137-M2",
+    "E20261007-F-137-S1",
+    "E20261007-F-137-S2",
+    "E20261007-F-137-Y",
+    "E20261007-F-137-D",
+    "ACT-202610-P01-L-019",
+    "ACT-202610-P01-L-020",
+    "ACT-202610-P01-M-028",
+    "ACT-202610-P01-M-029",
+    "ACT-202610-P01-S-028",
+    "ACT-202610-P01-S-029",
+    "ACT-202610-P01-M-030",
+    "ACT-202610-P01-S-030",
+    "ART-L-009",
+    "ART-L-010",
+    "ART-M-009",
+    "ART-M-010",
+    "ART-S-009",
+    "ART-S-010",
+    "ART-L-009-V1",
+    "ART-M-009-V1",
+    "ART-S-009-V1",
+    "FF-030-YEAR",
+    "FF-030-DIRECTOR",
+    "G100-20261008-ABENTEUER-026-L1",
+    "G100-20261008-ABENTEUER-026-L2",
+    "G100-20261008-ABENTEUER-026-M1",
+    "G100-20261008-ABENTEUER-026-M2",
+    "G100-20261008-ABENTEUER-026-S1",
+    "G100-20261008-ABENTEUER-026-S2",
+    "G100-20261008-ABENTEUER-026-Y",
+    "G100-20261008-ABENTEUER-026-D",
+    "E20261007-F-148-L1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "ART-S-004",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "ART-L-003-V1",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "ART-M-003-V1",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "ART-S-003-V1",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "FF-027-YEAR",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "FF-027-DIRECTOR",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "E20261007-F-139-L1",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-L2",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-M1",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-M2",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-S1",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-S2",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-Y",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-D",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-137-L1",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-L2",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-M1",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-M2",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-S1",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-S2",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-Y",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-D",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "ACT-202610-P01-L-019",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-L-020",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-M-028",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-M-029",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-S-028",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-S-029",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-M-030",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-S-030",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ART-L-009",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-L-010",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-M-009",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-M-010",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-S-009",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-S-010",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-L-009-V1",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-M-009-V1",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-S-009-V1",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "FF-030-YEAR",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "FF-030-DIRECTOR",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-L1",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-L2",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-M1",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-M2",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-S1",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-S2",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-Y",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-D",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "E20261007-F-148-L1",
-      "filmKey": "Di Renjie zhi shen du long wang|2013"
-    },
     {
       "id": "E20261007-F-148-L2",
       "filmKey": "Di Renjie zhi shen du long wang|2013"
@@ -35539,204 +35394,204 @@
   ],
   "next": [
     {
-      "id": "ART-S-004",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "ART-L-003-V1",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "ART-M-003-V1",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "ART-S-003-V1",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "FF-027-YEAR",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "FF-027-DIRECTOR",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "E20261007-F-139-L1",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-L2",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-M1",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-M2",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-S1",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-S2",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-Y",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-139-D",
-      "filmKey": "Der Schuh des Manitu|2001"
-    },
-    {
-      "id": "E20261007-F-137-L1",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-L2",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-M1",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-M2",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-S1",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-S2",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-Y",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "E20261007-F-137-D",
-      "filmKey": "Der Wixxer|2004"
-    },
-    {
-      "id": "ACT-202610-P01-L-019",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-L-020",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-M-028",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-M-029",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-S-028",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-S-029",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-M-030",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ACT-202610-P01-S-030",
-      "filmKey": "Desperado|1995"
-    },
-    {
-      "id": "ART-L-009",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-L-010",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-M-009",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-M-010",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-S-009",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-S-010",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-L-009-V1",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-M-009-V1",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "ART-S-009-V1",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "FF-030-YEAR",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "FF-030-DIRECTOR",
-      "filmKey": "Det sjunde inseglet|1957"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-L1",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-L2",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-M1",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-M2",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-S1",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-S2",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-Y",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-026-D",
-      "filmKey": "Deux Frères|2004"
-    },
-    {
-      "id": "E20261007-F-148-L1",
+      "id": "E20261007-F-148-L2",
       "filmKey": "Di Renjie zhi shen du long wang|2013"
+    },
+    {
+      "id": "E20261007-F-148-M1",
+      "filmKey": "Di Renjie zhi shen du long wang|2013"
+    },
+    {
+      "id": "E20261007-F-148-M2",
+      "filmKey": "Di Renjie zhi shen du long wang|2013"
+    },
+    {
+      "id": "E20261007-F-148-S1",
+      "filmKey": "Di Renjie zhi shen du long wang|2013"
+    },
+    {
+      "id": "E20261007-F-148-S2",
+      "filmKey": "Di Renjie zhi shen du long wang|2013"
+    },
+    {
+      "id": "E20261007-F-148-Y",
+      "filmKey": "Di Renjie zhi shen du long wang|2013"
+    },
+    {
+      "id": "E20261007-F-148-D",
+      "filmKey": "Di Renjie zhi shen du long wang|2013"
+    },
+    {
+      "id": "E20261007-F-147-L1",
+      "filmKey": "Di Renjie zhi tong tian di guo|2010"
+    },
+    {
+      "id": "E20261007-F-147-L2",
+      "filmKey": "Di Renjie zhi tong tian di guo|2010"
+    },
+    {
+      "id": "E20261007-F-147-M1",
+      "filmKey": "Di Renjie zhi tong tian di guo|2010"
+    },
+    {
+      "id": "E20261007-F-147-M2",
+      "filmKey": "Di Renjie zhi tong tian di guo|2010"
+    },
+    {
+      "id": "E20261007-F-147-S1",
+      "filmKey": "Di Renjie zhi tong tian di guo|2010"
+    },
+    {
+      "id": "E20261007-F-147-S2",
+      "filmKey": "Di Renjie zhi tong tian di guo|2010"
+    },
+    {
+      "id": "E20261007-F-147-Y",
+      "filmKey": "Di Renjie zhi tong tian di guo|2010"
+    },
+    {
+      "id": "E20261007-F-147-D",
+      "filmKey": "Di Renjie zhi tong tian di guo|2010"
+    },
+    {
+      "id": "G100-20261008-THRILLER-003-L1",
+      "filmKey": "Dial M for Murder|1954"
+    },
+    {
+      "id": "G100-20261008-THRILLER-003-L2",
+      "filmKey": "Dial M for Murder|1954"
+    },
+    {
+      "id": "G100-20261008-THRILLER-003-M1",
+      "filmKey": "Dial M for Murder|1954"
+    },
+    {
+      "id": "G100-20261008-THRILLER-003-M2",
+      "filmKey": "Dial M for Murder|1954"
+    },
+    {
+      "id": "G100-20261008-THRILLER-003-S1",
+      "filmKey": "Dial M for Murder|1954"
+    },
+    {
+      "id": "G100-20261008-THRILLER-003-S2",
+      "filmKey": "Dial M for Murder|1954"
+    },
+    {
+      "id": "G100-20261008-THRILLER-003-Y",
+      "filmKey": "Dial M for Murder|1954"
+    },
+    {
+      "id": "G100-20261008-THRILLER-003-D",
+      "filmKey": "Dial M for Murder|1954"
+    },
+    {
+      "id": "G100-20261008-FANTASY-004-L1",
+      "filmKey": "Die Abenteuer des Prinzen Achmed|1926"
+    },
+    {
+      "id": "G100-20261008-FANTASY-004-L2",
+      "filmKey": "Die Abenteuer des Prinzen Achmed|1926"
+    },
+    {
+      "id": "G100-20261008-FANTASY-004-M1",
+      "filmKey": "Die Abenteuer des Prinzen Achmed|1926"
+    },
+    {
+      "id": "G100-20261008-FANTASY-004-M2",
+      "filmKey": "Die Abenteuer des Prinzen Achmed|1926"
+    },
+    {
+      "id": "G100-20261008-FANTASY-004-S1",
+      "filmKey": "Die Abenteuer des Prinzen Achmed|1926"
+    },
+    {
+      "id": "G100-20261008-FANTASY-004-S2",
+      "filmKey": "Die Abenteuer des Prinzen Achmed|1926"
+    },
+    {
+      "id": "G100-20261008-FANTASY-004-Y",
+      "filmKey": "Die Abenteuer des Prinzen Achmed|1926"
+    },
+    {
+      "id": "G100-20261008-FANTASY-004-D",
+      "filmKey": "Die Abenteuer des Prinzen Achmed|1926"
+    },
+    {
+      "id": "ACT-L-003",
+      "filmKey": "Die Hard 2|1990"
+    },
+    {
+      "id": "ACT-L-004",
+      "filmKey": "Die Hard 2|1990"
+    },
+    {
+      "id": "ACT-M-003",
+      "filmKey": "Die Hard 2|1990"
+    },
+    {
+      "id": "ACT-M-004",
+      "filmKey": "Die Hard 2|1990"
+    },
+    {
+      "id": "ACT-S-003",
+      "filmKey": "Die Hard 2|1990"
+    },
+    {
+      "id": "ACT-S-004",
+      "filmKey": "Die Hard 2|1990"
+    },
+    {
+      "id": "FF-002-YEAR",
+      "filmKey": "Die Hard 2|1990"
+    },
+    {
+      "id": "FF-002-DIRECTOR",
+      "filmKey": "Die Hard 2|1990"
+    },
+    {
+      "id": "ACT-L-005",
+      "filmKey": "Die Hard with a Vengeance|1995"
+    },
+    {
+      "id": "ACT-L-006",
+      "filmKey": "Die Hard with a Vengeance|1995"
+    },
+    {
+      "id": "ACT-M-005",
+      "filmKey": "Die Hard with a Vengeance|1995"
+    },
+    {
+      "id": "ACT-M-006",
+      "filmKey": "Die Hard with a Vengeance|1995"
+    },
+    {
+      "id": "ACT-S-005",
+      "filmKey": "Die Hard with a Vengeance|1995"
+    },
+    {
+      "id": "ACT-S-006",
+      "filmKey": "Die Hard with a Vengeance|1995"
+    },
+    {
+      "id": "FF-003-YEAR",
+      "filmKey": "Die Hard with a Vengeance|1995"
+    },
+    {
+      "id": "FF-003-DIRECTOR",
+      "filmKey": "Die Hard with a Vengeance|1995"
+    },
+    {
+      "id": "E20261007-F-076-L1",
+      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
+    },
+    {
+      "id": "E20261007-F-076-L2",
+      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
+    },
+    {
+      "id": "E20261007-F-076-M1",
+      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
