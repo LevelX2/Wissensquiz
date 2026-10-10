@@ -91,11 +91,13 @@ export class OnlineGameStore {
     };
   }
   async open() {
-    const official = await this.official();
+    const [official, initialMetadata] = await Promise.all([
+      this.official(),
+      getMetadata(this.api, this.owner),
+    ]);
     if (this.stopped) return;
     this.catalogs = [official];
-    let metadata = await getMetadata(this.api, this.owner);
-    if (this.stopped) return;
+    let metadata = initialMetadata;
     if (metadata.paused)
       throw new Error("Der Online-Speicherdienst ist zurzeit nicht verfügbar.");
     if (!metadata.generation) {
@@ -234,6 +236,19 @@ export class OnlineGameStore {
         changes: delta.changes,
         objects: [],
       };
+      // The existing apply RPC stores small objects in the same transaction.
+      // Keep large contents on the bounded piece upload path, and freeze this
+      // selection with the packet so a lost receipt can be replayed verbatim.
+      let objectBytes = 0;
+      for (const object of delta.objects) {
+        const size = new TextEncoder().encode(
+          JSON.stringify(object),
+        ).byteLength;
+        if (packet.objects.length < 100 && objectBytes + size <= 64 * 1024) {
+          packet.objects.push(object);
+          objectBytes += size;
+        }
+      }
       this.pending = {
         state: next,
         document,
@@ -273,7 +288,8 @@ export class OnlineGameStore {
         revision = metadata.revision;
         confirmedAt = Date.now();
       } else {
-        for (const object of objects)
+        const inline = new Set(pending.packet!.objects.map((o) => o.hash));
+        for (const object of objects.filter((o) => !inline.has(o.hash)))
           await uploadObject(
             this.api,
             this.owner,

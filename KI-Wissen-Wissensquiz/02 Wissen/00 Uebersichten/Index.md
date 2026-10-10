@@ -3,6 +3,8 @@
 - [Version 63 veröffentlicht: Genre-Icon und passende Antwortsymbole](../../../docs/Sites-Betrieb.md#version-63-genre-icon-und-passende-antwortsymbole)
 - [Version 63: Quelle, Build-, Archiv- und Live-Nachweis](../../../docs/Veroeffentlichung-2026-10-10-Version-63.json)
 
+- [Nachprüfung der Online-Datenübertragung: kleine Standardpakete, gebündelte Inhalte und große Endlosrunden – 10.10.2026](../../../docs/Online-Datenuebertragung-2026-10-10.md)
+
 - [Genre als Themenbild und passende Illustrationen für Antwortklappen – 10.10.2026](../../../docs/Antwortsymbole-2026-10-10.md)
 
 - [Version 62 veröffentlicht: Modustrennung, nächste Etappe, goldene Klappen und Profilübersicht](../../../docs/Sites-Betrieb.md#version-62-filmreise-wiederholen-und-goldene-klappen)

@@ -60,10 +60,39 @@ export function stableStringify(value: unknown): string {
       .join(",")}}`;
   return JSON.stringify(value);
 }
-export const jsonEqual = (a: unknown, b: unknown) =>
-  a === undefined || b === undefined
-    ? a === b
-    : stableStringify(a) === stableStringify(b);
+// Compare JSON values without sorting keys and allocating serialized copies of
+// every historical entry on each answer. Optional undefined object fields are
+// omitted, just as in the canonical packet representation.
+export function jsonEqual(a: unknown, b: unknown): boolean {
+  if (a === b) return true;
+  if (!a || !b || typeof a !== "object" || typeof b !== "object") return false;
+  if (Array.isArray(a) || Array.isArray(b)) {
+    if (!Array.isArray(a) || !Array.isArray(b) || a.length !== b.length)
+      return false;
+    for (let i = 0; i < a.length; i++)
+      if (a[i] !== b[i] && !jsonEqual(a[i], b[i])) return false;
+    return true;
+  }
+  const left = a as Record<string, unknown>,
+    right = b as Record<string, unknown>;
+  const keys = Object.keys(left),
+    otherKeys = Object.keys(right);
+  let count = keys.length,
+    otherCount = otherKeys.length;
+  for (const key of keys) {
+    if (left[key] === undefined) {
+      count--;
+      continue;
+    }
+    if (
+      !Object.hasOwn(right, key) ||
+      (left[key] !== right[key] && !jsonEqual(left[key], right[key]))
+    )
+      return false;
+  }
+  for (const key of otherKeys) if (right[key] === undefined) otherCount--;
+  return count === otherCount;
+}
 const objectIndices = new WeakMap<
   Map<string, SyncObject>,
   Map<string, string>

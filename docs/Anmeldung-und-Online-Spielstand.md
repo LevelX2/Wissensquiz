@@ -30,4 +30,6 @@ Offline-Cache und lokaler Spielstand sind bereits im ersten Repository-Commit `8
 
 ## Prüfung und Veröffentlichung
 
+Die [Nachprüfung der Datenübertragung vom 10.10.2026](Online-Datenuebertragung-2026-10-10.md) bestätigt kleine Änderungspakete für normale Runden und dokumentiert noch große Pakete bei Fehlerfrei/Zeitkonto. Lokal werden kleine neue Inhalte mit derselben atomaren Änderungsanfrage übertragen; Katalog und Metadaten laden parallel. Keine Änderung der Serverbestätigung oder der ausschließlich privaten Online-Speicherung; noch nicht veröffentlicht.
+
 Isolierte Browserkonten verwenden ausschließlich synthetische Daten und das echte SQL-Speicherprotokoll in PGlite. Prüfergebnisse stehen im [Prüfbericht](Pruefbericht.md). Keine echten Nutzerdaten für Tests, keine Änderung der Produktionsdatenbank, kein Push und keine Veröffentlichung im Rahmen dieses Auftrags.

@@ -1,5 +1,26 @@
 import { test, expect, accountBackend, readStoredState } from "./fixtures";
 test.use({ serviceWorkers: "block" });
+test("Rundenstart und Antwort übertragen nur ein kleines Änderungspaket", async ({
+  page,
+}) => {
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const backend = accountBackend(page);
+  backend.api.calls.length = 0;
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(page.locator(".answer").first()).toBeEnabled();
+  expect(backend.api.calls.map((c) => c.name)).toEqual(["quiz_sync_apply"]);
+  expect(
+    Buffer.byteLength(JSON.stringify(backend.api.calls[0].args)),
+  ).toBeLessThan(20000);
+  backend.api.calls.length = 0;
+  await page.locator(".answer").first().click();
+  await expect(page.locator(".feedback")).toBeVisible();
+  expect(backend.api.calls.map((c) => c.name)).toEqual(["quiz_sync_apply"]);
+  expect(
+    Buffer.byteLength(JSON.stringify(backend.api.calls[0].args)),
+  ).toBeLessThan(15000);
+});
 test("fehlende Online-Speicherung zeigt keine Lösung; explizite Wiederholung speichert genau einmal", async ({
   page,
 }) => {
