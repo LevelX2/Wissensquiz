@@ -1,0 +1,141 @@
+{
+  "asOf": "2026-10-10",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 63,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_1b3997617164819193008237bca18b17",
+  "source_commit": "1482de8e9ef563800d2be6c7ad722d2480635ea8",
+  "deployment_id": "appgdep_6aca065ac42481919b5654d38044899c",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-10T11:33:34.776378+02:00",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000c458820ab588ec643397959a",
+    "content_hash": "sha256:3b92b558b480733021bbd31468072f51f0f30810e93ec5a80a0dd45d13d8bb56",
+    "size_bytes": 84070400,
+    "file_count": 486
+  },
+  "access": {
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "changes": [
+    "Genre represented by existing topic artwork with accessible name and tooltip",
+    "Six illustrated disclosure icons; includes director and photo credit",
+    "Photo credit contrast and icon sizing verified"
+  ],
+  "catalog": {
+    "hash": "e40f41921c37fa4cc4513d1e6e72f24df4c5fc484d0b8a54154f2bdb26090e99",
+    "questions": 12773,
+    "changed": false,
+    "republished": false
+  },
+  "checks": {
+    "tests": 436,
+    "testFiles": 71,
+    "uniqueBrowserCases": 24,
+    "finalBuildBrowserCases": 8,
+    "typeScript": true,
+    "productionBuild": true,
+    "buildVersion": 63,
+    "cleanSourceBuildByteIdentical": true,
+    "packagedBuildByteIdentical": true,
+    "schemaMigration": false,
+    "realGameStateChanged": false,
+    "githubPush": false,
+    "releaseMetadataPersistedAndSeparatelyRead": true,
+    "anonymousReleaseRpc": true,
+    "nativeBrowserHandoff": "queued"
+  },
+  "localArchive": {
+    "buildFiles": 485,
+    "archiveFiles": 486,
+    "sha256": "4e0fa8423e9503623602124f78701785003b75dd9694598e7c2bcf80aabe4171",
+    "bytes": 64000857,
+    "posters": 1405
+  },
+  "live": {
+    "anonymousHTML": 200,
+    "checks": [
+      {
+        "path": "/assets/index-wYsel6cb.js",
+        "status": 200,
+        "bytes": 5753447,
+        "sha256": "43ca5a7cd20c8fcebdd32a4d5231e4900b81e709f4afc8d3bf7055367e0a13c8"
+      },
+      {
+        "path": "/assets/index-BM4xozzQ.css",
+        "status": 200,
+        "bytes": 61181,
+        "sha256": "38bed59af41c959c3608052a5c8644dc64d384485fa4a6130fedbe4c1d3b5459"
+      },
+      {
+        "path": "/film-posters.json",
+        "status": 200,
+        "bytes": 555690,
+        "sha256": "5baa10a47e3af9363c169dbc9227aa24eec545cc605594b0820881343833bdd5"
+      },
+      {
+        "path": "/tmdb-logo.svg",
+        "status": 200,
+        "bytes": 2232,
+        "sha256": "5bdc75aaebeb75dc7ae79426ddd9be3b2be1e342510f8202baf6bffa71d7f5c4"
+      },
+      {
+        "path": "/sw.js",
+        "status": 200,
+        "bytes": 706,
+        "sha256": "0c3f9919e46aacbadf04f0a2ccf87bcd2296697179a907f787e74857a46f47ec"
+      },
+      {
+        "path": "/account-config.json",
+        "status": 200,
+        "bytes": 158,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      },
+      {
+        "path": "/disclosures/history.png",
+        "status": 200,
+        "bytes": 42368,
+        "sha256": "0dd843f3e3d9922dd59adee414408b70bd55b74891cc8e8a93a1c7e6fc22eec7"
+      },
+      {
+        "path": "/disclosures/answers.png",
+        "status": 200,
+        "bytes": 43363,
+        "sha256": "e617cf3ce0e9d887988b0d0905affd3224aef9540957a8554c4f25c93e62c1b9"
+      },
+      {
+        "path": "/disclosures/context.png",
+        "status": 200,
+        "bytes": 39601,
+        "sha256": "e78b78952d480221939316f56538ffc493bdc09633a79564be49415e55dfd434"
+      },
+      {
+        "path": "/disclosures/film.png",
+        "status": 200,
+        "bytes": 40922,
+        "sha256": "e6210d767ef773344f340df6fa573c8fdeb063d1bb3507a85d7d7139cd3f8d42"
+      },
+      {
+        "path": "/disclosures/sources.png",
+        "status": 200,
+        "bytes": 41282,
+        "sha256": "e27457de8ae370c89386b13d6d1db90654a303d8a832de0e0eb4f52196f5fa77"
+      },
+      {
+        "path": "/disclosures/learning.png",
+        "status": 200,
+        "bytes": 29513,
+        "sha256": "b2b07aefb3189544b99fe168232178201065d2633cb45bdc011505d97cb73ca9"
+      }
+    ],
+    "anonymousRelease": [
+      {
+        "version": 63,
+        "published_at": "2026-10-10T11:33:34.776378+02:00"
+      }
+    ],
+    "directTableStatus": 401
+  }
+}

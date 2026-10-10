@@ -1,5 +1,7 @@
 # Genre und Symbole der Antwortbereiche
 
+Seit Sites-Version 63 am 10.10.2026 um 11:33:34 Uhr Europe/Berlin veröffentlicht. [Nachweis](Veroeffentlichung-2026-10-10-Version-63.json).
+
 Nutzerauftrag vom 10.10.2026: [unveränderte Rohquelle](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Genre%20und%20Antwortsymbole.txt).
 
 Über der Frage ersetzt das vorhandene Themenbild die bisherige Genre-Textplakette. Filmfragen verwenden ihr Genre, Personenfragen das Schauspielerbild und Preisfragen das Preisträgerbild. Der Name bleibt als zugängliche Bildbezeichnung und Tooltip erhalten. Die vorhandene Genre-Option blendet weiterhin die gesamte Anzeige aus; Schwierigkeit und Neu/Wiederholung bleiben unabhängig.

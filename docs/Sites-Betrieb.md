@@ -1,5 +1,17 @@
 # Sites-Veröffentlichung
 
+## Version 63: Genre-Icon und passende Antwortsymbole
+
+Am **10.10.2026 um 11:33:34 Uhr Europe/Berlin** erfolgreich veröffentlicht, nativ **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Exakter Quellcommit **1482de8e9ef563800d2be6c7ad722d2480635ea8**, Version **appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_1b3997617164819193008237bca18b17**, Deployment **appgdep_6aca065ac42481919b5654d38044899c**. Öffentlichen Zugang **public, Revision 2**, Adresse und private Online-Spielstände erhalten.
+
+Genre über der Frage als vorhandenes Themenbild mit zugänglicher Bezeichnung und Tooltip. Sechs hochwertige Illustrationen in Gold, Creme und Petrol statt einheitlicher Sterne in den Antwortklappen; Regie und Bildnachweis eingeschlossen. Bildnachweis mit geprüftem Textkontrast und fester Icon-Größe. [Anzeigevertrag und Bildprompts](Antwortsymbole-2026-10-10.md).
+
+**436 Tests / 71 Dateien**, TypeScript, Versionsbuild und **24 unterschiedliche isolierte Browserfälle** erfolgreich, davon acht am finalen Build. 320-Pixel-Ansicht, tatsächliches Bildladen, Tastatur, Axe und Überlauf geprüft. Zwei zunächst fehlgeschlagene Fälle nach Kontrastkorrektur beziehungsweise Aktualisierung der alten Musik-Testmenge bestanden. Keine vollständige neue Browser-Suite oder physische Geräteabnahme.
+
+Regulärer Sites-Workflow aus sauberer Main-Kopie, Source-Push ausschließlich zu Sites. Zusätzlicher Quellbuild mit den unveränderten erzeugten Katalog-/Posterdateien vorbereitet und alle **485 Produktionsdateien** bytegleich zum getesteten Build bestätigt; beim Worker gleiche Quellzeilen und dessen ursprüngliche Zeilenenden verwendet. Archiv mit 486 Dateien semantisch geprüft, sämtliche Produktionsdateien bytegleich, kein TMDB-Schlüssel enthalten. Native Archivmetadaten: 486 Dateien / 84.070.400 Bytes / `sha256:3b92b558b480733021bbd31468072f51f0f30810e93ec5a80a0dd45d13d8bb56`; abweichende lokale TAR-Metadaten separat im Nachweis. HTML anonym 200, zwölf Live-Dateien einschließlich aller sechs Illustrationen 200 und bytegleich. Tatsächliche Veröffentlichungszeit und Quellcommit dauerhaft gespeichert, separat gelesen und anonym über `quiz_app_release(63)` bestätigt; direkter Tabellenzugriff 401. Native Browserübergabe angefordert.
+
+Kataloghash `e40f41921c37fa4cc4513d1e6e72f24df4c5fc484d0b8a54154f2bdb26090e99` mit 12.773 Fragen unverändert und online lesend bestätigt; kein erneuter Katalog-/Duellrollout, keine Migration und keine echten Spielstände verändert. Parallel entstandene Änderungen der Onlineübertragung sowie weitere fremde Arbeitsstände erhalten und ausgeschlossen. Kein GitHub-Push. [Maschinenlesbarer Nachweis](Veroeffentlichung-2026-10-10-Version-63.json).
+
 ## Version 62: Filmreise, Wiederholen und goldene Klappen
 
 Am **10.10.2026 um 11:02:31 Uhr Europe/Berlin** erfolgreich veröffentlicht, nativ **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Exakter Quellcommit **64a3a3a763db6e406cfa5b7ecc1d55f1ae1f0178**, Version **appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_289016da84a081919c1ffb3ff976ddb4**, Deployment **appgdep_6ac9ff1109d08191bf7310b907205ca1**. Öffentlichen Zugang **public, Revision 2**, Adresse und private Online-Spielstände erhalten.

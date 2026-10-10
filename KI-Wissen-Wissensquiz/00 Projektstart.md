@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**10.10.2026 – Version 63 veröffentlicht:** Genre als Themenbild über der Frage; sechs passende plastische Symbole für Antwortklappen einschließlich Regie und Bildnachweis. 436 Tests, 24 unterschiedliche Browserfälle, zusätzlicher sauberer Quellbuild, Archivgleichheit und zwölf Live-Dateien geprüft. Katalog und Spielstände unverändert. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-63.json), [Bilder und Prompts](../docs/Antwortsymbole-2026-10-10.md).
+
 **10.10.2026 – Version 62 veröffentlicht:** Filmreise mit Entdecken und Festigen, Wiederholen ausschließlich fälliger Filmfragen, Freies Spiel zufällig. Nächste Etappe in der Filmreise, goldene Klappen und Gesamtlernstand im Profil. 436 Tests, 34 unterschiedliche Browserfälle, Build und Livegleichheit geprüft. Darstellernamen-Ergänzungen im Online-/Duellkatalog veröffentlicht. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-62.json).
 
 **10.10.2026 – Version 61 veröffentlicht:** Neu/Wiederholung vor der Antwort mit eigenem Optionsschalter. Fester Quellcommit 7b2ceea, 434 Tests, Versionsbuild, zwölf gezielte Browserfälle und Archiv-/Livegleichheit geprüft. Gesamter aktueller Main-Stand enthalten. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-61.json).
