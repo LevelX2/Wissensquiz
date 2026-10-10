@@ -65,6 +65,8 @@ Die Variation betrifft Perspektive, Denkaufgabe und Wissensinhalt, nicht nur wec
 
 Den Fragenblock eines Films und anschließend das ganze Paket zusammen lesen. Wiederholen sich Frageanfänge, Denkaufgaben, Nebendetails oder Erklärungssätze ohne fachlichen Grund, die betroffenen Fragen neu entwickeln. Keine starre Handlungs-, Rollen- oder Technikquote erzwingen. Ein Film mit besonderer Erzählweise darf andere Schwerpunkte erhalten als ein Musical oder ein Seeabenteuer.
 
+Bei Bestandsüberarbeitungen alle Fragen eines Films zusammennehmen, einschließlich bereits redigierter Vorschläge. Pro Wissensziel den abgefragten Sachverhalt und den erschlossenen Handlungsstrang oder Hintergrund vergleichen. Die Vertiefungen sollen einander ergänzen und zusammen ein möglichst reiches Filmverständnis vermitteln. Wiederholte Ausgangslagen nur so weit erzählen, wie die konkrete Antwort sie benötigt. Noch unberücksichtigte Entwicklungen, Beziehungen oder Hintergründe als Lücken dokumentieren; spätere Ergänzungen bevorzugt so auswählen, dass sowohl der abgefragte Fakt als auch die Vertiefung diese Lücken schließen. Keine starre Themenquote und keine vollständige Filmabdeckung aus der Mindestfragenzahl ableiten. [Nutzerauftrag zum filmweisen Redaktionslauf](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20filmweiser%20Redaktionslauf.txt).
+
 Jahres- und Regiefragen dürfen als klar abgegrenzte Eckdatenfragen eine einfache Grundform verwenden. Sie benötigen trotzdem filmbezogene Abgrenzung, Quellen und einen individuellen erklärenden Hintergrund. Technisch fest vorgegebene Generatorfragen nicht als neu variierte Redaktion ausgeben.
 
 ## Schwierigkeiten sinnvoll gestalten

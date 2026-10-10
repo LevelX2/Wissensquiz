@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Filmweiser Redaktionslauf: ergänzende Handlungsstränge, 50er-Blöcke mit lokalen Commits und offene Warteschlange – 10.10.2026](../../../docs/Redaktionslauf-2026-10-10/Stand.md)
+
 - [Version 64: gesamter Main-Stand einschließlich Proberunde, Serverzeit, Wettbewerbs-XP und Menüicons veröffentlicht](../../../docs/Sites-Betrieb.md)
 - [Version 64: Quellen-, Backend-, Archiv- und Live-Nachweis](../../../docs/Veroeffentlichung-2026-10-10-Version-64.json)
 
