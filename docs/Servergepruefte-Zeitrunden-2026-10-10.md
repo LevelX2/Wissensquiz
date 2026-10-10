@@ -1,0 +1,45 @@
+# Servergeprüfte Zeitrunden
+
+Stand: 10.10.2026. Lokal implementiert und mit synthetischen Konten geprüft; noch nicht in Supabase angewendet oder veröffentlicht. [Nutzerauftrag und Annahme der vorgeschlagenen Sicherungen](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20servergepruefte%20Zeitrunden.txt), [vorheriger Sicherheitsbefund](Zeitrunden-Manipulationsschutz-2026-10-10.md).
+
+## Verbindlicher Ablauf
+
+Alle neuen Solo-Zeitspiele **10 Fragen, Fehlerfrei und Zeitkonto** werden vom Server gesteuert. Lernrunden, Proberunde und der eigene Duellvertrag bleiben getrennt. Neue Regelkennung: `solo-server-v1.<rekord|fehlerfrei|zeitkonto>.<standard|genre>`. Bestehende Punkte-, Zeitkonto- und Auswahlregeln bleiben bestehen: 30 Sekunden pro Frage, Zeitkonto 120 / +15 / −45, Königsklasse oder genau ein Filmgenre, Zehnermischung 3 leicht / 4 mittel / 3 schwer. Varianten bekommen keine zusätzlichen Lose; ein Wissensziel erscheint einmal pro Pooldurchgang. Reihenfolge und Antwortoptionen werden auf dem Server gemischt.
+
+Der Betreiber aktiviert einen vollständig bereitgestellten offiziellen Katalog. Ein Konto kann weder einen eigenen Katalog noch eine frühere installierte Ausgabe für einen neuen Lauf auswählen. Bereits laufende Runden bleiben an ihren beim Start festgelegten Bestand gebunden.
+
+Der Client erhält **nur die aktuell ausgegebene Frage**, vier sichtbare Antworten, deren Reihenfolge, einen zufälligen Fragenbeleg und die Serverfrist. Richtige Antwort, Erklärungen und sensible Metadaten fehlen bis zur Antwortbestätigung. Zukünftige Fragenfolge und Pool erscheinen weder in diesem Ergebnis noch in normalen Kontosicherungen. Aktive Verläufe lassen sich auch vom Besitzer nicht über die Verlaufsfunktion abrufen. Erst eine bestätigte Antwort gibt deren Auflösung frei; die nächste Frage wird in einer eigenen Anfrage nach der Rückmeldung beziehungsweise Erklärung ausgegeben.
+
+Die Antwortanfrage enthält Lauf-/Sitzungs-ID, Position, Fragenbeleg, gewählte Antwort beziehungsweise „Keine Ahnung“, Ratekennzeichnung und eine eindeutige Anfrage-ID. Zeit, Punkte, Lösung und Rundenabschluss sind keine Clientangaben. Der Server prüft Besitzer, Sitzung, Position, Beleg und Frist, schreibt die erste gültige Antwort und bestimmt Punkte, Zeitkonto und Ende atomar. Eine konkurrierende zweite Antwort zählt nicht. Erst nach Bestätigung zeigt die Oberfläche die Lösung.
+
+## Zeit und mehrere Geräte
+
+Maßgeblich ist die Zeit **von der serverseitigen Fragenausgabe bis zur serverseitigen Annahme der Antwort**. Übertragung, Darstellung und serverseitige Verarbeitung innerhalb dieses Intervalls zählen mit. Es gibt keine vom Client behauptete Latenzgutschrift. Die Oberfläche weist darauf hin; ihr Countdown aus Serverzeit und monotoner Browserzeit ist keine Wertungsgrundlage. Browseruhr, Tabwechsel, Neuladen und erneute Anfragen starten die Frist nicht neu. Verspätete Antworten werden als Zeitablauf gewertet. Rückmeldung, Erklärungen und Warten auf „Weiter“ verbrauchen keine Zeit, solange noch keine nächste Frage ausgegeben wurde.
+
+Genau ein aktiver gewerteter Lauf pro Konto wird durch Kontosperre und eindeutigen Datenbankindex erzwungen. Die Spielsitzung hat eine zufällige Kennung ausschließlich im RAM. Ein zweites Gerät beziehungsweise Fenster und eine neu geladene Seite können den Lauf nicht fortsetzen oder seine nächste Frage abrufen. **Das bloße Öffnen beendet den ersten Lauf nicht.** Ein neuer Start zeigt den bestehenden Lauf und bietet ausdrücklich „Bestehende Zeitrunde beenden und neu starten“. Dieser bewusste Abbruch ist mit demselben Konto auch auf dem zweiten Gerät erlaubt; danach werden weitere Antworten der früheren Sitzung abgewiesen.
+
+Nach einer verlorenen Bestätigung bleibt die genaue Anfrage im offenen Tab erhalten. „Erneut versuchen“ sendet dieselben Bytes und dieselbe ID; der Server liefert das ursprüngliche Ergebnis ohne Doppelwertung, neue Frist oder erneute Auslosung. Nur die aktuelle Serverzeit wird für den Countdown frisch ergänzt. Abweichender Inhalt mit derselben ID wird abgewiesen. Beim Neuladen wird keine lokale Kontorunde rekonstruiert. Bereits geschlossene Antworten können aus dem privaten Serververlauf einmalig in den Lernspielstand übernommen werden.
+
+## Ranglisten und Rechte
+
+Öffentliche Solo-Zeitlisten lesen ausschließlich abgeschlossene Läufe aus den privaten Servertabellen. Gewöhnliche Speicherpakete, JSON-Import, Generationstausch und ältere Speicher-RPCs können diese Ergebnisse weder erzeugen noch ändern. Ein Ergebnis ist sofort nach der serverseitigen Abschlussantwort gewertet; der private Lernstandabgleich ist dafür nicht erforderlich. Alle vier bisherigen Solo-Ranglistenfunktionen verwenden die neue Quelle.
+
+Vorhandene private Ergebnisse, Lernereignisse und alte Projektionszeilen werden nicht gelöscht oder nachträglich als servergeprüft ausgegeben. Frühere private Läufe bleiben mit ihrer bisherigen Regelversion getrennt sichtbar; die öffentliche Zeitrangliste beginnt mit serverbestätigten Läufen. Das ist eine neue Wertungsgrenze, keine Konvertierung alter Ergebnisse. Karriere-XP und normale Lernangaben bleiben vom Kontospielstand abgeleitet und sind dadurch nicht zu fälschungssicheren Wettkampfdaten geworden.
+
+`quiz_ranked_internal` ist für öffentliche, Gast- und Kontorollen gesperrt; Tabellen haben zusätzlich RLS ohne Clientfreigaben. Nur der kleine `SECURITY DEFINER`-RPC mit festem leerem Suchpfad ist für bestätigte Konten ausführbar. Er prüft Besitzer und delegiert an private Funktionen. Der Betreiber installiert Inhalte, niemals der Kontoclient. Erfolgreiche neue Mutationen sind auf 240 pro Kontominute, neue Starts auf zehn begrenzt; identische Wiederholungen nutzen ihren vorhandenen Beleg. Das ist eine einfache Kontobremse, kein allgemeiner Schutz gegen beliebig viele ungültige Anfragen oder viele Konten.
+
+## Datenmenge und Flüssigkeit
+
+- Eine kompakte Antwortanfrage bleibt im Browsertest unter **700 Bytes JSON** vor HTTP-/TLS-Overhead, unabhängig von den über 12.000 möglichen Fragen. Pool und Restfolge werden überhaupt nicht zum Browser übertragen.
+- Ein Aufruf startet und liefert die erste Frage. Danach je ein Aufruf für Antwort und nächste Frage; keine Heartbeats, laufenden Statusabfragen, WebSockets oder dauerhaften Gerätesperr-Pings.
+- Antworten werden im Serverlauf gespeichert. Der normale Kontospielstand bekommt am Ende beziehungsweise nach bewusstem Abbruch einmal gesammelt kompakte Antwortfakten und Ereignisse. Bereits erhaltene Auflösungen werden hierfür direkt aus dem RAM verwendet, nicht nochmals heruntergeladen.
+- Nach einer Unterbrechung lädt die Wiederherstellung höchstens 50 beantwortete Fakten pro Seite und höchstens 20 fehlende geschlossene Läufe pro Durchgang. Keine Fragetexte, Erklärungen oder zukünftigen Listen für den normalen Lernstandabgleich. Feste Runden-/Ereignis-IDs verhindern Doppelzählung.
+- Wiederholungsbelege speichern Ergebnisdaten und eine Referenz auf den unveränderlichen Fragensnapshot; keine zweite Kopie von Fragetext und Erklärung. Die private Warteschlange enthält IDs und wird nur beim Start/Mischzyklus geschrieben; pro Frage rückt ein kleiner Positionszähler vor, statt die große Liste erneut in der Datenbank zu schreiben. Der öffentliche Katalog für Lernen wird dadurch nicht kleiner.
+
+Die Serverpflicht fügt bewusst eine kleine Anfrage beim Fragenwechsel hinzu. Offline-Zeitspiele oder ein Rückfall auf clientseitig gewertete Läufe gibt es nicht. Der bestehende Revisionsschutz des privaten Lernspielstands bleibt bestehen; konkurrierende Lernstandänderungen müssen weiterhin neu geladen werden. Bestätigte Zeitresultate bleiben dabei auf dem Server erhalten.
+
+## Einführung und Grenzen
+
+SQL: `supabase/migrations/20261010102411_authoritative_ranked_runs.sql`. Betreiberbereitstellung: `npm run prepare:sync-catalog`, anschließend `npm run prepare:ranked-catalog`; erzeugt ausschließlich öffentliche Fragen in ignoriertem `tmp-sync/ranked-catalog/`. Für den aktuellen Bestand: 12.773 Fragen, 954 kleine SQL-Teile, Hash `e40f41921c37fa4cc4513d1e6e72f24df4c5fc484d0b8a54154f2bdb26090e99`. Schema und alle Inhaltsteile zuerst installieren, Vollständigkeit prüfen, erst dann `activate.sql` und danach die Oberfläche veröffentlichen. Für spätere Katalogversionen gilt derselbe Ablauf. Alte offene Oberflächen müssen neu geladen werden; es gibt keinen Übergangsweg, der alte Clientwertungen weiter öffentlich anerkennt. [Betriebsreihenfolge](Sites-Betrieb.md#vorbereitete-servergeprüfte-zeitrunden--10102026).
+
+HTTPS und bestehende Kontotrennung bleiben erhalten. **Der bereits öffentliche Fragenbestand einschließlich Lösungen bleibt lesbar.** Serversteuerung schützt unbekannte kommende Reihenfolge, Fristen und Wertung; externes Nachschlagen, automatisierte Lösungssuche oder Hilfe durch andere Personen verhindert sie nicht. Kein vollständig geheimer Wettbewerbskatalog und kein vollständiger Penetrationstest. Prüfnachweise und verbleibende Betriebsprüfung stehen im [Prüfbericht](Pruefbericht.md#10102026--servergeprüfte-zeitrunden).

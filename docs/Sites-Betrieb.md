@@ -1,5 +1,16 @@
 # Sites-Veröffentlichung
 
+## Vorbereitete servergeprüfte Zeitrunden – 10.10.2026
+
+Lokal implementiert, **nicht ausgerollt**. Vor einer ausdrücklich beauftragten Veröffentlichung des neuen Frontends die Backendvoraussetzungen vollständig einrichten; bestehende Projekt-ID, URL und öffentlichen Zugang erhalten. [Fachvertrag](Servergepruefte-Zeitrunden-2026-10-10.md).
+
+1. Ausstehenden allgemeinen Speicher-/Listenmigrationen in Dateireihenfolge folgen; danach `supabase/migrations/20261010102411_authoritative_ranked_runs.sql` anwenden. Die neuen Tabellen und Helfer bleiben im privaten Schema, nur `quiz_ranked_call(text)` wird für bestätigte Konten freigegeben. Öffentliche Solo-Zeitlisten verwenden ab dieser Migration ausschließlich abgeschlossene Serverläufe.
+2. Aktuellen offiziellen Sync-Katalog vorbereiten und regulär bereitstellen. `npm run prepare:ranked-catalog` erzeugt dazu ausschließlich öffentliche Inhalte unter ignoriertem `tmp-sync/ranked-catalog/`: `publication.json`, nummerierte SQL-Teile, `verify.sql`, `activate.sql`. Nur die exakt im Manifest genannte Anzahl nummerierter Teile installieren; keine pauschale Ausführung aller dort eventuell verbliebenen Dateien. Aktueller Bestand: 12.773 Fragen, 954 Teile, Hash `e40f41921c37fa4cc4513d1e6e72f24df4c5fc484d0b8a54154f2bdb26090e99`.
+3. `verify.sql` muss vollständige Anzahl und `complete=true` liefern. Erst dann `activate.sql` ausführen; es prüft die Vollständigkeit nochmals und setzt die einzige Betreiberfreigabe. Ein unvollständiger oder nur historisch installierter Katalog darf keine neuen Läufe starten. Bestehende aktive Läufe bleiben an ihre Ausgabe gebunden.
+4. Rollenrechte, Tabellenzugriff und die vier öffentlichen Solo-Ranglistenquellen nachprüfen; Supabase Security-/Performance-Advisors in einer verfügbaren Instanz ausführen. Den geprüften Frontendstand mit dem regulären Hostingablauf veröffentlichen. Synthetisch ersten Start, Antwort, Ende, Rangliste und zweites Gerät prüfen. Keine realen Konten zum Testspielen verwenden.
+
+Es gibt keinen Rückfall auf frühere clientseitig gewertete Zeitläufe. Alte offene Appfenster müssen neu geladen werden; die Umstellung kann ihre gewerteten Starts/Ergebnisse unterbrechen. Frühere private Ergebnisse und alte Projektionszeilen werden weder gelöscht noch als servergeprüft umgeschrieben. Die neue öffentliche Zeitwertung beginnt mit Serverläufen; Karriere-/Trainingsstatistik bleibt getrennt. Eine Katalogaktualisierung benötigt künftig auch die vollständige private Katalogbereitstellung und Aktivierung, bevor das dazugehörige Frontend live geht. Erzeugte Katalog-SQL-Dateien, Build-Artefakte und private Nutzerdaten nicht versionieren.
+
 ## Version 63: Genre-Icon und passende Antwortsymbole
 
 Am **10.10.2026 um 11:33:34 Uhr Europe/Berlin** erfolgreich veröffentlicht, nativ **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Exakter Quellcommit **1482de8e9ef563800d2be6c7ad722d2480635ea8**, Version **appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_1b3997617164819193008237bca18b17**, Deployment **appgdep_6aca065ac42481919b5654d38044899c**. Öffentlichen Zugang **public, Revision 2**, Adresse und private Online-Spielstände erhalten.

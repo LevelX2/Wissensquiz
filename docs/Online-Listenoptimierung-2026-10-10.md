@@ -4,6 +4,8 @@ Stand: 10.10.2026. Lokal umgesetzt, noch nicht in Supabase angewendet oder als W
 
 ## Verhalten
 
+**Nachfolgender Umbau am selben Tag:** Neue gewertete Solo-Zeitläufe verwenden jetzt den [servergeprüften Ablauf](Servergepruefte-Zeitrunden-2026-10-10.md). Dessen zukünftige Listen verlassen den Server überhaupt nicht mehr; normale Kontosicherungen erhalten nur geschlossene Antwortfakten. Die unten beschriebene Verdichtung bleibt Bestandteil des allgemeinen Speicherprotokolls, ist aber nicht mehr der aktive Antwortweg neuer Zeitläufe. Beide Änderungen noch nicht produktiv angewendet.
+
 `OnlineGameStore` verdichtet geänderte Endlosrunden vor der Paketserialisierung über `src/roundRunTransport.ts`:
 
 - Beim Start wird die vollständige Runde mit Fragenpool und tatsächlich gemischter Reihenfolge gespeichert.

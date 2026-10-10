@@ -20,13 +20,20 @@ test("große Zeitrunde überträgt keine wiederholten Listen und erhält Antwort
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".answer").first()).toBeEnabled();
   const initial = (await readStoredState(page)).rounds.at(-1)!;
-  expect(initial.run!.pool.length).toBeGreaterThan(10000);
+  expect(initial.run).toMatchObject({ pool: [], queue: [] });
+  const backend = accountBackend(page);
+  const privatePool = await backend.admin(() =>
+    backend.db.query<{ n: number }>(
+      "select jsonb_array_length(queue) as n from quiz_ranked_internal.runs where id=$1",
+      [initial.id.replace("ranked-", "")],
+    ),
+  );
+  expect(privatePool.rows[0].n).toBeGreaterThan(10000);
   const q = initial.questions[0];
   await expect(page.locator("h1[data-question-id]")).toHaveAttribute(
     "data-question-id",
     q.id,
   );
-  const backend = accountBackend(page);
   backend.api.calls.length = 0;
   await page
     .locator(".answer")
@@ -37,24 +44,23 @@ test("große Zeitrunde überträgt keine wiederholten Listen und erhält Antwort
     })
     .click();
   await expect(page.locator(".feedback")).toBeVisible();
-  const writes = backend.api.calls.filter((c) => c.name === "quiz_sync_apply");
+  const writes = backend.api.calls.filter((c) => c.name === "quiz_ranked_call");
   expect(writes).toHaveLength(1);
-  expect(Buffer.byteLength(JSON.stringify(writes[0].args))).toBeLessThan(15000);
-  const packet = JSON.parse(writes[0].args.packet_text as string);
-  const change = packet.changes.find(
-    (c: { op: string }) => c.op === "round-run",
-  );
-  expect(change.queue).toEqual({ drop: 1 });
-  expect(change.row.value.run).not.toHaveProperty("pool");
-  expect(change.row.value.run).not.toHaveProperty("queue");
+  expect(Buffer.byteLength(JSON.stringify(writes[0].args))).toBeLessThan(1000);
+  const packet = JSON.parse(writes[0].args.request_text as string);
+  expect(packet.action).toBe("answer");
+  expect(packet).not.toHaveProperty("pool");
+  expect(packet).not.toHaveProperty("queue");
+  expect(packet).not.toHaveProperty("elapsedMs");
+  expect(
+    backend.api.calls.filter((c) => c.name === "quiz_sync_apply"),
+  ).toHaveLength(0);
   const saved = await readStoredState(page);
-  expect(saved.rounds.at(-1)!.run!.queue).toEqual(initial.run!.queue.slice(1));
+  expect(saved.rounds.at(-1)!.run).toMatchObject({ pool: [], queue: [] });
   await page.reload();
-  // Existing timed-mode rule: reloading aborts and archives the active run.
-  await expect
-    .poll(async () => (await readStoredState(page)).rounds.at(-1)!.status)
-    .toBe("aborted");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const reloaded = await readStoredState(page);
+  expect(reloaded.rounds.at(-1)!.status).toBe("active");
   expect(reloaded.events).toEqual(saved.events);
   expect(reloaded.learning).toEqual(saved.learning);
   expect(reloaded.rounds.at(-1)!.run).toMatchObject({ pool: [], queue: [] });

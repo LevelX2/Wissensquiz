@@ -12,6 +12,7 @@ import {
   bankAfterAnswer,
   eventIdFor,
   runRule,
+  isServerRun,
 } from "./recordModes";
 export function validateBackup(value: unknown): State {
   const s = stateSchema.parse(value) as State;
@@ -78,13 +79,16 @@ export function validateBackup(value: unknown): State {
     if (
       r.recordPreset &&
       (!isRecordMode(r.mode) ||
-        (r.run && r.ruleVersion !== runRule(r.mode, r.recordPreset)))
+        (r.run &&
+          r.ruleVersion !== runRule(r.mode, r.recordPreset) &&
+          !isServerRun(r)))
     )
       throw new Error("Ungültiger Rekordmodus.");
     if (
       r.recordPreset &&
       r.ruleVersion !== runRule(r.mode, r.recordPreset) &&
-      r.ruleVersion !== runRule(r.mode, r.recordPreset) + ".L"
+      r.ruleVersion !== runRule(r.mode, r.recordPreset) + ".L" &&
+      !isServerRun(r)
     )
       throw new Error("Ungültige Rekordregel.");
     if (r.run && !r.archive) {
@@ -223,7 +227,13 @@ export function validateBackup(value: unknown): State {
         r.run.ended !== ended ||
         (r.status === "completed" && !ended) ||
         (ended && r.events.length !== facts.length) ||
-        (!ended && facts.length !== r.events.length + 1)
+        (!ended &&
+          facts.length !== r.events.length + 1 &&
+          !(
+            isServerRun(r) &&
+            r.status === "aborted" &&
+            facts.length === r.events.length
+          ))
       )
         throw new Error("Inkonsistenter Zeitvorrat oder Laufabschluss.");
     }

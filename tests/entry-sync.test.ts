@@ -816,7 +816,8 @@ it("synchronisiert lange Rekordläufe und zählt wiederholte Wissensziele pro An
       [category],
     )
   ).rows;
-  expect(publicRun).toEqual([{ points: 1896, experience: saved.experience }]);
+  // Client-authored training history remains private; it is no server proof.
+  expect(publicRun).toEqual([]);
   sync.stop();
   const reopened = engine();
   await reopened.prepare();

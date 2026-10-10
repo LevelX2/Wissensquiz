@@ -4,6 +4,7 @@ import {
   DEFAULT_ANSWER_REVEAL_MS,
   hasAnswer,
   type AnswerChoice,
+  type Question,
   type Round,
   type State,
 } from "./model";
@@ -51,6 +52,8 @@ export function QuestionScreen({
   onGuessed,
   onGuess,
   onCompleted,
+  hasNext,
+  presentationQuestion,
 }: {
   round: Round;
   index: number;
@@ -65,9 +68,20 @@ export function QuestionScreen({
   onGuessed?: boolean;
   onGuess?: () => void;
   onCompleted?: (saved: State) => void;
+  hasNext?: boolean;
+  presentationQuestion?: Question;
 }) {
   const q = round.questions[index];
   const event = state.events.find((e) => e.id === round.events[index]);
+  // Existing public editorial text/images are presentation only. The answer
+  // and all scoring still use the server-issued question and response.
+  const displayQ =
+    !event &&
+    presentationQuestion?.id === q.id &&
+    presentationQuestion.version === q.version &&
+    presentationQuestion.question === q.question
+      ? presentationQuestion
+      : q;
   const collected =
     round.solutionDisplay === "round" &&
     (!!round.duel || allowsSolutionChoice(round.mode));
@@ -396,21 +410,21 @@ export function QuestionScreen({
                 className="question-genre"
                 role="img"
                 aria-label={
-                  questionSourceOf(q) === "film"
-                    ? genreLabel(genreOf(q))
-                    : sourceLabels[questionSourceOf(q)]
+                  questionSourceOf(displayQ) === "film"
+                    ? genreLabel(genreOf(displayQ))
+                    : sourceLabels[questionSourceOf(displayQ)]
                 }
                 title={
-                  questionSourceOf(q) === "film"
-                    ? genreLabel(genreOf(q))
-                    : sourceLabels[questionSourceOf(q)]
+                  questionSourceOf(displayQ) === "film"
+                    ? genreLabel(genreOf(displayQ))
+                    : sourceLabels[questionSourceOf(displayQ)]
                 }
               >
                 <GenreArtwork
                   genre={
-                    questionSourceOf(q) === "film"
-                      ? genreOf(q)
-                      : sourceLabels[questionSourceOf(q)]
+                    questionSourceOf(displayQ) === "film"
+                      ? genreOf(displayQ)
+                      : sourceLabels[questionSourceOf(displayQ)]
                   }
                   compact
                 />
@@ -432,7 +446,7 @@ export function QuestionScreen({
         </div>
         <h1 data-question-id={q.id}>
           {(() => {
-            const parts = questionTitleParts(q);
+            const parts = questionTitleParts(displayQ);
             return parts ? (
               <>
                 {parts.before}
@@ -440,13 +454,13 @@ export function QuestionScreen({
                 {parts.after}
               </>
             ) : (
-              presentedQuestion(q)
+              presentedQuestion(displayQ)
             );
           })()}
         </h1>
         {!event && (
           <ActorPortrait
-            q={q}
+            q={displayQ}
             beforeAnswer
             selectionKey={eventIdFor(round, index)}
           />
@@ -581,9 +595,9 @@ export function QuestionScreen({
               disabled={busy}
               onClick={onNext}
             >
-              {index === round.questions.length - 1
-                ? "Runde abschließen"
-                : "Nächste Frage"}{" "}
+              {(hasNext ?? index < round.questions.length - 1)
+                ? "Nächste Frage"
+                : "Runde abschließen"}{" "}
               →
             </button>
           </div>

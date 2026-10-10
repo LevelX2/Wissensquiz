@@ -61,6 +61,13 @@ import { PageBoundary } from "./PageBoundary";
 import { ReleaseInfo } from "./ReleaseInfo";
 import { IssueReportForm } from "./IssueReportForm";
 import { archiveClosedRounds } from "./roundArchive";
+import { RankedGame } from "./RankedGame";
+import {
+  RankedSession,
+  rankedRound,
+  importRankedHistory,
+  type RankedSetup,
+} from "./rankedRuns";
 
 const Leaderboard = lazy(() =>
   import("./RecordLeaderboard").then((m) => ({ default: m.Leaderboard })),
@@ -119,6 +126,10 @@ export function App({
     useState<LeaderboardTarget>();
   const [duelPlaying, setDuelPlaying] = useState(false);
   const [index, setIndex] = useState(0);
+  const [ranked, setRanked] = useState<{
+    session: RankedSession;
+    setup: RankedSetup;
+  } | null>(null);
   const [celebration, setCelebration] = useState<{
     roundId: string;
     unlocks: PathUnlock[];
@@ -245,6 +256,31 @@ export function App({
     }
   };
   const nav = async (next: Page | DuelPage, target?: LeaderboardTarget) => {
+    if (busy) return;
+    if (ranked) {
+      if (ranked.session.isWriting) return;
+      try {
+        await ranked.session.abort();
+        await store.retry();
+        const session = ranked.session;
+        const saved =
+          session.run && session.items.length
+            ? await store.update(
+                (s) =>
+                  importRankedHistory(s, {
+                    run: session.run!,
+                    items: session.items,
+                  }),
+                { progressOnly: false, reuseCatalog: true },
+              )
+            : store.read();
+        setState(saved);
+        setRanked(null);
+      } catch (e) {
+        setError(e instanceof Error ? e.message : String(e));
+        return;
+      }
+    }
     if (page === "result" || page === "duels") {
       const saved = await mutate(archiveClosedRounds, {
         progressOnly: false,
@@ -426,6 +462,7 @@ export function App({
       if (isRecordMode(requestedMode)) s.settings.lastTimedMode = requestedMode;
       else s.settings.lastLearningMode = requestedMode;
       s.settings.spoilers = true;
+      if (isRecordMode(requestedMode)) return;
       id = startRound(s, {
         mode: requestedMode,
         topic: roundTopic,
@@ -448,6 +485,22 @@ export function App({
     });
     if (next) {
       playFeedback("start", next.settings);
+      if (isRecordMode(requestedMode)) {
+        setRanked({
+          session: new RankedSession(
+            store.rankedRemote(),
+            store.rankedCatalogHash(),
+          ),
+          setup: {
+            mode: requestedMode,
+            preset: recordPreset,
+            genre: recordGenre,
+            solutionDisplay: next.settings.solutionDisplay ?? "question",
+          },
+        });
+        setPage("round");
+        return;
+      }
       setRoundId(id);
       setIndex(0);
       setPage("round");
@@ -567,8 +620,27 @@ export function App({
           {error && (
             <div role="alert" className="notice error">
               {error}
-              {sync?.status === "offline" && (
-                <button onClick={sync.retry}>Erneut versuchen</button>
+              {ranked?.session.hasPending ? (
+                <button
+                  disabled={busy}
+                  onClick={async () => {
+                    setBusy(true);
+                    try {
+                      await ranked.session.retry();
+                      setError("");
+                    } catch (e) {
+                      setError(e instanceof Error ? e.message : String(e));
+                    } finally {
+                      setBusy(false);
+                    }
+                  }}
+                >
+                  Erneut versuchen
+                </button>
+              ) : (
+                sync?.status === "offline" && (
+                  <button onClick={sync.retry}>Erneut versuchen</button>
+                )
               )}
             </div>
           )}
@@ -637,7 +709,42 @@ export function App({
                   />
                 </>
               )}
-              {page === "round" && current && (
+              {page === "round" && ranked && (
+                <RankedGame
+                  session={ranked.session}
+                  setup={ranked.setup}
+                  store={store}
+                  state={state}
+                  mutate={mutate}
+                  onBusy={setBusy}
+                  onExit={() => void nav("home")}
+                  onFinish={async () => {
+                    const session = ranked.session;
+                    if (!session.run) return;
+                    const review = rankedRound({
+                      run: session.run,
+                      items: session.items,
+                    });
+                    await store.retry();
+                    const saved = await store.update(
+                      (s) =>
+                        importRankedHistory(s, {
+                          run: session.run!,
+                          items: session.items,
+                        }),
+                      { progressOnly: false, reuseCatalog: true },
+                    );
+                    setState(saved);
+                    setRoundId(review.id);
+                    setJustCompleted(review.id);
+                    immediateResult.current = review;
+                    setRanked(null);
+                    playFeedback("complete", saved.settings);
+                    setPage("result");
+                  }}
+                />
+              )}
+              {page === "round" && !ranked && current && (
                 <QuestionScreen
                   key={`${current.id}:${index}`}
                   round={current}

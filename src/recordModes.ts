@@ -42,13 +42,20 @@ export const eventIdFor = (round: Round, index: number) =>
   `${round.id}:${round.questions[index].knowledgeId}${round.run ? `:${index}` : ""}`;
 export const runRule = (mode: Mode, preset: "standard" | "genre" | "custom") =>
   `solo-v1.${mode}.${preset}`;
+export const serverRunRule = (
+  mode: Mode,
+  preset: "standard" | "genre" | "custom",
+) => `solo-server-v1.${mode}.${preset}`;
+export const isServerRun = (round: Round) =>
+  !!round.recordPreset &&
+  round.ruleVersion === serverRunRule(round.mode, round.recordPreset);
 export const isRankedRecord = (round: Round) => {
   const preset = round.recordPreset,
     filters = round.filters;
   return (
     isRecordMode(round.mode) &&
     (preset === "standard" || preset === "genre") &&
-    round.ruleVersion === runRule(round.mode, preset) &&
+    (round.ruleVersion === runRule(round.mode, preset) || isServerRun(round)) &&
     round.topic === "Alle Themen" &&
     !!filters &&
     JSON.stringify([...filters.difficulties].sort()) ===

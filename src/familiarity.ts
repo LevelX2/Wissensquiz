@@ -42,6 +42,8 @@ export function selectionRule(
     .join(",")}`;
 }
 export function ruleLabel(version: string): string {
+  if (version.startsWith("solo-server-v1."))
+    return `Serverwertung 1 · ${version.endsWith(".genre") ? "Genre-Rekord · " : ""}Standardmix 3 / 4 / 3`;
   if (version.endsWith(".L"))
     return `${ruleLabel(version.slice(0, -2))} · Lösungen nach der Runde`;
   if (version.startsWith("solo-v1."))

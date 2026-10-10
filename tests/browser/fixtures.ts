@@ -1,7 +1,18 @@
 import { test as base, type BrowserContext, type Page } from "@playwright/test";
 import { readFileSync } from "node:fs";
 import type { State } from "../../src/model";
-import { verifyRelease, type PreparedRelease } from "../../src/syncCodec";
+import {
+  verifyRelease,
+  reconstructState,
+  type PreparedRelease,
+} from "../../src/syncCodec";
+import { getMetadata, downloadDocument } from "../../src/entryRemote";
+import {
+  rankedRound,
+  type RankedSummary,
+  type RankedItem,
+} from "../../src/rankedRuns";
+import { rebuild } from "../../src/engine";
 import { OnlineGameStore } from "../../src/onlineGameStore";
 import { syncFixture } from "../helpers/sync-fixture";
 export { expect, chromium, type Page } from "@playwright/test";
@@ -102,7 +113,16 @@ export async function createAccountBackend() {
     JSON.parse(readFileSync("tmp-sync/catalog/release.json", "utf8")),
   ));
   await fixture.seed(release);
-  return { ...fixture, api, release, close: () => fixture.db.close() };
+  let rankedReady: Promise<void> | undefined;
+  const ensureRanked = () => (rankedReady ??= fixture.seedRanked(release));
+  return {
+    ...fixture,
+    api,
+    release,
+    ensureRanked,
+    serverTime: undefined as number | undefined,
+    close: () => fixture.db.close(),
+  };
 }
 export type AccountBackend = Awaited<ReturnType<typeof createAccountBackend>>;
 const backends = new WeakMap<BrowserContext, AccountBackend>();
@@ -134,8 +154,19 @@ export async function isolateAccountService(
     if (path.endsWith("/logout")) return route.fulfill({ json: {} });
     if (path.endsWith("/quiz_saves")) return route.fulfill({ json: [] });
     const name = path.split("/").at(-1)!;
-    if (!name.startsWith("quiz_sync_")) return route.fulfill({ json: [] });
+    if (!name.startsWith("quiz_sync_") && name !== "quiz_ranked_call")
+      return route.fulfill({ json: [] });
     try {
+      if (name === "quiz_ranked_call") {
+        await backend.ensureRanked();
+        backend.api.clockAt(
+          backend.serverTime ??
+            (await route
+              .request()
+              .frame()
+              .evaluate(() => Date.now())),
+        );
+      }
       return route.fulfill({ json: await backend.api.call(name, body) });
     } catch (error) {
       if (/Bestätigung verloren|Offlinephase/.test((error as Error).message))
@@ -168,16 +199,46 @@ export async function readStoredState(
   page: Page,
   _key?: string,
 ): Promise<State> {
-  const { api, release } = accountBackend(page);
-  const store = new OnlineGameStore(
+  const { api, release, db, admin } = accountBackend(page);
+  const metadata = await getMetadata(api, testOwner);
+  const downloaded = await downloadDocument(
     api,
     testOwner,
-    async () => release,
-    async () => null,
+    metadata.generation!,
+    metadata.revision,
   );
-  await store.open();
-  const state = store.read();
-  store.stop();
+  const state = reconstructState(downloaded.document, [
+    release,
+    ...downloaded.catalogs,
+  ]);
+  // Read authoritative server histories without triggering any recovery write.
+  // This admin visibility exists only in the synthetic test server.
+  await admin(async () => {
+    const runs = await db.query<{ run: RankedSummary }>(
+      "select quiz_ranked_internal.summary(r) as run from quiz_ranked_internal.runs r where owner_id=$1 order by created_at",
+      [testOwner],
+    );
+    for (const { run } of runs.rows) {
+      if (state.rounds.some((r) => r.id === `ranked-${run.id}`)) continue;
+      const rows = await db.query<{
+        question: RankedItem["question"];
+        order: string[];
+        event: RankedItem["event"] | null;
+      }>(
+        'select question,answer_order as "order",event from quiz_ranked_internal.questions where run_id=$1 order by index',
+        [run.id],
+      );
+      const answered = rows.rows.filter(
+        (i): i is RankedItem => i.event !== null,
+      );
+      const round = rankedRound({ run, items: answered });
+      round.questions = rows.rows.map((i) => i.question);
+      round.order = rows.rows.map((i) => i.order);
+      state.rounds.push(round);
+      state.events.push(...answered.map((i) => i.event));
+    }
+  });
+  rebuild(state);
   return state;
 }
 export async function writeStoredState(page: Page, state: State) {

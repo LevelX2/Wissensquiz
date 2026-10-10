@@ -6,6 +6,10 @@ Aktueller Nutzerauftrag: Eine erste Zehnerrunde ohne Konto ausprobieren; danach 
 
 Der frühere Auftrag zur Anmeldung vor jedem Spiel ist seit Sites-Version 59 veröffentlicht. Die hier beschriebene einzelne Proberunde ist lokal umgesetzt und noch nicht veröffentlicht. Sie ersetzt die Anmeldung vor der ersten Runde, eröffnet aber keinen dauerhaften Gastmodus. [Früherer Auftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Anmeldung%20und%20Online-Spielstand.txt), [Veröffentlichungsnachweis Version 59](Veroeffentlichung-2026-10-10-Version-59.json). Öffentlicher Sites-Zugang ohne vorgeschaltete ChatGPT-Anmeldung bleibt erhalten.
 
+## Servergeprüfte Zeitrunden und weitere Geräte
+
+Ergänzung für Kontospiele: [Servergeprüfte Zeitrunden](Servergepruefte-Zeitrunden-2026-10-10.md) sind lokal umgesetzt, noch nicht veröffentlicht. Genau ein aktiver Solo-Zeitlauf pro Konto, gebunden an die Sitzung im offenen Tab; Öffnen eines zweiten Geräts beendet ihn nicht. Neuladen ermöglicht weder Fortsetzen noch Zeitneustart. Bewusstes Beenden des bestehenden Laufs ist vor einem neuen Start erforderlich. Antworten werden sofort autoritativ online gesichert, der kompakte private Lernstand am Ende oder Abbruch gesammelt abgeglichen; geschlossene fehlende Antworten lassen sich beim nächsten Öffnen einmalig wiederherstellen. Normale Lernrunden behalten Revisionsprüfung und explizites Neuladen bei Gerätekonflikten. Die Proberunde bleibt ohne Zeitwertung.
+
 ## Einmalige Proberunde
 
 - Einstieg „Eine Runde ausprobieren“ neben Anmeldung und Kontoanlage. Vor dem Start klare Ankündigung: zehn Fragen ohne Konto, danach kostenloses Konto erforderlich.

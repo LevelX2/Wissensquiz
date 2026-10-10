@@ -23,6 +23,13 @@ import {
   type SyncConfirmation,
   type SyncMetadata,
 } from "./entryRemote";
+import {
+  importRankedFacts,
+  rankedFacts,
+  rankedRead,
+  type RankedFacts,
+} from "./rankedRuns";
+import { z } from "zod";
 
 // Only the server persists progress. These objects live in this open tab's RAM.
 export class OnlineGameStore {
@@ -72,6 +79,33 @@ export class OnlineGameStore {
     if (this.stopped || !this.state)
       throw new Error("Der Online-Spielstand ist nicht geöffnet.");
     return this.copy(this.state);
+  }
+  rankedRemote() {
+    if (this.stopped) throw new Error("Das Konto wurde geschlossen.");
+    return this.api;
+  }
+  rankedCatalogHash() {
+    if (!this.catalogs.length)
+      throw new Error("Der offizielle Fragenbestand fehlt.");
+    return this.catalogs[0].hash;
+  }
+  async recoverRanked() {
+    for (;;) {
+      const ids = await rankedRead(
+        this.api,
+        { action: "pending" },
+        z.array(z.string().uuid()).max(20),
+      );
+      if (!ids.length) return this.read();
+      const histories: RankedFacts[] = [];
+      for (const id of ids) histories.push(await rankedFacts(this.api, id));
+      await this.update(
+        (s) => {
+          for (const history of histories) importRankedFacts(s, history);
+        },
+        { progressOnly: false, reuseCatalog: true },
+      );
+    }
   }
   private copy(state: State) {
     const { questions, rounds, ...progress } = state;
@@ -126,6 +160,7 @@ export class OnlineGameStore {
     this.metadata = metadata;
     this.document = loaded.document;
     this.state = this.copy(reconstructState(loaded.document, this.catalogs));
+    await this.recoverRanked();
     this.notify("saved", Date.now());
   }
   private async activate(

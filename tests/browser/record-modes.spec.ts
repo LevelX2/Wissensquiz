@@ -94,7 +94,9 @@ for (const mode of [
         ? 2
         : mode === "Zeitkonto"
           ? 4
-          : (await readStoredState(page)).rounds.at(-1)!.questions.length;
+          : mode === "10 Fragen"
+            ? 10
+            : (await readStoredState(page)).rounds.at(-1)!.questions.length;
     for (let i = 0; i < count; i++) {
       await readyQuestion(page);
       const s = await readStoredState(page),
@@ -306,7 +308,7 @@ test("Zeitkonto verbraucht Antwortzeit, pausiert Erklärungen und beendet den La
     page.getByRole("heading", { name: "Eine Runde weiter." }),
   ).toBeVisible();
 });
-test("Gruppen merken Varianten, Standardmix ist fest und laufende Endlosspiele werden bei Neuladen abgebrochen", async ({
+test("Gruppen merken Varianten, Standardmix ist fest und Neuladen beendet fremde Zeitläufe nicht", async ({
   page,
 }) => {
   await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
@@ -345,7 +347,22 @@ test("Gruppen merken Varianten, Standardmix ist fest und laufende Endlosspiele w
   await page.reload();
   await expect
     .poll(async () => (await readStoredState(page)).rounds.at(-1)!.status)
-    .toBe("aborted");
+    .toBe("active");
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(
+    page.getByRole("button", {
+      name: "Bestehende Zeitrunde beenden und neu starten",
+    }),
+  ).toBeVisible();
+  expect((await readStoredState(page)).rounds.at(-1)!.status).toBe("active");
+  await page
+    .getByRole("button", {
+      name: "Bestehende Zeitrunde beenden und neu starten",
+    })
+    .click();
+  await readyQuestion(page);
+  expect((await readStoredState(page)).rounds.at(-2)!.status).toBe("aborted");
+  await page.getByRole("button", { name: /Runde beenden$/ }).click();
   await page.clock.resume();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await page.getByRole("button", { name: "Zeitkonto", exact: true }).click();

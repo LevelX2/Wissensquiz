@@ -2,6 +2,7 @@ import type { SupabaseClient } from "@supabase/supabase-js";
 import { z } from "zod";
 import { requestWithin } from "./request";
 import { CloudConflict, CloudSaveError } from "./accounts";
+import { RankedRunError, rankedMessages } from "./rankedErrors";
 import { objectHashes, releaseHashes } from "./syncReferences";
 const releaseCache = new WeakMap<SyncRemote, Map<string, PreparedRelease>>();
 import {
@@ -64,6 +65,11 @@ export class SupabaseEntryRemote implements SyncRemote {
             .rpc(name, args)
             .abortSignal(signal);
           if (error) {
+            const rankedCode = Object.keys(rankedMessages).find((key) =>
+              error.message.includes(key),
+            );
+            if (name === "quiz_ranked_call" && rankedCode)
+              throw new RankedRunError(rankedCode);
             if (error.code === "PGRST202" || error.code === "42883")
               throw new MissingSyncProtocol();
             if (/revision_conflict|generation_mismatch/.test(error.message))

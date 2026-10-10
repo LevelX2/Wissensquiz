@@ -21,12 +21,25 @@ export async function syncFixture(stopBefore?: string) {
     .sort()
     .filter((file) => !stopBefore || file < stopBefore))
     await db.exec(readFileSync(`supabase/migrations/${file}`, "utf8"));
+  // Test-only clock in the isolated DB. Production has no client clock input.
+  if (!stopBefore) {
+    await db.exec(`create function quiz_ranked_internal.test_clock() returns timestamptz language sql volatile as $$
+      select coalesce(to_timestamp(nullif(current_setting('quiz.test_now',true),'')::double precision/1000),clock_timestamp())$$;
+      do $patch$declare f record;begin
+        for f in select p.oid::regprocedure as name from pg_proc p join pg_namespace n on n.oid=p.pronamespace where n.nspname='quiz_ranked_internal' and p.proname<>'test_clock'
+        loop execute replace(pg_get_functiondef(f.name),'clock_timestamp()','quiz_ranked_internal.test_clock()');end loop;
+      end$patch$;
+      alter table quiz_ranked_internal.runs alter column created_at set default quiz_ranked_internal.test_clock();
+      alter table quiz_ranked_internal.runs alter column touched_at set default quiz_ranked_internal.test_clock();
+      revoke all on function quiz_ranked_internal.test_clock() from public,anon,authenticated;`);
+  }
   const argumentsByName: Record<string, string[]> = {};
   argumentsByName.quiz_save_state = [
     "payload",
     "expected_revision",
     "expected_owner",
   ];
+  argumentsByName.quiz_ranked_call = ["request_text"];
   for (const file of readdirSync("supabase/migrations")
     .filter((f) => f.endsWith(".sql"))
     .sort()) {
@@ -71,6 +84,19 @@ export async function syncFixture(stopBefore?: string) {
       ],
     );
   }
+  async function seedRanked(release: PreparedRelease) {
+    await db.query(
+      `insert into quiz_ranked_internal.catalog(release_hash,id,knowledge_id,difficulty,genre,source,question)
+      select $1,q->>'id',q->>'knowledgeId',q->>'difficulty',coalesce(nullif(q->'metadata'->>'subdomain',''),q->>'domain'),
+        case when q->'metadata' ? 'person_id' then 'actors' when q->'tags' ? 'Preisträger' then 'awards' else 'film' end,q
+      from jsonb_array_elements($2::jsonb) q on conflict do nothing`,
+      [release.hash, JSON.stringify(release.questions)],
+    );
+    await db.query(
+      "insert into quiz_ranked_internal.config values(true,$1) on conflict(id) do update set release_hash=excluded.release_hash",
+      [release.hash],
+    );
+  }
   async function client(owner = crypto.randomUUID()) {
     await db.query(
       'insert into auth.users values($1,now(),false,\'{"display_name":"Synthetischer Spieler"}\') on conflict do nothing',
@@ -82,11 +108,13 @@ export async function syncFixture(stopBefore?: string) {
       hook:
         | ((name: string, args: Record<string, unknown>) => Promise<void>)
         | undefined;
+    let testTime: number | undefined;
     const api: SyncRemote & {
       calls: typeof calls;
       lost(name: string): void;
       unavailable(name: string): void;
       hook(fn: typeof hook): void;
+      clockAt(time: number | undefined): void;
     } = {
       calls,
       lost(name) {
@@ -97,6 +125,9 @@ export async function syncFixture(stopBefore?: string) {
       },
       hook(fn) {
         hook = fn;
+      },
+      clockAt(time) {
+        testTime = time;
       },
       stop() {},
       async call<T>(name: string, args: Record<string, unknown>) {
@@ -112,6 +143,9 @@ export async function syncFixture(stopBefore?: string) {
             "select set_config('request.jwt.claim.sub',$1,false)",
             [owner],
           );
+          await db.query("select set_config('quiz.test_now',$1,false)", [
+            testTime === undefined ? "" : String(testTime),
+          ]);
           try {
             const keys = argumentsByName[name];
             if (!keys) throw new Error(`Unbekannte Test-RPC ${name}`);
@@ -146,5 +180,10 @@ export async function syncFixture(stopBefore?: string) {
     };
     return { owner, api };
   }
-  return { db, seed, client };
+  const admin = <T>(fn: () => Promise<T>) =>
+    serial(async () => {
+      await db.exec("reset role");
+      return fn();
+    });
+  return { db, seed, seedRanked, client, admin };
 }
