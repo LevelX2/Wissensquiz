@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Neu oder Wiederholung mit Anzahl schon vor der Antwort; eigener Optionsschalter – 10.10.2026](../../../docs/Lernregeln.md#kompakte-antwortansicht--10102026)
+
 - [Fällige Wiederholungen gegenüber offenen Fehlern; reine Wiederholung oder Mischung und vier Lernintervalle – 10.10.2026](../../../docs/Wiederholungen-und-Lernstufen-2026-10-10.md)
 
 - [Kompakte Erklärung ausschließlich zum gewählten Spielmodus – 10.10.2026](../../../docs/Hilfe-und-Navigation.md#erklärung-zum-gewählten-spielmodus--10102026)

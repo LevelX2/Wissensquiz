@@ -81,7 +81,9 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     await expect(stats.locator("summary")).toContainText(
       "2 richtig · 1 falsch",
     );
-    await expect(stats.locator(".question-new")).toHaveCount(0);
+    await expect(page.locator(".question-status")).toHaveText(
+      "Wiederholung · 4×",
+    );
     await stats.locator("summary").click();
     await expect(stats).toContainText("Ohne Antwort (Zeit abgelaufen): 1");
     await expect(stats.locator(".goal-history")).toContainText(

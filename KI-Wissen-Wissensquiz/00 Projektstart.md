@@ -12,6 +12,8 @@ Stand: 10.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- Lokal am 10.10.2026 den Fragenstatus vorgezogen: kleines „Neu“ beziehungsweise „Wiederholung · N×“ neben Genre und Schwierigkeit, vor und nach der Antwort stabil. Eigener Optionsschalter, unabhängig von der ausführlichen Fragenstatistik; Zählung früherer Antwortereignisse je Frage-ID, keine Speicherung bloßer Sichtkontakte. [Anzeige und Zählvertrag](../docs/Lernregeln.md#kompakte-antwortansicht--10102026).
+
 - Lokal am 10.10.2026 fällige Festigungswiederholungen und offene Fehler verständlich getrennt. Filmreise bietet reine fällige Wiederholungen oder eine Mischung mit neuen Zielen; fällige Ziele werden nicht mehr durch den neuen Bestand verdrängt. Vier Lernintervalle in der Hilfe erläutert. Noch nicht veröffentlicht. [Auswahl, Lernstufen und Grenzen](../docs/Wiederholungen-und-Lernstufen-2026-10-10.md).
 
 - Lokal am 10.10.2026 Zusatztexte falscher Antworten auf eigenständigen Erkenntniswert begrenzt: bekannte Verneinungsformeln und Lösungswiederholungen entfallen, konkrete Einordnungen bleiben erhalten. Gemeldete „Tron: Legacy“-Texte zu Helm, Brille und Uhr entfallen. Vollständiger Katalog technisch gesichtet; keine vollständige neue Faktenprüfung individueller Antworttexte. [Redaktionsmaßstab und Grenzen](../docs/Fragenredaktion.md#falsche-antworten-sinnvoll-einordnen--10102026).

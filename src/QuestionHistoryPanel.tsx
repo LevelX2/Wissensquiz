@@ -4,27 +4,14 @@ import { questionHistory } from "./questionHistory";
 export function QuestionHistory({
   events,
   question,
-  currentEventId,
 }: {
   events: AnswerEvent[];
   question: Question;
-  currentEventId?: string;
 }) {
   const stats = questionHistory(events, question);
-  const isNew = !events.some(
-    (event) => event.questionId === question.id && event.id !== currentEventId,
-  );
   return (
     <details className="question-history">
       <summary>
-        {isNew && (
-          <span
-            className="question-new"
-            title="Noch keine frühere Antwort auf diese Frage"
-          >
-            Neu
-          </span>
-        )}
         <span>Diese Frage: {stats.question.answered}× beantwortet</span>{" "}
         <span>
           {stats.question.correct} richtig · {stats.question.wrong} falsch

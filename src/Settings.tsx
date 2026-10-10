@@ -164,15 +164,20 @@ export function Settings({
       <section className="settings-panel">
         <h2>Hinweise an der Frage</h2>
         <p>
-          Bei gemischten Runden zeigen diese Hinweise das Genre und die
-          Schwierigkeit der aktuellen Frage. Du kannst beide unabhängig
-          ausblenden.
+          Genre, Schwierigkeit und „Neu“ oder „Wiederholung“ stehen schon vor
+          der Antwort an der Frage. Du kannst die Hinweise unabhängig
+          ausblenden. Die Zahl bei „Wiederholung“ zählt frühere Antworten auf
+          genau diese Frage, einschließlich Zeitablauf.
         </p>
         <div className="filter-options">
           {(
             [
               { key: "showGenre", label: "Genre anzeigen" },
               { key: "showDifficulty", label: "Schwierigkeit anzeigen" },
+              {
+                key: "showQuestionStatus",
+                label: "Neu / Wiederholung anzeigen",
+              },
             ] as const
           ).map(({ key, label }) => (
             <label key={key} className="filter-choice">

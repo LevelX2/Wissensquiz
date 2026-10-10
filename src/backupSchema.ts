@@ -165,6 +165,7 @@ export const stateSchema = z.object({
     haptics: z.boolean().optional(),
     showGenre: z.boolean().optional(),
     showDifficulty: z.boolean().optional(),
+    showQuestionStatus: z.boolean().optional(),
     questionHistory: z.enum(["after", "always", "hidden"]).optional(),
     solutionDisplay: z.enum(["question", "round"]).optional(),
     answerRevealMs: z

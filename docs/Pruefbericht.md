@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 10.10.2026 – Neu und Wiederholung schon vor der Antwort
+
+Kleiner Fragenstatus neben Genre und Schwierigkeit, vor und nach der Antwort: „Neu“ ohne frühere Antwortereignisse, sonst „Wiederholung · N×“. Konkrete Frage-ID, einschließlich falscher Antworten, „Keine Ahnung“ und Zeitablauf; aktuelle Antwort ausgeschlossen, innerhalb der Begegnung und beim Neuladen stabil. Keine zusätzliche Speicherung bloßer Sichtkontakte. Frühere doppelte Neu-Anzeige in der Fragenstatistik entfernt. Eigener Optionsschalter „Neu / Wiederholung anzeigen“, standardmäßig eingeschaltet, unabhängig von Genre, Schwierigkeit und ausführlicher Fragenstatistik. Bestehende Online- und JSON-Speicherung verwendet, keine Migration oder neue lokale Ablage. [Vertrag und Nutzerquelle](Lernregeln.md#kompakte-antwortansicht--10102026).
+
+432 Tests in 70 Dateien erfolgreich, vollständiger Lauf in isolierter Quellkopie mit `NODE_OPTIONS=--max-old-space-size=8192 npm test -- --maxWorkers=1 --testTimeout=60000 --hookTimeout=60000` (210,13 Sekunden). TypeScript und Produktionsbuild erfolgreich. Acht gezielte Browserfälle erfolgreich in Chromium und mobilem WebKit: erstmalige Frage vor/nach Antwort und Neuladen, Wiederholungszahl mit falscher Antwort und Zeitablauf, unabhängiges Aus-/Einschalten und dauerhafte Einstellung nach Neuladen, vorhandene Fragenstatistik und Posterfluss. 320-Pixel-Ansicht ohne Überlauf, gezielte Axe-Prüfung der Kopfzeile ohne Befund, Aufnahmen visuell geprüft.
+
+Künstlicher Wiederholungsspielstand über reguläre Backup-Validierung normalisiert; Optionsselektor auf den vorhandenen Namen einschließlich Symbol abgestimmt. Kontrollierte Checkbox wird erst nach erfolgreichem Online-Speichern umgestellt; Browserprüfung klickt und wartet ausdrücklich auf den bestätigten Zustand. Kein Lauf mit echten Konten oder Spielständen. Fremde Änderungen und Vormerkungen erhalten, keine Roh-CSV geändert. Kein vollständiger neuer Browser-Suite-Lauf und keine physische Geräteabnahme. Andere parallel abgeschlossene Main-Änderungen werden bei einer Veröffentlichung zusätzlich am festen Quellcommit geprüft.
+
 ## 10.10.2026 – Erklärung zum gewählten Spielmodus
 
 „Mehr zu Auswahl und Ablauf“ durch „So funktioniert …“ mit dem gewählten Modusnamen ersetzt. Alle sechs Solomodi und Duell erklären nur die eigene Spielidee, Auswahl und den Ablauf in drei kurzen Absätzen. Die Duell-Erklärung wird unabhängig vom zuletzt gewählten Solomodus eingebunden. Bestehende Spielregeln und Speicherung unverändert. [Anzeigevertrag und Nutzerquelle](Hilfe-und-Navigation.md#erklärung-zum-gewählten-spielmodus--10102026).

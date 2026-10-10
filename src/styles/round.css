@@ -84,14 +84,18 @@
   display: inline-block;
   margin-right: 6px;
 }
-.question-history .question-new {
-  padding: 1px 6px;
-  border: 1px solid var(--line);
-  border-radius: 6px;
-  color: var(--muted);
-  font-size: 10px;
+.question-hints .question-status {
+  align-self: center;
   font-weight: 600;
-  letter-spacing: 0.02em;
+}
+.question-status.is-new {
+  color: #78521e;
+  background: #fbf5e8;
+  border-color: #d4bf99;
+}
+.question-status.is-repeat {
+  color: #485a57;
+  background: #f2f5f3;
 }
 .question-history > div {
   margin-top: 8px;

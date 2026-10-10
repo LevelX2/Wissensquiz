@@ -38,6 +38,7 @@ export const emptyState = (questions: Question[] = []): State => ({
     haptics: false,
     showGenre: true,
     showDifficulty: true,
+    showQuestionStatus: true,
     questionHistory: "after",
   },
   experience: 0,

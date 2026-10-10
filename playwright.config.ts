@@ -28,6 +28,7 @@ export default defineConfig({
       name: "webkit-mobile",
       testMatch: [
         "film-posters.spec.ts",
+        "question-status.spec.ts",
         "updates.spec.ts",
         "entry-sync.spec.ts",
         "accounts.spec.ts",

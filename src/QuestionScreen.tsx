@@ -15,6 +15,7 @@ import {
   sourceLabels,
 } from "./filters";
 import { QuestionHistory } from "./QuestionHistoryPanel";
+import { QuestionStatus } from "./QuestionStatus";
 import { SyncIndicator, type SyncDisplay } from "./SyncIndicator";
 import { questionTitleParts } from "./questionTitle";
 import { playFeedback, stopFeedback, unlockSound } from "./feedback";
@@ -400,6 +401,13 @@ export function QuestionScreen({
                 Schwierigkeit: {difficultyLabel(q.difficulty)}
               </span>
             )}
+            {state.settings.showQuestionStatus !== false && (
+              <QuestionStatus
+                events={state.events}
+                question={q}
+                currentEventId={event?.id}
+              />
+            )}
           </div>
         </div>
         <h1 data-question-id={q.id}>
@@ -428,12 +436,7 @@ export function QuestionScreen({
           state.settings.questionHistory !== "hidden" &&
           (state.settings.questionHistory === "always" || !!event) &&
           !showReveal && (
-            <QuestionHistory
-              key={q.id}
-              events={state.events}
-              question={q}
-              currentEventId={event?.id}
-            />
+            <QuestionHistory key={q.id} events={state.events} question={q} />
           )}
         {event
           ? !showReveal &&

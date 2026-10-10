@@ -131,7 +131,7 @@ test("SciFi-Poster erst nach der Antwort, auch nach Neuladen und im Rückblick",
   const { q, requests } = await prepare(page);
   await answer(page, q.answers.find((a) => a.id === q.correctId)!.text);
   await expect(page.locator(".film-poster img")).toBeVisible();
-  await expect(page.locator(".question-new")).toHaveText("Neu");
+  await expect(page.locator(".question-status")).toHaveText("Neu");
   await expect(page.locator(".feedback-outcome")).toContainText("Richtig");
   expect(
     await page
