@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "27c622ff71f21fb34c25e8c9bf13fd8116e1870c",
+  "sourceCommit": "bfad63648ffa90174623953f69a7f2455a827103",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 550,
-  "totalReviewed": 700,
-  "remainingFilmQuestions": 10033,
+  "completedInThisRun": 600,
+  "totalReviewed": 750,
+  "remainingFilmQuestions": 9983,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 12073,
+  "remainingAllQuestions": 12023,
   "blocks": [
     {
       "block": 1,
@@ -63,6 +63,11 @@
     {
       "block": 11,
       "path": "Block-11.json",
+      "count": 50
+    },
+    {
+      "block": 12,
+      "path": "Block-12.json",
       "count": 50
     }
   ],
@@ -766,209 +771,59 @@
     "SF-202609-P02-L-001-V1",
     "SF-202609-P02-S-002-V1",
     "FF-326-YEAR",
-    "FF-326-DIRECTOR"
+    "FF-326-DIRECTOR",
+    "SF-202609-P02-L-003",
+    "SF-202609-P02-L-004",
+    "SF-202609-P02-M-003",
+    "SF-202609-P02-M-004",
+    "SF-202609-P02-S-003",
+    "SF-202609-P02-S-004",
+    "SF-202609-P02-L-003-V1",
+    "SF-202609-P02-S-004-V1",
+    "FF-327-YEAR",
+    "FF-327-DIRECTOR",
+    "ART-L-039",
+    "ART-L-040",
+    "ART-M-039",
+    "ART-M-040",
+    "ART-S-039",
+    "ART-S-040",
+    "FF-045-YEAR",
+    "E20261007-F-060-L1",
+    "E20261007-F-060-L2",
+    "E20261007-F-060-M1",
+    "E20261007-F-060-M2",
+    "E20261007-F-060-S1",
+    "E20261007-F-060-S2",
+    "E20261007-F-060-Y",
+    "E20261007-F-060-D",
+    "ROM-L-029",
+    "ROM-L-030",
+    "ROM-M-029",
+    "ROM-M-030",
+    "ROM-S-029",
+    "ROM-S-030",
+    "FF-265-YEAR",
+    "FF-265-DIRECTOR",
+    "HOR-202610-P01-L-013",
+    "HOR-202610-P01-L-014",
+    "HOR-202610-P01-M-019",
+    "HOR-202610-P01-M-020",
+    "HOR-202610-P01-S-019",
+    "HOR-202610-P01-S-020",
+    "HOR-202610-P01-M-021",
+    "HOR-202610-P01-S-021",
+    "G100-20261008-WESTERN-005-L1",
+    "G100-20261008-WESTERN-005-L2",
+    "G100-20261008-WESTERN-005-M1",
+    "G100-20261008-WESTERN-005-M2",
+    "G100-20261008-WESTERN-005-S1",
+    "G100-20261008-WESTERN-005-S2",
+    "G100-20261008-WESTERN-005-Y",
+    "G100-20261008-WESTERN-005-D",
+    "G100-20261008-MUSIK-006-L1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "SF-202609-P02-L-003",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-L-004",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-M-003",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-M-004",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-S-003",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-S-004",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-L-003-V1",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-S-004-V1",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "FF-327-YEAR",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "FF-327-DIRECTOR",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "ART-L-039",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "ART-L-040",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "ART-M-039",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "ART-M-040",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "ART-S-039",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "ART-S-040",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "FF-045-YEAR",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "E20261007-F-060-L1",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-L2",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-M1",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-M2",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-S1",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-S2",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-Y",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-D",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "ROM-L-029",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "ROM-L-030",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "ROM-M-029",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "ROM-M-030",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "ROM-S-029",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "ROM-S-030",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "FF-265-YEAR",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "FF-265-DIRECTOR",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "HOR-202610-P01-L-013",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-L-014",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-M-019",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-M-020",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-S-019",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-S-020",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-M-021",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-S-021",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-L1",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-L2",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-M1",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-M2",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-S1",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-S2",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-Y",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-D",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-MUSIK-006-L1",
-      "filmKey": "42nd Street|1933"
-    },
     {
       "id": "G100-20261008-MUSIK-006-L2",
       "filmKey": "42nd Street|1933"
@@ -40904,204 +40759,204 @@
   ],
   "next": [
     {
-      "id": "SF-202609-P02-L-003",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-L-004",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-M-003",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-M-004",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-S-003",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-S-004",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-L-003-V1",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "SF-202609-P02-S-004-V1",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "FF-327-YEAR",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "FF-327-DIRECTOR",
-      "filmKey": "2010: The Year We Make Contact|1984"
-    },
-    {
-      "id": "ART-L-039",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "ART-L-040",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "ART-M-039",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "ART-M-040",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "ART-S-039",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "ART-S-040",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "FF-045-YEAR",
-      "filmKey": "2046|2004"
-    },
-    {
-      "id": "E20261007-F-060-L1",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-L2",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-M1",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-M2",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-S1",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-S2",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-Y",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "E20261007-F-060-D",
-      "filmKey": "21 Grams|2003"
-    },
-    {
-      "id": "ROM-L-029",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "ROM-L-030",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "ROM-M-029",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "ROM-M-030",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "ROM-S-029",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "ROM-S-030",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "FF-265-YEAR",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "FF-265-DIRECTOR",
-      "filmKey": "27 Dresses|2008"
-    },
-    {
-      "id": "HOR-202610-P01-L-013",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-L-014",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-M-019",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-M-020",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-S-019",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-S-020",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-M-021",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "HOR-202610-P01-S-021",
-      "filmKey": "28 Days Later|2002"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-L1",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-L2",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-M1",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-M2",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-S1",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-S2",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-Y",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-005-D",
-      "filmKey": "3:10 to Yuma|1957"
-    },
-    {
-      "id": "G100-20261008-MUSIK-006-L1",
+      "id": "G100-20261008-MUSIK-006-L2",
       "filmKey": "42nd Street|1933"
+    },
+    {
+      "id": "G100-20261008-MUSIK-006-M1",
+      "filmKey": "42nd Street|1933"
+    },
+    {
+      "id": "G100-20261008-MUSIK-006-M2",
+      "filmKey": "42nd Street|1933"
+    },
+    {
+      "id": "G100-20261008-MUSIK-006-S1",
+      "filmKey": "42nd Street|1933"
+    },
+    {
+      "id": "G100-20261008-MUSIK-006-S2",
+      "filmKey": "42nd Street|1933"
+    },
+    {
+      "id": "G100-20261008-MUSIK-006-Y",
+      "filmKey": "42nd Street|1933"
+    },
+    {
+      "id": "G100-20261008-MUSIK-006-D",
+      "filmKey": "42nd Street|1933"
+    },
+    {
+      "id": "ROM-L-023",
+      "filmKey": "50 First Dates|2004"
+    },
+    {
+      "id": "ROM-L-024",
+      "filmKey": "50 First Dates|2004"
+    },
+    {
+      "id": "ROM-M-023",
+      "filmKey": "50 First Dates|2004"
+    },
+    {
+      "id": "ROM-M-024",
+      "filmKey": "50 First Dates|2004"
+    },
+    {
+      "id": "ROM-S-023",
+      "filmKey": "50 First Dates|2004"
+    },
+    {
+      "id": "ROM-S-024",
+      "filmKey": "50 First Dates|2004"
+    },
+    {
+      "id": "FF-262-YEAR",
+      "filmKey": "50 First Dates|2004"
+    },
+    {
+      "id": "FF-262-DIRECTOR",
+      "filmKey": "50 First Dates|2004"
+    },
+    {
+      "id": "F240-20261006-152-L1",
+      "filmKey": "8 Mile|2002"
+    },
+    {
+      "id": "F240-20261006-152-L2",
+      "filmKey": "8 Mile|2002"
+    },
+    {
+      "id": "F240-20261006-152-M1",
+      "filmKey": "8 Mile|2002"
+    },
+    {
+      "id": "F240-20261006-152-M2",
+      "filmKey": "8 Mile|2002"
+    },
+    {
+      "id": "F240-20261006-152-S1",
+      "filmKey": "8 Mile|2002"
+    },
+    {
+      "id": "F240-20261006-152-S2",
+      "filmKey": "8 Mile|2002"
+    },
+    {
+      "id": "F240-20261006-152-Y",
+      "filmKey": "8 Mile|2002"
+    },
+    {
+      "id": "F240-20261006-152-D",
+      "filmKey": "8 Mile|2002"
+    },
+    {
+      "id": "DRA-L-021",
+      "filmKey": "A Beautiful Mind|2001"
+    },
+    {
+      "id": "DRA-L-022",
+      "filmKey": "A Beautiful Mind|2001"
+    },
+    {
+      "id": "DRA-M-021",
+      "filmKey": "A Beautiful Mind|2001"
+    },
+    {
+      "id": "DRA-M-022",
+      "filmKey": "A Beautiful Mind|2001"
+    },
+    {
+      "id": "DRA-S-021",
+      "filmKey": "A Beautiful Mind|2001"
+    },
+    {
+      "id": "DRA-S-022",
+      "filmKey": "A Beautiful Mind|2001"
+    },
+    {
+      "id": "DRA-L-022-V1",
+      "filmKey": "A Beautiful Mind|2001"
+    },
+    {
+      "id": "DRA-M-022-V1",
+      "filmKey": "A Beautiful Mind|2001"
+    },
+    {
+      "id": "DRA-S-022-V1",
+      "filmKey": "A Beautiful Mind|2001"
+    },
+    {
+      "id": "FF-086-YEAR",
+      "filmKey": "A Beautiful Mind|2001"
+    },
+    {
+      "id": "FF-086-DIRECTOR",
+      "filmKey": "A Beautiful Mind|2001"
+    },
+    {
+      "id": "KOM-L-003",
+      "filmKey": "A Fish Called Wanda|1988"
+    },
+    {
+      "id": "KOM-L-004",
+      "filmKey": "A Fish Called Wanda|1988"
+    },
+    {
+      "id": "KOM-M-003",
+      "filmKey": "A Fish Called Wanda|1988"
+    },
+    {
+      "id": "KOM-M-004",
+      "filmKey": "A Fish Called Wanda|1988"
+    },
+    {
+      "id": "KOM-S-003",
+      "filmKey": "A Fish Called Wanda|1988"
+    },
+    {
+      "id": "KOM-S-004",
+      "filmKey": "A Fish Called Wanda|1988"
+    },
+    {
+      "id": "FF-202-YEAR",
+      "filmKey": "A Fish Called Wanda|1988"
+    },
+    {
+      "id": "FF-202-DIRECTOR",
+      "filmKey": "A Fish Called Wanda|1988"
+    },
+    {
+      "id": "F240-20261006-074-L1",
+      "filmKey": "A Ghost Story|2017"
+    },
+    {
+      "id": "F240-20261006-074-L2",
+      "filmKey": "A Ghost Story|2017"
+    },
+    {
+      "id": "F240-20261006-074-M1",
+      "filmKey": "A Ghost Story|2017"
+    },
+    {
+      "id": "F240-20261006-074-M2",
+      "filmKey": "A Ghost Story|2017"
+    },
+    {
+      "id": "F240-20261006-074-S1",
+      "filmKey": "A Ghost Story|2017"
+    },
+    {
+      "id": "F240-20261006-074-S2",
+      "filmKey": "A Ghost Story|2017"
+    },
+    {
+      "id": "F240-20261006-074-Y",
+      "filmKey": "A Ghost Story|2017"
+    },
+    {
+      "id": "F240-20261006-074-D",
+      "filmKey": "A Ghost Story|2017"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
