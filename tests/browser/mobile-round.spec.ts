@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { test, expect, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -55,23 +56,7 @@ for (const viewport of [
     });
     round.questions = qs;
     round.order = qs.map((q) => q.answers.map((a) => a.id));
-    await page.evaluate(
-      (value) =>
-        new Promise<void>((resolve, reject) => {
-          const req = indexedDB.open("wissensquiz");
-          req.onsuccess = () => {
-            const db = req.result,
-              tx = db.transaction("state", "readwrite");
-            tx.objectStore("state").put(value, "current");
-            tx.oncomplete = () => {
-              db.close();
-              resolve();
-            };
-            tx.onerror = () => reject(tx.error);
-          };
-        }),
-      state,
-    );
+    await writeStoredState(page, state);
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     for (let i = 0; i < qs.length; i++) {

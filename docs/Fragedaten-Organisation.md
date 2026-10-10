@@ -1,5 +1,7 @@
 # Organisation der Fragedaten
 
+> Aktueller lokaler Vertrag seit 10.10.2026: [Anmeldung und ausschließlich online gespeicherter Spielstand](Anmeldung-und-Online-Spielstand.md). Frühere Abschnitte zu Gaststand, IndexedDB, Outbox und Offline-PWA beschreiben den damaligen veröffentlichten Stand und sind durch den neuen Nutzerauftrag abgelöst. Noch nicht neu veröffentlicht.
+
 ## Veröffentlichter Bestand – 09.10.2026, Version 58
 
 **33 Pakete, 12.773 Fragen und 12.207 Wissensziele.** Genreausbau mit 237 zusätzlichen Filmfassungen und 1.896 Fragen vollständig veröffentlicht. Onlinekatalog `35ba8d20e83b30f5b285abc115ff69f1f416ffde0b44d945840548f18cc8721d` mit allen Nachweisen und Bewertungsfeldern geprüft, sechs frühere Releases erhalten und keine Bereitstellungsteile offen. Duellkatalog 10.943 aktive Fragen; bisherige 9.047 Fragen unverändert. [Betrieb und Katalognachweise](Sites-Betrieb.md#version-58-genreausbau-und-fällige-wiederholungen). Die nachfolgenden datierten Bestände dokumentieren die früheren Stände.

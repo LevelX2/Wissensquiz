@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { test, expect, readStoredState, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -65,24 +66,7 @@ async function prepare(page: Page, mode: Mode = "ueben") {
       familiarities: [1, 2, 3, 4],
     };
   }
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onerror = () => reject(request.error);
-        request.onsuccess = () => {
-          const db = request.result;
-          const tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
   await page.reload();
   if (mode === "rekord") {
     await page.getByRole("button", { name: "Losspielen" }).click();
@@ -251,21 +235,16 @@ test("Reduzierte Animationen zeigen die richtige Lösung ruhig und erhalten die 
   ).toBeEnabled();
 });
 
-test("Neuladen während der Lösungsanzeige bewahrt die Wahl; Offline-Fortsetzen speichert ohne doppelte Antwort", async ({
+test("Neuladen während der Lösungsanzeige bewahrt die Wahl; Fortsetzen speichert ohne doppelte Antwort", async ({
   page,
   context,
   browserName,
 }) => {
   const round = await prepare(page);
-  await page.evaluate(() =>
-    navigator.serviceWorker.ready.then(() => undefined),
-  );
   await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
   await expect(page.locator(".solution-reveal")).toBeVisible();
-  if (browserName === "chromium") await context.setOffline(true);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
-  if (browserName === "webkit") await context.setOffline(true);
   await expect(page.locator(".chosen-answer")).toContainText("Keine Ahnung");
   await expect(page.locator(".solution-reveal")).toHaveCount(0);
   expect(
@@ -276,7 +255,7 @@ test("Neuladen während der Lösungsanzeige bewahrt die Wahl; Offline-Fortsetzen
   await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
   await expect(page.locator(".solution-reveal")).toBeVisible();
   await page.clock.runFor(1100);
-  // Let WebKit flush passive effects after the offline reload with the clock
+  // Let WebKit flush passive effects after the reload with the clock
   // still anchored to the controlled test date.
   await page.clock.resume();
   await expect(page.locator(".solution-reveal")).toHaveCount(0);

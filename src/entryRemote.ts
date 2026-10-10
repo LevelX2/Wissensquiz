@@ -2,12 +2,8 @@ import type { SupabaseClient } from "@supabase/supabase-js";
 import { z } from "zod";
 import { requestWithin } from "./request";
 import { CloudConflict, CloudSaveError } from "./accounts";
-import {
-  cachedRelease,
-  rememberRelease,
-  objectHashes,
-  releaseHashes,
-} from "./entryStorage";
+import { objectHashes, releaseHashes } from "./syncReferences";
+const releaseCache = new WeakMap<SyncRemote, Map<string, PreparedRelease>>();
 import {
   verifyRelease,
   verifyObject,
@@ -79,7 +75,7 @@ export class SupabaseEntryRemote implements SyncRemote {
             throw new CloudSaveError(
               status === 401 || status === 403
                 ? "Der Kontodienst hat den Zugriff abgelehnt. Prüfe Deine Anmeldung im Profil."
-                : "Die Online-Speicherung konnte nicht bestätigt werden. Deine Änderungen bleiben lokal erhalten.",
+                : "Die Online-Speicherung konnte nicht bestätigt werden. Versuche es erneut; die Antwort wird erst nach der Serverbestätigung übernommen.",
             );
           }
           return data as T;
@@ -102,14 +98,16 @@ export async function getRelease(
   api: SyncRemote,
   hash: string,
 ): Promise<PreparedRelease> {
-  const existing = await cachedRelease(hash);
+  const cache = releaseCache.get(api) ?? new Map<string, PreparedRelease>();
+  releaseCache.set(api, cache);
+  const existing = cache.get(hash);
   if (existing) return existing;
   const release = await verifyRelease(
     await api.call("quiz_sync_catalog", { catalog_hash: hash }, 30_000),
   );
   if (release.hash !== hash)
     throw new Error("Der geladene Katalog passt nicht zum Verweis.");
-  await rememberRelease(release);
+  cache.set(hash, release);
   return release;
 }
 const incomingRow = z.object({

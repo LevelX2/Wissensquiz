@@ -1,5 +1,5 @@
 import { type State } from "./model";
-import type { WriteOptions } from "./entryStorage";
+import type { WriteOptions } from "./syncTypes";
 
 export type Page =
   | "account"

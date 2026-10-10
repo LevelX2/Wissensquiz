@@ -1,5 +1,7 @@
 # Speicher- und Sync-Optimierung: Produktionsrollout
 
+> Aktueller lokaler Vertrag seit 10.10.2026: [Anmeldung und ausschließlich online gespeicherter Spielstand](Anmeldung-und-Online-Spielstand.md). Frühere Abschnitte zu Gaststand, IndexedDB, Outbox und Offline-PWA beschreiben den damaligen veröffentlichten Stand und sind durch den neuen Nutzerauftrag abgelöst. Noch nicht neu veröffentlicht.
+
 Stand: 03.10.2026. Nach der lokalen Freigabe bis einschließlich `60ab29f` hat der Nutzer ausdrücklich „Dann Bitte produktiv setzen“ beauftragt. Datenbankmigrationen und öffentlicher Katalog sind erfolgreich eingerichtet; die zusammengeführte App ist als **Sites-Version 42 produktiv veröffentlicht**. Bestehende Supabase- und Sites-Projekt-IDs sowie der öffentliche Besucherzugriff bleiben erhalten.
 
 ## Veröffentlichung

@@ -9,7 +9,6 @@ import { recordKey } from "./engine";
 import { roundQuestionCount } from "./roundArchive";
 import { RankingContext } from "./SharedLeaderboard";
 import { PlayerLeaderboard } from "./PlayerLeaderboard";
-import { GuestActivity } from "./GuestActivity";
 import { OnlineRecords, DuelRankings } from "./OnlineRecords";
 import {
   isRecordMode,
@@ -317,7 +316,6 @@ export function Leaderboard({
           </details>
         </>
       )}
-      <GuestActivity />
     </section>
   );
 }

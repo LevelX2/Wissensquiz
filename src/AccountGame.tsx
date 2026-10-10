@@ -1,40 +1,25 @@
-import {
-  useCallback,
-  useMemo,
-  useEffect,
-  useRef,
-  useState,
-  type ReactNode,
-} from "react";
+import { useEffect, useMemo, useState, type ReactNode } from "react";
 import type { SupabaseClient } from "@supabase/supabase-js";
 import { App } from "./App";
 import { RankingContext } from "./SharedLeaderboard";
-import { fingerprint, type SyncStatus } from "./accountSync";
-import { createAccountSync, type SyncController } from "./entrySync";
-import { SupabaseEntryRemote } from "./entryRemote";
-import {
-  cloudRead,
-  cloudRevision,
-  cloudSave,
-  readSyncReceipt,
-  replaceAccountState,
-  writeSyncReceipt,
-} from "./accounts";
-import { download, read } from "./storage";
+import type { SyncStatus } from "./syncTypes";
+import { OnlineGameStore } from "./onlineGameStore";
+import { SupabaseEntryRemote, getRelease } from "./entryRemote";
+import { loadOfficialCatalog } from "./officialCatalog";
+import { cloudRead } from "./accounts";
 import type { State } from "./model";
 import { ActivityContext } from "./GuestActivity";
-import { requestWithin, RequestTimeout } from "./request";
+import { requestWithin } from "./request";
 import { ReportContext } from "./issueReports";
-import { UpdateNotice } from "./UpdateNotice";
 
 export const syncText: Record<SyncStatus, string> = {
-  loading: "Dein Spielstand wird geladen …",
+  loading: "Dein Online-Spielstand wird geladen …",
   saved: "Spielstand online gespeichert",
   saving: "Spielstand wird online gespeichert …",
   offline:
-    "Noch nicht online gespeichert. Dein Fortschritt bleibt auf diesem Gerät erhalten. Wir versuchen es automatisch erneut.",
+    "Die Online-Speicherung ist noch nicht bestätigt. Versuche es erneut. Die Änderung wird erst nach der Serverbestätigung übernommen.",
   conflict:
-    "Auf einem anderen Gerät wurde ebenfalls gespielt. Beide Stände bleiben erhalten; sie werden nicht automatisch überschrieben.",
+    "Dein Online-Spielstand wurde in einem anderen Fenster oder auf einem anderen Gerät geändert. Lade den aktuellen Online-Stand erneut.",
 };
 
 export function AccountGame({
@@ -50,7 +35,6 @@ export function AccountGame({
   storageKey: string;
   panel: (
     state: State,
-    onState: (state: State) => void,
     status: SyncStatus,
     message: string,
     confirmedAt?: number,
@@ -58,202 +42,62 @@ export function AccountGame({
 }) {
   const ranking = useMemo(() => ({ client, owner }), [client, owner]);
   const [status, setStatus] = useState<SyncStatus>("loading");
-  const [syncDetail, setSyncDetail] = useState("");
   const [confirmedAt, setConfirmedAt] = useState<number>();
-  const [ready, setReady] = useState(false);
+  const [store, setStore] = useState<OnlineGameStore | null>(null);
   const [error, setError] = useState("");
-  const [generation, setGeneration] = useState(0);
-  const engine = useRef<SyncController | null>(null);
-  const lockTask = useRef<Promise<void>>(Promise.resolve());
-  const statusRef = useRef(status);
-  statusRef.current = status;
-  const acceptRemote = useRef(false);
-  const offer = useCallback((state: State) => engine.current?.offer(state), []);
+  const [attempt, setAttempt] = useState(0);
   useEffect(() => {
     let alive = true;
-    let release: (() => void) | undefined;
-    let sync: SyncController | undefined;
     const lifecycle = new AbortController();
-    const hold = new Promise<void>((resolve) => {
-      release = resolve;
-    });
-    setReady(false);
+    const api = new SupabaseEntryRemote(client, lifecycle.signal);
+    const current = new OnlineGameStore(
+      api,
+      owner,
+      () => loadOfficialCatalog((hash) => getRelease(api, hash)),
+      () => requestWithin((signal) => cloudRead(client, owner, signal)),
+      (next, at) => {
+        if (alive) {
+          setStatus(next);
+          if (at !== undefined) setConfirmedAt(at);
+        }
+      },
+    );
+    setStore(null);
     setError("");
     setStatus("loading");
-    const run = async () => {
-      if (!alive) return;
-      try {
-        sync = await createAccountSync(
-          new SupabaseEntryRemote(client, lifecycle.signal),
-          owner,
-          storageKey,
-          {
-            local: () => read(storageKey),
-            receipt: () => readSyncReceipt(storageKey),
-            legacyRevision: () => cloudRevision(storageKey),
-            remote: (signal) => cloudRead(client, owner, signal),
-            replace: (state) => replaceAccountState(storageKey, state),
-            acknowledge: (receipt) => writeSyncReceipt(storageKey, receipt),
-            save: (state, revision, signal) =>
-              cloudSave(client, state, revision, owner, signal),
-          },
-          (value, detail, lastConfirmation) => {
-            if (alive) {
-              setStatus(value);
-              setSyncDetail(detail ?? "");
-              setConfirmedAt(lastConfirmation);
-            }
-          },
-        );
-        if (!alive) {
-          sync.stop();
-          return;
-        }
-        engine.current = sync;
-        if (acceptRemote.current) {
-          if (sync.acceptRemote) await sync.acceptRemote();
-          else {
-            const remote = await requestWithin((signal) =>
-              cloudRead(client, owner, signal),
-            );
-            if (!remote) throw new Error("Online-Spielstand nicht gefunden.");
-            if (!alive) return;
-            await replaceAccountState(storageKey, remote.state);
-            await writeSyncReceipt(storageKey, {
-              revision: remote.revision,
-              fingerprint: await fingerprint(remote.state),
-              confirmedAt: Date.now(),
-            });
-          }
-          acceptRemote.current = false;
-        }
-        await sync.prepare();
-        if (alive && sync.status !== "conflict") setReady(true);
-      } catch (failure) {
+    current
+      .open()
+      .then(() => {
+        if (alive) setStore(current);
+      })
+      .catch(() => {
         if (alive)
           setError(
-            failure instanceof RequestTimeout
-              ? "Dein Online-Spielstand konnte nicht geladen werden: Der Kontodienst hat nicht rechtzeitig geantwortet. Versuche es erneut. Deine vorhandenen Spielstände bleiben erhalten."
-              : "Dein Spielstand konnte nicht geöffnet werden. Prüfe, ob eine neue Quiz-Version bereitsteht, und versuche es erneut. Deine vorhandenen Spielstände bleiben erhalten.",
+            "Dein Online-Spielstand konnte nicht geöffnet werden. Prüfe Deine Internetverbindung und versuche es erneut.",
           );
-      }
-      await hold;
-    };
-    // Keep one writer per account/browser. Other devices are protected by the
-    // server revision check; an old tab must never overwrite a new snapshot.
-    const previous = lockTask.current;
-    const task = (async () => {
-      await previous;
-      if (!alive) return;
-      if (navigator.locks) {
-        await navigator.locks.request(
-          `wissensquiz:${storageKey}`,
-          { ifAvailable: true },
-          async (lock) => {
-            if (!lock) {
-              if (alive)
-                setError(
-                  "Dieses Quiz-Konto ist bereits in einem anderen Tab geöffnet. Schließe den anderen Quiz-Tab und versuche es erneut.",
-                );
-              return;
-            }
-            await run();
-          },
-        );
-      } else await run();
-    })().catch(() => {
-      if (alive)
-        setError(
-          "Der Kontospielstand konnte nicht geöffnet werden. Bitte lade die Seite erneut.",
-        );
-    });
-    lockTask.current = task;
-    const retry = () => {
-      if (sync?.status === "offline") void sync.flush();
-    };
-    const interval = window.setInterval(retry, 10000);
-    window.addEventListener("online", retry);
-    const onHide = () => {
-      if (document.visibilityState === "hidden") void sync?.flush();
-    };
-    document.addEventListener("visibilitychange", onHide);
-    const beforeUnload = (event: BeforeUnloadEvent) => {
-      if (["saving", "offline", "conflict"].includes(statusRef.current)) {
-        event.preventDefault();
-        event.returnValue = "";
-      }
-    };
-    window.addEventListener("beforeunload", beforeUnload);
+      });
     return () => {
       alive = false;
       lifecycle.abort();
-      sync?.stop();
-      engine.current = null;
-      release?.();
-      window.clearInterval(interval);
-      window.removeEventListener("online", retry);
-      document.removeEventListener("visibilitychange", onHide);
-      window.removeEventListener("beforeunload", beforeUnload);
+      current.stop();
     };
-  }, [client, owner, storageKey, generation]);
-  if (!ready || error || status === "conflict")
+  }, [client, owner, attempt]);
+  if (!store || error || status === "conflict")
     return (
       <main className="account-page">
-        <h1>
-          {status === "conflict"
-            ? "Auf zwei Geräten gespielt"
-            : "Dein Quiz-Spielstand"}
-        </h1>
+        <h1>Dein Online-Spielstand</h1>
         <p role="status">{error || syncText[status]}</p>
-        {error && <UpdateNotice always />}
-        {status === "conflict" ? (
-          <>
-            <p>
-              Du kannst mit dem Online-Stand weiterspielen. Dein bisheriger
-              Stand wird vorher auf diesem Gerät als Rückfallkopie erhalten.
-              Sichere ihn bei Bedarf zusätzlich als Datei.
-            </p>
-            <div className="account-actions">
-              <button
-                className="primary"
-                onClick={() => {
-                  acceptRemote.current = true;
-                  setGeneration((n) => n + 1);
-                }}
-              >
-                Mit dem Online-Stand weiterspielen
-              </button>
-              <button
-                className="secondary"
-                onClick={() =>
-                  void read(storageKey).then((state) => {
-                    if (state)
-                      download("wissensquiz-rueckfallkopie.json", state);
-                  })
-                }
-              >
-                Meinen Stand als Datei sichern
-              </button>
-            </div>
-          </>
-        ) : (
-          error && (
-            <button
-              className="primary"
-              onClick={() => setGeneration((n) => n + 1)}
-            >
-              Erneut versuchen
-            </button>
-          )
-        )}
         {(error || status === "conflict") && (
-          <button
-            className="text-button"
-            onClick={() => void client.auth.signOut({ scope: "local" })}
-          >
-            Abmelden und als Gast spielen
+          <button className="primary" onClick={() => setAttempt((n) => n + 1)}>
+            Online-Spielstand erneut laden
           </button>
         )}
+        <button
+          className="text-button"
+          onClick={() => void client.auth.signOut({ scope: "local" })}
+        >
+          Abmelden
+        </button>
       </main>
     );
   return (
@@ -261,25 +105,18 @@ export function AccountGame({
       <RankingContext.Provider value={ranking}>
         <ActivityContext.Provider value={publicClient}>
           <App
-            key={`${storageKey}:${generation}`}
-            storageKey={storageKey}
-            onPersistedState={offer}
+            key={attempt}
+            store={store}
             sync={{
               status,
               confirmedAt,
-              text: `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
+              text: syncText[status],
               retry: () => {
-                void engine.current?.flush();
+                void store.retry().catch(() => {});
               },
             }}
-            accountPanel={(state, onState) =>
-              panel(
-                state,
-                onState,
-                status,
-                `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
-                confirmedAt,
-              )
+            accountPanel={(state) =>
+              panel(state, status, syncText[status], confirmedAt)
             }
           />
         </ActivityContext.Provider>

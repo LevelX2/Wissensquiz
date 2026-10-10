@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import {
   modePreparation,
   openRoundSetup,
@@ -16,27 +17,10 @@ async function readState(page: Page): Promise<State> {
   return readStoredState(page);
 }
 async function writeState(page: Page, state: State) {
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
 }
 
-test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert Termine, Filter und Offline-Neuladen", async ({
+test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert Termine, Filter und Neuladen", async ({
   page,
   context,
   browserName,
@@ -123,12 +107,6 @@ test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert 
     (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
       .violations,
   ).toEqual([]);
-  if (browserName === "chromium") {
-    await expect
-      .poll(() => page.evaluate(() => !!navigator.serviceWorker.controller))
-      .toBe(true);
-    await context.setOffline(true);
-  }
   await page.reload();
   await expect(overview).toContainText("13 Wiederholungen fällig");
   await openRoundSetup(page);
@@ -137,7 +115,7 @@ test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert 
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
 });
 
-test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch nach Neuladen offline", async ({
+test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch nach Neuladen", async ({
   page,
   context,
   browserName,
@@ -240,13 +218,8 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
     ).toBe(true);
     if (i === 0) {
       const saved = await readState(page);
-      await page.evaluate(() =>
-        navigator.serviceWorker.ready.then(() => undefined),
-      );
-      if (browserName === "chromium") await context.setOffline(true);
       await page.reload();
       await page.getByRole("button", { name: "Fortsetzen" }).click();
-      if (browserName === "webkit") await context.setOffline(true);
       await expect(feedback).toContainText("Lernstufe 2 von 4");
       expect((await readState(page)).events.length).toBe(saved.events.length);
       await page.screenshot({
@@ -286,9 +259,6 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
     path: `test-results/lernstufen-ergebnis-${browserName}.png`,
     fullPage: true,
   });
-  // Windows WebKit cannot fetch a previously unopened lazy view offline.
-  // Offline answers/persistence are verified above; inspect collection online.
-  await context.setOffline(false);
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   await page
     .getByRole("button", { name: "Mit beantworteten Fragen", exact: true })
@@ -466,7 +436,7 @@ test("Fehlertraining hat einen verständlichen leeren Zustand und bleibt als Mod
 });
 
 for (const width of [320, 1280]) {
-  test(`Auswertung und gezielte Fehlerrunde bei ${width} Pixeln mit Offline-Speicherung`, async ({
+  test(`Auswertung und gezielte Fehlerrunde bei ${width} Pixeln mit bestätigter Online-Speicherung`, async ({
     page,
     context,
     browserName,
@@ -575,19 +545,11 @@ for (const width of [320, 1280]) {
     expect(retry.questions.map((q) => q.knowledgeId).sort()).toEqual(
       [qs[1].knowledgeId, qs[3].knowledgeId].sort(),
     );
-    await page.evaluate(() =>
-      navigator.serviceWorker.ready.then(() => undefined),
-    );
-    // Offline reload is exercised in Chromium. The Windows WebKit harness
-    // raises an internal navigation error offline; test resume online there,
-    // followed by offline answers and persistence in the same isolated context.
-    if (browserName === "chromium") await context.setOffline(true);
     await page.reload();
     await expect(
       page.getByRole("button", { name: "Fortsetzen" }),
     ).toBeVisible();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
-    if (browserName === "webkit") await context.setOffline(true);
     for (let i = 0; i < retry.questions.length; i++) {
       const q = retry.questions[i];
       await page

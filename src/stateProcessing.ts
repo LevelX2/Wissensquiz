@@ -1,5 +1,5 @@
 import type { State } from "./model";
-import { isImmutableCatalog } from "./storage";
+import { isImmutableCatalog } from "./immutableCatalog";
 import {
   fingerprintState,
   encodeValidatedState,

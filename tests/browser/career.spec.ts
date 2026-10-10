@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { test, expect, readStoredState, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { answer, complete, startRound } from "../../src/engine";
@@ -8,24 +9,7 @@ async function readState(page: Page): Promise<State> {
   return readStoredState(page);
 }
 async function writeState(page: Page, state: State) {
-  await page.evaluate(
-    (state) =>
-      new Promise<void>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onsuccess = () => {
-          const db = req.result,
-            tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(state, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-        req.onerror = () => reject(req.error);
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
 }
 function seededRound(
   state: State,
@@ -54,7 +38,7 @@ function seededRound(
 }
 
 for (const width of [320, 1280]) {
-  test(`Filmkarriere bei ${width} Pixeln: sichtbarer Aufstieg, XP-Aufschlüsselung, Rückblick und Offline-Erhalt`, async ({
+  test(`Filmkarriere bei ${width} Pixeln: sichtbarer Aufstieg, XP-Aufschlüsselung, Rückblick und Erhalt nach Neuladen`, async ({
     page,
     context,
     browserName,
@@ -124,10 +108,6 @@ for (const width of [320, 1280]) {
       page.getByRole("main").getByRole("progressbar"),
     ).toHaveAttribute("aria-valuemax", "150");
     await expect(page.getByRole("main")).toContainText("Level 2 · Kinogänger");
-    await page.evaluate(() =>
-      navigator.serviceWorker.ready.then(() => undefined),
-    );
-    if (browserName === "chromium") await context.setOffline(true);
     await page.reload();
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await expect(page.getByRole("main")).toContainText("100 XP insgesamt");

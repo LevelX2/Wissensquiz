@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import {
   modePreparation,
   openRoundSetup,
@@ -22,27 +23,10 @@ const portraitEvidence = JSON.parse(
 
 const now = new Date("2026-10-03T12:00:00+02:00");
 async function writeState(page: Page, value: State) {
-  await page.evaluate(
-    (state) =>
-      new Promise<void>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onerror = () => reject(request.error);
-        request.onsuccess = () => {
-          const db = request.result;
-          const tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(state, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    value,
-  );
+  await writeStoredState(page, value);
 }
 
-test("Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig von Filmgruppen mobil und offline", async ({
+test("Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig von Filmgruppen mobil und nach Neuladen", async ({
   page,
   context,
   browserName,
@@ -109,19 +93,10 @@ test("Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig vo
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  // Windows WebKit cannot navigate offline; Chromium verifies that reload.
-  // WebKit still verifies restored actor content and play without a network.
   if (browserName === "chromium") {
-    await context.setOffline(true);
     await page.reload();
   } else {
     await page.reload();
-    await context.setOffline(true);
   }
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".explanation .actor-name")).toBeVisible();
@@ -189,7 +164,7 @@ for (const [personId, person, response] of [
   ["ACTOR-051", "Meryl Streep", "unknown"],
   ["ACTOR-013", "Keanu Reeves", "wrong"],
 ] as const)
-  test(`Porträt von ${person} erscheint nach ${response} und bleibt mit Bildnachweis offline verfügbar`, async ({
+  test(`Porträt von ${person} erscheint nach ${response} und bleibt mit Bildnachweis nach Neuladen verfügbar`, async ({
     page,
     context,
     browserName,
@@ -268,13 +243,7 @@ for (const [personId, person, response] of [
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
-    await expect(
-      page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-        exact: false,
-      }),
-    ).toBeVisible();
     if (browserName === "chromium") {
-      await context.setOffline(true);
       await page.reload();
     } else {
       await page.reload();
@@ -286,50 +255,23 @@ for (const [personId, person, response] of [
         image.evaluate((img) => (img as HTMLImageElement).naturalWidth),
       )
       .toBeGreaterThan(0);
-    // Windows WebKit's offline emulation blocks new resource loads, including
-    // the existing icon.svg, PNG illustrations and blob URLs. Verify the exact
-    // cached JPEG bytes offline here; Chromium verifies real app image requests.
-    if (browserName === "webkit") {
-      await context.setOffline(true);
-      const cached = await page.evaluate(
-        async (images) =>
-          Promise.all(
-            images.map(async (image) => {
-              const response = await caches.match(image.src, {
-                ignoreVary: true,
-              });
-              if (!response) return false;
-              const bytes = await response.arrayBuffer();
-              const hash = Array.from(
-                new Uint8Array(await crypto.subtle.digest("SHA-256", bytes)),
-                (byte) => byte.toString(16).padStart(2, "0"),
-              ).join("");
-              return bytes.byteLength === image.bytes && hash === image.sha256;
-            }),
-          ),
-        portraitEvidence.images,
-      );
-      expect(cached).toEqual(Array(25).fill(true));
-    } else {
-      // Check every portrait without relying on images loaded before going offline.
-      const loaded = await page.evaluate(
-        async (portraits) =>
-          Promise.all(
-            portraits.map(
-              (portrait) =>
-                new Promise<boolean>((resolve) => {
-                  const img = new Image();
-                  img.onload = () =>
-                    resolve(img.naturalWidth > 0 && img.naturalHeight > 0);
-                  img.onerror = () => resolve(false);
-                  img.src = portrait.src;
-                }),
-            ),
-          ),
-        Object.values(portraits),
-      );
-      expect(loaded).toEqual(Array(25).fill(true));
-    }
+    const loaded = await page.evaluate(
+      async (images) =>
+        Promise.all(
+          images.map(async (image) => {
+            const response = await fetch(image.src);
+            if (!response.ok) return false;
+            const bytes = await response.arrayBuffer();
+            const hash = Array.from(
+              new Uint8Array(await crypto.subtle.digest("SHA-256", bytes)),
+              (byte) => byte.toString(16).padStart(2, "0"),
+            ).join("");
+            return bytes.byteLength === image.bytes && hash === image.sha256;
+          }),
+        ),
+      portraitEvidence.images,
+    );
+    expect(loaded).toEqual(Array(25).fill(true));
     await page.getByText("Bildnachweis", { exact: true }).click();
     await expect(credit).toContainText(portrait.photographer);
   });

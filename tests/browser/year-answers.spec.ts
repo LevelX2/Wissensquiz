@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { test, expect, readStoredState } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { emptyState, type State } from "../../src/model";
@@ -16,7 +17,7 @@ addPackages(
 );
 for (const kind of ["generated", "csv"] as const) {
   for (const rank of [0, 3, "historical"] as const) {
-    test(`${kind}: ${rank} Jahresrang bleibt bei Antwort, Neuladen und Offline-Fortsetzen erhalten`, async ({
+    test(`${kind}: ${rank} Jahresrang bleibt bei Antwort, Neuladen und Online-Fortsetzen erhalten`, async ({
       page,
       context,
       browserName,
@@ -62,24 +63,7 @@ for (const kind of ["generated", "csv"] as const) {
           variant.answers.filter((a) => Number(a.text) < Number(correct.text)),
         ).toHaveLength(rank);
       validateBackup(state);
-      await page.evaluate(
-        (value: State) =>
-          new Promise<void>((resolve, reject) => {
-            const req = indexedDB.open("wissensquiz");
-            req.onerror = () => reject(req.error);
-            req.onsuccess = () => {
-              const db = req.result,
-                tx = db.transaction("state", "readwrite");
-              tx.objectStore("state").put(value, "current");
-              tx.oncomplete = () => {
-                db.close();
-                resolve();
-              };
-              tx.onerror = () => reject(tx.error);
-            };
-          }),
-        state,
-      );
+      await writeStoredState(page, state);
       await page.reload();
       await page.getByRole("button", { name: "Fortsetzen" }).click();
       const buttons = page.locator(".answer:not(.answer-unknown)");
@@ -99,14 +83,7 @@ for (const kind of ["generated", "csv"] as const) {
       await page.getByRole("button", { name: "Pause & Startseite" }).click();
       await page.getByRole("button", { name: "Profil", exact: true }).click();
       await page.getByRole("button", { name: "Optionen" }).click();
-      await expect(
-        page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-          exact: false,
-        }),
-      ).toBeVisible();
-      if (browserName === "chromium") await context.setOffline(true);
       await page.reload();
-      if (browserName !== "chromium") await context.setOffline(true);
       await page.getByRole("button", { name: "Fortsetzen" }).click();
       await expect(page.locator(".feedback")).toBeVisible();
       const saved = validateBackup(await readStoredState(page));

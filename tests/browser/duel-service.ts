@@ -1,3 +1,4 @@
+import { createAccountBackend, isolateAccountService } from "./fixtures";
 import { expect, openRoundSetup, fixCalendarTime, type Page } from "./fixtures";
 import { PGlite } from "@electric-sql/pglite";
 import { readFileSync } from "node:fs";
@@ -36,27 +37,23 @@ const session = (id: string) => ({
   user: user(id),
 });
 export async function server() {
-  const db = new PGlite();
-  await db.exec(
-    `create role anon;create role authenticated;create schema auth;create table auth.users(id uuid primary key,email_confirmed_at timestamptz,is_anonymous boolean default false,raw_user_meta_data jsonb);create function auth.uid() returns uuid language sql stable as $$select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid$$;grant usage on schema public,auth to anon,authenticated;grant execute on function auth.uid() to anon,authenticated;insert into auth.users values('${alice}',now(),false,'{"display_name":"Alice"}'),('${bob}',now(),false,'{"display_name":"Bob"}');`,
-  );
-  await db.exec(
-    readFileSync("supabase/migrations/202609260001_quiz_accounts.sql", "utf8"),
-  );
-  await db.exec(
-    readFileSync("supabase/migrations/202610020005_async_duels.sql", "utf8"),
-  );
+  const backend = await createAccountBackend(),
+    db = backend.db;
+  const clients = new Map([
+    [alice, backend.api],
+    [bob, (await backend.client(bob)).api],
+  ]);
   for (const q of qs)
     await db.query(
       "insert into quiz_duel_catalog(id,knowledge_id,difficulty,genre,familiarity,question) values($1,$2,$3,'Science-Fiction',2,$4)",
       [q.id, q.knowledgeId, q.difficulty, q],
     );
-  const saves = new Map<string, unknown>();
   let tail = Promise.resolve();
   async function setup(page: Page, id: string, realTimers = false) {
     if (realTimers)
       await fixCalendarTime(page, new Date("2026-10-03T12:00:00Z"));
     else await page.clock.install({ time: new Date("2026-10-02T12:00:00Z") });
+    await isolateAccountService(page.context(), { backend, autoLogin: false });
     await page.route("**/account-config.json", (r) =>
       r.fulfill({
         json: {
@@ -71,27 +68,20 @@ export async function server() {
         body = route.request().postDataJSON() ?? {};
       if (path.endsWith("/token")) return route.fulfill({ json: session(id) });
       if (path.endsWith("/user")) return route.fulfill({ json: user(id) });
-      if (path.endsWith("/quiz_saves"))
-        return route.fulfill({ json: saves.has(id) ? [saves.get(id)] : [] });
-      if (path.endsWith("/quiz_save_state")) {
-        const revision = Number(body.expected_revision) + 1;
-        saves.set(id, {
-          state: body.payload,
-          revision,
-          updated_at: new Date().toISOString(),
-        });
-        return route.fulfill({ json: revision });
-      }
-      // This fixture intentionally models the older duel/backup backend.
-      if (path.endsWith("/quiz_sync_metadata"))
-        return route.fulfill({
-          status: 404,
-          json: {
-            code: "PGRST202",
-            message: "quiz_sync_metadata is absent in the legacy test service",
-          },
-        });
+      if (path.endsWith("/quiz_saves")) return route.fulfill({ json: [] });
       const name = path.split("/").at(-1)!;
+      if (name.startsWith("quiz_sync_")) {
+        try {
+          return route.fulfill({
+            json: await clients.get(id)!.call(name, body),
+          });
+        } catch (e) {
+          return route.fulfill({
+            status: 409,
+            json: { code: "P0001", message: (e as Error).message },
+          });
+        }
+      }
       if (!name.startsWith("quiz_duel_")) return route.fulfill({ json: [] });
       const execute = tail.then(async () => {
         await db.exec(
@@ -129,10 +119,7 @@ export async function server() {
       }
     });
     await page.goto("/");
-    await expect(
-      page.getByRole("button", { name: "Losspielen" }),
-    ).toBeEnabled();
-    await page.getByRole("button", { name: "Profil", exact: true }).click();
+
     await page.getByLabel("E-Mail-Adresse").fill(user(id).email);
     await page
       .getByLabel("Passwort", { exact: true })

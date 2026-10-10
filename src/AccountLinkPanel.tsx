@@ -103,8 +103,7 @@ export function LinkPanel({
               Danach wirst Du mit Deinem Quiz-Konto angemeldet und kannst
               losspielen. Dein Fortschritt wird automatisch online gespeichert.
               Melde Dich auf einem anderen Gerät mit demselben Quiz-Konto an, um
-              dort weiterzuspielen. Dein Gastspielstand bleibt getrennt
-              erhalten.
+              dort weiterzuspielen.
             </p>
           )}
           <button
@@ -127,7 +126,7 @@ export function LinkPanel({
       <p>
         {recovering || link?.type === "recovery"
           ? "Beim Abbrechen bleibt Dein bisheriges Passwort unverändert."
-          : "Wenn Du die Bestätigung überspringst, bleibt Dein Konto unbestätigt. Du kannst weiterhin als Gast spielen und den Link aus Deiner E-Mail später erneut öffnen."}
+          : "Wenn Du die Bestätigung überspringst, bleibt Dein Konto unbestätigt. Zum Spielen brauchst Du ein bestätigtes Konto. Den Link aus Deiner E-Mail kannst Du später erneut öffnen."}
       </p>
       <button
         className="text-button"
@@ -135,8 +134,8 @@ export function LinkPanel({
         onClick={() => void onCancel()}
       >
         {recovering || link?.type === "recovery"
-          ? "Abbrechen und zum Quiz"
-          : "Ohne Bestätigung zum Quiz"}
+          ? "Abbrechen und zur Anmeldung"
+          : "Zur Anmeldung"}
       </button>
     </main>
   );

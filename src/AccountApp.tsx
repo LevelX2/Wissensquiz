@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import type { SupabaseClient, User, Session } from "@supabase/supabase-js";
-import { App } from "./App";
+import { emptyState } from "./model";
 import { AccountGame } from "./AccountGame";
 import {
   accountConfig,
@@ -9,7 +9,6 @@ import {
   createPublicActivityClient,
   parseAccountLink,
 } from "./accounts";
-import { ActivityContext } from "./GuestActivity";
 import { requestWithin } from "./request";
 
 import { AccountPanel } from "./AccountPanel";
@@ -73,7 +72,7 @@ function setupAccounts() {
         publicClient: null,
         url: "",
         error:
-          "Der Kontodienst ist nicht verfügbar. Dein Gastspielstand bleibt nutzbar.",
+          "Der Kontodienst ist nicht verfügbar. Zum Spielen brauchst Du eine bestätigte Anmeldung.",
       };
     }
   })());
@@ -215,13 +214,11 @@ export function AccountApp() {
         publicClient={connection.publicClient}
         owner={user.id}
         storageKey={key}
-        panel={(state, onState, syncStatus, syncMessage, confirmedAt) => (
+        panel={(state, syncStatus, syncMessage, confirmedAt) => (
           <AccountPanel
             client={connection.client}
             user={user}
-            storageKey={key}
             state={state}
-            onState={onState}
             syncStatus={syncStatus}
             syncMessage={syncMessage}
             confirmedAt={confirmedAt}
@@ -233,23 +230,15 @@ export function AccountApp() {
       />
     );
   return (
-    <ActivityContext.Provider value={connection.publicClient}>
-      <App
-        key={key}
-        storageKey={key}
-        accountPanel={(state, onState) => (
-          <AccountPanel
-            client={connection.client}
-            user={user}
-            storageKey={key}
-            state={state}
-            onState={onState}
-            initialMessage={connection.error || message}
-            serviceUnavailable={!!connection.error}
-            onRetryConfig={retryConfig}
-          />
-        )}
+    <main>
+      <AccountPanel
+        client={connection.client}
+        user={null}
+        state={emptyState()}
+        initialMessage={connection.error || message}
+        serviceUnavailable={!!connection.error}
+        onRetryConfig={retryConfig}
       />
-    </ActivityContext.Provider>
+    </main>
   );
 }

@@ -2,7 +2,9 @@
 
 - [Antwortfarben auch bei Auflösung nach der Runde; Anzeigezeit ohne Abzug vom Zeitkonto – 10.10.2026](../../../docs/Lernregeln.md#antwortanzeige-bei-auflösung-nach-der-runde--10102026)
 
-- [Filmposter für alle Sci-Fi-Filme: Auftrag, fehlender TMDB-Zugang und Online-/Offline-Anzeige – 10.10.2026](../../../docs/Filmposter.md)
+- [Anmeldung zwingend, Spielstand ausschließlich online, Offline-Paket entfernt – lokaler Stand 10.10.2026](../../../docs/Anmeldung-und-Online-Spielstand.md)
+
+- [Filmposter für alle Sci-Fi-Filme: Auftrag, fehlender TMDB-Zugang und Online-Anzeige – 10.10.2026](../../../docs/Filmposter.md)
 
 - [Version 58 veröffentlicht: alle Genres mindestens 100 Filme und fällige Wiederholungen](../../../docs/Sites-Betrieb.md#version-58-genreausbau-und-fällige-wiederholungen)
 - [Version 58: Main-Quellcommit, Archiv, Online- und Duellkatalog](../../../docs/Veroeffentlichung-2026-10-09-Version-58.json)

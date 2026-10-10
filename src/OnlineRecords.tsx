@@ -198,8 +198,8 @@ export function OnlineRecords({
   return (
     <section aria-label="Gemeinsame Rekordläufe">
       <p className="muted">
-        Alle abgeschlossenen Läufe bestätigter Quiz-Konten. Gastläufe findest Du
-        unter „Meine Läufe“.
+        Alle abgeschlossenen Läufe bestätigter Quiz-Konten. Deine eigenen Läufe
+        findest Du unter „Meine Läufe“.
       </p>
       {!!categories.length && (
         <label>

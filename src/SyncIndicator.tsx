@@ -1,5 +1,5 @@
 import { useState } from "react";
-import type { SyncStatus } from "./accountSync";
+import type { SyncStatus } from "./syncTypes";
 import { OnlineConfirmation } from "./OnlineConfirmation";
 
 export type SyncDisplay = {

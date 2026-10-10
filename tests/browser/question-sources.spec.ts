@@ -145,17 +145,10 @@ for (const width of [1440, 320]) {
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
-    await expect(
-      page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-        exact: false,
-      }),
-    ).toBeVisible();
     if (browserName === "chromium") {
-      await context.setOffline(true);
       await page.reload();
     } else {
       await page.reload();
-      await context.setOffline(true);
     }
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     await expect(page.locator(".explanation")).toBeVisible();

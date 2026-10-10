@@ -1,9 +1,9 @@
 import { openRoundSetup } from "./fixtures";
-import { test, expect } from "@playwright/test";
+import { test, expect } from "./fixtures";
 import { writeFileSync } from "node:fs";
 import { server, alice, qs } from "./duel-service";
 import { readSavedState } from "./saved-state";
-test.use({ trace: "off", serviceWorkers: "block" });
+test.use({ trace: "off", serviceWorkers: "block", autoLogin: false });
 // Measure real browser frames, excluding trace capture and external network variability.
 test.describe("Duellreaktion", () => {
   test("zeigt die bestätigte Antwort ohne erneute Katalogkopie", async ({
@@ -16,7 +16,6 @@ test.describe("Duellreaktion", () => {
       expect(
         await page.evaluate(() => requestAnimationFrame.toString()),
       ).toContain("[native code]");
-      await expect.poll(() => page.workers().length).toBe(1);
       await page
         .getByRole("button", { name: "Zufälligen Gegner finden" })
         .click();

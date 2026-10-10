@@ -3,7 +3,7 @@ import { openRoundSetup, test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 for (const both of [false, true]) {
-  test(`Arthouse ${both ? "mit Classics" : "allein"}: Genre, Film, Bilder und Offline bleiben korrekt`, async ({
+  test(`Arthouse ${both ? "mit Classics" : "allein"}: Genre, Film, Bilder und Neuladen bleiben korrekt`, async ({
     page,
     context,
   }) => {
@@ -84,12 +84,6 @@ for (const both of [false, true]) {
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
-    await expect(
-      page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-        exact: false,
-      }),
-    ).toBeVisible();
-    await context.setOffline(true);
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     await expect(page.locator(".feedback")).toBeVisible();

@@ -1,3 +1,4 @@
+import { readStoredState } from "./fixtures";
 import {
   modePreparation,
   openRoundSetup,
@@ -10,43 +11,6 @@ import { mkdtemp } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { isolateAccountService, testBaseUrl } from "./fixtures";
-test("Ein vorbereitetes Update unterbricht keine laufende Runde", async ({
-  page,
-}) => {
-  await page.goto("/");
-  await page.getByRole("button", { name: "Profil", exact: true }).click();
-  await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible({ timeout: 20000 });
-  await page.getByRole("button", { name: "Spielen", exact: true }).click();
-  await page.getByRole("button", { name: "Losspielen" }).click();
-  await expect(page.locator(".answer").first()).toBeEnabled();
-  const question = await page.locator(".question-card h1").innerText();
-  await page.evaluate(async () => {
-    await navigator.serviceWorker.register("/sw.js?update-check=1");
-  });
-  await expect
-    .poll(() =>
-      page.evaluate(
-        async () =>
-          !!(await navigator.serviceWorker.getRegistration())?.waiting,
-      ),
-    )
-    .toBe(true);
-  await expect(page.locator(".question-card h1")).toHaveText(question);
-  await page.locator(".answer").first().click();
-  await expect(page.locator(".feedback")).toBeVisible();
-  await expect(page.getByText(/Eine neue Quiz-Version ist bereit/)).toHaveCount(
-    0,
-  );
-  await page.getByRole("button", { name: "Pause & Startseite" }).click();
-  await expect(
-    page.getByText(/Eine neue Quiz-Version ist bereit/),
-  ).toBeVisible();
-});
 test("Tastatur, sichtbarer Fokus und automatisierte Barrierearmutsprüfung", async ({
   page,
 }) => {
@@ -87,7 +51,7 @@ test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", a
   let context = await chromium.launchPersistentContext(profile, {
     headless: true,
   });
-  await isolateAccountService(context);
+  const backend = await isolateAccountService(context);
   let page = await context.newPage();
   await page.goto(testBaseUrl);
   await page.getByRole("button", { name: "Losspielen" }).click();
@@ -97,13 +61,14 @@ test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", a
   const question = await page.locator(".question-card h1").innerText();
   await context.close();
   context = await chromium.launchPersistentContext(profile, { headless: true });
-  await isolateAccountService(context);
+  await isolateAccountService(context, { backend });
   page = await context.newPage();
   await page.goto(testBaseUrl);
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".question-card h1")).toHaveText(question);
   await expect(page.locator(".feedback")).toBeVisible();
   await context.close();
+  await backend.close();
 });
 test("Hintergrundzeit und doppelte Klicks vergeben keine zweite Antwort", async ({
   page,
@@ -135,25 +100,7 @@ test("Hintergrundzeit und doppelte Klicks vergeben keine zweite Antwort", async 
       button.click();
     });
   await expect(page.locator(".feedback")).toBeVisible();
-  const counts = await page.evaluate(
-    () =>
-      new Promise<number[]>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onsuccess = () => {
-          const query = request.result
-            .transaction("state")
-            .objectStore("state")
-            .get("current");
-          query.onsuccess = () => {
-            resolve([
-              query.result.events.length,
-              query.result.rounds[0].events.length,
-            ]);
-            request.result.close();
-          };
-          query.onerror = () => reject(query.error);
-        };
-      }),
-  );
+  const saved = await readStoredState(page);
+  const counts = [saved.events.length, saved.rounds[0].events.length];
   expect(counts).toEqual([2, 2]);
 });

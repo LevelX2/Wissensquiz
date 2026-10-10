@@ -225,7 +225,7 @@ export function Help() {
           beide abgeschlossen, gewinnt der Wartende durch Zeitablauf. Vorher
           wird es ohne Sieg oder Niederlage beendet. Deine tatsächlich
           gespielten Antworten bleiben für Dein Lernen erhalten. Für Duelle
-          brauchst Du Internet; das Solospiel bleibt offline verfügbar.
+          brauchst Du Internet.
         </p>
       </details>
       <details>
@@ -238,9 +238,9 @@ export function Help() {
           richtige und gegebenenfalls falsch gewählte Antwort. Während der
           eingestellten Anzeigezeit pausieren Fragenzeit und Zeitkonto. Danach
           startet automatisch die nächste Frage oder der Rückblick mit Erklärung
-          und Vertiefung. Filmreise und Fehlertraining zeigen
-          Lösungen immer direkt; im Duell erscheinen sie immer nach Deiner
-          eigenen Runde, auch wenn Dein Gegner noch nicht gespielt hat.
+          und Vertiefung. Filmreise und Fehlertraining zeigen Lösungen immer
+          direkt; im Duell erscheinen sie immer nach Deiner eigenen Runde, auch
+          wenn Dein Gegner noch nicht gespielt hat.
         </p>
         <p>
           Bei gesammelten Lösungen kannst Du vor Deiner Antwort „Ich rate bei
@@ -358,24 +358,14 @@ export function Help() {
         <p>
           Bestätigte Quiz-Konten nehmen automatisch teil. Spielername, Level, XP
           und zusammengefasste Leistungsstatistik sind in der öffentlichen
-          Bestenliste auch für Gäste sichtbar. Gemeinsame Rekordläufe zeigen
-          Spielernamen und Ergebniswerte; Deine einzelnen Antworten und
-          persönlichen Duellergebnisse bleiben privat. Auch bisherige gesicherte
-          Runden zählen. E-Mail und vollständiger Spielstand bleiben privat. Als
-          Gast führst Du Deine persönliche Rekordliste auf diesem Gerät.
+          Bestenliste sichtbar. Gemeinsame Rekordläufe zeigen Spielernamen und
+          Ergebniswerte; Deine einzelnen Antworten und persönlichen
+          Duellergebnisse bleiben privat. Auch bisherige gesicherte Runden
+          zählen. E-Mail und vollständiger Spielstand bleiben privat.
         </p>
         <p>
           Die Listen sind Trainingsvergleiche auf Basis der gespeicherten
           Spiele, kein unabhängig kontrollierter Wettbewerb.
-        </p>
-        <p>
-          Unter den Listen steht die Gastaktivität für heute und die sechs
-          vorherigen Tage in deutscher Zeit: gemeldete Spielstarts, Abschlüsse
-          und Antworten aus abgeschlossenen Spielen. Das sind keine Besucher-
-          oder Personenzahlen. Nur eine zufällige Rundeneventkennung, Zeitpunkt
-          und Zählwerte werden übertragen, keine Fragen oder Gastspielstände.
-          Offline-Meldungen werden bis zu sieben Tage nachgereicht; frühere
-          Aktivitäten vor Beginn der Erfassung fehlen.
         </p>
       </details>
       <details>
@@ -426,16 +416,13 @@ export function Help() {
         </p>
         <p>
           Angemeldet wird Dein Fortschritt automatisch online gespeichert. Warte
-          vor einem Gerätewechsel auf „Spielstand online gespeichert“. Als Gast
-          bleibt Dein Fortschritt auf diesem Gerät; das Löschen der Browserdaten
-          kann ihn entfernen. Deinen Gaststand kannst Du im Profil ausdrücklich
-          übernehmen.
+          vor einem Gerätewechsel auf „Spielstand online gespeichert“. Zum
+          Spielen brauchst Du ein bestätigtes Quiz-Konto.
         </p>
         <p>
-          Nach dem vollständigen Download kannst Du mit dem geladenen Spielstand
-          offline spielen. Neue Anmeldungen, gemeinsame Highscores und die
-          Online-Sicherung benötigen Internet. Eine zusätzliche JSON-Sicherung
-          hilft vor Browserbereinigung oder einem Adresswechsel.
+          Zum Öffnen des Quiz und Laden der Bilder brauchst Du Internet. Dein
+          Spielstand wird ausschließlich in Deinem Online-Konto gespeichert.
+          Eine JSON-Sicherung kannst Du bei Bedarf selbst herunterladen.
         </p>
       </details>
     </section>

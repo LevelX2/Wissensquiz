@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import {
   modePreparation,
   test,
@@ -14,24 +15,7 @@ import { actorPresentation } from "../../src/actorEditorial";
 import type { Page } from "./fixtures";
 
 async function writeState(page: Page, value: State) {
-  await page.evaluate(
-    (state) =>
-      new Promise<void>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onerror = () => reject(request.error);
-        request.onsuccess = () => {
-          const db = request.result,
-            tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(state, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    value,
-  );
+  await writeStoredState(page, value);
 }
 const now = new Date("2026-10-03T12:00:00+02:00");
 test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt reine Personenrunden", async ({

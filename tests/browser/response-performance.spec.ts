@@ -1,6 +1,7 @@
+import { writeStoredState } from "./fixtures";
 import { readSavedState } from "./saved-state";
 import { fixCalendarTime } from "./fixtures";
-import { test, expect } from "@playwright/test";
+import { test, expect } from "./fixtures";
 import { readFileSync, writeFileSync } from "node:fs";
 import {
   emptyState,
@@ -32,9 +33,13 @@ function fixture(count: number) {
     difficulties: ["leicht", "mittel", "schwer", "experte"],
     familiarities: [1, 2, 3, 4],
   };
-  const qs = state.questions
-    .filter((q) => !q.id.startsWith("FACT-"))
-    .slice(0, 10);
+  const qs = [
+    ...new Map(
+      state.questions
+        .filter((q) => !q.id.startsWith("FACT-"))
+        .map((q) => [q.knowledgeId, q]),
+    ).values(),
+  ].slice(0, 10);
   for (let i = 0; i < count; i++) {
     const round: Round = {
       id: `history-${i}`,
@@ -93,9 +98,6 @@ for (const history of [0, 100, 500])
     page,
     browserName,
   }, testInfo) => {
-    await page.route("**/account-config.json", (r) =>
-      r.fulfill({ json: { enabled: false } }),
-    );
     await fixCalendarTime(page, new Date("2026-10-03T12:00:00+02:00"));
     await page.goto("/");
     expect(
@@ -104,24 +106,7 @@ for (const history of [0, 100, 500])
     await expect(
       page.getByRole("button", { name: /^Losspielen/ }),
     ).toBeEnabled();
-    await page.evaluate(
-      (state: State) =>
-        new Promise<void>((resolve, reject) => {
-          const req = indexedDB.open("wissensquiz");
-          req.onerror = () => reject(req.error);
-          req.onsuccess = () => {
-            const db = req.result;
-            const tx = db.transaction("state", "readwrite");
-            tx.objectStore("state").put(state, "current");
-            tx.oncomplete = () => {
-              db.close();
-              resolve();
-            };
-            tx.onerror = () => reject(tx.error);
-          };
-        }),
-      fixture(history),
-    );
+    await writeStoredState(page, fixture(history));
     await page.reload();
     await page.getByRole("button", { name: /^Fortsetzen/ }).click();
     const cdp =

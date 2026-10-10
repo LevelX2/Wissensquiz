@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { test, expect } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { emptyState } from "../../src/model";
@@ -5,7 +6,7 @@ import { packages, addPackages } from "../../src/packages";
 import { startRound } from "../../src/engine";
 import facts from "../../src/filmFacts.json" with { type: "json" };
 
-test("Sci-Fi-Ergänzung: Regiehintergrund erst nach Antwort und offline verfügbar", async ({
+test("Sci-Fi-Ergänzung: Regiehintergrund erst nach Antwort und nach Neuladen verfügbar", async ({
   page,
   context,
 }) => {
@@ -15,11 +16,6 @@ test("Sci-Fi-Ergänzung: Regiehintergrund erst nach Antwort und offline verfügb
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
   const state = emptyState();
   addPackages(
     state,
@@ -37,25 +33,7 @@ test("Sci-Fi-Ergänzung: Regiehintergrund erst nach Antwort und offline verfügb
     Date.parse("2026-09-29T11:59:00+02:00"),
   );
   state.questions = pool;
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result,
-            tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    state,
-  );
-  await context.setOffline(true);
+  await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".question-genre")).toHaveText("Sci-Fi");

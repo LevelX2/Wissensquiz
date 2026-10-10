@@ -1,13 +1,9 @@
 import { test as base, type BrowserContext, type Page } from "@playwright/test";
-import { catalogKey, decodeLocalState } from "../../src/localCatalog";
+import { readFileSync } from "node:fs";
 import type { State } from "../../src/model";
-import {
-  verifyRelease,
-  reconstructState,
-  type SyncRow,
-  type SyncObject,
-  type CatalogRelease,
-} from "../../src/syncCodec";
+import { verifyRelease, type PreparedRelease } from "../../src/syncCodec";
+import { OnlineGameStore } from "../../src/onlineGameStore";
+import { syncFixture } from "../helpers/sync-fixture";
 export { expect, chromium, type Page } from "@playwright/test";
 export const testBaseUrl = `http://localhost:${process.env.WISSENSQUIZ_BROWSER_PORT ?? 4173}`;
 
@@ -66,119 +62,144 @@ export async function openRoundSetup(page: Page) {
   }
 }
 
-// Inspect the logical state, independently of its IndexedDB storage layout.
-export async function readStoredState(
-  page: Page,
-  key = "current",
-): Promise<State> {
-  const entries = await page.evaluate(
-    (key) =>
-      new Promise<
-        | { rows: SyncRow[]; objects: SyncObject[]; releases: CatalogRelease[] }
-        | undefined
-      >((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onerror = () => reject(request.error);
-        request.onsuccess = () => {
-          const db = request.result;
-          if (!db.objectStoreNames.contains("entryHeads")) {
-            db.close();
-            resolve(undefined);
-            return;
-          }
-          const tx = db.transaction([
-              "entryHeads",
-              "entryRows",
-              "entryObjects",
-              "syncReleases",
-            ]),
-            head = tx.objectStore("entryHeads").get(key),
-            range = IDBKeyRange.bound([key], [key, []]);
-          const rows = tx.objectStore("entryRows").getAll(range),
-            objects = tx.objectStore("entryObjects").getAll(range),
-            releases = tx.objectStore("syncReleases").getAll();
-          tx.oncomplete = () => {
-            db.close();
-            resolve(
-              head.result
-                ? {
-                    rows: rows.result,
-                    objects: objects.result,
-                    releases: releases.result,
-                  }
-                : undefined,
-            );
-          };
-          tx.onerror = () => {
-            db.close();
-            reject(tx.error);
-          };
-        };
-      }),
-    key,
-  );
-  if (entries)
-    return reconstructState(
-      {
-        rows: new Map(
-          entries.rows.map((row) => [`${row.kind}:${row.id}`, row]),
-        ),
-        objects: new Map(
-          entries.objects.map((object) => [object.hash, object]),
-        ),
-      },
-      await Promise.all(entries.releases.map(verifyRelease)),
-    );
-  const stored = await page.evaluate(
-    ({ key, catalogKey }) =>
-      new Promise<{ state: any; catalog: unknown }>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onerror = () => reject(request.error);
-        request.onsuccess = () => {
-          const db = request.result;
-          const tx = db.transaction("state");
-          const store = tx.objectStore("state");
-          const state = store.get(key);
-          const catalog = store.get(catalogKey);
-          tx.oncomplete = () => {
-            db.close();
-            resolve({ state: state.result, catalog: catalog.result });
-          };
-          tx.onerror = () => {
-            db.close();
-            reject(tx.error);
-          };
-        };
-      }),
-    { key, catalogKey: catalogKey(key) },
-  );
-  const state = decodeLocalState(stored.state, stored.catalog, key);
-  if (!state) throw new Error("Testspielstand fehlt.");
-  return state;
+// Every browser gets a synthetic authenticated server with the real SQL protocol.
+// Browser tests never access production accounts or device game databases.
+export const testOwner = "11111111-1111-4111-8111-111111111111";
+export const testServiceUrl = "https://quiz-test.supabase.co";
+const user = {
+  id: testOwner,
+  aud: "authenticated",
+  role: "authenticated",
+  email: "quiz@example.test",
+  email_confirmed_at: "2026-09-26T10:00:00Z",
+  created_at: "2026-09-26T10:00:00Z",
+  app_metadata: { provider: "email", providers: ["email"] },
+  user_metadata: { display_name: "Quiztest" },
+};
+const session = {
+  access_token: [
+    { alg: "HS256", typ: "JWT" },
+    { sub: testOwner, exp: 2000000000, role: "authenticated" },
+    "test",
+  ]
+    .map((v) =>
+      Buffer.from(typeof v === "string" ? v : JSON.stringify(v)).toString(
+        "base64url",
+      ),
+    )
+    .join("."),
+  refresh_token: "synthetic-refresh",
+  token_type: "bearer",
+  expires_in: 3600,
+  expires_at: 2000000000,
+  user,
+};
+let preparedRelease: Promise<PreparedRelease> | undefined;
+export async function createAccountBackend() {
+  const fixture = await syncFixture(),
+    { api } = await fixture.client(testOwner);
+  const release = await (preparedRelease ??= verifyRelease(
+    JSON.parse(readFileSync("tmp-sync/catalog/release.json", "utf8")),
+  ));
+  await fixture.seed(release);
+  return { ...fixture, api, release, close: () => fixture.db.close() };
 }
-
-// Guest games now send aggregate activity. Every test context uses a synthetic
-// service so test rounds never reach the production activity or account data.
-export async function isolateAccountService(context: BrowserContext) {
+export type AccountBackend = Awaited<ReturnType<typeof createAccountBackend>>;
+const backends = new WeakMap<BrowserContext, AccountBackend>();
+export function accountBackend(page: Page) {
+  const backend = backends.get(page.context());
+  if (!backend) throw new Error("Isolierter Testserver fehlt");
+  return backend;
+}
+export async function isolateAccountService(
+  context: BrowserContext,
+  options: { autoLogin?: boolean; backend?: AccountBackend } = {},
+) {
+  const backend = options.backend ?? (await createAccountBackend());
+  backends.set(context, backend);
   await context.route("**/account-config.json", (route) =>
     route.fulfill({
       json: {
         enabled: true,
-        supabaseUrl: "https://quiz-test.supabase.co",
+        supabaseUrl: testServiceUrl,
         publishableKey: "sb_publishable_test",
       },
     }),
   );
-  await context.route("https://quiz-test.supabase.co/**", (route) =>
-    route.fulfill({
-      status: 404,
-      json: { code: "PGRST202", message: "Mock endpoint not configured" },
-    }),
-  );
+  await context.route(`${testServiceUrl}/**`, async (route) => {
+    const path = new URL(route.request().url()).pathname,
+      body = route.request().postDataJSON() ?? {};
+    if (path.endsWith("/user")) return route.fulfill({ json: user });
+    if (path.endsWith("/token")) return route.fulfill({ json: session });
+    if (path.endsWith("/logout")) return route.fulfill({ json: {} });
+    if (path.endsWith("/quiz_saves")) return route.fulfill({ json: [] });
+    const name = path.split("/").at(-1)!;
+    if (!name.startsWith("quiz_sync_")) return route.fulfill({ json: [] });
+    try {
+      return route.fulfill({ json: await backend.api.call(name, body) });
+    } catch (error) {
+      if (/Bestätigung verloren|Offlinephase/.test((error as Error).message))
+        return route.abort("failed");
+      return route.fulfill({
+        status: 409,
+        json: {
+          code: "P0001",
+          message:
+            (error as Error).constructor.name === "CloudConflict"
+              ? "revision_conflict"
+              : (error as Error).message,
+        },
+      });
+    }
+  });
+  if (options.autoLogin !== false)
+    await context.addInitScript((value) => {
+      if (!sessionStorage.getItem("test-auth-initialized")) {
+        localStorage.setItem(
+          "wissensquiz-auth:quiz-test.supabase.co",
+          JSON.stringify(value),
+        );
+        sessionStorage.setItem("test-auth-initialized", "yes");
+      }
+    }, session);
+  return backend;
 }
-export const test = base.extend({
-  context: async ({ context }, use) => {
-    await isolateAccountService(context);
-    await use(context);
+export async function readStoredState(
+  page: Page,
+  _key?: string,
+): Promise<State> {
+  const { api, release } = accountBackend(page);
+  const store = new OnlineGameStore(
+    api,
+    testOwner,
+    async () => release,
+    async () => null,
+  );
+  await store.open();
+  const state = store.read();
+  store.stop();
+  return state;
+}
+export async function writeStoredState(page: Page, state: State) {
+  const { api, release } = accountBackend(page);
+  const store = new OnlineGameStore(
+    api,
+    testOwner,
+    async () => release,
+    async () => null,
+  );
+  await store.open();
+  await store.update((s) => Object.assign(s, state), { replace: true });
+  store.stop();
+}
+export const test = base.extend<{ autoLogin: boolean }>({
+  autoLogin: [true, { option: true }],
+  context: async ({ context, autoLogin }, use) => {
+    const backend = await isolateAccountService(context, { autoLogin });
+    try {
+      await use(context);
+    } finally {
+      await backend.close();
+    }
   },
 });

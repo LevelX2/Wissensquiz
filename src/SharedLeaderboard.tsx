@@ -283,9 +283,8 @@ export function SharedLeaderboard({ state }: { state: State }) {
         </details>
       )}
       <p className="tiny muted">
-        Gemeinsame Trainingsrangliste. Auch offline erspielte und importierte
-        Ergebnisse können enthalten sein; die Spielabläufe sind nicht unabhängig
-        geprüft.
+        Gemeinsame Trainingsrangliste. Auch frühere und importierte Ergebnisse
+        können enthalten sein; die Spielabläufe sind nicht unabhängig geprüft.
       </p>
     </div>
   );

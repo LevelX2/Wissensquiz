@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { catalogCounts } from "../catalog-counts";
 import { readFileSync } from "node:fs";
 import { test, expect, readStoredState, type Page } from "./fixtures";
@@ -13,29 +14,12 @@ async function prepareQuestion(page: Page, id: string) {
     Date.parse("2026-10-07T11:59:00+02:00"),
   );
   state.questions = catalog;
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onerror = () => reject(request.error);
-        request.onsuccess = () => {
-          const db = request.result,
-            tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
 }
 
-test("lädt drei neue Pakete einmal, schützt das Regieteam und erhält alle Fragen und Antworten offline", async ({
+test("lädt drei neue Pakete einmal, schützt das Regieteam und erhält alle Fragen und Antworten nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -66,12 +50,6 @@ test("lädt drei neue Pakete einmal, schützt das Regieteam und erhält alle Fra
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".explanation")).toBeVisible();

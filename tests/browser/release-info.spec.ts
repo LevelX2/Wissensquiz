@@ -1,22 +1,21 @@
 import { test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
-test("Profil zeigt die tatsächliche Veröffentlichungszeit in Deutschland und erhält sie offline", async ({
+test("Profil zeigt die tatsächliche Veröffentlichungszeit in Deutschland und erhält sie nach Neuladen", async ({
   page,
   context,
   browserName,
 }) => {
   await page.setViewportSize({ width: 320, height: 740 });
   if (browserName === "webkit") {
-    // Windows WebKit bypasses Playwright routes after a service worker takes
-    // control. Keep the offline worker and isolate this RPC at fetch instead.
+    // Isolate the public release metadata request on mobile WebKit too.
     await page.addInitScript(() => {
       const original = window.fetch;
       window.fetch = async (input, init) => {
         const url = input instanceof Request ? input.url : String(input);
         if (url.endsWith("/rest/v1/rpc/quiz_app_release")) {
           if (!navigator.onLine)
-            throw new TypeError("Synthetic offline request");
+            throw new TypeError("Synthetic unavailable release request");
           const version = JSON.parse(
             String(init?.body ?? "{}"),
           ).selected_version;
@@ -51,14 +50,7 @@ test("Profil zeigt die tatsächliche Veröffentlichungszeit in Deutschland und e
       .violations,
   ).toEqual([]);
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  if (browserName === "chromium") await context.setOffline(true);
   await page.reload();
-  if (browserName !== "chromium") await context.setOffline(true);
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await expect(info).toContainText("03.10.2026, 12:04 Uhr");
   expect(

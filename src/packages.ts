@@ -112,7 +112,7 @@ export function hasPackage(state: State, filename: string) {
     (r) => r.filename === filename && r.accepted + r.duplicates > 0,
   );
 }
-// Apply inside the IndexedDB transaction: concurrent tabs must not import twice.
+// Apply to the proposed state; the server revision prevents concurrent overwrite.
 export function addPackages(state: State, incoming: PackageContent[]) {
   state.bundledQuestionIds ??= [];
   // Freeze rights from the old catalog before adding earlier/new film groups.

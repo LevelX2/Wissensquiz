@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { test, expect, readStoredState, type Page } from "./fixtures";
 import { startRound } from "../../src/engine";
@@ -5,7 +6,7 @@ import { questionSourceOf, genreOf } from "../../src/filters";
 import { filmIdentity } from "../../src/familiarity";
 import { catalogCounts } from "../catalog-counts";
 
-test("enthält 100 Horrorfilme, erhält die früheren Festivaljahre und lädt das Paket offline", async ({
+test("enthält 100 Horrorfilme, erhält die früheren Festivaljahre und lädt das Paket nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -51,12 +52,6 @@ test("enthält 100 Horrorfilme, erhält die früheren Festivaljahre und lädt da
   }
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   expect(
     await page.evaluate(async () =>
@@ -66,7 +61,7 @@ test("enthält 100 Horrorfilme, erhält die früheren Festivaljahre und lädt da
   expect((await readStoredState(page)).questions).toEqual(initial.questions);
 });
 
-test("enthält 100 Fantasyfilme, erhält die vollständige Haupt- und Co-Regie und lädt das Paket offline", async ({
+test("enthält 100 Fantasyfilme, erhält die vollständige Haupt- und Co-Regie und lädt das Paket nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -96,12 +91,6 @@ test("enthält 100 Fantasyfilme, erhält die vollständige Haupt- und Co-Regie u
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   expect(
     await page.evaluate(async () =>
@@ -111,7 +100,7 @@ test("enthält 100 Fantasyfilme, erhält die vollständige Haupt- und Co-Regie u
   expect((await readStoredState(page)).questions).toEqual(initial.questions);
 });
 
-test("enthält 100 Westernfilme, trennt Hauptregie und zweite Einheit und erhält die Koproduktionsangaben offline", async ({
+test("enthält 100 Westernfilme, trennt Hauptregie und zweite Einheit und erhält die Koproduktionsangaben nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -137,12 +126,6 @@ test("enthält 100 Westernfilme, trennt Hauptregie und zweite Einheit und erhäl
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   expect(
     await page.evaluate(async () =>
@@ -152,7 +135,7 @@ test("enthält 100 Westernfilme, trennt Hauptregie und zweite Einheit und erhäl
   expect((await readStoredState(page)).questions).toEqual(initial.questions);
 });
 
-test("enthält 100 Rom-Com-Filme, erhält beide bestehenden Regieziele und lädt das Paket offline", async ({
+test("enthält 100 Rom-Com-Filme, erhält beide bestehenden Regieziele und lädt das Paket nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -185,12 +168,6 @@ test("enthält 100 Rom-Com-Filme, erhält beide bestehenden Regieziele und lädt
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   expect(
     await page.evaluate(async () =>
@@ -200,7 +177,7 @@ test("enthält 100 Rom-Com-Filme, erhält beide bestehenden Regieziele und lädt
   expect((await readStoredState(page)).questions).toEqual(initial.questions);
 });
 
-test("enthält 100 Musikfilme, teilt das bestehende Regieziel und erhält den Festival-Erststart offline", async ({
+test("enthält 100 Musikfilme, teilt das bestehende Regieziel und erhält den Festival-Erststart nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -234,12 +211,6 @@ test("enthält 100 Musikfilme, teilt das bestehende Regieziel und erhält den Fe
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   expect(
     await page.evaluate(async () =>
@@ -259,29 +230,12 @@ async function prepareQuestion(page: Page, id: string) {
     Date.parse("2026-10-08T12:00:00+02:00"),
   );
   state.questions = catalog;
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onerror = () => reject(request.error);
-        request.onsuccess = () => {
-          const db = request.result,
-            tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
 }
 
-test("enthält 100 Abenteuerfilme, schützt beide Regienamen und lädt das neue Paket offline", async ({
+test("enthält 100 Abenteuerfilme, schützt beide Regienamen und lädt das neue Paket nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -313,12 +267,6 @@ test("enthält 100 Abenteuerfilme, schützt beide Regienamen und lädt das neue 
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   expect(
     await page.evaluate(async () =>
@@ -345,7 +293,7 @@ test("unterscheidet den frühen Erststart von einem späteren Länderstart und z
   await expect(page.locator(".film-data")).toContainText("1987");
 });
 
-test("enthält 100 Thrillerfilme, erhält die bestehende Wissenszielidentität und lädt das Paket offline", async ({
+test("enthält 100 Thrillerfilme, erhält die bestehende Wissenszielidentität und lädt das Paket nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -375,12 +323,6 @@ test("enthält 100 Thrillerfilme, erhält die bestehende Wissenszielidentität u
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   expect(
     await page.evaluate(async () =>
@@ -390,7 +332,7 @@ test("enthält 100 Thrillerfilme, erhält die bestehende Wissenszielidentität u
   expect((await readStoredState(page)).questions).toEqual(initial.questions);
 });
 
-test("enthält 100 Martial-Arts-Filme, unterscheidet die zweiteilige Erstveröffentlichung und lädt das Paket offline", async ({
+test("enthält 100 Martial-Arts-Filme, unterscheidet die zweiteilige Erstveröffentlichung und lädt das Paket nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -419,12 +361,6 @@ test("enthält 100 Martial-Arts-Filme, unterscheidet die zweiteilige Erstveröff
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   expect(
     await page.evaluate(async () =>
@@ -434,7 +370,7 @@ test("enthält 100 Martial-Arts-Filme, unterscheidet die zweiteilige Erstveröff
   expect((await readStoredState(page)).questions).toEqual(initial.questions);
 });
 
-test("enthält 100 Actionfilme, trennt Hauptregie und zweite Einheit und lädt das Paket offline", async ({
+test("enthält 100 Actionfilme, trennt Hauptregie und zweite Einheit und lädt das Paket nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -463,12 +399,6 @@ test("enthält 100 Actionfilme, trennt Hauptregie und zweite Einheit und lädt d
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   expect(
     await page.evaluate(async () =>

@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -6,7 +7,7 @@ import { addPackages, packages } from "../../src/packages";
 import { emptyState } from "../../src/model";
 import { startRound } from "../../src/engine";
 
-test("Preisträger und Experte sind mobil auswählbar, zeigen Vertiefung und bleiben offline erhalten", async ({
+test("Preisträger und Experte sind mobil auswählbar, zeigen Vertiefung und bleiben nach Neuladen erhalten", async ({
   page,
   context,
 }) => {
@@ -63,12 +64,6 @@ test("Preisträger und Experte sind mobil auswählbar, zeigen Vertiefung und ble
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".explanation")).toBeVisible();
@@ -101,24 +96,7 @@ test("Gewinnerfilm-Fragen verraten die Lösung erst nach der Antwort und zeigen 
       text: readFileSync(`public${p.path}`, "utf8"),
     })),
   );
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".question-card h1")).not.toContainText(

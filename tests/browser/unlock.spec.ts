@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { familiarityOf } from "../../src/familiarity";
 import { learningPathProgress } from "../../src/learningPath";
 import { test, expect } from "./fixtures";
@@ -110,29 +111,8 @@ for (const scenario of [
     ).toBeEnabled();
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
-    await expect(
-      page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-        exact: false,
-      }),
-    ).toBeVisible({ timeout: 20000 });
-    await page.evaluate(async (state) => {
-      await new Promise<void>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onsuccess = () => {
-          const db = req.result;
-          const tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(state, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-        req.onerror = () => reject(req.error);
-      });
-    }, state);
+    await writeStoredState(page, state);
     await page.reload();
-    await context.setOffline(true);
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     const beforeAnswer = await page.evaluate(
       () =>

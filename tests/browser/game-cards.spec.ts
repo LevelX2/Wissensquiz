@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import {
   test,
   expect,
@@ -283,24 +284,7 @@ test("Aktueller Fragenrückblick bleibt, Sonderwertungen entfallen ohne Verlust 
     state.rounds.push(r);
     state.events.push(...run.events);
   }
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onsuccess = () => {
-          const db = req.result,
-            tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-        req.onerror = () => reject(req.error);
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
   await page.reload();
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();

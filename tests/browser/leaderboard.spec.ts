@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
@@ -6,7 +7,7 @@ import { emptyState } from "../../src/model";
 import { answer, complete, startRound } from "../../src/engine";
 import AxeBuilder from "@axe-core/playwright";
 
-test("Leere Highscores führen zur Rekordauswahl und zur Anmeldung", async ({
+test("Leere Highscores führen zur Rekordauswahl; angemeldete Konten sehen die Duellliste", async ({
   page,
 }) => {
   await page.clock.install({ time: new Date("2026-10-02T12:00:00+02:00") });
@@ -48,10 +49,12 @@ test("Leere Highscores führen zur Rekordauswahl und zur Anmeldung", async ({
       () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBe(true);
-  await page.getByRole("button", { name: "Im Profil anmelden" }).press("Enter");
   await expect(
-    page.getByRole("heading", { name: "Anmelden", exact: true }),
+    page.getByText("Noch keine abgeschlossenen Duelle in dieser Auswahl."),
   ).toBeVisible();
+  await expect(
+    page.getByRole("button", { name: "Im Profil anmelden" }),
+  ).toHaveCount(0);
 });
 
 test("Genre und Schwierigkeit bleiben unabhängig einstellbar und über Neuladen erhalten", async ({
@@ -90,7 +93,7 @@ test("Genre und Schwierigkeit bleiben unabhängig einstellbar und über Neuladen
   await expect(page.locator(".question-difficulty")).toHaveCount(0);
 });
 
-test("Alle abgeschlossenen Ergebnisse sind filterbar und offline erhalten, ohne späteren Fragenrückblick", async ({
+test("Alle abgeschlossenen Ergebnisse sind filterbar und nach Neuladen erhalten, ohne späteren Fragenrückblick", async ({
   page,
   context,
 }) => {
@@ -145,29 +148,7 @@ test("Alle abgeschlossenen Ergebnisse sind filterbar und offline erhalten, ohne 
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible({ timeout: 20000 });
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onsuccess = () => {
-          const db = req.result,
-            tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-        req.onerror = () => reject(req.error);
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await expect(page.locator(".leaderboard-category")).toHaveCount(2);
@@ -198,7 +179,6 @@ test("Alle abgeschlossenen Ergebnisse sind filterbar und offline erhalten, ohne 
   await expect(page.getByRole("button", { name: "Spiel ansehen" })).toHaveCount(
     0,
   );
-  await context.setOffline(true);
   await page.reload();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await expect(page.locator(".leaderboard-entry")).toHaveCount(3);

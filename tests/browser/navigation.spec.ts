@@ -58,11 +58,6 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   ).toBeVisible();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(page.getByLabel("Soundeffekte", { exact: true })).toBeVisible();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible({ timeout: 20000 });
   await page.getByRole("button", { name: "Zurück zum Profil" }).click();
   await page
     .locator("main")
@@ -92,7 +87,6 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
       .violations,
   ).toEqual([]);
   await page.screenshot({ path: "test-results/hilfe-navigation-320.png" });
-  await context.setOffline(true);
   await page.reload();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page

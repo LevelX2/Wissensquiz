@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -58,24 +59,7 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
       now += 60000;
     }
     roundFor(q, mode);
-    await page.evaluate(
-      (value) =>
-        new Promise<void>((resolve, reject) => {
-          const req = indexedDB.open("wissensquiz");
-          req.onerror = () => reject(req.error);
-          req.onsuccess = () => {
-            const db = req.result,
-              tx = db.transaction("state", "readwrite");
-            tx.objectStore("state").put(value, "current");
-            tx.oncomplete = () => {
-              db.close();
-              resolve();
-            };
-            tx.onerror = () => reject(tx.error);
-          };
-        }),
-      state,
-    );
+    await writeStoredState(page, state);
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     const stats = page.locator(".question-history");

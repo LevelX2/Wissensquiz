@@ -3,19 +3,15 @@ import type { SupabaseClient, User } from "@supabase/supabase-js";
 import { PasswordField } from "./PasswordField";
 import { ProfileStats } from "./ProfileStats";
 import { syncText } from "./AccountGame";
-import type { SyncStatus } from "./accountSync";
-import { authError, replaceAccountState } from "./accounts";
-import { read } from "./storage";
+import type { SyncStatus } from "./syncTypes";
+import { authError } from "./accounts";
 import type { State } from "./model";
-import { RecoveryCopies } from "./RecoveryCopiesPanel";
 import { OnlineConfirmation } from "./OnlineConfirmation";
 
 export function AccountPanel({
   client,
   user,
-  storageKey,
   state,
-  onState,
   initialMessage,
   syncStatus,
   syncMessage,
@@ -25,9 +21,7 @@ export function AccountPanel({
 }: {
   client: SupabaseClient | null;
   user: User | null;
-  storageKey: string;
   state: State;
-  onState: (state: State) => void;
   initialMessage: string;
   syncStatus?: SyncStatus;
   syncMessage?: string;
@@ -43,7 +37,6 @@ export function AccountPanel({
     [name, setName] = useState("");
   const [busy, setBusy] = useState(false),
     [message, setMessage] = useState(initialMessage);
-  const [guestAccept, setGuestAccept] = useState(false);
   const run = async (fn: () => Promise<void>) => {
     setBusy(true);
     setMessage("");
@@ -72,10 +65,7 @@ export function AccountPanel({
             ? "Der Kontodienst konnte gerade nicht geladen werden. Prüfe Deine Internetverbindung und versuche es erneut."
             : "Die eigene Anmeldung wird vorbereitet. Bestätigungs- und Reset-Mails sind noch nicht eingerichtet."}
         </p>
-        <p>
-          Du kannst weiterhin als Gast spielen. Dein bisheriger Spielstand
-          bleibt auf diesem Gerät erhalten.
-        </p>
+
         {message && !serviceUnavailable && <p role="status">{message}</p>}
         {serviceUnavailable && (
           <button className="secondary" onClick={onRetryConfig}>
@@ -100,7 +90,7 @@ export function AccountPanel({
         <p>
           Mit Deinem Quiz-Konto wird Dein Fortschritt automatisch online
           gespeichert. Melde Dich auf einem anderen Gerät an und spiele dort
-          weiter. Als Gast bleibt Dein Fortschritt nur auf diesem Gerät.
+          weiter. Zum Spielen ist eine Anmeldung erforderlich.
         </p>
         <form
           onSubmit={(e) => {
@@ -198,7 +188,7 @@ export function AccountPanel({
               Mindestens zwölf Zeichen. Dein Spielername darf ein Pseudonym
               sein. Dein Spielername, Level, XP und zusammengefasste
               Spielerstatistik sind in der öffentlichen Bestenliste sichtbar,
-              auch für Gäste. Die einzelnen Rekordergebnisse stehen im
+              für andere Spieler. Die einzelnen Rekordergebnisse stehen im
               Spielervergleich für angemeldete Spieler. Die Teilnahme gehört zum
               Quiz-Konto. E-Mail und privater Spielstand bleiben verborgen.
             </p>
@@ -249,8 +239,8 @@ export function AccountPanel({
       <ProfileStats state={state} />
       <p className="tiny muted">
         Dein Spielername und Deine Leistungswerte erscheinen automatisch in der
-        öffentlichen Bestenliste, auch für Gäste. E-Mail und privater Spielstand
-        bleiben verborgen.
+        öffentlichen Bestenliste, für andere Spieler. E-Mail und privater
+        Spielstand bleiben verborgen.
       </p>
       <details className="account-help">
         <summary>Konto & Speicherung</summary>
@@ -258,7 +248,6 @@ export function AccountPanel({
           {syncMessage || (syncStatus && syncText[syncStatus])}
         </p>
         <OnlineConfirmation at={confirmedAt} />
-        <RecoveryCopies key={storageKey} storageKey={storageKey} />
         <p role="status">{message}</p>
         <button
           className="secondary"
@@ -276,42 +265,6 @@ export function AccountPanel({
           Dein Fortschritt wird automatisch gespeichert. Warte vor dem
           Gerätewechsel hier im Profil auf „Spielstand online gespeichert“.
         </p>
-        <details>
-          <summary>Vorhandenen Gastspielstand übernehmen</summary>
-          <h2>Bisherigen Gastspielstand übernehmen</h2>
-          <p>
-            Damit startest Du in Deinem Konto mit dem Fortschritt, den Du auf
-            diesem Gerät bisher als Gast erspielt hast. Der Gastspielstand
-            bleibt erhalten; der lokale Kontospielstand wird ersetzt. Sichere
-            ihn vorher als JSON. Der übernommene Stand wird anschließend
-            automatisch online gespeichert.
-          </p>
-          <label className="filter-choice">
-            <input
-              type="checkbox"
-              checked={guestAccept}
-              onChange={(e) => setGuestAccept(e.target.checked)}
-            />
-            Meinen lokalen Kontospielstand durch den Gastspielstand ersetzen
-          </label>
-          <button
-            className="secondary"
-            disabled={busy || !guestAccept}
-            onClick={() =>
-              void run(async () => {
-                const guest = await read();
-                if (!guest) throw new Error("Kein Gastspielstand vorhanden.");
-                onState(await replaceAccountState(storageKey, guest));
-                setGuestAccept(false);
-                setMessage(
-                  "Gastspielstand kopiert. Er wird automatisch online gespeichert.",
-                );
-              })
-            }
-          >
-            Gastspielstand kopieren
-          </button>
-        </details>
       </details>
     </section>
   );

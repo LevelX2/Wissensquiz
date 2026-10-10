@@ -1,26 +1,12 @@
 import { test, expect, openRoundSetup, readStoredState } from "./fixtures";
 
-test("alle Nebenansichten öffnen nach Offlinevorbereitung auch ohne vorherigen Besuch", async ({
+test("alle Nebenansichten öffnen ohne vorherigen Besuch", async ({
   page,
   context,
 }) => {
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
-  await expect
-    .poll(() =>
-      page.evaluate(async () => {
-        const registration = await navigator.serviceWorker.getRegistration();
-        if (!registration?.active || !navigator.serviceWorker.controller)
-          return false;
-        const cache = await caches.open(
-          (await caches.keys()).find((k) => k.startsWith("film-"))!,
-        );
-        return (await cache.keys()).some((r) => /Help-.*\.js$/.test(r.url));
-      }),
-    )
-    .toBe(true);
   const before = await readStoredState(page);
-  await context.setOffline(true);
   for (const name of ["Themen", "Sammlung", "Highscores", "Profil"]) {
     await page.getByRole("button", { name, exact: true }).click();
     await expect(page.locator(".main-content")).not.toContainText(

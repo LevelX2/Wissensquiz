@@ -5,7 +5,6 @@ import { familiarities } from "./familiarity";
 import {
   lazy,
   Suspense,
-  useContext,
   useEffect,
   useMemo,
   useRef,
@@ -27,11 +26,7 @@ import {
   questionSourceOf,
   questionSources,
 } from "./filters";
-import { read as readStored, update as updateStored } from "./storage";
-import { useOffline } from "./offline";
-import { UpdateNotice } from "./UpdateNotice";
-import { ActivityContext } from "./GuestActivity";
-import { GuestActivityReporter } from "./guestActivityDelivery";
+import type { OnlineGameStore } from "./onlineGameStore";
 import { readRoundSetup } from "./roundSetup";
 import { careerProgress } from "./career";
 import { CareerProgress } from "./CareerProgress";
@@ -60,7 +55,7 @@ import type { Page, DuelPage, Mutate } from "./uiTypes";
 import { QuestionScreen } from "./QuestionScreen";
 import { Result } from "./RoundResult";
 import { PlaySetup } from "./PlaySetup";
-import type { WriteOptions } from "./entryStorage";
+import type { WriteOptions } from "./syncTypes";
 
 import { PageBoundary } from "./PageBoundary";
 import { ReleaseInfo } from "./ReleaseInfo";
@@ -85,22 +80,20 @@ const CollectionPage = lazy(() =>
 );
 
 export function App({
-  storageKey = "current",
+  store,
   accountPanel,
-  onPersistedState,
   sync,
 }: {
-  storageKey?: string;
-  accountPanel?: (state: State, onState: (state: State) => void) => ReactNode;
-  onPersistedState?: (state: State) => void;
+  store: OnlineGameStore;
+  accountPanel?: (state: State) => ReactNode;
   sync?: SyncDisplay;
 }) {
-  const read = () => readStored(storageKey);
+  const read = () => store.read();
   const update = (
     fn: (s: State) => void,
-    initial?: State,
+    _initial?: State,
     options?: WriteOptions,
-  ) => updateStored(fn, initial, storageKey, options);
+  ) => store.update(fn, options);
   const [state, setState] = useState<State | null>(null);
   const [page, setPage] = useState<Page | DuelPage>(
     location.hash.startsWith("#duel=") ? "duels" : "home",
@@ -128,40 +121,14 @@ export function App({
   const heading = useRef<HTMLElement>(null);
   const booted = useRef(false);
   const inFlight = useRef(false);
-  const offline = useOffline();
-  const activityClient = useContext(ActivityContext);
-  const guestReporter = useRef<GuestActivityReporter | null>(null);
-  useEffect(() => {
-    if (storageKey !== "current") return;
-    // This delivery queue is separate from the personal guest save.
-    let storage: Pick<Storage, "getItem" | "setItem">;
-    try {
-      storage = localStorage;
-    } catch {
-      storage = {
-        getItem: () => {
-          throw new Error();
-        },
-        setItem: () => {
-          throw new Error();
-        },
-      };
-    }
-    const reporter = new GuestActivityReporter(activityClient, storage);
-    guestReporter.current = reporter;
-    const flush = () => {
-      void reporter.flush();
-    };
-    flush();
-    const timer = window.setInterval(flush, 30000);
-    window.addEventListener("online", flush);
-    return () => {
-      guestReporter.current = null;
-      reporter.stop();
-      window.clearInterval(timer);
-      window.removeEventListener("online", flush);
-    };
-  }, [activityClient, storageKey]);
+  useEffect(
+    () =>
+      store.subscribe((next) => {
+        setState(next);
+        setError("");
+      }),
+    [store],
+  );
   const catalogNavigation = useMemo(
     () => ({
       topics: [...new Set(state?.questions.map((q) => q.topic) ?? [])].sort(),
@@ -181,9 +148,6 @@ export function App({
     () => (state ? readRoundSetup(state) : null),
     [state?.questions, state?.settings],
   );
-  useEffect(() => {
-    if (state) onPersistedState?.(state);
-  }, [state, onPersistedState]);
   useEffect(() => {
     if (state?.settings.sound === false) stopFeedback();
   }, [state?.settings.sound]);
@@ -239,7 +203,7 @@ export function App({
       setState(loaded);
     })().catch((e) =>
       setError(
-        `Lokaler Speicher nicht verfügbar: ${String(e)}. Bitte Browser-Speicher freigeben und neu laden.`,
+        `Dein Online-Spielstand konnte nicht geöffnet werden: ${e instanceof Error ? e.message : String(e)}`,
       ),
     );
   }, []);
@@ -473,7 +437,6 @@ export function App({
       }).id;
     });
     if (next) {
-      guestReporter.current?.record(next, id, "started");
       playFeedback("start", next.settings);
       setRoundId(id);
       setIndex(0);
@@ -501,22 +464,12 @@ export function App({
       }).id;
     });
     if (next) {
-      guestReporter.current?.record(next, id, "started");
       playFeedback("start", next.settings);
       setRoundId(id);
       setIndex(0);
       setPage("round");
     }
   };
-  const updateDisabledReason = state.rounds.some(
-    (round) => round.status === "active",
-  )
-    ? "Beende zuerst Deine laufende Runde."
-    : busy
-      ? "Dein Spielstand wird gerade gespeichert."
-      : sync && sync.status !== "saved"
-        ? "Warte, bis Dein Spielstand online gespeichert ist."
-        : undefined;
   return (
     <div
       className={`app-shell ${page === "round" || duelPlaying ? "is-playing" : ""}`}
@@ -578,13 +531,6 @@ export function App({
         </div>
       </aside>
       <div className={`workspace ${page === "home" ? "cinema-home" : ""}`}>
-        {!offline.online && !sync && (
-          <header className="topbar">
-            <span className="connection" role="status">
-              Offline · lokal gespeichert
-            </span>
-          </header>
-        )}
         <main
           ref={heading}
           tabIndex={-1}
@@ -599,14 +545,11 @@ export function App({
           {error && (
             <div role="alert" className="notice error">
               {error}
+              {sync?.status === "offline" && (
+                <button onClick={sync.retry}>Erneut versuchen</button>
+              )}
             </div>
           )}
-          {offline.waiting &&
-            !duelPlaying &&
-            page !== "round" &&
-            page !== "settings" && (
-              <UpdateNotice disabledReason={updateDisabledReason} />
-            )}
           <PageBoundary key={page}>
             <Suspense fallback={<p role="status">Ansicht wird geladen …</p>}>
               {page === "home" && (
@@ -679,13 +622,6 @@ export function App({
                   mutate={mutate}
                   busy={busy}
                   sync={sync}
-                  onCompleted={(saved) =>
-                    guestReporter.current?.record(
-                      saved,
-                      current.id,
-                      "completed",
-                    )
-                  }
                   onExit={() => void nav("home")}
                   onNext={async () => {
                     unlockSound(state.settings);
@@ -699,11 +635,6 @@ export function App({
                           : newlyUnlocked(before, s);
                       });
                       if (next) {
-                        guestReporter.current?.record(
-                          next,
-                          current.id,
-                          "completed",
-                        );
                         setJustCompleted(current.id);
                         immediateResult.current = next.rounds.find(
                           (r) => r.id === current.id,
@@ -780,7 +711,7 @@ export function App({
                       ? So funktioniert’s
                     </button>
                   </div>
-                  {accountPanel?.(state, setState)}
+                  {accountPanel?.(state)}
                   <details className="settings-panel">
                     <summary>Problem oder Verbesserung melden</summary>
                     <IssueReportForm />
@@ -798,13 +729,10 @@ export function App({
                     ← Zurück zum Profil
                   </button>
                   <Settings
-                    storageKey={storageKey}
                     state={state}
                     mutate={mutate}
                     setState={setState}
                     busy={busy}
-                    offline={offline}
-                    updateDisabledReason={updateDisabledReason}
                     onHome={() => setPage("home")}
                   />
                 </>

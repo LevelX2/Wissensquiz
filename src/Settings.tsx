@@ -2,9 +2,8 @@ import { validateBackup } from "./backupValidation";
 import { useEffect, useState } from "react";
 import { SolutionChoice } from "./SolutionChoice";
 import { DEFAULT_ANSWER_REVEAL_MS, emptyState, type State } from "./model";
-import { download, restore as restoreStored } from "./storage";
-import { useOffline } from "./offline";
-import { UpdateNotice } from "./UpdateNotice";
+import { download } from "./download";
+import { isRecordMode } from "./recordModes";
 import {
   playFeedback,
   stopFeedback,
@@ -15,22 +14,16 @@ import {
 import type { Mutate } from "./uiTypes";
 
 export function Settings({
-  storageKey,
   state,
   mutate,
   setState,
   busy,
-  offline,
-  updateDisabledReason,
   onHome,
 }: {
   state: State;
-  storageKey: string;
   mutate: Mutate;
   setState: (s: State) => void;
   busy: boolean;
-  offline: ReturnType<typeof useOffline>;
-  updateDisabledReason?: string;
   onHome: () => void;
 }) {
   const [message, setMessage] = useState("");
@@ -103,15 +96,14 @@ export function Settings({
   };
   return (
     <>
-      <span className="eyebrow">DEIN GERÄT. DEINE DATEN.</span>
+      <span className="eyebrow">DEIN KONTO. DEIN FORTSCHRITT.</span>
       <h1>
         Einstellungen <em>& Daten.</em>
       </h1>
       <p className="lead">
         Ton, Vibration, Lösungsanzeige und Fragehinweise stellst Du hier ein.
-        Angemeldet wird Dein Fortschritt automatisch online gespeichert; als
-        Gast bleibt er auf diesem Gerät. Eine JSON-Sicherung bietet Dir eine
-        zusätzliche Kopie.
+        Dein Fortschritt wird in Deinem Konto online gespeichert. Eine
+        JSON-Sicherung bietet Dir eine zusätzliche Kopie.
       </p>
       <div role="status">{message && <p className="notice">{message}</p>}</div>
       <section className="settings-panel">
@@ -221,8 +213,7 @@ export function Settings({
         <p className="muted tiny">
           Gilt für Filmreise und Freies Spiel. Nach der Antwort zählt Dein
           aktuelles Ergebnis bereits mit. Deine Auswahl wird im Spielstand
-          gespeichert, bei angemeldeten Konten auch online, und ist in Deiner
-          JSON-Sicherung enthalten.
+          online gespeichert und ist in Deiner JSON-Sicherung enthalten.
         </p>
       </section>
       <section className="settings-panel" data-feedback="own">
@@ -293,8 +284,8 @@ export function Settings({
           {supportsHaptics()
             ? "Dieser Browser kann Vibrationssignale anfordern. Ob Du sie spürst, hängt vom Gerät und seinen Einstellungen ab."
             : "Dieser Browser bietet keine Vibration an. Du kannst Deine Auswahl trotzdem speichern; sie wirkt auf Geräten und in Browsern mit Vibrationsunterstützung."}{" "}
-          Deine Auswahl wird im Spielstand gespeichert, bei angemeldeten Konten
-          auch online. Keine Hintergrundmusik.
+          Deine Auswahl wird in Deinem Online-Spielstand gespeichert. Keine
+          Hintergrundmusik.
         </p>
         {hapticMessage && (
           <p className="tiny" role="status">
@@ -314,47 +305,18 @@ export function Settings({
           {new Set(state.questions.map((q) => q.knowledgeId)).size} Wissensziele
           · {state.questions.filter((q) => q.demo).length} Demo-Fragen
         </p>
-        <p>
-          {offline.online
-            ? "Netzwerkverbindung vorhanden."
-            : "Das Gerät meldet keine Netzwerkverbindung."}{" "}
-          {offline.ready
-            ? "Die App-Dateien sind im Offline-Cache bestätigt. Fragen und Erklärungen liegen im lokalen Speicher."
-            : "Die App-Dateien sind noch nicht als offline verfügbar bestätigt."}
-        </p>
-        {!offline.supported && (
-          <p className="notice">
-            Offline-Installation benötigt HTTPS oder localhost. Über eine
-            unverschlüsselte Heimnetz-Adresse kannst Du online spielen und
-            speichern.
-          </p>
-        )}
-        <UpdateNotice always disabledReason={updateDisabledReason} />
         <p className="muted">
-          Auf unterstützten Geräten findest Du „Installieren“ oder „Zum
-          Home-Bildschirm“ im Browsermenü. Der Offline-Status wird erst nach
-          vollständigem Laden bestätigt.
+          Zum Öffnen des Quiz und Laden der Bilder brauchst Du eine
+          Internetverbindung. Dein Fortschritt wird in Deinem Konto online
+          gespeichert.
         </p>
-        <button
-          className="secondary"
-          onClick={async () => {
-            const granted = await navigator.storage?.persist?.();
-            setMessage(
-              granted
-                ? "Der Browser hat dauerhaften Speicher gewährt. Exporte bleiben sinnvoll."
-                : "Dauerhafter Speicher wurde nicht gewährt oder wird nicht unterstützt. Bitte regelmäßig exportieren.",
-            );
-          }}
-        >
-          Dauerhaften Gerätespeicher anfragen
-        </button>
       </section>
       <section className="settings-panel">
         <h2>Fortschritt sichern & wiederherstellen</h2>
         <p>
           Der Export enthält auch Fragen, Inhaltsversionen, Runden und lokale
           Meldungen. Ein Wiederimport ersetzt nach Deiner Bestätigung den
-          gesamten lokalen Stand.
+          gesamten Online-Spielstand.
         </p>
         <button
           className="primary"
@@ -387,7 +349,21 @@ export function Settings({
               disabled={busy}
               onClick={async () => {
                 try {
-                  const saved = await restoreStored(backup, storageKey);
+                  const restored = validateBackup(backup);
+                  for (const round of restored.rounds)
+                    if (round.status === "active" && isRecordMode(round.mode)) {
+                      round.status = "aborted";
+                      round.finishedAt = Date.now();
+                    }
+                  const saved = await mutate(
+                    (s) => {
+                      for (const name of Object.keys(s))
+                        delete (s as unknown as Record<string, unknown>)[name];
+                      Object.assign(s, restored);
+                    },
+                    { replace: true },
+                  );
+                  if (!saved) return;
                   setState(saved);
                   setBackup(null);
                   setMessage("Sicherung vollständig wiederhergestellt.");
@@ -396,7 +372,7 @@ export function Settings({
                 }
               }}
             >
-              Lokalen Stand durch Sicherung ersetzen
+              Online-Spielstand durch Sicherung ersetzen
             </button>
             <button className="text-button" onClick={() => setBackup(null)}>
               Abbrechen
@@ -463,7 +439,7 @@ export function Settings({
                   imports = s.imports;
                 for (const key of Object.keys(s))
                   delete (s as unknown as Record<string, unknown>)[key];
-                Object.assign(s, emptyState(questions));
+                Object.assign(s, validateBackup(emptyState(questions)));
                 s.imports = imports;
               },
               { replace: true },

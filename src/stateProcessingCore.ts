@@ -1,5 +1,5 @@
 import type { State } from "./model";
-import { validateBackup } from "./storage";
+import { validateBackup } from "./backupValidation";
 import { encodeCloudState } from "./cloudCodec";
 
 export async function fingerprintState(state: State) {

@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { readFileSync } from "node:fs";
 import AxeBuilder from "@axe-core/playwright";
 import { test, expect, readStoredState, type Page } from "./fixtures";
@@ -10,27 +11,7 @@ import { recognitionPortrait } from "../../src/ActorPortrait";
 import { eventIdFor } from "../../src/recordModes";
 
 async function writeState(page: Page, state: State) {
-  await page.evaluate(
-    (state) =>
-      new Promise<void>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onerror = () => reject(request.error);
-        request.onsuccess = () => {
-          const db = request.result;
-          const tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(state, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => {
-            db.close();
-            reject(tx.error);
-          };
-        };
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
 }
 
 for (const [number, choice, variant] of [
@@ -40,7 +21,7 @@ for (const [number, choice, variant] of [
   [193, "unknown", 1],
   [113, "correct", 1],
 ] as const) {
-  test(`Bildfrage ${number}, Foto ${variant + 1}: vor ${choice}, Name und Bildnachweis nachher, Fortsetzen und Offline`, async ({
+  test(`Bildfrage ${number}, Foto ${variant + 1}: vor ${choice}, Name und Bildnachweis nachher, Fortsetzen und Neuladen`, async ({
     page,
     context,
     browserName,
@@ -157,22 +138,13 @@ for (const [number, choice, variant] of [
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
-    await expect(
-      page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-        exact: false,
-      }),
-    ).toBeVisible();
     if (browserName === "chromium") {
-      await context.setOffline(true);
       await page.reload();
     } else {
       await page.reload();
-      await context.setOffline(true);
     }
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     await expect(page.locator(".actor-name")).toHaveText(portrait.name);
-    // Chromium verifies pixels after the offline reload. Windows WebKit's
-    // offline image decoding has the already documented platform limitation.
     if (browserName === "chromium")
       await expect
         .poll(() =>
@@ -181,27 +153,6 @@ for (const [number, choice, variant] of [
             .evaluate((img: HTMLImageElement) => img.naturalWidth),
         )
         .toBe(portrait.width);
-    if (number === 1) {
-      const cache = await page.evaluate(
-        async (paths) => {
-          const names = (await caches.keys()).filter((name) =>
-            name.startsWith("film-"),
-          );
-          const store = await caches.open(names.at(-1)!);
-          return Promise.all(
-            paths.map(async (path) => {
-              const response = await store.match(path, { ignoreVary: true });
-              return response ? (await response.arrayBuffer()).byteLength : 0;
-            }),
-          );
-        },
-        [...Object.values(portraits), ...Object.values(alternates)].map(
-          (p) => p.src,
-        ),
-      );
-      expect(cache).toHaveLength(400);
-      expect(cache.every((bytes) => bytes > 0)).toBe(true);
-    }
     await page.getByRole("button", { name: "Runde abschließen" }).click();
     await page.locator(".review > details > summary").click();
     await expect(page.locator(".review .actor-portrait img")).toHaveAttribute(

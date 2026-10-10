@@ -23,3 +23,7 @@ Poster könnten ausschließlich online angezeigt werden. Das Offline-Paket müss
 ## Prüfstand
 
 Antwortkomponente, Bildvertrag und Service-Worker-Erzeugung gelesen; keine App-Änderung und keine Bildfreigabe behauptet. Bestehende fremde Importberichtänderungen erhalten. Für die reine Klärung wurden keine App- oder Browsertests ausgeführt. Die vollständige Umsetzung und ihre Tests bleiben offen.
+
+## Folgeentscheidung am 10.10.2026
+
+Der Nutzer hat das Offline-Paket und dauerhafte lokale Spielstände abgewählt und zum Spielen immer eine Anmeldung verlangt. Poster brauchen daher keine Offline-Behandlung. Der eigene TMDB-Zugang fehlt weiterhin; keine Poster eingebaut. [Aktueller Betriebsvertrag](Anmeldung-und-Online-Spielstand.md).

@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { catalogCounts } from "../catalog-counts";
 import { readFileSync } from "node:fs";
 import { test, expect, readStoredState } from "./fixtures";
@@ -6,7 +7,7 @@ import { startRound } from "../../src/engine";
 const packagePath = "/film-ergaenzung-240-fragen.csv";
 const expectedCsv = readFileSync(`public${packagePath}`, "utf8");
 
-test("240-Film-Paket lädt einmal, zeigt das vollständige Hondo-Regieteam erst zur Lösung und bleibt offline verfügbar", async ({
+test("240-Film-Paket lädt einmal, zeigt das vollständige Hondo-Regieteam erst zur Lösung und bleibt nach Neuladen verfügbar", async ({
   page,
   context,
 }) => {
@@ -27,24 +28,7 @@ test("240-Film-Paket lädt einmal, zeigt das vollständige Hondo-Regieteam erst 
     Date.parse("2026-10-06T11:59:00+02:00"),
   );
   state.questions = catalog;
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onerror = () => reject(request.error);
-        request.onsuccess = () => {
-          const db = request.result;
-          const tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".question-card h1")).toContainText("Hondo");
@@ -61,12 +45,6 @@ test("240-Film-Paket lädt einmal, zeigt das vollständige Hondo-Regieteam erst 
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".explanation")).toBeVisible();

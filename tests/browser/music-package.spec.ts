@@ -1,6 +1,6 @@
 import { openRoundSetup, test, expect, readStoredState } from "./fixtures";
 
-test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben offline erhalten", async ({
+test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben nach Neuladen erhalten", async ({
   page,
   context,
 }) => {
@@ -19,12 +19,6 @@ test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben off
     .check();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  await context.setOffline(true);
   await page.reload();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".question-genre")).toHaveText("Musik");

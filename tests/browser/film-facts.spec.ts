@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -7,7 +8,7 @@ import { answer, startRound } from "../../src/engine";
 import { validateBackup } from "../../src/storage";
 
 for (const kind of ["year", "csv-year", "director", "original"] as const) {
-  test(`${kind}: Filmfrage ohne Lösungshinweis, gespeicherte Antworten und Offline-Fortsetzen`, async ({
+  test(`${kind}: Filmfrage ohne Lösungshinweis, gespeicherte Antworten und Online-Fortsetzen`, async ({
     page,
     context,
   }) => {
@@ -43,24 +44,7 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
     );
     state.questions = pool;
     const snapshot = structuredClone(round.questions[0]);
-    await page.evaluate(
-      (value) =>
-        new Promise<void>((resolve, reject) => {
-          const req = indexedDB.open("wissensquiz");
-          req.onerror = () => reject(req.error);
-          req.onsuccess = () => {
-            const db = req.result,
-              tx = db.transaction("state", "readwrite");
-            tx.objectStore("state").put(value, "current");
-            tx.oncomplete = () => {
-              db.close();
-              resolve();
-            };
-            tx.onerror = () => reject(tx.error);
-          };
-        }),
-      state,
-    );
+    await writeStoredState(page, state);
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     const heading = page.locator(".question-card h1");
@@ -81,12 +65,6 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
-    await expect(
-      page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-        exact: false,
-      }),
-    ).toBeVisible();
-    await context.setOffline(true);
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     expect(await page.locator(".answer").allTextContents()).toEqual(before);
@@ -199,24 +177,7 @@ test("Fortschrittsbalken unterscheiden richtig, falsch, ohne Antwort, aktuell un
     now + 2000,
   );
   answer(state, round.id, round.questions[2].id, null, 30000, now + 33000);
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result,
-            tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   const progress = page.getByRole("group", { name: "Fragenfortschritt" });

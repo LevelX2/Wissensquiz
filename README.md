@@ -1,6 +1,6 @@
 # Wissensquiz · Dein Filmkosmos
 
-Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Als Gast funktioniert es ohne Konto oder verpflichtendes Backend; ein eigenes Quiz-Konto ergänzt private Online-Sicherung und Duelle.
+Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Zum Spielen ist ein bestätigtes Quiz-Konto erforderlich. Der Fortschritt wird ausschließlich privat online gespeichert; ein Offline-Paket und automatische lokale Spielstände gibt es im aktuellen lokalen Stand nicht.
 
 Stand 09.10.2026, öffentlich als **Sites-Version 58**: **33 Quellenpakete, 12.773 Fragen und 12.207 Wissensziele**. Alle zwölf Filmgenres umfassen mindestens 100 Filme; neun Genres wurden um 237 Filmfassungen und 1.896 Fragen erweitert. Die Übersicht fälliger Wiederholungen ist ebenfalls veröffentlicht. [Bestand aller Bereiche](docs/Genres-100-2026-10-08/Bestandsuebersicht.md), [Betrieb](docs/Sites-Betrieb.md), [Prüfnachweise](docs/Pruefbericht.md).
 
@@ -16,7 +16,7 @@ npm run build
 npm run preview
 ```
 
-Vorschau unter http://localhost:4173; Entwicklung mit `npm run dev` auf Port 5173. Die Vorschau kann im selben Netz über die aktuelle Netzwerkadresse des Rechners geöffnet werden; Rechner und Prozess müssen laufen. Offlinebetrieb benötigt Produktions-Build, HTTPS oder localhost und einen vollständig vorbereiteten Cache. Browserdaten sind an Gerät, Browser, Protokoll, Host und Port gebunden. Für einen Adresswechsel den Spielstand als JSON sichern und ausdrücklich wiederherstellen.
+Vorschau unter http://localhost:4173; Entwicklung mit `npm run dev` auf Port 5173. Die Vorschau kann im selben Netz über die aktuelle Netzwerkadresse des Rechners geöffnet werden; Rechner und Prozess müssen laufen. Zum Spielen und Laden von Bildern ist Internet erforderlich. Der Fortschritt gehört zum angemeldeten Konto.
 
 ## Spielen und Fortschritt
 
@@ -33,26 +33,24 @@ Die maßgeblichen Regeln stehen in [Lernregeln](docs/Lernregeln.md), [Fragenbere
 
 Seit Sites-Version 55: Bestätigte Quiz-Konten können aus einer Frage oder dem Profil technische Fehler, falsche Inhalte, Textverbesserungen und Sonstiges als öffentliches GitHub-Issue melden. Der Versand läuft über eine geschützte Supabase Function; private Spielstände werden nicht mitgesendet. Servererweiterung eingerichtet, Oberfläche seit Version 55 veröffentlicht; GitHub-Schlüssel noch offen. [Meldevertrag und Einrichtung](docs/GitHub-Meldungen.md).
 
-## Speicherung und Offlinebetrieb
+## Anmeldung und Speicherung
 
-Der Gaststand bleibt lokal in IndexedDB. Angemeldete Konten werden nach lokaler Speicherung automatisch privat in Supabase gesichert; Revisionen verhindern stilles Überschreiben konkurrierender Stände. Konto und Gast bleiben getrennt. Vor Gerätewechsel die aktuelle Onlinebestätigung abwarten. Lokal ergänzt: dauerhafte atomare Änderungswarteschlange, bestätigte Paketwiederholung, gezielter Revisionsabruf, Wartegrenzen, exportierbare Rückfallkopien und kleine Ranglistenprojektionen; [Vertrag](docs/Konten-und-Spielstaende.md).
-
-Die lokale Umsetzung verwendet IndexedDB-Version 3: Gaststände behalten das getrennte Kataloglayout, migrierte Konten getrennte Einträge und gemeinsame unveränderliche offizielle Kataloge. Private Importe bleiben kontogebunden; abgeschlossene Runden werden ab Version 46 auf Bewertungsfakten reduziert. Eingefrorene Ausgangskopien bleiben für den gesonderten Rückfallablauf geschützt. Vollständige JSON-Sicherungen behalten Schema 1. Die PWA hält App-Dateien, Nebenansichten und Fragenpakete offline bereit. Ein neues Update aktiviert erst nach dem Schließen alter Quiz-Fenster. Private Spielstände sind kein Teil der Veröffentlichungsdateien. [Datenorganisation](docs/Fragedaten-Organisation.md), [vorbereiteter Produktionsablauf](docs/Speicher-und-Sync-Migration.md).
+Der aktuelle lokale Stand verlangt eine bestätigte Quiz-Anmeldung und speichert ausschließlich online. Antworten zählen erst nach Serverbestätigung; bei Speicherfehlern gibt es eine ausdrückliche Wiederholung. Revisionen verhindern das Überschreiben neuerer Gerätestände. Gastspiel, automatische Browser-Spielstände und Offline-Paket sind entfernt. Vorhandene Browserdaten werden nicht ungefragt gelöscht. JSON-Export und bestätigte Wiederherstellung bleiben manuelle Kontoaktionen. [Aktueller Vertrag und Veröffentlichungsgrenze](docs/Anmeldung-und-Online-Spielstand.md).
 
 ## Projektaufbau
 
 | Bereich | Zuständigkeit |
 | --- | --- |
-| `src/App.tsx` und Seitenkomponenten | Navigation, lokaler Zustand und sichtbare Ansichten |
+| `src/App.tsx` und Seitenkomponenten | Navigation, Arbeitszustand im RAM und sichtbare Ansichten |
 | `src/QuestionScreen.tsx`, `RoundResult.tsx`, `Explanation.tsx` | Gemeinsame Solo-/Duell-Spielansichten |
 | `src/engine.ts` und Fachmodule | Auswahl, Antworten, Lernen, Fehlertraining, Karriere und Freischaltungen |
 | `src/questionSchema.ts`, `backupSchema.ts`, `backupValidation.ts` | Gemeinsame Typ-/Sicherungsverträge und fachliche Validierung |
-| `src/storage.ts`, `database.ts`, `localCatalog.ts`, `catalogCodec.ts` | Speicherfassade, lokale Migration und verlustfreie Gastkodierung |
-| `src/syncCodec.ts`, `entryStorage.ts`, `entryRemote.ts`, `entrySync.ts` | Inhaltsnachweise, atomare Outbox, Konto-Einträge und Revisionsprotokoll |
+| `src/onlineGameStore.ts`, `syncCodec.ts`, `entryRemote.ts` | Arbeitsstand im RAM, Inhaltsnachweise und bestätigtes Serverprotokoll |
+| Frühere lokale Speichermodule | Im aktiven Spielweg unbenutzt; vorhandene isolierte Regressionstests bleiben erhalten |
 | `src/AccountApp.tsx`, `AccountPanel.tsx`, `AccountLinkPanel.tsx` | Kontosteuerung, Profil-/Anmeldeformular und Rückkehr aus Kontolinks |
-| `src/accounts.ts`, `accountSync.ts` | Kontodienst, privater Fortschritt und Revisionsschutz |
+| `src/accounts.ts` | Anmeldung und vorhandene Online-Kontoaktivierung |
 | `src/style.css`, `src/styles/` | Dokumentierte CSS-Importfolge mit erhaltener Kaskade |
-| `public/`, `scripts/build-sw.mjs` | Auslieferbare Fragen/Assets und vollständiges Offline-Paket |
+| `public/` einschließlich `sw.js` | Fragen/Assets; ausschließlich Stilllegung bisheriger Offline-Worker |
 | `docs/`, `KI-Wissen-Wissensquiz/` | Fachverträge, Quellen, Wissen und datierte Nachweise |
 
 ## Prüfen und weiterarbeiten
@@ -66,4 +64,4 @@ git diff --check
 
 Browserprüfungen verwenden isolierte Profile, kontrollierte Zeit und abgefangene Kontodienste. Bei Abhängigkeitsänderungen zusätzlich `npm audit`. Für Quellenorganisation: `npm run check:questions`; daraus erzeugte Berichte nur bei einem tatsächlichen Datenprüfauftrag übernehmen.
 
-Aktueller Nachweis und Grenzen: [Speicher-/Sync-Abnahme](docs/Speicher-und-Sync-Abnahme.md), [Messdaten](docs/Speicher-und-Sync-Messung.json), [Struktur-Abnahme](docs/Strukturverbesserungen-Abnahme.md), [Prüfbericht](docs/Pruefbericht.md), [Qualitätsprozess](KI-Wissen-Wissensquiz/03%20Betrieb/Qualitaetspruefung.md). Projektregeln: [AGENTS.md](AGENTS.md); Einstieg: [Projektstart](KI-Wissen-Wissensquiz/00%20Projektstart.md) und [Wissensindex](KI-Wissen-Wissensquiz/02%20Wissen/00%20Uebersichten/Index.md). Remote, Push, Integration und Veröffentlichung benötigen den jeweils ausdrücklichen Auftrag.
+Aktueller Nachweis und Grenzen: [Anmeldung und Online-Spielstand](docs/Anmeldung-und-Online-Spielstand.md), [frühere Speicher-/Sync-Abnahme](docs/Speicher-und-Sync-Abnahme.md), [Messdaten](docs/Speicher-und-Sync-Messung.json), [Struktur-Abnahme](docs/Strukturverbesserungen-Abnahme.md), [Prüfbericht](docs/Pruefbericht.md), [Qualitätsprozess](KI-Wissen-Wissensquiz/03%20Betrieb/Qualitaetspruefung.md). Projektregeln: [AGENTS.md](AGENTS.md); Einstieg: [Projektstart](KI-Wissen-Wissensquiz/00%20Projektstart.md) und [Wissensindex](KI-Wissen-Wissensquiz/02%20Wissen/00%20Uebersichten/Index.md). Remote, Push, Integration und Veröffentlichung benötigen den jeweils ausdrücklichen Auftrag.

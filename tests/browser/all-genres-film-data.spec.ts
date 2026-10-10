@@ -1,10 +1,11 @@
+import { writeStoredState } from "./fixtures";
 import { test, expect } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { addPackages, packages } from "../../src/packages";
 import { emptyState } from "../../src/model";
 import { startRound } from "../../src/engine";
 
-test("neue Filmdaten zeigen nach der Antwort Regie, Jahr, Produktionsland und Reihenposition auch offline", async ({
+test("neue Filmdaten zeigen nach der Antwort Regie, Jahr, Produktionsland und Reihenposition auch nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -30,25 +31,7 @@ test("neue Filmdaten zeigen nach der Antwort Regie, Jahr, Produktionsland und Re
     Date.parse("2026-10-02T11:59:00+02:00"),
   );
   state.questions = all;
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    state,
-  );
-  await context.setOffline(true);
+  await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".film-data")).toHaveCount(0);

@@ -1,3 +1,4 @@
+import { writeStoredState } from "./fixtures";
 import { catalogCounts } from "../catalog-counts";
 import {
   modePreparation,
@@ -35,24 +36,7 @@ async function resumeFilmFixture(page: Page, topic: string) {
   )!;
   round.questions = [q];
   round.order = [q.answers.map((a) => a.id)];
-  await page.evaluate(
-    (value) =>
-      new Promise<void>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const tx = db.transaction("state", "readwrite");
-          tx.objectStore("state").put(value, "current");
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    state,
-  );
+  await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
 }
@@ -60,31 +44,10 @@ async function answerCurrent(page: Page, correct = true) {
   const questionId = await page
     .locator(".question-card h1")
     .getAttribute("data-question-id");
-  const q = await page.evaluate(
-    (id) =>
-      new Promise<Question>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const query = db
-            .transaction("state")
-            .objectStore("state")
-            .get("current");
-          query.onsuccess = () => {
-            const state = query.result as State;
-            const question = state.rounds
-              .find((r) => r.status === "active")
-              ?.questions.find((q) => q.id === id);
-            db.close();
-            question
-              ? resolve(question)
-              : reject(new Error(`Aktive Frage fehlt: ${id}`));
-          };
-          query.onerror = () => reject(query.error);
-        };
-      }),
-    questionId,
+  const q = await Promise.resolve(
+    (await readStoredState(page)).rounds
+      .find((r) => r.status === "active")!
+      .questions.find((q) => q.id === questionId)!,
   );
   const difficulty = `Schwierigkeit: ${q.difficulty[0].toUpperCase()}${q.difficulty.slice(1)}`;
   await expect(page.locator(".question-difficulty")).toHaveText(difficulty);
@@ -202,9 +165,9 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await genres.getByLabel("Sci-Fi", { exact: true }).uncheck();
   await genres.getByLabel("Horror", { exact: true }).uncheck();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
-  await expect(page.getByRole("status")).toContainText(
-    "Wähle einen Fragenbereich",
-  );
+  await expect(
+    page.getByRole("status").filter({ hasText: "Wähle einen Fragenbereich" }),
+  ).toBeVisible();
   await genres.getByLabel("Horror", { exact: true }).check();
   await genres.getByLabel("Sci-Fi", { exact: true }).check();
   await levels.getByLabel("Leicht", { exact: true }).uncheck();
@@ -236,18 +199,13 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   expect(await readRound()).toEqual(before);
 });
 
-test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie aus dem Offline-Paket", async ({
+test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie nach Neuladen", async ({
   page,
   context,
 }) => {
   await launch(page);
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible({ timeout: 20000 });
   await page.getByRole("button", { name: "Themen", exact: true }).click();
   await expect(page.locator(".genre-illustration")).toHaveCount(16);
   for (const img of await page.locator(".genre-illustration").all()) {
@@ -272,7 +230,6 @@ test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie aus de
       () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBe(true);
-  await context.setOffline(true);
   await page.reload();
   await page.getByRole("button", { name: "Themen", exact: true }).click();
   for (const img of await page.locator(".genre-illustration").all()) {
@@ -311,71 +268,47 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
     await answerCurrent(page, true);
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
     const legacyState = await readStoredState(page);
-    await page.evaluate(
-      async ({ packageCount, legacyState }) => {
-        await new Promise<void>((resolve, reject) => {
-          const request = indexedDB.open("wissensquiz");
-          request.onsuccess = () => {
-            const db = request.result;
-            const tx = db.transaction("state", "readwrite");
-            const store = tx.objectStore("state");
-            const read = store.get("current");
-            read.onsuccess = () => {
-              const state = legacyState;
-              state.questions = state.questions.filter(
-                (q: { id: string }) =>
-                  !q.id.includes("-202610-P01-") &&
-                  !q.id.startsWith("MAR-") &&
-                  !q.id.startsWith("ROM-") &&
-                  !q.id.startsWith("ART-") &&
-                  (packageCount >= 8 || !q.id.startsWith("CLA-")) &&
-                  (packageCount >= 7 || !q.id.startsWith("DRA-")) &&
-                  (packageCount >= 6 || !q.id.startsWith("WES-")) &&
-                  (packageCount >= 5 || !q.id.startsWith("KOM-")) &&
-                  (packageCount >= 4 || !q.id.startsWith("FAN-")) &&
-                  (packageCount >= 3 || !q.id.startsWith("HOR-")) &&
-                  (packageCount >= 2 || !q.id.startsWith("ACT-")),
-              );
-              state.imports = state.imports.filter(
-                (r: { filename: string }) =>
-                  ![
-                    "MartialArts_Quiz_180_Fragen.csv",
-                    "RomCom_Quiz_180_Fragen.csv",
-                    "Arthouse_Quiz_180_Fragen.csv",
-                    "Alle_Genres_120_Filme_960_Fragen.csv",
-                    "Preistraeger_200_Fragen.csv",
-                    "Schauspieler_800_Fragen_App.csv",
-                  ].includes(r.filename) &&
-                  (packageCount >= 8 ||
-                    r.filename !== "Classics_Quiz_180_Fragen.csv") &&
-                  (packageCount >= 7 ||
-                    r.filename !== "Drama_Quiz_180_Fragen.csv") &&
-                  (packageCount >= 6 ||
-                    r.filename !== "Western_Quiz_180_Fragen.csv") &&
-                  (packageCount >= 5 ||
-                    r.filename !== "Komoedie_Quiz_180_Fragen.csv") &&
-                  (packageCount >= 5 ||
-                    r.filename !== "Komoedie_Ergaenzung_360_Fragen.csv") &&
-                  (packageCount >= 4 ||
-                    r.filename !== "Fantasy_Quiz_180_Fragen.csv") &&
-                  (packageCount >= 3 ||
-                    r.filename !== "Horror_Quiz_180_Fragen.csv") &&
-                  (packageCount >= 2 ||
-                    r.filename !== "Action_Quiz_180_Fragen.csv"),
-              );
-              store.put(state, "current");
-            };
-            tx.oncomplete = () => {
-              db.close();
-              resolve();
-            };
-            tx.onerror = () => reject(tx.error);
-          };
-          request.onerror = () => reject(request.error);
-        });
-      },
-      { packageCount: oldPackageCount, legacyState },
-    );
+    await (async () => {
+      const packageCount = oldPackageCount,
+        state = legacyState;
+      state.questions = state.questions.filter(
+        (q: { id: string }) =>
+          !q.id.includes("-202610-P01-") &&
+          !q.id.startsWith("MAR-") &&
+          !q.id.startsWith("ROM-") &&
+          !q.id.startsWith("ART-") &&
+          (packageCount >= 8 || !q.id.startsWith("CLA-")) &&
+          (packageCount >= 7 || !q.id.startsWith("DRA-")) &&
+          (packageCount >= 6 || !q.id.startsWith("WES-")) &&
+          (packageCount >= 5 || !q.id.startsWith("KOM-")) &&
+          (packageCount >= 4 || !q.id.startsWith("FAN-")) &&
+          (packageCount >= 3 || !q.id.startsWith("HOR-")) &&
+          (packageCount >= 2 || !q.id.startsWith("ACT-")),
+      );
+      state.imports = state.imports.filter(
+        (r: { filename: string }) =>
+          ![
+            "MartialArts_Quiz_180_Fragen.csv",
+            "RomCom_Quiz_180_Fragen.csv",
+            "Arthouse_Quiz_180_Fragen.csv",
+            "Alle_Genres_120_Filme_960_Fragen.csv",
+            "Preistraeger_200_Fragen.csv",
+            "Schauspieler_800_Fragen_App.csv",
+          ].includes(r.filename) &&
+          (packageCount >= 8 ||
+            r.filename !== "Classics_Quiz_180_Fragen.csv") &&
+          (packageCount >= 7 || r.filename !== "Drama_Quiz_180_Fragen.csv") &&
+          (packageCount >= 6 || r.filename !== "Western_Quiz_180_Fragen.csv") &&
+          (packageCount >= 5 ||
+            r.filename !== "Komoedie_Quiz_180_Fragen.csv") &&
+          (packageCount >= 5 ||
+            r.filename !== "Komoedie_Ergaenzung_360_Fragen.csv") &&
+          (packageCount >= 4 || r.filename !== "Fantasy_Quiz_180_Fragen.csv") &&
+          (packageCount >= 3 || r.filename !== "Horror_Quiz_180_Fragen.csv") &&
+          (packageCount >= 2 || r.filename !== "Action_Quiz_180_Fragen.csv"),
+      );
+      await writeStoredState(page, state);
+    })();
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     await expect(page.locator(".feedback")).toBeVisible();
@@ -581,32 +514,14 @@ test("Conjuring zeigt passende Darsteller und Quellen erst in der Vertiefung, au
   await page.getByRole("button", { name: "Losspielen" }).click();
   // Dieser Test prüft die Besetzungsergänzung der ursprünglichen CSV-Fragen.
   // Die ergänzenden Filmfragen haben eigene, gezielt getestete Zusatztexte.
-  await page.evaluate(
-    (q) =>
-      new Promise<void>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const tx = db.transaction("state", "readwrite");
-          const store = tx.objectStore("state");
-          const query = store.get("current");
-          query.onsuccess = () => {
-            const state = query.result as State;
-            const round = state.rounds.find((r) => r.status === "active")!;
-            round.questions = [q];
-            round.order = [q.answers.map((a) => a.id)];
-            store.put(state, "current");
-          };
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-      }),
-    imported.find((q) => q.topic === "Conjuring")!,
-  );
+  await (async () => {
+    const s = await readStoredState(page),
+      q = imported.find((q) => q.topic === "Conjuring")!,
+      r = s.rounds.find((r) => r.status === "active")!;
+    r.questions = [q];
+    r.order = [q.answers.map((a) => a.id)];
+    await writeStoredState(page, s);
+  })();
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".cast-context")).toHaveCount(0);
@@ -694,14 +609,10 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
     page.getByRole("button", { name: "Als geraten markiert" }),
   ).toBeDisabled();
   await page.getByRole("button", { name: "Frage melden" }).click();
-  await expect(
-    page.getByText("Zum Melden bitte mit Deinem bestätigten Quiz-Konto", {
-      exact: false,
-    }),
-  ).toBeVisible();
+  await expect(page.getByLabel("Was ist Dir aufgefallen?")).toBeVisible();
   await expect(
     page.getByRole("button", { name: "Meldung senden", exact: true }),
-  ).toHaveCount(0);
+  ).toBeDisabled();
   await page.getByRole("button", { name: "Nächste Frage" }).click();
   await answerCurrent(page, false);
   await expect(
@@ -742,7 +653,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await file.saveAs(backupPath);
   await page.getByLabel("Sicherung auswählen").setInputFiles(backupPath);
   await page
-    .getByRole("button", { name: "Lokalen Stand durch Sicherung ersetzen" })
+    .getByRole("button", { name: "Online-Spielstand durch Sicherung ersetzen" })
     .click();
   await expect(
     page.getByText("Sicherung vollständig wiederhergestellt."),
@@ -828,7 +739,7 @@ test("Rekordtimer läuft ab, Erklärung hält an, Neuladen bricht ab", async ({
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await expect(page.getByRole("button", { name: "Fortsetzen" })).toHaveCount(0);
 });
-for (const offlinePackage of [
+for (const genrePackage of [
   { genre: "Horror", topic: "Halloween", path: "/horror-fragen.csv" },
   { genre: "Drama", topic: "Die Verurteilten", path: "/drama-fragen.csv" },
   { genre: "Komödie", topic: "The Big Lebowski", path: "/komoedie-fragen.csv" },
@@ -843,7 +754,7 @@ for (const offlinePackage of [
     path: "/fantasy-fragen.csv",
   },
 ]) {
-  test(`${offlinePackage.genre}: Offline-Neuladen mit gespeichertem Paket und Spielfortschritt`, async ({
+  test(`${genrePackage.genre}: Neuladen mit gespeichertem Paket und Spielfortschritt`, async ({
     page,
     context,
   }) => {
@@ -851,11 +762,6 @@ for (const offlinePackage of [
     await launch(page);
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
-    await expect(
-      page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-        exact: false,
-      }),
-    ).toBeVisible({ timeout: 20000 });
     await page.getByRole("button", { name: "Spielen", exact: true }).click();
     await openRoundSetup(page);
     const genreChoices = page.getByRole("group", {
@@ -864,26 +770,15 @@ for (const offlinePackage of [
     });
     await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
     await openRoundSetup(page);
-    await genreChoices
-      .getByLabel(offlinePackage.genre, { exact: true })
-      .check();
-    expect(
-      await page.evaluate(
-        async (path) => (await caches.match(path))?.ok,
-        offlinePackage.path,
-      ),
-    ).toBe(true);
+    await genreChoices.getByLabel(genrePackage.genre, { exact: true }).check();
     await page.getByRole("button", { name: "Losspielen" }).click();
     await answerCurrent(page, true);
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
-    await context.setOffline(true);
     await page.reload();
-    await expect(page.locator(".connection")).toContainText("Offline");
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     await expect(page.locator(".feedback")).toBeVisible();
     await page.getByRole("button", { name: "Nächste Frage" }).click();
     await answerCurrent(page, true);
-    await context.setOffline(false);
   });
 }
 test("Ungültige Sicherung und ausdrückliches Zurücksetzen erhalten den offiziellen Fragenbestand", async ({

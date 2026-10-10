@@ -204,14 +204,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(
-    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
-      exact: false,
-    }),
-  ).toBeVisible();
-  // Windows WebKit cannot navigate offline; it checks the setup online.
-  // Chromium verifies the full offline reload and the cached group artwork.
-  if (browserName === "chromium") await context.setOffline(true);
+  // Selection and illustrations remain correct after a normal online reload.
   await page.reload();
   await openRoundSetup(page);
   await expect(page.locator(".mode-artwork")).toHaveCount(4);

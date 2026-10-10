@@ -1,5 +1,7 @@
 # Konten und gemeinsame Spielstände
 
+> Aktueller lokaler Vertrag seit 10.10.2026: [Anmeldung und ausschließlich online gespeicherter Spielstand](Anmeldung-und-Online-Spielstand.md). Frühere Abschnitte zu Gaststand, IndexedDB, Outbox und Offline-PWA beschreiben den damaligen veröffentlichten Stand und sind durch den neuen Nutzerauftrag abgelöst. Noch nicht neu veröffentlicht.
+
 ## Update-Aktion beim Kontoladen, 05.10.2026
 
 Lokal nach dem Firefox-Vorfall verbessert: Die gemeinsame Offline-/Update-Erkennung startet vor der Kontoöffnung. Ein Fehler beim Laden verhindert damit nicht mehr die Registrierung und Erkennung eines bereitstehenden App-Updates. Die Fehlerseite bietet „Nach Update suchen“ beziehungsweise „Quiz aktualisieren“. In den Optionen steht dieselbe Aktion bereit; außerhalb der Spielansicht erscheint ein erkanntes Update ebenfalls.

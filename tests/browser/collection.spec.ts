@@ -1,3 +1,4 @@
+import { readStoredState, writeStoredState } from "./fixtures";
 import { test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -52,42 +53,10 @@ test("Sammlung filtert gewählte Antworten einschließlich Fehlern, bietet leere
   answer(state, round.id, qs[2].id, null, 30000);
   complete(state, round.id);
   state.favorites = [qs[2].topic];
-  await page.evaluate(async (value) => {
-    await new Promise<void>((resolve, reject) => {
-      const request = indexedDB.open("wissensquiz");
-      request.onsuccess = () => {
-        const db = request.result;
-        const tx = db.transaction("state", "readwrite");
-        tx.objectStore("state").put(value, "current");
-        tx.oncomplete = () => {
-          db.close();
-          resolve();
-        };
-        tx.onerror = () => reject(tx.error);
-      };
-    });
-  }, state);
+  await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
-  const readState = () =>
-    page.evaluate(
-      async () =>
-        new Promise<string>((resolve, reject) => {
-          const request = indexedDB.open("wissensquiz");
-          request.onsuccess = () => {
-            const db = request.result;
-            const read = db
-              .transaction("state")
-              .objectStore("state")
-              .get("current");
-            read.onsuccess = () => {
-              resolve(JSON.stringify(read.result));
-              db.close();
-            };
-            read.onerror = () => reject(read.error);
-          };
-        }),
-    );
+  const readState = async () => JSON.stringify(await readStoredState(page));
   const before = await readState();
   await filter
     .getByRole("button", { name: "Mit beantworteten Fragen", exact: true })

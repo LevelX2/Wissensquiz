@@ -11,7 +11,8 @@ export default defineConfig({
   outputDir: `./test-results/port-${browserPort}`,
   fullyParallel: false,
   workers: 1,
-  timeout: 45000,
+  timeout: 60000,
+  expect: { timeout: 15000 },
   use: {
     baseURL: `http://localhost:${browserPort}`,
     trace: "retain-on-failure",
@@ -26,6 +27,9 @@ export default defineConfig({
     {
       name: "webkit-mobile",
       testMatch: [
+        "updates.spec.ts",
+        "entry-sync.spec.ts",
+        "accounts.spec.ts",
         "audio.spec.ts",
         "answer-duration.spec.ts",
         "year-answers.spec.ts",
