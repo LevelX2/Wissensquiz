@@ -1,0 +1,48 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 1,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 7,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Butch Cassidy and the Sundance Kid|1969",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 4,
+        "schwer": 2
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    2,
+    4,
+    7,
+    10,
+    17,
+    18,
+    19,
+    26,
+    36,
+    38,
+    39,
+    44,
+    45,
+    47,
+    48,
+    49,
+    50
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "03eb4da79c51d0a205e6468e08f531c16bf7ebac864fb46e1e1f46cb7a5c8cea",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf"
+}
