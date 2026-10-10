@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "d2e5a3e2a5c02344224cbb422df52d54039e2ebe",
+  "sourceCommit": "27c622ff71f21fb34c25e8c9bf13fd8116e1870c",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 500,
-  "totalReviewed": 650,
-  "remainingFilmQuestions": 10083,
+  "completedInThisRun": 550,
+  "totalReviewed": 700,
+  "remainingFilmQuestions": 10033,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 12123,
+  "remainingAllQuestions": 12073,
   "blocks": [
     {
       "block": 1,
@@ -58,6 +58,11 @@
     {
       "block": 10,
       "path": "Block-10.json",
+      "count": 50
+    },
+    {
+      "block": 11,
+      "path": "Block-11.json",
       "count": 50
     }
   ],
@@ -711,209 +716,59 @@
     "ROM-202610-P01-L-006",
     "ROM-202610-P01-M-007",
     "ROM-202610-P01-M-008",
-    "ROM-202610-P01-S-007"
+    "ROM-202610-P01-S-007",
+    "ROM-202610-P01-S-008",
+    "ROM-202610-P01-M-009",
+    "ROM-202610-P01-S-009",
+    "ROM-L-025",
+    "ROM-L-026",
+    "ROM-M-025",
+    "ROM-M-026",
+    "ROM-S-025",
+    "ROM-S-026",
+    "FF-263-YEAR",
+    "FF-263-DIRECTOR",
+    "SF-L-022",
+    "SF-M-022",
+    "SF-S-022",
+    "FF-147-YEAR",
+    "FF-147-DIRECTOR",
+    "G100-20261008-ROMCOM-015-L1",
+    "G100-20261008-ROMCOM-015-L2",
+    "G100-20261008-ROMCOM-015-M1",
+    "G100-20261008-ROMCOM-015-M2",
+    "G100-20261008-ROMCOM-015-S1",
+    "G100-20261008-ROMCOM-015-S2",
+    "G100-20261008-ROMCOM-015-Y",
+    "G100-20261008-ROMCOM-015-D",
+    "G100-20261008-ABENTEUER-027-L1",
+    "G100-20261008-ABENTEUER-027-L2",
+    "G100-20261008-ABENTEUER-027-M1",
+    "G100-20261008-ABENTEUER-027-M2",
+    "G100-20261008-ABENTEUER-027-S1",
+    "G100-20261008-ABENTEUER-027-S2",
+    "G100-20261008-ABENTEUER-027-Y",
+    "G100-20261008-ABENTEUER-027-D",
+    "G100-20261008-ABENTEUER-003-L1",
+    "G100-20261008-ABENTEUER-003-L2",
+    "G100-20261008-ABENTEUER-003-M1",
+    "G100-20261008-ABENTEUER-003-M2",
+    "G100-20261008-ABENTEUER-003-S1",
+    "G100-20261008-ABENTEUER-003-S2",
+    "G100-20261008-ABENTEUER-003-Y",
+    "G100-20261008-ABENTEUER-003-D",
+    "SF-202609-P02-L-001",
+    "SF-202609-P02-L-002",
+    "SF-202609-P02-M-001",
+    "SF-202609-P02-M-002",
+    "SF-202609-P02-S-001",
+    "SF-202609-P02-S-002",
+    "SF-202609-P02-L-001-V1",
+    "SF-202609-P02-S-002-V1",
+    "FF-326-YEAR",
+    "FF-326-DIRECTOR"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "ROM-202610-P01-S-008",
-      "filmKey": "(500) Days of Summer|2009"
-    },
-    {
-      "id": "ROM-202610-P01-M-009",
-      "filmKey": "(500) Days of Summer|2009"
-    },
-    {
-      "id": "ROM-202610-P01-S-009",
-      "filmKey": "(500) Days of Summer|2009"
-    },
-    {
-      "id": "ROM-L-025",
-      "filmKey": "10 Things I Hate About You|1999"
-    },
-    {
-      "id": "ROM-L-026",
-      "filmKey": "10 Things I Hate About You|1999"
-    },
-    {
-      "id": "ROM-M-025",
-      "filmKey": "10 Things I Hate About You|1999"
-    },
-    {
-      "id": "ROM-M-026",
-      "filmKey": "10 Things I Hate About You|1999"
-    },
-    {
-      "id": "ROM-S-025",
-      "filmKey": "10 Things I Hate About You|1999"
-    },
-    {
-      "id": "ROM-S-026",
-      "filmKey": "10 Things I Hate About You|1999"
-    },
-    {
-      "id": "FF-263-YEAR",
-      "filmKey": "10 Things I Hate About You|1999"
-    },
-    {
-      "id": "FF-263-DIRECTOR",
-      "filmKey": "10 Things I Hate About You|1999"
-    },
-    {
-      "id": "SF-L-022",
-      "filmKey": "12 Monkeys|1995"
-    },
-    {
-      "id": "SF-M-022",
-      "filmKey": "12 Monkeys|1995"
-    },
-    {
-      "id": "SF-S-022",
-      "filmKey": "12 Monkeys|1995"
-    },
-    {
-      "id": "FF-147-YEAR",
-      "filmKey": "12 Monkeys|1995"
-    },
-    {
-      "id": "FF-147-DIRECTOR",
-      "filmKey": "12 Monkeys|1995"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-015-L1",
-      "filmKey": "13 Going on 30|2004"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-015-L2",
-      "filmKey": "13 Going on 30|2004"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-015-M1",
-      "filmKey": "13 Going on 30|2004"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-015-M2",
-      "filmKey": "13 Going on 30|2004"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-015-S1",
-      "filmKey": "13 Going on 30|2004"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-015-S2",
-      "filmKey": "13 Going on 30|2004"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-015-Y",
-      "filmKey": "13 Going on 30|2004"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-015-D",
-      "filmKey": "13 Going on 30|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-027-L1",
-      "filmKey": "1492: Conquest of Paradise|1992"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-027-L2",
-      "filmKey": "1492: Conquest of Paradise|1992"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-027-M1",
-      "filmKey": "1492: Conquest of Paradise|1992"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-027-M2",
-      "filmKey": "1492: Conquest of Paradise|1992"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-027-S1",
-      "filmKey": "1492: Conquest of Paradise|1992"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-027-S2",
-      "filmKey": "1492: Conquest of Paradise|1992"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-027-Y",
-      "filmKey": "1492: Conquest of Paradise|1992"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-027-D",
-      "filmKey": "1492: Conquest of Paradise|1992"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-003-L1",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-003-L2",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-003-M1",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-003-M2",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-003-S1",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-003-S2",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-003-Y",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-003-D",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
-    },
-    {
-      "id": "SF-202609-P02-L-001",
-      "filmKey": "2001: A Space Odyssey|1968"
-    },
-    {
-      "id": "SF-202609-P02-L-002",
-      "filmKey": "2001: A Space Odyssey|1968"
-    },
-    {
-      "id": "SF-202609-P02-M-001",
-      "filmKey": "2001: A Space Odyssey|1968"
-    },
-    {
-      "id": "SF-202609-P02-M-002",
-      "filmKey": "2001: A Space Odyssey|1968"
-    },
-    {
-      "id": "SF-202609-P02-S-001",
-      "filmKey": "2001: A Space Odyssey|1968"
-    },
-    {
-      "id": "SF-202609-P02-S-002",
-      "filmKey": "2001: A Space Odyssey|1968"
-    },
-    {
-      "id": "SF-202609-P02-L-001-V1",
-      "filmKey": "2001: A Space Odyssey|1968"
-    },
-    {
-      "id": "SF-202609-P02-S-002-V1",
-      "filmKey": "2001: A Space Odyssey|1968"
-    },
-    {
-      "id": "FF-326-YEAR",
-      "filmKey": "2001: A Space Odyssey|1968"
-    },
-    {
-      "id": "FF-326-DIRECTOR",
-      "filmKey": "2001: A Space Odyssey|1968"
-    },
     {
       "id": "SF-202609-P02-L-003",
       "filmKey": "2010: The Year We Make Contact|1984"
@@ -41049,204 +40904,204 @@
   ],
   "next": [
     {
-      "id": "ROM-202610-P01-S-008",
-      "filmKey": "(500) Days of Summer|2009"
+      "id": "SF-202609-P02-L-003",
+      "filmKey": "2010: The Year We Make Contact|1984"
     },
     {
-      "id": "ROM-202610-P01-M-009",
-      "filmKey": "(500) Days of Summer|2009"
+      "id": "SF-202609-P02-L-004",
+      "filmKey": "2010: The Year We Make Contact|1984"
     },
     {
-      "id": "ROM-202610-P01-S-009",
-      "filmKey": "(500) Days of Summer|2009"
+      "id": "SF-202609-P02-M-003",
+      "filmKey": "2010: The Year We Make Contact|1984"
     },
     {
-      "id": "ROM-L-025",
-      "filmKey": "10 Things I Hate About You|1999"
+      "id": "SF-202609-P02-M-004",
+      "filmKey": "2010: The Year We Make Contact|1984"
     },
     {
-      "id": "ROM-L-026",
-      "filmKey": "10 Things I Hate About You|1999"
+      "id": "SF-202609-P02-S-003",
+      "filmKey": "2010: The Year We Make Contact|1984"
     },
     {
-      "id": "ROM-M-025",
-      "filmKey": "10 Things I Hate About You|1999"
+      "id": "SF-202609-P02-S-004",
+      "filmKey": "2010: The Year We Make Contact|1984"
     },
     {
-      "id": "ROM-M-026",
-      "filmKey": "10 Things I Hate About You|1999"
+      "id": "SF-202609-P02-L-003-V1",
+      "filmKey": "2010: The Year We Make Contact|1984"
     },
     {
-      "id": "ROM-S-025",
-      "filmKey": "10 Things I Hate About You|1999"
+      "id": "SF-202609-P02-S-004-V1",
+      "filmKey": "2010: The Year We Make Contact|1984"
     },
     {
-      "id": "ROM-S-026",
-      "filmKey": "10 Things I Hate About You|1999"
+      "id": "FF-327-YEAR",
+      "filmKey": "2010: The Year We Make Contact|1984"
     },
     {
-      "id": "FF-263-YEAR",
-      "filmKey": "10 Things I Hate About You|1999"
+      "id": "FF-327-DIRECTOR",
+      "filmKey": "2010: The Year We Make Contact|1984"
     },
     {
-      "id": "FF-263-DIRECTOR",
-      "filmKey": "10 Things I Hate About You|1999"
+      "id": "ART-L-039",
+      "filmKey": "2046|2004"
     },
     {
-      "id": "SF-L-022",
-      "filmKey": "12 Monkeys|1995"
+      "id": "ART-L-040",
+      "filmKey": "2046|2004"
     },
     {
-      "id": "SF-M-022",
-      "filmKey": "12 Monkeys|1995"
+      "id": "ART-M-039",
+      "filmKey": "2046|2004"
     },
     {
-      "id": "SF-S-022",
-      "filmKey": "12 Monkeys|1995"
+      "id": "ART-M-040",
+      "filmKey": "2046|2004"
     },
     {
-      "id": "FF-147-YEAR",
-      "filmKey": "12 Monkeys|1995"
+      "id": "ART-S-039",
+      "filmKey": "2046|2004"
     },
     {
-      "id": "FF-147-DIRECTOR",
-      "filmKey": "12 Monkeys|1995"
+      "id": "ART-S-040",
+      "filmKey": "2046|2004"
     },
     {
-      "id": "G100-20261008-ROMCOM-015-L1",
-      "filmKey": "13 Going on 30|2004"
+      "id": "FF-045-YEAR",
+      "filmKey": "2046|2004"
     },
     {
-      "id": "G100-20261008-ROMCOM-015-L2",
-      "filmKey": "13 Going on 30|2004"
+      "id": "E20261007-F-060-L1",
+      "filmKey": "21 Grams|2003"
     },
     {
-      "id": "G100-20261008-ROMCOM-015-M1",
-      "filmKey": "13 Going on 30|2004"
+      "id": "E20261007-F-060-L2",
+      "filmKey": "21 Grams|2003"
     },
     {
-      "id": "G100-20261008-ROMCOM-015-M2",
-      "filmKey": "13 Going on 30|2004"
+      "id": "E20261007-F-060-M1",
+      "filmKey": "21 Grams|2003"
     },
     {
-      "id": "G100-20261008-ROMCOM-015-S1",
-      "filmKey": "13 Going on 30|2004"
+      "id": "E20261007-F-060-M2",
+      "filmKey": "21 Grams|2003"
     },
     {
-      "id": "G100-20261008-ROMCOM-015-S2",
-      "filmKey": "13 Going on 30|2004"
+      "id": "E20261007-F-060-S1",
+      "filmKey": "21 Grams|2003"
     },
     {
-      "id": "G100-20261008-ROMCOM-015-Y",
-      "filmKey": "13 Going on 30|2004"
+      "id": "E20261007-F-060-S2",
+      "filmKey": "21 Grams|2003"
     },
     {
-      "id": "G100-20261008-ROMCOM-015-D",
-      "filmKey": "13 Going on 30|2004"
+      "id": "E20261007-F-060-Y",
+      "filmKey": "21 Grams|2003"
     },
     {
-      "id": "G100-20261008-ABENTEUER-027-L1",
-      "filmKey": "1492: Conquest of Paradise|1992"
+      "id": "E20261007-F-060-D",
+      "filmKey": "21 Grams|2003"
     },
     {
-      "id": "G100-20261008-ABENTEUER-027-L2",
-      "filmKey": "1492: Conquest of Paradise|1992"
+      "id": "ROM-L-029",
+      "filmKey": "27 Dresses|2008"
     },
     {
-      "id": "G100-20261008-ABENTEUER-027-M1",
-      "filmKey": "1492: Conquest of Paradise|1992"
+      "id": "ROM-L-030",
+      "filmKey": "27 Dresses|2008"
     },
     {
-      "id": "G100-20261008-ABENTEUER-027-M2",
-      "filmKey": "1492: Conquest of Paradise|1992"
+      "id": "ROM-M-029",
+      "filmKey": "27 Dresses|2008"
     },
     {
-      "id": "G100-20261008-ABENTEUER-027-S1",
-      "filmKey": "1492: Conquest of Paradise|1992"
+      "id": "ROM-M-030",
+      "filmKey": "27 Dresses|2008"
     },
     {
-      "id": "G100-20261008-ABENTEUER-027-S2",
-      "filmKey": "1492: Conquest of Paradise|1992"
+      "id": "ROM-S-029",
+      "filmKey": "27 Dresses|2008"
     },
     {
-      "id": "G100-20261008-ABENTEUER-027-Y",
-      "filmKey": "1492: Conquest of Paradise|1992"
+      "id": "ROM-S-030",
+      "filmKey": "27 Dresses|2008"
     },
     {
-      "id": "G100-20261008-ABENTEUER-027-D",
-      "filmKey": "1492: Conquest of Paradise|1992"
+      "id": "FF-265-YEAR",
+      "filmKey": "27 Dresses|2008"
     },
     {
-      "id": "G100-20261008-ABENTEUER-003-L1",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
+      "id": "FF-265-DIRECTOR",
+      "filmKey": "27 Dresses|2008"
     },
     {
-      "id": "G100-20261008-ABENTEUER-003-L2",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
+      "id": "HOR-202610-P01-L-013",
+      "filmKey": "28 Days Later|2002"
     },
     {
-      "id": "G100-20261008-ABENTEUER-003-M1",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
+      "id": "HOR-202610-P01-L-014",
+      "filmKey": "28 Days Later|2002"
     },
     {
-      "id": "G100-20261008-ABENTEUER-003-M2",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
+      "id": "HOR-202610-P01-M-019",
+      "filmKey": "28 Days Later|2002"
     },
     {
-      "id": "G100-20261008-ABENTEUER-003-S1",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
+      "id": "HOR-202610-P01-M-020",
+      "filmKey": "28 Days Later|2002"
     },
     {
-      "id": "G100-20261008-ABENTEUER-003-S2",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
+      "id": "HOR-202610-P01-S-019",
+      "filmKey": "28 Days Later|2002"
     },
     {
-      "id": "G100-20261008-ABENTEUER-003-Y",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
+      "id": "HOR-202610-P01-S-020",
+      "filmKey": "28 Days Later|2002"
     },
     {
-      "id": "G100-20261008-ABENTEUER-003-D",
-      "filmKey": "20,000 Leagues Under the Sea|1954"
+      "id": "HOR-202610-P01-M-021",
+      "filmKey": "28 Days Later|2002"
     },
     {
-      "id": "SF-202609-P02-L-001",
-      "filmKey": "2001: A Space Odyssey|1968"
+      "id": "HOR-202610-P01-S-021",
+      "filmKey": "28 Days Later|2002"
     },
     {
-      "id": "SF-202609-P02-L-002",
-      "filmKey": "2001: A Space Odyssey|1968"
+      "id": "G100-20261008-WESTERN-005-L1",
+      "filmKey": "3:10 to Yuma|1957"
     },
     {
-      "id": "SF-202609-P02-M-001",
-      "filmKey": "2001: A Space Odyssey|1968"
+      "id": "G100-20261008-WESTERN-005-L2",
+      "filmKey": "3:10 to Yuma|1957"
     },
     {
-      "id": "SF-202609-P02-M-002",
-      "filmKey": "2001: A Space Odyssey|1968"
+      "id": "G100-20261008-WESTERN-005-M1",
+      "filmKey": "3:10 to Yuma|1957"
     },
     {
-      "id": "SF-202609-P02-S-001",
-      "filmKey": "2001: A Space Odyssey|1968"
+      "id": "G100-20261008-WESTERN-005-M2",
+      "filmKey": "3:10 to Yuma|1957"
     },
     {
-      "id": "SF-202609-P02-S-002",
-      "filmKey": "2001: A Space Odyssey|1968"
+      "id": "G100-20261008-WESTERN-005-S1",
+      "filmKey": "3:10 to Yuma|1957"
     },
     {
-      "id": "SF-202609-P02-L-001-V1",
-      "filmKey": "2001: A Space Odyssey|1968"
+      "id": "G100-20261008-WESTERN-005-S2",
+      "filmKey": "3:10 to Yuma|1957"
     },
     {
-      "id": "SF-202609-P02-S-002-V1",
-      "filmKey": "2001: A Space Odyssey|1968"
+      "id": "G100-20261008-WESTERN-005-Y",
+      "filmKey": "3:10 to Yuma|1957"
     },
     {
-      "id": "FF-326-YEAR",
-      "filmKey": "2001: A Space Odyssey|1968"
+      "id": "G100-20261008-WESTERN-005-D",
+      "filmKey": "3:10 to Yuma|1957"
     },
     {
-      "id": "FF-326-DIRECTOR",
-      "filmKey": "2001: A Space Odyssey|1968"
+      "id": "G100-20261008-MUSIK-006-L1",
+      "filmKey": "42nd Street|1933"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
