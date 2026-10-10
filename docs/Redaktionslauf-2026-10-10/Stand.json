@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "80a6fbca89a0fd2475b8e25314889a81ef7875c6",
+  "sourceCommit": "bd5a2fea00306a9b0ff8e761d88481de34fed46d",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 750,
-  "totalReviewed": 900,
-  "remainingFilmQuestions": 9833,
+  "completedInThisRun": 800,
+  "totalReviewed": 950,
+  "remainingFilmQuestions": 9783,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 11873,
+  "remainingAllQuestions": 11823,
   "blocks": [
     {
       "block": 1,
@@ -83,6 +83,11 @@
     {
       "block": 15,
       "path": "Block-15.json",
+      "count": 50
+    },
+    {
+      "block": 16,
+      "path": "Block-16.json",
       "count": 50
     }
   ],
@@ -986,209 +991,59 @@
     "FF-350-DIRECTOR",
     "ROM-202610-P01-L-019",
     "ROM-202610-P01-L-020",
-    "ROM-202610-P01-M-028"
+    "ROM-202610-P01-M-028",
+    "ROM-202610-P01-M-029",
+    "ROM-202610-P01-S-028",
+    "ROM-202610-P01-S-029",
+    "ROM-202610-P01-M-030",
+    "ROM-202610-P01-S-030",
+    "E20261007-F-201-L1",
+    "E20261007-F-201-L2",
+    "E20261007-F-201-M1",
+    "E20261007-F-201-M2",
+    "E20261007-F-201-S1",
+    "E20261007-F-201-S2",
+    "E20261007-F-201-Y",
+    "E20261007-F-201-D",
+    "KOM-202609-P02-L-007",
+    "KOM-202609-P02-L-008",
+    "KOM-202609-P02-M-007",
+    "KOM-202609-P02-M-008",
+    "KOM-202609-P02-S-007",
+    "KOM-202609-P02-S-008",
+    "KOM-202609-P02-L-007-V1",
+    "KOM-202609-P02-S-008-V1",
+    "FF-379-YEAR",
+    "FF-379-DIRECTOR",
+    "MUS-202609-P01-L-049",
+    "MUS-202609-P01-L-050",
+    "MUS-202609-P01-M-049",
+    "MUS-202609-P01-M-050",
+    "MUS-202609-P01-S-049",
+    "MUS-202609-P01-S-050",
+    "MUS-202609-P01-S-049-V1",
+    "FF-325-YEAR",
+    "FF-325-DIRECTOR",
+    "SF-202609-P02-L-041",
+    "SF-202609-P02-L-042",
+    "SF-202609-P02-M-041",
+    "SF-202609-P02-M-042",
+    "SF-202609-P02-S-041",
+    "SF-202609-P02-S-042",
+    "SF-202609-P02-M-041-V1",
+    "FF-346-YEAR",
+    "FF-346-DIRECTOR",
+    "G100-20261008-ROMCOM-002-L1",
+    "G100-20261008-ROMCOM-002-L2",
+    "G100-20261008-ROMCOM-002-M1",
+    "G100-20261008-ROMCOM-002-M2",
+    "G100-20261008-ROMCOM-002-S1",
+    "G100-20261008-ROMCOM-002-S2",
+    "G100-20261008-ROMCOM-002-Y",
+    "G100-20261008-ROMCOM-002-D",
+    "F240-20261006-200-L1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "ROM-202610-P01-M-029",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "ROM-202610-P01-S-028",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "ROM-202610-P01-S-029",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "ROM-202610-P01-M-030",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "ROM-202610-P01-S-030",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "E20261007-F-201-L1",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-L2",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-M1",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-M2",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-S1",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-S2",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-Y",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-D",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "KOM-202609-P02-L-007",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-L-008",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-M-007",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-M-008",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-S-007",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-S-008",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-L-007-V1",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-S-008-V1",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "FF-379-YEAR",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "FF-379-DIRECTOR",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "MUS-202609-P01-L-049",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-L-050",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-M-049",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-M-050",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-S-049",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-S-050",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-S-049-V1",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "FF-325-YEAR",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "FF-325-DIRECTOR",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "SF-202609-P02-L-041",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-L-042",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-M-041",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-M-042",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-S-041",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-S-042",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-M-041-V1",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "FF-346-YEAR",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "FF-346-DIRECTOR",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-L1",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-L2",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-M1",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-M2",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-S1",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-S2",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-Y",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-D",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "F240-20261006-200-L1",
-      "filmKey": "After Yang|2021"
-    },
     {
       "id": "F240-20261006-200-L2",
       "filmKey": "After Yang|2021"
@@ -40324,204 +40179,204 @@
   ],
   "next": [
     {
-      "id": "ROM-202610-P01-M-029",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "ROM-202610-P01-S-028",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "ROM-202610-P01-S-029",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "ROM-202610-P01-M-030",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "ROM-202610-P01-S-030",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "E20261007-F-201-L1",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-L2",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-M1",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-M2",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-S1",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-S2",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-Y",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "E20261007-F-201-D",
-      "filmKey": "Abre los ojos|1997"
-    },
-    {
-      "id": "KOM-202609-P02-L-007",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-L-008",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-M-007",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-M-008",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-S-007",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-S-008",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-L-007-V1",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "KOM-202609-P02-S-008-V1",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "FF-379-YEAR",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "FF-379-DIRECTOR",
-      "filmKey": "Ace Ventura: Pet Detective|1994"
-    },
-    {
-      "id": "MUS-202609-P01-L-049",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-L-050",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-M-049",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-M-050",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-S-049",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-S-050",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "MUS-202609-P01-S-049-V1",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "FF-325-YEAR",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "FF-325-DIRECTOR",
-      "filmKey": "Across the Universe|2007"
-    },
-    {
-      "id": "SF-202609-P02-L-041",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-L-042",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-M-041",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-M-042",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-S-041",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-S-042",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "SF-202609-P02-M-041-V1",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "FF-346-YEAR",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "FF-346-DIRECTOR",
-      "filmKey": "Ad Astra|2019"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-L1",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-L2",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-M1",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-M2",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-S1",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-S2",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-Y",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-002-D",
-      "filmKey": "Adam's Rib|1949"
-    },
-    {
-      "id": "F240-20261006-200-L1",
+      "id": "F240-20261006-200-L2",
       "filmKey": "After Yang|2021"
+    },
+    {
+      "id": "F240-20261006-200-M1",
+      "filmKey": "After Yang|2021"
+    },
+    {
+      "id": "F240-20261006-200-M2",
+      "filmKey": "After Yang|2021"
+    },
+    {
+      "id": "F240-20261006-200-S1",
+      "filmKey": "After Yang|2021"
+    },
+    {
+      "id": "F240-20261006-200-S2",
+      "filmKey": "After Yang|2021"
+    },
+    {
+      "id": "F240-20261006-200-Y",
+      "filmKey": "After Yang|2021"
+    },
+    {
+      "id": "F240-20261006-200-D",
+      "filmKey": "After Yang|2021"
+    },
+    {
+      "id": "F240-20261006-046-L1",
+      "filmKey": "Aftersun|2022"
+    },
+    {
+      "id": "F240-20261006-046-L2",
+      "filmKey": "Aftersun|2022"
+    },
+    {
+      "id": "F240-20261006-046-M1",
+      "filmKey": "Aftersun|2022"
+    },
+    {
+      "id": "F240-20261006-046-M2",
+      "filmKey": "Aftersun|2022"
+    },
+    {
+      "id": "F240-20261006-046-S1",
+      "filmKey": "Aftersun|2022"
+    },
+    {
+      "id": "F240-20261006-046-S2",
+      "filmKey": "Aftersun|2022"
+    },
+    {
+      "id": "F240-20261006-046-Y",
+      "filmKey": "Aftersun|2022"
+    },
+    {
+      "id": "F240-20261006-046-D",
+      "filmKey": "Aftersun|2022"
+    },
+    {
+      "id": "F240-20261006-218-L1",
+      "filmKey": "Agassi|2016"
+    },
+    {
+      "id": "F240-20261006-218-L2",
+      "filmKey": "Agassi|2016"
+    },
+    {
+      "id": "F240-20261006-218-M1",
+      "filmKey": "Agassi|2016"
+    },
+    {
+      "id": "F240-20261006-218-M2",
+      "filmKey": "Agassi|2016"
+    },
+    {
+      "id": "F240-20261006-218-S1",
+      "filmKey": "Agassi|2016"
+    },
+    {
+      "id": "F240-20261006-218-S2",
+      "filmKey": "Agassi|2016"
+    },
+    {
+      "id": "F240-20261006-218-Y",
+      "filmKey": "Agassi|2016"
+    },
+    {
+      "id": "F240-20261006-218-D",
+      "filmKey": "Agassi|2016"
+    },
+    {
+      "id": "ART-L-013",
+      "filmKey": "Aguirre, der Zorn Gottes|1972"
+    },
+    {
+      "id": "ART-L-014",
+      "filmKey": "Aguirre, der Zorn Gottes|1972"
+    },
+    {
+      "id": "ART-M-013",
+      "filmKey": "Aguirre, der Zorn Gottes|1972"
+    },
+    {
+      "id": "ART-M-014",
+      "filmKey": "Aguirre, der Zorn Gottes|1972"
+    },
+    {
+      "id": "ART-S-013",
+      "filmKey": "Aguirre, der Zorn Gottes|1972"
+    },
+    {
+      "id": "ART-S-014",
+      "filmKey": "Aguirre, der Zorn Gottes|1972"
+    },
+    {
+      "id": "FF-032-YEAR",
+      "filmKey": "Aguirre, der Zorn Gottes|1972"
+    },
+    {
+      "id": "ACT-L-023",
+      "filmKey": "Air Force One|1997"
+    },
+    {
+      "id": "ACT-L-024",
+      "filmKey": "Air Force One|1997"
+    },
+    {
+      "id": "ACT-M-023",
+      "filmKey": "Air Force One|1997"
+    },
+    {
+      "id": "ACT-M-024",
+      "filmKey": "Air Force One|1997"
+    },
+    {
+      "id": "ACT-S-023",
+      "filmKey": "Air Force One|1997"
+    },
+    {
+      "id": "ACT-S-024",
+      "filmKey": "Air Force One|1997"
+    },
+    {
+      "id": "FF-012-YEAR",
+      "filmKey": "Air Force One|1997"
+    },
+    {
+      "id": "FF-012-DIRECTOR",
+      "filmKey": "Air Force One|1997"
+    },
+    {
+      "id": "F240-20261006-106-L1",
+      "filmKey": "Airplane II: The Sequel|1982"
+    },
+    {
+      "id": "F240-20261006-106-L2",
+      "filmKey": "Airplane II: The Sequel|1982"
+    },
+    {
+      "id": "F240-20261006-106-M1",
+      "filmKey": "Airplane II: The Sequel|1982"
+    },
+    {
+      "id": "F240-20261006-106-M2",
+      "filmKey": "Airplane II: The Sequel|1982"
+    },
+    {
+      "id": "F240-20261006-106-S1",
+      "filmKey": "Airplane II: The Sequel|1982"
+    },
+    {
+      "id": "F240-20261006-106-S2",
+      "filmKey": "Airplane II: The Sequel|1982"
+    },
+    {
+      "id": "F240-20261006-106-Y",
+      "filmKey": "Airplane II: The Sequel|1982"
+    },
+    {
+      "id": "F240-20261006-106-D",
+      "filmKey": "Airplane II: The Sequel|1982"
+    },
+    {
+      "id": "KOM-L-009",
+      "filmKey": "Airplane!|1980"
+    },
+    {
+      "id": "KOM-L-010",
+      "filmKey": "Airplane!|1980"
+    },
+    {
+      "id": "KOM-M-009",
+      "filmKey": "Airplane!|1980"
+    },
+    {
+      "id": "KOM-M-010",
+      "filmKey": "Airplane!|1980"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
