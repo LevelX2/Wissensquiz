@@ -2,7 +2,7 @@ import type { Mode } from "./model";
 import { modeNames } from "./recordModes";
 
 const recordSelection =
-  "Du wählst die Königsklasse mit allen offiziellen Fragenbereichen oder genau ein Filmgenre. Der feste Mix enthält je Zehnerblock drei leichte, vier mittlere und drei schwere Fragen. Richtige und schnelle Antworten bringen Rekordpunkte; jede Auswahl hat ihre eigene Rangliste.";
+  "Du wählst Universal mit allen offiziellen Fragenbereichen oder genau ein Filmgenre. Der feste Mix enthält je Zehnerblock drei leichte, vier mittlere und drei schwere Fragen. Richtige und schnelle Antworten bringen Rekordpunkte; jede Auswahl hat ihre eigene Rangliste.";
 const timedFlow =
   "Die Lösungsanzeige stellst Du unter Profil → Optionen ein. Erklärungen liest Du ohne Zeitdruck. Beim Tabwechsel läuft die Frageuhr weiter; Neuladen beendet den Lauf.";
 

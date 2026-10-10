@@ -162,7 +162,7 @@
 ## Spielbare Testversion
 
 - [Finale: Gesamtintegration, Veröffentlichung und lokaler Nachabgleich mit Branchbereinigung am 04.10.2026](../../../docs/Gesamtintegration-2026-10-03.md)
-- [Rekordmodi: Königsklasse/Einzelgenre, Einzellauf-Highscores und verkürzte Ergebnisarchive und Entfernung alter Sonderwertungen](../../../docs/Rekordmodi-und-Zeitranglisten.md)
+- [Rekordmodi: Universal/Einzelgenre, Einzellauf-Highscores und verkürzte Ergebnisarchive und Entfernung alter Sonderwertungen](../../../docs/Rekordmodi-und-Zeitranglisten.md)
 
 - [Abnahme der lokalen Speicher-/Sync-Optimierung](../../../docs/Speicher-und-Sync-Abnahme.md)
 - [Produktionsrollout Version 42: Sicherung, Migrationen, Veröffentlichung und erste Kontoübernahme](../../../docs/Speicher-und-Sync-Produktion.md)

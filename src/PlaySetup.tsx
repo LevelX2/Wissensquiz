@@ -312,7 +312,7 @@ export function PlaySetup({
                   : `${selection.length} Fragen`}
                 {" · "}
                 {standard
-                  ? `${recordPreset === "genre" ? "Genre-Rekord" : "Königsklasse"} · 3 leicht / 4 mittel / 3 schwer`
+                  ? `${recordPreset === "genre" ? "Genre-Rekord" : "Universal"} · 3 leicht / 4 mittel / 3 schwer`
                   : mode !== "entdecken"
                     ? "Freie Auswahl: " + difficultySummary
                     : "Filmreise · freigeschaltete Etappen · neue Fragen und Wiederholungen"}
@@ -358,14 +358,14 @@ export function PlaySetup({
                   <input
                     type="radio"
                     name="record-preset"
-                    aria-label="Königsklasse · alle Bereiche · 3 leicht / 4 mittel / 3 schwer"
+                    aria-label="Universal · alle Bereiche · 3 leicht / 4 mittel / 3 schwer"
                     checked={recordPreset === "standard"}
                     onChange={() =>
                       void changeSetup({ recordPreset: "standard" })
                     }
                   />
                   <span>
-                    <strong>Königsklasse</strong>
+                    <strong>Universal</strong>
                     <small>
                       Alle Bereiche · 3 leicht / 4 mittel / 3 schwer
                     </small>
@@ -405,7 +405,7 @@ export function PlaySetup({
                   </label>
                 )}
                 <p className="tiny muted">
-                  Rekorde vergleichen die Königsklasse oder genau ein Genre.
+                  Rekorde vergleichen Universal oder genau ein Genre.
                   Themen, Filmgruppen und Schwierigkeiten sind dafür fest
                   vorgegeben. Freie Filter gibt es in den Lernmodi.
                 </p>

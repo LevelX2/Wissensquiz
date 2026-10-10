@@ -187,7 +187,7 @@ export function Help() {
             Sekunde. Falsche oder verspätete Antworten geben keine Punkte. Beim
             Lesen der Erklärung läuft keine Uhr. Der feste Mix enthält drei
             leichte, vier mittlere und drei schwere Fragen. Für Rekorde wählst
-            Du die Königsklasse mit allen Bereichen oder genau ein Filmgenre.
+            Du Universal mit allen Bereichen oder genau ein Filmgenre.
             Zusätzliche Themen-, Stufen- und Filmgruppenfilter entfallen.
           </li>
         </ul>

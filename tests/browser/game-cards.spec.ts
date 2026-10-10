@@ -103,7 +103,7 @@ test("Duell öffnet erst nach Variantenauswahl und Losspielen", async ({
   );
 });
 
-test("Rekordauswahl hat nur Königsklasse oder ein Genre, feste Stufen und passende Radios", async ({
+test("Rekordauswahl hat nur Universal oder ein Genre, feste Stufen und passende Radios", async ({
   page,
 }) => {
   await page.clock.install({ time: new Date("2026-10-03T16:00:00+02:00") });
@@ -139,7 +139,7 @@ test("Rekordauswahl hat nur Königsklasse oder ein Genre, feste Stufen und passe
   await modePreparation(page, /^Zeitkonto /).click();
   const field = page.getByRole("group", { name: "Rekordauswahl", exact: true });
   await expect(field.getByRole("radio")).toHaveCount(2);
-  await expect(page.getByLabel(/Königsklasse ·/)).toBeChecked();
+  await expect(page.getByLabel(/Universal ·/)).toBeChecked();
   await expect(
     page.getByRole("group", { name: "Filmgenres", exact: true }),
   ).toHaveCount(0);

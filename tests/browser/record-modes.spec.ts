@@ -318,7 +318,7 @@ test("Gruppen merken Varianten, Standardmix ist fest und Neuladen beendet fremde
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await modePreparation(page, /^Zeitkonto /).click();
-  await expect(page.getByLabel(/Königsklasse ·/)).toBeChecked();
+  await expect(page.getByLabel(/Universal ·/)).toBeChecked();
   await expect(
     page.getByRole("group", { name: "Schwierigkeitsstufen", exact: true }),
   ).toHaveCount(0);

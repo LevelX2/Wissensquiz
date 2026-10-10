@@ -72,7 +72,7 @@ export const isRankedRecord = (round: Round) => {
 export const recordSelectionLabel = (round: Round) =>
   round.recordPreset === "genre"
     ? `Genre · ${round.filters?.genres[0] ?? "Filmfragen"}`
-    : "Königsklasse";
+    : "Universal";
 
 export type RecordPeriod = "week" | "month" | "year" | "all";
 export const periodNames: Record<RecordPeriod, string> = {
