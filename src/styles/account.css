@@ -66,6 +66,21 @@
   white-space: nowrap;
 }
 
+.profile-learning-stages {
+  margin: 1rem 0;
+}
+.profile-learning-stages > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--line);
+}
+.profile-learning-stages dd {
+  margin: 0;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
 .profile-stats {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

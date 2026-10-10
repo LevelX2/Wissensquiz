@@ -6,7 +6,7 @@ Stand: 10.10.2026, lokale Umsetzung; noch nicht veröffentlicht.
 
 Die Bildschirmfotos zeigen unterschiedliche Grundmengen: Filmreise zählt alle fälligen Wissensziele innerhalb der freigeschalteten Auswahl; Fehlertraining nur noch offene Fehlantworten innerhalb seiner manuellen Filter. Bereits sicher gelöste Ziele fallen sofort aus dem Fehlertraining, brauchen aber weitere Wiederholungen zur Festigung. Die Zahlen 274 und 1 lassen sich deshalb nicht gleichsetzen. Der persönliche Spielstand wurde nicht ausgelesen oder verändert; die genaue Verteilung der 274 Ziele ist nicht geprüft.
 
-Die gleiche Beschriftung war missverständlich. Fehlertraining nennt jetzt ausdrücklich „offener Fehler fällig“ beziehungsweise „offene Fehler fällig“. Beide Ansichten erklären die Grundmenge und die unterschiedlichen Filter. Varianten zählen weiterhin einmal je Wissensziel.
+Die gleiche Beschriftung und anschließend ausführliche Erklärkästen waren missverständlich. Nach erneuter Nutzerpräzisierung entfallen sämtliche großen Fälligkeitskästen. Nur die Filmreise zeigt die Zahl kompakt direkt in der gewählten Moduskarte. Freies Spiel und Fehlertraining zeigen keine Fälligkeit. Varianten zählen weiterhin einmal je Wissensziel. Ob Fehlertraining künftig durch einen allgemeinen Lernmodus für alle fälligen Ziele ersetzt werden soll, wurde ausdrücklich zur Klärung gestellt; bis dahin bleiben die bestehenden Modusregeln erhalten.
 
 Ein zweiter Befund erklärt ausbleibende Zwischenaufstiege: Die bisherige Filmreise nahm zunächst neue Ziele und erst danach fällige Wiederholungen. Ein großer neuer Bestand konnte die Festigung dauerhaft verdrängen. Eine optionale Rückfrage zur Bedeutung von „nur lernen oder gemischt“ wurde gestellt. Ohne weitere Präzisierung wurde die Wahl für die Filmreise als fällige Wiederholungen gegenüber einer Mischung mit neuen Zielen ausgelegt.
 
@@ -22,6 +22,12 @@ In der Filmreise ist jetzt wählbar:
 Unveränderte Lernregel: sichere Antwort = richtig, ohne „War geraten“. Erste sichere Antwort erreicht Stufe 1; die Wiederholung ist nach 24 Stunden fällig. Ein sicherer Treffer ab Termin erreicht Stufe 2 (weiterer Abstand drei Tage), dann Stufe 3 (sieben Tage), dann Stufe 4 (21 Tage). Ohne Zwischenfehler: Tag 0 → 1 → 4 → 11; an Tag 11 ist das Ziel gefestigt, nächste Wiederholung an Tag 32.
 
 Frühe sichere Antworten erhalten Stufe und Termin; höchstens ein Aufstieg je lokalem Kalendertag. Fehler oder Zeitablauf setzen auf Stufe 0 zurück, mit zehn Minuten bis zur nächsten Wiederholung. „War geraten“ setzt ebenfalls auf 0 zurück, mit sechs Stunden Abstand. Nach einem Aufstieg am selben Tag gilt für die nächste Stufe zusätzlich frühestens der nächste Kalendertag. Die Hilfe nennt nun auch die vier Intervalle einzeln.
+
+## Gesamtübersicht im Profil
+
+„Dein Lernstand“ bleibt im Profil sichtbar, unabhängig von Spielmodus und Auswahlfiltern. Unterschiedliche kennengelernte Fragen zählen anhand eindeutiger Frage-IDs mit Antwortereignis, einschließlich „Keine Ahnung“ und Zeitablauf; Wiederholungen derselben Frage erhöhen diese Zahl nicht. Bloßes Anzeigen ohne Antwort wird weiterhin nicht gespeichert. Die bisherige Ereignissumme heißt zur Abgrenzung „Antworten insgesamt“.
+
+Eine kompakte Liste verteilt alle eindeutigen Wissensziele des aktuellen Fragenbestands vollständig auf „Noch nicht gelernt“, „Stufe 0 · Noch unsicher“ sowie Stufen 1–4. Fragevarianten teilen ihren Lernstand und zählen hier einmal. Die Summe der sechs Gruppen entspricht der Zahl eindeutiger Wissensziele des Bestands. Die Zahl kennengelernter Fragen und diese Zielzahl sind deshalb bewusst unterschiedlich beschriftet. Keine neuen Datenfelder oder Änderungen an Spielständen. [Präzisierter Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerhinweis%20kompakte%20Lernauswahl%20und%20Profil.txt).
 
 ## Herkunft und Prüfung
 

@@ -77,15 +77,37 @@ test("Filmreise trennt Festigung von offenen Fehlern und speichert reine Wiederh
   };
   await writeState(page, state);
   await page.reload();
-  const overview = page.getByRole("status", {
-    name: "Wiederholungen in Deiner Auswahl",
-  });
+  const overview = page.getByLabel("Fällige Wiederholungen", { exact: true });
   await expect(overview).toContainText("13 Wiederholungen fällig");
-  await expect(overview).toContainText("auch bereits richtig beantwortete");
+  await expect(page.locator(".repetition-overview")).toHaveCount(0);
+  await expect(page.locator(".mode-selection > summary")).toContainText(
+    "13 Wiederholungen fällig",
+  );
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  const profile = page.getByRole("region", { name: "Dein Lernstand" });
+  await expect(profile).toContainText(
+    "13 unterschiedliche Fragen kennengelernt",
+  );
+  await expect(
+    profile
+      .locator(".profile-learning-stages > div")
+      .filter({ hasText: "Stufe 0" })
+      .locator("dd"),
+  ).toHaveText("1");
+  await expect(
+    profile
+      .locator(".profile-learning-stages > div")
+      .filter({ hasText: "Stufe 1" })
+      .locator("dd"),
+  ).toHaveText("12");
+  await page.screenshot({
+    path: "test-results/profil-lernstand-320.png",
+    fullPage: true,
+  });
+  await page.getByRole("button", { name: "Spielen", exact: true }).click();
   await openRoundSetup(page);
   await modePreparation(page, /Fehlertraining Offene Fehler/).click();
-  await expect(overview).toContainText("1 offener Fehler fällig");
-  await expect(overview).toContainText("nur offene Fehler");
+  await expect(overview).toHaveCount(0);
   await openRoundSetup(page);
   await modePreparation(page, /Filmreise Filmwelten/).click();
   await page.getByLabel("Fragenauswahl", { exact: true }).selectOption("due");
@@ -137,9 +159,8 @@ test("Filmreise trennt Festigung von offenen Fehlern und speichert reine Wiederh
   ).toContainText("in 3 Tagen");
 });
 
-test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert Termine, Filter und Neuladen", async ({
+test("kompakte Lernanzeige zählt den fälligen Pool nur in der Filmreise und aktualisiert Zeit, Filter und Neuladen", async ({
   page,
-  context,
   browserName,
 }) => {
   await page.clock.install({ time: now });
@@ -197,24 +218,20 @@ test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert 
   };
   await writeState(page, state);
   await page.reload();
-  const overview = page.getByRole("status", {
-    name: "Wiederholungen in Deiner Auswahl",
-  });
-  await expect(overview).toContainText("12 Wiederholungen fällig");
-  await expect(overview).toContainText("3 später");
-  await expect(overview).toContainText("in 10 Minuten");
+  const overview = page.getByLabel("Fällige Wiederholungen", { exact: true });
+  await expect(overview).toHaveCount(0);
+  await expect(page.locator(".repetition-overview")).toHaveCount(0);
   await expect(page.locator("#round-summary")).toContainText("10 Fragen");
   await openRoundSetup(page);
   await modePreparation(page, /Filmreise Filmwelten/).click();
   await expect(overview).toContainText("12 Wiederholungen fällig");
-  await expect(overview).toContainText("3 später");
   await openRoundSetup(page);
   await modePreparation(page, /Fehlertraining Offene Fehler/).click();
-  await expect(overview).toContainText("12 offene Fehler fällig");
-  await expect(overview).toContainText("1 später");
+  await expect(overview).toHaveCount(0);
+  await openRoundSetup(page);
+  await modePreparation(page, /Filmreise Filmwelten/).click();
   await page.clock.fastForward(10 * 60_000 + 1000);
-  await expect(overview).toContainText("13 offene Fehler fällig");
-  await expect(overview).toContainText("keine späteren Wiederholungen");
+  await expect(overview).toContainText("13 Wiederholungen fällig");
   await page.screenshot({
     path: `test-results/wiederholungsuebersicht-${browserName}.png`,
     fullPage: true,
@@ -229,10 +246,10 @@ test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert 
       .violations,
   ).toEqual([]);
   await page.reload();
-  await expect(overview).toContainText("13 offene Fehler fällig");
+  await expect(overview).toContainText("13 Wiederholungen fällig");
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
-  await expect(overview).toContainText("0 offene Fehler fällig");
+  await expect(overview).toContainText("0 Wiederholungen fällig");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
 });
 

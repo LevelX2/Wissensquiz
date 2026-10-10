@@ -12,7 +12,7 @@ import { selectQuestions } from "./engine";
 import { pathAreaOf, pathQuestions } from "./learningPath";
 import { discoveryContext } from "./discovery";
 import { errorTrainingContext } from "./errorTraining";
-import { learningDueText, repetitionOverview } from "./learningProgress";
+import { repetitionOverview } from "./learningProgress";
 import { useForegroundTime } from "./useForegroundTime";
 import { familiarities, familiarityLabel } from "./familiarity";
 import { type Mode, type Round, type State, type RoundSetup } from "./model";
@@ -192,6 +192,13 @@ export function PlaySetup({
                   ? "Drei Runden gegen einen Mitspieler"
                   : modeDescriptions[mode]}
               </small>
+              {playGroup === "learn" && mode === "entdecken" && (
+                <small aria-label="Fällige Wiederholungen">
+                  {repetitions.due.toLocaleString("de-DE")}{" "}
+                  {repetitions.due === 1 ? "Wiederholung" : "Wiederholungen"}{" "}
+                  fällig
+                </small>
+              )}
             </>
           }
           actionLabel="Modus ändern"
@@ -257,34 +264,6 @@ export function PlaySetup({
           </>
         ) : (
           <>
-            {!isRecordMode(mode) && (
-              <div
-                className="repetition-overview"
-                role="status"
-                aria-label="Wiederholungen in Deiner Auswahl"
-              >
-                <strong>
-                  {repetitions.due.toLocaleString("de-DE")}{" "}
-                  {repetitions.due === 1
-                    ? mode === "fehler"
-                      ? "offener Fehler fällig"
-                      : "Wiederholung fällig"
-                    : mode === "fehler"
-                      ? "offene Fehler fällig"
-                      : "Wiederholungen fällig"}
-                </strong>
-                <p className="tiny muted">
-                  {repetitions.later > 0
-                    ? `${repetitions.later.toLocaleString("de-DE")} später · Nächster Termin: ${learningDueText(repetitions.nextAt!, now)}.`
-                    : "Aktuell keine späteren Wiederholungen."}
-                </p>
-                <p className="tiny muted">
-                  {mode === "fehler"
-                    ? "Hier zählen nur offene Fehler mit Deinen Filtern. Sicher gelöste Ziele wiederholst Du in der Filmreise. Offene Fehler kannst Du auch vorher üben."
-                    : "Alle fälligen Ziele Deiner Auswahl – auch bereits richtig beantwortete. Fehlertraining zählt nur offene Fehler mit seinen eigenen Filtern."}
-                </p>
-              </div>
-            )}
             {mode === "entdecken" && (
               <div className="learning-selection">
                 <label htmlFor="learning-selection">Fragenauswahl</label>
