@@ -213,7 +213,7 @@ it("spielt Personen unabhängig von Filmgruppen und erhält Filmreise sowie getr
     },
     now,
   );
-  expect(round.questions).toHaveLength(5);
+  expect(round.questions).toHaveLength(10);
   expect(
     round.questions.every(
       (q) => q.metadata.person_id && q.difficulty === "experte",

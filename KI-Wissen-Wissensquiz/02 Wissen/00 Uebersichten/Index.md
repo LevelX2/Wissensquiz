@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Erste Fünferrunde entfernt: Lernrunden ab Beginn bis zehn Fragen – 10.10.2026](../../../docs/Lernregeln.md#auswahl-und-runden)
+
 - [Zehn Fragen geprüft: Originaltexte, Einzelbewertungen und individuelle Vertiefungsvorschläge – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Pruefung.md)
 
 - [Einmalige Zehnerrunde ohne Konto, E-Mail-Bestätigung und Übernahme; Weiterspielen auf PC, Handy und Tablet – 10.10.2026](../../../docs/Anmeldung-und-Online-Spielstand.md#einmalige-proberunde)

@@ -277,7 +277,6 @@ export function startRound(
     recordPreset?: "standard" | "genre";
   },
   now = Date.now(),
-  introductorySize?: 10,
 ): Round {
   if (state.rounds.some((r) => r.status === "active"))
     throw new Error(
@@ -323,12 +322,7 @@ export function startRound(
       ...(options.mode === "fehler"
         ? repetitionContext(state, options.sourceRoundId)
         : {}),
-      size: isEndlessMode(options.mode)
-        ? 1
-        : options.recordPreset
-          ? 10
-          : (introductorySize ??
-            (state.rounds.some((r) => r.status === "completed") ? 10 : 5)),
+      size: isEndlessMode(options.mode) ? 1 : 10,
       now,
     },
   );

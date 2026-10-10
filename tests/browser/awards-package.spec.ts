@@ -1,4 +1,4 @@
-import { writeStoredState } from "./fixtures";
+import { readStoredState, writeStoredState } from "./fixtures";
 import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -34,7 +34,7 @@ test("Preisträger und Experte sind mobil auswählbar, zeigen Vertiefung und ble
   for (const level of ["Leicht", "Mittel", "Schwer"])
     await levels.getByLabel(level, { exact: true }).uncheck();
   await expect(levels.getByLabel("Experte", { exact: true })).toBeChecked();
-  await expect(page.locator("#round-summary")).toContainText("5 Fragen");
+  await expect(page.locator("#round-summary")).toContainText("10 Fragen");
   await expect(page.locator("#round-summary")).toContainText("Preisträger");
   expect(
     (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
@@ -54,6 +54,7 @@ test("Preisträger und Experte sind mobil auswählbar, zeigen Vertiefung und ble
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Experte",
   );
+  expect((await readStoredState(page)).rounds.at(-1)?.questions).toHaveLength(10);
   await expect(page.locator(".film-data")).toHaveCount(0);
   await page.locator(".answer").first().click();
   await expect(page.locator(".explanation")).toBeVisible();

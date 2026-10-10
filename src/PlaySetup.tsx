@@ -96,7 +96,7 @@ export function PlaySetup({
     }
   };
   const completed = state.rounds.filter((r) => r.status === "completed");
-  const targetSize = isRecordMode(mode) ? 10 : completed.length ? 10 : 5;
+  const targetSize = 10;
   const officialIds =
     state.bundledQuestionIds && new Set(state.bundledQuestionIds);
   const standardReady =

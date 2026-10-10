@@ -156,7 +156,7 @@ it("sichert reine Zusatzbereiche ohne Filmgenres und ignoriert deren Filmgruppen
       },
       now,
     );
-    expect(round.questions).toHaveLength(Math.min(5, sources.length * 3));
+    expect(round.questions).toHaveLength(Math.min(10, sources.length * 3));
     expect(
       round.questions.every(
         (q) =>

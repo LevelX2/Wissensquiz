@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 10.10.2026 – Erste Fünferrunde entfernt
+
+Auf Nutzerauftrag die historische Erstspiel-Sondergröße entfernt: Filmreise, Freies Spiel und Wiederholen planen schon ab der ersten Runde bis zu zehn Fragen. Kleinere passende Zielmengen bleiben kürzer. Vorschau und Moduserklärungen angepasst, zusätzlicher Zehnerparameter der Proberunde entfernt; diese verwendet jetzt denselben regulären Rundenstart. Keine Änderung vorhandener Rundendaten oder neue Kompatibilitätslogik. [Vertrag und Originalauftrag](Lernregeln.md#auswahl-und-runden).
+
+TypeScript und Produktionsbuild erfolgreich, Katalog unverändert. Vollständiger isolierter Logiklauf auf Basis von `3fb2883` plus diesem Block: 450 von 451 Tests bestanden; ein bestehender Drei-Runden-Test hatte für nun 30 Fragen zu wenige freigeschaltete Ziele. Testaufbau auf den vollständigen offiziellen Katalog umgestellt, genügend neue Ziele vor jedem Start und zehn Fragen je Runde ausdrücklich geprüft. Anschließend alle 30 Tests der fünf betroffenen Auswahl-/Paket-/Proberundendateien erfolgreich. Laufparameter: ein Worker, 60 Sekunden Test-/Hooklimit, 8 GiB Node-Heap; keine dauerhaften Limitänderungen.
+
+Vier unterschiedliche isolierte Browserfälle bestanden: erste reguläre Runde tatsächlich mit zehn Antworten, 9/10-Ergebnis, XP, Historie und JSON-Wiederherstellung; mobile Preisträger-Auswahl mit Zehnervorschau, tatsächlichem Start, Axe und Neuladen; Proberunde einschließlich einmaliger Kontoübernahme in Chromium und mobilem WebKit. Kontrollierte Zeit und synthetische Konten, keine echten Nutzerdaten verändert. Geprüfter Build enthält keine parallel entstandene Serverzeit-Umstellung; diese ist ein eigener Änderungsblock. Keine vollständige neue Browser-Suite oder physische Geräteprüfung. Diffprüfung erfolgreich, noch nicht veröffentlicht, kein Push.
+
 ## 10.10.2026 – Servergeprüfte Zeitrunden
 
 Angenommene Sicherungen lokal implementiert: genau ein aktiver Solo-Zeitlauf pro Konto, aktuelle Frage ohne Lösung und ohne zukünftige Liste, Serverzeit einschließlich Übertragung, atomare Antwortannahme und öffentliche Zeitwertung ausschließlich aus privaten Serverläufen. Historische private Ergebnisse bleiben getrennt erhalten. Neue öffentliche Zeitresultate lassen sich weder über normale Speicherpakete, alte Speicher-RPCs noch Generationstausch/Import erzeugen. Kompakte Wiederholungsbelege ohne doppelte Fragetexte; private Endlosfolge bleibt zwischen Mischzyklen unverändert und rückt nur über einen Positionszähler vor. [Führender Vertrag, Einführung und Grenzen](Servergepruefte-Zeitrunden-2026-10-10.md).

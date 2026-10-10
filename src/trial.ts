@@ -101,7 +101,6 @@ export function createTrial(
       },
     },
     now,
-    10,
   );
   if (round.questions.length !== 10)
     throw new Error(

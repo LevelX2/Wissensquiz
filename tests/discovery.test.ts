@@ -6,6 +6,8 @@ import { answer, complete, selectQuestions, startRound } from "../src/engine";
 import { discoveryContext } from "../src/discovery";
 import { genreOf } from "../src/filters";
 import { familiarityOf } from "../src/familiarity";
+import { addPackages, packages } from "../src/packages";
+import { pathQuestions } from "../src/learningPath";
 
 const questions = importCsv(
   readFileSync("public/fragen.csv", "utf8"),
@@ -47,15 +49,30 @@ it("Filmreise reserviert vier von zehn Plätzen für fällige Wiederholungen, au
   expect(s).toEqual(before);
 });
 
-it("drei direkt aufeinanderfolgende Sci-Fi-Runden wiederholen bei genügend neuen Zielen nichts", () => {
-  const s = emptyState(questions);
+it("drei direkt aufeinanderfolgende Zehnerrunden wiederholen bei genügend neuen Zielen nichts", () => {
+  const s = emptyState();
+  addPackages(
+    s,
+    packages.map((p) => ({
+      filename: p.filename,
+      text: readFileSync(`public${p.path}`, "utf8"),
+    })),
+  );
   const used = new Set<string>();
   for (let i = 0; i < 3; i++) {
+    expect(
+      new Set(
+        pathQuestions(s)
+          .filter((q) => q.difficulty === "leicht" && !s.learning[q.knowledgeId])
+          .map((q) => q.knowledgeId),
+      ).size,
+    ).toBeGreaterThanOrEqual(10);
     const r = startRound(
       s,
       { ...options, difficulty: "leicht" },
       1000 + i * 1000,
     );
+    expect(r.questions).toHaveLength(10);
     for (const q of r.questions) {
       expect(used.has(q.knowledgeId)).toBe(false);
       used.add(q.knowledgeId);
@@ -63,7 +80,7 @@ it("drei direkt aufeinanderfolgende Sci-Fi-Runden wiederholen bei genügend neue
     }
     complete(s, r.id, 1200 + i * 1000);
   }
-  expect(used.size).toBe(25);
+  expect(used.size).toBe(30);
 });
 
 it("stellt die letzten drei Runden zurück und verwendet sie nur bei kleinem Restbestand", () => {

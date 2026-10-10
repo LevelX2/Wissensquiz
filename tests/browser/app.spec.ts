@@ -602,7 +602,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
     fullPage: true,
   });
   await page.getByRole("button", { name: "Losspielen" }).click();
-  await expect(page.locator(".round-progress")).toContainText("FRAGE 1 VON 5");
+  await expect(page.locator(".round-progress")).toContainText("FRAGE 1 VON 10");
   await answerCurrent(page, true);
   await page.getByRole("button", { name: "War geraten", exact: true }).click();
   await expect(
@@ -619,23 +619,23 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
     page.getByText("Die richtige Antwort:", { exact: false }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Nächste Frage" }).click();
-  for (let i = 2; i < 5; i++) {
+  for (let i = 2; i < 10; i++) {
     await answerCurrent(page, true);
     await page
       .getByRole("button", {
-        name: i === 4 ? "Runde abschließen" : "Nächste Frage",
+        name: i === 9 ? "Runde abschließen" : "Nächste Frage",
       })
       .click();
   }
   await expect(
     page.getByRole("heading", { name: "Eine Runde weiter." }),
   ).toBeVisible();
-  await expect(page.locator(".result-score")).toContainText("4 / 5");
+  await expect(page.locator(".result-score")).toContainText("9 / 10");
   await page.screenshot({ path: "test-results/result.png", fullPage: true });
   await page.reload();
-  await expect(page.locator(".sidebar-bottom")).toContainText("17 / 100 XP");
+  await expect(page.locator(".sidebar-bottom")).toContainText("42 / 100 XP");
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
-  await expect(page.locator(".history").first()).toContainText("4/5 richtig");
+  await expect(page.locator(".history").first()).toContainText("9/10 richtig");
   await expect(
     page.getByRole("button", { name: /Favorit|Thema spielen/ }),
   ).toHaveCount(0);

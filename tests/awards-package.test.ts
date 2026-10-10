@@ -236,7 +236,7 @@ it("vereinigt Kategorien eindeutig und erlaubt Preisträger-Expertentraining im 
     { mode: "ueben", topic: "Preisträger", difficulty: "experte" },
     now,
   );
-  expect(round.questions).toHaveLength(5);
+  expect(round.questions).toHaveLength(10);
   expect(
     round.questions.every(
       (q) => q.difficulty === "experte" && q.tags.includes("Preisträger"),

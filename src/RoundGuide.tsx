@@ -15,21 +15,21 @@ const guides: Record<
       "Du entdeckst Filmwissen ohne Zeitdruck und schaltest Schritt für Schritt neue Stufen frei. Filmgenres, Schauspieler und Preisträger haben jeweils ihren eigenen Fortschritt.",
     selection:
       "Du kombinierst Fragenbereiche und Filmgenres aus Deinen freigeschalteten Etappen. Bei genügend passenden Fragen enthält eine Zehnerrunde sechs neue Ziele und vier fällige Wiederholungen. Fehlen neue oder fällige Ziele, ergänzen bekannte Fragen die Runde. Die nächste Etappe zeigt Dir das nächste Freischaltziel.",
-    flow: "Die erste Runde umfasst bis zu fünf Fragen, danach bis zu zehn. Nach jeder Antwort siehst Du Lösung und Erklärung. Sichere Treffer bringen Dich beim Rundenabschluss weiter; geratene Treffer zählen dafür nicht. Pro Runde kommt jedes Wissensziel höchstens einmal vor. Deine Stufenfortschritte zeigen die nächste Freischaltung.",
+    flow: "Jede Runde umfasst bis zu zehn Fragen. Nach jeder Antwort siehst Du Lösung und Erklärung. Sichere Treffer bringen Dich beim Rundenabschluss weiter; geratene Treffer zählen dafür nicht. Pro Runde kommt jedes Wissensziel höchstens einmal vor. Deine Stufenfortschritte zeigen die nächste Freischaltung.",
   },
   ueben: {
     introduction:
       "Du spielst zufällige Fragen ohne Zeitdruck. Dein Lernstand bestimmt die Auswahl nicht; bereits beantwortete Fragen können wieder vorkommen.",
     selection:
       "Du kombinierst Filmfragen, Schauspieler und Preisträger und wählst die Schwierigkeit frei. Genres, Classics, Arthouse und Filmgruppen filtern nur Filmfragen. Filmgruppen beschreiben die Bekanntheit der Filme, nicht die Schwierigkeit der Fragen.",
-    flow: "Die erste Runde umfasst bis zu fünf Fragen, danach bis zu zehn. Bei kleiner Auswahl sind es weniger. Die Lösungsanzeige stellst Du unter Profil → Optionen ein. Sichere Treffer zählen beim Rundenabschluss für Deinen Lernfortschritt; geratene Treffer zählen dafür nicht.",
+    flow: "Jede Runde umfasst bis zu zehn Fragen. Bei kleiner Auswahl sind es weniger. Die Lösungsanzeige stellst Du unter Profil → Optionen ein. Sichere Treffer zählen beim Rundenabschluss für Deinen Lernfortschritt; geratene Treffer zählen dafür nicht.",
   },
   fehler: {
     introduction:
       "Du festigst bereits begegnete Filmfragen ohne Zeitdruck – sobald ihr Wiederholungstermin erreicht ist. Auch früher richtig beantwortete Fragen gehören dazu.",
     selection:
       "Genres, Filmauswahl, Schwierigkeitsstufen und Filmgruppen grenzen Deine fälligen Filmfragen ein. Am längsten fällige Ziele kommen zuerst. Neue Fragen und noch nicht fällige Wiederholungen werden nicht ergänzt.",
-    flow: "Die erste Runde umfasst bis zu fünf Fragen, danach bis zu zehn – bei weniger fälligen Zielen entsprechend weniger. Jedes Wissensziel kommt höchstens einmal pro Runde vor. Nach jeder Antwort siehst Du Lösung, Erklärung und nächsten Termin. Ist nichts fällig, kannst Du in der Filmreise oder im Freien Spiel weiterspielen.",
+    flow: "Jede Runde umfasst bis zu zehn Fragen – bei weniger fälligen Zielen entsprechend weniger. Jedes Wissensziel kommt höchstens einmal pro Runde vor. Nach jeder Antwort siehst Du Lösung, Erklärung und nächsten Termin. Ist nichts fällig, kannst Du in der Filmreise oder im Freien Spiel weiterspielen.",
   },
   rekord: {
     introduction:
