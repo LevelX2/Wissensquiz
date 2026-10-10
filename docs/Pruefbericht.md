@@ -1,5 +1,19 @@
 # Prüfnachweis
 
+## 10.10.2026 – Speicherverbrauch des vollständigen Testlaufs
+
+Auf Nutzerauftrag den lokalen Node-Speicherabbruch untersucht und die Testumgebung optimiert. Ursache im isolierten Einzelworkerlauf mit `--reporter=verbose --logHeapUsage` reproduziert: `tests/packages.test.ts` führt 13 unabhängige Paketerweiterungen über den vollständigen offiziellen Katalog durch. Die installierte Testbibliothek fake-indexeddb 6.2.5 hält abgeschlossene Transaktionen in `Database.transactions`, einschließlich Rücksetzprotokollen und Handlern mit Katalogkopien. Ohne Datenbanklöschung bleiben diese zwischen den Fällen erreichbar. Der gemessene Heap nach den Erweiterungsfällen stieg von 669 MB auf 4.062 MB; anschließend brach der Worker am V8-Heaplimit ab. Node 24.19.0 meldet lokal ein Heaplimit von 4.288 MiB.
+
+Die Pakettests löschen ihre simulierte Datenbank jetzt nach jedem unabhängigen Fall über die reguläre IndexedDB-Schnittstelle. Der vorhandene `versionchange`-Handler schließt die Verbindung und setzt die Datenbanköffnung zurück. Die beiden gleichzeitig angeforderten Aktualisierungen innerhalb jedes Falls bleiben erhalten, ebenso vollständiger Katalog, alle 13 Ausgangsstände und sämtliche Fortschrittsprüfungen. Vitest startet standardmäßig höchstens zwei Worker, damit große Katalog- und SQL-Fixtures auf Rechnern mit vielen CPU-Kernen nicht unbeschränkt parallel Speicher belegen. Heap-, Test- und Hooklimits bleiben unverändert.
+
+Der gezielte Nachlauf besteht alle 26 Pakettests in 41,61 Sekunden. Der Heap nach den 13 Erweiterungsfällen liegt zwischen 707 und 1.448 MB; der letzte Fall endet bei 741 MB. Das sind Messpunkte nach Tests, keine kontinuierliche Messung des Prozess-Spitzenverbrauchs oder des gesamten Rechners.
+
+Der erste anschließende Standard-Gesamtlauf beendet alle 75 Dateien ohne Speicherabbruch: 466 von 467 Tests bestehen, ein Test scheitert beim Schreiben von `docs/importbericht.json` mit einem Windows-Dateizugriffsfehler. Daraufhin sämtliche von Logiktests erzeugten Import-, Zuordnungs- und Filmberichte über einen gemeinsamen Helfer in je Testdatei getrennte temporäre Verzeichnisse gelenkt; diese werden nach dem Lauf entfernt. Projektberichte werden standardmäßig nicht mehr überschrieben. Die bestehende ausdrückliche Zielwahl über `WISSENSQUIZ_TEST_REPORT_DIR` bleibt verfügbar.
+
+**Abschließender Standardlauf `npm test`: 467 Tests in allen 75 Dateien erfolgreich, 105,83 Sekunden.** Zwei Worker aus der neuen Standardkonfiguration, unverändertes Node-Heaplimit und unveränderte Test-/Hooklimits; kein Überspringen von Fällen. Alle 20 vorhandenen Import-, Zuordnungs- und Filmberichte anhand ihrer SHA-256-Prüfsummen vor/nach diesem Lauf bytegleich. Die frühere Speicherblockade der Universal-Umbenennung ist damit behoben.
+
+`npm run build` einschließlich Katalogvorbereitung erfolgreich; TypeScript nach der abschließenden Berichtsumleitung erneut erfolgreich. Offizieller Katalog unverändert: 12.773 Fragen, Hash `e40f41921c37fa4cc4513d1e6e72f24df4c5fc484d0b8a54154f2bdb26090e99`. Keine Abhängigkeiten oder App-Funktionen geändert. [Originalauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Testspeicher%20prüfen%20und%20optimieren.txt).
+
 ## 10.10.2026 – Drei zusätzliche Sicherungen für Bestenlisten
 
 Auf Nutzerauftrag Duellfreigabe an die erste Serverstartzeit gebunden, allgemeine Spielerwerte auf serverbestätigte Abschlüsse umgestellt und die öffentliche Duellwertung auf die erste vollständige Begegnung je ungeordnetem Kontopaar/UTC-Tag begrenzt. Neue Migration `20261010112301_leaderboard_integrity.sql`; private Karriere bleibt getrennt erhalten. Keine automatische Auffälligkeitsprüfung und keine neue Mailfunktion. [Vertrag und Originalauftrag](Servergepruefte-Zeitrunden-2026-10-10.md#umsetzung-der-ersten-drei-zusatzmaßnahmen).

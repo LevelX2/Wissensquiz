@@ -1,5 +1,6 @@
 import { it, expect } from "vitest";
 import { readFileSync, writeFileSync } from "node:fs";
+import { testReportPath } from "./helpers/test-report";
 import { importCsv } from "../src/importer";
 import { addPackages, packages } from "../src/packages";
 import { emptyState, questionSchema, type Question } from "../src/model";
@@ -141,7 +142,7 @@ it("ergänzt jedes der 425 Filmwerke um Jahr und fehlende Regie, ohne bestehende
     expect(q.answers.filter((a) => a.id === q.correctId)).toHaveLength(1);
   }
   writeFileSync(
-    "docs/film-facts-bericht.json",
+    testReportPath("film-facts-bericht.json"),
     JSON.stringify(
       {
         checkedOn: "2026-09-29",

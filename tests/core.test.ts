@@ -1,5 +1,6 @@
 import { beforeEach, describe, expect, it } from "vitest";
 import { readFileSync, writeFileSync } from "node:fs";
+import { testReportPath } from "./helpers/test-report";
 import "fake-indexeddb/auto";
 import { importCsv } from "../src/importer";
 import {
@@ -56,7 +57,7 @@ describe("CSV und Inhalte", () => {
       ),
     ).toBe(true);
     writeFileSync(
-      "docs/importbericht.json",
+      testReportPath("importbericht.json"),
       JSON.stringify(
         {
           ...imported.report,

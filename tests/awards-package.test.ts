@@ -1,4 +1,5 @@
 import { readFileSync, writeFileSync } from "node:fs";
+import { testReportPath } from "./helpers/test-report";
 import { createHash } from "node:crypto";
 import { expect, it } from "vitest";
 import { importCsv } from "../src/importer";
@@ -99,7 +100,7 @@ it("importiert 200 belegte Preisfragen mit vier gleich großen Stufen und vollst
     readFileSync("docs/importbericht-preistraeger.json", "utf8"),
   );
   writeFileSync(
-    "docs/importbericht-preistraeger.json",
+    testReportPath("importbericht-preistraeger.json"),
     JSON.stringify(
       {
         ...oldReport,

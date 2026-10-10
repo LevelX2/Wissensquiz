@@ -1,5 +1,6 @@
 import { it, expect } from "vitest";
 import { readFileSync, writeFileSync } from "node:fs";
+import { testReportPath } from "./helpers/test-report";
 import { createHash } from "node:crypto";
 import { addPackages, packages } from "../src/packages";
 import { importCsv } from "../src/importer";
@@ -67,7 +68,7 @@ it("prüft alle Classics-Zuordnungen, erhält Texte/IDs und ergänzt Tags idempo
     true,
   );
   writeFileSync(
-    "docs/classics-zuordnungsbericht.json",
+    testReportPath("classics-zuordnungsbericht.json"),
     JSON.stringify(
       {
         ...report,
@@ -213,7 +214,7 @@ it("prüft Arthouse-Referenzen samt Quellhashes, Überschneidung und fehlenden I
   ]);
   expect(changed.tags).not.toContain(ARTHOUSE);
   writeFileSync(
-    "docs/arthouse-zuordnungsbericht.json",
+    testReportPath("arthouse-zuordnungsbericht.json"),
     JSON.stringify(
       {
         ...report,

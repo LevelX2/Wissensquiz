@@ -1,7 +1,6 @@
 import { catalogCounts } from "./catalog-counts";
-import { expect, it } from "vitest";
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
-import { join } from "node:path";
+import { afterEach, expect, it } from "vitest";
+import { readFileSync, writeFileSync } from "node:fs";
 import "fake-indexeddb/auto";
 import { importCsv } from "../src/importer";
 import { addPackages, packages } from "../src/packages";
@@ -10,9 +9,20 @@ import { answer, shuffle, startRound } from "../src/engine";
 import { read, update } from "../src/storage";
 import { withCategoryTags } from "../src/categories";
 import { assertEditorialSource } from "./editorialSource";
+import { testReportPath } from "./helpers/test-report";
 
-const reportDir = process.env.WISSENSQUIZ_TEST_REPORT_DIR ?? "docs";
-mkdirSync(reportDir, { recursive: true });
+// Each upgrade scenario is independent. fake-indexeddb retains completed
+// transactions (including catalog snapshots) until its database is deleted.
+afterEach(
+  () =>
+    new Promise<void>((resolve, reject) => {
+      const request = indexedDB.deleteDatabase("wissensquiz");
+      request.onsuccess = () => resolve();
+      request.onerror = () => reject(request.error);
+      request.onblocked = () =>
+        reject(new Error("Testdatenbank ist noch geöffnet."));
+    }),
+);
 
 const contents = packages.map((p) => ({
   filename: p.filename,
@@ -143,7 +153,7 @@ it.each([
     }
     const combined = [...previous, ...imported.questions];
     writeFileSync(
-      join(reportDir, `importbericht-${path}.json`),
+      testReportPath(`importbericht-${path}.json`),
       JSON.stringify(
         {
           ...imported.report,
@@ -194,7 +204,7 @@ it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedbac
       );
   }
   writeFileSync(
-    join(reportDir, "importbericht-action.json"),
+    testReportPath("importbericht-action.json"),
     JSON.stringify(
       {
         ...action.report,
