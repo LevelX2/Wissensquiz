@@ -57,6 +57,20 @@
   font-size: 21px;
   line-height: 1;
 }
+.nav-symbol {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+}
+.nav-artwork {
+  display: block;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
 .sidebar nav button.selected {
   background: #e8dcc7;
   color: #684419;

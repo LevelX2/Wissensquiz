@@ -18,10 +18,43 @@ for (const width of [320, 1440]) {
     await expect(start).toBeEnabled();
     await expect(page.locator(".setup-section[open]")).toHaveCount(0);
     await expect(page.locator(".mode-card").first()).not.toBeVisible();
+    await expect(
+      page.getByText("Fragen und Erklärungen können Filmhandlungen verraten."),
+    ).toHaveCount(0);
+    const navigation = page.getByRole("navigation", {
+      name: "Hauptnavigation",
+    });
+    await expect(navigation.locator("img")).toHaveCount(5);
+    for (const image of await navigation.locator("img").all()) {
+      await expect
+        .poll(() =>
+          image.evaluate((el) => (el as HTMLImageElement).naturalWidth),
+        )
+        .toBeGreaterThan(0);
+    }
+    const arrows = [];
+    for (const summary of await page.locator(".round-setup summary").all()) {
+      await expect(summary.locator("img")).toHaveCount(1);
+      const arrow = await summary.evaluate((el) => {
+        const style = getComputedStyle(el, "::after");
+        return {
+          content: style.content,
+          transform: style.transform,
+          width: style.width,
+        };
+      });
+      arrows.push(arrow);
+    }
+    expect(arrows.length).toBeGreaterThan(2);
+    expect(new Set(arrows.map((arrow) => JSON.stringify(arrow))).size).toBe(1);
+    expect(arrows[0].content).not.toMatch(/[+−]/);
     const startBox = (await start.boundingBox())!;
-    // The selected mode now has a large illustrated tile; the start action
-    // still stays in the upper part of the first viewport.
-    expect(startBox.y + startBox.height).toBeLessThan(500);
+    // The illustrated Filmreise tile includes the next-stage progress.
+    // Starting stays visible above the mobile navigation in the first viewport.
+    const navigationBox = (await navigation.boundingBox())!;
+    expect(startBox.y + startBox.height).toBeLessThan(
+      width <= 760 ? navigationBox.y : page.viewportSize()!.height,
+    );
     await page.screenshot({
       path: `test-results/kompakte-startseite-standard-${width}.png`,
       fullPage: true,
@@ -52,6 +85,11 @@ for (const width of [320, 1440]) {
         hasText: /^Filmgenres & Filmauswahl$/,
       }),
     });
+    await films.locator("summary").focus();
+    await page.keyboard.press("Space");
+    await expect(films).not.toHaveAttribute("open", "");
+    await page.keyboard.press("Enter");
+    await expect(films).toHaveAttribute("open", "");
     await films.getByRole("button", { name: "Alle Genres abwählen" }).click();
     await films.getByLabel("Western", { exact: true }).check();
     await films.getByLabel("Nur Classics", { exact: true }).check();

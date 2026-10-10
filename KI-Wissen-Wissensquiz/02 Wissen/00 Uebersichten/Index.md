@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Einheitliche Startklappen, Spoilerhinweis entfernt und fünf plastische Menüicons – 10.10.2026](../../../docs/Navigationssymbole-2026-10-10.md)
+
 - [Vierte Qualitätsrunde: 100 weitere Fragen zu 25 Filmen, 98 Vertiefungen überarbeitet und zwei schwache Wissensziele ersetzt – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-04.md)
 
 - [Testspeicher: Datenbankfälle isoliert, zwei Worker und getrennte temporäre Testberichte – 10.10.2026](../../../docs/Pruefbericht.md#10102026--speicherverbrauch-des-vollständigen-testlaufs)

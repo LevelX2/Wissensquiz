@@ -18,6 +18,8 @@ Stand: 10.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- **10.10.2026 lokal, noch nicht veröffentlicht:** Spoilerhinweis der Spielen-Seite entfernt; Startklappen mit einheitlichen Pfeilen und passenden Illustrationen, fünf Hauptaktionen mit plastischen Icons. [Darstellung und Herkunft](../docs/Navigationssymbole-2026-10-10.md).
+
 - **10.10.2026 lokal umbenannt, noch nicht veröffentlicht:** Die Rekordauswahl über alle Bereiche heißt „Universal“. Auswahl, Modushilfe und Ranglisten verwenden den neuen Namen; gespeicherte Kennungen und Spielregeln bleiben gleich. [Bezeichnung und Vertrag](../docs/Rekordmodi-und-Zeitranglisten.md).
 
 - **10.10.2026 zusätzlicher Bestenlistenschutz lokal umgesetzt, nicht produktiv:** Duellfragen erst gemeinsam mit Serverstart; aktuelle Startantwort ohne früheren Fragenverlauf. Allgemeine Spielerwerte und Wettbewerbs-XP ausschließlich aus abgeschlossenen Serverläufen/eigenen vollständigen Duellrunden, private Karriere getrennt erhalten. Erste vollständige Begegnung je Kontopaar und UTC-Tag für Duellrangliste gewertet, weitere Freundschaftsspiele. Keine automatische Auffälligkeitsbewertung oder neue Mailfunktion. [Regeln, Datenmenge und Einführung](../docs/Servergepruefte-Zeitrunden-2026-10-10.md#umsetzung-der-ersten-drei-zusatzmaßnahmen).

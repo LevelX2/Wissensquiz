@@ -1,5 +1,11 @@
 # Navigation und Hilfe
 
+## Einheitliche Startklappen und Menüicons – 10.10.2026
+
+Lokal umgesetzt, noch nicht veröffentlicht: Der Spoilerhinweis auf der Spielen-Seite entfällt auf Nutzerwunsch. Alle Startklappen einschließlich der großen Moduskarte verwenden denselben goldenen Pfeil, der beim Öffnen nach oben zeigt. Moduserklärung, Fragenbereiche, Filmgenres/Filmauswahl, Schwierigkeit/Filmgruppen und Stufenfortschritte erhalten passende vorhandene Illustrationen. Native Klappen, Enter/Leertaste, Fokus und gespeicherte Auswahl bleiben erhalten.
+
+Die fünf Hauptaktionen verwenden plastische Bilder im vorhandenen Gold-/Creme-/Petrolstil: Spielen ein Playdreieck, Themen eine Filmklappe, Sammlung verknüpfte Dokumente, Highscores einen Filmpreis und Profil eine Personenbüste. Beschriftungen und Sicherungsstatus am Profil bleiben sichtbar; der mobile Seitenabstand berücksichtigt die größere Symbolhöhe. [Dateien, Herkunft und Prompts](Navigationssymbole-2026-10-10.md), [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerhinweis%20Startklappen%20und%20Menueicons.txt).
+
 ## Einstieg mit Proberunde – 10.10.2026
 
 Lokal neu, noch nicht veröffentlicht: „Eine Runde ausprobieren“ öffnet eine einzelne Zehnerrunde mit Genre-Wahl ohne Zeitdruck. Ergebnis zuerst, danach Kontoeinladung und frei zugänglicher Rückblick. Eine weitere Runde führt zur Registrierung; bestätigte Konten können sofort normal spielen. Kontovorteile nennen ausdrücklich Weiterspielen auf PC, Handy und Tablet, erhaltenen Lernfortschritt und Rekorde, gezielte Wiederholungen/Filmreise sowie Bestenlisten/Duelle. Registrierung erklärt E-Mail-Bestätigung und Passwort-Reset. Die Proberunde bleibt bis maximal 24 Stunden nach ihrem Start in diesem Browser für ihre einmalige Übernahme vorgemerkt. [Vollständiger Vertrag und Grenzen](Anmeldung-und-Online-Spielstand.md#einmalige-proberunde).
@@ -8,7 +14,7 @@ Lokal neu, noch nicht veröffentlicht: „Eine Runde ausprobieren“ öffnet ein
 
 Auf [Nutzerhinweis](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerhinweis%20Moduserklaerung.txt) erklärt die Klappe unter Losspielen ausschließlich den ausgewählten Modus. Ihre Überschrift lautet „So funktioniert …“ mit dem konkreten Modusnamen. Drei kurze Absätze beschreiben Spielidee, passende Auswahl und Ablauf. Filmreise, Freies Spiel, Fehlertraining, 10 Fragen, Fehlerfrei, Zeitkonto und Duell haben jeweils eigene Inhalte. Allgemeine Ausführungen zum gemeinsamen Fortschritt entfallen hier; die ausführliche Hilfe bleibt erreichbar.
 
-Beim erfolgreichen Moduswechsel ändert sich der Text und die Klappe schließt sich. Bloßes Durchsehen anderer Spielgruppen verändert die Erklärung nicht. Duell erhält eine eigene Erklärung direkt unter seinem Losspielen-Button, unabhängig vom zuletzt gewählten Solomodus. Der Hinweis auf mögliche Handlungsauflösungen bleibt sichtbar. Spielregeln, Auswahl und Speicherung werden durch die Textänderung nicht verändert. Zunächst lokal umgesetzt; [Prüfnachweis](Pruefbericht.md#10102026--erklärung-zum-gewählten-spielmodus).
+Beim erfolgreichen Moduswechsel ändert sich der Text und die Klappe schließt sich. Bloßes Durchsehen anderer Spielgruppen verändert die Erklärung nicht. Duell erhält eine eigene Erklärung direkt unter seinem Losspielen-Button, unabhängig vom zuletzt gewählten Solomodus. Der Hinweis auf mögliche Handlungsauflösungen ist nach anschließendem Nutzerauftrag entfernt. Spielregeln, Auswahl und Speicherung werden durch die Textänderung nicht verändert. Zunächst lokal umgesetzt; [Prüfnachweis](Pruefbericht.md#10102026--erklärung-zum-gewählten-spielmodus).
 
 ## Wiederholungsübersicht – 08.10.2026
 
@@ -125,7 +131,7 @@ Der Kontoname steht im Profil, ausführliche Speicherhinweise unter „Konto & S
 
 Seit 03.10.2026 lokal sind **Spielmodus**, **Fragenbereiche**, **Filmgenres & Filmauswahl**, in freien Modi **Schwierigkeit & Filmgruppen** standardmäßig eingeklappt. Jede Kopfzeile zeigt die aktuelle Auswahl; leere Auswahlen werden ausdrücklich benannt. Filmfilter erklären bei abgewählten Filmfragen, dass sie derzeit nicht wirken. Die Spielmoduskarten und sämtliche bisherigen Auswahlfelder bleiben beim Öffnen verfügbar. Enter und Leertaste bedienen die nativen Klappen ebenfalls.
 
-„Losspielen“ steht direkt unter der kompakten Spielmoduszeile, mit der Zusammenfassung der aktuellen Runde. Alle gewählten Stufen und Filmgruppen werden dort kurz als „Alle Stufen“ beziehungsweise „Alle Filmgruppen“ bezeichnet. Bei einer begonnenen Runde bleibt „Fortsetzen“ direkt erreichbar. Die Moduserklärung steht seit 10.10.2026 unter „So funktioniert …“ mit dem gewählten Modusnamen; der Hinweis auf mögliche Handlungsauflösungen bleibt sichtbar. „Deine Stufenfortschritte“ ist unabhängig davon aufklappbar und nutzt dieselben Genreillustrationen.
+„Losspielen“ steht direkt unter der kompakten Spielmoduszeile, mit der Zusammenfassung der aktuellen Runde. Alle gewählten Stufen und Filmgruppen werden dort kurz als „Alle Stufen“ beziehungsweise „Alle Filmgruppen“ bezeichnet. Bei einer begonnenen Runde bleibt „Fortsetzen“ direkt erreichbar. Die Moduserklärung steht seit 10.10.2026 unter „So funktioniert …“ mit dem gewählten Modusnamen; der Hinweis auf mögliche Handlungsauflösungen ist nach anschließendem Nutzerauftrag entfernt. „Deine Stufenfortschritte“ ist unabhängig davon aufklappbar und nutzt dieselben Genreillustrationen.
 
 Öffnen und Schließen ändern ausschließlich die Darstellung. Die gewählten Filter werden weiterhin über die vorhandene Rundenvorbereitung gespeichert; beim Neuladen und nach dem Rückweg von einer Runde beginnen die Klappen wieder geschlossen. Filmreise berücksichtigt automatisch die je Fragenbereich freigeschalteten Stufen, freie Modi die gespeicherte manuelle Auswahl. Bestehende Spielstände und Lernregeln bleiben erhalten. Diese Verdichtung ist im zusammengeführten Gesamtstand enthalten.
 

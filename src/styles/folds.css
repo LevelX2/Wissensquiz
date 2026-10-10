@@ -25,10 +25,10 @@ details:not(.setup-section) > summary {
     transform 120ms ease,
     box-shadow 160ms ease;
 }
-details:not(.setup-section) > summary::-webkit-details-marker {
+details > summary::-webkit-details-marker {
   display: none;
 }
-details:not(.setup-section) > summary::marker {
+details > summary::marker {
   content: "";
 }
 details:not(.setup-section) > summary::before {
@@ -53,7 +53,7 @@ details:not(.setup-section) > summary::before {
   );
   filter: drop-shadow(0 1px 0 #fff);
 }
-details:not(.setup-section) > summary::after {
+details > summary::after {
   content: "";
   position: absolute;
   right: 20px;
@@ -65,7 +65,7 @@ details:not(.setup-section) > summary::after {
   transform: rotate(45deg);
   transition: transform 180ms ease;
 }
-details:not(.setup-section)[open] > summary::after {
+details[open] > summary::after {
   transform: translateY(4px) rotate(225deg);
 }
 details:not(.mode-selection) > summary:hover {
@@ -88,6 +88,9 @@ details:not(.mode-selection)[open] > :not(summary) {
   animation: fold-reveal 180ms ease-out;
 }
 .setup-section:not(.mode-selection) > summary {
+  position: relative;
+  min-height: 62px;
+  padding: 13px 46px 13px 64px;
   border-radius: 12px;
   background: linear-gradient(115deg, #fcf5e5, #f3e3c0);
   transition: transform 120ms ease;
@@ -95,15 +98,20 @@ details:not(.mode-selection)[open] > :not(summary) {
 .setup-section:not(.mode-selection)[open] > summary {
   border-radius: 12px 12px 0 0;
 }
-.setup-section:not(.mode-selection) > summary::after {
-  width: 30px;
-  height: 30px;
-  border: 1px solid #b99a62;
-  border-radius: 9px;
-  background: #fffbef;
-  text-align: center;
-  line-height: 27px;
-  box-shadow: 0 2px 0 #b2945b30;
+.setup-section:not(.mode-selection) .setup-section-title {
+  color: #61451d;
+  font-weight: 650;
+}
+.mode-selection > summary {
+  position: relative;
+}
+.mode-selection > summary::after {
+  display: block;
+  top: auto;
+  bottom: 22px;
+}
+.mode-selection .setup-section-action {
+  padding-right: 24px;
 }
 .explanation > details {
   clear: both;
@@ -180,7 +188,7 @@ details:not(.setup-section) > summary.illustrated-summary::before {
     animation: none;
   }
   details:not(.mode-selection) > summary,
-  details:not(.setup-section) > summary::after {
+  details > summary::after {
     transition: none;
   }
   details:not(.mode-selection) > summary:active {

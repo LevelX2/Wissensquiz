@@ -28,6 +28,7 @@ export function SetupSection({
       className={`setup-section ${className}`}
     >
       <summary
+        className={illustration ? "illustrated-summary" : undefined}
         aria-expanded={open}
         onClick={
           onOpenChange
@@ -42,7 +43,7 @@ export function SetupSection({
         <span className="setup-section-title">{title}</span>
         <span className="setup-section-selection">{selection}</span>
         {actionLabel && (
-          <span className="setup-section-action">{actionLabel} →</span>
+          <span className="setup-section-action">{actionLabel}</span>
         )}
       </summary>
       {open !== false && (

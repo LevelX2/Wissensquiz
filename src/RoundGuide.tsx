@@ -1,5 +1,6 @@
 import type { Mode } from "./model";
 import { modeNames } from "./recordModes";
+import { DisclosureArtwork } from "./DisclosureArtwork";
 
 const recordSelection =
   "Du wählst Universal mit allen offiziellen Fragenbereichen oder genau ein Filmgenre. Der feste Mix enthält je Zehnerblock drei leichte, vier mittlere und drei schwere Fragen. Richtige und schnelle Antworten bringen Rekordpunkte; jede Auswahl hat ihre eigene Rangliste.";
@@ -67,7 +68,8 @@ export function RoundGuide({ mode }: { mode: Mode | "duel" }) {
   return (
     <div className="round-guide">
       <details key={mode}>
-        <summary>
+        <summary className="illustrated-summary">
+          <DisclosureArtwork subject="context" />
           So funktioniert {mode === "duel" ? "Duell" : modeNames[mode]}
         </summary>
         <div className="round-guide-details">
@@ -80,9 +82,6 @@ export function RoundGuide({ mode }: { mode: Mode | "duel" }) {
           </p>
         </div>
       </details>
-      <p className="round-spoiler">
-        Fragen und Erklärungen können Filmhandlungen verraten.
-      </p>
     </div>
   );
 }

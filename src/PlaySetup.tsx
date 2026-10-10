@@ -25,6 +25,7 @@ import {
 } from "./filters";
 import { GenreArtwork } from "./Icons";
 import { SetupSection } from "./SetupSection";
+import { DisclosureArtwork } from "./DisclosureArtwork";
 import { RoundGuide } from "./RoundGuide";
 import { filmCategories } from "./categories";
 import { LearningPath, JourneyNextStep } from "./LearningPathPanel";
@@ -405,9 +406,9 @@ export function PlaySetup({
                   </label>
                 )}
                 <p className="tiny muted">
-                  Rekorde vergleichen Universal oder genau ein Genre.
-                  Themen, Filmgruppen und Schwierigkeiten sind dafür fest
-                  vorgegeben. Freie Filter gibt es in den Lernmodi.
+                  Rekorde vergleichen Universal oder genau ein Genre. Themen,
+                  Filmgruppen und Schwierigkeiten sind dafür fest vorgegeben.
+                  Freie Filter gibt es in den Lernmodi.
                 </p>
               </fieldset>
             )}
@@ -417,6 +418,7 @@ export function PlaySetup({
                 {mode !== "fehler" && (
                   <SetupSection
                     title="Fragenbereiche"
+                    illustration={<DisclosureArtwork subject="answers" />}
                     selection={
                       selectedSources.map((s) => sourceLabels[s]).join(" + ") ||
                       "Keine Bereiche"
@@ -463,6 +465,7 @@ export function PlaySetup({
                 )}
                 <SetupSection
                   title="Filmgenres & Filmauswahl"
+                  illustration={<DisclosureArtwork subject="film" />}
                   selection={
                     selectedSources.includes("film")
                       ? [genreSummary, ...selectedCategories].join(" · ")
@@ -542,6 +545,7 @@ export function PlaySetup({
                 {mode !== "entdecken" ? (
                   <SetupSection
                     title="Schwierigkeit & Filmgruppen"
+                    illustration={<DisclosureArtwork subject="learning" />}
                     selection={`${difficultySummary} · ${familiaritySummary}`}
                   >
                     <fieldset disabled={busy}>

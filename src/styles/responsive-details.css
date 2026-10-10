@@ -265,7 +265,7 @@ details p {
     font-size: 21px;
   }
   .workspace {
-    margin: 0 0 calc(63px + max(5px, env(safe-area-inset-bottom, 0px)));
+    margin: 0 0 calc(74px + max(5px, env(safe-area-inset-bottom, 0px)));
     padding-top: env(safe-area-inset-top, 0px);
     width: 100%;
   }

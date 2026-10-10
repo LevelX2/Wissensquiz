@@ -555,11 +555,11 @@ export function App({
         <nav aria-label="Hauptnavigation">
           {(
             [
-              ["home", "◉", "Spielen"],
-              ["topics", "▦", "Themen"],
-              ["album", "☆", "Sammlung"],
-              ["leaderboard", "♜", "Highscores"],
-              ["account", "♙", "Profil"],
+              ["home", "/navigation/play.png", "Spielen"],
+              ["topics", "/disclosures/film.png", "Themen"],
+              ["album", "/disclosures/sources.png", "Sammlung"],
+              ["leaderboard", "/genres/awards.png", "Highscores"],
+              ["account", "/navigation/profile.png", "Profil"],
             ] as const
           ).map(([p, icon, label]) => (
             <button
@@ -582,7 +582,13 @@ export function App({
               aria-description={p === "account" ? sync?.text : undefined}
             >
               <span aria-hidden="true" className="nav-symbol">
-                {icon}
+                <img
+                  className="nav-artwork"
+                  src={icon}
+                  alt=""
+                  width={32}
+                  height={32}
+                />
                 {p === "account" && sync && <SyncSymbol status={sync.status} />}
               </span>
               {label}

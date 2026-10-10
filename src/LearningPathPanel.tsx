@@ -2,6 +2,7 @@ import { familiarityLabel } from "./familiarity";
 import type { State, QuestionSource } from "./model";
 import { genreLabel } from "./filters";
 import { GenreArtwork } from "./Icons";
+import { DisclosureArtwork } from "./DisclosureArtwork";
 import {
   learningPathProgress,
   nextJourneyStep,
@@ -65,7 +66,10 @@ export function LearningPath({
   const progress = learningPathProgress(state);
   return (
     <details className="learning-path">
-      <summary>Deine Stufenfortschritte</summary>
+      <summary className="illustrated-summary">
+        <DisclosureArtwork subject="learning" />
+        Deine Stufenfortschritte
+      </summary>
       <p className="tiny">
         Sichere richtige Antworten aus abgeschlossenen Runden zählen einmal pro
         Wissensziel – in allen Modi. Geratene Treffer und Varianten erhöhen den
