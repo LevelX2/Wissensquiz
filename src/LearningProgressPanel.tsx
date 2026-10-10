@@ -20,14 +20,15 @@ export function LearningProgress({
     event,
   );
   return (
-    <div
+    <details
+      key={event.id}
       className="learning-progress"
       aria-label="Lernfortschritt dieses Wissensziels"
     >
-      <strong>
-        {current.status === "gefestigt" ? "Gefestigt · " : ""}Lernstufe{" "}
-        {current.stage} von 4
-      </strong>
+      <summary>
+        Lernfortschritt · {current.status === "gefestigt" ? "Gefestigt · " : ""}
+        Lernstufe {current.stage} von 4
+      </summary>
       <div className="learning-stage-track" aria-hidden="true">
         {[1, 2, 3, 4].map((stage) => (
           <span key={stage} className={stage <= current.stage ? "earned" : ""}>
@@ -47,6 +48,6 @@ export function LearningProgress({
           : "Nächste Lernstufe"}
         : {learningDueText(nextLearningAt(current, now), now)}
       </p>
-    </div>
+    </details>
   );
 }

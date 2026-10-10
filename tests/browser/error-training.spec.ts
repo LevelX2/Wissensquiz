@@ -324,6 +324,11 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
       })
       .click();
     await expect(feedback).toContainText(`Lernstufe ${stage} von 4`);
+    await expect(feedback).not.toHaveAttribute("open", "");
+    await expect(feedback.locator(".learning-stage-track")).not.toBeVisible();
+    await feedback.locator("summary").focus();
+    await page.keyboard.press("Enter");
+    await expect(feedback.locator(".learning-stage-track")).toBeVisible();
     await expect(feedback.locator(".earned")).toHaveCount(stage);
     if (i === 0)
       await expect(feedback).toContainText("Nächste Lernstufe: in 3 Tagen");
@@ -342,6 +347,9 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
       await page.reload();
       await page.getByRole("button", { name: "Fortsetzen" }).click();
       await expect(feedback).toContainText("Lernstufe 2 von 4");
+      await expect(feedback.locator(".learning-stage-track")).not.toBeVisible();
+      await feedback.locator("summary").click();
+      await expect(feedback.locator(".learning-next")).toBeVisible();
       expect((await readState(page)).events.length).toBe(saved.events.length);
       await page.screenshot({
         path: `test-results/lernstufe-2-${browserName}.png`,
@@ -488,6 +496,17 @@ test("gesammelte Lösungen zeigen den Lernfortschritt erst im Rundenrückblick",
   await expect(
     page.getByLabel("Lernfortschritt dieses Wissensziels"),
   ).toContainText("Lernstufe 1 von 4");
+  const reviewProgress = page.getByLabel("Lernfortschritt dieses Wissensziels");
+  await expect(
+    reviewProgress.locator(".learning-stage-track"),
+  ).not.toBeVisible();
+  await reviewProgress.locator("summary").click();
+  await expect(reviewProgress.locator(".learning-stage-track")).toBeVisible();
+  await reviewProgress.locator("summary").focus();
+  await page.keyboard.press("Space");
+  await expect(
+    reviewProgress.locator(".learning-stage-track"),
+  ).not.toBeVisible();
 });
 
 for (const mode of ["entdecken", "fehler"] as const) {

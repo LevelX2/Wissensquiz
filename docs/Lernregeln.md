@@ -110,6 +110,8 @@ Eine einmal erreichte Festigung bleibt bei weiteren sicheren Antworten erhalten;
 
 ## Sichtbare Lernstufen – 04.10.2026
 
+**Lokale Anzeigepräzisierung 10.10.2026:** Lernfortschritt in Antwortansicht und unmittelbarem Rundenrückblick standardmäßig einklappbar und geschlossen. Kopfzeile mit aktueller Lernstufe; vier Schritte, Erläuterung, Fehlerkorrektur und nächster Termin beim Öffnen. Jede neue Antwort beginnt geschlossen; Lernregeln und Speicherung bleiben unverändert. [Nutzerhinweis und Anzeigedetails](Lernfortschritt-2026-10-04.md#implementierung-und-grenzen).
+
 Lokale Anordnungspräzisierung auf Nutzerwunsch: Die Lernstufe steht ganz am Ende der Antwortauflösung, nach Erklärung, Vertiefungen, Filmdaten, Merksatz, Quellen und gegebenenfalls dem Ratehinweis. Danach folgen die Weiter-/Abschlussaktionen. Im unmittelbaren Rundenrückblick steht die Lernstufe ebenfalls zuletzt unter dem jeweiligen Antwortinhalt. [Nutzerhinweis](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerhinweis%20Lernstufe%20am%20Ende.txt).
 
 Lokal auf bestätigten Nutzerauftrag umgesetzt: Nach der Antwortauflösung und im unmittelbaren Rundenrückblick zeigt jedes Wissensziel seine Lernstufe 0–4, vier gefüllte/ungefüllte Schritte und den nächsten möglichen Lerntermin mit Abstand und Datum/Uhrzeit. Bei früher Wiederholung oder ausgeschöpfter Tagesgrenze wird erklärt, warum die Stufe gleich bleibt. Die Anzeige berücksichtigt die Tagesgrenze auch nach einem Fehler und einer sicheren Korrektur am selben Tag: frühestens der nächste lokale Kalendertag statt einer bereits abgelaufenen Zehn-Minuten-Fälligkeit. Gesammelte Lösungen zeigen diesen Lernhinweis erst im Rückblick.
