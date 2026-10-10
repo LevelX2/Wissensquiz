@@ -1,5 +1,11 @@
 # Erklärungstiefe und redaktionelle Ergänzungen
 
+## Qualitätsprüfung von zehn Fragen am 10.10.2026
+
+Auf Nutzerauftrag eine vor dem Lesen gezogene Stichprobe aus zehn Genres geprüft: drei leichte, vier mittlere und drei schwere Fragen einschließlich einer CSV-Regiefrage. Aktueller App-Katalog mit 12.773 Fragen, tatsächliche Anzeigetexte und sichtbares Antwortfeedback berücksichtigt. Alle zehn Lösungsschlüssel im Quellenabgleich bestätigt; bei Orlando beantwortet die Kurzantwort „Elizabeth I.“ allerdings die falsche Frage. Redaktionelles Urteil: Playtime unverändert lassen, drei Fragen gezielt verfeinern, sechs deutlicher überarbeiten. Keine repräsentative Bestandsquote.
+
+Mehrfach fehlt das anschauliche Detail hinter einer allgemeinen Deutung: Hari bei Solaris, spiegelnde Satteltaschen bei Nobody oder die konkrete Schusshandlung bei Vier im roten Kreis. Gute bestehende Szenenerklärungen erhalten; keine neue feste Vertiefungsschablone oder obligatorische Produktionsanekdote ableiten. Originaltexte, Einzelbewertungen, mögliche Neufassungen, gelesene Quellen und Prüfgrenzen: [Prüfung und Vorschläge](Redaktionspruefung-2026-10-10/Pruefung.md), [versionierter Stichprobennachweis](Redaktionspruefung-2026-10-10/Stichprobe.json). Fragenpakete, Anzeigeergänzungen und Skill bleiben bis zur Nutzer-Durchsicht unverändert. Das zusätzliche Stativdetail ist sekundär belegt und vor Übernahme möglichst direkt an der Szene zu prüfen.
+
 ## Maßstab
 
 „Etwas tiefer eintauchen“ soll über die kurze Lösung hinausgehen. Figuren, die in Frage, Lösung oder Vertiefung im Mittelpunkt stehen, werden mit ihren Darstellern verbunden. Ergänzungen bleiben knapp und beziehen sich auf den jeweiligen Film und das Erscheinungsjahr. Reine Orts-, Technik-, Kreaturen- oder Regiefragen erhalten keine beliebige komplette Besetzungsliste.

@@ -1,0 +1,1372 @@
+{
+  "asOf": "2026-10-10",
+  "status": "Redaktionelle Quellenprüfung und Vorschläge; keine Inhaltsintegration und keine Skilländerung",
+  "seed": "Qualitaetsrunde-1-2026-10-10",
+  "sourceCommit": "fbeacd0ea5c829010783dce5360bf285b89d986c",
+  "catalogCount": 12773,
+  "sample": [
+    {
+      "genre": "Science-Fiction",
+      "candidateCount": 288,
+      "selectionHash": "00b96579c38d6d51f55667e103c223889a83ab89c5b2ffa8912120840c52624e",
+      "id": "ART-L-017",
+      "knowledgeId": "K-ART-09-01",
+      "version": "csv-1d00a483",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Solaris",
+      "difficulty": "leicht",
+      "question": "„Solaris“ (1972): Welchen Beruf hat Kris Kelvin (Donatas Banionis)?",
+      "answers": [
+        {
+          "id": "ART-L-017:a",
+          "text": "Psychologe",
+          "feedback": "Kris Kelvin (Donatas Banionis) ist Psychologe."
+        },
+        {
+          "id": "ART-L-017:b",
+          "text": "Koch",
+          "feedback": "Er ist nicht der Stationskoch."
+        },
+        {
+          "id": "ART-L-017:c",
+          "text": "Geologe",
+          "feedback": "Kelvin (Donatas Banionis) reist nicht als Geologe an."
+        },
+        {
+          "id": "ART-L-017:d",
+          "text": "Pilot",
+          "feedback": "Seine Funktion ist nicht die eines Piloten."
+        }
+      ],
+      "correctId": "ART-L-017:a",
+      "explanation": "Kris Kelvin (Donatas Banionis) ist Psychologe.",
+      "context": "Kris Kelvin (Donatas Banionis) soll eine rätselhafte Situation beurteilen, wird aber selbst zu einem Teil davon. Sein Beruf verspricht zunächst Distanz und Analyse. Der Film macht diese Position fragwürdig, sobald persönliche Erinnerungen ins Geschehen eingreifen. Beobachter und Untersuchungsgegenstand lassen sich dann nicht mehr sauber voneinander trennen, ohne einen wichtigen Teil der Erfahrung auszublenden.",
+      "anchor": "Der Psychologe wird selbst geprüft.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Solaris_(1972_film)",
+        "https://www.rottentomatoes.com/m/solaris_1976"
+      ],
+      "tags": [
+        "Arthouse",
+        "Sci-Fi",
+        "Erinnerung",
+        "Andrei Tarkowski"
+      ],
+      "badgeTags": [
+        "Arthouse",
+        "Sci-Fi",
+        "Erinnerung",
+        "Andrei Tarkowski"
+      ],
+      "metadata": {
+        "question_id": "ART-L-017",
+        "knowledge_id": "K-ART-09-01",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Science-Fiction",
+        "film_title_de": "Solaris",
+        "film_title_original": "Солярис",
+        "film_year": "1972",
+        "franchise": "",
+        "difficulty": "leicht",
+        "question_type": "Figur",
+        "topic_tags": "Arthouse|Sci-Fi|Erinnerung|Andrei Tarkowski",
+        "badge_tags": "Arthouse|Sci-Fi|Erinnerung|Andrei Tarkowski",
+        "learning_objective": "Kris Kelvin ist Psychologe.",
+        "question": "„Solaris“ (1972): Welchen Beruf hat Kris Kelvin (Donatas Banionis)?",
+        "answer_a": "Psychologe",
+        "answer_b": "Koch",
+        "answer_c": "Geologe",
+        "answer_d": "Pilot",
+        "correct_answer": "A",
+        "explanation_short": "Kris Kelvin (Donatas Banionis) ist Psychologe.",
+        "explanation_context": "Kris Kelvin (Donatas Banionis) soll eine rätselhafte Situation beurteilen, wird aber selbst zu einem Teil davon. Sein Beruf verspricht zunächst Distanz und Analyse. Der Film macht diese Position fragwürdig, sobald persönliche Erinnerungen ins Geschehen eingreifen. Beobachter und Untersuchungsgegenstand lassen sich dann nicht mehr sauber voneinander trennen, ohne einen wichtigen Teil der Erfahrung auszublenden.",
+        "feedback_a": "Kris Kelvin (Donatas Banionis) ist Psychologe.",
+        "feedback_b": "Er ist nicht der Stationskoch.",
+        "feedback_c": "Kelvin (Donatas Banionis) reist nicht als Geologe an.",
+        "feedback_d": "Seine Funktion ist nicht die eines Piloten.",
+        "memory_anchor": "Der Psychologe wird selbst geprüft.",
+        "spoiler_level": "keine",
+        "source_urls": "https://en.wikipedia.org/wiki/Solaris_(1972_film)|https://www.rottentomatoes.com/m/solaris_1976",
+        "verification_status": "redaktionell_geprueft",
+        "source_subdomain": "Sci-Fi"
+      },
+      "demo": false,
+      "display": {
+        "context": "Kris Kelvin (Donatas Banionis) soll eine rätselhafte Situation beurteilen, wird aber selbst zu einem Teil davon. Sein Beruf verspricht zunächst Distanz und Analyse. Der Film macht diese Position fragwürdig, sobald persönliche Erinnerungen ins Geschehen eingreifen. Beobachter und Untersuchungsgegenstand lassen sich dann nicht mehr sauber voneinander trennen, ohne einen wichtigen Teil der Erfahrung auszublenden.",
+        "anchor": "Der Psychologe wird selbst geprüft.",
+        "answers": [
+          {
+            "id": "ART-L-017:a",
+            "text": "Psychologe",
+            "feedback": "Kris Kelvin (Donatas Banionis) ist Psychologe.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "ART-L-017:b",
+            "text": "Koch",
+            "feedback": "Er ist nicht der Stationskoch.",
+            "visibleFeedback": "Er ist nicht der Stationskoch."
+          },
+          {
+            "id": "ART-L-017:c",
+            "text": "Geologe",
+            "feedback": "Kelvin (Donatas Banionis) reist nicht als Geologe an.",
+            "visibleFeedback": "Kelvin (Donatas Banionis) reist nicht als Geologe an."
+          },
+          {
+            "id": "ART-L-017:d",
+            "text": "Pilot",
+            "feedback": "Seine Funktion ist nicht die eines Piloten.",
+            "visibleFeedback": "Seine Funktion ist nicht die eines Piloten."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Solaris_(1972_film)",
+          "https://www.rottentomatoes.com/m/solaris_1976"
+        ]
+      }
+    },
+    {
+      "genre": "Action",
+      "candidateCount": 350,
+      "selectionHash": "0020a118231a3e521267d479f3a683d6ec2b667a0ea2324a310f55d63d628995",
+      "id": "ACT-M-025",
+      "knowledgeId": "K-ACT-13-simon-autoverkaeufer",
+      "version": "csv-cf8856ef",
+      "language": "de",
+      "domain": "Film",
+      "topic": "True Lies – Wahre Lügen",
+      "difficulty": "mittel",
+      "question": "„True Lies – Wahre Lügen“ (1994): Was ist der vermeintliche Spion Simon (Bill Paxton) tatsächlich?",
+      "answers": [
+        {
+          "id": "ACT-M-025:a",
+          "text": "Gebrauchtwagenverkäufer",
+          "feedback": "Simon verkauft Gebrauchtwagen und benutzt seine Spionagegeschichten, um Frauen zu beeindrucken."
+        },
+        {
+          "id": "ACT-M-025:b",
+          "text": "Pilot einer Geheimdienstmaschine",
+          "feedback": "Er fliegt keine Geheimdienstmissionen, sondern verkauft Autos."
+        },
+        {
+          "id": "ACT-M-025:c",
+          "text": "Mitarbeiter des Innenministeriums",
+          "feedback": "Simon arbeitet nicht als echter Ministeriumsmitarbeiter; seine Geschichten sind erfunden."
+        },
+        {
+          "id": "ACT-M-025:d",
+          "text": "Hochrangiger Doppelagent",
+          "feedback": "Ein Doppelagent müsste wirklich für Dienste tätig sein; Simon täuscht das nur vor."
+        }
+      ],
+      "correctId": "ACT-M-025:a",
+      "explanation": "Simon verkauft Gebrauchtwagen und benutzt seine Spionagegeschichten, um Frauen zu beeindrucken.",
+      "context": "Bill Paxton spielt Simon als Mann, der mit einer erfundenen gefährlichen Identität Abenteuer verspricht. Für Helen wirkt er zunächst wie das Gegenteil ihres langweiligen Ehemanns. Das Publikum kennt jedoch die Umkehrung: Der echte Agent verbirgt sein Leben, während der Verkäufer ein Agentenleben erfindet. Daraus entsteht die besondere Komik der Dreieckssituation.",
+      "anchor": "Simon spielt den Spion, während Harry seinen echten Beruf versteckt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/True_Lies"
+      ],
+      "tags": [
+        "Spionage",
+        "Doppelleben",
+        "Familie"
+      ],
+      "badgeTags": [
+        "Agentenfilme"
+      ],
+      "metadata": {
+        "question_id": "ACT-M-025",
+        "knowledge_id": "K-ACT-13-simon-autoverkaeufer",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Action",
+        "film_title_de": "True Lies – Wahre Lügen",
+        "film_title_original": "True Lies",
+        "film_year": "1994",
+        "franchise": "",
+        "difficulty": "mittel",
+        "question_type": "Figur",
+        "topic_tags": "Spionage|Doppelleben|Familie",
+        "badge_tags": "Agentenfilme",
+        "learning_objective": "Simon spielt den Spion, während Harry seinen echten Beruf versteckt.",
+        "question": "„True Lies – Wahre Lügen“ (1994): Was ist der vermeintliche Spion Simon (Bill Paxton) tatsächlich?",
+        "answer_a": "Gebrauchtwagenverkäufer",
+        "answer_b": "Pilot einer Geheimdienstmaschine",
+        "answer_c": "Mitarbeiter des Innenministeriums",
+        "answer_d": "Hochrangiger Doppelagent",
+        "correct_answer": "A",
+        "explanation_short": "Simon verkauft Gebrauchtwagen und benutzt seine Spionagegeschichten, um Frauen zu beeindrucken.",
+        "explanation_context": "Bill Paxton spielt Simon als Mann, der mit einer erfundenen gefährlichen Identität Abenteuer verspricht. Für Helen wirkt er zunächst wie das Gegenteil ihres langweiligen Ehemanns. Das Publikum kennt jedoch die Umkehrung: Der echte Agent verbirgt sein Leben, während der Verkäufer ein Agentenleben erfindet. Daraus entsteht die besondere Komik der Dreieckssituation.",
+        "feedback_a": "Simon verkauft Gebrauchtwagen und benutzt seine Spionagegeschichten, um Frauen zu beeindrucken.",
+        "feedback_b": "Er fliegt keine Geheimdienstmissionen, sondern verkauft Autos.",
+        "feedback_c": "Simon arbeitet nicht als echter Ministeriumsmitarbeiter; seine Geschichten sind erfunden.",
+        "feedback_d": "Ein Doppelagent müsste wirklich für Dienste tätig sein; Simon täuscht das nur vor.",
+        "memory_anchor": "Simon spielt den Spion, während Harry seinen echten Beruf versteckt.",
+        "spoiler_level": "Handlung",
+        "source_urls": "https://en.wikipedia.org/wiki/True_Lies",
+        "verification_status": "redaktionell_geprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Bill Paxton spielt Simon als Mann, der mit einer erfundenen gefährlichen Identität Abenteuer verspricht. Für Helen wirkt er zunächst wie das Gegenteil ihres langweiligen Ehemanns. Das Publikum kennt jedoch die Umkehrung: Der echte Agent verbirgt sein Leben, während der Verkäufer ein Agentenleben erfindet. Daraus entsteht die besondere Komik der Dreieckssituation.",
+        "cast": "Helen Tasker wird von Jamie Lee Curtis gespielt.",
+        "anchor": "Simon spielt den Spion, während Harry seinen echten Beruf versteckt.",
+        "answers": [
+          {
+            "id": "ACT-M-025:a",
+            "text": "Gebrauchtwagenverkäufer",
+            "feedback": "Simon verkauft Gebrauchtwagen und benutzt seine Spionagegeschichten, um Frauen zu beeindrucken.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "ACT-M-025:b",
+            "text": "Pilot einer Geheimdienstmaschine",
+            "feedback": "Er fliegt keine Geheimdienstmissionen, sondern verkauft Autos.",
+            "visibleFeedback": "Er fliegt keine Geheimdienstmissionen, sondern verkauft Autos."
+          },
+          {
+            "id": "ACT-M-025:c",
+            "text": "Mitarbeiter des Innenministeriums",
+            "feedback": "Simon arbeitet nicht als echter Ministeriumsmitarbeiter; seine Geschichten sind erfunden.",
+            "visibleFeedback": "Simon arbeitet nicht als echter Ministeriumsmitarbeiter; seine Geschichten sind erfunden."
+          },
+          {
+            "id": "ACT-M-025:d",
+            "text": "Hochrangiger Doppelagent",
+            "feedback": "Ein Doppelagent müsste wirklich für Dienste tätig sein; Simon täuscht das nur vor.",
+            "visibleFeedback": "Ein Doppelagent müsste wirklich für Dienste tätig sein; Simon täuscht das nur vor."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/True_Lies"
+        ]
+      }
+    },
+    {
+      "genre": "Horror",
+      "candidateCount": 220,
+      "selectionHash": "0328597a5c2a6b00961e67247bb490c12c76958571298fddbe34199ea7f81a83",
+      "id": "G100-20261008-HORROR-001-S1",
+      "knowledgeId": "K-G100-20261008-HORROR-001-S1",
+      "version": "csv-31561fa3",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Das Cabinet des Dr. Caligari",
+      "difficulty": "schwer",
+      "question": "Was entdecken die Ermittler in „Das Cabinet des Dr. Caligari“ in der Kiste von Cesare (Conrad Veidt)?",
+      "answers": [
+        {
+          "id": "G100-20261008-HORROR-001-S1:a",
+          "text": "Einen zweiten schlafenden Darsteller",
+          "feedback": "Ein zweiter Darsteller ersetzt Cesare nicht."
+        },
+        {
+          "id": "G100-20261008-HORROR-001-S1:b",
+          "text": "Eine Puppe anstelle des Schlafwandlers",
+          "feedback": "Die reglose Gestalt ist eine Puppe."
+        },
+        {
+          "id": "G100-20261008-HORROR-001-S1:c",
+          "text": "Eine Spiegelkonstruktion hinter dem Deckel",
+          "feedback": "Ein Spiegel erklärt die beobachtete Gestalt nicht."
+        },
+        {
+          "id": "G100-20261008-HORROR-001-S1:d",
+          "text": "Einen verborgenen Ausgang unter der Matratze",
+          "feedback": "Ein Ausgang ist nicht die entdeckte Täuschung."
+        }
+      ],
+      "correctId": "G100-20261008-HORROR-001-S1:b",
+      "explanation": "Eine Puppe täuscht Cesares Anwesenheit vor.",
+      "context": "Francis (Friedrich Fehér) hat Dr. Caligari (Werner Krauß) und die scheinbar schlafende Gestalt beobachtet. Trotzdem wurde Jane (Lil Dagover) in dieser Nacht angegriffen. Erst die Untersuchung der Kiste erklärt diesen Widerspruch: Eine Puppe nahm Cesares (Conrad Veidt) Platz ein. Die Beobachtung war somit nicht erfunden, ihre Deutung aber falsch. Ein scheinbar überzeugendes Alibi hängt an einem Gegenstand, dessen Echtheit niemand zuvor überprüft hatte.",
+      "anchor": "Die Beobachtung stimmt, doch die Gestalt ist eine Puppe.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari"
+      ],
+      "tags": [
+        "Horror"
+      ],
+      "badgeTags": [
+        "Horror"
+      ],
+      "metadata": {
+        "question_id": "G100-20261008-HORROR-001-S1",
+        "knowledge_id": "K-G100-20261008-HORROR-001-S1",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Horror",
+        "film_title_de": "Das Cabinet des Dr. Caligari",
+        "film_title_original": "Das Cabinet des Dr. Caligari",
+        "film_year": "1920",
+        "franchise": "",
+        "difficulty": "schwer",
+        "question_type": "Filmwissen",
+        "topic_tags": "Horror",
+        "badge_tags": "Horror",
+        "learning_objective": "Die Beobachtung stimmt, doch die Gestalt ist eine Puppe.",
+        "question": "Was entdecken die Ermittler in „Das Cabinet des Dr. Caligari“ in der Kiste von Cesare (Conrad Veidt)?",
+        "answer_a": "Einen zweiten schlafenden Darsteller",
+        "answer_b": "Eine Puppe anstelle des Schlafwandlers",
+        "answer_c": "Eine Spiegelkonstruktion hinter dem Deckel",
+        "answer_d": "Einen verborgenen Ausgang unter der Matratze",
+        "correct_answer": "B",
+        "explanation_short": "Eine Puppe täuscht Cesares Anwesenheit vor.",
+        "explanation_context": "Francis (Friedrich Fehér) hat Dr. Caligari (Werner Krauß) und die scheinbar schlafende Gestalt beobachtet. Trotzdem wurde Jane (Lil Dagover) in dieser Nacht angegriffen. Erst die Untersuchung der Kiste erklärt diesen Widerspruch: Eine Puppe nahm Cesares (Conrad Veidt) Platz ein. Die Beobachtung war somit nicht erfunden, ihre Deutung aber falsch. Ein scheinbar überzeugendes Alibi hängt an einem Gegenstand, dessen Echtheit niemand zuvor überprüft hatte.",
+        "feedback_a": "Ein zweiter Darsteller ersetzt Cesare nicht.",
+        "feedback_b": "Die reglose Gestalt ist eine Puppe.",
+        "feedback_c": "Ein Spiegel erklärt die beobachtete Gestalt nicht.",
+        "feedback_d": "Ein Ausgang ist nicht die entdeckte Täuschung.",
+        "memory_anchor": "Die Beobachtung stimmt, doch die Gestalt ist eine Puppe.",
+        "spoiler_level": "hoch",
+        "source_urls": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Francis (Friedrich Fehér) hat Dr. Caligari (Werner Krauß) und die scheinbar schlafende Gestalt beobachtet. Trotzdem wurde Jane (Lil Dagover) in dieser Nacht angegriffen. Erst die Untersuchung der Kiste erklärt diesen Widerspruch: Eine Puppe nahm Cesares (Conrad Veidt) Platz ein. Die Beobachtung war somit nicht erfunden, ihre Deutung aber falsch. Ein scheinbar überzeugendes Alibi hängt an einem Gegenstand, dessen Echtheit niemand zuvor überprüft hatte.",
+        "anchor": "Die Beobachtung stimmt, doch die Gestalt ist eine Puppe.",
+        "answers": [
+          {
+            "id": "G100-20261008-HORROR-001-S1:a",
+            "text": "Einen zweiten schlafenden Darsteller",
+            "feedback": "Ein zweiter Darsteller ersetzt Cesare nicht.",
+            "visibleFeedback": "Ein zweiter Darsteller ersetzt Cesare nicht."
+          },
+          {
+            "id": "G100-20261008-HORROR-001-S1:b",
+            "text": "Eine Puppe anstelle des Schlafwandlers",
+            "feedback": "Die reglose Gestalt ist eine Puppe.",
+            "visibleFeedback": "Die reglose Gestalt ist eine Puppe."
+          },
+          {
+            "id": "G100-20261008-HORROR-001-S1:c",
+            "text": "Eine Spiegelkonstruktion hinter dem Deckel",
+            "feedback": "Ein Spiegel erklärt die beobachtete Gestalt nicht.",
+            "visibleFeedback": "Ein Spiegel erklärt die beobachtete Gestalt nicht."
+          },
+          {
+            "id": "G100-20261008-HORROR-001-S1:d",
+            "text": "Einen verborgenen Ausgang unter der Matratze",
+            "feedback": "Ein Ausgang ist nicht die entdeckte Täuschung.",
+            "visibleFeedback": "Ein Ausgang ist nicht die entdeckte Täuschung."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari"
+        ]
+      }
+    },
+    {
+      "genre": "Fantasy",
+      "candidateCount": 211,
+      "selectionHash": "01af35a8bda1269d7a346966b2ea5f9b7c3275d326c881fcec60f615446ff98a",
+      "id": "F240-20261006-080-L1",
+      "knowledgeId": "K-F240-20261006-080-L1",
+      "version": "csv-2dbcb7f8",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Orlando",
+      "difficulty": "leicht",
+      "question": "Welche ungewöhnliche Bedingung stellt die Königin Orlando (Tilda Swinton) in „Orlando“ für ihr Geschenk?",
+      "answers": [
+        {
+          "id": "F240-20261006-080-L1:a",
+          "text": "Orlando soll nicht altern.",
+          "feedback": "Elizabeth I."
+        },
+        {
+          "id": "F240-20261006-080-L1:b",
+          "text": "Orlando soll nie schreiben.",
+          "feedback": "Das Schreiben wird nicht verboten."
+        },
+        {
+          "id": "F240-20261006-080-L1:c",
+          "text": "Orlando soll niemals reisen.",
+          "feedback": "Reisen sind nicht untersagt."
+        },
+        {
+          "id": "F240-20261006-080-L1:d",
+          "text": "Orlando soll jedes Jahr heiraten.",
+          "feedback": "Jährliche Heiraten fordert sie nicht."
+        }
+      ],
+      "correctId": "F240-20261006-080-L1:a",
+      "explanation": "Elizabeth I.",
+      "context": "Elizabeth I. (Quentin Crisp) verlangt, dass Orlando (Tilda Swinton) nicht altert. Orlando (Tilda Swinton) erhält Besitz und lebt danach durch mehrere Jahrhunderte; das Versprechen setzt die ungewöhnliche Zeitspanne der Erzählung.",
+      "anchor": "Der Besitz ist an ein Leben ohne Altern gebunden.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Orlando_(film)"
+      ],
+      "tags": [
+        "Fantasy"
+      ],
+      "badgeTags": [
+        "Fantasy"
+      ],
+      "metadata": {
+        "question_id": "F240-20261006-080-L1",
+        "knowledge_id": "K-F240-20261006-080-L1",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Fantasy",
+        "film_title_de": "Orlando",
+        "film_title_original": "Orlando",
+        "film_year": "1992",
+        "franchise": "",
+        "difficulty": "leicht",
+        "question_type": "Filmwissen",
+        "topic_tags": "Fantasy",
+        "badge_tags": "Fantasy",
+        "learning_objective": "Der Besitz ist an ein Leben ohne Altern gebunden.",
+        "question": "Welche ungewöhnliche Bedingung stellt die Königin Orlando (Tilda Swinton) in „Orlando“ für ihr Geschenk?",
+        "answer_a": "Orlando soll nicht altern.",
+        "answer_b": "Orlando soll nie schreiben.",
+        "answer_c": "Orlando soll niemals reisen.",
+        "answer_d": "Orlando soll jedes Jahr heiraten.",
+        "correct_answer": "A",
+        "explanation_short": "Elizabeth I.",
+        "explanation_context": "Elizabeth I. (Quentin Crisp) verlangt, dass Orlando (Tilda Swinton) nicht altert. Orlando (Tilda Swinton) erhält Besitz und lebt danach durch mehrere Jahrhunderte; das Versprechen setzt die ungewöhnliche Zeitspanne der Erzählung.",
+        "feedback_a": "Elizabeth I.",
+        "feedback_b": "Das Schreiben wird nicht verboten.",
+        "feedback_c": "Reisen sind nicht untersagt.",
+        "feedback_d": "Jährliche Heiraten fordert sie nicht.",
+        "memory_anchor": "Der Besitz ist an ein Leben ohne Altern gebunden.",
+        "spoiler_level": "gering",
+        "source_urls": "https://en.wikipedia.org/wiki/Orlando_(film)",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Elizabeth I. (Quentin Crisp) verlangt, dass Orlando (Tilda Swinton) nicht altert. Orlando (Tilda Swinton) erhält Besitz und lebt danach durch mehrere Jahrhunderte; das Versprechen setzt die ungewöhnliche Zeitspanne der Erzählung.",
+        "anchor": "Der Besitz ist an ein Leben ohne Altern gebunden.",
+        "answers": [
+          {
+            "id": "F240-20261006-080-L1:a",
+            "text": "Orlando soll nicht altern.",
+            "feedback": "Elizabeth I.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "F240-20261006-080-L1:b",
+            "text": "Orlando soll nie schreiben.",
+            "feedback": "Das Schreiben wird nicht verboten.",
+            "visibleFeedback": "Das Schreiben wird nicht verboten."
+          },
+          {
+            "id": "F240-20261006-080-L1:c",
+            "text": "Orlando soll niemals reisen.",
+            "feedback": "Reisen sind nicht untersagt.",
+            "visibleFeedback": "Reisen sind nicht untersagt."
+          },
+          {
+            "id": "F240-20261006-080-L1:d",
+            "text": "Orlando soll jedes Jahr heiraten.",
+            "feedback": "Jährliche Heiraten fordert sie nicht.",
+            "visibleFeedback": "Jährliche Heiraten fordert sie nicht."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Orlando_(film)"
+        ]
+      }
+    },
+    {
+      "genre": "Komödie",
+      "candidateCount": 379,
+      "selectionHash": "030ab1947483725139a5fe3ff4cfb303d6f0f919ef87e79c46c24bc6a3167f07",
+      "id": "F240-20261006-107-D",
+      "knowledgeId": "K-F240-20261006-107-D",
+      "version": "csv-75267de7",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Playtime",
+      "difficulty": "mittel",
+      "question": "Wer führte bei „Playtime“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-107-D:a",
+          "text": "Pierre Étaix",
+          "feedback": "Pierre Étaix gehört nicht zum Regiecredit dieser Filmfassung."
+        },
+        {
+          "id": "F240-20261006-107-D:b",
+          "text": "Louis Malle",
+          "feedback": "Louis Malle gehört nicht zum Regiecredit dieser Filmfassung."
+        },
+        {
+          "id": "F240-20261006-107-D:c",
+          "text": "Luis Buñuel",
+          "feedback": "Luis Buñuel gehört nicht zum Regiecredit dieser Filmfassung."
+        },
+        {
+          "id": "F240-20261006-107-D:d",
+          "text": "Jacques Tati",
+          "feedback": "Jacques Tati führte Regie."
+        }
+      ],
+      "correctId": "F240-20261006-107-D:d",
+      "explanation": "Der Regiecredit lautet Jacques Tati.",
+      "context": "Jacques Tati führte Regie und spielt Monsieur Hulot. Für die moderne Stadt ließ er ein eigenes großes Set errichten. Die Inszenierung verteilt die Komik über breite Bilder und viele gleichzeitige Handlungen, statt Hulot ständig in Großaufnahme zum alleinigen Mittelpunkt zu machen.",
+      "anchor": "Jacques Tati: Für die moderne Stadt ließ er ein eigenes großes Set errichten.",
+      "sources": [
+        "https://www.criterion.com/films/651-playtime",
+        "https://www.rottentomatoes.com/m/playtime",
+        "https://en.wikipedia.org/wiki/Playtime"
+      ],
+      "tags": [
+        "Komödie"
+      ],
+      "badgeTags": [
+        "Komödie"
+      ],
+      "metadata": {
+        "question_id": "F240-20261006-107-D",
+        "knowledge_id": "K-F240-20261006-107-D",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Komödie",
+        "film_title_de": "Playtime",
+        "film_title_original": "Playtime",
+        "film_year": "1967",
+        "franchise": "",
+        "difficulty": "mittel",
+        "question_type": "Regie",
+        "topic_tags": "Komödie",
+        "badge_tags": "Komödie",
+        "learning_objective": "Jacques Tati: Für die moderne Stadt ließ er ein eigenes großes Set errichten.",
+        "question": "Wer führte bei „Playtime“ Regie?",
+        "answer_a": "Pierre Étaix",
+        "answer_b": "Louis Malle",
+        "answer_c": "Luis Buñuel",
+        "answer_d": "Jacques Tati",
+        "correct_answer": "D",
+        "explanation_short": "Der Regiecredit lautet Jacques Tati.",
+        "explanation_context": "Jacques Tati führte Regie und spielt Monsieur Hulot. Für die moderne Stadt ließ er ein eigenes großes Set errichten. Die Inszenierung verteilt die Komik über breite Bilder und viele gleichzeitige Handlungen, statt Hulot ständig in Großaufnahme zum alleinigen Mittelpunkt zu machen.",
+        "feedback_a": "Pierre Étaix gehört nicht zum Regiecredit dieser Filmfassung.",
+        "feedback_b": "Louis Malle gehört nicht zum Regiecredit dieser Filmfassung.",
+        "feedback_c": "Luis Buñuel gehört nicht zum Regiecredit dieser Filmfassung.",
+        "feedback_d": "Jacques Tati führte Regie.",
+        "memory_anchor": "Jacques Tati: Für die moderne Stadt ließ er ein eigenes großes Set errichten.",
+        "spoiler_level": "gering",
+        "source_urls": "https://www.criterion.com/films/651-playtime|https://www.rottentomatoes.com/m/playtime|https://en.wikipedia.org/wiki/Playtime",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Jacques Tati führte Regie und spielt Monsieur Hulot. Für die moderne Stadt ließ er ein eigenes großes Set errichten. Die Inszenierung verteilt die Komik über breite Bilder und viele gleichzeitige Handlungen, statt Hulot ständig in Großaufnahme zum alleinigen Mittelpunkt zu machen.",
+        "anchor": "Jacques Tati: Für die moderne Stadt ließ er ein eigenes großes Set errichten.",
+        "answers": [
+          {
+            "id": "F240-20261006-107-D:a",
+            "text": "Pierre Étaix",
+            "feedback": "Pierre Étaix gehört nicht zum Regiecredit dieser Filmfassung.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "F240-20261006-107-D:b",
+            "text": "Louis Malle",
+            "feedback": "Louis Malle gehört nicht zum Regiecredit dieser Filmfassung.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "F240-20261006-107-D:c",
+            "text": "Luis Buñuel",
+            "feedback": "Luis Buñuel gehört nicht zum Regiecredit dieser Filmfassung.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "F240-20261006-107-D:d",
+            "text": "Jacques Tati",
+            "feedback": "Jacques Tati führte Regie.",
+            "visibleFeedback": "Jacques Tati führte Regie."
+          }
+        ],
+        "sources": [
+          "https://www.criterion.com/films/651-playtime",
+          "https://www.rottentomatoes.com/m/playtime",
+          "https://en.wikipedia.org/wiki/Playtime"
+        ]
+      }
+    },
+    {
+      "genre": "Western",
+      "candidateCount": 221,
+      "selectionHash": "006466daff984d749b9625d5b645f42e4b59908978753fccfdb65924a4f1a9e7",
+      "id": "WES-S-013",
+      "knowledgeId": "K-WES-07-05",
+      "version": "csv-a915be49",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Mein Name ist Nobody",
+      "difficulty": "schwer",
+      "question": "„Mein Name ist Nobody“ (1973): Was macht Beauregards (Henry Fonda) Schüsse gegen die heranreitende Horde besonders wirksam?",
+      "answers": [
+        {
+          "id": "WES-S-013:a",
+          "text": "Dynamit in den Satteltaschen der Angreifer",
+          "feedback": "Beauregard (Henry Fonda) trifft die mit Dynamit gefüllten Satteltaschen."
+        },
+        {
+          "id": "WES-S-013:b",
+          "text": "Ein absichtlich zerstörter Brückendamm",
+          "feedback": "Es ist kein Dammbruch, der die Angreifer stoppt."
+        },
+        {
+          "id": "WES-S-013:c",
+          "text": "Eine zuvor vergiftete Wasserstelle",
+          "feedback": "Die Wasserstelle entscheidet diesen Kampf nicht."
+        },
+        {
+          "id": "WES-S-013:d",
+          "text": "Ein verstecktes Regiment hinter ihm",
+          "feedback": "Ein verborgenes Regiment übernimmt seine Schüsse nicht."
+        }
+      ],
+      "correctId": "WES-S-013:a",
+      "explanation": "Beauregard (Henry Fonda) trifft die mit Dynamit gefüllten Satteltaschen.",
+      "context": "Beauregard (Henry Fonda) gewinnt nicht durch eine endlose Reihe gewöhnlicher Treffer. Er erkennt eine Eigenschaft der Ausrüstung seiner Gegner und nutzt sie gegen die Übermacht. Dadurch verbindet der Film das unglaubliche Bild des Einzelkämpfers mit einem konkreten Trick. Nobodys (Terence Hill) gewünschte Legende beruht also auch auf Beobachtung und auf einer Schwachstelle der Horde.",
+      "anchor": "Dynamit macht wenige Treffer gewaltig.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/My_Name_Is_Nobody",
+        "https://www.rottentomatoes.com/m/my_name_is_nobody"
+      ],
+      "tags": [
+        "Italowestern",
+        "Westernkomödie",
+        "Legenden",
+        "Classics"
+      ],
+      "badgeTags": [
+        "Western",
+        "Italowestern",
+        "Henry Fonda",
+        "Classics"
+      ],
+      "metadata": {
+        "question_id": "WES-S-013",
+        "knowledge_id": "K-WES-07-05",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Western",
+        "film_title_de": "Mein Name ist Nobody",
+        "film_title_original": "Il mio nome è Nessuno",
+        "film_year": "1973",
+        "franchise": "",
+        "difficulty": "schwer",
+        "question_type": "Handlung",
+        "topic_tags": "Italowestern|Westernkomödie|Legenden",
+        "badge_tags": "Western|Italowestern|Henry Fonda",
+        "learning_objective": "Beauregard trifft die mit Dynamit gefüllten Satteltaschen.",
+        "question": "„Mein Name ist Nobody“ (1973): Was macht Beauregards (Henry Fonda) Schüsse gegen die heranreitende Horde besonders wirksam?",
+        "answer_a": "Dynamit in den Satteltaschen der Angreifer",
+        "answer_b": "Ein absichtlich zerstörter Brückendamm",
+        "answer_c": "Eine zuvor vergiftete Wasserstelle",
+        "answer_d": "Ein verstecktes Regiment hinter ihm",
+        "correct_answer": "A",
+        "explanation_short": "Beauregard (Henry Fonda) trifft die mit Dynamit gefüllten Satteltaschen.",
+        "explanation_context": "Beauregard (Henry Fonda) gewinnt nicht durch eine endlose Reihe gewöhnlicher Treffer. Er erkennt eine Eigenschaft der Ausrüstung seiner Gegner und nutzt sie gegen die Übermacht. Dadurch verbindet der Film das unglaubliche Bild des Einzelkämpfers mit einem konkreten Trick. Nobodys (Terence Hill) gewünschte Legende beruht also auch auf Beobachtung und auf einer Schwachstelle der Horde.",
+        "feedback_a": "Beauregard (Henry Fonda) trifft die mit Dynamit gefüllten Satteltaschen.",
+        "feedback_b": "Es ist kein Dammbruch, der die Angreifer stoppt.",
+        "feedback_c": "Die Wasserstelle entscheidet diesen Kampf nicht.",
+        "feedback_d": "Ein verborgenes Regiment übernimmt seine Schüsse nicht.",
+        "memory_anchor": "Dynamit macht wenige Treffer gewaltig.",
+        "spoiler_level": "Auflösung",
+        "source_urls": "https://en.wikipedia.org/wiki/My_Name_Is_Nobody|https://www.rottentomatoes.com/m/my_name_is_nobody",
+        "verification_status": "redaktionell_geprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Beauregard (Henry Fonda) gewinnt nicht durch eine endlose Reihe gewöhnlicher Treffer. Er erkennt eine Eigenschaft der Ausrüstung seiner Gegner und nutzt sie gegen die Übermacht. Dadurch verbindet der Film das unglaubliche Bild des Einzelkämpfers mit einem konkreten Trick. Nobodys (Terence Hill) gewünschte Legende beruht also auch auf Beobachtung und auf einer Schwachstelle der Horde.",
+        "anchor": "Dynamit macht wenige Treffer gewaltig.",
+        "answers": [
+          {
+            "id": "WES-S-013:a",
+            "text": "Dynamit in den Satteltaschen der Angreifer",
+            "feedback": "Beauregard (Henry Fonda) trifft die mit Dynamit gefüllten Satteltaschen.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "WES-S-013:b",
+            "text": "Ein absichtlich zerstörter Brückendamm",
+            "feedback": "Es ist kein Dammbruch, der die Angreifer stoppt.",
+            "visibleFeedback": "Es ist kein Dammbruch, der die Angreifer stoppt."
+          },
+          {
+            "id": "WES-S-013:c",
+            "text": "Eine zuvor vergiftete Wasserstelle",
+            "feedback": "Die Wasserstelle entscheidet diesen Kampf nicht.",
+            "visibleFeedback": "Die Wasserstelle entscheidet diesen Kampf nicht."
+          },
+          {
+            "id": "WES-S-013:d",
+            "text": "Ein verstecktes Regiment hinter ihm",
+            "feedback": "Ein verborgenes Regiment übernimmt seine Schüsse nicht.",
+            "visibleFeedback": "Ein verborgenes Regiment übernimmt seine Schüsse nicht."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/My_Name_Is_Nobody",
+          "https://www.rottentomatoes.com/m/my_name_is_nobody"
+        ]
+      }
+    },
+    {
+      "genre": "Drama",
+      "candidateCount": 402,
+      "selectionHash": "003579ca03688ed3e63ffd95958e8ea953a7ee5f8e84ed790ccd47858665374c",
+      "id": "E20261007-F-266-M2",
+      "knowledgeId": "K-E20261007-F-266-M2",
+      "version": "csv-b6720eb5",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Kagemusha – Der Schatten des Kriegers",
+      "difficulty": "mittel",
+      "question": "„Kagemusha – Der Schatten des Kriegers“: Was fordert Shingen (Tatsuya Nakadai) vor seinem Tod von seinen Generälen?",
+      "answers": [
+        {
+          "id": "E20261007-F-266-M2:a",
+          "text": "Den Clan sofort dem ältesten Gegner zu übergeben",
+          "feedback": "Eine freiwillige Übergabe an den Gegner ist nicht der Auftrag."
+        },
+        {
+          "id": "E20261007-F-266-M2:b",
+          "text": "Seinen Tod drei Jahre geheim zu halten",
+          "feedback": "Das dreijährige Geheimnis soll die Position der Takeda erhalten."
+        },
+        {
+          "id": "E20261007-F-266-M2:c",
+          "text": "Seinen Sohn noch in derselben Nacht hinrichten zu lassen",
+          "feedback": "Der Sohn wird nicht zur sofortigen Hinrichtung bestimmt."
+        },
+        {
+          "id": "E20261007-F-266-M2:d",
+          "text": "Den Doppelgänger öffentlich als neuen Erben einzusetzen",
+          "feedback": "Der Ersatzmann soll Shingen verkörpern, nicht offiziell dessen Erbe werden."
+        }
+      ],
+      "correctId": "E20261007-F-266-M2:b",
+      "explanation": "Das dreijährige Geheimnis soll die Position der Takeda erhalten.",
+      "context": "Shingens Anordnung verzögert die offene Machtübernahme seines Sohnes Katsuyori (Kenichi Hagiwara). Das Geheimnis schützt den Clan nach außen, schafft aber im Inneren ein gespanntes Verhältnis. Die zeitlich begrenzte Täuschung besitzt daher einen Preis: Der tatsächliche Nachfolger muss neben einem Menschen leben, der öffentlich weiterhin als sein Vater auftritt.",
+      "anchor": "Das dreijährige Geheimnis schützt den Clan und behindert Katsuyoris offene Nachfolge.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kagemusha",
+        "https://de.wikipedia.org/wiki/Kagemusha_%E2%80%93_Der_Schatten_des_Kriegers"
+      ],
+      "tags": [
+        "Drama",
+        "Arthouse"
+      ],
+      "badgeTags": [
+        "Drama",
+        "Arthouse"
+      ],
+      "metadata": {
+        "question_id": "E20261007-F-266-M2",
+        "knowledge_id": "K-E20261007-F-266-M2",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Drama",
+        "film_title_de": "Kagemusha – Der Schatten des Kriegers",
+        "film_title_original": "Kagemusha",
+        "film_year": "1980",
+        "franchise": "",
+        "difficulty": "mittel",
+        "question_type": "Filmwissen",
+        "topic_tags": "Drama;Arthouse",
+        "badge_tags": "Drama;Arthouse",
+        "learning_objective": "Das dreijährige Geheimnis schützt den Clan und behindert Katsuyoris offene Nachfolge.",
+        "question": "„Kagemusha – Der Schatten des Kriegers“: Was fordert Shingen (Tatsuya Nakadai) vor seinem Tod von seinen Generälen?",
+        "answer_a": "Den Clan sofort dem ältesten Gegner zu übergeben",
+        "answer_b": "Seinen Tod drei Jahre geheim zu halten",
+        "answer_c": "Seinen Sohn noch in derselben Nacht hinrichten zu lassen",
+        "answer_d": "Den Doppelgänger öffentlich als neuen Erben einzusetzen",
+        "correct_answer": "B",
+        "explanation_short": "Das dreijährige Geheimnis soll die Position der Takeda erhalten.",
+        "explanation_context": "Shingens Anordnung verzögert die offene Machtübernahme seines Sohnes Katsuyori (Kenichi Hagiwara). Das Geheimnis schützt den Clan nach außen, schafft aber im Inneren ein gespanntes Verhältnis. Die zeitlich begrenzte Täuschung besitzt daher einen Preis: Der tatsächliche Nachfolger muss neben einem Menschen leben, der öffentlich weiterhin als sein Vater auftritt.",
+        "feedback_a": "Eine freiwillige Übergabe an den Gegner ist nicht der Auftrag.",
+        "feedback_b": "Das dreijährige Geheimnis soll die Position der Takeda erhalten.",
+        "feedback_c": "Der Sohn wird nicht zur sofortigen Hinrichtung bestimmt.",
+        "feedback_d": "Der Ersatzmann soll Shingen verkörpern, nicht offiziell dessen Erbe werden.",
+        "memory_anchor": "Das dreijährige Geheimnis schützt den Clan und behindert Katsuyoris offene Nachfolge.",
+        "spoiler_level": "mittel",
+        "source_urls": "https://en.wikipedia.org/wiki/Kagemusha|https://de.wikipedia.org/wiki/Kagemusha_%E2%80%93_Der_Schatten_des_Kriegers",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Shingens Anordnung verzögert die offene Machtübernahme seines Sohnes Katsuyori (Kenichi Hagiwara). Das Geheimnis schützt den Clan nach außen, schafft aber im Inneren ein gespanntes Verhältnis. Die zeitlich begrenzte Täuschung besitzt daher einen Preis: Der tatsächliche Nachfolger muss neben einem Menschen leben, der öffentlich weiterhin als sein Vater auftritt.",
+        "anchor": "Das dreijährige Geheimnis schützt den Clan und behindert Katsuyoris offene Nachfolge.",
+        "answers": [
+          {
+            "id": "E20261007-F-266-M2:a",
+            "text": "Den Clan sofort dem ältesten Gegner zu übergeben",
+            "feedback": "Eine freiwillige Übergabe an den Gegner ist nicht der Auftrag.",
+            "visibleFeedback": "Eine freiwillige Übergabe an den Gegner ist nicht der Auftrag."
+          },
+          {
+            "id": "E20261007-F-266-M2:b",
+            "text": "Seinen Tod drei Jahre geheim zu halten",
+            "feedback": "Das dreijährige Geheimnis soll die Position der Takeda erhalten.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "E20261007-F-266-M2:c",
+            "text": "Seinen Sohn noch in derselben Nacht hinrichten zu lassen",
+            "feedback": "Der Sohn wird nicht zur sofortigen Hinrichtung bestimmt.",
+            "visibleFeedback": "Der Sohn wird nicht zur sofortigen Hinrichtung bestimmt."
+          },
+          {
+            "id": "E20261007-F-266-M2:d",
+            "text": "Den Doppelgänger öffentlich als neuen Erben einzusetzen",
+            "feedback": "Der Ersatzmann soll Shingen verkörpern, nicht offiziell dessen Erbe werden.",
+            "visibleFeedback": "Der Ersatzmann soll Shingen verkörpern, nicht offiziell dessen Erbe werden."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kagemusha",
+          "https://de.wikipedia.org/wiki/Kagemusha_%E2%80%93_Der_Schatten_des_Kriegers"
+        ]
+      }
+    },
+    {
+      "genre": "Musik",
+      "candidateCount": 210,
+      "selectionHash": "029bfae557cf629a666478aaca9957ba22b590b804771085e12d0c5b6f6f1cd2",
+      "id": "F240-20261006-157-L1",
+      "knowledgeId": "K-F240-20261006-157-L1",
+      "version": "csv-f29361e3",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Velvet Goldmine",
+      "difficulty": "leicht",
+      "question": "Was hat Brian Slade (Jonathan Rhys Meyers) in „Velvet Goldmine“ bei einem Konzert inszeniert?",
+      "answers": [
+        {
+          "id": "F240-20261006-157-L1:a",
+          "text": "Seine eigene Ermordung",
+          "feedback": "Slade hat einen Mord an sich als Werbeaktion vorgetäuscht."
+        },
+        {
+          "id": "F240-20261006-157-L1:b",
+          "text": "Seinen plötzlichen Ausstieg aus der Musikszene als spontane Entscheidung",
+          "feedback": "Slade inszeniert einen tödlichen Anschlag auf sich selbst."
+        },
+        {
+          "id": "F240-20261006-157-L1:c",
+          "text": "Eine schwere Bühnenverletzung, die als Unfall ausgegeben wird",
+          "feedback": "Es geht um eine vorgetäuschte Ermordung, keine bloße Verletzung."
+        },
+        {
+          "id": "F240-20261006-157-L1:d",
+          "text": "Eine fingierte Festnahme durch echte Polizeibeamte",
+          "feedback": "Eine angebliche Festnahme ist nicht der Skandal."
+        }
+      ],
+      "correctId": "F240-20261006-157-L1:a",
+      "explanation": "Slade hat einen Mord an sich als Werbeaktion vorgetäuscht.",
+      "context": "Brian Slade (Jonathan Rhys Meyers) bricht seine öffentliche Karriere mit einer inszenierten Tötung ab. Die Enttäuschung der Fans über die Täuschung führt zum Niedergang. Das spätere Verschwinden wird deshalb nicht als einfacher ungelöster Mordfall untersucht, sondern als Folge einer zerstörten Starrolle.",
+      "anchor": "Der inszenierte Tod zerstört Slades Glaubwürdigkeit.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Velvet_Goldmine",
+        "https://www.rottentomatoes.com/m/velvet_goldmine/"
+      ],
+      "tags": [
+        "Musik"
+      ],
+      "badgeTags": [
+        "Musik"
+      ],
+      "metadata": {
+        "question_id": "F240-20261006-157-L1",
+        "knowledge_id": "K-F240-20261006-157-L1",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Musik",
+        "film_title_de": "Velvet Goldmine",
+        "film_title_original": "Velvet Goldmine",
+        "film_year": "1998",
+        "franchise": "",
+        "difficulty": "leicht",
+        "question_type": "Filmwissen",
+        "topic_tags": "Musik",
+        "badge_tags": "Musik",
+        "learning_objective": "Der inszenierte Tod zerstört Slades Glaubwürdigkeit.",
+        "question": "Was hat Brian Slade (Jonathan Rhys Meyers) in „Velvet Goldmine“ bei einem Konzert inszeniert?",
+        "answer_a": "Seine eigene Ermordung",
+        "answer_b": "Seinen plötzlichen Ausstieg aus der Musikszene als spontane Entscheidung",
+        "answer_c": "Eine schwere Bühnenverletzung, die als Unfall ausgegeben wird",
+        "answer_d": "Eine fingierte Festnahme durch echte Polizeibeamte",
+        "correct_answer": "A",
+        "explanation_short": "Slade hat einen Mord an sich als Werbeaktion vorgetäuscht.",
+        "explanation_context": "Brian Slade (Jonathan Rhys Meyers) bricht seine öffentliche Karriere mit einer inszenierten Tötung ab. Die Enttäuschung der Fans über die Täuschung führt zum Niedergang. Das spätere Verschwinden wird deshalb nicht als einfacher ungelöster Mordfall untersucht, sondern als Folge einer zerstörten Starrolle.",
+        "feedback_a": "Slade hat einen Mord an sich als Werbeaktion vorgetäuscht.",
+        "feedback_b": "Slade inszeniert einen tödlichen Anschlag auf sich selbst.",
+        "feedback_c": "Es geht um eine vorgetäuschte Ermordung, keine bloße Verletzung.",
+        "feedback_d": "Eine angebliche Festnahme ist nicht der Skandal.",
+        "memory_anchor": "Der inszenierte Tod zerstört Slades Glaubwürdigkeit.",
+        "spoiler_level": "gering",
+        "source_urls": "https://en.wikipedia.org/wiki/Velvet_Goldmine|https://www.rottentomatoes.com/m/velvet_goldmine/",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Brian Slade (Jonathan Rhys Meyers) bricht seine öffentliche Karriere mit einer inszenierten Tötung ab. Die Enttäuschung der Fans über die Täuschung führt zum Niedergang. Das spätere Verschwinden wird deshalb nicht als einfacher ungelöster Mordfall untersucht, sondern als Folge einer zerstörten Starrolle.",
+        "anchor": "Der inszenierte Tod zerstört Slades Glaubwürdigkeit.",
+        "answers": [
+          {
+            "id": "F240-20261006-157-L1:a",
+            "text": "Seine eigene Ermordung",
+            "feedback": "Slade hat einen Mord an sich als Werbeaktion vorgetäuscht.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "F240-20261006-157-L1:b",
+            "text": "Seinen plötzlichen Ausstieg aus der Musikszene als spontane Entscheidung",
+            "feedback": "Slade inszeniert einen tödlichen Anschlag auf sich selbst.",
+            "visibleFeedback": "Slade inszeniert einen tödlichen Anschlag auf sich selbst."
+          },
+          {
+            "id": "F240-20261006-157-L1:c",
+            "text": "Eine schwere Bühnenverletzung, die als Unfall ausgegeben wird",
+            "feedback": "Es geht um eine vorgetäuschte Ermordung, keine bloße Verletzung.",
+            "visibleFeedback": "Es geht um eine vorgetäuschte Ermordung, keine bloße Verletzung."
+          },
+          {
+            "id": "F240-20261006-157-L1:d",
+            "text": "Eine fingierte Festnahme durch echte Polizeibeamte",
+            "feedback": "Eine angebliche Festnahme ist nicht der Skandal.",
+            "visibleFeedback": "Eine angebliche Festnahme ist nicht der Skandal."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Velvet_Goldmine",
+          "https://www.rottentomatoes.com/m/velvet_goldmine/"
+        ]
+      }
+    },
+    {
+      "genre": "Rom-Com",
+      "candidateCount": 220,
+      "selectionHash": "0043e84ddacc4129c35967cb54f2d01a74620468603cd9d342fbea763f9a34f1",
+      "id": "G100-20261008-ROMCOM-004-S1",
+      "knowledgeId": "K-G100-20261008-ROMCOM-004-S1",
+      "version": "csv-f8fa48ed",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Der Stadtneurotiker",
+      "difficulty": "schwer",
+      "question": "Was zeigen die Untertitel beim frühen Fotografiegespräch von Alvy und Annie (Woody Allen, Diane Keaton) in „Der Stadtneurotiker“?",
+      "answers": [
+        {
+          "id": "G100-20261008-ROMCOM-004-S1:a",
+          "text": "Ihre unausgesprochenen Gedanken",
+          "feedback": "Die Untertitel machen die Gedanken hinter dem Gespräch sichtbar."
+        },
+        {
+          "id": "G100-20261008-ROMCOM-004-S1:b",
+          "text": "Ihre späteren Erinnerungen an das Gespräch",
+          "feedback": "Sie berichten nicht rückblickend aus späteren Erinnerungen."
+        },
+        {
+          "id": "G100-20261008-ROMCOM-004-S1:c",
+          "text": "Ihre gegenseitigen Übersetzungsfehler",
+          "feedback": "Es geht nicht um Übersetzungsfehler."
+        },
+        {
+          "id": "G100-20261008-ROMCOM-004-S1:d",
+          "text": "Ihre geplanten nächsten Verabredungen",
+          "feedback": "Sie listen keine nächsten Verabredungen auf."
+        }
+      ],
+      "correctId": "G100-20261008-ROMCOM-004-S1:a",
+      "explanation": "Die Untertitel machen die Gedanken hinter dem Gespräch sichtbar.",
+      "context": "Alvy Singer (Woody Allen) und Annie Hall (Diane Keaton) sprechen über Fotografie, während Untertitel ihre nicht ausgesprochenen Gedanken zeigen. Der höfliche Austausch und die inneren Erwartungen laufen dadurch nebeneinander. Das Publikum erhält mehr Informationen als die Figuren im Gespräch voneinander bekommen. Diese Gestaltung macht das erste gegenseitige Abtasten sichtbar: Die Worte beschäftigen sich mit Kunst, während Unsicherheit, Anziehung und die Angst vor einem ungünstigen Eindruck eine andere Ebene bilden.",
+      "anchor": "Untertitel zeigen, was das höfliche Gespräch verschweigt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Annie_Hall",
+        "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/anniehall2.pdf"
+      ],
+      "tags": [
+        "Rom-Com"
+      ],
+      "badgeTags": [
+        "Rom-Com"
+      ],
+      "metadata": {
+        "question_id": "G100-20261008-ROMCOM-004-S1",
+        "knowledge_id": "K-G100-20261008-ROMCOM-004-S1",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Rom-Com",
+        "film_title_de": "Der Stadtneurotiker",
+        "film_title_original": "Annie Hall",
+        "film_year": "1977",
+        "franchise": "",
+        "difficulty": "schwer",
+        "question_type": "Filmwissen",
+        "topic_tags": "Rom-Com",
+        "badge_tags": "Rom-Com",
+        "learning_objective": "Untertitel zeigen, was das höfliche Gespräch verschweigt.",
+        "question": "Was zeigen die Untertitel beim frühen Fotografiegespräch von Alvy und Annie (Woody Allen, Diane Keaton) in „Der Stadtneurotiker“?",
+        "answer_a": "Ihre unausgesprochenen Gedanken",
+        "answer_b": "Ihre späteren Erinnerungen an das Gespräch",
+        "answer_c": "Ihre gegenseitigen Übersetzungsfehler",
+        "answer_d": "Ihre geplanten nächsten Verabredungen",
+        "correct_answer": "A",
+        "explanation_short": "Die Untertitel machen die Gedanken hinter dem Gespräch sichtbar.",
+        "explanation_context": "Alvy Singer (Woody Allen) und Annie Hall (Diane Keaton) sprechen über Fotografie, während Untertitel ihre nicht ausgesprochenen Gedanken zeigen. Der höfliche Austausch und die inneren Erwartungen laufen dadurch nebeneinander. Das Publikum erhält mehr Informationen als die Figuren im Gespräch voneinander bekommen. Diese Gestaltung macht das erste gegenseitige Abtasten sichtbar: Die Worte beschäftigen sich mit Kunst, während Unsicherheit, Anziehung und die Angst vor einem ungünstigen Eindruck eine andere Ebene bilden.",
+        "feedback_a": "Die Untertitel machen die Gedanken hinter dem Gespräch sichtbar.",
+        "feedback_b": "Sie berichten nicht rückblickend aus späteren Erinnerungen.",
+        "feedback_c": "Es geht nicht um Übersetzungsfehler.",
+        "feedback_d": "Sie listen keine nächsten Verabredungen auf.",
+        "memory_anchor": "Untertitel zeigen, was das höfliche Gespräch verschweigt.",
+        "spoiler_level": "mittel",
+        "source_urls": "https://en.wikipedia.org/wiki/Annie_Hall|https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/anniehall2.pdf",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Alvy Singer (Woody Allen) und Annie Hall (Diane Keaton) sprechen über Fotografie, während Untertitel ihre nicht ausgesprochenen Gedanken zeigen. Der höfliche Austausch und die inneren Erwartungen laufen dadurch nebeneinander. Das Publikum erhält mehr Informationen als die Figuren im Gespräch voneinander bekommen. Diese Gestaltung macht das erste gegenseitige Abtasten sichtbar: Die Worte beschäftigen sich mit Kunst, während Unsicherheit, Anziehung und die Angst vor einem ungünstigen Eindruck eine andere Ebene bilden.",
+        "anchor": "Untertitel zeigen, was das höfliche Gespräch verschweigt.",
+        "answers": [
+          {
+            "id": "G100-20261008-ROMCOM-004-S1:a",
+            "text": "Ihre unausgesprochenen Gedanken",
+            "feedback": "Die Untertitel machen die Gedanken hinter dem Gespräch sichtbar.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "G100-20261008-ROMCOM-004-S1:b",
+            "text": "Ihre späteren Erinnerungen an das Gespräch",
+            "feedback": "Sie berichten nicht rückblickend aus späteren Erinnerungen.",
+            "visibleFeedback": "Sie berichten nicht rückblickend aus späteren Erinnerungen."
+          },
+          {
+            "id": "G100-20261008-ROMCOM-004-S1:c",
+            "text": "Ihre gegenseitigen Übersetzungsfehler",
+            "feedback": "Es geht nicht um Übersetzungsfehler.",
+            "visibleFeedback": "Es geht nicht um Übersetzungsfehler."
+          },
+          {
+            "id": "G100-20261008-ROMCOM-004-S1:d",
+            "text": "Ihre geplanten nächsten Verabredungen",
+            "feedback": "Sie listen keine nächsten Verabredungen auf.",
+            "visibleFeedback": "Sie listen keine nächsten Verabredungen auf."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Annie_Hall",
+          "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/anniehall2.pdf"
+        ]
+      }
+    },
+    {
+      "genre": "Thriller",
+      "candidateCount": 370,
+      "selectionHash": "004e9318fa15b6104dfa01fc3a7edd63798231d048049801e3b128eed4f0352c",
+      "id": "G100-20261008-THRILLER-025-M1",
+      "knowledgeId": "K-G100-20261008-THRILLER-025-M1",
+      "version": "csv-11817ad0",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Vier im roten Kreis",
+      "difficulty": "mittel",
+      "question": "Welche besondere Aufgabe hat Jansen (Yves Montand) beim Einbruch in „Vier im roten Kreis“?",
+      "answers": [
+        {
+          "id": "G100-20261008-THRILLER-025-M1:a",
+          "text": "Er öffnet den Tresor mit einem kopierten Zahlencode.",
+          "feedback": "Ein kopierter Zahlencode ist nicht Jansens besondere Aufgabe."
+        },
+        {
+          "id": "G100-20261008-THRILLER-025-M1:b",
+          "text": "Er täuscht als Polizist die Wachmannschaft.",
+          "feedback": "Er tritt beim Einbruch nicht als kontrollierender Polizist auf."
+        },
+        {
+          "id": "G100-20261008-THRILLER-025-M1:c",
+          "text": "Er betäubt das Personal mit präparierten Getränken.",
+          "feedback": "Betäubte Getränke bilden nicht seinen Beitrag."
+        },
+        {
+          "id": "G100-20261008-THRILLER-025-M1:d",
+          "text": "Er schaltet die Sicherung mit einem präzisen Gewehrschuss aus.",
+          "feedback": "Für die Sicherung wird ein außergewöhnlich genauer Schütze gebraucht."
+        }
+      ],
+      "correctId": "G100-20261008-THRILLER-025-M1:d",
+      "explanation": "Jansen übernimmt den entscheidenden Präzisionsschuss.",
+      "context": "Jansen (Yves Montand) ist ein ehemaliger Polizist und hervorragender Schütze, dessen Alkoholabhängigkeit ihn aus der Bahn geworfen hat. Corey (Alain Delon) braucht sein Können, um die Sicherung des Juweliers auszuschalten. Für Jansen ist der Coup deshalb auch eine persönliche Prüfung. Der erfolgreiche Schuss zeigt ihm, dass seine technische Selbstbeherrschung wieder funktioniert und er mehr beitragen kann als bloß zusätzliche Hände.",
+      "anchor": "Der Präzisionsschuss wird Jansens persönliche Bewährungsprobe.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Le_Cercle_Rouge",
+        "https://www.criterion.com/current/posts/303-le-cercle-rouge-great-blasphemies"
+      ],
+      "tags": [
+        "Thriller"
+      ],
+      "badgeTags": [
+        "Thriller"
+      ],
+      "metadata": {
+        "question_id": "G100-20261008-THRILLER-025-M1",
+        "knowledge_id": "K-G100-20261008-THRILLER-025-M1",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Thriller",
+        "film_title_de": "Vier im roten Kreis",
+        "film_title_original": "Le Cercle Rouge",
+        "film_year": "1970",
+        "franchise": "",
+        "difficulty": "mittel",
+        "question_type": "Filmwissen",
+        "topic_tags": "Thriller",
+        "badge_tags": "Thriller",
+        "learning_objective": "Der Präzisionsschuss wird Jansens persönliche Bewährungsprobe.",
+        "question": "Welche besondere Aufgabe hat Jansen (Yves Montand) beim Einbruch in „Vier im roten Kreis“?",
+        "answer_a": "Er öffnet den Tresor mit einem kopierten Zahlencode.",
+        "answer_b": "Er täuscht als Polizist die Wachmannschaft.",
+        "answer_c": "Er betäubt das Personal mit präparierten Getränken.",
+        "answer_d": "Er schaltet die Sicherung mit einem präzisen Gewehrschuss aus.",
+        "correct_answer": "D",
+        "explanation_short": "Jansen übernimmt den entscheidenden Präzisionsschuss.",
+        "explanation_context": "Jansen (Yves Montand) ist ein ehemaliger Polizist und hervorragender Schütze, dessen Alkoholabhängigkeit ihn aus der Bahn geworfen hat. Corey (Alain Delon) braucht sein Können, um die Sicherung des Juweliers auszuschalten. Für Jansen ist der Coup deshalb auch eine persönliche Prüfung. Der erfolgreiche Schuss zeigt ihm, dass seine technische Selbstbeherrschung wieder funktioniert und er mehr beitragen kann als bloß zusätzliche Hände.",
+        "feedback_a": "Ein kopierter Zahlencode ist nicht Jansens besondere Aufgabe.",
+        "feedback_b": "Er tritt beim Einbruch nicht als kontrollierender Polizist auf.",
+        "feedback_c": "Betäubte Getränke bilden nicht seinen Beitrag.",
+        "feedback_d": "Für die Sicherung wird ein außergewöhnlich genauer Schütze gebraucht.",
+        "memory_anchor": "Der Präzisionsschuss wird Jansens persönliche Bewährungsprobe.",
+        "spoiler_level": "mittel",
+        "source_urls": "https://en.wikipedia.org/wiki/Le_Cercle_Rouge|https://www.criterion.com/current/posts/303-le-cercle-rouge-great-blasphemies",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Jansen (Yves Montand) ist ein ehemaliger Polizist und hervorragender Schütze, dessen Alkoholabhängigkeit ihn aus der Bahn geworfen hat. Corey (Alain Delon) braucht sein Können, um die Sicherung des Juweliers auszuschalten. Für Jansen ist der Coup deshalb auch eine persönliche Prüfung. Der erfolgreiche Schuss zeigt ihm, dass seine technische Selbstbeherrschung wieder funktioniert und er mehr beitragen kann als bloß zusätzliche Hände.",
+        "anchor": "Der Präzisionsschuss wird Jansens persönliche Bewährungsprobe.",
+        "answers": [
+          {
+            "id": "G100-20261008-THRILLER-025-M1:a",
+            "text": "Er öffnet den Tresor mit einem kopierten Zahlencode.",
+            "feedback": "Ein kopierter Zahlencode ist nicht Jansens besondere Aufgabe.",
+            "visibleFeedback": "Ein kopierter Zahlencode ist nicht Jansens besondere Aufgabe."
+          },
+          {
+            "id": "G100-20261008-THRILLER-025-M1:b",
+            "text": "Er täuscht als Polizist die Wachmannschaft.",
+            "feedback": "Er tritt beim Einbruch nicht als kontrollierender Polizist auf.",
+            "visibleFeedback": "Er tritt beim Einbruch nicht als kontrollierender Polizist auf."
+          },
+          {
+            "id": "G100-20261008-THRILLER-025-M1:c",
+            "text": "Er betäubt das Personal mit präparierten Getränken.",
+            "feedback": "Betäubte Getränke bilden nicht seinen Beitrag.",
+            "visibleFeedback": "Betäubte Getränke bilden nicht seinen Beitrag."
+          },
+          {
+            "id": "G100-20261008-THRILLER-025-M1:d",
+            "text": "Er schaltet die Sicherung mit einem präzisen Gewehrschuss aus.",
+            "feedback": "Für die Sicherung wird ein außergewöhnlich genauer Schütze gebraucht.",
+            "visibleFeedback": "Für die Sicherung wird ein außergewöhnlich genauer Schütze gebraucht."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Le_Cercle_Rouge",
+          "https://www.criterion.com/current/posts/303-le-cercle-rouge-great-blasphemies"
+        ]
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": "ART-L-017",
+      "verdict": "Deutlich überarbeiten",
+      "assessment": "Die Lösung Psychologe stimmt. Als leichte Einstiegsfrage ist das Ziel brauchbar; Koch fällt gegenüber den wissenschaftlichen Berufen allerdings stark ab. Die Kurzantwort beantwortet die Frage, wiederholt aber nur die Lösung. Die Vertiefung bleibt bei „rätselhafte Situation“, „persönliche Erinnerungen“ und „Beobachter und Untersuchungsgegenstand“. Gerade der konkrete Vorgang, der diese Gedanken interessant macht, fehlt. Der letzte Satz klingt nach einem allgemeinen Filmseminar und könnte mit anderen Namen in vielen Filmen stehen.",
+      "changes": "Frage und Wissensziel grundsätzlich erhalten, den Koch durch eine fachlich plausible Alternative ersetzen. Die drei verneinenden Zusatztexte streichen. Die Vertiefung an Hari festmachen; bei Übernahme den zusätzlichen Handlungsspoiler berücksichtigen. Der bestehende Merksatz ist gut und kann bleiben.",
+      "short": "Kris Kelvin (Donatas Banionis) ist Psychologe. Er soll die verstörenden Vorgänge auf der Raumstation untersuchen.",
+      "deep": "Auf der Station begegnet Kris Kelvin (Donatas Banionis) seiner verstorbenen Frau Hari (Natalja Bondartschuk). Sie ist keine heimlich angereiste Überlebende: Der Ozean von Solaris hat sie aus Kelvins Erinnerungen hervorgebracht. Der Psychologe, der die anderen untersuchen soll, muss nun mit seiner eigenen Vergangenheit umgehen. Hari entwickelt Gefühle und ein eigenes Bewusstsein – damit wird auch die Frage schwierig, wie Kelvin dieses Wesen behandeln darf.",
+      "evidence": "Beruf, Untersuchungsauftrag, Hari als Verkörperung seiner Erinnerungen und Besetzung sind in den Filmangaben und der Handlung belegt. Der letzte Zusammenhang des Vorschlags ist eine redaktionelle Deutung dieser Handlung.",
+      "sources": [
+        [
+          "Filmartikel und Handlung",
+          "https://en.wikipedia.org/wiki/Solaris_(1972_film)"
+        ],
+        [
+          "Criterion mit Beruf und Besetzung",
+          "https://www.criterion.com/films/553-solaris"
+        ]
+      ]
+    },
+    {
+      "id": "ACT-M-025",
+      "verdict": "Deutlich überarbeiten",
+      "assessment": "Gutes Filmwissen und richtige Lösung. Die Vertiefung erklärt die Spiegelung zwischen Harry und Simon sinnvoll. Die Antwortauswahl schwächt die Frage aber: „vermeintlicher Spion“ trifft auf drei Antworten aus Geheimdienst und Ministerium und nur einen gewöhnlichen Beruf. Das ist ein deutlicher Raterichtungshinweis. Außerdem braucht die Berufsfrage eine zeitliche Eingrenzung: Im Schlussauftritt arbeitet Simon als Kellner. Helen erhält erst im angehängten Besetzungstext einen Darstellernamen; Harry bleibt im Merksatz ohne Einführung.",
+      "changes": "Frage etwa: „Welchen Beruf übt Simon (Bill Paxton) in ‚True Lies‘ aus, als er Helen kennenlernt?“ Als Alternativen eignen sich andere zivile Tätigkeiten, zum Beispiel Reisebüroangestellter, Versicherungsvertreter und Reporter. Die Spiegelung im Text erhalten, aber um den konkreten Schlussauftritt ergänzen. Verneinendes Feedback löschen. Den Besetzungszusatz bei späterer Übernahme mit dem Haupttext abgleichen, damit Helen nicht doppelt eingeführt wird.",
+      "short": "Simon (Bill Paxton) verkauft Gebrauchtwagen. Mit einer erfundenen Agentenidentität versucht er, Helen Tasker (Jamie Lee Curtis) zu beeindrucken.",
+      "deep": "Harry Tasker (Arnold Schwarzenegger) verbirgt seinen Agentenberuf hinter einer biederen Verkäuferexistenz; Simon (Bill Paxton) macht es genau umgekehrt. Besonders schön greift der Schluss diesen Gegensatz wieder auf: Simon arbeitet inzwischen als Kellner und erzählt erneut Spionagegeschichten. Diesmal begegnet er Harry und Helen Tasker (Jamie Lee Curtis), die nun tatsächlich gemeinsam als Agenten unterwegs sind.",
+      "anchor": "Harry versteckt den echten Agenten, Simon erfindet einen.",
+      "evidence": "Berufe, Täuschung, Besetzung und Wiederbegegnung im Schluss sind in der Handlung belegt. Der Vergleich der beiden Tarnidentitäten ist redaktionelle Einordnung.",
+      "sources": [
+        [
+          "Handlung einschließlich Schlussauftritt",
+          "https://en.wikipedia.org/wiki/True_Lies"
+        ]
+      ]
+    },
+    {
+      "id": "G100-20261008-HORROR-001-S1",
+      "verdict": "Gut, kleiner Feinschliff",
+      "assessment": "Richtige Lösung und eine bereits konkrete Vertiefung: Beobachtung, Angriff und Entdeckung der Puppe erklären den scheinbaren Widerspruch. Das liefert tatsächliches Filmwissen und keine beliebige Produktionsanekdote. Frage, Kurzantwort und Merksatz würde ich behalten. „Ein zweiter schlafender Darsteller“ vermischt die Handlungsebene mit einem Beruf aus Theater oder Film; „ein anderer schlafender Mann“ wäre sauberer. Die beiden letzten Sätze der Vertiefung verallgemeinern das bereits anschaulich Erzählte.",
+      "changes": "Keine neue Vertiefung nötig. Optional nach „Eine Puppe nahm Cesares (Conrad Veidt) Platz ein“ enden; die beiden abstrakten Schlusssätze tragen wenig zusätzlich bei. Alternative mit „Darsteller“ präzisieren. Die drei leeren Verneinungen zu den falschen Antworten entfernen. „Schwer“ ist für das gezielte Erinnern dieses Täuschungsdetails vertretbar.",
+      "evidence": "Die Handlung bestätigt Franzis’ Beobachtung, Janes Angriff und die Untersuchung durch Franzis und die Polizei. Der Originaltext nennt ihn Francis; eine spätere Namensvereinheitlichung müsste sich an der verwendeten Fassung orientieren. Das betrifft nicht die Lösung.",
+      "sources": [
+        [
+          "Handlung und Besetzung",
+          "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari"
+        ]
+      ]
+    },
+    {
+      "id": "F240-20261006-080-L1",
+      "verdict": "Unbedingt überarbeiten",
+      "assessment": "Die richtige Option „Orlando soll nicht altern“ ist korrekt. Die Kurzantwort „Elizabeth I.“ beantwortet jedoch eine andere Frage und ist ein klarer redaktioneller Fehler. Die Vertiefung nennt die Bedingung und wiederholt den Namen mit Darsteller zweimal in zwei Sätzen. Als Hintergrund bleibt nur das, was aus der Frage ohnehin zu erwarten ist. Die falschen Antworten sind sehr karikierend, besonders die jährliche Heirat.",
+      "changes": "Kurzantwort ersetzen. Die grundlegende Bedingung als leichtes Ziel behalten, aber glaubwürdigere Bedingungen als Ablenker entwickeln. Den bemerkenswerten Besetzungsentscheid nutzen, der unmittelbar zur Königin in dieser Frage gehört. Keine Mindestwortzahl erzwingen. Leere Verneinungsfeedbacks entfernen.",
+      "short": "Orlando soll nicht altern. Unter dieser Bedingung verspricht Elizabeth I. ihm ihren Besitz.",
+      "deep": "Elizabeth I. wird von Quentin Crisp gespielt, Orlando von Tilda Swinton. Sally Potter begründete ihre ungewöhnliche Wahl der Königin damit, dass Crisp für sie die wahre Königin Englands sei. Ihr Gebot, nicht alt zu werden, nimmt der Film wörtlich: Während die Epochen wechseln, bleibt Orlando jung.",
+      "anchor": "Elizabeths Bedingung: Besitz erhalten, ohne alt zu werden.",
+      "evidence": "Bedingung und Geschenk sind im Filmhandlungsartikel belegt. Die Website der Regisseurin enthält den Rückblick mit ihrer eigenen Erklärung zur Besetzung und dem Gebot der Königin. Der Vorschlag paraphrasiert diese Aussage.",
+      "sources": [
+        [
+          "Bedingung und Geschenk",
+          "https://en.wikipedia.org/wiki/Orlando_(film)"
+        ],
+        [
+          "Sally Potter mit eigener Aussage zur Wahl Quentin Crisps",
+          "https://sallypotter.com/blog/browse/NEWS"
+        ]
+      ]
+    },
+    {
+      "id": "F240-20261006-107-D",
+      "verdict": "Unverändert lassen",
+      "assessment": "Für diesen Einsatzzweck sehr gelungen. Eindeutige Regiefrage, vier reale Regisseure, klare Kurzantwort. Die Vertiefung verbindet Tatis Regie und eigene Rolle mit einem eigens gebauten Stadtset und seiner Komik in großen, gleichzeitig bespielten Bildern. Das ist individuell und auch ohne Filmkenntnis verständlich. Sie endet mit einer konkreten Gestaltung statt einer pauschalen Bedeutungserklärung. Die falschen Antworten haben bereits keine sichtbaren leeren Zusatztexte.",
+      "changes": "Keine notwendige Änderung. Der Name Tativille oder das Aufnahmeformat ließen sich ergänzen, würden den vorhandenen Text aber nicht automatisch verbessern. Hier bewusst auf eine zusätzliche Anekdote verzichten. Kurzantwort, Vertiefung, Alternativen und Merksatz erhalten. „Unverändert“ ist ein Urteil für diesen Zweck, kein Anspruch, dass keine andere gute Formulierung möglich wäre.",
+      "evidence": "Criterion bestätigt Regie, Hulot-Besetzung und die Komik des weiten Bildes. Die Verleihunterlagen von Carlotta dokumentieren die künstliche Stadt Tativille. Die Einordnung der gleichzeitigen Bildhandlungen ist nachvollziehbare Gestaltungsbeschreibung.",
+      "sources": [
+        [
+          "Criterion mit Credit, Besetzung und Inszenierung",
+          "https://www.criterion.com/films/651-playtime"
+        ],
+        [
+          "Carlotta Presseheft mit Tativille",
+          "https://carlottafilms.com/wp-content/uploads/2020/04/DP-PLAYTIME.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "WES-S-013",
+      "verdict": "Deutlich überarbeiten",
+      "assessment": "Die Lösung stimmt. Die Frage verrät sie nicht wörtlich, lenkt aber über „Schüsse besonders wirksam“ stark auf die einzige Antwort mit Explosivstoff; Damm, Wasserstelle und Regiment funktionieren auf einer anderen Ebene. Die Vertiefung nennt eine „Eigenschaft der Ausrüstung“ und eine „Schwachstelle“, verschweigt jedoch gerade das anschauliche Detail: die spiegelnden Beschläge der mit Dynamit gefüllten Satteltaschen. So klingt der Text erklärend, liefert aber wenig über die Kurzantwort hinaus.",
+      "changes": "Frage offener auf den Erfolg gegen die Übermacht beziehen und vier taktische Erklärungen auf derselben Ebene anbieten. Den konkreten Zusammenhang aus Zielhilfe und Explosivstoff erzählen. Den brauchbaren Merksatz behalten. Die falschen Antworttexte streichen.",
+      "short": "Beauregard (Henry Fonda) schießt auf die mit Dynamit gefüllten Satteltaschen der Reiter und löst Explosionen aus.",
+      "deep": "Die Reiter der Wild Bunch haben Dynamit in ihren Satteltaschen. Deren spiegelnde Beschläge liefern Jack Beauregard (Henry Fonda) die Zielpunkte: Seine Treffer bringen die Sprengladung zur Explosion. Nobody (Terence Hill) wartet mit dem Zug und lässt ihn erst nach dieser Bewährungsprobe einsteigen. So entsteht das von Nobody gewünschte Bild des Mannes, der allein gegen die Horde besteht.",
+      "evidence": "Dynamit, spiegelnde Beschläge, der Zug und Nobodys Forderung sind in der gelesenen Handlung beschrieben. Die Schlussformulierung verbindet diese Vorgänge redaktionell; sie behauptet keinen zusätzlichen Produktionsumstand.",
+      "sources": [
+        [
+          "Handlung mit Beschlägen, Dynamit und Zug",
+          "https://en.wikipedia.org/wiki/My_Name_Is_Nobody"
+        ]
+      ]
+    },
+    {
+      "id": "E20261007-F-266-M2",
+      "verdict": "Gut, gezielt ergänzen",
+      "assessment": "Richtige Lösung, eine klare Frist und ein verständlicher politischer Zusammenhang. Die vorhandene Vertiefung erklärt den Konflikt mit Katsuyori bereits sinnvoll; sie braucht keinen kompletten Neuansatz. Für jemanden, der den Film kaum kennt, bleibt aber unklar, wer den toten Herrscher überhaupt öffentlich vertreten kann. Gerade die Doppelrolle Tatsuya Nakadais würde hier zusätzlichen Erkenntniswert schaffen. Die absurde Antwort einer sofortigen Clanübergabe ist ein schwacher Ablenker.",
+      "changes": "Kurzantwort ausdrücklich auf die drei Jahre beziehen. Die Vertiefung um die Identität des Ersatzmanns ergänzen und dafür allgemeine Sätze über ein „gespanntes Verhältnis“ kürzen. Shingen und Doppelgänger klar als zwei Figuren desselben Darstellers kennzeichnen. Falsche Optionen plausibler gestalten; den bloßen Verneinungstext zu jeder Option entfernen. Die Erläuterung zum Ersatzmann gehört sinnvoll in die Vertiefung.",
+      "short": "Shingens Generäle sollen seinen Tod drei Jahre geheim halten, um die Stellung des Takeda-Clans zu sichern.",
+      "deep": "Nach Shingens Tod soll ein ihm verblüffend ähnlicher Dieb seine öffentliche Rolle übernehmen. Tatsuya Nakadai spielt beide Figuren: den Herrscher und seinen Doppelgänger. Für Shingens Sohn Katsuyori (Kenichi Hagiwara) bedeutet die Täuschung, dass sein Vater scheinbar weiterregiert. Im Rat versucht er, den Ersatzmann mit einer direkten Frage bloßzustellen; dieser antwortet jedoch überzeugend in Shingens Art.",
+      "anchor": "Drei Jahre lang soll ein Doppelgänger Shingens Tod verbergen.",
+      "evidence": "Frist, Dieb als Doppelgänger, Nakadais Doppelrolle, Katsuyoris Konflikt und die Ratsszene sind in der Handlung und Besetzung belegt. Die Erklärung bezieht sich auf den Film, nicht auf eine unabhängige Darstellung der historischen Takeda-Nachfolge.",
+      "sources": [
+        [
+          "Handlung und Doppelrolle",
+          "https://en.wikipedia.org/wiki/Kagemusha"
+        ],
+        [
+          "Deutscher Filmartikel zum Abgleich",
+          "https://de.wikipedia.org/wiki/Kagemusha_%E2%80%93_Der_Schatten_des_Kriegers"
+        ]
+      ]
+    },
+    {
+      "id": "F240-20261006-157-L1",
+      "verdict": "Überarbeiten",
+      "assessment": "Richtige Lösung und ein gutes leichtes Wissensziel. Die richtige Antwort ist auffällig kurz, während alle Ablenker umständliche Zusatzbedingungen tragen. „Eine fingierte Festnahme durch echte Polizeibeamte“ wirkt eigens konstruiert. Die Vertiefung erzählt überwiegend erneut die Kurzlösung und deren Karrierefolge. „Folge einer zerstörten Starrolle“ ist ein abstrakter Schluss. Konkreter wären der spätere Ermittlungsauftrag und die an Citizen Kane erinnernde Erzählweise.",
+      "changes": "Alternativen sprachlich angleichen, etwa eigene Ermordung, Unfall auf der Bühne, polizeiliche Festnahme, spontane Auflösung der Band. Den inszenierten Mord als Einstieg behalten und dann zur journalistischen Recherche wechseln. Das ist eine andere Perspektive als die wiederholte allgemeine Deutung eines Images. Merksatz kann bleiben; leeres und lösungswiederholendes Feedback entfernen.",
+      "short": "Brian Slade (Jonathan Rhys Meyers) lässt seine eigene Ermordung auf der Bühne vortäuschen. Die als Werbung gedachte Aktion ruiniert seine Karriere.",
+      "deep": "Zehn Jahre nach dem vorgetäuschten Bühnenmord soll der Journalist Arthur Stuart (Christian Bale) herausfinden, was aus Brian Slade (Jonathan Rhys Meyers) geworden ist. Dazu befragt er Menschen aus dessen Umfeld. Ihre Erinnerungen führen zurück in die Glamrock-Jahre. Todd Haynes greift damit die Rechercheform von „Citizen Kane“ auf: Ein Star wird aus den oft widersprüchlichen Erinnerungen anderer zusammengesetzt.",
+      "evidence": "Der Zehnjahresabstand, Arthurs Auftrag und die Befragungen sind im Handlungsabschnitt belegt; die Verbindung zu Citizen Kane wird im Hintergrundabschnitt beschrieben. „Oft widersprüchlich“ ist eine redaktionelle Beschreibung der Erinnerungsstruktur, keine zusätzliche Tatsachenlösung.",
+      "sources": [
+        [
+          "Handlung, Besetzung und Citizen-Kane-Struktur",
+          "https://en.wikipedia.org/wiki/Velvet_Goldmine"
+        ]
+      ]
+    },
+    {
+      "id": "G100-20261008-ROMCOM-004-S1",
+      "verdict": "Gut, sprachlich verdichten",
+      "assessment": "Die richtige Lösung ist eindeutig, und die Frage erschließt eine markante Gestaltung des Films. Die Vertiefung ist konkret genug, um sie nicht grundsätzlich auszutauschen. Sie erklärt jedoch denselben Unterschied zwischen Gesagtem und Gedachtem in vier Anläufen. „Das Publikum erhält mehr Informationen“ ist gegenüber dem bereits Gesagten kaum neuer Inhalt. Schwer ist diskutabel: Für Kenner ist die berühmte Szene leicht erkennbar; das szenenspezifische Erinnern kann die Einstufung dennoch begründen.",
+      "changes": "Eine knappe, sinnliche Szenenbeschreibung genügt. Den flirtenden, auch sexuellen Subtext konkreter benennen, statt nur abstrakt von einer „anderen Ebene“ zu sprechen. Frage und Merksatz behalten; die leeren Verneinungsfeedbacks löschen. Die falsche Option „Übersetzungsfehler“ passt als naheliegende Verwechslung zum Medium Untertitel und muss nicht ersetzt werden.",
+      "short": "Die Untertitel zeigen Alvys und Annies Gedanken, während beide laut über Fotografie sprechen.",
+      "deep": "Auf Annies Balkon reden Alvy Singer (Woody Allen) und Annie Hall (Diane Keaton) über Fotografie. Darunter läuft ihr Flirt als zweites Gespräch: Die Untertitel zeigen, wie sie einander einschätzen, sich angezogen fühlen und um ihren Eindruck sorgen. Man kann gleichzeitig der kultivierten Unterhaltung zuhören und die ungeschützten Gedanken mitlesen. Genau diese Gleichzeitigkeit macht den Witz der Szene aus.",
+      "evidence": "Die Library of Congress stellt den Essay Jay Carrs bereit, der ausdrücklich das Fotografiegespräch und die gegenseitige sexuelle Einschätzung in Untertiteln beschreibt. Der Filmartikel bestätigt Balkonszene, innere Unsicherheit und Besetzung. Die Beschreibung des Witzes ist redaktionelle Deutung.",
+      "sources": [
+        [
+          "Jay Carrs Essay bei der Library of Congress",
+          "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/anniehall2.pdf"
+        ],
+        [
+          "Handlung und Gestaltung",
+          "https://en.wikipedia.org/wiki/Annie_Hall"
+        ]
+      ]
+    },
+    {
+      "id": "G100-20261008-THRILLER-025-M1",
+      "verdict": "Gezielt überarbeiten",
+      "assessment": "Gute Frage, plausible Einbruchsalternativen und richtige Lösung. Der Hintergrund des alkoholabhängigen früheren Polizisten ist relevant. Die Vertiefung führt aber von „persönlicher Prüfung“ zu „technischer Selbstbeherrschung“, ohne zu zeigen, woran man diese erkennt. Genau hier wäre ein individuelles, sichtbares Detail besser als eine weitere allgemeine Bewertung. Die Kurzantwort sagt „Präzisionsschuss“, benennt dessen Ziel aber nicht.",
+      "changes": "Frage und Auswahl erhalten. Kurzantwort um die Sicherung ergänzen. Das Abnehmen des Gewehrs vom Stativ als anschaulichen Kern erzählen. Die Deutung der wiedergewonnenen Selbstachtung an dieses Verhalten binden. Merksatz kann bleiben. Zu diesem zusätzlichen Szenendetail liegt hier eine szenenweise Sekundäranalyse vor; vor einer späteren App-Übernahme möglichst direkt am Film beziehungsweise einer offiziellen Szenenquelle gegenprüfen.",
+      "short": "Jansen (Yves Montand) schaltet mit einem präzisen Gewehrschuss den Sicherungsmechanismus des Juweliers aus.",
+      "deep": "Jansen (Yves Montand) richtet für den entscheidenden Schuss zunächst ein Stativ ein. Dann nimmt er das Gewehr herunter und trifft freihändig den Sicherungsmechanismus. Der frühere Polizist, den der Film zuvor unter schwerem Alkoholentzug zeigt, braucht diese mechanische Stütze schließlich nicht. Seine wiedergewonnene Sicherheit wird in einer einzigen Handlung sichtbar.",
+      "evidence": "Der einzelne Schuss auf die Sicherung ist im Filmartikel belegt. Criterion beschreibt Entzug und zurückzugewinnende Selbstachtung. Die szenenweise Analyse von The Unstitute beschreibt Aufbau des Stativs und freihändigen Schuss. Der letzte Satz des Vorschlags ist eine Deutung. Die Zusatzszene wurde in dieser Runde nicht am Film selbst gesichtet.",
+      "sources": [
+        [
+          "Handlung und Schuss auf die Sicherung",
+          "https://en.wikipedia.org/wiki/Le_Cercle_Rouge"
+        ],
+        [
+          "Criterion zu Alkoholentzug und Selbstachtung",
+          "https://www.criterion.com/current/posts/303-le-cercle-rouge-great-blasphemies"
+        ],
+        [
+          "Szenenweise Analyse zum Stativ und freihändigen Schuss",
+          "https://theunstitute.org/Le.Cercle.Rouge.html"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Zehn Fragen geprüft: Originaltexte, Einzelbewertungen und individuelle Vertiefungsvorschläge – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Pruefung.md)
+
 - [Einmalige Zehnerrunde ohne Konto, E-Mail-Bestätigung und Übernahme; Weiterspielen auf PC, Handy und Tablet – 10.10.2026](../../../docs/Anmeldung-und-Online-Spielstand.md#einmalige-proberunde)
 
 - [Version 63 veröffentlicht: Genre-Icon und passende Antwortsymbole](../../../docs/Sites-Betrieb.md#version-63-genre-icon-und-passende-antwortsymbole)
