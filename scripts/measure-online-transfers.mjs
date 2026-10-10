@@ -17,7 +17,8 @@ try {
   const { emptyState } = await server.ssrLoadModule("/src/model.ts");
   const { packages, addPackages } =
     await server.ssrLoadModule("/src/packages.ts");
-  const { prepareRelease } = await server.ssrLoadModule("/src/syncCodec.ts");
+  const { prepareRelease, compileState } =
+    await server.ssrLoadModule("/src/syncCodec.ts");
   const { uploadObject } = await server.ssrLoadModule("/src/entryRemote.ts");
   const { startRound, answer, rebuild } =
     await server.ssrLoadModule("/src/engine.ts");
@@ -149,7 +150,9 @@ try {
             { reuseCatalog: true, progressOnly: action !== "round-start" },
           );
           const elapsedMs = performance.now() - started;
-          // Reproduce the former separate-object transport from the SAME packet.
+          // Materialize the previous full-row transport from this exact state.
+          // No second game or random selection and no production requests.
+          const confirmed = await compileState(store.read(), [release]);
           const former = [];
           for (const request of metrics) {
             if (request.name !== "quiz_sync_apply") {
@@ -157,6 +160,14 @@ try {
               continue;
             }
             const packet = JSON.parse(request.args.packet_text);
+            packet.changes = packet.changes.map((change) =>
+              change.op === "round-run"
+                ? {
+                    op: "put",
+                    row: confirmed.rows.get(`round:${change.row.id}`),
+                  }
+                : change,
+            );
             for (const object of packet.objects)
               await uploadObject(
                 {
@@ -220,11 +231,11 @@ try {
     environment:
       "PGlite, echtes SQL-Protokoll, synthetische Konten, kontrollierte Zeit und Zufallsauswahl",
     limits:
-      "UTF-8-JSON-Körper ohne HTTP/Auth/TLS/Kompression. Zeiten sind lokale SQL- und Clientzeiten, keine Mobilnetz-Latenzen. Vergleich des früheren Einzeluploads aus denselben Paketen rekonstruiert; keine erneute Produktionsmessung.",
+      "UTF-8-JSON-Körper ohne HTTP/Auth/TLS/Kompression. Zeiten sind lokale SQL- und Clientzeiten, keine Mobilnetz-Latenzen. Vollständige Rundenzeilen und frühere Einzeluploads aus denselben bestätigten Zuständen rekonstruiert; keine Produktionsmessung.",
     results,
   };
   await writeFile(
-    "docs/Online-Datenuebertragung-Messung-2026-10-10.json",
+    "docs/Online-Listenoptimierung-Messung-2026-10-10.json",
     JSON.stringify(report, null, 2) + "\n",
   );
   console.log(JSON.stringify(report, null, 2));

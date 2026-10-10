@@ -1,5 +1,7 @@
 # Online-Spielstände: Datenmenge und Ablauf – 10.10.2026
 
+**Folgeumsetzung am selben Tag:** Die großen Endloslisten werden lokal inzwischen nur beim Start beziehungsweise bei einer neuen Reihenfolge übertragen. [Umsetzung und neue Messung](Online-Listenoptimierung-2026-10-10.md). Die folgenden Werte dokumentieren die vorausgehende Prüfung. [Zusätzliche Sicherheitsprüfung für Zeitranglisten](Zeitrunden-Manipulationsschutz-2026-10-10.md).
+
 ## Ergebnis der Nachprüfung
 
 Die Eintragsübertragung funktioniert für normale Runden sparsam. Sie ist **nicht für alle Spielmodi ausreichend optimiert**: Fehlerfrei und Zeitkonto übertragen bei jeder Antwort erneut große Fragenlisten. Die frühere Messung „3,9–6,0 KB pro Antwort“ darf nicht auf diese Modi oder den heutigen Erstabruf übertragen werden.
@@ -53,6 +55,6 @@ Prüfung: bestehende getrennte Geräte-/Fensterfälle, verlorene Bestätigung un
 
 ## Reproduktion und Prüfgrenzen
 
-`node scripts/measure-online-transfers.mjs` erzeugt den JSON-Nachweis neu. Die Datenbank liegt nur im Arbeitsspeicher. Der Lauf verwendet weder Produktivzugänge noch echte Spielstände. Größenwerte stammen aus den tatsächlich gesendeten Argumenten; Zeitwerte sind umgebungsabhängig. Die feste Prüfuhr ist nur für synthetische Spieldaten zuständig.
+Der damalige JSON-Nachweis bleibt als datierter Ausgangsbefund erhalten. `node scripts/measure-online-transfers.mjs` erzeugt inzwischen den [Folgenachweis zur Listenoptimierung](Online-Listenoptimierung-Messung-2026-10-10.json). Die Datenbank liegt nur im Arbeitsspeicher. Der Lauf verwendet weder Produktivzugänge noch echte Spielstände. Größenwerte stammen aus den tatsächlich gesendeten Argumenten; Zeitwerte sind umgebungsabhängig. Die feste Prüfuhr ist nur für synthetische Spieldaten zuständig.
 
 Prüfergebnisse werden im [Prüfbericht](Pruefbericht.md) festgehalten. Keine Produktionsdatenbankänderung, Veröffentlichung oder Remote-Aktion. [Offizielle Supabase-RPC-Dokumentation](https://supabase.com/docs/reference/javascript/rpc); Änderungsindex vom 10.10.2026 auf für diesen bestehenden RPC-Ablauf relevante Änderungen geprüft.

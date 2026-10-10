@@ -6,6 +6,8 @@
 - [Version 63: Quelle, Build-, Archiv- und Live-Nachweis](../../../docs/Veroeffentlichung-2026-10-10-Version-63.json)
 
 - [Nachprüfung der Online-Datenübertragung: kleine Standardpakete, gebündelte Inhalte und große Endlosrunden – 10.10.2026](../../../docs/Online-Datenuebertragung-2026-10-10.md)
+- [Listenoptimierung für Endlosrunden: unveränderten Pool und Reihenfolge nicht wiederholt senden – 10.10.2026](../../../docs/Online-Listenoptimierung-2026-10-10.md)
+- [Zeitrunden: Verschlüsselung, Manipulationsgrenzen und Vorschlag für Serversteuerung – 10.10.2026](../../../docs/Zeitrunden-Manipulationsschutz-2026-10-10.md)
 
 - [Genre als Themenbild und passende Illustrationen für Antwortklappen – 10.10.2026](../../../docs/Antwortsymbole-2026-10-10.md)
 

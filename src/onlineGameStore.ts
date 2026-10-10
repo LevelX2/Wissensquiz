@@ -13,8 +13,8 @@ import {
   SYNC_PROTOCOL,
   type PreparedRelease,
   type SyncDocument,
-  type SyncPacket,
 } from "./syncCodec";
+import { compactRoundRuns, type OnlineSyncPacket } from "./roundRunTransport";
 import {
   getMetadata,
   downloadDocument,
@@ -35,7 +35,7 @@ export class OnlineGameStore {
   private pending?: {
     state: State;
     document: SyncDocument;
-    packet?: SyncPacket;
+    packet?: OnlineSyncPacket;
     text?: string;
     replacement?: { generation: string; parent: string; revision: number };
   };
@@ -226,14 +226,14 @@ export class OnlineGameStore {
         };
         return await this.sendPending();
       }
-      const packet: SyncPacket = {
+      const packet: OnlineSyncPacket = {
         format: SYNC_FORMAT,
         protocol: SYNC_PROTOCOL,
         id: crypto.randomUUID(),
         generation: this.metadata.generation,
         expectedRevision: this.metadata.revision,
         owner: this.owner,
-        changes: delta.changes,
+        changes: compactRoundRuns(this.document, delta.changes),
         objects: [],
       };
       // The existing apply RPC stores small objects in the same transaction.

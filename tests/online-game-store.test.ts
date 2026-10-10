@@ -6,7 +6,12 @@ import { importCsv } from "../src/importer";
 import { emptyState } from "../src/model";
 import { startRound, answer } from "../src/engine";
 import { prepareRelease, type PreparedRelease } from "../src/syncCodec";
+import type {
+  OnlineSyncPacket,
+  RoundRunChange,
+} from "../src/roundRunTransport";
 import { CloudConflict } from "../src/accounts";
+import { archiveClosedRounds } from "../src/roundArchive";
 let fixture: Awaited<ReturnType<typeof syncFixture>>, release: PreparedRelease;
 const localOpen = vi.fn(() => {
   throw new Error("Keine lokale Spielstandablage erlaubt");
@@ -387,7 +392,7 @@ it("öffnet einen vorhandenen Online-Kontostand mit seiner tatsächlichen Server
 it.each(["fehlerfrei", "zeitkonto"] as const)(
   "%s erweitert nach bestätigter Antwort die Runde mit unveränderlichen Frageinhalten",
   async (mode) => {
-    const { store, make } = await setup();
+    const { store, make, api } = await setup();
     const started = await store.update((s) => {
       startRound(
         s,
@@ -409,6 +414,20 @@ it.each(["fehlerfrei", "zeitkonto"] as const)(
     );
     expect(next.rounds.at(-1)!.questions).toHaveLength(2);
     expect(next.rounds.at(-1)!.events).toHaveLength(1);
+    const packet = JSON.parse(
+      api.calls.at(-1)!.args.packet_text as string,
+    ) as OnlineSyncPacket;
+    const change = packet.changes.find(
+      (c) => c.op === "round-run",
+    ) as RoundRunChange;
+    expect(change.queue).toEqual({ drop: 1 });
+    expect(change.row.value).toMatchObject({ run: { version: 1 } });
+    expect((change.row.value as { run: unknown }).run).not.toHaveProperty(
+      "pool",
+    );
+    expect((change.row.value as { run: unknown }).run).not.toHaveProperty(
+      "queue",
+    );
     const reopened = make();
     await reopened.open();
     expect(reopened.read()).toEqual(next);
@@ -416,3 +435,231 @@ it.each(["fehlerfrei", "zeitkonto"] as const)(
     reopened.stop();
   },
 );
+
+it("wiederholt verlorene Listenbestätigung exakt, blockiert das zweite Gerät und mischt den nächsten Zyklus korrekt", async () => {
+  const { store, api, make } = await setup();
+  const started = await store.update((s) => {
+    startRound(
+      s,
+      { mode: "zeitkonto", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      1700000000000,
+    );
+  });
+  const round = started.rounds.at(-1)!;
+  const stale = make();
+  await stale.open();
+  const respond = (s: ReturnType<typeof emptyState>) => {
+    const q = s.rounds.at(-1)!.questions.at(-1)!;
+    answer(
+      s,
+      round.id,
+      q.id,
+      q.correctId,
+      100,
+      1700000001000 + s.events.length * 100,
+    );
+  };
+  api.lost("quiz_sync_apply");
+  await expect(
+    store.update(respond, { reuseCatalog: true, progressOnly: true }),
+  ).rejects.toThrow(/Bestätigung verloren/);
+  expect(store.read().events).toHaveLength(0);
+  const lostText = api.calls.at(-1)!.args.packet_text;
+  let state = await store.retry();
+  expect(api.calls.at(-1)!.args.packet_text).toBe(lostText);
+  expect(state.rounds.at(-1)!.run!.queue).toEqual(round.run!.queue.slice(1));
+  await expect(
+    stale.update(respond, { reuseCatalog: true, progressOnly: true }),
+  ).rejects.toBeInstanceOf(CloudConflict);
+  await expect(stale.retry()).rejects.toBeInstanceOf(CloudConflict);
+  while (state.rounds.at(-1)!.run!.cycle === 1) {
+    state = await store.update(respond, {
+      reuseCatalog: true,
+      progressOnly: true,
+    });
+  }
+  const rollover = JSON.parse(
+    api.calls.at(-1)!.args.packet_text as string,
+  ) as OnlineSyncPacket;
+  const change = rollover.changes.find(
+    (c) => c.op === "round-run",
+  ) as RoundRunChange;
+  expect(change.queue).toEqual({ replace: state.rounds.at(-1)!.run!.queue });
+  expect(state.rounds.at(-1)!.run!.pool).toEqual(round.run!.pool);
+  const fresh = make();
+  await fresh.open();
+  expect(fresh.read()).toEqual(state);
+  store.stop();
+  stale.stop();
+  fresh.stop();
+});
+
+it("verwirft fehlerhafte Listendeltas atomar und gewährt keinen direkten Zugriff auf die Schreibroutine", async () => {
+  const { store, api, owner } = await setup();
+  const state = await store.update((s) => {
+    startRound(
+      s,
+      { mode: "fehlerfrei", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      1700000000000,
+    );
+  });
+  const base = JSON.parse(
+    api.calls.at(-1)!.args.packet_text as string,
+  ) as OnlineSyncPacket;
+  const put = base.changes.find(
+    (c) => c.op === "put" && c.row.kind === "round",
+  )!;
+  if (put.op !== "put") throw new Error("Runde fehlt");
+  const row = structuredClone(put.row);
+  const value = row.value as { run: { pool?: string[]; queue?: string[] } };
+  delete value.run.pool;
+  delete value.run.queue;
+  const change: RoundRunChange = { op: "round-run", row, queue: { drop: 1 } };
+  const sound = state.settings.sound;
+  const malformed = [
+    { ...change, queue: { drop: -1 } },
+    { ...change, queue: { drop: 100000 } },
+    { ...change, queue: { drop: null } },
+    { ...change, queue: { drop: 0, replace: [] } },
+    { ...change, queue: { replace: [null] } },
+    { ...change, row: { ...row, id: "missing" } },
+    { ...change, row: { ...row, kind: "field" } },
+    {
+      ...change,
+      row: { ...row, value: { ...(row.value as object), id: "wrong" } },
+    },
+    {
+      ...change,
+      row: {
+        ...row,
+        value: { ...(row.value as object), run: { version: 1, pool: [] } },
+      },
+    },
+    {
+      ...change,
+      row: { ...row, value: { ...(row.value as object), questions: [] } },
+    },
+  ];
+  for (const bad of malformed) {
+    await expect(
+      api.call("quiz_sync_apply", {
+        packet_text: JSON.stringify({
+          ...base,
+          id: crypto.randomUUID(),
+          expectedRevision: base.expectedRevision + 1,
+          objects: [],
+          changes: [
+            {
+              op: "put",
+              row: {
+                kind: "field",
+                id: "settings",
+                position: 0,
+                value: { ...state.settings, sound: !sound },
+              },
+            },
+            bad,
+          ],
+        }),
+      }),
+    ).rejects.toThrow();
+    expect(
+      await api.call("quiz_sync_metadata", { expected_owner: owner }),
+    ).toMatchObject({ revision: base.expectedRevision + 1 });
+  }
+  const foreign = await fixture.client();
+  await expect(
+    foreign.api.call("quiz_sync_apply", {
+      packet_text: JSON.stringify({
+        ...base,
+        id: crypto.randomUUID(),
+        expectedRevision: base.expectedRevision + 1,
+        changes: [change],
+      }),
+    }),
+  ).rejects.toThrow(/account_changed/);
+  const rights = await fixture.db.query<{ allowed: boolean }>(
+    "select has_function_privilege('authenticated','quiz_sync_internal.write_entries(uuid,uuid,jsonb,bigint)','execute') as allowed",
+  );
+  expect(rights.rows[0].allowed).toBe(false);
+  const fresh = new OnlineGameStore(
+    api,
+    owner,
+    async () => release,
+    async () => null,
+  );
+  await fresh.open();
+  expect(fresh.read()).toEqual(state);
+  store.stop();
+  fresh.stop();
+});
+
+it("überträgt mehrere Antworten als Listenverbrauch und archiviert den beendeten Lauf ohne Listen", async () => {
+  const { store, api, make } = await setup();
+  await store.update((s) => {
+    startRound(
+      s,
+      { mode: "fehlerfrei", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      1700000000000,
+    );
+  });
+  const initial = store.read().rounds.at(-1)!;
+  await store.update(
+    (s) => {
+      for (let i = 0; i < 3; i++) {
+        const r = s.rounds.at(-1)!,
+          q = r.questions.at(-1)!;
+        answer(s, r.id, q.id, q.correctId, 1000, 1700000001000 + i * 1000);
+      }
+    },
+    { reuseCatalog: true, progressOnly: true },
+  );
+  let packet = JSON.parse(
+    api.calls.at(-1)!.args.packet_text as string,
+  ) as OnlineSyncPacket;
+  expect(
+    (packet.changes.find((c) => c.op === "round-run") as RoundRunChange).queue,
+  ).toEqual({ drop: 3 });
+  expect(store.read().rounds.at(-1)!.run!.queue).toEqual(
+    initial.run!.queue.slice(3),
+  );
+  await store.update(
+    (s) => {
+      const r = s.rounds.at(-1)!,
+        q = r.questions.at(-1)!;
+      answer(
+        s,
+        r.id,
+        q.id,
+        q.answers.find((a) => a.id !== q.correctId)!.id,
+        1000,
+        1700000005000,
+      );
+    },
+    { reuseCatalog: true, progressOnly: true },
+  );
+  packet = JSON.parse(
+    api.calls.at(-1)!.args.packet_text as string,
+  ) as OnlineSyncPacket;
+  expect(
+    (packet.changes.find((c) => c.op === "round-run") as RoundRunChange).queue,
+  ).toEqual({ drop: 0 });
+  const archived = await store.update((s) => archiveClosedRounds(s), {
+    reuseCatalog: true,
+    progressOnly: true,
+  });
+  packet = JSON.parse(
+    api.calls.at(-1)!.args.packet_text as string,
+  ) as OnlineSyncPacket;
+  expect(packet.changes.some((c) => c.op === "round-run")).toBe(false);
+  expect(archived.rounds.at(-1)!).toMatchObject({
+    status: "completed",
+    archive: { version: 1 },
+    run: { pool: [], queue: [] },
+  });
+  const fresh = make();
+  await fresh.open();
+  expect(fresh.read()).toEqual(archived);
+  store.stop();
+  fresh.stop();
+});

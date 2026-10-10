@@ -254,6 +254,18 @@ test("Fehlerfrei sichert den ersten Fehler sofort, bleibt nach Neuladen und steh
 test("Zeitkonto verbraucht Antwortzeit, pausiert Erklärungen und beendet den Lauf bei leerem Konto", async ({
   page,
 }) => {
+  const nextQuestion = async () => {
+    const next = page.getByRole("button", { name: /^Nächste Frage/ });
+    // WebKit may install the reveal timer just after the preceding clock step.
+    // Advance the controlled clock until feedback has actually finished.
+    await expect
+      .poll(async () => {
+        await page.clock.runFor(50);
+        return next.isVisible();
+      })
+      .toBe(true);
+    await next.click();
+  };
   await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
   await page.clock.pauseAt(new Date("2026-10-03T12:00:00+02:00"));
   await page.goto("/", { waitUntil: "domcontentloaded" });
@@ -264,21 +276,24 @@ test("Zeitkonto verbraucht Antwortzeit, pausiert Erklärungen und beendet den La
   await page.clock.fastForward(60000);
   expect((await readStoredState(page)).rounds.at(-1)!.run!.bankMs).toBe(120000);
   for (let i = 0; i < 2; i++) {
-    await page.getByRole("button", { name: /^Nächste Frage/ }).click();
+    await nextQuestion();
     await page.clock.runFor(100);
     await respond(page, false);
   }
   const before = (await readStoredState(page)).rounds.at(-1)!;
   expect(before.run!.bankMs).toBeGreaterThan(22000);
   expect(before.run!.bankMs).toBeLessThan(25000);
-  await page.getByRole("button", { name: /^Nächste Frage/ }).click();
+  await nextQuestion();
   await readyQuestion(page);
   await expect(page.locator(".timer")).toContainText(/2[34] s/);
-  await page.clock.runFor(100);
-  await page.clock.fastForward(30000);
-  // A suspended WebKit clock dispatches the next interval after the jump.
-  await page.clock.runFor(200);
-  await expect(page.locator(".feedback")).toBeVisible();
+  // Exercise the timeout continuously, including WebKit's timer/RAF delivery.
+  await page.clock.runFor(30000);
+  await expect
+    .poll(async () => {
+      await page.clock.runFor(100);
+      return page.locator(".feedback").isVisible();
+    })
+    .toBe(true);
   await expect
     .poll(async () => (await readStoredState(page)).rounds.at(-1)!.status)
     .toBe("completed");

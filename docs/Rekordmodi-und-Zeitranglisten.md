@@ -1,5 +1,7 @@
 # Rekordmodi und Zeitranglisten
 
+**Sicherheitsprüfung 10.10.2026:** Kontotrennung und verschlüsselte Übertragung sind vorhanden; Lösungen, zukünftige Fragenfolge und Antwortzeitberechnung liegen derzeit aber im Browser. Serverseitiges Nachrechnen der Punkte allein belegt keine manipulationsfreie Spielzeit. [Befund und Vorschlag für verbindliche Serversteuerung](Zeitrunden-Manipulationsschutz-2026-10-10.md). Dieser Umbau ist noch nicht umgesetzt; die [lokale Listenoptimierung](Online-Listenoptimierung-2026-10-10.md) dient der Datenmenge.
+
 Stand: 03.10.2026. **Version 47 entfernt die früheren Sonderwertungen auf ausdrücklichen Nutzerauftrag; am 03.10.2026 um 18:32:06 Uhr Europe/Berlin öffentlich veröffentlicht, in `main` integriert und mit GitHub synchronisiert.** Die Serverbereinigung ist angewendet. Frühere Erhaltungsaussagen aus Version 46 sind damit abgelöst. Die nachfolgende Auswahl- und Archivregel ist als Version 46 am 03.10.2026 um 18:12:06 Uhr Europe/Berlin öffentlich veröffentlicht, in `main` integriert und mit GitHub synchronisiert; tatsächlichen Veröffentlichungsnachweis führt [Sites-Betrieb](Sites-Betrieb.md). Ältere Veröffentlichungen und ihre Prüfungen bleiben dort erhalten.
 
 ## Einstieg und Regeln
