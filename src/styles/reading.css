@@ -416,6 +416,44 @@ footer[hidden] {
       0 0 24px #36744330;
   }
 }
+.film-poster {
+  float: right;
+  width: 160px;
+  max-width: 42%;
+  margin: 0 0 16px 20px;
+}
+.film-poster img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 240px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+.film-poster figcaption {
+  font-size: 12px;
+  margin-top: 6px;
+}
+.explanation::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.image-credits {
+  margin-top: 24px;
+}
+.image-credits img {
+  display: block;
+  max-width: 110px;
+  height: auto;
+}
+@media (max-width: 480px) {
+  .film-poster {
+    float: none;
+    max-width: 100%;
+    margin: 12px auto;
+  }
+}
 @media (prefers-reduced-motion: reduce) {
   .solution-reveal .answer.correct {
     animation: none;

@@ -18,6 +18,8 @@ npm run preview
 
 Vorschau unter http://localhost:4173; Entwicklung mit `npm run dev` auf Port 5173. Die Vorschau kann im selben Netz über die aktuelle Netzwerkadresse des Rechners geöffnet werden; Rechner und Prozess müssen laufen. Zum Spielen und Laden von Bildern ist Internet erforderlich. Der Fortschritt gehört zum angemeldeten Konto.
 
+SciFi-Poster sind lokal eingebaut und erscheinen erst zur Lösung. Für eine frische Projektkopie den Posterindex mit `npm run prepare:posters` vorbereiten; Zugangsdaten bleiben ausschließlich in `.env.tmdb.local`. Den erzeugten, ignorierten Index vor einer Veröffentlichung in die geprüfte Buildkopie aufnehmen. [Betreiberablauf, Erneuerung und Bildnutzung](docs/Filmposter.md).
+
 ## Spielen und Fortschritt
 
 - **Filmreise:** neue Ziele bevorzugen und weitere Filmgruppen/Stufen je Genre freischalten. Erworbene Freischaltungen bleiben erhalten.

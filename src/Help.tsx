@@ -425,6 +425,25 @@ export function Help() {
           Eine JSON-Sicherung kannst Du bei Bedarf selbst herunterladen.
         </p>
       </details>
+      <section className="image-credits" aria-label="Bildquellen">
+        <h2>Bildquellen</h2>
+        <a href="https://www.themoviedb.org" target="_blank" rel="noreferrer">
+          <img
+            src="/tmdb-logo.svg"
+            alt="The Movie Database (TMDB)"
+            width={110}
+            height={44}
+          />
+        </a>
+        <p>
+          SciFi-Filmposter stammen von TMDB. Den jeweiligen Filmnachweis findest
+          Du direkt am Poster.
+        </p>
+        <p lang="en">
+          This website uses TMDB and the TMDB APIs but is not endorsed,
+          certified, or otherwise approved by TMDB.
+        </p>
+      </section>
     </section>
   );
 }

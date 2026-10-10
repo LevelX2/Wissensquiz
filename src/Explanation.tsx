@@ -5,6 +5,7 @@ import { actorPresentation } from "./actorEditorial";
 import { yearPresentation } from "./yearEditorial";
 import { FilmDataPanel } from "./FilmDataPanel";
 import { ActorPortrait, recognitionVariants } from "./ActorPortrait";
+import { FilmPoster } from "./FilmPoster";
 
 export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const selected = q.answers.find((a) => a.id === event.answerId);
@@ -31,6 +32,10 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
         </p>
       )}
       <ActorPortrait q={q} selectionKey={event.id} />
+      <FilmPoster
+        key={`${q.metadata.film_title_original}|${q.metadata.film_year}`}
+        q={q}
+      />
       <p>{q.explanation}</p>
       {!event.correct && selected?.feedback && (
         <p className="specific-feedback">
