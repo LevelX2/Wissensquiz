@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "d1208e7783195321f3c6de7c98be397fe03f21ab",
+  "sourceCommit": "9cf8f8f5aefa6d1707831d977d46f3fc642fe6cc",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 150,
-  "totalReviewed": 300,
-  "remainingFilmQuestions": 10433,
+  "completedInThisRun": 200,
+  "totalReviewed": 350,
+  "remainingFilmQuestions": 10383,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 12473,
+  "remainingAllQuestions": 12423,
   "blocks": [
     {
       "block": 1,
@@ -23,6 +23,11 @@
     {
       "block": 3,
       "path": "Block-03.json",
+      "count": 50
+    },
+    {
+      "block": 4,
+      "path": "Block-04.json",
       "count": 50
     }
   ],
@@ -326,209 +331,59 @@
     "ACT-M-012",
     "ACT-S-011",
     "ACT-L-011-V1",
-    "ACT-L-012-V1"
+    "ACT-L-012-V1",
+    "ACT-M-011-V1",
+    "ACT-M-012-V1",
+    "ACT-S-011-V1",
+    "ACT-S-012-V1",
+    "FF-006-YEAR",
+    "FF-006-DIRECTOR",
+    "HOR-L-006",
+    "HOR-M-005",
+    "HOR-M-006",
+    "HOR-S-005",
+    "HOR-S-006",
+    "FF-178-YEAR",
+    "FF-178-DIRECTOR",
+    "HOR-L-043",
+    "HOR-L-044",
+    "HOR-M-043",
+    "HOR-M-044",
+    "HOR-S-043",
+    "HOR-S-044",
+    "HOR-L-043-V1",
+    "HOR-L-044-V1",
+    "HOR-M-044-V1",
+    "HOR-S-043-V1",
+    "HOR-S-044-V1",
+    "FF-197-YEAR",
+    "FF-197-DIRECTOR",
+    "E20261007-F-092-L1",
+    "E20261007-F-092-L2",
+    "E20261007-F-092-M1",
+    "E20261007-F-092-M2",
+    "E20261007-F-092-S1",
+    "E20261007-F-092-Y",
+    "E20261007-F-092-D",
+    "FAN-L-041",
+    "FAN-M-041",
+    "FAN-M-042",
+    "FAN-S-041",
+    "FAN-S-042",
+    "FF-121-YEAR",
+    "FF-121-DIRECTOR",
+    "E20261007-F-075-L1",
+    "E20261007-F-075-L2",
+    "E20261007-F-075-M2",
+    "E20261007-F-075-S1",
+    "E20261007-F-075-S2",
+    "E20261007-F-075-Y",
+    "E20261007-F-075-D",
+    "G100-20261008-FANTASY-015-L1",
+    "G100-20261008-FANTASY-015-L2",
+    "G100-20261008-FANTASY-015-M1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "ACT-M-011-V1",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-M-012-V1",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-S-011-V1",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-S-012-V1",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "FF-006-YEAR",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "FF-006-DIRECTOR",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "HOR-L-006",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "HOR-M-005",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "HOR-M-006",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "HOR-S-005",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "HOR-S-006",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "FF-178-YEAR",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "FF-178-DIRECTOR",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "HOR-L-043",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-L-044",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-M-043",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-M-044",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-S-043",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-S-044",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-L-043-V1",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-L-044-V1",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-M-044-V1",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-S-043-V1",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-S-044-V1",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "FF-197-YEAR",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "FF-197-DIRECTOR",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "E20261007-F-092-L1",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-L2",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-M1",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-M2",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-S1",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-Y",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-D",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "FAN-L-041",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FAN-M-041",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FAN-M-042",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FAN-S-041",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FAN-S-042",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FF-121-YEAR",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FF-121-DIRECTOR",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "E20261007-F-075-L1",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-L2",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-M2",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-S1",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-S2",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-Y",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-D",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "G100-20261008-FANTASY-015-L1",
-      "filmKey": "Aladdin|2019"
-    },
-    {
-      "id": "G100-20261008-FANTASY-015-L2",
-      "filmKey": "Aladdin|2019"
-    },
-    {
-      "id": "G100-20261008-FANTASY-015-M1",
-      "filmKey": "Aladdin|2019"
-    },
     {
       "id": "G100-20261008-FANTASY-015-M2",
       "filmKey": "Aladdin|2019"
@@ -42064,204 +41919,204 @@
   ],
   "next": [
     {
-      "id": "ACT-M-011-V1",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-M-012-V1",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-S-011-V1",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-S-012-V1",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "FF-006-YEAR",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "FF-006-DIRECTOR",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "HOR-L-006",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "HOR-M-005",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "HOR-M-006",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "HOR-S-005",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "HOR-S-006",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "FF-178-YEAR",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "FF-178-DIRECTOR",
-      "filmKey": "A Nightmare on Elm Street|1984"
-    },
-    {
-      "id": "HOR-L-043",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-L-044",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-M-043",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-M-044",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-S-043",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-S-044",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-L-043-V1",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-L-044-V1",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-M-044-V1",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-S-043-V1",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "HOR-S-044-V1",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "FF-197-YEAR",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "FF-197-DIRECTOR",
-      "filmKey": "Ring|1998"
-    },
-    {
-      "id": "E20261007-F-092-L1",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-L2",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-M1",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-M2",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-S1",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-Y",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "E20261007-F-092-D",
-      "filmKey": "Pontypool|2008"
-    },
-    {
-      "id": "FAN-L-041",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FAN-M-041",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FAN-M-042",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FAN-S-041",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FAN-S-042",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FF-121-YEAR",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "FF-121-DIRECTOR",
-      "filmKey": "Labyrinth|1986"
-    },
-    {
-      "id": "E20261007-F-075-L1",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-L2",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-M2",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-S1",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-S2",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-Y",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "E20261007-F-075-D",
-      "filmKey": "Jack the Giant Slayer|2013"
-    },
-    {
-      "id": "G100-20261008-FANTASY-015-L1",
+      "id": "G100-20261008-FANTASY-015-M2",
       "filmKey": "Aladdin|2019"
     },
     {
-      "id": "G100-20261008-FANTASY-015-L2",
+      "id": "G100-20261008-FANTASY-015-S1",
       "filmKey": "Aladdin|2019"
     },
     {
-      "id": "G100-20261008-FANTASY-015-M1",
+      "id": "G100-20261008-FANTASY-015-Y",
       "filmKey": "Aladdin|2019"
+    },
+    {
+      "id": "G100-20261008-FANTASY-015-D",
+      "filmKey": "Aladdin|2019"
+    },
+    {
+      "id": "KOM-202609-P02-L-029",
+      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+    },
+    {
+      "id": "KOM-202609-P02-M-029",
+      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+    },
+    {
+      "id": "KOM-202609-P02-M-030",
+      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+    },
+    {
+      "id": "KOM-202609-P02-S-029",
+      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+    },
+    {
+      "id": "KOM-202609-P02-S-030",
+      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+    },
+    {
+      "id": "KOM-202609-P02-L-029-V1",
+      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+    },
+    {
+      "id": "FF-390-YEAR",
+      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+    },
+    {
+      "id": "FF-390-DIRECTOR",
+      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+    },
+    {
+      "id": "F240-20261006-112-L1",
+      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+    },
+    {
+      "id": "F240-20261006-112-L2",
+      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+    },
+    {
+      "id": "F240-20261006-112-M1",
+      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+    },
+    {
+      "id": "F240-20261006-112-M2",
+      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+    },
+    {
+      "id": "F240-20261006-112-S1",
+      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+    },
+    {
+      "id": "F240-20261006-112-S2",
+      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+    },
+    {
+      "id": "F240-20261006-112-D",
+      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+    },
+    {
+      "id": "F240-20261006-113-L1",
+      "filmKey": "Toni Erdmann|2016"
+    },
+    {
+      "id": "F240-20261006-113-L2",
+      "filmKey": "Toni Erdmann|2016"
+    },
+    {
+      "id": "F240-20261006-113-M1",
+      "filmKey": "Toni Erdmann|2016"
+    },
+    {
+      "id": "F240-20261006-113-M2",
+      "filmKey": "Toni Erdmann|2016"
+    },
+    {
+      "id": "F240-20261006-113-S1",
+      "filmKey": "Toni Erdmann|2016"
+    },
+    {
+      "id": "F240-20261006-113-Y",
+      "filmKey": "Toni Erdmann|2016"
+    },
+    {
+      "id": "F240-20261006-113-D",
+      "filmKey": "Toni Erdmann|2016"
+    },
+    {
+      "id": "F240-20261006-230-L1",
+      "filmKey": "Hondo|1953"
+    },
+    {
+      "id": "F240-20261006-230-M1",
+      "filmKey": "Hondo|1953"
+    },
+    {
+      "id": "F240-20261006-230-M2",
+      "filmKey": "Hondo|1953"
+    },
+    {
+      "id": "F240-20261006-230-S1",
+      "filmKey": "Hondo|1953"
+    },
+    {
+      "id": "F240-20261006-230-S2",
+      "filmKey": "Hondo|1953"
+    },
+    {
+      "id": "F240-20261006-230-Y",
+      "filmKey": "Hondo|1953"
+    },
+    {
+      "id": "F240-20261006-230-D",
+      "filmKey": "Hondo|1953"
+    },
+    {
+      "id": "WES-L-031",
+      "filmKey": "3:10 to Yuma|2007"
+    },
+    {
+      "id": "WES-L-032",
+      "filmKey": "3:10 to Yuma|2007"
+    },
+    {
+      "id": "WES-M-031",
+      "filmKey": "3:10 to Yuma|2007"
+    },
+    {
+      "id": "WES-S-031",
+      "filmKey": "3:10 to Yuma|2007"
+    },
+    {
+      "id": "WES-S-032",
+      "filmKey": "3:10 to Yuma|2007"
+    },
+    {
+      "id": "WES-L-032-V1",
+      "filmKey": "3:10 to Yuma|2007"
+    },
+    {
+      "id": "WES-M-032-V1",
+      "filmKey": "3:10 to Yuma|2007"
+    },
+    {
+      "id": "WES-S-032-V1",
+      "filmKey": "3:10 to Yuma|2007"
+    },
+    {
+      "id": "FF-291-YEAR",
+      "filmKey": "3:10 to Yuma|2007"
+    },
+    {
+      "id": "FF-291-DIRECTOR",
+      "filmKey": "3:10 to Yuma|2007"
+    },
+    {
+      "id": "F240-20261006-238-L1",
+      "filmKey": "Slow West|2015"
+    },
+    {
+      "id": "F240-20261006-238-L2",
+      "filmKey": "Slow West|2015"
+    },
+    {
+      "id": "F240-20261006-238-M1",
+      "filmKey": "Slow West|2015"
+    },
+    {
+      "id": "F240-20261006-238-M2",
+      "filmKey": "Slow West|2015"
+    },
+    {
+      "id": "F240-20261006-238-S1",
+      "filmKey": "Slow West|2015"
+    },
+    {
+      "id": "F240-20261006-238-Y",
+      "filmKey": "Slow West|2015"
+    },
+    {
+      "id": "F240-20261006-238-D",
+      "filmKey": "Slow West|2015"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
