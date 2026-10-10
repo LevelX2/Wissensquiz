@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "5bb7e9998de8d17a552afcd78bec6e2f53a7ba2d",
+  "sourceCommit": "d1208e7783195321f3c6de7c98be397fe03f21ab",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 100,
-  "totalReviewed": 250,
-  "remainingFilmQuestions": 10483,
+  "completedInThisRun": 150,
+  "totalReviewed": 300,
+  "remainingFilmQuestions": 10433,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 12523,
+  "remainingAllQuestions": 12473,
   "blocks": [
     {
       "block": 1,
@@ -18,6 +18,11 @@
     {
       "block": 2,
       "path": "Block-02.json",
+      "count": 50
+    },
+    {
+      "block": 3,
+      "path": "Block-03.json",
       "count": 50
     }
   ],
@@ -271,209 +276,59 @@
     "E20261007-F-086-D",
     "FAN-L-020",
     "FAN-M-020",
-    "FF-110-YEAR"
+    "FF-110-YEAR",
+    "FF-110-DIRECTOR",
+    "KOM-202609-P02-M-074",
+    "KOM-202609-P02-S-074",
+    "KOM-202609-P02-M-073-V1",
+    "FF-412-YEAR",
+    "FF-412-DIRECTOR",
+    "SF-202609-P02-L-045",
+    "SF-202609-P02-M-045",
+    "SF-202609-P02-M-046",
+    "SF-202609-P02-S-045",
+    "SF-202609-P02-S-046",
+    "SF-202609-P02-M-045-V1",
+    "FF-348-YEAR",
+    "FF-348-DIRECTOR",
+    "F240-20261006-195-L1",
+    "F240-20261006-195-L2",
+    "F240-20261006-195-M2",
+    "F240-20261006-195-S1",
+    "F240-20261006-195-S2",
+    "F240-20261006-195-Y",
+    "F240-20261006-195-D",
+    "SF-202609-P02-L-047",
+    "SF-202609-P02-L-048",
+    "SF-202609-P02-M-047",
+    "SF-202609-P02-M-048",
+    "SF-202609-P02-S-048",
+    "SF-202609-P02-M-047-V1",
+    "FF-349-YEAR",
+    "FF-349-DIRECTOR",
+    "G100-20261008-ACTION-003-L2",
+    "G100-20261008-ACTION-003-M1",
+    "G100-20261008-ACTION-003-M2",
+    "G100-20261008-ACTION-003-S1",
+    "G100-20261008-ACTION-003-S2",
+    "G100-20261008-ACTION-003-Y",
+    "G100-20261008-ACTION-003-D",
+    "E20261007-F-032-L1",
+    "E20261007-F-032-L2",
+    "E20261007-F-032-M2",
+    "E20261007-F-032-S1",
+    "E20261007-F-032-S2",
+    "E20261007-F-032-Y",
+    "E20261007-F-032-D",
+    "ACT-L-011",
+    "ACT-L-012",
+    "ACT-M-011",
+    "ACT-M-012",
+    "ACT-S-011",
+    "ACT-L-011-V1",
+    "ACT-L-012-V1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "FF-110-DIRECTOR",
-      "filmKey": "Harry Potter and the Goblet of Fire|2005"
-    },
-    {
-      "id": "KOM-202609-P02-M-074",
-      "filmKey": "The Great Dictator|1940"
-    },
-    {
-      "id": "KOM-202609-P02-S-074",
-      "filmKey": "The Great Dictator|1940"
-    },
-    {
-      "id": "KOM-202609-P02-M-073-V1",
-      "filmKey": "The Great Dictator|1940"
-    },
-    {
-      "id": "FF-412-YEAR",
-      "filmKey": "The Great Dictator|1940"
-    },
-    {
-      "id": "FF-412-DIRECTOR",
-      "filmKey": "The Great Dictator|1940"
-    },
-    {
-      "id": "SF-202609-P02-L-045",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "SF-202609-P02-M-045",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "SF-202609-P02-M-046",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "SF-202609-P02-S-045",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "SF-202609-P02-S-046",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "SF-202609-P02-M-045-V1",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "FF-348-YEAR",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "FF-348-DIRECTOR",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "F240-20261006-195-L1",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-L2",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-M2",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-S1",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-S2",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-Y",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-D",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "SF-202609-P02-L-047",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "SF-202609-P02-L-048",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "SF-202609-P02-M-047",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "SF-202609-P02-M-048",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "SF-202609-P02-S-048",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "SF-202609-P02-M-047-V1",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "FF-349-YEAR",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "FF-349-DIRECTOR",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-L2",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-M1",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-M2",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-S1",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-S2",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-Y",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-D",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "E20261007-F-032-L1",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-L2",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-M2",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-S1",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-S2",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-Y",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-D",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "ACT-L-011",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-L-012",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-M-011",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-M-012",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-S-011",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-L-011-V1",
-      "filmKey": "Speed|1994"
-    },
-    {
-      "id": "ACT-L-012-V1",
-      "filmKey": "Speed|1994"
-    },
     {
       "id": "ACT-M-011-V1",
       "filmKey": "Speed|1994"
@@ -42209,204 +42064,204 @@
   ],
   "next": [
     {
-      "id": "FF-110-DIRECTOR",
-      "filmKey": "Harry Potter and the Goblet of Fire|2005"
-    },
-    {
-      "id": "KOM-202609-P02-M-074",
-      "filmKey": "The Great Dictator|1940"
-    },
-    {
-      "id": "KOM-202609-P02-S-074",
-      "filmKey": "The Great Dictator|1940"
-    },
-    {
-      "id": "KOM-202609-P02-M-073-V1",
-      "filmKey": "The Great Dictator|1940"
-    },
-    {
-      "id": "FF-412-YEAR",
-      "filmKey": "The Great Dictator|1940"
-    },
-    {
-      "id": "FF-412-DIRECTOR",
-      "filmKey": "The Great Dictator|1940"
-    },
-    {
-      "id": "SF-202609-P02-L-045",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "SF-202609-P02-M-045",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "SF-202609-P02-M-046",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "SF-202609-P02-S-045",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "SF-202609-P02-S-046",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "SF-202609-P02-M-045-V1",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "FF-348-YEAR",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "FF-348-DIRECTOR",
-      "filmKey": "Alien: Covenant|2017"
-    },
-    {
-      "id": "F240-20261006-195-L1",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-L2",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-M2",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-S1",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-S2",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-Y",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "F240-20261006-195-D",
-      "filmKey": "Alphaville|1965"
-    },
-    {
-      "id": "SF-202609-P02-L-047",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "SF-202609-P02-L-048",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "SF-202609-P02-M-047",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "SF-202609-P02-M-048",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "SF-202609-P02-S-048",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "SF-202609-P02-M-047-V1",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "FF-349-YEAR",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "FF-349-DIRECTOR",
-      "filmKey": "Alien Resurrection|1997"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-L2",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-M1",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-M2",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-S1",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-S2",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-Y",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "G100-20261008-ACTION-003-D",
-      "filmKey": "The Getaway|1972"
-    },
-    {
-      "id": "E20261007-F-032-L1",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-L2",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-M2",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-S1",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-S2",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-Y",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "E20261007-F-032-D",
-      "filmKey": "Wanted|2008"
-    },
-    {
-      "id": "ACT-L-011",
+      "id": "ACT-M-011-V1",
       "filmKey": "Speed|1994"
     },
     {
-      "id": "ACT-L-012",
+      "id": "ACT-M-012-V1",
       "filmKey": "Speed|1994"
     },
     {
-      "id": "ACT-M-011",
+      "id": "ACT-S-011-V1",
       "filmKey": "Speed|1994"
     },
     {
-      "id": "ACT-M-012",
+      "id": "ACT-S-012-V1",
       "filmKey": "Speed|1994"
     },
     {
-      "id": "ACT-S-011",
+      "id": "FF-006-YEAR",
       "filmKey": "Speed|1994"
     },
     {
-      "id": "ACT-L-011-V1",
+      "id": "FF-006-DIRECTOR",
       "filmKey": "Speed|1994"
     },
     {
-      "id": "ACT-L-012-V1",
-      "filmKey": "Speed|1994"
+      "id": "HOR-L-006",
+      "filmKey": "A Nightmare on Elm Street|1984"
+    },
+    {
+      "id": "HOR-M-005",
+      "filmKey": "A Nightmare on Elm Street|1984"
+    },
+    {
+      "id": "HOR-M-006",
+      "filmKey": "A Nightmare on Elm Street|1984"
+    },
+    {
+      "id": "HOR-S-005",
+      "filmKey": "A Nightmare on Elm Street|1984"
+    },
+    {
+      "id": "HOR-S-006",
+      "filmKey": "A Nightmare on Elm Street|1984"
+    },
+    {
+      "id": "FF-178-YEAR",
+      "filmKey": "A Nightmare on Elm Street|1984"
+    },
+    {
+      "id": "FF-178-DIRECTOR",
+      "filmKey": "A Nightmare on Elm Street|1984"
+    },
+    {
+      "id": "HOR-L-043",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "HOR-L-044",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "HOR-M-043",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "HOR-M-044",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "HOR-S-043",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "HOR-S-044",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "HOR-L-043-V1",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "HOR-L-044-V1",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "HOR-M-044-V1",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "HOR-S-043-V1",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "HOR-S-044-V1",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "FF-197-YEAR",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "FF-197-DIRECTOR",
+      "filmKey": "Ring|1998"
+    },
+    {
+      "id": "E20261007-F-092-L1",
+      "filmKey": "Pontypool|2008"
+    },
+    {
+      "id": "E20261007-F-092-L2",
+      "filmKey": "Pontypool|2008"
+    },
+    {
+      "id": "E20261007-F-092-M1",
+      "filmKey": "Pontypool|2008"
+    },
+    {
+      "id": "E20261007-F-092-M2",
+      "filmKey": "Pontypool|2008"
+    },
+    {
+      "id": "E20261007-F-092-S1",
+      "filmKey": "Pontypool|2008"
+    },
+    {
+      "id": "E20261007-F-092-Y",
+      "filmKey": "Pontypool|2008"
+    },
+    {
+      "id": "E20261007-F-092-D",
+      "filmKey": "Pontypool|2008"
+    },
+    {
+      "id": "FAN-L-041",
+      "filmKey": "Labyrinth|1986"
+    },
+    {
+      "id": "FAN-M-041",
+      "filmKey": "Labyrinth|1986"
+    },
+    {
+      "id": "FAN-M-042",
+      "filmKey": "Labyrinth|1986"
+    },
+    {
+      "id": "FAN-S-041",
+      "filmKey": "Labyrinth|1986"
+    },
+    {
+      "id": "FAN-S-042",
+      "filmKey": "Labyrinth|1986"
+    },
+    {
+      "id": "FF-121-YEAR",
+      "filmKey": "Labyrinth|1986"
+    },
+    {
+      "id": "FF-121-DIRECTOR",
+      "filmKey": "Labyrinth|1986"
+    },
+    {
+      "id": "E20261007-F-075-L1",
+      "filmKey": "Jack the Giant Slayer|2013"
+    },
+    {
+      "id": "E20261007-F-075-L2",
+      "filmKey": "Jack the Giant Slayer|2013"
+    },
+    {
+      "id": "E20261007-F-075-M2",
+      "filmKey": "Jack the Giant Slayer|2013"
+    },
+    {
+      "id": "E20261007-F-075-S1",
+      "filmKey": "Jack the Giant Slayer|2013"
+    },
+    {
+      "id": "E20261007-F-075-S2",
+      "filmKey": "Jack the Giant Slayer|2013"
+    },
+    {
+      "id": "E20261007-F-075-Y",
+      "filmKey": "Jack the Giant Slayer|2013"
+    },
+    {
+      "id": "E20261007-F-075-D",
+      "filmKey": "Jack the Giant Slayer|2013"
+    },
+    {
+      "id": "G100-20261008-FANTASY-015-L1",
+      "filmKey": "Aladdin|2019"
+    },
+    {
+      "id": "G100-20261008-FANTASY-015-L2",
+      "filmKey": "Aladdin|2019"
+    },
+    {
+      "id": "G100-20261008-FANTASY-015-M1",
+      "filmKey": "Aladdin|2019"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
