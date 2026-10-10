@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "5e96f18d749305bdec8c1a44891227b16e241ad9",
+  "sourceCommit": "dbce38974e5a67c3141dcb835f33730eb0820855",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 250,
-  "totalReviewed": 400,
-  "remainingFilmQuestions": 10333,
+  "completedInThisRun": 300,
+  "totalReviewed": 450,
+  "remainingFilmQuestions": 10283,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 12373,
+  "remainingAllQuestions": 12323,
   "blocks": [
     {
       "block": 1,
@@ -33,6 +33,11 @@
     {
       "block": 5,
       "path": "Block-05.json",
+      "count": 50
+    },
+    {
+      "block": 6,
+      "path": "Block-06.json",
       "count": 50
     }
   ],
@@ -436,209 +441,59 @@
     "F240-20261006-238-M2",
     "F240-20261006-238-S1",
     "F240-20261006-238-Y",
-    "F240-20261006-238-D"
+    "F240-20261006-238-D",
+    "E20261007-F-045-L1",
+    "E20261007-F-045-M1",
+    "E20261007-F-045-M2",
+    "E20261007-F-045-S1",
+    "E20261007-F-045-S2",
+    "E20261007-F-045-Y",
+    "E20261007-F-045-D",
+    "ART-L-031",
+    "ART-L-032",
+    "ART-M-032",
+    "ART-S-031",
+    "ART-S-032",
+    "ART-L-031-V1",
+    "ART-M-031-V1",
+    "ART-S-031-V1",
+    "FF-041-YEAR",
+    "FF-041-DIRECTOR",
+    "E20261007-F-277-L1",
+    "E20261007-F-277-L2",
+    "E20261007-F-277-M1",
+    "E20261007-F-277-M2",
+    "E20261007-F-277-S2",
+    "E20261007-F-277-Y",
+    "E20261007-F-277-D",
+    "MUS-202609-P01-L-028",
+    "MUS-202609-P01-M-027",
+    "MUS-202609-P01-M-028",
+    "MUS-202609-P01-S-027",
+    "MUS-202609-P01-S-028",
+    "MUS-202609-P01-M-027-V1",
+    "FF-314-YEAR",
+    "FF-314-DIRECTOR",
+    "G100-20261008-MUSIK-022-L1",
+    "G100-20261008-MUSIK-022-L2",
+    "G100-20261008-MUSIK-022-M2",
+    "G100-20261008-MUSIK-022-S1",
+    "G100-20261008-MUSIK-022-S2",
+    "G100-20261008-MUSIK-022-Y",
+    "G100-20261008-MUSIK-022-D",
+    "MUS-202610-P01-L-019",
+    "MUS-202610-P01-L-020",
+    "MUS-202610-P01-M-028",
+    "MUS-202610-P01-M-029",
+    "MUS-202610-P01-S-029",
+    "MUS-202610-P01-M-030",
+    "MUS-202610-P01-S-030",
+    "G100-20261008-ABENTEUER-013-L1",
+    "G100-20261008-ABENTEUER-013-M1",
+    "G100-20261008-ABENTEUER-013-M2",
+    "G100-20261008-ABENTEUER-013-S1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "E20261007-F-045-L1",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-M1",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-M2",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-S1",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-S2",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-Y",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-D",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "ART-L-031",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-L-032",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-M-032",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-S-031",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-S-032",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-L-031-V1",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-M-031-V1",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-S-031-V1",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "FF-041-YEAR",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "FF-041-DIRECTOR",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "E20261007-F-277-L1",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-L2",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-M1",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-M2",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-S2",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-Y",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-D",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "MUS-202609-P01-L-028",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "MUS-202609-P01-M-027",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "MUS-202609-P01-M-028",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "MUS-202609-P01-S-027",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "MUS-202609-P01-S-028",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "MUS-202609-P01-M-027-V1",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "FF-314-YEAR",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "FF-314-DIRECTOR",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-L1",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-L2",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-M2",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-S1",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-S2",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-Y",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-D",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "MUS-202610-P01-L-019",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-L-020",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-M-028",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-M-029",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-S-029",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-M-030",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-S-030",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-013-L1",
-      "filmKey": "The Bounty|1984"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-013-M1",
-      "filmKey": "The Bounty|1984"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-013-M2",
-      "filmKey": "The Bounty|1984"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-013-S1",
-      "filmKey": "The Bounty|1984"
-    },
     {
       "id": "G100-20261008-ABENTEUER-013-S2",
       "filmKey": "The Bounty|1984"
@@ -41774,204 +41629,204 @@
   ],
   "next": [
     {
-      "id": "E20261007-F-045-L1",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-M1",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-M2",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-S1",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-S2",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-Y",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "E20261007-F-045-D",
-      "filmKey": "Magnolia|1999"
-    },
-    {
-      "id": "ART-L-031",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-L-032",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-M-032",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-S-031",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-S-032",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-L-031-V1",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-M-031-V1",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "ART-S-031-V1",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "FF-041-YEAR",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "FF-041-DIRECTOR",
-      "filmKey": "Paterson|2016"
-    },
-    {
-      "id": "E20261007-F-277-L1",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-L2",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-M1",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-M2",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-S2",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-Y",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "E20261007-F-277-D",
-      "filmKey": "Stranger Than Paradise|1984"
-    },
-    {
-      "id": "MUS-202609-P01-L-028",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "MUS-202609-P01-M-027",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "MUS-202609-P01-M-028",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "MUS-202609-P01-S-027",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "MUS-202609-P01-S-028",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "MUS-202609-P01-M-027-V1",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "FF-314-YEAR",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "FF-314-DIRECTOR",
-      "filmKey": "The Greatest Showman|2017"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-L1",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-L2",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-M2",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-S1",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-S2",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-Y",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "G100-20261008-MUSIK-022-D",
-      "filmKey": "High School Musical|2006"
-    },
-    {
-      "id": "MUS-202610-P01-L-019",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-L-020",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-M-028",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-M-029",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-S-029",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-M-030",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "MUS-202610-P01-S-030",
-      "filmKey": "Gentlemen Prefer Blondes|1953"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-013-L1",
+      "id": "G100-20261008-ABENTEUER-013-S2",
       "filmKey": "The Bounty|1984"
     },
     {
-      "id": "G100-20261008-ABENTEUER-013-M1",
+      "id": "G100-20261008-ABENTEUER-013-Y",
       "filmKey": "The Bounty|1984"
     },
     {
-      "id": "G100-20261008-ABENTEUER-013-M2",
+      "id": "G100-20261008-ABENTEUER-013-D",
       "filmKey": "The Bounty|1984"
     },
     {
-      "id": "G100-20261008-ABENTEUER-013-S1",
-      "filmKey": "The Bounty|1984"
+      "id": "E20261007-F-003-L1",
+      "filmKey": "Sinbad and the Eye of the Tiger|1977"
+    },
+    {
+      "id": "E20261007-F-003-L2",
+      "filmKey": "Sinbad and the Eye of the Tiger|1977"
+    },
+    {
+      "id": "E20261007-F-003-M1",
+      "filmKey": "Sinbad and the Eye of the Tiger|1977"
+    },
+    {
+      "id": "E20261007-F-003-M2",
+      "filmKey": "Sinbad and the Eye of the Tiger|1977"
+    },
+    {
+      "id": "E20261007-F-003-S1",
+      "filmKey": "Sinbad and the Eye of the Tiger|1977"
+    },
+    {
+      "id": "E20261007-F-003-S2",
+      "filmKey": "Sinbad and the Eye of the Tiger|1977"
+    },
+    {
+      "id": "E20261007-F-003-D",
+      "filmKey": "Sinbad and the Eye of the Tiger|1977"
+    },
+    {
+      "id": "ADV-202610-P01-L-019",
+      "filmKey": "Life of Pi|2012"
+    },
+    {
+      "id": "ADV-202610-P01-L-020",
+      "filmKey": "Life of Pi|2012"
+    },
+    {
+      "id": "ADV-202610-P01-M-028",
+      "filmKey": "Life of Pi|2012"
+    },
+    {
+      "id": "ADV-202610-P01-M-029",
+      "filmKey": "Life of Pi|2012"
+    },
+    {
+      "id": "ADV-202610-P01-S-029",
+      "filmKey": "Life of Pi|2012"
+    },
+    {
+      "id": "ADV-202610-P01-M-030",
+      "filmKey": "Life of Pi|2012"
+    },
+    {
+      "id": "ADV-202610-P01-S-030",
+      "filmKey": "Life of Pi|2012"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-012-L2",
+      "filmKey": "Dragon Lord|1982"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-012-M1",
+      "filmKey": "Dragon Lord|1982"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-012-M2",
+      "filmKey": "Dragon Lord|1982"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-012-S1",
+      "filmKey": "Dragon Lord|1982"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-012-S2",
+      "filmKey": "Dragon Lord|1982"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-012-Y",
+      "filmKey": "Dragon Lord|1982"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-012-D",
+      "filmKey": "Dragon Lord|1982"
+    },
+    {
+      "id": "F240-20261006-132-L1",
+      "filmKey": "Chocolate|2008"
+    },
+    {
+      "id": "F240-20261006-132-L2",
+      "filmKey": "Chocolate|2008"
+    },
+    {
+      "id": "F240-20261006-132-M1",
+      "filmKey": "Chocolate|2008"
+    },
+    {
+      "id": "F240-20261006-132-M2",
+      "filmKey": "Chocolate|2008"
+    },
+    {
+      "id": "F240-20261006-132-S1",
+      "filmKey": "Chocolate|2008"
+    },
+    {
+      "id": "F240-20261006-132-S2",
+      "filmKey": "Chocolate|2008"
+    },
+    {
+      "id": "F240-20261006-132-Y",
+      "filmKey": "Chocolate|2008"
+    },
+    {
+      "id": "ASI-202610-P01-L-001",
+      "filmKey": "Bloodsport|1988"
+    },
+    {
+      "id": "ASI-202610-P01-L-002",
+      "filmKey": "Bloodsport|1988"
+    },
+    {
+      "id": "ASI-202610-P01-M-001",
+      "filmKey": "Bloodsport|1988"
+    },
+    {
+      "id": "ASI-202610-P01-M-002",
+      "filmKey": "Bloodsport|1988"
+    },
+    {
+      "id": "ASI-202610-P01-S-002",
+      "filmKey": "Bloodsport|1988"
+    },
+    {
+      "id": "ASI-202610-P01-M-003",
+      "filmKey": "Bloodsport|1988"
+    },
+    {
+      "id": "ASI-202610-P01-S-003",
+      "filmKey": "Bloodsport|1988"
+    },
+    {
+      "id": "E20261007-F-212-L2",
+      "filmKey": "Starman|1984"
+    },
+    {
+      "id": "E20261007-F-212-M1",
+      "filmKey": "Starman|1984"
+    },
+    {
+      "id": "E20261007-F-212-M2",
+      "filmKey": "Starman|1984"
+    },
+    {
+      "id": "E20261007-F-212-S1",
+      "filmKey": "Starman|1984"
+    },
+    {
+      "id": "E20261007-F-212-S2",
+      "filmKey": "Starman|1984"
+    },
+    {
+      "id": "E20261007-F-212-Y",
+      "filmKey": "Starman|1984"
+    },
+    {
+      "id": "E20261007-F-212-D",
+      "filmKey": "Starman|1984"
+    },
+    {
+      "id": "ACT-L-001",
+      "filmKey": "Die Hard|1988"
+    },
+    {
+      "id": "ACT-L-002",
+      "filmKey": "Die Hard|1988"
+    },
+    {
+      "id": "ACT-M-002",
+      "filmKey": "Die Hard|1988"
+    },
+    {
+      "id": "ACT-S-001",
+      "filmKey": "Die Hard|1988"
+    },
+    {
+      "id": "ACT-S-002",
+      "filmKey": "Die Hard|1988"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
