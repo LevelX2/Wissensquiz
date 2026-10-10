@@ -1,6 +1,6 @@
 # Wissensindex
 
-- [Antwortfeedback: sofortige Auswahlmarkierung und weniger RAM-Kopien bei großen Historien – 10.10.2026](../../../docs/Lernregeln.md#sofortige-auswahlrückmeldung--10102026)
+- [Antwortfeedback: sofortige Auswahlmarkierung mit neutraler Animation und weniger RAM-Kopien bei großen Historien – 10.10.2026](../../../docs/Lernregeln.md#sofortige-auswahlrückmeldung--10102026)
 
 - [Einheitliche Startklappen, Spoilerhinweis entfernt und fünf plastische Menüicons – 10.10.2026](../../../docs/Navigationssymbole-2026-10-10.md)
 

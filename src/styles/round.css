@@ -156,6 +156,33 @@
   outline: 2px solid #526d8c;
   outline-offset: -2px;
 }
+.answer.is-submitting .answer-verdict {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  max-width: none;
+}
+.answer.is-submitting .answer-verdict::before {
+  content: "";
+  display: block;
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  border: 2px solid #526d8c;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: answer-confirming 0.8s linear infinite;
+}
+@keyframes answer-confirming {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .answer.is-submitting .answer-verdict::before {
+    animation: none;
+  }
+}
 .answer-letter {
   display: grid;
   place-items: center;

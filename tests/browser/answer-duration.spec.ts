@@ -20,7 +20,7 @@ for (const duration of [500, 4000]) {
     await page.setViewportSize({ width: 320, height: 664 });
     await page.goto("/");
     await expect(
-      page.getByRole("button", { name: "Losspielen" }),
+      page.getByRole("button", { name: /^Losspielen/ }),
     ).toBeEnabled();
     await options(page);
     const slider = page.getByRole("slider", {
@@ -60,7 +60,7 @@ for (const duration of [500, 4000]) {
     }
     await page.reload();
     await expect(
-      page.getByRole("button", { name: "Losspielen" }),
+      page.getByRole("button", { name: /^Losspielen/ }),
     ).toBeEnabled();
     await options(page);
     await expect(
@@ -70,7 +70,7 @@ for (const duration of [500, 4000]) {
     await page.clock.pauseAt(
       new Date((await page.evaluate(() => Date.now())) + 1000),
     );
-    await page.getByRole("button", { name: "Losspielen" }).click();
+    await page.getByRole("button", { name: /^Losspielen/ }).click();
     for (const choice of ["correct", "wrong", "unknown"] as const) {
       await expect
         .poll(async () => {
@@ -139,6 +139,9 @@ for (const fail of [false, true]) {
     await expect(choice).toBeEnabled();
     const backend = accountBackend(page);
     const before = await readStoredState(page);
+    expect(before.rounds.find((round) => round.status === "active")?.mode).toBe(
+      "entdecken",
+    );
     let release!: () => void;
     const gate = new Promise<void>((resolve) => {
       release = resolve;
@@ -219,9 +222,35 @@ for (const fail of [false, true]) {
         }),
       );
       expect(latency).toBeLessThan(250);
+      const confirmation = page.locator(
+        ".answer.is-submitting .answer-verdict",
+      );
+      await expect(confirmation).toBeInViewport();
+      // Check actual animation progress while the server response is held.
+      const times = await confirmation.evaluate(async (element) => {
+        const animation = element.getAnimations({ subtree: true })[0];
+        const start = animation?.currentTime;
+        await new Promise<void>((resolve) =>
+          requestAnimationFrame(() => requestAnimationFrame(() => resolve())),
+        );
+        return [start, animation?.currentTime];
+      });
+      expect(typeof times[0]).toBe("number");
+      expect(times[1]).toBeGreaterThan(times[0] as number);
       await page.screenshot({
         path: testInfo.outputPath("auswahl-vor-bestaetigung.png"),
       });
+      await page.emulateMedia({ reducedMotion: "reduce" });
+      await expect(confirmation).toBeVisible();
+      await expect
+        .poll(() =>
+          confirmation.evaluate(
+            (element) => element.getAnimations({ subtree: true }).length,
+          ),
+        )
+        .toBe(0);
+      await expect(choice).toContainText("Ausgewählt");
+      await page.emulateMedia({ reducedMotion: "no-preference" });
       expect((await readStoredState(page)).events).toHaveLength(
         before.events.length,
       );
@@ -232,6 +261,7 @@ for (const fail of [false, true]) {
       if (fail) {
         await expect(page.getByText(/Nicht gespeichert:/)).toBeVisible();
         await expect(page.locator(".answer.is-submitting")).toHaveCount(0);
+        await expect(confirmation).toHaveCount(0);
         await expect(page.locator(".feedback")).toHaveCount(0);
         await page
           .getByRole("button", { name: "Erneut versuchen", exact: true })
@@ -241,6 +271,7 @@ for (const fail of [false, true]) {
       }
       await expect(page.locator(".feedback")).toBeVisible();
       await expect(page.locator(".answer.is-submitting")).toHaveCount(0);
+      await expect(confirmation).toHaveCount(0);
       expect((await readStoredState(page)).events).toHaveLength(
         before.events.length + 1,
       );
