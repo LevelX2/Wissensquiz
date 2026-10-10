@@ -1,6 +1,6 @@
 # Filmweiser Redaktionslauf
 
-Stand: 10.10.2026. Lauf aktiv.
+Stand: 11.10.2026. Lauf aktiv.
 
 Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fragenredaktion.md) und im persönlichen Fragenredaktionsskill verankert. Nach jeweils 50 neu geprüften Frage-IDs folgen Zahlenstatus und lokaler Commit. Bereits geprüfte IDs werden nicht nochmals als neu gezählt.
 
@@ -46,9 +46,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 40: vollständiger Alt/Neu-Vergleich](Block-40.md) und [strukturierter Nachweis](Block-40.json): 50 Fragen, 31 Vertiefungen geändert, 19 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 41: vollständiger Alt/Neu-Vergleich](Block-41.md) und [strukturierter Nachweis](Block-41.json): 50 Fragen, 25 Vertiefungen geändert, 25 erhalten, 0 Fragen vollständig unverändert; 6 von 6 betroffenen Filmgruppen abgeschlossen.
 - [Block 42: vollständiger Alt/Neu-Vergleich](Block-42.md) und [strukturierter Nachweis](Block-42.json): 50 Fragen, 31 Vertiefungen geändert, 19 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 2250 von 12.773 IDs redaktionell erfasst.
-- Offen: 8483 Filmfragen und 2040 weitere Fragen; zusammen 10523. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 42 prüft Coherence, Collateral, Color Out of Space, Commando, Con Air und Conan the Barbarian filmweise. Diese sechs Gruppen sind redaktionell erfasst. Contact beginnt mit zwei Originalfragen; drei ursprüngliche IDs sowie die noch fehlenden Mindestziele bleiben offen. Drei bestehende Subagenten recherchieren getrennte Filmgruppen und prüfen weitere Gruppen unabhängig gegen; Root übernimmt Gesamtlektüre, Prüfung und seriellen lokalen Commit. Konkrete Handlungsabschnitte und belegte Herstellungszusammenhänge ergänzen das Filmverständnis; gute vorhandene Texte bleiben erhalten. Keine App-Integration durch diesen Block.
+- [Block 43: vollständiger Alt/Neu-Vergleich](Block-43.md) und [strukturierter Nachweis](Block-43.json): 50 Fragen, 28 Vertiefungen geändert, 22 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 2300 von 12.773 IDs redaktionell erfasst.
+- Offen: 8433 Filmfragen und 2040 weitere Fragen; zusammen 10473. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 43 schließt Contact ab und prüft Control, Coraline, Crank, Crash und Crazy Rich Asians filmweise. Diese sechs Gruppen sind redaktionell erfasst. Crazy, Stupid, Love. beginnt mit sechs Originalfragen; Jahr und Regie bleiben für den nächsten Block offen. Drei bestehende Subagenten recherchieren getrennte Filmgruppen und prüfen weitere Gruppen unabhängig gegen; Root übernimmt Gesamtlektüre, Prüfung und seriellen lokalen Commit. Konkrete Handlungsabschnitte und belegte Herstellungszusammenhänge ergänzen das Filmverständnis; gute vorhandene Texte bleiben erhalten. Keine App-Integration durch diesen Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 

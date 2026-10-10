@@ -1,14 +1,14 @@
 {
-  "asOf": "2026-10-10",
+  "asOf": "2026-10-11",
   "status": "Lauf aktiv",
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 2100,
-  "totalReviewed": 2250,
-  "remainingFilmQuestions": 8483,
+  "completedInThisRun": 2150,
+  "totalReviewed": 2300,
+  "remainingFilmQuestions": 8433,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 10523,
+  "remainingAllQuestions": 10473,
   "blocks": [
     {
       "block": 1,
@@ -218,6 +218,11 @@
     {
       "block": 42,
       "path": "Block-42.json",
+      "count": 50
+    },
+    {
+      "block": 43,
+      "path": "Block-43.json",
       "count": 50
     }
   ],
@@ -2471,209 +2476,59 @@
     "FAN-202610-P01-M-012",
     "FAN-202610-P01-S-012",
     "SF-L-027",
-    "SF-M-027"
+    "SF-M-027",
+    "SF-S-027",
+    "FF-152-YEAR",
+    "FF-152-DIRECTOR",
+    "MUS-202609-P01-L-039",
+    "MUS-202609-P01-L-040",
+    "MUS-202609-P01-M-039",
+    "MUS-202609-P01-M-040",
+    "MUS-202609-P01-S-039",
+    "MUS-202609-P01-S-040",
+    "MUS-202609-P01-M-039-V1",
+    "FF-320-YEAR",
+    "FF-320-DIRECTOR",
+    "F240-20261006-070-L1",
+    "F240-20261006-070-L2",
+    "F240-20261006-070-M1",
+    "F240-20261006-070-M2",
+    "F240-20261006-070-S1",
+    "F240-20261006-070-S2",
+    "F240-20261006-070-Y",
+    "F240-20261006-070-D",
+    "G100-20261008-ACTION-020-L1",
+    "G100-20261008-ACTION-020-L2",
+    "G100-20261008-ACTION-020-M1",
+    "G100-20261008-ACTION-020-M2",
+    "G100-20261008-ACTION-020-S1",
+    "G100-20261008-ACTION-020-S2",
+    "G100-20261008-ACTION-020-Y",
+    "G100-20261008-ACTION-020-D",
+    "E20261007-F-057-L1",
+    "E20261007-F-057-L2",
+    "E20261007-F-057-M1",
+    "E20261007-F-057-M2",
+    "E20261007-F-057-S1",
+    "E20261007-F-057-S2",
+    "E20261007-F-057-Y",
+    "E20261007-F-057-D",
+    "F240-20261006-174-L1",
+    "F240-20261006-174-L2",
+    "F240-20261006-174-M1",
+    "F240-20261006-174-M2",
+    "F240-20261006-174-S1",
+    "F240-20261006-174-S2",
+    "F240-20261006-174-Y",
+    "F240-20261006-174-D",
+    "ROM-202610-P01-L-007",
+    "ROM-202610-P01-L-008",
+    "ROM-202610-P01-M-010",
+    "ROM-202610-P01-M-011",
+    "ROM-202610-P01-S-010",
+    "ROM-202610-P01-S-011"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "SF-S-027",
-      "filmKey": "Contact|1997"
-    },
-    {
-      "id": "FF-152-YEAR",
-      "filmKey": "Contact|1997"
-    },
-    {
-      "id": "FF-152-DIRECTOR",
-      "filmKey": "Contact|1997"
-    },
-    {
-      "id": "MUS-202609-P01-L-039",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-L-040",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-M-039",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-M-040",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-S-039",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-S-040",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-M-039-V1",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "FF-320-YEAR",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "FF-320-DIRECTOR",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "F240-20261006-070-L1",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-L2",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-M1",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-M2",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-S1",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-S2",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-Y",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-D",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-L1",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-L2",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-M1",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-M2",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-S1",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-S2",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-Y",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-D",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "E20261007-F-057-L1",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-L2",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-M1",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-M2",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-S1",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-S2",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-Y",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-D",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "F240-20261006-174-L1",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-L2",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-M1",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-M2",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-S1",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-S2",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-Y",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-D",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "ROM-202610-P01-L-007",
-      "filmKey": "Crazy, Stupid, Love.|2011"
-    },
-    {
-      "id": "ROM-202610-P01-L-008",
-      "filmKey": "Crazy, Stupid, Love.|2011"
-    },
-    {
-      "id": "ROM-202610-P01-M-010",
-      "filmKey": "Crazy, Stupid, Love.|2011"
-    },
-    {
-      "id": "ROM-202610-P01-M-011",
-      "filmKey": "Crazy, Stupid, Love.|2011"
-    },
-    {
-      "id": "ROM-202610-P01-S-010",
-      "filmKey": "Crazy, Stupid, Love.|2011"
-    },
-    {
-      "id": "ROM-202610-P01-S-011",
-      "filmKey": "Crazy, Stupid, Love.|2011"
-    },
     {
       "id": "ROM-202610-P01-M-012",
       "filmKey": "Crazy, Stupid, Love.|2011"
@@ -36409,204 +36264,204 @@
   ],
   "next": [
     {
-      "id": "SF-S-027",
-      "filmKey": "Contact|1997"
-    },
-    {
-      "id": "FF-152-YEAR",
-      "filmKey": "Contact|1997"
-    },
-    {
-      "id": "FF-152-DIRECTOR",
-      "filmKey": "Contact|1997"
-    },
-    {
-      "id": "MUS-202609-P01-L-039",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-L-040",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-M-039",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-M-040",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-S-039",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-S-040",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "MUS-202609-P01-M-039-V1",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "FF-320-YEAR",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "FF-320-DIRECTOR",
-      "filmKey": "Control|2007"
-    },
-    {
-      "id": "F240-20261006-070-L1",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-L2",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-M1",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-M2",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-S1",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-S2",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-Y",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "F240-20261006-070-D",
-      "filmKey": "Coraline|2009"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-L1",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-L2",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-M1",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-M2",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-S1",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-S2",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-Y",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "G100-20261008-ACTION-020-D",
-      "filmKey": "Crank|2006"
-    },
-    {
-      "id": "E20261007-F-057-L1",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-L2",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-M1",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-M2",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-S1",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-S2",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-Y",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "E20261007-F-057-D",
-      "filmKey": "Crash|2004"
-    },
-    {
-      "id": "F240-20261006-174-L1",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-L2",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-M1",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-M2",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-S1",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-S2",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-Y",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "F240-20261006-174-D",
-      "filmKey": "Crazy Rich Asians|2018"
-    },
-    {
-      "id": "ROM-202610-P01-L-007",
+      "id": "ROM-202610-P01-M-012",
       "filmKey": "Crazy, Stupid, Love.|2011"
     },
     {
-      "id": "ROM-202610-P01-L-008",
+      "id": "ROM-202610-P01-S-012",
       "filmKey": "Crazy, Stupid, Love.|2011"
     },
     {
-      "id": "ROM-202610-P01-M-010",
-      "filmKey": "Crazy, Stupid, Love.|2011"
+      "id": "E20261007-F-096-L1",
+      "filmKey": "Creature from the Black Lagoon|1954"
     },
     {
-      "id": "ROM-202610-P01-M-011",
-      "filmKey": "Crazy, Stupid, Love.|2011"
+      "id": "E20261007-F-096-L2",
+      "filmKey": "Creature from the Black Lagoon|1954"
     },
     {
-      "id": "ROM-202610-P01-S-010",
-      "filmKey": "Crazy, Stupid, Love.|2011"
+      "id": "E20261007-F-096-M1",
+      "filmKey": "Creature from the Black Lagoon|1954"
     },
     {
-      "id": "ROM-202610-P01-S-011",
-      "filmKey": "Crazy, Stupid, Love.|2011"
+      "id": "E20261007-F-096-M2",
+      "filmKey": "Creature from the Black Lagoon|1954"
+    },
+    {
+      "id": "E20261007-F-096-S1",
+      "filmKey": "Creature from the Black Lagoon|1954"
+    },
+    {
+      "id": "E20261007-F-096-S2",
+      "filmKey": "Creature from the Black Lagoon|1954"
+    },
+    {
+      "id": "E20261007-F-096-Y",
+      "filmKey": "Creature from the Black Lagoon|1954"
+    },
+    {
+      "id": "E20261007-F-096-D",
+      "filmKey": "Creature from the Black Lagoon|1954"
+    },
+    {
+      "id": "E20261007-F-024-L1",
+      "filmKey": "Crimson Tide|1995"
+    },
+    {
+      "id": "E20261007-F-024-L2",
+      "filmKey": "Crimson Tide|1995"
+    },
+    {
+      "id": "E20261007-F-024-M1",
+      "filmKey": "Crimson Tide|1995"
+    },
+    {
+      "id": "E20261007-F-024-M2",
+      "filmKey": "Crimson Tide|1995"
+    },
+    {
+      "id": "E20261007-F-024-S1",
+      "filmKey": "Crimson Tide|1995"
+    },
+    {
+      "id": "E20261007-F-024-S2",
+      "filmKey": "Crimson Tide|1995"
+    },
+    {
+      "id": "E20261007-F-024-Y",
+      "filmKey": "Crimson Tide|1995"
+    },
+    {
+      "id": "E20261007-F-024-D",
+      "filmKey": "Crimson Tide|1995"
+    },
+    {
+      "id": "MAR-L-043",
+      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
+    },
+    {
+      "id": "MAR-L-044",
+      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
+    },
+    {
+      "id": "MAR-M-043",
+      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
+    },
+    {
+      "id": "MAR-M-044",
+      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
+    },
+    {
+      "id": "MAR-S-043",
+      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
+    },
+    {
+      "id": "MAR-S-044",
+      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
+    },
+    {
+      "id": "MAR-L-044-V1",
+      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
+    },
+    {
+      "id": "MAR-M-044-V1",
+      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
+    },
+    {
+      "id": "MAR-S-044-V1",
+      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
+    },
+    {
+      "id": "FF-247-YEAR",
+      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
+    },
+    {
+      "id": "FF-247-DIRECTOR",
+      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
+    },
+    {
+      "id": "SFI-202610-P01-L-009",
+      "filmKey": "Cube|1997"
+    },
+    {
+      "id": "SFI-202610-P01-L-010",
+      "filmKey": "Cube|1997"
+    },
+    {
+      "id": "SFI-202610-P01-M-013",
+      "filmKey": "Cube|1997"
+    },
+    {
+      "id": "SFI-202610-P01-M-014",
+      "filmKey": "Cube|1997"
+    },
+    {
+      "id": "SFI-202610-P01-S-013",
+      "filmKey": "Cube|1997"
+    },
+    {
+      "id": "SFI-202610-P01-S-014",
+      "filmKey": "Cube|1997"
+    },
+    {
+      "id": "SFI-202610-P01-M-015",
+      "filmKey": "Cube|1997"
+    },
+    {
+      "id": "SFI-202610-P01-S-015",
+      "filmKey": "Cube|1997"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-018-L1",
+      "filmKey": "Cutthroat Island|1995"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-018-L2",
+      "filmKey": "Cutthroat Island|1995"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-018-M1",
+      "filmKey": "Cutthroat Island|1995"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-018-M2",
+      "filmKey": "Cutthroat Island|1995"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-018-S1",
+      "filmKey": "Cutthroat Island|1995"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-018-S2",
+      "filmKey": "Cutthroat Island|1995"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-018-Y",
+      "filmKey": "Cutthroat Island|1995"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-018-D",
+      "filmKey": "Cutthroat Island|1995"
+    },
+    {
+      "id": "E20261007-F-214-L1",
+      "filmKey": "Cypher|2002"
+    },
+    {
+      "id": "E20261007-F-214-L2",
+      "filmKey": "Cypher|2002"
+    },
+    {
+      "id": "E20261007-F-214-M1",
+      "filmKey": "Cypher|2002"
+    },
+    {
+      "id": "E20261007-F-214-M2",
+      "filmKey": "Cypher|2002"
+    },
+    {
+      "id": "E20261007-F-214-S1",
+      "filmKey": "Cypher|2002"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
