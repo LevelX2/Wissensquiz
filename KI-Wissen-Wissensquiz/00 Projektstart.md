@@ -9,6 +9,8 @@ Stand: 09.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- Am 10.10.2026 Poster nach der Antwort zunächst für alle 153 Sci-Fi-Filmfassungen beauftragt. Noch nicht eingebaut: eigener TMDB-Zugang fehlt; Bildnutzung und Online-/Offline-Behandlung sind zu klären. [Stand und Voraussetzungen](../docs/Filmposter.md).
+
 - Seit 09.10.2026 täglicher Supabase-Betriebsjob um 07:17 UTC aktiv: drei lesende API-Prüfungen, unabhängig vom Entwicklungsrechner. Monatlicher bestehender Mailversand vorbereitet; eigene Empfängeradresse noch vom Nutzer benötigt, bisher keine Testmail. Zusätzliche Codex-Fehlerkontrolle täglich 10:00 Uhr Europe/Berlin eingerichtet. 399 Tests, Build und tatsächliche Cron-Läufe erfolgreich. [Betrieb und Grenzen](../docs/Konten-Einrichtung.md#täglicher-betriebsjob-ab-09102026), [Prüfnachweis](../docs/Pruefbericht.md#09102026--täglicher-betriebsjob-für-supabase-und-mailversand).
 
 - **Version 58 öffentlich veröffentlicht am 09.10.2026 um 09:17:18 Uhr Europe/Berlin:** gesamter committeter Main-Stand, 33 Pakete / 12.773 Fragen / 12.207 Ziele. Alle Filmgenres mindestens 100 Filme, Wiederholungsübersicht enthalten. Onlinekatalog 12.773 Fragen, Duellkatalog 10.943; frühere Fragen und private Spielstände erhalten. 393 Tests, Versionsbuild, 34 Browserfälle und Archivgleichheit erfolgreich. [Betriebsnachweis](../docs/Sites-Betrieb.md#version-58-genreausbau-und-fällige-wiederholungen).
