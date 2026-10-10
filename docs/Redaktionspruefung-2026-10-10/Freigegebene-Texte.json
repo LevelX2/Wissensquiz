@@ -1,0 +1,172 @@
+{
+  "approvedOn": "2026-10-10",
+  "status": "Vom Nutzer freigegebene Redaktion; nicht in die App integriert oder veröffentlicht",
+  "basis": "Zuletzt im Chat gezeigte Vorher-Nachher-Fassung, nicht die früheren Entwürfe aus Stichprobe.json",
+  "openIntegrationPoints": [
+    "Vier im roten Kreis: Stativdetail vor App-Übernahme direkt an der Szene gegenprüfen.",
+    "Weitere empfohlene Optionsänderungen bei späterer Integration vollständig ausarbeiten und abnehmen; keine unfertigen Antwortauswahlen übernehmen.",
+    "Solaris: erhöhten Handlungsspoiler bei späterer Integration kennzeichnen."
+  ],
+  "questions": [
+    {
+      "id": "ART-L-017",
+      "sourceVersion": "csv-1d00a483",
+      "title": "Solaris",
+      "decision": "überarbeiten",
+      "context": "Auf der Station begegnet Kris Kelvin (Donatas Banionis) seiner verstorbenen Frau Hari (Natalja Bondartschuk). Der Ozean von Solaris hat sie aus seinen Erinnerungen hervorgebracht. Kelvin soll die verstörenden Erlebnisse der anderen untersuchen und steht plötzlich selbst vor einer Begegnung mit seiner Vergangenheit. Als Hari zunehmend eigene Gefühle und Wünsche entwickelt, genügt es ihm nicht mehr, sie als rätselhaftes Untersuchungsobjekt zu betrachten.",
+      "sources": [
+        [
+          "Filmartikel und Handlung",
+          "https://en.wikipedia.org/wiki/Solaris_(1972_film)"
+        ],
+        [
+          "Criterion mit Beruf und Besetzung",
+          "https://www.criterion.com/films/553-solaris"
+        ]
+      ]
+    },
+    {
+      "id": "ACT-M-025",
+      "sourceVersion": "csv-cf8856ef",
+      "title": "True Lies – Wahre Lügen",
+      "decision": "überarbeiten",
+      "context": "Harry Tasker (Arnold Schwarzenegger) arbeitet tatsächlich als Agent, erzählt seiner Frau aber von einem gewöhnlichen Verkäuferleben. Simon (Bill Paxton) verkauft Gebrauchtwagen und behauptet gegenüber Helen Tasker (Jamie Lee Curtis), ein Spion zu sein. Im Schlussauftritt arbeitet Simon inzwischen als Kellner – und versucht es wieder mit seinen Agentengeschichten. Ausgerechnet Harry und Helen begegnen ihm dort nun als echtes Agentenpaar.",
+      "question": "Welchen Beruf übt Simon (Bill Paxton) in „True Lies“ aus, als er Helen kennenlernt?",
+      "sources": [
+        [
+          "Handlung einschließlich Schlussauftritt",
+          "https://en.wikipedia.org/wiki/True_Lies"
+        ]
+      ]
+    },
+    {
+      "id": "G100-20261008-HORROR-001-S1",
+      "sourceVersion": "csv-31561fa3",
+      "title": "Das Cabinet des Dr. Caligari",
+      "decision": "überarbeiten",
+      "context": "Francis (Friedrich Fehér) hat Dr. Caligari (Werner Krauß) und die scheinbar schlafende Gestalt beobachtet. Trotzdem wurde Jane (Lil Dagover) in dieser Nacht angegriffen. Erst die Untersuchung der Kiste erklärt diesen Widerspruch: Eine Puppe nahm Cesares (Conrad Veidt) Platz ein.",
+      "sources": [
+        [
+          "Handlung und Besetzung",
+          "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari"
+        ]
+      ]
+    },
+    {
+      "id": "F240-20261006-080-L1",
+      "sourceVersion": "csv-2dbcb7f8",
+      "title": "Orlando",
+      "decision": "überarbeiten",
+      "context": "Elizabeth I. wird von Quentin Crisp gespielt, Orlando von Tilda Swinton. Sally Potter begründete ihre ungewöhnliche Besetzung der Königin damit, dass Crisp für sie die wahre Königin Englands sei. Das Gebot, nicht alt zu werden, nimmt der Film wörtlich: Während die Epochen wechseln, bleibt Orlando jung.",
+      "explanation": "Orlando soll nicht altern. Unter dieser Bedingung verspricht Elizabeth I. ihm ihren Besitz.",
+      "sources": [
+        [
+          "Bedingung und Geschenk",
+          "https://en.wikipedia.org/wiki/Orlando_(film)"
+        ],
+        [
+          "Sally Potter mit eigener Aussage zur Wahl Quentin Crisps",
+          "https://sallypotter.com/blog/browse/NEWS"
+        ]
+      ]
+    },
+    {
+      "id": "F240-20261006-107-D",
+      "sourceVersion": "csv-75267de7",
+      "title": "Playtime",
+      "decision": "erhalten",
+      "context": "Jacques Tati führte Regie und spielt Monsieur Hulot. Für die moderne Stadt ließ er ein eigenes großes Set errichten. Die Inszenierung verteilt die Komik über breite Bilder und viele gleichzeitige Handlungen, statt Hulot ständig in Großaufnahme zum alleinigen Mittelpunkt zu machen.",
+      "sources": [
+        [
+          "Criterion mit Credit, Besetzung und Inszenierung",
+          "https://www.criterion.com/films/651-playtime"
+        ],
+        [
+          "Carlotta Presseheft mit Tativille",
+          "https://carlottafilms.com/wp-content/uploads/2020/04/DP-PLAYTIME.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "WES-S-013",
+      "sourceVersion": "csv-a915be49",
+      "title": "Mein Name ist Nobody",
+      "decision": "überarbeiten",
+      "context": "Die Reiter der Wild Bunch haben Dynamit in ihren Satteltaschen. Deren spiegelnde Beschläge liefern Jack Beauregard (Henry Fonda) die Zielpunkte: Seine Treffer bringen die Sprengladung zur Explosion. Nobody (Terence Hill) wartet mit dem Zug, verweigert ihm aber zunächst die rettende Mitfahrt. Beauregard soll erst den legendären Kampf gegen die Übermacht bestehen, den Nobody ihm unbedingt verschaffen will.",
+      "sources": [
+        [
+          "Handlung mit Beschlägen, Dynamit und Zug",
+          "https://en.wikipedia.org/wiki/My_Name_Is_Nobody"
+        ]
+      ]
+    },
+    {
+      "id": "E20261007-F-266-M2",
+      "sourceVersion": "csv-b6720eb5",
+      "title": "Kagemusha – Der Schatten des Kriegers",
+      "decision": "überarbeiten",
+      "context": "Drei Jahre soll Shingens Tod geheim bleiben. Ein ihm verblüffend ähnlicher Dieb übernimmt seine öffentliche Rolle; Tatsuya Nakadai spielt sowohl den Herrscher als auch den Doppelgänger. Shingens Sohn Katsuyori (Kenichi Hagiwara) muss erleben, wie ein Fremder weiterhin als sein Vater auftritt. Im Rat versucht er, den Ersatzmann mit einer direkten Frage bloßzustellen. Dieser antwortet jedoch überzeugend in Shingens Art.",
+      "sources": [
+        [
+          "Handlung und Doppelrolle",
+          "https://en.wikipedia.org/wiki/Kagemusha"
+        ],
+        [
+          "Deutscher Filmartikel zum Abgleich",
+          "https://de.wikipedia.org/wiki/Kagemusha_%E2%80%93_Der_Schatten_des_Kriegers"
+        ]
+      ]
+    },
+    {
+      "id": "F240-20261006-157-L1",
+      "sourceVersion": "csv-f29361e3",
+      "title": "Velvet Goldmine",
+      "decision": "überarbeiten",
+      "context": "Zehn Jahre nach dem vorgetäuschten Bühnenmord soll der Journalist Arthur Stuart (Christian Bale) herausfinden, was aus Brian Slade (Jonathan Rhys Meyers) geworden ist. Er befragt Menschen aus dessen Umfeld; ihre Erinnerungen führen zurück in die Glamrock-Jahre. Todd Haynes greift damit die Rechercheform von „Citizen Kane“ auf, in der sich das Bild einer berühmten Person erst aus den Erzählungen anderer zusammensetzt.",
+      "sources": [
+        [
+          "Handlung, Besetzung und Citizen-Kane-Struktur",
+          "https://en.wikipedia.org/wiki/Velvet_Goldmine"
+        ]
+      ]
+    },
+    {
+      "id": "G100-20261008-ROMCOM-004-S1",
+      "sourceVersion": "csv-f8fa48ed",
+      "title": "Der Stadtneurotiker",
+      "decision": "überarbeiten",
+      "context": "Auf Annies Balkon reden Alvy Singer (Woody Allen) und Annie Hall (Diane Keaton) über Fotografie. Die Untertitel verraten währenddessen, wie sie einander einschätzen und sich sexuell füreinander interessieren. Ihre Unsicherheit steht offen im Bild, während beide versuchen, ein kultiviertes Gespräch zu führen.",
+      "sources": [
+        [
+          "Jay Carrs Essay bei der Library of Congress",
+          "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/anniehall2.pdf"
+        ],
+        [
+          "Handlung und Gestaltung",
+          "https://en.wikipedia.org/wiki/Annie_Hall"
+        ]
+      ]
+    },
+    {
+      "id": "G100-20261008-THRILLER-025-M1",
+      "sourceVersion": "csv-11817ad0",
+      "title": "Vier im roten Kreis",
+      "decision": "überarbeiten",
+      "context": "Jansen (Yves Montand) richtet für den entscheidenden Schuss zunächst ein Stativ ein. Dann nimmt er das Gewehr herunter und trifft freihändig den Sicherungsmechanismus. Zuvor hat der Film den ehemaligen Polizisten unter schwerem Alkoholentzug gezeigt. Jetzt hält er die Waffe ruhig genug, um ohne die vorbereitete Stütze zu treffen.",
+      "sources": [
+        [
+          "Handlung und Schuss auf die Sicherung",
+          "https://en.wikipedia.org/wiki/Le_Cercle_Rouge"
+        ],
+        [
+          "Criterion zu Alkoholentzug und Selbstachtung",
+          "https://www.criterion.com/current/posts/303-le-cercle-rouge-great-blasphemies"
+        ],
+        [
+          "Szenenweise Analyse zum Stativ und freihändigen Schuss",
+          "https://theunstitute.org/Le.Cercle.Rouge.html"
+        ]
+      ]
+    }
+  ]
+}

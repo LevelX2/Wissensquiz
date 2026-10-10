@@ -106,6 +106,18 @@ Beim gemeldeten Motorradhelm in „Tron: Legacy“ wiederholte der Text lediglic
 
 Die Anzeige entfernt bekannte leere Formeln und wortgleiche Lösungswiederholungen auch aus bestehenden Fragesnapshots. Individuelle Texte werden damit nicht automatisch fachlich geprüft oder semantisch bewertet. Ihre Überarbeitung bleibt Quellenarbeit nach diesem Vertrag.
 
+## Individuelle Vertiefungen und redaktionelle Abnahme – 10.10.2026
+
+Nach der ersten Zehnerprüfung vom Nutzer freigegeben: [Originale und Befunde](Redaktionspruefung-2026-10-10/Pruefung.md), [freigegebene Textfassung](Redaktionspruefung-2026-10-10/Freigegebene-Texte.json). Qualität entsteht durch passende, belegte Information zur konkreten Frage; Spezialwissen ohne solchen Bezug ist keine Verbesserung.
+
+- **Informationsgewinn:** Kurzantwort und Vertiefung gemeinsam lesen. Wiederholt die Vertiefung nur die Lösung oder erklärt sie denselben Gedanken mehrfach, verdichten oder einen passenderen Hintergrund erschließen. Nicht nur gleiche Wörter, sondern gedankliche Dopplungen prüfen.
+- **Konkretheit und Verständnis:** Interessante Vorgänge, Eigenheiten und Zusammenhänge tatsächlich benennen. Aussagen über Identität, Symbolik, Prüfung oder Bedeutung an nachvollziehbaren Filmbeobachtungen erden. Nötige Figurenbeziehungen und ungewöhnliche Konstellationen verständlich machen; Fakten und redaktionelle Deutung unterscheiden.
+- **Eigenständigkeit und Abwechslung:** Prüfen, ob ein Absatz nach bloßem Namensaustausch bei vielen anderen Filmen funktionieren würde. Mehrere Fragen zusammen auf wiederkehrende Einstiege, gedankliche Verläufe und Schlussfunktionen lesen, auch bei unterschiedlichem Wortlaut. Keine feste Satzanzahl, Pflichtanekdote, Szenenpflicht oder Abfolge „Szene – Hintergrund – Bedeutung – Merksatz“ einführen. Unterschiedliche Längen und ein Ende ohne allgemeine Schlussdeutung sind zulässig.
+- **Begründete Nichtänderung:** Gute Texte ausdrücklich erhalten. Jede Überarbeitung braucht einen benennbaren Qualitätsgewinn; mehr Länge, Fachbegriffe oder zusätzliche Produktionsfakten genügen dafür nicht.
+- **Gesamtkomposition:** Die Kurzantwort muss genau die gestellte Frage beantworten. Alle vier Optionen gemeinsam auf Plausibilität, sprachliche Form, Antwortlänge, zeitliche Eingrenzung und strukturelle Raterichtung prüfen. Rückmeldungen ohne eigenständigen Erkenntniswert leer lassen.
+
+Bei zur Nutzer-Durchsicht bestimmten Stichproben den exakten angezeigten Fragetext und alle vier originalen Antwortoptionen vollständig zeigen, die richtige Lösung markieren und bisherige Kurzantwort/Vertiefung von Vorschlägen unterscheiden. Wird Frage oder Auswahl überarbeitet, auch die vollständige vorgeschlagene Zusammensetzung zeigen. Die gemeinsame Gliederung des Prüfberichts ist kein Schreibschema für die Vertiefungen. Freigegebene Redaktion, tatsächliche App-Integration und Veröffentlichung getrennt dokumentieren.
+
 ## Filmfassung, Eckdaten und Lösungsschutz
 
 Filmidentität über tatsächlichen Originaltitel und Jahr der ersten Veröffentlichung einschließlich Premiere/Festival feststellen. Remakes, Fortsetzungen, alternative Titel, Schnittfassungen und Sprachfassungen abgrenzen. Produktionsjahr, erste Veröffentlichung, deutscher Kinostart und Preisverleihungsjahr nicht vermischen.

@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Erste Qualitätsrunde freigegeben: Textfassung und präzisierte Skillregeln – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Freigabe.md)
+
 - [Erste Fünferrunde entfernt: Lernrunden ab Beginn bis zehn Fragen – 10.10.2026](../../../docs/Lernregeln.md#auswahl-und-runden)
 
 - [Zehn Fragen geprüft: Originaltexte, Einzelbewertungen und individuelle Vertiefungsvorschläge – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Pruefung.md)
