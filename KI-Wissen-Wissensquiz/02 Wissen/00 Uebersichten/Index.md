@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Zweite Qualitätsrunde: Richtung bestätigt; passende Vertiefungen sollen die Handlungsentwicklung verankern – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-02-Rueckmeldung.md)
+
 - [Zweite Qualitätsrunde: zehn neue Fragen mit allen Antworten und vollständigem Alt/Neu-Vergleich – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-02.md)
 
 - [Erste Qualitätsrunde freigegeben: Textfassung und präzisierte Skillregeln – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Freigabe.md)

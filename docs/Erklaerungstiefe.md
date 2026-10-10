@@ -2,7 +2,7 @@
 
 ## Zweite Qualitätsrunde am 10.10.2026
 
-Nach Freigabe der ersten Runde zehn neue Filme aus dem aktuellen App-Katalog gezogen. Genaue Originalfragen, alle vier Optionen, Kurzantworten und angezeigte Vertiefungen vollständig gesichert und den Vorschlägen gegenübergestellt. Alle zehn Lösungsschlüssel im Quellenabgleich bestätigt; bei Starman beantwortet die Kurzantwort die Körperherstellung statt der gesuchten Gestalt. Stirb langsam bleibt in Kurzantwort und Vertiefung erhalten. Neun Vertiefungsvorschläge und zwei vollständige neue Antwortauswahlen zur Durchsicht; Fitzcarraldo zunächst mittel statt schwer empfohlen. Fack ju Göhte bleibt trotz konkreterer Erklärung ein schwaches Detailziel. Keine neue Skillregel aus dieser noch nicht freigegebenen zweiten Runde abgeleitet und keine App-Pakete geändert. [Vollständiger Vergleich, Quellen und Prüfgrenzen](Redaktionspruefung-2026-10-10/Runde-02.md), [Originale und Vorschläge](Redaktionspruefung-2026-10-10/Runde-02.json).
+Nach Freigabe der ersten Runde zehn neue Filme aus dem aktuellen App-Katalog gezogen. Genaue Originalfragen, alle vier Optionen, Kurzantworten und angezeigte Vertiefungen vollständig gesichert und den Vorschlägen gegenübergestellt. Alle zehn Lösungsschlüssel im Quellenabgleich bestätigt; bei Starman beantwortet die Kurzantwort die Körperherstellung statt der gesuchten Gestalt. Stirb langsam bleibt in Kurzantwort und Vertiefung erhalten. Neun Vertiefungsvorschläge und zwei vollständige neue Antwortauswahlen zur Durchsicht; Fitzcarraldo zunächst mittel statt schwer empfohlen. Fack ju Göhte bleibt trotz konkreterer Erklärung ein schwaches Detailziel. Anschließend bestätigt der Nutzer die angesehenen Ansätze als gute Richtung und präzisiert die Handlungsverankerung für passende Vertiefungen. Redaktionsvertrag und Skill gezielt ergänzt; keine App-Pakete geändert. [Rückmeldung und Präzisierung](Redaktionspruefung-2026-10-10/Runde-02-Rueckmeldung.md), [vollständiger Vergleich, Quellen und Prüfgrenzen](Redaktionspruefung-2026-10-10/Runde-02.md), [Originale und Vorschläge](Redaktionspruefung-2026-10-10/Runde-02.json).
 
 ## Qualitätsprüfung von zehn Fragen am 10.10.2026
 
@@ -13,6 +13,8 @@ Mehrfach fehlt das anschauliche Detail hinter einer allgemeinen Deutung: Hari be
 ## Maßstab
 
 „Etwas tiefer eintauchen“ soll über die kurze Lösung hinausgehen. Figuren, die in Frage, Lösung oder Vertiefung im Mittelpunkt stehen, werden mit ihren Darstellern verbunden. Ergänzungen bleiben knapp und beziehen sich auf den jeweiligen Film und das Erscheinungsjahr. Reine Orts-, Technik-, Kreaturen- oder Regiefragen erhalten keine beliebige komplette Besetzungsliste.
+
+Bei jeder Vertiefung prüfen, ob ein zusammenhängender Abschnitt der Filmhandlung die Frage und Antwort verständlicher macht. Wenn es passt, die relevante Entwicklung mit nötigen Beziehungen, Ursachen oder Folgen erzählen, damit sich der Vorgang im Film einprägt. Keine feste Schrittfolge oder vollständige Inhaltsangabe verlangen; auch weiterhin passende Texte ohne Handlungserzählung zulassen. Führend ist die Handlungsverankerung in [Fragenredaktion](Fragenredaktion.md#individuelle-vertiefungen-und-redaktionelle-abnahme--10102026).
 
 ## Überarbeitung, Block 4 – 04.10.2026
 
