@@ -1,0 +1,48 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 0,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 7,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Double Indemnity|1944",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 3,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    2,
+    7,
+    8,
+    12,
+    13,
+    14,
+    15,
+    17,
+    21,
+    23,
+    26,
+    27,
+    28,
+    37,
+    41,
+    48
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "1912dbc50632630323e5edf2c16770002d1a3a3e93c2a16d224f70b042c907ab",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf",
+  "canonicalDisplayFieldsComplete": true
+}
