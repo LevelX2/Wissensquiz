@@ -1,0 +1,50 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 0,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 7,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Der Himmel über Berlin|1987",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 3,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    1,
+    6,
+    7,
+    10,
+    11,
+    12,
+    15,
+    19,
+    20,
+    22,
+    23,
+    27,
+    28,
+    29,
+    30,
+    36,
+    44,
+    45,
+    46
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "3e26caa8e694dba71e80c4e03489ff478a523078a3bfc69f20ecd67bede6af72",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf"
+}

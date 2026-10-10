@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 2350,
-  "totalReviewed": 2500,
-  "remainingFilmQuestions": 8233,
+  "completedInThisRun": 2400,
+  "totalReviewed": 2550,
+  "remainingFilmQuestions": 8183,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 10273,
+  "remainingAllQuestions": 10223,
   "blocks": [
     {
       "block": 1,
@@ -243,6 +243,11 @@
     {
       "block": 47,
       "path": "Block-47.json",
+      "count": 50
+    },
+    {
+      "block": 48,
+      "path": "Block-48.json",
       "count": 50
     }
   ],
@@ -2746,209 +2751,59 @@
     "E20261007-F-038-L1",
     "E20261007-F-038-L2",
     "E20261007-F-038-M1",
-    "E20261007-F-038-M2"
+    "E20261007-F-038-M2",
+    "E20261007-F-038-S1",
+    "E20261007-F-038-S2",
+    "E20261007-F-038-Y",
+    "E20261007-F-038-D",
+    "F240-20261006-005-L1",
+    "F240-20261006-005-L2",
+    "F240-20261006-005-M1",
+    "F240-20261006-005-M2",
+    "F240-20261006-005-S1",
+    "F240-20261006-005-S2",
+    "F240-20261006-005-Y",
+    "F240-20261006-005-D",
+    "SF-202609-P02-L-071",
+    "SF-202609-P02-L-072",
+    "SF-202609-P02-M-071",
+    "SF-202609-P02-M-072",
+    "SF-202609-P02-S-071",
+    "SF-202609-P02-S-072",
+    "SF-202609-P02-M-071-V1",
+    "FF-361-YEAR",
+    "FF-361-DIRECTOR",
+    "F240-20261006-220-L1",
+    "F240-20261006-220-L2",
+    "F240-20261006-220-M1",
+    "F240-20261006-220-M2",
+    "F240-20261006-220-S1",
+    "F240-20261006-220-S2",
+    "F240-20261006-220-Y",
+    "F240-20261006-220-D",
+    "G100-20261008-ROMCOM-022-L1",
+    "G100-20261008-ROMCOM-022-L2",
+    "G100-20261008-ROMCOM-022-M1",
+    "G100-20261008-ROMCOM-022-M2",
+    "G100-20261008-ROMCOM-022-S1",
+    "G100-20261008-ROMCOM-022-S2",
+    "G100-20261008-ROMCOM-022-Y",
+    "G100-20261008-ROMCOM-022-D",
+    "CLA-L-041",
+    "CLA-L-042",
+    "CLA-M-041",
+    "CLA-M-042",
+    "CLA-S-041",
+    "CLA-S-042",
+    "FF-071-YEAR",
+    "FF-071-DIRECTOR",
+    "ART-L-003",
+    "ART-L-004",
+    "ART-M-003",
+    "ART-M-004",
+    "ART-S-003"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "E20261007-F-038-S1",
-      "filmKey": "Déjà Vu|2006"
-    },
-    {
-      "id": "E20261007-F-038-S2",
-      "filmKey": "Déjà Vu|2006"
-    },
-    {
-      "id": "E20261007-F-038-Y",
-      "filmKey": "Déjà Vu|2006"
-    },
-    {
-      "id": "E20261007-F-038-D",
-      "filmKey": "Déjà Vu|2006"
-    },
-    {
-      "id": "F240-20261006-005-L1",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-L2",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-M1",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-M2",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-S1",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-S2",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-Y",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-D",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "SF-202609-P02-L-071",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-L-072",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-M-071",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-M-072",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-S-071",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-S-072",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-M-071-V1",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "FF-361-YEAR",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "FF-361-DIRECTOR",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "F240-20261006-220-L1",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-L2",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-M1",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-M2",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-S1",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-S2",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-Y",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-D",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-L1",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-L2",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-M1",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-M2",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-S1",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-S2",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-Y",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-D",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "CLA-L-041",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "CLA-L-042",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "CLA-M-041",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "CLA-M-042",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "CLA-S-041",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "CLA-S-042",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "FF-071-YEAR",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "FF-071-DIRECTOR",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "ART-L-003",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "ART-L-004",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "ART-M-003",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "ART-M-004",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
-    {
-      "id": "ART-S-003",
-      "filmKey": "Der Himmel über Berlin|1987"
-    },
     {
       "id": "ART-S-004",
       "filmKey": "Der Himmel über Berlin|1987"
@@ -35684,204 +35539,204 @@
   ],
   "next": [
     {
-      "id": "E20261007-F-038-S1",
-      "filmKey": "Déjà Vu|2006"
-    },
-    {
-      "id": "E20261007-F-038-S2",
-      "filmKey": "Déjà Vu|2006"
-    },
-    {
-      "id": "E20261007-F-038-Y",
-      "filmKey": "Déjà Vu|2006"
-    },
-    {
-      "id": "E20261007-F-038-D",
-      "filmKey": "Déjà Vu|2006"
-    },
-    {
-      "id": "F240-20261006-005-L1",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-L2",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-M1",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-M2",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-S1",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-S2",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-Y",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "F240-20261006-005-D",
-      "filmKey": "Deliverance|1972"
-    },
-    {
-      "id": "SF-202609-P02-L-071",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-L-072",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-M-071",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-M-072",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-S-071",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-S-072",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "SF-202609-P02-M-071-V1",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "FF-361-YEAR",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "FF-361-DIRECTOR",
-      "filmKey": "Demolition Man|1993"
-    },
-    {
-      "id": "F240-20261006-220-L1",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-L2",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-M1",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-M2",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-S1",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-S2",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-Y",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "F240-20261006-220-D",
-      "filmKey": "Den skyldige|2018"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-L1",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-L2",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-M1",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-M2",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-S1",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-S2",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-Y",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-022-D",
-      "filmKey": "Der bewegte Mann|1994"
-    },
-    {
-      "id": "CLA-L-041",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "CLA-L-042",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "CLA-M-041",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "CLA-M-042",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "CLA-S-041",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "CLA-S-042",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "FF-071-YEAR",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "FF-071-DIRECTOR",
-      "filmKey": "Der blaue Engel|1930"
-    },
-    {
-      "id": "ART-L-003",
+      "id": "ART-S-004",
       "filmKey": "Der Himmel über Berlin|1987"
     },
     {
-      "id": "ART-L-004",
+      "id": "ART-L-003-V1",
       "filmKey": "Der Himmel über Berlin|1987"
     },
     {
-      "id": "ART-M-003",
+      "id": "ART-M-003-V1",
       "filmKey": "Der Himmel über Berlin|1987"
     },
     {
-      "id": "ART-M-004",
+      "id": "ART-S-003-V1",
       "filmKey": "Der Himmel über Berlin|1987"
     },
     {
-      "id": "ART-S-003",
+      "id": "FF-027-YEAR",
       "filmKey": "Der Himmel über Berlin|1987"
+    },
+    {
+      "id": "FF-027-DIRECTOR",
+      "filmKey": "Der Himmel über Berlin|1987"
+    },
+    {
+      "id": "E20261007-F-139-L1",
+      "filmKey": "Der Schuh des Manitu|2001"
+    },
+    {
+      "id": "E20261007-F-139-L2",
+      "filmKey": "Der Schuh des Manitu|2001"
+    },
+    {
+      "id": "E20261007-F-139-M1",
+      "filmKey": "Der Schuh des Manitu|2001"
+    },
+    {
+      "id": "E20261007-F-139-M2",
+      "filmKey": "Der Schuh des Manitu|2001"
+    },
+    {
+      "id": "E20261007-F-139-S1",
+      "filmKey": "Der Schuh des Manitu|2001"
+    },
+    {
+      "id": "E20261007-F-139-S2",
+      "filmKey": "Der Schuh des Manitu|2001"
+    },
+    {
+      "id": "E20261007-F-139-Y",
+      "filmKey": "Der Schuh des Manitu|2001"
+    },
+    {
+      "id": "E20261007-F-139-D",
+      "filmKey": "Der Schuh des Manitu|2001"
+    },
+    {
+      "id": "E20261007-F-137-L1",
+      "filmKey": "Der Wixxer|2004"
+    },
+    {
+      "id": "E20261007-F-137-L2",
+      "filmKey": "Der Wixxer|2004"
+    },
+    {
+      "id": "E20261007-F-137-M1",
+      "filmKey": "Der Wixxer|2004"
+    },
+    {
+      "id": "E20261007-F-137-M2",
+      "filmKey": "Der Wixxer|2004"
+    },
+    {
+      "id": "E20261007-F-137-S1",
+      "filmKey": "Der Wixxer|2004"
+    },
+    {
+      "id": "E20261007-F-137-S2",
+      "filmKey": "Der Wixxer|2004"
+    },
+    {
+      "id": "E20261007-F-137-Y",
+      "filmKey": "Der Wixxer|2004"
+    },
+    {
+      "id": "E20261007-F-137-D",
+      "filmKey": "Der Wixxer|2004"
+    },
+    {
+      "id": "ACT-202610-P01-L-019",
+      "filmKey": "Desperado|1995"
+    },
+    {
+      "id": "ACT-202610-P01-L-020",
+      "filmKey": "Desperado|1995"
+    },
+    {
+      "id": "ACT-202610-P01-M-028",
+      "filmKey": "Desperado|1995"
+    },
+    {
+      "id": "ACT-202610-P01-M-029",
+      "filmKey": "Desperado|1995"
+    },
+    {
+      "id": "ACT-202610-P01-S-028",
+      "filmKey": "Desperado|1995"
+    },
+    {
+      "id": "ACT-202610-P01-S-029",
+      "filmKey": "Desperado|1995"
+    },
+    {
+      "id": "ACT-202610-P01-M-030",
+      "filmKey": "Desperado|1995"
+    },
+    {
+      "id": "ACT-202610-P01-S-030",
+      "filmKey": "Desperado|1995"
+    },
+    {
+      "id": "ART-L-009",
+      "filmKey": "Det sjunde inseglet|1957"
+    },
+    {
+      "id": "ART-L-010",
+      "filmKey": "Det sjunde inseglet|1957"
+    },
+    {
+      "id": "ART-M-009",
+      "filmKey": "Det sjunde inseglet|1957"
+    },
+    {
+      "id": "ART-M-010",
+      "filmKey": "Det sjunde inseglet|1957"
+    },
+    {
+      "id": "ART-S-009",
+      "filmKey": "Det sjunde inseglet|1957"
+    },
+    {
+      "id": "ART-S-010",
+      "filmKey": "Det sjunde inseglet|1957"
+    },
+    {
+      "id": "ART-L-009-V1",
+      "filmKey": "Det sjunde inseglet|1957"
+    },
+    {
+      "id": "ART-M-009-V1",
+      "filmKey": "Det sjunde inseglet|1957"
+    },
+    {
+      "id": "ART-S-009-V1",
+      "filmKey": "Det sjunde inseglet|1957"
+    },
+    {
+      "id": "FF-030-YEAR",
+      "filmKey": "Det sjunde inseglet|1957"
+    },
+    {
+      "id": "FF-030-DIRECTOR",
+      "filmKey": "Det sjunde inseglet|1957"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-026-L1",
+      "filmKey": "Deux Frères|2004"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-026-L2",
+      "filmKey": "Deux Frères|2004"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-026-M1",
+      "filmKey": "Deux Frères|2004"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-026-M2",
+      "filmKey": "Deux Frères|2004"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-026-S1",
+      "filmKey": "Deux Frères|2004"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-026-S2",
+      "filmKey": "Deux Frères|2004"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-026-Y",
+      "filmKey": "Deux Frères|2004"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-026-D",
+      "filmKey": "Deux Frères|2004"
+    },
+    {
+      "id": "E20261007-F-148-L1",
+      "filmKey": "Di Renjie zhi shen du long wang|2013"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
