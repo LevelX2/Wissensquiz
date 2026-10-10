@@ -1,0 +1,47 @@
+{
+  "asOf": "2026-10-10",
+  "scope": "Redaktionelle Artefakte; keine App-Integration, kein Veröffentlichungsartefakt",
+  "reviewCount": 100,
+  "distinctFilms": 25,
+  "genres": 10,
+  "deepRevised": 98,
+  "deepRetained": 2,
+  "shortRevised": 14,
+  "compositionRevised": 27,
+  "answerSetsRevised": 23,
+  "questionWordingRevised": 7,
+  "anchorsRevised": 31,
+  "feedbackRevised": 99,
+  "newGoals": 2,
+  "reusedGoals": 98,
+  "retainedDeepNumbers": [
+    75,
+    100
+  ],
+  "openInterpretations": [
+    92
+  ],
+  "difficulties": {
+    "leicht": 34,
+    "mittel": 33,
+    "schwer": 33
+  },
+  "originalsPreserved": true,
+  "originalSnapshotSha256": "bc304d32384a199663648509a34cc9a99f0400e682a76d17605ef74e34ccf523",
+  "previousFilmsExcluded": 50,
+  "originalAndProposedOptionsValidated": true,
+  "maximumQuestionAndOptionsWords": 59,
+  "over60Words": [],
+  "independentGoalsReviewed": 100,
+  "filmCoverage": "Alle 25 Filme im vorliegenden Bestand und nach den beiden Ersatzvorschlägen: 2/2/2 Inhaltsziele, je ein Jahres- und Regieziel. IDs separat nachgewiesen.",
+  "sourceMethod": {
+    "method": "Gelesene Handlungs- und Besetzungsartikel; ergänzend AFI, Library of Congress, New Zealand Film Commission, offizielle Harry-Potter-Faktseiten und Chaplins offizielle Synopsis. Konkrete Belegreichweite pro Film dokumentiert.",
+    "limits": "Keine vollständige neue Filmsichtung. Viele Handlungsdetails nur sekundär geprüft. Primärseiten und Institutionsseiten nur für die dort tatsächlich bestätigten Aussagen. Keine offenen Interpretationen als einzig richtige Tatsachenlösung verwendet.",
+    "duplicateReview": "Vollständiger importierter Bestand (12.773 Fragen) verfügbar. Für alle 25 Filme die unabhängigen Inhaltsziele anhand von Frage und learning_objective abgeglichen. Neue Ziele zusätzlich katalogweit nach Nadal/Hingerichteten/Exil und Hynkel/Kredit/Schonung durchsucht; kein gleiches Filmziel gefunden. Keine Behauptung eines vollständig redigierten übrigen Katalogs."
+  },
+  "sourceUrlsRead": 35,
+  "formalValidation": "100 Originale nach Schreiben identisch; 100 vollständige Vorschläge; keine mehrfachen Frage-/Ziel-IDs; 4 unterschiedliche Optionen und genau 1 richtige Lösung; Quellen- und Abdeckungszuordnung vorhanden.",
+  "applicationTests": "Nicht erforderlich: keine App-/Importänderung.",
+  "skillChange": "Keine neue Regel erforderlich; vorhandene Regeln angewandt.",
+  "localLinksChecked": 3
+}
