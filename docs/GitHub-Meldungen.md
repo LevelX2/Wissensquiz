@@ -1,10 +1,12 @@
 # Meldungen aus Spiel und Profil
 
-## Stand – 04.10.2026
+## Stand – 10.10.2026
 
 Auf [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerauftrag%20GitHub-Meldungen.txt) umgesetzt: „Frage melden“ öffnet das gemeinsame Meldeformular mit Fragenbezug. Profil → „Problem oder Verbesserung melden“ bietet dasselbe Formular für allgemeine Rückmeldungen. Angemeldete, bestätigte Quiz-Konten können ein öffentliches Issue in [LevelX2/Wissensquiz](https://github.com/LevelX2/Wissensquiz/issues) erstellen; ein eigenes GitHub-Konto ist nicht erforderlich. Gäste erhalten einen Anmeldehinweis.
 
-Die Oberfläche ist seit **Sites-Version 55** am 04.10.2026 um 18:41:47 Uhr Europe/Berlin veröffentlicht. Die neue Datenbankerweiterung und Edge Function sind in Supabase eingerichtet. **Der GitHub-Schlüssel fehlt noch:** Im Dashboard waren am 04.10.2026 keine benutzerdefinierten Function-Secrets hinterlegt. Ein echter Versand bis zum GitHub-Issue wurde deshalb noch nicht abgenommen. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-55-porträts-lösungsanzeige-antworttöne-und-github-meldeformulare).
+Die Oberfläche ist seit **Sites-Version 55** am 04.10.2026 um 18:41:47 Uhr Europe/Berlin veröffentlicht. Datenbankerweiterung und Edge Function sind in Supabase eingerichtet. Auf [erneuten Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Meldungsdienst%20fertig%20einrichten.txt) wurde am **10.10.2026 um 18:15:29 Uhr Europe/Berlin** der bisher fehlende GitHub-Schlüssel als `GITHUB_REPORT_TOKEN` in Supabase gespeichert. Der eigene Fine-grained Token „Wissensquiz Meldungsdienst“ gilt auf ausdrückliche Freigabe ohne Ablaufdatum, ausschließlich für Issues (Lesen/Schreiben) in `LevelX2/Wissensquiz`, ergänzt um GitHubs verpflichtenden lesenden Metadatenzugriff. Kein Tokenwert wurde in Projektdateien oder Chat übernommen. Der echte Versand wurde mit einem bestätigten Quiz-Konto über beide Live-Formulare erfolgreich abgenommen: allgemeine Meldung als Issue #1 und Fragenmeldung als Issue #2. Beide ausdrücklich freigegebenen Testtickets sind anschließend geschlossen worden. [Veröffentlichungsnachweis der Oberfläche](Sites-Betrieb.md#version-55-porträts-lösungsanzeige-antworttöne-und-github-meldeformulare).
+
+Die angezeigte Fehlermeldung entsprach `reporting_not_configured`: Der Code gibt sie nach erfolgreicher Kontoprüfung aus, wenn `GITHUB_REPORT_TOKEN` fehlt. Live bestätigt waren eine aktive Function Version 2 mit eingeschalteter JWT-Prüfung, keine benutzerdefinierten Secrets und keine Einträge in der Versandtabelle. Der Schlüssel wurde im bestehenden Projekt ergänzt; eine erneute Sites-Veröffentlichung oder Function-Bereitstellung ist dafür nicht erforderlich. Die vier bereitgestellten Function-Dateien stimmen mit den lokalen Quellen überein.
 
 ## Formular und veröffentlichte Angaben
 
@@ -42,6 +44,21 @@ Vor dem Issue wird das feste Typ-Label geprüft und bei Bedarf erstellt. Ein Feh
 Supabase übernimmt geänderte Secrets ohne erneute Function-Bereitstellung. Labels werden beim ersten Versand je Typ angelegt. [Function-Secrets](https://supabase.com/docs/guides/functions/secrets), [GitHub: Issue erstellen](https://docs.github.com/en/rest/issues/issues#create-an-issue), [GitHub: Label erstellen](https://docs.github.com/en/rest/issues/labels#create-a-label).
 
 ## Einrichtung und Prüfnachweis
+
+### Live-Abnahme am 10.10.2026
+
+- Secret im Supabase-Dashboard erfolgreich gespeichert um 18:15:29 Uhr Europe/Berlin; Tokenname „Wissensquiz Meldungsdienst“, ohne Ablaufdatum gemäß ausdrücklicher Freigabe. Bei Widerruf oder Austausch denselben Secret-Namen verwenden. Der Schlüssel ist ausschließlich für den serverseitigen Meldungsversand bestimmt.
+- Allgemeines Live-Formular: [Issue #1](https://github.com/LevelX2/Wissensquiz/issues/1), `meldung:sonstiges`, App-Version 64, ohne Fragenbezug. Reservierung um 18:18:21 Uhr, bestätigter GitHub-Beleg um 18:18:22 Uhr Europe/Berlin.
+- Live-Formular „Frage melden“: [Issue #2](https://github.com/LevelX2/Wissensquiz/issues/2), `meldung:inhalt`, App-Version 64, Fragen-ID `ACT-L-030`, Inhaltsversion `csv-6790a37d`. Reservierung um 18:19:28 Uhr Europe/Berlin nach dem regulären Mindestabstand.
+- Beide Formulare zeigten den bestätigten konkreten Issue-Link. Beide Serverbelege stehen auf `sent`; GitHub-Inhalte und Labels getrennt per API bestätigt. Öffentlich enthalten sind nur die bewusst freigegebenen Testtexte und der vorgesehene Kontext, keine automatisch übertragenen Kontodaten oder Spielstände. Beide Testtickets anschließend als erledigt geschlossen; Versandbelege bleiben zur Wiederholungssicherheit erhalten.
+- Wiederholungsprüfung der ersten Meldungs-ID direkt über den produktiven Reservierungs-RPC liefert `action: sent` und denselben Issue-Link. Das erneute vollständige HTTP-Senden derselben ID und die Behandlung unklarer GitHub-Antworten sind zusätzlich isoliert geprüft; kein erzwungener Fehler im Live-Versand.
+- Für den Fragenbezug ausschließlich die bereits begonnene Wiederholungsrunde geöffnet und anschließend wieder zur Startseite zurückgekehrt. Keine neue Runde gestartet, keine Antwort abgegeben oder zur nächsten Frage gewechselt.
+- RLS aktiv, kein Schema-Zugriff für `anon`/`authenticated`, beide Versand-RPCs `SECURITY INVOKER` und nur für `service_role` ausführbar. Function Version 2 weiterhin aktiv mit `verify_jwt: true`; alle vier bereitgestellten Dateien stimmen mit den lokalen Quellen überein.
+- 15 fokussierte Handler-/Datenbanktests, anschließend 468/468 Tests in 75 Dateien und TypeScript/Vite-Build erfolgreich. Zwei Chromiumfälle auf dem abschließenden Build erfolgreich: allgemeine Meldung mit Zustimmung, Labeltyp, Beleg und unverändertem synthetischem Spielstand; Fragenmeldung mit erhaltenem Kontext und gleicher ID nach unklarem Versand/Neuladen. Der ältere Konten-Mock hatte `quiz_ranked_call` abgefangen und den Einstieg blockiert; er reicht diesen Aufruf jetzt an den vorhandenen isolierten SQL-Testserver weiter.
+
+Keine neue Website-Veröffentlichung, kein GitHub-Push und keine neue Datenbankmigration erforderlich. Grenzen bleiben: fünf neue Meldungen je Konto und 24 Stunden, mindestens 60 Sekunden Abstand, ausschließlich bestätigte Quiz-Konten und öffentliche GitHub-Issues. Bei späterem Widerruf des Tokens muss er ersetzt werden.
+
+### Ursprüngliche Einrichtung am 04.10.2026
 
 Migration `20261004161423_quiz_issue_reporting` nativ erfolgreich im bestehenden Projekt eingerichtet; lokaler Dateiname an die bestätigte Remote-Version angeglichen. Function `quiz-report`, ID `4966b4e0-fb40-4d69-a6f6-e175001b2b47`, Version 2, Status `ACTIVE`, JWT-Prüfung eingeschaltet. Paket-SHA-256: `c802c13ffdf937037a60e7e9abe378288cbc004f81ed22a46222bb1e6bb1c41a`. Beim Update musste der Importmap-Pfad ausdrücklich auf `deno.json` gesetzt werden, da der native Dienst sonst den absoluten Pfad der früheren Bereitstellung übernahm.
 

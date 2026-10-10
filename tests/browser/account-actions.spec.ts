@@ -265,7 +265,8 @@ async function mockAccounts(page: Page, server: Server = new Map()) {
     const path = new URL(request.url()).pathname;
     const body = request.postDataJSON() ?? {};
     requests.push({ path, body });
-    if (path.includes("/quiz_sync_")) return route.fallback();
+    if (path.includes("/quiz_sync_") || path.endsWith("/quiz_ranked_call"))
+      return route.fallback();
     if (path.endsWith("/token")) {
       current = body.email === "bob@example.test" ? bob : alice;
       return route.fulfill({ json: session(current) });

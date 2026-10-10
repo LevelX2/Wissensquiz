@@ -1,0 +1,9 @@
+Nutzerauftrag am 10.10.2026:
+
+Ich dachte, wir hätten den Meldungsdienst eingerichtet, dass der, wenn man halt eine Frage meldet oder ein allgemeines Punkt meldet, dass der ein Ticket in GitHub anlegt. Jetzt sagt er mir aber: Der Meldungsdienst ist noch nicht eingerichtet, bitte versuchen Sie es später erneut. Woran hängt es? kannst du das fertig machen? Komplett einrichten?
+
+Ausdrückliche Freigabe am 10.10.2026:
+
+Frage: Darf ich den vorbereiteten GitHub-Schlüssel jetzt erzeugen und als `GITHUB_REPORT_TOKEN` in Supabase speichern? Er gilt ohne Ablaufdatum ausschließlich für Issues in `LevelX2/Wissensquiz` (Lesen/Schreiben; dazu GitHubs verpflichtender lesender Metadatenzugriff). Anschließend prüfe ich den Versand mit klar gekennzeichneten Testmeldungen.
+
+Antwort: Ja, so einrichten
