@@ -1,0 +1,50 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 1,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 7,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Citizen Kane|1941",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 0,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    4,
+    7,
+    13,
+    14,
+    15,
+    16,
+    21,
+    22,
+    23,
+    25,
+    27,
+    29,
+    30,
+    32,
+    38,
+    39,
+    40,
+    45,
+    47
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "311d6b1821bfbaa8caa12624696bddbf5213bdb426bac5a507856464a23d9554",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf"
+}

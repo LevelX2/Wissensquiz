@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 1950,
-  "totalReviewed": 2100,
-  "remainingFilmQuestions": 8633,
+  "completedInThisRun": 2000,
+  "totalReviewed": 2150,
+  "remainingFilmQuestions": 8583,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 10673,
+  "remainingAllQuestions": 10623,
   "blocks": [
     {
       "block": 1,
@@ -203,6 +203,11 @@
     {
       "block": 39,
       "path": "Block-39.json",
+      "count": 50
+    },
+    {
+      "block": 40,
+      "path": "Block-40.json",
       "count": 50
     }
   ],
@@ -2306,209 +2311,59 @@
     "MUS-202609-P01-S-009-V1",
     "FF-305-YEAR",
     "FF-305-DIRECTOR",
-    "SF-202609-P02-L-053"
+    "SF-202609-P02-L-053",
+    "SF-202609-P02-L-054",
+    "SF-202609-P02-M-053",
+    "SF-202609-P02-M-054",
+    "SF-202609-P02-S-053",
+    "SF-202609-P02-S-054",
+    "SF-202609-P02-M-053-V1",
+    "FF-352-YEAR",
+    "FF-352-DIRECTOR",
+    "F240-20261006-201-L1",
+    "F240-20261006-201-L2",
+    "F240-20261006-201-M1",
+    "F240-20261006-201-M2",
+    "F240-20261006-201-S1",
+    "F240-20261006-201-S2",
+    "F240-20261006-201-Y",
+    "F240-20261006-201-D",
+    "E20261007-F-149-L1",
+    "E20261007-F-149-L2",
+    "E20261007-F-149-M1",
+    "E20261007-F-149-M2",
+    "E20261007-F-149-S1",
+    "E20261007-F-149-S2",
+    "E20261007-F-149-Y",
+    "E20261007-F-149-D",
+    "HOR-202610-P01-L-003",
+    "HOR-202610-P01-L-004",
+    "HOR-202610-P01-M-004",
+    "HOR-202610-P01-M-005",
+    "HOR-202610-P01-S-004",
+    "HOR-202610-P01-S-005",
+    "HOR-202610-P01-M-006",
+    "HOR-202610-P01-S-006",
+    "ART-L-035",
+    "ART-L-036",
+    "ART-M-035",
+    "ART-M-036",
+    "ART-S-035",
+    "ART-S-036",
+    "FF-043-YEAR",
+    "FF-043-DIRECTOR",
+    "E20261007-F-156-L1",
+    "E20261007-F-156-L2",
+    "E20261007-F-156-M1",
+    "E20261007-F-156-M2",
+    "E20261007-F-156-S1",
+    "E20261007-F-156-S2",
+    "E20261007-F-156-Y",
+    "E20261007-F-156-D",
+    "CLA-L-003",
+    "CLA-L-004"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "SF-202609-P02-L-054",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "SF-202609-P02-M-053",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "SF-202609-P02-M-054",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "SF-202609-P02-S-053",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "SF-202609-P02-S-054",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "SF-202609-P02-M-053-V1",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "FF-352-YEAR",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "FF-352-DIRECTOR",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "F240-20261006-201-L1",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-L2",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-M1",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-M2",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-S1",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-S2",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-Y",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-D",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "E20261007-F-149-L1",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-L2",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-M1",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-M2",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-S1",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-S2",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-Y",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-D",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "HOR-202610-P01-L-003",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-L-004",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-M-004",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-M-005",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-S-004",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-S-005",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-M-006",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-S-006",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "ART-L-035",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "ART-L-036",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "ART-M-035",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "ART-M-036",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "ART-S-035",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "ART-S-036",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "FF-043-YEAR",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "FF-043-DIRECTOR",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "E20261007-F-156-L1",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-L2",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-M1",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-M2",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-S1",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-S2",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-Y",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-D",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "CLA-L-003",
-      "filmKey": "Citizen Kane|1941"
-    },
-    {
-      "id": "CLA-L-004",
-      "filmKey": "Citizen Kane|1941"
-    },
     {
       "id": "CLA-M-003",
       "filmKey": "Citizen Kane|1941"
@@ -36844,204 +36699,204 @@
   ],
   "next": [
     {
-      "id": "SF-202609-P02-L-054",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "SF-202609-P02-M-053",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "SF-202609-P02-M-054",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "SF-202609-P02-S-053",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "SF-202609-P02-S-054",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "SF-202609-P02-M-053-V1",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "FF-352-YEAR",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "FF-352-DIRECTOR",
-      "filmKey": "Children of Men|2006"
-    },
-    {
-      "id": "F240-20261006-201-L1",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-L2",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-M1",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-M2",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-S1",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-S2",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-Y",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "F240-20261006-201-D",
-      "filmKey": "Chinatown|1974"
-    },
-    {
-      "id": "E20261007-F-149-L1",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-L2",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-M1",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-M2",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-S1",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-S2",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-Y",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "E20261007-F-149-D",
-      "filmKey": "Choejongbyeonggi Hwal|2011"
-    },
-    {
-      "id": "HOR-202610-P01-L-003",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-L-004",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-M-004",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-M-005",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-S-004",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-S-005",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-M-006",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "HOR-202610-P01-S-006",
-      "filmKey": "Christine|1983"
-    },
-    {
-      "id": "ART-L-035",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "ART-L-036",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "ART-M-035",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "ART-M-036",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "ART-S-035",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "ART-S-036",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "FF-043-YEAR",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "FF-043-DIRECTOR",
-      "filmKey": "Chung Hing sam lam|1994"
-    },
-    {
-      "id": "E20261007-F-156-L1",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-L2",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-M1",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-M2",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-S1",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-S2",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-Y",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "E20261007-F-156-D",
-      "filmKey": "Ci ma|1973"
-    },
-    {
-      "id": "CLA-L-003",
+      "id": "CLA-M-003",
       "filmKey": "Citizen Kane|1941"
     },
     {
-      "id": "CLA-L-004",
+      "id": "CLA-M-004",
       "filmKey": "Citizen Kane|1941"
+    },
+    {
+      "id": "CLA-S-003",
+      "filmKey": "Citizen Kane|1941"
+    },
+    {
+      "id": "CLA-S-004",
+      "filmKey": "Citizen Kane|1941"
+    },
+    {
+      "id": "CLA-L-004-V1",
+      "filmKey": "Citizen Kane|1941"
+    },
+    {
+      "id": "CLA-M-004-V1",
+      "filmKey": "Citizen Kane|1941"
+    },
+    {
+      "id": "CLA-S-004-V1",
+      "filmKey": "Citizen Kane|1941"
+    },
+    {
+      "id": "FF-052-YEAR",
+      "filmKey": "Citizen Kane|1941"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-001-L1",
+      "filmKey": "City Lights|1931"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-001-L2",
+      "filmKey": "City Lights|1931"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-001-M1",
+      "filmKey": "City Lights|1931"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-001-M2",
+      "filmKey": "City Lights|1931"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-001-S1",
+      "filmKey": "City Lights|1931"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-001-S2",
+      "filmKey": "City Lights|1931"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-001-Y",
+      "filmKey": "City Lights|1931"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-001-D",
+      "filmKey": "City Lights|1931"
+    },
+    {
+      "id": "KOM-202609-P02-L-035",
+      "filmKey": "Clerks|1994"
+    },
+    {
+      "id": "KOM-202609-P02-L-036",
+      "filmKey": "Clerks|1994"
+    },
+    {
+      "id": "KOM-202609-P02-M-035",
+      "filmKey": "Clerks|1994"
+    },
+    {
+      "id": "KOM-202609-P02-M-036",
+      "filmKey": "Clerks|1994"
+    },
+    {
+      "id": "KOM-202609-P02-S-035",
+      "filmKey": "Clerks|1994"
+    },
+    {
+      "id": "KOM-202609-P02-S-036",
+      "filmKey": "Clerks|1994"
+    },
+    {
+      "id": "KOM-202609-P02-L-035-V1",
+      "filmKey": "Clerks|1994"
+    },
+    {
+      "id": "FF-393-YEAR",
+      "filmKey": "Clerks|1994"
+    },
+    {
+      "id": "FF-393-DIRECTOR",
+      "filmKey": "Clerks|1994"
+    },
+    {
+      "id": "E20261007-F-029-L1",
+      "filmKey": "Cliffhanger|1993"
+    },
+    {
+      "id": "E20261007-F-029-L2",
+      "filmKey": "Cliffhanger|1993"
+    },
+    {
+      "id": "E20261007-F-029-M1",
+      "filmKey": "Cliffhanger|1993"
+    },
+    {
+      "id": "E20261007-F-029-M2",
+      "filmKey": "Cliffhanger|1993"
+    },
+    {
+      "id": "E20261007-F-029-S1",
+      "filmKey": "Cliffhanger|1993"
+    },
+    {
+      "id": "E20261007-F-029-S2",
+      "filmKey": "Cliffhanger|1993"
+    },
+    {
+      "id": "E20261007-F-029-Y",
+      "filmKey": "Cliffhanger|1993"
+    },
+    {
+      "id": "E20261007-F-029-D",
+      "filmKey": "Cliffhanger|1993"
+    },
+    {
+      "id": "SF-202609-P02-L-021",
+      "filmKey": "Close Encounters of the Third Kind|1977"
+    },
+    {
+      "id": "SF-202609-P02-L-022",
+      "filmKey": "Close Encounters of the Third Kind|1977"
+    },
+    {
+      "id": "SF-202609-P02-M-021",
+      "filmKey": "Close Encounters of the Third Kind|1977"
+    },
+    {
+      "id": "SF-202609-P02-M-022",
+      "filmKey": "Close Encounters of the Third Kind|1977"
+    },
+    {
+      "id": "SF-202609-P02-S-021",
+      "filmKey": "Close Encounters of the Third Kind|1977"
+    },
+    {
+      "id": "SF-202609-P02-S-022",
+      "filmKey": "Close Encounters of the Third Kind|1977"
+    },
+    {
+      "id": "SF-202609-P02-L-021-V1",
+      "filmKey": "Close Encounters of the Third Kind|1977"
+    },
+    {
+      "id": "FF-336-YEAR",
+      "filmKey": "Close Encounters of the Third Kind|1977"
+    },
+    {
+      "id": "FF-336-DIRECTOR",
+      "filmKey": "Close Encounters of the Third Kind|1977"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-005-L1",
+      "filmKey": "Clueless|1995"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-005-L2",
+      "filmKey": "Clueless|1995"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-005-M1",
+      "filmKey": "Clueless|1995"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-005-M2",
+      "filmKey": "Clueless|1995"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-005-S1",
+      "filmKey": "Clueless|1995"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-005-S2",
+      "filmKey": "Clueless|1995"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-005-Y",
+      "filmKey": "Clueless|1995"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-005-D",
+      "filmKey": "Clueless|1995"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
