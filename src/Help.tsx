@@ -41,9 +41,16 @@ export function Help() {
           richtige Antworten verschieben Deinen Wiederholungstermin und die
           Festigung nicht nach hinten. Der Abstand zählt ab Deiner letzten
           erreichten Lernstufe. Nach der Antwort siehst Du den nächsten Termin.
-          In der Filmreise kommen fällige Ziele wieder, sobald keine neuen
-          passenden Ziele mehr verfügbar sind.
+          In der Filmreise wählst Du „Nur fällige Wiederholungen“ oder
+          „Gemischt“. Die Mischung reserviert bei genügend passenden Fragen die
+          Hälfte der Runde für fällige Ziele und ergänzt neue Fragen.
         </p>
+        <ol>
+          <li>Stufe 1: erste sichere Antwort → Wiederholung nach 1 Tag.</li>
+          <li>Stufe 2: fällig und sicher richtig → nach weiteren 3 Tagen.</li>
+          <li>Stufe 3: fällig und sicher richtig → nach weiteren 7 Tagen.</li>
+          <li>Stufe 4: gefestigt → Wiederholung nach weiteren 21 Tagen.</li>
+        </ol>
         <p>
           Ein Fehler oder Zeitablauf setzt das Ziel auf „entdeckt“ zurück; es
           wird nach zehn Minuten wieder fällig. Bei „War geraten“ sind es sechs

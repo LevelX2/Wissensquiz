@@ -20,7 +20,7 @@ Auf [Nutzerhinweis](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzer
 
 Die vorhandenen Ereignisse, `stage`, `lastSecure`, `due` und `lastAdvancedDay` reichen aus. Keine neue Speicherung, Migration, Abhängigkeit oder Kompatibilitätslogik. Die normale Neuberechnung verwendet die korrigierte Lernregel auch für vorhandene Ereignisse und deren Lern-XP. Technische Zähler beziehen sich auf eindeutige Wissensziele; Varianten erzeugen keinen zusätzlichen Fortschritt. Der Balken misst erreichte App-Lernstufen und keine diagnostische Wissenssicherheit. Eine falsche oder geratene Antwort kann ihn entsprechend der vorhandenen Rücksetzungsregel verringern.
 
-Die Filmreise bevorzugt weiterhin neue passende Ziele. Ein Lerntermin garantiert deshalb keine automatische Aufnahme in die nächste Filmreise-Runde. Gefestigte Ziele bleiben spielbar. [Führender Lernvertrag](Lernregeln.md#sichtbare-lernstufen--04102026).
+Seit der lokalen Korrektur vom 10.10.2026 bietet die Filmreise reine fällige Wiederholungen oder eine Mischung mit reservierten Wiederholungsplätzen. Die frühere Bevorzugung neuer Ziele ist damit ersetzt. [Aktueller Auswahlvertrag](Wiederholungen-und-Lernstufen-2026-10-10.md). Gefestigte Ziele bleiben spielbar. [Führender Lernvertrag](Lernregeln.md#sichtbare-lernstufen--04102026).
 
 ## Prüfung
 

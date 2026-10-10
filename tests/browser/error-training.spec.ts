@@ -20,6 +20,123 @@ async function writeState(page: Page, state: State) {
   await writeStoredState(page, state);
 }
 
+test("Filmreise trennt Festigung von offenen Fehlern und speichert reine Wiederholungen bis zum Aufstieg auf Stufe 2", async ({
+  page,
+}) => {
+  await page.clock.install({ time: now });
+  await page.setViewportSize({ width: 320, height: 850 });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const state = await readState(page);
+  state.settings.sound = false;
+  const qs = [
+    ...new Map(
+      state.questions
+        .filter(
+          (q) =>
+            q.difficulty === "leicht" &&
+            familiarityOf(q) === 1 &&
+            q.metadata.subdomain === "Science-Fiction" &&
+            !q.id.startsWith("FACT-"),
+        )
+        .map((q) => [q.knowledgeId, q]),
+    ).values(),
+  ].slice(0, 13);
+  expect(qs).toHaveLength(13);
+  const at = now.getTime();
+  for (let offset = 0; offset < qs.length; offset += 10) {
+    const chunk = qs.slice(offset, offset + 10);
+    const seed = startRound(
+      state,
+      { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      at - 2 * DAY,
+    );
+    seed.questions = structuredClone(chunk);
+    seed.order = chunk.map((q) => q.answers.map((a) => a.id));
+    seed.familiaritySnapshot = undefined;
+    chunk.forEach((q, j) => {
+      const i = offset + j;
+      answer(
+        state,
+        seed.id,
+        q.id,
+        i === 12 ? { dontKnow: true } : q.correctId,
+        1000,
+        i === 12 ? at - 20 * 60_000 : at - 2 * DAY,
+      );
+    });
+    complete(state, seed.id, at - 10 * 60_000);
+  }
+  state.settings.roundSetup = {
+    mode: "entdecken",
+    genres: ["Science-Fiction"],
+    categories: [],
+    sources: ["film"],
+    difficulties: ["leicht"],
+    familiarities: [1],
+  };
+  await writeState(page, state);
+  await page.reload();
+  const overview = page.getByRole("status", {
+    name: "Wiederholungen in Deiner Auswahl",
+  });
+  await expect(overview).toContainText("13 Wiederholungen fällig");
+  await expect(overview).toContainText("auch bereits richtig beantwortete");
+  await openRoundSetup(page);
+  await modePreparation(page, /Fehlertraining Offene Fehler/).click();
+  await expect(overview).toContainText("1 offener Fehler fällig");
+  await expect(overview).toContainText("nur offene Fehler");
+  await openRoundSetup(page);
+  await modePreparation(page, /Filmreise Filmwelten/).click();
+  await page.getByLabel("Fragenauswahl", { exact: true }).selectOption("due");
+  await expect
+    .poll(
+      async () =>
+        (await readState(page)).settings.roundSetup?.learningSelection,
+    )
+    .toBe("due");
+  await page.reload();
+  await expect(page.getByLabel("Fragenauswahl", { exact: true })).toHaveValue(
+    "due",
+  );
+  await expect(page.locator("#round-summary")).toContainText("10 Fragen");
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+  await page.screenshot({
+    path: "test-results/filmreise-wiederholungen-320.png",
+    fullPage: true,
+  });
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(page.locator(".question-card")).toBeVisible();
+  const started = (await readState(page)).rounds.at(-1)!;
+  expect(started.questions).toHaveLength(10);
+  expect(
+    started.questions.every((q) => state.learning[q.knowledgeId]?.due <= at),
+  ).toBe(true);
+  const q = started.questions[0];
+  await page
+    .locator(".answer")
+    .filter({
+      has: page.getByText(q.answers.find((a) => a.id === q.correctId)!.text, {
+        exact: true,
+      }),
+    })
+    .click();
+  await expect(
+    page.getByLabel("Lernfortschritt dieses Wissensziels"),
+  ).toContainText("Lernstufe 2 von 4");
+  await expect(
+    page.getByLabel("Lernfortschritt dieses Wissensziels"),
+  ).toContainText("in 3 Tagen");
+});
+
 test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert Termine, Filter und Neuladen", async ({
   page,
   context,
@@ -46,26 +163,30 @@ test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert 
   ].slice(0, 15);
   expect(qs).toHaveLength(15);
   const at = now.getTime();
-  const round = startRound(
-    state,
-    { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
-    at - 20 * 60_000,
-  );
-  round.questions = structuredClone(qs);
-  round.order = qs.map((q) => q.answers.map((a) => a.id));
-  round.familiaritySnapshot = undefined;
-  qs.forEach((q, i) => {
-    answer(
+  for (let offset = 0; offset < qs.length; offset += 10) {
+    const chunk = qs.slice(offset, offset + 10);
+    const round = startRound(
       state,
-      round.id,
-      q.id,
-      i < 13 ? { dontKnow: true } : q.correctId,
-      1000,
-      i < 12 ? at - 20 * 60_000 : at,
+      { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      at - 20 * 60_000,
     );
-    if (i === 14) guess(state, `${round.id}:${q.knowledgeId}`);
-  });
-  complete(state, round.id, at);
+    round.questions = structuredClone(chunk);
+    round.order = chunk.map((q) => q.answers.map((a) => a.id));
+    round.familiaritySnapshot = undefined;
+    chunk.forEach((q, j) => {
+      const i = offset + j;
+      answer(
+        state,
+        round.id,
+        q.id,
+        i < 13 ? { dontKnow: true } : q.correctId,
+        1000,
+        i < 12 ? at - 20 * 60_000 : at,
+      );
+      if (i === 14) guess(state, `${round.id}:${q.knowledgeId}`);
+    });
+    complete(state, round.id, at);
+  }
   state.settings.roundSetup = {
     mode: "ueben",
     genres: ["Science-Fiction"],
@@ -89,10 +210,10 @@ test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert 
   await expect(overview).toContainText("3 später");
   await openRoundSetup(page);
   await modePreparation(page, /Fehlertraining Offene Fehler/).click();
-  await expect(overview).toContainText("12 Wiederholungen fällig");
+  await expect(overview).toContainText("12 offene Fehler fällig");
   await expect(overview).toContainText("1 später");
   await page.clock.fastForward(10 * 60_000 + 1000);
-  await expect(overview).toContainText("13 Wiederholungen fällig");
+  await expect(overview).toContainText("13 offene Fehler fällig");
   await expect(overview).toContainText("keine späteren Wiederholungen");
   await page.screenshot({
     path: `test-results/wiederholungsuebersicht-${browserName}.png`,
@@ -108,10 +229,10 @@ test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert 
       .violations,
   ).toEqual([]);
   await page.reload();
-  await expect(overview).toContainText("13 Wiederholungen fällig");
+  await expect(overview).toContainText("13 offene Fehler fällig");
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
-  await expect(overview).toContainText("0 Wiederholungen fällig");
+  await expect(overview).toContainText("0 offene Fehler fällig");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
 });
 

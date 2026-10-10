@@ -12,6 +12,8 @@ Stand: 10.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- Lokal am 10.10.2026 fällige Festigungswiederholungen und offene Fehler verständlich getrennt. Filmreise bietet reine fällige Wiederholungen oder eine Mischung mit neuen Zielen; fällige Ziele werden nicht mehr durch den neuen Bestand verdrängt. Vier Lernintervalle in der Hilfe erläutert. Noch nicht veröffentlicht. [Auswahl, Lernstufen und Grenzen](../docs/Wiederholungen-und-Lernstufen-2026-10-10.md).
+
 - Lokal am 10.10.2026 Zusatztexte falscher Antworten auf eigenständigen Erkenntniswert begrenzt: bekannte Verneinungsformeln und Lösungswiederholungen entfallen, konkrete Einordnungen bleiben erhalten. Gemeldete „Tron: Legacy“-Texte zu Helm, Brille und Uhr entfallen. Vollständiger Katalog technisch gesichtet; keine vollständige neue Faktenprüfung individueller Antworttexte. [Redaktionsmaßstab und Grenzen](../docs/Fragenredaktion.md#falsche-antworten-sinnvoll-einordnen--10102026).
 
 - Seit Sites-Version 60 am 10.10.2026 Poster auf alle **1.405 referenzierten Filmfassungen / 11.013 Fragen** erweitert, einschließlich filmbezogener Preisfragen. Antwortansicht vereinfacht: kleine sachliche Rückmeldung, dezentes „Neu“ bei der Fragenstatistik, Erklärung vor Poster ohne doppelte Textausgabe oder „Die Idee dahinter“. Katalog und Lernregeln zur Bewertung unverändert. [Poster](../docs/Filmposter.md), [Anzeigevertrag](../docs/Lernregeln.md#kompakte-antwortansicht--10102026).

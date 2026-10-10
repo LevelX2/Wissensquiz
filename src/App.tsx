@@ -434,6 +434,7 @@ export function App({
               : selectedFamiliarities,
         },
         ...(isRecordMode(requestedMode) ? { recordPreset } : {}),
+        learningSelection: s.settings.roundSetup.learningSelection,
       }).id;
     });
     if (next) {

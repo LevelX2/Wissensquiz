@@ -5,6 +5,7 @@ import { importCsv } from "../src/importer";
 import { answer, complete, selectQuestions, startRound } from "../src/engine";
 import { discoveryContext } from "../src/discovery";
 import { genreOf } from "../src/filters";
+import { familiarityOf } from "../src/familiarity";
 
 const questions = importCsv(
   readFileSync("public/fragen.csv", "utf8"),
@@ -26,7 +27,7 @@ function play(state: State, qs = goals.slice(0, 1), at = 1000) {
   return r;
 }
 
-it("Entdecken bevorzugt ausschließlich neue Ziele, auch wenn viele Wiederholungen fällig sind", () => {
+it("Filmreise reserviert die halbe Runde für fällige Wiederholungen, auch bei vielen neuen Zielen", () => {
   const s = emptyState(questions);
   play(s, goals.slice(0, 30));
   for (const p of Object.values(s.learning)) p.due = 0;
@@ -35,11 +36,12 @@ it("Entdecken bevorzugt ausschließlich neue Ziele, auch wenn viele Wiederholung
     const selected = selectQuestions(
       questions,
       s.learning,
-      { ...options, ...discoveryContext(s) },
+      { ...options, now: 2 * 86_400_000, ...discoveryContext(s) },
       random,
     );
     expect(selected).toHaveLength(10);
-    expect(selected.every((q) => !s.learning[q.knowledgeId])).toBe(true);
+    expect(selected.filter((q) => !s.learning[q.knowledgeId])).toHaveLength(5);
+    expect(selected.filter((q) => s.learning[q.knowledgeId])).toHaveLength(5);
     expect(new Set(selected.map((q) => q.knowledgeId)).size).toBe(10);
   }
   expect(s).toEqual(before);
@@ -143,15 +145,16 @@ it("führt Schwer nur bei echter Freischaltung ein und behält historische Runde
   expect(s.events).toEqual(oldEvents);
 });
 
-it("begrenzt fällige Wiederholungen in Filmreise, während freie Modi volle Zufallsrunden erlauben", () => {
+it("füllt die Filmreise mit fälligen Zielen, wenn keine neuen verfügbar sind", () => {
   const s = emptyState(questions);
   play(s, goals.slice(0, 22));
   for (const p of Object.values(s.learning)) p.due = 0;
   const selected = selectQuestions(goals.slice(0, 22), s.learning, {
     ...options,
+    now: 2 * 86_400_000,
     ...discoveryContext(s),
   });
-  expect(selected).toHaveLength(5);
+  expect(selected).toHaveLength(10);
   const practice = selectQuestions(goals.slice(0, 40), s.learning, {
     ...options,
     mode: "ueben",
@@ -164,4 +167,66 @@ it("begrenzt fällige Wiederholungen in Filmreise, während freie Modi volle Zuf
     ...discoveryContext(s),
   });
   expect(record).toHaveLength(10);
+});
+
+it("wählt ausschließlich fällige Ziele, priorisiert alte Termine und verwendet dieselbe Tagesgrenze wie die Anzeige", () => {
+  const s = emptyState(questions);
+  play(s, goals.slice(0, 12));
+  const at = 2 * 86_400_000;
+  goals.slice(0, 12).forEach((q, i) => {
+    s.learning[q.knowledgeId].due = i * 1000;
+  });
+  const selected = selectQuestions(questions, s.learning, {
+    ...options,
+    now: at,
+    learningSelection: "due",
+  });
+  expect(selected).toHaveLength(10);
+  expect(new Set(selected.map((q) => q.knowledgeId))).toEqual(
+    new Set(goals.slice(0, 10).map((q) => q.knowledgeId)),
+  );
+  expect(
+    selectQuestions(questions, s.learning, {
+      ...options,
+      learningSelection: "due",
+    }),
+  ).toEqual([]); // Same learning day, despite manually overdue due values.
+  expect(
+    selectQuestions(goals.slice(10), s.learning, {
+      ...options,
+      now: at,
+      learningSelection: "due",
+    }),
+  ).toHaveLength(2);
+  expect(
+    selectQuestions(goals.slice(12), s.learning, {
+      ...options,
+      now: at,
+      learningSelection: "due",
+    }),
+  ).toEqual([]);
+});
+
+it("reine Wiederholungen steigen trotz verfügbarer neuer Fragen bei sicherer Antwort auf Stufe 2", () => {
+  const s = emptyState(questions);
+  const first = play(
+    s,
+    goals
+      .filter((q) => q.difficulty === "leicht" && familiarityOf(q) === 1)
+      .slice(0, 3),
+  );
+  const at = 2 * 86_400_000;
+  const round = startRound(
+    s,
+    { ...options, difficulty: "leicht", learningSelection: "due" },
+    at,
+  );
+  expect(new Set(round.questions.map((q) => q.knowledgeId))).toEqual(
+    new Set(first.questions.map((q) => q.knowledgeId)),
+  );
+  for (const q of round.questions) {
+    answer(s, round.id, q.id, q.correctId, 100, at + 100);
+    expect(s.learning[q.knowledgeId].stage).toBe(2);
+    expect(s.learning[q.knowledgeId].due).toBe(at + 100 + 3 * 86_400_000);
+  }
 });

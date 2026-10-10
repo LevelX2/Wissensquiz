@@ -24,6 +24,7 @@ it("erhält leere Auswahl, Modus, Kategorien und manuelle Stufen durch die Siche
   const state = emptyState();
   state.settings.roundSetup = {
     mode: "ueben",
+    learningSelection: "due",
     familiarities: [1, 3],
     genres: [],
     categories: ["Classics", "Arthouse"],

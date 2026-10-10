@@ -191,6 +191,7 @@ export const stateSchema = z.object({
           .optional()
           .catch("standard"),
         recordGenre: id.optional(),
+        learningSelection: z.enum(["mixed", "due"]).optional(),
         genres: z.array(id).max(20000).nullable(),
         categories: z
           .array(

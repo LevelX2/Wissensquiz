@@ -227,7 +227,7 @@ describe("Lernfortschritt mit kontrollierter Testzeit", () => {
     expect(small.length).toBeGreaterThan(0);
     expect(small.length).toBeLessThan(10);
   });
-  it("begrenzt fällige Ziele nach langer Pause", () => {
+  it("füllt nach langer Pause die Runde mit fälligen Zielen, wenn keine neuen übrig sind", () => {
     const learning: Record<string, Learning> = {};
     for (const q of questions)
       learning[q.knowledgeId] = {
@@ -242,9 +242,9 @@ describe("Lernfortschritt mit kontrollierter Testzeit", () => {
         size: 10,
         now: now + 100 * DAY,
       }),
-    ).toHaveLength(5);
+    ).toHaveLength(10);
   });
-  it("Entdecken nimmt alle neuen Ziele vor fälligen Wiederholungen", () => {
+  it("Filmreise mischt fällige Wiederholungen und neue Ziele vor nicht fälliger Übung", () => {
     const pool = [
       ...new Map(questions.map((q) => [q.knowledgeId, q])).values(),
     ].slice(0, 15);

@@ -136,6 +136,7 @@ export function PlaySetup({
       ...(isRecordMode(mode) ? { recordPreset } : {}),
       size: targetSize,
       now,
+      learningSelection: state.settings.roundSetup?.learningSelection,
       ...(mode === "entdecken" ? discoveryContext(state) : {}),
       ...mistakes,
     },
@@ -265,19 +266,48 @@ export function PlaySetup({
                 <strong>
                   {repetitions.due.toLocaleString("de-DE")}{" "}
                   {repetitions.due === 1
-                    ? "Wiederholung fällig"
-                    : "Wiederholungen fällig"}
+                    ? mode === "fehler"
+                      ? "offener Fehler fällig"
+                      : "Wiederholung fällig"
+                    : mode === "fehler"
+                      ? "offene Fehler fällig"
+                      : "Wiederholungen fällig"}
                 </strong>
                 <p className="tiny muted">
                   {repetitions.later > 0
                     ? `${repetitions.later.toLocaleString("de-DE")} später · Nächster Termin: ${learningDueText(repetitions.nextAt!, now)}.`
                     : "Aktuell keine späteren Wiederholungen."}
                 </p>
-                {mode === "fehler" && (
-                  <p className="tiny muted">
-                    Offene Fehler kannst Du auch vorher üben.
-                  </p>
-                )}
+                <p className="tiny muted">
+                  {mode === "fehler"
+                    ? "Hier zählen nur offene Fehler mit Deinen Filtern. Sicher gelöste Ziele wiederholst Du in der Filmreise. Offene Fehler kannst Du auch vorher üben."
+                    : "Alle fälligen Ziele Deiner Auswahl – auch bereits richtig beantwortete. Fehlertraining zählt nur offene Fehler mit seinen eigenen Filtern."}
+                </p>
+              </div>
+            )}
+            {mode === "entdecken" && (
+              <div className="learning-selection">
+                <label htmlFor="learning-selection">Fragenauswahl</label>
+                <select
+                  id="learning-selection"
+                  disabled={busy}
+                  value={
+                    state.settings.roundSetup?.learningSelection ?? "mixed"
+                  }
+                  onChange={(event) =>
+                    void changeSetup({
+                      learningSelection: event.target.value as "mixed" | "due",
+                    })
+                  }
+                >
+                  <option value="mixed">Gemischt</option>
+                  <option value="due">Nur fällige Wiederholungen</option>
+                </select>
+                <p className="tiny muted">
+                  {state.settings.roundSetup?.learningSelection === "due"
+                    ? "Du wiederholst ausschließlich fällige Ziele. Die Runde kann kürzer sein."
+                    : "Bei genügend passenden Fragen: zur Hälfte fällige Wiederholungen, zur Hälfte neue Ziele. Freie Plätze werden aus Deiner Auswahl ergänzt."}
+                </p>
               </div>
             )}
             <div className="round-start">
@@ -309,7 +339,7 @@ export function PlaySetup({
                   ? `${recordPreset === "genre" ? "Genre-Rekord" : "Königsklasse"} · 3 leicht / 4 mittel / 3 schwer`
                   : mode !== "entdecken"
                     ? "Freie Auswahl: " + difficultySummary
-                    : "Filmreise · freigeschaltete Stufen"}
+                    : `Filmreise · freigeschaltete Stufen · ${state.settings.roundSetup?.learningSelection === "due" ? "Nur fällige Wiederholungen" : "Gemischt"}`}
                 {mode !== "entdecken" &&
                   filters.sources.includes("film") &&
                   ` · ${standard ? "Alle Filmgruppen" : familiaritySummary}`}
@@ -322,7 +352,9 @@ export function PlaySetup({
                 {standard && !standardReady
                   ? "Der vollständige Standardmix wird geladen. Bitte warte, bis alle Fragenpakete bereit sind."
                   : mode === "entdecken"
-                    ? "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Fragenbereiche oder Filmgenres, oder spiele frei."
+                    ? state.settings.roundSetup?.learningSelection === "due"
+                      ? "Aktuell sind keine Wiederholungen in Deiner freigeschalteten Auswahl fällig. Wähle Gemischt für weitere Fragen oder erweitere Deine Auswahl."
+                      : "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Fragenbereiche oder Filmgenres, oder spiele frei."
                     : mode === "fehler"
                       ? "Keine offenen Fehler in Deiner Auswahl. Spiele eine neue Runde oder erweitere Deine Filter."
                       : "Wähle einen Fragenbereich und eine Schwierigkeitsstufe mit verfügbaren Fragen. Für Filmfragen brauchst Du außerdem passende Genres und Filmgruppen."}

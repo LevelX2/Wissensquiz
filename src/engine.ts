@@ -26,6 +26,7 @@ import { matchesTopic } from "./categories";
 import { prepareFactQuestion } from "./filmFacts";
 import { errorTrainingContext, type OpenMistake } from "./errorTraining";
 import { RULES, learn } from "./learning";
+import { nextLearningAt } from "./learningProgress";
 import { careerSummary, migrateCareer } from "./career";
 import { roundQuestionCount } from "./roundArchive";
 import {
@@ -74,6 +75,7 @@ export function selectQuestions(
     now: number;
     recentKnowledgeIds?: Set<string>;
     introductoryQuestionIds?: Set<string>;
+    learningSelection?: "mixed" | "due";
     mistakes?: Map<string, OpenMistake>;
     recordPreset?: "standard" | "genre";
   },
@@ -150,10 +152,13 @@ export function selectQuestions(
           result.push(bucket.pop()!);
     return shuffle(result, random);
   }
-  const due = unique.filter(
-    (q) =>
-      learning[q.knowledgeId] && learning[q.knowledgeId].due <= options.now,
-  );
+  const due = unique
+    .filter(
+      (q) =>
+        learning[q.knowledgeId] &&
+        nextLearningAt(learning[q.knowledgeId], options.now) <= options.now,
+    )
+    .sort((a, b) => learning[a.knowledgeId].due - learning[b.knowledgeId].due);
   const result: Question[] = [];
   const take = (list: Question[], n: number) => {
     for (const q of list) {
@@ -164,8 +169,11 @@ export function selectQuestions(
       }
     }
   };
-  const dueCap = Math.min(5, options.size); // bounded return after a long pause
   if (options.mode === "entdecken") {
+    if (options.learningSelection === "due")
+      return shuffle(due.slice(0, options.size), random);
+    // Reserve room for consolidation even while new goals remain available.
+    take(due, Math.ceil(options.size / 2));
     const unseen = unique.filter((q) => !learning[q.knowledgeId]);
     // Introduce a newly unlocked stage without overriding the user's filters.
     take(
@@ -173,6 +181,8 @@ export function selectQuestions(
       Math.ceil(options.size / 2),
     );
     take(unseen, options.size);
+    // A small remaining pool must not artificially shorten the round.
+    take(due, options.size);
     const repeats = unique
       .filter((q) => learning[q.knowledgeId])
       .sort((a, b) => {
@@ -183,16 +193,11 @@ export function selectQuestions(
             (pb.lastSeenAt ?? pb.lastSecure ?? 0) || pa.seen - pb.seen
         );
       });
-    let dueTaken = 0;
-    // Recent answers are a fallback, even when already due again after a mistake.
+    // Not-yet-due practice fills only the remaining places, older goals first.
     for (const recent of [false, true]) {
       const candidates = repeats.filter(
         (q) => !!options.recentKnowledgeIds?.has(q.knowledgeId) === recent,
       );
-      const overdue = candidates.filter((q) => due.includes(q));
-      const countBefore = result.length;
-      take(overdue, dueCap - dueTaken);
-      dueTaken += result.length - countBefore;
       take(
         candidates.filter((q) => !due.includes(q)),
         options.size,
@@ -277,6 +282,7 @@ export function startRound(
     filters?: QuizFilters;
     sourceRoundId?: string;
     recordPreset?: "standard" | "genre";
+    learningSelection?: "mixed" | "due";
   },
   now = Date.now(),
 ): Round {
@@ -342,7 +348,11 @@ export function startRound(
   );
   if (!questions.length)
     throw new Error("Für diese Auswahl sind keine Fragen verfügbar.");
-  const { sourceRoundId: _sourceRoundId, ...roundOptions } = options;
+  const {
+    sourceRoundId: _sourceRoundId,
+    learningSelection: _learningSelection,
+    ...roundOptions
+  } = options;
   const round: Round = {
     ...roundOptions,
     ...(options.filters ? { filters: canonicalFilters(options.filters) } : {}),
