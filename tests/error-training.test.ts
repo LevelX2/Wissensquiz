@@ -8,7 +8,7 @@ import {
   selectQuestions,
   startRound,
 } from "../src/engine";
-import { errorTrainingContext, openMistakes } from "../src/errorTraining";
+import { repetitionContext, openMistakes } from "../src/errorTraining";
 import { roundSummary } from "../src/roundSummary";
 import { importCsv } from "../src/importer";
 import {
@@ -67,7 +67,7 @@ const options = {
   now,
 };
 
-describe("Fehlertraining", () => {
+describe("Wiederholen", () => {
   it("nimmt echte Fehler und Zeitabläufe auf, erhält sie bei geratenen Treffern und löst sie nur sicher", () => {
     const state = emptyState(qs);
     played(state, qs.slice(0, 3), ["wrong", "timeout", "guessed"]);
@@ -81,94 +81,82 @@ describe("Fehlertraining", () => {
     expect(openMistakes(state.events).get(qs[0].knowledgeId)?.failures).toBe(1);
   });
 
-  it("priorisiert wiederholte offene Fehler vor jüngeren Einzelproblemen und nimmt die konkrete Fehlervariante", () => {
-    const original = catalog.find((q) =>
-      catalog.some((v) => v.id !== q.id && v.knowledgeId === q.knowledgeId),
-    )!;
-    const variant = catalog.find(
-      (q) => q.id !== original.id && q.knowledgeId === original.knowledgeId,
-    )!;
-    const others = qs
-      .filter((q) => q.knowledgeId !== original.knowledgeId)
-      .slice(0, 2);
-    const state = emptyState([original, variant, ...others]);
-    played(state, [variant], ["wrong"]);
-    played(state, [variant, ...others], ["wrong", "wrong", "wrong"], now + 10);
+  it("wählt fällige Filmziele unabhängig von richtig, falsch oder geraten, älteste Termine zuerst", () => {
+    const variant = { ...qs[0], id: "variant" };
+    const actor = {
+      ...qs[3],
+      id: "actor",
+      knowledgeId: "actor-goal",
+      metadata: { ...qs[3].metadata, person_id: "actor" },
+    };
+    const state = emptyState([...qs, variant, actor]);
+    played(
+      state,
+      [qs[0], qs[1], qs[2], actor],
+      ["correct", "wrong", "guessed", "correct"],
+      now - 2 * DAY,
+    );
     const selected = selectQuestions(
       state.questions,
       state.learning,
-      { ...options, ...errorTrainingContext(state) },
+      options,
       () => 0.5,
     );
-    expect(selected.map((q) => q.id)).toEqual([
-      variant.id,
-      others[1].id,
-      others[0].id,
+    expect(selected.map((q) => q.knowledgeId)).toEqual([
+      qs[1].knowledgeId,
+      qs[2].knowledgeId,
+      qs[0].knowledgeId,
     ]);
     expect(new Set(selected.map((q) => q.knowledgeId)).size).toBe(3);
     expect(
-      selectQuestions(state.questions, state.learning, {
-        ...options,
-        size: 1,
-        ...errorTrainingContext(state),
-      }),
+      selectQuestions(state.questions, state.learning, { ...options, size: 1 }),
     ).toHaveLength(1);
   });
 
-  it("hält Filter ein und füllt kurze Fehlerrunden nicht mit neuen oder richtigen Zielen auf", () => {
+  it("hält die Auswahl ein und ergänzt weder neue noch zu frühe Ziele", () => {
     const state = emptyState(qs);
     played(state, qs.slice(0, 2), ["wrong", "correct"]);
-    const context = errorTrainingContext(state);
+    expect(selectQuestions(qs, state.learning, options)).toEqual([]);
     expect(
-      selectQuestions(qs, state.learning, { ...options, ...context }),
+      selectQuestions(qs, state.learning, { ...options, now: now + 600_000 }),
     ).toHaveLength(1);
+    expect(
+      selectQuestions(qs, state.learning, { ...options, now: now + 2 * DAY }),
+    ).toHaveLength(2);
     expect(
       selectQuestions(qs, state.learning, {
         ...options,
-        ...context,
+        now: now + 2 * DAY,
         filters: { genres: ["Horror"], difficulties: ["leicht"] },
       }),
     ).toEqual([]);
     expect(
       selectQuestions(qs, state.learning, {
         ...options,
-        ...context,
+        now: now + 2 * DAY,
         topic: "Nicht vorhandenes Filmthema",
-      }),
-    ).toEqual([]);
-    const hard = { ...qs[0], difficulty: "schwer" as const };
-    expect(
-      selectQuestions([hard], state.learning, {
-        ...options,
-        ...context,
-        filters: { genres: ["Science-Fiction"], difficulties: ["leicht"] },
       }),
     ).toEqual([]);
   });
 
-  it("startet sofort ohne Fälligkeit und erhält Tagesgrenzen, XP und Sicherungskompatibilität", async () => {
+  it("beachtet die Tagesgrenze nach einem Fehler und speichert den gemeinsamen Lernstand", async () => {
     const state = emptyState(qs);
     played(state, [qs[0]], ["correct"]);
     played(state, [qs[0]], ["wrong"], now + 10);
-    const learningBefore = structuredClone(state.learning);
-    const retry = startRound(state, { ...options }, now + 20);
-    expect(retry.questions.map((q) => q.knowledgeId)).toEqual([
-      qs[0].knowledgeId,
-    ]);
-    expect(state.learning).toEqual(learningBefore);
+    expect(() => startRound(state, options, now + 700_000)).toThrow(
+      /keine Fragen/,
+    );
+    const retry = startRound(state, options, now + DAY);
     answer(
       state,
       retry.id,
       retry.questions[0].id,
       retry.questions[0].correctId,
       1000,
-      now + 21,
+      now + DAY + 1,
     );
-    expect(state.learning[qs[0].knowledgeId].stage).toBe(0); // already advanced today
-    complete(state, retry.id, now + 22);
-    complete(state, retry.id, now + 23);
-    expect(state.experience).toBe(9); // 1 Antwort + 2 sicher + 2 neu + 4 erste Fehlerkorrektur
-    expect(state.records).toEqual({});
+    expect(state.learning[qs[0].knowledgeId].stage).toBe(1);
+    complete(state, retry.id, now + DAY + 2);
     state.settings.roundSetup = {
       mode: "fehler",
       genres: null,
@@ -177,52 +165,56 @@ describe("Fehlertraining", () => {
       familiarities: [1, 2, 3, 4],
     };
     const restored = validateBackup(JSON.parse(JSON.stringify(state)));
-    expect(restored.rounds.at(-1)?.mode).toBe("fehler");
-    expect(restored.settings.roundSetup?.mode).toBe("fehler");
     const cloud = validateBackup(
       await decodeCloudState(await encodeCloudState(state)),
     );
+    expect(restored.rounds.at(-1)?.mode).toBe("fehler");
     expect(cloud.events).toEqual(state.events);
-    expect(cloud.rounds.at(-1)).toEqual(restored.rounds.at(-1));
-    expect(errorTrainingContext(restored).mistakes.size).toBe(0);
+    expect(cloud.learning).toEqual(state.learning);
+    expect(state.records).toEqual({});
   });
 
-  it("wiederholt nur noch offene Fehler der gewählten Runde und zählt auch Antworten abgebrochener Runden", () => {
+  it("begrenzt Wiederholungen einer Runde auf deren beantwortete Ziele, auch richtige", () => {
     const state = emptyState(qs);
-    const source = played(state, qs.slice(0, 2), ["wrong", "timeout"]);
-    played(state, [qs[2], qs[0]], ["wrong", "correct"], now + 10);
-    expect([...errorTrainingContext(state, source.id).mistakes.keys()]).toEqual(
-      [qs[1].knowledgeId],
+    const source = played(
+      state,
+      qs.slice(0, 2),
+      ["wrong", "correct"],
+      now - 2 * DAY,
+    );
+    played(state, [qs[2]], ["wrong"], now - DAY);
+    expect(repetitionContext(state, source.id).knowledgeIds).toEqual(
+      new Set(qs.slice(0, 2).map((q) => q.knowledgeId)),
     );
     const retry = startRound(
       state,
       { ...options, sourceRoundId: source.id },
-      now + 20,
+      now,
     );
-    expect(retry.questions.map((q) => q.knowledgeId)).toEqual([
-      qs[1].knowledgeId,
-    ]);
+    expect(new Set(retry.questions.map((q) => q.knowledgeId))).toEqual(
+      new Set(qs.slice(0, 2).map((q) => q.knowledgeId)),
+    );
+    expect(() => repetitionContext(state, retry.id)).toThrow(
+      /abgeschlossene Runde/,
+    );
     answer(
       state,
       retry.id,
       retry.questions[0].id,
-      retry.questions[0].answers.find(
-        (a) => a.id !== retry.questions[0].correctId,
-      )!.id,
+      { dontKnow: true },
       1000,
-      now + 21,
+      now + 1,
     );
     retry.status = "aborted";
-    retry.finishedAt = now + 22;
     expect(
-      errorTrainingContext(state).mistakes.get(qs[1].knowledgeId)?.failures,
-    ).toBe(2);
-    expect(() => errorTrainingContext(state, retry.id)).toThrow(
-      /abgeschlossene Runde/,
-    );
+      selectQuestions(qs, state.learning, {
+        ...options,
+        now: now + 600_001,
+      }).some((q) => q.knowledgeId === retry.questions[0].knowledgeId),
+    ).toBe(true);
   });
 
-  it("erzeugt ohne offene Fehler keine Runde und lässt den bisherigen Stand erhalten", () => {
+  it("erzeugt ohne fällige Ziele keine Runde und erhält den Stand", () => {
     const state = emptyState(qs);
     played(state, [qs[0]], ["guessed"]);
     const before = structuredClone(state);

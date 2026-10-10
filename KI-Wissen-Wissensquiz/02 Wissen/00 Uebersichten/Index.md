@@ -13,6 +13,8 @@
 
 - [Fällige Wiederholungen gegenüber offenen Fehlern; reine Wiederholung oder Mischung und vier Lernintervalle – 10.10.2026](../../../docs/Wiederholungen-und-Lernstufen-2026-10-10.md)
 
+- [Filmreise, Wiederholen und Freies Spiel: Modustrennung, nächste Etappe, goldene Klappen und Lernintervalle – 10.10.2026](../../../docs/Wiederholungen-und-Lernstufen-2026-10-10.md)
+
 - [Kompakte Erklärung ausschließlich zum gewählten Spielmodus – 10.10.2026](../../../docs/Hilfe-und-Navigation.md#erklärung-zum-gewählten-spielmodus--10102026)
 
 - [Version 60 veröffentlicht: alle Filmposter und kompakte Antwortansicht](../../../docs/Sites-Betrieb.md#version-60-alle-filmposter-und-kompakte-antwortansicht)

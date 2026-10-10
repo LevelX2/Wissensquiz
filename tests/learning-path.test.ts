@@ -3,12 +3,36 @@ import { readFileSync } from "node:fs";
 import { emptyState, type Difficulty, type State } from "../src/model";
 import { importCsv } from "../src/importer";
 import { answer, complete, guess, startRound } from "../src/engine";
-import { learningPathProgress, pathQuestions } from "../src/learningPath";
+import {
+  learningPathProgress,
+  nextJourneyStep,
+  pathQuestions,
+} from "../src/learningPath";
 import { genreOf } from "../src/filters";
 import { validateBackup } from "../src/storage";
 const questions = ["horror", "action"].flatMap(
   (g) => importCsv(readFileSync(`public/${g}-fragen.csv`, "utf8")).questions,
 );
+
+it("zeigt die nächste erreichbare Etappe nur in gewählten Bereichen und zählt Varianten nicht doppelt", () => {
+  const state = emptyState(questions);
+  const initial = nextJourneyStep(state, ["Horror"]);
+  expect(initial).toMatchObject({ area: "Horror", answered: 0 });
+  expect(initial!.target).toBeGreaterThan(0);
+  expect(nextJourneyStep(state, ["Horror", "Horror"])).toEqual(initial);
+  play(state, "leicht", 5);
+  const once = nextJourneyStep(state, ["Horror"]);
+  play(state, "leicht", 5);
+  expect(nextJourneyStep(state, ["Horror"])).toEqual(once);
+  expect(nextJourneyStep(state, ["Action"])?.answered).toBe(0);
+  expect(nextJourneyStep(state, [])).toBeUndefined();
+  state.journey = {
+    version: 1,
+    independentAreas: true,
+    earned: { Horror: { difficulty: 2, familiarity: 4 } },
+  };
+  expect(nextJourneyStep(state, ["Horror"])).toBeUndefined();
+});
 function play(
   state: State,
   level: Difficulty,

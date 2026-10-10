@@ -2,7 +2,56 @@ import { familiarityLabel } from "./familiarity";
 import type { State, QuestionSource } from "./model";
 import { genreLabel } from "./filters";
 import { GenreArtwork } from "./Icons";
-import { learningPathProgress } from "./learningPath";
+import {
+  learningPathProgress,
+  nextJourneyStep,
+  pathAreaOf,
+} from "./learningPath";
+import { learningOverview } from "./learningProgress";
+
+export function JourneyNextStep({
+  state,
+  areas,
+}: {
+  state: State;
+  areas: string[];
+}) {
+  const step = nextJourneyStep(state, areas);
+  if (step)
+    return (
+      <div className="journey-next-step" aria-label="Nächste Etappe">
+        <small>{genreLabel(step.area)} · Nächste Etappe</small>
+        <strong>
+          Noch {step.target - step.answered}{" "}
+          {step.target - step.answered === 1
+            ? "sicheres Ziel"
+            : "sichere Ziele"}{" "}
+          bis {step.label}
+        </strong>
+        <progress
+          aria-label={`${genreLabel(step.area)}: Fortschritt zu ${step.label}`}
+          max={step.target}
+          value={Math.min(step.answered, step.target)}
+        />
+        <small>
+          {Math.min(step.answered, step.target)} von {step.target}{" "}
+          {step.target === 1 ? "Wissensziel" : "Wissenszielen"} geschafft
+        </small>
+      </div>
+    );
+  const questions = state.questions.filter((q) =>
+    areas.includes(pathAreaOf(q)),
+  );
+  if (!questions.length) return null;
+  const ids = [...new Set(questions.map((q) => q.knowledgeId))];
+  const overview = learningOverview(ids, state.learning);
+  return (
+    <small className="journey-next-step">
+      Alle Etappen geöffnet · {overview.mastered} von {ids.length} Wissenszielen
+      gefestigt
+    </small>
+  );
+}
 
 export function LearningPath({
   state,

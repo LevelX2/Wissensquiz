@@ -21,20 +21,17 @@ export function openMistakes(events: AnswerEvent[]): Map<string, OpenMistake> {
   return mistakes;
 }
 
-export function errorTrainingContext(state: State, sourceRoundId?: string) {
-  const mistakes = openMistakes(state.events);
+export function repetitionContext(state: State, sourceRoundId?: string) {
   if (sourceRoundId) {
     const source = state.rounds.find((r) => r.id === sourceRoundId);
     if (source?.status !== "completed")
-      throw new Error(
-        "Für das Fehlertraining fehlt eine abgeschlossene Runde.",
-      );
+      throw new Error("Für die Wiederholung fehlt eine abgeschlossene Runde.");
     const goals = new Set(
       state.events
-        .filter((e) => e.roundId === sourceRoundId && !e.correct)
+        .filter((e) => e.roundId === sourceRoundId)
         .map((e) => e.knowledgeId),
     );
-    for (const id of mistakes.keys()) if (!goals.has(id)) mistakes.delete(id);
+    return { knowledgeIds: goals };
   }
-  return { mistakes };
+  return {};
 }

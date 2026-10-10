@@ -111,7 +111,7 @@ export function Settings({
         <p>
           Sieh Erklärung und Zusatzinformationen nach jeder Antwort oder
           gesammelt nach Deiner Runde. Gilt für 10 Fragen, Fehlerfrei, Zeitkonto
-          und das Freie Spiel. Filmreise und Fehlertraining zeigen Lösungen
+          und das Freie Spiel. Filmreise und Wiederholen zeigen Lösungen
           immer direkt. Duelle zeigen sie immer nach der eigenen Zehnerrunde.
           Eine begonnene Runde behält ihre Einstellung.
         </p>

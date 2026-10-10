@@ -166,7 +166,7 @@ describe("Filmkarriere", () => {
       variant = question("Variante", "schwer", q.knowledgeId);
     const state = emptyState([q, variant]);
     play(state, q, "dontKnow");
-    const recovered = play(state, variant, "correct", now + 10, "fehler");
+    const recovered = play(state, variant, "correct", now + 600_010, "fehler");
     expect(state.experience).toBe(12); // 1 Antwort, 5 sicher, 2 neu, 4 korrigiert
     expect(careerSummary(state).rounds.get(recovered.id)).toMatchObject({
       participation: 0,
@@ -174,10 +174,10 @@ describe("Filmkarriere", () => {
       discovered: 2,
       recovered: 4,
     });
-    const repeat = play(state, q, "correct", now + 20, "rekord");
+    const repeat = play(state, q, "correct", now + 600_020, "rekord");
     expect(totalXp(careerSummary(state).rounds.get(repeat.id)!)).toBe(0);
-    play(state, q, "wrong", now + 30);
-    play(state, variant, "correct", now + 40, "fehler");
+    play(state, q, "wrong", now + 600_030);
+    play(state, variant, "correct", now + 600_040, "ueben");
     expect(state.experience).toBe(12);
     play(state, q, "correct", now + DAY);
     expect(state.experience).toBe(15); // Am Folgetag wieder 1 + 2, keine weiteren Boni.

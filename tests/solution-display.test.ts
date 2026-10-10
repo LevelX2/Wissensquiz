@@ -20,20 +20,29 @@ it.each<Mode>([
   "%s verwendet die Lösungswahl nur für Zeitspiele und Freies Spiel",
   (mode) => {
     const state = emptyState(qs);
-    const seed = startRound(state, {
-      mode: "ueben",
-      topic: "Alle Themen",
-      difficulty: "Alle Stufen",
-    });
+    const now = new Date(2026, 9, 10, 12).getTime();
+    const seed = startRound(
+      state,
+      {
+        mode: "ueben",
+        topic: "Alle Themen",
+        difficulty: "Alle Stufen",
+      },
+      now - 700_000,
+    );
     for (const q of seed.questions)
-      answer(state, seed.id, q.id, { dontKnow: true }, 1000);
-    complete(state, seed.id);
+      answer(state, seed.id, q.id, { dontKnow: true }, 1000, now - 700_000);
+    complete(state, seed.id, now - 699_000);
     state.settings.solutionDisplay = "round";
-    const round = startRound(state, {
-      mode,
-      topic: "Alle Themen",
-      difficulty: "Alle Stufen",
-    });
+    const round = startRound(
+      state,
+      {
+        mode,
+        topic: "Alle Themen",
+        difficulty: "Alle Stufen",
+      },
+      now,
+    );
     expect(round.solutionDisplay).toBe(
       mode === "entdecken" || mode === "fehler" ? undefined : "round",
     );

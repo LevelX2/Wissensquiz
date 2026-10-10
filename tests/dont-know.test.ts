@@ -20,7 +20,7 @@ function fixture(mode: Mode = "ueben", size = 1) {
     const old = startRound(
       state,
       { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
-      now - 1000,
+      now - 700_000,
     );
     old.questions = [qs[0]];
     old.order = [qs[0].answers.map((a) => a.id)];
@@ -31,9 +31,9 @@ function fixture(mode: Mode = "ueben", size = 1) {
       qs[0].id,
       qs[0].answers.find((a) => a.id !== qs[0].correctId)!.id,
       100,
-      now - 900,
+      now - 699_900,
     );
-    complete(state, old.id, now - 800);
+    complete(state, old.id, now - 699_800);
   }
   const round = startRound(
     state,

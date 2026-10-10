@@ -12,7 +12,7 @@ export const allowsSolutionChoice = (mode: Mode) =>
 export const modeNames: Record<Mode, string> = {
   entdecken: "Filmreise",
   ueben: "Freies Spiel",
-  fehler: "Fehlertraining",
+  fehler: "Wiederholen",
   rekord: "10 Fragen",
   fehlerfrei: "Fehlerfrei",
   zeitkonto: "Zeitkonto",

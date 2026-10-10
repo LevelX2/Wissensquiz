@@ -1,0 +1,154 @@
+/* Golden tabs share the native details keyboard and disclosure behavior. */
+details:not(.mode-selection) {
+  border: 1px solid #c6ab78;
+  border-radius: 13px;
+  background: #fffdf7;
+  padding: 0;
+  box-shadow:
+    0 3px 0 #b2945b24,
+    0 7px 18px #63481d0a;
+}
+details:not(.setup-section) > summary {
+  display: block;
+  position: relative;
+  list-style: none;
+  min-height: 54px;
+  padding: 13px 46px 13px 48px;
+  border-radius: 12px;
+  background: linear-gradient(115deg, #fcf5e5, #f3e3c0);
+  color: #61451d;
+  font-weight: 650;
+  line-height: 1.6;
+  align-content: center;
+  transition:
+    background 160ms ease,
+    transform 120ms ease,
+    box-shadow 160ms ease;
+}
+details:not(.setup-section) > summary::-webkit-details-marker {
+  display: none;
+}
+details:not(.setup-section) > summary::marker {
+  content: "";
+}
+details:not(.setup-section) > summary::before {
+  content: "";
+  position: absolute;
+  left: 16px;
+  top: calc(50% - 10px);
+  width: 20px;
+  height: 20px;
+  background: linear-gradient(135deg, #be944a, #876026);
+  clip-path: polygon(
+    50% 0,
+    62% 34%,
+    100% 38%,
+    71% 61%,
+    80% 100%,
+    50% 78%,
+    20% 100%,
+    29% 61%,
+    0 38%,
+    38% 34%
+  );
+  filter: drop-shadow(0 1px 0 #fff);
+}
+details:not(.setup-section) > summary::after {
+  content: "";
+  position: absolute;
+  right: 20px;
+  top: calc(50% - 6px);
+  width: 9px;
+  height: 9px;
+  border-right: 2px solid #89642e;
+  border-bottom: 2px solid #89642e;
+  transform: rotate(45deg);
+  transition: transform 180ms ease;
+}
+details:not(.setup-section)[open] > summary::after {
+  transform: translateY(4px) rotate(225deg);
+}
+details:not(.mode-selection) > summary:hover {
+  box-shadow: inset 0 0 0 1px #fff9;
+}
+details:not(.mode-selection) > summary:active {
+  transform: translateY(2px);
+}
+details:not(.setup-section)[open] > summary {
+  border-radius: 12px 12px 0 0;
+}
+details:not(.setup-section) > :not(summary) {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+details:not(.setup-section) > :last-child:not(summary) {
+  margin-bottom: 16px;
+}
+details:not(.mode-selection)[open] > :not(summary) {
+  animation: fold-reveal 180ms ease-out;
+}
+.setup-section:not(.mode-selection) > summary {
+  border-radius: 12px;
+  background: linear-gradient(115deg, #fcf5e5, #f3e3c0);
+  transition: transform 120ms ease;
+}
+.setup-section:not(.mode-selection)[open] > summary {
+  border-radius: 12px 12px 0 0;
+}
+.setup-section:not(.mode-selection) > summary::after {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #b99a62;
+  border-radius: 9px;
+  background: #fffbef;
+  text-align: center;
+  line-height: 27px;
+  box-shadow: 0 2px 0 #b2945b30;
+}
+.explanation > details {
+  clear: both;
+}
+.journey-next-step {
+  display: grid;
+  gap: 5px;
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid #c6ab7870;
+  font-size: 13px;
+  color: #61451d;
+}
+.mode-selection .journey-next-step strong {
+  font-size: 14px;
+  line-height: 1.5;
+}
+.mode-selection .journey-next-step small {
+  margin: 0;
+  font-size: 12px;
+}
+.journey-next-step progress {
+  width: 100%;
+  height: 8px;
+  accent-color: #947037;
+}
+@keyframes fold-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  details:not(.mode-selection)[open] > :not(summary) {
+    animation: none;
+  }
+  details:not(.mode-selection) > summary,
+  details:not(.setup-section) > summary::after {
+    transition: none;
+  }
+  details:not(.mode-selection) > summary:active {
+    transform: none;
+  }
+}

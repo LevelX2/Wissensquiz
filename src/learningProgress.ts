@@ -100,7 +100,7 @@ export function learningAnswerNote(
   event: AnswerEvent,
 ) {
   if (!event.correct)
-    return "Die Lernstufe beginnt wieder bei 0. Ein sicherer Treffer entfernt dieses Ziel sofort aus dem Fehlertraining.";
+    return "Die Lernstufe beginnt wieder bei 0. Nach zehn Minuten ist dieses Ziel zur Wiederholung fällig.";
   if (event.guessed)
     return "Als geraten markiert: Die Lernstufe beginnt wieder bei 0. Ein vorhandener Fehler bleibt offen.";
   if (current.stage > (previous?.stage ?? 0))

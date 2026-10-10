@@ -41,9 +41,9 @@ export function Help() {
           richtige Antworten verschieben Deinen Wiederholungstermin und die
           Festigung nicht nach hinten. Der Abstand zählt ab Deiner letzten
           erreichten Lernstufe. Nach der Antwort siehst Du den nächsten Termin.
-          In der Filmreise wählst Du „Nur fällige Wiederholungen“ oder
-          „Gemischt“. Die Mischung reserviert bei genügend passenden Fragen die
-          Hälfte der Runde für fällige Ziele und ergänzt neue Fragen.
+          Der Modus „Wiederholen“ enthält ausschließlich fällige Filmziele. Die
+          Filmreise mischt bei genügend passenden Fragen sechs neue Ziele mit
+          vier fälligen Wiederholungen je Zehnerrunde.
         </p>
         <ol>
           <li>Stufe 1: erste sichere Antwort → Wiederholung nach 1 Tag.</li>
@@ -57,11 +57,11 @@ export function Help() {
           Stunden. Bereits erworbene Abzeichen bleiben Dir erhalten.
         </p>
         <p>
-          Fehlertraining und Festigung sind getrennt: Ein sicherer richtiger
-          Treffer entfernt das Wissensziel sofort aus dem Fehlertraining, auch
-          am selben Tag. Weitere Lernstufen brauchen fällige Wiederholungen. Ein
-          späterer Fehler nimmt das Ziel wieder auf. Fragenvarianten teilen
-          denselben Lernstand. Gefestigte Ziele können weiterhin vorkommen.
+          Nach jeder Antwort gilt der nächste Wiederholungstermin. Früher
+          richtig beantwortete Filmziele kommen ebenso in „Wiederholen“ vor wie
+          falsch beantwortete oder geratene Ziele, sobald sie fällig sind.
+          Fragenvarianten teilen denselben Lernstand. Gefestigte Ziele können
+          weiterhin vorkommen.
         </p>
         <p>
           Der Lernfortschritt zählt die erreichten Stufen im aktuellen Bestand:
@@ -99,7 +99,7 @@ export function Help() {
           Filmgruppen gelten nur für Filmfragen, die Schwierigkeitsstufen für
           alle Bereiche. Im Freien Spiel und in Rekordrunden erfolgt die Auswahl
           zufällig aus dem gemeinsamen Pool; feste Anteile je Bereich gibt es
-          nicht. Im Fehlertraining werden Deine offenen Fehler wiederholt. Die
+          nicht. „Wiederholen“ enthält ausschließlich fällige Filmfragen. Die
           Filmreise unterstützt ebenfalls alle drei Bereiche. Schauspieler und
           Preisträger öffnen ihre Stufen separat: je 20 sicher beantwortete
           Ziele aus der vorherigen Stufe bis zu Experte. Bei Filmfragen bleiben
@@ -121,8 +121,8 @@ export function Help() {
           Expertenfragen verlangen vertieftes Film- und Preiswissen, etwa über
           Filmhandwerk, geteilte Auszeichnungen und ungewöhnliche Preisverläufe.
           Du kannst sie im Freien Spiel und in Rekordrunden auswählen; im
-          Fehlertraining wiederholst Du Deine Fehlantworten. Die Filmreise führt
-          weiterhin durch leicht, mittel und schwer. Eine sichere richtige
+          Wiederholungsmodus wiederholst Du fällige Filmziele. Die Filmreise
+          führt weiterhin durch leicht, mittel und schwer. Eine sichere richtige
           Expertenantwort bringt wie eine schwere Antwort 5 zusätzliche XP.
         </p>
       </details>
@@ -145,10 +145,10 @@ export function Help() {
         </p>
         <p>
           Die Auswahl zählt in allen Modi als falsch, in der Rekordrunde gibt es
-          keine Punkte. Das Wissensziel kommt ins Fehlertraining und wird nach
-          zehn Minuten wieder fällig. Im Rückblick steht „Keine Ahnung“. Ein
-          Zeitablauf bleibt davon getrennt. Ton und Vibration verwenden Deine
-          bestehenden Optionen; reduzierte Animationen werden beachtet.
+          keine Punkte. Das Wissensziel wird nach zehn Minuten wieder fällig. Im
+          Rückblick steht „Keine Ahnung“. Ein Zeitablauf bleibt davon getrennt.
+          Ton und Vibration verwenden Deine bestehenden Optionen; reduzierte
+          Animationen werden beachtet.
         </p>
       </details>
       <details>
@@ -161,10 +161,13 @@ export function Help() {
         </p>
         <ul>
           <li>
-            <strong>Filmreise:</strong> Unbeantwortete Wissensziele zuerst
-            kennenlernen – ohne Zeitdruck. Fragen aus den letzten drei Runden
-            kommen möglichst erst wieder, wenn andere passende Inhalte fehlen.
-            Neu freigeschaltete Stufen erhalten einen gezielten Einstieg.
+            <strong>Filmreise:</strong> Neue Wissensziele entdecken und fällige
+            Ziele wiederholen – ohne Zeitdruck. Bei genügend Auswahl sind es
+            sechs neue und vier fällige Ziele je Zehnerrunde. Bekannte Fragen
+            ergänzen fehlende Plätze, damit Du weiterreisen kannst. Fragen aus
+            den letzten drei Runden kommen möglichst erst wieder, wenn andere
+            passende Inhalte fehlen. Neu freigeschaltete Stufen erhalten einen
+            gezielten Einstieg.
           </li>
           <li>
             <strong>Freies Spiel:</strong> Genres, Schwierigkeit und Bekanntheit
@@ -172,12 +175,11 @@ export function Help() {
             und ohne Zeitdruck.
           </li>
           <li>
-            <strong>Fehlertraining:</strong> Offene Fehlantworten und
-            Zeitabläufe gezielt ohne Zeitdruck wiederholen. Häufige Fehler
-            kommen zuerst. Nach einer sicheren richtigen Antwort fällt das
-            Wissensziel heraus; ein geratener Treffer reicht dafür nicht. Deine
-            Filter gelten weiter. Im Ergebnis kannst Du direkt die Fehler dieser
-            Runde üben.
+            <strong>Wiederholen:</strong> Ausschließlich fällige Filmziele
+            festigen – auch früher richtig beantwortete. Am längsten fällige
+            Ziele kommen zuerst. Deine Filter gelten weiter. Neue und noch nicht
+            fällige Fragen werden nicht ergänzt. Im Ergebnis kannst Du fällige
+            Filmfragen der abgeschlossenen Runde erneut spielen.
           </li>
           <li>
             <strong>10 Fragen:</strong> Pro Frage 30 Sekunden. Richtige
@@ -245,7 +247,7 @@ export function Help() {
           richtige und gegebenenfalls falsch gewählte Antwort. Während der
           eingestellten Anzeigezeit pausieren Fragenzeit und Zeitkonto. Danach
           startet automatisch die nächste Frage oder der Rückblick mit Erklärung
-          und Vertiefung. Filmreise und Fehlertraining zeigen Lösungen immer
+          und Vertiefung. Filmreise und Wiederholen zeigen Lösungen immer
           direkt; im Duell erscheinen sie immer nach Deiner eigenen Runde, auch
           wenn Dein Gegner noch nicht gespielt hat.
         </p>

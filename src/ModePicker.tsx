@@ -5,7 +5,7 @@ export type PlayGroup = "learn" | "timed" | "duel";
 export const modeDescriptions: Record<Mode, string> = {
   entdecken: "Filmwelten und Stufen freischalten",
   ueben: "Alle Stufen frei kombinieren",
-  fehler: "Offene Fehler gezielt wiederholen",
+  fehler: "Fällige Filmfragen gezielt festigen",
   rekord: "30 Sekunden je Frage · zehn Fragen",
   fehlerfrei: "30 Sekunden je Frage · erster Fehler beendet den Lauf",
   zeitkonto: "120 Sekunden Start · richtig +15 · falsch −45",

@@ -11,8 +11,7 @@ import { matchesFilters } from "./filters";
 import { selectQuestions } from "./engine";
 import { pathAreaOf, pathQuestions } from "./learningPath";
 import { discoveryContext } from "./discovery";
-import { errorTrainingContext } from "./errorTraining";
-import { repetitionOverview } from "./learningProgress";
+import { learningDueText, repetitionOverview } from "./learningProgress";
 import { useForegroundTime } from "./useForegroundTime";
 import { familiarities, familiarityLabel } from "./familiarity";
 import { type Mode, type Round, type State, type RoundSetup } from "./model";
@@ -22,12 +21,13 @@ import {
   genreLabel,
   questionSources,
   sourceLabels,
+  questionSourceOf,
 } from "./filters";
 import { GenreArtwork } from "./Icons";
 import { SetupSection } from "./SetupSection";
 import { RoundGuide } from "./RoundGuide";
 import { filmCategories } from "./categories";
-import { LearningPath } from "./LearningPathPanel";
+import { LearningPath, JourneyNextStep } from "./LearningPathPanel";
 import type { QuestionSource } from "./model";
 import type { Page, DuelPage, Mutate } from "./uiTypes";
 import { modeNames } from "./gameUi";
@@ -112,14 +112,13 @@ export function PlaySetup({
   ).size;
   const areaCount = new Set(state.questions.map(pathAreaOf)).size;
   const now = useForegroundTime();
-  const mistakes = mode === "fehler" ? errorTrainingContext(state) : undefined;
   const repetitions = repetitionOverview(
     selectable
       .filter(
         (q) =>
           matchesTopic(q, roundTopic) &&
           matchesFilters(q, filters) &&
-          (!mistakes || mistakes.mistakes.has(q.knowledgeId)),
+          questionSourceOf(q) === "film",
       )
       .map((q) => q.knowledgeId),
     state.learning,
@@ -136,9 +135,7 @@ export function PlaySetup({
       ...(isRecordMode(mode) ? { recordPreset } : {}),
       size: targetSize,
       now,
-      learningSelection: state.settings.roundSetup?.learningSelection,
       ...(mode === "entdecken" ? discoveryContext(state) : {}),
-      ...mistakes,
     },
     () => 0.5,
   );
@@ -192,12 +189,37 @@ export function PlaySetup({
                   ? "Drei Runden gegen einen Mitspieler"
                   : modeDescriptions[mode]}
               </small>
-              {playGroup === "learn" && mode === "entdecken" && (
+              {playGroup === "learn" && mode === "fehler" && (
                 <small aria-label="Fällige Wiederholungen">
                   {repetitions.due.toLocaleString("de-DE")}{" "}
                   {repetitions.due === 1 ? "Wiederholung" : "Wiederholungen"}{" "}
                   fällig
                 </small>
+              )}
+              {playGroup === "learn" &&
+                mode === "fehler" &&
+                repetitions.due === 0 &&
+                repetitions.nextAt !== null && (
+                  <small>
+                    Nächste Wiederholung:{" "}
+                    {learningDueText(repetitions.nextAt, now)}
+                  </small>
+                )}
+              {playGroup === "learn" && mode === "entdecken" && (
+                <JourneyNextStep
+                  state={state}
+                  areas={[
+                    ...new Set(
+                      state.questions
+                        .filter(
+                          (q) =>
+                            matchesTopic(q, roundTopic) &&
+                            matchesFilters(q, filters),
+                        )
+                        .map(pathAreaOf),
+                    ),
+                  ]}
+                />
               )}
             </>
           }
@@ -264,31 +286,6 @@ export function PlaySetup({
           </>
         ) : (
           <>
-            {mode === "entdecken" && (
-              <div className="learning-selection">
-                <label htmlFor="learning-selection">Fragenauswahl</label>
-                <select
-                  id="learning-selection"
-                  disabled={busy}
-                  value={
-                    state.settings.roundSetup?.learningSelection ?? "mixed"
-                  }
-                  onChange={(event) =>
-                    void changeSetup({
-                      learningSelection: event.target.value as "mixed" | "due",
-                    })
-                  }
-                >
-                  <option value="mixed">Gemischt</option>
-                  <option value="due">Nur fällige Wiederholungen</option>
-                </select>
-                <p className="tiny muted">
-                  {state.settings.roundSetup?.learningSelection === "due"
-                    ? "Du wiederholst ausschließlich fällige Ziele. Die Runde kann kürzer sein."
-                    : "Bei genügend passenden Fragen: zur Hälfte fällige Wiederholungen, zur Hälfte neue Ziele. Freie Plätze werden aus Deiner Auswahl ergänzt."}
-                </p>
-              </div>
-            )}
             <div className="round-start">
               <button
                 className="primary"
@@ -312,13 +309,13 @@ export function PlaySetup({
                 {" · "}
                 {isEndlessMode(mode)
                   ? `Endlos · ${runPoolSize} Wissensziele im Pool`
-                  : `${selection.length} ${mode === "fehler" ? "offene Fehler" : "Fragen"}`}
+                  : `${selection.length} Fragen`}
                 {" · "}
                 {standard
                   ? `${recordPreset === "genre" ? "Genre-Rekord" : "Königsklasse"} · 3 leicht / 4 mittel / 3 schwer`
                   : mode !== "entdecken"
                     ? "Freie Auswahl: " + difficultySummary
-                    : `Filmreise · freigeschaltete Stufen · ${state.settings.roundSetup?.learningSelection === "due" ? "Nur fällige Wiederholungen" : "Gemischt"}`}
+                    : "Filmreise · freigeschaltete Etappen · neue Fragen und Wiederholungen"}
                 {mode !== "entdecken" &&
                   filters.sources.includes("film") &&
                   ` · ${standard ? "Alle Filmgruppen" : familiaritySummary}`}
@@ -331,11 +328,9 @@ export function PlaySetup({
                 {standard && !standardReady
                   ? "Der vollständige Standardmix wird geladen. Bitte warte, bis alle Fragenpakete bereit sind."
                   : mode === "entdecken"
-                    ? state.settings.roundSetup?.learningSelection === "due"
-                      ? "Aktuell sind keine Wiederholungen in Deiner freigeschalteten Auswahl fällig. Wähle Gemischt für weitere Fragen oder erweitere Deine Auswahl."
-                      : "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Fragenbereiche oder Filmgenres, oder spiele frei."
+                    ? "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Fragenbereiche oder Filmgenres, oder spiele frei."
                     : mode === "fehler"
-                      ? "Keine offenen Fehler in Deiner Auswahl. Spiele eine neue Runde oder erweitere Deine Filter."
+                      ? "Aktuell ist in Deiner Auswahl nichts zur Wiederholung fällig. Entdecke weitere Fragen in der Filmreise oder spiele frei."
                       : "Wähle einen Fragenbereich und eine Schwierigkeitsstufe mit verfügbaren Fragen. Für Filmfragen brauchst Du außerdem passende Genres und Filmgruppen."}
                 {mode === "entdecken" && (
                   <button
@@ -419,49 +414,53 @@ export function PlaySetup({
 
             {!isRecordMode(mode) && (
               <div className="quiz-filters">
-                <SetupSection
-                  title="Fragenbereiche"
-                  selection={
-                    selectedSources.map((s) => sourceLabels[s]).join(" + ") ||
-                    "Keine Bereiche"
-                  }
-                >
-                  <fieldset disabled={busy}>
-                    <legend>Fragenbereiche</legend>
-                    <div className="filter-options">
-                      {questionSources.map((source) => (
-                        <label className="filter-choice" key={source}>
-                          <input
-                            type="checkbox"
-                            checked={selectedSources.includes(source)}
-                            onChange={(e) =>
-                              void changeSetup({
-                                sources: e.target.checked
-                                  ? [...selectedSources, source]
-                                  : selectedSources.filter((s) => s !== source),
-                              })
-                            }
-                          />
-                          <GenreArtwork
-                            genre={
-                              source === "film"
-                                ? "Classics"
-                                : sourceLabels[source]
-                            }
-                            compact
-                          />
-                          {sourceLabels[source]}
-                        </label>
-                      ))}
-                    </div>
-                    <p className="tiny muted">
-                      Gewählte Bereiche bilden einen gemeinsamen Zufallspool.
-                      Genres, Filmgruppen und die Filmauswahl gelten nur für
-                      Filmfragen. In der Filmreise gelten die freigeschalteten
-                      Stufen jedes Bereichs.
-                    </p>
-                  </fieldset>
-                </SetupSection>
+                {mode !== "fehler" && (
+                  <SetupSection
+                    title="Fragenbereiche"
+                    selection={
+                      selectedSources.map((s) => sourceLabels[s]).join(" + ") ||
+                      "Keine Bereiche"
+                    }
+                  >
+                    <fieldset disabled={busy}>
+                      <legend>Fragenbereiche</legend>
+                      <div className="filter-options">
+                        {questionSources.map((source) => (
+                          <label className="filter-choice" key={source}>
+                            <input
+                              type="checkbox"
+                              checked={selectedSources.includes(source)}
+                              onChange={(e) =>
+                                void changeSetup({
+                                  sources: e.target.checked
+                                    ? [...selectedSources, source]
+                                    : selectedSources.filter(
+                                        (s) => s !== source,
+                                      ),
+                                })
+                              }
+                            />
+                            <GenreArtwork
+                              genre={
+                                source === "film"
+                                  ? "Classics"
+                                  : sourceLabels[source]
+                              }
+                              compact
+                            />
+                            {sourceLabels[source]}
+                          </label>
+                        ))}
+                      </div>
+                      <p className="tiny muted">
+                        Gewählte Bereiche bilden einen gemeinsamen Zufallspool.
+                        Genres, Filmgruppen und die Filmauswahl gelten nur für
+                        Filmfragen. In der Filmreise gelten die freigeschalteten
+                        Stufen jedes Bereichs.
+                      </p>
+                    </fieldset>
+                  </SetupSection>
+                )}
                 <SetupSection
                   title="Filmgenres & Filmauswahl"
                   selection={

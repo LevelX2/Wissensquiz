@@ -1,21 +1,28 @@
 # Wiederholungen und Lernstufen
 
-Stand: 10.10.2026, lokale Umsetzung; noch nicht veröffentlicht.
+Stand: 10.10.2026, Umsetzung zur Veröffentlichung vorbereitet.
 
-## Befund und Auswahl
+## Befund und Entscheidung
 
-Die Bildschirmfotos zeigen unterschiedliche Grundmengen: Filmreise zählt alle fälligen Wissensziele innerhalb der freigeschalteten Auswahl; Fehlertraining nur noch offene Fehlantworten innerhalb seiner manuellen Filter. Bereits sicher gelöste Ziele fallen sofort aus dem Fehlertraining, brauchen aber weitere Wiederholungen zur Festigung. Die Zahlen 274 und 1 lassen sich deshalb nicht gleichsetzen. Der persönliche Spielstand wurde nicht ausgelesen oder verändert; die genaue Verteilung der 274 Ziele ist nicht geprüft.
+Die ursprünglichen Bildschirmfotos zeigten unterschiedliche Grundmengen: Filmreise zählte sämtliche fälligen Ziele ihrer freigeschalteten Auswahl, Fehlertraining nur offene Fehler seiner manuellen Filter. Daher konnten 274 und 1 gleichzeitig erscheinen. Gleichlautende Beschriftungen und große Erklärkästen machten diesen Unterschied unverständlich. Der persönliche Spielstand wurde nicht ausgelesen oder verändert.
 
-Die gleiche Beschriftung und anschließend ausführliche Erklärkästen waren missverständlich. Nach erneuter Nutzerpräzisierung entfallen sämtliche großen Fälligkeitskästen. Nur die Filmreise zeigt die Zahl kompakt direkt in der gewählten Moduskarte. Freies Spiel und Fehlertraining zeigen keine Fälligkeit. Varianten zählen weiterhin einmal je Wissensziel. Ob Fehlertraining künftig durch einen allgemeinen Lernmodus für alle fälligen Ziele ersetzt werden soll, wurde ausdrücklich zur Klärung gestellt; bis dahin bleiben die bestehenden Modusregeln erhalten.
+Die zuerst umgesetzte Zwischenlösung mit kompakter Filmreise-Zahl und Auswahl „Gemischt / Nur fällige Wiederholungen“ ist durch den anschließend ausdrücklich angenommenen Vorschlag abgelöst. Maßgeblich sind nun drei unterschiedliche Aufgaben:
 
-Ein zweiter Befund erklärt ausbleibende Zwischenaufstiege: Die bisherige Filmreise nahm zunächst neue Ziele und erst danach fällige Wiederholungen. Ein großer neuer Bestand konnte die Festigung dauerhaft verdrängen. Eine optionale Rückfrage zur Bedeutung von „nur lernen oder gemischt“ wurde gestellt. Ohne weitere Präzisierung wurde die Wahl für die Filmreise als fällige Wiederholungen gegenüber einer Mischung mit neuen Zielen ausgelegt.
+- **Filmreise:** Entdecken und Freischalten. Bei ausreichender Auswahl sechs neue und vier fällige Ziele je Zehnerrunde, entsprechend drei und zwei in der ersten Fünferrunde. Fällige Ziele: älteste Termine zuerst. Neue Ziele aus frisch geöffneten Etappen werden bevorzugt. Fehlende Plätze werden mit übrigen neuen, fälligen und schließlich bekannten, noch nicht fälligen Zielen ergänzt; ältere Bearbeitungen und Ziele außerhalb der letzten drei Runden zuerst. Gelernte Fragen bleiben verfügbar. Der Modus funktioniert auch nach vollständigem Kennenlernen des Bestands.
+- **Wiederholen:** Ersetzt das frühere Fehlertraining. Ausschließlich bereits bearbeitete, jetzt fällige **Filmziele**, auch früher sicher richtig beantwortete oder geratene. Alle passenden Genres, Kategorien, Schwierigkeiten und Filmgruppen werden berücksichtigt; keine Bindung an Filmreise-Freischaltungen. Älteste Fälligkeit zuerst, je Ziel eine passende zufällige Variante. Keine neuen oder noch nicht fälligen Ziele zum Auffüllen. Weniger fällige Ziele ergeben kürzere Runden. Ohne fällige Ziele kein Start, verständlicher Hinweis und gegebenenfalls der nächste Termin direkt in der Moduskarte.
+- **Freies Spiel:** Zufällige Ziele aus den gewählten Bereichen und Filtern, unabhängig von Lernstand oder Fälligkeit. Zusätzliche Fragevarianten erhöhen die Auswahlchance eines Ziels nicht.
 
-In der Filmreise ist jetzt wählbar:
+Alle Modi verwenden dieselben Lernereignisse und Lernintervalle. Anzeige und Auswahl verwenden `nextLearningAt`, einschließlich der lokalen Tagesgrenze. Die vorhandene technische Modus-ID `fehler` bleibt bestehen; keine neue Migration oder historische Sonderlogik. Die frühere optionale Einstellung `learningSelection` steuert die aktuelle Auswahl nicht mehr. Manuell gewählte Fragenbereiche bleiben für Filmreise und Freies Spiel gespeichert; Wiederholen verwendet ausschließlich Filmfragen.
 
-- **Gemischt** (Standard): Zunächst bis zur Hälfte der Plätze für fällige Ziele, älteste Termine zuerst; anschließend neue Ziele, bevorzugt aus neu freigeschalteten Stufen. Freie Plätze werden mit übrigen fälligen Zielen und erst zuletzt früheren, noch nicht fälligen Zielen ergänzt. Bei einer ungeraden Rundengröße wird der Wiederholungsanteil aufgerundet.
-- **Nur fällige Wiederholungen:** ausschließlich Ziele mit erreichtem Lerntermin, älteste zuerst; bei kleiner Menge kürzere Runde. Ohne fällige Ziele kein Start, mit verständlichem Wechselhinweis.
+## Kompakte Zahlen und goldene Klappen
 
-`settings.roundSetup.learningSelection` speichert `mixed` oder `due` über den vorhandenen Speicherweg. Ohne explizite Wahl gilt die aktuelle Standardauswahl Gemischt. Die Auswahl wird beim Start umgesetzt; aktive Runden behalten ihre bereits gezogenen Fragen. Keine Migration, kein neuer Modus und keine Änderung von Lernereignissen. Fehlertraining bleibt ausschließlich für offene Fehler; Freies Spiel bleibt zufällig. Anzeige und Filmreise-Auswahl verwenden beide `nextLearningAt`, einschließlich der Tagesgrenze nach einem bereits erfolgten Stufenaufstieg.
+Große Fälligkeitskästen entfallen. Nur **Wiederholen** zeigt „X Wiederholungen fällig“ kompakt in seiner Moduskarte, bezogen auf die gesamte aktuelle Auswahl und unabhängig von der nächsten Rundengröße. Aktualisierung bei Filterwechsel, neuem Stand, minütlich im sichtbaren Fenster und bei Rückkehr.
+
+Die **Filmreise** zeigt die nächste erreichbare Freischaltung der gewählten Bereiche: Genre beziehungsweise Bereich, noch fehlende sichere unterschiedliche Wissensziele und einen Fortschrittsbalken. Von den unmittelbar erreichbaren Schwierigkeiten oder Filmgruppen wird das Ziel mit der kleinsten Restmenge angezeigt. Wiederholungen desselben Ziels erhöhen den Freischaltzähler nicht. Sind alle Etappen offen, erscheint die Zahl gefestigter Ziele im gewählten Bereich. Eine eingeschränkte kuratierte Filmauswahl kann für die vollständige Freischaltung weitere Filme desselben Genres erfordern.
+
+Ausklappbereiche erscheinen als warme goldene Laschen mit dezenter Tiefe, Goldsymbol und drehendem Pfeil; Filterleisten mit goldener Plus-/Minus-Taste. Druckzustand und kurze Einblendung unterstützen die Bedienung. Native `details`/`summary` erhalten Tastatursteuerung und Fokus. Reduzierte Bewegung schaltet Animation und Druckbewegung aus. Die vier Lernstufen im Antwortbild und unmittelbaren Rückblick bleiben zunächst geschlossen und öffnen sich pro Antwort neu geschlossen.
+
+„Fällige Filmfragen dieser Runde wiederholen“ erscheint im Ergebnis erst bei tatsächlich fälligen Filmzielen aus den Antworten genau dieser abgeschlossenen Runde. Auch richtige Antworten können dazugehören. Andere aktive Runden blockieren den Start wie bisher. Frühere Fehler bleiben für Auswertung und Karriere-XP getrennt aus der Ereignishistorie ableitbar.
 
 ## Vier Stufen
 
@@ -31,6 +38,4 @@ Eine kompakte Liste verteilt alle eindeutigen Wissensziele des aktuellen Fragenb
 
 ## Herkunft und Prüfung
 
-[Nutzerhinweis mit Beschreibung der Bildschirmfotos](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerhinweis%20Wiederholungen%20und%20Lernstufen.txt). Befund anhand von `PlaySetup`, `selectQuestions`, `learn`, `nextLearningAt` und `openMistakes` verifiziert. Die subjektive Beobachtung „noch nie Stufe 2“ ist damit plausibel erklärt, aber keine Prüfung des persönlichen Kontoverlaufs.
-
-433 Logiktests in 70 Dateien bestanden, darunter 54 gezielte Fälle zu Auswahl, Lernstufen, Fehlertraining und Sicherungsvalidierung. Produktionsbuild und TypeScript erfolgreich. Acht relevante Browserfälle in Chromium und mobilem WebKit prüfen Zähler/Filter/Termine, gespeicherte reine Wiederholung mit Aufstieg auf Stufe 2, frühe Wiederholung und Lernanzeige nach Neuladen. Mobile Ansicht bei 320 Pixeln visuell geprüft, Axe und Überlaufprüfung erfolgreich. Synthetische Konten und kontrollierte Uhr; keine echten Spielstände verändert. [Prüfbericht einschließlich reparierter Testdaten und Grenzen](Pruefbericht.md#10102026--wiederholungen-und-lernstufen).
+[Nutzerhinweis mit Bildschirmfotos](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerhinweis%20Wiederholungen%20und%20Lernstufen.txt), [angenommene Modustrennung und Veröffentlichungsauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Modustrennung%20und%20goldene%20Klappen.txt). Befund anhand von Auswahl und Lernregeln verifiziert. „Noch nie Stufe 2“ ist durch die frühere Bevorzugung neuer Fragen plausibel erklärt, aber keine Prüfung des persönlichen Kontoverlaufs. Aktuelle Checks und Veröffentlichung werden im [Prüfbericht](Pruefbericht.md) und [Sites-Betrieb](Sites-Betrieb.md) festgehalten.

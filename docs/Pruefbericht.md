@@ -1,5 +1,14 @@
 # Prüfnachweis
 
+## 10.10.2026 – Modustrennung und goldene Klappen
+
+Auf ausdrückliche Annahme des Vorschlags Filmreise mit sechs neuen und vier fälligen Zielen je Zehnerrunde bei ausreichender Auswahl; bekannte Ziele ergänzen fehlende Plätze. Wiederholen ersetzt Fehlertraining: ausschließlich fällige Filmziele einschließlich früher richtiger und geratener Antworten, kein Auffüllen und kein vorzeitiges Training. Freies Spiel bleibt zufällig ohne Lernstandsgewichtung. Fälligkeitszahl nur in Wiederholen; Filmreise zeigt nächste erreichbare Freischaltung mit Restmenge und Balken, nach vollständiger Öffnung die gefestigten Ziele. Goldene native Klappen mit Druckzustand, Einblendung, Pfeil und reduzierter Bewegung; vier Lernstufen pro Antwort zunächst geschlossen. Profilübersicht aus dem vorherigen Main-Stand enthalten.
+
+436 Logiktests in 71 Dateien, TypeScript und Produktionsbuild für Version 62 bestanden. 34 unterschiedliche Browserfälle in Chromium und mobilem WebKit erfolgreich: 30 im breiten Lauf, vier nach Korrektur alter Testaufbauten gezielt erneut; der abschließende Lauf enthält zusätzlich die zwei Filmreise-/Stufe-2-Fälle erneut am finalen Build. Zwei ältere Logik-Testaufbauten warteten zunächst nicht auf Fälligkeit; Testzeit passend korrigiert. Zwei Browser-Testaufbauten erwarteten den alten Duell-Seitentitel beziehungsweise führten zusammengefügte Antwortfakten ohne Neuberechnung des Testlernstands ein; korrigiert und erneut bestanden. Keine Änderung der Produktionsspeicherung dafür. Vorschau und Start, Filter, leere Auswahl, Datum/Tagesgrenze, Stufe 2, Reload, Ergebniswiederholung, Lösungswahl, Profil, native Tastaturklappen, 320-Pixel-Ansicht, Axe und Überlauf geprüft. Goldene Antwort- und Startansicht visuell geprüft. Physische Geräteabnahme und vollständiger neuer Browser-Suite-Lauf nicht Bestandteil dieses Nachweises. Ausschließlich synthetische Konten und kontrollierte Uhr.
+
+Keine Schemaänderung, Migration, zusätzlichen Kompatibilitätsmaßnahmen oder echten Nutzerfortschritte. Versionsveröffentlichung und Online-/Duellkatalogabgleich separat im [Sites-Betrieb](Sites-Betrieb.md) dokumentiert. [Fachvertrag](Wiederholungen-und-Lernstufen-2026-10-10.md).
+
+
 ## 10.10.2026 – Darstellernamen im gesamten Fragenbestand
 
 Alle 12.773 Fragen auf Darstellerkontext durchgesehen; 2.612 Fragetexte zu 845 Filmfassungen um 3.345 Angaben ergänzt. Gesuchte Besetzungsnamen geschützt, Originalstimmen ausdrücklich bezeichnet, uneindeutige Alters-/Familien-/Rollenwechselzuordnungen ausgelassen. Nur das Fragefeld geändert; IDs, Varianten, Antworten, Lernziele und Rohquellen erhalten. 412 historische Prüfeinträge und 393 zugehörige Anzeigeeinträge auf die neuen Fragefassungen abgeglichen. [Redaktion, Lesefassung, Belege und Grenzen](Darstellerkontext-2026-10-10/Pruefbericht.md).

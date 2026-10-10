@@ -27,7 +27,7 @@ function play(state: State, qs = goals.slice(0, 1), at = 1000) {
   return r;
 }
 
-it("Filmreise reserviert die halbe Runde für fällige Wiederholungen, auch bei vielen neuen Zielen", () => {
+it("Filmreise reserviert vier von zehn Plätzen für fällige Wiederholungen, auch bei vielen neuen Zielen", () => {
   const s = emptyState(questions);
   play(s, goals.slice(0, 30));
   for (const p of Object.values(s.learning)) p.due = 0;
@@ -40,8 +40,8 @@ it("Filmreise reserviert die halbe Runde für fällige Wiederholungen, auch bei 
       random,
     );
     expect(selected).toHaveLength(10);
-    expect(selected.filter((q) => !s.learning[q.knowledgeId])).toHaveLength(5);
-    expect(selected.filter((q) => s.learning[q.knowledgeId])).toHaveLength(5);
+    expect(selected.filter((q) => !s.learning[q.knowledgeId])).toHaveLength(6);
+    expect(selected.filter((q) => s.learning[q.knowledgeId])).toHaveLength(4);
     expect(new Set(selected.map((q) => q.knowledgeId)).size).toBe(10);
   }
   expect(s).toEqual(before);
@@ -179,7 +179,7 @@ it("wählt ausschließlich fällige Ziele, priorisiert alte Termine und verwende
   const selected = selectQuestions(questions, s.learning, {
     ...options,
     now: at,
-    learningSelection: "due",
+    mode: "fehler",
   });
   expect(selected).toHaveLength(10);
   expect(new Set(selected.map((q) => q.knowledgeId))).toEqual(
@@ -188,21 +188,21 @@ it("wählt ausschließlich fällige Ziele, priorisiert alte Termine und verwende
   expect(
     selectQuestions(questions, s.learning, {
       ...options,
-      learningSelection: "due",
+      mode: "fehler",
     }),
   ).toEqual([]); // Same learning day, despite manually overdue due values.
   expect(
     selectQuestions(goals.slice(10), s.learning, {
       ...options,
       now: at,
-      learningSelection: "due",
+      mode: "fehler",
     }),
   ).toHaveLength(2);
   expect(
     selectQuestions(goals.slice(12), s.learning, {
       ...options,
       now: at,
-      learningSelection: "due",
+      mode: "fehler",
     }),
   ).toEqual([]);
 });
@@ -218,7 +218,7 @@ it("reine Wiederholungen steigen trotz verfügbarer neuer Fragen bei sicherer An
   const at = 2 * 86_400_000;
   const round = startRound(
     s,
-    { ...options, difficulty: "leicht", learningSelection: "due" },
+    { ...options, difficulty: "leicht", mode: "fehler" },
     at,
   );
   expect(new Set(round.questions.map((q) => q.knowledgeId))).toEqual(

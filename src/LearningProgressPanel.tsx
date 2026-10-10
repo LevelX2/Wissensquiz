@@ -39,7 +39,7 @@ export function LearningProgress({
       <p>{learningAnswerNote(previous, current, event)}</p>
       {resolvedMistake && (
         <p className="learning-error-resolved">
-          Fehler korrigiert · aus dem Fehlertraining entfernt.
+          Fehler sicher korrigiert.
         </p>
       )}
       <p className="learning-next">

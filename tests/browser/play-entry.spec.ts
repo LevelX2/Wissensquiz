@@ -63,7 +63,9 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.keyboard.press("Enter");
   await page.getByRole("button", { name: /^Duell Drei Runden/ }).click();
   const duelGuide = page.locator(".round-guide");
-  await expect(duelGuide.locator("summary")).toHaveText("So funktioniert Duell");
+  await expect(duelGuide.locator("summary")).toHaveText(
+    "So funktioniert Duell",
+  );
   await duelGuide.locator("summary").click();
   await expect(duelGuide).toContainText("drei Runden mit je zehn Fragen");
   await expect(duelGuide).not.toContainText("offenen Fehlern");
@@ -83,12 +85,14 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.setViewportSize({ width: 320, height: 740 });
   await page.evaluate(() => scrollTo(0, 0));
   const startBox = (await start.boundingBox())!;
-  const selectionBox = (await page.locator(".learning-selection").boundingBox())!;
+  const selectionBox = (await page.locator(".mode-selection").boundingBox())!;
   expect(startBox.y - selectionBox.y - selectionBox.height).toBeLessThan(32);
   const guide = page.locator(".round-guide");
   const more = guide.locator("summary");
   await expect(more).toHaveText("So funktioniert Filmreise");
-  await expect(guide).toContainText("nur fällige Wiederholungen");
+  await expect(guide).toContainText(
+    "sechs neue Ziele und vier fällige Wiederholungen",
+  );
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await more.focus();
   await page.keyboard.press("Enter");

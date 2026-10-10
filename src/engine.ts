@@ -13,6 +13,7 @@ import {
   matchesFilters,
   genreOf,
   questionSources,
+  questionSourceOf,
 } from "./filters";
 import {
   pathQuestions,
@@ -24,7 +25,7 @@ import { familiarityOf, familiarities, selectionRule } from "./familiarity";
 import { discoveryContext } from "./discovery";
 import { matchesTopic } from "./categories";
 import { prepareFactQuestion } from "./filmFacts";
-import { errorTrainingContext, type OpenMistake } from "./errorTraining";
+import { repetitionContext } from "./errorTraining";
 import { RULES, learn } from "./learning";
 import { nextLearningAt } from "./learningProgress";
 import { careerSummary, migrateCareer } from "./career";
@@ -75,8 +76,7 @@ export function selectQuestions(
     now: number;
     recentKnowledgeIds?: Set<string>;
     introductoryQuestionIds?: Set<string>;
-    learningSelection?: "mixed" | "due";
-    mistakes?: Map<string, OpenMistake>;
+    knowledgeIds?: Set<string>;
     recordPreset?: "standard" | "genre";
   },
   random = Math.random,
@@ -98,22 +98,17 @@ export function selectQuestions(
   const unique = shuffle([...byGoal.values()], random).map(
     (qs) => qs[Math.min(qs.length - 1, Math.floor(random() * qs.length))],
   );
-  if (options.mode === "fehler") {
+  if (options.mode === "fehler")
     return unique
-      .filter((q) => options.mistakes?.has(q.knowledgeId))
-      .map((q) => {
-        const last = options.mistakes!.get(q.knowledgeId)!;
-        return (
-          byGoal.get(q.knowledgeId)!.find((v) => v.id === last.questionId) ?? q
-        );
-      })
-      .sort((a, b) => {
-        const ma = options.mistakes!.get(a.knowledgeId)!;
-        const mb = options.mistakes!.get(b.knowledgeId)!;
-        return mb.failures - ma.failures || mb.lastWrongAt - ma.lastWrongAt;
-      })
+      .filter(
+        (q) =>
+          questionSourceOf(q) === "film" &&
+          (!options.knowledgeIds || options.knowledgeIds.has(q.knowledgeId)) &&
+          learning[q.knowledgeId] &&
+          nextLearningAt(learning[q.knowledgeId], options.now) <= options.now,
+      )
+      .sort((a, b) => learning[a.knowledgeId].due - learning[b.knowledgeId].due)
       .slice(0, options.size);
-  }
   if (options.mode === "ueben") return unique.slice(0, options.size);
   if (isRecordMode(options.mode)) {
     if (
@@ -170,15 +165,13 @@ export function selectQuestions(
     }
   };
   if (options.mode === "entdecken") {
-    if (options.learningSelection === "due")
-      return shuffle(due.slice(0, options.size), random);
     // Reserve room for consolidation even while new goals remain available.
-    take(due, Math.ceil(options.size / 2));
+    take(due, Math.floor(options.size * 0.4));
     const unseen = unique.filter((q) => !learning[q.knowledgeId]);
     // Introduce a newly unlocked stage without overriding the user's filters.
     take(
       unseen.filter((q) => options.introductoryQuestionIds?.has(q.id)),
-      Math.ceil(options.size / 2),
+      Math.ceil(options.size * 0.6),
     );
     take(unseen, options.size);
     // A small remaining pool must not artificially shorten the round.
@@ -282,7 +275,6 @@ export function startRound(
     filters?: QuizFilters;
     sourceRoundId?: string;
     recordPreset?: "standard" | "genre";
-    learningSelection?: "mixed" | "due";
   },
   now = Date.now(),
 ): Round {
@@ -328,7 +320,7 @@ export function startRound(
       ...options,
       ...(options.mode === "entdecken" ? discoveryContext(state) : {}),
       ...(options.mode === "fehler"
-        ? errorTrainingContext(state, options.sourceRoundId)
+        ? repetitionContext(state, options.sourceRoundId)
         : {}),
       size: isEndlessMode(options.mode)
         ? 1
@@ -348,11 +340,7 @@ export function startRound(
   );
   if (!questions.length)
     throw new Error("Für diese Auswahl sind keine Fragen verfügbar.");
-  const {
-    sourceRoundId: _sourceRoundId,
-    learningSelection: _learningSelection,
-    ...roundOptions
-  } = options;
+  const { sourceRoundId: _sourceRoundId, ...roundOptions } = options;
   const round: Round = {
     ...roundOptions,
     ...(options.filters ? { filters: canonicalFilters(options.filters) } : {}),

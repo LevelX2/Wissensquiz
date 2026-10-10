@@ -372,7 +372,7 @@ export function App({
       }
     : {
         genres: (selectedGenres ?? genres).filter((genre) => genre !== ACTORS),
-        sources: selectedSources,
+        sources: mode === "fehler" ? ["film" as const] : selectedSources,
         difficulties:
           mode === "entdecken" ? [...difficulties] : selectedDifficulties,
         familiarities:
@@ -394,7 +394,10 @@ export function App({
   const current = state.rounds.find((r) => r.id === roundId);
   const roundTopic = standard
     ? "Alle Themen"
-    : selectionTopic(selectedCategories, selectedSources);
+    : selectionTopic(
+        selectedCategories,
+        mode === "fehler" ? ["film"] : selectedSources,
+      );
   const begin = async (requestedMode: Mode = mode) => {
     unlockSound(state.settings);
     let id = "";
@@ -434,7 +437,6 @@ export function App({
               : selectedFamiliarities,
         },
         ...(isRecordMode(requestedMode) ? { recordPreset } : {}),
-        learningSelection: s.settings.roundSetup.learningSelection,
       }).id;
     });
     if (next) {
@@ -565,7 +567,9 @@ export function App({
                   active={active}
                   begin={begin}
                   roundTopic={roundTopic}
-                  selectedSources={selectedSources}
+                  selectedSources={
+                    mode === "fehler" ? ["film"] : selectedSources
+                  }
                   filters={filters}
                   genres={standard ? recordGenres : genres}
                   selectedDifficulties={selectedDifficulties}

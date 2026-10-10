@@ -14,7 +14,7 @@ const guides: Record<
     introduction:
       "Du entdeckst Filmwissen ohne Zeitdruck und schaltest Schritt für Schritt neue Stufen frei. Filmgenres, Schauspieler und Preisträger haben jeweils ihren eigenen Fortschritt.",
     selection:
-      "Du kombinierst Fragenbereiche und Filmgenres aus Deinen freigeschalteten Stufen. Wähle nur fällige Wiederholungen oder „Gemischt“: möglichst zur Hälfte fällige Wiederholungen und neue Ziele. Freie Plätze werden aus Deiner Auswahl ergänzt.",
+      "Du kombinierst Fragenbereiche und Filmgenres aus Deinen freigeschalteten Etappen. Bei genügend passenden Fragen enthält eine Zehnerrunde sechs neue Ziele und vier fällige Wiederholungen. Fehlen neue oder fällige Ziele, ergänzen bekannte Fragen die Runde. Die nächste Etappe zeigt Dir das nächste Freischaltziel.",
     flow: "Die erste Runde umfasst bis zu fünf Fragen, danach bis zu zehn. Nach jeder Antwort siehst Du Lösung und Erklärung. Sichere Treffer bringen Dich beim Rundenabschluss weiter; geratene Treffer zählen dafür nicht. Pro Runde kommt jedes Wissensziel höchstens einmal vor. Deine Stufenfortschritte zeigen die nächste Freischaltung.",
   },
   ueben: {
@@ -26,10 +26,10 @@ const guides: Record<
   },
   fehler: {
     introduction:
-      "Du wiederholst falsch beantwortete Fragen und Zeitabläufe ohne Zeitdruck. Ein sicherer Treffer entfernt das Wissensziel aus Deinen offenen Fehlern; ein geratener Treffer reicht dafür nicht.",
+      "Du festigst bereits begegnete Filmfragen ohne Zeitdruck – sobald ihr Wiederholungstermin erreicht ist. Auch früher richtig beantwortete Fragen gehören dazu.",
     selection:
-      "Deine Fragenbereiche, Genres, Schwierigkeitsstufen und Filmgruppen grenzen die offenen Fehler ein. Häufige Fehler kommen zuerst, bei Gleichstand die zuletzt falsch beantworteten. Du kannst sofort üben und musst nicht auf den Wiederholungstermin warten.",
-    flow: "Die erste Runde umfasst bis zu fünf Fragen, danach bis zu zehn – bei weniger offenen Fehlern entsprechend weniger. Jedes Wissensziel kommt höchstens einmal pro Runde vor. Nach jeder Antwort siehst Du Lösung und Erklärung. Allein geratene Fragen kommen nicht ins Fehlertraining.",
+      "Genres, Filmauswahl, Schwierigkeitsstufen und Filmgruppen grenzen Deine fälligen Filmfragen ein. Am längsten fällige Ziele kommen zuerst. Neue Fragen und noch nicht fällige Wiederholungen werden nicht ergänzt.",
+    flow: "Die erste Runde umfasst bis zu fünf Fragen, danach bis zu zehn – bei weniger fälligen Zielen entsprechend weniger. Jedes Wissensziel kommt höchstens einmal pro Runde vor. Nach jeder Antwort siehst Du Lösung, Erklärung und nächsten Termin. Ist nichts fällig, kannst Du in der Filmreise oder im Freien Spiel weiterspielen.",
   },
   rekord: {
     introduction:

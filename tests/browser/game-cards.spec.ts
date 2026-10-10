@@ -8,7 +8,7 @@ import {
 } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { emptyState } from "../../src/model";
-import { answer, complete, startRound, recordKey } from "../../src/engine";
+import { answer, complete, startRound, recordKey, rebuild } from "../../src/engine";
 
 test("Große Moduskachel: Auswahl schließt sich, speichert den Modus und startet noch keine Runde", async ({
   page,
@@ -95,7 +95,7 @@ test("Duell öffnet erst nach Variantenauswahl und Losspielen", async ({
   expect((await readStoredState(page)).rounds).toHaveLength(0);
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(
-    page.getByRole("heading", { name: "Duell", exact: true }),
+    page.getByRole("heading", { name: "Deine Duelle", exact: true }),
   ).toBeVisible();
   await page.getByRole("button", { name: "← Zurück zum Spielen" }).click();
   await expect(page.locator(".mode-selection > summary")).toContainText(
@@ -182,7 +182,7 @@ test("Lernfilter bleiben bestehen; auch während einer Runde bereitet Auswahl nu
 }) => {
   await page.goto("/");
   await openRoundSetup(page);
-  await modePreparation(page, /^Fehlertraining /).click();
+  await modePreparation(page, /^Wiederholen /).click();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
   await openRoundSetup(page);
   await modePreparation(page, /Freies Spiel Alle Stufen/).click();
@@ -284,6 +284,7 @@ test("Aktueller Fragenrückblick bleibt, Sonderwertungen entfallen ohne Verlust 
     state.rounds.push(r);
     state.events.push(...run.events);
   }
+  rebuild(state);
   await writeStoredState(page, state);
   await page.reload();
   await openRoundSetup(page);

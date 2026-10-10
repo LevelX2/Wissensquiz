@@ -20,7 +20,7 @@ async function writeState(page: Page, state: State) {
   await writeStoredState(page, state);
 }
 
-test("Filmreise trennt Festigung von offenen Fehlern und speichert reine Wiederholungen bis zum Aufstieg auf Stufe 2", async ({
+test("Filmreise zeigt die nächste Etappe; Wiederholen festigt fällige Filmfragen bis Stufe 2", async ({
   page,
 }) => {
   await page.clock.install({ time: now });
@@ -78,10 +78,11 @@ test("Filmreise trennt Festigung von offenen Fehlern und speichert reine Wiederh
   await writeState(page, state);
   await page.reload();
   const overview = page.getByLabel("Fällige Wiederholungen", { exact: true });
-  await expect(overview).toContainText("13 Wiederholungen fällig");
+  await expect(overview).toHaveCount(0);
   await expect(page.locator(".repetition-overview")).toHaveCount(0);
-  await expect(page.locator(".mode-selection > summary")).toContainText(
-    "13 Wiederholungen fällig",
+  await expect(page.getByLabel("Nächste Etappe")).toBeVisible();
+  await expect(page.getByLabel("Nächste Etappe")).toContainText(
+    "sichere Ziele",
   );
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   const profile = page.getByRole("region", { name: "Dein Lernstand" });
@@ -106,21 +107,13 @@ test("Filmreise trennt Festigung von offenen Fehlern und speichert reine Wiederh
   });
   await page.getByRole("button", { name: "Spielen", exact: true }).click();
   await openRoundSetup(page);
-  await modePreparation(page, /Fehlertraining Offene Fehler/).click();
-  await expect(overview).toHaveCount(0);
-  await openRoundSetup(page);
-  await modePreparation(page, /Filmreise Filmwelten/).click();
-  await page.getByLabel("Fragenauswahl", { exact: true }).selectOption("due");
-  await expect
-    .poll(
-      async () =>
-        (await readState(page)).settings.roundSetup?.learningSelection,
-    )
-    .toBe("due");
-  await page.reload();
-  await expect(page.getByLabel("Fragenauswahl", { exact: true })).toHaveValue(
-    "due",
+  await modePreparation(page, /Wiederholen Fällige Filmfragen/).click();
+  await expect(overview).toContainText("13 Wiederholungen fällig");
+  await expect(page.getByLabel("Fragenauswahl", { exact: true })).toHaveCount(
+    0,
   );
+  await page.reload();
+  await expect(overview).toContainText("13 Wiederholungen fällig");
   await expect(page.locator("#round-summary")).toContainText("10 Fragen");
   expect(
     await page.evaluate(
@@ -159,7 +152,7 @@ test("Filmreise trennt Festigung von offenen Fehlern und speichert reine Wiederh
   ).toContainText("in 3 Tagen");
 });
 
-test("kompakte Lernanzeige zählt den fälligen Pool nur in der Filmreise und aktualisiert Zeit, Filter und Neuladen", async ({
+test("kompakte Lernanzeige zählt den fälligen Pool nur beim Wiederholen und aktualisiert Zeit, Filter und Neuladen", async ({
   page,
   browserName,
 }) => {
@@ -224,12 +217,10 @@ test("kompakte Lernanzeige zählt den fälligen Pool nur in der Filmreise und ak
   await expect(page.locator("#round-summary")).toContainText("10 Fragen");
   await openRoundSetup(page);
   await modePreparation(page, /Filmreise Filmwelten/).click();
-  await expect(overview).toContainText("12 Wiederholungen fällig");
-  await openRoundSetup(page);
-  await modePreparation(page, /Fehlertraining Offene Fehler/).click();
   await expect(overview).toHaveCount(0);
   await openRoundSetup(page);
-  await modePreparation(page, /Filmreise Filmwelten/).click();
+  await modePreparation(page, /Wiederholen Fällige Filmfragen/).click();
+  await expect(overview).toContainText("12 Wiederholungen fällig");
   await page.clock.fastForward(10 * 60_000 + 1000);
   await expect(overview).toContainText("13 Wiederholungen fällig");
   await page.screenshot({
@@ -353,7 +344,7 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
       await expect(feedback).toContainText("Nächste Lernstufe: in 7 Tagen");
     if (i === 2) await expect(feedback).toContainText("Gefestigt");
     if (i === 3)
-      await expect(feedback).toContainText("aus dem Fehlertraining entfernt");
+      await expect(feedback).toContainText("Fehler sicher korrigiert");
     expect(
       await page.evaluate(
         () => document.documentElement.scrollWidth <= innerWidth,
@@ -539,10 +530,17 @@ for (const mode of ["entdecken", "fehler"] as const) {
     const seed = startRound(
       state,
       { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
-      now.getTime(),
+      now.getTime() - 700_000,
     );
     for (const q of seed.questions)
-      answer(state, seed.id, q.id, { dontKnow: true }, 1000, now.getTime());
+      answer(
+        state,
+        seed.id,
+        q.id,
+        { dontKnow: true },
+        1000,
+        now.getTime() - 700_000,
+      );
     complete(state, seed.id, now.getTime());
     state.settings.solutionDisplay = "round";
     const round = startRound(
@@ -567,17 +565,19 @@ for (const mode of ["entdecken", "fehler"] as const) {
   });
 }
 
-test("Fehlertraining hat einen verständlichen leeren Zustand und bleibt als Modus gespeichert", async ({
+test("Wiederholen hat einen verständlichen leeren Zustand und bleibt als Modus gespeichert", async ({
   page,
 }) => {
   await page.clock.install({ time: now });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await openRoundSetup(page);
-  await modePreparation(page, /Fehlertraining Offene Fehler/).click();
+  await modePreparation(page, /Wiederholen Fällige Filmfragen/).click();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
   await expect(
-    page.getByText(/Keine offenen Fehler in Deiner Auswahl/),
+    page.getByText(
+      /Aktuell ist in Deiner Auswahl nichts zur Wiederholung fällig/,
+    ),
   ).toBeVisible();
   await expect
     .poll(async () => (await readState(page)).settings.roundSetup?.mode)
@@ -585,10 +585,10 @@ test("Fehlertraining hat einen verständlichen leeren Zustand und bleibt als Mod
   await page.reload();
   await openRoundSetup(page);
   await expect(
-    modePreparation(page, /Fehlertraining Offene Fehler/),
+    modePreparation(page, /Wiederholen Fällige Filmfragen/),
   ).toHaveAttribute("aria-pressed", "true");
   await expect(page.locator(".round-guide")).toContainText(
-    "fällt es aus dem Fehlertraining heraus",
+    "Neue Fragen und noch nicht fällige Wiederholungen werden nicht ergänzt",
   );
 });
 
@@ -663,7 +663,15 @@ for (const width of [320, 1280]) {
       "Frühere Fehler sicher gelöst",
     );
     await expect(
-      page.getByRole("button", { name: /Fehler dieser Runde üben \(2\)/ }),
+      page.getByRole("button", {
+        name: /Fällige Filmfragen dieser Runde wiederholen/,
+      }),
+    ).toHaveCount(0);
+    await page.clock.fastForward(10 * 60_000 + 1000);
+    await expect(
+      page.getByRole("button", {
+        name: /Fällige Filmfragen dieser Runde wiederholen \(2\)/,
+      }),
     ).toBeEnabled();
     expect(
       await page.evaluate(
@@ -694,7 +702,9 @@ for (const width of [320, 1280]) {
       .click();
     await expect(page.locator(".review > details")).toHaveCount(1);
     await page
-      .getByRole("button", { name: /Fehler dieser Runde üben \(2\)/ })
+      .getByRole("button", {
+        name: /Fällige Filmfragen dieser Runde wiederholen \(2\)/,
+      })
       .click();
     await expect(page.locator(".question-card")).toBeVisible();
     const retry = (await readState(page)).rounds.at(-1)!;
@@ -727,18 +737,22 @@ for (const width of [320, 1280]) {
       "2 frühere Fehler sicher gelöst",
     );
     await expect(
-      page.getByRole("button", { name: /Fehler dieser Runde üben/ }),
+      page.getByRole("button", {
+        name: /Fällige Filmfragen dieser Runde wiederholen/,
+      }),
     ).toHaveCount(0);
     await page.getByRole("button", { name: "Neue Runde wählen" }).click();
     await openRoundSetup(page);
     await openRoundSetup(page);
     await openRoundSetup(page);
-    await modePreparation(page, /Fehlertraining Offene Fehler/).click();
+    await modePreparation(page, /Wiederholen Fällige Filmfragen/).click();
     await expect(
       page.getByRole("button", { name: "Losspielen" }),
     ).toBeDisabled();
     await expect(
-      page.getByText(/Keine offenen Fehler in Deiner Auswahl/),
+      page.getByText(
+        /Aktuell ist in Deiner Auswahl nichts zur Wiederholung fällig/,
+      ),
     ).toBeVisible();
     expect((await readState(page)).experience).toBe(33);
   });

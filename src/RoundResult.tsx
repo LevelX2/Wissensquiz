@@ -10,7 +10,8 @@ import {
   roundDifficulties,
 } from "./filters";
 import { GenreArtwork } from "./Icons";
-import { errorTrainingContext } from "./errorTraining";
+import { repetitionContext } from "./errorTraining";
+import { useForegroundTime } from "./useForegroundTime";
 import { roundSummary } from "./roundSummary";
 import { careerSummary } from "./career";
 import { RoundExperience } from "./CareerProgress";
@@ -47,7 +48,8 @@ export function Result({
   const roundXp = career.rounds.get(round.id)!;
   const roundProgress = career.progress.get(round.id)!;
   const { events, correct, improved, secured: secure } = summary;
-  const retryContext = errorTrainingContext(state, round.id);
+  const retryContext = repetitionContext(state, round.id);
+  const now = useForegroundTime();
   const retryCount = selectQuestions(
     state.questions,
     state.learning,
@@ -57,7 +59,7 @@ export function Result({
       difficulty: round.difficulty,
       filters: round.filters,
       size: 10,
-      now: Date.now(),
+      now,
       ...retryContext,
     },
     () => 0.5,
@@ -242,7 +244,7 @@ export function Result({
             data-feedback="own"
             disabled={busy || active}
           >
-            Fehler dieser Runde üben ({retryCount}) →
+            Fällige Filmfragen dieser Runde wiederholen ({retryCount}) →
           </button>
         )}
         <button
@@ -256,14 +258,7 @@ export function Result({
         <p className="muted tiny">
           {active
             ? "Setze zuerst Deine begonnene Runde fort oder beende sie auf der Startseite."
-            : "Ohne Zeitdruck direkt wiederholen. Langfristige Festigung braucht weiterhin Abstand."}
-        </p>
-      )}
-      {!retryCount && events.some((e) => !e.correct) && (
-        <p className="muted tiny">
-          {retryContext.mistakes.size
-            ? "Die offenen Fehler dieser Runde sind in dieser Auswahl aktuell nicht verfügbar."
-            : "Die Fehler dieser Runde hast Du inzwischen sicher gelöst."}
+            : "Du wiederholst ausschließlich Filmfragen dieser Runde, deren Lerntermin erreicht ist."}
         </p>
       )}
       <button className="text-button muted" onClick={onHome}>
