@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 2050,
-  "totalReviewed": 2200,
-  "remainingFilmQuestions": 8533,
+  "completedInThisRun": 2100,
+  "totalReviewed": 2250,
+  "remainingFilmQuestions": 8483,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 10573,
+  "remainingAllQuestions": 10523,
   "blocks": [
     {
       "block": 1,
@@ -213,6 +213,11 @@
     {
       "block": 41,
       "path": "Block-41.json",
+      "count": 50
+    },
+    {
+      "block": 42,
+      "path": "Block-42.json",
       "count": 50
     }
   ],
@@ -2416,209 +2421,59 @@
     "G100-20261008-ROMCOM-005-S1",
     "G100-20261008-ROMCOM-005-S2",
     "G100-20261008-ROMCOM-005-Y",
-    "G100-20261008-ROMCOM-005-D"
+    "G100-20261008-ROMCOM-005-D",
+    "F240-20261006-187-L1",
+    "F240-20261006-187-L2",
+    "F240-20261006-187-M1",
+    "F240-20261006-187-M2",
+    "F240-20261006-187-S1",
+    "F240-20261006-187-S2",
+    "F240-20261006-187-Y",
+    "F240-20261006-187-D",
+    "THR-202610-P01-L-017",
+    "THR-202610-P01-L-018",
+    "THR-202610-P01-M-025",
+    "THR-202610-P01-M-026",
+    "THR-202610-P01-S-025",
+    "THR-202610-P01-S-026",
+    "THR-202610-P01-M-027",
+    "THR-202610-P01-S-027",
+    "E20261007-F-099-L1",
+    "E20261007-F-099-L2",
+    "E20261007-F-099-M1",
+    "E20261007-F-099-M2",
+    "E20261007-F-099-S1",
+    "E20261007-F-099-S2",
+    "E20261007-F-099-Y",
+    "E20261007-F-099-D",
+    "ACT-L-027",
+    "ACT-L-028",
+    "ACT-M-027",
+    "ACT-M-028",
+    "ACT-S-027",
+    "ACT-S-028",
+    "FF-014-YEAR",
+    "FF-014-DIRECTOR",
+    "ACT-L-015",
+    "ACT-L-016",
+    "ACT-M-015",
+    "ACT-M-016",
+    "ACT-S-015",
+    "ACT-S-016",
+    "FF-008-YEAR",
+    "FF-008-DIRECTOR",
+    "FAN-202610-P01-L-007",
+    "FAN-202610-P01-L-008",
+    "FAN-202610-P01-M-010",
+    "FAN-202610-P01-M-011",
+    "FAN-202610-P01-S-010",
+    "FAN-202610-P01-S-011",
+    "FAN-202610-P01-M-012",
+    "FAN-202610-P01-S-012",
+    "SF-L-027",
+    "SF-M-027"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-187-L1",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-L2",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-M1",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-M2",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-S1",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-S2",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-Y",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-D",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "THR-202610-P01-L-017",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-L-018",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-M-025",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-M-026",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-S-025",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-S-026",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-M-027",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-S-027",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "E20261007-F-099-L1",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-L2",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-M1",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-M2",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-S1",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-S2",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-Y",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-D",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "ACT-L-027",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-L-028",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-M-027",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-M-028",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-S-027",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-S-028",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "FF-014-YEAR",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "FF-014-DIRECTOR",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-L-015",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "ACT-L-016",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "ACT-M-015",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "ACT-M-016",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "ACT-S-015",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "ACT-S-016",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "FF-008-YEAR",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "FF-008-DIRECTOR",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "FAN-202610-P01-L-007",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-L-008",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-M-010",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-M-011",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-S-010",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-S-011",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-M-012",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-S-012",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "SF-L-027",
-      "filmKey": "Contact|1997"
-    },
-    {
-      "id": "SF-M-027",
-      "filmKey": "Contact|1997"
-    },
     {
       "id": "SF-S-027",
       "filmKey": "Contact|1997"
@@ -36554,204 +36409,204 @@
   ],
   "next": [
     {
-      "id": "F240-20261006-187-L1",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-L2",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-M1",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-M2",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-S1",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-S2",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-Y",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "F240-20261006-187-D",
-      "filmKey": "Coherence|2013"
-    },
-    {
-      "id": "THR-202610-P01-L-017",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-L-018",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-M-025",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-M-026",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-S-025",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-S-026",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-M-027",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "THR-202610-P01-S-027",
-      "filmKey": "Collateral|2004"
-    },
-    {
-      "id": "E20261007-F-099-L1",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-L2",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-M1",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-M2",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-S1",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-S2",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-Y",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "E20261007-F-099-D",
-      "filmKey": "Color Out of Space|2019"
-    },
-    {
-      "id": "ACT-L-027",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-L-028",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-M-027",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-M-028",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-S-027",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-S-028",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "FF-014-YEAR",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "FF-014-DIRECTOR",
-      "filmKey": "Commando|1985"
-    },
-    {
-      "id": "ACT-L-015",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "ACT-L-016",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "ACT-M-015",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "ACT-M-016",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "ACT-S-015",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "ACT-S-016",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "FF-008-YEAR",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "FF-008-DIRECTOR",
-      "filmKey": "Con Air|1997"
-    },
-    {
-      "id": "FAN-202610-P01-L-007",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-L-008",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-M-010",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-M-011",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-S-010",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-S-011",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-M-012",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "FAN-202610-P01-S-012",
-      "filmKey": "Conan the Barbarian|1982"
-    },
-    {
-      "id": "SF-L-027",
+      "id": "SF-S-027",
       "filmKey": "Contact|1997"
     },
     {
-      "id": "SF-M-027",
+      "id": "FF-152-YEAR",
       "filmKey": "Contact|1997"
+    },
+    {
+      "id": "FF-152-DIRECTOR",
+      "filmKey": "Contact|1997"
+    },
+    {
+      "id": "MUS-202609-P01-L-039",
+      "filmKey": "Control|2007"
+    },
+    {
+      "id": "MUS-202609-P01-L-040",
+      "filmKey": "Control|2007"
+    },
+    {
+      "id": "MUS-202609-P01-M-039",
+      "filmKey": "Control|2007"
+    },
+    {
+      "id": "MUS-202609-P01-M-040",
+      "filmKey": "Control|2007"
+    },
+    {
+      "id": "MUS-202609-P01-S-039",
+      "filmKey": "Control|2007"
+    },
+    {
+      "id": "MUS-202609-P01-S-040",
+      "filmKey": "Control|2007"
+    },
+    {
+      "id": "MUS-202609-P01-M-039-V1",
+      "filmKey": "Control|2007"
+    },
+    {
+      "id": "FF-320-YEAR",
+      "filmKey": "Control|2007"
+    },
+    {
+      "id": "FF-320-DIRECTOR",
+      "filmKey": "Control|2007"
+    },
+    {
+      "id": "F240-20261006-070-L1",
+      "filmKey": "Coraline|2009"
+    },
+    {
+      "id": "F240-20261006-070-L2",
+      "filmKey": "Coraline|2009"
+    },
+    {
+      "id": "F240-20261006-070-M1",
+      "filmKey": "Coraline|2009"
+    },
+    {
+      "id": "F240-20261006-070-M2",
+      "filmKey": "Coraline|2009"
+    },
+    {
+      "id": "F240-20261006-070-S1",
+      "filmKey": "Coraline|2009"
+    },
+    {
+      "id": "F240-20261006-070-S2",
+      "filmKey": "Coraline|2009"
+    },
+    {
+      "id": "F240-20261006-070-Y",
+      "filmKey": "Coraline|2009"
+    },
+    {
+      "id": "F240-20261006-070-D",
+      "filmKey": "Coraline|2009"
+    },
+    {
+      "id": "G100-20261008-ACTION-020-L1",
+      "filmKey": "Crank|2006"
+    },
+    {
+      "id": "G100-20261008-ACTION-020-L2",
+      "filmKey": "Crank|2006"
+    },
+    {
+      "id": "G100-20261008-ACTION-020-M1",
+      "filmKey": "Crank|2006"
+    },
+    {
+      "id": "G100-20261008-ACTION-020-M2",
+      "filmKey": "Crank|2006"
+    },
+    {
+      "id": "G100-20261008-ACTION-020-S1",
+      "filmKey": "Crank|2006"
+    },
+    {
+      "id": "G100-20261008-ACTION-020-S2",
+      "filmKey": "Crank|2006"
+    },
+    {
+      "id": "G100-20261008-ACTION-020-Y",
+      "filmKey": "Crank|2006"
+    },
+    {
+      "id": "G100-20261008-ACTION-020-D",
+      "filmKey": "Crank|2006"
+    },
+    {
+      "id": "E20261007-F-057-L1",
+      "filmKey": "Crash|2004"
+    },
+    {
+      "id": "E20261007-F-057-L2",
+      "filmKey": "Crash|2004"
+    },
+    {
+      "id": "E20261007-F-057-M1",
+      "filmKey": "Crash|2004"
+    },
+    {
+      "id": "E20261007-F-057-M2",
+      "filmKey": "Crash|2004"
+    },
+    {
+      "id": "E20261007-F-057-S1",
+      "filmKey": "Crash|2004"
+    },
+    {
+      "id": "E20261007-F-057-S2",
+      "filmKey": "Crash|2004"
+    },
+    {
+      "id": "E20261007-F-057-Y",
+      "filmKey": "Crash|2004"
+    },
+    {
+      "id": "E20261007-F-057-D",
+      "filmKey": "Crash|2004"
+    },
+    {
+      "id": "F240-20261006-174-L1",
+      "filmKey": "Crazy Rich Asians|2018"
+    },
+    {
+      "id": "F240-20261006-174-L2",
+      "filmKey": "Crazy Rich Asians|2018"
+    },
+    {
+      "id": "F240-20261006-174-M1",
+      "filmKey": "Crazy Rich Asians|2018"
+    },
+    {
+      "id": "F240-20261006-174-M2",
+      "filmKey": "Crazy Rich Asians|2018"
+    },
+    {
+      "id": "F240-20261006-174-S1",
+      "filmKey": "Crazy Rich Asians|2018"
+    },
+    {
+      "id": "F240-20261006-174-S2",
+      "filmKey": "Crazy Rich Asians|2018"
+    },
+    {
+      "id": "F240-20261006-174-Y",
+      "filmKey": "Crazy Rich Asians|2018"
+    },
+    {
+      "id": "F240-20261006-174-D",
+      "filmKey": "Crazy Rich Asians|2018"
+    },
+    {
+      "id": "ROM-202610-P01-L-007",
+      "filmKey": "Crazy, Stupid, Love.|2011"
+    },
+    {
+      "id": "ROM-202610-P01-L-008",
+      "filmKey": "Crazy, Stupid, Love.|2011"
+    },
+    {
+      "id": "ROM-202610-P01-M-010",
+      "filmKey": "Crazy, Stupid, Love.|2011"
+    },
+    {
+      "id": "ROM-202610-P01-M-011",
+      "filmKey": "Crazy, Stupid, Love.|2011"
+    },
+    {
+      "id": "ROM-202610-P01-S-010",
+      "filmKey": "Crazy, Stupid, Love.|2011"
+    },
+    {
+      "id": "ROM-202610-P01-S-011",
+      "filmKey": "Crazy, Stupid, Love.|2011"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
