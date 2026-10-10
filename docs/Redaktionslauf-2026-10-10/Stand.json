@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "4f9e51b4de1fcf704516f7bb5625fc503193ce9d",
+  "sourceCommit": "5c36c3e93ac42b730c2454a0f7dba5a240bc8dff",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 850,
-  "totalReviewed": 1000,
-  "remainingFilmQuestions": 9733,
+  "completedInThisRun": 900,
+  "totalReviewed": 1050,
+  "remainingFilmQuestions": 9683,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 11773,
+  "remainingAllQuestions": 11723,
   "blocks": [
     {
       "block": 1,
@@ -93,6 +93,11 @@
     {
       "block": 17,
       "path": "Block-17.json",
+      "count": 50
+    },
+    {
+      "block": 18,
+      "path": "Block-18.json",
       "count": 50
     }
   ],
@@ -1096,209 +1101,59 @@
     "KOM-L-009",
     "KOM-L-010",
     "KOM-M-009",
-    "KOM-M-010"
+    "KOM-M-010",
+    "KOM-S-009",
+    "KOM-S-010",
+    "KOM-L-010-V1",
+    "KOM-M-010-V1",
+    "KOM-S-010-V1",
+    "FF-205-YEAR",
+    "FF-205-DIRECTOR",
+    "F240-20261006-197-L1",
+    "F240-20261006-197-L2",
+    "F240-20261006-197-M1",
+    "F240-20261006-197-M2",
+    "F240-20261006-197-S1",
+    "F240-20261006-197-S2",
+    "F240-20261006-197-Y",
+    "F240-20261006-197-D",
+    "E20261007-F-061-L1",
+    "E20261007-F-061-L2",
+    "E20261007-F-061-M1",
+    "E20261007-F-061-M2",
+    "E20261007-F-061-S1",
+    "E20261007-F-061-S2",
+    "E20261007-F-061-Y",
+    "E20261007-F-061-D",
+    "SF-L-001",
+    "SF-L-001-V1",
+    "SF-M-001",
+    "SF-M-001-V1",
+    "SF-S-001",
+    "SF-S-001-V1",
+    "FF-126-YEAR",
+    "FF-126-DIRECTOR",
+    "SF-L-002",
+    "SF-L-002-V1",
+    "SF-M-002",
+    "SF-M-002-V1",
+    "SF-S-002",
+    "SF-S-002-V1",
+    "FF-127-YEAR",
+    "FF-127-DIRECTOR",
+    "G100-20261008-ABENTEUER-024-L1",
+    "G100-20261008-ABENTEUER-024-L2",
+    "G100-20261008-ABENTEUER-024-M1",
+    "G100-20261008-ABENTEUER-024-M2",
+    "G100-20261008-ABENTEUER-024-S1",
+    "G100-20261008-ABENTEUER-024-S2",
+    "G100-20261008-ABENTEUER-024-Y",
+    "G100-20261008-ABENTEUER-024-D",
+    "F240-20261006-142-L1",
+    "F240-20261006-142-L2",
+    "F240-20261006-142-M1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "KOM-S-009",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "KOM-S-010",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "KOM-L-010-V1",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "KOM-M-010-V1",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "KOM-S-010-V1",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "FF-205-YEAR",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "FF-205-DIRECTOR",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "F240-20261006-197-L1",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-L2",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-M1",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-M2",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-S1",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-S2",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-Y",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-D",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "E20261007-F-061-L1",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-L2",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-M1",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-M2",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-S1",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-S2",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-Y",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-D",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "SF-L-001",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-L-001-V1",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-M-001",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-M-001-V1",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-S-001",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-S-001-V1",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "FF-126-YEAR",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "FF-126-DIRECTOR",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-L-002",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "SF-L-002-V1",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "SF-M-002",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "SF-M-002-V1",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "SF-S-002",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "SF-S-002-V1",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "FF-127-YEAR",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "FF-127-DIRECTOR",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-L1",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-L2",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-M1",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-M2",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-S1",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-S2",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-Y",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-D",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "F240-20261006-142-L1",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-142-L2",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-142-M1",
-      "filmKey": "All That Jazz|1979"
-    },
     {
       "id": "F240-20261006-142-M2",
       "filmKey": "All That Jazz|1979"
@@ -40034,204 +39889,204 @@
   ],
   "next": [
     {
-      "id": "KOM-S-009",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "KOM-S-010",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "KOM-L-010-V1",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "KOM-M-010-V1",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "KOM-S-010-V1",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "FF-205-YEAR",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "FF-205-DIRECTOR",
-      "filmKey": "Airplane!|1980"
-    },
-    {
-      "id": "F240-20261006-197-L1",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-L2",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-M1",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-M2",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-S1",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-S2",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-Y",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "F240-20261006-197-D",
-      "filmKey": "Akira|1988"
-    },
-    {
-      "id": "E20261007-F-061-L1",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-L2",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-M1",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-M2",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-S1",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-S2",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-Y",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "E20261007-F-061-D",
-      "filmKey": "Alice in Wonderland|2010"
-    },
-    {
-      "id": "SF-L-001",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-L-001-V1",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-M-001",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-M-001-V1",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-S-001",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-S-001-V1",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "FF-126-YEAR",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "FF-126-DIRECTOR",
-      "filmKey": "Alien|1979"
-    },
-    {
-      "id": "SF-L-002",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "SF-L-002-V1",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "SF-M-002",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "SF-M-002-V1",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "SF-S-002",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "SF-S-002-V1",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "FF-127-YEAR",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "FF-127-DIRECTOR",
-      "filmKey": "Aliens|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-L1",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-L2",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-M1",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-M2",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-S1",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-S2",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-Y",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-024-D",
-      "filmKey": "Alive|1993"
-    },
-    {
-      "id": "F240-20261006-142-L1",
+      "id": "F240-20261006-142-M2",
       "filmKey": "All That Jazz|1979"
     },
     {
-      "id": "F240-20261006-142-L2",
+      "id": "F240-20261006-142-S1",
       "filmKey": "All That Jazz|1979"
     },
     {
-      "id": "F240-20261006-142-M1",
+      "id": "F240-20261006-142-S2",
       "filmKey": "All That Jazz|1979"
+    },
+    {
+      "id": "F240-20261006-142-Y",
+      "filmKey": "All That Jazz|1979"
+    },
+    {
+      "id": "F240-20261006-142-D",
+      "filmKey": "All That Jazz|1979"
+    },
+    {
+      "id": "F240-20261006-209-L1",
+      "filmKey": "All the President's Men|1976"
+    },
+    {
+      "id": "F240-20261006-209-L2",
+      "filmKey": "All the President's Men|1976"
+    },
+    {
+      "id": "F240-20261006-209-M1",
+      "filmKey": "All the President's Men|1976"
+    },
+    {
+      "id": "F240-20261006-209-M2",
+      "filmKey": "All the President's Men|1976"
+    },
+    {
+      "id": "F240-20261006-209-S1",
+      "filmKey": "All the President's Men|1976"
+    },
+    {
+      "id": "F240-20261006-209-S2",
+      "filmKey": "All the President's Men|1976"
+    },
+    {
+      "id": "F240-20261006-209-Y",
+      "filmKey": "All the President's Men|1976"
+    },
+    {
+      "id": "F240-20261006-209-D",
+      "filmKey": "All the President's Men|1976"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-019-L1",
+      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-019-L2",
+      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-019-M1",
+      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-019-M2",
+      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-019-S1",
+      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-019-S2",
+      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-019-Y",
+      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-019-D",
+      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
+    },
+    {
+      "id": "E20261007-F-136-L1",
+      "filmKey": "Allt flyter|2008"
+    },
+    {
+      "id": "E20261007-F-136-L2",
+      "filmKey": "Allt flyter|2008"
+    },
+    {
+      "id": "E20261007-F-136-M1",
+      "filmKey": "Allt flyter|2008"
+    },
+    {
+      "id": "E20261007-F-136-M2",
+      "filmKey": "Allt flyter|2008"
+    },
+    {
+      "id": "E20261007-F-136-S1",
+      "filmKey": "Allt flyter|2008"
+    },
+    {
+      "id": "E20261007-F-136-S2",
+      "filmKey": "Allt flyter|2008"
+    },
+    {
+      "id": "E20261007-F-136-Y",
+      "filmKey": "Allt flyter|2008"
+    },
+    {
+      "id": "E20261007-F-136-D",
+      "filmKey": "Allt flyter|2008"
+    },
+    {
+      "id": "MUS-202609-P01-L-033",
+      "filmKey": "Almost Famous|2000"
+    },
+    {
+      "id": "MUS-202609-P01-L-034",
+      "filmKey": "Almost Famous|2000"
+    },
+    {
+      "id": "MUS-202609-P01-M-033",
+      "filmKey": "Almost Famous|2000"
+    },
+    {
+      "id": "MUS-202609-P01-M-034",
+      "filmKey": "Almost Famous|2000"
+    },
+    {
+      "id": "MUS-202609-P01-S-033",
+      "filmKey": "Almost Famous|2000"
+    },
+    {
+      "id": "MUS-202609-P01-S-034",
+      "filmKey": "Almost Famous|2000"
+    },
+    {
+      "id": "MUS-202609-P01-M-033-V1",
+      "filmKey": "Almost Famous|2000"
+    },
+    {
+      "id": "FF-317-YEAR",
+      "filmKey": "Almost Famous|2000"
+    },
+    {
+      "id": "FF-317-DIRECTOR",
+      "filmKey": "Almost Famous|2000"
+    },
+    {
+      "id": "MUS-202609-P01-L-013",
+      "filmKey": "Amadeus|1984"
+    },
+    {
+      "id": "MUS-202609-P01-L-014",
+      "filmKey": "Amadeus|1984"
+    },
+    {
+      "id": "MUS-202609-P01-M-013",
+      "filmKey": "Amadeus|1984"
+    },
+    {
+      "id": "MUS-202609-P01-M-014",
+      "filmKey": "Amadeus|1984"
+    },
+    {
+      "id": "MUS-202609-P01-S-013",
+      "filmKey": "Amadeus|1984"
+    },
+    {
+      "id": "MUS-202609-P01-S-014",
+      "filmKey": "Amadeus|1984"
+    },
+    {
+      "id": "MUS-202609-P01-L-013-V1",
+      "filmKey": "Amadeus|1984"
+    },
+    {
+      "id": "FF-307-YEAR",
+      "filmKey": "Amadeus|1984"
+    },
+    {
+      "id": "FF-307-DIRECTOR",
+      "filmKey": "Amadeus|1984"
+    },
+    {
+      "id": "DRA-L-023",
+      "filmKey": "American Beauty|1999"
+    },
+    {
+      "id": "DRA-L-024",
+      "filmKey": "American Beauty|1999"
+    },
+    {
+      "id": "DRA-M-023",
+      "filmKey": "American Beauty|1999"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
