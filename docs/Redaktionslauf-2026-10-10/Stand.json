@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "8121538bdcf2093497322caf394078f0df33900f",
+  "sourceCommit": "288daabe402aa18ecf76a2299768d4b81460c79d",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 650,
-  "totalReviewed": 800,
-  "remainingFilmQuestions": 9933,
+  "completedInThisRun": 700,
+  "totalReviewed": 850,
+  "remainingFilmQuestions": 9883,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 11973,
+  "remainingAllQuestions": 11923,
   "blocks": [
     {
       "block": 1,
@@ -73,6 +73,11 @@
     {
       "block": 13,
       "path": "Block-13.json",
+      "count": 50
+    },
+    {
+      "block": 14,
+      "path": "Block-14.json",
       "count": 50
     }
   ],
@@ -876,209 +881,59 @@
     "F240-20261006-074-S1",
     "F240-20261006-074-S2",
     "F240-20261006-074-Y",
-    "F240-20261006-074-D"
+    "F240-20261006-074-D",
+    "F240-20261006-214-L1",
+    "F240-20261006-214-L2",
+    "F240-20261006-214-M1",
+    "F240-20261006-214-M2",
+    "F240-20261006-214-S1",
+    "F240-20261006-214-S2",
+    "F240-20261006-214-Y",
+    "F240-20261006-214-D",
+    "FAN-202610-P01-L-019",
+    "FAN-202610-P01-L-020",
+    "FAN-202610-P01-M-028",
+    "FAN-202610-P01-M-029",
+    "FAN-202610-P01-S-028",
+    "FAN-202610-P01-S-029",
+    "FAN-202610-P01-M-030",
+    "FAN-202610-P01-S-030",
+    "HOR-L-007",
+    "HOR-L-008",
+    "HOR-M-007",
+    "HOR-M-008",
+    "HOR-S-007",
+    "HOR-S-008",
+    "FF-179-YEAR",
+    "FF-179-DIRECTOR",
+    "E20261007-F-081-L1",
+    "E20261007-F-081-L2",
+    "E20261007-F-081-M1",
+    "E20261007-F-081-M2",
+    "E20261007-F-081-S1",
+    "E20261007-F-081-S2",
+    "E20261007-F-081-Y",
+    "E20261007-F-081-D",
+    "E20261007-F-207-L1",
+    "E20261007-F-207-L2",
+    "E20261007-F-207-M1",
+    "E20261007-F-207-M2",
+    "E20261007-F-207-S1",
+    "E20261007-F-207-S2",
+    "E20261007-F-207-Y",
+    "E20261007-F-207-D",
+    "E20261007-F-125-L1",
+    "E20261007-F-125-L2",
+    "E20261007-F-125-M1",
+    "E20261007-F-125-M2",
+    "E20261007-F-125-S1",
+    "E20261007-F-125-S2",
+    "E20261007-F-125-Y",
+    "E20261007-F-125-D",
+    "THR-202610-P01-L-019",
+    "THR-202610-P01-L-020"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-214-L1",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-L2",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-M1",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-M2",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-S1",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-S2",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-Y",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-D",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "FAN-202610-P01-L-019",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-L-020",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-M-028",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-M-029",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-S-028",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-S-029",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-M-030",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-S-030",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "HOR-L-007",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "HOR-L-008",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "HOR-M-007",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "HOR-M-008",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "HOR-S-007",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "HOR-S-008",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "FF-179-YEAR",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "FF-179-DIRECTOR",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "E20261007-F-081-L1",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-L2",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-M1",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-M2",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-S1",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-S2",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-Y",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-D",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-207-L1",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-L2",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-M1",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-M2",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-S1",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-S2",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-Y",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-D",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-125-L1",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-L2",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-M1",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-M2",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-S1",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-S2",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-Y",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-D",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "THR-202610-P01-L-019",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "THR-202610-P01-L-020",
-      "filmKey": "A Simple Plan|1998"
-    },
     {
       "id": "THR-202610-P01-M-028",
       "filmKey": "A Simple Plan|1998"
@@ -40614,204 +40469,204 @@
   ],
   "next": [
     {
-      "id": "F240-20261006-214-L1",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-L2",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-M1",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-M2",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-S1",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-S2",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-Y",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "F240-20261006-214-D",
-      "filmKey": "A History of Violence|2005"
-    },
-    {
-      "id": "FAN-202610-P01-L-019",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-L-020",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-M-028",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-M-029",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-S-028",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-S-029",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-M-030",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "FAN-202610-P01-S-030",
-      "filmKey": "A Monster Calls|2016"
-    },
-    {
-      "id": "HOR-L-007",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "HOR-L-008",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "HOR-M-007",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "HOR-M-008",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "HOR-S-007",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "HOR-S-008",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "FF-179-YEAR",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "FF-179-DIRECTOR",
-      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
-    },
-    {
-      "id": "E20261007-F-081-L1",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-L2",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-M1",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-M2",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-S1",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-S2",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-Y",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-081-D",
-      "filmKey": "A Quiet Place|2018"
-    },
-    {
-      "id": "E20261007-F-207-L1",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-L2",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-M1",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-M2",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-S1",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-S2",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-Y",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-207-D",
-      "filmKey": "A Scanner Darkly|2006"
-    },
-    {
-      "id": "E20261007-F-125-L1",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-L2",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-M1",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-M2",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-S1",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-S2",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-Y",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "E20261007-F-125-D",
-      "filmKey": "A Serious Man|2009"
-    },
-    {
-      "id": "THR-202610-P01-L-019",
+      "id": "THR-202610-P01-M-028",
       "filmKey": "A Simple Plan|1998"
     },
     {
-      "id": "THR-202610-P01-L-020",
+      "id": "THR-202610-P01-M-029",
       "filmKey": "A Simple Plan|1998"
+    },
+    {
+      "id": "THR-202610-P01-S-028",
+      "filmKey": "A Simple Plan|1998"
+    },
+    {
+      "id": "THR-202610-P01-S-029",
+      "filmKey": "A Simple Plan|1998"
+    },
+    {
+      "id": "THR-202610-P01-M-030",
+      "filmKey": "A Simple Plan|1998"
+    },
+    {
+      "id": "THR-202610-P01-S-030",
+      "filmKey": "A Simple Plan|1998"
+    },
+    {
+      "id": "G100-20261008-MUSIK-002-L1",
+      "filmKey": "A Star Is Born|1954"
+    },
+    {
+      "id": "G100-20261008-MUSIK-002-L2",
+      "filmKey": "A Star Is Born|1954"
+    },
+    {
+      "id": "G100-20261008-MUSIK-002-M1",
+      "filmKey": "A Star Is Born|1954"
+    },
+    {
+      "id": "G100-20261008-MUSIK-002-M2",
+      "filmKey": "A Star Is Born|1954"
+    },
+    {
+      "id": "G100-20261008-MUSIK-002-S1",
+      "filmKey": "A Star Is Born|1954"
+    },
+    {
+      "id": "G100-20261008-MUSIK-002-S2",
+      "filmKey": "A Star Is Born|1954"
+    },
+    {
+      "id": "G100-20261008-MUSIK-002-Y",
+      "filmKey": "A Star Is Born|1954"
+    },
+    {
+      "id": "G100-20261008-MUSIK-002-D",
+      "filmKey": "A Star Is Born|1954"
+    },
+    {
+      "id": "G100-20261008-MUSIK-012-L1",
+      "filmKey": "A Star Is Born|1976"
+    },
+    {
+      "id": "G100-20261008-MUSIK-012-L2",
+      "filmKey": "A Star Is Born|1976"
+    },
+    {
+      "id": "G100-20261008-MUSIK-012-M1",
+      "filmKey": "A Star Is Born|1976"
+    },
+    {
+      "id": "G100-20261008-MUSIK-012-M2",
+      "filmKey": "A Star Is Born|1976"
+    },
+    {
+      "id": "G100-20261008-MUSIK-012-S1",
+      "filmKey": "A Star Is Born|1976"
+    },
+    {
+      "id": "G100-20261008-MUSIK-012-S2",
+      "filmKey": "A Star Is Born|1976"
+    },
+    {
+      "id": "G100-20261008-MUSIK-012-Y",
+      "filmKey": "A Star Is Born|1976"
+    },
+    {
+      "id": "G100-20261008-MUSIK-012-D",
+      "filmKey": "A Star Is Born|1976"
+    },
+    {
+      "id": "MUS-202610-P01-L-013",
+      "filmKey": "A Star Is Born|2018"
+    },
+    {
+      "id": "MUS-202610-P01-L-014",
+      "filmKey": "A Star Is Born|2018"
+    },
+    {
+      "id": "MUS-202610-P01-M-019",
+      "filmKey": "A Star Is Born|2018"
+    },
+    {
+      "id": "MUS-202610-P01-M-020",
+      "filmKey": "A Star Is Born|2018"
+    },
+    {
+      "id": "MUS-202610-P01-S-019",
+      "filmKey": "A Star Is Born|2018"
+    },
+    {
+      "id": "MUS-202610-P01-S-020",
+      "filmKey": "A Star Is Born|2018"
+    },
+    {
+      "id": "MUS-202610-P01-M-021",
+      "filmKey": "A Star Is Born|2018"
+    },
+    {
+      "id": "MUS-202610-P01-S-021",
+      "filmKey": "A Star Is Born|2018"
+    },
+    {
+      "id": "F240-20261006-059-L1",
+      "filmKey": "A Woman Under the Influence|1974"
+    },
+    {
+      "id": "F240-20261006-059-L2",
+      "filmKey": "A Woman Under the Influence|1974"
+    },
+    {
+      "id": "F240-20261006-059-M1",
+      "filmKey": "A Woman Under the Influence|1974"
+    },
+    {
+      "id": "F240-20261006-059-M2",
+      "filmKey": "A Woman Under the Influence|1974"
+    },
+    {
+      "id": "F240-20261006-059-S1",
+      "filmKey": "A Woman Under the Influence|1974"
+    },
+    {
+      "id": "F240-20261006-059-S2",
+      "filmKey": "A Woman Under the Influence|1974"
+    },
+    {
+      "id": "F240-20261006-059-Y",
+      "filmKey": "A Woman Under the Influence|1974"
+    },
+    {
+      "id": "F240-20261006-059-D",
+      "filmKey": "A Woman Under the Influence|1974"
+    },
+    {
+      "id": "SF-202609-P02-L-049",
+      "filmKey": "A.I. Artificial Intelligence|2001"
+    },
+    {
+      "id": "SF-202609-P02-L-050",
+      "filmKey": "A.I. Artificial Intelligence|2001"
+    },
+    {
+      "id": "SF-202609-P02-M-049",
+      "filmKey": "A.I. Artificial Intelligence|2001"
+    },
+    {
+      "id": "SF-202609-P02-M-050",
+      "filmKey": "A.I. Artificial Intelligence|2001"
+    },
+    {
+      "id": "SF-202609-P02-S-049",
+      "filmKey": "A.I. Artificial Intelligence|2001"
+    },
+    {
+      "id": "SF-202609-P02-S-050",
+      "filmKey": "A.I. Artificial Intelligence|2001"
+    },
+    {
+      "id": "SF-202609-P02-M-049-V1",
+      "filmKey": "A.I. Artificial Intelligence|2001"
+    },
+    {
+      "id": "FF-350-YEAR",
+      "filmKey": "A.I. Artificial Intelligence|2001"
+    },
+    {
+      "id": "FF-350-DIRECTOR",
+      "filmKey": "A.I. Artificial Intelligence|2001"
+    },
+    {
+      "id": "ROM-202610-P01-L-019",
+      "filmKey": "About Time|2013"
+    },
+    {
+      "id": "ROM-202610-P01-L-020",
+      "filmKey": "About Time|2013"
+    },
+    {
+      "id": "ROM-202610-P01-M-028",
+      "filmKey": "About Time|2013"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
