@@ -1,6 +1,6 @@
 # Wissensindex
 
-- [Fragenredaktion bis Block 17 in den App-Katalog integriert: Texte, Ersatzidentitäten, Ergänzungen und Lernreise-Verweise](../../../docs/Redaktionslauf-2026-10-10/Integration.md)
+- [Fragenredaktion bis Block 17 seit Version 65 veröffentlicht: Texte, Ersatzidentitäten, Ergänzungen und Lernreise-Verweise](../../../docs/Redaktionslauf-2026-10-10/Integration.md)
 
 - [GitHub-Meldungsdienst: fehlenden Schlüssel eingerichtet, Live-Abnahme und Betrieb – 10.10.2026](../../../docs/GitHub-Meldungen.md)
 

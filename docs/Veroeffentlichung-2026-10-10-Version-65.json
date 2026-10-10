@@ -1,0 +1,304 @@
+{
+  "asOf": "2026-10-10",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 65,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_cca7728f5cd08191858ac2452555733f",
+  "source_commit": "a6c4da421c816a88ea81b874867fdfae1376290f",
+  "deployment_id": "appgdep_6aca6f2a87fc819196f6af7f014c7658",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-10T17:00:52.822533+00:00",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_0000000021708210a7c030fec0886f8c",
+    "content_hash": "sha256:0eb4b7ba26480b0924baac2ea649c09068946626dd285a46b5cd9115ebbfe89b",
+    "size_bytes": 84152320,
+    "file_count": 488
+  },
+  "access": {
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "catalog": {
+    "hash": "e1f228ac81d24bf78e8cd36d30031a713731928df264b9fbc33f40b03e0e9576",
+    "questions": 12787,
+    "knowledgeGoals": 12222,
+    "packages": 33,
+    "duelQuestions": 10957,
+    "syncParts": 592,
+    "payloadSha256": "abb33bf45811fee7fc1864f9b4e73b5e158566fca9a696e56b0824d70202b412",
+    "rankedSignature": "498856b4a05ecaca94fd0ed974fd08d90f721f4678a8285c5ec1d9ebe0b01df7",
+    "duelSignature": "6c126e15b1a81e725b97011f45bf44f5002980f06d2ac0cba7de25e4e7dddc0b",
+    "rankedComplete": true,
+    "rankedActivated": true,
+    "priorDuelContextDriftCorrected": "ACT-L-028"
+  },
+  "editorial": {
+    "throughBlock": 17,
+    "originalIdsIntegrated": 999,
+    "originalIdsExamined": 1000,
+    "replacementIds": 41,
+    "additionalQuestions": 14,
+    "reviewedGeneratedTemplates": 78,
+    "curriculumReferences": 6,
+    "excludedUnverifiedScene": "G100-20261008-THRILLER-025-M1",
+    "laterBlocksExcluded": true
+  },
+  "checks": {
+    "tests": 470,
+    "testFiles": 76,
+    "uniqueBrowserCases": 12,
+    "typeScript": true,
+    "productionBuild": true,
+    "buildVersion": 65,
+    "questionAudit": true,
+    "editorialCsvRowsVerified": 3504,
+    "packagedBuildByteIdentical": true,
+    "operatorSecretsAbsent": true,
+    "realGameStateChanged": false,
+    "databaseMigration": false,
+    "githubPush": false,
+    "releaseMetadataPersistedAndSeparatelyRead": true,
+    "anonymousReleaseRpc": true,
+    "nativeBrowserHandoff": "queued",
+    "liveFilesByteIdentical": 30,
+    "liveHtmlSourceMatchesAfterCloudflareInjectionRemoval": true
+  },
+  "localArchive": {
+    "fileCount": 488,
+    "buildFiles": 487,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 64112480,
+    "sha256": "0a3ed30f6cd94f669963f7f5ef3d6a10c389cf867e9e6a28445a2442ca5e5b4c"
+  },
+  "liveReadCheck": {
+    "origin": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "checkedAt": "2026-10-10T17:01:22.522Z",
+    "files": [
+      {
+        "path": "account-config.json",
+        "status": 200,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b",
+        "expected": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b",
+        "match": true
+      },
+      {
+        "path": "action-fragen.csv",
+        "status": 200,
+        "sha256": "4d8e1754fb62ce2abb03b5ebf2d76633b67b7205201e97a2b2ada236038d5d2c",
+        "expected": "4d8e1754fb62ce2abb03b5ebf2d76633b67b7205201e97a2b2ada236038d5d2c",
+        "match": true
+      },
+      {
+        "path": "alle-genres-120-filme-fragen.csv",
+        "status": 200,
+        "sha256": "323f3fc7a8d2ceb5260798f9b2d1094b1bec16c9baa731b7f50899ca3daf96da",
+        "expected": "323f3fc7a8d2ceb5260798f9b2d1094b1bec16c9baa731b7f50899ca3daf96da",
+        "match": true
+      },
+      {
+        "path": "arthouse-fragen.csv",
+        "status": 200,
+        "sha256": "64fc171b81687b56fbfd96a9d3d7b87a2477bd56aef79fa9e2628ecdc8667385",
+        "expected": "64fc171b81687b56fbfd96a9d3d7b87a2477bd56aef79fa9e2628ecdc8667385",
+        "match": true
+      },
+      {
+        "path": "assets/index-D9ub7hjx.js",
+        "status": 200,
+        "sha256": "7c605ae839917831acdfc5ac9e35867c560a2f061f6fd4b6b81b5e01439d7205",
+        "expected": "7c605ae839917831acdfc5ac9e35867c560a2f061f6fd4b6b81b5e01439d7205",
+        "match": true
+      },
+      {
+        "path": "assets/index-X7flbzvg.css",
+        "status": 200,
+        "sha256": "4c69ee1c4f6266b154492a7361f969d4717aa8b55a8d667dc8d26186454829c6",
+        "expected": "4c69ee1c4f6266b154492a7361f969d4717aa8b55a8d667dc8d26186454829c6",
+        "match": true
+      },
+      {
+        "path": "classics-fragen.csv",
+        "status": 200,
+        "sha256": "f16d1ca2c444045ca1bb8232830e53c0a3642450efe8e21ff985d2426eddbdeb",
+        "expected": "f16d1ca2c444045ca1bb8232830e53c0a3642450efe8e21ff985d2426eddbdeb",
+        "match": true
+      },
+      {
+        "path": "drama-fragen.csv",
+        "status": 200,
+        "sha256": "fa734d7636ff68d912e1731169f878ca9e285eecb534202cd1d9a5b846e8904c",
+        "expected": "fa734d7636ff68d912e1731169f878ca9e285eecb534202cd1d9a5b846e8904c",
+        "match": true
+      },
+      {
+        "path": "fantasy-fragen.csv",
+        "status": 200,
+        "sha256": "493f369dfcfab31331f694db633fa78cf285e8ec2ce1dbbffb4a1e45c49591b8",
+        "expected": "493f369dfcfab31331f694db633fa78cf285e8ec2ce1dbbffb4a1e45c49591b8",
+        "match": true
+      },
+      {
+        "path": "film-ergaenzung-240-fragen.csv",
+        "status": 200,
+        "sha256": "846fcd3d40d8f131c4e5492acb5b90cbb19a5f5dbf0fbd752918cc6c0eee62c8",
+        "expected": "846fcd3d40d8f131c4e5492acb5b90cbb19a5f5dbf0fbd752918cc6c0eee62c8",
+        "match": true
+      },
+      {
+        "path": "film-erweiterung-20261007-fragen.csv",
+        "status": 200,
+        "sha256": "dc9410ca465fb2fee7305ad80ce5d16ce715b9e46ceac1ab1df35a63c8461b30",
+        "expected": "dc9410ca465fb2fee7305ad80ce5d16ce715b9e46ceac1ab1df35a63c8461b30",
+        "match": true
+      },
+      {
+        "path": "film-posters.json",
+        "status": 200,
+        "sha256": "5baa10a47e3af9363c169dbc9227aa24eec545cc605594b0820881343833bdd5",
+        "expected": "5baa10a47e3af9363c169dbc9227aa24eec545cc605594b0820881343833bdd5",
+        "match": true
+      },
+      {
+        "path": "fragen.csv",
+        "status": 200,
+        "sha256": "5bf464e21bf84b800c250f59ceaedd87d03a89bf26ee33de094546af6bab7710",
+        "expected": "5bf464e21bf84b800c250f59ceaedd87d03a89bf26ee33de094546af6bab7710",
+        "match": true
+      },
+      {
+        "path": "genre100-abenteuer-fragen.csv",
+        "status": 200,
+        "sha256": "d570730a28f26aef5d95b72daa8e43309e1194fa809f059bed37b6a0f3c07eff",
+        "expected": "d570730a28f26aef5d95b72daa8e43309e1194fa809f059bed37b6a0f3c07eff",
+        "match": true
+      },
+      {
+        "path": "genre100-action-fragen.csv",
+        "status": 200,
+        "sha256": "78d74877850437818593235be8d02a4de9498127333968d12b3a1f59afd86afc",
+        "expected": "78d74877850437818593235be8d02a4de9498127333968d12b3a1f59afd86afc",
+        "match": true
+      },
+      {
+        "path": "genre100-fantasy-fragen.csv",
+        "status": 200,
+        "sha256": "1dea99d32e28ee523f868ffa467a2c4b1c36e19039925b1fb07ca6a8f4180bb3",
+        "expected": "1dea99d32e28ee523f868ffa467a2c4b1c36e19039925b1fb07ca6a8f4180bb3",
+        "match": true
+      },
+      {
+        "path": "genre100-horror-fragen.csv",
+        "status": 200,
+        "sha256": "9c47b070870d055ab43e87745f5895a76f881b7c81503946096d952040b994c1",
+        "expected": "9c47b070870d055ab43e87745f5895a76f881b7c81503946096d952040b994c1",
+        "match": true
+      },
+      {
+        "path": "genre100-martialarts-fragen.csv",
+        "status": 200,
+        "sha256": "9958f8ecd1edb7a7fab367d2c25f0b5cc572700d5866355b91869b97098af037",
+        "expected": "9958f8ecd1edb7a7fab367d2c25f0b5cc572700d5866355b91869b97098af037",
+        "match": true
+      },
+      {
+        "path": "genre100-musik-fragen.csv",
+        "status": 200,
+        "sha256": "efd834499f24c6d5caf8baf198ff05d156ab7396f4447140a0707ea706c2f329",
+        "expected": "efd834499f24c6d5caf8baf198ff05d156ab7396f4447140a0707ea706c2f329",
+        "match": true
+      },
+      {
+        "path": "genre100-romcom-fragen.csv",
+        "status": 200,
+        "sha256": "3c51358a5dbcdd0367f1cc8004e2c4e95b27f7910854f3f8166bd18cf2757681",
+        "expected": "3c51358a5dbcdd0367f1cc8004e2c4e95b27f7910854f3f8166bd18cf2757681",
+        "match": true
+      },
+      {
+        "path": "genre100-thriller-fragen.csv",
+        "status": 200,
+        "sha256": "3e421a307d7a81b8f9628899c4b5d7d9b32101a28287d3193c22ed400f56792e",
+        "expected": "3e421a307d7a81b8f9628899c4b5d7d9b32101a28287d3193c22ed400f56792e",
+        "match": true
+      },
+      {
+        "path": "genre100-western-fragen.csv",
+        "status": 200,
+        "sha256": "5245bf9ca9803a31ee5a1c81451bdd8a842a6b4c1ed70531ff5fc88451bf8162",
+        "expected": "5245bf9ca9803a31ee5a1c81451bdd8a842a6b4c1ed70531ff5fc88451bf8162",
+        "match": true
+      },
+      {
+        "path": "horror-fragen.csv",
+        "status": 200,
+        "sha256": "8664030a5d03ab0c438bb86d00e4f484a38be010546fdb2e584e47199c567abf",
+        "expected": "8664030a5d03ab0c438bb86d00e4f484a38be010546fdb2e584e47199c567abf",
+        "match": true
+      },
+      {
+        "path": "index.html",
+        "status": 200,
+        "sha256": "f398495596e3db1e00a4de1666569169698028d8a864edea2dbc194933035dc9",
+        "expected": "ccc2b6743957b83ae1f9707f7a2e6c65eeb7b04dd41da7d9a48cc6928f795d9a",
+        "match": false
+      },
+      {
+        "path": "komoedie-ergaenzung-fragen.csv",
+        "status": 200,
+        "sha256": "6fa6656a13017a9d87efd75346a4010f8e7c214b3663e3fdc75f98ffd0d050d7",
+        "expected": "6fa6656a13017a9d87efd75346a4010f8e7c214b3663e3fdc75f98ffd0d050d7",
+        "match": true
+      },
+      {
+        "path": "komoedie-fragen.csv",
+        "status": 200,
+        "sha256": "251c565672039002663bfdc6946f2b36b12cf129638b759c299da0b140a494e9",
+        "expected": "251c565672039002663bfdc6946f2b36b12cf129638b759c299da0b140a494e9",
+        "match": true
+      },
+      {
+        "path": "musik-fragen.csv",
+        "status": 200,
+        "sha256": "a562911bc38ee1af9fe75cd68a109226e1308021d3c2ddf488a7caa4232ea6e9",
+        "expected": "a562911bc38ee1af9fe75cd68a109226e1308021d3c2ddf488a7caa4232ea6e9",
+        "match": true
+      },
+      {
+        "path": "romcom-fragen.csv",
+        "status": 200,
+        "sha256": "778d21525b61dba2ce84dea71d2cdfb4a0d7e75029e79402e2b2d49a3bbcc06a",
+        "expected": "778d21525b61dba2ce84dea71d2cdfb4a0d7e75029e79402e2b2d49a3bbcc06a",
+        "match": true
+      },
+      {
+        "path": "scifi-ergaenzung-fragen.csv",
+        "status": 200,
+        "sha256": "7ab6fb1202fd6547aa2c5f9aeef43c3d9c2063213adfa259bbac94c436c54dea",
+        "expected": "7ab6fb1202fd6547aa2c5f9aeef43c3d9c2063213adfa259bbac94c436c54dea",
+        "match": true
+      },
+      {
+        "path": "sw.js",
+        "status": 200,
+        "sha256": "0c3f9919e46aacbadf04f0a2ccf87bcd2296697179a907f787e74857a46f47ec",
+        "expected": "0c3f9919e46aacbadf04f0a2ccf87bcd2296697179a907f787e74857a46f47ec",
+        "match": true
+      },
+      {
+        "path": "western-fragen.csv",
+        "status": 200,
+        "sha256": "b9611e37127312dccc8c483fe20683b2fc529e569f0288f851daff301a295901",
+        "expected": "b9611e37127312dccc8c483fe20683b2fc529e569f0288f851daff301a295901",
+        "match": true
+      }
+    ],
+    "html": {
+      "status": 200,
+      "sourceMatchesAfterPlatformInjectionRemoval": true,
+      "platformInjection": "Cloudflare JavaScript Detection",
+      "currentBuildAssetsReferenced": true
+    }
+  }
+}

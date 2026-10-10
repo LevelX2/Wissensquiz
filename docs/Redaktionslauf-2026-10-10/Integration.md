@@ -1,6 +1,6 @@
 # Integration der Fragenredaktion
 
-Stand: 10.10.2026. App-Integration abgeschlossen; Veröffentlichung vorbereitet.
+Stand: 10.10.2026. Seit Sites-Version 65 öffentlich veröffentlicht, 10.10.2026 um 19:00:52 Uhr Europe/Berlin.
 
 Der Nutzer hat den aktuellen Main-Stand einschließlich der überarbeiteten Fragen zur Veröffentlichung beauftragt. Grundlage sind die erste freigegebene Zehnerrunde, Runde 02 bis 04, der gesonderte Nightmare-Ersatz und die abgeschlossenen Blöcke 01 bis 17. Spätere Redaktionsblöcke gehören nicht zu diesem eingefrorenen Stand. Die ursprünglichen Redaktionsdateien und Roh-CSV bleiben unverändert.
 
@@ -19,3 +19,5 @@ Bestehende Rundensnapshots und private Spielstände werden nicht umgeschrieben. 
 Der [strukturierte Integrationsnachweis](Integration.json) enthält vollständige Vorher-/Nachher-Zeilen, Ergänzungen, Ersatzidentitäten, Vorlagen, Lernreise-Verweise und SHA-256-Werte aller verwendeten Redaktionsquellen. Die Abnahme prüft den tatsächlichen App-Parser, sämtliche Varianten und die wirksamen Vertiefungen. Historische Quellprüfungen werden gegen ihren dokumentierten damaligen Stand geführt; aktuelle Pakete müssen lückenlos zur neuen Redaktion passen. Eine neue vollständige Filmsichtung oder Faktenrecherche des übrigen Katalogs wird damit nicht behauptet.
 
 Abnahme: 470/470 Tests in 76 Dateien, zwölf gezielte Browserfälle, TypeScript/Versionsbuild 65 und separate Fragenorganisation erfolgreich. 3.504 dokumentierte CSV-Abweichungen geprüft; null doppelte IDs oder Importkonflikte, verlustfreier Katalog-Rundlauf. Keine vollständige neue Browser-Suite oder physische Geräteabnahme.
+
+Online-, Ranglisten- und Duellkatalog vollständig gegen den Veröffentlichungsbuild geprüft. Eine ältere abweichende Duellvertiefung zu ACT-L-028 dabei angeglichen. [Veröffentlichungs- und Live-Nachweis](../Veroeffentlichung-2026-10-10-Version-65.json).

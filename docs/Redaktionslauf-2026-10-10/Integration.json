@@ -1,7 +1,7 @@
 {
   "asOf": "2026-10-10",
   "sourceCommit": "e9c7a28816be0b77bb59ceeb2736901b51257bb3",
-  "status": "In App-Katalog integriert; Veröffentlichung folgt",
+  "status": "Seit Sites-Version 65 öffentlich veröffentlicht",
   "reviewedOriginalIds": 1000,
   "appliedOriginalIds": 999,
   "excluded": [
@@ -68659,5 +68659,7 @@
       "after": "K-QRL-20261010-YUMA-L-001",
       "reason": "Ausdrücklich ersetztes Wissensziel"
     }
-  ]
+  ],
+  "publishedVersion": 65,
+  "publicationSourceCommit": "a6c4da421c816a88ea81b874867fdfae1376290f"
 }

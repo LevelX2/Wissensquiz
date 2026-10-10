@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**10.10.2026 – Version 65 veröffentlicht:** Fragenredaktion bis Block 17 tatsächlich im App-Katalog: 999 geprüfte Original-IDs, 41 Ersatzfragen, 14 Ergänzungen, 78 Jahres-/Regievorlagen. Jetzt 33 Pakete / 12.787 Fragen / 12.222 Ziele. Ungeprüfte Stativszene ausgenommen; parallel weiterlaufende Blöcke ab 18 bleiben für spätere Veröffentlichungen. 470 Tests, zwölf Browserfälle, Versionsbuild, vollständige Serverkataloge und Live-Dateien geprüft. GitHub-Meldungsdienst betriebsbereit. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-65.json), [Integration](../docs/Redaktionslauf-2026-10-10/Integration.md).
+
 **10.10.2026 – GitHub-Meldungsdienst konfiguriert:** Ursache des Versandfehlers war das fehlende `GITHUB_REPORT_TOKEN`. Eigenen, auf Issues in `LevelX2/Wissensquiz` begrenzten Schlüssel mit ausdrücklicher Freigabe ohne Ablaufdatum erzeugt und in Supabase gespeichert. Die Live-Function bleibt Version 2 mit JWT-Prüfung; keine neue Website-Veröffentlichung erforderlich. Beide Live-Formulare bis zu GitHub-Issue #1/#2 erfolgreich geprüft; Testtickets geschlossen. 468 Tests, Build und zwei gezielte Browserfälle erfolgreich. [Einrichtung und Abnahme](../docs/GitHub-Meldungen.md).
 
 **10.10.2026 – Version 64 veröffentlicht:** Gesamter vorliegender Main-Stand mit Startklappen/Menüicons, neutraler Ladeanimation, Proberunde/Kontoübernahme, schnellerem Rundentransport, Serverzeitläufen, Wettbewerbs-XP und Duell-Tagesgrenze. Drei Backendmigrationen und vollständiger privater Katalog produktiv. 468 Tests, 30 Browserfälle, verschlüsselte Sicherung, native Rollen-/Rollbackprüfung, Archiv- und Livegleichheit erfolgreich. Öffentliche Adresse erhalten; alte Appfenster neu laden. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-64.json), [Betrieb](../docs/Sites-Betrieb.md).
@@ -22,9 +24,9 @@ Stand: 10.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
-- **10.10.2026 Antwortreaktion lokal verbessert, noch nicht veröffentlicht:** Sofortige neutrale Auswahlmarkierung mit Ladeanimation während der Bestätigung, bei reduzierten Bewegungen statisch; Lösung und Antwortton weiterhin erst nach Speicherung. Nutzerhinweis betrifft die Filmreise. Unveränderliche Archivfakten im RAM geteilt, veränderliche Daten getrennt kopiert. Großer Desktop-Test mit 500 Runden von etwa 523 auf 322 ms verbessert. [Vertrag und Messgrenzen](../docs/Lernregeln.md#sofortige-auswahlrückmeldung--10102026).
+- **10.10.2026 Antwortreaktion verbessert, seit Version 64 veröffentlicht:** Sofortige neutrale Auswahlmarkierung mit Ladeanimation während der Bestätigung, bei reduzierten Bewegungen statisch; Lösung und Antwortton weiterhin erst nach Speicherung. Nutzerhinweis betrifft die Filmreise. Unveränderliche Archivfakten im RAM geteilt, veränderliche Daten getrennt kopiert. Großer Desktop-Test mit 500 Runden von etwa 523 auf 322 ms verbessert. [Vertrag und Messgrenzen](../docs/Lernregeln.md#sofortige-auswahlrückmeldung--10102026).
 
-- **10.10.2026 lokal, noch nicht veröffentlicht:** Spoilerhinweis der Spielen-Seite entfernt; Startklappen mit einheitlichen Pfeilen und passenden Illustrationen, fünf Hauptaktionen mit plastischen Icons. [Darstellung und Herkunft](../docs/Navigationssymbole-2026-10-10.md).
+- **10.10.2026 seit Version 64 veröffentlicht:** Spoilerhinweis der Spielen-Seite entfernt; Startklappen mit einheitlichen Pfeilen und passenden Illustrationen, fünf Hauptaktionen mit plastischen Icons. [Darstellung und Herkunft](../docs/Navigationssymbole-2026-10-10.md).
 
 - **10.10.2026 lokal umbenannt, noch nicht veröffentlicht:** Die Rekordauswahl über alle Bereiche heißt „Universal“. Auswahl, Modushilfe und Ranglisten verwenden den neuen Namen; gespeicherte Kennungen und Spielregeln bleiben gleich. [Bezeichnung und Vertrag](../docs/Rekordmodi-und-Zeitranglisten.md).
 
