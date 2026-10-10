@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 1000,
-  "totalReviewed": 1150,
-  "remainingFilmQuestions": 9583,
+  "completedInThisRun": 1050,
+  "totalReviewed": 1200,
+  "remainingFilmQuestions": 9533,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 11623,
+  "remainingAllQuestions": 11573,
   "blocks": [
     {
       "block": 1,
@@ -108,6 +108,11 @@
     {
       "block": 20,
       "path": "Block-20.json",
+      "count": 50
+    },
+    {
+      "block": 21,
+      "path": "Block-21.json",
       "count": 50
     }
   ],
@@ -1261,209 +1266,59 @@
     "G100-20261008-HORROR-008-L2",
     "G100-20261008-HORROR-008-M1",
     "G100-20261008-HORROR-008-M2",
-    "G100-20261008-HORROR-008-S1"
+    "G100-20261008-HORROR-008-S1",
+    "G100-20261008-HORROR-008-S2",
+    "G100-20261008-HORROR-008-Y",
+    "G100-20261008-HORROR-008-D",
+    "F240-20261006-048-L1",
+    "F240-20261006-048-L2",
+    "F240-20261006-048-M1",
+    "F240-20261006-048-M2",
+    "F240-20261006-048-S1",
+    "F240-20261006-048-S2",
+    "F240-20261006-048-Y",
+    "F240-20261006-048-D",
+    "E20261007-F-250-L1",
+    "E20261007-F-250-L2",
+    "E20261007-F-250-M1",
+    "E20261007-F-250-M2",
+    "E20261007-F-250-S1",
+    "E20261007-F-250-S2",
+    "E20261007-F-250-Y",
+    "E20261007-F-250-D",
+    "KOM-202609-P02-L-001",
+    "KOM-202609-P02-L-002",
+    "KOM-202609-P02-M-001",
+    "KOM-202609-P02-M-002",
+    "KOM-202609-P02-S-001",
+    "KOM-202609-P02-S-002",
+    "KOM-202609-P02-L-001-V1",
+    "KOM-202609-P02-S-002-V1",
+    "FF-376-YEAR",
+    "FF-376-DIRECTOR",
+    "KOM-202609-P02-L-095",
+    "KOM-202609-P02-L-096",
+    "KOM-202609-P02-M-095",
+    "KOM-202609-P02-M-096",
+    "KOM-202609-P02-S-095",
+    "KOM-202609-P02-S-096",
+    "KOM-202609-P02-S-095-V1",
+    "FF-423-YEAR",
+    "FF-423-DIRECTOR",
+    "E20261007-F-218-L1",
+    "E20261007-F-218-L2",
+    "E20261007-F-218-M1",
+    "E20261007-F-218-M2",
+    "E20261007-F-218-S1",
+    "E20261007-F-218-S2",
+    "E20261007-F-218-Y",
+    "E20261007-F-218-D",
+    "G100-20261008-HORROR-020-L1",
+    "G100-20261008-HORROR-020-L2",
+    "G100-20261008-HORROR-020-M1",
+    "G100-20261008-HORROR-020-M2"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "G100-20261008-HORROR-008-S2",
-      "filmKey": "An American Werewolf in London|1981"
-    },
-    {
-      "id": "G100-20261008-HORROR-008-Y",
-      "filmKey": "An American Werewolf in London|1981"
-    },
-    {
-      "id": "G100-20261008-HORROR-008-D",
-      "filmKey": "An American Werewolf in London|1981"
-    },
-    {
-      "id": "F240-20261006-048-L1",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-L2",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-M1",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-M2",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-S1",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-S2",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-Y",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-D",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "E20261007-F-250-L1",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-L2",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-M1",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-M2",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-S1",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-S2",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-Y",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-D",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "KOM-202609-P02-L-001",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-L-002",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-M-001",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-M-002",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-S-001",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-S-002",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-L-001-V1",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-S-002-V1",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "FF-376-YEAR",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "FF-376-DIRECTOR",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-L-095",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-L-096",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-M-095",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-M-096",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-S-095",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-S-096",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-S-095-V1",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "FF-423-YEAR",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "FF-423-DIRECTOR",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "E20261007-F-218-L1",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-L2",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-M1",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-M2",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-S1",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-S2",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-Y",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-D",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "G100-20261008-HORROR-020-L1",
-      "filmKey": "Annabelle|2014"
-    },
-    {
-      "id": "G100-20261008-HORROR-020-L2",
-      "filmKey": "Annabelle|2014"
-    },
-    {
-      "id": "G100-20261008-HORROR-020-M1",
-      "filmKey": "Annabelle|2014"
-    },
-    {
-      "id": "G100-20261008-HORROR-020-M2",
-      "filmKey": "Annabelle|2014"
-    },
     {
       "id": "G100-20261008-HORROR-020-S1",
       "filmKey": "Annabelle|2014"
@@ -39599,204 +39454,204 @@
   ],
   "next": [
     {
-      "id": "G100-20261008-HORROR-008-S2",
-      "filmKey": "An American Werewolf in London|1981"
-    },
-    {
-      "id": "G100-20261008-HORROR-008-Y",
-      "filmKey": "An American Werewolf in London|1981"
-    },
-    {
-      "id": "G100-20261008-HORROR-008-D",
-      "filmKey": "An American Werewolf in London|1981"
-    },
-    {
-      "id": "F240-20261006-048-L1",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-L2",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-M1",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-M2",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-S1",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-S2",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-Y",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "F240-20261006-048-D",
-      "filmKey": "Anatomie d'une chute|2023"
-    },
-    {
-      "id": "E20261007-F-250-L1",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-L2",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-M1",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-M2",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-S1",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-S2",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-Y",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "E20261007-F-250-D",
-      "filmKey": "Anatomy of a Murder|1959"
-    },
-    {
-      "id": "KOM-202609-P02-L-001",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-L-002",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-M-001",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-M-002",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-S-001",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-S-002",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-L-001-V1",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-S-002-V1",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "FF-376-YEAR",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "FF-376-DIRECTOR",
-      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
-    },
-    {
-      "id": "KOM-202609-P02-L-095",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-L-096",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-M-095",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-M-096",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-S-095",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-S-096",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "KOM-202609-P02-S-095-V1",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "FF-423-YEAR",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "FF-423-DIRECTOR",
-      "filmKey": "And Now for Something Completely Different|1971"
-    },
-    {
-      "id": "E20261007-F-218-L1",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-L2",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-M1",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-M2",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-S1",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-S2",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-Y",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "E20261007-F-218-D",
-      "filmKey": "Aniara|2018"
-    },
-    {
-      "id": "G100-20261008-HORROR-020-L1",
+      "id": "G100-20261008-HORROR-020-S1",
       "filmKey": "Annabelle|2014"
     },
     {
-      "id": "G100-20261008-HORROR-020-L2",
+      "id": "G100-20261008-HORROR-020-S2",
       "filmKey": "Annabelle|2014"
     },
     {
-      "id": "G100-20261008-HORROR-020-M1",
+      "id": "G100-20261008-HORROR-020-Y",
       "filmKey": "Annabelle|2014"
     },
     {
-      "id": "G100-20261008-HORROR-020-M2",
+      "id": "G100-20261008-HORROR-020-D",
       "filmKey": "Annabelle|2014"
+    },
+    {
+      "id": "F240-20261006-186-L1",
+      "filmKey": "Annihilation|2018"
+    },
+    {
+      "id": "F240-20261006-186-L2",
+      "filmKey": "Annihilation|2018"
+    },
+    {
+      "id": "F240-20261006-186-M1",
+      "filmKey": "Annihilation|2018"
+    },
+    {
+      "id": "F240-20261006-186-M2",
+      "filmKey": "Annihilation|2018"
+    },
+    {
+      "id": "F240-20261006-186-S1",
+      "filmKey": "Annihilation|2018"
+    },
+    {
+      "id": "F240-20261006-186-S2",
+      "filmKey": "Annihilation|2018"
+    },
+    {
+      "id": "F240-20261006-186-Y",
+      "filmKey": "Annihilation|2018"
+    },
+    {
+      "id": "F240-20261006-186-D",
+      "filmKey": "Annihilation|2018"
+    },
+    {
+      "id": "E20261007-F-202-L1",
+      "filmKey": "Another Earth|2011"
+    },
+    {
+      "id": "E20261007-F-202-L2",
+      "filmKey": "Another Earth|2011"
+    },
+    {
+      "id": "E20261007-F-202-M1",
+      "filmKey": "Another Earth|2011"
+    },
+    {
+      "id": "E20261007-F-202-M2",
+      "filmKey": "Another Earth|2011"
+    },
+    {
+      "id": "E20261007-F-202-S1",
+      "filmKey": "Another Earth|2011"
+    },
+    {
+      "id": "E20261007-F-202-S2",
+      "filmKey": "Another Earth|2011"
+    },
+    {
+      "id": "E20261007-F-202-Y",
+      "filmKey": "Another Earth|2011"
+    },
+    {
+      "id": "E20261007-F-202-D",
+      "filmKey": "Another Earth|2011"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-028-L1",
+      "filmKey": "Apocalypto|2006"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-028-L2",
+      "filmKey": "Apocalypto|2006"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-028-M1",
+      "filmKey": "Apocalypto|2006"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-028-M2",
+      "filmKey": "Apocalypto|2006"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-028-S1",
+      "filmKey": "Apocalypto|2006"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-028-S2",
+      "filmKey": "Apocalypto|2006"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-028-Y",
+      "filmKey": "Apocalypto|2006"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-028-D",
+      "filmKey": "Apocalypto|2006"
+    },
+    {
+      "id": "WES-L-035",
+      "filmKey": "Appaloosa|2008"
+    },
+    {
+      "id": "WES-L-036",
+      "filmKey": "Appaloosa|2008"
+    },
+    {
+      "id": "WES-M-035",
+      "filmKey": "Appaloosa|2008"
+    },
+    {
+      "id": "WES-M-036",
+      "filmKey": "Appaloosa|2008"
+    },
+    {
+      "id": "WES-S-035",
+      "filmKey": "Appaloosa|2008"
+    },
+    {
+      "id": "WES-S-036",
+      "filmKey": "Appaloosa|2008"
+    },
+    {
+      "id": "FF-293-YEAR",
+      "filmKey": "Appaloosa|2008"
+    },
+    {
+      "id": "FF-293-DIRECTOR",
+      "filmKey": "Appaloosa|2008"
+    },
+    {
+      "id": "E20261007-F-146-L1",
+      "filmKey": "Arahan Jangpung Daejakjeon|2004"
+    },
+    {
+      "id": "E20261007-F-146-L2",
+      "filmKey": "Arahan Jangpung Daejakjeon|2004"
+    },
+    {
+      "id": "E20261007-F-146-M1",
+      "filmKey": "Arahan Jangpung Daejakjeon|2004"
+    },
+    {
+      "id": "E20261007-F-146-M2",
+      "filmKey": "Arahan Jangpung Daejakjeon|2004"
+    },
+    {
+      "id": "E20261007-F-146-S1",
+      "filmKey": "Arahan Jangpung Daejakjeon|2004"
+    },
+    {
+      "id": "E20261007-F-146-S2",
+      "filmKey": "Arahan Jangpung Daejakjeon|2004"
+    },
+    {
+      "id": "E20261007-F-146-Y",
+      "filmKey": "Arahan Jangpung Daejakjeon|2004"
+    },
+    {
+      "id": "E20261007-F-146-D",
+      "filmKey": "Arahan Jangpung Daejakjeon|2004"
+    },
+    {
+      "id": "E20261007-F-224-L1",
+      "filmKey": "Arlington Road|1999"
+    },
+    {
+      "id": "E20261007-F-224-L2",
+      "filmKey": "Arlington Road|1999"
+    },
+    {
+      "id": "E20261007-F-224-M1",
+      "filmKey": "Arlington Road|1999"
+    },
+    {
+      "id": "E20261007-F-224-M2",
+      "filmKey": "Arlington Road|1999"
+    },
+    {
+      "id": "E20261007-F-224-S1",
+      "filmKey": "Arlington Road|1999"
+    },
+    {
+      "id": "E20261007-F-224-S2",
+      "filmKey": "Arlington Road|1999"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
