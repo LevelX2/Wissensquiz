@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Nightmare: anderes Wissensziel statt verratener Traumfrage; quellengeprüfter Ersatz zum Mordverdacht gegen Rod – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Nightmare-Ersatz.md)
+
 - [Dritte Qualitätsrunde: 30 weitere Fragen, 23 Vertiefungen überarbeitet, sechs erhalten und ein Wissensziel offen – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-03.md)
 
 - [Zweite Qualitätsrunde: Richtung bestätigt; passende Vertiefungen sollen die Handlungsentwicklung verankern – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-02-Rueckmeldung.md)

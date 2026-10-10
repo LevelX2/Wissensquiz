@@ -1,0 +1,238 @@
+{
+  "asOf": "2026-10-10",
+  "status": "Ersatzfrage redaktionell ausgearbeitet und quellengeprüft; noch nicht als App-Frage integriert",
+  "replaces": {
+    "questionId": "HOR-L-005",
+    "knowledgeId": "K-HOR-03-traum-angriff",
+    "reason": "Nutzer bestätigt Austausch des durch den Filmtitel verratenen Wissensziels."
+  },
+  "original": {
+    "genre": "Horror",
+    "candidateCount": 206,
+    "selectionHash": "001ed4fa958dbbf78979ccccff3605b8e2f0c86936ac181a43f86a272a53ceb2",
+    "id": "HOR-L-005",
+    "knowledgeId": "K-HOR-03-traum-angriff",
+    "version": "csv-cf610876",
+    "language": "de",
+    "domain": "Film",
+    "topic": "Nightmare on Elm Street",
+    "difficulty": "leicht",
+    "question": "„Nightmare – Mörderische Träume“ (1984): In welchem Zustand werden Freddys (Robert Englund) Opfer besonders bedroht?",
+    "answers": [
+      {
+        "id": "HOR-L-005:a",
+        "text": "Während sie fernsehen",
+        "feedback": "Das Fernsehen ist nicht der zentrale Zugang zu seinen Opfern."
+      },
+      {
+        "id": "HOR-L-005:b",
+        "text": "Während sie schwimmen",
+        "feedback": "Wasser ist keine notwendige Bedingung für Freddys Angriffe."
+      },
+      {
+        "id": "HOR-L-005:c",
+        "text": "Während sie telefonieren",
+        "feedback": "Telefonate können erschrecken, sind aber nicht die grundlegende Voraussetzung."
+      },
+      {
+        "id": "HOR-L-005:d",
+        "text": "Während sie träumen",
+        "feedback": "Freddy greift seine Opfer in ihren Träumen an."
+      }
+    ],
+    "correctId": "HOR-L-005:d",
+    "explanation": "Freddy greift seine Opfer in ihren Träumen an.",
+    "context": "Der Schlaf ist normalerweise eine Phase der Erholung, wird hier aber zum Zugang für den Verfolger. Das erzeugt ein kaum dauerhaft lösbares Problem: Die Jugendlichen können wach bleiben wollen, benötigen aber trotzdem Schlaf. Der Film gewinnt seine Spannung deshalb nicht nur aus Freddys Auftauchen, sondern auch aus Müdigkeit und der Unsicherheit, ob eine Szene bereits ein Traum ist.",
+    "anchor": "Freddys Zugang zu den Jugendlichen sind ihre Träume.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street"
+    ],
+    "tags": [
+      "Träume",
+      "Slasher",
+      "Rache"
+    ],
+    "badgeTags": [
+      "Nightmare on Elm Street",
+      "Slasher"
+    ],
+    "metadata": {
+      "question_id": "HOR-L-005",
+      "knowledge_id": "K-HOR-03-traum-angriff",
+      "variant_of": "",
+      "language": "de",
+      "domain": "Film",
+      "subdomain": "Horror",
+      "film_title_de": "Nightmare – Mörderische Träume",
+      "film_title_original": "A Nightmare on Elm Street",
+      "film_year": "1984",
+      "franchise": "Nightmare on Elm Street",
+      "difficulty": "leicht",
+      "question_type": "Handlung",
+      "topic_tags": "Träume|Slasher|Rache",
+      "badge_tags": "Nightmare on Elm Street|Slasher",
+      "learning_objective": "Freddys Zugang zu den Jugendlichen sind ihre Träume.",
+      "question": "„Nightmare – Mörderische Träume“ (1984): In welchem Zustand werden Freddys (Robert Englund) Opfer besonders bedroht?",
+      "answer_a": "Während sie fernsehen",
+      "answer_b": "Während sie schwimmen",
+      "answer_c": "Während sie telefonieren",
+      "answer_d": "Während sie träumen",
+      "correct_answer": "D",
+      "explanation_short": "Freddy greift seine Opfer in ihren Träumen an.",
+      "explanation_context": "Der Schlaf ist normalerweise eine Phase der Erholung, wird hier aber zum Zugang für den Verfolger. Das erzeugt ein kaum dauerhaft lösbares Problem: Die Jugendlichen können wach bleiben wollen, benötigen aber trotzdem Schlaf. Der Film gewinnt seine Spannung deshalb nicht nur aus Freddys Auftauchen, sondern auch aus Müdigkeit und der Unsicherheit, ob eine Szene bereits ein Traum ist.",
+      "feedback_a": "Das Fernsehen ist nicht der zentrale Zugang zu seinen Opfern.",
+      "feedback_b": "Wasser ist keine notwendige Bedingung für Freddys Angriffe.",
+      "feedback_c": "Telefonate können erschrecken, sind aber nicht die grundlegende Voraussetzung.",
+      "feedback_d": "Freddy greift seine Opfer in ihren Träumen an.",
+      "memory_anchor": "Freddys Zugang zu den Jugendlichen sind ihre Träume.",
+      "spoiler_level": "Handlung",
+      "source_urls": "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street",
+      "verification_status": "redaktionell_geprueft"
+    },
+    "demo": false,
+    "display": {
+      "context": "Der Schlaf ist normalerweise eine Phase der Erholung, wird hier aber zum Zugang für den Verfolger. Das erzeugt ein kaum dauerhaft lösbares Problem: Die Jugendlichen können wach bleiben wollen, benötigen aber trotzdem Schlaf. Der Film gewinnt seine Spannung deshalb nicht nur aus Freddys Auftauchen, sondern auch aus Müdigkeit und der Unsicherheit, ob eine Szene bereits ein Traum ist.",
+      "cast": "Freddy Krueger wird von Robert Englund gespielt.",
+      "anchor": "Freddys Zugang zu den Jugendlichen sind ihre Träume.",
+      "answers": [
+        {
+          "id": "HOR-L-005:a",
+          "text": "Während sie fernsehen",
+          "feedback": "Das Fernsehen ist nicht der zentrale Zugang zu seinen Opfern.",
+          "visibleFeedback": "Das Fernsehen ist nicht der zentrale Zugang zu seinen Opfern."
+        },
+        {
+          "id": "HOR-L-005:b",
+          "text": "Während sie schwimmen",
+          "feedback": "Wasser ist keine notwendige Bedingung für Freddys Angriffe.",
+          "visibleFeedback": "Wasser ist keine notwendige Bedingung für Freddys Angriffe."
+        },
+        {
+          "id": "HOR-L-005:c",
+          "text": "Während sie telefonieren",
+          "feedback": "Telefonate können erschrecken, sind aber nicht die grundlegende Voraussetzung.",
+          "visibleFeedback": "Telefonate können erschrecken, sind aber nicht die grundlegende Voraussetzung."
+        },
+        {
+          "id": "HOR-L-005:d",
+          "text": "Während sie träumen",
+          "feedback": "Freddy greift seine Opfer in ihren Träumen an.",
+          "visibleFeedback": ""
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street"
+      ]
+    }
+  },
+  "proposal": {
+    "question_id": "HOR-20261010-L-ROD-VERDACHT",
+    "knowledge_id": "K-HOR-03-rod-mordverdacht",
+    "variant_of": "",
+    "language": "de",
+    "domain": "Film",
+    "subdomain": "Horror",
+    "film_title_de": "Nightmare – Mörderische Träume",
+    "film_title_original": "A Nightmare on Elm Street",
+    "film_year": "1984",
+    "franchise": "Nightmare on Elm Street",
+    "difficulty": "leicht",
+    "question_type": "Handlung",
+    "learning_objective": "Rods Anwesenheit bei Tinas Tod und seine Flucht begründen den falschen Mordverdacht.",
+    "question": "„Nightmare – Mörderische Träume“ (1984): Warum hält die Polizei Rod (Nick Corri) für Tinas (Amanda Wyss) Mörder?",
+    "answers": [
+      {
+        "text": "Tina hatte ihn wegen früherer Angriffe angezeigt.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "text": "Er war bei Tina und flieht nach ihrem Tod.",
+        "correct": true,
+        "feedback": ""
+      },
+      {
+        "text": "Er hat den Mord in einem Brief gestanden.",
+        "correct": false,
+        "feedback": ""
+      },
+      {
+        "text": "Die Polizei findet Tinas Blut an seinem Messer.",
+        "correct": false,
+        "feedback": ""
+      }
+    ],
+    "explanation_short": "Rod war allein mit Tina im Schlafzimmer und flieht nach ihrem Tod. Deshalb gerät er unter Mordverdacht.",
+    "explanation_context": "Tina (Amanda Wyss) wird im Schlaf von Freddy (Robert Englund) angegriffen. Rod (Nick Corri) liegt neben ihr und sieht, wie sie tödlich verletzt wird, ohne einen Angreifer erkennen zu können. Er flieht, und die Polizei verhaftet ihn am nächsten Tag. Nancy (Heather Langenkamp) kennt ähnliche Albträume und beginnt, hinter dem scheinbar gewöhnlichen Mordfall eine andere Gefahr zu erkennen.",
+    "memory_anchor": "Rod sieht Tinas Tod, aber nicht ihren Angreifer – und wird selbst verdächtigt.",
+    "spoiler_level": "Handlung",
+    "source_urls": [
+      "https://www.wescraven.com/film/a-nightmare-on-elm-street/",
+      "https://catalog.afi.com/Film/57157-A-NIGHTMARE-ON-ELM-STREET"
+    ],
+    "verification_status": "redaktionell_quellengepruefter_Ersatzvorschlag"
+  },
+  "inventory": [
+    {
+      "id": "HOR-L-005",
+      "knowledgeId": "K-HOR-03-traum-angriff",
+      "difficulty": "leicht",
+      "question": "„Nightmare – Mörderische Träume“ (1984): In welchem Zustand werden Freddys (Robert Englund) Opfer besonders bedroht?"
+    },
+    {
+      "id": "HOR-L-006",
+      "knowledgeId": "K-HOR-03-handschuh",
+      "difficulty": "leicht",
+      "question": "„Nightmare – Mörderische Träume“ (1984): Welche Waffe ist Freddys (Robert Englund) markantes Erkennungszeichen?"
+    },
+    {
+      "id": "HOR-M-005",
+      "knowledgeId": "K-HOR-03-nancy-langenkamp",
+      "difficulty": "mittel",
+      "question": "„Nightmare – Mörderische Träume“ (1984): Wer spielt Nancy Thompson?"
+    },
+    {
+      "id": "HOR-M-006",
+      "knowledgeId": "K-HOR-03-eltern-rache",
+      "difficulty": "mittel",
+      "question": "„Nightmare – Mörderische Träume“ (1984): Was haben die Eltern der Jugendlichen Freddy (Robert Englund) nach seiner Freilassung angetan?"
+    },
+    {
+      "id": "HOR-S-005",
+      "knowledgeId": "K-HOR-03-hut-realitaet",
+      "difficulty": "schwer",
+      "question": "„Nightmare – Mörderische Träume“ (1984): Welchen Gegenstand bringt Nancy (Heather Langenkamp) aus einem Traum in die Wachwelt mit?"
+    },
+    {
+      "id": "HOR-S-006",
+      "knowledgeId": "K-HOR-03-freddy-herausziehen",
+      "difficulty": "schwer",
+      "question": "„Nightmare – Mörderische Träume“ (1984): Welchen Zweck verfolgt Nancy (Heather Langenkamp), als sie Freddy (Robert Englund) beim Erwachen festhält?"
+    },
+    {
+      "id": "FF-178-YEAR",
+      "knowledgeId": "K-FF-178-YEAR",
+      "difficulty": "leicht",
+      "question": "„Nightmare – Mörderische Träume“: In welchem Jahr erschien der Film von Wes Craven erstmals?"
+    },
+    {
+      "id": "FF-178-DIRECTOR",
+      "knowledgeId": "K-FF-178-DIRECTOR",
+      "difficulty": "mittel",
+      "question": "„Nightmare – Mörderische Träume“ (1984): Wer ist für die Regie genannt?"
+    }
+  ],
+  "crossCatalogCheck": {
+    "catalogCount": 12773,
+    "scope": "Alle mit tatsächlichem App-Importer geladenen öffentlichen Fragen; Ziele des Films vollständig gelesen, andere Bereiche auf Rod/Tina/Mordverdacht durchsucht.",
+    "sameGoalFound": false
+  },
+  "evidence": {
+    "plot": "Wes Cravens Filmseite nennt Rod als einzigen Menschen im Zimmer mit Tina und den daraus folgenden Verdacht; AFI beschreibt unsichtbaren Angriff, Rods Flucht, Festnahme am nächsten Tag und Nancys eigene Albträume.",
+    "cast": "AFI führt Nick Corri als Rod Lane und Amanda Wyss als Tina Gray. Nick Corri ist der Filmcredit von Jsu Garcia.",
+    "options": "Kein Geständnis, kein Brief, keine frühere Anzeige Tinas und kein Blutnachweis an einem Messer begründen in den gelesenen Handlungsdarstellungen den Verdacht. Falsche Alternativen bleiben hypothetische Erklärungen ohne erfundenes Filmfeedback.",
+    "difficulty": "Leicht als zugänglicher früher Handlungskonflikt; keine seltene Nebeninformation. Einstufung redaktionell.",
+    "sourceIndependence": "Wes Cravens Filmseite kennzeichnet den Handlungsabriss als Wikipedia-Übernahme; sie zählt daher nicht als davon unabhängige Inhaltsquelle. Die eigene AFI-Synopsis bestätigt den Vorgang zusätzlich."
+  },
+  "integration": "Neue Frage-ID und neue Wissensziel-ID vorgeschlagen; keine Überschreibung oder Umdeutung des bisherigen Lernziels. Kein Import-, Migrations- oder Veröffentlichungsauftrag abgeleitet."
+}
