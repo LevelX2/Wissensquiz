@@ -42,6 +42,7 @@ export default defineConfig({
         "dont-know.spec.ts",
         "career.spec.ts",
         "duels.spec.ts",
+        "leaderboard-integrity.spec.ts",
         "actors-package.spec.ts",
         "actor-recognition.spec.ts",
         "question-organization.spec.ts",

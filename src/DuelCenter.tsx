@@ -10,6 +10,7 @@ import type { Mutate } from "./uiTypes";
 import {
   duelSchema,
   duelViewSchema,
+  duelStartSchema,
   duelRpc,
   openDuel,
   duelDeadline,
@@ -57,6 +58,7 @@ export function DuelCenter({
   const [pendingClose, setPendingClose] = useState<string | null>(null);
   const [invitation, setInvitation] = useState(invitationToken);
   const inFlight = useRef(false);
+  const receivedAt = useRef(performance.now());
   const currentState = useRef(state);
   currentState.current = state;
   const request = useRef<{
@@ -178,11 +180,30 @@ export function DuelCenter({
     };
   }, [connection, !!view]);
   async function load(d: Duel, number = d.round) {
-    const next = await rpc(
+    let next = await rpc(
       "quiz_duel_view",
       { duel: d.id, round_number: number },
       duelViewSchema,
     );
+    if (
+      !next.current &&
+      next.answered < 10 &&
+      next.duel.myTurn &&
+      next.duel.round === number
+    )
+      next = {
+        ...(await rpc(
+          "quiz_duel_start",
+          {
+            duel: d.id,
+            round_number: number,
+            question_number: next.answered,
+          },
+          duelStartSchema,
+        )),
+        items: next.items,
+      };
+    receivedAt.current = performance.now();
     await accept(next);
     setGuessed(false);
     setReview(null);
@@ -288,6 +309,9 @@ export function DuelCenter({
           </strong>
           <span>Dein Spielblock bis {duelDeadline(view.duel.dueAt)}</span>
         </div>
+        <p className="tiny muted">
+          Die Fragezeit läuft ab Serverfreigabe, einschließlich Übertragung.
+        </p>
         {error && (
           <div role="alert" className="notice error">
             {error}
@@ -316,19 +340,15 @@ export function DuelCenter({
           onGuessed={guessed}
           onGuess={() => void markGuess()}
           onReady={async () => {
-            const started = await run(() =>
-              rpc(
-                "quiz_duel_start",
-                {
-                  duel: view.duel.id,
-                  round_number: view.number,
-                  question_number: index,
-                },
-                z.object({ elapsedMs: z.number().min(0).max(30000) }),
-              ),
+            if (!view.current || view.current.startedAt === null)
+              throw new Error();
+            return Math.max(
+              0,
+              view.serverNow -
+                view.current.startedAt +
+                performance.now() -
+                receivedAt.current,
             );
-            if (!started) throw new Error();
-            return started.elapsedMs;
           }}
           onExit={() => {
             setView(null);
@@ -347,8 +367,21 @@ export function DuelCenter({
                 await refresh();
               });
             } else {
-              setIndex((i) => i + 1);
-              setGuessed(false);
+              void run(async () => {
+                const next = await rpc(
+                  "quiz_duel_start",
+                  {
+                    duel: view.duel.id,
+                    round_number: view.number,
+                    question_number: index + 1,
+                  },
+                  duelStartSchema,
+                );
+                receivedAt.current = performance.now();
+                setView({ ...next, items: view.items });
+                setIndex(index + 1);
+                setGuessed(false);
+              });
             }
             window.scrollTo(0, 0);
           }}
@@ -391,6 +424,10 @@ export function DuelCenter({
               )}
             </strong>
           )}
+          {review.duel.status === "completed" &&
+            review.duel.ranked === false && (
+              <p>Freundschaftsspiel · ohne Ranglistenpunkte.</p>
+            )}
           {review.duel.myTurn && (
             <button
               className="primary"
@@ -446,6 +483,10 @@ export function DuelCenter({
       <header>
         <h1>Deine Duelle</h1>
         <p>Drei Runden · zehn gleiche Fragen · ein Punkt pro Treffer.</p>
+        <p className="tiny muted">
+          Für die Bestenliste zählt die erste vollständig beendete Begegnung je
+          Kontopaar und UTC-Tag. Weitere Duelle sind Freundschaftsspiele.
+        </p>
         <p role="status">
           <strong>{active.length} von 5 Spielplätzen belegt</strong>
         </p>

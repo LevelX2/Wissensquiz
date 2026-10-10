@@ -1,19 +1,21 @@
 import { afterAll, beforeAll, it, expect } from "vitest";
 import { PGlite } from "@electric-sql/pglite";
 import { readFileSync } from "node:fs";
+import { syncFixture } from "./helpers/sync-fixture";
 import { importCsv } from "../src/importer";
 import { emptyState } from "../src/model";
 import {
   importDuelView,
   duelSchema,
   duelViewSchema,
+  duelStartSchema,
   duelRoundId,
   duelScreen,
   duelReviewRound,
 } from "../src/duels";
 import { validateBackup } from "../src/storage";
 import { archiveClosedRounds } from "../src/roundArchive";
-const db = new PGlite();
+let db: PGlite;
 const alice = "11111111-1111-4111-8111-111111111111",
   bob = "22222222-2222-4222-8222-222222222222",
   carol = "33333333-3333-4333-8333-333333333333";
@@ -42,16 +44,9 @@ async function rpc<T = unknown>(
   ).rows[0].value;
 }
 beforeAll(async () => {
-  await db.exec(`create role anon;create role authenticated;create schema auth;
-    create table auth.users(id uuid primary key,email_confirmed_at timestamptz,is_anonymous boolean default false,raw_user_meta_data jsonb);
-    create function auth.uid() returns uuid language sql stable as $$select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid$$;
-    grant usage on schema public,auth to anon,authenticated;grant execute on function auth.uid() to anon,authenticated;
-    insert into auth.users values('${alice}',now(),false,'{"display_name":"Alice"}'),('${bob}',now(),false,'{"display_name":"Bob"}'),('${carol}',now(),false,'{"display_name":"Carol"}');`);
+  ({ db } = await syncFixture());
   await db.exec(
-    readFileSync("supabase/migrations/202609260001_quiz_accounts.sql", "utf8"),
-  );
-  await db.exec(
-    readFileSync("supabase/migrations/202610020005_async_duels.sql", "utf8"),
+    `insert into auth.users values('${alice}',now(),false,'{"display_name":"Alice"}'),('${bob}',now(),false,'{"display_name":"Bob"}'),('${carol}',now(),false,'{"display_name":"Carol"}');`,
   );
   for (const q of questions)
     await db.query(
@@ -68,8 +63,7 @@ async function block(
 ) {
   return as(id, async () => {
     for (let i = 0; i < 10; i++) {
-      const v = duelViewSchema.parse(await rpc("quiz_duel_view", [d, r]));
-      await rpc("quiz_duel_start", [d, r, i]);
+      const v = duelStartSchema.parse(await rpc("quiz_duel_start", [d, r, i]));
       const q = questions.find((q) => q.id === v.current!.question.id)!;
       await rpc("quiz_duel_answer", [
         d,
@@ -100,8 +94,8 @@ it("spielt alle vier Blöcke mit gleichen Fragen, verborgenen Gegnerwerten und s
     ),
   );
   expect(joined.id).toBe(d.id);
-  const bFirst = duelViewSchema.parse(
-    await as(bob, () => rpc("quiz_duel_view", [d.id, 1])),
+  const bFirst = duelStartSchema.parse(
+    await as(bob, () => rpc("quiz_duel_start", [d.id, 1, 0])),
   );
   expect(bFirst.current!.question.id).toBe(a.items[0].question.id);
   expect(bFirst.current!.order).toEqual(a.items[0].order);
@@ -139,11 +133,13 @@ it("hält gesammelte Lösungen bis zur eigenen zehnten Frage zurück und überni
       rpc("quiz_duel_create", ["round", true, crypto.randomUUID()]),
     ),
   );
-  let v = duelViewSchema.parse(
-    await as(alice, () => rpc("quiz_duel_view", [d.id, 1])),
-  );
+  let v = {
+    ...duelStartSchema.parse(
+      await as(alice, () => rpc("quiz_duel_start", [d.id, 1, 0])),
+    ),
+    items: [] as import("../src/duels").DuelView["items"],
+  };
   const q = questions.find((q) => q.id === v.current!.question.id)!;
-  await as(alice, () => rpc("quiz_duel_start", [d.id, 1, 0]));
   v = duelViewSchema.parse(
     await as(alice, () =>
       rpc("quiz_duel_answer", [d.id, 1, 0, q.correctId, false, true]),
@@ -158,11 +154,12 @@ it("hält gesammelte Lösungen bis zur eigenen zehnten Frage zurück und überni
   expect(state.events).toHaveLength(0);
   for (let i = 1; i < 10; i++)
     await as(alice, async () => {
-      const next = duelViewSchema.parse(await rpc("quiz_duel_view", [d.id, 1]));
+      const next = duelStartSchema.parse(
+        await rpc("quiz_duel_start", [d.id, 1, i]),
+      );
       const question = questions.find(
         (q) => q.id === next.current!.question.id,
       )!;
-      await rpc("quiz_duel_start", [d.id, 1, i]);
       await rpc("quiz_duel_answer", [
         d.id,
         1,

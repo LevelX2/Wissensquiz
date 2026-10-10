@@ -398,6 +398,7 @@ it("übernimmt Duellteilimporte und Rate-Korrekturen ohne Kürzen ursprüngliche
       createdAt: now,
       reason: null,
       result: null,
+      ranked: null,
       invitation: null,
       rounds: [1, 2, 3].map((number) => ({
         number,

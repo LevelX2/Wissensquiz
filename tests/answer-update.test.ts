@@ -102,6 +102,7 @@ it("übernimmt bestätigte Duellantworten und Wiederholungen mit gleicher Wertun
       createdAt: now,
       reason: null,
       result: null,
+      ranked: null,
       invitation: null,
       rounds: [1, 2, 3].map((number) => ({
         number,

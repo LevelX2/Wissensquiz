@@ -352,29 +352,37 @@ export function Help() {
           unterscheiden Woche, Monat, Jahr und Allzeit; Kalendergrenzen gelten
           in Deutschland. Standardmix, eigene Auswahl, Modus und Regelversion
           bleiben getrennt. Gleiche Punkte teilen sich einen Platz. Die Karriere
-          zeigt Level, XP und Lernleistungen. Duelle zählen pro vollständig
-          beendeter Begegnung 3 Punkte für einen Sieg, 1 für ein Unentschieden,
-          0 für eine Niederlage. Aufgabe und Fristablauf bleiben persönlich
-          sichtbar, ohne Ranglistenpunkte.
+          zeigt Wettbewerbs-XP und serverbestätigte Leistungen. Bei Duellen
+          zählt die erste vollständig beendete Begegnung je Kontopaar und
+          UTC-Tag: 3 Punkte für einen Sieg, 1 für ein Unentschieden, 0 für eine
+          Niederlage. Aufgabe und Fristablauf bleiben persönlich sichtbar, ohne
+          Ranglistenpunkte. Weitere Begegnungen sind Freundschaftsspiele.
         </p>
         <p>
-          Die Spielerleistungen vergleichen abgeschlossene Runden aller Modi,
-          richtige Antworten oder die Trefferquote. Für die Quotenrangliste
-          brauchst Du mindestens 50 gewählte Antworten in der jeweiligen
-          Auswahl. Zeitabläufe ohne Antwort zählen dabei nicht als Antwort;
-          Wiederholungen und geratene Treffer zählen mit.
+          Die Spielerleistungen vergleichen abgeschlossene servergeprüfte
+          Zeitspiele und eigene vollständige Duellrunden, richtige Antworten
+          oder die Trefferquote. Für die Quotenrangliste brauchst Du mindestens
+          50 gewählte Antworten in der jeweiligen Auswahl. Zeitabläufe ohne
+          Antwort zählen dabei nicht als Antwort; Wiederholungen und geratene
+          Treffer zählen mit.
         </p>
         <p>
           Bestätigte Quiz-Konten nehmen automatisch teil. Spielername, Level, XP
           und zusammengefasste Leistungsstatistik sind in der öffentlichen
-          Bestenliste sichtbar. Gemeinsame Rekordläufe zeigen Spielernamen und
-          Ergebniswerte; Deine einzelnen Antworten und persönlichen
-          Duellergebnisse bleiben privat. Auch bisherige gesicherte Runden
-          zählen. E-Mail und vollständiger Spielstand bleiben privat.
+          Bestenliste sichtbar. Diese Wettbewerbs-XP sind von Deinen privaten
+          Karriere-XP getrennt. Je Wissensziel und UTC-Tag gibt es einmal 1 XP
+          für eine Antwort einschließlich „Keine Ahnung“ und zusätzlich 2 / 3 /
+          5 XP für einen richtigen leichten / mittleren / schweren Treffer.
+          Gemeinsame Rekordläufe zeigen Spielernamen und Ergebniswerte; Deine
+          einzelnen Antworten und persönlichen Duellergebnisse bleiben privat.
+          Auch bisherige gesicherte Runden bleiben privat erhalten, zählen aber
+          nicht als servergeprüfter Nachweis. E-Mail und vollständiger
+          Spielstand bleiben privat.
         </p>
         <p>
-          Die Listen sind Trainingsvergleiche auf Basis der gespeicherten
-          Spiele, kein unabhängig kontrollierter Wettbewerb.
+          Der Server bestätigt Antworten, Zeiten und Wertung. Externes
+          Nachschlagen und Hilfe durch andere Personen lassen sich damit nicht
+          ausschließen.
         </p>
       </details>
       <details>

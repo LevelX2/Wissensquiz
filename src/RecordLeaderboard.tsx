@@ -108,7 +108,8 @@ export function Leaderboard({
         <>
           <h3>Bestenliste der Spieler</h3>
           <p className="muted">
-            Karriere-XP und Lernleistungen aus allen Spielmodi.
+            Wettbewerbs-XP und Leistungen aus servergeprüften Spielen. Deine
+            private Filmkarriere bleibt im Profil.
           </p>
           {connection && (
             <button

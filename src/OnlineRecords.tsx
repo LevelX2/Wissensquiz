@@ -53,7 +53,7 @@ const dateLabel = (at: number) =>
   new Date(at).toLocaleString("de-DE", { timeZone: "Europe/Berlin" });
 const label = (c: z.infer<typeof categorySchema>) =>
   [
-    c.rule_version.endsWith(".genre") ? "Genre-Rekord" : "Königsklasse",
+    c.rule_version.endsWith(".genre") ? "Genre-Rekord" : "Universal",
     c.selection?.sources?.map((s) => sourceLabels[s]).join(" + "),
     c.genres.map(genreLabel).join(" + "),
     c.difficulties.map((d) => d[0].toUpperCase() + d.slice(1)).join(" + "),
@@ -360,6 +360,10 @@ export function DuelRankings({
   const length = mine ? results.length : ranks.length;
   return (
     <section aria-label={mine ? "Meine Duellergebnisse" : "Duellrangliste"}>
+      <p className="tiny muted">
+        Eine gewertete Begegnung je Kontopaar und UTC-Tag; weitere Duelle
+        bleiben Freundschaftsspiele.
+      </p>
       {loading ? (
         <p role="status">Duellergebnisse werden geladen …</p>
       ) : error ? (
@@ -390,7 +394,7 @@ export function DuelRankings({
                         : "Abgebrochen"}
                 </strong>
                 <span>
-                  {d.status === "completed"
+                  {d.status === "completed" && d.ranked
                     ? "3 Runden · " +
                       (d.result === "win"
                         ? "3"
@@ -398,7 +402,9 @@ export function DuelRankings({
                           ? "1"
                           : "0") +
                       " Ranglistenpunkte"
-                    : "Aufgabe oder Fristablauf · ohne Ranglistenpunkte"}
+                    : d.status === "completed"
+                      ? "Freundschaftsspiel · ohne Ranglistenpunkte"
+                      : "Aufgabe oder Fristablauf · ohne Ranglistenpunkte"}
                 </span>
                 <span>
                   {d.rounds

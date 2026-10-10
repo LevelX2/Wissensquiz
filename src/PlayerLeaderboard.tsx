@@ -114,11 +114,12 @@ export function PlayerLeaderboard({
   return (
     <div>
       <p className="muted">
-        Hier vergleichst Du gespeicherte Ergebnisse aller bestätigten
-        Quiz-Konten.
+        Hier zählen abgeschlossene servergeprüfte Zeitspiele und eigene
+        vollständige Duellrunden. Private Lernstände und Karriere-XP zählen
+        nicht für diese Bestenliste.
         {publicList
           ? " Die Bestenliste ist öffentlich sichtbar, auch ohne Anmeldung."
-          : " Dein Konto gehört automatisch dazu, auch wenn sonst niemand spielt."}
+          : " Nach Deinem ersten gewerteten Spiel erscheint Dein Konto hier."}
       </p>
       <div
         className="ranking-tabs ranking-metrics"
@@ -130,7 +131,7 @@ export function PlayerLeaderboard({
             ["correct", "Richtige Antworten"],
             ["rounds", "Runden"],
             ["accuracy", "Trefferquote"],
-            ["experience", "Level & XP"],
+            ["experience", "Wettbewerbs-XP"],
           ] as const
         ).map(([value, label]) => (
           <button
@@ -148,7 +149,7 @@ export function PlayerLeaderboard({
       </div>
       <p className="tiny muted">
         {sort === "experience" ? (
-          "Gesamte Filmkarriere · Alle Genres · Alle Stufen"
+          "Wettbewerbs-XP · Alle Genres · Alle Stufen"
         ) : (
           <>
             {!publicList && genre ? genreLabel(genre) : "Alle Genres"} ·{" "}
@@ -159,6 +160,13 @@ export function PlayerLeaderboard({
           </>
         )}
       </p>
+      {sort === "experience" && (
+        <p className="tiny muted">
+          Je Wissensziel und UTC-Tag: 1 XP für eine gewählte Antwort und
+          zusätzlich 2 / 3 / 5 XP für eine richtige leichte / mittlere / schwere
+          Antwort.
+        </p>
+      )}
       {!publicList && sort !== "experience" && (
         <details className="ranking-details ranking-filter-details">
           <summary>
@@ -229,7 +237,7 @@ export function PlayerLeaderboard({
             ? "Für die Trefferquote braucht es mindestens 50 beantwortete Fragen in dieser Auswahl. Unter „Richtige Antworten“ und „Runden“ siehst Du Dein Konto schon vorher."
             : genre || difficulty
               ? "Noch keine abgeschlossenen Runden für diese Auswahl. Setze die Filter zurück, um alle Spieler zu sehen."
-              : "Es wurden keine Spieler gefunden. Bitte aktualisiere die Rangliste."}
+              : "Noch keine servergeprüften Spiele in der Bestenliste."}
         </p>
       ) : (
         <>
@@ -252,7 +260,7 @@ export function PlayerLeaderboard({
                   </strong>
                   <CareerBadge experience={r.experience} />
                   <span>
-                    {r.experience.toLocaleString("de-DE")} XP insgesamt
+                    {r.experience.toLocaleString("de-DE")} Wettbewerbs-XP
                   </span>
                   <span>
                     {r.completed.toLocaleString("de-DE")}{" "}
@@ -295,26 +303,25 @@ export function PlayerLeaderboard({
       <details className="ranking-details">
         <summary>Was zählt für den Vergleich?</summary>
         <p className="tiny muted">
-          Level und XP zeigen immer die gesamte Filmkarriere. Die Wertung „Level
-          & XP“ vergleicht alle Genres und Stufen. Gleiche XP teilen sich einen
-          Platz. Alle Spielmodi, nur abgeschlossene Runden. Die Trefferquote
-          vergleicht erst ab 50 beantworteten Fragen in der Auswahl; reine
-          Zeitabläufe zählen nicht als Antwort. Wiederholungen und geratene
-          Treffer zählen hier mit. Bei gemischten Runden zählen nur passende
-          Fragen, die Runde einmal.
+          Wettbewerbs-XP und das daraus berechnete Level gelten für alle Genres
+          und Stufen. Gleiche XP teilen sich einen Platz. Es zählen
+          abgeschlossene servergeprüfte Zeitspiele und eigene vollständige
+          Duellrunden. Die Trefferquote vergleicht erst ab 50 beantworteten
+          Fragen in der Auswahl; reine Zeitabläufe zählen nicht als Antwort.
+          Wiederholungen und geratene Treffer zählen hier mit. Bei gemischten
+          Runden zählen nur passende Fragen, die Runde einmal.
         </p>
         {publicList && (
           <p className="tiny muted">
-            Die öffentliche Bestenliste vergleicht die gesamte Karriere und alle
-            abgeschlossenen Spiele. Namen dürfen gleich sein; jeder Eintrag
-            gehört zu einem eigenen bestätigten Konto. Spieler ohne
-            abgeschlossene Spiele sind ebenfalls dabei.
+            Namen dürfen gleich sein; jeder Eintrag gehört zu einem eigenen
+            bestätigten Konto. Dein Konto erscheint nach dem ersten gewerteten
+            Abschluss. Deine privaten Karriere-XP bleiben im Profil.
           </p>
         )}
       </details>
       <p className="tiny muted">
-        Gemeinsame Trainingswerte. Die Listen zeigen Aktivität und Treffer,
-        keinen unabhängig geprüften Wissensstand.
+        Der Server bestätigt Antworten und Wertung. Externes Nachschlagen oder
+        Hilfe durch andere Personen lässt sich damit nicht ausschließen.
       </p>
     </div>
   );

@@ -1,5 +1,7 @@
 # Asynchrone Filmduelle
 
+**10.10.2026 lokal abgesichert, noch nicht produktiv:** Unbeantwortete Fragen erst gemeinsam mit der ersten Serverstartzeit; keine ungestartete Frage über Views oder Antwortbestätigungen. Kompakter Startabruf ohne Wiederholung früherer Fragetexte. Die erste vollständig beendete Begegnung eines Kontopaars je UTC-Tag zählt zur Duellrangliste, weitere sind Freundschaftsspiele. Eigene vollständige Zehnerrunden speisen separate öffentliche Wettbewerbswerte aus bestätigten Antworten. [Aktueller Ergänzungsvertrag und Grenzen](Servergepruefte-Zeitrunden-2026-10-10.md#umsetzung-der-ersten-drei-zusatzmaßnahmen). Historische Aussagen zum Start erst nach Darstellung und zu öffentlichen Wertungsquellen gelten nicht mehr für den lokalen Stand.
+
 ## Private Übernahme in den neuen Kontopfad
 
 03.10.2026 lokal umgesetzt, noch nicht veröffentlicht: Eigene bestätigte Duellantworten gehen unverändert über `importDuelView` in den vollständigen privaten State ein. Der neue Eintragscompiler prüft bei diesen Importen auch Katalogänderungen; historische Duellfragen mit abweichenden Fassungen bleiben private Snapshotobjekte. Die tatsächlichen Antwortvarianten, Reihenfolgen und ursprünglichen before-Maps werden nicht gekürzt.

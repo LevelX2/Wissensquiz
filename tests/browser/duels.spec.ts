@@ -175,7 +175,7 @@ test("Freies Spiel fragt ohne Unterbrechung ab und zeigt gesammelte Lösungen im
     page.getByRole("radio", { name: "Nach der Runde", exact: true }),
   ).toHaveCount(0);
   await page.getByRole("button", { name: "Losspielen" }).click();
-  for (let i = 0; i < 5; i++) {
+  for (let i = 0; i < 10; i++) {
     const id = await page
       .locator("h1[data-question-id]")
       .getAttribute("data-question-id");
@@ -186,7 +186,7 @@ test("Freies Spiel fragt ohne Unterbrechung ab und zeigt gesammelte Lösungen im
       .getByRole("button", { name: "Keine Ahnung", exact: false })
       .click();
     await expect(page.locator(`h1[data-question-id="${id}"]`)).toHaveCount(0);
-    if (i < 4) {
+    if (i < 9) {
       await expect(page.locator(".explanation")).toHaveCount(0);
       await expect(
         page.locator(".progress-step.correct,.progress-step.wrong"),

@@ -32,6 +32,7 @@ export const duelSchema = z.object({
   createdAt: z.number(),
   reason: z.string().nullable(),
   result: z.enum(["win", "loss", "draw"]).nullable(),
+  ranked: z.boolean().nullable(),
   invitation: z.string().nullable(),
   rounds: z
     .array(
@@ -100,6 +101,7 @@ export const duelViewSchema = z.object({
   serverNow: z.number(),
 });
 export type Duel = z.infer<typeof duelSchema>;
+export const duelStartSchema = duelViewSchema.omit({ items: true });
 export type DuelView = z.infer<typeof duelViewSchema>;
 export const openDuel = (d: Duel) =>
   ["preparing", "waiting", "active"].includes(d.status);

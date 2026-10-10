@@ -1,5 +1,7 @@
 # Öffentliche Bestenliste und Gastaktivität
 
+**10.10.2026 lokal umgestellt, noch nicht produktiv:** Die allgemeine Spielerbestenliste zählt ausschließlich abgeschlossene servergeprüfte Solo-Zeitläufe und eigene vollständige Duellrunden. Separate Wettbewerbs-XP und daraus abgeleitete Level ersetzen in der öffentlichen Liste die übertragene private Karriere-XP. Kein Nachweis aus importierten Lernständen; bestehende private Karriere bleibt erhalten. Kleine neue Abschlusssummen statt Historien-Replay beim Abruf. [Aktueller Vertrag und Datenmenge](Servergepruefte-Zeitrunden-2026-10-10.md#umsetzung-der-ersten-drei-zusatzmaßnahmen). Die folgenden historischen Angaben zu öffentlichen Quellen und XP sind dadurch für den lokalen Stand abgelöst; Gastaktivität bleibt unverändert.
+
 ## Kleine Statistikprojektionen – produktiv eingerichtet am 03.10.2026
 
 Die neue Migration `20261003085256_storage_stat_projections.sql` ersetzt das wiederholte Lesen aller privaten Spielhistorien bei Listenabfragen durch `quiz_round_contributions` und `quiz_player_totals`. Gesamtwerte, angemeldete Genre-/Stufenfilter und kombinierte Auswahl bleiben fachlich gleich. Bestehende Konten erhalten einen einmaligen Legacy-Backfill; später werden ausschließlich betroffene Rundenbeiträge geändert. Gemeinsame Rekorde prüfen nur betroffene Runden mit der bisherigen SQL-Wertung. Sound-/Anzeigeeinstellungen lösen keine Statistik-/Rekordprojektion aus.

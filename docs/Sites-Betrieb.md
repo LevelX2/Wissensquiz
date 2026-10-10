@@ -1,5 +1,11 @@
 # Sites-Veröffentlichung
 
+## Vorbereiteter zusätzlicher Bestenlistenschutz – 10.10.2026
+
+Lokal vorbereitet, nicht angewendet oder veröffentlicht: Nach `20261010102411_authoritative_ranked_runs.sql` die neue Migration `20261010112301_leaderboard_integrity.sql` installieren. Sie ändert den Duellstartvertrag und die öffentliche Spielerwertung. Die passende Oberfläche danach als zusammengehörigen Stand veröffentlichen; offene ältere Oberflächen müssen neu geladen werden. Es gibt keinen zusätzlichen Kompatibilitätsweg für vorherige Startantworten. Vor Produktionsfreigabe Funktionsrechte, tatsächlichen Zeitablauf, öffentliche Summen und die Tagesgrenze mit isolierten Testkonten sowie Supabase-Advisors prüfen.
+
+Öffentliche Wettbewerbs-XP werden ab der neuen Backend-Erfassung aus bestätigten Abschlüssen gebildet; frühere private Karrierewerte und Spielstände bleiben privat unverändert. Keine Übernahme alter clientseitiger Summen und keine nachträgliche Tageswertung alter abgeschlossener Duelle. Aktive Duellrunden werden bei ihrem folgenden vollständigen Abschluss berücksichtigt. Kein Mailversand oder automatische Verdachtssperre eingerichtet. [Fachvertrag](Servergepruefte-Zeitrunden-2026-10-10.md#umsetzung-der-ersten-drei-zusatzmaßnahmen).
+
 ## Vorbereitete servergeprüfte Zeitrunden – 10.10.2026
 
 Lokal implementiert, **nicht ausgerollt**. Vor einer ausdrücklich beauftragten Veröffentlichung des neuen Frontends die Backendvoraussetzungen vollständig einrichten; bestehende Projekt-ID, URL und öffentlichen Zugang erhalten. [Fachvertrag](Servergepruefte-Zeitrunden-2026-10-10.md).
