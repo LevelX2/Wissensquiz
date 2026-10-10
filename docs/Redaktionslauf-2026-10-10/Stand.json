@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "7ac54a88add08c545c0b55520ef86bd6a2bd34dc",
+  "sourceCommit": "d88342b276a48666917bc4fc5bc3fdff1b377ea4",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 350,
-  "totalReviewed": 500,
-  "remainingFilmQuestions": 10233,
+  "completedInThisRun": 400,
+  "totalReviewed": 550,
+  "remainingFilmQuestions": 10183,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 12273,
+  "remainingAllQuestions": 12223,
   "blocks": [
     {
       "block": 1,
@@ -43,6 +43,11 @@
     {
       "block": 7,
       "path": "Block-07.json",
+      "count": 50
+    },
+    {
+      "block": 8,
+      "path": "Block-08.json",
       "count": 50
     }
   ],
@@ -546,209 +551,59 @@
     "ACT-L-002",
     "ACT-M-002",
     "ACT-S-001",
-    "ACT-S-002"
+    "ACT-S-002",
+    "ACT-L-001-V1",
+    "ACT-L-002-V1",
+    "ACT-M-001-V1",
+    "ACT-M-002-V1",
+    "ACT-S-001-V1",
+    "ACT-S-002-V1",
+    "FF-001-YEAR",
+    "FF-001-DIRECTOR",
+    "HOR-L-021",
+    "HOR-L-022",
+    "HOR-M-021",
+    "HOR-M-022",
+    "HOR-S-021",
+    "FF-186-YEAR",
+    "FF-186-DIRECTOR",
+    "E20261007-F-080-L1",
+    "E20261007-F-080-M1",
+    "E20261007-F-080-M2",
+    "E20261007-F-080-S1",
+    "E20261007-F-080-S2",
+    "E20261007-F-080-Y",
+    "E20261007-F-080-D",
+    "KOM-202609-P02-L-055",
+    "KOM-202609-P02-L-056",
+    "KOM-202609-P02-M-055",
+    "KOM-202609-P02-M-056",
+    "KOM-202609-P02-S-055",
+    "KOM-202609-P02-S-056",
+    "FF-403-YEAR",
+    "FF-403-DIRECTOR",
+    "F240-20261006-239-L1",
+    "F240-20261006-239-L2",
+    "F240-20261006-239-M1",
+    "F240-20261006-239-M2",
+    "F240-20261006-239-S2",
+    "F240-20261006-239-Y",
+    "F240-20261006-239-D",
+    "E20261007-F-051-L1",
+    "E20261007-F-051-L2",
+    "E20261007-F-051-M1",
+    "E20261007-F-051-M2",
+    "E20261007-F-051-S1",
+    "E20261007-F-051-S2",
+    "E20261007-F-051-Y",
+    "MUS-202609-P01-L-020",
+    "MUS-202609-P01-M-019",
+    "MUS-202609-P01-M-020",
+    "MUS-202609-P01-S-019",
+    "MUS-202609-P01-S-020",
+    "MUS-202609-P01-L-019-V1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "ACT-L-001-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "ACT-L-002-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "ACT-M-001-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "ACT-M-002-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "ACT-S-001-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "ACT-S-002-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "FF-001-YEAR",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "FF-001-DIRECTOR",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "HOR-L-021",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "HOR-L-022",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "HOR-M-021",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "HOR-M-022",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "HOR-S-021",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "FF-186-YEAR",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "FF-186-DIRECTOR",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "E20261007-F-080-L1",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-M1",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-M2",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-S1",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-S2",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-Y",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-D",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "KOM-202609-P02-L-055",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "KOM-202609-P02-L-056",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "KOM-202609-P02-M-055",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "KOM-202609-P02-M-056",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "KOM-202609-P02-S-055",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "KOM-202609-P02-S-056",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "FF-403-YEAR",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "FF-403-DIRECTOR",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "F240-20261006-239-L1",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-L2",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-M1",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-M2",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-S2",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-Y",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-D",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "E20261007-F-051-L1",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-L2",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-M1",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-M2",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-S1",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-S2",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-Y",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "MUS-202609-P01-L-020",
-      "filmKey": "The Rocky Horror Picture Show|1975"
-    },
-    {
-      "id": "MUS-202609-P01-M-019",
-      "filmKey": "The Rocky Horror Picture Show|1975"
-    },
-    {
-      "id": "MUS-202609-P01-M-020",
-      "filmKey": "The Rocky Horror Picture Show|1975"
-    },
-    {
-      "id": "MUS-202609-P01-S-019",
-      "filmKey": "The Rocky Horror Picture Show|1975"
-    },
-    {
-      "id": "MUS-202609-P01-S-020",
-      "filmKey": "The Rocky Horror Picture Show|1975"
-    },
-    {
-      "id": "MUS-202609-P01-L-019-V1",
-      "filmKey": "The Rocky Horror Picture Show|1975"
-    },
     {
       "id": "FF-310-YEAR",
       "filmKey": "The Rocky Horror Picture Show|1975"
@@ -41484,204 +41339,204 @@
   ],
   "next": [
     {
-      "id": "ACT-L-001-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "ACT-L-002-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "ACT-M-001-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "ACT-M-002-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "ACT-S-001-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "ACT-S-002-V1",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "FF-001-YEAR",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "FF-001-DIRECTOR",
-      "filmKey": "Die Hard|1988"
-    },
-    {
-      "id": "HOR-L-021",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "HOR-L-022",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "HOR-M-021",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "HOR-M-022",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "HOR-S-021",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "FF-186-YEAR",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "FF-186-DIRECTOR",
-      "filmKey": "Misery|1990"
-    },
-    {
-      "id": "E20261007-F-080-L1",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-M1",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-M2",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-S1",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-S2",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-Y",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "E20261007-F-080-D",
-      "filmKey": "Legend of the Guardians: The Owls of Ga'Hoole|2010"
-    },
-    {
-      "id": "KOM-202609-P02-L-055",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "KOM-202609-P02-L-056",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "KOM-202609-P02-M-055",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "KOM-202609-P02-M-056",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "KOM-202609-P02-S-055",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "KOM-202609-P02-S-056",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "FF-403-YEAR",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "FF-403-DIRECTOR",
-      "filmKey": "Fack ju Göhte|2013"
-    },
-    {
-      "id": "F240-20261006-239-L1",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-L2",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-M1",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-M2",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-S2",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-Y",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "F240-20261006-239-D",
-      "filmKey": "The Homesman|2014"
-    },
-    {
-      "id": "E20261007-F-051-L1",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-L2",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-M1",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-M2",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-S1",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-S2",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "E20261007-F-051-Y",
-      "filmKey": "Das weiße Band – Eine deutsche Kindergeschichte|2009"
-    },
-    {
-      "id": "MUS-202609-P01-L-020",
+      "id": "FF-310-YEAR",
       "filmKey": "The Rocky Horror Picture Show|1975"
     },
     {
-      "id": "MUS-202609-P01-M-019",
+      "id": "FF-310-DIRECTOR",
       "filmKey": "The Rocky Horror Picture Show|1975"
     },
     {
-      "id": "MUS-202609-P01-M-020",
-      "filmKey": "The Rocky Horror Picture Show|1975"
+      "id": "ART-L-011",
+      "filmKey": "Fitzcarraldo|1982"
     },
     {
-      "id": "MUS-202609-P01-S-019",
-      "filmKey": "The Rocky Horror Picture Show|1975"
+      "id": "ART-L-012",
+      "filmKey": "Fitzcarraldo|1982"
     },
     {
-      "id": "MUS-202609-P01-S-020",
-      "filmKey": "The Rocky Horror Picture Show|1975"
+      "id": "ART-M-011",
+      "filmKey": "Fitzcarraldo|1982"
     },
     {
-      "id": "MUS-202609-P01-L-019-V1",
-      "filmKey": "The Rocky Horror Picture Show|1975"
+      "id": "ART-M-012",
+      "filmKey": "Fitzcarraldo|1982"
+    },
+    {
+      "id": "ART-S-012",
+      "filmKey": "Fitzcarraldo|1982"
+    },
+    {
+      "id": "FF-031-YEAR",
+      "filmKey": "Fitzcarraldo|1982"
+    },
+    {
+      "id": "FF-031-DIRECTOR",
+      "filmKey": "Fitzcarraldo|1982"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-016-L1",
+      "filmKey": "Ong Bak 2|2008"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-016-L2",
+      "filmKey": "Ong Bak 2|2008"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-016-M1",
+      "filmKey": "Ong Bak 2|2008"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-016-S1",
+      "filmKey": "Ong Bak 2|2008"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-016-S2",
+      "filmKey": "Ong Bak 2|2008"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-016-Y",
+      "filmKey": "Ong Bak 2|2008"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-016-D",
+      "filmKey": "Ong Bak 2|2008"
+    },
+    {
+      "id": "ART-L-018",
+      "filmKey": "Солярис|1972"
+    },
+    {
+      "id": "ART-M-017",
+      "filmKey": "Солярис|1972"
+    },
+    {
+      "id": "ART-M-018",
+      "filmKey": "Солярис|1972"
+    },
+    {
+      "id": "ART-S-017",
+      "filmKey": "Солярис|1972"
+    },
+    {
+      "id": "ART-S-018",
+      "filmKey": "Солярис|1972"
+    },
+    {
+      "id": "FF-034-YEAR",
+      "filmKey": "Солярис|1972"
+    },
+    {
+      "id": "FF-034-DIRECTOR",
+      "filmKey": "Солярис|1972"
+    },
+    {
+      "id": "ACT-L-025",
+      "filmKey": "True Lies|1994"
+    },
+    {
+      "id": "ACT-L-026",
+      "filmKey": "True Lies|1994"
+    },
+    {
+      "id": "ACT-M-026",
+      "filmKey": "True Lies|1994"
+    },
+    {
+      "id": "ACT-S-025",
+      "filmKey": "True Lies|1994"
+    },
+    {
+      "id": "ACT-S-026",
+      "filmKey": "True Lies|1994"
+    },
+    {
+      "id": "FF-013-YEAR",
+      "filmKey": "True Lies|1994"
+    },
+    {
+      "id": "G100-20261008-HORROR-001-L1",
+      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+    },
+    {
+      "id": "G100-20261008-HORROR-001-L2",
+      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+    },
+    {
+      "id": "G100-20261008-HORROR-001-M1",
+      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+    },
+    {
+      "id": "G100-20261008-HORROR-001-M2",
+      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+    },
+    {
+      "id": "G100-20261008-HORROR-001-S2",
+      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+    },
+    {
+      "id": "G100-20261008-HORROR-001-Y",
+      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+    },
+    {
+      "id": "G100-20261008-HORROR-001-D",
+      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+    },
+    {
+      "id": "F240-20261006-080-L2",
+      "filmKey": "Orlando|1992"
+    },
+    {
+      "id": "F240-20261006-080-M1",
+      "filmKey": "Orlando|1992"
+    },
+    {
+      "id": "F240-20261006-080-M2",
+      "filmKey": "Orlando|1992"
+    },
+    {
+      "id": "F240-20261006-080-S1",
+      "filmKey": "Orlando|1992"
+    },
+    {
+      "id": "F240-20261006-080-S2",
+      "filmKey": "Orlando|1992"
+    },
+    {
+      "id": "F240-20261006-080-Y",
+      "filmKey": "Orlando|1992"
+    },
+    {
+      "id": "F240-20261006-080-D",
+      "filmKey": "Orlando|1992"
+    },
+    {
+      "id": "F240-20261006-107-L1",
+      "filmKey": "Playtime|1967"
+    },
+    {
+      "id": "F240-20261006-107-L2",
+      "filmKey": "Playtime|1967"
+    },
+    {
+      "id": "F240-20261006-107-M1",
+      "filmKey": "Playtime|1967"
+    },
+    {
+      "id": "F240-20261006-107-M2",
+      "filmKey": "Playtime|1967"
+    },
+    {
+      "id": "F240-20261006-107-S1",
+      "filmKey": "Playtime|1967"
+    },
+    {
+      "id": "F240-20261006-107-S2",
+      "filmKey": "Playtime|1967"
+    },
+    {
+      "id": "F240-20261006-107-Y",
+      "filmKey": "Playtime|1967"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
