@@ -1,0 +1,54 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 1,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 6,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Bruce Almighty|2003",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 4,
+        "schwer": 2
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    1,
+    2,
+    4,
+    6,
+    9,
+    10,
+    11,
+    12,
+    15,
+    16,
+    17,
+    18,
+    23,
+    25,
+    26,
+    28,
+    29,
+    30,
+    31,
+    42,
+    43,
+    45,
+    47
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "fbe24c84620badf1ebfec8fb8a9e8eb9e0b9ceb1413203e3c99432544e12547b",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf"
+}
