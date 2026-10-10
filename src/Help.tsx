@@ -426,12 +426,22 @@ export function Help() {
         <p>
           Angemeldet wird Dein Fortschritt automatisch online gespeichert. Warte
           vor einem Gerätewechsel auf „Spielstand online gespeichert“. Zum
-          Spielen brauchst Du ein bestätigtes Quiz-Konto.
+          Weiterspielen nach der ersten Proberunde brauchst Du ein bestätigtes
+          Quiz-Konto.
         </p>
         <p>
           Zum Öffnen des Quiz und Laden der Bilder brauchst Du Internet. Dein
-          Spielstand wird ausschließlich in Deinem Online-Konto gespeichert.
-          Eine JSON-Sicherung kannst Du bei Bedarf selbst herunterladen.
+          Kontospielstand wird ausschließlich in Deinem Online-Konto
+          gespeichert. Eine JSON-Sicherung kannst Du bei Bedarf selbst
+          herunterladen.
+        </p>
+        <p>
+          Eine erste Zehnerrunde kannst Du ohne Konto ausprobieren. Danach
+          siehst Du Dein Ergebnis und kannst die Runde mit einem Konto
+          übernehmen. Nur diese Proberunde bleibt bis 24 Stunden nach ihrem
+          Start in diesem Browser vorgemerkt. Bestätige Deine E-Mail-Adresse und
+          melde Dich hier an, um sie zu übernehmen. Mit demselben Konto kannst
+          Du danach auf PC, Handy und Tablet weiterspielen.
         </p>
       </details>
       <section className="image-credits" aria-label="Bildquellen">

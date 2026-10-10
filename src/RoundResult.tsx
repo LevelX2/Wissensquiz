@@ -1,6 +1,6 @@
 import { isRecordMode } from "./recordModes";
 import { familiarityLabel, ruleLabel } from "./familiarity";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { points, selectQuestions } from "./engine";
 import { type Round, type State } from "./model";
 import {
@@ -29,6 +29,7 @@ export function Result({
   onRetry,
   busy,
   celebrate,
+  trialActions,
 }: {
   round: Round;
   state: State;
@@ -38,6 +39,7 @@ export function Result({
   onRetry: () => void;
   busy: boolean;
   celebrate: boolean;
+  trialActions?: ReactNode;
 }) {
   const [reviewFilter, setReviewFilter] = useState<"all" | "wrong" | "guessed">(
     "all",
@@ -130,6 +132,7 @@ export function Result({
           </div>
         </div>
       </div>
+      {trialActions}
       <div className="result-metrics">
         <div>
           <strong>{summary.wrong}</strong>
@@ -236,34 +239,38 @@ export function Result({
           {leaderboardLabel ?? "Bestenliste ansehen"} →
         </button>
       )}
-      <div className="result-actions">
-        {retryCount > 0 && (
+      {!trialActions && (
+        <div className="result-actions">
+          {retryCount > 0 && (
+            <button
+              className="primary"
+              onClick={onRetry}
+              data-feedback="own"
+              disabled={busy || active}
+            >
+              Fällige Filmfragen dieser Runde wiederholen ({retryCount}) →
+            </button>
+          )}
           <button
-            className="primary"
-            onClick={onRetry}
-            data-feedback="own"
-            disabled={busy || active}
+            className={retryCount ? "secondary" : "primary"}
+            onClick={onHome}
           >
-            Fällige Filmfragen dieser Runde wiederholen ({retryCount}) →
+            Neue Runde wählen →
           </button>
-        )}
-        <button
-          className={retryCount ? "secondary" : "primary"}
-          onClick={onHome}
-        >
-          Neue Runde wählen →
-        </button>
-      </div>
-      {retryCount > 0 && (
+        </div>
+      )}
+      {!trialActions && retryCount > 0 && (
         <p className="muted tiny">
           {active
             ? "Setze zuerst Deine begonnene Runde fort oder beende sie auf der Startseite."
             : "Du wiederholst ausschließlich Filmfragen dieser Runde, deren Lerntermin erreicht ist."}
         </p>
       )}
-      <button className="text-button muted" onClick={onHome}>
-        Zur Startseite · Für heute reicht’s
-      </button>
+      {!trialActions && (
+        <button className="text-button muted" onClick={onHome}>
+          Zur Startseite · Für heute reicht’s
+        </button>
+      )}
       <section className="review">
         <h2>Dein Rundenrückblick</h2>
         <p className="muted">Die Erklärungen bleiben hier zum Nachlesen.</p>

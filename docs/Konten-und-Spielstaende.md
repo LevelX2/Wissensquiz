@@ -1,6 +1,6 @@
 # Konten und gemeinsame Spielstände
 
-> Aktueller lokaler Vertrag seit 10.10.2026: [Anmeldung und ausschließlich online gespeicherter Spielstand](Anmeldung-und-Online-Spielstand.md). Frühere Abschnitte zu Gaststand, IndexedDB, Outbox und Offline-PWA beschreiben den damaligen veröffentlichten Stand und sind durch den neuen Nutzerauftrag abgelöst. Noch nicht neu veröffentlicht.
+> Aktueller lokaler Vertrag seit 10.10.2026: [eine einmalige Proberunde, danach Anmeldung und ausschließlich online gespeicherter Kontospielstand](Anmeldung-und-Online-Spielstand.md). Nur diese neue Proberunde wird für ihre Kontoübernahme befristet bis 24 Stunden nach Start vorgemerkt. Frühere Abschnitte zu dauerhaften Gastständen, IndexedDB, Outbox und Offline-PWA sind abgelöst; alte Gastdaten werden nicht übernommen. Proberunde noch nicht veröffentlicht, reine Anmeldungspflicht seit Version 59 veröffentlicht.
 
 ## Update-Aktion beim Kontoladen, 05.10.2026
 

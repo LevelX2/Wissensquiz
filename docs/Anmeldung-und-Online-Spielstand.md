@@ -2,18 +2,34 @@
 
 ## Verbindlicher Nutzerauftrag
 
-Zum Spielen ist immer eine Anmeldung nötig. Offline-Paket und dauerhafte lokale Spielstände sind unerwünscht und werden entfernt. [Originalanweisungen](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Anmeldung%20und%20Online-Spielstand.txt).
+Aktueller Nutzerauftrag: Eine erste Zehnerrunde ohne Konto ausprobieren; danach ist ein bestätigtes Quiz-Konto erforderlich. Die Proberunde zählt nach der Kontoübernahme mit. Kontovorteile ausdrücklich einschließlich Weiterspielen auf PC, Handy und Tablet aufführen. [Neue Originalanweisungen](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Proberunde%20und%20Konto.txt).
 
-Das ersetzt frühere Projektbeschreibungen zu Gastspiel, IndexedDB und Offline-PWA. Die öffentliche Website benötigt weiterhin keine vorgeschaltete ChatGPT-Anmeldung; innerhalb des Quiz ist ein bestätigtes Quiz-Konto erforderlich. Seit Sites-Version 59 am 10.10.2026 veröffentlicht. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-10-Version-59.json).
+Der frühere Auftrag zur Anmeldung vor jedem Spiel ist seit Sites-Version 59 veröffentlicht. Die hier beschriebene einzelne Proberunde ist lokal umgesetzt und noch nicht veröffentlicht. Sie ersetzt die Anmeldung vor der ersten Runde, eröffnet aber keinen dauerhaften Gastmodus. [Früherer Auftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Anmeldung%20und%20Online-Spielstand.txt), [Veröffentlichungsnachweis Version 59](Veroeffentlichung-2026-10-10-Version-59.json). Öffentlicher Sites-Zugang ohne vorgeschaltete ChatGPT-Anmeldung bleibt erhalten.
+
+## Einmalige Proberunde
+
+- Einstieg „Eine Runde ausprobieren“ neben Anmeldung und Kontoanlage. Vor dem Start klare Ankündigung: zehn Fragen ohne Konto, danach kostenloses Konto erforderlich.
+- Wahl eines Filmgenres oder aller Genres; zehn unterschiedliche Wissensziele aus leicht/mittel, ohne Zeitdruck. Normale Antwortauflösung und Erklärungen. Die Proberunde verwendet Freies Spiel und zählt dessen XP und Lernereignisse; sie ist keine gewertete Rekordrunde.
+- Nach der letzten Antwort zunächst Ergebnis, unmittelbar darunter Kontoangebot und Vorteile; Rückblick bleibt frei zugänglich. „Nächste Runde“ öffnet die Registrierung. Keine zweite Gastspielrunde, auch nicht nach Neuladen, Abbruch oder in einem weiteren Fenster desselben Browsers. Eine begonnene Runde lässt sich fortsetzen.
+- Kontovorteile: Lernfortschritt/Punkte/Rekorde behalten, gezielt wiederholen und Filmreise fortsetzen, Bestenlisten/Duelle sowie auf PC, Handy und Tablet mit demselben Konto weiterspielen. Registrierung erklärt E-Mail-Bestätigung und Passwort-Reset.
+- „Konto erstellen & Runde übernehmen“ beziehungsweise „Anmelden & Runde übernehmen“ bindet die beendete Runde an die eingegebene E-Mail-Adresse. Nur das danach serverseitig bestätigte Konto mit derselben Adresse übernimmt sie automatisch. Bestehende Antworten, Einstellungen, aktive Kontorunden und Fragefassungen bleiben erhalten; dieselbe Runden-ID wird nicht doppelt importiert.
+- Erst nach bestätigter Online-Speicherung verschwindet der Übernahmeentwurf. Bei fehlgeschlagener oder verlorener Bestätigung bleibt er für einen erneuten Versuch erhalten; auch nach Neuladen zählt die Runde höchstens einmal. Eine sichtbare Bestätigung erklärt die erfolgreiche Übernahme.
+- Die E-Mail-Bestätigung darf ein neues Fenster desselben Browsers öffnen. Kontoaktivierung, Übernahme und initiale Katalogvorbereitung werden je Konto mit einem Web Lock nacheinander geöffnet; parallele Fenster starten nicht gegeneinander die erste Kontoaktivierung. Laufende Spiele behalten den bisherigen serverseitigen Revisionsschutz.
+
+### Befristete Ausnahme für die Übernahme
+
+Nur diese eine Proberunde liegt bis maximal 24 Stunden nach ihrem Start in `localStorage` (`wissensquiz-trial:v1`): zehn Fragesnapshots mit Antworten und abgeleitetem Fortschritt, Ablaufzeit und gegebenenfalls die zur Übernahme eingegebene E-Mail-Adresse. Kein Vollkatalog, Passwort oder Kontospielstand. Beim Ablauf im geöffneten Einstieg oder nächsten Zugriff wird der Entwurf entfernt; bei geschlossenem Browser kann die physische Bereinigung erst beim nächsten Aufruf erfolgen. Ein separater Marker `wissensquiz-trial-used:v1` enthält ausschließlich „yes“ und verhindert weitere Proberunden. Alle Änderungen dieser Runde werden zwischen Fenstern mit einem Web Lock abgestimmt.
+
+Das ist die ausdrücklich angenommene befristete Übernahme aus dem neuen Ablauf; automatische dauerhafte lokale Kontospielstände und Offline-Paket bleiben entfernt. Alte IndexedDB-Gaststände werden weiterhin weder gelesen noch übernommen. E-Mail-Bestätigung auf einem anderen Gerät: Danach im ursprünglichen Browser anmelden, solange die 24 Stunden nicht abgelaufen sind. Erst der übernommene Kontostand steht auf anderen Geräten bereit. Löschen der Browserdaten, ein anderes Browserprofil oder Gerät kann ohne Konto nicht sicher als derselbe Besucher erkannt werden. Die Proberunde ist kein Identitäts- oder Manipulationsnachweis.
 
 ## Laufender Spielbetrieb
 
-- Vor bestätigter Anmeldung erscheint die Kontoansicht; kein Gastspiel und keine Gastübernahme.
-- Der dauerhafte Spielstand liegt ausschließlich privat in Supabase. Der geöffnete Tab hält nur eine Arbeitskopie im Arbeitsspeicher.
-- Eine Antwort, Einstellung oder Runde wird erst nach Serverbestätigung übernommen. Speicherfehler zeigen „Nicht gespeichert“ und eine ausdrückliche Wiederholung. Bis dahin erscheint keine Antwortlösung.
+- Vor bestätigter Anmeldung erscheint der Einstieg mit höchstens einer Proberunde. Danach ausschließlich bestätigte Kontospiele; keine Übernahme alter Gastdaten.
+- Der dauerhafte Kontospielstand liegt ausschließlich privat in Supabase. Der geöffnete Tab hält nur eine Arbeitskopie im Arbeitsspeicher; ausschließlich die befristete Proberunde bildet die oben beschriebene Ausnahme.
+- Eine Kontoantwort, Einstellung oder Kontorunde wird erst nach Serverbestätigung übernommen. Speicherfehler zeigen „Nicht gespeichert“ und eine ausdrückliche Wiederholung. Bis dahin erscheint keine Antwortlösung. In der Proberunde genügt die befristete lokale Vormerkung; als online gespeichert gilt sie erst nach der Übernahme.
 - Wiederholen sendet dieselbe unveränderliche Paket-ID. Eine verlorene Bestätigung zählt dadurch keine Antwort doppelt. Unbestätigte Absichten liegen nur im offenen Tab; nach Schließen oder Neuladen wird ausschließlich der tatsächlich bestätigte Serverstand geladen.
 - Ein veralteter Stand darf einen neueren anderen Gerätestand nicht überschreiben. Die bestehende Serverrevision weist ihn ab; die Oberfläche bietet erneutes Laden.
-- Vorhandene Online-Konten verwenden das bestehende Serverprotokoll einschließlich dessen Aktivierung. Keine neue Datenbankmigration, kein lokaler Fallback und keine Übernahme aus Geräteablagen.
+- Vorhandene Online-Konten verwenden das bestehende Serverprotokoll einschließlich dessen Aktivierung. Dieser Block benötigt keine neue Datenbankmigration, keinen lokalen Fallback und keine Übernahme alter Geräteablagen.
 - JSON-Export und ausdrücklich bestätigte Wiederherstellung bleiben manuelle Kontoaktionen. Große Ersetzungen verwenden den vorhandenen atomaren Serveraustausch. Sie sind keine automatische Browserablage.
 
 `OnlineGameStore` ersetzt im aktiven Ablauf IndexedDB, dauerhafte Outbox, lokale Synchronisierungsbelege und Rückfallkopien. Auth-Sitzung, statische Veröffentlichungsdaten, Passwort-Reset-Marker und Meldungsentwürfe bleiben von Spielständen getrennt; sie speichern keinen Lernfortschritt. Die bestehenden alten Geräte-Datenbanken werden weder gelesen noch verändert oder ungefragt gelöscht. Frühere Speichermodule sind kein Bestandteil des aktiven Spielwegs. Unveränderliche Frageinhalte werden im RAM schreibgeschützt geteilt; veränderliche Fortschrittsdaten und Rundenlisten bleiben getrennte Kopien.

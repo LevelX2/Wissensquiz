@@ -7,6 +7,8 @@ import type { SyncStatus } from "./syncTypes";
 import { authError } from "./accounts";
 import type { State } from "./model";
 import { OnlineConfirmation } from "./OnlineConfirmation";
+import { AccountBenefits } from "./AccountBenefits";
+import { authorizeTrial } from "./trial";
 
 export function AccountPanel({
   client,
@@ -18,6 +20,8 @@ export function AccountPanel({
   confirmedAt,
   serviceUnavailable = false,
   onRetryConfig,
+  initialMode = "login",
+  trialAvailable = false,
 }: {
   client: SupabaseClient | null;
   user: User | null;
@@ -28,9 +32,11 @@ export function AccountPanel({
   confirmedAt?: number;
   serviceUnavailable?: boolean;
   onRetryConfig?: () => void;
+  initialMode?: "login" | "register";
+  trialAvailable?: boolean;
 }) {
   const [mode, setMode] = useState<"login" | "register" | "forgot" | "resend">(
-    "login",
+    initialMode,
   );
   const [email, setEmail] = useState(""),
     [password, setPassword] = useState(""),
@@ -88,14 +94,29 @@ export function AccountPanel({
           }
         </h1>
         <p>
-          Mit Deinem Quiz-Konto wird Dein Fortschritt automatisch online
-          gespeichert. Melde Dich auf einem anderen Gerät an und spiele dort
-          weiter. Zum Spielen ist eine Anmeldung erforderlich.
+          Mit Deinem kostenlosen Quiz-Konto wird Dein Fortschritt automatisch
+          online gespeichert. Nach der Proberunde brauchst Du ein bestätigtes
+          Konto, um weiterzuspielen.
         </p>
+        <AccountBenefits />
+        {trialAvailable && (
+          <p>
+            Deine erste Runde wird nach der Anmeldung und bestätigten
+            E-Mail-Adresse automatisch in dieses Konto übernommen.
+          </p>
+        )}
+        {mode === "register" && (
+          <p>
+            Bestätige Deine E-Mail-Adresse, damit Du Dein Konto aktivieren und
+            bei Bedarf Dein Passwort zurücksetzen kannst.
+          </p>
+        )}
         <form
           onSubmit={(e) => {
             e.preventDefault();
             void run(async () => {
+              if (trialAvailable && (mode === "login" || mode === "register"))
+                await authorizeTrial(email);
               if (mode === "login") {
                 const { error } = await client.auth.signInWithPassword({
                   email: email.trim(),
@@ -124,7 +145,10 @@ export function AccountPanel({
                   );
                 }
                 setMessage(
-                  "Wenn die Registrierung möglich ist, erhältst Du eine Bestätigungsmail. Prüfe auch Deinen Spamordner.",
+                  "Wenn die Registrierung möglich ist, erhältst Du eine Bestätigungsmail. Prüfe auch Deinen Spamordner." +
+                    (trialAvailable
+                      ? " Deine Proberunde bleibt bis 24 Stunden nach ihrem Start in diesem Browser zur Übernahme bereit. Öffne die Bestätigung hier oder melde Dich danach hier an."
+                      : ""),
                 );
               }
               if (mode === "forgot") {
@@ -196,8 +220,12 @@ export function AccountPanel({
           <button className="primary" disabled={busy}>
             {
               {
-                login: "Anmelden",
-                register: "Registrieren",
+                login: trialAvailable
+                  ? "Anmelden & Runde übernehmen"
+                  : "Anmelden",
+                register: trialAvailable
+                  ? "Konto erstellen & Runde übernehmen"
+                  : "Registrieren",
                 forgot: "Reset-Link anfordern",
                 resend: "Bestätigung anfordern",
               }[mode]

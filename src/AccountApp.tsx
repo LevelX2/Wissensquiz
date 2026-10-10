@@ -13,6 +13,7 @@ import { requestWithin } from "./request";
 
 import { AccountPanel } from "./AccountPanel";
 import { LinkPanel } from "./AccountLinkPanel";
+import { TrialEntry } from "./TrialEntry";
 
 type Link = ReturnType<typeof parseAccountLink>;
 const recoveryMarker = {
@@ -89,7 +90,9 @@ export function AccountApp() {
   const [message, setMessage] = useState(linkError);
   const identity = useRef<string | null>(null);
   const [configAttempt, setConfigAttempt] = useState(0);
+  const [showAccount, setShowAccount] = useState(false);
   const retryConfig = () => {
+    setShowAccount(true);
     setup = undefined;
     setPending(true);
     setConfigAttempt((attempt) => attempt + 1);
@@ -213,6 +216,7 @@ export function AccountApp() {
         client={connection.client}
         publicClient={connection.publicClient}
         owner={user.id}
+        email={user.email ?? ""}
         storageKey={key}
         panel={(state, syncStatus, syncMessage, confirmedAt) => (
           <AccountPanel
@@ -230,15 +234,21 @@ export function AccountApp() {
       />
     );
   return (
-    <main>
-      <AccountPanel
-        client={connection.client}
-        user={null}
-        state={emptyState()}
-        initialMessage={connection.error || message}
-        serviceUnavailable={!!connection.error}
-        onRetryConfig={retryConfig}
-      />
-    </main>
+    <TrialEntry
+      initialAccount={showAccount || !!message || !!connection.error}
+      account={(initialMode, trialAvailable) => (
+        <AccountPanel
+          key={initialMode}
+          client={connection.client}
+          user={null}
+          state={emptyState()}
+          initialMessage={connection.error || message}
+          serviceUnavailable={!!connection.error}
+          onRetryConfig={retryConfig}
+          initialMode={initialMode}
+          trialAvailable={trialAvailable}
+        />
+      )}
+    />
   );
 }

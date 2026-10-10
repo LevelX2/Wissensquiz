@@ -1,9 +1,16 @@
-import { test, expect, accountBackend } from "./fixtures";
+import { test, expect, accountBackend, fixCalendarTime } from "./fixtures";
 test.use({ autoLogin: false });
-test("vor der Anmeldung sind Spiele gesperrt; danach wird ausschließlich online gespielt", async ({
+test.beforeEach(async ({ page }) => {
+  await fixCalendarTime(page, new Date("2026-10-10T10:00:00Z"));
+});
+test("der Einstieg bietet eine Proberunde; Kontospiele bleiben ausschließlich online", async ({
   page,
 }) => {
   await page.goto("/");
+  await expect(
+    page.getByRole("button", { name: "Eine Runde ausprobieren" }),
+  ).toBeVisible();
+  await page.getByRole("button", { name: "Anmelden", exact: true }).click();
   await expect(
     page.getByRole("heading", { name: "Anmelden", exact: true }),
   ).toBeVisible();
@@ -24,12 +31,12 @@ test("vor der Anmeldung sind Spiele gesperrt; danach wird ausschließlich online
   await page.getByText("Konto & Speicherung", { exact: true }).click();
   await page.getByRole("button", { name: "Abmelden", exact: true }).click();
   await expect(
-    page.getByRole("heading", { name: "Anmelden", exact: true }),
+    page.getByRole("button", { name: "Eine Runde ausprobieren" }),
   ).toBeVisible();
   await expect(page.getByRole("button", { name: "Losspielen" })).toHaveCount(0);
   await page.reload();
   await expect(
-    page.getByRole("heading", { name: "Anmelden", exact: true }),
+    page.getByRole("button", { name: "Eine Runde ausprobieren" }),
   ).toBeVisible();
   expect(await page.evaluate(() => indexedDB.databases())).toEqual([]);
 });
@@ -49,6 +56,7 @@ test("nicht bestätigte Anmeldung gibt kein Spiel frei", async ({ page }) => {
     });
   });
   await page.goto("/");
+  await page.getByRole("button", { name: "Anmelden", exact: true }).click();
   await page.getByLabel("E-Mail-Adresse").fill("quiz@example.test");
   await page
     .getByLabel("Passwort", { exact: true })
@@ -60,7 +68,7 @@ test("nicht bestätigte Anmeldung gibt kein Spiel frei", async ({ page }) => {
   await expect(page.getByRole("button", { name: "Losspielen" })).toHaveCount(0);
   expect(accountBackend(page).api.calls).toHaveLength(0);
 });
-test("Kontodienstfehler bietet erneutes Laden und keinen Gastmodus", async ({
+test("Kontodienstfehler bietet erneutes Laden der Anmeldung", async ({
   page,
 }) => {
   let failed = true;

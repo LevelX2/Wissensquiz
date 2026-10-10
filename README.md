@@ -1,6 +1,6 @@
 # Wissensquiz · Dein Filmkosmos
 
-Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Zum Spielen ist ein bestätigtes Quiz-Konto erforderlich. Der Fortschritt wird ausschließlich privat online gespeichert; ein Offline-Paket und automatische lokale Spielstände gibt es nicht.
+Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Lokal eine erste Zehnerrunde ohne Konto möglich; danach bestätigtes Quiz-Konto erforderlich. Kontofortschritt ausschließlich privat online, auf PC, Handy und Tablet mit demselben Konto verfügbar. Kein Offline-Paket und keine automatische lokale Kontoablage; nur die Proberunde wird für ihre Übernahme befristet bis 24 Stunden nach Start vorgemerkt. Dieser neue Einstieg ist noch nicht veröffentlicht.
 
 Stand 10.10.2026, öffentlich als **Sites-Version 61**: Anmeldungspflicht, ausschließlich online gespeicherter Spielstand und Poster zu allen **1.405 referenzierten Filmfassungen** nach der Antwort. Kompakte Rückmeldung und optionales „Neu / Wiederholung“ schon vor der Antwort ersetzen die große Entdeckungsüberschrift. Antwortfarben und Anzeigedauer auch bei gesammelter Auflösung erhalten. Unverändert **33 Quellenpakete, 12.773 Fragen und 12.207 Wissensziele**. Alle zwölf Filmgenres umfassen mindestens 100 Filme; die Übersicht fälliger Wiederholungen ist ebenfalls veröffentlicht. [Bestand aller Bereiche](docs/Genres-100-2026-10-08/Bestandsuebersicht.md), [Betrieb](docs/Sites-Betrieb.md), [Prüfnachweise](docs/Pruefbericht.md).
 
@@ -37,7 +37,7 @@ Seit Sites-Version 55: Bestätigte Quiz-Konten können aus einer Frage oder dem 
 
 ## Anmeldung und Speicherung
 
-Seit Version 59 verlangt das Quiz eine bestätigte Quiz-Anmeldung und speichert ausschließlich online. Antworten zählen erst nach Serverbestätigung; bei Speicherfehlern gibt es eine ausdrückliche Wiederholung. Revisionen verhindern das Überschreiben neuerer Gerätestände. Gastspiel, automatische Browser-Spielstände und Offline-Paket sind entfernt. Vorhandene Browserdaten werden nicht ungefragt gelöscht. JSON-Export und bestätigte Wiederherstellung bleiben manuelle Kontoaktionen. [Aktueller Vertrag und Veröffentlichungsgrenze](docs/Anmeldung-und-Online-Spielstand.md).
+Seit Version 59 verlangt das veröffentlichte Quiz eine bestätigte Quiz-Anmeldung. Lokal neu: eine Zehnerrunde ohne Konto, Ergebnis und Rückblick vor der Registrierung, danach Anmeldungspflicht und einmalige Kontoübernahme der Runde nach E-Mail-Bestätigung. Der befristete Entwurf enthält nur diese Runde, keine regulären Kontospielstände. Kontoantworten zählen erst nach Serverbestätigung; Revisionen verhindern das Überschreiben neuerer Gerätestände. Offline-Paket und dauerhafter Gastmodus bleiben entfernt. Vorhandene alte Browserdaten werden nicht ungefragt gelöscht oder übernommen. JSON-Export und bestätigte Wiederherstellung bleiben manuelle Kontoaktionen. [Aktueller Vertrag und Veröffentlichungsgrenze](docs/Anmeldung-und-Online-Spielstand.md).
 
 ## Projektaufbau
 

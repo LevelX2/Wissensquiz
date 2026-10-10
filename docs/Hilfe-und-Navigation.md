@@ -1,5 +1,9 @@
 # Navigation und Hilfe
 
+## Einstieg mit Proberunde – 10.10.2026
+
+Lokal neu, noch nicht veröffentlicht: „Eine Runde ausprobieren“ öffnet eine einzelne Zehnerrunde mit Genre-Wahl ohne Zeitdruck. Ergebnis zuerst, danach Kontoeinladung und frei zugänglicher Rückblick. Eine weitere Runde führt zur Registrierung; bestätigte Konten können sofort normal spielen. Kontovorteile nennen ausdrücklich Weiterspielen auf PC, Handy und Tablet, erhaltenen Lernfortschritt und Rekorde, gezielte Wiederholungen/Filmreise sowie Bestenlisten/Duelle. Registrierung erklärt E-Mail-Bestätigung und Passwort-Reset. Die Proberunde bleibt bis maximal 24 Stunden nach ihrem Start in diesem Browser für ihre einmalige Übernahme vorgemerkt. [Vollständiger Vertrag und Grenzen](Anmeldung-und-Online-Spielstand.md#einmalige-proberunde).
+
 ## Erklärung zum gewählten Spielmodus – 10.10.2026
 
 Auf [Nutzerhinweis](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerhinweis%20Moduserklaerung.txt) erklärt die Klappe unter Losspielen ausschließlich den ausgewählten Modus. Ihre Überschrift lautet „So funktioniert …“ mit dem konkreten Modusnamen. Drei kurze Absätze beschreiben Spielidee, passende Auswahl und Ablauf. Filmreise, Freies Spiel, Fehlertraining, 10 Fragen, Fehlerfrei, Zeitkonto und Duell haben jeweils eigene Inhalte. Allgemeine Ausführungen zum gemeinsamen Fortschritt entfallen hier; die ausführliche Hilfe bleibt erreichbar.

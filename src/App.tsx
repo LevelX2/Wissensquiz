@@ -83,10 +83,14 @@ export function App({
   store,
   accountPanel,
   sync,
+  initialNotice = "",
+  onInitialized,
 }: {
   store: OnlineGameStore;
   accountPanel?: (state: State) => ReactNode;
   sync?: SyncDisplay;
+  initialNotice?: string;
+  onInitialized?: () => void;
 }) {
   const read = () => store.read();
   const update = (
@@ -105,6 +109,7 @@ export function App({
     | null
   >(null);
   const [error, setError] = useState("");
+  const [notice, setNotice] = useState(initialNotice);
   const [busy, setBusy] = useState(false);
   const [pendingSetup, setPendingSetup] = useState<RoundSetup | null>(null);
   const [roundId, setRoundId] = useState("");
@@ -201,11 +206,13 @@ export function App({
         archiveClosedRounds(s);
       }, initial);
       setState(loaded);
-    })().catch((e) =>
-      setError(
-        `Dein Online-Spielstand konnte nicht geöffnet werden: ${e instanceof Error ? e.message : String(e)}`,
-      ),
-    );
+    })()
+      .catch((e) =>
+        setError(
+          `Dein Online-Spielstand konnte nicht geöffnet werden: ${e instanceof Error ? e.message : String(e)}`,
+        ),
+      )
+      .finally(() => onInitialized?.());
   }, []);
   useEffect(() => {
     heading.current?.focus();
@@ -545,6 +552,18 @@ export function App({
                 <CareerProgress experience={state.experience} compact />
               </div>
             )}
+          {notice && page === "home" && (
+            <p role="status" className="notice">
+              {notice}{" "}
+              <button
+                className="text-button"
+                aria-label="Hinweis schließen"
+                onClick={() => setNotice("")}
+              >
+                ×
+              </button>
+            </p>
+          )}
           {error && (
             <div role="alert" className="notice error">
               {error}

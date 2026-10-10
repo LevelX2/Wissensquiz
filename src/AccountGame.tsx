@@ -11,6 +11,7 @@ import type { State } from "./model";
 import { ActivityContext } from "./GuestActivity";
 import { requestWithin } from "./request";
 import { ReportContext } from "./issueReports";
+import { transferTrial } from "./trial";
 
 export const syncText: Record<SyncStatus, string> = {
   loading: "Dein Online-Spielstand wird geladen …",
@@ -26,12 +27,14 @@ export function AccountGame({
   client,
   publicClient,
   owner,
+  email,
   storageKey,
   panel,
 }: {
   client: SupabaseClient;
   publicClient: SupabaseClient | null;
   owner: string;
+  email: string;
   storageKey: string;
   panel: (
     state: State,
@@ -46,6 +49,10 @@ export function AccountGame({
   const [store, setStore] = useState<OnlineGameStore | null>(null);
   const [error, setError] = useState("");
   const [attempt, setAttempt] = useState(0);
+  const [trialImported, setTrialImported] = useState(false);
+  const [onInitialized, setOnInitialized] = useState<() => void>(
+    () => () => {},
+  );
   useEffect(() => {
     let alive = true;
     const lifecycle = new AbortController();
@@ -65,10 +72,34 @@ export function AccountGame({
     setStore(null);
     setError("");
     setStatus("loading");
-    current
-      .open()
-      .then(() => {
-        if (alive) setStore(current);
+    let finishInitialization = () => {};
+    const initialized = new Promise<void>((resolve) => {
+      finishInitialization = resolve;
+    });
+    setOnInitialized(() => finishInitialization);
+    // Confirmation in another tab also signs in the original tab. Serialize
+    // activation, trial takeover and initial catalog setup before its first read.
+    navigator.locks
+      .request("wissensquiz-account-open:" + storageKey, async () => {
+        if (!alive) return;
+        await current.open();
+        if (!alive) return;
+        try {
+          const imported = await transferTrial(email, (mutate) =>
+            current.update(mutate),
+          );
+          if (alive && imported) setTrialImported(true);
+        } catch {
+          if (alive)
+            setError(
+              "Deine Proberunde konnte noch nicht online übernommen werden. Versuche es erneut. Dein vorhandener Online-Spielstand bleibt erhalten.",
+            );
+          return;
+        }
+        if (alive) {
+          setStore(current);
+          await initialized;
+        }
       })
       .catch(() => {
         if (alive)
@@ -78,10 +109,11 @@ export function AccountGame({
       });
     return () => {
       alive = false;
+      finishInitialization();
       lifecycle.abort();
       current.stop();
     };
-  }, [client, owner, attempt]);
+  }, [client, owner, email, storageKey, attempt]);
   if (!store || error || status === "conflict")
     return (
       <main className="account-page">
@@ -107,6 +139,12 @@ export function AccountGame({
           <App
             key={attempt}
             store={store}
+            initialNotice={
+              trialImported
+                ? "Deine erste Runde wurde übernommen. Dein Ergebnis und Dein Lernfortschritt sind jetzt online gespeichert."
+                : ""
+            }
+            onInitialized={onInitialized}
             sync={{
               status,
               confirmedAt,

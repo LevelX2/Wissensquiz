@@ -4,6 +4,64 @@
   padding: 1rem;
   overflow-wrap: anywhere;
 }
+.trial-page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+.trial-page > .brand {
+  margin-bottom: 1.5rem;
+}
+.trial-page .account-page {
+  margin: 1rem auto;
+}
+.trial-welcome h1 {
+  font-family: Georgia, serif;
+  font-weight: 400;
+}
+.trial-welcome label {
+  display: grid;
+  gap: 0.5rem;
+  margin: 0 0 0.5rem;
+}
+.trial-genre {
+  margin: 1.5rem 0;
+}
+.trial-welcome select {
+  width: 100%;
+  padding: 0.8rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: white;
+}
+.trial-invitation {
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #eef1ed;
+}
+.account-benefits {
+  padding-left: 1.3rem;
+  line-height: 1.65;
+}
+.account-benefits li {
+  margin: 0.6rem 0;
+}
+@media (max-width: 600px) {
+  .trial-page {
+    padding: 1rem;
+  }
+  .trial-page .account-page {
+    padding: 0;
+  }
+  .trial-invitation {
+    padding: 1rem;
+  }
+  .trial-invitation .account-actions > button {
+    width: 100%;
+  }
+}
 .sync-status {
   margin: 0;
   padding: 0.65rem 1rem;

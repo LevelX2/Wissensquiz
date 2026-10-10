@@ -277,6 +277,7 @@ export function startRound(
     recordPreset?: "standard" | "genre";
   },
   now = Date.now(),
+  introductorySize?: 10,
 ): Round {
   if (state.rounds.some((r) => r.status === "active"))
     throw new Error(
@@ -326,9 +327,8 @@ export function startRound(
         ? 1
         : options.recordPreset
           ? 10
-          : state.rounds.some((r) => r.status === "completed")
-            ? 10
-            : 5,
+          : (introductorySize ??
+            (state.rounds.some((r) => r.status === "completed") ? 10 : 5)),
       now,
     },
   );

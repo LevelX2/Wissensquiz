@@ -119,7 +119,7 @@ export async function server() {
       }
     });
     await page.goto("/");
-
+    await page.getByRole("button", { name: "Anmelden", exact: true }).click();
     await page.getByLabel("E-Mail-Adresse").fill(user(id).email);
     await page
       .getByLabel("Passwort", { exact: true })

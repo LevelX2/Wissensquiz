@@ -6,7 +6,12 @@ import {
   testBaseUrl,
   readStoredState,
   type Page,
+  fixCalendarTime,
 } from "./fixtures";
+
+test.beforeEach(async ({ page }) => {
+  await fixCalendarTime(page, new Date("2026-10-10T10:00:00Z"));
+});
 
 import { accountStorageKey } from "../../src/accounts";
 
@@ -308,6 +313,10 @@ async function mockAccounts(page: Page, server: Server = new Map()) {
 async function account(page: Page) {
   if (await page.getByRole("button", { name: "Profil", exact: true }).count())
     await page.getByRole("button", { name: "Profil", exact: true }).click();
+  else if (
+    await page.getByRole("button", { name: "Eine Runde ausprobieren" }).count()
+  )
+    await page.getByRole("button", { name: "Anmelden", exact: true }).click();
 }
 
 async function login(

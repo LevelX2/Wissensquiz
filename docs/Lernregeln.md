@@ -1,5 +1,9 @@
 # Lern-, Runden- und Speichervertrag
 
+## Erste Proberunde ohne Konto – 10.10.2026
+
+Lokal neu, noch nicht veröffentlicht: Eine Zehnerrunde Freies Spiel aus leicht/mittel mit Filmgenre-Wahl oder allen Genres, ohne Zeitdruck. Ergebnis und Rückblick vor der Kontoeinladung; danach keine weitere Runde ohne bestätigtes Konto. Nach bewusster Registrierung/Anmeldung mit Übernahme zählt die beendete Runde mit ihren ursprünglichen Antwortzeiten, Lernereignissen und XP genau einmal. Keine gewertete Rekordrunde. Befristete Vormerkung nur dieser Runde bis 24 Stunden nach Start; Kontospielstände weiterhin ausschließlich online. [Ablauf, E-Mail-Bestätigung, Gerätewechsel und Grenzen](Anmeldung-und-Online-Spielstand.md#einmalige-proberunde).
+
 ## Zusatz zur falschen Antwort – 10.10.2026
 
 Zusatztexte zur gewählten falschen Antwort nur mit eigenständigem Erkenntniswert: Funktion eines Gegenstands, Figurenzuordnung oder nachvollziehbare Verwechslung. Bekannte reine Verneinungsformeln und wortgleiche Lösungswiederholungen entfallen in direkter Auflösung und Rückblick. Folgt auf eine solche Formel ein konkreter Hinweis, bleibt dieser erhalten. Beim gemeldeten „Tron: Legacy“-Beispiel entfällt der Zusatz zu Helm, Brille und Uhr vollständig. Keine Änderung der Fragepakete oder Lernidentitäten.
