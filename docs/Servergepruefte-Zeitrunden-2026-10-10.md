@@ -1,10 +1,10 @@
 # Servergeprüfte Zeitrunden
 
-Stand: 10.10.2026. Lokal implementiert und mit synthetischen Konten geprüft; noch nicht in Supabase angewendet oder veröffentlicht. [Nutzerauftrag und Annahme der vorgeschlagenen Sicherungen](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20servergepruefte%20Zeitrunden.txt), [vorheriger Sicherheitsbefund](Zeitrunden-Manipulationsschutz-2026-10-10.md).
+Stand: 10.10.2026. Seit Sites-Version 64 produktiv: drei Backendmigrationen, vollständiger privater Katalog und passende Oberfläche veröffentlicht. Native Rollen-/RLS-/Advisorprüfung und synthetische Produktionstransaktion mit vollständigem Rollback erfolgreich. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-10-Version-64.json). [Nutzerauftrag und Annahme der vorgeschlagenen Sicherungen](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20servergepruefte%20Zeitrunden.txt), [vorheriger Sicherheitsbefund](Zeitrunden-Manipulationsschutz-2026-10-10.md).
 
 ## Verbindlicher Ablauf
 
-**Ergänzung lokal umgesetzt, noch nicht produktiv:** Duellfragen werden mit der ersten Serverstartzeit freigegeben, allgemeine Spielerwerte ausschließlich aus Serverabschlüssen gebildet und Duellranglisten auf eine Begegnung je Paar/UTC-Tag begrenzt. [Aktueller Ergänzungsvertrag](#umsetzung-der-ersten-drei-zusatzmaßnahmen).
+**Ergänzung seit Version 64 produktiv:** Duellfragen werden mit der ersten Serverstartzeit freigegeben, allgemeine Spielerwerte ausschließlich aus Serverabschlüssen gebildet und Duellranglisten auf eine Begegnung je Paar/UTC-Tag begrenzt. [Aktueller Ergänzungsvertrag](#umsetzung-der-ersten-drei-zusatzmaßnahmen).
 
 Alle neuen Solo-Zeitspiele **10 Fragen, Fehlerfrei und Zeitkonto** werden vom Server gesteuert. Lernrunden, Proberunde und der eigene Duellvertrag bleiben getrennt. Neue Regelkennung: `solo-server-v1.<rekord|fehlerfrei|zeitkonto>.<standard|genre>`. Bestehende Punkte-, Zeitkonto- und Auswahlregeln bleiben bestehen: 30 Sekunden pro Frage, Zeitkonto 120 / +15 / −45, Universal oder genau ein Filmgenre, Zehnermischung 3 leicht / 4 mittel / 3 schwer. Varianten bekommen keine zusätzlichen Lose; ein Wissensziel erscheint einmal pro Pooldurchgang. Reihenfolge und Antwortoptionen werden auf dem Server gemischt.
 
@@ -48,7 +48,7 @@ HTTPS und bestehende Kontotrennung bleiben erhalten. **Der bereits öffentliche 
 
 ## Nachprüfung: zusätzlicher Bestenlisten-Betrugsschutz
 
-10.10.2026, auf [erneute Nutzerfrage](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerfrage%20weiterer%20Bestenlisten-Betrugsschutz.txt). **Ursprüngliche Befunde und Vorschläge vor der anschließend beauftragten Umsetzung; aktuellen Stand führt der folgende Ergänzungsvertrag.** Quellcodeprüfung der lokalen Migrationen; keine neuen produktiven Datenbankabfragen oder Manipulationsversuche mit echten Konten. Der oben beschriebene Solo-Umbau ist weiterhin lokal vorbereitet, nicht produktiv eingeführt.
+10.10.2026, auf [erneute Nutzerfrage](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerfrage%20weiterer%20Bestenlisten-Betrugsschutz.txt). **Ursprüngliche Befunde und Vorschläge vor der anschließend beauftragten Umsetzung; aktuellen Stand führt der folgende Ergänzungsvertrag.** Quellcodeprüfung der lokalen Migrationen; keine neuen produktiven Datenbankabfragen oder Manipulationsversuche mit echten Konten. Zum Zeitpunkt dieses ursprünglichen Befunds war der Solo-Umbau lokal vorbereitet; seit Version 64 ist er produktiv eingeführt.
 
 ### Bestätigte verbleibende Wege
 

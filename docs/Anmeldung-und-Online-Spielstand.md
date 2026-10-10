@@ -4,7 +4,7 @@
 
 Aktueller Nutzerauftrag: Eine erste Zehnerrunde ohne Konto ausprobieren; danach ist ein bestätigtes Quiz-Konto erforderlich. Die Proberunde zählt nach der Kontoübernahme mit. Kontovorteile ausdrücklich einschließlich Weiterspielen auf PC, Handy und Tablet aufführen. [Neue Originalanweisungen](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Proberunde%20und%20Konto.txt).
 
-Der frühere Auftrag zur Anmeldung vor jedem Spiel ist seit Sites-Version 59 veröffentlicht. Die hier beschriebene einzelne Proberunde ist lokal umgesetzt und noch nicht veröffentlicht. Sie ersetzt die Anmeldung vor der ersten Runde, eröffnet aber keinen dauerhaften Gastmodus. [Früherer Auftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Anmeldung%20und%20Online-Spielstand.txt), [Veröffentlichungsnachweis Version 59](Veroeffentlichung-2026-10-10-Version-59.json). Öffentlicher Sites-Zugang ohne vorgeschaltete ChatGPT-Anmeldung bleibt erhalten.
+Der frühere Auftrag zur Anmeldung vor jedem Spiel ist seit Sites-Version 59 veröffentlicht. Die hier beschriebene einzelne Proberunde ist seit [Sites-Version 64](Veroeffentlichung-2026-10-10-Version-64.json) veröffentlicht. Sie ersetzt die Anmeldung vor der ersten Runde, eröffnet aber keinen dauerhaften Gastmodus. [Früherer Auftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Anmeldung%20und%20Online-Spielstand.txt), [Veröffentlichungsnachweis Version 59](Veroeffentlichung-2026-10-10-Version-59.json). Öffentlicher Sites-Zugang ohne vorgeschaltete ChatGPT-Anmeldung bleibt erhalten.
 
 ## Servergeprüfte Zeitrunden und weitere Geräte
 

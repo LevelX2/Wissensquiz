@@ -1,0 +1,174 @@
+{
+  "asOf": "2026-10-10",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 64,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_a05c254f167c8191970a240966c9e89f",
+  "source_commit": "1ba3126d8229f029967ed0a3aa3edad25247ab3c",
+  "deployment_id": "appgdep_6aca39ae3e6c8191bb8cc273dad526a4",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-10T13:12:34.988548+00:00",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000d7908210860afe392b671d6d",
+    "content_hash": "sha256:eb3cd13a957bf5a6ba19ac1a9b087aeee7d38fa82860c2ad639fbfa225be2747",
+    "size_bytes": 84152320,
+    "file_count": 488
+  },
+  "access": {
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "changes": [
+    "Einheitliche Startklappen, Spoilerhinweis entfernt und plastische Menüicons",
+    "Sofortige neutrale Auswahlmarkierung mit Ladeanimation und beschleunigte Speicherung",
+    "Einmalige Zehnerrunde ohne Konto und bestätigte Kontoübernahme",
+    "Verdichtete Rundentransporte sowie servergeprüfte Solo-Zeitläufe",
+    "Wettbewerbs-XP aus bestätigten Abschlüssen und eine Duellwertung je Paar/UTC-Tag"
+  ],
+  "catalog": {
+    "hash": "e40f41921c37fa4cc4513d1e6e72f24df4c5fc484d0b8a54154f2bdb26090e99",
+    "questions": 12773,
+    "publicSyncUnchanged": true,
+    "rankedParts": 954,
+    "rankedComplete": true,
+    "rankedActivated": true
+  },
+  "checks": {
+    "tests": 468,
+    "testFiles": 75,
+    "uniqueBrowserCases": 30,
+    "chromiumCases": 24,
+    "mobileWebKitCases": 6,
+    "initialBrowserExpectationCorrected": true,
+    "typeScript": true,
+    "productionBuild": true,
+    "buildVersion": 64,
+    "cleanSourceBuildByteIdentical": true,
+    "packagedBuildByteIdentical": true,
+    "operatorSecretsAbsent": true,
+    "realGameStateChanged": false,
+    "githubPush": false,
+    "releaseMetadataPersistedAndSeparatelyRead": true,
+    "anonymousReleaseRpc": true,
+    "nativeBrowserHandoff": "queued"
+  },
+  "backend": {
+    "migrations": [
+      "compact_round_run_transport",
+      "authoritative_ranked_runs",
+      "leaderboard_integrity"
+    ],
+    "rolesAndRlsVerified": true,
+    "syntheticProductionTransactionRolledBack": true,
+    "syntheticUsersRemaining": 0,
+    "checks": [
+      "idempotent start and answer",
+      "second device rejected",
+      "client timing fields rejected",
+      "server elapsed time",
+      "ten correct answers and 43 competition XP",
+      "public record visibility",
+      "duel question hidden until server start",
+      "two complete duels but one pair/day award",
+      "same goal/day XP not counted twice",
+      "expired answer rejected"
+    ],
+    "backup": {
+      "encryptedOutsideRepository": true,
+      "verified": true,
+      "tables": 61,
+      "applicationFunctions": 81,
+      "snapshot": "single MVCC statement",
+      "temporaryDatabaseBackupRemoved": true
+    },
+    "advisors": {
+      "security": {
+        "rlsNoPolicy": 25,
+        "anonymousDefiner": 8,
+        "authenticatedDefiner": 22,
+        "leakedPasswordProtectionDisabled": 1,
+        "interpretation": "Ten new private RLS tables have intentionally no client policies. One new authenticated wrapper is intentional. Existing anonymous endpoints and disabled password protection retained."
+      },
+      "performance": {
+        "unindexedForeignKeysBefore": 6,
+        "unindexedForeignKeysAfter": 8,
+        "newUnindexed": [
+          "quiz_competition_internal.duel_awards.second_player",
+          "quiz_ranked_internal.config.release_hash"
+        ],
+        "unusedIndexesBefore": 13,
+        "unusedIndexesAfter": 18,
+        "interpretation": "Informational findings; config has one row and award FK concerns account deletion. New indexes have no production use history yet."
+      }
+    }
+  },
+  "limits": [
+    "No full new browser suite or physical-device acceptance",
+    "Editorial proposals in docs remain outside the unchanged application catalog",
+    "Open older app windows must reload; public time rankings now start with server runs",
+    "Während der Veröffentlichungsnachweise neu begonnene filmweise Redaktionsarbeit wurde unverändert außerhalb des Releaseabschlusses belassen."
+  ],
+  "localArchive": {
+    "buildFiles": 487,
+    "archiveFiles": 488,
+    "bytes": 64063712,
+    "sha256": "c187056d165f96b4473f403509d48fcf939f8940babbd67c5b0e305ce2d30e3a",
+    "packagedBuildByteIdentical": true
+  },
+  "live": {
+    "anonymousHTML": 200,
+    "checks": [
+      {
+        "path": "/assets/index-dQqaMDgY.js",
+        "status": 200,
+        "bytes": 5777265,
+        "sha256": "596c4437ec0b5418e2a3552a32d6aa3af9444ee6f6431f4ec269fc1d1bc00a56"
+      },
+      {
+        "path": "/assets/index-X7flbzvg.css",
+        "status": 200,
+        "bytes": 62564,
+        "sha256": "4c69ee1c4f6266b154492a7361f969d4717aa8b55a8d667dc8d26186454829c6"
+      },
+      {
+        "path": "/film-posters.json",
+        "status": 200,
+        "bytes": 555690,
+        "sha256": "5baa10a47e3af9363c169dbc9227aa24eec545cc605594b0820881343833bdd5"
+      },
+      {
+        "path": "/account-config.json",
+        "status": 200,
+        "bytes": 158,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      },
+      {
+        "path": "/sw.js",
+        "status": 200,
+        "bytes": 706,
+        "sha256": "0c3f9919e46aacbadf04f0a2ccf87bcd2296697179a907f787e74857a46f47ec"
+      },
+      {
+        "path": "/navigation/play.png",
+        "status": 200,
+        "bytes": 24881,
+        "sha256": "dff855f215c12154015184bf9ed14bbd2e607c37147dbb03d6d49cacb8608b82"
+      },
+      {
+        "path": "/navigation/profile.png",
+        "status": 200,
+        "bytes": 24474,
+        "sha256": "c9d2065a1b0a02cae9589de1030861ac1846541b8243ef991b524c6b49c542de"
+      }
+    ],
+    "anonymousReleaseRpc": [
+      {
+        "version": 64,
+        "published_at": "2026-10-10T13:12:34.988548+00:00"
+      }
+    ],
+    "directMetadataStatus": 401,
+    "realGameStateChanged": false
+  }
+}

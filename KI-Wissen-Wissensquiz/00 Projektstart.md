@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**10.10.2026 – Version 64 veröffentlicht:** Gesamter vorliegender Main-Stand mit Startklappen/Menüicons, neutraler Ladeanimation, Proberunde/Kontoübernahme, schnellerem Rundentransport, Serverzeitläufen, Wettbewerbs-XP und Duell-Tagesgrenze. Drei Backendmigrationen und vollständiger privater Katalog produktiv. 468 Tests, 30 Browserfälle, verschlüsselte Sicherung, native Rollen-/Rollbackprüfung, Archiv- und Livegleichheit erfolgreich. Öffentliche Adresse erhalten; alte Appfenster neu laden. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-64.json), [Betrieb](../docs/Sites-Betrieb.md).
+
 **10.10.2026 – Version 63 veröffentlicht:** Genre als Themenbild über der Frage; sechs passende plastische Symbole für Antwortklappen einschließlich Regie und Bildnachweis. 436 Tests, 24 unterschiedliche Browserfälle, zusätzlicher sauberer Quellbuild, Archivgleichheit und zwölf Live-Dateien geprüft. Katalog und Spielstände unverändert. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-63.json), [Bilder und Prompts](../docs/Antwortsymbole-2026-10-10.md).
 
 **10.10.2026 – Version 62 veröffentlicht:** Filmreise mit Entdecken und Festigen, Wiederholen ausschließlich fälliger Filmfragen, Freies Spiel zufällig. Nächste Etappe in der Filmreise, goldene Klappen und Gesamtlernstand im Profil. 436 Tests, 34 unterschiedliche Browserfälle, Build und Livegleichheit geprüft. Darstellernamen-Ergänzungen im Online-/Duellkatalog veröffentlicht. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-62.json).

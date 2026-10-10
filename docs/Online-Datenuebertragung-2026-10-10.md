@@ -1,6 +1,6 @@
 # Online-Spielstände: Datenmenge und Ablauf – 10.10.2026
 
-**Folgeumsetzung am selben Tag:** Die großen Endloslisten werden lokal inzwischen nur beim Start beziehungsweise bei einer neuen Reihenfolge übertragen. [Umsetzung und neue Messung](Online-Listenoptimierung-2026-10-10.md). Die folgenden Werte dokumentieren die vorausgehende Prüfung. [Zusätzliche Sicherheitsprüfung für Zeitranglisten](Zeitrunden-Manipulationsschutz-2026-10-10.md).
+**Folgeumsetzung am selben Tag:** Die großen Endloslisten werden seit Version 64 nur beim Start beziehungsweise bei einer neuen Reihenfolge übertragen. [Umsetzung und neue Messung](Online-Listenoptimierung-2026-10-10.md). Die folgenden Werte dokumentieren die vorausgehende Prüfung. [Zusätzliche Sicherheitsprüfung für Zeitranglisten](Zeitrunden-Manipulationsschutz-2026-10-10.md).
 
 ## Ergebnis der Nachprüfung
 
@@ -35,7 +35,7 @@ Die nativen Client-/SQL-Zeiten des JSON-Nachweises stammen aus dem Lauf nach Ein
 - Katalog und kleine Revisionsmetadaten werden beim Öffnen parallel angefragt. Das entfernt die vorherige sequenzielle Abhängigkeit, spart aber keine Katalogbytes.
 - `jsonEqual` vergleicht JSON-Inhalte direkt, ohne für jeden Historieneintrag zwei sortierte JSON-Texte anzulegen. Feldreihenfolge bleibt bedeutungslos, Arrayreihenfolge bleibt erhalten, optionale undefinierte Objektfelder bleiben ausgelassen. Die kanonische Serialisierung der unveränderlichen Speicherpakete und ihrer Nachweise bleibt bestehen.
 
-Keine Änderung von Lernregeln, Spielauswahl, Kontoidentität, Revisionsprüfung oder Serverbestätigung. Keine neue Altstandbehandlung, Migration, Abhängigkeit oder automatische lokale Spielstandsablage. Die produktive SQL-Funktion unterstützt eingebettete Objekte bereits seit der Speicheroptimierung vom 03.10.2026. Die Änderungen sind lokal, noch nicht veröffentlicht.
+Keine Änderung von Lernregeln, Spielauswahl, Kontoidentität, Revisionsprüfung oder Serverbestätigung. Keine neue Altstandbehandlung, Migration, Abhängigkeit oder automatische lokale Spielstandsablage. Die produktive SQL-Funktion unterstützt eingebettete Objekte bereits seit der Speicheroptimierung vom 03.10.2026. Die Änderungen sind seit [Version 64](Veroeffentlichung-2026-10-10-Version-64.json) veröffentlicht.
 
 ## Verbleibende Punkte, nach Priorität
 

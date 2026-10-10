@@ -1,10 +1,10 @@
 # Online-Spielstände: Listen nur bei Änderung übertragen
 
-Stand: 10.10.2026. Lokal umgesetzt, noch nicht in Supabase angewendet oder als Website veröffentlicht. [Originalauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Listenoptimierung%20und%20Manipulationsschutz.txt), [vorherige Messung und Gerätevertrag](Online-Datenuebertragung-2026-10-10.md).
+Stand: 10.10.2026. Seit [Version 64](Veroeffentlichung-2026-10-10-Version-64.json) auf Supabase angewendet und als Website veröffentlicht. [Originalauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Listenoptimierung%20und%20Manipulationsschutz.txt), [vorherige Messung und Gerätevertrag](Online-Datenuebertragung-2026-10-10.md).
 
 ## Verhalten
 
-**Nachfolgender Umbau am selben Tag:** Neue gewertete Solo-Zeitläufe verwenden jetzt den [servergeprüften Ablauf](Servergepruefte-Zeitrunden-2026-10-10.md). Dessen zukünftige Listen verlassen den Server überhaupt nicht mehr; normale Kontosicherungen erhalten nur geschlossene Antwortfakten. Die unten beschriebene Verdichtung bleibt Bestandteil des allgemeinen Speicherprotokolls, ist aber nicht mehr der aktive Antwortweg neuer Zeitläufe. Beide Änderungen noch nicht produktiv angewendet.
+**Nachfolgender Umbau am selben Tag:** Neue gewertete Solo-Zeitläufe verwenden jetzt den [servergeprüften Ablauf](Servergepruefte-Zeitrunden-2026-10-10.md). Dessen zukünftige Listen verlassen den Server überhaupt nicht mehr; normale Kontosicherungen erhalten nur geschlossene Antwortfakten. Die unten beschriebene Verdichtung bleibt Bestandteil des allgemeinen Speicherprotokolls, ist aber nicht mehr der aktive Antwortweg neuer Zeitläufe. Beide Änderungen seit Version 64 produktiv angewendet.
 
 `OnlineGameStore` verdichtet geänderte Endlosrunden vor der Paketserialisierung über `src/roundRunTransport.ts`:
 
@@ -33,8 +33,8 @@ Dieser Block spart die wiederholten Listen im Upload. Katalogdownload, erstmalig
 
 Die neue Migration `supabase/migrations/20261010095424_compact_round_run_transport.sql` erweitert ausschließlich die private Schreibroutine. Sie legt keine Tabellen oder öffentlichen privilegierten Endpunkte an. Direkte Ausführung durch `anon` oder `authenticated` bleibt entzogen; die bestehenden kontrollierten RPCs bleiben der Zugang. Es gibt keine Änderung des gespeicherten JSON-Formats und keine neue Altstandbehandlung.
 
-Nach gesondertem Rolloutauftrag zuerst die geprüfte SQL-Migration auf Supabase anwenden, danach die Webapp nach `docs/Sites-Betrieb.md` veröffentlichen. Die neue Webapp benötigt die erweiterte Serveroperation; sie versucht bei einem alten Server keine stillschweigende Ersatzübertragung. Migration, Veröffentlichung und Push sind in diesem lokalen Arbeitsblock nicht erfolgt.
+Der gesondert beauftragte Rollout wurde mit Version 64 durchgeführt: zuerst die geprüfte SQL-Migration auf Supabase angewendet, danach die Webapp nach `docs/Sites-Betrieb.md` veröffentlicht. Die neue Webapp benötigt die erweiterte Serveroperation; sie versucht bei einem alten Server keine stillschweigende Ersatzübertragung. Der ursprüngliche lokale Arbeitsblock enthielt noch keine Remote-Aktion. Kein GitHub-Push.
 
-Die SQL-Funktion wurde über die isolierte PGlite-Datenbank tatsächlich ausgeführt. Der zusätzliche lokale Supabase-Advisor-Aufruf konnte keine Verbindung zu einer lokalen Supabase-Instanz aufbauen; es wurde deshalb kein vollständiger Advisor-Scan der neuen Funktion bestätigt. Rollenrechte, Besitzerprüfung und atomare Fehlerfälle sind gezielt getestet. Kein nativer Netzwerk-Rennlasttest und kein Test mit echten Nutzerdaten. [Prüfnachweis](Pruefbericht.md).
+Die SQL-Funktion wurde über die isolierte PGlite-Datenbank tatsächlich ausgeführt. Der ursprüngliche lokale Supabase-Advisor-Aufruf konnte keine Verbindung zu einer lokalen Supabase-Instanz aufbauen. Beim Rollout von Version 64 wurden Security-/Performance-Advisors nativ ausgeführt und Rollenrechte separat bestätigt. Besitzerprüfung und atomare Fehlerfälle sind gezielt getestet. Kein nativer Netzwerk-Rennlasttest und kein Test mit echten Nutzerdaten. [Prüfnachweis](Pruefbericht.md).
 
 Der Datenabruf rekonstruiert vollständige Endlosstände identisch. Die Oberfläche hat daneben bereits die eigenständige Regel, laufende Zeitrunden beim Neuladen abzubrechen und zu archivieren (`src/App.tsx`). Die Listenoptimierung ändert diese Regel nicht; bestätigte Antworten und Lernfortschritt bleiben erhalten. Der ursprüngliche neue Browserprüffall erwartete irrtümlich eine Fortsetzung und wurde auf diese bestehende Regel korrigiert.

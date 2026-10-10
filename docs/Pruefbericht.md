@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 10.10.2026 – Gesamter Main-Stand als Version 64 veröffentlicht
+
+468 Tests in 75 Dateien und TypeScript/Versionsbuild erfolgreich. 24 Chromiumfälle sowie sechs zusätzliche mobile WebKitfälle bestanden; der frühere Archivtest erwartete einen gemeinsamen Rang und eine einzige Genreüberschrift, obwohl neue Serverregeln eigene Kategorien bilden. Erwartung auf Platz 1 und zwei erhaltene Kategorien korrigiert, anschließend auf beiden Browsern bestanden. 487 Dateien aus sauberem Quellbuild und Paket bytegleich, Betreibergeheimnisse ausgeschlossen. Keine vollständige neue Browser-Suite oder physische Geräteabnahme.
+
+61 Tabellen und 81 Anwendungsfunktionen außerhalb des Projekts verschlüsselt gesichert; 2.642 Datenblöcke entschlüsselt/inhaltlich verifiziert. Drei Migrationen installiert, 954 Katalogteile vollständig bestätigt und aktiviert. Native Rollen-/RLS-/Ranglistenquellenprüfung, Security-/Performance-Advisors und synthetische PostgreSQL-Produktionstransaktion erfolgreich; zehn richtige Soloantworten/43 XP, Serverzeit, Idempotenz, zweites Gerät, zwei komplette Duelle/eine Tageswertung, tägliche Ziel-XP-Grenze und Fristablauf geprüft. Transaktion komplett zurückgerollt, keine synthetischen Konten oder temporären Backuptabellen verblieben. Nicht blockierende Advisorhinweise im [Nachweis](Veroeffentlichung-2026-10-10-Version-64.json) dokumentiert.
+
+Nativ succeeded um 15:12:34 Europe/Berlin. Public/Revision 2 erhalten. HTML und sieben Live-Dateien anonym erfolgreich, Dateien bytegleich. Versionszeit dauerhaft gespeichert, separat gelesen und öffentlich per RPC bestätigt; direkter Tabellenzugriff 401. Keine echte Quizsitzung verwendet, kein GitHub-Push. Offene alte Fenster neu laden; öffentliche Zeitlisten beginnen mit Serverläufen. [Vollständiger Betrieb](Sites-Betrieb.md).
+
 ## 10.10.2026 – Neutrale Ladeanimation in der Filmreise
 
 Auf [Präzisierung des Nutzerhinweises](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerpraezisierung%20Filmreise%20und%20neutrale%20Animation.txt) die sofortige Auswahlmarkierung um einen kleinen neutralen Ladekreis ergänzt. Beginn mit der Auswahl, Ende bei Online-Speicherbestätigung oder Fehler; keine Mindestwartezeit oder zusätzliche Anfrage. Bei reduzierten Bewegungen bleibt die Anzeige statisch. Die Filmreise wartet auf die Speicherung; keine zusätzliche Wettbewerbsprüfung ihrer Antworten eingeführt. [Vertrag](Lernregeln.md#sofortige-auswahlrückmeldung--10102026).

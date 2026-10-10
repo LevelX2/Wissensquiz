@@ -1,6 +1,6 @@
 # Startklappen und Navigationssymbole – 10.10.2026
 
-Auf Nutzerwunsch sind der Spoilerhinweis entfernt, die Klapppfeile auf der Spielen-Seite vereinheitlicht und alle Startklappen sowie fünf Hauptaktionen passend illustriert. Zunächst lokal, noch nicht veröffentlicht.
+Auf Nutzerwunsch sind der Spoilerhinweis entfernt, die Klapppfeile auf der Spielen-Seite vereinheitlicht und alle Startklappen sowie fünf Hauptaktionen passend illustriert. Seit [Version 64](Veroeffentlichung-2026-10-10-Version-64.json) veröffentlicht.
 
 | Verwendung | Datei unter public |
 | --- | --- |
