@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "5c36c3e93ac42b730c2454a0f7dba5a240bc8dff",
+  "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 900,
-  "totalReviewed": 1050,
-  "remainingFilmQuestions": 9683,
+  "completedInThisRun": 950,
+  "totalReviewed": 1100,
+  "remainingFilmQuestions": 9633,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 11723,
+  "remainingAllQuestions": 11673,
   "blocks": [
     {
       "block": 1,
@@ -98,6 +98,11 @@
     {
       "block": 18,
       "path": "Block-18.json",
+      "count": 50
+    },
+    {
+      "block": 19,
+      "path": "Block-19.json",
       "count": 50
     }
   ],
@@ -1151,209 +1156,59 @@
     "G100-20261008-ABENTEUER-024-D",
     "F240-20261006-142-L1",
     "F240-20261006-142-L2",
-    "F240-20261006-142-M1"
+    "F240-20261006-142-M1",
+    "F240-20261006-142-M2",
+    "F240-20261006-142-S1",
+    "F240-20261006-142-S2",
+    "F240-20261006-142-Y",
+    "F240-20261006-142-D",
+    "F240-20261006-209-L1",
+    "F240-20261006-209-L2",
+    "F240-20261006-209-M1",
+    "F240-20261006-209-M2",
+    "F240-20261006-209-S1",
+    "F240-20261006-209-S2",
+    "F240-20261006-209-Y",
+    "F240-20261006-209-D",
+    "G100-20261008-ABENTEUER-019-L1",
+    "G100-20261008-ABENTEUER-019-L2",
+    "G100-20261008-ABENTEUER-019-M1",
+    "G100-20261008-ABENTEUER-019-M2",
+    "G100-20261008-ABENTEUER-019-S1",
+    "G100-20261008-ABENTEUER-019-S2",
+    "G100-20261008-ABENTEUER-019-Y",
+    "G100-20261008-ABENTEUER-019-D",
+    "E20261007-F-136-L1",
+    "E20261007-F-136-L2",
+    "E20261007-F-136-M1",
+    "E20261007-F-136-M2",
+    "E20261007-F-136-S1",
+    "E20261007-F-136-S2",
+    "E20261007-F-136-Y",
+    "E20261007-F-136-D",
+    "MUS-202609-P01-L-033",
+    "MUS-202609-P01-L-034",
+    "MUS-202609-P01-M-033",
+    "MUS-202609-P01-M-034",
+    "MUS-202609-P01-S-033",
+    "MUS-202609-P01-S-034",
+    "MUS-202609-P01-M-033-V1",
+    "FF-317-YEAR",
+    "FF-317-DIRECTOR",
+    "MUS-202609-P01-L-013",
+    "MUS-202609-P01-L-014",
+    "MUS-202609-P01-M-013",
+    "MUS-202609-P01-M-014",
+    "MUS-202609-P01-S-013",
+    "MUS-202609-P01-S-014",
+    "MUS-202609-P01-L-013-V1",
+    "FF-307-YEAR",
+    "FF-307-DIRECTOR",
+    "DRA-L-023",
+    "DRA-L-024",
+    "DRA-M-023"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-142-M2",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-142-S1",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-142-S2",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-142-Y",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-142-D",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-209-L1",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-L2",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-M1",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-M2",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-S1",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-S2",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-Y",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-D",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-L1",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-L2",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-M1",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-M2",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-S1",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-S2",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-Y",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-D",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "E20261007-F-136-L1",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-L2",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-M1",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-M2",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-S1",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-S2",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-Y",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-D",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "MUS-202609-P01-L-033",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-L-034",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-M-033",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-M-034",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-S-033",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-S-034",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-M-033-V1",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "FF-317-YEAR",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "FF-317-DIRECTOR",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-L-013",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-L-014",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-M-013",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-M-014",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-S-013",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-S-014",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-L-013-V1",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "FF-307-YEAR",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "FF-307-DIRECTOR",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "DRA-L-023",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "DRA-L-024",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "DRA-M-023",
-      "filmKey": "American Beauty|1999"
-    },
     {
       "id": "DRA-M-024",
       "filmKey": "American Beauty|1999"
@@ -39889,204 +39744,204 @@
   ],
   "next": [
     {
-      "id": "F240-20261006-142-M2",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-142-S1",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-142-S2",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-142-Y",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-142-D",
-      "filmKey": "All That Jazz|1979"
-    },
-    {
-      "id": "F240-20261006-209-L1",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-L2",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-M1",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-M2",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-S1",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-S2",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-Y",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "F240-20261006-209-D",
-      "filmKey": "All the President's Men|1976"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-L1",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-L2",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-M1",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-M2",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-S1",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-S2",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-Y",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-019-D",
-      "filmKey": "Allan Quatermain and the Lost City of Gold|1986"
-    },
-    {
-      "id": "E20261007-F-136-L1",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-L2",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-M1",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-M2",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-S1",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-S2",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-Y",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "E20261007-F-136-D",
-      "filmKey": "Allt flyter|2008"
-    },
-    {
-      "id": "MUS-202609-P01-L-033",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-L-034",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-M-033",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-M-034",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-S-033",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-S-034",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-M-033-V1",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "FF-317-YEAR",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "FF-317-DIRECTOR",
-      "filmKey": "Almost Famous|2000"
-    },
-    {
-      "id": "MUS-202609-P01-L-013",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-L-014",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-M-013",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-M-014",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-S-013",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-S-014",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "MUS-202609-P01-L-013-V1",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "FF-307-YEAR",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "FF-307-DIRECTOR",
-      "filmKey": "Amadeus|1984"
-    },
-    {
-      "id": "DRA-L-023",
+      "id": "DRA-M-024",
       "filmKey": "American Beauty|1999"
     },
     {
-      "id": "DRA-L-024",
+      "id": "DRA-S-023",
       "filmKey": "American Beauty|1999"
     },
     {
-      "id": "DRA-M-023",
+      "id": "DRA-S-024",
       "filmKey": "American Beauty|1999"
+    },
+    {
+      "id": "FF-087-YEAR",
+      "filmKey": "American Beauty|1999"
+    },
+    {
+      "id": "FF-087-DIRECTOR",
+      "filmKey": "American Beauty|1999"
+    },
+    {
+      "id": "DRA-L-025",
+      "filmKey": "American History X|1998"
+    },
+    {
+      "id": "DRA-L-026",
+      "filmKey": "American History X|1998"
+    },
+    {
+      "id": "DRA-M-025",
+      "filmKey": "American History X|1998"
+    },
+    {
+      "id": "DRA-M-026",
+      "filmKey": "American History X|1998"
+    },
+    {
+      "id": "DRA-S-025",
+      "filmKey": "American History X|1998"
+    },
+    {
+      "id": "DRA-S-026",
+      "filmKey": "American History X|1998"
+    },
+    {
+      "id": "FF-088-YEAR",
+      "filmKey": "American History X|1998"
+    },
+    {
+      "id": "FF-088-DIRECTOR",
+      "filmKey": "American History X|1998"
+    },
+    {
+      "id": "E20261007-F-274-L1",
+      "filmKey": "Amores perros|2000"
+    },
+    {
+      "id": "E20261007-F-274-L2",
+      "filmKey": "Amores perros|2000"
+    },
+    {
+      "id": "E20261007-F-274-M1",
+      "filmKey": "Amores perros|2000"
+    },
+    {
+      "id": "E20261007-F-274-M2",
+      "filmKey": "Amores perros|2000"
+    },
+    {
+      "id": "E20261007-F-274-S1",
+      "filmKey": "Amores perros|2000"
+    },
+    {
+      "id": "E20261007-F-274-S2",
+      "filmKey": "Amores perros|2000"
+    },
+    {
+      "id": "E20261007-F-274-Y",
+      "filmKey": "Amores perros|2000"
+    },
+    {
+      "id": "E20261007-F-274-D",
+      "filmKey": "Amores perros|2000"
+    },
+    {
+      "id": "E20261007-F-044-L1",
+      "filmKey": "Amour|2012"
+    },
+    {
+      "id": "E20261007-F-044-L2",
+      "filmKey": "Amour|2012"
+    },
+    {
+      "id": "E20261007-F-044-M1",
+      "filmKey": "Amour|2012"
+    },
+    {
+      "id": "E20261007-F-044-M2",
+      "filmKey": "Amour|2012"
+    },
+    {
+      "id": "E20261007-F-044-S1",
+      "filmKey": "Amour|2012"
+    },
+    {
+      "id": "E20261007-F-044-S2",
+      "filmKey": "Amour|2012"
+    },
+    {
+      "id": "E20261007-F-044-Y",
+      "filmKey": "Amour|2012"
+    },
+    {
+      "id": "E20261007-F-044-D",
+      "filmKey": "Amour|2012"
+    },
+    {
+      "id": "E20261007-F-171-L1",
+      "filmKey": "Amy|2015"
+    },
+    {
+      "id": "E20261007-F-171-L2",
+      "filmKey": "Amy|2015"
+    },
+    {
+      "id": "E20261007-F-171-M1",
+      "filmKey": "Amy|2015"
+    },
+    {
+      "id": "E20261007-F-171-M2",
+      "filmKey": "Amy|2015"
+    },
+    {
+      "id": "E20261007-F-171-S1",
+      "filmKey": "Amy|2015"
+    },
+    {
+      "id": "E20261007-F-171-S2",
+      "filmKey": "Amy|2015"
+    },
+    {
+      "id": "E20261007-F-171-Y",
+      "filmKey": "Amy|2015"
+    },
+    {
+      "id": "E20261007-F-171-D",
+      "filmKey": "Amy|2015"
+    },
+    {
+      "id": "F240-20261006-145-L1",
+      "filmKey": "An American in Paris|1951"
+    },
+    {
+      "id": "F240-20261006-145-L2",
+      "filmKey": "An American in Paris|1951"
+    },
+    {
+      "id": "F240-20261006-145-M1",
+      "filmKey": "An American in Paris|1951"
+    },
+    {
+      "id": "F240-20261006-145-M2",
+      "filmKey": "An American in Paris|1951"
+    },
+    {
+      "id": "F240-20261006-145-S1",
+      "filmKey": "An American in Paris|1951"
+    },
+    {
+      "id": "F240-20261006-145-S2",
+      "filmKey": "An American in Paris|1951"
+    },
+    {
+      "id": "F240-20261006-145-Y",
+      "filmKey": "An American in Paris|1951"
+    },
+    {
+      "id": "F240-20261006-145-D",
+      "filmKey": "An American in Paris|1951"
+    },
+    {
+      "id": "G100-20261008-HORROR-008-L1",
+      "filmKey": "An American Werewolf in London|1981"
+    },
+    {
+      "id": "G100-20261008-HORROR-008-L2",
+      "filmKey": "An American Werewolf in London|1981"
+    },
+    {
+      "id": "G100-20261008-HORROR-008-M1",
+      "filmKey": "An American Werewolf in London|1981"
+    },
+    {
+      "id": "G100-20261008-HORROR-008-M2",
+      "filmKey": "An American Werewolf in London|1981"
+    },
+    {
+      "id": "G100-20261008-HORROR-008-S1",
+      "filmKey": "An American Werewolf in London|1981"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
