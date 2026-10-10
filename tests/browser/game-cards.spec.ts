@@ -311,7 +311,9 @@ test("Aktueller Fragenrückblick bleibt, Sonderwertungen entfallen ohne Verlust 
     page.getByLabel("Vergleichskategorie", { exact: true }),
   ).toHaveValue(recordKey(current));
   const highlighted = page.locator(".is-current-run");
-  await expect(highlighted).toContainText("Platz 24 · 0 Punkte");
+  // New server runs have their own rule/category; the 23 older client runs
+  // remain in their earlier category and do not affect this run's placement.
+  await expect(highlighted).toContainText("Platz 1 · 0 Punkte");
   await expect(highlighted).toBeInViewport({ ratio: 0.5 });
   await expect(highlighted).toBeFocused();
   await expect(page.getByRole("button", { name: "Spiel ansehen" })).toHaveCount(
@@ -325,9 +327,13 @@ test("Aktueller Fragenrückblick bleibt, Sonderwertungen entfallen ohne Verlust 
   );
   await page.getByRole("button", { name: "Alle Kategorien anzeigen" }).click();
   await expect(page.locator(".leaderboard-entry")).toHaveCount(25);
-  await expect(
-    page.getByRole("heading", { name: "Genre · Horror", exact: true }),
-  ).toBeVisible();
+  const horrorCategories = page.getByRole("heading", {
+    name: "Genre · Horror",
+    exact: true,
+  });
+  await expect(horrorCategories).toHaveCount(2);
+  for (const heading of await horrorCategories.all())
+    await expect(heading).toBeVisible();
   await expect(
     page.getByRole("heading", { name: "Frühere eigene Auswahl", exact: true }),
   ).toHaveCount(0);

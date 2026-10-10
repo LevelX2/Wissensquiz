@@ -44,15 +44,13 @@
 - [Version 61 veröffentlicht: optionales Neu/Wiederholung vor der Antwort](../../../docs/Sites-Betrieb.md#version-61-neu-und-wiederholung-vor-der-antwort)
 - [Version 61: Quelle, Archiv, Liveprüfungen und Grenzen](../../../docs/Veroeffentlichung-2026-10-10-Version-61.json)
 
-- [Neu oder Wiederholung mit Anzahl schon vor der Antwort; eigener Optionsschalter – 10.10.2026](../../../docs/Lernregeln.md#kompakte-antwortansicht--10102026)
-
 - [Brazil: Darstellernamen schon im Fragetext ergänzt – 10.10.2026](../../../docs/Fragenkorrekturen.md#brazil-1985--10102026)
 
-- [Fällige Wiederholungen gegenüber offenen Fehlern; reine Wiederholung oder Mischung und vier Lernintervalle – 10.10.2026](../../../docs/Wiederholungen-und-Lernstufen-2026-10-10.md)
-
-- [Filmreise, Wiederholen und Freies Spiel: Modustrennung, nächste Etappe, goldene Klappen und Lernintervalle – 10.10.2026](../../../docs/Wiederholungen-und-Lernstufen-2026-10-10.md)
+- [Neu oder Wiederholung mit Anzahl schon vor der Antwort; eigener Optionsschalter – 10.10.2026](../../../docs/Lernregeln.md#kompakte-antwortansicht--10102026)
 
 - [Kompakte Erklärung ausschließlich zum gewählten Spielmodus – 10.10.2026](../../../docs/Hilfe-und-Navigation.md#erklärung-zum-gewählten-spielmodus--10102026)
+
+- [Filmreise, Wiederholen und Freies Spiel: Modustrennung, nächste Etappe, goldene Klappen und Lernintervalle – 10.10.2026](../../../docs/Wiederholungen-und-Lernstufen-2026-10-10.md)
 
 - [Version 60 veröffentlicht: alle Filmposter und kompakte Antwortansicht](../../../docs/Sites-Betrieb.md#version-60-alle-filmposter-und-kompakte-antwortansicht)
 - [Version 60: Quelle, Archiv, Liveprüfungen und Grenzen](../../../docs/Veroeffentlichung-2026-10-10-Version-60.json)
