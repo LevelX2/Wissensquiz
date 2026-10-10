@@ -150,6 +150,12 @@
   border-color: #c4cec7;
   color: #4c5b60;
 }
+.answers .answer.is-submitting:disabled {
+  background: #e6edf5;
+  border-color: #526d8c;
+  outline: 2px solid #526d8c;
+  outline-offset: -2px;
+}
 .answer-letter {
   display: grid;
   place-items: center;

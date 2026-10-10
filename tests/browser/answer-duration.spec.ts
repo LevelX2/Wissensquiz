@@ -1,4 +1,10 @@
-import { test, expect, readStoredState, type Page } from "./fixtures";
+import {
+  test,
+  expect,
+  readStoredState,
+  accountBackend,
+  type Page,
+} from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 async function options(page: Page) {
@@ -117,5 +123,134 @@ for (const duration of [500, 4000]) {
         await page.getByRole("button", { name: "Nächste Frage" }).click();
     }
     await page.clock.resume();
+  });
+}
+
+for (const fail of [false, true]) {
+  test(`Auswahl sofort sichtbar vor Online-Bestätigung${fail ? " mit Fehler und Wiederholung" : ""}`, async ({
+    page,
+    browserName,
+  }, testInfo) => {
+    await page.goto("/");
+    await page.getByRole("button", { name: /^Losspielen/ }).click();
+    const choice = fail
+      ? page.locator(".answers .answer-unknown")
+      : page.locator(".answers .answer").first();
+    await expect(choice).toBeEnabled();
+    const backend = accountBackend(page);
+    const before = await readStoredState(page);
+    let release!: () => void;
+    const gate = new Promise<void>((resolve) => {
+      release = resolve;
+    });
+    const packets: string[] = [];
+    await page.route("**/rest/v1/rpc/quiz_sync_apply", async (route) => {
+      packets.push(route.request().postData()!);
+      if (packets.length === 1) {
+        await gate;
+        if (fail) {
+          await route.fulfill({
+            status: 503,
+            json: { message: "Test: Bestätigung nicht verfügbar" },
+          });
+          return;
+        }
+      }
+      await route.fallback();
+    });
+    const cdp =
+      browserName === "chromium"
+        ? await page.context().newCDPSession(page)
+        : null;
+    if (cdp) await cdp.send("Emulation.setCPUThrottlingRate", { rate: 4 });
+    await page.evaluate(() => {
+      const metrics = { start: 0, painted: 0 };
+      (window as any).__selectionResponse = metrics;
+      document.addEventListener(
+        "click",
+        (event) => {
+          if ((event.target as Element).closest(".answers .answer"))
+            metrics.start ||= performance.now();
+        },
+        true,
+      );
+      const observer = new MutationObserver(() => {
+        if (!metrics.start || !document.querySelector(".answer.is-submitting"))
+          return;
+        observer.disconnect();
+        requestAnimationFrame(() =>
+          requestAnimationFrame(() => {
+            metrics.painted = performance.now() - metrics.start;
+          }),
+        );
+      });
+      observer.observe(document.body, {
+        attributes: true,
+        childList: true,
+        subtree: true,
+      });
+    });
+    try {
+      await choice.click();
+      await expect(page.locator(".answer.is-submitting")).toHaveCount(1);
+      await expect(choice).toContainText("Ausgewählt");
+      await expect(choice).toHaveCSS("border-color", "rgb(82, 109, 140)");
+      await expect(
+        page.getByText("Antwort wird bestätigt …", { exact: true }),
+      ).toBeVisible();
+      await expect(page.locator(".answers .answer:enabled")).toHaveCount(0);
+      await expect(
+        page.locator(".feedback, .answer.correct, .answer.wrong"),
+      ).toHaveCount(0);
+      await expect.poll(() => packets.length).toBe(1);
+      await expect
+        .poll(() =>
+          page.evaluate(() => (window as any).__selectionResponse.painted),
+        )
+        .toBeGreaterThan(0);
+      const latency = await page.evaluate(
+        () => (window as any).__selectionResponse.painted,
+      );
+      console.log(
+        JSON.stringify({
+          browser: browserName,
+          fail,
+          selectionPaintMs: latency,
+        }),
+      );
+      expect(latency).toBeLessThan(250);
+      await page.screenshot({
+        path: testInfo.outputPath("auswahl-vor-bestaetigung.png"),
+      });
+      expect((await readStoredState(page)).events).toHaveLength(
+        before.events.length,
+      );
+      // Repeated input cannot submit another choice while confirmation is held.
+      await choice.evaluate((button: HTMLButtonElement) => button.click());
+      expect(packets).toHaveLength(1);
+      release();
+      if (fail) {
+        await expect(page.getByText(/Nicht gespeichert:/)).toBeVisible();
+        await expect(page.locator(".answer.is-submitting")).toHaveCount(0);
+        await expect(page.locator(".feedback")).toHaveCount(0);
+        await page
+          .getByRole("button", { name: "Erneut versuchen", exact: true })
+          .click();
+        await expect.poll(() => packets.length).toBe(2);
+        expect(packets[1]).toBe(packets[0]);
+      }
+      await expect(page.locator(".feedback")).toBeVisible();
+      await expect(page.locator(".answer.is-submitting")).toHaveCount(0);
+      expect((await readStoredState(page)).events).toHaveLength(
+        before.events.length + 1,
+      );
+      expect(
+        backend.api.calls.filter((call) => call.name === "quiz_sync_apply")
+          .length,
+      ).toBeGreaterThan(0);
+    } finally {
+      release();
+      if (cdp) await cdp.send("Emulation.setCPUThrottlingRate", { rate: 1 });
+    }
   });
 }

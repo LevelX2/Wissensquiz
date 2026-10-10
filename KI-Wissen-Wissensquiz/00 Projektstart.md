@@ -18,6 +18,8 @@ Stand: 10.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- **10.10.2026 Antwortreaktion lokal verbessert, noch nicht veröffentlicht:** Sofortige neutrale Auswahlmarkierung während der Bestätigung; Lösung und Antwortton weiterhin erst nach Speicherung. Unveränderliche Archivfakten im RAM geteilt, veränderliche Daten getrennt kopiert. Großer Desktop-Test mit 500 Runden von etwa 523 auf 322 ms verbessert. [Vertrag und Messgrenzen](../docs/Lernregeln.md#sofortige-auswahlrückmeldung--10102026).
+
 - **10.10.2026 lokal, noch nicht veröffentlicht:** Spoilerhinweis der Spielen-Seite entfernt; Startklappen mit einheitlichen Pfeilen und passenden Illustrationen, fünf Hauptaktionen mit plastischen Icons. [Darstellung und Herkunft](../docs/Navigationssymbole-2026-10-10.md).
 
 - **10.10.2026 lokal umbenannt, noch nicht veröffentlicht:** Die Rekordauswahl über alle Bereiche heißt „Universal“. Auswahl, Modushilfe und Ranglisten verwenden den neuen Namen; gespeicherte Kennungen und Spielregeln bleiben gleich. [Bezeichnung und Vertrag](../docs/Rekordmodi-und-Zeitranglisten.md).

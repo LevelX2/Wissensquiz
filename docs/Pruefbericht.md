@@ -1,5 +1,27 @@
 # Prüfnachweis
 
+## 10.10.2026 – Antwortfeedback und große Spielstände
+
+Auf [Nutzerhinweis](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerhinweis%20Antwortfeedback%20traeger.txt) den Klickpfad geprüft und zwei Verbesserungen lokal umgesetzt: sofortige neutrale Auswahlmarkierung samt Bestätigungsstatus, sowie geteilte unveränderliche Archivfakten statt erneuter vollständiger Kopie dieser Fakten. Veränderliche Rundenköpfe, Archivlisten, Ereignisse und Lernstände bleiben isoliert; Lösungen, Ergebnis und Ton warten weiterhin auf Bestätigung. Kein neues Netzwerkpaket, keine Schemaänderung, kein produktiver Zugriff. [Fachvertrag und Grenzen](Lernregeln.md#sofortige-auswahlrückmeldung--10102026).
+
+**Befund und Messgrenzen:** Ohne Auswahlmarkierung war während des Online-Wartens kein klares Feedback zur konkret angeklickten Antwort sichtbar. Beim bestehenden Benchmark mit 500 abgeschlossenen Runden außerdem 523 ms bis zur bestätigten Darstellung, über dem unveränderten 450-ms-Testziel. Ein anschließender CPU-Profillauf reproduziert 467 ms; der Profiler ordnet rund 223 ms drei Kopieraufrufen zu. Diese kopierten auch die alten archivierten Bewertungsfakten. Die Optimierung teilt diese Fakten schreibgeschützt im RAM; die drei notwendigen getrennten Fortschrittskopien bleiben bestehen. Keine gemessene Diagnose des realen Geräts oder Live-Netzes. Die vorherigen Serverzeit-/Bestenlistenänderungen waren noch nicht veröffentlicht und können die beobachtete veröffentlichte Verzögerung nicht erklären.
+
+Abschließende Messung ohne CPU-Profilaufnahme, mit nativen Browserframes und ohne Trace in den bestehenden Reaktionsbenchmarks; Desktop-Chromium mit vierfacher CPU-Drosselung, mobiles WebKit als Browseremulation. Synthetische Konten mit echtem isoliertem SQL-Speicherprotokoll; lokale Serverstrecke statt produktiver Internetlatenz. Zahlen sind einzelne Testmessungen, keine garantierten Gerätereaktionszeiten.
+
+| Historische Runden | Bestätigte Rückmeldung Chromium | Bestätigte Rückmeldung mobiles WebKit |
+| --- | --- | --- |
+| 0 | 240 ms | 99 ms |
+| 100 | 225 ms | 105 ms |
+| 500 | 322 ms | 164 ms |
+
+Die neutrale Auswahlmarkierung wird bei bewusst zurückgehaltener Bestätigung auf Chromium nach 55/60 ms sichtbar, auf mobilem WebKit nach 37/34 ms. Jeweils reguläre Antwort und „Keine Ahnung“ mit anschließendem 503-Fehler geprüft: alle weiteren Antworten gesperrt, keine Lösung oder gespeichertes Ereignis vor Bestätigung, Fehler entfernt Auswahlmarkierung, ausdrückliches Wiederholen sendet dieselben Bytes und speichert genau einmal. Farbe und Beschriftung geprüft; Desktop- und Mobilscreenshots angesehen. Duellreaktion nach Antwortbestätigung 50/151 ms, kein IndexedDB-Schreiben.
+
+**Browser:** 16 unterschiedliche Fälle über fokussierte Läufe abschließend erfolgreich: vier Anzeigezeitfälle (500/4000 ms, richtige/falsche Antwort/Keine Ahnung) auf beiden Browsern vor der abschließenden Archivoptimierung; danach alle zwölf Auswahl-, Wiederholungs-, Historien- und Duellreaktionsfälle auf dem endgültigen Build. Die erste neue Testfassung verwendete einen durch parallele Menüarbeit veränderten Startknopfnamen und anschließend einen durch „Ausgewählt“ veränderten Antwortnamen; beide Selektoren berichtigt. Den tatsächlich fehlgeschlagenen 500-Runden-Benchmark durch die Archivoptimierung behoben, Grenzwerte unverändert.
+
+**Vollständiger Logiklauf `npm test -- --reporter=dot`: 468/468 Tests in allen 75 Dateien erfolgreich, 108,13 Sekunden, zwei Standardworker ohne erhöhtes Heaplimit.** `git diff --check` und neue lokale Wissenslinks geprüft.
+
+Gezielte Logikprüfung des Online-Speichers: 19/19 erfolgreich, einschließlich neuem Nachweis gemeinsam verwendeter tief eingefrorener Fakten bei getrennten Archiven/-listen, Rundenköpfen und Ereignissen sowie korrektem Neuladen. `npm run build` einschließlich Katalogvorbereitung erfolgreich; TypeScript/Vite nach der abschließenden Archivoptimierung erneut erfolgreich. Katalog unverändert: 12.773 Fragen, Hash `e40f41921c37fa4cc4513d1e6e72f24df4c5fc484d0b8a54154f2bdb26090e99`. Keine Abhängigkeiten geändert. Keine Veröffentlichung oder Remote-Aktion.
+
 ## 10.10.2026 – Speicherverbrauch des vollständigen Testlaufs
 
 Auf Nutzerauftrag den lokalen Node-Speicherabbruch untersucht und die Testumgebung optimiert. Ursache im isolierten Einzelworkerlauf mit `--reporter=verbose --logHeapUsage` reproduziert: `tests/packages.test.ts` führt 13 unabhängige Paketerweiterungen über den vollständigen offiziellen Katalog durch. Die installierte Testbibliothek fake-indexeddb 6.2.5 hält abgeschlossene Transaktionen in `Database.transactions`, einschließlich Rücksetzprotokollen und Handlern mit Katalogkopien. Ohne Datenbanklöschung bleiben diese zwischen den Fällen erreichbar. Der gemessene Heap nach den Erweiterungsfällen stieg von 669 MB auf 4.062 MB; anschließend brach der Worker am V8-Heaplimit ab. Node 24.19.0 meldet lokal ein Heaplimit von 4.288 MiB.

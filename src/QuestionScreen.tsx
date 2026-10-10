@@ -92,6 +92,10 @@ export function QuestionScreen({
   const [remaining, setRemaining] = useState(limit);
   const [ready, setReady] = useState(false);
   const [revealing, setRevealing] = useState(false);
+  const [pendingChoice, setPendingChoice] = useState<
+    AnswerChoice | undefined
+  >();
+  const submitting = pendingChoice !== undefined;
   const revealDuration = useRef(DEFAULT_ANSWER_REVEAL_MS);
   const showReveal =
     !!event &&
@@ -109,6 +113,7 @@ export function QuestionScreen({
   const choose = async (choice: AnswerChoice) => {
     if (locked.current || event || !ready || round.status !== "active") return;
     locked.current = true;
+    setPendingChoice(choice);
     if (choice !== null) unlockSound(state.settings);
     if (canRevealAnswers && choice !== null) {
       revealDuration.current =
@@ -122,6 +127,7 @@ export function QuestionScreen({
           answer(s, round.id, q.id, choice, ms, Date.now(), index);
           if (collected && guessed) guess(s, eventIdFor(round, index));
         });
+    setPendingChoice(undefined);
     if (!result) {
       locked.current = false;
       setRevealing(false);
@@ -188,7 +194,7 @@ export function QuestionScreen({
   useEffect(() => {
     if (event || !timed || !ready) return;
     const tick = () => {
-      if (!start.current) return;
+      if (!start.current || locked.current) return;
       const left = Math.max(0, limit - elapsed(start.current));
       setRemaining(left);
       if (left === 0) chooseRef.current(null);
@@ -211,7 +217,7 @@ export function QuestionScreen({
     }
   }, [!!event]);
   const answerOptions = (
-    <div className="answers">
+    <div className="answers" aria-busy={submitting && !event}>
       {round.order[index].map((id, i) => {
         const a = q.answers.find((a) => a.id === id)!;
         const correct = !!event && canRevealAnswers && id === q.correctId;
@@ -224,12 +230,21 @@ export function QuestionScreen({
           <button
             key={id}
             data-feedback="own"
-            className={`answer ${correct ? "correct" : ""} ${wrong ? "wrong" : ""}`}
-            disabled={!!event || busy || !ready || round.status !== "active"}
+            className={`answer ${correct ? "correct" : ""} ${wrong ? "wrong" : ""} ${!event && pendingChoice === id ? "is-submitting" : ""}`}
+            disabled={
+              !!event ||
+              submitting ||
+              busy ||
+              !ready ||
+              round.status !== "active"
+            }
             onClick={() => void choose(id)}
           >
             <span className="answer-letter">{String.fromCharCode(65 + i)}</span>
             <span>{a.text}</span>
+            {!event && pendingChoice === id && (
+              <span className="answer-verdict">Ausgewählt</span>
+            )}
             {correct && <b className="answer-verdict">✓ Richtig</b>}
             {wrong && <b className="answer-verdict">× Deine Antwort</b>}
           </button>
@@ -237,16 +252,19 @@ export function QuestionScreen({
       })}
       {!event && (
         <button
-          className="answer answer-unknown"
+          className={`answer answer-unknown ${pendingChoice && typeof pendingChoice === "object" ? "is-submitting" : ""}`}
           data-feedback="own"
           aria-describedby={`dont-know-${q.id}`}
-          disabled={busy || !ready || round.status !== "active"}
+          disabled={submitting || busy || !ready || round.status !== "active"}
           onClick={() => void choose({ dontKnow: true })}
         >
           <span className="answer-letter" aria-hidden="true">
             ?
           </span>
           <span>Keine Ahnung</span>
+          {pendingChoice && typeof pendingChoice === "object" && (
+            <span className="answer-verdict">Ausgewählt</span>
+          )}
         </button>
       )}
       {!event && (
@@ -484,6 +502,11 @@ export function QuestionScreen({
               </details>
             )
           : answerOptions}
+        {submitting && !event && (
+          <p role="status" className="quiet-note">
+            Antwort wird bestätigt …
+          </p>
+        )}
         {!event && isRecordMode(round.mode) && (
           <p className="quiet-note">Deine erste Antwort zählt.</p>
         )}

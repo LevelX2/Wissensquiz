@@ -121,7 +121,24 @@ for (const history of [0, 100, 500])
       await cdp.send("Profiler.start");
     }
     await page.evaluate(() => {
-      const metrics = { start: 0, latency: 0, get: 0, put: 0, write: 0 };
+      const metrics = {
+        start: 0,
+        latency: 0,
+        sending: 0,
+        confirmed: 0,
+        get: 0,
+        put: 0,
+        write: 0,
+      };
+      const fetch = window.fetch;
+      window.fetch = async (...args) => {
+        const tracked =
+          metrics.start > 0 && String(args[0]).endsWith("/quiz_sync_apply");
+        if (tracked) metrics.sending = performance.now();
+        const response = await fetch(...args);
+        if (tracked) metrics.confirmed = performance.now();
+        return response;
+      };
       (window as any).__responseMetrics = metrics;
       const get = IDBObjectStore.prototype.get,
         put = IDBObjectStore.prototype.put;

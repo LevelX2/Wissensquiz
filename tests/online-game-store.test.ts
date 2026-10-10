@@ -4,7 +4,7 @@ import { syncFixture } from "./helpers/sync-fixture";
 import { OnlineGameStore } from "../src/onlineGameStore";
 import { importCsv } from "../src/importer";
 import { emptyState } from "../src/model";
-import { startRound, answer } from "../src/engine";
+import { startRound, answer, complete } from "../src/engine";
 import { prepareRelease, type PreparedRelease } from "../src/syncCodec";
 import type {
   OnlineSyncPacket,
@@ -662,4 +662,55 @@ it("überträgt mehrere Antworten als Listenverbrauch und archiviert den beendet
   expect(fresh.read()).toEqual(archived);
   store.stop();
   fresh.stop();
+});
+
+it("teilt unveränderliche Archivfakten, isoliert aber Ereignisse, Runden und Archivlisten", async () => {
+  const { store, make } = await setup();
+  await store.update(
+    (s) => {
+      const round = startRound(
+        s,
+        { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+        1700000000000,
+      );
+      for (const [i, q] of round.questions.entries())
+        answer(s, round.id, q.id, q.correctId, 100, 1700000000100 + i);
+      complete(s, round.id, 1700000001000);
+      archiveClosedRounds(s);
+    },
+    { reuseCatalog: true },
+  );
+  const first = store.read(),
+    second = store.read();
+  const fact = first.rounds[0].archive!.questions[0];
+  expect(second.rounds[0].archive!.questions[0]).toBe(fact);
+  expect(Object.isFrozen(fact)).toBe(true);
+  expect(Object.isFrozen(fact.answerIds)).toBe(true);
+  expect(() => {
+    fact.metadata.subdomain = "Manipuliert";
+  }).toThrow(TypeError);
+  expect(first.rounds[0].archive).not.toBe(second.rounds[0].archive);
+  expect(first.rounds[0].archive!.questions).not.toBe(
+    second.rounds[0].archive!.questions,
+  );
+  first.rounds[0].archive!.questions.splice(0, 1);
+  first.rounds[0].topic = "Andere Runde";
+  first.events[0].correct = false;
+  expect(store.read()).toEqual(second);
+  const saved = await store.update(
+    (s) => {
+      s.settings.haptics = true;
+      // The list remains mutable; swapping equal facts must not touch old readers.
+      s.rounds[0].archive!.questions[0] = {
+        ...s.rounds[0].archive!.questions[0],
+      };
+    },
+    { reuseCatalog: true, progressOnly: true },
+  );
+  expect(second.settings.haptics).not.toBe(true);
+  const reopened = make();
+  await reopened.open();
+  expect(reopened.read()).toEqual(saved);
+  reopened.stop();
+  store.stop();
 });

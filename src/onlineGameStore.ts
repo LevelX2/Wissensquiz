@@ -1,6 +1,6 @@
 import { emptyState, type State } from "./model";
 import { validateBackup } from "./backupValidation";
-import { freezeCatalog } from "./immutableCatalog";
+import { freezeCatalog, freezeRoundFacts } from "./immutableCatalog";
 import { CloudConflict } from "./accounts";
 import type { SyncStatus } from "./syncTypes";
 import type { WriteOptions } from "./syncTypes";
@@ -111,17 +111,30 @@ export class OnlineGameStore {
     const { questions, rounds, ...progress } = state;
     const copied = structuredClone({
       ...progress,
-      rounds: rounds.map(({ questions: _, ...round }) => round),
+      rounds: rounds.map(({ questions: _, archive: __, ...round }) => round),
     });
     return {
       ...copied,
       questions: freezeCatalog(questions),
       // Historical question contents are immutable. Copy each round's mutable
       // header and question list, without copying all explanation texts again.
-      rounds: copied.rounds.map((round, index) => ({
-        ...round,
-        questions: [...freezeCatalog(rounds[index].questions)],
-      })),
+      rounds: copied.rounds.map((round, index) => {
+        const archive = rounds[index].archive;
+        return {
+          ...round,
+          questions: [...freezeCatalog(rounds[index].questions)],
+          // Closed-round facts are immutable content too. Keep the collection
+          // separate, without cloning every nested fact on each answer.
+          ...(archive
+            ? {
+                archive: {
+                  ...archive,
+                  questions: [...freezeRoundFacts(archive.questions)],
+                },
+              }
+            : {}),
+        };
+      }),
     };
   }
   async open() {
