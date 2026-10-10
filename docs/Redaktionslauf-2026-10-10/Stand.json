@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "288daabe402aa18ecf76a2299768d4b81460c79d",
+  "sourceCommit": "80a6fbca89a0fd2475b8e25314889a81ef7875c6",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 700,
-  "totalReviewed": 850,
-  "remainingFilmQuestions": 9883,
+  "completedInThisRun": 750,
+  "totalReviewed": 900,
+  "remainingFilmQuestions": 9833,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 11923,
+  "remainingAllQuestions": 11873,
   "blocks": [
     {
       "block": 1,
@@ -78,6 +78,11 @@
     {
       "block": 14,
       "path": "Block-14.json",
+      "count": 50
+    },
+    {
+      "block": 15,
+      "path": "Block-15.json",
       "count": 50
     }
   ],
@@ -931,209 +936,59 @@
     "E20261007-F-125-Y",
     "E20261007-F-125-D",
     "THR-202610-P01-L-019",
-    "THR-202610-P01-L-020"
+    "THR-202610-P01-L-020",
+    "THR-202610-P01-M-028",
+    "THR-202610-P01-M-029",
+    "THR-202610-P01-S-028",
+    "THR-202610-P01-S-029",
+    "THR-202610-P01-M-030",
+    "THR-202610-P01-S-030",
+    "G100-20261008-MUSIK-002-L1",
+    "G100-20261008-MUSIK-002-L2",
+    "G100-20261008-MUSIK-002-M1",
+    "G100-20261008-MUSIK-002-M2",
+    "G100-20261008-MUSIK-002-S1",
+    "G100-20261008-MUSIK-002-S2",
+    "G100-20261008-MUSIK-002-Y",
+    "G100-20261008-MUSIK-002-D",
+    "G100-20261008-MUSIK-012-L1",
+    "G100-20261008-MUSIK-012-L2",
+    "G100-20261008-MUSIK-012-M1",
+    "G100-20261008-MUSIK-012-M2",
+    "G100-20261008-MUSIK-012-S1",
+    "G100-20261008-MUSIK-012-S2",
+    "G100-20261008-MUSIK-012-Y",
+    "G100-20261008-MUSIK-012-D",
+    "MUS-202610-P01-L-013",
+    "MUS-202610-P01-L-014",
+    "MUS-202610-P01-M-019",
+    "MUS-202610-P01-M-020",
+    "MUS-202610-P01-S-019",
+    "MUS-202610-P01-S-020",
+    "MUS-202610-P01-M-021",
+    "MUS-202610-P01-S-021",
+    "F240-20261006-059-L1",
+    "F240-20261006-059-L2",
+    "F240-20261006-059-M1",
+    "F240-20261006-059-M2",
+    "F240-20261006-059-S1",
+    "F240-20261006-059-S2",
+    "F240-20261006-059-Y",
+    "F240-20261006-059-D",
+    "SF-202609-P02-L-049",
+    "SF-202609-P02-L-050",
+    "SF-202609-P02-M-049",
+    "SF-202609-P02-M-050",
+    "SF-202609-P02-S-049",
+    "SF-202609-P02-S-050",
+    "SF-202609-P02-M-049-V1",
+    "FF-350-YEAR",
+    "FF-350-DIRECTOR",
+    "ROM-202610-P01-L-019",
+    "ROM-202610-P01-L-020",
+    "ROM-202610-P01-M-028"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "THR-202610-P01-M-028",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "THR-202610-P01-M-029",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "THR-202610-P01-S-028",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "THR-202610-P01-S-029",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "THR-202610-P01-M-030",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "THR-202610-P01-S-030",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-L1",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-L2",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-M1",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-M2",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-S1",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-S2",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-Y",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-D",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-L1",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-L2",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-M1",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-M2",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-S1",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-S2",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-Y",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-D",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "MUS-202610-P01-L-013",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-L-014",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-M-019",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-M-020",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-S-019",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-S-020",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-M-021",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-S-021",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "F240-20261006-059-L1",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-L2",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-M1",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-M2",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-S1",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-S2",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-Y",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-D",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "SF-202609-P02-L-049",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-L-050",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-M-049",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-M-050",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-S-049",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-S-050",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-M-049-V1",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "FF-350-YEAR",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "FF-350-DIRECTOR",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "ROM-202610-P01-L-019",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "ROM-202610-P01-L-020",
-      "filmKey": "About Time|2013"
-    },
-    {
-      "id": "ROM-202610-P01-M-028",
-      "filmKey": "About Time|2013"
-    },
     {
       "id": "ROM-202610-P01-M-029",
       "filmKey": "About Time|2013"
@@ -40469,204 +40324,204 @@
   ],
   "next": [
     {
-      "id": "THR-202610-P01-M-028",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "THR-202610-P01-M-029",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "THR-202610-P01-S-028",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "THR-202610-P01-S-029",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "THR-202610-P01-M-030",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "THR-202610-P01-S-030",
-      "filmKey": "A Simple Plan|1998"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-L1",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-L2",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-M1",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-M2",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-S1",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-S2",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-Y",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-002-D",
-      "filmKey": "A Star Is Born|1954"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-L1",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-L2",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-M1",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-M2",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-S1",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-S2",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-Y",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "G100-20261008-MUSIK-012-D",
-      "filmKey": "A Star Is Born|1976"
-    },
-    {
-      "id": "MUS-202610-P01-L-013",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-L-014",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-M-019",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-M-020",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-S-019",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-S-020",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-M-021",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "MUS-202610-P01-S-021",
-      "filmKey": "A Star Is Born|2018"
-    },
-    {
-      "id": "F240-20261006-059-L1",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-L2",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-M1",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-M2",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-S1",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-S2",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-Y",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "F240-20261006-059-D",
-      "filmKey": "A Woman Under the Influence|1974"
-    },
-    {
-      "id": "SF-202609-P02-L-049",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-L-050",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-M-049",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-M-050",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-S-049",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-S-050",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "SF-202609-P02-M-049-V1",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "FF-350-YEAR",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "FF-350-DIRECTOR",
-      "filmKey": "A.I. Artificial Intelligence|2001"
-    },
-    {
-      "id": "ROM-202610-P01-L-019",
+      "id": "ROM-202610-P01-M-029",
       "filmKey": "About Time|2013"
     },
     {
-      "id": "ROM-202610-P01-L-020",
+      "id": "ROM-202610-P01-S-028",
       "filmKey": "About Time|2013"
     },
     {
-      "id": "ROM-202610-P01-M-028",
+      "id": "ROM-202610-P01-S-029",
       "filmKey": "About Time|2013"
+    },
+    {
+      "id": "ROM-202610-P01-M-030",
+      "filmKey": "About Time|2013"
+    },
+    {
+      "id": "ROM-202610-P01-S-030",
+      "filmKey": "About Time|2013"
+    },
+    {
+      "id": "E20261007-F-201-L1",
+      "filmKey": "Abre los ojos|1997"
+    },
+    {
+      "id": "E20261007-F-201-L2",
+      "filmKey": "Abre los ojos|1997"
+    },
+    {
+      "id": "E20261007-F-201-M1",
+      "filmKey": "Abre los ojos|1997"
+    },
+    {
+      "id": "E20261007-F-201-M2",
+      "filmKey": "Abre los ojos|1997"
+    },
+    {
+      "id": "E20261007-F-201-S1",
+      "filmKey": "Abre los ojos|1997"
+    },
+    {
+      "id": "E20261007-F-201-S2",
+      "filmKey": "Abre los ojos|1997"
+    },
+    {
+      "id": "E20261007-F-201-Y",
+      "filmKey": "Abre los ojos|1997"
+    },
+    {
+      "id": "E20261007-F-201-D",
+      "filmKey": "Abre los ojos|1997"
+    },
+    {
+      "id": "KOM-202609-P02-L-007",
+      "filmKey": "Ace Ventura: Pet Detective|1994"
+    },
+    {
+      "id": "KOM-202609-P02-L-008",
+      "filmKey": "Ace Ventura: Pet Detective|1994"
+    },
+    {
+      "id": "KOM-202609-P02-M-007",
+      "filmKey": "Ace Ventura: Pet Detective|1994"
+    },
+    {
+      "id": "KOM-202609-P02-M-008",
+      "filmKey": "Ace Ventura: Pet Detective|1994"
+    },
+    {
+      "id": "KOM-202609-P02-S-007",
+      "filmKey": "Ace Ventura: Pet Detective|1994"
+    },
+    {
+      "id": "KOM-202609-P02-S-008",
+      "filmKey": "Ace Ventura: Pet Detective|1994"
+    },
+    {
+      "id": "KOM-202609-P02-L-007-V1",
+      "filmKey": "Ace Ventura: Pet Detective|1994"
+    },
+    {
+      "id": "KOM-202609-P02-S-008-V1",
+      "filmKey": "Ace Ventura: Pet Detective|1994"
+    },
+    {
+      "id": "FF-379-YEAR",
+      "filmKey": "Ace Ventura: Pet Detective|1994"
+    },
+    {
+      "id": "FF-379-DIRECTOR",
+      "filmKey": "Ace Ventura: Pet Detective|1994"
+    },
+    {
+      "id": "MUS-202609-P01-L-049",
+      "filmKey": "Across the Universe|2007"
+    },
+    {
+      "id": "MUS-202609-P01-L-050",
+      "filmKey": "Across the Universe|2007"
+    },
+    {
+      "id": "MUS-202609-P01-M-049",
+      "filmKey": "Across the Universe|2007"
+    },
+    {
+      "id": "MUS-202609-P01-M-050",
+      "filmKey": "Across the Universe|2007"
+    },
+    {
+      "id": "MUS-202609-P01-S-049",
+      "filmKey": "Across the Universe|2007"
+    },
+    {
+      "id": "MUS-202609-P01-S-050",
+      "filmKey": "Across the Universe|2007"
+    },
+    {
+      "id": "MUS-202609-P01-S-049-V1",
+      "filmKey": "Across the Universe|2007"
+    },
+    {
+      "id": "FF-325-YEAR",
+      "filmKey": "Across the Universe|2007"
+    },
+    {
+      "id": "FF-325-DIRECTOR",
+      "filmKey": "Across the Universe|2007"
+    },
+    {
+      "id": "SF-202609-P02-L-041",
+      "filmKey": "Ad Astra|2019"
+    },
+    {
+      "id": "SF-202609-P02-L-042",
+      "filmKey": "Ad Astra|2019"
+    },
+    {
+      "id": "SF-202609-P02-M-041",
+      "filmKey": "Ad Astra|2019"
+    },
+    {
+      "id": "SF-202609-P02-M-042",
+      "filmKey": "Ad Astra|2019"
+    },
+    {
+      "id": "SF-202609-P02-S-041",
+      "filmKey": "Ad Astra|2019"
+    },
+    {
+      "id": "SF-202609-P02-S-042",
+      "filmKey": "Ad Astra|2019"
+    },
+    {
+      "id": "SF-202609-P02-M-041-V1",
+      "filmKey": "Ad Astra|2019"
+    },
+    {
+      "id": "FF-346-YEAR",
+      "filmKey": "Ad Astra|2019"
+    },
+    {
+      "id": "FF-346-DIRECTOR",
+      "filmKey": "Ad Astra|2019"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-002-L1",
+      "filmKey": "Adam's Rib|1949"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-002-L2",
+      "filmKey": "Adam's Rib|1949"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-002-M1",
+      "filmKey": "Adam's Rib|1949"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-002-M2",
+      "filmKey": "Adam's Rib|1949"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-002-S1",
+      "filmKey": "Adam's Rib|1949"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-002-S2",
+      "filmKey": "Adam's Rib|1949"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-002-Y",
+      "filmKey": "Adam's Rib|1949"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-002-D",
+      "filmKey": "Adam's Rib|1949"
+    },
+    {
+      "id": "F240-20261006-200-L1",
+      "filmKey": "After Yang|2021"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
