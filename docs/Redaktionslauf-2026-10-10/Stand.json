@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 2250,
-  "totalReviewed": 2400,
-  "remainingFilmQuestions": 8333,
+  "completedInThisRun": 2300,
+  "totalReviewed": 2450,
+  "remainingFilmQuestions": 8283,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 10373,
+  "remainingAllQuestions": 10323,
   "blocks": [
     {
       "block": 1,
@@ -233,6 +233,11 @@
     {
       "block": 45,
       "path": "Block-45.json",
+      "count": 50
+    },
+    {
+      "block": 46,
+      "path": "Block-46.json",
       "count": 50
     }
   ],
@@ -2636,209 +2641,59 @@
     "SF-L-036",
     "SF-M-036",
     "SF-S-036",
-    "FF-161-YEAR"
+    "FF-161-YEAR",
+    "FF-161-DIRECTOR",
+    "SF-202609-P02-L-059",
+    "SF-202609-P02-L-060",
+    "SF-202609-P02-M-059",
+    "SF-202609-P02-M-060",
+    "SF-202609-P02-S-059",
+    "SF-202609-P02-S-060",
+    "SF-202609-P02-M-059-V1",
+    "FF-355-YEAR",
+    "FF-355-DIRECTOR",
+    "DRA-L-041",
+    "DRA-L-042",
+    "DRA-M-041",
+    "DRA-M-042",
+    "DRA-S-041",
+    "DRA-S-042",
+    "FF-096-YEAR",
+    "FF-096-DIRECTOR",
+    "E20261007-F-108-L1",
+    "E20261007-F-108-L2",
+    "E20261007-F-108-M1",
+    "E20261007-F-108-M2",
+    "E20261007-F-108-S1",
+    "E20261007-F-108-S2",
+    "E20261007-F-108-Y",
+    "E20261007-F-108-D",
+    "DRA-L-039",
+    "DRA-L-040",
+    "DRA-M-039",
+    "DRA-M-040",
+    "DRA-S-039",
+    "DRA-S-040",
+    "DRA-L-040-V1",
+    "DRA-M-040-V1",
+    "DRA-S-040-V1",
+    "FF-095-YEAR",
+    "FF-095-DIRECTOR",
+    "F240-20261006-098-L1",
+    "F240-20261006-098-L2",
+    "F240-20261006-098-M1",
+    "F240-20261006-098-M2",
+    "F240-20261006-098-S1",
+    "F240-20261006-098-S2",
+    "F240-20261006-098-Y",
+    "F240-20261006-098-D",
+    "ART-L-025",
+    "ART-L-026",
+    "ART-M-025",
+    "ART-M-026",
+    "ART-S-025"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "FF-161-DIRECTOR",
-      "filmKey": "Dark City|1998"
-    },
-    {
-      "id": "SF-202609-P02-L-059",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-L-060",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-M-059",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-M-060",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-S-059",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-S-060",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-M-059-V1",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "FF-355-YEAR",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "FF-355-DIRECTOR",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "DRA-L-041",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "DRA-L-042",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "DRA-M-041",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "DRA-M-042",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "DRA-S-041",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "DRA-S-042",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "FF-096-YEAR",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "FF-096-DIRECTOR",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "E20261007-F-108-L1",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-L2",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-M1",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-M2",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-S1",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-S2",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-Y",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-D",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "DRA-L-039",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-L-040",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-M-039",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-M-040",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-S-039",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-S-040",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-L-040-V1",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-M-040-V1",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-S-040-V1",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "FF-095-YEAR",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "FF-095-DIRECTOR",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "F240-20261006-098-L1",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-L2",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-M1",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-M2",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-S1",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-S2",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-Y",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-D",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "ART-L-025",
-      "filmKey": "Dead Man|1995"
-    },
-    {
-      "id": "ART-L-026",
-      "filmKey": "Dead Man|1995"
-    },
-    {
-      "id": "ART-M-025",
-      "filmKey": "Dead Man|1995"
-    },
-    {
-      "id": "ART-M-026",
-      "filmKey": "Dead Man|1995"
-    },
-    {
-      "id": "ART-S-025",
-      "filmKey": "Dead Man|1995"
-    },
     {
       "id": "ART-S-026",
       "filmKey": "Dead Man|1995"
@@ -35974,204 +35829,204 @@
   ],
   "next": [
     {
-      "id": "FF-161-DIRECTOR",
-      "filmKey": "Dark City|1998"
-    },
-    {
-      "id": "SF-202609-P02-L-059",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-L-060",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-M-059",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-M-060",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-S-059",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-S-060",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "SF-202609-P02-M-059-V1",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "FF-355-YEAR",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "FF-355-DIRECTOR",
-      "filmKey": "Dark Star|1974"
-    },
-    {
-      "id": "DRA-L-041",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "DRA-L-042",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "DRA-M-041",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "DRA-M-042",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "DRA-S-041",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "DRA-S-042",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "FF-096-YEAR",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "FF-096-DIRECTOR",
-      "filmKey": "Das Boot|1981"
-    },
-    {
-      "id": "E20261007-F-108-L1",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-L2",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-M1",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-M2",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-S1",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-S2",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-Y",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "E20261007-F-108-D",
-      "filmKey": "Das finstere Tal|2014"
-    },
-    {
-      "id": "DRA-L-039",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-L-040",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-M-039",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-M-040",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-S-039",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-S-040",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-L-040-V1",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-M-040-V1",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "DRA-S-040-V1",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "FF-095-YEAR",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "FF-095-DIRECTOR",
-      "filmKey": "Das Leben der Anderen|2006"
-    },
-    {
-      "id": "F240-20261006-098-L1",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-L2",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-M1",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-M2",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-S1",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-S2",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-Y",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "F240-20261006-098-D",
-      "filmKey": "Dawn of the Dead|1978"
-    },
-    {
-      "id": "ART-L-025",
+      "id": "ART-S-026",
       "filmKey": "Dead Man|1995"
     },
     {
-      "id": "ART-L-026",
+      "id": "ART-L-025-V1",
       "filmKey": "Dead Man|1995"
     },
     {
-      "id": "ART-M-025",
+      "id": "ART-M-025-V1",
       "filmKey": "Dead Man|1995"
     },
     {
-      "id": "ART-M-026",
+      "id": "ART-S-025-V1",
       "filmKey": "Dead Man|1995"
     },
     {
-      "id": "ART-S-025",
+      "id": "FF-038-YEAR",
       "filmKey": "Dead Man|1995"
+    },
+    {
+      "id": "FF-038-DIRECTOR",
+      "filmKey": "Dead Man|1995"
+    },
+    {
+      "id": "DRA-L-013",
+      "filmKey": "Dead Poets Society|1989"
+    },
+    {
+      "id": "DRA-L-014",
+      "filmKey": "Dead Poets Society|1989"
+    },
+    {
+      "id": "DRA-M-013",
+      "filmKey": "Dead Poets Society|1989"
+    },
+    {
+      "id": "DRA-M-014",
+      "filmKey": "Dead Poets Society|1989"
+    },
+    {
+      "id": "DRA-S-013",
+      "filmKey": "Dead Poets Society|1989"
+    },
+    {
+      "id": "DRA-S-014",
+      "filmKey": "Dead Poets Society|1989"
+    },
+    {
+      "id": "FF-082-YEAR",
+      "filmKey": "Dead Poets Society|1989"
+    },
+    {
+      "id": "FF-082-DIRECTOR",
+      "filmKey": "Dead Poets Society|1989"
+    },
+    {
+      "id": "E20261007-F-090-L1",
+      "filmKey": "Dead Ringers|1988"
+    },
+    {
+      "id": "E20261007-F-090-L2",
+      "filmKey": "Dead Ringers|1988"
+    },
+    {
+      "id": "E20261007-F-090-M1",
+      "filmKey": "Dead Ringers|1988"
+    },
+    {
+      "id": "E20261007-F-090-M2",
+      "filmKey": "Dead Ringers|1988"
+    },
+    {
+      "id": "E20261007-F-090-S1",
+      "filmKey": "Dead Ringers|1988"
+    },
+    {
+      "id": "E20261007-F-090-S2",
+      "filmKey": "Dead Ringers|1988"
+    },
+    {
+      "id": "E20261007-F-090-Y",
+      "filmKey": "Dead Ringers|1988"
+    },
+    {
+      "id": "E20261007-F-090-D",
+      "filmKey": "Dead Ringers|1988"
+    },
+    {
+      "id": "KOM-L-045",
+      "filmKey": "Death at a Funeral|2007"
+    },
+    {
+      "id": "KOM-L-046",
+      "filmKey": "Death at a Funeral|2007"
+    },
+    {
+      "id": "KOM-M-045",
+      "filmKey": "Death at a Funeral|2007"
+    },
+    {
+      "id": "KOM-M-046",
+      "filmKey": "Death at a Funeral|2007"
+    },
+    {
+      "id": "KOM-S-045",
+      "filmKey": "Death at a Funeral|2007"
+    },
+    {
+      "id": "KOM-S-046",
+      "filmKey": "Death at a Funeral|2007"
+    },
+    {
+      "id": "FF-223-YEAR",
+      "filmKey": "Death at a Funeral|2007"
+    },
+    {
+      "id": "FF-223-DIRECTOR",
+      "filmKey": "Death at a Funeral|2007"
+    },
+    {
+      "id": "G100-20261008-ACTION-021-L1",
+      "filmKey": "Death Wish|1974"
+    },
+    {
+      "id": "G100-20261008-ACTION-021-L2",
+      "filmKey": "Death Wish|1974"
+    },
+    {
+      "id": "G100-20261008-ACTION-021-M1",
+      "filmKey": "Death Wish|1974"
+    },
+    {
+      "id": "G100-20261008-ACTION-021-M2",
+      "filmKey": "Death Wish|1974"
+    },
+    {
+      "id": "G100-20261008-ACTION-021-S1",
+      "filmKey": "Death Wish|1974"
+    },
+    {
+      "id": "G100-20261008-ACTION-021-S2",
+      "filmKey": "Death Wish|1974"
+    },
+    {
+      "id": "G100-20261008-ACTION-021-Y",
+      "filmKey": "Death Wish|1974"
+    },
+    {
+      "id": "G100-20261008-ACTION-021-D",
+      "filmKey": "Death Wish|1974"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-018-L1",
+      "filmKey": "Definitely, Maybe|2008"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-018-L2",
+      "filmKey": "Definitely, Maybe|2008"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-018-M1",
+      "filmKey": "Definitely, Maybe|2008"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-018-M2",
+      "filmKey": "Definitely, Maybe|2008"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-018-S1",
+      "filmKey": "Definitely, Maybe|2008"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-018-S2",
+      "filmKey": "Definitely, Maybe|2008"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-018-Y",
+      "filmKey": "Definitely, Maybe|2008"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-018-D",
+      "filmKey": "Definitely, Maybe|2008"
+    },
+    {
+      "id": "E20261007-F-038-L1",
+      "filmKey": "Déjà Vu|2006"
+    },
+    {
+      "id": "E20261007-F-038-L2",
+      "filmKey": "Déjà Vu|2006"
+    },
+    {
+      "id": "E20261007-F-038-M1",
+      "filmKey": "Déjà Vu|2006"
+    },
+    {
+      "id": "E20261007-F-038-M2",
+      "filmKey": "Déjà Vu|2006"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
