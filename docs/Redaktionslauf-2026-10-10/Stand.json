@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 1850,
-  "totalReviewed": 2000,
-  "remainingFilmQuestions": 8733,
+  "completedInThisRun": 1900,
+  "totalReviewed": 2050,
+  "remainingFilmQuestions": 8683,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 10773,
+  "remainingAllQuestions": 10723,
   "blocks": [
     {
       "block": 1,
@@ -193,6 +193,11 @@
     {
       "block": 37,
       "path": "Block-37.json",
+      "count": 50
+    },
+    {
+      "block": 38,
+      "path": "Block-38.json",
       "count": 50
     }
   ],
@@ -2196,209 +2201,59 @@
     "FF-185-DIRECTOR",
     "CLA-L-001",
     "CLA-L-002",
-    "CLA-M-001"
+    "CLA-M-001",
+    "CLA-M-002",
+    "CLA-S-001",
+    "CLA-S-002",
+    "CLA-L-002-V1",
+    "CLA-M-002-V1",
+    "CLA-S-002-V1",
+    "FF-051-YEAR",
+    "FF-051-DIRECTOR",
+    "ACT-L-037",
+    "ACT-L-038",
+    "ACT-M-037",
+    "ACT-M-038",
+    "ACT-S-037",
+    "ACT-S-038",
+    "FF-019-YEAR",
+    "FF-019-DIRECTOR",
+    "G100-20261008-ABENTEUER-025-L1",
+    "G100-20261008-ABENTEUER-025-L2",
+    "G100-20261008-ABENTEUER-025-M1",
+    "G100-20261008-ABENTEUER-025-M2",
+    "G100-20261008-ABENTEUER-025-S1",
+    "G100-20261008-ABENTEUER-025-S2",
+    "G100-20261008-ABENTEUER-025-Y",
+    "G100-20261008-ABENTEUER-025-D",
+    "G100-20261008-WESTERN-002-L1",
+    "G100-20261008-WESTERN-002-L2",
+    "G100-20261008-WESTERN-002-M1",
+    "G100-20261008-WESTERN-002-M2",
+    "G100-20261008-WESTERN-002-S1",
+    "G100-20261008-WESTERN-002-S2",
+    "G100-20261008-WESTERN-002-Y",
+    "G100-20261008-WESTERN-002-D",
+    "G100-20261008-HORROR-005-L1",
+    "G100-20261008-HORROR-005-L2",
+    "G100-20261008-HORROR-005-M1",
+    "G100-20261008-HORROR-005-M2",
+    "G100-20261008-HORROR-005-S1",
+    "G100-20261008-HORROR-005-S2",
+    "G100-20261008-HORROR-005-Y",
+    "G100-20261008-HORROR-005-D",
+    "E20261007-F-179-L1",
+    "E20261007-F-179-L2",
+    "E20261007-F-179-M1",
+    "E20261007-F-179-M2",
+    "E20261007-F-179-S1",
+    "E20261007-F-179-S2",
+    "E20261007-F-179-Y",
+    "E20261007-F-179-D",
+    "F240-20261006-054-L1",
+    "F240-20261006-054-L2"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "CLA-M-002",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "CLA-S-001",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "CLA-S-002",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "CLA-L-002-V1",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "CLA-M-002-V1",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "CLA-S-002-V1",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "FF-051-YEAR",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "FF-051-DIRECTOR",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "ACT-L-037",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "ACT-L-038",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "ACT-M-037",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "ACT-M-038",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "ACT-S-037",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "ACT-S-038",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "FF-019-YEAR",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "FF-019-DIRECTOR",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-L1",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-L2",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-M1",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-M2",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-S1",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-S2",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-Y",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-D",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-L1",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-L2",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-M1",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-M2",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-S1",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-S2",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-Y",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-D",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-L1",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-L2",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-M1",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-M2",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-S1",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-S2",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-Y",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-D",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "E20261007-F-179-L1",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-L2",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-M1",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-M2",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-S1",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-S2",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-Y",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-D",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "F240-20261006-054-L1",
-      "filmKey": "Central do Brasil|1998"
-    },
-    {
-      "id": "F240-20261006-054-L2",
-      "filmKey": "Central do Brasil|1998"
-    },
     {
       "id": "F240-20261006-054-M1",
       "filmKey": "Central do Brasil|1998"
@@ -37134,204 +36989,204 @@
   ],
   "next": [
     {
-      "id": "CLA-M-002",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "CLA-S-001",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "CLA-S-002",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "CLA-L-002-V1",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "CLA-M-002-V1",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "CLA-S-002-V1",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "FF-051-YEAR",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "FF-051-DIRECTOR",
-      "filmKey": "Casablanca|1942"
-    },
-    {
-      "id": "ACT-L-037",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "ACT-L-038",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "ACT-M-037",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "ACT-M-038",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "ACT-S-037",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "ACT-S-038",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "FF-019-YEAR",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "FF-019-DIRECTOR",
-      "filmKey": "Casino Royale|2006"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-L1",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-L2",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-M1",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-M2",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-S1",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-S2",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-Y",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-025-D",
-      "filmKey": "Cast Away|2000"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-L1",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-L2",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-M1",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-M2",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-S1",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-S2",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-Y",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-WESTERN-002-D",
-      "filmKey": "Cat Ballou|1965"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-L1",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-L2",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-M1",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-M2",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-S1",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-S2",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-Y",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "G100-20261008-HORROR-005-D",
-      "filmKey": "Cat People|1942"
-    },
-    {
-      "id": "E20261007-F-179-L1",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-L2",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-M1",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-M2",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-S1",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-S2",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-Y",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "E20261007-F-179-D",
-      "filmKey": "Cats|1998"
-    },
-    {
-      "id": "F240-20261006-054-L1",
+      "id": "F240-20261006-054-M1",
       "filmKey": "Central do Brasil|1998"
     },
     {
-      "id": "F240-20261006-054-L2",
+      "id": "F240-20261006-054-M2",
       "filmKey": "Central do Brasil|1998"
+    },
+    {
+      "id": "F240-20261006-054-S1",
+      "filmKey": "Central do Brasil|1998"
+    },
+    {
+      "id": "F240-20261006-054-S2",
+      "filmKey": "Central do Brasil|1998"
+    },
+    {
+      "id": "F240-20261006-054-Y",
+      "filmKey": "Central do Brasil|1998"
+    },
+    {
+      "id": "F240-20261006-054-D",
+      "filmKey": "Central do Brasil|1998"
+    },
+    {
+      "id": "E20261007-F-141-L1",
+      "filmKey": "Chaiya|2007"
+    },
+    {
+      "id": "E20261007-F-141-L2",
+      "filmKey": "Chaiya|2007"
+    },
+    {
+      "id": "E20261007-F-141-M1",
+      "filmKey": "Chaiya|2007"
+    },
+    {
+      "id": "E20261007-F-141-M2",
+      "filmKey": "Chaiya|2007"
+    },
+    {
+      "id": "E20261007-F-141-S1",
+      "filmKey": "Chaiya|2007"
+    },
+    {
+      "id": "E20261007-F-141-S2",
+      "filmKey": "Chaiya|2007"
+    },
+    {
+      "id": "E20261007-F-141-Y",
+      "filmKey": "Chaiya|2007"
+    },
+    {
+      "id": "E20261007-F-141-D",
+      "filmKey": "Chaiya|2007"
+    },
+    {
+      "id": "SF-202609-P02-L-081",
+      "filmKey": "Chappie|2015"
+    },
+    {
+      "id": "SF-202609-P02-L-082",
+      "filmKey": "Chappie|2015"
+    },
+    {
+      "id": "SF-202609-P02-M-081",
+      "filmKey": "Chappie|2015"
+    },
+    {
+      "id": "SF-202609-P02-M-082",
+      "filmKey": "Chappie|2015"
+    },
+    {
+      "id": "SF-202609-P02-S-081",
+      "filmKey": "Chappie|2015"
+    },
+    {
+      "id": "SF-202609-P02-S-082",
+      "filmKey": "Chappie|2015"
+    },
+    {
+      "id": "SF-202609-P02-S-081-V1",
+      "filmKey": "Chappie|2015"
+    },
+    {
+      "id": "FF-366-YEAR",
+      "filmKey": "Chappie|2015"
+    },
+    {
+      "id": "FF-366-DIRECTOR",
+      "filmKey": "Chappie|2015"
+    },
+    {
+      "id": "F240-20261006-168-L1",
+      "filmKey": "Charade|1963"
+    },
+    {
+      "id": "F240-20261006-168-L2",
+      "filmKey": "Charade|1963"
+    },
+    {
+      "id": "F240-20261006-168-M1",
+      "filmKey": "Charade|1963"
+    },
+    {
+      "id": "F240-20261006-168-M2",
+      "filmKey": "Charade|1963"
+    },
+    {
+      "id": "F240-20261006-168-S1",
+      "filmKey": "Charade|1963"
+    },
+    {
+      "id": "F240-20261006-168-S2",
+      "filmKey": "Charade|1963"
+    },
+    {
+      "id": "F240-20261006-168-Y",
+      "filmKey": "Charade|1963"
+    },
+    {
+      "id": "F240-20261006-168-D",
+      "filmKey": "Charade|1963"
+    },
+    {
+      "id": "E20261007-F-064-L1",
+      "filmKey": "Charlie and the Chocolate Factory|2005"
+    },
+    {
+      "id": "E20261007-F-064-L2",
+      "filmKey": "Charlie and the Chocolate Factory|2005"
+    },
+    {
+      "id": "E20261007-F-064-M1",
+      "filmKey": "Charlie and the Chocolate Factory|2005"
+    },
+    {
+      "id": "E20261007-F-064-M2",
+      "filmKey": "Charlie and the Chocolate Factory|2005"
+    },
+    {
+      "id": "E20261007-F-064-S1",
+      "filmKey": "Charlie and the Chocolate Factory|2005"
+    },
+    {
+      "id": "E20261007-F-064-S2",
+      "filmKey": "Charlie and the Chocolate Factory|2005"
+    },
+    {
+      "id": "E20261007-F-064-Y",
+      "filmKey": "Charlie and the Chocolate Factory|2005"
+    },
+    {
+      "id": "E20261007-F-064-D",
+      "filmKey": "Charlie and the Chocolate Factory|2005"
+    },
+    {
+      "id": "MUS-202609-P01-L-009",
+      "filmKey": "Chicago|2002"
+    },
+    {
+      "id": "MUS-202609-P01-L-010",
+      "filmKey": "Chicago|2002"
+    },
+    {
+      "id": "MUS-202609-P01-M-009",
+      "filmKey": "Chicago|2002"
+    },
+    {
+      "id": "MUS-202609-P01-M-010",
+      "filmKey": "Chicago|2002"
+    },
+    {
+      "id": "MUS-202609-P01-S-009",
+      "filmKey": "Chicago|2002"
+    },
+    {
+      "id": "MUS-202609-P01-S-010",
+      "filmKey": "Chicago|2002"
+    },
+    {
+      "id": "MUS-202609-P01-L-009-V1",
+      "filmKey": "Chicago|2002"
+    },
+    {
+      "id": "MUS-202609-P01-S-009-V1",
+      "filmKey": "Chicago|2002"
+    },
+    {
+      "id": "FF-305-YEAR",
+      "filmKey": "Chicago|2002"
+    },
+    {
+      "id": "FF-305-DIRECTOR",
+      "filmKey": "Chicago|2002"
+    },
+    {
+      "id": "SF-202609-P02-L-053",
+      "filmKey": "Children of Men|2006"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
