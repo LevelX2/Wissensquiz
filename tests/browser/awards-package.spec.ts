@@ -44,6 +44,13 @@ test("Preisträger und Experte sind mobil auswählbar, zeigen Vertiefung und ble
     .locator(".round-setup")
     .screenshot({ path: "test-results/preistraeger-experte-320.png" });
   await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(page.locator(".question-genre")).toHaveAccessibleName(
+    "Preisträger",
+  );
+  await expect(page.locator(".question-genre img")).toHaveAttribute(
+    "src",
+    "/genres/awards.png",
+  );
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Experte",
   );

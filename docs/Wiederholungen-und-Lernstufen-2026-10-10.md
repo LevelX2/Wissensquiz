@@ -22,6 +22,8 @@ Die **Filmreise** zeigt die nächste erreichbare Freischaltung der gewählten Be
 
 Ausklappbereiche erscheinen als warme goldene Laschen mit dezenter Tiefe, Goldsymbol und drehendem Pfeil; Filterleisten mit goldener Plus-/Minus-Taste. Druckzustand und kurze Einblendung unterstützen die Bedienung. Native `details`/`summary` erhalten Tastatursteuerung und Fokus. Reduzierte Bewegung schaltet Animation und Druckbewegung aus. Die vier Lernstufen im Antwortbild und unmittelbaren Rückblick bleiben zunächst geschlossen und öffnen sich pro Antwort neu geschlossen.
 
+Folgeauftrag vom 10.10.2026: Das Genre über der Frage wird durch das vorhandene Themenbild dargestellt. Die Antwortklappen erhalten sechs inhaltlich passende Illustrationen statt des einheitlichen Sterns. [Anzeigevertrag, Bildherkunft und Prompts](Antwortsymbole-2026-10-10.md).
+
 „Fällige Filmfragen dieser Runde wiederholen“ erscheint im Ergebnis erst bei tatsächlich fälligen Filmzielen aus den Antworten genau dieser abgeschlossenen Runde. Auch richtige Antworten können dazugehören. Andere aktive Runden blockieren den Start wie bisher. Frühere Fehler bleiben für Auswertung und Karriere-XP getrennt aus der Ereignishistorie ableitbar.
 
 ## Vier Stufen

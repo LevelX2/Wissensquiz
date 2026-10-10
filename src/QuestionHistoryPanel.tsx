@@ -1,5 +1,6 @@
 import type { AnswerEvent, Question } from "./model";
 import { questionHistory } from "./questionHistory";
+import { DisclosureArtwork } from "./DisclosureArtwork";
 
 export function QuestionHistory({
   events,
@@ -11,7 +12,8 @@ export function QuestionHistory({
   const stats = questionHistory(events, question);
   return (
     <details className="question-history">
-      <summary>
+      <summary className="illustrated-summary">
+        <DisclosureArtwork subject="history" />
         <span>Diese Frage: {stats.question.answered}× beantwortet</span>{" "}
         <span>
           {stats.question.correct} richtig · {stats.question.wrong} falsch

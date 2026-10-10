@@ -75,7 +75,9 @@ test("Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig vo
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Experte",
   );
-  await expect(page.locator(".question-genre")).toHaveText("Schauspieler");
+  await expect(page.locator(".question-genre")).toHaveAccessibleName(
+    "Schauspieler",
+  );
   await page.locator(".answer").first().click();
   const active = (await readStoredState(page)).rounds.find(
     (r) => r.status === "active",
@@ -300,5 +302,7 @@ test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und voll
   ).toBeChecked();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.getByRole("button", { name: "Losspielen" }).click();
-  await expect(page.locator(".question-genre")).toHaveText("Schauspieler");
+  await expect(page.locator(".question-genre")).toHaveAccessibleName(
+    "Schauspieler",
+  );
 });

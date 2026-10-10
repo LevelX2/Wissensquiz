@@ -1,4 +1,5 @@
 import type { Question } from "./model";
+import { DisclosureArtwork } from "./DisclosureArtwork";
 import images from "./actorPortraits.json" with { type: "json" };
 import recognitionImages from "./actorRecognitionPortraits.json" with { type: "json" };
 import alternateImages from "./actorRecognitionAlternatePortraits.json" with { type: "json" };
@@ -101,7 +102,10 @@ export function ActorPortrait({
           <p>Bildnachweis und Quelle erscheinen mit der Lösung.</p>
         ) : (
           <details>
-            <summary>Bildnachweis</summary>
+            <summary className="illustrated-summary">
+              <DisclosureArtwork subject="sources" />
+              Bildnachweis
+            </summary>
             <p>
               Foto:{" "}
               <a

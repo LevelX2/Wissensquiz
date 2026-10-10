@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 10.10.2026 – Genre-Icon und illustrierte Antwortklappen
+
+Genre-Textplakette durch das vorhandene Themenbild ersetzt; zugängliche Bezeichnung, Tooltip und Ausblendoption erhalten. Sechs neue transparente Illustrationen für Fragenstatistik, Antworten, Hintergrundwissen, Filmdaten/Regie, Quellen/Bildnachweis und Lernfortschritt. Goldene native Klappen, Text, Pfeil, Tastatursteuerung und anfänglich geschlossene Lernstufen erhalten. [Anzeigevertrag und Bildprompts](Antwortsymbole-2026-10-10.md).
+
+436 Tests in 71 Dateien, TypeScript und Produktionsbuild für Version 63 erfolgreich. 24 unterschiedliche isolierte Browserfälle erfolgreich, davon acht am abschließend korrigierten Build: Filmgenres, Schauspieler, Preisträger, Regie, Quellen, Bildnachweise, Neu/Wiederholung, Ausblenden/Reload und Lernstufen. Chromium und mobiles WebKit; 320-Pixel-Ansicht visuell geprüft. Alle sechs Antwortsymbole tatsächlich geladen, generischer Stern dort entfernt, native Tastaturklappe, Axe und Überlauf geprüft. Beim geöffneten Bildnachweis zu geringer Textkontrast gefunden und behoben; Illustrationsmaße gegen Porträtstile abgegrenzt. Alte Musik-Testmenge von 333 auf den aktuellen genreübergreifenden Musikbestand 853 korrigiert und erneut erfolgreich geprüft.
+
+Ausschließlich synthetische Konten und kontrollierte Zeit; keine realen Nutzerfortschritte verändert. Keine Abhängigkeit, Migration oder neue Kompatibilitätslogik. Fragenkatalog unverändert (`e40f41921c37fa4cc4513d1e6e72f24df4c5fc484d0b8a54154f2bdb26090e99`); kein erneuter Online-/Duellkatalogrollout erforderlich. Keine physische Geräteabnahme oder vollständige neue Browser-Suite. Veröffentlichung separat im [Sites-Betrieb](Sites-Betrieb.md).
+
 ## 10.10.2026 – Modustrennung und goldene Klappen
 
 Auf ausdrückliche Annahme des Vorschlags Filmreise mit sechs neuen und vier fälligen Zielen je Zehnerrunde bei ausreichender Auswahl; bekannte Ziele ergänzen fehlende Plätze. Wiederholen ersetzt Fehlertraining: ausschließlich fällige Filmziele einschließlich früher richtiger und geratener Antworten, kein Auffüllen und kein vorzeitiges Training. Freies Spiel bleibt zufällig ohne Lernstandsgewichtung. Fälligkeitszahl nur in Wiederholen; Filmreise zeigt nächste erreichbare Freischaltung mit Restmenge und Balken, nach vollständiger Öffnung die gefestigten Ziele. Goldene native Klappen mit Druckzustand, Einblendung, Pfeil und reduzierter Bewegung; vier Lernstufen pro Antwort zunächst geschlossen. Profilübersicht aus dem vorherigen Main-Stand enthalten.

@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Genre als Themenbild und passende Illustrationen für Antwortklappen – 10.10.2026](../../../docs/Antwortsymbole-2026-10-10.md)
+
 - [Version 62 veröffentlicht: Modustrennung, nächste Etappe, goldene Klappen und Profilübersicht](../../../docs/Sites-Betrieb.md#version-62-filmreise-wiederholen-und-goldene-klappen)
 - [Version 62: Prüfungen, Katalogabgleich, Quelle und Live-Nachweis](../../../docs/Veroeffentlichung-2026-10-10-Version-62.json)
 

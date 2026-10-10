@@ -21,7 +21,7 @@ test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben nac
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.reload();
   await page.getByRole("button", { name: "Losspielen" }).click();
-  await expect(page.locator(".question-genre")).toHaveText("Musik");
+  await expect(page.locator(".question-genre")).toHaveAccessibleName("Musik");
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Leicht",
   );
@@ -29,7 +29,7 @@ test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben nac
   const saved = await readStoredState(page);
   expect(
     saved.questions.filter((q: any) => q.metadata.subdomain === "Musik"),
-  ).toHaveLength(333);
+  ).toHaveLength(853);
   expect(
     saved.imports.find(
       (r: any) => r.filename === "Musik_Ergaenzung_180_Fragen.csv",

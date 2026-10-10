@@ -1,4 +1,5 @@
 import type { AnswerEvent } from "./model";
+import { DisclosureArtwork } from "./DisclosureArtwork";
 import {
   learningAnswerNote,
   learningAtAnswer,
@@ -25,7 +26,8 @@ export function LearningProgress({
       className="learning-progress"
       aria-label="Lernfortschritt dieses Wissensziels"
     >
-      <summary>
+      <summary className="illustrated-summary">
+        <DisclosureArtwork subject="learning" />
         Lernfortschritt · {current.status === "gefestigt" ? "Gefestigt · " : ""}
         Lernstufe {current.stage} von 4
       </summary>
@@ -38,9 +40,7 @@ export function LearningProgress({
       </div>
       <p>{learningAnswerNote(previous, current, event)}</p>
       {resolvedMistake && (
-        <p className="learning-error-resolved">
-          Fehler sicher korrigiert.
-        </p>
+        <p className="learning-error-resolved">Fehler sicher korrigiert.</p>
       )}
       <p className="learning-next">
         {current.status === "gefestigt"

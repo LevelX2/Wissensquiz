@@ -36,7 +36,7 @@ test("Komödie-Ergänzung: Regiehintergrund erst nach Antwort und nach Neuladen 
   await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
-  await expect(page.locator(".question-genre")).toHaveText("Komödie");
+  await expect(page.locator(".question-genre")).toHaveAccessibleName("Komödie");
   await expect(page.locator(".film-data")).toHaveCount(0);
   await expect(page.getByText("Über die Regie", { exact: true })).toHaveCount(
     0,

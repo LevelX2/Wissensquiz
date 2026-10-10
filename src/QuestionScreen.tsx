@@ -26,6 +26,8 @@ import { Explanation } from "./Explanation";
 import { LearningProgress } from "./LearningProgressPanel";
 import { IssueReportForm } from "./IssueReportForm";
 import { ActorPortrait } from "./ActorPortrait";
+import { GenreArtwork } from "./Icons";
+import { DisclosureArtwork } from "./DisclosureArtwork";
 
 import {
   isRecordMode,
@@ -390,10 +392,28 @@ export function QuestionScreen({
         <div className="question-heading">
           <div className="question-hints">
             {state.settings.showGenre !== false && (
-              <span className="pill question-genre">
-                {questionSourceOf(q) === "film"
-                  ? genreLabel(genreOf(q))
-                  : sourceLabels[questionSourceOf(q)]}
+              <span
+                className="question-genre"
+                role="img"
+                aria-label={
+                  questionSourceOf(q) === "film"
+                    ? genreLabel(genreOf(q))
+                    : sourceLabels[questionSourceOf(q)]
+                }
+                title={
+                  questionSourceOf(q) === "film"
+                    ? genreLabel(genreOf(q))
+                    : sourceLabels[questionSourceOf(q)]
+                }
+              >
+                <GenreArtwork
+                  genre={
+                    questionSourceOf(q) === "film"
+                      ? genreOf(q)
+                      : sourceLabels[questionSourceOf(q)]
+                  }
+                  compact
+                />
               </span>
             )}
             {state.settings.showDifficulty !== false && (
@@ -442,7 +462,10 @@ export function QuestionScreen({
           ? !showReveal &&
             !collected && (
               <details className="answer-review">
-                <summary>Alle Antworten ansehen</summary>
+                <summary className="illustrated-summary">
+                  <DisclosureArtwork subject="answers" />
+                  Alle Antworten ansehen
+                </summary>
                 {answerOptions}
               </details>
             )

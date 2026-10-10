@@ -2,6 +2,7 @@ import { familiarityLabel, familiarityOf } from "./familiarity";
 import type { Question } from "./model";
 import { filmData } from "./filmFacts";
 import { actorPresentation } from "./actorEditorial";
+import { DisclosureArtwork } from "./DisclosureArtwork";
 
 export function FilmDataPanel({ q }: { q: Question }) {
   const references = q.metadata.question_image_id
@@ -10,7 +11,10 @@ export function FilmDataPanel({ q }: { q: Question }) {
   if (references?.length)
     return (
       <details className="film-data">
-        <summary>Filmdaten</summary>
+        <summary className="illustrated-summary">
+          <DisclosureArtwork subject="film" />
+          Filmdaten
+        </summary>
         {references.map((reference) => (
           <FilmDataContent key={reference} q={q} reference={reference} />
         ))}
@@ -20,7 +24,10 @@ export function FilmDataPanel({ q }: { q: Question }) {
   if (!data) return null;
   return (
     <details className="film-data">
-      <summary>Filmdaten</summary>
+      <summary className="illustrated-summary">
+        <DisclosureArtwork subject="film" />
+        Filmdaten
+      </summary>
       <FilmDataContent q={q} />
     </details>
   );
@@ -94,7 +101,10 @@ function FilmDataContent({
       )}
       {data.directorContext && (
         <details className="film-director-context">
-          <summary>Über die Regie</summary>
+          <summary className="illustrated-summary">
+            <DisclosureArtwork subject="film" />
+            Über die Regie
+          </summary>
           <p>{data.directorContext}</p>
           {data.directorSources.map((source) => (
             <a key={source} href={source} target="_blank" rel="noreferrer">

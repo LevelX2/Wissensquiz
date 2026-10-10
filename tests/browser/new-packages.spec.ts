@@ -52,7 +52,9 @@ for (const both of [false, true]) {
       path: `test-results/kategorien-${both ? "kombiniert" : "arthouse"}-320.png`,
     });
     await page.getByRole("button", { name: "Losspielen" }).click();
-    await expect(page.locator(".question-genre")).toHaveText("Rom-Com");
+    await expect(page.locator(".question-genre")).toHaveAccessibleName(
+      "Rom-Com",
+    );
     const saved = await readStoredState(page);
     expect(saved.questions).toHaveLength(catalogCounts.questions);
     expect(new Set(saved.questions.map((q: any) => q.knowledgeId)).size).toBe(

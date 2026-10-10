@@ -52,7 +52,7 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
       await expect(heading).not.toContainText(snapshot.metadata.film_year);
     else if (kind === "director")
       await expect(heading).not.toContainText("John McTiernan");
-    await expect(page.locator(".question-genre")).toHaveText(
+    await expect(page.locator(".question-genre")).toHaveAccessibleName(
       kind === "original" ? "Sci-Fi" : "Action",
     );
     await expect(page.locator(".film-data")).toHaveCount(0);

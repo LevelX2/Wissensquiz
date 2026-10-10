@@ -7,6 +7,7 @@ import { FilmDataPanel } from "./FilmDataPanel";
 import { ActorPortrait, recognitionVariants } from "./ActorPortrait";
 import { FilmPoster } from "./FilmPoster";
 import { additionalAnswerFeedback } from "./answerFeedback";
+import { DisclosureArtwork } from "./DisclosureArtwork";
 
 export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const selected = q.answers.find((a) => a.id === event.answerId);
@@ -43,7 +44,10 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
       />
       {(deepContext || film) && (
         <details>
-          <summary>Etwas tiefer eintauchen</summary>
+          <summary className="illustrated-summary">
+            <DisclosureArtwork subject="context" />
+            Etwas tiefer eintauchen
+          </summary>
           {deepContext && <p>{deepContext}</p>}
           {director && (
             <p className="cast-sources">
@@ -85,7 +89,10 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
       )}
       {sources.length > 0 && (
         <details>
-          <summary>Quellen ansehen</summary>
+          <summary className="illustrated-summary">
+            <DisclosureArtwork subject="sources" />
+            Quellen ansehen
+          </summary>
           <ul>
             {sources.map((url) => (
               <li key={url}>

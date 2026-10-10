@@ -321,6 +321,12 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   const feedback = page.getByLabel("Lernfortschritt dieses Wissensziels");
+  await expect(page.locator(".question-genre")).toHaveAccessibleName("Sci-Fi");
+  await expect(page.locator(".question-genre")).toHaveText("");
+  await expect(page.locator(".question-genre img")).toHaveAttribute(
+    "src",
+    "/genres/scifi.png",
+  );
   for (const [i, stage] of [2, 3, 4, 1, 1].entries()) {
     await page
       .locator(".answer")
@@ -334,6 +340,46 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
     await expect(feedback).toContainText(`Lernstufe ${stage} von 4`);
     await expect(feedback).not.toHaveAttribute("open", "");
     await expect(feedback.locator(".learning-stage-track")).not.toBeVisible();
+    if (i === 0) {
+      for (const subject of [
+        "history",
+        "answers",
+        "context",
+        "film",
+        "sources",
+        "learning",
+      ]) {
+        const icon = page
+          .locator(
+            `.question-card summary img[src="/disclosures/${subject}.png"]`,
+          )
+          .first();
+        await expect(icon).toBeVisible();
+        await expect
+          .poll(() =>
+            icon.evaluate(
+              (img: HTMLImageElement) => img.complete && img.naturalWidth > 0,
+            ),
+          )
+          .toBe(true);
+        expect(
+          await icon.evaluate(
+            (img) => getComputedStyle(img.parentElement!, "::before").content,
+          ),
+        ).toBe("none");
+      }
+      expect(
+        (
+          await new AxeBuilder({ page })
+            .withTags(["wcag2a", "wcag2aa"])
+            .analyze()
+        ).violations,
+      ).toEqual([]);
+      await page.screenshot({
+        path: `test-results/antwort-icons-${browserName}.png`,
+        fullPage: true,
+      });
+    }
     await feedback.locator("summary").focus();
     await page.keyboard.press("Enter");
     await expect(feedback.locator(".learning-stage-track")).toBeVisible();
