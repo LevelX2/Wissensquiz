@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "bfad63648ffa90174623953f69a7f2455a827103",
+  "sourceCommit": "8121538bdcf2093497322caf394078f0df33900f",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 600,
-  "totalReviewed": 750,
-  "remainingFilmQuestions": 9983,
+  "completedInThisRun": 650,
+  "totalReviewed": 800,
+  "remainingFilmQuestions": 9933,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 12023,
+  "remainingAllQuestions": 11973,
   "blocks": [
     {
       "block": 1,
@@ -68,6 +68,11 @@
     {
       "block": 12,
       "path": "Block-12.json",
+      "count": 50
+    },
+    {
+      "block": 13,
+      "path": "Block-13.json",
       "count": 50
     }
   ],
@@ -821,209 +826,59 @@
     "G100-20261008-WESTERN-005-S2",
     "G100-20261008-WESTERN-005-Y",
     "G100-20261008-WESTERN-005-D",
-    "G100-20261008-MUSIK-006-L1"
+    "G100-20261008-MUSIK-006-L1",
+    "G100-20261008-MUSIK-006-L2",
+    "G100-20261008-MUSIK-006-M1",
+    "G100-20261008-MUSIK-006-M2",
+    "G100-20261008-MUSIK-006-S1",
+    "G100-20261008-MUSIK-006-S2",
+    "G100-20261008-MUSIK-006-Y",
+    "G100-20261008-MUSIK-006-D",
+    "ROM-L-023",
+    "ROM-L-024",
+    "ROM-M-023",
+    "ROM-M-024",
+    "ROM-S-023",
+    "ROM-S-024",
+    "FF-262-YEAR",
+    "FF-262-DIRECTOR",
+    "F240-20261006-152-L1",
+    "F240-20261006-152-L2",
+    "F240-20261006-152-M1",
+    "F240-20261006-152-M2",
+    "F240-20261006-152-S1",
+    "F240-20261006-152-S2",
+    "F240-20261006-152-Y",
+    "F240-20261006-152-D",
+    "DRA-L-021",
+    "DRA-L-022",
+    "DRA-M-021",
+    "DRA-M-022",
+    "DRA-S-021",
+    "DRA-S-022",
+    "DRA-L-022-V1",
+    "DRA-M-022-V1",
+    "DRA-S-022-V1",
+    "FF-086-YEAR",
+    "FF-086-DIRECTOR",
+    "KOM-L-003",
+    "KOM-L-004",
+    "KOM-M-003",
+    "KOM-M-004",
+    "KOM-S-003",
+    "KOM-S-004",
+    "FF-202-YEAR",
+    "FF-202-DIRECTOR",
+    "F240-20261006-074-L1",
+    "F240-20261006-074-L2",
+    "F240-20261006-074-M1",
+    "F240-20261006-074-M2",
+    "F240-20261006-074-S1",
+    "F240-20261006-074-S2",
+    "F240-20261006-074-Y",
+    "F240-20261006-074-D"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "G100-20261008-MUSIK-006-L2",
-      "filmKey": "42nd Street|1933"
-    },
-    {
-      "id": "G100-20261008-MUSIK-006-M1",
-      "filmKey": "42nd Street|1933"
-    },
-    {
-      "id": "G100-20261008-MUSIK-006-M2",
-      "filmKey": "42nd Street|1933"
-    },
-    {
-      "id": "G100-20261008-MUSIK-006-S1",
-      "filmKey": "42nd Street|1933"
-    },
-    {
-      "id": "G100-20261008-MUSIK-006-S2",
-      "filmKey": "42nd Street|1933"
-    },
-    {
-      "id": "G100-20261008-MUSIK-006-Y",
-      "filmKey": "42nd Street|1933"
-    },
-    {
-      "id": "G100-20261008-MUSIK-006-D",
-      "filmKey": "42nd Street|1933"
-    },
-    {
-      "id": "ROM-L-023",
-      "filmKey": "50 First Dates|2004"
-    },
-    {
-      "id": "ROM-L-024",
-      "filmKey": "50 First Dates|2004"
-    },
-    {
-      "id": "ROM-M-023",
-      "filmKey": "50 First Dates|2004"
-    },
-    {
-      "id": "ROM-M-024",
-      "filmKey": "50 First Dates|2004"
-    },
-    {
-      "id": "ROM-S-023",
-      "filmKey": "50 First Dates|2004"
-    },
-    {
-      "id": "ROM-S-024",
-      "filmKey": "50 First Dates|2004"
-    },
-    {
-      "id": "FF-262-YEAR",
-      "filmKey": "50 First Dates|2004"
-    },
-    {
-      "id": "FF-262-DIRECTOR",
-      "filmKey": "50 First Dates|2004"
-    },
-    {
-      "id": "F240-20261006-152-L1",
-      "filmKey": "8 Mile|2002"
-    },
-    {
-      "id": "F240-20261006-152-L2",
-      "filmKey": "8 Mile|2002"
-    },
-    {
-      "id": "F240-20261006-152-M1",
-      "filmKey": "8 Mile|2002"
-    },
-    {
-      "id": "F240-20261006-152-M2",
-      "filmKey": "8 Mile|2002"
-    },
-    {
-      "id": "F240-20261006-152-S1",
-      "filmKey": "8 Mile|2002"
-    },
-    {
-      "id": "F240-20261006-152-S2",
-      "filmKey": "8 Mile|2002"
-    },
-    {
-      "id": "F240-20261006-152-Y",
-      "filmKey": "8 Mile|2002"
-    },
-    {
-      "id": "F240-20261006-152-D",
-      "filmKey": "8 Mile|2002"
-    },
-    {
-      "id": "DRA-L-021",
-      "filmKey": "A Beautiful Mind|2001"
-    },
-    {
-      "id": "DRA-L-022",
-      "filmKey": "A Beautiful Mind|2001"
-    },
-    {
-      "id": "DRA-M-021",
-      "filmKey": "A Beautiful Mind|2001"
-    },
-    {
-      "id": "DRA-M-022",
-      "filmKey": "A Beautiful Mind|2001"
-    },
-    {
-      "id": "DRA-S-021",
-      "filmKey": "A Beautiful Mind|2001"
-    },
-    {
-      "id": "DRA-S-022",
-      "filmKey": "A Beautiful Mind|2001"
-    },
-    {
-      "id": "DRA-L-022-V1",
-      "filmKey": "A Beautiful Mind|2001"
-    },
-    {
-      "id": "DRA-M-022-V1",
-      "filmKey": "A Beautiful Mind|2001"
-    },
-    {
-      "id": "DRA-S-022-V1",
-      "filmKey": "A Beautiful Mind|2001"
-    },
-    {
-      "id": "FF-086-YEAR",
-      "filmKey": "A Beautiful Mind|2001"
-    },
-    {
-      "id": "FF-086-DIRECTOR",
-      "filmKey": "A Beautiful Mind|2001"
-    },
-    {
-      "id": "KOM-L-003",
-      "filmKey": "A Fish Called Wanda|1988"
-    },
-    {
-      "id": "KOM-L-004",
-      "filmKey": "A Fish Called Wanda|1988"
-    },
-    {
-      "id": "KOM-M-003",
-      "filmKey": "A Fish Called Wanda|1988"
-    },
-    {
-      "id": "KOM-M-004",
-      "filmKey": "A Fish Called Wanda|1988"
-    },
-    {
-      "id": "KOM-S-003",
-      "filmKey": "A Fish Called Wanda|1988"
-    },
-    {
-      "id": "KOM-S-004",
-      "filmKey": "A Fish Called Wanda|1988"
-    },
-    {
-      "id": "FF-202-YEAR",
-      "filmKey": "A Fish Called Wanda|1988"
-    },
-    {
-      "id": "FF-202-DIRECTOR",
-      "filmKey": "A Fish Called Wanda|1988"
-    },
-    {
-      "id": "F240-20261006-074-L1",
-      "filmKey": "A Ghost Story|2017"
-    },
-    {
-      "id": "F240-20261006-074-L2",
-      "filmKey": "A Ghost Story|2017"
-    },
-    {
-      "id": "F240-20261006-074-M1",
-      "filmKey": "A Ghost Story|2017"
-    },
-    {
-      "id": "F240-20261006-074-M2",
-      "filmKey": "A Ghost Story|2017"
-    },
-    {
-      "id": "F240-20261006-074-S1",
-      "filmKey": "A Ghost Story|2017"
-    },
-    {
-      "id": "F240-20261006-074-S2",
-      "filmKey": "A Ghost Story|2017"
-    },
-    {
-      "id": "F240-20261006-074-Y",
-      "filmKey": "A Ghost Story|2017"
-    },
-    {
-      "id": "F240-20261006-074-D",
-      "filmKey": "A Ghost Story|2017"
-    },
     {
       "id": "F240-20261006-214-L1",
       "filmKey": "A History of Violence|2005"
@@ -40759,204 +40614,204 @@
   ],
   "next": [
     {
-      "id": "G100-20261008-MUSIK-006-L2",
-      "filmKey": "42nd Street|1933"
+      "id": "F240-20261006-214-L1",
+      "filmKey": "A History of Violence|2005"
     },
     {
-      "id": "G100-20261008-MUSIK-006-M1",
-      "filmKey": "42nd Street|1933"
+      "id": "F240-20261006-214-L2",
+      "filmKey": "A History of Violence|2005"
     },
     {
-      "id": "G100-20261008-MUSIK-006-M2",
-      "filmKey": "42nd Street|1933"
+      "id": "F240-20261006-214-M1",
+      "filmKey": "A History of Violence|2005"
     },
     {
-      "id": "G100-20261008-MUSIK-006-S1",
-      "filmKey": "42nd Street|1933"
+      "id": "F240-20261006-214-M2",
+      "filmKey": "A History of Violence|2005"
     },
     {
-      "id": "G100-20261008-MUSIK-006-S2",
-      "filmKey": "42nd Street|1933"
+      "id": "F240-20261006-214-S1",
+      "filmKey": "A History of Violence|2005"
     },
     {
-      "id": "G100-20261008-MUSIK-006-Y",
-      "filmKey": "42nd Street|1933"
+      "id": "F240-20261006-214-S2",
+      "filmKey": "A History of Violence|2005"
     },
     {
-      "id": "G100-20261008-MUSIK-006-D",
-      "filmKey": "42nd Street|1933"
+      "id": "F240-20261006-214-Y",
+      "filmKey": "A History of Violence|2005"
     },
     {
-      "id": "ROM-L-023",
-      "filmKey": "50 First Dates|2004"
+      "id": "F240-20261006-214-D",
+      "filmKey": "A History of Violence|2005"
     },
     {
-      "id": "ROM-L-024",
-      "filmKey": "50 First Dates|2004"
+      "id": "FAN-202610-P01-L-019",
+      "filmKey": "A Monster Calls|2016"
     },
     {
-      "id": "ROM-M-023",
-      "filmKey": "50 First Dates|2004"
+      "id": "FAN-202610-P01-L-020",
+      "filmKey": "A Monster Calls|2016"
     },
     {
-      "id": "ROM-M-024",
-      "filmKey": "50 First Dates|2004"
+      "id": "FAN-202610-P01-M-028",
+      "filmKey": "A Monster Calls|2016"
     },
     {
-      "id": "ROM-S-023",
-      "filmKey": "50 First Dates|2004"
+      "id": "FAN-202610-P01-M-029",
+      "filmKey": "A Monster Calls|2016"
     },
     {
-      "id": "ROM-S-024",
-      "filmKey": "50 First Dates|2004"
+      "id": "FAN-202610-P01-S-028",
+      "filmKey": "A Monster Calls|2016"
     },
     {
-      "id": "FF-262-YEAR",
-      "filmKey": "50 First Dates|2004"
+      "id": "FAN-202610-P01-S-029",
+      "filmKey": "A Monster Calls|2016"
     },
     {
-      "id": "FF-262-DIRECTOR",
-      "filmKey": "50 First Dates|2004"
+      "id": "FAN-202610-P01-M-030",
+      "filmKey": "A Monster Calls|2016"
     },
     {
-      "id": "F240-20261006-152-L1",
-      "filmKey": "8 Mile|2002"
+      "id": "FAN-202610-P01-S-030",
+      "filmKey": "A Monster Calls|2016"
     },
     {
-      "id": "F240-20261006-152-L2",
-      "filmKey": "8 Mile|2002"
+      "id": "HOR-L-007",
+      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
     },
     {
-      "id": "F240-20261006-152-M1",
-      "filmKey": "8 Mile|2002"
+      "id": "HOR-L-008",
+      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
     },
     {
-      "id": "F240-20261006-152-M2",
-      "filmKey": "8 Mile|2002"
+      "id": "HOR-M-007",
+      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
     },
     {
-      "id": "F240-20261006-152-S1",
-      "filmKey": "8 Mile|2002"
+      "id": "HOR-M-008",
+      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
     },
     {
-      "id": "F240-20261006-152-S2",
-      "filmKey": "8 Mile|2002"
+      "id": "HOR-S-007",
+      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
     },
     {
-      "id": "F240-20261006-152-Y",
-      "filmKey": "8 Mile|2002"
+      "id": "HOR-S-008",
+      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
     },
     {
-      "id": "F240-20261006-152-D",
-      "filmKey": "8 Mile|2002"
+      "id": "FF-179-YEAR",
+      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
     },
     {
-      "id": "DRA-L-021",
-      "filmKey": "A Beautiful Mind|2001"
+      "id": "FF-179-DIRECTOR",
+      "filmKey": "A Nightmare on Elm Street 3: Dream Warriors|1987"
     },
     {
-      "id": "DRA-L-022",
-      "filmKey": "A Beautiful Mind|2001"
+      "id": "E20261007-F-081-L1",
+      "filmKey": "A Quiet Place|2018"
     },
     {
-      "id": "DRA-M-021",
-      "filmKey": "A Beautiful Mind|2001"
+      "id": "E20261007-F-081-L2",
+      "filmKey": "A Quiet Place|2018"
     },
     {
-      "id": "DRA-M-022",
-      "filmKey": "A Beautiful Mind|2001"
+      "id": "E20261007-F-081-M1",
+      "filmKey": "A Quiet Place|2018"
     },
     {
-      "id": "DRA-S-021",
-      "filmKey": "A Beautiful Mind|2001"
+      "id": "E20261007-F-081-M2",
+      "filmKey": "A Quiet Place|2018"
     },
     {
-      "id": "DRA-S-022",
-      "filmKey": "A Beautiful Mind|2001"
+      "id": "E20261007-F-081-S1",
+      "filmKey": "A Quiet Place|2018"
     },
     {
-      "id": "DRA-L-022-V1",
-      "filmKey": "A Beautiful Mind|2001"
+      "id": "E20261007-F-081-S2",
+      "filmKey": "A Quiet Place|2018"
     },
     {
-      "id": "DRA-M-022-V1",
-      "filmKey": "A Beautiful Mind|2001"
+      "id": "E20261007-F-081-Y",
+      "filmKey": "A Quiet Place|2018"
     },
     {
-      "id": "DRA-S-022-V1",
-      "filmKey": "A Beautiful Mind|2001"
+      "id": "E20261007-F-081-D",
+      "filmKey": "A Quiet Place|2018"
     },
     {
-      "id": "FF-086-YEAR",
-      "filmKey": "A Beautiful Mind|2001"
+      "id": "E20261007-F-207-L1",
+      "filmKey": "A Scanner Darkly|2006"
     },
     {
-      "id": "FF-086-DIRECTOR",
-      "filmKey": "A Beautiful Mind|2001"
+      "id": "E20261007-F-207-L2",
+      "filmKey": "A Scanner Darkly|2006"
     },
     {
-      "id": "KOM-L-003",
-      "filmKey": "A Fish Called Wanda|1988"
+      "id": "E20261007-F-207-M1",
+      "filmKey": "A Scanner Darkly|2006"
     },
     {
-      "id": "KOM-L-004",
-      "filmKey": "A Fish Called Wanda|1988"
+      "id": "E20261007-F-207-M2",
+      "filmKey": "A Scanner Darkly|2006"
     },
     {
-      "id": "KOM-M-003",
-      "filmKey": "A Fish Called Wanda|1988"
+      "id": "E20261007-F-207-S1",
+      "filmKey": "A Scanner Darkly|2006"
     },
     {
-      "id": "KOM-M-004",
-      "filmKey": "A Fish Called Wanda|1988"
+      "id": "E20261007-F-207-S2",
+      "filmKey": "A Scanner Darkly|2006"
     },
     {
-      "id": "KOM-S-003",
-      "filmKey": "A Fish Called Wanda|1988"
+      "id": "E20261007-F-207-Y",
+      "filmKey": "A Scanner Darkly|2006"
     },
     {
-      "id": "KOM-S-004",
-      "filmKey": "A Fish Called Wanda|1988"
+      "id": "E20261007-F-207-D",
+      "filmKey": "A Scanner Darkly|2006"
     },
     {
-      "id": "FF-202-YEAR",
-      "filmKey": "A Fish Called Wanda|1988"
+      "id": "E20261007-F-125-L1",
+      "filmKey": "A Serious Man|2009"
     },
     {
-      "id": "FF-202-DIRECTOR",
-      "filmKey": "A Fish Called Wanda|1988"
+      "id": "E20261007-F-125-L2",
+      "filmKey": "A Serious Man|2009"
     },
     {
-      "id": "F240-20261006-074-L1",
-      "filmKey": "A Ghost Story|2017"
+      "id": "E20261007-F-125-M1",
+      "filmKey": "A Serious Man|2009"
     },
     {
-      "id": "F240-20261006-074-L2",
-      "filmKey": "A Ghost Story|2017"
+      "id": "E20261007-F-125-M2",
+      "filmKey": "A Serious Man|2009"
     },
     {
-      "id": "F240-20261006-074-M1",
-      "filmKey": "A Ghost Story|2017"
+      "id": "E20261007-F-125-S1",
+      "filmKey": "A Serious Man|2009"
     },
     {
-      "id": "F240-20261006-074-M2",
-      "filmKey": "A Ghost Story|2017"
+      "id": "E20261007-F-125-S2",
+      "filmKey": "A Serious Man|2009"
     },
     {
-      "id": "F240-20261006-074-S1",
-      "filmKey": "A Ghost Story|2017"
+      "id": "E20261007-F-125-Y",
+      "filmKey": "A Serious Man|2009"
     },
     {
-      "id": "F240-20261006-074-S2",
-      "filmKey": "A Ghost Story|2017"
+      "id": "E20261007-F-125-D",
+      "filmKey": "A Serious Man|2009"
     },
     {
-      "id": "F240-20261006-074-Y",
-      "filmKey": "A Ghost Story|2017"
+      "id": "THR-202610-P01-L-019",
+      "filmKey": "A Simple Plan|1998"
     },
     {
-      "id": "F240-20261006-074-D",
-      "filmKey": "A Ghost Story|2017"
+      "id": "THR-202610-P01-L-020",
+      "filmKey": "A Simple Plan|1998"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
