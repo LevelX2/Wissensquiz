@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**10.10.2026 – Version 62 veröffentlicht:** Filmreise mit Entdecken und Festigen, Wiederholen ausschließlich fälliger Filmfragen, Freies Spiel zufällig. Nächste Etappe in der Filmreise, goldene Klappen und Gesamtlernstand im Profil. 436 Tests, 34 unterschiedliche Browserfälle, Build und Livegleichheit geprüft. Darstellernamen-Ergänzungen im Online-/Duellkatalog veröffentlicht. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-62.json).
+
 **10.10.2026 – Version 61 veröffentlicht:** Neu/Wiederholung vor der Antwort mit eigenem Optionsschalter. Fester Quellcommit 7b2ceea, 434 Tests, Versionsbuild, zwölf gezielte Browserfälle und Archiv-/Livegleichheit geprüft. Gesamter aktueller Main-Stand enthalten. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-61.json).
 
 **10.10.2026 – Version 60 veröffentlicht:** Poster zu allen 1.405 referenzierten Filmfassungen, kompakte Rückmeldung und dezentes Neu-Kennzeichen. 427 Tests, Versionsbuild, 20 gezielte Browserfälle und Archiv-/Livegleichheit geprüft. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-60.json).

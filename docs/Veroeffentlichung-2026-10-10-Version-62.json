@@ -1,0 +1,115 @@
+{
+  "asOf": "2026-10-10",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 62,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_289016da84a081919c1ffb3ff976ddb4",
+  "source_commit": "64a3a3a763db6e406cfa5b7ecc1d55f1ae1f0178",
+  "deployment_id": "appgdep_6ac9ff1109d08191bf7310b907205ca1",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-10T09:02:31.267948+00:00",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_000000008134820a9ae7947f0ca2d9b3",
+    "content_hash": "sha256:49c21dac6cbab21d726720513779bb40f664370b5c390db051bd55d31f8cd408",
+    "size_bytes": 83824640,
+    "file_count": 480
+  },
+  "localArchive": {
+    "buildFiles": 479,
+    "archiveFiles": 480,
+    "sha256": "a133b06e5542239aa40cbf89a20b11ba35a9c0ea33e4564abedb90c39986cb85",
+    "bytes": 63759886,
+    "posters": 1405
+  },
+  "access": {
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "modes": {
+    "Filmreise": "6 new / 4 due when available; known goals fill remaining places; unlocked path; next unlock shown",
+    "Wiederholen": "only due encountered film goals; includes correct and guessed; no early or unseen fill",
+    "FreiesSpiel": "random goals within selected filters, independent of learning"
+  },
+  "catalog": {
+    "hash": "e40f41921c37fa4cc4513d1e6e72f24df4c5fc484d0b8a54154f2bdb26090e99",
+    "questions": 12773,
+    "knowledgeGoals": 12207,
+    "packages": 33,
+    "changedQuestions": 2612,
+    "duelChangedQuestions": 2612,
+    "duelQuestionsVerifiedExactly": 2612,
+    "duelOtherQuestions": 8331,
+    "duelOtherFingerprint": "9d3c42b9ee6d799e3f7a99b7fe7ca1e7",
+    "stagingPartsRemaining": 0,
+    "idsGoalsAnswersAndDifficultiesUnchanged": true
+  },
+  "checks": {
+    "tests": 436,
+    "testFiles": 71,
+    "uniqueBrowserCases": 34,
+    "finalBuildBrowserCases": 6,
+    "typeScript": true,
+    "productionBuild": true,
+    "buildVersion": 62,
+    "packagedBuildByteIdentical": true,
+    "schemaMigration": false,
+    "realGameStateChanged": false,
+    "githubPush": false,
+    "releaseMetadataPersistedAndSeparatelyRead": true,
+    "anonymousReleaseRpc": true,
+    "nativeBrowserHandoff": "queued"
+  },
+  "live": {
+    "anonymousHTML": 200,
+    "checks": [
+      {
+        "path": "/assets/index-Ca1PcKry.js",
+        "status": 200,
+        "bytes": 5752586,
+        "sha256": "e1ecabaaf4a34205a012085695f86086547d53934961b94c8205a0cbd370a08c"
+      },
+      {
+        "path": "/assets/index-BD1i308l.css",
+        "status": 200,
+        "bytes": 60609,
+        "sha256": "da636b7381ecb7244c701d8dcdc5bf446eee2256e6433234c6d73a814cc1a2bd"
+      },
+      {
+        "path": "/film-posters.json",
+        "status": 200,
+        "bytes": 555690,
+        "sha256": "5baa10a47e3af9363c169dbc9227aa24eec545cc605594b0820881343833bdd5"
+      },
+      {
+        "path": "/tmdb-logo.svg",
+        "status": 200,
+        "bytes": 2232,
+        "sha256": "5bdc75aaebeb75dc7ae79426ddd9be3b2be1e342510f8202baf6bffa71d7f5c4"
+      },
+      {
+        "path": "/sw.js",
+        "status": 200,
+        "bytes": 706,
+        "sha256": "0c3f9919e46aacbadf04f0a2ccf87bcd2296697179a907f787e74857a46f47ec"
+      },
+      {
+        "path": "/account-config.json",
+        "status": 200,
+        "bytes": 158,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      }
+    ],
+    "anonymousRelease": [
+      {
+        "version": 62,
+        "published_at": "2026-10-10T11:02:31.267948+02:00"
+      }
+    ],
+    "directTableStatus": 401
+  },
+  "limits": [
+    "Gezielte Browserfälle, kein neuer vollständiger Browser-Suite-Lauf und keine physische Geräteabnahme.",
+    "Fremde Importbericht-Zeitstempel, Audio-Teständerung und Wissenshunk erhalten."
+  ]
+}

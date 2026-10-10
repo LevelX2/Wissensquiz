@@ -1,6 +1,6 @@
 # Wiederholungen und Lernstufen
 
-Stand: 10.10.2026, Umsetzung zur Veröffentlichung vorbereitet.
+Stand: 10.10.2026, seit Sites-Version 62 um 11:02:31 Uhr Europe/Berlin veröffentlicht. [Nachweis](Veroeffentlichung-2026-10-10-Version-62.json).
 
 ## Befund und Entscheidung
 

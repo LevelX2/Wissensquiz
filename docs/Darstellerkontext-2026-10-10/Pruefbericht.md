@@ -1,6 +1,6 @@
 # Darstellernamen im Fragenbestand
 
-Stand: 10.10.2026. Lokal umgesetzt; noch nicht veröffentlicht.
+Stand: 10.10.2026. Seit Sites-Version 62 um 11:02:31 Uhr Europe/Berlin veröffentlicht; Online- und Duellkatalog abgeglichen. [Veröffentlichungsnachweis](../Veroeffentlichung-2026-10-10-Version-62.json).
 
 Auf den [Nutzerauftrag](../../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Darstellernamen%20im%20Fragenbestand.txt) hin den gesamten öffentlichen Fragenbestand gezielt auf fehlenden Darstellerkontext durchgesehen. Der Ausgangshinweis zur [Brazil-Frage](../Fragenkorrekturen.md#brazil-1985--10102026) war bereits separat umgesetzt.
 
