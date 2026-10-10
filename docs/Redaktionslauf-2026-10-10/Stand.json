@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 1600,
-  "totalReviewed": 1750,
-  "remainingFilmQuestions": 8983,
+  "completedInThisRun": 1650,
+  "totalReviewed": 1800,
+  "remainingFilmQuestions": 8933,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 11023,
+  "remainingAllQuestions": 10973,
   "blocks": [
     {
       "block": 1,
@@ -168,6 +168,11 @@
     {
       "block": 32,
       "path": "Block-32.json",
+      "count": 50
+    },
+    {
+      "block": 33,
+      "path": "Block-33.json",
       "count": 50
     }
   ],
@@ -1921,209 +1926,59 @@
     "HOR-202610-P01-M-015",
     "HOR-202610-P01-S-015",
     "G100-20261008-FANTASY-012-L1",
-    "G100-20261008-FANTASY-012-L2"
+    "G100-20261008-FANTASY-012-L2",
+    "G100-20261008-FANTASY-012-M1",
+    "G100-20261008-FANTASY-012-M2",
+    "G100-20261008-FANTASY-012-S1",
+    "G100-20261008-FANTASY-012-S2",
+    "G100-20261008-FANTASY-012-Y",
+    "G100-20261008-FANTASY-012-D",
+    "SF-202609-P02-L-065",
+    "SF-202609-P02-L-066",
+    "SF-202609-P02-M-065",
+    "SF-202609-P02-M-066",
+    "SF-202609-P02-S-065",
+    "SF-202609-P02-S-066",
+    "SF-202609-P02-M-065-V1",
+    "FF-358-YEAR",
+    "FF-358-DIRECTOR",
+    "E20261007-F-226-L1",
+    "E20261007-F-226-L2",
+    "E20261007-F-226-M1",
+    "E20261007-F-226-M2",
+    "E20261007-F-226-S1",
+    "E20261007-F-226-S2",
+    "E20261007-F-226-Y",
+    "E20261007-F-226-D",
+    "G100-20261008-ROMCOM-003-L1",
+    "G100-20261008-ROMCOM-003-L2",
+    "G100-20261008-ROMCOM-003-M1",
+    "G100-20261008-ROMCOM-003-M2",
+    "G100-20261008-ROMCOM-003-S1",
+    "G100-20261008-ROMCOM-003-S2",
+    "G100-20261008-ROMCOM-003-Y",
+    "G100-20261008-ROMCOM-003-D",
+    "G100-20261008-HORROR-004-L1",
+    "G100-20261008-HORROR-004-L2",
+    "G100-20261008-HORROR-004-M1",
+    "G100-20261008-HORROR-004-M2",
+    "G100-20261008-HORROR-004-S1",
+    "G100-20261008-HORROR-004-S2",
+    "G100-20261008-HORROR-004-Y",
+    "G100-20261008-HORROR-004-D",
+    "ROM-L-015",
+    "ROM-L-016",
+    "ROM-M-015",
+    "ROM-M-016",
+    "ROM-S-015",
+    "ROM-S-016",
+    "FF-258-YEAR",
+    "FF-258-DIRECTOR",
+    "ROM-L-017",
+    "ROM-L-018",
+    "ROM-M-017"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "G100-20261008-FANTASY-012-M1",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "G100-20261008-FANTASY-012-M2",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "G100-20261008-FANTASY-012-S1",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "G100-20261008-FANTASY-012-S2",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "G100-20261008-FANTASY-012-Y",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "G100-20261008-FANTASY-012-D",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "SF-202609-P02-L-065",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-L-066",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-M-065",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-M-066",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-S-065",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-S-066",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-M-065-V1",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "FF-358-YEAR",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "FF-358-DIRECTOR",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "E20261007-F-226-L1",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-L2",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-M1",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-M2",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-S1",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-S2",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-Y",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-D",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-L1",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-L2",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-M1",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-M2",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-S1",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-S2",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-Y",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-D",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-L1",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-L2",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-M1",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-M2",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-S1",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-S2",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-Y",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-D",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "ROM-L-015",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-L-016",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-M-015",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-M-016",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-S-015",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-S-016",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "FF-258-YEAR",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "FF-258-DIRECTOR",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-L-017",
-      "filmKey": "Bridget Jones's Baby|2016"
-    },
-    {
-      "id": "ROM-L-018",
-      "filmKey": "Bridget Jones's Baby|2016"
-    },
-    {
-      "id": "ROM-M-017",
-      "filmKey": "Bridget Jones's Baby|2016"
-    },
     {
       "id": "ROM-M-018",
       "filmKey": "Bridget Jones's Baby|2016"
@@ -37859,204 +37714,204 @@
   ],
   "next": [
     {
-      "id": "G100-20261008-FANTASY-012-M1",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "G100-20261008-FANTASY-012-M2",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "G100-20261008-FANTASY-012-S1",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "G100-20261008-FANTASY-012-S2",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "G100-20261008-FANTASY-012-Y",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "G100-20261008-FANTASY-012-D",
-      "filmKey": "Brave|2012"
-    },
-    {
-      "id": "SF-202609-P02-L-065",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-L-066",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-M-065",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-M-066",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-S-065",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-S-066",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "SF-202609-P02-M-065-V1",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "FF-358-YEAR",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "FF-358-DIRECTOR",
-      "filmKey": "Brazil|1985"
-    },
-    {
-      "id": "E20261007-F-226-L1",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-L2",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-M1",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-M2",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-S1",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-S2",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-Y",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "E20261007-F-226-D",
-      "filmKey": "Breakdown|1997"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-L1",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-L2",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-M1",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-M2",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-S1",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-S2",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-Y",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-003-D",
-      "filmKey": "Breakfast at Tiffany's|1961"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-L1",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-L2",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-M1",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-M2",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-S1",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-S2",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-Y",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "G100-20261008-HORROR-004-D",
-      "filmKey": "Bride of Frankenstein|1935"
-    },
-    {
-      "id": "ROM-L-015",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-L-016",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-M-015",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-M-016",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-S-015",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-S-016",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "FF-258-YEAR",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "FF-258-DIRECTOR",
-      "filmKey": "Bridget Jones: The Edge of Reason|2004"
-    },
-    {
-      "id": "ROM-L-017",
+      "id": "ROM-M-018",
       "filmKey": "Bridget Jones's Baby|2016"
     },
     {
-      "id": "ROM-L-018",
+      "id": "ROM-S-017",
       "filmKey": "Bridget Jones's Baby|2016"
     },
     {
-      "id": "ROM-M-017",
+      "id": "ROM-S-018",
       "filmKey": "Bridget Jones's Baby|2016"
+    },
+    {
+      "id": "FF-259-YEAR",
+      "filmKey": "Bridget Jones's Baby|2016"
+    },
+    {
+      "id": "FF-259-DIRECTOR",
+      "filmKey": "Bridget Jones's Baby|2016"
+    },
+    {
+      "id": "ROM-L-013",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "ROM-L-014",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "ROM-M-013",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "ROM-M-014",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "ROM-S-013",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "ROM-S-014",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "ROM-L-013-V1",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "ROM-L-014-V1",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "ROM-M-013-V1",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "ROM-M-014-V1",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "ROM-S-013-V1",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "ROM-S-014-V1",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "FF-257-YEAR",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "FF-257-DIRECTOR",
+      "filmKey": "Bridget Jones's Diary|2001"
+    },
+    {
+      "id": "F240-20261006-161-L1",
+      "filmKey": "Bringing Up Baby|1938"
+    },
+    {
+      "id": "F240-20261006-161-L2",
+      "filmKey": "Bringing Up Baby|1938"
+    },
+    {
+      "id": "F240-20261006-161-M1",
+      "filmKey": "Bringing Up Baby|1938"
+    },
+    {
+      "id": "F240-20261006-161-M2",
+      "filmKey": "Bringing Up Baby|1938"
+    },
+    {
+      "id": "F240-20261006-161-S1",
+      "filmKey": "Bringing Up Baby|1938"
+    },
+    {
+      "id": "F240-20261006-161-S2",
+      "filmKey": "Bringing Up Baby|1938"
+    },
+    {
+      "id": "F240-20261006-161-Y",
+      "filmKey": "Bringing Up Baby|1938"
+    },
+    {
+      "id": "F240-20261006-161-D",
+      "filmKey": "Bringing Up Baby|1938"
+    },
+    {
+      "id": "G100-20261008-WESTERN-011-L1",
+      "filmKey": "Broken Arrow|1950"
+    },
+    {
+      "id": "G100-20261008-WESTERN-011-L2",
+      "filmKey": "Broken Arrow|1950"
+    },
+    {
+      "id": "G100-20261008-WESTERN-011-M1",
+      "filmKey": "Broken Arrow|1950"
+    },
+    {
+      "id": "G100-20261008-WESTERN-011-M2",
+      "filmKey": "Broken Arrow|1950"
+    },
+    {
+      "id": "G100-20261008-WESTERN-011-S1",
+      "filmKey": "Broken Arrow|1950"
+    },
+    {
+      "id": "G100-20261008-WESTERN-011-S2",
+      "filmKey": "Broken Arrow|1950"
+    },
+    {
+      "id": "G100-20261008-WESTERN-011-Y",
+      "filmKey": "Broken Arrow|1950"
+    },
+    {
+      "id": "G100-20261008-WESTERN-011-D",
+      "filmKey": "Broken Arrow|1950"
+    },
+    {
+      "id": "ART-L-029",
+      "filmKey": "Broken Flowers|2005"
+    },
+    {
+      "id": "ART-L-030",
+      "filmKey": "Broken Flowers|2005"
+    },
+    {
+      "id": "ART-M-029",
+      "filmKey": "Broken Flowers|2005"
+    },
+    {
+      "id": "ART-M-030",
+      "filmKey": "Broken Flowers|2005"
+    },
+    {
+      "id": "ART-S-029",
+      "filmKey": "Broken Flowers|2005"
+    },
+    {
+      "id": "ART-S-030",
+      "filmKey": "Broken Flowers|2005"
+    },
+    {
+      "id": "FF-040-YEAR",
+      "filmKey": "Broken Flowers|2005"
+    },
+    {
+      "id": "FF-040-DIRECTOR",
+      "filmKey": "Broken Flowers|2005"
+    },
+    {
+      "id": "KOM-202609-P02-L-011",
+      "filmKey": "Bruce Almighty|2003"
+    },
+    {
+      "id": "KOM-202609-P02-L-012",
+      "filmKey": "Bruce Almighty|2003"
+    },
+    {
+      "id": "KOM-202609-P02-M-011",
+      "filmKey": "Bruce Almighty|2003"
+    },
+    {
+      "id": "KOM-202609-P02-M-012",
+      "filmKey": "Bruce Almighty|2003"
+    },
+    {
+      "id": "KOM-202609-P02-S-011",
+      "filmKey": "Bruce Almighty|2003"
+    },
+    {
+      "id": "KOM-202609-P02-S-012",
+      "filmKey": "Bruce Almighty|2003"
+    },
+    {
+      "id": "KOM-202609-P02-L-011-V1",
+      "filmKey": "Bruce Almighty|2003"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
