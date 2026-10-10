@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 2150,
-  "totalReviewed": 2300,
-  "remainingFilmQuestions": 8433,
+  "completedInThisRun": 2200,
+  "totalReviewed": 2350,
+  "remainingFilmQuestions": 8383,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 10473,
+  "remainingAllQuestions": 10423,
   "blocks": [
     {
       "block": 1,
@@ -223,6 +223,11 @@
     {
       "block": 43,
       "path": "Block-43.json",
+      "count": 50
+    },
+    {
+      "block": 44,
+      "path": "Block-44.json",
       "count": 50
     }
   ],
@@ -2526,209 +2531,59 @@
     "ROM-202610-P01-M-010",
     "ROM-202610-P01-M-011",
     "ROM-202610-P01-S-010",
-    "ROM-202610-P01-S-011"
+    "ROM-202610-P01-S-011",
+    "ROM-202610-P01-M-012",
+    "ROM-202610-P01-S-012",
+    "E20261007-F-096-L1",
+    "E20261007-F-096-L2",
+    "E20261007-F-096-M1",
+    "E20261007-F-096-M2",
+    "E20261007-F-096-S1",
+    "E20261007-F-096-S2",
+    "E20261007-F-096-Y",
+    "E20261007-F-096-D",
+    "E20261007-F-024-L1",
+    "E20261007-F-024-L2",
+    "E20261007-F-024-M1",
+    "E20261007-F-024-M2",
+    "E20261007-F-024-S1",
+    "E20261007-F-024-S2",
+    "E20261007-F-024-Y",
+    "E20261007-F-024-D",
+    "MAR-L-043",
+    "MAR-L-044",
+    "MAR-M-043",
+    "MAR-M-044",
+    "MAR-S-043",
+    "MAR-S-044",
+    "MAR-L-044-V1",
+    "MAR-M-044-V1",
+    "MAR-S-044-V1",
+    "FF-247-YEAR",
+    "FF-247-DIRECTOR",
+    "SFI-202610-P01-L-009",
+    "SFI-202610-P01-L-010",
+    "SFI-202610-P01-M-013",
+    "SFI-202610-P01-M-014",
+    "SFI-202610-P01-S-013",
+    "SFI-202610-P01-S-014",
+    "SFI-202610-P01-M-015",
+    "SFI-202610-P01-S-015",
+    "G100-20261008-ABENTEUER-018-L1",
+    "G100-20261008-ABENTEUER-018-L2",
+    "G100-20261008-ABENTEUER-018-M1",
+    "G100-20261008-ABENTEUER-018-M2",
+    "G100-20261008-ABENTEUER-018-S1",
+    "G100-20261008-ABENTEUER-018-S2",
+    "G100-20261008-ABENTEUER-018-Y",
+    "G100-20261008-ABENTEUER-018-D",
+    "E20261007-F-214-L1",
+    "E20261007-F-214-L2",
+    "E20261007-F-214-M1",
+    "E20261007-F-214-M2",
+    "E20261007-F-214-S1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "ROM-202610-P01-M-012",
-      "filmKey": "Crazy, Stupid, Love.|2011"
-    },
-    {
-      "id": "ROM-202610-P01-S-012",
-      "filmKey": "Crazy, Stupid, Love.|2011"
-    },
-    {
-      "id": "E20261007-F-096-L1",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-L2",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-M1",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-M2",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-S1",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-S2",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-Y",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-D",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-024-L1",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-L2",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-M1",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-M2",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-S1",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-S2",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-Y",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-D",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "MAR-L-043",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-L-044",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-M-043",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-M-044",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-S-043",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-S-044",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-L-044-V1",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-M-044-V1",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-S-044-V1",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "FF-247-YEAR",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "FF-247-DIRECTOR",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "SFI-202610-P01-L-009",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-L-010",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-M-013",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-M-014",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-S-013",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-S-014",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-M-015",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-S-015",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-L1",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-L2",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-M1",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-M2",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-S1",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-S2",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-Y",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-D",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "E20261007-F-214-L1",
-      "filmKey": "Cypher|2002"
-    },
-    {
-      "id": "E20261007-F-214-L2",
-      "filmKey": "Cypher|2002"
-    },
-    {
-      "id": "E20261007-F-214-M1",
-      "filmKey": "Cypher|2002"
-    },
-    {
-      "id": "E20261007-F-214-M2",
-      "filmKey": "Cypher|2002"
-    },
-    {
-      "id": "E20261007-F-214-S1",
-      "filmKey": "Cypher|2002"
-    },
     {
       "id": "E20261007-F-214-S2",
       "filmKey": "Cypher|2002"
@@ -36264,204 +36119,204 @@
   ],
   "next": [
     {
-      "id": "ROM-202610-P01-M-012",
-      "filmKey": "Crazy, Stupid, Love.|2011"
-    },
-    {
-      "id": "ROM-202610-P01-S-012",
-      "filmKey": "Crazy, Stupid, Love.|2011"
-    },
-    {
-      "id": "E20261007-F-096-L1",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-L2",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-M1",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-M2",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-S1",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-S2",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-Y",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-096-D",
-      "filmKey": "Creature from the Black Lagoon|1954"
-    },
-    {
-      "id": "E20261007-F-024-L1",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-L2",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-M1",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-M2",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-S1",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-S2",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-Y",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "E20261007-F-024-D",
-      "filmKey": "Crimson Tide|1995"
-    },
-    {
-      "id": "MAR-L-043",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-L-044",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-M-043",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-M-044",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-S-043",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-S-044",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-L-044-V1",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-M-044-V1",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "MAR-S-044-V1",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "FF-247-YEAR",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "FF-247-DIRECTOR",
-      "filmKey": "Crouching Tiger, Hidden Dragon|2000"
-    },
-    {
-      "id": "SFI-202610-P01-L-009",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-L-010",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-M-013",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-M-014",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-S-013",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-S-014",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-M-015",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "SFI-202610-P01-S-015",
-      "filmKey": "Cube|1997"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-L1",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-L2",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-M1",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-M2",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-S1",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-S2",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-Y",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-018-D",
-      "filmKey": "Cutthroat Island|1995"
-    },
-    {
-      "id": "E20261007-F-214-L1",
+      "id": "E20261007-F-214-S2",
       "filmKey": "Cypher|2002"
     },
     {
-      "id": "E20261007-F-214-L2",
+      "id": "E20261007-F-214-Y",
       "filmKey": "Cypher|2002"
     },
     {
-      "id": "E20261007-F-214-M1",
+      "id": "E20261007-F-214-D",
       "filmKey": "Cypher|2002"
     },
     {
-      "id": "E20261007-F-214-M2",
-      "filmKey": "Cypher|2002"
+      "id": "E20261007-F-049-L1",
+      "filmKey": "Dallas Buyers Club|2013"
     },
     {
-      "id": "E20261007-F-214-S1",
-      "filmKey": "Cypher|2002"
+      "id": "E20261007-F-049-L2",
+      "filmKey": "Dallas Buyers Club|2013"
+    },
+    {
+      "id": "E20261007-F-049-M1",
+      "filmKey": "Dallas Buyers Club|2013"
+    },
+    {
+      "id": "E20261007-F-049-M2",
+      "filmKey": "Dallas Buyers Club|2013"
+    },
+    {
+      "id": "E20261007-F-049-S1",
+      "filmKey": "Dallas Buyers Club|2013"
+    },
+    {
+      "id": "E20261007-F-049-S2",
+      "filmKey": "Dallas Buyers Club|2013"
+    },
+    {
+      "id": "E20261007-F-049-Y",
+      "filmKey": "Dallas Buyers Club|2013"
+    },
+    {
+      "id": "E20261007-F-049-D",
+      "filmKey": "Dallas Buyers Club|2013"
+    },
+    {
+      "id": "E20261007-F-192-L1",
+      "filmKey": "Dan in Real Life|2007"
+    },
+    {
+      "id": "E20261007-F-192-L2",
+      "filmKey": "Dan in Real Life|2007"
+    },
+    {
+      "id": "E20261007-F-192-M1",
+      "filmKey": "Dan in Real Life|2007"
+    },
+    {
+      "id": "E20261007-F-192-M2",
+      "filmKey": "Dan in Real Life|2007"
+    },
+    {
+      "id": "E20261007-F-192-S1",
+      "filmKey": "Dan in Real Life|2007"
+    },
+    {
+      "id": "E20261007-F-192-S2",
+      "filmKey": "Dan in Real Life|2007"
+    },
+    {
+      "id": "E20261007-F-192-Y",
+      "filmKey": "Dan in Real Life|2007"
+    },
+    {
+      "id": "E20261007-F-192-D",
+      "filmKey": "Dan in Real Life|2007"
+    },
+    {
+      "id": "E20261007-F-097-L1",
+      "filmKey": "Dance of the Vampires|1967"
+    },
+    {
+      "id": "E20261007-F-097-L2",
+      "filmKey": "Dance of the Vampires|1967"
+    },
+    {
+      "id": "E20261007-F-097-M1",
+      "filmKey": "Dance of the Vampires|1967"
+    },
+    {
+      "id": "E20261007-F-097-M2",
+      "filmKey": "Dance of the Vampires|1967"
+    },
+    {
+      "id": "E20261007-F-097-S1",
+      "filmKey": "Dance of the Vampires|1967"
+    },
+    {
+      "id": "E20261007-F-097-S2",
+      "filmKey": "Dance of the Vampires|1967"
+    },
+    {
+      "id": "E20261007-F-097-Y",
+      "filmKey": "Dance of the Vampires|1967"
+    },
+    {
+      "id": "E20261007-F-097-D",
+      "filmKey": "Dance of the Vampires|1967"
+    },
+    {
+      "id": "F240-20261006-148-L1",
+      "filmKey": "Dancer in the Dark|2000"
+    },
+    {
+      "id": "F240-20261006-148-L2",
+      "filmKey": "Dancer in the Dark|2000"
+    },
+    {
+      "id": "F240-20261006-148-M1",
+      "filmKey": "Dancer in the Dark|2000"
+    },
+    {
+      "id": "F240-20261006-148-M2",
+      "filmKey": "Dancer in the Dark|2000"
+    },
+    {
+      "id": "F240-20261006-148-S1",
+      "filmKey": "Dancer in the Dark|2000"
+    },
+    {
+      "id": "F240-20261006-148-S2",
+      "filmKey": "Dancer in the Dark|2000"
+    },
+    {
+      "id": "F240-20261006-148-Y",
+      "filmKey": "Dancer in the Dark|2000"
+    },
+    {
+      "id": "F240-20261006-148-D",
+      "filmKey": "Dancer in the Dark|2000"
+    },
+    {
+      "id": "WES-L-021",
+      "filmKey": "Dances with Wolves|1990"
+    },
+    {
+      "id": "WES-L-022",
+      "filmKey": "Dances with Wolves|1990"
+    },
+    {
+      "id": "WES-M-021",
+      "filmKey": "Dances with Wolves|1990"
+    },
+    {
+      "id": "WES-M-022",
+      "filmKey": "Dances with Wolves|1990"
+    },
+    {
+      "id": "WES-S-021",
+      "filmKey": "Dances with Wolves|1990"
+    },
+    {
+      "id": "WES-S-022",
+      "filmKey": "Dances with Wolves|1990"
+    },
+    {
+      "id": "WES-L-022-V1",
+      "filmKey": "Dances with Wolves|1990"
+    },
+    {
+      "id": "WES-M-022-V1",
+      "filmKey": "Dances with Wolves|1990"
+    },
+    {
+      "id": "WES-S-022-V1",
+      "filmKey": "Dances with Wolves|1990"
+    },
+    {
+      "id": "FF-286-YEAR",
+      "filmKey": "Dances with Wolves|1990"
+    },
+    {
+      "id": "FF-286-DIRECTOR",
+      "filmKey": "Dances with Wolves|1990"
+    },
+    {
+      "id": "SF-L-036",
+      "filmKey": "Dark City|1998"
+    },
+    {
+      "id": "SF-M-036",
+      "filmKey": "Dark City|1998"
+    },
+    {
+      "id": "SF-S-036",
+      "filmKey": "Dark City|1998"
+    },
+    {
+      "id": "FF-161-YEAR",
+      "filmKey": "Dark City|1998"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
