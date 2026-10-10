@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 2200,
-  "totalReviewed": 2350,
-  "remainingFilmQuestions": 8383,
+  "completedInThisRun": 2250,
+  "totalReviewed": 2400,
+  "remainingFilmQuestions": 8333,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 10423,
+  "remainingAllQuestions": 10373,
   "blocks": [
     {
       "block": 1,
@@ -228,6 +228,11 @@
     {
       "block": 44,
       "path": "Block-44.json",
+      "count": 50
+    },
+    {
+      "block": 45,
+      "path": "Block-45.json",
       "count": 50
     }
   ],
@@ -2581,209 +2586,59 @@
     "E20261007-F-214-L2",
     "E20261007-F-214-M1",
     "E20261007-F-214-M2",
-    "E20261007-F-214-S1"
+    "E20261007-F-214-S1",
+    "E20261007-F-214-S2",
+    "E20261007-F-214-Y",
+    "E20261007-F-214-D",
+    "E20261007-F-049-L1",
+    "E20261007-F-049-L2",
+    "E20261007-F-049-M1",
+    "E20261007-F-049-M2",
+    "E20261007-F-049-S1",
+    "E20261007-F-049-S2",
+    "E20261007-F-049-Y",
+    "E20261007-F-049-D",
+    "E20261007-F-192-L1",
+    "E20261007-F-192-L2",
+    "E20261007-F-192-M1",
+    "E20261007-F-192-M2",
+    "E20261007-F-192-S1",
+    "E20261007-F-192-S2",
+    "E20261007-F-192-Y",
+    "E20261007-F-192-D",
+    "E20261007-F-097-L1",
+    "E20261007-F-097-L2",
+    "E20261007-F-097-M1",
+    "E20261007-F-097-M2",
+    "E20261007-F-097-S1",
+    "E20261007-F-097-S2",
+    "E20261007-F-097-Y",
+    "E20261007-F-097-D",
+    "F240-20261006-148-L1",
+    "F240-20261006-148-L2",
+    "F240-20261006-148-M1",
+    "F240-20261006-148-M2",
+    "F240-20261006-148-S1",
+    "F240-20261006-148-S2",
+    "F240-20261006-148-Y",
+    "F240-20261006-148-D",
+    "WES-L-021",
+    "WES-L-022",
+    "WES-M-021",
+    "WES-M-022",
+    "WES-S-021",
+    "WES-S-022",
+    "WES-L-022-V1",
+    "WES-M-022-V1",
+    "WES-S-022-V1",
+    "FF-286-YEAR",
+    "FF-286-DIRECTOR",
+    "SF-L-036",
+    "SF-M-036",
+    "SF-S-036",
+    "FF-161-YEAR"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "E20261007-F-214-S2",
-      "filmKey": "Cypher|2002"
-    },
-    {
-      "id": "E20261007-F-214-Y",
-      "filmKey": "Cypher|2002"
-    },
-    {
-      "id": "E20261007-F-214-D",
-      "filmKey": "Cypher|2002"
-    },
-    {
-      "id": "E20261007-F-049-L1",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-L2",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-M1",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-M2",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-S1",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-S2",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-Y",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-D",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-192-L1",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-L2",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-M1",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-M2",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-S1",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-S2",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-Y",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-D",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-097-L1",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-L2",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-M1",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-M2",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-S1",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-S2",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-Y",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-D",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "F240-20261006-148-L1",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-L2",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-M1",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-M2",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-S1",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-S2",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-Y",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-D",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "WES-L-021",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-L-022",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-M-021",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-M-022",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-S-021",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-S-022",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-L-022-V1",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-M-022-V1",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-S-022-V1",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "FF-286-YEAR",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "FF-286-DIRECTOR",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "SF-L-036",
-      "filmKey": "Dark City|1998"
-    },
-    {
-      "id": "SF-M-036",
-      "filmKey": "Dark City|1998"
-    },
-    {
-      "id": "SF-S-036",
-      "filmKey": "Dark City|1998"
-    },
-    {
-      "id": "FF-161-YEAR",
-      "filmKey": "Dark City|1998"
-    },
     {
       "id": "FF-161-DIRECTOR",
       "filmKey": "Dark City|1998"
@@ -36119,204 +35974,204 @@
   ],
   "next": [
     {
-      "id": "E20261007-F-214-S2",
-      "filmKey": "Cypher|2002"
-    },
-    {
-      "id": "E20261007-F-214-Y",
-      "filmKey": "Cypher|2002"
-    },
-    {
-      "id": "E20261007-F-214-D",
-      "filmKey": "Cypher|2002"
-    },
-    {
-      "id": "E20261007-F-049-L1",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-L2",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-M1",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-M2",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-S1",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-S2",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-Y",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-049-D",
-      "filmKey": "Dallas Buyers Club|2013"
-    },
-    {
-      "id": "E20261007-F-192-L1",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-L2",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-M1",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-M2",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-S1",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-S2",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-Y",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-192-D",
-      "filmKey": "Dan in Real Life|2007"
-    },
-    {
-      "id": "E20261007-F-097-L1",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-L2",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-M1",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-M2",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-S1",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-S2",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-Y",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "E20261007-F-097-D",
-      "filmKey": "Dance of the Vampires|1967"
-    },
-    {
-      "id": "F240-20261006-148-L1",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-L2",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-M1",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-M2",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-S1",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-S2",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-Y",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "F240-20261006-148-D",
-      "filmKey": "Dancer in the Dark|2000"
-    },
-    {
-      "id": "WES-L-021",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-L-022",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-M-021",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-M-022",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-S-021",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-S-022",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-L-022-V1",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-M-022-V1",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "WES-S-022-V1",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "FF-286-YEAR",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "FF-286-DIRECTOR",
-      "filmKey": "Dances with Wolves|1990"
-    },
-    {
-      "id": "SF-L-036",
+      "id": "FF-161-DIRECTOR",
       "filmKey": "Dark City|1998"
     },
     {
-      "id": "SF-M-036",
-      "filmKey": "Dark City|1998"
+      "id": "SF-202609-P02-L-059",
+      "filmKey": "Dark Star|1974"
     },
     {
-      "id": "SF-S-036",
-      "filmKey": "Dark City|1998"
+      "id": "SF-202609-P02-L-060",
+      "filmKey": "Dark Star|1974"
     },
     {
-      "id": "FF-161-YEAR",
-      "filmKey": "Dark City|1998"
+      "id": "SF-202609-P02-M-059",
+      "filmKey": "Dark Star|1974"
+    },
+    {
+      "id": "SF-202609-P02-M-060",
+      "filmKey": "Dark Star|1974"
+    },
+    {
+      "id": "SF-202609-P02-S-059",
+      "filmKey": "Dark Star|1974"
+    },
+    {
+      "id": "SF-202609-P02-S-060",
+      "filmKey": "Dark Star|1974"
+    },
+    {
+      "id": "SF-202609-P02-M-059-V1",
+      "filmKey": "Dark Star|1974"
+    },
+    {
+      "id": "FF-355-YEAR",
+      "filmKey": "Dark Star|1974"
+    },
+    {
+      "id": "FF-355-DIRECTOR",
+      "filmKey": "Dark Star|1974"
+    },
+    {
+      "id": "DRA-L-041",
+      "filmKey": "Das Boot|1981"
+    },
+    {
+      "id": "DRA-L-042",
+      "filmKey": "Das Boot|1981"
+    },
+    {
+      "id": "DRA-M-041",
+      "filmKey": "Das Boot|1981"
+    },
+    {
+      "id": "DRA-M-042",
+      "filmKey": "Das Boot|1981"
+    },
+    {
+      "id": "DRA-S-041",
+      "filmKey": "Das Boot|1981"
+    },
+    {
+      "id": "DRA-S-042",
+      "filmKey": "Das Boot|1981"
+    },
+    {
+      "id": "FF-096-YEAR",
+      "filmKey": "Das Boot|1981"
+    },
+    {
+      "id": "FF-096-DIRECTOR",
+      "filmKey": "Das Boot|1981"
+    },
+    {
+      "id": "E20261007-F-108-L1",
+      "filmKey": "Das finstere Tal|2014"
+    },
+    {
+      "id": "E20261007-F-108-L2",
+      "filmKey": "Das finstere Tal|2014"
+    },
+    {
+      "id": "E20261007-F-108-M1",
+      "filmKey": "Das finstere Tal|2014"
+    },
+    {
+      "id": "E20261007-F-108-M2",
+      "filmKey": "Das finstere Tal|2014"
+    },
+    {
+      "id": "E20261007-F-108-S1",
+      "filmKey": "Das finstere Tal|2014"
+    },
+    {
+      "id": "E20261007-F-108-S2",
+      "filmKey": "Das finstere Tal|2014"
+    },
+    {
+      "id": "E20261007-F-108-Y",
+      "filmKey": "Das finstere Tal|2014"
+    },
+    {
+      "id": "E20261007-F-108-D",
+      "filmKey": "Das finstere Tal|2014"
+    },
+    {
+      "id": "DRA-L-039",
+      "filmKey": "Das Leben der Anderen|2006"
+    },
+    {
+      "id": "DRA-L-040",
+      "filmKey": "Das Leben der Anderen|2006"
+    },
+    {
+      "id": "DRA-M-039",
+      "filmKey": "Das Leben der Anderen|2006"
+    },
+    {
+      "id": "DRA-M-040",
+      "filmKey": "Das Leben der Anderen|2006"
+    },
+    {
+      "id": "DRA-S-039",
+      "filmKey": "Das Leben der Anderen|2006"
+    },
+    {
+      "id": "DRA-S-040",
+      "filmKey": "Das Leben der Anderen|2006"
+    },
+    {
+      "id": "DRA-L-040-V1",
+      "filmKey": "Das Leben der Anderen|2006"
+    },
+    {
+      "id": "DRA-M-040-V1",
+      "filmKey": "Das Leben der Anderen|2006"
+    },
+    {
+      "id": "DRA-S-040-V1",
+      "filmKey": "Das Leben der Anderen|2006"
+    },
+    {
+      "id": "FF-095-YEAR",
+      "filmKey": "Das Leben der Anderen|2006"
+    },
+    {
+      "id": "FF-095-DIRECTOR",
+      "filmKey": "Das Leben der Anderen|2006"
+    },
+    {
+      "id": "F240-20261006-098-L1",
+      "filmKey": "Dawn of the Dead|1978"
+    },
+    {
+      "id": "F240-20261006-098-L2",
+      "filmKey": "Dawn of the Dead|1978"
+    },
+    {
+      "id": "F240-20261006-098-M1",
+      "filmKey": "Dawn of the Dead|1978"
+    },
+    {
+      "id": "F240-20261006-098-M2",
+      "filmKey": "Dawn of the Dead|1978"
+    },
+    {
+      "id": "F240-20261006-098-S1",
+      "filmKey": "Dawn of the Dead|1978"
+    },
+    {
+      "id": "F240-20261006-098-S2",
+      "filmKey": "Dawn of the Dead|1978"
+    },
+    {
+      "id": "F240-20261006-098-Y",
+      "filmKey": "Dawn of the Dead|1978"
+    },
+    {
+      "id": "F240-20261006-098-D",
+      "filmKey": "Dawn of the Dead|1978"
+    },
+    {
+      "id": "ART-L-025",
+      "filmKey": "Dead Man|1995"
+    },
+    {
+      "id": "ART-L-026",
+      "filmKey": "Dead Man|1995"
+    },
+    {
+      "id": "ART-M-025",
+      "filmKey": "Dead Man|1995"
+    },
+    {
+      "id": "ART-M-026",
+      "filmKey": "Dead Man|1995"
+    },
+    {
+      "id": "ART-S-025",
+      "filmKey": "Dead Man|1995"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
