@@ -1,0 +1,1555 @@
+{
+  "asOf": "2026-10-10",
+  "status": "Zweite Qualitätsrunde: Originale gesichert; Vorschläge zur Durchsicht, nicht freigegeben oder integriert",
+  "seed": "Qualitaetsrunde-2-2026-10-10",
+  "sourceCommit": "445ce58d9f982da49fb19740c8c049e543c62cce",
+  "catalogCount": 12773,
+  "sample": [
+    {
+      "genre": "Science-Fiction",
+      "candidateCount": 286,
+      "selectionHash": "0095fdf2329c978f26594465a93c8d5c48c8da3369f74fca8a7d15bb3736aa59",
+      "id": "E20261007-F-212-L1",
+      "knowledgeId": "K-E20261007-F-212-L1",
+      "version": "csv-d9a06786",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Starman",
+      "difficulty": "leicht",
+      "question": "Welche Gestalt nimmt der Besucher (Jeff Bridges) in „Starman“ auf der Erde an?",
+      "answers": [
+        {
+          "id": "E20261007-F-212-L1:a",
+          "text": "Die von Jennys verstorbenem Ehemann.",
+          "feedback": "Er nutzt eine Haarsträhne des verstorbenen Scott."
+        },
+        {
+          "id": "E20261007-F-212-L1:b",
+          "text": "Die eines führenden Regierungsbeamten.",
+          "feedback": "Er kopiert keinen Regierungsbeamten."
+        },
+        {
+          "id": "E20261007-F-212-L1:c",
+          "text": "Die eines Kindes aus Jennys Nachbarschaft.",
+          "feedback": "Er erscheint nicht als Nachbarskind."
+        },
+        {
+          "id": "E20261007-F-212-L1:d",
+          "text": "Die seines menschlichen Verfolgers.",
+          "feedback": "Die Körpervorlage stammt nicht von einem Verfolger."
+        }
+      ],
+      "correctId": "E20261007-F-212-L1:a",
+      "explanation": "Er nutzt eine Haarsträhne des verstorbenen Scott.",
+      "context": "Jenny (Karen Allen) begegnet einem Wesen, das wie ihr verstorbener Mann aussieht. Der vertraute Körper trägt jedoch zunächst fremdes Verhalten. Jeff Bridges muss deshalb Nähe und Unbekanntheit gleichzeitig darstellen. Für Jenny verbindet die Begegnung den Schmerz des Verlustes mit einer neuen Person, die erst lernen muss, in dieser Umgebung zu leben.",
+      "anchor": "Das vertraute Gesicht des verstorbenen Mannes gehört nun einem fremden Besucher.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Starman_(1984_film)",
+        "https://www.sonypictures.com/movies/starman"
+      ],
+      "tags": [
+        "Science-Fiction"
+      ],
+      "badgeTags": [
+        "Science-Fiction"
+      ],
+      "metadata": {
+        "question_id": "E20261007-F-212-L1",
+        "knowledge_id": "K-E20261007-F-212-L1",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Science-Fiction",
+        "film_title_de": "Starman",
+        "film_title_original": "Starman",
+        "film_year": "1984",
+        "franchise": "",
+        "difficulty": "leicht",
+        "question_type": "Filmwissen",
+        "topic_tags": "Science-Fiction",
+        "badge_tags": "Science-Fiction",
+        "learning_objective": "Das vertraute Gesicht des verstorbenen Mannes gehört nun einem fremden Besucher.",
+        "question": "Welche Gestalt nimmt der Besucher (Jeff Bridges) in „Starman“ auf der Erde an?",
+        "answer_a": "Die von Jennys verstorbenem Ehemann.",
+        "answer_b": "Die eines führenden Regierungsbeamten.",
+        "answer_c": "Die eines Kindes aus Jennys Nachbarschaft.",
+        "answer_d": "Die seines menschlichen Verfolgers.",
+        "correct_answer": "A",
+        "explanation_short": "Er nutzt eine Haarsträhne des verstorbenen Scott.",
+        "explanation_context": "Jenny (Karen Allen) begegnet einem Wesen, das wie ihr verstorbener Mann aussieht. Der vertraute Körper trägt jedoch zunächst fremdes Verhalten. Jeff Bridges muss deshalb Nähe und Unbekanntheit gleichzeitig darstellen. Für Jenny verbindet die Begegnung den Schmerz des Verlustes mit einer neuen Person, die erst lernen muss, in dieser Umgebung zu leben.",
+        "feedback_a": "Er nutzt eine Haarsträhne des verstorbenen Scott.",
+        "feedback_b": "Er kopiert keinen Regierungsbeamten.",
+        "feedback_c": "Er erscheint nicht als Nachbarskind.",
+        "feedback_d": "Die Körpervorlage stammt nicht von einem Verfolger.",
+        "memory_anchor": "Das vertraute Gesicht des verstorbenen Mannes gehört nun einem fremden Besucher.",
+        "spoiler_level": "gering",
+        "source_urls": "https://en.wikipedia.org/wiki/Starman_(1984_film)|https://www.sonypictures.com/movies/starman",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Jenny (Karen Allen) begegnet einem Wesen, das wie ihr verstorbener Mann aussieht. Der vertraute Körper trägt jedoch zunächst fremdes Verhalten. Jeff Bridges muss deshalb Nähe und Unbekanntheit gleichzeitig darstellen. Für Jenny verbindet die Begegnung den Schmerz des Verlustes mit einer neuen Person, die erst lernen muss, in dieser Umgebung zu leben.",
+        "anchor": "Das vertraute Gesicht des verstorbenen Mannes gehört nun einem fremden Besucher.",
+        "answers": [
+          {
+            "id": "E20261007-F-212-L1:a",
+            "text": "Die von Jennys verstorbenem Ehemann.",
+            "feedback": "Er nutzt eine Haarsträhne des verstorbenen Scott.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "E20261007-F-212-L1:b",
+            "text": "Die eines führenden Regierungsbeamten.",
+            "feedback": "Er kopiert keinen Regierungsbeamten.",
+            "visibleFeedback": "Er kopiert keinen Regierungsbeamten."
+          },
+          {
+            "id": "E20261007-F-212-L1:c",
+            "text": "Die eines Kindes aus Jennys Nachbarschaft.",
+            "feedback": "Er erscheint nicht als Nachbarskind.",
+            "visibleFeedback": "Er erscheint nicht als Nachbarskind."
+          },
+          {
+            "id": "E20261007-F-212-L1:d",
+            "text": "Die seines menschlichen Verfolgers.",
+            "feedback": "Die Körpervorlage stammt nicht von einem Verfolger.",
+            "visibleFeedback": "Die Körpervorlage stammt nicht von einem Verfolger."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Starman_(1984_film)",
+          "https://www.sonypictures.com/movies/starman"
+        ]
+      }
+    },
+    {
+      "genre": "Action",
+      "candidateCount": 348,
+      "selectionHash": "017faa8edf07e2f38803dfa38c3dcfefff2192a00add493a7ff97907f4864571",
+      "id": "ACT-M-001",
+      "knowledgeId": "K-ACT-01-holly-ehefrau",
+      "version": "csv-df2ab7df",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Stirb langsam",
+      "difficulty": "mittel",
+      "question": "„Stirb langsam“ (1988): In welcher Beziehung steht die Geisel Holly (Bonnie Bedelia) zu McClane (Bruce Willis)?",
+      "answers": [
+        {
+          "id": "ACT-M-001:a",
+          "text": "Sie ist seine Ehefrau.",
+          "feedback": "Holly und John sind verheiratet, leben wegen ihrer beruflichen und persönlichen Konflikte aber getrennt."
+        },
+        {
+          "id": "ACT-M-001:b",
+          "text": "Sie ist seine frühere Partnerin im Polizeidienst.",
+          "feedback": "Holly ist keine ehemalige Polizeikollegin, sondern seine Frau."
+        },
+        {
+          "id": "ACT-M-001:c",
+          "text": "Sie ist seine Vorgesetzte.",
+          "feedback": "Sie arbeitet für Nakatomi und führt nicht Johns Polizeieinheit."
+        },
+        {
+          "id": "ACT-M-001:d",
+          "text": "Sie ist seine Schwester.",
+          "feedback": "Holly ist nicht seine Schwester; ihr Konflikt betrifft ihre Ehe."
+        }
+      ],
+      "correctId": "ACT-M-001:a",
+      "explanation": "Holly und John sind verheiratet, leben wegen ihrer beruflichen und persönlichen Konflikte aber getrennt.",
+      "context": "Holly Gennero, gespielt von Bonnie Bedelia, hat sich in Los Angeles eine berufliche Stellung aufgebaut. John kommt aus New York zu Besuch und fühlt sich von ihrem neuen Leben übergangen. Die Geiselnahme unterbricht ihren Streit. Damit muss er nicht nur eine Gruppe retten, sondern auch seine Haltung gegenüber Hollys Eigenständigkeit überdenken.",
+      "anchor": "Holly ist Johns Frau und eine eigenständige Führungskraft.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Die_Hard"
+      ],
+      "tags": [
+        "Geiselnahme",
+        "Raub",
+        "Polizei"
+      ],
+      "badgeTags": [
+        "Stirb langsam",
+        "Polizeifilme",
+        "Raubfilme"
+      ],
+      "metadata": {
+        "question_id": "ACT-M-001",
+        "knowledge_id": "K-ACT-01-holly-ehefrau",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Action",
+        "film_title_de": "Stirb langsam",
+        "film_title_original": "Die Hard",
+        "film_year": "1988",
+        "franchise": "Stirb langsam",
+        "difficulty": "mittel",
+        "question_type": "Beziehung",
+        "topic_tags": "Geiselnahme|Raub|Polizei",
+        "badge_tags": "Stirb langsam|Polizeifilme|Raubfilme",
+        "learning_objective": "Holly ist Johns Frau und eine eigenständige Führungskraft.",
+        "question": "„Stirb langsam“ (1988): In welcher Beziehung steht die Geisel Holly (Bonnie Bedelia) zu McClane (Bruce Willis)?",
+        "answer_a": "Sie ist seine Ehefrau.",
+        "answer_b": "Sie ist seine frühere Partnerin im Polizeidienst.",
+        "answer_c": "Sie ist seine Vorgesetzte.",
+        "answer_d": "Sie ist seine Schwester.",
+        "correct_answer": "A",
+        "explanation_short": "Holly und John sind verheiratet, leben wegen ihrer beruflichen und persönlichen Konflikte aber getrennt.",
+        "explanation_context": "Holly Gennero, gespielt von Bonnie Bedelia, hat sich in Los Angeles eine berufliche Stellung aufgebaut. John kommt aus New York zu Besuch und fühlt sich von ihrem neuen Leben übergangen. Die Geiselnahme unterbricht ihren Streit. Damit muss er nicht nur eine Gruppe retten, sondern auch seine Haltung gegenüber Hollys Eigenständigkeit überdenken.",
+        "feedback_a": "Holly und John sind verheiratet, leben wegen ihrer beruflichen und persönlichen Konflikte aber getrennt.",
+        "feedback_b": "Holly ist keine ehemalige Polizeikollegin, sondern seine Frau.",
+        "feedback_c": "Sie arbeitet für Nakatomi und führt nicht Johns Polizeieinheit.",
+        "feedback_d": "Holly ist nicht seine Schwester; ihr Konflikt betrifft ihre Ehe.",
+        "memory_anchor": "Holly ist Johns Frau und eine eigenständige Führungskraft.",
+        "spoiler_level": "Handlung",
+        "source_urls": "https://en.wikipedia.org/wiki/Die_Hard",
+        "verification_status": "redaktionell_geprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Holly Gennero, gespielt von Bonnie Bedelia, hat sich in Los Angeles eine berufliche Stellung aufgebaut. John kommt aus New York zu Besuch und fühlt sich von ihrem neuen Leben übergangen. Die Geiselnahme unterbricht ihren Streit. Damit muss er nicht nur eine Gruppe retten, sondern auch seine Haltung gegenüber Hollys Eigenständigkeit überdenken.",
+        "cast": "John McClane wird von Bruce Willis gespielt.",
+        "anchor": "Holly ist Johns Frau und eine eigenständige Führungskraft.",
+        "answers": [
+          {
+            "id": "ACT-M-001:a",
+            "text": "Sie ist seine Ehefrau.",
+            "feedback": "Holly und John sind verheiratet, leben wegen ihrer beruflichen und persönlichen Konflikte aber getrennt.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "ACT-M-001:b",
+            "text": "Sie ist seine frühere Partnerin im Polizeidienst.",
+            "feedback": "Holly ist keine ehemalige Polizeikollegin, sondern seine Frau.",
+            "visibleFeedback": "Holly ist keine ehemalige Polizeikollegin, sondern seine Frau."
+          },
+          {
+            "id": "ACT-M-001:c",
+            "text": "Sie ist seine Vorgesetzte.",
+            "feedback": "Sie arbeitet für Nakatomi und führt nicht Johns Polizeieinheit.",
+            "visibleFeedback": "Sie arbeitet für Nakatomi und führt nicht Johns Polizeieinheit."
+          },
+          {
+            "id": "ACT-M-001:d",
+            "text": "Sie ist seine Schwester.",
+            "feedback": "Holly ist nicht seine Schwester; ihr Konflikt betrifft ihre Ehe.",
+            "visibleFeedback": "Holly ist nicht seine Schwester; ihr Konflikt betrifft ihre Ehe."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Die_Hard"
+        ]
+      }
+    },
+    {
+      "genre": "Horror",
+      "candidateCount": 218,
+      "selectionHash": "0002c5ce7c049097dcb7bae775d579efce3c883ad4fa5843b96861dc97627eff",
+      "id": "HOR-S-022",
+      "knowledgeId": "K-HOR-11-zeitungsausschnitte",
+      "version": "csv-8a173616",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Misery",
+      "difficulty": "schwer",
+      "question": "„Misery“ (1990): Welche Vergangenheit entdeckt Paul in Annies Sammlung von Zeitungsausschnitten?",
+      "answers": [
+        {
+          "id": "HOR-S-022:a",
+          "text": "Sie hatte unter einem anderen Namen erfolgreiche Romane veröffentlicht.",
+          "feedback": "Eine frühere Schriftstellerkarriere wird dadurch nicht enthüllt."
+        },
+        {
+          "id": "HOR-S-022:b",
+          "text": "Sie hatte früher als Ermittlerin eine Entführungsserie aufgeklärt.",
+          "feedback": "Annie war keine erfolgreiche Ermittlerin dieser Art."
+        },
+        {
+          "id": "HOR-S-022:c",
+          "text": "Sie war wegen gestohlener Filmmanuskripte verurteilt worden.",
+          "feedback": "Die Berichte handeln nicht von gestohlenen Drehbüchern."
+        },
+        {
+          "id": "HOR-S-022:d",
+          "text": "Sie wurde im Zusammenhang mit Todesfällen von Säuglingen angeklagt.",
+          "feedback": "Die Ausschnitte berichten über Annies Prozess im Zusammenhang mit verstorbenen Säuglingen."
+        }
+      ],
+      "correctId": "HOR-S-022:d",
+      "explanation": "Die Ausschnitte berichten über Annies Prozess im Zusammenhang mit verstorbenen Säuglingen.",
+      "context": "Pauls heimliche Erkundung liefert nicht nur Hinweise auf verschlossene Türen. Die Zeitungssammlung zeigt ihm, dass Annies bedrohliche Seite eine Vorgeschichte besitzt. Dabei unterscheidet sich eine Anklage von einer rechtskräftigen Verurteilung. Für Paul zählt vor allem, dass er ihre Selbstdarstellung als fürsorgliche Helferin nun nicht mehr isoliert von diesen früheren Ereignissen betrachten kann.",
+      "anchor": "Annies Zeitungssammlung enthüllt eine bedrohliche Pflegevergangenheit.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Misery_(film)"
+      ],
+      "tags": [
+        "Gefangenschaft",
+        "Fanatismus",
+        "Schreiben"
+      ],
+      "badgeTags": [
+        "Stephen-King-Verfilmungen",
+        "Psychologischer Horror"
+      ],
+      "metadata": {
+        "question_id": "HOR-S-022",
+        "knowledge_id": "K-HOR-11-zeitungsausschnitte",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Horror",
+        "film_title_de": "Misery",
+        "film_title_original": "Misery",
+        "film_year": "1990",
+        "franchise": "",
+        "difficulty": "schwer",
+        "question_type": "Handlung",
+        "topic_tags": "Gefangenschaft|Fanatismus|Schreiben",
+        "badge_tags": "Stephen-King-Verfilmungen|Psychologischer Horror",
+        "learning_objective": "Annies Zeitungssammlung enthüllt eine bedrohliche Pflegevergangenheit.",
+        "question": "„Misery“ (1990): Welche Vergangenheit entdeckt Paul in Annies Sammlung von Zeitungsausschnitten?",
+        "answer_a": "Sie hatte unter einem anderen Namen erfolgreiche Romane veröffentlicht.",
+        "answer_b": "Sie hatte früher als Ermittlerin eine Entführungsserie aufgeklärt.",
+        "answer_c": "Sie war wegen gestohlener Filmmanuskripte verurteilt worden.",
+        "answer_d": "Sie wurde im Zusammenhang mit Todesfällen von Säuglingen angeklagt.",
+        "correct_answer": "D",
+        "explanation_short": "Die Ausschnitte berichten über Annies Prozess im Zusammenhang mit verstorbenen Säuglingen.",
+        "explanation_context": "Pauls heimliche Erkundung liefert nicht nur Hinweise auf verschlossene Türen. Die Zeitungssammlung zeigt ihm, dass Annies bedrohliche Seite eine Vorgeschichte besitzt. Dabei unterscheidet sich eine Anklage von einer rechtskräftigen Verurteilung. Für Paul zählt vor allem, dass er ihre Selbstdarstellung als fürsorgliche Helferin nun nicht mehr isoliert von diesen früheren Ereignissen betrachten kann.",
+        "feedback_a": "Eine frühere Schriftstellerkarriere wird dadurch nicht enthüllt.",
+        "feedback_b": "Annie war keine erfolgreiche Ermittlerin dieser Art.",
+        "feedback_c": "Die Berichte handeln nicht von gestohlenen Drehbüchern.",
+        "feedback_d": "Die Ausschnitte berichten über Annies Prozess im Zusammenhang mit verstorbenen Säuglingen.",
+        "memory_anchor": "Annies Zeitungssammlung enthüllt eine bedrohliche Pflegevergangenheit.",
+        "spoiler_level": "Handlung",
+        "source_urls": "https://en.wikipedia.org/wiki/Misery_(film)",
+        "verification_status": "redaktionell_geprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Pauls heimliche Erkundung liefert nicht nur Hinweise auf verschlossene Türen. Die Zeitungssammlung zeigt ihm, dass Annies bedrohliche Seite eine Vorgeschichte besitzt. Dabei unterscheidet sich eine Anklage von einer rechtskräftigen Verurteilung. Für Paul zählt vor allem, dass er ihre Selbstdarstellung als fürsorgliche Helferin nun nicht mehr isoliert von diesen früheren Ereignissen betrachten kann.",
+        "cast": "Paul Sheldon wird von James Caan gespielt. Annie Wilkes wird von Kathy Bates gespielt.",
+        "anchor": "Annies Zeitungssammlung enthüllt eine bedrohliche Pflegevergangenheit.",
+        "answers": [
+          {
+            "id": "HOR-S-022:a",
+            "text": "Sie hatte unter einem anderen Namen erfolgreiche Romane veröffentlicht.",
+            "feedback": "Eine frühere Schriftstellerkarriere wird dadurch nicht enthüllt.",
+            "visibleFeedback": "Eine frühere Schriftstellerkarriere wird dadurch nicht enthüllt."
+          },
+          {
+            "id": "HOR-S-022:b",
+            "text": "Sie hatte früher als Ermittlerin eine Entführungsserie aufgeklärt.",
+            "feedback": "Annie war keine erfolgreiche Ermittlerin dieser Art.",
+            "visibleFeedback": "Annie war keine erfolgreiche Ermittlerin dieser Art."
+          },
+          {
+            "id": "HOR-S-022:c",
+            "text": "Sie war wegen gestohlener Filmmanuskripte verurteilt worden.",
+            "feedback": "Die Berichte handeln nicht von gestohlenen Drehbüchern.",
+            "visibleFeedback": "Die Berichte handeln nicht von gestohlenen Drehbüchern."
+          },
+          {
+            "id": "HOR-S-022:d",
+            "text": "Sie wurde im Zusammenhang mit Todesfällen von Säuglingen angeklagt.",
+            "feedback": "Die Ausschnitte berichten über Annies Prozess im Zusammenhang mit verstorbenen Säuglingen.",
+            "visibleFeedback": ""
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Misery_(film)"
+        ]
+      }
+    },
+    {
+      "genre": "Fantasy",
+      "candidateCount": 209,
+      "selectionHash": "0029fcb5f19786a685fb258748ba079fa52ef8e04dc8c6f262571ee2d1892b4c",
+      "id": "E20261007-F-080-L2",
+      "knowledgeId": "K-E20261007-F-080-L2",
+      "version": "csv-449215ce",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Die Legende der Wächter",
+      "difficulty": "leicht",
+      "question": "Wie gelangen Soren und sein Bruder in „Die Legende der Wächter“ in die Gewalt der Reinen?",
+      "answers": [
+        {
+          "id": "E20261007-F-080-L2:a",
+          "text": "Sie melden sich freiwillig bei deren Schule an.",
+          "feedback": "Soren tritt der Organisation nicht freiwillig bei."
+        },
+        {
+          "id": "E20261007-F-080-L2:b",
+          "text": "Sie werden nach einem Sturz aus dem Baum entführt.",
+          "feedback": "Auf dem Boden werden die Brüder von Eulen der Reinen verschleppt."
+        },
+        {
+          "id": "E20261007-F-080-L2:c",
+          "text": "Sie tauschen sich bei einem Turnier gegen Gefangene aus.",
+          "feedback": "Ein Gefangenenaustausch führt sie nicht dorthin."
+        },
+        {
+          "id": "E20261007-F-080-L2:d",
+          "text": "Sie verirren sich bei einem Auftrag der Wächter in deren Festung.",
+          "feedback": "Sie kennen die Wächter noch nicht aus einem eigenen Auftrag."
+        }
+      ],
+      "correctId": "E20261007-F-080-L2:b",
+      "explanation": "Auf dem Boden werden die Brüder von Eulen der Reinen verschleppt.",
+      "context": "Soren (Originalstimme Jim Sturgess) und Kludd (Originalstimme Ryan Kwanten) fallen aus ihrem Heimatbaum und werden entführt. Der Verlust des geschützten Ortes macht sie abhängig von einer feindlichen Organisation. Die Brüder reagieren darauf unterschiedlich, sodass die gemeinsame Gefangenschaft ihre Beziehung nicht stabilisiert, sondern spaltet.",
+      "anchor": "Der Sturz aus dem Baum führt beide Brüder in feindliche Gefangenschaft.",
+      "sources": [
+        "https://www.timeout.com/movies/legend-of-the-guardians-the-owls-of-the-gahoole",
+        "https://en.wikipedia.org/wiki/Legend_of_the_Guardians:_The_Owls_of_Ga%27Hoole"
+      ],
+      "tags": [
+        "Fantasy"
+      ],
+      "badgeTags": [
+        "Fantasy"
+      ],
+      "metadata": {
+        "question_id": "E20261007-F-080-L2",
+        "knowledge_id": "K-E20261007-F-080-L2",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Fantasy",
+        "film_title_de": "Die Legende der Wächter",
+        "film_title_original": "Legend of the Guardians: The Owls of Ga'Hoole",
+        "film_year": "2010",
+        "franchise": "",
+        "difficulty": "leicht",
+        "question_type": "Filmwissen",
+        "topic_tags": "Fantasy",
+        "badge_tags": "Fantasy",
+        "learning_objective": "Der Sturz aus dem Baum führt beide Brüder in feindliche Gefangenschaft.",
+        "question": "Wie gelangen Soren und sein Bruder in „Die Legende der Wächter“ in die Gewalt der Reinen?",
+        "answer_a": "Sie melden sich freiwillig bei deren Schule an.",
+        "answer_b": "Sie werden nach einem Sturz aus dem Baum entführt.",
+        "answer_c": "Sie tauschen sich bei einem Turnier gegen Gefangene aus.",
+        "answer_d": "Sie verirren sich bei einem Auftrag der Wächter in deren Festung.",
+        "correct_answer": "B",
+        "explanation_short": "Auf dem Boden werden die Brüder von Eulen der Reinen verschleppt.",
+        "explanation_context": "Soren (Originalstimme Jim Sturgess) und Kludd (Originalstimme Ryan Kwanten) fallen aus ihrem Heimatbaum und werden entführt. Der Verlust des geschützten Ortes macht sie abhängig von einer feindlichen Organisation. Die Brüder reagieren darauf unterschiedlich, sodass die gemeinsame Gefangenschaft ihre Beziehung nicht stabilisiert, sondern spaltet.",
+        "feedback_a": "Soren tritt der Organisation nicht freiwillig bei.",
+        "feedback_b": "Auf dem Boden werden die Brüder von Eulen der Reinen verschleppt.",
+        "feedback_c": "Ein Gefangenenaustausch führt sie nicht dorthin.",
+        "feedback_d": "Sie kennen die Wächter noch nicht aus einem eigenen Auftrag.",
+        "memory_anchor": "Der Sturz aus dem Baum führt beide Brüder in feindliche Gefangenschaft.",
+        "spoiler_level": "mittel",
+        "source_urls": "https://www.timeout.com/movies/legend-of-the-guardians-the-owls-of-the-gahoole|https://en.wikipedia.org/wiki/Legend_of_the_Guardians:_The_Owls_of_Ga%27Hoole",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Soren (Originalstimme Jim Sturgess) und Kludd (Originalstimme Ryan Kwanten) fallen aus ihrem Heimatbaum und werden entführt. Der Verlust des geschützten Ortes macht sie abhängig von einer feindlichen Organisation. Die Brüder reagieren darauf unterschiedlich, sodass die gemeinsame Gefangenschaft ihre Beziehung nicht stabilisiert, sondern spaltet.",
+        "anchor": "Der Sturz aus dem Baum führt beide Brüder in feindliche Gefangenschaft.",
+        "answers": [
+          {
+            "id": "E20261007-F-080-L2:a",
+            "text": "Sie melden sich freiwillig bei deren Schule an.",
+            "feedback": "Soren tritt der Organisation nicht freiwillig bei.",
+            "visibleFeedback": "Soren tritt der Organisation nicht freiwillig bei."
+          },
+          {
+            "id": "E20261007-F-080-L2:b",
+            "text": "Sie werden nach einem Sturz aus dem Baum entführt.",
+            "feedback": "Auf dem Boden werden die Brüder von Eulen der Reinen verschleppt.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "E20261007-F-080-L2:c",
+            "text": "Sie tauschen sich bei einem Turnier gegen Gefangene aus.",
+            "feedback": "Ein Gefangenenaustausch führt sie nicht dorthin.",
+            "visibleFeedback": "Ein Gefangenenaustausch führt sie nicht dorthin."
+          },
+          {
+            "id": "E20261007-F-080-L2:d",
+            "text": "Sie verirren sich bei einem Auftrag der Wächter in deren Festung.",
+            "feedback": "Sie kennen die Wächter noch nicht aus einem eigenen Auftrag.",
+            "visibleFeedback": "Sie kennen die Wächter noch nicht aus einem eigenen Auftrag."
+          }
+        ],
+        "sources": [
+          "https://www.timeout.com/movies/legend-of-the-guardians-the-owls-of-the-gahoole",
+          "https://en.wikipedia.org/wiki/Legend_of_the_Guardians:_The_Owls_of_Ga%27Hoole"
+        ]
+      }
+    },
+    {
+      "genre": "Komödie",
+      "candidateCount": 375,
+      "selectionHash": "00f6c20b16f33f8def932a8173a9f2be2a5f95222eaad9c50fd695e8b69c8ca9",
+      "id": "KOM-202609-P02-M-055-V1",
+      "knowledgeId": "K-KOM-202609-P02-M-055",
+      "version": "csv-9643583",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Fack ju Göhte",
+      "difficulty": "mittel",
+      "question": "„Fack ju Göhte“ (2013): Welche Klassenbezeichnung trägt Zekis (Elyas M’Barek) schwierige Lerngruppe?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-M-055-V1:a",
+          "text": "Die 7c",
+          "feedback": "„Die 7c“ trifft hier nicht zu. Zeki übernimmt die Klasse 10b."
+        },
+        {
+          "id": "KOM-202609-P02-M-055-V1:b",
+          "text": "Die 5a",
+          "feedback": "„Die 5a“ trifft hier nicht zu. Zeki übernimmt die Klasse 10b."
+        },
+        {
+          "id": "KOM-202609-P02-M-055-V1:c",
+          "text": "Die 12d",
+          "feedback": "„Die 12d“ trifft hier nicht zu. Zeki übernimmt die Klasse 10b."
+        },
+        {
+          "id": "KOM-202609-P02-M-055-V1:d",
+          "text": "Die 10b",
+          "feedback": "Richtig. Zeki übernimmt die Klasse 10b."
+        }
+      ],
+      "correctId": "KOM-202609-P02-M-055-V1:d",
+      "explanation": "Zeki übernimmt die Klasse 10b.",
+      "context": "Die Klasse 10b hatte Lisi Schnabelstedt (Karoline Herfurth) mit ihren Streichen überfordert. Zeki Müller (Elyas M’Barek) erhält sie im Zusammenhang mit seiner aufgeflogenen Qualifikation. Die Übergabe ist daher keine offizielle Anerkennung seiner pädagogischen Fähigkeiten. Gerade der unpassende Einstieg macht den späteren Lernerfolg zu einer Veränderung, die außerhalb des vorgesehenen Ausbildungswegs entsteht.",
+      "anchor": "10b trifft Zeki.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fack_ju_G%C3%B6hte",
+        "https://en.wikipedia.org/wiki/Bora_Da%C4%9Ftekin"
+      ],
+      "tags": [
+        "Schule",
+        "Täuschung"
+      ],
+      "badgeTags": [
+        "Schule",
+        "Täuschung"
+      ],
+      "metadata": {
+        "question_id": "KOM-202609-P02-M-055-V1",
+        "knowledge_id": "K-KOM-202609-P02-M-055",
+        "variant_of": "KOM-202609-P02-M-055",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Komödie",
+        "film_title_de": "Fack ju Göhte",
+        "film_title_original": "Fack ju Göhte",
+        "film_year": "2013",
+        "franchise": "Fack ju Göhte",
+        "difficulty": "mittel",
+        "question_type": "Figur",
+        "topic_tags": "Schule|Täuschung",
+        "badge_tags": "Schule|Täuschung",
+        "learning_objective": "Zeki übernimmt die Klasse 10b.",
+        "question": "„Fack ju Göhte“ (2013): Welche Klassenbezeichnung trägt Zekis (Elyas M’Barek) schwierige Lerngruppe?",
+        "answer_a": "Die 7c",
+        "answer_b": "Die 5a",
+        "answer_c": "Die 12d",
+        "answer_d": "Die 10b",
+        "correct_answer": "D",
+        "explanation_short": "Zeki übernimmt die Klasse 10b.",
+        "explanation_context": "Die Klasse 10b hatte Lisi Schnabelstedt (Karoline Herfurth) mit ihren Streichen überfordert. Zeki Müller (Elyas M’Barek) erhält sie im Zusammenhang mit seiner aufgeflogenen Qualifikation. Die Übergabe ist daher keine offizielle Anerkennung seiner pädagogischen Fähigkeiten. Gerade der unpassende Einstieg macht den späteren Lernerfolg zu einer Veränderung, die außerhalb des vorgesehenen Ausbildungswegs entsteht.",
+        "feedback_a": "„Die 7c“ trifft hier nicht zu. Zeki übernimmt die Klasse 10b.",
+        "feedback_b": "„Die 5a“ trifft hier nicht zu. Zeki übernimmt die Klasse 10b.",
+        "feedback_c": "„Die 12d“ trifft hier nicht zu. Zeki übernimmt die Klasse 10b.",
+        "feedback_d": "Richtig. Zeki übernimmt die Klasse 10b.",
+        "memory_anchor": "10b trifft Zeki.",
+        "spoiler_level": "Handlung",
+        "source_urls": "https://en.wikipedia.org/wiki/Fack_ju_G%C3%B6hte|https://en.wikipedia.org/wiki/Bora_Da%C4%9Ftekin",
+        "verification_status": "redaktionell_geprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Die Klasse 10b hatte Lisi Schnabelstedt (Karoline Herfurth) mit ihren Streichen überfordert. Zeki Müller (Elyas M’Barek) erhält sie im Zusammenhang mit seiner aufgeflogenen Qualifikation. Die Übergabe ist daher keine offizielle Anerkennung seiner pädagogischen Fähigkeiten. Gerade der unpassende Einstieg macht den späteren Lernerfolg zu einer Veränderung, die außerhalb des vorgesehenen Ausbildungswegs entsteht.",
+        "anchor": "10b trifft Zeki.",
+        "answers": [
+          {
+            "id": "KOM-202609-P02-M-055-V1:a",
+            "text": "Die 7c",
+            "feedback": "„Die 7c“ trifft hier nicht zu. Zeki übernimmt die Klasse 10b.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "KOM-202609-P02-M-055-V1:b",
+            "text": "Die 5a",
+            "feedback": "„Die 5a“ trifft hier nicht zu. Zeki übernimmt die Klasse 10b.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "KOM-202609-P02-M-055-V1:c",
+            "text": "Die 12d",
+            "feedback": "„Die 12d“ trifft hier nicht zu. Zeki übernimmt die Klasse 10b.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "KOM-202609-P02-M-055-V1:d",
+            "text": "Die 10b",
+            "feedback": "Richtig. Zeki übernimmt die Klasse 10b.",
+            "visibleFeedback": "Richtig."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Fack_ju_G%C3%B6hte",
+          "https://en.wikipedia.org/wiki/Bora_Da%C4%9Ftekin"
+        ]
+      }
+    },
+    {
+      "genre": "Western",
+      "candidateCount": 218,
+      "selectionHash": "0047e9266f8a60860180fc28ac1820ed84fa30b7ba02fdd3f1da88639dab2233",
+      "id": "F240-20261006-239-S1",
+      "knowledgeId": "K-F240-20261006-239-S1",
+      "version": "csv-aa032e",
+      "language": "de",
+      "domain": "Film",
+      "topic": "The Homesman",
+      "difficulty": "schwer",
+      "question": "Warum erweist sich Briggs’ (Tommy Lee Jones) Bezahlung in „The Homesman“ am Ziel als wertlos?",
+      "answers": [
+        {
+          "id": "F240-20261006-239-S1:a",
+          "text": "Die Bank der Herkunftssiedlung ist inzwischen gescheitert",
+          "feedback": "Briggs (Tommy Lee Jones) erfährt, dass die Bank von Loup ausgefallen ist."
+        },
+        {
+          "id": "F240-20261006-239-S1:b",
+          "text": "Cuddy hat absichtlich falsche Scheine eingepackt",
+          "feedback": "Cuddy fälscht das Geld nicht."
+        },
+        {
+          "id": "F240-20261006-239-S1:c",
+          "text": "Ein Gericht beschlagnahmt das Geld",
+          "feedback": "Ein Gericht nimmt es nicht."
+        },
+        {
+          "id": "F240-20261006-239-S1:d",
+          "text": "Die Kirche verlangt es als Aufnahmegebühr",
+          "feedback": "Die Kirche kassiert keine entsprechende Gebühr."
+        }
+      ],
+      "correctId": "F240-20261006-239-S1:a",
+      "explanation": "Briggs (Tommy Lee Jones) erfährt, dass die Bank von Loup ausgefallen ist.",
+      "context": "Briggs (Tommy Lee Jones) erfährt, dass die Bank von Loup ausgefallen ist. Die mitgeführten 300 Dollar haben damit ihren Wert verloren; die materielle Grundlage seiner Motivation bricht nach vollendetem Auftrag weg.",
+      "anchor": "Der Bankzusammenbruch entwertet die Belohnung erst nach der erfüllten Aufgabe.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Homesman"
+      ],
+      "tags": [
+        "Western"
+      ],
+      "badgeTags": [
+        "Western"
+      ],
+      "metadata": {
+        "question_id": "F240-20261006-239-S1",
+        "knowledge_id": "K-F240-20261006-239-S1",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Western",
+        "film_title_de": "The Homesman",
+        "film_title_original": "The Homesman",
+        "film_year": "2014",
+        "franchise": "",
+        "difficulty": "schwer",
+        "question_type": "Filmwissen",
+        "topic_tags": "Western",
+        "badge_tags": "Western",
+        "learning_objective": "Der Bankzusammenbruch entwertet die Belohnung erst nach der erfüllten Aufgabe.",
+        "question": "Warum erweist sich Briggs’ (Tommy Lee Jones) Bezahlung in „The Homesman“ am Ziel als wertlos?",
+        "answer_a": "Die Bank der Herkunftssiedlung ist inzwischen gescheitert",
+        "answer_b": "Cuddy hat absichtlich falsche Scheine eingepackt",
+        "answer_c": "Ein Gericht beschlagnahmt das Geld",
+        "answer_d": "Die Kirche verlangt es als Aufnahmegebühr",
+        "correct_answer": "A",
+        "explanation_short": "Briggs (Tommy Lee Jones) erfährt, dass die Bank von Loup ausgefallen ist.",
+        "explanation_context": "Briggs (Tommy Lee Jones) erfährt, dass die Bank von Loup ausgefallen ist. Die mitgeführten 300 Dollar haben damit ihren Wert verloren; die materielle Grundlage seiner Motivation bricht nach vollendetem Auftrag weg.",
+        "feedback_a": "Briggs (Tommy Lee Jones) erfährt, dass die Bank von Loup ausgefallen ist.",
+        "feedback_b": "Cuddy fälscht das Geld nicht.",
+        "feedback_c": "Ein Gericht nimmt es nicht.",
+        "feedback_d": "Die Kirche kassiert keine entsprechende Gebühr.",
+        "memory_anchor": "Der Bankzusammenbruch entwertet die Belohnung erst nach der erfüllten Aufgabe.",
+        "spoiler_level": "mittel",
+        "source_urls": "https://en.wikipedia.org/wiki/The_Homesman",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Briggs (Tommy Lee Jones) erfährt, dass die Bank von Loup ausgefallen ist. Die mitgeführten 300 Dollar haben damit ihren Wert verloren; die materielle Grundlage seiner Motivation bricht nach vollendetem Auftrag weg.",
+        "anchor": "Der Bankzusammenbruch entwertet die Belohnung erst nach der erfüllten Aufgabe.",
+        "answers": [
+          {
+            "id": "F240-20261006-239-S1:a",
+            "text": "Die Bank der Herkunftssiedlung ist inzwischen gescheitert",
+            "feedback": "Briggs (Tommy Lee Jones) erfährt, dass die Bank von Loup ausgefallen ist.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "F240-20261006-239-S1:b",
+            "text": "Cuddy hat absichtlich falsche Scheine eingepackt",
+            "feedback": "Cuddy fälscht das Geld nicht.",
+            "visibleFeedback": "Cuddy fälscht das Geld nicht."
+          },
+          {
+            "id": "F240-20261006-239-S1:c",
+            "text": "Ein Gericht beschlagnahmt das Geld",
+            "feedback": "Ein Gericht nimmt es nicht.",
+            "visibleFeedback": "Ein Gericht nimmt es nicht."
+          },
+          {
+            "id": "F240-20261006-239-S1:d",
+            "text": "Die Kirche verlangt es als Aufnahmegebühr",
+            "feedback": "Die Kirche kassiert keine entsprechende Gebühr.",
+            "visibleFeedback": "Die Kirche kassiert keine entsprechende Gebühr."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/The_Homesman"
+        ]
+      }
+    },
+    {
+      "genre": "Drama",
+      "candidateCount": 398,
+      "selectionHash": "044877acbf8a23b63ef13fe09ecef7394cdc8a576a5a049d9e9378b37d6e7f69",
+      "id": "E20261007-F-051-D",
+      "knowledgeId": "K-E20261007-F-051-D",
+      "version": "csv-a4ef84dc",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Das weiße Band",
+      "difficulty": "mittel",
+      "question": "Wer schrieb und inszenierte „Das weiße Band“ als eigene Dorfgeschichte?",
+      "answers": [
+        {
+          "id": "E20261007-F-051-D:a",
+          "text": "Ulrich Seidl",
+          "feedback": "Ulrich Seidl ist kein Regisseur dieses Films."
+        },
+        {
+          "id": "E20261007-F-051-D:b",
+          "text": "Christian Petzold",
+          "feedback": "Christian Petzold schrieb und inszenierte diese Dorfgeschichte nicht."
+        },
+        {
+          "id": "E20261007-F-051-D:c",
+          "text": "Michael Haneke",
+          "feedback": "Michael Haneke verantwortet Regie und Originaldrehbuch."
+        },
+        {
+          "id": "E20261007-F-051-D:d",
+          "text": "Florian Henckel von Donnersmarck",
+          "feedback": "Florian Henckel von Donnersmarck gehört nicht zum Regieteam."
+        }
+      ],
+      "correctId": "E20261007-F-051-D:c",
+      "explanation": "Michael Haneke verantwortet Regie und Originaldrehbuch.",
+      "context": "Haneke beschreibt seinen Film als Untersuchung der Voraussetzungen ideologischer Verführung. Die Handlung soll keine vollständige Erklärung des deutschen Faschismus liefern. Sie fragt, welche Erfahrungen in einer Erziehung Menschen anfällig dafür machen, Verantwortung an vermeintliche Erlöser abzugeben. Die persönliche Autorenschaft verbindet konkrete Geschichte und weiter reichende Fragestellung.",
+      "anchor": "Hanekes Dorfgeschichte fragt nach den Voraussetzungen der Verführung.",
+      "sources": [
+        "https://www.festival-cannes.com/en/f/das-weisse-band/",
+        "https://www.sonyclassics.com/thewhiteribbon/whiteribbonpressbook.pdf"
+      ],
+      "tags": [
+        "Drama"
+      ],
+      "badgeTags": [
+        "Drama"
+      ],
+      "metadata": {
+        "question_id": "E20261007-F-051-D",
+        "knowledge_id": "K-E20261007-F-051-D",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Drama",
+        "film_title_de": "Das weiße Band",
+        "film_title_original": "Das weiße Band – Eine deutsche Kindergeschichte",
+        "film_year": "2009",
+        "franchise": "",
+        "difficulty": "mittel",
+        "question_type": "Regie",
+        "topic_tags": "Drama",
+        "badge_tags": "Drama",
+        "learning_objective": "Hanekes Dorfgeschichte fragt nach den Voraussetzungen der Verführung.",
+        "question": "Wer schrieb und inszenierte „Das weiße Band“ als eigene Dorfgeschichte?",
+        "answer_a": "Ulrich Seidl",
+        "answer_b": "Christian Petzold",
+        "answer_c": "Michael Haneke",
+        "answer_d": "Florian Henckel von Donnersmarck",
+        "correct_answer": "C",
+        "explanation_short": "Michael Haneke verantwortet Regie und Originaldrehbuch.",
+        "explanation_context": "Haneke beschreibt seinen Film als Untersuchung der Voraussetzungen ideologischer Verführung. Die Handlung soll keine vollständige Erklärung des deutschen Faschismus liefern. Sie fragt, welche Erfahrungen in einer Erziehung Menschen anfällig dafür machen, Verantwortung an vermeintliche Erlöser abzugeben. Die persönliche Autorenschaft verbindet konkrete Geschichte und weiter reichende Fragestellung.",
+        "feedback_a": "Ulrich Seidl ist kein Regisseur dieses Films.",
+        "feedback_b": "Christian Petzold schrieb und inszenierte diese Dorfgeschichte nicht.",
+        "feedback_c": "Michael Haneke verantwortet Regie und Originaldrehbuch.",
+        "feedback_d": "Florian Henckel von Donnersmarck gehört nicht zum Regieteam.",
+        "memory_anchor": "Hanekes Dorfgeschichte fragt nach den Voraussetzungen der Verführung.",
+        "spoiler_level": "gering",
+        "source_urls": "https://www.festival-cannes.com/en/f/das-weisse-band/|https://www.sonyclassics.com/thewhiteribbon/whiteribbonpressbook.pdf",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Haneke beschreibt seinen Film als Untersuchung der Voraussetzungen ideologischer Verführung. Die Handlung soll keine vollständige Erklärung des deutschen Faschismus liefern. Sie fragt, welche Erfahrungen in einer Erziehung Menschen anfällig dafür machen, Verantwortung an vermeintliche Erlöser abzugeben. Die persönliche Autorenschaft verbindet konkrete Geschichte und weiter reichende Fragestellung.",
+        "anchor": "Hanekes Dorfgeschichte fragt nach den Voraussetzungen der Verführung.",
+        "answers": [
+          {
+            "id": "E20261007-F-051-D:a",
+            "text": "Ulrich Seidl",
+            "feedback": "Ulrich Seidl ist kein Regisseur dieses Films.",
+            "visibleFeedback": "Ulrich Seidl ist kein Regisseur dieses Films."
+          },
+          {
+            "id": "E20261007-F-051-D:b",
+            "text": "Christian Petzold",
+            "feedback": "Christian Petzold schrieb und inszenierte diese Dorfgeschichte nicht.",
+            "visibleFeedback": "Christian Petzold schrieb und inszenierte diese Dorfgeschichte nicht."
+          },
+          {
+            "id": "E20261007-F-051-D:c",
+            "text": "Michael Haneke",
+            "feedback": "Michael Haneke verantwortet Regie und Originaldrehbuch.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "E20261007-F-051-D:d",
+            "text": "Florian Henckel von Donnersmarck",
+            "feedback": "Florian Henckel von Donnersmarck gehört nicht zum Regieteam.",
+            "visibleFeedback": "Florian Henckel von Donnersmarck gehört nicht zum Regieteam."
+          }
+        ],
+        "sources": [
+          "https://www.festival-cannes.com/en/f/das-weisse-band/",
+          "https://www.sonyclassics.com/thewhiteribbon/whiteribbonpressbook.pdf"
+        ]
+      }
+    },
+    {
+      "genre": "Musik",
+      "candidateCount": 208,
+      "selectionHash": "0347166d9e9179d068b5cbab5f449d242ced0c6d8f1a5e78bc3dd72fa5dc2743",
+      "id": "MUS-202609-P01-L-019",
+      "knowledgeId": "K-MUS-202609-P01-L-019",
+      "version": "csv-fc3d6659",
+      "language": "de",
+      "domain": "Film",
+      "topic": "The Rocky Horror Picture Show",
+      "difficulty": "leicht",
+      "question": "„The Rocky Horror Picture Show“ (1975): Wer spielt Dr. Frank-N-Furter?",
+      "answers": [
+        {
+          "id": "MUS-202609-P01-L-019:a",
+          "text": "Richard O’Brien",
+          "feedback": "„Richard O’Brien“ ist hier nicht richtig. Tim Curry spielt Dr. Frank-N-Furter."
+        },
+        {
+          "id": "MUS-202609-P01-L-019:b",
+          "text": "David Bowie",
+          "feedback": "„David Bowie“ ist hier nicht richtig. Tim Curry spielt Dr. Frank-N-Furter."
+        },
+        {
+          "id": "MUS-202609-P01-L-019:c",
+          "text": "Tim Curry",
+          "feedback": "Richtig: Tim Curry spielt Dr. Frank-N-Furter."
+        },
+        {
+          "id": "MUS-202609-P01-L-019:d",
+          "text": "Meat Loaf",
+          "feedback": "„Meat Loaf“ ist hier nicht richtig. Tim Curry spielt Dr. Frank-N-Furter."
+        }
+      ],
+      "correctId": "MUS-202609-P01-L-019:c",
+      "explanation": "Tim Curry spielt Dr. Frank-N-Furter.",
+      "context": "Tim Curry hatte Frank-N-Furter bereits auf der Bühne gespielt, bevor die Figur ins Kino kam. Sein Auftritt lebt von Blicken, Pausen und dem bewussten Auskosten einzelner Gesten. Die Kamera kann solche kleinen Details groß zeigen. Dadurch erhält die ohnehin theatralische Figur im Film eine zusätzliche Wirkung, besonders wenn sie die Neuankömmlinge mit demonstrativer Selbstverständlichkeit in ihrer Welt empfängt.",
+      "anchor": "Frank-N-Furter ist Tim Currys markanter Auftritt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show",
+        "https://www.20thcenturystudios.com/movies/the-rocky-horror-picture-show",
+        "https://www.rockyhorror.com/history/castcrewlist_quinn.php"
+      ],
+      "tags": [
+        "Musik",
+        "Rockmusical",
+        "Classics"
+      ],
+      "badgeTags": [
+        "Musik",
+        "Rockmusical",
+        "Classics"
+      ],
+      "metadata": {
+        "question_id": "MUS-202609-P01-L-019",
+        "knowledge_id": "K-MUS-202609-P01-L-019",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Musik",
+        "film_title_de": "The Rocky Horror Picture Show",
+        "film_title_original": "The Rocky Horror Picture Show",
+        "film_year": "1975",
+        "franchise": "",
+        "difficulty": "leicht",
+        "question_type": "Besetzung",
+        "topic_tags": "Musik|Rockmusical|Classics",
+        "badge_tags": "Musik|Rockmusical|Classics",
+        "learning_objective": "Tim Curry spielt Dr. Frank-N-Furter.",
+        "question": "„The Rocky Horror Picture Show“ (1975): Wer spielt Dr. Frank-N-Furter?",
+        "answer_a": "Richard O’Brien",
+        "answer_b": "David Bowie",
+        "answer_c": "Tim Curry",
+        "answer_d": "Meat Loaf",
+        "correct_answer": "C",
+        "explanation_short": "Tim Curry spielt Dr. Frank-N-Furter.",
+        "explanation_context": "Tim Curry hatte Frank-N-Furter bereits auf der Bühne gespielt, bevor die Figur ins Kino kam. Sein Auftritt lebt von Blicken, Pausen und dem bewussten Auskosten einzelner Gesten. Die Kamera kann solche kleinen Details groß zeigen. Dadurch erhält die ohnehin theatralische Figur im Film eine zusätzliche Wirkung, besonders wenn sie die Neuankömmlinge mit demonstrativer Selbstverständlichkeit in ihrer Welt empfängt.",
+        "feedback_a": "„Richard O’Brien“ ist hier nicht richtig. Tim Curry spielt Dr. Frank-N-Furter.",
+        "feedback_b": "„David Bowie“ ist hier nicht richtig. Tim Curry spielt Dr. Frank-N-Furter.",
+        "feedback_c": "Richtig: Tim Curry spielt Dr. Frank-N-Furter.",
+        "feedback_d": "„Meat Loaf“ ist hier nicht richtig. Tim Curry spielt Dr. Frank-N-Furter.",
+        "memory_anchor": "Frank-N-Furter ist Tim Currys markanter Auftritt.",
+        "spoiler_level": "keine",
+        "source_urls": "https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show|https://www.20thcenturystudios.com/movies/the-rocky-horror-picture-show|https://www.rockyhorror.com/history/castcrewlist_quinn.php",
+        "verification_status": "redaktionell_geprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Tim Curry hatte Frank-N-Furter bereits auf der Bühne gespielt, bevor die Figur ins Kino kam. Sein Auftritt lebt von Blicken, Pausen und dem bewussten Auskosten einzelner Gesten. Die Kamera kann solche kleinen Details groß zeigen. Dadurch erhält die ohnehin theatralische Figur im Film eine zusätzliche Wirkung, besonders wenn sie die Neuankömmlinge mit demonstrativer Selbstverständlichkeit in ihrer Welt empfängt.",
+        "anchor": "Frank-N-Furter ist Tim Currys markanter Auftritt.",
+        "answers": [
+          {
+            "id": "MUS-202609-P01-L-019:a",
+            "text": "Richard O’Brien",
+            "feedback": "„Richard O’Brien“ ist hier nicht richtig. Tim Curry spielt Dr. Frank-N-Furter.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "MUS-202609-P01-L-019:b",
+            "text": "David Bowie",
+            "feedback": "„David Bowie“ ist hier nicht richtig. Tim Curry spielt Dr. Frank-N-Furter.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "MUS-202609-P01-L-019:c",
+            "text": "Tim Curry",
+            "feedback": "Richtig: Tim Curry spielt Dr. Frank-N-Furter.",
+            "visibleFeedback": "Richtig:"
+          },
+          {
+            "id": "MUS-202609-P01-L-019:d",
+            "text": "Meat Loaf",
+            "feedback": "„Meat Loaf“ ist hier nicht richtig. Tim Curry spielt Dr. Frank-N-Furter.",
+            "visibleFeedback": ""
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show",
+          "https://www.20thcenturystudios.com/movies/the-rocky-horror-picture-show",
+          "https://www.rockyhorror.com/history/castcrewlist_quinn.php"
+        ]
+      }
+    },
+    {
+      "genre": "Abenteuer",
+      "candidateCount": 211,
+      "selectionHash": "00acec09a5dd1c67dc3bc5bd26791ee22b65cb1793bcc3871d2eabacd0dee1f5",
+      "id": "ART-S-011",
+      "knowledgeId": "K-ART-06-05",
+      "version": "csv-700a5c0b",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Fitzcarraldo",
+      "difficulty": "schwer",
+      "question": "„Fitzcarraldo“ (1982): Was kennzeichnet die berühmte Schiffsszene auch bei den Dreharbeiten?",
+      "answers": [
+        {
+          "id": "ART-S-011:a",
+          "text": "Sie wurde nur durch Dialog angedeutet",
+          "feedback": "Der Transport wird sichtbar gezeigt."
+        },
+        {
+          "id": "ART-S-011:b",
+          "text": "Sie verwendete ausschließlich ein Tischmodell",
+          "feedback": "Ein Tischmodell war nicht das alleinige Verfahren."
+        },
+        {
+          "id": "ART-S-011:c",
+          "text": "Ein reales Schiff wurde über einen Hügel bewegt",
+          "feedback": "Herzog ließ tatsächlich ein Schiff über einen Hügel bewegen."
+        },
+        {
+          "id": "ART-S-011:d",
+          "text": "Sie entstand vollständig als Zeichentrick",
+          "feedback": "Die Szene ist nicht vollständig gezeichnet."
+        }
+      ],
+      "correctId": "ART-S-011:c",
+      "explanation": "Herzog ließ tatsächlich ein Schiff über einen Hügel bewegen.",
+      "context": "Werner Herzog setzte für den Transport auf ein reales Schiff. Dadurch bekommt Fitzcarraldos (Klaus Kinski) Unternehmung eine zweite Ebene: Das Gezeigte verweist auf eine ebenso aufwendige filmische Herstellung. Diese Nähe von Figur und Produktion lässt sich diskutieren, ohne beide gleichzusetzen. Eine faszinierende Einstellung kann zugleich Fragen nach Aufwand und Verantwortung aufwerfen.",
+      "anchor": "Realer Transport hinter dem Filmbild.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fitzcarraldo",
+        "https://www.rottentomatoes.com/m/fitzcarraldo",
+        "https://www.dga.org/craft/dgaq/issues/0703-fall-2007/shot-to-remember-fitzcarraldo"
+      ],
+      "tags": [
+        "Arthouse",
+        "Abenteuer",
+        "Oper",
+        "Werner Herzog"
+      ],
+      "badgeTags": [
+        "Arthouse",
+        "Abenteuer",
+        "Oper",
+        "Werner Herzog"
+      ],
+      "metadata": {
+        "question_id": "ART-S-011",
+        "knowledge_id": "K-ART-06-05",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Abenteuer",
+        "film_title_de": "Fitzcarraldo",
+        "film_title_original": "Fitzcarraldo",
+        "film_year": "1982",
+        "franchise": "",
+        "difficulty": "schwer",
+        "question_type": "Produktion",
+        "topic_tags": "Arthouse|Abenteuer|Oper|Werner Herzog",
+        "badge_tags": "Arthouse|Abenteuer|Oper|Werner Herzog",
+        "learning_objective": "Herzog ließ tatsächlich ein Schiff über einen Hügel bewegen.",
+        "question": "„Fitzcarraldo“ (1982): Was kennzeichnet die berühmte Schiffsszene auch bei den Dreharbeiten?",
+        "answer_a": "Sie wurde nur durch Dialog angedeutet",
+        "answer_b": "Sie verwendete ausschließlich ein Tischmodell",
+        "answer_c": "Ein reales Schiff wurde über einen Hügel bewegt",
+        "answer_d": "Sie entstand vollständig als Zeichentrick",
+        "correct_answer": "C",
+        "explanation_short": "Herzog ließ tatsächlich ein Schiff über einen Hügel bewegen.",
+        "explanation_context": "Werner Herzog setzte für den Transport auf ein reales Schiff. Dadurch bekommt Fitzcarraldos (Klaus Kinski) Unternehmung eine zweite Ebene: Das Gezeigte verweist auf eine ebenso aufwendige filmische Herstellung. Diese Nähe von Figur und Produktion lässt sich diskutieren, ohne beide gleichzusetzen. Eine faszinierende Einstellung kann zugleich Fragen nach Aufwand und Verantwortung aufwerfen.",
+        "feedback_a": "Der Transport wird sichtbar gezeigt.",
+        "feedback_b": "Ein Tischmodell war nicht das alleinige Verfahren.",
+        "feedback_c": "Herzog ließ tatsächlich ein Schiff über einen Hügel bewegen.",
+        "feedback_d": "Die Szene ist nicht vollständig gezeichnet.",
+        "memory_anchor": "Realer Transport hinter dem Filmbild.",
+        "spoiler_level": "keine",
+        "source_urls": "https://en.wikipedia.org/wiki/Fitzcarraldo|https://www.rottentomatoes.com/m/fitzcarraldo|https://www.dga.org/craft/dgaq/issues/0703-fall-2007/shot-to-remember-fitzcarraldo",
+        "verification_status": "redaktionell_geprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Werner Herzog setzte für den Transport auf ein reales Schiff. Dadurch bekommt Fitzcarraldos (Klaus Kinski) Unternehmung eine zweite Ebene: Das Gezeigte verweist auf eine ebenso aufwendige filmische Herstellung. Diese Nähe von Figur und Produktion lässt sich diskutieren, ohne beide gleichzusetzen. Eine faszinierende Einstellung kann zugleich Fragen nach Aufwand und Verantwortung aufwerfen.",
+        "anchor": "Realer Transport hinter dem Filmbild.",
+        "answers": [
+          {
+            "id": "ART-S-011:a",
+            "text": "Sie wurde nur durch Dialog angedeutet",
+            "feedback": "Der Transport wird sichtbar gezeigt.",
+            "visibleFeedback": "Der Transport wird sichtbar gezeigt."
+          },
+          {
+            "id": "ART-S-011:b",
+            "text": "Sie verwendete ausschließlich ein Tischmodell",
+            "feedback": "Ein Tischmodell war nicht das alleinige Verfahren.",
+            "visibleFeedback": "Ein Tischmodell war nicht das alleinige Verfahren."
+          },
+          {
+            "id": "ART-S-011:c",
+            "text": "Ein reales Schiff wurde über einen Hügel bewegt",
+            "feedback": "Herzog ließ tatsächlich ein Schiff über einen Hügel bewegen.",
+            "visibleFeedback": ""
+          },
+          {
+            "id": "ART-S-011:d",
+            "text": "Sie entstand vollständig als Zeichentrick",
+            "feedback": "Die Szene ist nicht vollständig gezeichnet.",
+            "visibleFeedback": "Die Szene ist nicht vollständig gezeichnet."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Fitzcarraldo",
+          "https://www.rottentomatoes.com/m/fitzcarraldo",
+          "https://www.dga.org/craft/dgaq/issues/0703-fall-2007/shot-to-remember-fitzcarraldo"
+        ]
+      }
+    },
+    {
+      "genre": "Martial Arts & Asia-Film",
+      "candidateCount": 350,
+      "selectionHash": "01c04c567ac50d8f352a55a4da8b4d814b7b345e29cd468332df981c7b84292a",
+      "id": "G100-20261008-MARTIALARTS-016-M2",
+      "knowledgeId": "K-G100-20261008-MARTIALARTS-016-M2",
+      "version": "csv-4cc060dc",
+      "language": "de",
+      "domain": "Film",
+      "topic": "Ong Bak 2",
+      "difficulty": "mittel",
+      "question": "Warum überlebt Rajasena (Sarunyoo Wongkrachang) Tiens (Tony Jaa) ersten vermeintlich tödlichen Angriff in „Ong Bak 2“?",
+      "answers": [
+        {
+          "id": "G100-20261008-MARTIALARTS-016-M2:a",
+          "text": "Ein Doppelgänger empfängt den Schlag.",
+          "feedback": "Ein Doppelgänger wird nicht getroffen."
+        },
+        {
+          "id": "G100-20261008-MARTIALARTS-016-M2:b",
+          "text": "Eine zuvor verabreichte Medizin hält ihn am Leben.",
+          "feedback": "Eine rettende Medizin erklärt sein Überleben nicht."
+        },
+        {
+          "id": "G100-20261008-MARTIALARTS-016-M2:c",
+          "text": "Der Dolch wurde heimlich durch eine stumpfe Klinge ersetzt.",
+          "feedback": "Ein heimlicher Klingentausch findet nicht statt."
+        },
+        {
+          "id": "G100-20261008-MARTIALARTS-016-M2:d",
+          "text": "Er trägt eine verborgene Rüstung.",
+          "feedback": "Die verborgene Rüstung schützt ihn."
+        }
+      ],
+      "correctId": "G100-20261008-MARTIALARTS-016-M2:d",
+      "explanation": "Rajasena hat sich durch eine verborgene Rüstung geschützt.",
+      "context": "Tien (Tony Jaa) glaubt nach seinem Angriff, Rajasena (Sarunyoo Wongkrachang) getötet zu haben. Der Gegner überlebt jedoch wegen einer unter seiner Kleidung verborgenen Rüstung. Die scheinbar abgeschlossene Vergeltung erweist sich dadurch als Fehlschlag. Tien gerät erneut in den Einflussbereich des mächtigen Gegners und muss sich einer Gefahr stellen, die er nach dem erfolgreichen Zugang zum Palast bereits für überwunden gehalten hatte.",
+      "anchor": "Verborgener Schutz macht den vermeintlichen Erfolg zur Täuschung.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ong_Bak_2"
+      ],
+      "tags": [
+        "Martial Arts & Asia-Film"
+      ],
+      "badgeTags": [
+        "Martial Arts & Asia-Film"
+      ],
+      "metadata": {
+        "question_id": "G100-20261008-MARTIALARTS-016-M2",
+        "knowledge_id": "K-G100-20261008-MARTIALARTS-016-M2",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Martial Arts & Asia-Film",
+        "film_title_de": "Ong Bak 2",
+        "film_title_original": "Ong Bak 2",
+        "film_year": "2008",
+        "franchise": "",
+        "difficulty": "mittel",
+        "question_type": "Filmwissen",
+        "topic_tags": "Martial Arts & Asia-Film",
+        "badge_tags": "Martial Arts & Asia-Film",
+        "learning_objective": "Verborgener Schutz macht den vermeintlichen Erfolg zur Täuschung.",
+        "question": "Warum überlebt Rajasena (Sarunyoo Wongkrachang) Tiens (Tony Jaa) ersten vermeintlich tödlichen Angriff in „Ong Bak 2“?",
+        "answer_a": "Ein Doppelgänger empfängt den Schlag.",
+        "answer_b": "Eine zuvor verabreichte Medizin hält ihn am Leben.",
+        "answer_c": "Der Dolch wurde heimlich durch eine stumpfe Klinge ersetzt.",
+        "answer_d": "Er trägt eine verborgene Rüstung.",
+        "correct_answer": "D",
+        "explanation_short": "Rajasena hat sich durch eine verborgene Rüstung geschützt.",
+        "explanation_context": "Tien (Tony Jaa) glaubt nach seinem Angriff, Rajasena (Sarunyoo Wongkrachang) getötet zu haben. Der Gegner überlebt jedoch wegen einer unter seiner Kleidung verborgenen Rüstung. Die scheinbar abgeschlossene Vergeltung erweist sich dadurch als Fehlschlag. Tien gerät erneut in den Einflussbereich des mächtigen Gegners und muss sich einer Gefahr stellen, die er nach dem erfolgreichen Zugang zum Palast bereits für überwunden gehalten hatte.",
+        "feedback_a": "Ein Doppelgänger wird nicht getroffen.",
+        "feedback_b": "Eine rettende Medizin erklärt sein Überleben nicht.",
+        "feedback_c": "Ein heimlicher Klingentausch findet nicht statt.",
+        "feedback_d": "Die verborgene Rüstung schützt ihn.",
+        "memory_anchor": "Verborgener Schutz macht den vermeintlichen Erfolg zur Täuschung.",
+        "spoiler_level": "mittel",
+        "source_urls": "https://en.wikipedia.org/wiki/Ong_Bak_2",
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "demo": false,
+      "display": {
+        "context": "Tien (Tony Jaa) glaubt nach seinem Angriff, Rajasena (Sarunyoo Wongkrachang) getötet zu haben. Der Gegner überlebt jedoch wegen einer unter seiner Kleidung verborgenen Rüstung. Die scheinbar abgeschlossene Vergeltung erweist sich dadurch als Fehlschlag. Tien gerät erneut in den Einflussbereich des mächtigen Gegners und muss sich einer Gefahr stellen, die er nach dem erfolgreichen Zugang zum Palast bereits für überwunden gehalten hatte.",
+        "anchor": "Verborgener Schutz macht den vermeintlichen Erfolg zur Täuschung.",
+        "answers": [
+          {
+            "id": "G100-20261008-MARTIALARTS-016-M2:a",
+            "text": "Ein Doppelgänger empfängt den Schlag.",
+            "feedback": "Ein Doppelgänger wird nicht getroffen.",
+            "visibleFeedback": "Ein Doppelgänger wird nicht getroffen."
+          },
+          {
+            "id": "G100-20261008-MARTIALARTS-016-M2:b",
+            "text": "Eine zuvor verabreichte Medizin hält ihn am Leben.",
+            "feedback": "Eine rettende Medizin erklärt sein Überleben nicht.",
+            "visibleFeedback": "Eine rettende Medizin erklärt sein Überleben nicht."
+          },
+          {
+            "id": "G100-20261008-MARTIALARTS-016-M2:c",
+            "text": "Der Dolch wurde heimlich durch eine stumpfe Klinge ersetzt.",
+            "feedback": "Ein heimlicher Klingentausch findet nicht statt.",
+            "visibleFeedback": "Ein heimlicher Klingentausch findet nicht statt."
+          },
+          {
+            "id": "G100-20261008-MARTIALARTS-016-M2:d",
+            "text": "Er trägt eine verborgene Rüstung.",
+            "feedback": "Die verborgene Rüstung schützt ihn.",
+            "visibleFeedback": "Die verborgene Rüstung schützt ihn."
+          }
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ong_Bak_2"
+        ]
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": "E20261007-F-212-L1",
+      "verdict": "Kurzantwort korrigieren; Vertiefung konkretisieren",
+      "assessment": "Die richtige Option ist eindeutig. Die Kurzantwort beantwortet jedoch die Herstellung des Körpers statt der gesuchten Gestalt. Die alte Vertiefung ist nachvollziehbar, bleibt bei der Begegnung aber abstrakt. Die vier Identitäten sind als leichte Auswahl brauchbar.",
+      "short": "Er nimmt die Gestalt von Scott Hayden an, Jennys verstorbenem Ehemann.",
+      "deep": "Eine Haarsträhne von Scott genügt dem Besucher, um dessen Körper nachzubilden. Für Jenny (Karen Allen) steht damit plötzlich das Gesicht ihres verstorbenen Mannes vor ihr. Doch der Besucher (Jeff Bridges) kennt weder Scotts gemeinsames Leben mit ihr noch die Regeln des menschlichen Alltags. Sie muss ihm sogar erst beibringen, Auto zu fahren.",
+      "changes": "Frage und Optionen erhalten; Kurzantwort direkt auf die Identität ausrichten. Die Haarsträhne als Entstehungsdetail in die Vertiefung verschieben. Leere Verneinungen bei den falschen Optionen streichen; Merksatz kann bleiben.",
+      "evidence": "Handlungszusammenfassung bestätigt Körpernachbildung aus Scotts Haar und die Fahrstunden. Die Gegenüberstellung des vertrauten Gesichts und des fremden Verhaltens ist eine am Ablauf begründete Einordnung, keine Wiederauferstehung Scotts.",
+      "sources": [
+        [
+          "Handlung (Sekundärquelle)",
+          "https://en.wikipedia.org/wiki/Starman_(1984_film)"
+        ],
+        [
+          "Studio",
+          "https://www.sonypictures.com/movies/starman"
+        ]
+      ]
+    },
+    {
+      "id": "ACT-M-001",
+      "verdict": "Kurzantwort und Vertiefung erhalten",
+      "assessment": "Die Kurzantwort beantwortet die Beziehung genau. Die Vertiefung erklärt die räumliche Trennung, Hollys Beruf und Johns Konflikt verständlich. Das ist bereits ein eigener Zusammenhang statt bloßer Lösungswiederholung. Kein Anlass, nur für diese Runde eine neue Anekdote einzubauen. Für mittel ist die Frage eher zugänglich; die Berufsoptionen setzen immerhin eine andere Beziehung voraus.",
+      "changes": "Frage, Optionen, Kurzantwort, Vertiefung und Merksatz erhalten. Die vorhandene Einordnung ist gut, ohne sie als einzig mögliche Filmdeutung auszugeben. Zusatzfeedback auf den sachlichen Arbeitgeberhinweis zu Nakatomi beschränken; bloße Wiederholungen der Ehebeziehung entfernen.",
+      "evidence": "Handlung und Figurenbeschreibung bestätigen das entfremdete Ehepaar, Johns New Yorker Polizeiarbeit und Hollys Führungsposition bei Nakatomi. Johns nötiges Umdenken ist eine nachvollziehbare Lesart des Ehekonflikts.",
+      "sources": [
+        [
+          "Handlung und Figuren (Sekundärquelle)",
+          "https://en.wikipedia.org/wiki/Die_Hard"
+        ]
+      ]
+    },
+    {
+      "id": "HOR-S-022",
+      "verdict": "Vertiefung deutlich überarbeiten",
+      "assessment": "Die Lösung ist richtig und fragt eine konkrete Entdeckung ab. Die Alternativen sind verschieden, aber mehrere wirken für die Figur wenig plausibel. Die Vertiefung spricht um den entscheidenden Fund herum und ersetzt Filminhalt durch einen allgemeinen Satz über Anklage und Verurteilung. Die Abgrenzung ist wichtig, sollte aber konkret auf Annies Prozess bezogen sein.",
+      "deep": "Annie Wilkes (Kathy Bates) arbeitete als Krankenschwester in dem Krankenhaus, in dem mehrere Säuglinge starben. Die Zeitungsausschnitte berichten von ihrem Prozess; die Beweislage reichte nicht für eine Verurteilung. Paul Sheldon (James Caan) findet diese Berichte in einem Album, das seine vermeintliche Retterin selbst aufbewahrt hat.",
+      "changes": "Kurzantwort erhalten. In der Vertiefung Beruf, Krankenhaus, Ausgang des Prozesses und Fundort konkret nennen. Keine gerichtliche Verurteilung oder Täterschaft als aus den Ausschnitten bewiesen behaupten. Falsches Antwortfeedback streichen. Keine ungeprüften neuen Ablenker als fertige Verbesserung ausgeben.",
+      "evidence": "Sekundärquelle beschreibt Krankenschwester, Säuglingstodesfälle, Prozess ohne ausreichende Beweise und das Album. Filmhandlung geprüft, nicht Details der Romanfassung übernommen. Keine vollständige neue Szenensichtung.",
+      "sources": [
+        [
+          "Filmhandlung (Sekundärquelle)",
+          "https://en.wikipedia.org/wiki/Misery_(film)"
+        ]
+      ]
+    },
+    {
+      "id": "E20261007-F-080-L2",
+      "verdict": "Vertiefung und Ablenker überarbeiten",
+      "assessment": "Die Kurzantwort passt. Die Vertiefung kündigt eine Spaltung der Brüder an, erklärt deren konkrete Grundlage aber nicht. Die Turnieroption wirkt beliebig. Der Vorschlag ersetzt die falschen Optionen durch verschiedene plausible Wege einer Gefangennahme; die richtige bleibt B.",
+      "composition": {
+        "question": "Wie gelangen Soren und sein Bruder in „Die Legende der Wächter“ in die Gewalt der Reinen?",
+        "answers": [
+          "Sie folgen einem Lockruf und geraten in eine Falle.",
+          "Sie werden nach einem Sturz aus dem Baum entführt.",
+          "Sie werden während ihres ersten Flugs abgefangen.",
+          "Sie suchen in einer fremden Höhle Schutz und werden dort gefangen."
+        ],
+        "correct": "B"
+      },
+      "deep": "Die Entführer behandeln die Brüder unterschiedlich: Kludd (Originalstimme Ryan Kwanten) darf zum Soldaten der Reinen ausgebildet werden, während Soren (Originalstimme Jim Sturgess) mit anderen jungen Eulen Metallpartikel aus Gewöllen sammeln muss. Soren wehrt sich gegen die Unterwerfung; Kludd findet Gefallen an der Aussicht, zu den Mächtigen zu gehören. Aus derselben Entführung gehen so zwei gegensätzliche Wege hervor.",
+      "changes": "Kurzantwort erhalten; vollständige neue Auswahl als Vorschlag zeigen. Die angekündigte Spaltung durch die unterschiedliche Behandlung erklären. Nicht auch Flucht, Ausbildung und Finale nacherzählen. Leeres Feedback streichen.",
+      "evidence": "Handlungszusammenfassung bestätigt Sturz, Entführung, Kludds Aufnahme als Soldat und Sorens Arbeit beim Sammeln der Partikel. Der unterschiedliche Umgang mit Macht ist eine unmittelbar daraus abgeleitete Deutung. Neue falsche Optionen sind hypothetische Alternativen, keine behaupteten Filmereignisse.",
+      "sources": [
+        [
+          "Filmhandlung (Sekundärquelle)",
+          "https://en.wikipedia.org/wiki/Legend_of_the_Guardians:_The_Owls_of_Ga%27Hoole"
+        ]
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-M-055-V1",
+      "verdict": "Wissensziel schwach; Vertiefung konkretisieren",
+      "assessment": "Frage, richtige Option und Kurzantwort passen. Vier gleichartige Klassenbezeichnungen geben keine formalen Lösungshinweise. Trotzdem bleibt das Merken von 10b ein wenig ergiebiges Detail. Eine bessere Vertiefung macht daraus keine starke mittlere Frage. Ein Austausch des Wissensziels müsste separat gegen den Bestand geprüft werden.",
+      "deep": "Lisi Schnabelstedt (Karoline Herfurth) entdeckt, dass Zeki Müller (Elyas M’Barek) ihr Abiturzeugnis kopiert und als sein eigenes ausgegeben hat. Mit diesem Wissen setzt sie ihn unter Druck: Er soll die berüchtigte 10b übernehmen, an der sie selbst gescheitert ist. Die Klasse bekommt ihren neuen Lehrer also durch eine Erpressung unter Kollegen.",
+      "changes": "Kurzantwort und vorerst auch Frage/Optionen erhalten; die konkrete Zeugnisfälschung und Lisis Druck erklären. Das Wissensziel als schwachen Kandidaten für spätere Ersetzung markieren, nicht eigenmächtig eine neue Lernidentität daraus machen. Merksatz „10b trifft Zeki.“ ist knapp, bietet aber keine zusätzliche Hilfe.",
+      "evidence": "Handlungszusammenfassung beschreibt das kopierte Abiturzeugnis, Lisis Entdeckung und ihren Druck zur Übernahme der 10b. Die Umschreibung Erpressung ist auf diesen konkreten Vorgang bezogen.",
+      "sources": [
+        [
+          "Filmhandlung (Sekundärquelle)",
+          "https://en.wikipedia.org/wiki/Fack_ju_G%C3%B6hte"
+        ]
+      ]
+    },
+    {
+      "id": "F240-20261006-239-S1",
+      "verdict": "Gutes Wissensziel; Erklärung vertiefen",
+      "assessment": "Die Frage trifft einen bemerkenswerten Schlussmoment; die vier Alternativen sind verständliche verschiedene Ursachen. Die alte Vertiefung kopiert zunächst die Kurzantwort und endet mit einer allgemeinen Motivationsdeutung. Interessanter ist, warum eine Bankpleite mitgeführtes Bargeld überhaupt entwerten kann.",
+      "short": "Die Bank von Loup ist zusammengebrochen; ihre Banknoten werden nicht mehr angenommen.",
+      "deep": "Briggs (Tommy Lee Jones) bringt seine 300 Dollar bis ans Ziel, kann dort aber nichts mehr damit anfangen. Der Film spielt in den 1850er-Jahren, als amerikanische Banken eigene Geldscheine ausgaben. Deren Wert hing von der ausgebenden Bank ab. Mit dem Zusammenbruch der Bank von Loup verliert deshalb auch Briggs’ mitgeführte Bezahlung ihren Wert.",
+      "changes": "Frage und Optionen erhalten. Kurzantwort sprachlich präzisieren; die Vertiefung um unmittelbar zum Filmverständnis beitragendes Währungswissen erweitern. Keine Gleichsetzung mit heutigen staatlichen Geldscheinen und keine Behauptung einer konkreten historischen Krise von 1857.",
+      "evidence": "Filmzusammenfassung bestätigt 1850er-Jahre, 300 Dollar und Bankzusammenbruch. Federal Reserve Bank of Philadelphia belegt die damalige Ausgabe eigener Banknoten und deren vom Emittenten abhängigen Kurs. Die Verbindung erklärt den Filmvorgang; Loup wird nicht als historisch nachgewiesene Bank ausgegeben.",
+      "sources": [
+        [
+          "Filmhandlung (Sekundärquelle)",
+          "https://en.wikipedia.org/wiki/The_Homesman"
+        ],
+        [
+          "Währungsgeschichte (Primärquelle)",
+          "https://fraser.stlouisfed.org/files/docs/publications/education/frbphi-chapters-state-national-banking-eras.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "E20261007-F-051-D",
+      "verdict": "Guten Kern erhalten; historischen Bezug konkretisieren",
+      "assessment": "Die richtige Lösung und der Drehbuchcredit stimmen. Die vorhandene Einordnung hält sich sinnvoll an Hanekes eigene Aussage. Ihr letzter Satz über persönliche Autorenschaft ist austauschbar. Die konkrete Generationenverbindung erklärt besser, warum die Geschichte vor dem Ersten Weltkrieg spielt. „Eigene“ bedeutet dabei nicht „ohne jede Mitarbeit“: Das Presseheft nennt Jean-Claude Carrière als Drehbuchberater.",
+      "deep": "Das Dorf lebt 1913/14, kurz vor dem Ersten Weltkrieg. Seine Kinder gehören zu der Generation, die während der NS-Zeit erwachsen sein wird. Von diesem zeitlichen Zusammenhang ging Haneke aus: Er wollte untersuchen, welche Erziehung Menschen für ideologische Heilsversprechen empfänglich macht. Im Presseheft grenzt er das ausdrücklich von einer vollständigen Erklärung des deutschen Faschismus ab.",
+      "changes": "Frage, Optionen und Kurzantwort erhalten. Den abstrakten Abschlusssatz durch den konkreten historischen Ausgangspunkt ersetzen. Keine ungesicherte Identifizierung einzelner Kinder mit späteren Nationalsozialisten; keine Behauptung völlig alleiniger Drehbucharbeit.",
+      "evidence": "Offizielles Presseheft: Handlung 1913/14, Q&A zu den Kindern vor dem Ersten Weltkrieg und den Erwachsenen von 1933/1945, ausdrückliche Begrenzung des Erklärungsanspruchs. Credits: Written and directed by Michael Haneke; consultant on screenplay Jean-Claude Carrière.",
+      "sources": [
+        [
+          "Offizielles Presseheft, Interview und Credits (Primärquelle)",
+          "https://www.sonyclassics.com/thewhiteribbon/whiteribbonpressbook.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "MUS-202609-P01-L-019",
+      "verdict": "Vertiefung und Antwortfeedback gezielt verbessern",
+      "assessment": "Eine klare leichte Besetzungsfrage. Die Auswahl ist gut: Zwei falsche Namen gehören tatsächlich zum Film, Bowie passt als Musiker und Bühnenfigur ins Umfeld. Der alte erste Satz trägt; die folgende allgemeine Betrachtung zur Kamerawirkung könnte dagegen bei vielen Filmrollen stehen.",
+      "deep": "Tim Curry brachte Frank-N-Furter von der Bühne mit: Er spielte die Rolle bereits in den Londoner, Los-Angeles- und Broadway-Inszenierungen. Auch Richard O’Brien, hier als Riff Raff zu sehen, gehörte zum Theaterensemble – und hatte das Musical samt Musik und Liedtexten geschrieben.",
+      "feedback": {
+        "A": "Richard O’Brien spielt Riff Raff und schrieb das ursprüngliche Musical samt Musik und Liedtexten.",
+        "B": "",
+        "C": "",
+        "D": "Meat Loaf spielt Eddie."
+      },
+      "changes": "Frage, Optionen und Kurzantwort erhalten. Den belegten Bühnenbezug weiterführen. Bei O’Brien und Meat Loaf ihre tatsächlichen Rollen als nützliches Feedback verwenden; bei Bowie keinen neuen Verneinungsbaustein erfinden. Bühnentitel The Rocky Horror Show und Filmtitel The Rocky Horror Picture Show unterscheiden.",
+      "evidence": "Originale Produktionsnotizen bestätigen Currys London-, Los-Angeles- und Broadway-Auftritte. Offizielle Fan-Seite überliefert Besetzung und Produktionscredits: O’Brien/Riff Raff und Autor des Musicals, Meat Loaf/Eddie. Kein neues unbelegtes Zitat oder Castinggerücht.",
+      "sources": [
+        [
+          "Originale Produktionsnotizen (Primärmaterial)",
+          "https://rockyhorror.com/history/productionnotes.php"
+        ],
+        [
+          "Besetzung und Credits",
+          "https://www.rockyhorror.com/history/castcrewlist.php"
+        ]
+      ]
+    },
+    {
+      "id": "ART-S-011",
+      "verdict": "Auswahl und Vertiefung deutlich überarbeiten",
+      "assessment": "Die richtige Lösung stimmt, und der Stoff ist stark. Die falschen Antworten Dialog, Tischmodell und Zeichentrick machen die Frage aber zu leicht für schwer. Die Vertiefung spricht über Aufwand und Verantwortung, ohne den tatsächlichen Dreh zu erklären. Der neue Entwurf stellt echte Trickverfahren gegenüber; ich würde ihn zunächst mittel zuordnen, ohne eine empirische Schwierigkeit zu behaupten.",
+      "composition": {
+        "question": "„Fitzcarraldo“ (1982): Wie entstand der Transport des Schiffes über den Hügel bei den Dreharbeiten?",
+        "answers": [
+          "Das Schiff blieb im Fluss; eine Kameraneigung täuschte den Hang vor.",
+          "Der Transport wurde mit einem verkleinerten Schiffsmodell gedreht.",
+          "Ein echtes Dampfschiff wurde mit Seilzügen über den Hügel bewegt.",
+          "Auf dem Hügel stand eine feste Kulisse; die Bewegung entstand durch Rückprojektion."
+        ],
+        "correct": "C",
+        "difficulty": "mittel"
+      },
+      "deep": "Das Dampfschiff wog nach Herzogs Angaben gegenüber der Directors Guild of America 340 Tonnen. Seilzüge und ein Bulldozer halfen, es über den Hügel zu bringen. Die enorme Last bestimmte auch die Aufnahmen: Bewegte sich das Schiff endlich, mussten die Schauspieler im Bild sein. Diesen Moment konnte Herzog nicht einfach für eine weitere Einstellung wiederholen.",
+      "changes": "Vollständigen neuen Fragetext und alle vier Optionen zeigen; Schwierigkeit mittel vorschlagen. Vertiefung mit belegter Arbeitsweise statt allgemeiner Produktionsmetapher füllen. Merksatz kann sachlich bleiben. Die hypothetischen Verfahren der neuen falschen Optionen nicht als tatsächlich eingesetzte Tricks darstellen.",
+      "evidence": "DGA-Artikel mit direkter Herzog-Befragung nennt 340 Tonnen, Seilzüge, Bulldozer und den nur einmal einfangbaren Bewegungsmoment. Die Gewichtsangabe bleibt explizit an diese Quelle gebunden. Keine ungesicherten Unfallzahlen oder pauschale Produktionsethik behauptet.",
+      "sources": [
+        [
+          "Herzog erklärt die Aufnahmen (Primärquelle)",
+          "https://www.dga.org/craft/dgaq/issues/0703-fall-2007/shot-to-remember-fitzcarraldo"
+        ]
+      ]
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-016-M2",
+      "verdict": "Kurzantwort erhalten; Vertiefung kürzen und konkretisieren",
+      "assessment": "Die Frage sucht einen klaren Mechanismus, den die Kurzantwort genau trifft. Die drei Ablenker bieten andere Überlebensmechanismen. Der alte lange Text formuliert anschließend denselben scheinbaren Racheerfolg mehrfach um. Zwei konkrete Sätze zum Anschlag reichen; weitere große Enthüllungen des Finales wären hier unnötig.",
+      "deep": "Für den Anschlag schleicht sich Tien (Tony Jaa) als Khon-Tänzer verkleidet in Rajasenas Palast. Er erreicht den Herrscher (Sarunyoo Wongkrachang), erkennt aber dessen versteckten Körperschutz nicht – und hält seine Rache für den Tod der eigenen Familie deshalb voreilig für gelungen.",
+      "changes": "Frage, vier Optionen und Kurzantwort erhalten; Vertiefung auf den konkreten Anschlag verdichten. Kein zusätzliches Finale-Spoilerpaket erzwingen. Leere Verneinungen bei falschen Antworten streichen.",
+      "evidence": "Filmzusammenfassung beschreibt die Tänzerverkleidung beim Fest, den vermeintlich erfolgreichen Anschlag, die Familienrache und Rajasenas spätere Rückkehr dank versteckter Rüstung. Keine genauere Material- oder Waffenbehauptung hinzugefügt.",
+      "sources": [
+        [
+          "Filmhandlung (Sekundärquelle)",
+          "https://en.wikipedia.org/wiki/Ong_Bak_2"
+        ]
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "id": "E20261007-F-212-L1",
+      "status": "Vorschlag zur Durchsicht; nicht freigegeben oder integriert",
+      "question": "Welche Gestalt nimmt der Besucher (Jeff Bridges) in „Starman“ auf der Erde an?",
+      "answers": [
+        "Die von Jennys verstorbenem Ehemann.",
+        "Die eines führenden Regierungsbeamten.",
+        "Die eines Kindes aus Jennys Nachbarschaft.",
+        "Die seines menschlichen Verfolgers."
+      ],
+      "correct": "A",
+      "difficulty": "leicht",
+      "short": "Er nimmt die Gestalt von Scott Hayden an, Jennys verstorbenem Ehemann.",
+      "deep": "Eine Haarsträhne von Scott genügt dem Besucher, um dessen Körper nachzubilden. Für Jenny (Karen Allen) steht damit plötzlich das Gesicht ihres verstorbenen Mannes vor ihr. Doch der Besucher (Jeff Bridges) kennt weder Scotts gemeinsames Leben mit ihr noch die Regeln des menschlichen Alltags. Sie muss ihm sogar erst beibringen, Auto zu fahren.",
+      "feedback": null,
+      "feedbackNote": "Siehe Einzelbewertung; keine fertig redigierten Ersatzrückmeldungen behauptet."
+    },
+    {
+      "id": "ACT-M-001",
+      "status": "Vorschlag zur Durchsicht; nicht freigegeben oder integriert",
+      "question": "„Stirb langsam“ (1988): In welcher Beziehung steht die Geisel Holly (Bonnie Bedelia) zu McClane (Bruce Willis)?",
+      "answers": [
+        "Sie ist seine Ehefrau.",
+        "Sie ist seine frühere Partnerin im Polizeidienst.",
+        "Sie ist seine Vorgesetzte.",
+        "Sie ist seine Schwester."
+      ],
+      "correct": "A",
+      "difficulty": "mittel",
+      "short": "Holly und John sind verheiratet, leben wegen ihrer beruflichen und persönlichen Konflikte aber getrennt.",
+      "deep": "Holly Gennero, gespielt von Bonnie Bedelia, hat sich in Los Angeles eine berufliche Stellung aufgebaut. John kommt aus New York zu Besuch und fühlt sich von ihrem neuen Leben übergangen. Die Geiselnahme unterbricht ihren Streit. Damit muss er nicht nur eine Gruppe retten, sondern auch seine Haltung gegenüber Hollys Eigenständigkeit überdenken.",
+      "feedback": null,
+      "feedbackNote": "Siehe Einzelbewertung; keine fertig redigierten Ersatzrückmeldungen behauptet."
+    },
+    {
+      "id": "HOR-S-022",
+      "status": "Vorschlag zur Durchsicht; nicht freigegeben oder integriert",
+      "question": "„Misery“ (1990): Welche Vergangenheit entdeckt Paul in Annies Sammlung von Zeitungsausschnitten?",
+      "answers": [
+        "Sie hatte unter einem anderen Namen erfolgreiche Romane veröffentlicht.",
+        "Sie hatte früher als Ermittlerin eine Entführungsserie aufgeklärt.",
+        "Sie war wegen gestohlener Filmmanuskripte verurteilt worden.",
+        "Sie wurde im Zusammenhang mit Todesfällen von Säuglingen angeklagt."
+      ],
+      "correct": "D",
+      "difficulty": "schwer",
+      "short": "Die Ausschnitte berichten über Annies Prozess im Zusammenhang mit verstorbenen Säuglingen.",
+      "deep": "Annie Wilkes (Kathy Bates) arbeitete als Krankenschwester in dem Krankenhaus, in dem mehrere Säuglinge starben. Die Zeitungsausschnitte berichten von ihrem Prozess; die Beweislage reichte nicht für eine Verurteilung. Paul Sheldon (James Caan) findet diese Berichte in einem Album, das seine vermeintliche Retterin selbst aufbewahrt hat.",
+      "feedback": null,
+      "feedbackNote": "Siehe Einzelbewertung; keine fertig redigierten Ersatzrückmeldungen behauptet."
+    },
+    {
+      "id": "E20261007-F-080-L2",
+      "status": "Vorschlag zur Durchsicht; nicht freigegeben oder integriert",
+      "question": "Wie gelangen Soren und sein Bruder in „Die Legende der Wächter“ in die Gewalt der Reinen?",
+      "answers": [
+        "Sie folgen einem Lockruf und geraten in eine Falle.",
+        "Sie werden nach einem Sturz aus dem Baum entführt.",
+        "Sie werden während ihres ersten Flugs abgefangen.",
+        "Sie suchen in einer fremden Höhle Schutz und werden dort gefangen."
+      ],
+      "correct": "B",
+      "difficulty": "leicht",
+      "short": "Auf dem Boden werden die Brüder von Eulen der Reinen verschleppt.",
+      "deep": "Die Entführer behandeln die Brüder unterschiedlich: Kludd (Originalstimme Ryan Kwanten) darf zum Soldaten der Reinen ausgebildet werden, während Soren (Originalstimme Jim Sturgess) mit anderen jungen Eulen Metallpartikel aus Gewöllen sammeln muss. Soren wehrt sich gegen die Unterwerfung; Kludd findet Gefallen an der Aussicht, zu den Mächtigen zu gehören. Aus derselben Entführung gehen so zwei gegensätzliche Wege hervor.",
+      "feedback": null,
+      "feedbackNote": "Siehe Einzelbewertung; keine fertig redigierten Ersatzrückmeldungen behauptet."
+    },
+    {
+      "id": "KOM-202609-P02-M-055-V1",
+      "status": "Vorschlag zur Durchsicht; nicht freigegeben oder integriert",
+      "question": "„Fack ju Göhte“ (2013): Welche Klassenbezeichnung trägt Zekis (Elyas M’Barek) schwierige Lerngruppe?",
+      "answers": [
+        "Die 7c",
+        "Die 5a",
+        "Die 12d",
+        "Die 10b"
+      ],
+      "correct": "D",
+      "difficulty": "mittel",
+      "short": "Zeki übernimmt die Klasse 10b.",
+      "deep": "Lisi Schnabelstedt (Karoline Herfurth) entdeckt, dass Zeki Müller (Elyas M’Barek) ihr Abiturzeugnis kopiert und als sein eigenes ausgegeben hat. Mit diesem Wissen setzt sie ihn unter Druck: Er soll die berüchtigte 10b übernehmen, an der sie selbst gescheitert ist. Die Klasse bekommt ihren neuen Lehrer also durch eine Erpressung unter Kollegen.",
+      "feedback": null,
+      "feedbackNote": "Siehe Einzelbewertung; keine fertig redigierten Ersatzrückmeldungen behauptet."
+    },
+    {
+      "id": "F240-20261006-239-S1",
+      "status": "Vorschlag zur Durchsicht; nicht freigegeben oder integriert",
+      "question": "Warum erweist sich Briggs’ (Tommy Lee Jones) Bezahlung in „The Homesman“ am Ziel als wertlos?",
+      "answers": [
+        "Die Bank der Herkunftssiedlung ist inzwischen gescheitert",
+        "Cuddy hat absichtlich falsche Scheine eingepackt",
+        "Ein Gericht beschlagnahmt das Geld",
+        "Die Kirche verlangt es als Aufnahmegebühr"
+      ],
+      "correct": "A",
+      "difficulty": "schwer",
+      "short": "Die Bank von Loup ist zusammengebrochen; ihre Banknoten werden nicht mehr angenommen.",
+      "deep": "Briggs (Tommy Lee Jones) bringt seine 300 Dollar bis ans Ziel, kann dort aber nichts mehr damit anfangen. Der Film spielt in den 1850er-Jahren, als amerikanische Banken eigene Geldscheine ausgaben. Deren Wert hing von der ausgebenden Bank ab. Mit dem Zusammenbruch der Bank von Loup verliert deshalb auch Briggs’ mitgeführte Bezahlung ihren Wert.",
+      "feedback": null,
+      "feedbackNote": "Siehe Einzelbewertung; keine fertig redigierten Ersatzrückmeldungen behauptet."
+    },
+    {
+      "id": "E20261007-F-051-D",
+      "status": "Vorschlag zur Durchsicht; nicht freigegeben oder integriert",
+      "question": "Wer schrieb und inszenierte „Das weiße Band“ als eigene Dorfgeschichte?",
+      "answers": [
+        "Ulrich Seidl",
+        "Christian Petzold",
+        "Michael Haneke",
+        "Florian Henckel von Donnersmarck"
+      ],
+      "correct": "C",
+      "difficulty": "mittel",
+      "short": "Michael Haneke verantwortet Regie und Originaldrehbuch.",
+      "deep": "Das Dorf lebt 1913/14, kurz vor dem Ersten Weltkrieg. Seine Kinder gehören zu der Generation, die während der NS-Zeit erwachsen sein wird. Von diesem zeitlichen Zusammenhang ging Haneke aus: Er wollte untersuchen, welche Erziehung Menschen für ideologische Heilsversprechen empfänglich macht. Im Presseheft grenzt er das ausdrücklich von einer vollständigen Erklärung des deutschen Faschismus ab.",
+      "feedback": null,
+      "feedbackNote": "Siehe Einzelbewertung; keine fertig redigierten Ersatzrückmeldungen behauptet."
+    },
+    {
+      "id": "MUS-202609-P01-L-019",
+      "status": "Vorschlag zur Durchsicht; nicht freigegeben oder integriert",
+      "question": "„The Rocky Horror Picture Show“ (1975): Wer spielt Dr. Frank-N-Furter?",
+      "answers": [
+        "Richard O’Brien",
+        "David Bowie",
+        "Tim Curry",
+        "Meat Loaf"
+      ],
+      "correct": "C",
+      "difficulty": "leicht",
+      "short": "Tim Curry spielt Dr. Frank-N-Furter.",
+      "deep": "Tim Curry brachte Frank-N-Furter von der Bühne mit: Er spielte die Rolle bereits in den Londoner, Los-Angeles- und Broadway-Inszenierungen. Auch Richard O’Brien, hier als Riff Raff zu sehen, gehörte zum Theaterensemble – und hatte das Musical samt Musik und Liedtexten geschrieben.",
+      "feedback": {
+        "A": "Richard O’Brien spielt Riff Raff und schrieb das ursprüngliche Musical samt Musik und Liedtexten.",
+        "B": "",
+        "C": "",
+        "D": "Meat Loaf spielt Eddie."
+      },
+      "feedbackNote": "Gezielt neue sachliche Rückmeldungen; leere Einträge bedeuten kein Zusatzfeedback."
+    },
+    {
+      "id": "ART-S-011",
+      "status": "Vorschlag zur Durchsicht; nicht freigegeben oder integriert",
+      "question": "„Fitzcarraldo“ (1982): Wie entstand der Transport des Schiffes über den Hügel bei den Dreharbeiten?",
+      "answers": [
+        "Das Schiff blieb im Fluss; eine Kameraneigung täuschte den Hang vor.",
+        "Der Transport wurde mit einem verkleinerten Schiffsmodell gedreht.",
+        "Ein echtes Dampfschiff wurde mit Seilzügen über den Hügel bewegt.",
+        "Auf dem Hügel stand eine feste Kulisse; die Bewegung entstand durch Rückprojektion."
+      ],
+      "correct": "C",
+      "difficulty": "mittel",
+      "short": "Herzog ließ tatsächlich ein Schiff über einen Hügel bewegen.",
+      "deep": "Das Dampfschiff wog nach Herzogs Angaben gegenüber der Directors Guild of America 340 Tonnen. Seilzüge und ein Bulldozer halfen, es über den Hügel zu bringen. Die enorme Last bestimmte auch die Aufnahmen: Bewegte sich das Schiff endlich, mussten die Schauspieler im Bild sein. Diesen Moment konnte Herzog nicht einfach für eine weitere Einstellung wiederholen.",
+      "feedback": null,
+      "feedbackNote": "Siehe Einzelbewertung; keine fertig redigierten Ersatzrückmeldungen behauptet."
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-016-M2",
+      "status": "Vorschlag zur Durchsicht; nicht freigegeben oder integriert",
+      "question": "Warum überlebt Rajasena (Sarunyoo Wongkrachang) Tiens (Tony Jaa) ersten vermeintlich tödlichen Angriff in „Ong Bak 2“?",
+      "answers": [
+        "Ein Doppelgänger empfängt den Schlag.",
+        "Eine zuvor verabreichte Medizin hält ihn am Leben.",
+        "Der Dolch wurde heimlich durch eine stumpfe Klinge ersetzt.",
+        "Er trägt eine verborgene Rüstung."
+      ],
+      "correct": "D",
+      "difficulty": "mittel",
+      "short": "Rajasena hat sich durch eine verborgene Rüstung geschützt.",
+      "deep": "Für den Anschlag schleicht sich Tien (Tony Jaa) als Khon-Tänzer verkleidet in Rajasenas Palast. Er erreicht den Herrscher (Sarunyoo Wongkrachang), erkennt aber dessen versteckten Körperschutz nicht – und hält seine Rache für den Tod der eigenen Familie deshalb voreilig für gelungen.",
+      "feedback": null,
+      "feedbackNote": "Siehe Einzelbewertung; keine fertig redigierten Ersatzrückmeldungen behauptet."
+    }
+  ]
+}

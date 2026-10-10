@@ -1,5 +1,9 @@
 # Erklärungstiefe und redaktionelle Ergänzungen
 
+## Zweite Qualitätsrunde am 10.10.2026
+
+Nach Freigabe der ersten Runde zehn neue Filme aus dem aktuellen App-Katalog gezogen. Genaue Originalfragen, alle vier Optionen, Kurzantworten und angezeigte Vertiefungen vollständig gesichert und den Vorschlägen gegenübergestellt. Alle zehn Lösungsschlüssel im Quellenabgleich bestätigt; bei Starman beantwortet die Kurzantwort die Körperherstellung statt der gesuchten Gestalt. Stirb langsam bleibt in Kurzantwort und Vertiefung erhalten. Neun Vertiefungsvorschläge und zwei vollständige neue Antwortauswahlen zur Durchsicht; Fitzcarraldo zunächst mittel statt schwer empfohlen. Fack ju Göhte bleibt trotz konkreterer Erklärung ein schwaches Detailziel. Keine neue Skillregel aus dieser noch nicht freigegebenen zweiten Runde abgeleitet und keine App-Pakete geändert. [Vollständiger Vergleich, Quellen und Prüfgrenzen](Redaktionspruefung-2026-10-10/Runde-02.md), [Originale und Vorschläge](Redaktionspruefung-2026-10-10/Runde-02.json).
+
 ## Qualitätsprüfung von zehn Fragen am 10.10.2026
 
 Auf Nutzerauftrag eine vor dem Lesen gezogene Stichprobe aus zehn Genres geprüft: drei leichte, vier mittlere und drei schwere Fragen einschließlich einer CSV-Regiefrage. Aktueller App-Katalog mit 12.773 Fragen, tatsächliche Anzeigetexte und sichtbares Antwortfeedback berücksichtigt. Alle zehn Lösungsschlüssel im Quellenabgleich bestätigt; bei Orlando beantwortet die Kurzantwort „Elizabeth I.“ allerdings die falsche Frage. Redaktionelles Urteil: Playtime unverändert lassen, drei Fragen gezielt verfeinern, sechs deutlicher überarbeiten. Keine repräsentative Bestandsquote.
