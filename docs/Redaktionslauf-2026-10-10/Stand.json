@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "9cf8f8f5aefa6d1707831d977d46f3fc642fe6cc",
+  "sourceCommit": "5e96f18d749305bdec8c1a44891227b16e241ad9",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 200,
-  "totalReviewed": 350,
-  "remainingFilmQuestions": 10383,
+  "completedInThisRun": 250,
+  "totalReviewed": 400,
+  "remainingFilmQuestions": 10333,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 12423,
+  "remainingAllQuestions": 12373,
   "blocks": [
     {
       "block": 1,
@@ -28,6 +28,11 @@
     {
       "block": 4,
       "path": "Block-04.json",
+      "count": 50
+    },
+    {
+      "block": 5,
+      "path": "Block-05.json",
       "count": 50
     }
   ],
@@ -381,209 +386,59 @@
     "E20261007-F-075-D",
     "G100-20261008-FANTASY-015-L1",
     "G100-20261008-FANTASY-015-L2",
-    "G100-20261008-FANTASY-015-M1"
+    "G100-20261008-FANTASY-015-M1",
+    "G100-20261008-FANTASY-015-M2",
+    "G100-20261008-FANTASY-015-S1",
+    "G100-20261008-FANTASY-015-Y",
+    "G100-20261008-FANTASY-015-D",
+    "KOM-202609-P02-L-029",
+    "KOM-202609-P02-M-029",
+    "KOM-202609-P02-M-030",
+    "KOM-202609-P02-S-029",
+    "KOM-202609-P02-S-030",
+    "KOM-202609-P02-L-029-V1",
+    "FF-390-YEAR",
+    "FF-390-DIRECTOR",
+    "F240-20261006-112-L1",
+    "F240-20261006-112-L2",
+    "F240-20261006-112-M1",
+    "F240-20261006-112-M2",
+    "F240-20261006-112-S1",
+    "F240-20261006-112-S2",
+    "F240-20261006-112-D",
+    "F240-20261006-113-L1",
+    "F240-20261006-113-L2",
+    "F240-20261006-113-M1",
+    "F240-20261006-113-M2",
+    "F240-20261006-113-S1",
+    "F240-20261006-113-Y",
+    "F240-20261006-113-D",
+    "F240-20261006-230-L1",
+    "F240-20261006-230-M1",
+    "F240-20261006-230-M2",
+    "F240-20261006-230-S1",
+    "F240-20261006-230-S2",
+    "F240-20261006-230-Y",
+    "F240-20261006-230-D",
+    "WES-L-031",
+    "WES-L-032",
+    "WES-M-031",
+    "WES-S-031",
+    "WES-S-032",
+    "WES-L-032-V1",
+    "WES-M-032-V1",
+    "WES-S-032-V1",
+    "FF-291-YEAR",
+    "FF-291-DIRECTOR",
+    "F240-20261006-238-L1",
+    "F240-20261006-238-L2",
+    "F240-20261006-238-M1",
+    "F240-20261006-238-M2",
+    "F240-20261006-238-S1",
+    "F240-20261006-238-Y",
+    "F240-20261006-238-D"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "G100-20261008-FANTASY-015-M2",
-      "filmKey": "Aladdin|2019"
-    },
-    {
-      "id": "G100-20261008-FANTASY-015-S1",
-      "filmKey": "Aladdin|2019"
-    },
-    {
-      "id": "G100-20261008-FANTASY-015-Y",
-      "filmKey": "Aladdin|2019"
-    },
-    {
-      "id": "G100-20261008-FANTASY-015-D",
-      "filmKey": "Aladdin|2019"
-    },
-    {
-      "id": "KOM-202609-P02-L-029",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
-    },
-    {
-      "id": "KOM-202609-P02-M-029",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
-    },
-    {
-      "id": "KOM-202609-P02-M-030",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
-    },
-    {
-      "id": "KOM-202609-P02-S-029",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
-    },
-    {
-      "id": "KOM-202609-P02-S-030",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
-    },
-    {
-      "id": "KOM-202609-P02-L-029-V1",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
-    },
-    {
-      "id": "FF-390-YEAR",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
-    },
-    {
-      "id": "FF-390-DIRECTOR",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
-    },
-    {
-      "id": "F240-20261006-112-L1",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
-    },
-    {
-      "id": "F240-20261006-112-L2",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
-    },
-    {
-      "id": "F240-20261006-112-M1",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
-    },
-    {
-      "id": "F240-20261006-112-M2",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
-    },
-    {
-      "id": "F240-20261006-112-S1",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
-    },
-    {
-      "id": "F240-20261006-112-S2",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
-    },
-    {
-      "id": "F240-20261006-112-D",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
-    },
-    {
-      "id": "F240-20261006-113-L1",
-      "filmKey": "Toni Erdmann|2016"
-    },
-    {
-      "id": "F240-20261006-113-L2",
-      "filmKey": "Toni Erdmann|2016"
-    },
-    {
-      "id": "F240-20261006-113-M1",
-      "filmKey": "Toni Erdmann|2016"
-    },
-    {
-      "id": "F240-20261006-113-M2",
-      "filmKey": "Toni Erdmann|2016"
-    },
-    {
-      "id": "F240-20261006-113-S1",
-      "filmKey": "Toni Erdmann|2016"
-    },
-    {
-      "id": "F240-20261006-113-Y",
-      "filmKey": "Toni Erdmann|2016"
-    },
-    {
-      "id": "F240-20261006-113-D",
-      "filmKey": "Toni Erdmann|2016"
-    },
-    {
-      "id": "F240-20261006-230-L1",
-      "filmKey": "Hondo|1953"
-    },
-    {
-      "id": "F240-20261006-230-M1",
-      "filmKey": "Hondo|1953"
-    },
-    {
-      "id": "F240-20261006-230-M2",
-      "filmKey": "Hondo|1953"
-    },
-    {
-      "id": "F240-20261006-230-S1",
-      "filmKey": "Hondo|1953"
-    },
-    {
-      "id": "F240-20261006-230-S2",
-      "filmKey": "Hondo|1953"
-    },
-    {
-      "id": "F240-20261006-230-Y",
-      "filmKey": "Hondo|1953"
-    },
-    {
-      "id": "F240-20261006-230-D",
-      "filmKey": "Hondo|1953"
-    },
-    {
-      "id": "WES-L-031",
-      "filmKey": "3:10 to Yuma|2007"
-    },
-    {
-      "id": "WES-L-032",
-      "filmKey": "3:10 to Yuma|2007"
-    },
-    {
-      "id": "WES-M-031",
-      "filmKey": "3:10 to Yuma|2007"
-    },
-    {
-      "id": "WES-S-031",
-      "filmKey": "3:10 to Yuma|2007"
-    },
-    {
-      "id": "WES-S-032",
-      "filmKey": "3:10 to Yuma|2007"
-    },
-    {
-      "id": "WES-L-032-V1",
-      "filmKey": "3:10 to Yuma|2007"
-    },
-    {
-      "id": "WES-M-032-V1",
-      "filmKey": "3:10 to Yuma|2007"
-    },
-    {
-      "id": "WES-S-032-V1",
-      "filmKey": "3:10 to Yuma|2007"
-    },
-    {
-      "id": "FF-291-YEAR",
-      "filmKey": "3:10 to Yuma|2007"
-    },
-    {
-      "id": "FF-291-DIRECTOR",
-      "filmKey": "3:10 to Yuma|2007"
-    },
-    {
-      "id": "F240-20261006-238-L1",
-      "filmKey": "Slow West|2015"
-    },
-    {
-      "id": "F240-20261006-238-L2",
-      "filmKey": "Slow West|2015"
-    },
-    {
-      "id": "F240-20261006-238-M1",
-      "filmKey": "Slow West|2015"
-    },
-    {
-      "id": "F240-20261006-238-M2",
-      "filmKey": "Slow West|2015"
-    },
-    {
-      "id": "F240-20261006-238-S1",
-      "filmKey": "Slow West|2015"
-    },
-    {
-      "id": "F240-20261006-238-Y",
-      "filmKey": "Slow West|2015"
-    },
-    {
-      "id": "F240-20261006-238-D",
-      "filmKey": "Slow West|2015"
-    },
     {
       "id": "E20261007-F-045-L1",
       "filmKey": "Magnolia|1999"
@@ -41919,204 +41774,204 @@
   ],
   "next": [
     {
-      "id": "G100-20261008-FANTASY-015-M2",
-      "filmKey": "Aladdin|2019"
+      "id": "E20261007-F-045-L1",
+      "filmKey": "Magnolia|1999"
     },
     {
-      "id": "G100-20261008-FANTASY-015-S1",
-      "filmKey": "Aladdin|2019"
+      "id": "E20261007-F-045-M1",
+      "filmKey": "Magnolia|1999"
     },
     {
-      "id": "G100-20261008-FANTASY-015-Y",
-      "filmKey": "Aladdin|2019"
+      "id": "E20261007-F-045-M2",
+      "filmKey": "Magnolia|1999"
     },
     {
-      "id": "G100-20261008-FANTASY-015-D",
-      "filmKey": "Aladdin|2019"
+      "id": "E20261007-F-045-S1",
+      "filmKey": "Magnolia|1999"
     },
     {
-      "id": "KOM-202609-P02-L-029",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+      "id": "E20261007-F-045-S2",
+      "filmKey": "Magnolia|1999"
     },
     {
-      "id": "KOM-202609-P02-M-029",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+      "id": "E20261007-F-045-Y",
+      "filmKey": "Magnolia|1999"
     },
     {
-      "id": "KOM-202609-P02-M-030",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+      "id": "E20261007-F-045-D",
+      "filmKey": "Magnolia|1999"
     },
     {
-      "id": "KOM-202609-P02-S-029",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+      "id": "ART-L-031",
+      "filmKey": "Paterson|2016"
     },
     {
-      "id": "KOM-202609-P02-S-030",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+      "id": "ART-L-032",
+      "filmKey": "Paterson|2016"
     },
     {
-      "id": "KOM-202609-P02-L-029-V1",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+      "id": "ART-M-032",
+      "filmKey": "Paterson|2016"
     },
     {
-      "id": "FF-390-YEAR",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+      "id": "ART-S-031",
+      "filmKey": "Paterson|2016"
     },
     {
-      "id": "FF-390-DIRECTOR",
-      "filmKey": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006"
+      "id": "ART-S-032",
+      "filmKey": "Paterson|2016"
     },
     {
-      "id": "F240-20261006-112-L1",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+      "id": "ART-L-031-V1",
+      "filmKey": "Paterson|2016"
     },
     {
-      "id": "F240-20261006-112-L2",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+      "id": "ART-M-031-V1",
+      "filmKey": "Paterson|2016"
     },
     {
-      "id": "F240-20261006-112-M1",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+      "id": "ART-S-031-V1",
+      "filmKey": "Paterson|2016"
     },
     {
-      "id": "F240-20261006-112-M2",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+      "id": "FF-041-YEAR",
+      "filmKey": "Paterson|2016"
     },
     {
-      "id": "F240-20261006-112-S1",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+      "id": "FF-041-DIRECTOR",
+      "filmKey": "Paterson|2016"
     },
     {
-      "id": "F240-20261006-112-S2",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+      "id": "E20261007-F-277-L1",
+      "filmKey": "Stranger Than Paradise|1984"
     },
     {
-      "id": "F240-20261006-112-D",
-      "filmKey": "Hundraåringen som klev ut genom fönstret och försvann|2013"
+      "id": "E20261007-F-277-L2",
+      "filmKey": "Stranger Than Paradise|1984"
     },
     {
-      "id": "F240-20261006-113-L1",
-      "filmKey": "Toni Erdmann|2016"
+      "id": "E20261007-F-277-M1",
+      "filmKey": "Stranger Than Paradise|1984"
     },
     {
-      "id": "F240-20261006-113-L2",
-      "filmKey": "Toni Erdmann|2016"
+      "id": "E20261007-F-277-M2",
+      "filmKey": "Stranger Than Paradise|1984"
     },
     {
-      "id": "F240-20261006-113-M1",
-      "filmKey": "Toni Erdmann|2016"
+      "id": "E20261007-F-277-S2",
+      "filmKey": "Stranger Than Paradise|1984"
     },
     {
-      "id": "F240-20261006-113-M2",
-      "filmKey": "Toni Erdmann|2016"
+      "id": "E20261007-F-277-Y",
+      "filmKey": "Stranger Than Paradise|1984"
     },
     {
-      "id": "F240-20261006-113-S1",
-      "filmKey": "Toni Erdmann|2016"
+      "id": "E20261007-F-277-D",
+      "filmKey": "Stranger Than Paradise|1984"
     },
     {
-      "id": "F240-20261006-113-Y",
-      "filmKey": "Toni Erdmann|2016"
+      "id": "MUS-202609-P01-L-028",
+      "filmKey": "The Greatest Showman|2017"
     },
     {
-      "id": "F240-20261006-113-D",
-      "filmKey": "Toni Erdmann|2016"
+      "id": "MUS-202609-P01-M-027",
+      "filmKey": "The Greatest Showman|2017"
     },
     {
-      "id": "F240-20261006-230-L1",
-      "filmKey": "Hondo|1953"
+      "id": "MUS-202609-P01-M-028",
+      "filmKey": "The Greatest Showman|2017"
     },
     {
-      "id": "F240-20261006-230-M1",
-      "filmKey": "Hondo|1953"
+      "id": "MUS-202609-P01-S-027",
+      "filmKey": "The Greatest Showman|2017"
     },
     {
-      "id": "F240-20261006-230-M2",
-      "filmKey": "Hondo|1953"
+      "id": "MUS-202609-P01-S-028",
+      "filmKey": "The Greatest Showman|2017"
     },
     {
-      "id": "F240-20261006-230-S1",
-      "filmKey": "Hondo|1953"
+      "id": "MUS-202609-P01-M-027-V1",
+      "filmKey": "The Greatest Showman|2017"
     },
     {
-      "id": "F240-20261006-230-S2",
-      "filmKey": "Hondo|1953"
+      "id": "FF-314-YEAR",
+      "filmKey": "The Greatest Showman|2017"
     },
     {
-      "id": "F240-20261006-230-Y",
-      "filmKey": "Hondo|1953"
+      "id": "FF-314-DIRECTOR",
+      "filmKey": "The Greatest Showman|2017"
     },
     {
-      "id": "F240-20261006-230-D",
-      "filmKey": "Hondo|1953"
+      "id": "G100-20261008-MUSIK-022-L1",
+      "filmKey": "High School Musical|2006"
     },
     {
-      "id": "WES-L-031",
-      "filmKey": "3:10 to Yuma|2007"
+      "id": "G100-20261008-MUSIK-022-L2",
+      "filmKey": "High School Musical|2006"
     },
     {
-      "id": "WES-L-032",
-      "filmKey": "3:10 to Yuma|2007"
+      "id": "G100-20261008-MUSIK-022-M2",
+      "filmKey": "High School Musical|2006"
     },
     {
-      "id": "WES-M-031",
-      "filmKey": "3:10 to Yuma|2007"
+      "id": "G100-20261008-MUSIK-022-S1",
+      "filmKey": "High School Musical|2006"
     },
     {
-      "id": "WES-S-031",
-      "filmKey": "3:10 to Yuma|2007"
+      "id": "G100-20261008-MUSIK-022-S2",
+      "filmKey": "High School Musical|2006"
     },
     {
-      "id": "WES-S-032",
-      "filmKey": "3:10 to Yuma|2007"
+      "id": "G100-20261008-MUSIK-022-Y",
+      "filmKey": "High School Musical|2006"
     },
     {
-      "id": "WES-L-032-V1",
-      "filmKey": "3:10 to Yuma|2007"
+      "id": "G100-20261008-MUSIK-022-D",
+      "filmKey": "High School Musical|2006"
     },
     {
-      "id": "WES-M-032-V1",
-      "filmKey": "3:10 to Yuma|2007"
+      "id": "MUS-202610-P01-L-019",
+      "filmKey": "Gentlemen Prefer Blondes|1953"
     },
     {
-      "id": "WES-S-032-V1",
-      "filmKey": "3:10 to Yuma|2007"
+      "id": "MUS-202610-P01-L-020",
+      "filmKey": "Gentlemen Prefer Blondes|1953"
     },
     {
-      "id": "FF-291-YEAR",
-      "filmKey": "3:10 to Yuma|2007"
+      "id": "MUS-202610-P01-M-028",
+      "filmKey": "Gentlemen Prefer Blondes|1953"
     },
     {
-      "id": "FF-291-DIRECTOR",
-      "filmKey": "3:10 to Yuma|2007"
+      "id": "MUS-202610-P01-M-029",
+      "filmKey": "Gentlemen Prefer Blondes|1953"
     },
     {
-      "id": "F240-20261006-238-L1",
-      "filmKey": "Slow West|2015"
+      "id": "MUS-202610-P01-S-029",
+      "filmKey": "Gentlemen Prefer Blondes|1953"
     },
     {
-      "id": "F240-20261006-238-L2",
-      "filmKey": "Slow West|2015"
+      "id": "MUS-202610-P01-M-030",
+      "filmKey": "Gentlemen Prefer Blondes|1953"
     },
     {
-      "id": "F240-20261006-238-M1",
-      "filmKey": "Slow West|2015"
+      "id": "MUS-202610-P01-S-030",
+      "filmKey": "Gentlemen Prefer Blondes|1953"
     },
     {
-      "id": "F240-20261006-238-M2",
-      "filmKey": "Slow West|2015"
+      "id": "G100-20261008-ABENTEUER-013-L1",
+      "filmKey": "The Bounty|1984"
     },
     {
-      "id": "F240-20261006-238-S1",
-      "filmKey": "Slow West|2015"
+      "id": "G100-20261008-ABENTEUER-013-M1",
+      "filmKey": "The Bounty|1984"
     },
     {
-      "id": "F240-20261006-238-Y",
-      "filmKey": "Slow West|2015"
+      "id": "G100-20261008-ABENTEUER-013-M2",
+      "filmKey": "The Bounty|1984"
     },
     {
-      "id": "F240-20261006-238-D",
-      "filmKey": "Slow West|2015"
+      "id": "G100-20261008-ABENTEUER-013-S1",
+      "filmKey": "The Bounty|1984"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
