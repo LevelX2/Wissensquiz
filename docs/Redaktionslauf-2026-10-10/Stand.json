@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 950,
-  "totalReviewed": 1100,
-  "remainingFilmQuestions": 9633,
+  "completedInThisRun": 1000,
+  "totalReviewed": 1150,
+  "remainingFilmQuestions": 9583,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 11673,
+  "remainingAllQuestions": 11623,
   "blocks": [
     {
       "block": 1,
@@ -103,6 +103,11 @@
     {
       "block": 19,
       "path": "Block-19.json",
+      "count": 50
+    },
+    {
+      "block": 20,
+      "path": "Block-20.json",
       "count": 50
     }
   ],
@@ -1206,209 +1211,59 @@
     "FF-307-DIRECTOR",
     "DRA-L-023",
     "DRA-L-024",
-    "DRA-M-023"
+    "DRA-M-023",
+    "DRA-M-024",
+    "DRA-S-023",
+    "DRA-S-024",
+    "FF-087-YEAR",
+    "FF-087-DIRECTOR",
+    "DRA-L-025",
+    "DRA-L-026",
+    "DRA-M-025",
+    "DRA-M-026",
+    "DRA-S-025",
+    "DRA-S-026",
+    "FF-088-YEAR",
+    "FF-088-DIRECTOR",
+    "E20261007-F-274-L1",
+    "E20261007-F-274-L2",
+    "E20261007-F-274-M1",
+    "E20261007-F-274-M2",
+    "E20261007-F-274-S1",
+    "E20261007-F-274-S2",
+    "E20261007-F-274-Y",
+    "E20261007-F-274-D",
+    "E20261007-F-044-L1",
+    "E20261007-F-044-L2",
+    "E20261007-F-044-M1",
+    "E20261007-F-044-M2",
+    "E20261007-F-044-S1",
+    "E20261007-F-044-S2",
+    "E20261007-F-044-Y",
+    "E20261007-F-044-D",
+    "E20261007-F-171-L1",
+    "E20261007-F-171-L2",
+    "E20261007-F-171-M1",
+    "E20261007-F-171-M2",
+    "E20261007-F-171-S1",
+    "E20261007-F-171-S2",
+    "E20261007-F-171-Y",
+    "E20261007-F-171-D",
+    "F240-20261006-145-L1",
+    "F240-20261006-145-L2",
+    "F240-20261006-145-M1",
+    "F240-20261006-145-M2",
+    "F240-20261006-145-S1",
+    "F240-20261006-145-S2",
+    "F240-20261006-145-Y",
+    "F240-20261006-145-D",
+    "G100-20261008-HORROR-008-L1",
+    "G100-20261008-HORROR-008-L2",
+    "G100-20261008-HORROR-008-M1",
+    "G100-20261008-HORROR-008-M2",
+    "G100-20261008-HORROR-008-S1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "DRA-M-024",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "DRA-S-023",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "DRA-S-024",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "FF-087-YEAR",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "FF-087-DIRECTOR",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "DRA-L-025",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "DRA-L-026",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "DRA-M-025",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "DRA-M-026",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "DRA-S-025",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "DRA-S-026",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "FF-088-YEAR",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "FF-088-DIRECTOR",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "E20261007-F-274-L1",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-L2",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-M1",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-M2",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-S1",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-S2",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-Y",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-D",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-044-L1",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-L2",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-M1",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-M2",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-S1",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-S2",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-Y",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-D",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-171-L1",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-L2",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-M1",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-M2",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-S1",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-S2",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-Y",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-D",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "F240-20261006-145-L1",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-L2",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-M1",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-M2",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-S1",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-S2",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-Y",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-D",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "G100-20261008-HORROR-008-L1",
-      "filmKey": "An American Werewolf in London|1981"
-    },
-    {
-      "id": "G100-20261008-HORROR-008-L2",
-      "filmKey": "An American Werewolf in London|1981"
-    },
-    {
-      "id": "G100-20261008-HORROR-008-M1",
-      "filmKey": "An American Werewolf in London|1981"
-    },
-    {
-      "id": "G100-20261008-HORROR-008-M2",
-      "filmKey": "An American Werewolf in London|1981"
-    },
-    {
-      "id": "G100-20261008-HORROR-008-S1",
-      "filmKey": "An American Werewolf in London|1981"
-    },
     {
       "id": "G100-20261008-HORROR-008-S2",
       "filmKey": "An American Werewolf in London|1981"
@@ -39744,204 +39599,204 @@
   ],
   "next": [
     {
-      "id": "DRA-M-024",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "DRA-S-023",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "DRA-S-024",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "FF-087-YEAR",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "FF-087-DIRECTOR",
-      "filmKey": "American Beauty|1999"
-    },
-    {
-      "id": "DRA-L-025",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "DRA-L-026",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "DRA-M-025",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "DRA-M-026",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "DRA-S-025",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "DRA-S-026",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "FF-088-YEAR",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "FF-088-DIRECTOR",
-      "filmKey": "American History X|1998"
-    },
-    {
-      "id": "E20261007-F-274-L1",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-L2",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-M1",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-M2",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-S1",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-S2",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-Y",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-274-D",
-      "filmKey": "Amores perros|2000"
-    },
-    {
-      "id": "E20261007-F-044-L1",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-L2",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-M1",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-M2",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-S1",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-S2",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-Y",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-044-D",
-      "filmKey": "Amour|2012"
-    },
-    {
-      "id": "E20261007-F-171-L1",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-L2",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-M1",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-M2",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-S1",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-S2",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-Y",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "E20261007-F-171-D",
-      "filmKey": "Amy|2015"
-    },
-    {
-      "id": "F240-20261006-145-L1",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-L2",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-M1",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-M2",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-S1",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-S2",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-Y",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "F240-20261006-145-D",
-      "filmKey": "An American in Paris|1951"
-    },
-    {
-      "id": "G100-20261008-HORROR-008-L1",
+      "id": "G100-20261008-HORROR-008-S2",
       "filmKey": "An American Werewolf in London|1981"
     },
     {
-      "id": "G100-20261008-HORROR-008-L2",
+      "id": "G100-20261008-HORROR-008-Y",
       "filmKey": "An American Werewolf in London|1981"
     },
     {
-      "id": "G100-20261008-HORROR-008-M1",
+      "id": "G100-20261008-HORROR-008-D",
       "filmKey": "An American Werewolf in London|1981"
     },
     {
-      "id": "G100-20261008-HORROR-008-M2",
-      "filmKey": "An American Werewolf in London|1981"
+      "id": "F240-20261006-048-L1",
+      "filmKey": "Anatomie d'une chute|2023"
     },
     {
-      "id": "G100-20261008-HORROR-008-S1",
-      "filmKey": "An American Werewolf in London|1981"
+      "id": "F240-20261006-048-L2",
+      "filmKey": "Anatomie d'une chute|2023"
+    },
+    {
+      "id": "F240-20261006-048-M1",
+      "filmKey": "Anatomie d'une chute|2023"
+    },
+    {
+      "id": "F240-20261006-048-M2",
+      "filmKey": "Anatomie d'une chute|2023"
+    },
+    {
+      "id": "F240-20261006-048-S1",
+      "filmKey": "Anatomie d'une chute|2023"
+    },
+    {
+      "id": "F240-20261006-048-S2",
+      "filmKey": "Anatomie d'une chute|2023"
+    },
+    {
+      "id": "F240-20261006-048-Y",
+      "filmKey": "Anatomie d'une chute|2023"
+    },
+    {
+      "id": "F240-20261006-048-D",
+      "filmKey": "Anatomie d'une chute|2023"
+    },
+    {
+      "id": "E20261007-F-250-L1",
+      "filmKey": "Anatomy of a Murder|1959"
+    },
+    {
+      "id": "E20261007-F-250-L2",
+      "filmKey": "Anatomy of a Murder|1959"
+    },
+    {
+      "id": "E20261007-F-250-M1",
+      "filmKey": "Anatomy of a Murder|1959"
+    },
+    {
+      "id": "E20261007-F-250-M2",
+      "filmKey": "Anatomy of a Murder|1959"
+    },
+    {
+      "id": "E20261007-F-250-S1",
+      "filmKey": "Anatomy of a Murder|1959"
+    },
+    {
+      "id": "E20261007-F-250-S2",
+      "filmKey": "Anatomy of a Murder|1959"
+    },
+    {
+      "id": "E20261007-F-250-Y",
+      "filmKey": "Anatomy of a Murder|1959"
+    },
+    {
+      "id": "E20261007-F-250-D",
+      "filmKey": "Anatomy of a Murder|1959"
+    },
+    {
+      "id": "KOM-202609-P02-L-001",
+      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
+    },
+    {
+      "id": "KOM-202609-P02-L-002",
+      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
+    },
+    {
+      "id": "KOM-202609-P02-M-001",
+      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
+    },
+    {
+      "id": "KOM-202609-P02-M-002",
+      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
+    },
+    {
+      "id": "KOM-202609-P02-S-001",
+      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
+    },
+    {
+      "id": "KOM-202609-P02-S-002",
+      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
+    },
+    {
+      "id": "KOM-202609-P02-L-001-V1",
+      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
+    },
+    {
+      "id": "KOM-202609-P02-S-002-V1",
+      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
+    },
+    {
+      "id": "FF-376-YEAR",
+      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
+    },
+    {
+      "id": "FF-376-DIRECTOR",
+      "filmKey": "Anchorman: The Legend of Ron Burgundy|2004"
+    },
+    {
+      "id": "KOM-202609-P02-L-095",
+      "filmKey": "And Now for Something Completely Different|1971"
+    },
+    {
+      "id": "KOM-202609-P02-L-096",
+      "filmKey": "And Now for Something Completely Different|1971"
+    },
+    {
+      "id": "KOM-202609-P02-M-095",
+      "filmKey": "And Now for Something Completely Different|1971"
+    },
+    {
+      "id": "KOM-202609-P02-M-096",
+      "filmKey": "And Now for Something Completely Different|1971"
+    },
+    {
+      "id": "KOM-202609-P02-S-095",
+      "filmKey": "And Now for Something Completely Different|1971"
+    },
+    {
+      "id": "KOM-202609-P02-S-096",
+      "filmKey": "And Now for Something Completely Different|1971"
+    },
+    {
+      "id": "KOM-202609-P02-S-095-V1",
+      "filmKey": "And Now for Something Completely Different|1971"
+    },
+    {
+      "id": "FF-423-YEAR",
+      "filmKey": "And Now for Something Completely Different|1971"
+    },
+    {
+      "id": "FF-423-DIRECTOR",
+      "filmKey": "And Now for Something Completely Different|1971"
+    },
+    {
+      "id": "E20261007-F-218-L1",
+      "filmKey": "Aniara|2018"
+    },
+    {
+      "id": "E20261007-F-218-L2",
+      "filmKey": "Aniara|2018"
+    },
+    {
+      "id": "E20261007-F-218-M1",
+      "filmKey": "Aniara|2018"
+    },
+    {
+      "id": "E20261007-F-218-M2",
+      "filmKey": "Aniara|2018"
+    },
+    {
+      "id": "E20261007-F-218-S1",
+      "filmKey": "Aniara|2018"
+    },
+    {
+      "id": "E20261007-F-218-S2",
+      "filmKey": "Aniara|2018"
+    },
+    {
+      "id": "E20261007-F-218-Y",
+      "filmKey": "Aniara|2018"
+    },
+    {
+      "id": "E20261007-F-218-D",
+      "filmKey": "Aniara|2018"
+    },
+    {
+      "id": "G100-20261008-HORROR-020-L1",
+      "filmKey": "Annabelle|2014"
+    },
+    {
+      "id": "G100-20261008-HORROR-020-L2",
+      "filmKey": "Annabelle|2014"
+    },
+    {
+      "id": "G100-20261008-HORROR-020-M1",
+      "filmKey": "Annabelle|2014"
+    },
+    {
+      "id": "G100-20261008-HORROR-020-M2",
+      "filmKey": "Annabelle|2014"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
