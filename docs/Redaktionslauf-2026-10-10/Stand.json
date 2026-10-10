@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "d88342b276a48666917bc4fc5bc3fdff1b377ea4",
+  "sourceCommit": "4c6448888fef8c83b5c7d7583aa6d48c1c4b3128",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 400,
-  "totalReviewed": 550,
-  "remainingFilmQuestions": 10183,
+  "completedInThisRun": 450,
+  "totalReviewed": 600,
+  "remainingFilmQuestions": 10133,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 12223,
+  "remainingAllQuestions": 12173,
   "blocks": [
     {
       "block": 1,
@@ -48,6 +48,11 @@
     {
       "block": 8,
       "path": "Block-08.json",
+      "count": 50
+    },
+    {
+      "block": 9,
+      "path": "Block-09.json",
       "count": 50
     }
   ],
@@ -601,209 +606,59 @@
     "MUS-202609-P01-M-020",
     "MUS-202609-P01-S-019",
     "MUS-202609-P01-S-020",
-    "MUS-202609-P01-L-019-V1"
+    "MUS-202609-P01-L-019-V1",
+    "FF-310-YEAR",
+    "FF-310-DIRECTOR",
+    "ART-L-011",
+    "ART-L-012",
+    "ART-M-011",
+    "ART-M-012",
+    "ART-S-012",
+    "FF-031-YEAR",
+    "FF-031-DIRECTOR",
+    "G100-20261008-MARTIALARTS-016-L1",
+    "G100-20261008-MARTIALARTS-016-L2",
+    "G100-20261008-MARTIALARTS-016-M1",
+    "G100-20261008-MARTIALARTS-016-S1",
+    "G100-20261008-MARTIALARTS-016-S2",
+    "G100-20261008-MARTIALARTS-016-Y",
+    "G100-20261008-MARTIALARTS-016-D",
+    "ART-L-018",
+    "ART-M-017",
+    "ART-M-018",
+    "ART-S-017",
+    "ART-S-018",
+    "FF-034-YEAR",
+    "FF-034-DIRECTOR",
+    "ACT-L-025",
+    "ACT-L-026",
+    "ACT-M-026",
+    "ACT-S-025",
+    "ACT-S-026",
+    "FF-013-YEAR",
+    "G100-20261008-HORROR-001-L1",
+    "G100-20261008-HORROR-001-L2",
+    "G100-20261008-HORROR-001-M1",
+    "G100-20261008-HORROR-001-M2",
+    "G100-20261008-HORROR-001-S2",
+    "G100-20261008-HORROR-001-Y",
+    "G100-20261008-HORROR-001-D",
+    "F240-20261006-080-L2",
+    "F240-20261006-080-M1",
+    "F240-20261006-080-M2",
+    "F240-20261006-080-S1",
+    "F240-20261006-080-S2",
+    "F240-20261006-080-Y",
+    "F240-20261006-080-D",
+    "F240-20261006-107-L1",
+    "F240-20261006-107-L2",
+    "F240-20261006-107-M1",
+    "F240-20261006-107-M2",
+    "F240-20261006-107-S1",
+    "F240-20261006-107-S2",
+    "F240-20261006-107-Y"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "FF-310-YEAR",
-      "filmKey": "The Rocky Horror Picture Show|1975"
-    },
-    {
-      "id": "FF-310-DIRECTOR",
-      "filmKey": "The Rocky Horror Picture Show|1975"
-    },
-    {
-      "id": "ART-L-011",
-      "filmKey": "Fitzcarraldo|1982"
-    },
-    {
-      "id": "ART-L-012",
-      "filmKey": "Fitzcarraldo|1982"
-    },
-    {
-      "id": "ART-M-011",
-      "filmKey": "Fitzcarraldo|1982"
-    },
-    {
-      "id": "ART-M-012",
-      "filmKey": "Fitzcarraldo|1982"
-    },
-    {
-      "id": "ART-S-012",
-      "filmKey": "Fitzcarraldo|1982"
-    },
-    {
-      "id": "FF-031-YEAR",
-      "filmKey": "Fitzcarraldo|1982"
-    },
-    {
-      "id": "FF-031-DIRECTOR",
-      "filmKey": "Fitzcarraldo|1982"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-016-L1",
-      "filmKey": "Ong Bak 2|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-016-L2",
-      "filmKey": "Ong Bak 2|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-016-M1",
-      "filmKey": "Ong Bak 2|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-016-S1",
-      "filmKey": "Ong Bak 2|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-016-S2",
-      "filmKey": "Ong Bak 2|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-016-Y",
-      "filmKey": "Ong Bak 2|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-016-D",
-      "filmKey": "Ong Bak 2|2008"
-    },
-    {
-      "id": "ART-L-018",
-      "filmKey": "Солярис|1972"
-    },
-    {
-      "id": "ART-M-017",
-      "filmKey": "Солярис|1972"
-    },
-    {
-      "id": "ART-M-018",
-      "filmKey": "Солярис|1972"
-    },
-    {
-      "id": "ART-S-017",
-      "filmKey": "Солярис|1972"
-    },
-    {
-      "id": "ART-S-018",
-      "filmKey": "Солярис|1972"
-    },
-    {
-      "id": "FF-034-YEAR",
-      "filmKey": "Солярис|1972"
-    },
-    {
-      "id": "FF-034-DIRECTOR",
-      "filmKey": "Солярис|1972"
-    },
-    {
-      "id": "ACT-L-025",
-      "filmKey": "True Lies|1994"
-    },
-    {
-      "id": "ACT-L-026",
-      "filmKey": "True Lies|1994"
-    },
-    {
-      "id": "ACT-M-026",
-      "filmKey": "True Lies|1994"
-    },
-    {
-      "id": "ACT-S-025",
-      "filmKey": "True Lies|1994"
-    },
-    {
-      "id": "ACT-S-026",
-      "filmKey": "True Lies|1994"
-    },
-    {
-      "id": "FF-013-YEAR",
-      "filmKey": "True Lies|1994"
-    },
-    {
-      "id": "G100-20261008-HORROR-001-L1",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
-    },
-    {
-      "id": "G100-20261008-HORROR-001-L2",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
-    },
-    {
-      "id": "G100-20261008-HORROR-001-M1",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
-    },
-    {
-      "id": "G100-20261008-HORROR-001-M2",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
-    },
-    {
-      "id": "G100-20261008-HORROR-001-S2",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
-    },
-    {
-      "id": "G100-20261008-HORROR-001-Y",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
-    },
-    {
-      "id": "G100-20261008-HORROR-001-D",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
-    },
-    {
-      "id": "F240-20261006-080-L2",
-      "filmKey": "Orlando|1992"
-    },
-    {
-      "id": "F240-20261006-080-M1",
-      "filmKey": "Orlando|1992"
-    },
-    {
-      "id": "F240-20261006-080-M2",
-      "filmKey": "Orlando|1992"
-    },
-    {
-      "id": "F240-20261006-080-S1",
-      "filmKey": "Orlando|1992"
-    },
-    {
-      "id": "F240-20261006-080-S2",
-      "filmKey": "Orlando|1992"
-    },
-    {
-      "id": "F240-20261006-080-Y",
-      "filmKey": "Orlando|1992"
-    },
-    {
-      "id": "F240-20261006-080-D",
-      "filmKey": "Orlando|1992"
-    },
-    {
-      "id": "F240-20261006-107-L1",
-      "filmKey": "Playtime|1967"
-    },
-    {
-      "id": "F240-20261006-107-L2",
-      "filmKey": "Playtime|1967"
-    },
-    {
-      "id": "F240-20261006-107-M1",
-      "filmKey": "Playtime|1967"
-    },
-    {
-      "id": "F240-20261006-107-M2",
-      "filmKey": "Playtime|1967"
-    },
-    {
-      "id": "F240-20261006-107-S1",
-      "filmKey": "Playtime|1967"
-    },
-    {
-      "id": "F240-20261006-107-S2",
-      "filmKey": "Playtime|1967"
-    },
-    {
-      "id": "F240-20261006-107-Y",
-      "filmKey": "Playtime|1967"
-    },
     {
       "id": "WES-L-013",
       "filmKey": "Il mio nome è Nessuno|1973"
@@ -41339,204 +41194,204 @@
   ],
   "next": [
     {
-      "id": "FF-310-YEAR",
-      "filmKey": "The Rocky Horror Picture Show|1975"
+      "id": "WES-L-013",
+      "filmKey": "Il mio nome è Nessuno|1973"
     },
     {
-      "id": "FF-310-DIRECTOR",
-      "filmKey": "The Rocky Horror Picture Show|1975"
+      "id": "WES-L-014",
+      "filmKey": "Il mio nome è Nessuno|1973"
     },
     {
-      "id": "ART-L-011",
-      "filmKey": "Fitzcarraldo|1982"
+      "id": "WES-M-013",
+      "filmKey": "Il mio nome è Nessuno|1973"
     },
     {
-      "id": "ART-L-012",
-      "filmKey": "Fitzcarraldo|1982"
+      "id": "WES-M-014",
+      "filmKey": "Il mio nome è Nessuno|1973"
     },
     {
-      "id": "ART-M-011",
-      "filmKey": "Fitzcarraldo|1982"
+      "id": "WES-S-014",
+      "filmKey": "Il mio nome è Nessuno|1973"
     },
     {
-      "id": "ART-M-012",
-      "filmKey": "Fitzcarraldo|1982"
+      "id": "WES-L-014-V1",
+      "filmKey": "Il mio nome è Nessuno|1973"
     },
     {
-      "id": "ART-S-012",
-      "filmKey": "Fitzcarraldo|1982"
+      "id": "WES-M-014-V1",
+      "filmKey": "Il mio nome è Nessuno|1973"
     },
     {
-      "id": "FF-031-YEAR",
-      "filmKey": "Fitzcarraldo|1982"
+      "id": "WES-S-014-V1",
+      "filmKey": "Il mio nome è Nessuno|1973"
     },
     {
-      "id": "FF-031-DIRECTOR",
-      "filmKey": "Fitzcarraldo|1982"
+      "id": "FF-282-YEAR",
+      "filmKey": "Il mio nome è Nessuno|1973"
     },
     {
-      "id": "G100-20261008-MARTIALARTS-016-L1",
-      "filmKey": "Ong Bak 2|2008"
+      "id": "E20261007-F-266-L1",
+      "filmKey": "Kagemusha|1980"
     },
     {
-      "id": "G100-20261008-MARTIALARTS-016-L2",
-      "filmKey": "Ong Bak 2|2008"
+      "id": "E20261007-F-266-L2",
+      "filmKey": "Kagemusha|1980"
     },
     {
-      "id": "G100-20261008-MARTIALARTS-016-M1",
-      "filmKey": "Ong Bak 2|2008"
+      "id": "E20261007-F-266-M1",
+      "filmKey": "Kagemusha|1980"
     },
     {
-      "id": "G100-20261008-MARTIALARTS-016-S1",
-      "filmKey": "Ong Bak 2|2008"
+      "id": "E20261007-F-266-S1",
+      "filmKey": "Kagemusha|1980"
     },
     {
-      "id": "G100-20261008-MARTIALARTS-016-S2",
-      "filmKey": "Ong Bak 2|2008"
+      "id": "E20261007-F-266-S2",
+      "filmKey": "Kagemusha|1980"
     },
     {
-      "id": "G100-20261008-MARTIALARTS-016-Y",
-      "filmKey": "Ong Bak 2|2008"
+      "id": "E20261007-F-266-Y",
+      "filmKey": "Kagemusha|1980"
     },
     {
-      "id": "G100-20261008-MARTIALARTS-016-D",
-      "filmKey": "Ong Bak 2|2008"
+      "id": "E20261007-F-266-D",
+      "filmKey": "Kagemusha|1980"
     },
     {
-      "id": "ART-L-018",
-      "filmKey": "Солярис|1972"
+      "id": "F240-20261006-157-L2",
+      "filmKey": "Velvet Goldmine|1998"
     },
     {
-      "id": "ART-M-017",
-      "filmKey": "Солярис|1972"
+      "id": "F240-20261006-157-M1",
+      "filmKey": "Velvet Goldmine|1998"
     },
     {
-      "id": "ART-M-018",
-      "filmKey": "Солярис|1972"
+      "id": "F240-20261006-157-M2",
+      "filmKey": "Velvet Goldmine|1998"
     },
     {
-      "id": "ART-S-017",
-      "filmKey": "Солярис|1972"
+      "id": "F240-20261006-157-S1",
+      "filmKey": "Velvet Goldmine|1998"
     },
     {
-      "id": "ART-S-018",
-      "filmKey": "Солярис|1972"
+      "id": "F240-20261006-157-S2",
+      "filmKey": "Velvet Goldmine|1998"
     },
     {
-      "id": "FF-034-YEAR",
-      "filmKey": "Солярис|1972"
+      "id": "F240-20261006-157-Y",
+      "filmKey": "Velvet Goldmine|1998"
     },
     {
-      "id": "FF-034-DIRECTOR",
-      "filmKey": "Солярис|1972"
+      "id": "F240-20261006-157-D",
+      "filmKey": "Velvet Goldmine|1998"
     },
     {
-      "id": "ACT-L-025",
-      "filmKey": "True Lies|1994"
+      "id": "G100-20261008-ROMCOM-004-L1",
+      "filmKey": "Annie Hall|1977"
     },
     {
-      "id": "ACT-L-026",
-      "filmKey": "True Lies|1994"
+      "id": "G100-20261008-ROMCOM-004-L2",
+      "filmKey": "Annie Hall|1977"
     },
     {
-      "id": "ACT-M-026",
-      "filmKey": "True Lies|1994"
+      "id": "G100-20261008-ROMCOM-004-M1",
+      "filmKey": "Annie Hall|1977"
     },
     {
-      "id": "ACT-S-025",
-      "filmKey": "True Lies|1994"
+      "id": "G100-20261008-ROMCOM-004-M2",
+      "filmKey": "Annie Hall|1977"
     },
     {
-      "id": "ACT-S-026",
-      "filmKey": "True Lies|1994"
+      "id": "G100-20261008-ROMCOM-004-S2",
+      "filmKey": "Annie Hall|1977"
     },
     {
-      "id": "FF-013-YEAR",
-      "filmKey": "True Lies|1994"
+      "id": "G100-20261008-ROMCOM-004-Y",
+      "filmKey": "Annie Hall|1977"
     },
     {
-      "id": "G100-20261008-HORROR-001-L1",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+      "id": "G100-20261008-ROMCOM-004-D",
+      "filmKey": "Annie Hall|1977"
     },
     {
-      "id": "G100-20261008-HORROR-001-L2",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+      "id": "G100-20261008-THRILLER-025-L1",
+      "filmKey": "Le Cercle Rouge|1970"
     },
     {
-      "id": "G100-20261008-HORROR-001-M1",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+      "id": "G100-20261008-THRILLER-025-L2",
+      "filmKey": "Le Cercle Rouge|1970"
     },
     {
-      "id": "G100-20261008-HORROR-001-M2",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+      "id": "G100-20261008-THRILLER-025-M2",
+      "filmKey": "Le Cercle Rouge|1970"
     },
     {
-      "id": "G100-20261008-HORROR-001-S2",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+      "id": "G100-20261008-THRILLER-025-S1",
+      "filmKey": "Le Cercle Rouge|1970"
     },
     {
-      "id": "G100-20261008-HORROR-001-Y",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+      "id": "G100-20261008-THRILLER-025-S2",
+      "filmKey": "Le Cercle Rouge|1970"
     },
     {
-      "id": "G100-20261008-HORROR-001-D",
-      "filmKey": "Das Cabinet des Dr. Caligari|1920"
+      "id": "G100-20261008-THRILLER-025-Y",
+      "filmKey": "Le Cercle Rouge|1970"
     },
     {
-      "id": "F240-20261006-080-L2",
-      "filmKey": "Orlando|1992"
+      "id": "G100-20261008-THRILLER-025-D",
+      "filmKey": "Le Cercle Rouge|1970"
     },
     {
-      "id": "F240-20261006-080-M1",
-      "filmKey": "Orlando|1992"
+      "id": "G100-20261008-WESTERN-020-L1",
+      "filmKey": "...continuavano a chiamarlo Trinità|1971"
     },
     {
-      "id": "F240-20261006-080-M2",
-      "filmKey": "Orlando|1992"
+      "id": "G100-20261008-WESTERN-020-L2",
+      "filmKey": "...continuavano a chiamarlo Trinità|1971"
     },
     {
-      "id": "F240-20261006-080-S1",
-      "filmKey": "Orlando|1992"
+      "id": "G100-20261008-WESTERN-020-M1",
+      "filmKey": "...continuavano a chiamarlo Trinità|1971"
     },
     {
-      "id": "F240-20261006-080-S2",
-      "filmKey": "Orlando|1992"
+      "id": "G100-20261008-WESTERN-020-M2",
+      "filmKey": "...continuavano a chiamarlo Trinità|1971"
     },
     {
-      "id": "F240-20261006-080-Y",
-      "filmKey": "Orlando|1992"
+      "id": "G100-20261008-WESTERN-020-S1",
+      "filmKey": "...continuavano a chiamarlo Trinità|1971"
     },
     {
-      "id": "F240-20261006-080-D",
-      "filmKey": "Orlando|1992"
+      "id": "G100-20261008-WESTERN-020-S2",
+      "filmKey": "...continuavano a chiamarlo Trinità|1971"
     },
     {
-      "id": "F240-20261006-107-L1",
-      "filmKey": "Playtime|1967"
+      "id": "G100-20261008-WESTERN-020-Y",
+      "filmKey": "...continuavano a chiamarlo Trinità|1971"
     },
     {
-      "id": "F240-20261006-107-L2",
-      "filmKey": "Playtime|1967"
+      "id": "G100-20261008-WESTERN-020-D",
+      "filmKey": "...continuavano a chiamarlo Trinità|1971"
     },
     {
-      "id": "F240-20261006-107-M1",
-      "filmKey": "Playtime|1967"
+      "id": "ROM-202610-P01-L-005",
+      "filmKey": "(500) Days of Summer|2009"
     },
     {
-      "id": "F240-20261006-107-M2",
-      "filmKey": "Playtime|1967"
+      "id": "ROM-202610-P01-L-006",
+      "filmKey": "(500) Days of Summer|2009"
     },
     {
-      "id": "F240-20261006-107-S1",
-      "filmKey": "Playtime|1967"
+      "id": "ROM-202610-P01-M-007",
+      "filmKey": "(500) Days of Summer|2009"
     },
     {
-      "id": "F240-20261006-107-S2",
-      "filmKey": "Playtime|1967"
+      "id": "ROM-202610-P01-M-008",
+      "filmKey": "(500) Days of Summer|2009"
     },
     {
-      "id": "F240-20261006-107-Y",
-      "filmKey": "Playtime|1967"
+      "id": "ROM-202610-P01-S-007",
+      "filmKey": "(500) Days of Summer|2009"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."

@@ -12,9 +12,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 06: vollständiger Alt/Neu-Vergleich](Block-06.md) und [strukturierter Nachweis](Block-06.json): 50 Fragen, 35 Vertiefungen geändert, 15 erhalten, 10 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 07: vollständiger Alt/Neu-Vergleich](Block-07.md) und [strukturierter Nachweis](Block-07.json): 50 Fragen, 30 Vertiefungen geändert, 20 erhalten, 6 Fragen vollständig unverändert; 7 von 8 betroffenen Filmgruppen abgeschlossen.
 - [Block 08: vollständiger Alt/Neu-Vergleich](Block-08.md) und [strukturierter Nachweis](Block-08.json): 50 Fragen, 33 Vertiefungen geändert, 17 erhalten, 2 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 550 von 12.773 IDs redaktionell erfasst.
-- Offen: 10183 Filmfragen und 2040 weitere Fragen; zusammen 12223. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 08 ersetzt die schwache Hausmeisterbewerbung durch Zekis abgebrochenen Raubplan und das bloße Schwarzweißerkennen durch Hanekes technischen Grund für Farbmaterial. Zwei Jahresfragen verlieren ihre Rechenhilfe. Die Stirb-langsam-Varianten und Jahr/Regie sind abgeschlossen; bei Rocky Horror bleiben nur Jahr und Regie für den nächsten Block. Gute bestehende Vertiefungen werden begründet erhalten.
+- [Block 09: vollständiger Alt/Neu-Vergleich](Block-09.md) und [strukturierter Nachweis](Block-09.json): 50 Fragen, 37 Vertiefungen geändert, 13 erhalten, 0 Fragen vollständig unverändert; 8 von 8 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 600 von 12.773 IDs redaktionell erfasst.
+- Offen: 10133 Filmfragen und 2040 weitere Fragen; zusammen 12173. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 09 ersetzt bei Solaris das einfache Ozean-Erkennen durch das Gehirnstromexperiment und bei Orlando das bloße Erkennen der Tochter durch den Vergleich mit dem Roman. Die doppelt richtige Orlando-Besitzfrage ist korrigiert. Außerhalb des 50er-Zählers erhält True Lies eine zweite leichte Inhaltsfrage und Fitzcarraldo ein zweites schweres Ziel nach früherer Stufenkorrektur. Alle acht betroffenen Filmgruppen sind redaktionell erfasst; gute vorhandene Texte bleiben begründet erhalten.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 
