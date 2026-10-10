@@ -48,6 +48,29 @@ const respond = (s: State, correct: boolean, spent = 3000) => {
   );
 };
 
+it.each(["fehlerfrei", "zeitkonto"] as const)(
+  "%s lässt sich mit gesammelten Erklärungen vor und nach Antworten wieder laden",
+  async (mode) => {
+    const s = runState();
+    s.settings.solutionDisplay = "round";
+    const r = startRound(s, {
+      mode,
+      topic: "Alle Themen",
+      difficulty: "Alle Stufen",
+    });
+    expect(r.solutionDisplay).toBe("round");
+    expect(validateBackup(s).rounds[0].solutionDisplay).toBe("round");
+    respond(s, true);
+    respond(s, false);
+    const restored = validateBackup(
+      await decodeCloudState(await encodeCloudState(s)),
+    );
+    expect(restored.rounds[0].solutionDisplay).toBe("round");
+    expect(restored.rounds[0].events).toEqual(r.events);
+    expect(restored.rounds[0].run?.bankMs).toBe(r.run?.bankMs);
+  },
+);
+
 it("endet Fehlerfrei beim ersten Fehler atomar und sichert auch einen Nullpunktelauf", () => {
   const s = runState(),
     r = startRound(s, {

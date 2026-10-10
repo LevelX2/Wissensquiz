@@ -1062,3 +1062,10 @@ Native Migration 20261009073640 angewendet. Manueller Lauf und zwei tatsächlich
 ## 10.10.2026 – Sci-Fi-Filmposter angefragt, Bildquelle und Offlinebetrieb geklärt
 
 Poster nach der Antwort für alle Sci-Fi-Filme beauftragt. Dokumentierter Umfang: 153 Filmfassungen / 1.168 Fragen. TMDB-Bedingungen und vorhandene Antwort-/Cache-Implementierung geprüft; API-Zugang fehlt laut Nutzer. Sechsmonatige Cachegrenze und fehlende pauschale Rechtebestätigung festgehalten. Onlineanzeige ist technisch möglich und benötigt keine Aufnahme ins Offline-Paket. Noch keine Poster oder App-Änderungen; vollständige Umsetzung offen. Fachseite, Index und Projektstart ergänzt; fremde Importberichtänderungen erhalten. [Klärung](../../docs/Filmposter.md).
+
+
+## 10.10.2026 – Antwortanzeige auch bei Auflösung nach Spielende
+
+Auf Nutzerpräzisierung die kurze Soloantwortanzeige bei „Nach der Runde“ wiederhergestellt: richtige Lösung grün, falsche Auswahl rot, eingestellte Dauer auch bei „Keine Ahnung“ und letzter Antwort. Danach automatischer Wechsel; Erklärungen und Lernfortschritt erst im Rückblick. Anzeigezeit verbraucht weder Fragenzeit noch Zeitkonto. Veraltete Ablehnung gesammelter Lösungen in der Endlosrunden-Validierung entfernt. Optionen, Hilfe, Fachvertrag, Index und Projektstart nachgezogen; Nutzerhinweis unverändert erhalten.
+
+410 Logiktests in 67 Dateien, zehn isolierte Browserfälle einschließlich mobilem WebKit, TypeScript, Produktionsbuild, Formatierung und Diff-Prüfung erfolgreich. Initiale Standardzeitlimits und ein vorübergehender Bericht-Dateizugriffsfehler im Wiederlauf behoben beziehungsweise nicht reproduziert. Eine seit vor Arbeitsbeginn bestehende leere Git-Indexsperre nach Prüfung ohne laufende Git-Prozesse entfernt. Nur zugehörige Änderungen lokal auf main aufgenommen; parallele offene Arbeiten erhalten. Noch nicht veröffentlicht, kein Push. [Ablauf](../../docs/Lernregeln.md#antwortanzeige-bei-auflösung-nach-der-runde--10102026), [Prüfnachweis](../../docs/Pruefbericht.md#10102026--antwortanzeige-bei-auflösung-nach-der-runde).

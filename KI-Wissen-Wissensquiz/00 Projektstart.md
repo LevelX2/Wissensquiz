@@ -9,6 +9,8 @@ Stand: 09.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- Lokal am 10.10.2026 die kurze Soloantwortanzeige auch bei „Nach der Runde“ erhalten: richtige Lösung grün, falsche Auswahl rot, eingestellte Dauer ohne Verbrauch von Fragenzeit oder Zeitkonto. Danach automatisch nächste Frage oder Rückblick; Erklärungen erst im Rückblick. Noch nicht veröffentlicht. [Aktueller Ablauf](../docs/Lernregeln.md#antwortanzeige-bei-auflösung-nach-der-runde--10102026).
+
 - Am 10.10.2026 Poster nach der Antwort zunächst für alle 153 Sci-Fi-Filmfassungen beauftragt. Noch nicht eingebaut: eigener TMDB-Zugang fehlt; Bildnutzung und Online-/Offline-Behandlung sind zu klären. [Stand und Voraussetzungen](../docs/Filmposter.md).
 
 - Seit 09.10.2026 täglicher Supabase-Betriebsjob um 07:17 UTC aktiv: drei lesende API-Prüfungen, unabhängig vom Entwicklungsrechner. Monatlicher bestehender Mailversand vorbereitet; eigene Empfängeradresse noch vom Nutzer benötigt, bisher keine Testmail. Zusätzliche Codex-Fehlerkontrolle täglich 10:00 Uhr Europe/Berlin eingerichtet. 399 Tests, Build und tatsächliche Cron-Läufe erfolgreich. [Betrieb und Grenzen](../docs/Konten-Einrichtung.md#täglicher-betriebsjob-ab-09102026), [Prüfnachweis](../docs/Pruefbericht.md#09102026--täglicher-betriebsjob-für-supabase-und-mailversand).

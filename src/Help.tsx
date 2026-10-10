@@ -131,8 +131,10 @@ export function Help() {
           Keine falsche Antwort wird als Deine Wahl markiert.
         </p>
         <p>
-          Wenn Du „Lösungen nach der Runde“ gewählt hast, siehst Du auch bei
-          „Keine Ahnung“ die Auflösung erst in Deinem eigenen Rundenrückblick.
+          Bei „Lösungen nach der Runde“ bleibt die kurze Antwortanzeige auch für
+          „Keine Ahnung“ erhalten. Danach geht es automatisch weiter; Erklärung
+          und Merksatz folgen im Rückblick. Im Duell siehst Du die Lösung erst
+          nach Deiner eigenen Zehnerrunde.
         </p>
         <p>
           Die Auswahl zählt in allen Modi als falsch, in der Rekordrunde gibt es
@@ -232,8 +234,11 @@ export function Help() {
           Unter Profil → Optionen wählst Du für 10 Fragen, Fehlerfrei, Zeitkonto
           und das Freie Spiel „Nach jeder Frage“ oder „Nach der Runde“. Nach
           jeder Frage liest Du Antwort und Vertiefung in Ruhe und gehst selbst
-          weiter. Bei gesammelten Lösungen startet die nächste Frage direkt nach
-          dem Speichern Deiner Antwort. Filmreise und Fehlertraining zeigen
+          weiter. Bei gesammelten Lösungen siehst Du nach dem Speichern kurz die
+          richtige und gegebenenfalls falsch gewählte Antwort. Während der
+          eingestellten Anzeigezeit pausieren Fragenzeit und Zeitkonto. Danach
+          startet automatisch die nächste Frage oder der Rückblick mit Erklärung
+          und Vertiefung. Filmreise und Fehlertraining zeigen
           Lösungen immer direkt; im Duell erscheinen sie immer nach Deiner
           eigenen Runde, auch wenn Dein Gegner noch nicht gespielt hat.
         </p>

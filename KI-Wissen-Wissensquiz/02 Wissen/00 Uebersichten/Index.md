@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Antwortfarben auch bei Auflösung nach der Runde; Anzeigezeit ohne Abzug vom Zeitkonto – 10.10.2026](../../../docs/Lernregeln.md#antwortanzeige-bei-auflösung-nach-der-runde--10102026)
+
 - [Filmposter für alle Sci-Fi-Filme: Auftrag, fehlender TMDB-Zugang und Online-/Offline-Anzeige – 10.10.2026](../../../docs/Filmposter.md)
 
 - [Version 58 veröffentlicht: alle Genres mindestens 100 Filme und fällige Wiederholungen](../../../docs/Sites-Betrieb.md#version-58-genreausbau-und-fällige-wiederholungen)

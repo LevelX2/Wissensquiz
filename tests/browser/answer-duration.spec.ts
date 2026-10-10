@@ -61,11 +61,19 @@ for (const duration of [500, 4000]) {
       page.getByRole("slider", { name: "Anzeigezeit der Antworten" }),
     ).toHaveValue(String(duration / 1000));
     await page.getByRole("button", { name: "Spielen", exact: true }).click();
+    await page.clock.pauseAt(
+      new Date((await page.evaluate(() => Date.now())) + 1000),
+    );
     await page.getByRole("button", { name: "Losspielen" }).click();
     for (const choice of ["correct", "wrong", "unknown"] as const) {
-      await expect(
-        page.getByRole("button", { name: "Keine Ahnung", exact: true }),
-      ).toBeEnabled();
+      await expect
+        .poll(async () => {
+          await page.clock.runFor(50);
+          return page
+            .getByRole("button", { name: "Keine Ahnung", exact: true })
+            .isEnabled();
+        })
+        .toBe(true);
       const id = await page
         .locator("h1[data-question-id]")
         .getAttribute("data-question-id");
@@ -73,9 +81,7 @@ for (const duration of [500, 4000]) {
       const question = before.rounds
         .find((round) => round.status === "active")!
         .questions.find((q) => q.id === id)!;
-      await page.clock.pauseAt(
-        new Date((await page.evaluate(() => Date.now())) + 1000),
-      );
+      await page.clock.runFor(1000);
       if (choice === "unknown")
         await page
           .getByRole("button", { name: "Keine Ahnung", exact: true })
@@ -105,10 +111,11 @@ for (const duration of [500, 4000]) {
       await expect(page.locator(".explanation")).toBeVisible();
       const saved = await readStoredState(page);
       expect(saved.events).toHaveLength(before.events.length + 1);
-      expect(saved.events.at(-1)?.elapsedMs).toBeLessThan(duration + 1500);
-      await page.clock.resume();
+      expect(saved.events.at(-1)?.elapsedMs).toBeGreaterThanOrEqual(1000);
+      expect(saved.events.at(-1)?.elapsedMs).toBeLessThan(1100);
       if (choice !== "unknown")
         await page.getByRole("button", { name: "Nächste Frage" }).click();
     }
+    await page.clock.resume();
   });
 }

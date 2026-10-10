@@ -117,7 +117,7 @@ export function Settings({
       <section className="settings-panel">
         <h2>Lösungen in Zeitspielen und im Freien Spiel</h2>
         <p>
-          Sieh die Lösung und Zusatzinformationen nach jeder Antwort oder
+          Sieh Erklärung und Zusatzinformationen nach jeder Antwort oder
           gesammelt nach Deiner Runde. Gilt für 10 Fragen, Fehlerfrei, Zeitkonto
           und das Freie Spiel. Filmreise und Fehlertraining zeigen Lösungen
           immer direkt. Duelle zeigen sie immer nach der eigenen Zehnerrunde.
@@ -164,8 +164,9 @@ export function Settings({
         <p id="answer-duration-hint" className="tiny muted">
           0,5 bis 4 Sekunden. So lange bleiben nach einer Antwort alle vier
           Möglichkeiten sichtbar: richtige Lösung grün, falsche Auswahl rot.
-          Gilt auch für „Keine Ahnung“ bei direkter Lösungsanzeige. Danach folgt
-          die Erklärung. Deine Auswahl wird automatisch gespeichert.
+          Gilt auch für „Keine Ahnung“ und „Nach der Runde“. Während der Anzeige
+          pausiert die Spielzeit. Danach folgt die Erklärung oder automatisch
+          die nächste Frage. Im Duell erscheinen Lösungen erst im Rückblick.
         </p>
       </section>
       <section className="settings-panel">

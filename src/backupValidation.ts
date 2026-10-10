@@ -95,7 +95,6 @@ export function validateBackup(value: unknown): State {
       if (
         !r.recordPreset ||
         !pool.size ||
-        r.solutionDisplay === "round" ||
         goals.has(undefined) ||
         r.run.pool.some((id) => {
           const q = questionsById.get(id);

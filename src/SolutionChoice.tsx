@@ -32,9 +32,10 @@ export function SolutionChoice({
       </label>
       <p className="tiny muted">
         Nach jeder Frage kannst Du Antwort und Vertiefung in Ruhe lesen und
-        selbst weitergehen. Nach der Runde folgen die Fragen direkt aufeinander;
-        Lösungen und Vertiefungen erscheinen im Rundenrückblick. Die Zeitgrenze
-        bleibt gleich.
+        selbst weitergehen. Bei „Nach der Runde“ siehst Du kurz die richtige und
+        gegebenenfalls falsch gewählte Antwort, dann geht es automatisch weiter.
+        Erklärungen und Vertiefungen erscheinen im Rundenrückblick. Während der
+        Antwortanzeige pausiert die Spielzeit.
       </p>
     </fieldset>
   );

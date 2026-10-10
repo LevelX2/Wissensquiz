@@ -68,6 +68,7 @@ export function QuestionScreen({
   const collected =
     round.solutionDisplay === "round" &&
     (!!round.duel || allowsSolutionChoice(round.mode));
+  const canRevealAnswers = !collected || !round.duel;
   const timed = isRecordMode(round.mode) || !!round.duel;
   const limit = questionLimit(round);
   const [guessed, setGuessed] = useState(false);
@@ -79,7 +80,7 @@ export function QuestionScreen({
     !!event &&
     (event.answerId !== null || !!event.dontKnow) &&
     revealing &&
-    !collected;
+    canRevealAnswers;
   const start = useRef<{ wall: number; mono: number } | null>(null);
   const locked = useRef(false);
   const advanced = useRef(false);
@@ -92,7 +93,7 @@ export function QuestionScreen({
     if (locked.current || event || !ready || round.status !== "active") return;
     locked.current = true;
     if (choice !== null) unlockSound(state.settings);
-    if (!collected && choice !== null) {
+    if (canRevealAnswers && choice !== null) {
       revealDuration.current =
         state.settings.answerRevealMs ?? DEFAULT_ANSWER_REVEAL_MS;
       setRevealing(true);
@@ -137,10 +138,10 @@ export function QuestionScreen({
     return () => clearTimeout(timer);
   }, [event?.id, revealing]);
   useEffect(() => {
-    if (!event || !collected || busy || advanced.current) return;
+    if (!event || !collected || revealing || busy || advanced.current) return;
     advanced.current = true;
     nextAction.current();
-  }, [event?.id, collected, busy]);
+  }, [event?.id, collected, revealing, busy]);
   useEffect(() => {
     if (event) return;
     let second = 0;
@@ -196,9 +197,12 @@ export function QuestionScreen({
     <div className="answers">
       {round.order[index].map((id, i) => {
         const a = q.answers.find((a) => a.id === id)!;
-        const correct = !!event && !collected && id === q.correctId;
+        const correct = !!event && canRevealAnswers && id === q.correctId;
         const wrong =
-          !!event && !collected && event.answerId === id && !event.correct;
+          !!event &&
+          canRevealAnswers &&
+          event.answerId === id &&
+          !event.correct;
         return (
           <button
             key={id}
@@ -231,7 +235,7 @@ export function QuestionScreen({
       {!event && (
         <p className="answer-unknown-hint" id={`dont-know-${q.id}`}>
           Zählt als falsch.{" "}
-          {collected
+          {!canRevealAnswers
             ? "Die Lösung siehst Du nach der Runde."
             : "Danach siehst Du die richtige Lösung."}
         </p>
@@ -451,12 +455,15 @@ export function QuestionScreen({
             Ich rate bei dieser Frage
           </label>
         )}
-        {event && collected && (
+        {event && collected && !showReveal && (
           <p role="status" className="notice">
-            Antwort gespeichert. Die Lösungen siehst Du nach der Runde.
+            Antwort gespeichert.{" "}
+            {round.duel
+              ? "Die Lösungen siehst Du nach der Runde."
+              : "Die Erklärungen siehst Du nach der Runde."}
           </p>
         )}
-        {event && !collected && (
+        {event && (!collected || showReveal) && (
           <div ref={feedback} tabIndex={-1} className="feedback" role="status">
             {showReveal ? (
               <div className="solution-reveal">
