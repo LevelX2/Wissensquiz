@@ -10,6 +10,7 @@ import { answer, complete, startRound } from "../src/engine";
 import { validateBackup } from "../src/storage";
 import source from "../KI-Wissen-Wissensquiz/01 Rohquellen/SciFi_Ergaenzung_Filmdaten.json";
 import { assertEditorialSource } from "./editorialSource";
+import reviewedFacts from "../src/reviewedFilmFacts.json";
 
 const editorial = JSON.parse(
   readFileSync("docs/Bestandsredaktion-2026-10-04/Block-04.json", "utf8"),
@@ -55,8 +56,8 @@ it("erhält Sci-Fi-Rohquellen und bindet alle 50 Filme samt Zusatztexten, Bekann
   const qs = s.questions.filter(
     (q) => q.metadata.subdomain === "Science-Fiction",
   );
-  expect(qs).toHaveLength(768);
-  expect(new Set(qs.map((q) => q.knowledgeId)).size).toBe(672);
+  expect(qs).toHaveLength(772);
+  expect(new Set(qs.map((q) => q.knowledgeId)).size).toBe(676);
   expect(new Set(qs.map(filmIdentity)).size).toBe(103);
   for (const f of source.films) {
     const q = qs.find((q) => q.id === f.reference_question_id)!;
@@ -82,9 +83,10 @@ it("erhält Sci-Fi-Rohquellen und bindet alle 50 Filme samt Zusatztexten, Bekann
         filmIdentity(n) === filmIdentity(q) &&
         n.metadata.fact_kind === "director",
     )!;
-    expect(director.context).toContain(revision.after.directorContext);
+    const current = (reviewedFacts as Record<string,{context:string}>)[director.id];
+    expect(director.context).toContain(current?.context ?? revision.after.directorContext);
     expect(director.metadata.verification_status).toBe(
-      "Redaktionelle Quelle 2026-09-29",
+      current ? "Redaktionsabgleich 2026-10-10" : "Redaktionelle Quelle 2026-09-29",
     );
   }
   const enemy = qs.find(
@@ -99,12 +101,12 @@ it("erhält alle 2.797 bisherigen Fragen einschließlich Regiealternativen und e
   const old = emptyState();
   addPackages(old, contents.slice(0, 12));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "6d1be0f3e05286fd49846b73ace82548b773e80a0f4b66603fa93a2c8cd4678d",
+    "cdcc24c44bb0c0cd9039760f9cb4ac4e9a27a59e15ceec61bb2cf94043b67a5d",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);
   addPackages(old, contents);
-  expect(old.questions).toHaveLength(3717);
+  expect(old.questions).toHaveLength(3727);
   expect(old.questions.slice(0, before.length)).toEqual(before);
   expect(() => validateBackup(structuredClone(old))).not.toThrow();
 });

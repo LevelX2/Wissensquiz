@@ -10,6 +10,7 @@ import { answer, complete, startRound } from "../src/engine";
 import { validateBackup } from "../src/storage";
 import source from "../KI-Wissen-Wissensquiz/01 Rohquellen/Komoedie_Ergaenzung_Filmdaten.json";
 import { assertEditorialSource } from "./editorialSource";
+import reviewedFacts from "../src/reviewedFilmFacts.json";
 
 const editorial = JSON.parse(
   readFileSync("docs/Bestandsredaktion-2026-10-04/Block-04.json", "utf8"),
@@ -54,7 +55,7 @@ it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Film
   addPackages(s, contents);
   const qs = s.questions.filter((q) => q.metadata.subdomain === "Komödie");
   expect(qs).toHaveLength(725);
-  expect(new Set(qs.map((q) => q.knowledgeId)).size).toBe(632);
+  expect(new Set(qs.map((q) => q.knowledgeId)).size).toBe(633);
   expect(new Set(qs.map(filmIdentity)).size).toBe(79);
   for (const f of source.films) {
     const q = qs.find((q) => q.id === f.reference_question_id)!;
@@ -80,9 +81,10 @@ it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Film
         filmIdentity(n) === filmIdentity(q) &&
         n.metadata.fact_kind === "director",
     )!;
-    expect(director.context).toContain(revision.after.directorContext);
+    const current = (reviewedFacts as Record<string,{context:string}>)[director.id];
+    expect(director.context).toContain(current?.context ?? revision.after.directorContext);
     expect(director.metadata.verification_status).toBe(
-      "Redaktionelle Quelle 2026-09-29",
+      current ? "Redaktionsabgleich 2026-10-10" : "Redaktionelle Quelle 2026-09-29",
     );
   }
   const clerks = qs.find(
@@ -104,12 +106,12 @@ it("bewahrt alle 3.257 bisherigen Fragen und ergänzt neue Einträge nur einmal"
   const old = emptyState();
   addPackages(old, contents.slice(0, 13));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "e05fc1da99c767049953b1c183be70051e40435a93f0c0d0a1c332caeefeb888",
+    "a990d44e7507004b3f92982d05d014c1e3117b12e040c3c9e3d5722a77a50119",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);
   addPackages(old, contents);
-  expect(old.questions).toHaveLength(3717);
+  expect(old.questions).toHaveLength(3727);
   expect(old.questions.slice(0, before.length)).toEqual(before);
   expect(() => validateBackup(structuredClone(old))).not.toThrow();
 });

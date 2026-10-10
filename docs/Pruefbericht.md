@@ -1,5 +1,14 @@
 # Prüfnachweis
 
+## 10.10.2026 – Fragenredaktion bis Block 17 für Version 65 integriert
+
+Die beim Veröffentlichungsstart abgeschlossenen Redaktionsfassungen bis Block 17 sind tatsächlich in den App-Katalog übernommen: 999 von 1.000 geprüften Original-IDs, 41 ausdrücklich beschlossene Ersatzfragen mit neuen Identitäten, 14 Ergänzungen und 78 redigierte Jahres-/Regievorlagen. Die ungesicherte Stativszene aus „Vier im roten Kreis“ bleibt ausgenommen. Später parallel entstehende Blöcke ab 18 bleiben außerhalb dieses eingefrorenen Veröffentlichungsstands. Rohquellen unverändert; sechs feste Lernreise-Ziele angepasst, Gruppengrößen und Schwellen erhalten. [Integration und Grenzen](Redaktionslauf-2026-10-10/Integration.md).
+
+**470/470 Tests in 76 Dateien** im abschließenden vollständigen Lauf mit einem Worker erfolgreich. **Zwölf gezielte Chromium-Browserfälle** bestanden: beide GitHub-Meldungsformulare, vier Filmfaktenfälle und sechs Jahresantwortfälle einschließlich Neuladen/Fortsetzen. TypeScript und Produktionsbuild mit `VITE_SITE_VERSION=65` erfolgreich. Keine Abhängigkeitsänderung. Die zwei letzten veralteten Prüferwartungen betrafen eine zusätzliche Arthouse-Frage und neue Ersatz-IDs innerhalb des historischen Erweiterungspakets; anschließend sieben fokussierte und alle vollständigen Tests erfolgreich.
+
+Separate Fragenprüfung: **33 Pakete / 12.787 Fragen / 12.222 Ziele**, 3.504 dokumentierte CSV-Redaktionsabweichungen geprüft, null doppelte Frage-IDs, keine abgewiesenen oder doppelten Importe, verlustfreier Katalog-Rundlauf. Aktueller Onlinekatalog-Hash `e1f228ac81d24bf78e8cd36d30031a713731928df264b9fbc33f40b03e0e9576`; 10.957 aktuelle Duellfragen. Keine neuen Filme oder Personen. Keine privaten Spielstände oder bestehenden Rundensnapshots umgeschrieben. Kein neuer Kompatibilitätsweg und keine Datenbankmigration. Veröffentlichungsnachweis wird nach dem nativen Deployment ergänzt.
+
+
 ## 10.10.2026 – GitHub-Meldungsdienst vollständig eingerichtet und live geprüft
 
 Ursache der Meldung „Der Meldungsdienst ist noch nicht eingerichtet“ war das fehlende Supabase-Secret `GITHUB_REPORT_TOKEN`. Auf ausdrückliche Freigabe einen eigenen Fine-grained GitHub-Token ohne Ablaufdatum erstellt, begrenzt auf Issues (Lesen/Schreiben) in `LevelX2/Wissensquiz` samt verpflichtender lesender Metadatenberechtigung, und ausschließlich als Supabase-Secret gespeichert. Vorhandene Function Version 2 und JWT-Prüfung erhalten; Quellenvergleich aller vier bereitgestellten Dateien erfolgreich. Keine Veröffentlichung oder Migration erforderlich.

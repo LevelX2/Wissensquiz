@@ -97,11 +97,11 @@ it("bewahrt alte Ereignisse und Lernstände bei beiden Ergänzungen und sichert 
   expect({ rounds: s.rounds, events: s.events, learning: s.learning }).toEqual(
     before,
   );
-  expect(s.questions).toHaveLength(8397);
-  expect(new Set(s.questions.map((q) => q.knowledgeId)).size).toBe(7853);
+  expect(s.questions).toHaveLength(8409);
+  expect(new Set(s.questions.map((q) => q.knowledgeId)).size).toBe(7866);
   expect(s.questions.filter((q) => q.metadata.person_id)).toHaveLength(1600);
-  expect(s.bundledQuestionIds).toHaveLength(8397);
-  expect(validateBackup(s).questions).toHaveLength(8397);
+  expect(s.bundledQuestionIds).toHaveLength(8409);
+  expect(validateBackup(s).questions).toHaveLength(8409);
   expect(await decodeCloudState(await encodeCloudState(s))).toEqual(
     validateBackup(s),
   );

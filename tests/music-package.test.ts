@@ -78,12 +78,12 @@ it("ändert keine der 2.567 bestehenden Fragen oder Antwortvorlagen durch die Er
   const old = emptyState();
   addPackages(old, contents.slice(0, 11));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "c9aaf06298f979267b9e1ded5898dcb64915802342d39c3d6bea81780d104291",
+    "a113a073a808fa410e06731cab5efe3c2f1ec7965f378858cc0afe29ffb26abb",
   );
   const oldQuestions = structuredClone(old.questions);
   addPackages(old, contents);
   addPackages(old, contents);
-  expect(old.questions).toHaveLength(3717);
+  expect(old.questions).toHaveLength(3727);
   expect(old.questions.slice(0, oldQuestions.length)).toEqual(oldQuestions);
   expect(() => validateBackup(structuredClone(old))).not.toThrow();
 });

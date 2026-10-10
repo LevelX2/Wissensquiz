@@ -118,17 +118,20 @@ it.each([
 ])(
   "importiert $name vollständig ohne Konflikte und erhält Lösungen, Feedback und Varianten",
   ({ imported, previous, path, ...options }) => {
-    const size = "size" in options ? options.size : 180;
+    const baseSize = "size" in options ? options.size : 180;
+    const additions: Record<string, number> = { arthouse: 3, drama: 1, western: 1, "scifi-ergaenzung": 1 };
+    const added = additions[path] ?? 0;
+    const size = baseSize + added;
     expect(imported.report.accepted).toBe(size);
     expect(imported.report.rejected).toBe(0);
     expect(imported.report.duplicates).toBe(0);
     expect(imported.report.warnings).toEqual([]);
     expect(new Set(imported.questions.map((q) => q.knowledgeId)).size).toBe(
-      (size * 5) / 6,
+      (baseSize * 5) / 6 + added + (path === "komoedie" ? 1 : 0),
     );
     expect(
       imported.questions.filter((q) => q.metadata.variant_of),
-    ).toHaveLength(size / 6);
+    ).toHaveLength(baseSize / 6 - (path === "komoedie" ? 1 : 0));
     const raw = readFileSync(
       `KI-Wissen-Wissensquiz/01 Rohquellen/${imported.report.filename}`,
     );
@@ -185,11 +188,11 @@ it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedbac
     ),
     "public/action-fragen.csv",
   );
-  expect(action.report.accepted).toBe(180);
+  expect(action.report.accepted).toBe(181);
   expect(action.report.rejected).toBe(0);
   expect(action.report.duplicates).toBe(0);
   expect(action.report.warnings).toEqual([]);
-  expect(new Set(action.questions.map((q) => q.knowledgeId)).size).toBe(150);
+  expect(new Set(action.questions.map((q) => q.knowledgeId)).size).toBe(151);
   for (const q of action.questions) {
     const mixed = shuffle(q.answers, () => 0.4);
     expect(mixed.find((a) => a.id === q.correctId)?.text).toBe(

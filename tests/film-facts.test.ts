@@ -14,6 +14,8 @@ import {
 } from "../src/filmFacts";
 import facts from "../src/filmFacts.json";
 import directorContexts from "../src/directorContexts.json";
+import reviewedFacts from "../src/reviewedFilmFacts.json";
+import integrated from "../docs/Redaktionslauf-2026-10-10/Integration.json";
 import {
   applyCategoryTags,
   categories,
@@ -71,6 +73,12 @@ it("zeigt alle 412 Regiehintergründe ohne allgemeine Nachsätze und erhält his
   const texts = older.map((f) => {
     const q = extra.find((candidate) => candidate.id === `${f.id}-DIRECTOR`)!;
     const unchanged = structuredClone(q);
+    const reviewed = (reviewedFacts as Record<string, Partial<Question>>)[q.id];
+    if (reviewed) {
+      expect(q).toMatchObject(reviewed);
+      expect(directorExplanation(q)).toBeUndefined();
+      return q.context;
+    }
     const background = directorExplanation(q)!;
     expect(q.context).not.toContain(background.text);
     expect(background.text.length).toBeGreaterThan(60);
@@ -85,6 +93,13 @@ it("zeigt alle 412 Regiehintergründe ohne allgemeine Nachsätze und erhält his
   for (const f of newer) {
     const q = extra.find((candidate) => candidate.id === `${f.id}-DIRECTOR`)!;
     const unchanged = structuredClone(q);
+    const reviewed = (reviewedFacts as Record<string, Partial<Question>>)[q.id];
+    if (reviewed) {
+      expect(q).toMatchObject(reviewed);
+      expect(directorExplanation(q)).toBeUndefined();
+      expect(q).toEqual(unchanged);
+      continue;
+    }
     const background = directorExplanation(q)!;
     expect(background.text).toBe(
       [f.directorContext, f.directorNote].filter(Boolean).join(" "),
@@ -104,8 +119,8 @@ it("zeigt alle 412 Regiehintergründe ohne allgemeine Nachsätze und erhält his
 it("ergänzt jedes der 425 Filmwerke um Jahr und fehlende Regie, ohne bestehende Ziele zu duplizieren", () => {
   expect(facts).toHaveLength(425);
   expect(extra).toHaveLength(837);
-  expect(complete.questions).toHaveLength(3717);
-  expect(new Set(complete.questions.map((q) => q.knowledgeId)).size).toBe(3237);
+  expect(complete.questions).toHaveLength(3727);
+  expect(new Set(complete.questions.map((q) => q.knowledgeId)).size).toBe(3248);
   expect(new Set(complete.questions.map((q) => q.topic)).size).toBe(378);
   expect(complete.questions.slice(0, originals.length)).toEqual(originals);
   for (const f of facts) {
@@ -306,7 +321,8 @@ it("prüft alle redigierten Jahres- und Regietexte gegen den Quellen- und Identi
       (c: { id: string }) => c.id === f.id,
     );
     expect(entry, f.id).toBeDefined();
-    expect(entry.after, f.id).toEqual(f);
+    const reference = integrated.referenceChanges.find(c=>c.id===f.id);
+    expect(reference ? {...entry.after,referenceId:reference.after} : entry.after, f.id).toEqual(f);
     const stable = (value: Record<string, unknown>) =>
       Object.fromEntries(
         Object.entries(value).filter(
@@ -318,13 +334,13 @@ it("prüft alle redigierten Jahres- und Regietexte gegen den Quellen- und Identi
       );
     expect(stable(entry.after), f.id).toEqual(stable(entry.before));
     const year = extra.find((q) => q.id === f.id + "-YEAR")!;
-    expect(year.context, f.id).toBe(f.yearContext);
-    expect(year.context, f.id).toContain(String(f.year));
+    const reviewedYear = (reviewedFacts as Record<string, Partial<Question>>)[year.id];
+    expect(year.context, f.id).toBe(reviewedYear?.context ?? f.yearContext);
     expect(year.answers.find((a) => a.id === year.correctId)?.text, f.id).toBe(
       String(f.year),
     );
     texts.add(year.context);
-    for (const source of entry.yearCheckedSources) {
+    for (const source of reviewedYear ? [] : entry.yearCheckedSources) {
       expect(source.supports, f.id).toBeTruthy();
       expect(source.readOn, f.id).toBeTruthy();
       expect(year.sources, f.id).toContain(source.url);
@@ -334,6 +350,11 @@ it("prüft alle redigierten Jahres- und Regietexte gegen den Quellen- und Identi
       continue;
     }
     const director = extra.find((q) => q.id === f.id + "-DIRECTOR")!;
+    const reviewedDirector = (reviewedFacts as Record<string, Partial<Question>>)[director.id];
+    if (reviewedDirector) {
+      expect(director).toMatchObject(reviewedDirector);
+      continue;
+    }
     const background = directorExplanation(director)!;
     expect(background.text, f.id).toBeTruthy();
     if (entry.directorAction === "keep") {

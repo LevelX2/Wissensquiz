@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Fragenredaktion bis Block 17 in den App-Katalog integriert: Texte, Ersatzidentitäten, Ergänzungen und Lernreise-Verweise](../../../docs/Redaktionslauf-2026-10-10/Integration.md)
+
 - [GitHub-Meldungsdienst: fehlenden Schlüssel eingerichtet, Live-Abnahme und Betrieb – 10.10.2026](../../../docs/GitHub-Meldungen.md)
 
 - [Filmweiser Redaktionslauf: ergänzende Handlungsstränge, 50er-Blöcke mit lokalen Commits und offene Warteschlange – 10.10.2026](../../../docs/Redaktionslauf-2026-10-10/Stand.md)

@@ -77,9 +77,8 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
       await expect(page.locator(".explanation")).not.toContainText(
         "Gefragt ist die Regie dieses Films",
       );
-      await expect(
-        page.getByRole("link", { name: /Regiequelle:/ }),
-      ).toBeVisible();
+      await page.getByText("Quellen ansehen", { exact: true }).click();
+      await expect(page.locator('.explanation a[href="https://www.slashfilm.com/559508/die-hard-interviews/"]')).toBeVisible();
     }
     if (kind === "year" || kind === "csv-year") {
       await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();

@@ -4,6 +4,7 @@ import actorFacts from "./actorFilmFacts.json" with { type: "json" };
 import actorSupplementFacts from "./actorSupplementFilmFacts.json" with { type: "json" };
 import actorRecognitionFacts from "./actorRecognitionFilmFacts.json" with { type: "json" };
 import directorContexts from "./directorContexts.json" with { type: "json" };
+import reviewedFacts from "./reviewedFilmFacts.json" with { type: "json" };
 import allGenres from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json" with { type: "json" };
 import allGenresDirectorContexts from "./allGenresDirectorContexts.json" with { type: "json" };
 import allGenresCountryNotes from "./allGenresCountryNotes.json" with { type: "json" };
@@ -153,6 +154,8 @@ export function filmData(q: Question, reference?: string) {
 // editorial text is resolved only for display after the answer.
 export function directorExplanation(q: Question) {
   if (q.metadata.fact_kind !== "director") return undefined;
+  // The current reviewed template already contains its complete explanation.
+  if (reviewedFilmFacts[q.id]?.context === q.context) return undefined;
   const f = byFilm.get(filmKey(q));
   if (!f || q.id !== `${f.id}-DIRECTOR`) return undefined;
   const background = directorBackgrounds[f.id];
@@ -400,6 +403,8 @@ function directorOptions(
   ].slice(0, 3);
 }
 
+const reviewedFilmFacts = reviewedFacts as Record<string, Partial<Question>>;
+
 export function addFilmFacts(questions: Question[]) {
   const existing = new Set(questions.map((q) => q.id));
   const references = new Map(questions.map((q) => [q.id, q]));
@@ -495,6 +500,8 @@ export function addFilmFacts(questions: Question[]) {
                   ? `Richtig: ${directors}.`
                   : `Hier ist ${directors} die gesuchte Regienennung.`,
             }));
+      const revision = reviewedFilmFacts[id];
+      if (revision) Object.assign(q, structuredClone(revision));
       q.version = `film-facts-v1-${fingerprint(JSON.stringify(q))}`;
       questions.push(q);
       existing.add(id);

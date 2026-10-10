@@ -30,4 +30,4 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 
-Die Dateien enthalten Redaktion und begründete Nichtänderungen. Der laufende Fragenkatalog der App wurde dadurch nicht geändert. Die Mindestabdeckung eines Films ist von seiner tatsächlichen thematischen Reichweite zu unterscheiden.
+Die Dateien enthalten Redaktion und begründete Nichtänderungen. Auf anschließenden Veröffentlichungsauftrag sind die abgeschlossenen Fassungen bis Block 17 in den App-Katalog integriert: 999 Original-IDs, 41 Ersatzfragen und 14 Ergänzungen; ein ungeprüftes Szenendetail bleibt ausgenommen. [Integration, Identitäten und Grenzen](Integration.md). Der Fortschrittszähler oben bleibt auf den ursprünglichen Prüfbestand bezogen. Die Mindestabdeckung eines Films ist von seiner tatsächlichen thematischen Reichweite zu unterscheiden.

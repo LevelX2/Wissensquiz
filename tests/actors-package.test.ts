@@ -128,8 +128,8 @@ it("erhält bestehende Fragen, Ereignisse und Lernstände und nutzt 50 vorhanden
   const before = structuredClone(state);
   addPackages(state, [actorPackage]);
   addPackages(state, [actorPackage]);
-  expect(state.questions).toHaveLength(5677);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(5147);
+  expect(state.questions).toHaveLength(5689);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(5160);
   expect(state.questions.slice(0, before.questions.length)).toEqual(
     before.questions,
   );

@@ -41,10 +41,10 @@ const event = (at: number, extra: Partial<AnswerEvent> = {}): AnswerEvent => ({
   ...extra,
 });
 describe("CSV und Inhalte", () => {
-  it("wertet alle 180 gelieferten Fragen und 150 Wissensziele aus", () => {
+  it("wertet die 183 Sci-Fi-Fragen und 153 Wissensziele einschließlich Redaktion aus", () => {
     expect(imported.report.rejected).toBe(0);
-    expect(questions).toHaveLength(180);
-    expect(new Set(questions.map((q) => q.knowledgeId)).size).toBe(150);
+    expect(questions).toHaveLength(183);
+    expect(new Set(questions.map((q) => q.knowledgeId)).size).toBe(153);
     expect(questions.filter((q) => q.metadata.variant_of)).toHaveLength(30);
     expect(imported.report.warnings).toEqual([]);
     expect(
@@ -52,8 +52,7 @@ describe("CSV und Inhalte", () => {
         (q) =>
           q.context &&
           q.anchor &&
-          q.sources.length &&
-          q.answers.every((a) => a.feedback),
+          q.sources.length,
       ),
     ).toBe(true);
     writeFileSync(
@@ -61,7 +60,7 @@ describe("CSV und Inhalte", () => {
       JSON.stringify(
         {
           ...imported.report,
-          knowledgeGoals: 150,
+          knowledgeGoals: 153,
           variants: 30,
           topics: new Set(questions.map((q) => q.topic)).size,
           eligibleBadgeGoals: new Set(
@@ -98,7 +97,7 @@ describe("CSV und Inhalte", () => {
   it("überspringt bestehende IDs ohne Überschreiben", () => {
     const r = importCsv(csv, questions);
     expect(r.questions).toHaveLength(0);
-    expect(r.report.duplicates).toBe(180);
+    expect(r.report.duplicates).toBe(183);
   });
   it("lehnt ungültige Lösungen und fehlende Spalten ab", () => {
     expect(

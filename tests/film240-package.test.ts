@@ -11,7 +11,8 @@ import { questionSourceOf } from "../src/filters";
 import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { read, update, validateBackup } from "../src/storage";
 import source from "../docs/Filmfragen-Ergaenzung-2026-10-06/Filmdaten.json";
-import { assertEditorialSource } from "./editorialSource";
+import { assertEditorialSource, originalQuestionId } from "./editorialSource";
+import integration from "../docs/Redaktionslauf-2026-10-10/Integration.json";
 
 const latest = packages.find(
   (p) => p.path === "/film-ergaenzung-240-fragen.csv",
@@ -74,7 +75,7 @@ it("importiert das veröffentlichte Paket vollständig mit 20 Filmen je Genre un
   expect(groups.size).toBe(240);
   for (const qs of groups.values()) {
     expect(qs).toHaveLength(8);
-    expect(qs.map((q) => q.id.split("-").at(-1)).sort()).toEqual([
+    expect(qs.map((q) => originalQuestionId(q.id).split("-").at(-1)).sort()).toEqual([
       "D",
       "L1",
       "L2",
@@ -90,12 +91,12 @@ it("importiert das veröffentlichte Paket vollständig mit 20 Filmen je Genre un
       ["S", "schwer"],
     ]) {
       expect(
-        qs.filter((q) => q.id.split("-").at(-1)?.startsWith(code)),
+        qs.filter((q) => originalQuestionId(q.id).split("-").at(-1)?.startsWith(code)),
       ).toHaveLength(2);
       expect(
         qs
-          .filter((q) => q.id.split("-").at(-1)?.startsWith(code))
-          .every((q) => q.difficulty === difficulty),
+          .filter((q) => originalQuestionId(q.id).split("-").at(-1)?.startsWith(code))
+          .every((q) => q.difficulty === (integration.changes.find(c=>c.after.question_id===q.id)?.after.difficulty ?? difficulty)),
       ).toBe(true);
     }
   }
@@ -125,8 +126,8 @@ it("ergänzt den echten Gesamtkatalog ohne weitere Jahres-/Regiefragen und über
   const once = structuredClone(state);
   addPackages(state, contents);
   expect(state).toEqual(once);
-  expect(state.questions).toHaveLength(8197);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(7653);
+  expect(state.questions).toHaveLength(8209);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(7666);
   expect(
     new Set(
       state.questions
@@ -135,14 +136,14 @@ it("ergänzt den echten Gesamtkatalog ohne weitere Jahres-/Regiefragen und über
     ).size,
   ).toBe(785);
   expect(state.questions.slice(0, oldQuestions.length)).toEqual(oldQuestions);
-  expect(state.questions.filter((q) => q.id.startsWith(prefix))).toHaveLength(
+  expect(state.questions.filter((q) => originalQuestionId(q.id).startsWith(prefix))).toHaveLength(
     1920,
   );
-  expect(state.bundledQuestionIds).toHaveLength(8197);
+  expect(state.bundledQuestionIds).toHaveLength(8209);
   expect(
     state.imports.filter((r) => r.filename === latest.filename),
   ).toHaveLength(1);
-  expect(validateBackup(structuredClone(state)).questions).toHaveLength(8197);
+  expect(validateBackup(structuredClone(state)).questions).toHaveLength(8209);
   const fresh = emptyState();
   addPackages(fresh, contents);
   expect(fresh.questions).toEqual(state.questions);
@@ -199,7 +200,7 @@ it("erhält Lerntermine, aktive Runden und erworbene Rechte bei gleichzeitigem N
   expect(savedProgress(saved)).toEqual(snapshot);
   expect(saved.journey?.earned).toEqual(oldRights);
   expect(learningPathProgress(saved)("Western").hardUnlocked).toBe(true);
-  expect(saved.questions).toHaveLength(8197);
+  expect(saved.questions).toHaveLength(8209);
   expect(
     saved.imports.filter((r) => r.filename === latest.filename),
   ).toHaveLength(1);

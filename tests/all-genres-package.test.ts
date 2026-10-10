@@ -9,7 +9,8 @@ import { pathQuestions } from "../src/learningPath";
 import { validateBackup } from "../src/storage";
 import { filmData } from "../src/filmFacts";
 import filmSource from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json";
-import { assertEditorialSource, editorialCsvIds } from "./editorialSource";
+import { assertEditorialSource, editorialCsvIds, currentQuestionId } from "./editorialSource";
+import integration from "../docs/Redaktionslauf-2026-10-10/Integration.json";
 
 const packageIndex = packages.findIndex(
   (p) => p.filename === "Alle_Genres_120_Filme_960_Fragen.csv",
@@ -40,30 +41,22 @@ it("erhält die Rohquelle, prüft dokumentierte Redaktion und importiert alle 96
   addPackages(old, contents.slice(0, -1));
   const imported = importCsv(text, old.questions, latest.filename);
   expect(imported.report).toMatchObject({
-    accepted: 960,
+    accepted: 962,
     rejected: 0,
     duplicates: 0,
     issues: [],
     warnings: [],
   });
-  expect(new Set(imported.questions.map((q) => q.id)).size).toBe(960);
-  expect(new Set(imported.questions.map((q) => q.knowledgeId)).size).toBe(960);
+  expect(new Set(imported.questions.map((q) => q.id)).size).toBe(962);
+  expect(new Set(imported.questions.map((q) => q.knowledgeId)).size).toBe(962);
   expect(new Set(imported.questions.map(filmIdentity)).size).toBe(120);
   expect(
     imported.questions.filter(
-      (q) =>
-        q.question.includes("Wer führte bei dieser Fassung Regie?") ||
-        q.question.includes(
-          "Welche beiden Regisseure werden für diese Fassung genannt?",
-        ),
+      (q) => q.metadata.question_type === "Regie" || q.question.includes("Wer führte bei dieser Fassung Regie?") || q.question.includes("Welche beiden Regisseure werden für diese Fassung genannt?"),
     ),
   ).toHaveLength(120);
   expect(
-    imported.questions.filter((q) =>
-      q.question.includes(
-        "In welchem Jahr wurde diese Fassung erstmals öffentlich gezeigt oder veröffentlicht?",
-      ),
-    ),
+    imported.questions.filter((q) => q.metadata.question_type === "Filmjahr" || q.metadata.question_type === "Erscheinungsjahr" || q.question.includes("In welchem Jahr wurde diese Fassung erstmals öffentlich gezeigt oder veröffentlicht?")),
   ).toHaveLength(120);
   expect(
     new Set(imported.questions.map((q) => q.metadata.subdomain)).size,
@@ -73,7 +66,7 @@ it("erhält die Rohquelle, prüft dokumentierte Redaktion und importiert alle 96
   ).toHaveLength(280);
   expect(
     imported.questions.filter((q) => q.tags.includes("Arthouse")),
-  ).toHaveLength(104);
+  ).toHaveLength(105);
   expect(
     imported.questions.every(
       (q) => familiarityOf(q) && q.context && q.sources.length,
@@ -87,8 +80,8 @@ it("ergänzt alte Spielstände idempotent und macht neue Film-Ikonen in der Film
   const before = structuredClone(state.questions);
   addPackages(state, contents);
   addPackages(state, contents);
-  expect(state.questions).toHaveLength(4677);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(4197);
+  expect(state.questions).toHaveLength(4689);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(4210);
   expect(state.questions.slice(0, before.length)).toEqual(before);
   expect(
     state.imports.filter((r) => r.filename === latest.filename),
@@ -124,7 +117,7 @@ it("verbindet alle 120 gelieferten Filmdaten mit den bestehenden CSV-Fragen, ohn
   ).toBe(120);
   for (const f of filmSource.films) {
     const q = imported.find(
-      (candidate) => candidate.id === f.reference_question_id,
+      (candidate) => candidate.id === currentQuestionId(f.reference_question_id),
     )!;
     expect(q).toBeDefined();
     expect(filmIdentity(q)).toBe(`${f.film_title_original}|${f.film_year}`);
@@ -147,17 +140,15 @@ it("verbindet alle 120 gelieferten Filmdaten mit den bestehenden CSV-Fragen, ohn
     const director = imported.find(
       (candidate) =>
         filmIdentity(candidate) === filmIdentity(q) &&
-        (candidate.question.includes("Wer führte bei dieser Fassung Regie?") ||
-          candidate.question.includes(
-            "Welche beiden Regisseure werden für diese Fassung genannt?",
-          )),
+        (candidate.metadata.question_type === "Regie" || candidate.question.includes("Wer führte bei dieser Fassung Regie?") || candidate.question.includes("Welche beiden Regisseure werden für diese Fassung genannt?")),
     )!;
-    expect(data.directorContext).toBe(director.context);
+    const revised = integration.changes.find(c=>c.after.question_id===director.id);
+    expect(data.directorContext).toBe(revised?.before.explanation_context ?? director.context);
   }
   expect(
     filmSource.films.filter(
       (f) =>
-        filmData(imported.find((q) => q.id === f.reference_question_id)!)
+        filmData(imported.find((q) => q.id === currentQuestionId(f.reference_question_id))!)
           ?.countryNote,
     ),
   ).toHaveLength(23);
