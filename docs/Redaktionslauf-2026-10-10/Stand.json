@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 1100,
-  "totalReviewed": 1250,
-  "remainingFilmQuestions": 9483,
+  "completedInThisRun": 1150,
+  "totalReviewed": 1300,
+  "remainingFilmQuestions": 9433,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 11523,
+  "remainingAllQuestions": 11473,
   "blocks": [
     {
       "block": 1,
@@ -118,6 +118,11 @@
     {
       "block": 22,
       "path": "Block-22.json",
+      "count": 50
+    },
+    {
+      "block": 23,
+      "path": "Block-23.json",
       "count": 50
     }
   ],
@@ -1371,209 +1376,59 @@
     "E20261007-F-224-M1",
     "E20261007-F-224-M2",
     "E20261007-F-224-S1",
-    "E20261007-F-224-S2"
+    "E20261007-F-224-S2",
+    "E20261007-F-224-Y",
+    "E20261007-F-224-D",
+    "MAR-L-015",
+    "MAR-L-016",
+    "MAR-M-015",
+    "MAR-M-016",
+    "MAR-S-015",
+    "MAR-S-016",
+    "FF-233-YEAR",
+    "FF-233-DIRECTOR",
+    "MAR-L-013",
+    "MAR-L-014",
+    "MAR-M-013",
+    "MAR-M-014",
+    "MAR-S-013",
+    "MAR-S-014",
+    "FF-232-YEAR",
+    "FF-232-DIRECTOR",
+    "G100-20261008-ABENTEUER-032-L1",
+    "G100-20261008-ABENTEUER-032-L2",
+    "G100-20261008-ABENTEUER-032-M1",
+    "G100-20261008-ABENTEUER-032-M2",
+    "G100-20261008-ABENTEUER-032-S1",
+    "G100-20261008-ABENTEUER-032-S2",
+    "G100-20261008-ABENTEUER-032-Y",
+    "G100-20261008-ABENTEUER-032-D",
+    "G100-20261008-ABENTEUER-004-L1",
+    "G100-20261008-ABENTEUER-004-L2",
+    "G100-20261008-ABENTEUER-004-M1",
+    "G100-20261008-ABENTEUER-004-M2",
+    "G100-20261008-ABENTEUER-004-S1",
+    "G100-20261008-ABENTEUER-004-S2",
+    "G100-20261008-ABENTEUER-004-Y",
+    "G100-20261008-ABENTEUER-004-D",
+    "SF-L-026",
+    "SF-M-026",
+    "SF-S-026",
+    "FF-151-YEAR",
+    "FF-151-DIRECTOR",
+    "KOM-202609-P02-L-081",
+    "KOM-202609-P02-L-082",
+    "KOM-202609-P02-M-081",
+    "KOM-202609-P02-M-082",
+    "KOM-202609-P02-S-081",
+    "KOM-202609-P02-S-082",
+    "KOM-202609-P02-S-081-V1",
+    "FF-416-YEAR",
+    "FF-416-DIRECTOR",
+    "ROM-202610-P01-L-003",
+    "ROM-202610-P01-L-004"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "E20261007-F-224-Y",
-      "filmKey": "Arlington Road|1999"
-    },
-    {
-      "id": "E20261007-F-224-D",
-      "filmKey": "Arlington Road|1999"
-    },
-    {
-      "id": "MAR-L-015",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-L-016",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-M-015",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-M-016",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-S-015",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-S-016",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "FF-233-YEAR",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "FF-233-DIRECTOR",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-L-013",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "MAR-L-014",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "MAR-M-013",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "MAR-M-014",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "MAR-S-013",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "MAR-S-014",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "FF-232-YEAR",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "FF-232-DIRECTOR",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-L1",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-L2",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-M1",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-M2",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-S1",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-S2",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-Y",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-D",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-L1",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-L2",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-M1",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-M2",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-S1",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-S2",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-Y",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-D",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "SF-L-026",
-      "filmKey": "Arrival|2016"
-    },
-    {
-      "id": "SF-M-026",
-      "filmKey": "Arrival|2016"
-    },
-    {
-      "id": "SF-S-026",
-      "filmKey": "Arrival|2016"
-    },
-    {
-      "id": "FF-151-YEAR",
-      "filmKey": "Arrival|2016"
-    },
-    {
-      "id": "FF-151-DIRECTOR",
-      "filmKey": "Arrival|2016"
-    },
-    {
-      "id": "KOM-202609-P02-L-081",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-L-082",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-M-081",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-M-082",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-S-081",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-S-082",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-S-081-V1",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "FF-416-YEAR",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "FF-416-DIRECTOR",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "ROM-202610-P01-L-003",
-      "filmKey": "As Good as It Gets|1997"
-    },
-    {
-      "id": "ROM-202610-P01-L-004",
-      "filmKey": "As Good as It Gets|1997"
-    },
     {
       "id": "ROM-202610-P01-M-004",
       "filmKey": "As Good as It Gets|1997"
@@ -39309,204 +39164,204 @@
   ],
   "next": [
     {
-      "id": "E20261007-F-224-Y",
-      "filmKey": "Arlington Road|1999"
-    },
-    {
-      "id": "E20261007-F-224-D",
-      "filmKey": "Arlington Road|1999"
-    },
-    {
-      "id": "MAR-L-015",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-L-016",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-M-015",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-M-016",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-S-015",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-S-016",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "FF-233-YEAR",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "FF-233-DIRECTOR",
-      "filmKey": "Armour of God II: Operation Condor|1991"
-    },
-    {
-      "id": "MAR-L-013",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "MAR-L-014",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "MAR-M-013",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "MAR-M-014",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "MAR-S-013",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "MAR-S-014",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "FF-232-YEAR",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "FF-232-DIRECTOR",
-      "filmKey": "Armour of God|1986"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-L1",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-L2",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-M1",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-M2",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-S1",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-S2",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-Y",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-032-D",
-      "filmKey": "Around the World in 80 Days|2004"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-L1",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-L2",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-M1",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-M2",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-S1",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-S2",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-Y",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-004-D",
-      "filmKey": "Around the World in Eighty Days|1956"
-    },
-    {
-      "id": "SF-L-026",
-      "filmKey": "Arrival|2016"
-    },
-    {
-      "id": "SF-M-026",
-      "filmKey": "Arrival|2016"
-    },
-    {
-      "id": "SF-S-026",
-      "filmKey": "Arrival|2016"
-    },
-    {
-      "id": "FF-151-YEAR",
-      "filmKey": "Arrival|2016"
-    },
-    {
-      "id": "FF-151-DIRECTOR",
-      "filmKey": "Arrival|2016"
-    },
-    {
-      "id": "KOM-202609-P02-L-081",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-L-082",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-M-081",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-M-082",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-S-081",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-S-082",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "KOM-202609-P02-S-081-V1",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "FF-416-YEAR",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "FF-416-DIRECTOR",
-      "filmKey": "Arsenic and Old Lace|1944"
-    },
-    {
-      "id": "ROM-202610-P01-L-003",
+      "id": "ROM-202610-P01-M-004",
       "filmKey": "As Good as It Gets|1997"
     },
     {
-      "id": "ROM-202610-P01-L-004",
+      "id": "ROM-202610-P01-M-005",
       "filmKey": "As Good as It Gets|1997"
+    },
+    {
+      "id": "ROM-202610-P01-S-004",
+      "filmKey": "As Good as It Gets|1997"
+    },
+    {
+      "id": "ROM-202610-P01-S-005",
+      "filmKey": "As Good as It Gets|1997"
+    },
+    {
+      "id": "ROM-202610-P01-M-006",
+      "filmKey": "As Good as It Gets|1997"
+    },
+    {
+      "id": "ROM-202610-P01-S-006",
+      "filmKey": "As Good as It Gets|1997"
+    },
+    {
+      "id": "G100-20261008-ACTION-002-L1",
+      "filmKey": "Assault on Precinct 13|1976"
+    },
+    {
+      "id": "G100-20261008-ACTION-002-L2",
+      "filmKey": "Assault on Precinct 13|1976"
+    },
+    {
+      "id": "G100-20261008-ACTION-002-M1",
+      "filmKey": "Assault on Precinct 13|1976"
+    },
+    {
+      "id": "G100-20261008-ACTION-002-M2",
+      "filmKey": "Assault on Precinct 13|1976"
+    },
+    {
+      "id": "G100-20261008-ACTION-002-S1",
+      "filmKey": "Assault on Precinct 13|1976"
+    },
+    {
+      "id": "G100-20261008-ACTION-002-S2",
+      "filmKey": "Assault on Precinct 13|1976"
+    },
+    {
+      "id": "G100-20261008-ACTION-002-Y",
+      "filmKey": "Assault on Precinct 13|1976"
+    },
+    {
+      "id": "G100-20261008-ACTION-002-D",
+      "filmKey": "Assault on Precinct 13|1976"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-039-L1",
+      "filmKey": "Atlantis: The Lost Empire|2001"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-039-L2",
+      "filmKey": "Atlantis: The Lost Empire|2001"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-039-M1",
+      "filmKey": "Atlantis: The Lost Empire|2001"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-039-M2",
+      "filmKey": "Atlantis: The Lost Empire|2001"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-039-S1",
+      "filmKey": "Atlantis: The Lost Empire|2001"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-039-S2",
+      "filmKey": "Atlantis: The Lost Empire|2001"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-039-Y",
+      "filmKey": "Atlantis: The Lost Empire|2001"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-039-D",
+      "filmKey": "Atlantis: The Lost Empire|2001"
+    },
+    {
+      "id": "F240-20261006-030-L1",
+      "filmKey": "Atomic Blonde|2017"
+    },
+    {
+      "id": "F240-20261006-030-L2",
+      "filmKey": "Atomic Blonde|2017"
+    },
+    {
+      "id": "F240-20261006-030-M1",
+      "filmKey": "Atomic Blonde|2017"
+    },
+    {
+      "id": "F240-20261006-030-M2",
+      "filmKey": "Atomic Blonde|2017"
+    },
+    {
+      "id": "F240-20261006-030-S1",
+      "filmKey": "Atomic Blonde|2017"
+    },
+    {
+      "id": "F240-20261006-030-S2",
+      "filmKey": "Atomic Blonde|2017"
+    },
+    {
+      "id": "F240-20261006-030-Y",
+      "filmKey": "Atomic Blonde|2017"
+    },
+    {
+      "id": "F240-20261006-030-D",
+      "filmKey": "Atomic Blonde|2017"
+    },
+    {
+      "id": "E20261007-F-052-L1",
+      "filmKey": "Atonement|2007"
+    },
+    {
+      "id": "E20261007-F-052-L2",
+      "filmKey": "Atonement|2007"
+    },
+    {
+      "id": "E20261007-F-052-M1",
+      "filmKey": "Atonement|2007"
+    },
+    {
+      "id": "E20261007-F-052-M2",
+      "filmKey": "Atonement|2007"
+    },
+    {
+      "id": "E20261007-F-052-S1",
+      "filmKey": "Atonement|2007"
+    },
+    {
+      "id": "E20261007-F-052-S2",
+      "filmKey": "Atonement|2007"
+    },
+    {
+      "id": "E20261007-F-052-Y",
+      "filmKey": "Atonement|2007"
+    },
+    {
+      "id": "E20261007-F-052-D",
+      "filmKey": "Atonement|2007"
+    },
+    {
+      "id": "KOM-202610-P01-L-003",
+      "filmKey": "Austin Powers: International Man of Mystery|1997"
+    },
+    {
+      "id": "KOM-202610-P01-L-004",
+      "filmKey": "Austin Powers: International Man of Mystery|1997"
+    },
+    {
+      "id": "KOM-202610-P01-M-004",
+      "filmKey": "Austin Powers: International Man of Mystery|1997"
+    },
+    {
+      "id": "KOM-202610-P01-M-005",
+      "filmKey": "Austin Powers: International Man of Mystery|1997"
+    },
+    {
+      "id": "KOM-202610-P01-S-004",
+      "filmKey": "Austin Powers: International Man of Mystery|1997"
+    },
+    {
+      "id": "KOM-202610-P01-S-005",
+      "filmKey": "Austin Powers: International Man of Mystery|1997"
+    },
+    {
+      "id": "KOM-202610-P01-M-006",
+      "filmKey": "Austin Powers: International Man of Mystery|1997"
+    },
+    {
+      "id": "KOM-202610-P01-S-006",
+      "filmKey": "Austin Powers: International Man of Mystery|1997"
+    },
+    {
+      "id": "SF-202609-P02-L-085",
+      "filmKey": "Autómata|2014"
+    },
+    {
+      "id": "SF-202609-P02-L-086",
+      "filmKey": "Autómata|2014"
+    },
+    {
+      "id": "SF-202609-P02-M-085",
+      "filmKey": "Autómata|2014"
+    },
+    {
+      "id": "SF-202609-P02-M-086",
+      "filmKey": "Autómata|2014"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
