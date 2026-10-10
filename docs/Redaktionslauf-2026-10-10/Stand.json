@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 1750,
-  "totalReviewed": 1900,
-  "remainingFilmQuestions": 8833,
+  "completedInThisRun": 1800,
+  "totalReviewed": 1950,
+  "remainingFilmQuestions": 8783,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 10873,
+  "remainingAllQuestions": 10823,
   "blocks": [
     {
       "block": 1,
@@ -183,6 +183,11 @@
     {
       "block": 35,
       "path": "Block-35.json",
+      "count": 50
+    },
+    {
+      "block": 36,
+      "path": "Block-36.json",
       "count": 50
     }
   ],
@@ -2086,209 +2091,59 @@
     "WES-M-025",
     "WES-M-026",
     "WES-S-025",
-    "WES-S-026"
+    "WES-S-026",
+    "WES-L-026-V1",
+    "WES-M-026-V1",
+    "WES-S-026-V1",
+    "FF-288-YEAR",
+    "FF-288-DIRECTOR",
+    "WES-L-007",
+    "WES-L-008",
+    "WES-M-007",
+    "WES-M-008",
+    "WES-S-007",
+    "WES-S-008",
+    "WES-L-008-V1",
+    "WES-M-008-V1",
+    "WES-S-008-V1",
+    "FF-279-YEAR",
+    "FF-279-DIRECTOR",
+    "F240-20261006-141-L1",
+    "F240-20261006-141-L2",
+    "F240-20261006-141-M1",
+    "F240-20261006-141-M2",
+    "F240-20261006-141-S1",
+    "F240-20261006-141-S2",
+    "F240-20261006-141-Y",
+    "F240-20261006-141-D",
+    "E20261007-F-270-L1",
+    "E20261007-F-270-L2",
+    "E20261007-F-270-M1",
+    "E20261007-F-270-M2",
+    "E20261007-F-270-S1",
+    "E20261007-F-270-S2",
+    "E20261007-F-270-Y",
+    "E20261007-F-270-D",
+    "KOM-202609-P02-L-021",
+    "KOM-202609-P02-L-022",
+    "KOM-202609-P02-M-021",
+    "KOM-202609-P02-M-022",
+    "KOM-202609-P02-S-021",
+    "KOM-202609-P02-S-022",
+    "KOM-202609-P02-L-021-V1",
+    "FF-386-YEAR",
+    "FF-386-DIRECTOR",
+    "E20261007-F-083-L1",
+    "E20261007-F-083-L2",
+    "E20261007-F-083-M1",
+    "E20261007-F-083-M2",
+    "E20261007-F-083-S1",
+    "E20261007-F-083-S2",
+    "E20261007-F-083-Y",
+    "E20261007-F-083-D",
+    "E20261007-F-234-L1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "WES-L-026-V1",
-      "filmKey": "Butch Cassidy and the Sundance Kid|1969"
-    },
-    {
-      "id": "WES-M-026-V1",
-      "filmKey": "Butch Cassidy and the Sundance Kid|1969"
-    },
-    {
-      "id": "WES-S-026-V1",
-      "filmKey": "Butch Cassidy and the Sundance Kid|1969"
-    },
-    {
-      "id": "FF-288-YEAR",
-      "filmKey": "Butch Cassidy and the Sundance Kid|1969"
-    },
-    {
-      "id": "FF-288-DIRECTOR",
-      "filmKey": "Butch Cassidy and the Sundance Kid|1969"
-    },
-    {
-      "id": "WES-L-007",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-L-008",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-M-007",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-M-008",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-S-007",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-S-008",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-L-008-V1",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-M-008-V1",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-S-008-V1",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "FF-279-YEAR",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "FF-279-DIRECTOR",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "F240-20261006-141-L1",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-L2",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-M1",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-M2",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-S1",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-S2",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-Y",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-D",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "E20261007-F-270-L1",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-L2",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-M1",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-M2",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-S1",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-S2",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-Y",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-D",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "KOM-202609-P02-L-021",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-L-022",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-M-021",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-M-022",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-S-021",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-S-022",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-L-021-V1",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "FF-386-YEAR",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "FF-386-DIRECTOR",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "E20261007-F-083-L1",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-L2",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-M1",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-M2",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-S1",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-S2",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-Y",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-D",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-234-L1",
-      "filmKey": "Cape Fear|1962"
-    },
     {
       "id": "E20261007-F-234-L2",
       "filmKey": "Cape Fear|1962"
@@ -37424,204 +37279,204 @@
   ],
   "next": [
     {
-      "id": "WES-L-026-V1",
-      "filmKey": "Butch Cassidy and the Sundance Kid|1969"
-    },
-    {
-      "id": "WES-M-026-V1",
-      "filmKey": "Butch Cassidy and the Sundance Kid|1969"
-    },
-    {
-      "id": "WES-S-026-V1",
-      "filmKey": "Butch Cassidy and the Sundance Kid|1969"
-    },
-    {
-      "id": "FF-288-YEAR",
-      "filmKey": "Butch Cassidy and the Sundance Kid|1969"
-    },
-    {
-      "id": "FF-288-DIRECTOR",
-      "filmKey": "Butch Cassidy and the Sundance Kid|1969"
-    },
-    {
-      "id": "WES-L-007",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-L-008",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-M-007",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-M-008",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-S-007",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-S-008",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-L-008-V1",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-M-008-V1",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "WES-S-008-V1",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "FF-279-YEAR",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "FF-279-DIRECTOR",
-      "filmKey": "C'era una volta il West|1968"
-    },
-    {
-      "id": "F240-20261006-141-L1",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-L2",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-M1",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-M2",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-S1",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-S2",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-Y",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "F240-20261006-141-D",
-      "filmKey": "Cabaret|1972"
-    },
-    {
-      "id": "E20261007-F-270-L1",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-L2",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-M1",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-M2",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-S1",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-S2",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-Y",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "E20261007-F-270-D",
-      "filmKey": "Caché|2005"
-    },
-    {
-      "id": "KOM-202609-P02-L-021",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-L-022",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-M-021",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-M-022",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-S-021",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-S-022",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "KOM-202609-P02-L-021-V1",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "FF-386-YEAR",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "FF-386-DIRECTOR",
-      "filmKey": "Caddyshack|1980"
-    },
-    {
-      "id": "E20261007-F-083-L1",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-L2",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-M1",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-M2",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-S1",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-S2",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-Y",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-083-D",
-      "filmKey": "Candyman|1992"
-    },
-    {
-      "id": "E20261007-F-234-L1",
+      "id": "E20261007-F-234-L2",
       "filmKey": "Cape Fear|1962"
+    },
+    {
+      "id": "E20261007-F-234-M1",
+      "filmKey": "Cape Fear|1962"
+    },
+    {
+      "id": "E20261007-F-234-M2",
+      "filmKey": "Cape Fear|1962"
+    },
+    {
+      "id": "E20261007-F-234-S1",
+      "filmKey": "Cape Fear|1962"
+    },
+    {
+      "id": "E20261007-F-234-S2",
+      "filmKey": "Cape Fear|1962"
+    },
+    {
+      "id": "E20261007-F-234-Y",
+      "filmKey": "Cape Fear|1962"
+    },
+    {
+      "id": "E20261007-F-234-D",
+      "filmKey": "Cape Fear|1962"
+    },
+    {
+      "id": "E20261007-F-235-L1",
+      "filmKey": "Cape Fear|1991"
+    },
+    {
+      "id": "E20261007-F-235-L2",
+      "filmKey": "Cape Fear|1991"
+    },
+    {
+      "id": "E20261007-F-235-M1",
+      "filmKey": "Cape Fear|1991"
+    },
+    {
+      "id": "E20261007-F-235-M2",
+      "filmKey": "Cape Fear|1991"
+    },
+    {
+      "id": "E20261007-F-235-S1",
+      "filmKey": "Cape Fear|1991"
+    },
+    {
+      "id": "E20261007-F-235-S2",
+      "filmKey": "Cape Fear|1991"
+    },
+    {
+      "id": "E20261007-F-235-Y",
+      "filmKey": "Cape Fear|1991"
+    },
+    {
+      "id": "E20261007-F-235-D",
+      "filmKey": "Cape Fear|1991"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-001-L1",
+      "filmKey": "Captain Blood|1935"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-001-L2",
+      "filmKey": "Captain Blood|1935"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-001-M1",
+      "filmKey": "Captain Blood|1935"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-001-M2",
+      "filmKey": "Captain Blood|1935"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-001-S1",
+      "filmKey": "Captain Blood|1935"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-001-S2",
+      "filmKey": "Captain Blood|1935"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-001-Y",
+      "filmKey": "Captain Blood|1935"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-001-D",
+      "filmKey": "Captain Blood|1935"
+    },
+    {
+      "id": "E20261007-F-213-L1",
+      "filmKey": "Cargo|2009"
+    },
+    {
+      "id": "E20261007-F-213-L2",
+      "filmKey": "Cargo|2009"
+    },
+    {
+      "id": "E20261007-F-213-M1",
+      "filmKey": "Cargo|2009"
+    },
+    {
+      "id": "E20261007-F-213-M2",
+      "filmKey": "Cargo|2009"
+    },
+    {
+      "id": "E20261007-F-213-S1",
+      "filmKey": "Cargo|2009"
+    },
+    {
+      "id": "E20261007-F-213-S2",
+      "filmKey": "Cargo|2009"
+    },
+    {
+      "id": "E20261007-F-213-Y",
+      "filmKey": "Cargo|2009"
+    },
+    {
+      "id": "E20261007-F-213-D",
+      "filmKey": "Cargo|2009"
+    },
+    {
+      "id": "E20261007-F-269-L1",
+      "filmKey": "Carol|2015"
+    },
+    {
+      "id": "E20261007-F-269-L2",
+      "filmKey": "Carol|2015"
+    },
+    {
+      "id": "E20261007-F-269-M1",
+      "filmKey": "Carol|2015"
+    },
+    {
+      "id": "E20261007-F-269-M2",
+      "filmKey": "Carol|2015"
+    },
+    {
+      "id": "E20261007-F-269-S1",
+      "filmKey": "Carol|2015"
+    },
+    {
+      "id": "E20261007-F-269-S2",
+      "filmKey": "Carol|2015"
+    },
+    {
+      "id": "E20261007-F-269-Y",
+      "filmKey": "Carol|2015"
+    },
+    {
+      "id": "E20261007-F-269-D",
+      "filmKey": "Carol|2015"
+    },
+    {
+      "id": "HOR-L-019",
+      "filmKey": "Carrie|1976"
+    },
+    {
+      "id": "HOR-L-020",
+      "filmKey": "Carrie|1976"
+    },
+    {
+      "id": "HOR-M-019",
+      "filmKey": "Carrie|1976"
+    },
+    {
+      "id": "HOR-M-020",
+      "filmKey": "Carrie|1976"
+    },
+    {
+      "id": "HOR-S-019",
+      "filmKey": "Carrie|1976"
+    },
+    {
+      "id": "HOR-S-020",
+      "filmKey": "Carrie|1976"
+    },
+    {
+      "id": "FF-185-YEAR",
+      "filmKey": "Carrie|1976"
+    },
+    {
+      "id": "FF-185-DIRECTOR",
+      "filmKey": "Carrie|1976"
+    },
+    {
+      "id": "CLA-L-001",
+      "filmKey": "Casablanca|1942"
+    },
+    {
+      "id": "CLA-L-002",
+      "filmKey": "Casablanca|1942"
+    },
+    {
+      "id": "CLA-M-001",
+      "filmKey": "Casablanca|1942"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
