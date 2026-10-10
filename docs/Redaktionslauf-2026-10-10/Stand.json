@@ -1,18 +1,23 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "1ba3126d8229f029967ed0a3aa3edad25247ab3c",
+  "sourceCommit": "5bb7e9998de8d17a552afcd78bec6e2f53a7ba2d",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 50,
-  "totalReviewed": 200,
-  "remainingFilmQuestions": 10533,
+  "completedInThisRun": 100,
+  "totalReviewed": 250,
+  "remainingFilmQuestions": 10483,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 12573,
+  "remainingAllQuestions": 12523,
   "blocks": [
     {
       "block": 1,
       "path": "Block-01.json",
+      "count": 50
+    },
+    {
+      "block": 2,
+      "path": "Block-02.json",
       "count": 50
     }
   ],
@@ -216,209 +221,59 @@
     "E20261007-F-208-Y",
     "E20261007-F-208-D",
     "ACT-L-030",
-    "ACT-M-030"
+    "ACT-M-030",
+    "FF-015-YEAR",
+    "FF-015-DIRECTOR",
+    "F240-20261006-095-M2",
+    "F240-20261006-095-S2",
+    "F240-20261006-095-Y",
+    "F240-20261006-095-D",
+    "F240-20261006-069-L1",
+    "F240-20261006-069-S1",
+    "F240-20261006-069-Y",
+    "F240-20261006-069-D",
+    "KOM-202609-P02-L-031",
+    "KOM-202609-P02-L-032",
+    "KOM-202609-P02-M-032",
+    "FF-391-YEAR",
+    "FF-391-DIRECTOR",
+    "G100-20261008-WESTERN-003-M1",
+    "G100-20261008-WESTERN-003-S2",
+    "G100-20261008-WESTERN-003-Y",
+    "G100-20261008-WESTERN-003-D",
+    "F240-20261006-053-L1",
+    "F240-20261006-053-S1",
+    "F240-20261006-053-Y",
+    "F240-20261006-053-D",
+    "E20261007-F-162-L1",
+    "E20261007-F-162-M2",
+    "E20261007-F-162-Y",
+    "E20261007-F-162-D",
+    "F240-20261006-012-M1",
+    "F240-20261006-012-S1",
+    "F240-20261006-012-Y",
+    "F240-20261006-012-D",
+    "G100-20261008-MARTIALARTS-002-L2",
+    "G100-20261008-MARTIALARTS-002-S2",
+    "G100-20261008-MARTIALARTS-002-Y",
+    "G100-20261008-MARTIALARTS-002-D",
+    "F240-20261006-191-L1",
+    "F240-20261006-191-M1",
+    "F240-20261006-191-Y",
+    "F240-20261006-191-D",
+    "E20261007-F-028-M2",
+    "E20261007-F-028-S2",
+    "E20261007-F-028-Y",
+    "E20261007-F-028-D",
+    "E20261007-F-086-L1",
+    "E20261007-F-086-S2",
+    "E20261007-F-086-Y",
+    "E20261007-F-086-D",
+    "FAN-L-020",
+    "FAN-M-020",
+    "FF-110-YEAR"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "FF-015-YEAR",
-      "filmKey": "First Blood|1982"
-    },
-    {
-      "id": "FF-015-DIRECTOR",
-      "filmKey": "First Blood|1982"
-    },
-    {
-      "id": "F240-20261006-095-M2",
-      "filmKey": "La maschera del demonio|1960"
-    },
-    {
-      "id": "F240-20261006-095-S2",
-      "filmKey": "La maschera del demonio|1960"
-    },
-    {
-      "id": "F240-20261006-095-Y",
-      "filmKey": "La maschera del demonio|1960"
-    },
-    {
-      "id": "F240-20261006-095-D",
-      "filmKey": "La maschera del demonio|1960"
-    },
-    {
-      "id": "F240-20261006-069-L1",
-      "filmKey": "Aladdin|1992"
-    },
-    {
-      "id": "F240-20261006-069-S1",
-      "filmKey": "Aladdin|1992"
-    },
-    {
-      "id": "F240-20261006-069-Y",
-      "filmKey": "Aladdin|1992"
-    },
-    {
-      "id": "F240-20261006-069-D",
-      "filmKey": "Aladdin|1992"
-    },
-    {
-      "id": "KOM-202609-P02-L-031",
-      "filmKey": "The Dictator|2012"
-    },
-    {
-      "id": "KOM-202609-P02-L-032",
-      "filmKey": "The Dictator|2012"
-    },
-    {
-      "id": "KOM-202609-P02-M-032",
-      "filmKey": "The Dictator|2012"
-    },
-    {
-      "id": "FF-391-YEAR",
-      "filmKey": "The Dictator|2012"
-    },
-    {
-      "id": "FF-391-DIRECTOR",
-      "filmKey": "The Dictator|2012"
-    },
-    {
-      "id": "G100-20261008-WESTERN-003-M1",
-      "filmKey": "The Tall T|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-003-S2",
-      "filmKey": "The Tall T|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-003-Y",
-      "filmKey": "The Tall T|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-003-D",
-      "filmKey": "The Tall T|1957"
-    },
-    {
-      "id": "F240-20261006-053-L1",
-      "filmKey": "Cidade de Deus|2002"
-    },
-    {
-      "id": "F240-20261006-053-S1",
-      "filmKey": "Cidade de Deus|2002"
-    },
-    {
-      "id": "F240-20261006-053-Y",
-      "filmKey": "Cidade de Deus|2002"
-    },
-    {
-      "id": "F240-20261006-053-D",
-      "filmKey": "Cidade de Deus|2002"
-    },
-    {
-      "id": "E20261007-F-162-L1",
-      "filmKey": "Absolute Beginners|1986"
-    },
-    {
-      "id": "E20261007-F-162-M2",
-      "filmKey": "Absolute Beginners|1986"
-    },
-    {
-      "id": "E20261007-F-162-Y",
-      "filmKey": "Absolute Beginners|1986"
-    },
-    {
-      "id": "E20261007-F-162-D",
-      "filmKey": "Absolute Beginners|1986"
-    },
-    {
-      "id": "F240-20261006-012-M1",
-      "filmKey": "Up|2009"
-    },
-    {
-      "id": "F240-20261006-012-S1",
-      "filmKey": "Up|2009"
-    },
-    {
-      "id": "F240-20261006-012-Y",
-      "filmKey": "Up|2009"
-    },
-    {
-      "id": "F240-20261006-012-D",
-      "filmKey": "Up|2009"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-002-L2",
-      "filmKey": "Da zui xia|1966"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-002-S2",
-      "filmKey": "Da zui xia|1966"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-002-Y",
-      "filmKey": "Da zui xia|1966"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-002-D",
-      "filmKey": "Da zui xia|1966"
-    },
-    {
-      "id": "F240-20261006-191-L1",
-      "filmKey": "The Vast of Night|2019"
-    },
-    {
-      "id": "F240-20261006-191-M1",
-      "filmKey": "The Vast of Night|2019"
-    },
-    {
-      "id": "F240-20261006-191-Y",
-      "filmKey": "The Vast of Night|2019"
-    },
-    {
-      "id": "F240-20261006-191-D",
-      "filmKey": "The Vast of Night|2019"
-    },
-    {
-      "id": "E20261007-F-028-M2",
-      "filmKey": "Universal Soldier|1992"
-    },
-    {
-      "id": "E20261007-F-028-S2",
-      "filmKey": "Universal Soldier|1992"
-    },
-    {
-      "id": "E20261007-F-028-Y",
-      "filmKey": "Universal Soldier|1992"
-    },
-    {
-      "id": "E20261007-F-028-D",
-      "filmKey": "Universal Soldier|1992"
-    },
-    {
-      "id": "E20261007-F-086-L1",
-      "filmKey": "Gokseong|2016"
-    },
-    {
-      "id": "E20261007-F-086-S2",
-      "filmKey": "Gokseong|2016"
-    },
-    {
-      "id": "E20261007-F-086-Y",
-      "filmKey": "Gokseong|2016"
-    },
-    {
-      "id": "E20261007-F-086-D",
-      "filmKey": "Gokseong|2016"
-    },
-    {
-      "id": "FAN-L-020",
-      "filmKey": "Harry Potter and the Goblet of Fire|2005"
-    },
-    {
-      "id": "FAN-M-020",
-      "filmKey": "Harry Potter and the Goblet of Fire|2005"
-    },
-    {
-      "id": "FF-110-YEAR",
-      "filmKey": "Harry Potter and the Goblet of Fire|2005"
-    },
     {
       "id": "FF-110-DIRECTOR",
       "filmKey": "Harry Potter and the Goblet of Fire|2005"
@@ -42354,204 +42209,204 @@
   ],
   "next": [
     {
-      "id": "FF-015-YEAR",
-      "filmKey": "First Blood|1982"
-    },
-    {
-      "id": "FF-015-DIRECTOR",
-      "filmKey": "First Blood|1982"
-    },
-    {
-      "id": "F240-20261006-095-M2",
-      "filmKey": "La maschera del demonio|1960"
-    },
-    {
-      "id": "F240-20261006-095-S2",
-      "filmKey": "La maschera del demonio|1960"
-    },
-    {
-      "id": "F240-20261006-095-Y",
-      "filmKey": "La maschera del demonio|1960"
-    },
-    {
-      "id": "F240-20261006-095-D",
-      "filmKey": "La maschera del demonio|1960"
-    },
-    {
-      "id": "F240-20261006-069-L1",
-      "filmKey": "Aladdin|1992"
-    },
-    {
-      "id": "F240-20261006-069-S1",
-      "filmKey": "Aladdin|1992"
-    },
-    {
-      "id": "F240-20261006-069-Y",
-      "filmKey": "Aladdin|1992"
-    },
-    {
-      "id": "F240-20261006-069-D",
-      "filmKey": "Aladdin|1992"
-    },
-    {
-      "id": "KOM-202609-P02-L-031",
-      "filmKey": "The Dictator|2012"
-    },
-    {
-      "id": "KOM-202609-P02-L-032",
-      "filmKey": "The Dictator|2012"
-    },
-    {
-      "id": "KOM-202609-P02-M-032",
-      "filmKey": "The Dictator|2012"
-    },
-    {
-      "id": "FF-391-YEAR",
-      "filmKey": "The Dictator|2012"
-    },
-    {
-      "id": "FF-391-DIRECTOR",
-      "filmKey": "The Dictator|2012"
-    },
-    {
-      "id": "G100-20261008-WESTERN-003-M1",
-      "filmKey": "The Tall T|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-003-S2",
-      "filmKey": "The Tall T|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-003-Y",
-      "filmKey": "The Tall T|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-003-D",
-      "filmKey": "The Tall T|1957"
-    },
-    {
-      "id": "F240-20261006-053-L1",
-      "filmKey": "Cidade de Deus|2002"
-    },
-    {
-      "id": "F240-20261006-053-S1",
-      "filmKey": "Cidade de Deus|2002"
-    },
-    {
-      "id": "F240-20261006-053-Y",
-      "filmKey": "Cidade de Deus|2002"
-    },
-    {
-      "id": "F240-20261006-053-D",
-      "filmKey": "Cidade de Deus|2002"
-    },
-    {
-      "id": "E20261007-F-162-L1",
-      "filmKey": "Absolute Beginners|1986"
-    },
-    {
-      "id": "E20261007-F-162-M2",
-      "filmKey": "Absolute Beginners|1986"
-    },
-    {
-      "id": "E20261007-F-162-Y",
-      "filmKey": "Absolute Beginners|1986"
-    },
-    {
-      "id": "E20261007-F-162-D",
-      "filmKey": "Absolute Beginners|1986"
-    },
-    {
-      "id": "F240-20261006-012-M1",
-      "filmKey": "Up|2009"
-    },
-    {
-      "id": "F240-20261006-012-S1",
-      "filmKey": "Up|2009"
-    },
-    {
-      "id": "F240-20261006-012-Y",
-      "filmKey": "Up|2009"
-    },
-    {
-      "id": "F240-20261006-012-D",
-      "filmKey": "Up|2009"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-002-L2",
-      "filmKey": "Da zui xia|1966"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-002-S2",
-      "filmKey": "Da zui xia|1966"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-002-Y",
-      "filmKey": "Da zui xia|1966"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-002-D",
-      "filmKey": "Da zui xia|1966"
-    },
-    {
-      "id": "F240-20261006-191-L1",
-      "filmKey": "The Vast of Night|2019"
-    },
-    {
-      "id": "F240-20261006-191-M1",
-      "filmKey": "The Vast of Night|2019"
-    },
-    {
-      "id": "F240-20261006-191-Y",
-      "filmKey": "The Vast of Night|2019"
-    },
-    {
-      "id": "F240-20261006-191-D",
-      "filmKey": "The Vast of Night|2019"
-    },
-    {
-      "id": "E20261007-F-028-M2",
-      "filmKey": "Universal Soldier|1992"
-    },
-    {
-      "id": "E20261007-F-028-S2",
-      "filmKey": "Universal Soldier|1992"
-    },
-    {
-      "id": "E20261007-F-028-Y",
-      "filmKey": "Universal Soldier|1992"
-    },
-    {
-      "id": "E20261007-F-028-D",
-      "filmKey": "Universal Soldier|1992"
-    },
-    {
-      "id": "E20261007-F-086-L1",
-      "filmKey": "Gokseong|2016"
-    },
-    {
-      "id": "E20261007-F-086-S2",
-      "filmKey": "Gokseong|2016"
-    },
-    {
-      "id": "E20261007-F-086-Y",
-      "filmKey": "Gokseong|2016"
-    },
-    {
-      "id": "E20261007-F-086-D",
-      "filmKey": "Gokseong|2016"
-    },
-    {
-      "id": "FAN-L-020",
+      "id": "FF-110-DIRECTOR",
       "filmKey": "Harry Potter and the Goblet of Fire|2005"
     },
     {
-      "id": "FAN-M-020",
-      "filmKey": "Harry Potter and the Goblet of Fire|2005"
+      "id": "KOM-202609-P02-M-074",
+      "filmKey": "The Great Dictator|1940"
     },
     {
-      "id": "FF-110-YEAR",
-      "filmKey": "Harry Potter and the Goblet of Fire|2005"
+      "id": "KOM-202609-P02-S-074",
+      "filmKey": "The Great Dictator|1940"
+    },
+    {
+      "id": "KOM-202609-P02-M-073-V1",
+      "filmKey": "The Great Dictator|1940"
+    },
+    {
+      "id": "FF-412-YEAR",
+      "filmKey": "The Great Dictator|1940"
+    },
+    {
+      "id": "FF-412-DIRECTOR",
+      "filmKey": "The Great Dictator|1940"
+    },
+    {
+      "id": "SF-202609-P02-L-045",
+      "filmKey": "Alien: Covenant|2017"
+    },
+    {
+      "id": "SF-202609-P02-M-045",
+      "filmKey": "Alien: Covenant|2017"
+    },
+    {
+      "id": "SF-202609-P02-M-046",
+      "filmKey": "Alien: Covenant|2017"
+    },
+    {
+      "id": "SF-202609-P02-S-045",
+      "filmKey": "Alien: Covenant|2017"
+    },
+    {
+      "id": "SF-202609-P02-S-046",
+      "filmKey": "Alien: Covenant|2017"
+    },
+    {
+      "id": "SF-202609-P02-M-045-V1",
+      "filmKey": "Alien: Covenant|2017"
+    },
+    {
+      "id": "FF-348-YEAR",
+      "filmKey": "Alien: Covenant|2017"
+    },
+    {
+      "id": "FF-348-DIRECTOR",
+      "filmKey": "Alien: Covenant|2017"
+    },
+    {
+      "id": "F240-20261006-195-L1",
+      "filmKey": "Alphaville|1965"
+    },
+    {
+      "id": "F240-20261006-195-L2",
+      "filmKey": "Alphaville|1965"
+    },
+    {
+      "id": "F240-20261006-195-M2",
+      "filmKey": "Alphaville|1965"
+    },
+    {
+      "id": "F240-20261006-195-S1",
+      "filmKey": "Alphaville|1965"
+    },
+    {
+      "id": "F240-20261006-195-S2",
+      "filmKey": "Alphaville|1965"
+    },
+    {
+      "id": "F240-20261006-195-Y",
+      "filmKey": "Alphaville|1965"
+    },
+    {
+      "id": "F240-20261006-195-D",
+      "filmKey": "Alphaville|1965"
+    },
+    {
+      "id": "SF-202609-P02-L-047",
+      "filmKey": "Alien Resurrection|1997"
+    },
+    {
+      "id": "SF-202609-P02-L-048",
+      "filmKey": "Alien Resurrection|1997"
+    },
+    {
+      "id": "SF-202609-P02-M-047",
+      "filmKey": "Alien Resurrection|1997"
+    },
+    {
+      "id": "SF-202609-P02-M-048",
+      "filmKey": "Alien Resurrection|1997"
+    },
+    {
+      "id": "SF-202609-P02-S-048",
+      "filmKey": "Alien Resurrection|1997"
+    },
+    {
+      "id": "SF-202609-P02-M-047-V1",
+      "filmKey": "Alien Resurrection|1997"
+    },
+    {
+      "id": "FF-349-YEAR",
+      "filmKey": "Alien Resurrection|1997"
+    },
+    {
+      "id": "FF-349-DIRECTOR",
+      "filmKey": "Alien Resurrection|1997"
+    },
+    {
+      "id": "G100-20261008-ACTION-003-L2",
+      "filmKey": "The Getaway|1972"
+    },
+    {
+      "id": "G100-20261008-ACTION-003-M1",
+      "filmKey": "The Getaway|1972"
+    },
+    {
+      "id": "G100-20261008-ACTION-003-M2",
+      "filmKey": "The Getaway|1972"
+    },
+    {
+      "id": "G100-20261008-ACTION-003-S1",
+      "filmKey": "The Getaway|1972"
+    },
+    {
+      "id": "G100-20261008-ACTION-003-S2",
+      "filmKey": "The Getaway|1972"
+    },
+    {
+      "id": "G100-20261008-ACTION-003-Y",
+      "filmKey": "The Getaway|1972"
+    },
+    {
+      "id": "G100-20261008-ACTION-003-D",
+      "filmKey": "The Getaway|1972"
+    },
+    {
+      "id": "E20261007-F-032-L1",
+      "filmKey": "Wanted|2008"
+    },
+    {
+      "id": "E20261007-F-032-L2",
+      "filmKey": "Wanted|2008"
+    },
+    {
+      "id": "E20261007-F-032-M2",
+      "filmKey": "Wanted|2008"
+    },
+    {
+      "id": "E20261007-F-032-S1",
+      "filmKey": "Wanted|2008"
+    },
+    {
+      "id": "E20261007-F-032-S2",
+      "filmKey": "Wanted|2008"
+    },
+    {
+      "id": "E20261007-F-032-Y",
+      "filmKey": "Wanted|2008"
+    },
+    {
+      "id": "E20261007-F-032-D",
+      "filmKey": "Wanted|2008"
+    },
+    {
+      "id": "ACT-L-011",
+      "filmKey": "Speed|1994"
+    },
+    {
+      "id": "ACT-L-012",
+      "filmKey": "Speed|1994"
+    },
+    {
+      "id": "ACT-M-011",
+      "filmKey": "Speed|1994"
+    },
+    {
+      "id": "ACT-M-012",
+      "filmKey": "Speed|1994"
+    },
+    {
+      "id": "ACT-S-011",
+      "filmKey": "Speed|1994"
+    },
+    {
+      "id": "ACT-L-011-V1",
+      "filmKey": "Speed|1994"
+    },
+    {
+      "id": "ACT-L-012-V1",
+      "filmKey": "Speed|1994"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
