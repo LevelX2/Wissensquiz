@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Darstellernamen im gesamten Fragenbestand: 2.612 Fragen zu 845 Filmen ergänzt – 10.10.2026](../../../docs/Darstellerkontext-2026-10-10/Pruefbericht.md)
+
 - [Kompakte Fälligkeit in der Moduskarte und Gesamtlernstand im Profil – 10.10.2026](../../../docs/Wiederholungen-und-Lernstufen-2026-10-10.md#gesamtübersicht-im-profil)
 
 - [Version 61 veröffentlicht: optionales Neu/Wiederholung vor der Antwort](../../../docs/Sites-Betrieb.md#version-61-neu-und-wiederholung-vor-der-antwort)

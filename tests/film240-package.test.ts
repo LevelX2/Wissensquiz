@@ -11,6 +11,7 @@ import { questionSourceOf } from "../src/filters";
 import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { read, update, validateBackup } from "../src/storage";
 import source from "../docs/Filmfragen-Ergaenzung-2026-10-06/Filmdaten.json";
+import { assertEditorialSource } from "./editorialSource";
 
 const latest = packages.find(
   (p) => p.path === "/film-ergaenzung-240-fragen.csv",
@@ -49,11 +50,13 @@ function playOne(state: State, q: Question, at: number) {
 
 it("importiert das veröffentlichte Paket vollständig mit 20 Filmen je Genre und einem vorhandenen Regieziel", () => {
   expect(packages).toContainEqual(latest);
-  expect(incoming.text).toBe(
+  assertEditorialSource(
+    incoming.text,
     readFileSync(
       "docs/Filmfragen-Ergaenzung-2026-10-06/Filmfragen_240_Filme_1920_Fragen.csv",
       "utf8",
     ),
+    `public${latest.path}`,
   );
   const imported = importCsv(incoming.text, before.questions, latest.filename);
   expect(imported.report).toMatchObject({

@@ -1,0 +1,2614 @@
+# Darstellernamen im Fragetext – Änderungen vom 10.10.2026
+
+- **SF-L-001-V1** (Alien|1979): „Alien – Das unheimliche Wesen aus einer fremden Welt“ (1979): Warum gefährdet das Anschneiden des Wesens an Kanes (John Hurt) Gesicht auch die Nostromo?
+- **SF-L-002** (Aliens|1986): „Aliens – Die Rückkehr“ (1986): Mit welcher Gruppe kehrt Ripley (Sigourney Weaver) auf den gefährlichen Mond zurück?
+- **SF-L-002-V1** (Aliens|1986): „Aliens – Die Rückkehr“ (1986): Welche Aufgabe hat die Gruppe, die Ripley (Sigourney Weaver) nach LV-426 begleitet, ihrem beruflichen Hintergrund nach?
+- **SF-L-003** (The Matrix|1999): „Matrix“ (1999): Was ist die alltägliche Welt, in der Neo (Keanu Reeves) zu Beginn lebt, tatsächlich?
+- **SF-L-003-V1** (The Matrix|1999): „Matrix“ (1999): Was erkennt Neo (Keanu Reeves) über sein vermeintlich gewöhnliches Alltagsleben?
+- **SF-L-005** (Blade Runner|1982): „Blade Runner“ (1982): Welche Tätigkeit übt Rick Deckard (Harrison Ford) aus?
+- **SF-L-005-V1** (Blade Runner|1982): „Blade Runner“ (1982): Mit welcher Aufgabe wird Deckard (Harrison Ford) als Blade Runner betraut?
+- **SF-L-008** (Inception|2010): „Inception“ (2010): In welchen Bereich dringt Cobbs (Leonardo DiCaprio) Team ein, um Informationen zu stehlen?
+- **SF-L-008-V1** (Inception|2010): „Inception“ (2010): Warum sind schlafende Zielpersonen für Cobbs (Leonardo DiCaprio) Arbeit besonders wichtig?
+- **SF-L-009** (The Terminator|1984): „Terminator“ (1984): Aus welcher Epoche stammen Kyle Reese (Michael Biehn) und der Terminator (Arnold Schwarzenegger), bevor sie zu Sarah reisen?
+- **SF-L-009-V1** (The Terminator|1984): „Terminator“ (1984): Welche zeitliche Verbindung haben Kyle Reese (Michael Biehn) und der Terminator (Arnold Schwarzenegger) zu Sarahs Gegenwart?
+- **SF-L-010** (Terminator 2: Judgment Day|1991): „Terminator 2 – Tag der Abrechnung“ (1991): Welche besondere Eigenschaft besitzt der T-1000 (Robert Patrick)?
+- **SF-L-010-V1** (Terminator 2: Judgment Day|1991): „Terminator 2 – Tag der Abrechnung“ (1991): Wodurch kann der T-1000 (Robert Patrick) das Aussehen verschiedener Menschen nachahmen?
+- **SF-L-012** (Back to the Future Part II|1989): „Zurück in die Zukunft II“ (1989): Welches futuristische Sportgerät benutzt Marty (Michael J. Fox)?
+- **SF-L-024** (The Fifth Element|1997): „Das fünfte Element“ (1997): Welchen Beruf hat Korben Dallas (Bruce Willis) zu Beginn der Haupthandlung?
+- **SF-L-026** (Arrival|2016): „Arrival“ (2016): Welches Fachgebiet vertritt Louise Banks (Amy Adams)?
+- **SF-L-027** (Contact|1997): „Contact“ (1997): Wonach sucht Ellie Arroway (Jodie Foster) beruflich?
+- **SF-L-029** (Moon|2009): „Moon“ (2009): Auf welchem Himmelskörper arbeitet Sam Bell (Sam Rockwell)?
+- **SF-L-030** (Ex Machina|2014): „Ex Machina“ (2014): Was soll Caleb (Domhnall Gleeson) untersuchen?
+- **SF-L-032** (Total Recall|1990): „Die totale Erinnerung – Total Recall“ (1990): Welcher Planet ist Douglas Quaids (Arnold Schwarzenegger) Sehnsuchtsziel?
+- **SF-L-035** (Predator|1987): „Predator“ (1987): In welcher Umgebung wird Dutchs (Arnold Schwarzenegger) Team überwiegend gejagt?
+- **SF-L-036** (Dark City|1998): „Dark City“ (1998): Mit welchem persönlichen Problem erwacht John Murdoch (Rufus Sewell) zu Beginn?
+- **SF-L-037** (WarGames|1983): „WarGames – Kriegsspiele“ (1983): Welche Katastrophe droht David (Matthew Broderick) versehentlich auszulösen?
+- **SF-L-040** (The Empire Strikes Back|1980): „Star Wars: Episode V – Das Imperium schlägt zurück“ (1980): Wer unterrichtet Luke (Mark Hamill) auf Dagobah?
+- **SF-L-042** (Star Trek II: The Wrath of Khan|1982): „Star Trek II: Der Zorn des Khan“ (1982): Welcher alte Gegner bedroht Kirk (William Shatner)?
+- **SF-L-043** (Star Trek IV: The Voyage Home|1986): „Star Trek IV: Zurück in die Gegenwart“ (1986): Welche Tiere muss Kirks (William Shatner) Crew aus der Vergangenheit holen?
+- **SF-L-046** (Source Code|2011): „Source Code“ (2011): In welchem Verkehrsmittel erlebt Colter Stevens (Jake Gyllenhaal) wiederholt einen Anschlag?
+- **SF-L-048** (Edge of Tomorrow|2014): „Edge of Tomorrow“ (2014): Welches Phänomen erlebt William Cage (Tom Cruise) immer wieder?
+- **SF-L-049** (Oblivion|2013): „Oblivion“ (2013): Welche Arbeit erledigt Jack Harper (Tom Cruise) zu Beginn?
+- **SF-M-001-V1** (Alien|1979): „Alien – Das unheimliche Wesen aus einer fremden Welt“ (1979): Welche Rolle an Bord bekleidet der später als Android enttarnte Ash (Ian Holm)?
+- **SF-M-002** (Aliens|1986): „Aliens – Die Rückkehr“ (1986): Welches Arbeitsgerät nutzt Ripley (Sigourney Weaver) im Finale gegen die Königin?
+- **SF-M-002-V1** (Aliens|1986): „Aliens – Die Rückkehr“ (1986): Wozu ist die Maschine ursprünglich gedacht, mit der Ripley (Sigourney Weaver) die Alien-Königin bekämpft?
+- **SF-M-003** (The Matrix|1999): „Matrix“ (1999): Welches Mannschaftsmitglied verrät Morpheus (Laurence Fishburne) an die Agenten?
+- **SF-M-003-V1** (The Matrix|1999): „Matrix“ (1999): Wer handelt mit Agent Smith (Hugo Weaving) die Auslieferung von Morpheus (Laurence Fishburne) aus?
+- **SF-M-004** (The Matrix Reloaded|2003): „Matrix Reloaded“ (2003): Welches Programm soll Neo (Keanu Reeves) den Weg zur Quelle öffnen?
+- **SF-M-004-V1** (The Matrix Reloaded|2003): „Matrix Reloaded“ (2003): Warum muss Neo (Keanu Reeves) den Schlüsselmacher (Randall Duk Kim) aus der Gewalt des Merowingers befreien?
+- **SF-M-005** (Blade Runner|1982): „Blade Runner“ (1982): Warum hält Rachael (Sean Young) sich zunächst für einen Menschen?
+- **SF-M-005-V1** (Blade Runner|1982): „Blade Runner“ (1982): Weshalb beweisen Rachaels (Sean Young) Erinnerungen an ihre Kindheit keine menschliche Herkunft?
+- **SF-M-008** (Inception|2010): „Inception“ (2010): Welche Fähigkeit hat Eames (Tom Hardy) innerhalb der Traumwelten?
+- **SF-M-008-V1** (Inception|2010): „Inception“ (2010): Welche Aufgabe kann Eames (Tom Hardy) im Team übernehmen, weil er in Träumen sein Erscheinungsbild verändert?
+- **SF-M-010** (Terminator 2: Judgment Day|1991): „Terminator 2 – Tag der Abrechnung“ (1991): Warum bittet der T-800 (Arnold Schwarzenegger) am Ende Sarah (Linda Hamilton), ihn in die Schmelze abzusenken?
+- **SF-M-010-V1** (Terminator 2: Judgment Day|1991): „Terminator 2 – Tag der Abrechnung“ (1991): Weshalb führt Sarah (Linda Hamilton) den letzten Schritt bei der Zerstörung des T-800 aus?
+- **SF-M-012** (Back to the Future Part II|1989): „Zurück in die Zukunft II“ (1989): Womit wird Biff (Thomas F. Wilson) in der veränderten Gegenwart reich?
+- **SF-M-013** (Back to the Future Part III|1990): „Zurück in die Zukunft III“ (1990): Welchen Beruf hat Clara Clayton (Mary Steenburgen)?
+- **SF-M-018** (The Martian|2015): „Der Marsianer – Rettet Mark Watney“ (2015): Welche frühere Raumsonde holt Watney (Matt Damon), um wieder mit der Erde zu kommunizieren?
+- **SF-M-019** (Men in Black|1997): „Men in Black“ (1997): In welcher Tiergestalt tritt der außerirdische Informant Frank (Originalstimme: Tim Blaney) auf?
+- **SF-M-028** (District 9|2009): „District 9“ (2009): Welche körperliche Veränderung erlebt Wikus (Sharlto Copley)?
+- **SF-M-030** (Ex Machina|2014): „Ex Machina“ (2014): Wer hat Ava (Alicia Vikander) gebaut?
+- **SF-M-034** (Starship Troopers|1997): „Starship Troopers“ (1997): Welche Heimatstadt Johnny Ricos (Casper Van Dien) wird zerstört?
+- **SF-M-035** (Predator|1987): „Predator“ (1987): Womit erschwert Dutch (Arnold Schwarzenegger) dem Jäger, ihn per Wärmesicht zu erkennen?
+- **SF-M-039** (Star Wars|1977): „Star Wars: Episode IV – Eine neue Hoffnung“ (1977): In welchem Droiden verbirgt Leia (Carrie Fisher) die gestohlenen Todessternpläne?
+- **SF-M-040** (The Empire Strikes Back|1980): „Star Wars: Episode V – Das Imperium schlägt zurück“ (1980): Welche Stadt verwaltet Lando Calrissian (Billy Dee Williams)?
+- **SF-M-041** (Return of the Jedi|1983): „Star Wars: Episode VI – Die Rückkehr der Jedi-Ritter“ (1983): Als was verkleidet sich Leia (Carrie Fisher), um in Jabbas (Originalstimme: Larry Ward) Palast zu gelangen?
+- **SF-M-042** (Star Trek II: The Wrath of Khan|1982): „Star Trek II: Der Zorn des Khan“ (1982): Welche Entwicklung will Khan (Ricardo Montalbán) an sich bringen?
+- **SF-S-003** (The Matrix|1999): „Matrix“ (1999): Welche Bedingung stellt Cypher (Joe Pantoliano) für seine Rückkehr in die Simulation?
+- **SF-S-003-V1** (The Matrix|1999): „Matrix“ (1999): Welches Wissen soll Cypher (Joe Pantoliano) nach seinem geplanten Wiedereintritt in die Matrix verlieren?
+- **SF-S-004** (The Matrix Reloaded|2003): „Matrix Reloaded“ (2003): Welche Erklärung gibt der Architekt (Helmut Bakaitis) für die Rolle des Auserwählten?
+- **SF-S-004-V1** (The Matrix Reloaded|2003): „Matrix Reloaded“ (2003): Was macht die Enthüllung des Architekten für Neos (Keanu Reeves) Selbstbild so erschütternd?
+- **SF-S-005-V1** (Blade Runner|1982): „Blade Runner“ (1982): Welche eingebaute Grenze macht Roy Battys (Rutger Hauer) Suche nach mehr Lebenszeit dringlich?
+- **SF-S-008** (Inception|2010): „Inception“ (2010): Welche persönliche Deutung soll Robert Fischer (Cillian Murphy) zur Aufteilung des väterlichen Unternehmens bewegen?
+- **SF-S-010** (Terminator 2: Judgment Day|1991): „Terminator 2 – Tag der Abrechnung“ (1991): Warum kann der T-1000 (Robert Patrick) laut Erklärung des T-800 keine funktionsfähige Schusswaffe aus seinem Körper bilden?
+- **SF-S-012** (Back to the Future Part II|1989): „Zurück in die Zukunft II“ (1989): Wie gelangt der alte Biff (Thomas F. Wilson) erstmals an den Sportalmanach?
+- **SF-S-013** (Back to the Future Part III|1990): „Zurück in die Zukunft III“ (1990): Warum brauchen Doc (Christopher Lloyd) und Marty (Michael J. Fox) trotz funktionierender Zeitreisetechnik eine Lokomotive?
+- **SF-S-016** (Avatar|2009): „Avatar“ (2009): Wodurch gewinnt Jake (Sam Worthington) nach der Zerstörung des Heimatbaums erneut besonderes Ansehen bei den Na'vi?
+- **SF-S-023** (Nineteen Eighty-Four|1984): „1984“ (1984): Welcher Ladenbesitzer, bei dem Winston und Julia (Suzanna Hamilton) ein Zimmer mieten, arbeitet heimlich für die Gedankenpolizei?
+- **SF-S-024** (The Fifth Element|1997): „Das fünfte Element“ (1997): Wo findet Korben (Bruce Willis) die vier gesuchten Elementsteine?
+- **SF-S-025** (Gattaca|1997): „Gattaca“ (1997): Welche sportliche Auszeichnung steht für Jeromes (Jude Law) Scheitern an seinen eigenen Ansprüchen?
+- **SF-S-026** (Arrival|2016): „Arrival“ (2016): Woher kennt Louise (Amy Adams) die privaten Informationen, mit denen sie General Shang (Tzi Ma) am Telefon überzeugt?
+- **SF-S-028** (District 9|2009): „District 9“ (2009): Welche Wartezeit nennt Christopher Johnson (Jason Cope), bevor er Wikus (Sharlto Copley) helfen könne?
+- **SF-S-030** (Ex Machina|2014): „Ex Machina“ (2014): Welche Veränderung nimmt Caleb (Domhnall Gleeson) heimlich am Sicherheitssystem vor?
+- **SF-S-031** (Minority Report|2002): „Minority Report“ (2002): Wie tarnt Lamar Burgess den Mord an Anne Lively (Jessica Harper) vor dem Kontrollsystem?
+- **SF-S-032** (Total Recall|1990): „Die totale Erinnerung – Total Recall“ (1990): Welche wirtschaftliche Macht Cohaagens (Ronny Cox) bedroht der außerirdische Reaktor?
+- **SF-S-033** (RoboCop|1987): „RoboCop“ (1987): Warum kann RoboCop Dick Jones (Ronny Cox) im Finale schließlich erschießen?
+- **SF-S-035** (Predator|1987): „Predator“ (1987): Warum fordert Dutch (Arnold Schwarzenegger) Anna (Elpidia Carrillo) auf, ihre Waffe liegen zu lassen?
+- **SF-S-039** (Star Wars|1977): „Star Wars: Episode IV – Eine neue Hoffnung“ (1977): Weshalb kaufen Owen (Phil Brown) und Luke R2-D2 (Kenny Baker) anstelle des zunächst gewählten roten Astromech-Droiden?
+- **SF-S-040** (The Empire Strikes Back|1980): „Star Wars: Episode V – Das Imperium schlägt zurück“ (1980): Warum lässt Vader Han Solo (Harrison Ford) zuerst in Karbonit einfrieren?
+- **SF-S-041** (Return of the Jedi|1983): „Star Wars: Episode VI – Die Rückkehr der Jedi-Ritter“ (1983): Wie heißt die gestohlene imperiale Fähre, mit der Hans (Harrison Ford) Team nach Endor gelangt?
+- **SF-S-043** (Star Trek IV: The Voyage Home|1986): „Star Trek IV: Zurück in die Gegenwart“ (1986): Welches Wissen bietet Scotty (James Doohan) als Gegenleistung für Material zum Bau des Walbeckens an?
+- **SF-S-044** (Star Trek: First Contact|1996): „Star Trek: Der erste Kontakt“ (1996): Warum treffen Datas (Brent Spiner) Torpedos die Phoenix im Finale nicht?
+- **SF-S-048** (Edge of Tomorrow|2014): „Edge of Tomorrow“ (2014): Wodurch verliert Cage (Tom Cruise) vor dem letzten Angriff seine Fähigkeit zum Neustart?
+- **SF-S-049** (Oblivion|2013): „Oblivion“ (2013): Wer befindet sich statt Julia (Olga Kurylenko) in der Schlafkapsel, die Jack (Tom Cruise) im Finale zum Tet bringt?
+- **ACT-M-001** (Die Hard|1988): „Stirb langsam“ (1988): In welcher Beziehung steht die Geisel Holly (Bonnie Bedelia) zu McClane (Bruce Willis)?
+- **ACT-M-002** (Die Hard|1988): „Stirb langsam“ (1988): Worauf zielt Grubers (Alan Rickman) angeblicher Terroranschlag tatsächlich?
+- **ACT-S-001** (Die Hard|1988): „Stirb langsam“ (1988): Warum kommt der Stromausfall Grubers (Alan Rickman) Tresorplan entgegen?
+- **ACT-S-002** (Die Hard|1988): „Stirb langsam“ (1988): Wodurch befreit McClane (Bruce Willis) Holly (Bonnie Bedelia) aus Grubers (Alan Rickman) Griff am Fenster?
+- **ACT-M-004** (Die Hard 2|1990): „Stirb langsam 2“ (1990): Wen wollen Stuarts (William Sadler) Männer aus amerikanischem Gewahrsam befreien?
+- **ACT-S-003** (Die Hard 2|1990): „Stirb langsam 2“ (1990): Woran erkennt McClane, dass Grants (John Amos) Einheit mit Stuart (William Sadler) zusammenarbeitet?
+- **ACT-L-006** (Die Hard with a Vengeance|1995): „Stirb langsam: Jetzt erst recht“ (1995): Wie ist Simon mit Hans Gruber (Jeremy Irons) aus dem ersten Film verbunden?
+- **ACT-M-005** (Die Hard with a Vengeance|1995): „Stirb langsam: Jetzt erst recht“ (1995): Welche Beute will Simon (Jeremy Irons) während seiner Bombendrohungen stehlen?
+- **ACT-M-006** (Die Hard with a Vengeance|1995): „Stirb langsam: Jetzt erst recht“ (1995): Welche Funktion hat Simons (Jeremy Irons) angebliche Bombe in einer Schule?
+- **ACT-S-005** (Die Hard with a Vengeance|1995): „Stirb langsam: Jetzt erst recht“ (1995): Welche Wassermenge müssen McClane (Bruce Willis) und Zeus (Samuel L. Jackson) beim Brunnenrätsel genau abmessen?
+- **ACT-S-006** (Die Hard with a Vengeance|1995): „Stirb langsam: Jetzt erst recht“ (1995): Welcher unscheinbare Gegenstand führt McClane (Bruce Willis) zu Simons (Jeremy Irons) Versteck in Kanada?
+- **ACT-L-008** (Lethal Weapon|1987): „Lethal Weapon – Zwei stahlharte Profis“ (1987): Wie heißt Riggs' (Mel Gibson) erfahrener Partner?
+- **ACT-M-007** (Lethal Weapon|1987): „Lethal Weapon – Zwei stahlharte Profis“ (1987): Welcher Verlust belastet Riggs (Mel Gibson) zu Beginn besonders?
+- **ACT-S-007** (Lethal Weapon|1987): „Lethal Weapon – Zwei stahlharte Profis“ (1987): Was erkennt Riggs (Mel Gibson) in den Trümmern von Dixies (Lycia Naff) Haus als Hinweis auf militärische Spezialisten?
+- **ACT-S-008** (Lethal Weapon|1987): „Lethal Weapon – Zwei stahlharte Profis“ (1987): Warum übergibt Riggs (Mel Gibson) Murtaugh am Ende eine einzelne Patrone?
+- **ACT-L-009** (Lethal Weapon 2|1989): „Lethal Weapon 2 – Brennpunkt L.A.“ (1989): Welchen redseligen Zeugen sollen Riggs (Mel Gibson) und Murtaugh beschützen?
+- **ACT-M-010** (Lethal Weapon 2|1989): „Lethal Weapon 2 – Brennpunkt L.A.“ (1989): Warum kennen die Täter den geschützten Zeugen Leo Getz (Joe Pesci)?
+- **ACT-S-009** (Lethal Weapon 2|1989): „Lethal Weapon 2 – Brennpunkt L.A.“ (1989): Welche Enthüllung macht Vorstedt über den Tod von Riggs' (Mel Gibson) Frau?
+- **ACT-S-010** (Lethal Weapon 2|1989): „Lethal Weapon 2 – Brennpunkt L.A.“ (1989): Wie befreit sich Riggs (Mel Gibson), nachdem er gefesselt ins Wasser geworfen wurde?
+- **ACT-M-011** (Speed|1994): „Speed“ (1994): Welchen Beruf hatte Bombenleger Howard Payne (Dennis Hopper) früher?
+- **ACT-M-012** (Speed|1994): „Speed“ (1994): Warum schießt Jack (Keanu Reeves) zu Beginn seinem Partner Harry (Jeff Daniels) ins Bein?
+- **ACT-S-011** (Speed|1994): „Speed“ (1994): Wie täuscht die Polizei Payne (Dennis Hopper) beim Verlassen des Busses?
+- **ACT-S-012** (Speed|1994): „Speed“ (1994): Welche riskante Entscheidung trifft Jack (Keanu Reeves), als der U-Bahn-Zug nicht mehr zu bremsen ist?
+- **ACT-M-013** (The Rock|1996): „The Rock – Entscheidung auf Alcatraz“ (1996): Warum wird John Mason (Sean Connery) für den Einsatz hinzugezogen?
+- **ACT-M-014** (The Rock|1996): „The Rock – Entscheidung auf Alcatraz“ (1996): Was will Hummel (Ed Harris) mit seiner Erpressung vor allem erreichen?
+- **ACT-S-013** (The Rock|1996): „The Rock – Entscheidung auf Alcatraz“ (1996): Warum lenkt Hummel (Ed Harris) eine bereits gestartete Rakete ins Meer?
+- **ACT-S-014** (The Rock|1996): „The Rock – Entscheidung auf Alcatraz“ (1996): Was benutzt Goodspeed (Nicolas Cage) nach seiner gefährlichen Berührung mit dem Nervenkampfstoff?
+- **ACT-L-015** (Con Air|1997): „Con Air“ (1997): Welchen militärischen Hintergrund hat Cameron Poe (Nicolas Cage)?
+- **ACT-L-020** (Heat|1995): „Heat“ (1995): Auf welcher Seite arbeitet Vincent Hanna (Al Pacino)?
+- **ACT-S-019** (Heat|1995): „Heat“ (1995): Wie verhindert Charlene (Ashley Judd), dass Chris (Val Kilmer) unmittelbar in die Polizeifalle läuft?
+- **ACT-S-020** (Heat|1995): „Heat“ (1995): Welche Entscheidung gefährdet Neils (Robert De Niro) bereits mögliche Flucht entscheidend?
+- **ACT-L-025** (True Lies|1994): „True Lies – Wahre Lügen“ (1994): Welchen Beruf übt Harry Tasker (Arnold Schwarzenegger) heimlich aus?
+- **ACT-M-025** (True Lies|1994): „True Lies – Wahre Lügen“ (1994): Was ist der vermeintliche Spion Simon (Bill Paxton) tatsächlich?
+- **ACT-M-026** (True Lies|1994): „True Lies – Wahre Lügen“ (1994): Was fehlt Helen (Jamie Lee Curtis) nach eigener Aussage vor allem in ihrem Alltag?
+- **ACT-S-026** (True Lies|1994): „True Lies – Wahre Lügen“ (1994): Welches Fahrzeug nutzt Harry (Arnold Schwarzenegger), um seine Tochter am Hochhaus zu retten?
+- **ACT-M-028** (Commando|1985): „Phantom Kommando“ (1985): Welchen Beruf hat Matrix' unfreiwillige Helferin Cindy (Rae Dawn Chong)?
+- **ACT-S-028** (Commando|1985): „Phantom Kommando“ (1985): Womit besiegt Matrix Bennett (Vernon Wells) im letzten Kampf?
+- **ACT-L-030** (First Blood|1982): „Rambo“ (1982): Aus welchem Krieg ist Rambo (Sylvester Stallone) als Veteran zurückgekehrt?
+- **ACT-M-029** (First Blood|1982): „Rambo“ (1982): Welcher örtliche Amtsträger treibt den Konflikt mit Rambo (Sylvester Stallone) voran?
+- **ACT-M-030** (First Blood|1982): „Rambo“ (1982): Warum glaubt Trautman (Richard Crenna), auf Rambo (Sylvester Stallone) einwirken zu können?
+- **ACT-S-029** (First Blood|1982): „Rambo“ (1982): Warum löst die brutale Behandlung auf der Wache bei Rambo (Sylvester Stallone) einen Zusammenbruch aus?
+- **ACT-S-030** (First Blood|1982): „Rambo“ (1982): Wie endet Rambos (Sylvester Stallone) Konfrontation in der regulären Kinofassung?
+- **ACT-L-031** (Rambo: First Blood Part II|1985): „Rambo II – Der Auftrag“ (1985): In welches Land wird Rambo (Sylvester Stallone) für seine neue Mission geschickt?
+- **ACT-L-032** (Rambo: First Blood Part II|1985): „Rambo II – Der Auftrag“ (1985): Nach wem soll Rambo (Sylvester Stallone) bei seiner Aufklärungsmission suchen?
+- **ACT-M-031** (Rambo: First Blood Part II|1985): „Rambo II – Der Auftrag“ (1985): Welche Begrenzung legt Murdock (Charles Napier) Rambo (Sylvester Stallone) zunächst ausdrücklich auf?
+- **ACT-M-032** (Rambo: First Blood Part II|1985): „Rambo II – Der Auftrag“ (1985): Wer unterstützt Rambo (Sylvester Stallone) vor Ort als einheimische Kontaktperson?
+- **ACT-S-031** (Rambo: First Blood Part II|1985): „Rambo II – Der Auftrag“ (1985): Warum wird Rambo (Sylvester Stallone) am vereinbarten Abholpunkt zurückgelassen?
+- **ACT-S-032** (Rambo: First Blood Part II|1985): „Rambo II – Der Auftrag“ (1985): An wen richtet Rambo (Sylvester Stallone) die Drohung, ihn nach seiner Rückkehr zur Rechenschaft zu ziehen?
+- **ACT-L-034** (Goldfinger|1964): „James Bond 007 – Goldfinger“ (1964): Welchen auffälligen Gegenstand benutzt Oddjob (Harold Sakata) als Waffe?
+- **ACT-M-033** (Goldfinger|1964): „James Bond 007 – Goldfinger“ (1964): Was plant Goldfinger (Gert Fröbe) mit dem Gold in Fort Knox?
+- **ACT-M-034** (Goldfinger|1964): „James Bond 007 – Goldfinger“ (1964): Wie wird Jill Masterson (Shirley Eaton) nach ihrem Verrat an Goldfinger (Gert Fröbe) aufgefunden?
+- **ACT-S-033** (Goldfinger|1964): „James Bond 007 – Goldfinger“ (1964): Mit welchem Bluff verhindert Bond (Sean Connery) seine Tötung durch den Laser?
+- **ACT-S-034** (Goldfinger|1964): „James Bond 007 – Goldfinger“ (1964): Wie überwindet Bond (Sean Connery) Oddjob (Harold Sakata) im Tresorraum?
+- **ACT-M-036** (GoldenEye|1995): „James Bond 007 – GoldenEye“ (1995): Welche besondere Qualifikation bringt Natalya Simonova (Izabella Scorupco) mit?
+- **ACT-S-035** (GoldenEye|1995): „James Bond 007 – GoldenEye“ (1995): Womit begründet Trevelyan (Sean Bean) seine Rache an Großbritannien?
+- **ACT-S-036** (GoldenEye|1995): „James Bond 007 – GoldenEye“ (1995): Welche Änderung nimmt Natalya (Izabella Scorupco) vor, um GoldenEye zu zerstören?
+- **ACT-L-038** (Casino Royale|2006): „James Bond 007: Casino Royale“ (2006): Bei welchem Spiel tritt Bond (Daniel Craig) im entscheidenden Casino-Turnier an?
+- **ACT-M-037** (Casino Royale|2006): „James Bond 007: Casino Royale“ (2006): Welche offizielle Aufgabe hat Vesper Lynd (Eva Green) bei Bonds (Daniel Craig) Mission?
+- **ACT-M-038** (Casino Royale|2006): „James Bond 007: Casino Royale“ (2006): Warum muss Le Chiffre (Mads Mikkelsen) beim Poker dringend gewinnen?
+- **ACT-S-037** (Casino Royale|2006): „James Bond 007: Casino Royale“ (2006): Wie hilft Vesper (Eva Green) dem vergifteten Bond (Daniel Craig) unmittelbar am Auto?
+- **ACT-S-038** (Casino Royale|2006): „James Bond 007: Casino Royale“ (2006): Womit wurde Vesper (Eva Green) nach der abschließenden Erklärung erpresst?
+- **ACT-M-039** (Skyfall|2012): „James Bond 007: Skyfall“ (2012): Wen macht Silva (Javier Bardem) für sein Leiden als ehemaliger Agent verantwortlich?
+- **ACT-S-039** (Skyfall|2012): „James Bond 007: Skyfall“ (2012): Warum ist Silvas (Javier Bardem) Gefangennahme kein gewöhnlicher Erfolg für Bond (Daniel Craig)?
+- **ACT-S-040** (Skyfall|2012): „James Bond 007: Skyfall“ (2012): Wodurch verraten Kincade (Albert Finney) und M bei ihrer Flucht zum Kirchlein unbeabsichtigt ihre Richtung?
+- **ACT-L-042** (Mission: Impossible|1996): „Mission: Impossible“ (1996): Für welche Organisation arbeitet Ethan Hunt (Tom Cruise)?
+- **ACT-M-041** (Mission: Impossible|1996): „Mission: Impossible“ (1996): Was will Ethans (Tom Cruise) Team beim Einbruch in das CIA-Hauptquartier in Langley stehlen?
+- **ACT-M-042** (Mission: Impossible|1996): „Mission: Impossible“ (1996): Warum gerät Ethan (Tom Cruise) nach dem Prager Einsatz selbst unter Verdacht?
+- **ACT-S-041** (Mission: Impossible|1996): „Mission: Impossible“ (1996): Welches Fundstück bringt Ethan (Tom Cruise) mit Jim Phelps' (Jon Voight) Aufenthalt in Chicago und dem Verrat in Verbindung?
+- **ACT-S-042** (Mission: Impossible|1996): „Mission: Impossible“ (1996): Welches zuvor eingeführte Hilfsmittel nutzt Ethan (Tom Cruise) gegen den Hubschrauber im Tunnelfinale?
+- **ACT-L-043** (Mission: Impossible – Ghost Protocol|2011): „Mission: Impossible – Phantom Protokoll“ (2011): Welches Hochhaus muss Ethan (Tom Cruise) von außen erklimmen?
+- **ACT-L-044** (Mission: Impossible – Ghost Protocol|2011): „Mission: Impossible – Phantom Protokoll“ (2011): Welche unmittelbare Folge hat das aktivierte Phantom Protokoll für Ethans (Tom Cruise) Team?
+- **ACT-M-043** (Mission: Impossible – Ghost Protocol|2011): „Mission: Impossible – Phantom Protokoll“ (2011): Was will Kurt Hendricks (Michael Nyqvist) mit dem Einsatz einer Atomwaffe erreichen?
+- **ACT-S-044** (Mission: Impossible – Ghost Protocol|2011): „Mission: Impossible – Phantom Protokoll“ (2011): Welche Wahrheit nimmt Brandt (Jeremy Renner) am Ende sein Schuldgefühl wegen Julia (Michelle Monaghan)?
+- **ACT-M-045** (The Bourne Identity|2002): „Die Bourne Identität“ (2002): Welche Frau hilft Bourne (Matt Damon) auf der Reise und wird seine Vertraute?
+- **ACT-M-046** (The Bourne Identity|2002): „Die Bourne Identität“ (2002): Wofür steht Treadstone in Bournes (Matt Damon) Vergangenheit?
+- **ACT-S-045** (The Bourne Identity|2002): „Die Bourne Identität“ (2002): Warum führt Bourne (Matt Damon) den Mordauftrag gegen Wombosi (Adewale Akinnuoye-Agbaje) auf dessen Yacht nicht aus?
+- **ACT-S-046** (The Bourne Identity|2002): „Die Bourne Identität“ (2002): Wohin führt die im Körper entdeckte Kontonummer Bourne (Matt Damon) zunächst?
+- **ACT-L-048** (Taken|2008): „96 Hours“ (2008): In welcher Stadt wird Bryans (Liam Neeson) Tochter Kim (Maggie Grace) entführt?
+- **ACT-M-047** (Taken|2008): „96 Hours“ (2008): Welches Geschäft steckt hinter Kims (Maggie Grace) Entführung?
+- **ACT-M-048** (Taken|2008): „96 Hours“ (2008): Welche berufliche Vergangenheit erklärt Bryans (Liam Neeson) besondere Fähigkeiten?
+- **ACT-S-047** (Taken|2008): „96 Hours“ (2008): Wie erkennt Bryan (Liam Neeson) Marko (Arben Bajraktaraj) als einen der Entführer wieder?
+- **ACT-S-048** (Taken|2008): „96 Hours“ (2008): Was erfährt Bryan (Liam Neeson) über Kims (Maggie Grace) Reisefreundin Amanda (Katie Cassidy)?
+- **ACT-L-050** (John Wick|2014): „John Wick“ (2014): Warum bedeutet der Welpe Daisy John (Keanu Reeves) besonders viel?
+- **ACT-M-050** (John Wick|2014): „John Wick“ (2014): In welcher Beziehung steht Iosef (Alfie Allen) zu dem Gangsterboss Viggo Tarasov (Michael Nyqvist)?
+- **ACT-S-049** (John Wick|2014): „John Wick“ (2014): Wie verhält sich Marcus (Willem Dafoe) gegenüber John (Keanu Reeves) trotz Viggos (Michael Nyqvist) Mordauftrag?
+- **ACT-S-050** (John Wick|2014): „John Wick“ (2014): Was tut John (Keanu Reeves) am Ende in der Tierklinik, nachdem er seine Wunden versorgt hat?
+- **ACT-M-001-V1** (Die Hard|1988): „Stirb langsam“ (1988): Welche Figur verbindet McClane (Bruce Willis) durch eine bestehende Ehe persönlich mit den Geiseln?
+- **ACT-S-001-V1** (Die Hard|1988): „Stirb langsam“ (1988): Welche Maßnahme der Einsatzkräfte öffnet Gruber (Alan Rickman) ungewollt den Weg durch die letzte Tresorsicherung?
+- **ACT-S-002-V1** (Die Hard|1988): „Stirb langsam“ (1988): Warum ist Hollys (Bonnie Bedelia) Armbanduhr beim Sturz Grubers (Alan Rickman) entscheidend?
+- **ACT-M-011-V1** (Speed|1994): „Speed“ (1994): Woher bringt Howard Payne (Dennis Hopper) berufliche Kenntnisse über Sprengsätze mit?
+- **ACT-M-012-V1** (Speed|1994): „Speed“ (1994): Welchen Nachteil für den Geiselnehmer will Jack (Keanu Reeves) schaffen, indem er Harry (Jeff Daniels) am Bein verletzt?
+- **ACT-S-012-V1** (Speed|1994): „Speed“ (1994): Welches Ziel verfolgt Jack (Keanu Reeves), als er den ungebremsten U-Bahn-Zug noch schneller fahren lässt?
+- **ACT-M-033-V1** (Goldfinger|1964): „James Bond 007 – Goldfinger“ (1964): Warum würde Goldfingers (Gert Fröbe) Plan den Wert seines eigenen Goldes steigern?
+- **ACT-M-034-V1** (Goldfinger|1964): „James Bond 007 – Goldfinger“ (1964): Welche Figur entdeckt Bond (Sean Connery) tot und mit Goldfarbe bedeckt?
+- **ACT-S-033-V1** (Goldfinger|1964): „James Bond 007 – Goldfinger“ (1964): Warum bricht Goldfinger (Gert Fröbe) die unmittelbar drohende Tötung Bonds (Sean Connery) durch den Laser ab?
+- **ACT-S-034-V1** (Goldfinger|1964): „James Bond 007 – Goldfinger“ (1964): Warum wird Oddjobs (Harold Sakata) Griff nach seinem Hut im Tresorraum tödlich?
+- **ACT-L-042-V1** (Mission: Impossible|1996): „Mission: Impossible“ (1996): Zu welcher Organisation gehört das Team, dessen Prager Einsatz Ethan (Tom Cruise) überlebt?
+- **ACT-M-042-V1** (Mission: Impossible|1996): „Mission: Impossible“ (1996): Wie deutet Kittridge (Henry Czerny) Ethans (Tom Cruise) scheinbar einzigartiges Überleben des Prager Einsatzes?
+- **ACT-S-041-V1** (Mission: Impossible|1996): „Mission: Impossible“ (1996): Warum ist die Herkunft einer Bibel aus dem Drake Hotel für Ethan (Tom Cruise) belastend für Phelps?
+- **ACT-L-050-V1** (John Wick|2014): „John Wick“ (2014): Wer sorgt dafür, dass John (Keanu Reeves) nach Helens (Bridget Moynahan) Tod den Welpen Daisy erhält?
+- **ACT-M-049-V1** (John Wick|2014): „John Wick“ (2014): Warum stellt Perkins' (Adrianne Palicki) Angriff auf John (Keanu Reeves) im Continental zugleich einen Regelbruch des Hotels dar?
+- **ACT-M-050-V1** (John Wick|2014): „John Wick“ (2014): Warum ist Viggos (Michael Nyqvist) Schutz für Iosef (Alfie Allen) zugleich eine familiäre Entscheidung?
+- **ACT-S-049-V1** (John Wick|2014): „John Wick“ (2014): Welche Entscheidung bringt Marcus (Willem Dafoe) in Konflikt mit Viggo (Michael Nyqvist)?
+- **ACT-S-050-V1** (John Wick|2014): „John Wick“ (2014): Welche Handlung am Schluss greift Helens (Bridget Moynahan) Wunsch auf, John (Keanu Reeves) solle eine neue Bindung zum Leben finden?
+- **HOR-M-001** (Halloween|1978): „Halloween – Die Nacht des Grauens“ (1978): Welche berufliche Beziehung hat Dr. Loomis (Donald Pleasence) zu Michael Myers?
+- **HOR-M-002** (Halloween|1978): „Halloween – Die Nacht des Grauens“ (1978): Welche beiden Kinder schützt Laurie (Jamie Lee Curtis) im Verlauf des Abends?
+- **HOR-S-001** (Halloween|1978): „Halloween – Die Nacht des Grauens“ (1978): Womit verletzt Laurie (Jamie Lee Curtis) Michael am Auge, als sie sich im Schrank versteckt?
+- **HOR-S-002** (Halloween|1978): „Halloween – Die Nacht des Grauens“ (1978): Was stellt Loomis (Donald Pleasence) fest, als er nach Michaels Sturz vom Balkon nach unten schaut?
+- **HOR-L-003** (Halloween II|1981): „Halloween II – Das Grauen kehrt zurück“ (1981): Wo spielt ein großer Teil der erneuten Verfolgung Lauries (Jamie Lee Curtis)?
+- **HOR-M-003** (Halloween II|1981): „Halloween II – Das Grauen kehrt zurück“ (1981): Welche Verwandtschaft zwischen Laurie (Jamie Lee Curtis) und Michael wird in dieser Fortsetzung enthüllt?
+- **HOR-M-004** (Halloween II|1981): „Halloween II – Das Grauen kehrt zurück“ (1981): Welche Tätigkeit hat Jimmy (Lance Guest), der sich um Laurie (Jamie Lee Curtis) bemüht?
+- **HOR-S-003** (Halloween II|1981): „Halloween II – Das Grauen kehrt zurück“ (1981): Warum verliert Jimmy (Lance Guest) bei der Suche im Krankenhaus das Bewusstsein?
+- **HOR-S-004** (Halloween II|1981): „Halloween II – Das Grauen kehrt zurück“ (1981): Wie stoppt Loomis (Donald Pleasence) Michael am Ende im Behandlungsraum?
+- **HOR-L-005** (A Nightmare on Elm Street|1984): „Nightmare – Mörderische Träume“ (1984): In welchem Zustand werden Freddys (Robert Englund) Opfer besonders bedroht?
+- **HOR-L-006** (A Nightmare on Elm Street|1984): „Nightmare – Mörderische Träume“ (1984): Welche Waffe ist Freddys (Robert Englund) markantes Erkennungszeichen?
+- **HOR-M-006** (A Nightmare on Elm Street|1984): „Nightmare – Mörderische Träume“ (1984): Was haben die Eltern der Jugendlichen Freddy (Robert Englund) nach seiner Freilassung angetan?
+- **HOR-S-005** (A Nightmare on Elm Street|1984): „Nightmare – Mörderische Träume“ (1984): Welchen Gegenstand bringt Nancy (Heather Langenkamp) aus einem Traum in die Wachwelt mit?
+- **HOR-S-006** (A Nightmare on Elm Street|1984): „Nightmare – Mörderische Träume“ (1984): Welchen Zweck verfolgt Nancy (Heather Langenkamp), als sie Freddy (Robert Englund) beim Erwachen festhält?
+- **HOR-L-007** (A Nightmare on Elm Street 3: Dream Warriors|1987): „Nightmare 3 – Freddy Krueger lebt“ (1987): Wo leben die Jugendlichen, die gemeinsam von Freddy (Robert Englund) bedroht werden?
+- **HOR-M-007** (A Nightmare on Elm Street 3: Dream Warriors|1987): „Nightmare 3 – Freddy Krueger lebt“ (1987): Welche besondere Fähigkeit hat Kristen (Patricia Arquette) in ihren Träumen?
+- **HOR-M-008** (A Nightmare on Elm Street 3: Dream Warriors|1987): „Nightmare 3 – Freddy Krueger lebt“ (1987): Wozu möchte Nancy (Heather Langenkamp) das Medikament Hypnocil einsetzen?
+- **HOR-S-007** (A Nightmare on Elm Street 3: Dream Warriors|1987): „Nightmare 3 – Freddy Krueger lebt“ (1987): Wer ist die geheimnisvolle Schwester Mary Helena (Nan Martin) tatsächlich?
+- **HOR-S-008** (A Nightmare on Elm Street 3: Dream Warriors|1987): „Nightmare 3 – Freddy Krueger lebt“ (1987): Was muss Neil (Craig Wasson) mit Freddys (Robert Englund) sterblichen Überresten tun, um ihn aufzuhalten?
+- **HOR-M-009** (Friday the 13th|1980): „Freitag der 13.“ (1980): Welche junge Frau stellt sich Pamela (Betsy Palmer) im abschließenden Kampf?
+- **HOR-M-010** (Friday the 13th|1980): „Freitag der 13.“ (1980): Welches Ereignis treibt Pamelas (Betsy Palmer) Hass auf die Lagerbetreuer an?
+- **HOR-S-009** (Friday the 13th|1980): „Freitag der 13.“ (1980): In welcher Funktion kannte Pamela (Betsy Palmer) das Lager aus früherer Zeit?
+- **HOR-S-010** (Friday the 13th|1980): „Freitag der 13.“ (1980): Aus welchem Fahrzeug wird Alice (Adrienne King) in der Schrecksequenz kurz vor dem Krankenhaus-Erwachen ins Wasser gezogen?
+- **HOR-S-011** (Friday the 13th Part 2|1981): „Freitag der 13. – Jason kehrt zurück“ (1981): Welches Kleidungsstück zieht Ginny (Amy Steel) für ihre Täuschung Jasons an?
+- **HOR-S-012** (Friday the 13th Part 2|1981): „Freitag der 13. – Jason kehrt zurück“ (1981): Wodurch durchschaut Jason Ginnys (Amy Steel) Muttertäuschung?
+- **HOR-M-014** (Scream|1996): „Scream – Schrei!“ (1996): In welcher Beziehung stehen Dewey (David Arquette) und Tatum (Rose McGowan) zueinander?
+- **HOR-S-014** (Scream|1996): „Scream – Schrei!“ (1996): Welchen Zweck hat es in Billys (Skeet Ulrich) und Stus (Matthew Lillard) Plan, Sidneys (Neve Campbell) Vater Neil gefangen zu halten?
+- **HOR-S-015** (Scream 2|1997): „Scream 2“ (1997): Wer verbirgt sich hinter der Reporterin Debbie Salt (Laurie Metcalf)?
+- **HOR-S-016** (Scream 2|1997): „Scream 2“ (1997): Was verspricht sich Mickey (Timothy Olyphant) von einer Verhaftung nach den Morden?
+- **HOR-M-018** (The Shining|1980): „Shining“ (1980): Was entdeckt Wendy (Shelley Duvall) in Jacks (Jack Nicholson) angeblichem Manuskript?
+- **HOR-S-017** (The Shining|1980): „Shining“ (1980): Wie täuscht Danny (Danny Lloyd) seinen Vater im verschneiten Labyrinth?
+- **HOR-S-018** (The Shining|1980): „Shining“ (1980): Womit verlassen Wendy (Shelley Duvall) und Danny (Danny Lloyd) das Hotelgelände am Ende?
+- **HOR-L-019** (Carrie|1976): „Carrie – Des Satans jüngste Tochter“ (1976): Welche übernatürliche Fähigkeit entwickelt Carrie (Sissy Spacek)?
+- **HOR-M-019** (Carrie|1976): „Carrie – Des Satans jüngste Tochter“ (1976): Warum bittet Sue (Amy Irving) ihren Freund Tommy (William Katt), Carrie (Sissy Spacek) zum Ball einzuladen?
+- **HOR-M-020** (Carrie|1976): „Carrie – Des Satans jüngste Tochter“ (1976): Womit wird Carrie (Sissy Spacek) bei ihrer Krönung zur Ballkönigin übergossen?
+- **HOR-S-019** (Carrie|1976): „Carrie – Des Satans jüngste Tochter“ (1976): Warum kann Sue (Amy Irving) den Streich nicht rechtzeitig verhindern?
+- **HOR-S-020** (Carrie|1976): „Carrie – Des Satans jüngste Tochter“ (1976): Was tut Margaret (Piper Laurie), als Carrie (Sissy Spacek) nach dem Ball zu Hause Trost sucht?
+- **HOR-L-021** (Misery|1990): „Misery“ (1990): Welchen Beruf hat Paul Sheldon (James Caan)?
+- **HOR-M-021** (Misery|1990): „Misery“ (1990): Wie gerät Paul (James Caan) zunächst in Annies (Kathy Bates) Obhut?
+- **HOR-M-022** (Misery|1990): „Misery“ (1990): Was verlangt Annie (Kathy Bates) von Paul (James Caan) nach der Lektüre des letzten Misery-Romans?
+- **HOR-S-021** (Misery|1990): „Misery“ (1990): Wie verhindert Annie (Kathy Bates) in der Filmfassung weitere Fluchtversuche Pauls (James Caan)?
+- **HOR-L-024** (Pet Sematary|1989): „Friedhof der Kuscheltiere“ (1989): Wer zeigt Louis (Dale Midkiff) den besonderen Begräbnisplatz jenseits des Tierfriedhofs?
+- **HOR-M-024** (Pet Sematary|1989): „Friedhof der Kuscheltiere“ (1989): Welche verstorbene Figur erscheint Louis (Dale Midkiff) mit Warnungen?
+- **HOR-S-023** (Pet Sematary|1989): „Friedhof der Kuscheltiere“ (1989): Welche Beziehung hatte Rachel zu der kranken Zelda (Andrew Hubatsek) aus ihren Erinnerungen?
+- **HOR-S-024** (Pet Sematary|1989): „Friedhof der Kuscheltiere“ (1989): Warum glaubt Louis (Dale Midkiff) nach Gages (Miko Hughes) Rückkehr trotzdem, Rachel erfolgreich zurückbringen zu können?
+- **HOR-L-026** (It|2017): „Es“ (2017): Wie sind Georgie (Jackson Robert Scott) und Bill Denbrough (Jaeden Lieberher) miteinander verwandt?
+- **HOR-S-025** (It|2017): „Es“ (2017): Wer holt Beverly (Sophia Lillis) nach ihrem Blick in die Todeslichter mit einem Kuss aus der Erstarrung?
+- **HOR-L-028** (The Exorcist|1973): „Der Exorzist“ (1973): Wer ist Chris MacNeil (Ellen Burstyn) für Regan (Linda Blair)?
+- **HOR-S-027** (The Exorcist|1973): „Der Exorzist“ (1973): Was ergibt die Untersuchung der rätselhaften Sprachaufnahme Regans (Linda Blair)?
+- **HOR-S-028** (The Exorcist|1973): „Der Exorzist“ (1973): Wie versucht Karras Regan (Linda Blair) in seiner letzten Handlung zu retten?
+- **HOR-M-029** (The Omen|1976): „Das Omen“ (1976): Welches Geheimnis verschweigt Robert (Gregory Peck) seiner Frau nach der Geburt?
+- **HOR-M-030** (The Omen|1976): „Das Omen“ (1976): Welche Rolle übernimmt Mrs. Baylock (Billie Whitelaw) im Haushalt?
+- **HOR-S-029** (The Omen|1976): „Das Omen“ (1976): Welche auffällige Eigenschaft haben mehrere Fotografien von Keith Jennings (David Warner)?
+- **HOR-S-030** (The Omen|1976): „Das Omen“ (1976): Wo findet Robert (Gregory Peck) das verräterische Zeichen aus drei Sechsen an Damien (Harvey Spencer Stephens)?
+- **HOR-M-031** (Poltergeist|1982): „Poltergeist“ (1982): Welche besondere Aufgabe übernimmt Tangina Barrons (Zelda Rubinstein)?
+- **HOR-M-032** (Poltergeist|1982): „Poltergeist“ (1982): Welches Spielzeug greift Robbie (Oliver Robins) im Kinderzimmer an?
+- **HOR-S-032** (Poltergeist|1982): „Poltergeist“ (1982): Was entfernt Steve (Craig T. Nelson) am Ende aus dem Motelzimmer der Familie?
+- **HOR-M-034** (The Evil Dead|1981): „Tanz der Teufel“ (1981): In welcher Beziehung steht Cheryl (Ellen Sandweiss) zu Ash (Bruce Campbell)?
+- **HOR-S-034** (The Evil Dead|1981): „Tanz der Teufel“ (1981): Was wirft Ash (Bruce Campbell) ins Feuer, woraufhin die besessenen Körper zerfallen?
+- **HOR-L-035** (Evil Dead II|1987): „Tanz der Teufel II – Jetzt wird noch mehr getanzt“ (1987): Welches Gerät befestigt Ash (Bruce Campbell) an seinem rechten Armstumpf?
+- **HOR-M-035** (Evil Dead II|1987): „Tanz der Teufel II – Jetzt wird noch mehr getanzt“ (1987): Welche Verbindung hat Annie (Sarah Berry) zu Professor Knowby?
+- **HOR-S-035** (Evil Dead II|1987): „Tanz der Teufel II – Jetzt wird noch mehr getanzt“ (1987): Was hilft dem besessenen Ash (Bruce Campbell), wieder zu sich zu kommen?
+- **HOR-S-036** (Evil Dead II|1987): „Tanz der Teufel II – Jetzt wird noch mehr getanzt“ (1987): Wohin wird Ash (Bruce Campbell) am Ende durch den geöffneten Wirbel versetzt?
+- **HOR-L-038** (Psycho|1960): „Psycho“ (1960): Welche Unterkunft führt Norman Bates (Anthony Perkins)?
+- **HOR-M-037** (Psycho|1960): „Psycho“ (1960): Warum verlässt Marion (Janet Leigh) zu Beginn ihr bisheriges Leben überstürzt?
+- **HOR-M-038** (Psycho|1960): „Psycho“ (1960): Wer sucht als Marions (Janet Leigh) Schwester nach ihr?
+- **HOR-S-037** (Psycho|1960): „Psycho“ (1960): Was entdeckt Lila (Vera Miles) im Keller des Hauses über Normans (Anthony Perkins) Mutter?
+- **HOR-S-038** (Psycho|1960): „Psycho“ (1960): Was geschieht mit Marions (Janet Leigh) verstecktem Geld bei Normans (Anthony Perkins) Beseitigung der Spuren?
+- **HOR-M-039** (The Birds|1963): „Die Vögel“ (1963): Für wen bringt Melanie (Tippi Hedren) die beiden Unzertrennlichen als Geschenk mit?
+- **HOR-M-040** (The Birds|1963): „Die Vögel“ (1963): Welche frühere Beziehung verbindet Annie Hayworth (Suzanne Pleshette) mit Mitch (Rod Taylor)?
+- **HOR-S-039** (The Birds|1963): „Die Vögel“ (1963): Wo sammeln sich die Krähen, während Melanie (Tippi Hedren) vor der Schule wartet?
+- **HOR-M-041** (The Texas Chain Saw Massacre|1974): „Blutgericht in Texas“ (1974): In welcher Beziehung steht Franklin (Paul A. Partain) zu Sally (Marilyn Burns)?
+- **HOR-M-042** (The Texas Chain Saw Massacre|1974): „Blutgericht in Texas“ (1974): Warum ist Sallys (Marilyn Burns) Zuflucht beim Tankstellenbetreiber keine Rettung?
+- **HOR-S-041** (The Texas Chain Saw Massacre|1974): „Blutgericht in Texas“ (1974): Warum misslingt der Versuch, Sally (Marilyn Burns) vom Großvater töten zu lassen?
+- **HOR-S-042** (The Texas Chain Saw Massacre|1974): „Blutgericht in Texas“ (1974): Womit gelingt Sally (Marilyn Burns) schließlich die Abfahrt aus Leatherfaces (Gunnar Hansen) Reichweite?
+- **HOR-M-043** (Ring|1998): „Ring – Das Original“ (1998): Welchen Beruf hat Reiko Asakawa (Nanako Matsushima)?
+- **HOR-M-044** (Ring|1998): „Ring – Das Original“ (1998): Welche Beziehung hat Ryūji Takayama (Hiroyuki Sanada) zu Reiko (Nanako Matsushima)?
+- **HOR-S-043** (Ring|1998): „Ring – Das Original“ (1998): Wo finden Reiko (Nanako Matsushima) und Ryūji (Hiroyuki Sanada) den Brunnen mit Sadakos (Rie Inō) Überresten?
+- **HOR-S-044** (Ring|1998): „Ring – Das Original“ (1998): Warum überlebt Reiko (Nanako Matsushima), obwohl die Bergung Sadakos (Rie Inō) den Fluch nicht allgemein beendet?
+- **HOR-S-046** (The Conjuring|2013): „Conjuring – Die Heimsuchung“ (2013): Womit hilft Lorraine (Vera Farmiga) Carolyn (Lili Taylor) im Finale, gegen die Besessenheit anzukämpfen?
+- **HOR-L-047** (Saw|2004): „Saw“ (2004): In welchem Raum erwachen Adam (Leigh Whannell) und Dr. Gordon angekettet?
+- **HOR-L-048** (Saw|2004): „Saw“ (2004): Welchen Beruf hat Lawrence Gordon (Cary Elwes)?
+- **HOR-M-047** (Saw|2004): „Saw“ (2004): Welche Frau berichtet der Polizei, eine von Jigsaws (Tobin Bell) Fallen überlebt zu haben?
+- **HOR-M-048** (Saw|2004): „Saw“ (2004): Warum befolgt Zep (Michael Emerson) die gegen Gordons Familie gerichteten Anweisungen?
+- **HOR-S-048** (Saw|2004): „Saw“ (2004): Was geschah zu Beginn mit dem Schlüssel für Adams (Leigh Whannell) Fessel?
+- **HOR-L-049** (Get Out|2017): „Get Out“ (2017): Welchen Beruf hat Chris Washington (Daniel Kaluuya)?
+- **HOR-M-049** (Get Out|2017): „Get Out“ (2017): Welches Geräusch nutzt Missy (Catherine Keener) als Auslöser für Chris' hypnotischen Zustand?
+- **HOR-S-050** (Get Out|2017): „Get Out“ (2017): Wodurch unterbricht Chris im Finale vorübergehend die Kontrolle über Walter (Marcus Henderson)?
+- **HOR-M-001-V1** (Halloween|1978): „Halloween – Die Nacht des Grauens“ (1978): Wessen Psychiater war Dr. Loomis (Donald Pleasence), bevor er nach Haddonfield kommt?
+- **HOR-M-002-V1** (Halloween|1978): „Halloween – Die Nacht des Grauens“ (1978): Welche Verantwortung übernimmt Laurie (Jamie Lee Curtis) gegenüber Tommy (Brian Andrews) und Lindsey (Kyle Richards)?
+- **HOR-S-001-V1** (Halloween|1978): „Halloween – Die Nacht des Grauens“ (1978): Welche Wirkung erzielt Laurie (Jamie Lee Curtis) mit dem Drahtkleiderbügel im Schrank?
+- **HOR-S-002-V1** (Halloween|1978): „Halloween – Die Nacht des Grauens“ (1978): Warum kann Loomis (Donald Pleasence) nach den Schüssen keinen endgültigen Erfolg feststellen?
+- **HOR-L-014-V1** (Scream|1996): „Scream – Schrei!“ (1996): Was bezeichnet der Name Ghostface (Originalstimme: Roger L. Jackson) in dieser Geschichte zunächst?
+- **HOR-M-013-V1** (Scream|1996): „Scream – Schrei!“ (1996): Welche Aufgabe übernimmt Randy (Jamie Kennedy) während der Party gegenüber seinen Freunden?
+- **HOR-M-014-V1** (Scream|1996): „Scream – Schrei!“ (1996): Welche Jugendliche ist Dewey Rileys (David Arquette) Schwester?
+- **HOR-S-013-V1** (Scream|1996): „Scream – Schrei!“ (1996): Wie lässt sich erklären, dass Ghostface (Originalstimme: Roger L. Jackson) handeln kann, während einer der später enttarnten Täter scheinbar entlastet ist?
+- **HOR-S-014-V1** (Scream|1996): „Scream – Schrei!“ (1996): Welche falsche Geschichte wollen Billy (Skeet Ulrich) und Stu (Matthew Lillard) durch Neils (Lawrence Hecht) Gefangenschaft ermöglichen?
+- **HOR-M-017-V1** (The Shining|1980): „Shining“ (1980): Warum kann Danny (Danny Lloyd) sich mit dem Koch Hallorann (Scatman Crothers) auf besondere Weise verständigen?
+- **HOR-M-018-V1** (The Shining|1980): „Shining“ (1980): Welche Entdeckung erschüttert Wendys (Shelley Duvall) Glauben daran, dass Jack (Jack Nicholson) an einem gewöhnlichen Buch arbeitet?
+- **HOR-S-017-V1** (The Shining|1980): „Shining“ (1980): Warum verliert Jack (Jack Nicholson) im Labyrinth die eindeutige Spur zu Danny (Danny Lloyd)?
+- **HOR-S-018-V1** (The Shining|1980): „Shining“ (1980): Welche konkrete Hilfe von Hallorann (Scatman Crothers) ermöglicht Wendy (Shelley Duvall) und Danny (Danny Lloyd) trotz seines Todes die Flucht?
+- **HOR-M-044-V1** (Ring|1998): „Ring – Das Original“ (1998): Welche gemeinsame Vergangenheit erklärt Reikos (Nanako Matsushima) familiäres Vertrauen zu Ryūji (Hiroyuki Sanada)?
+- **HOR-S-043-V1** (Ring|1998): „Ring – Das Original“ (1998): Warum müssen Reiko (Nanako Matsushima) und Ryūji (Hiroyuki Sanada) zur Ferienhütte zurück, um Sadakos (Rie Inō) Überreste zu suchen?
+- **HOR-M-049-V1** (Get Out|2017): „Get Out“ (2017): Welche Funktion bekommt Missys (Catherine Keener) scheinbar beiläufiges Rühren in der Teetasse?
+- **HOR-S-050-V1** (Get Out|2017): „Get Out“ (2017): Welche bereits beobachtete Wirkung nutzt Chris mit dem Handy gegen Walters (Marcus Henderson) Fremdsteuerung?
+- **FAN-M-002** (The Lord of the Rings: The Fellowship of the Ring|2001): „Der Herr der Ringe: Die Gefährten“ (2001): Warum möchte Boromir (Sean Bean) den Ring zunächst für Gondor nutzen?
+- **FAN-S-001** (The Lord of the Rings: The Fellowship of the Ring|2001): „Der Herr der Ringe: Die Gefährten“ (2001): Warum überlebt Frodo (Elijah Wood) den Stoß des Höhlentrolls in Moria?
+- **FAN-S-002** (The Lord of the Rings: The Fellowship of the Ring|2001): „Der Herr der Ringe: Die Gefährten“ (2001): Wer bringt den verwundeten Frodo (Elijah Wood) im Film zu Pferd über die Furt vor Bruchtal?
+- **FAN-L-003** (The Lord of the Rings: The Two Towers|2002): „Der Herr der Ringe: Die zwei Türme“ (2002): Wer führt Frodo (Elijah Wood) und Sam auf einem verborgenen Weg in Richtung Mordor?
+- **FAN-L-004** (The Lord of the Rings: The Two Towers|2002): „Der Herr der Ringe: Die zwei Türme“ (2002): In welcher Festung suchen die Menschen Rohans Schutz vor Sarumans (Christopher Lee) Heer?
+- **FAN-M-003** (The Lord of the Rings: The Two Towers|2002): „Der Herr der Ringe: Die zwei Türme“ (2002): In welcher veränderten Rolle kehrt Gandalf (Ian McKellen) nach seinem Kampf mit dem Balrog zurück?
+- **FAN-M-004** (The Lord of the Rings: The Two Towers|2002): „Der Herr der Ringe: Die zwei Türme“ (2002): Was bringt Baumbart (Originalstimme: John Rhys-Davies) im Film dazu, gegen Isengart zu ziehen?
+- **FAN-S-004** (The Lord of the Rings: The Two Towers|2002): „Der Herr der Ringe: Die zwei Türme“ (2002): In welche umkämpfte Stadt bringt Faramir (David Wenham) Frodo (Elijah Wood) und Sam, bevor er sie weiterziehen lässt?
+- **FAN-M-005** (The Lord of the Rings: The Return of the King|2003): „Der Herr der Ringe: Die Rückkehr des Königs“ (2003): Wer versetzt dem Hexenkönig nach Merrys (Dominic Monaghan) Eingreifen den tödlichen Stoß?
+- **FAN-M-006** (The Lord of the Rings: The Return of the King|2003): „Der Herr der Ringe: Die Rückkehr des Königs“ (2003): Warum kann Aragorn (Viggo Mortensen) das Heer der Toten zur Hilfe auffordern?
+- **FAN-S-005** (The Lord of the Rings: The Return of the King|2003): „Der Herr der Ringe: Die Rückkehr des Königs“ (2003): Warum müssen Pippin (Billy Boyd) und Gandalf (Ian McKellen) Faramir (David Wenham) vor Denethor retten?
+- **FAN-S-006** (The Lord of the Rings: The Return of the King|2003): „Der Herr der Ringe: Die Rückkehr des Königs“ (2003): Wie hilft Sam (Sean Astin), als Frodo (Elijah Wood) den letzten Aufstieg kaum noch bewältigen kann?
+- **FAN-M-007** (The Hobbit: An Unexpected Journey|2012): „Der Hobbit: Eine unerwartete Reise“ (2012): Welche Rolle ist Bilbo (Martin Freeman) im Plan der Gruppe zugedacht?
+- **FAN-M-008** (The Hobbit: An Unexpected Journey|2012): „Der Hobbit: Eine unerwartete Reise“ (2012): Womit versucht Bilbo (Martin Freeman), sich bei Gollum (Andy Serkis) einen Weg nach draußen zu verdienen?
+- **FAN-S-007** (The Hobbit: An Unexpected Journey|2012): „Der Hobbit: Eine unerwartete Reise“ (2012): Wie nutzt Gandalf (Ian McKellen) das Tageslicht, um die Trolle aufzuhalten?
+- **FAN-S-008** (The Hobbit: An Unexpected Journey|2012): „Der Hobbit: Eine unerwartete Reise“ (2012): Warum tötet Bilbo (Martin Freeman) den ahnungslosen Gollum (Andy Serkis) nicht, obwohl er unsichtbar entkommen könnte?
+- **FAN-L-009** (The Hobbit: The Desolation of Smaug|2013): „Der Hobbit: Smaugs Einöde“ (2013): Was für ein Wesen ist Smaug (Originalstimme: Benedict Cumberbatch)?
+- **FAN-M-009** (The Hobbit: The Desolation of Smaug|2013): „Der Hobbit: Smaugs Einöde“ (2013): In welches Tier kann sich Beorn (Mikael Persbrandt) verwandeln?
+- **FAN-M-010** (The Hobbit: The Desolation of Smaug|2013): „Der Hobbit: Smaugs Einöde“ (2013): Wie befreit Bilbo (Martin Freeman) die Zwerge aus dem Reich der Waldelben?
+- **FAN-S-010** (The Hobbit: The Desolation of Smaug|2013): „Der Hobbit: Smaugs Einöde“ (2013): Womit versuchen die Zwerge im Berg, Smaug (Originalstimme: Benedict Cumberbatch) zu überwältigen?
+- **FAN-L-011** (The Hobbit: The Battle of the Five Armies|2014): „Der Hobbit: Die Schlacht der fünf Heere“ (2014): Womit tötet Bard (Luke Evans) den Drachen Smaug (Originalstimme: Benedict Cumberbatch)?
+- **FAN-L-012** (The Hobbit: The Battle of the Five Armies|2014): „Der Hobbit: Die Schlacht der fünf Heere“ (2014): Was verändert Thorins (Richard Armitage) Verhalten nach der Rückeroberung des Berges besonders stark?
+- **FAN-M-011** (The Hobbit: The Battle of the Five Armies|2014): „Der Hobbit: Die Schlacht der fünf Heere“ (2014): Warum übergibt Bilbo den Arkenstein an Bard (Luke Evans) und Thranduil (Lee Pace)?
+- **FAN-M-012** (The Hobbit: The Battle of the Five Armies|2014): „Der Hobbit: Die Schlacht der fünf Heere“ (2014): In welcher Beziehung steht der Zwergenführer Dáin (Billy Connolly) zu Thorin (Richard Armitage)?
+- **FAN-L-013** (Harry Potter and the Philosopher's Stone|2001): „Harry Potter und der Stein der Weisen“ (2001): Wie heißt die Schule, an der Harry (Daniel Radcliffe) Magie lernt?
+- **FAN-L-014** (Harry Potter and the Philosopher's Stone|2001): „Harry Potter und der Stein der Weisen“ (2001): Welches Tier schenkt Hagrid Harry (Daniel Radcliffe) zum Geburtstag?
+- **FAN-S-014** (Harry Potter and the Philosopher's Stone|2001): „Harry Potter und der Stein der Weisen“ (2001): Warum erhält Harry (Daniel Radcliffe) den Stein aus dem Spiegel?
+- **FAN-L-015** (Harry Potter and the Chamber of Secrets|2002): „Harry Potter und die Kammer des Schreckens“ (2002): Wer warnt Harry (Daniel Radcliffe) davor, nach Hogwarts zurückzukehren?
+- **FAN-M-015** (Harry Potter and the Chamber of Secrets|2002): „Harry Potter und die Kammer des Schreckens“ (2002): Welches Mädchen gerät besonders unter den Einfluss von Riddles (Christian Coulson) Tagebuch?
+- **FAN-M-016** (Harry Potter and the Chamber of Secrets|2002): „Harry Potter und die Kammer des Schreckens“ (2002): Mit welchem Kleidungsstück gelingt Harry (Daniel Radcliffe) Dobbys (Originalstimme: Toby Jones) Befreiung?
+- **FAN-S-015** (Harry Potter and the Chamber of Secrets|2002): „Harry Potter und die Kammer des Schreckens“ (2002): Womit zerstört Harry (Daniel Radcliffe) Riddles (Christian Coulson) Tagebuch?
+- **FAN-L-017** (Harry Potter and the Prisoner of Azkaban|2004): „Harry Potter und der Gefangene von Askaban“ (2004): Welcher aus Askaban entflohene Mann gilt zunächst als Gefahr für Harry (Daniel Radcliffe)?
+- **FAN-L-018** (Harry Potter and the Prisoner of Azkaban|2004): „Harry Potter und der Gefangene von Askaban“ (2004): Welchen Gegenstand nutzt Hermine (Emma Watson) für Reisen um wenige Stunden zurück?
+- **FAN-M-017** (Harry Potter and the Prisoner of Azkaban|2004): „Harry Potter und der Gefangene von Askaban“ (2004): Wer verbirgt sich hinter Rons (Rupert Grint) Ratte Krätze?
+- **FAN-M-018** (Harry Potter and the Prisoner of Azkaban|2004): „Harry Potter und der Gefangene von Askaban“ (2004): Welche persönliche Verbindung hat Sirius (Gary Oldman) zu Harry (Daniel Radcliffe)?
+- **FAN-S-017** (Harry Potter and the Prisoner of Azkaban|2004): „Harry Potter und der Gefangene von Askaban“ (2004): Wer erzeugt den rettenden Patronus am See, den Harry (Daniel Radcliffe) zunächst seinem Vater zuschreibt?
+- **FAN-S-018** (Harry Potter and the Prisoner of Azkaban|2004): „Harry Potter und der Gefangene von Askaban“ (2004): Was ermöglicht Pettigrew (Timothy Spall) die Flucht nach seiner Enttarnung?
+- **FAN-L-019** (Harry Potter and the Goblet of Fire|2005): „Harry Potter und der Feuerkelch“ (2005): An welchem gefährlichen Wettbewerb muss Harry (Daniel Radcliffe) teilnehmen?
+- **FAN-M-019** (Harry Potter and the Goblet of Fire|2005): „Harry Potter und der Feuerkelch“ (2005): Wer gibt Harry (Daniel Radcliffe) im Film das Dianthuskraut für die Unterwasseraufgabe?
+- **FAN-S-020** (Harry Potter and the Goblet of Fire|2005): „Harry Potter und der Feuerkelch“ (2005): Warum braucht Voldemorts (Ralph Fiennes) Ritual Harry (Daniel Radcliffe) lebend am Friedhof?
+- **FAN-L-022** (Harry Potter and the Order of the Phoenix|2007): „Harry Potter und der Orden des Phönix“ (2007): Wie heißt Harrys (Daniel Radcliffe) geheime Übungsgruppe für Verteidigungszauber?
+- **FAN-M-021** (Harry Potter and the Order of the Phoenix|2007): „Harry Potter und der Orden des Phönix“ (2007): Was macht Umbridges (Imelda Staunton) Strafarbeit für Harry (Daniel Radcliffe) besonders grausam?
+- **FAN-M-022** (Harry Potter and the Order of the Phoenix|2007): „Harry Potter und der Orden des Phönix“ (2007): Wer tötet Sirius Black (Gary Oldman) im Kampf im Ministerium?
+- **FAN-S-021** (Harry Potter and the Order of the Phoenix|2007): „Harry Potter und der Orden des Phönix“ (2007): Warum führt Harrys (Daniel Radcliffe) Vision von Sirius' (Gary Oldman) Folter ins Ministerium?
+- **FAN-S-022** (Harry Potter and the Order of the Phoenix|2007): „Harry Potter und der Orden des Phönix“ (2007): Wozu soll Snapes (Alan Rickman) Okklumentik-Unterricht Harry (Daniel Radcliffe) befähigen?
+- **FAN-L-024** (Harry Potter and the Half-Blood Prince|2009): „Harry Potter und der Halbblutprinz“ (2009): Wer unterrichtet Harry (Daniel Radcliffe) in diesem Schuljahr in Zaubertränke?
+- **FAN-S-023** (Harry Potter and the Half-Blood Prince|2009): „Harry Potter und der Halbblutprinz“ (2009): Was erkennt Harry (Daniel Radcliffe) nach Dumbledores (Michael Gambon) Tod über das Medaillon aus der Höhle?
+- **FAN-S-024** (Harry Potter and the Half-Blood Prince|2009): „Harry Potter und der Halbblutprinz“ (2009): Welche Information soll Harry (Daniel Radcliffe) aus Slughorns (Jim Broadbent) unverfälschter Erinnerung gewinnen?
+- **FAN-L-025** (Harry Potter and the Deathly Hallows – Part 1|2010): „Harry Potter und die Heiligtümer des Todes – Teil 1“ (2010): Welches Ziel verfolgen Harry (Daniel Radcliffe), Ron (Rupert Grint) und Hermine (Emma Watson) auf ihrer Reise?
+- **FAN-M-025** (Harry Potter and the Deathly Hallows – Part 1|2010): „Harry Potter und die Heiligtümer des Todes – Teil 1“ (2010): Welchen Gegenstand vermacht Dumbledore (Michael Gambon) Ron (Rupert Grint)?
+- **FAN-S-025** (Harry Potter and the Deathly Hallows – Part 1|2010): „Harry Potter und die Heiligtümer des Todes – Teil 1“ (2010): Warum verrät Xenophilius Lovegood (Rhys Ifans) den Aufenthaltsort des Trios?
+- **FAN-M-027** (Harry Potter and the Deathly Hallows – Part 2|2011): „Harry Potter und die Heiligtümer des Todes – Teil 2“ (2011): Wie entkommen Harry (Daniel Radcliffe), Ron (Rupert Grint) und Hermine (Emma Watson) schließlich aus Gringotts?
+- **FAN-M-028** (Harry Potter and the Deathly Hallows – Part 2|2011): „Harry Potter und die Heiligtümer des Todes – Teil 2“ (2011): Welche langjährige Bindung erklärt einen wesentlichen Teil von Snapes (Alan Rickman) Handeln?
+- **FAN-S-027** (Harry Potter and the Deathly Hallows – Part 2|2011): „Harry Potter und die Heiligtümer des Todes – Teil 2“ (2011): Warum gehört die Gefolgschaft des Elderstabs zuletzt Harry (Daniel Radcliffe)?
+- **FAN-S-028** (Harry Potter and the Deathly Hallows – Part 2|2011): „Harry Potter und die Heiligtümer des Todes – Teil 2“ (2011): Was macht Harry (Daniel Radcliffe) im Film nach dem Sieg mit dem Elderstab?
+- **FAN-L-029** (The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005): „Die Chroniken von Narnia: Der König von Narnia“ (2005): Durch welchen Gegenstand gelangt Lucy (Georgie Henley) erstmals nach Narnia?
+- **FAN-L-030** (The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005): „Die Chroniken von Narnia: Der König von Narnia“ (2005): In welcher Tiergestalt erscheint Aslan (Originalstimme: Liam Neeson)?
+- **FAN-M-029** (The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005): „Die Chroniken von Narnia: Der König von Narnia“ (2005): Womit lockt die Weiße Hexe (Tilda Swinton) Edmund zunächst besonders wirkungsvoll?
+- **FAN-M-030** (The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005): „Die Chroniken von Narnia: Der König von Narnia“ (2005): Was für ein Wesen ist Herr Tumnus (James McAvoy)?
+- **FAN-S-029** (The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005): „Die Chroniken von Narnia: Der König von Narnia“ (2005): Warum lässt Aslan (Originalstimme: Liam Neeson) sich von der Weißen Hexe (Tilda Swinton) töten?
+- **FAN-L-031** (The Chronicles of Narnia: Prince Caspian|2008): „Die Chroniken von Narnia: Prinz Kaspian von Narnia“ (2008): Gegen welchen Verwandten muss Prinz Kaspian (Ben Barnes) seinen Anspruch verteidigen?
+- **FAN-L-032** (The Chronicles of Narnia: Prince Caspian|2008): „Die Chroniken von Narnia: Prinz Kaspian von Narnia“ (2008): Was für ein Tier ist der kämpferische Riepischiep (Originalstimme: Eddie Izzard)?
+- **FAN-M-031** (The Chronicles of Narnia: Prince Caspian|2008): „Die Chroniken von Narnia: Prinz Kaspian von Narnia“ (2008): Welches Instrument bläst Kaspian (Ben Barnes), um in seiner Not Hilfe zu rufen?
+- **FAN-S-031** (The Chronicles of Narnia: Prince Caspian|2008): „Die Chroniken von Narnia: Prinz Kaspian von Narnia“ (2008): Wer verhindert die Rückkehr der Weißen Hexe (Tilda Swinton), indem er die Eiswand zerschlägt?
+- **FAN-S-032** (The Chronicles of Narnia: Prince Caspian|2008): „Die Chroniken von Narnia: Prinz Kaspian von Narnia“ (2008): Warum wird Kaspians (Ben Barnes) Lage unmittelbar nach der Geburt seines Cousins lebensgefährlich?
+- **FAN-L-034** (The Chronicles of Narnia: The Voyage of the Dawn Treader|2010): „Die Chroniken von Narnia: Die Reise auf der Morgenröte“ (2010): Wie ist Eustachius (Will Poulter) mit Lucy (Georgie Henley) und Edmund (Skandar Keynes) verwandt?
+- **FAN-M-033** (The Chronicles of Narnia: The Voyage of the Dawn Treader|2010): „Die Chroniken von Narnia: Die Reise auf der Morgenröte“ (2010): Wie gelangen Lucy (Georgie Henley), Edmund (Skandar Keynes) und Eustachius (Will Poulter) in diesem Film nach Narnia?
+- **FAN-M-034** (The Chronicles of Narnia: The Voyage of the Dawn Treader|2010): „Die Chroniken von Narnia: Die Reise auf der Morgenröte“ (2010): In welches Wesen verwandelt sich Eustachius (Will Poulter) nach dem Kontakt mit einem Drachenschatz?
+- **FAN-S-033** (The Chronicles of Narnia: The Voyage of the Dawn Treader|2010): „Die Chroniken von Narnia: Die Reise auf der Morgenröte“ (2010): Was müssen die Reisenden im Film an Aslans (Originalstimme: Liam Neeson) Tisch zusammenbringen, um den grünen Nebel zu besiegen?
+- **FAN-S-034** (The Chronicles of Narnia: The Voyage of the Dawn Treader|2010): „Die Chroniken von Narnia: Die Reise auf der Morgenröte“ (2010): Was führt Aslan Lucy (Georgie Henley) nach ihrem Wunsch vor Augen, wie Susan zu sein?
+- **FAN-L-035** (The Princess Bride|1987): „Die Braut des Prinzen“ (1987): Wen liebt Buttercup bereits vor ihrer geplanten Hochzeit mit Prinz Humperdinck (Chris Sarandon)?
+- **FAN-M-035** (The Princess Bride|1987): „Die Braut des Prinzen“ (1987): Warum sucht Inigo Montoya (Mandy Patinkin) den Mann mit sechs Fingern?
+- **FAN-S-035** (The Princess Bride|1987): „Die Braut des Prinzen“ (1987): Wie sichert Westley (Cary Elwes) seinen Sieg beim Giftduell gegen Vizzini (Wallace Shawn)?
+- **FAN-S-036** (The Princess Bride|1987): „Die Braut des Prinzen“ (1987): Was erklärt Westley (Cary Elwes) über den Namen des gefürchteten Piraten Roberts?
+- **FAN-L-039** (The NeverEnding Story|1984): „Die unendliche Geschichte“ (1984): Was für ein Wesen ist Fuchur (Originalstimme: Alan Oppenheimer)?
+- **FAN-M-039** (The NeverEnding Story|1984): „Die unendliche Geschichte“ (1984): Wo zieht Bastian (Barret Oliver) sich zurück, um das geheimnisvolle Buch zu lesen?
+- **FAN-M-040** (The NeverEnding Story|1984): „Die unendliche Geschichte“ (1984): Was geschieht mit Atréjus (Noah Hathaway) Pferd Artax in den Sümpfen der Traurigkeit?
+- **FAN-S-039** (The NeverEnding Story|1984): „Die unendliche Geschichte“ (1984): Was sieht Atréju (Noah Hathaway) im magischen Spiegel auf dem Weg zum Südlichen Orakel?
+- **FAN-S-040** (The NeverEnding Story|1984): „Die unendliche Geschichte“ (1984): Was muss Bastian (Barret Oliver) tun, um der Kindlichen Kaiserin (Tami Stronach) und Phantásien zu helfen?
+- **FAN-L-042** (Labyrinth|1986): „Die Reise ins Labyrinth“ (1986): Wen will Sarah (Jennifer Connelly) aus Jareths (David Bowie) Schloss zurückholen?
+- **FAN-M-041** (Labyrinth|1986): „Die Reise ins Labyrinth“ (1986): Welche besondere Hilfe kann Ludo (Originalstimme: Ron Mueck) herbeirufen?
+- **FAN-M-042** (Labyrinth|1986): „Die Reise ins Labyrinth“ (1986): Was löst Sarahs (Jennifer Connelly) traumhaften Aufenthalt auf dem Maskenball aus?
+- **FAN-S-041** (Labyrinth|1986): „Die Reise ins Labyrinth“ (1986): Welche Einsicht beendet Sarahs (Jennifer Connelly) Unterwerfung unter Jareth (David Bowie)?
+- **FAN-S-042** (Labyrinth|1986): „Die Reise ins Labyrinth“ (1986): Wie reagiert Sarahs (Jennifer Connelly) Gruppe, nachdem Hoggle (Originalstimme: Brian Henson) trotz seines Verrats bei der Torwache hilft?
+- **FAN-L-044** (Legend|1985): „Legende“ (1985): Welche Tiere will der Herr der Finsternis (Tim Curry) vernichten?
+- **FAN-M-043** (Legend|1985): „Legende“ (1985): Warum taucht Jack (Tom Cruise) in den Teich, kurz bevor dieser zufriert?
+- **FAN-S-043** (Legend|1985): „Legende“ (1985): Wie bringen Jacks (Tom Cruise) Verbündete Sonnenlicht in den inneren Bereich des Schlosses?
+- **FAN-S-044** (Legend|1985): „Legende“ (1985): Was tut Lili (Mia Sara) tatsächlich, als sie scheinbar bereit ist, das letzte Einhorn zu töten?
+- **FAN-L-045** (Stardust|2007): „Der Sternwanderer“ (2007): Was ist Yvaine (Claire Danes) in Wirklichkeit?
+- **FAN-L-046** (Stardust|2007): „Der Sternwanderer“ (2007): Für wen will Tristan (Charlie Cox) den gefallenen Stern zunächst als Liebesbeweis holen?
+- **FAN-M-046** (Stardust|2007): „Der Sternwanderer“ (2007): Warum jagen die Hexen Yvaine (Claire Danes)?
+- **FAN-S-045** (Stardust|2007): „Der Sternwanderer“ (2007): Welche Beobachtung zeigt Tristan (Charlie Cox), dass Yvaine (Claire Danes) die Grenze zur Menschenwelt nicht überqueren darf?
+- **FAN-S-046** (Stardust|2007): „Der Sternwanderer“ (2007): Warum kann Tristan (Charlie Cox) am Ende den Thron von Stormhold beanspruchen?
+- **FAN-M-047** (El laberinto del fauno|2006): „Pans Labyrinth“ (2006): Wodurch weckt Ofelia (Ivana Baquero) den bleichen Mann während ihrer Aufgabe?
+- **FAN-M-048** (El laberinto del fauno|2006): „Pans Labyrinth“ (2006): Wem hilft Mercedes (Maribel Verdú) heimlich mit Informationen und Vorräten?
+- **FAN-S-047** (El laberinto del fauno|2006): „Pans Labyrinth“ (2006): Welche Forderung des Fauns weist Ofelia (Ivana Baquero) bei der letzten Aufgabe zurück?
+- **FAN-S-048** (El laberinto del fauno|2006): „Pans Labyrinth“ (2006): Wie beantwortet Mercedes (Maribel Verdú) Vidals (Sergi López) Wunsch, seinem Sohn von seinem Tod zu erzählen?
+- **FAN-L-050** (Edward Scissorhands|1990): „Edward mit den Scherenhänden“ (1990): Wer findet Edward (Johnny Depp) im abgelegenen Haus und nimmt ihn bei sich auf?
+- **FAN-M-049** (Edward Scissorhands|1990): „Edward mit den Scherenhänden“ (1990): Warum hat Edward (Johnny Depp) keine gewöhnlichen Hände?
+- **FAN-M-050** (Edward Scissorhands|1990): „Edward mit den Scherenhänden“ (1990): Mit welcher Arbeit begeistert Edward (Johnny Depp) die Nachbarschaft zunächst besonders?
+- **FAN-S-049** (Edward Scissorhands|1990): „Edward mit den Scherenhänden“ (1990): Wie schützt Kim (Winona Ryder) Edward (Johnny Depp) nach Jims (Anthony Michael Hall) Tod vor der herannahenden Menge?
+- **FAN-M-001-V1** (The Lord of the Rings: The Fellowship of the Ring|2001): „Der Herr der Ringe: Die Gefährten“ (2001): Unter welchem Namen begegnet Aragorn (Viggo Mortensen) den Hobbits zunächst in Bree?
+- **FAN-M-002-V1** (The Lord of the Rings: The Fellowship of the Ring|2001): „Der Herr der Ringe: Die Gefährten“ (2001): Welche Haltung zum Ring bringt Boromir (Sean Bean) zunächst in Konflikt mit dem Vernichtungsplan?
+- **FAN-S-001-V1** (The Lord of the Rings: The Fellowship of the Ring|2001): „Der Herr der Ringe: Die Gefährten“ (2001): Welches Geschenk Bilbos (Ian Holm) erweist sich im Kampf gegen den Höhlentroll als lebensrettend?
+- **FAN-S-002-V1** (The Lord of the Rings: The Fellowship of the Ring|2001): „Der Herr der Ringe: Die Gefährten“ (2001): Welche Aufgabe übernimmt Arwen (Liv Tyler) bei Frodos (Elijah Wood) Flucht vor den Ringgeistern?
+- **FAN-L-013-V1** (Harry Potter and the Philosopher's Stone|2001): „Harry Potter und der Stein der Weisen“ (2001): Welche Einrichtung ist Hogwarts in Harrys (Daniel Radcliffe) neu entdeckter Welt?
+- **FAN-L-014-V1** (Harry Potter and the Philosopher's Stone|2001): „Harry Potter und der Stein der Weisen“ (2001): Von wem erhält Harry (Daniel Radcliffe) seine Eule als Geburtstagsgeschenk?
+- **FAN-M-013-V1** (Harry Potter and the Philosopher's Stone|2001): „Harry Potter und der Stein der Weisen“ (2001): Warum sieht Harry (Daniel Radcliffe) im Spiegel Nerhegeb seine Eltern bei sich?
+- **FAN-M-014-V1** (Harry Potter and the Philosopher's Stone|2001): „Harry Potter und der Stein der Weisen“ (2001): Welche Stärke macht Ron (Rupert Grint) beim Weg zum Stein der Weisen besonders wichtig?
+- **FAN-S-013-V1** (Harry Potter and the Philosopher's Stone|2001): „Harry Potter und der Stein der Weisen“ (2001): Was wird sichtbar, als Quirrell (Ian Hart) am Ende seinen Turban abnimmt?
+- **FAN-L-029-V1** (The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005): „Die Chroniken von Narnia: Der König von Narnia“ (2005): Welche Entdeckung macht Lucy (Georgie Henley), als sie sich im Möbelstück versteckt?
+- **FAN-M-029-V1** (The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005): „Die Chroniken von Narnia: Der König von Narnia“ (2005): Welches Bedürfnis nutzt die Hexe (Tilda Swinton), als sie Edmund Süßigkeiten und königliche Macht verspricht?
+- **FAN-M-030-V1** (The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005): „Die Chroniken von Narnia: Der König von Narnia“ (2005): Welche Figur erkennt Lucy (Georgie Henley) an menschlichem Oberkörper und Ziegenbeinen?
+- **FAN-S-029-V1** (The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005): „Die Chroniken von Narnia: Der König von Narnia“ (2005): Wessen drohende Bestrafung übernimmt Aslan (Originalstimme: Liam Neeson) durch sein freiwilliges Opfer?
+- **FAN-M-040-V1** (The NeverEnding Story|1984): „Die unendliche Geschichte“ (1984): Warum kann Atréju (Noah Hathaway) Artax in den Sümpfen nicht zum Weitergehen bewegen?
+- **FAN-S-039-V1** (The NeverEnding Story|1984): „Die unendliche Geschichte“ (1984): Welcher Moment macht die Verbindung zwischen Atréju (Noah Hathaway) und dem lesenden Bastian (Barret Oliver) besonders deutlich?
+- **FAN-S-040-V1** (The NeverEnding Story|1984): „Die unendliche Geschichte“ (1984): Warum reicht Bastians (Barret Oliver) stilles Weiterlesen für die Rettung am Ende nicht aus?
+- **FAN-L-045-V1** (Stardust|2007): „Der Sternwanderer“ (2007): Wen findet Tristan (Charlie Cox) an der Stelle, an der er einen gefallenen Himmelskörper erwartet?
+- **FAN-L-046-V1** (Stardust|2007): „Der Sternwanderer“ (2007): Welches ursprüngliche Motiv bringt Tristan (Charlie Cox) dazu, den Stern zu suchen?
+- **FAN-M-046-V1** (Stardust|2007): „Der Sternwanderer“ (2007): Was wollen die Hexen von Yvaine (Claire Danes) gewinnen, um ihren Verfall aufzuhalten?
+- **FAN-S-045-V1** (Stardust|2007): „Der Sternwanderer“ (2007): Warum eilt Tristan (Charlie Cox) nach dem Zerfall von Yvaines (Claire Danes) Haarlocke zur Mauer zurück?
+- **FAN-S-046-V1** (Stardust|2007): „Der Sternwanderer“ (2007): Welche Verbindung zu Tristan (Charlie Cox) erklärt Unas (Kate Magowan) Zugehörigkeit zur Königsfamilie?
+- **KOM-L-002** (The Big Lebowski|1998): „The Big Lebowski“ (1998): Welcher Sport gehört zum festen Alltag des Dude (Jeff Bridges) und seiner Freunde?
+- **KOM-M-001** (The Big Lebowski|1998): „The Big Lebowski“ (1998): Weshalb sucht der Dude (Jeff Bridges) den wohlhabenden Mann mit demselben Namen zunächst auf?
+- **KOM-M-002** (The Big Lebowski|1998): „The Big Lebowski“ (1998): Auf welche Kriegserfahrung kommt Walter (John Goodman) immer wieder zurück?
+- **KOM-S-001** (The Big Lebowski|1998): „The Big Lebowski“ (1998): Was steckt tatsächlich hinter Bunnys (Tara Reid) angeblicher Entführung?
+- **KOM-S-002** (The Big Lebowski|1998): „The Big Lebowski“ (1998): Worin transportieren Walter (John Goodman) und der Dude (Jeff Bridges) Donnys (Steve Buscemi) Asche zur Küste?
+- **KOM-M-003** (A Fish Called Wanda|1988): „Ein Fisch namens Wanda“ (1988): Welche berufliche Verbindung hat Archie (John Cleese) zu George (Tom Georgeson)?
+- **KOM-M-004** (A Fish Called Wanda|1988): „Ein Fisch namens Wanda“ (1988): Als was geben Wanda (Jamie Lee Curtis) und Otto (Kevin Kline) ihre tatsächliche Liebesbeziehung aus?
+- **KOM-S-003** (A Fish Called Wanda|1988): „Ein Fisch namens Wanda“ (1988): Wo findet Wanda (Jamie Lee Curtis) den Schlüssel zum Versteck der Diamanten?
+- **KOM-S-004** (A Fish Called Wanda|1988): „Ein Fisch namens Wanda“ (1988): Mit welchem Fahrzeug rächt sich Ken (Michael Palin) am Ende an Otto (Kevin Kline)?
+- **KOM-L-006** (Monty Python's Life of Brian|1979): „Das Leben des Brian“ (1979): Für wen halten Brians (Graham Chapman) Anhänger ihn irrtümlich?
+- **KOM-M-005** (Monty Python's Life of Brian|1979): „Das Leben des Brian“ (1979): Welcher politischen Gruppe schließt Brian (Graham Chapman) sich an?
+- **KOM-M-006** (Monty Python's Life of Brian|1979): „Das Leben des Brian“ (1979): Wie reagiert ein römischer Soldat zunächst auf Brians (Graham Chapman) fehlerhaftes lateinisches Graffito?
+- **KOM-S-005** (Monty Python's Life of Brian|1979): „Das Leben des Brian“ (1979): Warum führt die angekündigte Begnadigung nicht zu Brians (Graham Chapman) Freilassung?
+- **KOM-S-006** (Monty Python's Life of Brian|1979): „Das Leben des Brian“ (1979): Worin liegt die Pointe, als Brian (Graham Chapman) die Menge zur Eigenständigkeit auffordert?
+- **KOM-L-007** (Monty Python and the Holy Grail|1975): „Die Ritter der Kokosnuss“ (1975): Womit wird das Geräusch von Artus’ (Graham Chapman) angeblichem Pferd erzeugt?
+- **KOM-L-008** (Monty Python and the Holy Grail|1975): „Die Ritter der Kokosnuss“ (1975): Welchen Gegenstand sollen Artus (Graham Chapman) und seine Ritter suchen?
+- **KOM-M-007** (Monty Python and the Holy Grail|1975): „Die Ritter der Kokosnuss“ (1975): Was fordern die Ritter, die „Ni“ sagen, zunächst von Artus (Graham Chapman)?
+- **KOM-S-007** (Monty Python and the Holy Grail|1975): „Die Ritter der Kokosnuss“ (1975): Mit welcher Rückfrage bringt Artus (Graham Chapman) den Brückenwächter aus dem Konzept?
+- **KOM-M-009** (Airplane!|1980): „Die unglaubliche Reise in einem verrückten Flugzeug“ (1980): Warum steigt Ted (Robert Hays) überhaupt in diesen Linienflug?
+- **KOM-M-010** (Airplane!|1980): „Die unglaubliche Reise in einem verrückten Flugzeug“ (1980): Welche Tätigkeit übt Elaine (Julie Hagerty) an Bord aus?
+- **KOM-S-010** (Airplane!|1980): „Die unglaubliche Reise in einem verrückten Flugzeug“ (1980): Welche Vorgeschichte verbindet Kramer mit Ted (Robert Hays)?
+- **KOM-L-012** (The Naked Gun: From the Files of Police Squad!|1988): „Die nackte Kanone“ (1988): Welche prominente Besucherin soll Drebin (Leslie Nielsen) vor einem Attentat schützen?
+- **KOM-M-011** (The Naked Gun: From the Files of Police Squad!|1988): „Die nackte Kanone“ (1988): In welcher beruflichen Beziehung steht Jane (Priscilla Presley) zunächst zu Vincent Ludwig (Ricardo Montalbán)?
+- **KOM-S-012** (The Naked Gun: From the Files of Police Squad!|1988): „Die nackte Kanone“ (1988): Warum gibt Drebin (Leslie Nielsen) sich beim Baseballspiel als Schiedsrichter aus?
+- **KOM-M-013** (The Blues Brothers|1980): „The Blues Brothers“ (1980): Woher kommt Jake (John Belushi) zu Beginn der Geschichte?
+- **KOM-S-013** (The Blues Brothers|1980): „The Blues Brothers“ (1980): Warum verfolgt die geheimnisvolle bewaffnete Frau vor allem Jake (John Belushi)?
+- **KOM-L-016** (Young Frankenstein|1974): „Frankenstein Junior“ (1974): Wie heißt Fredericks (Gene Wilder) buckliger Helfer?
+- **KOM-M-015** (Young Frankenstein|1974): „Frankenstein Junior“ (1974): Wie ist Frederick (Gene Wilder) mit dem berüchtigten Victor Frankenstein verwandt?
+- **KOM-M-016** (Young Frankenstein|1974): „Frankenstein Junior“ (1974): Welchen Fehler macht Igor (Marty Feldman) beim Beschaffen des Gehirns?
+- **KOM-S-015** (Young Frankenstein|1974): „Frankenstein Junior“ (1974): Mit welcher öffentlichen Darbietung will Frederick (Gene Wilder) die Kultiviertheit seiner Kreatur (Peter Boyle) beweisen?
+- **KOM-S-016** (Young Frankenstein|1974): „Frankenstein Junior“ (1974): Was macht die Kreatur (Peter Boyle) am Ende geistig so viel differenzierter?
+- **KOM-M-017** (Spaceballs|1987): „Spaceballs“ (1987): Welche ungewöhnliche Form hat Lone Starrs (Bill Pullman) Raumschiff?
+- **KOM-M-018** (Spaceballs|1987): „Spaceballs“ (1987): Als welche Mischung beschreibt sich Waldi (John Candy)?
+- **KOM-S-018** (Spaceballs|1987): „Spaceballs“ (1987): Was lernt Lone Starr (Bill Pullman) über die Quelle seiner besonderen Kraft?
+- **KOM-M-019** (Galaxy Quest|1999): „Galaxy Quest – Planlos durchs Weltall“ (1999): Warum ist Alexander (Alan Rickman) von seiner Rolle als Dr. Lazarus besonders frustriert?
+- **KOM-M-020** (Galaxy Quest|1999): „Galaxy Quest – Planlos durchs Weltall“ (1999): Wie hilft der junge Fan Brandon (Justin Long) der Besatzung entscheidend?
+- **KOM-S-020** (Galaxy Quest|1999): „Galaxy Quest – Planlos durchs Weltall“ (1999): Warum fürchtet Guy (Sam Rockwell) besonders, als Erster zu sterben?
+- **KOM-L-022** (Hot Fuzz|2007): „Hot Fuzz – Zwei abgewichste Profis“ (2007): In welchen scheinbar idyllischen Ort wird Angel (Simon Pegg) versetzt?
+- **KOM-M-021** (Hot Fuzz|2007): „Hot Fuzz – Zwei abgewichste Profis“ (2007): Warum wollen Angels (Simon Pegg) Londoner Kollegen ihn loswerden?
+- **KOM-M-022** (Hot Fuzz|2007): „Hot Fuzz – Zwei abgewichste Profis“ (2007): Welche Verbindung besteht zwischen Danny (Nick Frost) und dem örtlichen Polizeichef Frank Butterman (Jim Broadbent)?
+- **KOM-L-024** (Shaun of the Dead|2004): „Shaun of the Dead“ (2004): Welchen Ort wählt Shaun (Simon Pegg) als vermeintlich sicheren Zufluchtsort?
+- **KOM-M-023** (Shaun of the Dead|2004): „Shaun of the Dead“ (2004): Was belastet Liz (Kate Ashfield) an ihrer Beziehung zu Shaun (Simon Pegg) besonders?
+- **KOM-M-024** (Shaun of the Dead|2004): „Shaun of the Dead“ (2004): In welchem familiären Verhältnis steht Philip (Bill Nighy) zu Shaun (Simon Pegg)?
+- **KOM-S-024** (Shaun of the Dead|2004): „Shaun of the Dead“ (2004): Wie bleibt Ed am Ende Teil von Shauns (Simon Pegg) Leben?
+- **KOM-M-026** (The Hangover|2009): „Hangover“ (2009): Welchen Beruf hat Stu (Ed Helms)?
+- **KOM-L-028** (Superbad|2007): „Superbad“ (2007): Welcher einzelne Name steht auf Fogells (Christopher Mintz-Plasse) gefälschtem Ausweis?
+- **KOM-S-027** (Superbad|2007): „Superbad“ (2007): Welche bevorstehende Veränderung belastet die Freundschaft von Seth und Evan (Michael Cera)?
+- **KOM-S-028** (Superbad|2007): „Superbad“ (2007): Was geben die Polizisten Fogell (Christopher Mintz-Plasse) später über seinen Ausweis zu verstehen?
+- **KOM-M-029** (Tropic Thunder|2008): „Tropic Thunder“ (2008): Welche Funktion hat Les Grossman (Tom Cruise) im Filmgeschäft?
+- **KOM-M-030** (Tropic Thunder|2008): „Tropic Thunder“ (2008): Was wird über den angeblichen Kriegsveteranen Tayback (Nick Nolte) enthüllt?
+- **KOM-S-030** (Tropic Thunder|2008): „Tropic Thunder“ (2008): Welchen beruflichen Erfolg erreicht Tugg (Ben Stiller) am Ende mit dem Material des wirklichen Abenteuers?
+- **KOM-L-032** (Ferris Bueller's Day Off|1986): „Ferris macht blau“ (1986): In welcher Großstadt verbringen Ferris (Matthew Broderick) und seine Freunde den geschwänzten Schultag?
+- **KOM-M-032** (Ferris Bueller's Day Off|1986): „Ferris macht blau“ (1986): Mit welchem erfundenen Familienereignis wird Sloane (Mia Sara) aus der Schule geholt?
+- **KOM-S-032** (Ferris Bueller's Day Off|1986): „Ferris macht blau“ (1986): Wie verhält Jeanie (Jennifer Grey) sich gegenüber Ferris (Matthew Broderick) am Ende, als Rooney ihn stellen will?
+- **KOM-M-034** (Groundhog Day|1993): „Und täglich grüßt das Murmeltier“ (1993): Welche Funktion hat Rita (Andie MacDowell) im Fernsehteam?
+- **KOM-L-036** (Home Alone|1990): „Kevin – Allein zu Haus“ (1990): Wohin reist Kevins (Macaulay Culkin) Familie, während er versehentlich zu Hause bleibt?
+- **KOM-M-035** (Home Alone|1990): „Kevin – Allein zu Haus“ (1990): Weshalb nennen sich Harry (Joe Pesci) und Marv (Daniel Stern) die „nassen Banditen“?
+- **KOM-M-036** (Home Alone|1990): „Kevin – Allein zu Haus“ (1990): Wie hilft Gus (John Candy) Kevins (Macaulay Culkin) Mutter auf ihrem Rückweg?
+- **KOM-S-035** (Home Alone|1990): „Kevin – Allein zu Haus“ (1990): Welches private Problem vertraut Marley (Roberts Blossom) Kevin (Macaulay Culkin) in der Kirche an?
+- **KOM-S-036** (Home Alone|1990): „Kevin – Allein zu Haus“ (1990): Womit greift Marley (Roberts Blossom) ein, als die Einbrecher Kevin (Macaulay Culkin) schließlich erwischen?
+- **KOM-L-038** (National Lampoon's Christmas Vacation|1989): „Schöne Bescherung“ (1989): Was ist Clarks (Chevy Chase) großes persönliches Vorhaben für die Feiertage?
+- **KOM-M-037** (National Lampoon's Christmas Vacation|1989): „Schöne Bescherung“ (1989): Womit reist Cousin Eddie (Randy Quaid) überraschend an?
+- **KOM-S-038** (National Lampoon's Christmas Vacation|1989): „Schöne Bescherung“ (1989): Wie setzt Eddie (Randy Quaid) Clarks (Chevy Chase) wütende Worte über seinen Chef in die Tat um?
+- **KOM-M-039** (Trading Places|1983): „Die Glücksritter“ (1983): Wer unterstützt den abgestürzten Winthorpe (Dan Aykroyd) und nimmt ihn bei sich auf?
+- **KOM-S-041** (Pappa ante portas|1991): „Pappa ante portas“ (1991): Was relativiert beim Familientreffen Renates (Evelyn Hamann) Blick auf die scheinbar vorbildliche Ehe von Hedwig (Irm Hermann) und Hellmuth?
+- **KOM-S-042** (Pappa ante portas|1991): „Pappa ante portas“ (1991): Welche gemeinsame Beschäftigung zeigt die vorsichtige Harmonie von Heinrich und Renate (Evelyn Hamann) am Ende?
+- **KOM-M-043** (Ödipussi|1988): „Ödipussi“ (1988): Welchen Beruf hat Margarethe (Evelyn Hamann)?
+- **KOM-M-044** (Ödipussi|1988): „Ödipussi“ (1988): In welches Land führt eine Geschäftsreise, auf der Paul und Margarethe (Evelyn Hamann) sich näherkommen?
+- **KOM-S-043** (Ödipussi|1988): „Ödipussi“ (1988): Wie reagiert Louise (Katharina Brauren) auf Pauls wachsende Selbstständigkeit unter anderem?
+- **KOM-S-044** (Ödipussi|1988): „Ödipussi“ (1988): Was macht das Schlussbild mit Louise (Katharina Brauren) am Steuer und dem Paar auf der Rückbank deutlich?
+- **KOM-M-045** (Death at a Funeral|2007): „Sterben für Anfänger“ (2007): Welchen Beruf hat Daniels (Matthew Macfadyen) Bruder Robert (Rupert Graves)?
+- **KOM-M-046** (Death at a Funeral|2007): „Sterben für Anfänger“ (2007): Warum beginnt Simon (Alan Tudyk) sich auf der Beerdigung auffällig zu verhalten?
+- **KOM-S-045** (Death at a Funeral|2007): „Sterben für Anfänger“ (2007): Womit versucht Peter (Peter Dinklage), Geld von Daniel (Matthew Macfadyen) und Robert (Rupert Graves) zu erpressen?
+- **KOM-S-046** (Death at a Funeral|2007): „Sterben für Anfänger“ (2007): Wo verstecken die Männer Peter (Peter Dinklage), nachdem sie ihn irrtümlich für tot halten?
+- **KOM-L-047** (Bienvenue chez les Ch'tis|2008): „Willkommen bei den Sch’tis“ (2008): In welchem Berufsfeld arbeitet Philippe Abrams (Kad Merad)?
+- **KOM-M-047** (Bienvenue chez les Ch'tis|2008): „Willkommen bei den Sch’tis“ (2008): Wohin wird Philippe (Kad Merad) gegen seinen ursprünglichen Wunsch versetzt?
+- **KOM-M-048** (Bienvenue chez les Ch'tis|2008): „Willkommen bei den Sch’tis“ (2008): Mit welcher Täuschung wollte Philippe (Kad Merad) zunächst eine bevorzugte Versetzung erreichen?
+- **KOM-S-048** (Bienvenue chez les Ch'tis|2008): „Willkommen bei den Sch’tis“ (2008): Welcher musikalischen Tätigkeit geht Antoine (Dany Boon) neben seiner Postarbeit nach?
+- **KOM-M-049** (The Grand Budapest Hotel|2014): „Grand Budapest Hotel“ (2014): Welches Kunstwerk vermacht Madame D. Gustave (Ralph Fiennes)?
+- **KOM-M-050** (The Grand Budapest Hotel|2014): „Grand Budapest Hotel“ (2014): Wie gelangen Hilfsmittel für Gustaves (Ralph Fiennes) Gefängnisausbruch unauffällig hinein?
+- **KOM-S-049** (The Grand Budapest Hotel|2014): „Grand Budapest Hotel“ (2014): Welches Netzwerk unterstützt Gustave (Ralph Fiennes) und den jungen Zero auf ihrer Suche?
+- **KOM-L-002-V1** (The Big Lebowski|1998): „The Big Lebowski“ (1998): Welcher Treffpunkt verbindet den Dude (Jeff Bridges) regelmäßig mit Walter (John Goodman) und Donny (Steve Buscemi)?
+- **KOM-M-002-V1** (The Big Lebowski|1998): „The Big Lebowski“ (1998): Warum passt eine Bemerkung über Vietnam besonders gut zu Walters (John Goodman) Gesprächsverhalten?
+- **KOM-S-002-V1** (The Big Lebowski|1998): „The Big Lebowski“ (1998): Welcher alltägliche Behälter ersetzt bei Donnys (Steve Buscemi) Abschied eine würdevollere Urne?
+- **KOM-L-006-V1** (Monty Python's Life of Brian|1979): „Das Leben des Brian“ (1979): Wie reagieren Brians (Graham Chapman) Anhänger auf seine Ablehnung der Erlöserrolle?
+- **KOM-M-006-V1** (Monty Python's Life of Brian|1979): „Das Leben des Brian“ (1979): Welche überraschende Rolle übernimmt der römische Soldat gegenüber dem Graffiti schreibenden Brian (Graham Chapman)?
+- **KOM-M-010-V1** (Airplane!|1980): „Die unglaubliche Reise in einem verrückten Flugzeug“ (1980): In welcher beruflichen Funktion begegnet Elaine (Julie Hagerty) den Passagieren?
+- **KOM-S-010-V1** (Airplane!|1980): „Die unglaubliche Reise in einem verrückten Flugzeug“ (1980): Warum ist die Hilfe des Bodenexperten Kramer für Ted (Robert Hays) auch persönlich belastet?
+- **KOM-L-016-V1** (Young Frankenstein|1974): „Frankenstein Junior“ (1974): Welche Figur wird von Marty Feldman gespielt und unterstützt Frederick (Gene Wilder) im Schloss?
+- **KOM-M-016-V1** (Young Frankenstein|1974): „Frankenstein Junior“ (1974): Worin weicht das eingesetzte Gehirn von Fredericks (Gene Wilder) ursprünglichem Plan ab?
+- **KOM-S-016-V1** (Young Frankenstein|1974): „Frankenstein Junior“ (1974): Wodurch kann die Kreatur (Peter Boyle) am Ende ihre Lage wesentlich differenzierter ausdrücken?
+- **KOM-S-020-V1** (Galaxy Quest|1999): „Galaxy Quest – Planlos durchs Weltall“ (1999): Welche Serienkonvention bezieht Guy (Sam Rockwell) voller Angst auf sich selbst?
+- **KOM-M-026-V1** (The Hangover|2009): „Hangover“ (2009): Weshalb ist Stus (Ed Helms) fehlender Zahn besonders ironisch?
+- **KOM-L-032-V1** (Ferris Bueller's Day Off|1986): „Ferris macht blau“ (1986): Welche Stadt bildet die Bühne für Ferris’ (Matthew Broderick) Ausflug mit Cameron (Alan Ruck) und Sloane (Mia Sara)?
+- **KOM-M-032-V1** (Ferris Bueller's Day Off|1986): „Ferris macht blau“ (1986): Welcher Vorwand bringt die Schule dazu, Sloane (Mia Sara) vom Unterricht freizugeben?
+- **KOM-S-032-V1** (Ferris Bueller's Day Off|1986): „Ferris macht blau“ (1986): Wer hilft Ferris (Matthew Broderick) zuletzt gegen Rooney, obwohl diese Person sich zuvor über ihn geärgert hat?
+- **KOM-L-036-V1** (Home Alone|1990): „Kevin – Allein zu Haus“ (1990): Welcher Reiseort erklärt die große Entfernung zwischen Kevin (Macaulay Culkin) und seiner Familie?
+- **KOM-M-036-V1** (Home Alone|1990): „Kevin – Allein zu Haus“ (1990): Welche Art von Reisenden ermöglicht Kate (Catherine O'Hara) schließlich die Weiterfahrt nach Hause?
+- **KOM-S-036-V1** (Home Alone|1990): „Kevin – Allein zu Haus“ (1990): Welche Hilfe beendet Kevins (Macaulay Culkin) unmittelbare Gefahr, nachdem Harry (Joe Pesci) und Marv (Daniel Stern) ihn gefasst haben?
+- **KOM-M-048-V1** (Bienvenue chez les Ch'tis|2008): „Willkommen bei den Sch’tis“ (2008): Welche unlautere Methode setzt Philippe (Kad Merad) ein, um seinen Wunschdienstort zu bekommen?
+- **KOM-S-048-V1** (Bienvenue chez les Ch'tis|2008): „Willkommen bei den Sch’tis“ (2008): Welche örtliche Klangtradition ist mit Antoine (Dany Boon) persönlich verbunden?
+- **WES-M-001** (Per un pugno di dollari|1964): „Für eine Handvoll Dollar“ (1964): Weshalb hilft der Fremde Marisol (Marianne Koch) und ihrer Familie heimlich?
+- **WES-S-001** (Per un pugno di dollari|1964): „Für eine Handvoll Dollar“ (1964): Womit schützt sich der Fremde beim abschließenden Duell vor Ramóns (Gian Maria Volonté) Schüssen?
+- **WES-L-003** (Per qualche dollaro in più|1965): „Für ein paar Dollar mehr“ (1965): Welchen Beruf üben Monco (Clint Eastwood) und Colonel Mortimer (Lee Van Cleef) aus?
+- **WES-M-003** (Per qualche dollaro in più|1965): „Für ein paar Dollar mehr“ (1965): Welche Bank will El Indios (Gian Maria Volonté) Bande ausrauben?
+- **WES-M-004** (Per qualche dollaro in più|1965): „Für ein paar Dollar mehr“ (1965): Welcher der beiden Kopfgeldjäger schleust sich in El Indios (Gian Maria Volonté) Bande ein?
+- **WES-S-003** (Per qualche dollaro in più|1965): „Für ein paar Dollar mehr“ (1965): In welchem Verhältnis steht Mortimer (Lee Van Cleef) zur Frau auf dem Foto in der Spieluhr?
+- **WES-S-004** (Per qualche dollaro in più|1965): „Für ein paar Dollar mehr“ (1965): Wie stellt Monco (Clint Eastwood) vor dem letzten Duell faire Ausgangsbedingungen für Mortimer (Lee Van Cleef) her?
+- **WES-M-005** (Il buono, il brutto, il cattivo|1966): „Zwei glorreiche Halunken“ (1966): Wie verdienen Blondie (Clint Eastwood) und Tuco (Eli Wallach) anfangs gemeinsam Geld?
+- **WES-S-005** (Il buono, il brutto, il cattivo|1966): „Zwei glorreiche Halunken“ (1966): Wie ist das Wissen um das Goldversteck zunächst zwischen Tuco (Eli Wallach) und Blondie (Clint Eastwood) verteilt?
+- **WES-S-006** (Il buono, il brutto, il cattivo|1966): „Zwei glorreiche Halunken“ (1966): Warum kann Tuco (Eli Wallach) beim finalen Dreierduell nicht schießen?
+- **WES-M-008** (C'era una volta il West|1968): „Spiel mir das Lied vom Tod“ (1968): Wen soll Franks (Henry Fonda) Bande durch falsche Spuren für das Familienmassaker verantwortlich machen?
+- **WES-S-007** (C'era una volta il West|1968): „Spiel mir das Lied vom Tod“ (1968): Welches Erlebnis erklärt Mundharmonikas (Charles Bronson) Jagd auf Frank (Henry Fonda)?
+- **WES-S-008** (C'era una volta il West|1968): „Spiel mir das Lied vom Tod“ (1968): Was tut Jill (Claudia Cardinale) im Schlussbild für die Eisenbahnarbeiter?
+- **WES-L-009** (Giù la testa|1971): „Todesmelodie“ (1971): Auf welchem Gebiet ist John Mallory (James Coburn) besonders erfahren?
+- **WES-L-010** (Giù la testa|1971): „Todesmelodie“ (1971): In welchem Land gerät Juan (Rod Steiger) in die Revolution?
+- **WES-M-009** (Giù la testa|1971): „Todesmelodie“ (1971): Was entdeckt Juan (Rod Steiger) in der vermeintlich reichen Bank von Mesa Verde?
+- **WES-M-010** (Giù la testa|1971): „Todesmelodie“ (1971): Mit welchem für den Western ungewöhnlichen Fahrzeug begegnet John (James Coburn) dem Banditen Juan (Rod Steiger)?
+- **WES-S-009** (Giù la testa|1971): „Todesmelodie“ (1971): Warum ist Johns (James Coburn) Reaktion auf Villegas (Romolo Valli) Verrat so persönlich geprägt?
+- **WES-S-010** (Giù la testa|1971): „Todesmelodie“ (1971): Was geschieht mit Villega (Romolo Valli) bei der Sprengung des Militärzuges?
+- **WES-L-012** (Django|1966): „Django“ (1966): Was zieht Django (Franco Nero) zu Beginn hinter sich her?
+- **WES-M-011** (Django|1966): „Django“ (1966): Welche Waffe verbirgt Django (Franco Nero) in seinem Sarg?
+- **WES-M-012** (Django|1966): „Django“ (1966): Wen schützt Django (Franco Nero) nach einer Misshandlung durch bewaffnete Männer?
+- **WES-S-012** (Django|1966): „Django“ (1966): Wie kann Django (Franco Nero) trotz verletzter Hände im letzten Kampf schießen?
+- **WES-L-014** (Il mio nome è Nessuno|1973): „Mein Name ist Nobody“ (1973): Was möchte Jack Beauregard (Henry Fonda) zu Beginn seiner letzten Reise?
+- **WES-M-013** (Il mio nome è Nessuno|1973): „Mein Name ist Nobody“ (1973): Gegen wen soll Beauregard (Henry Fonda) nach Nobodys (Terence Hill) Wunsch allein antreten?
+- **WES-S-013** (Il mio nome è Nessuno|1973): „Mein Name ist Nobody“ (1973): Was macht Beauregards (Henry Fonda) Schüsse gegen die heranreitende Horde besonders wirksam?
+- **WES-L-016** (Unforgiven|1992): „Erbarmungslos“ (1992): Warum nimmt William Munny (Clint Eastwood) den Auftrag zur Jagd auf zwei Cowboys an?
+- **WES-M-016** (Unforgiven|1992): „Erbarmungslos“ (1992): Welche Tätigkeit übt W. W. Beauchamp (Saul Rubinek) aus?
+- **WES-S-015** (Unforgiven|1992): „Erbarmungslos“ (1992): Was gesteht der Schofield Kid (Jaimz Woolvett) nach seinem tödlichen Schuss?
+- **WES-S-016** (Unforgiven|1992): „Erbarmungslos“ (1992): Welche Nachricht löst Munnys (Clint Eastwood) Rückkehr zum Saloon aus?
+- **WES-L-017** (The Outlaw Josey Wales|1976): „Der Texaner“ (1976): Welches Ereignis treibt Josey Wales (Clint Eastwood) in den bewaffneten Kampf?
+- **WES-M-018** (The Outlaw Josey Wales|1976): „Der Texaner“ (1976): Was entsteht um Josey Wales (Clint Eastwood) während seiner Flucht?
+- **WES-S-017** (The Outlaw Josey Wales|1976): „Der Texaner“ (1976): Wie verhindert Josey Wales (Clint Eastwood) einen Kampf mit Ten Bears (Will Sampson)?
+- **WES-S-018** (The Outlaw Josey Wales|1976): „Der Texaner“ (1976): Wie verhält sich Fletcher (John Vernon), als er Josey Wales (Clint Eastwood) am Ende wiedertrifft?
+- **WES-L-020** (Pale Rider|1985): „Pale Rider – Der namenlose Reiter“ (1985): Wem hilft der Prediger (Clint Eastwood) gegen Coy LaHood (Richard Dysart)?
+- **WES-M-020** (Pale Rider|1985): „Pale Rider – Der namenlose Reiter“ (1985): Wen lässt LaHood gegen den Prediger (Clint Eastwood) und die Goldsucher kommen?
+- **WES-S-019** (Pale Rider|1985): „Pale Rider – Der namenlose Reiter“ (1985): Was bemerkt Hull (Michael Moriarty) am Rücken des Fremden?
+- **WES-S-020** (Pale Rider|1985): „Pale Rider – Der namenlose Reiter“ (1985): Wer erschießt LaHood, als dieser auf den Prediger (Clint Eastwood) zielt?
+- **WES-M-022** (Dances with Wolves|1990): „Der mit dem Wolf tanzt“ (1990): Welchen verlassenen Außenposten bezieht Dunbar (Kevin Costner)?
+- **WES-S-021** (Dances with Wolves|1990): „Der mit dem Wolf tanzt“ (1990): Warum kehrt Dunbar (Kevin Costner) vor dem Aufbruch ins Winterlager noch einmal zum Fort zurück?
+- **WES-S-022** (Dances with Wolves|1990): „Der mit dem Wolf tanzt“ (1990): Was verhindert Dunbar (Kevin Costner) mit seinem Abschied von der Gemeinschaft?
+- **WES-M-024** (The Wild Bunch|1969): „The Wild Bunch – Sie kannten kein Gesetz“ (1969): Welche Vergangenheit verbindet Thornton (Robert Ryan) mit Pike (William Holden)?
+- **WES-S-023** (The Wild Bunch|1969): „The Wild Bunch – Sie kannten kein Gesetz“ (1969): Warum lässt Angel (Jaime Sánchez) eine Kiste erbeuteter Gewehre abzweigen?
+- **WES-S-024** (The Wild Bunch|1969): „The Wild Bunch – Sie kannten kein Gesetz“ (1969): Weshalb kehren Pike (William Holden) und seine verbliebenen Gefährten zu Mapache (Emilio Fernández) zurück?
+- **WES-L-026** (Butch Cassidy and the Sundance Kid|1969): „Butch Cassidy und Sundance Kid“ (1969): In welches Land fliehen Butch (Paul Newman), Sundance (Robert Redford) und Etta (Katharine Ross)?
+- **WES-M-026** (Butch Cassidy and the Sundance Kid|1969): „Butch Cassidy und Sundance Kid“ (1969): Welche praktische Hilfe gibt Etta (Katharine Ross) den Männern in Bolivien?
+- **WES-S-025** (Butch Cassidy and the Sundance Kid|1969): „Butch Cassidy und Sundance Kid“ (1969): Was gesteht Sundance (Robert Redford) vor dem Sprung in den Fluss?
+- **WES-L-028** (Tombstone|1993): „Tombstone“ (1993): Was erhofft sich Wyatt Earp (Kurt Russell) zunächst vom Leben in Tombstone?
+- **WES-M-028** (Tombstone|1993): „Tombstone“ (1993): In welche Frau verliebt sich Wyatt (Kurt Russell) im Verlauf der Handlung?
+- **WES-S-027** (Tombstone|1993): „Tombstone“ (1993): Wer tritt Johnny Ringo (Michael Biehn) im entscheidenden Duell entgegen?
+- **WES-M-029** (True Grit|2010): „True Grit“ (2010): Welcher Organisation gehört LaBoeuf (Matt Damon) an?
+- **WES-M-030** (True Grit|2010): „True Grit“ (2010): Warum will Mattie Chaney (Josh Brolin) unbedingt nach Arkansas zurückbringen?
+- **WES-S-029** (True Grit|2010): „True Grit“ (2010): Wodurch gerät Mattie nach ihrem tödlichen Schuss auf Chaney (Josh Brolin) in akute Lebensgefahr?
+- **WES-S-030** (True Grit|2010): „True Grit“ (2010): Wer rettet Cogburn (Jeff Bridges) mit einem weiten Gewehrschuss vor Ned Pepper?
+- **WES-L-032** (3:10 to Yuma|2007): „Todeszug nach Yuma“ (2007): Wohin soll Dan (Christian Bale) den Gefangenen rechtzeitig bringen?
+- **WES-M-031** (3:10 to Yuma|2007): „Todeszug nach Yuma“ (2007): Warum meldet sich Dan (Christian Bale) für den gefährlichen Transport?
+- **WES-M-032** (3:10 to Yuma|2007): „Todeszug nach Yuma“ (2007): Wer führt Wades (Russell Crowe) Bande während dessen Gefangenschaft an?
+- **WES-S-031** (3:10 to Yuma|2007): „Todeszug nach Yuma“ (2007): Was will Dan (Christian Bale) seinem Sohn mit dem Durchhalten vor allem beweisen?
+- **WES-S-032** (3:10 to Yuma|2007): „Todeszug nach Yuma“ (2007): Wie reagiert Wade (Russell Crowe), nachdem Charlie Prince (Ben Foster) Dan (Christian Bale) erschossen hat?
+- **WES-L-033** (Open Range|2003): „Open Range“ (2003): Womit verdienen Boss Spearman (Robert Duvall) und Charley Waite (Kevin Costner) ihren Lebensunterhalt?
+- **WES-M-033** (Open Range|2003): „Open Range“ (2003): Welches Ereignis führt Boss (Robert Duvall) und Charley (Kevin Costner) erstmals in den Konflikt mit Harmonville?
+- **WES-M-034** (Open Range|2003): „Open Range“ (2003): In welchem Verhältnis steht Sue (Annette Bening) zum örtlichen Arzt?
+- **WES-S-033** (Open Range|2003): „Open Range“ (2003): Welche Vergangenheit belastet Charley (Kevin Costner) besonders?
+- **WES-S-034** (Open Range|2003): „Open Range“ (2003): Welchen beruflichen Neuanfang erwägt Boss (Robert Duvall) nach dem Kampf?
+- **WES-L-036** (Appaloosa|2008): „Appaloosa“ (2008): Wer arbeitet als Coles (Ed Harris) bewährter Partner und Deputy?
+- **WES-M-035** (Appaloosa|2008): „Appaloosa“ (2008): Warum engagiert die Stadt Cole (Ed Harris) und Hitch (Viggo Mortensen)?
+- **WES-M-036** (Appaloosa|2008): „Appaloosa“ (2008): Welche Neuankömmling beginnt eine Beziehung mit Cole (Ed Harris)?
+- **WES-S-035** (Appaloosa|2008): „Appaloosa“ (2008): Warum kann Bragg (Jeremy Irons) später offen nach Appaloosa zurückkehren?
+- **WES-S-036** (Appaloosa|2008): „Appaloosa“ (2008): Warum legt Hitch (Viggo Mortensen) vor seinem Duell mit Bragg (Jeremy Irons) das Amt nieder?
+- **WES-L-037** (The Man Who Shot Liberty Valance|1962): „Der Mann, der Liberty Valance erschoss“ (1962): Welchen Beruf hat Ransom Stoddard (James Stewart) bei seiner Ankunft im Westen?
+- **WES-S-037** (The Man Who Shot Liberty Valance|1962): „Der Mann, der Liberty Valance erschoss“ (1962): Wer gibt tatsächlich den tödlichen Schuss auf Liberty Valance (Lee Marvin) ab?
+- **WES-S-038** (The Man Who Shot Liberty Valance|1962): „Der Mann, der Liberty Valance erschoss“ (1962): Wie reagiert der Zeitungsredakteur auf Stoddards (James Stewart) wahre Geschichte?
+- **WES-L-040** (El Dorado|1966): „El Dorado“ (1966): Wer unterstützt seinen alten Freund Harrah (Robert Mitchum) gegen Bart Jason (Ed Asner)?
+- **WES-M-040** (El Dorado|1966): „El Dorado“ (1966): Worum geht es Bart Jason (Ed Asner) beim Druck auf die Familie MacDonald besonders?
+- **WES-S-039** (El Dorado|1966): „El Dorado“ (1966): Warum verliert Thornton (John Wayne) zeitweise die Kontrolle über seinen rechten Arm?
+- **WES-S-040** (El Dorado|1966): „El Dorado“ (1966): Wie macht Joey (Michele Carey) ihren früheren Angriff auf Thornton (John Wayne) am Ende teilweise wieder gut?
+- **WES-L-042** (The Gunfighter|1950): „Der Scharfschütze“ (1950): Was sucht Ringo (Gregory Peck) in Cayenne vor allem?
+- **WES-M-041** (The Gunfighter|1950): „Der Scharfschütze“ (1950): Was verbindet Marshal Mark Stratton mit Ringo (Gregory Peck)?
+- **WES-M-042** (The Gunfighter|1950): „Der Scharfschütze“ (1950): Warum provoziert Hunt Bromley (Skip Homeier) den berühmten Ringo (Gregory Peck)?
+- **WES-S-041** (The Gunfighter|1950): „Der Scharfschütze“ (1950): Welche Bedingung stellt Peggy (Helen Westcott) für die Aussicht auf einen gemeinsamen Neuanfang?
+- **WES-S-042** (The Gunfighter|1950): „Der Scharfschütze“ (1950): Warum behauptet der sterbende Ringo (Gregory Peck), er habe zuerst geschossen?
+- **WES-L-044** (Jeremiah Johnson|1972): „Jeremiah Johnson“ (1972): Wo versucht Johnson (Robert Redford) als Trapper ein neues Leben zu beginnen?
+- **WES-M-043** (Jeremiah Johnson|1972): „Jeremiah Johnson“ (1972): Wer vermittelt Johnson (Robert Redford) wichtige Fähigkeiten zum Überleben in den Bergen?
+- **WES-M-044** (Jeremiah Johnson|1972): „Jeremiah Johnson“ (1972): Mit wem bildet Johnson (Robert Redford) zeitweise eine Familie?
+- **WES-S-043** (Jeremiah Johnson|1972): „Jeremiah Johnson“ (1972): Welche Grenzverletzung auf der Rettungsexpedition führt zur Vergeltung gegen Johnsons (Robert Redford) Familie?
+- **WES-S-044** (Jeremiah Johnson|1972): „Jeremiah Johnson“ (1972): Welche Geste beendet die letzte Begegnung mit Paints His Shirt Red (Joaquín Martínez)?
+- **WES-M-046** (The Magnificent Seven|2016): „Die glorreichen Sieben“ (2016): Was ist Goodnight Robicheauxs (Ethan Hawke) besondere militärische Fähigkeit?
+- **WES-S-045** (The Magnificent Seven|2016): „Die glorreichen Sieben“ (2016): Wie zerstört Faraday (Chris Pratt) die Gatling-Kanone?
+- **WES-S-046** (The Magnificent Seven|2016): „Die glorreichen Sieben“ (2016): Welches persönliche Motiv verbirgt Chisholm (Denzel Washington) hinter seinem Einsatz gegen Bogue (Peter Sarsgaard)?
+- **WES-L-048** (Maverick|1994): „Maverick“ (1994): An welchem Wettbewerb möchte Bret (Mel Gibson) teilnehmen?
+- **WES-M-048** (Maverick|1994): „Maverick“ (1994): Wie verhält sich Annabelle (Jodie Foster) gegenüber Bret (Mel Gibson)?
+- **WES-S-047** (Maverick|1994): „Maverick“ (1994): Welche Verbindung zwischen Cooper (James Garner) und Bret (Mel Gibson) wird am Ende enthüllt?
+- **WES-S-048** (Maverick|1994): „Maverick“ (1994): Welche Karte vervollständigt Brets (Mel Gibson) Siegerblatt im entscheidenden Spiel?
+- **WES-L-049** (Il grande silenzio|1968): „Leichen pflastern seinen Weg“ (1968): Welche Besonderheit kennzeichnet den Revolvermann Silence (Jean-Louis Trintignant)?
+- **WES-M-050** (Il grande silenzio|1968): „Leichen pflastern seinen Weg“ (1968): Warum bittet Pauline (Vonetta McGee) Silence (Jean-Louis Trintignant) um Hilfe gegen Loco (Klaus Kinski)?
+- **WES-S-049** (Il grande silenzio|1968): „Leichen pflastern seinen Weg“ (1968): Warum provoziert Silence (Jean-Louis Trintignant) Gegner dazu, zuerst zu ziehen?
+- **WES-M-002-V1** (Per un pugno di dollari|1964): „Für eine Handvoll Dollar“ (1964): In welcher Stadt gerät Joe (Clint Eastwood) zwischen die Rojos und die Baxters?
+- **WES-S-006-V1** (Il buono, il brutto, il cattivo|1966): „Zwei glorreiche Halunken“ (1966): Welchen Vorteil hat Blondie (Clint Eastwood) im letzten Duell heimlich vorbereitet?
+- **WES-L-008-V1** (C'era una volta il West|1968): „Spiel mir das Lied vom Tod“ (1968): Welcher Anspruch macht Jill (Claudia Cardinale) zur entscheidenden Person im Streit um Sweetwater?
+- **WES-S-008-V1** (C'era una volta il West|1968): „Spiel mir das Lied vom Tod“ (1968): Welche Schlussgeste verbindet Jill (Claudia Cardinale) mit dem entstehenden Bahnhof und seiner Zukunft?
+- **WES-L-014-V1** (Il mio nome è Nessuno|1973): „Mein Name ist Nobody“ (1973): Warum empfindet Beauregard (Henry Fonda) Nobodys (Terence Hill) Forderung nach einem großen letzten Kampf als Belastung?
+- **WES-S-014-V1** (Il mio nome è Nessuno|1973): „Mein Name ist Nobody“ (1973): Welche Vorstellung sollen die Zuschauer des Schlussduells von Beauregard (Henry Fonda) gewinnen?
+- **WES-M-016-V1** (Unforgiven|1992): „Erbarmungslos“ (1992): Warum begleitet Beauchamp (Saul Rubinek) zunächst English Bob (Richard Harris)?
+- **WES-M-022-V1** (Dances with Wolves|1990): „Der mit dem Wolf tanzt“ (1990): Welcher Posten wird für Dunbar (Kevin Costner) zum einsamen Ausgangspunkt seiner Begegnungen mit den Lakota?
+- **WES-S-022-V1** (Dances with Wolves|1990): „Der mit dem Wolf tanzt“ (1990): Warum bleibt Dunbar (Kevin Costner) trotz seiner neuen Zugehörigkeit nicht bei der Gemeinschaft?
+- **WES-L-026-V1** (Butch Cassidy and the Sundance Kid|1969): „Butch Cassidy und Sundance Kid“ (1969): Wo versuchen die beiden Verfolgten mit Etta (Katharine Ross) einen Neuanfang?
+- **WES-M-026-V1** (Butch Cassidy and the Sundance Kid|1969): „Butch Cassidy und Sundance Kid“ (1969): Welche neue Hürde bei ihren Überfällen hilft Etta (Katharine Ross) den beiden Männern zu überwinden?
+- **WES-M-030-V1** (True Grit|2010): „True Grit“ (2010): Worin widerspricht Matties (Hailee Steinfeld) Ziel dem Auftrag des Texas Rangers (Matt Damon)?
+- **WES-S-030-V1** (True Grit|2010): „True Grit“ (2010): Wessen Können entscheidet, als Ned Pepper den eingeklemmten Cogburn (Jeff Bridges) bedroht?
+- **WES-L-032-V1** (3:10 to Yuma|2007): „Todeszug nach Yuma“ (2007): Welche konkrete Übergabe soll Dans (Christian Bale) Auftrag abschließen?
+- **WES-M-032-V1** (3:10 to Yuma|2007): „Todeszug nach Yuma“ (2007): Welche Figur zeigt ihre Treue zu Wade (Russell Crowe) durch die gewaltsame Verfolgung des Transportes?
+- **WES-S-032-V1** (3:10 to Yuma|2007): „Todeszug nach Yuma“ (2007): Gegen wen richtet sich Wades (Russell Crowe) Waffe unmittelbar nach Dans (Christian Bale) Tod?
+- **WES-L-048-V1** (Maverick|1994): „Maverick“ (1994): Wofür sammelt Bret (Mel Gibson) auf seiner Reise unbedingt Geld?
+- **WES-M-048-V1** (Maverick|1994): „Maverick“ (1994): Warum kann Bret (Mel Gibson) Annabelles (Jodie Foster) Flirt nicht einfach als sichere Loyalität verstehen?
+- **WES-S-048-V1** (Maverick|1994): „Maverick“ (1994): Welches Siegerblatt erreicht Bret (Mel Gibson) mit der letzten Karte?
+- **DRA-L-002** (The Shawshank Redemption|1994): „Die Verurteilten“ (1994): Welchen Beruf hatte Andy (Tim Robbins) vor seiner Verurteilung?
+- **DRA-M-001** (The Shawshank Redemption|1994): „Die Verurteilten“ (1994): Welchen kleinen Gegenstand besorgt Red (Morgan Freeman) für Andys (Tim Robbins) mineralogisches Hobby?
+- **DRA-M-002** (The Shawshank Redemption|1994): „Die Verurteilten“ (1994): Was möchte Andy (Tim Robbins) mit seinen beharrlichen Briefen an die Behörden erreichen?
+- **DRA-S-001** (The Shawshank Redemption|1994): „Die Verurteilten“ (1994): Weshalb gefährdet Tommys (Gil Bellows) Wissen den Gefängnisdirektor Norton (Bob Gunton)?
+- **DRA-S-002** (The Shawshank Redemption|1994): „Die Verurteilten“ (1994): Wo treffen Andy (Tim Robbins) und Red (Morgan Freeman) sich am Ende wieder?
+- **DRA-L-004** (The Green Mile|1999): „The Green Mile“ (1999): Welche Aufgabe hat Paul Edgecomb (Tom Hanks) in der Haupthandlung?
+- **DRA-M-003** (The Green Mile|1999): „The Green Mile“ (1999): Welches Tier hält Del (Michael Jeter) als Gefährten?
+- **DRA-M-004** (The Green Mile|1999): „The Green Mile“ (1999): Welche besondere Fähigkeit entdeckt Paul bei Coffey (Michael Clarke Duncan)?
+- **DRA-S-003** (The Green Mile|1999): „The Green Mile“ (1999): Weshalb lehnt Coffey (Michael Clarke Duncan) Pauls angebotene Fluchtmöglichkeit ab?
+- **DRA-S-004** (The Green Mile|1999): „The Green Mile“ (1999): Warum möchte Coffey (Michael Clarke Duncan) bei seiner Hinrichtung keine Haube tragen?
+- **DRA-M-006** (Forrest Gump|1994): „Forrest Gump“ (1994): Warum begegnet Lieutenant Dan (Gary Sinise) seiner Rettung durch Forrest zunächst mit Bitterkeit?
+- **DRA-M-007** (Schindler's List|1993): „Schindlers Liste“ (1993): Was stellt Schindlers (Liam Neeson) Fabrik zu Beginn hauptsächlich her?
+- **DRA-S-007** (Schindler's List|1993): „Schindlers Liste“ (1993): Welchem Zweck dient die von Schindler und Stern (Ben Kingsley) zusammengestellte Liste im Film?
+- **DRA-M-011** (Good Will Hunting|1997): „Good Will Hunting“ (1997): Wodurch wird Professor Lambeau (Stellan Skarsgård) auf Wills (Matt Damon) mathematische Fähigkeiten aufmerksam?
+- **DRA-M-012** (Good Will Hunting|1997): „Good Will Hunting“ (1997): Welche Rolle übernimmt Sean Maguire (Robin Williams) gegenüber Will?
+- **DRA-S-011** (Good Will Hunting|1997): „Good Will Hunting“ (1997): Was wünscht Chuckie (Ben Affleck) sich insgeheim bei seinen morgendlichen Besuchen?
+- **DRA-S-012** (Good Will Hunting|1997): „Good Will Hunting“ (1997): Wohin fährt Will am Ende, um Skylar (Minnie Driver) zu folgen?
+- **DRA-L-014** (Dead Poets Society|1989): „Der Club der toten Dichter“ (1989): Welches Fach unterrichtet Keating (Robin Williams)?
+- **DRA-M-013** (Dead Poets Society|1989): „Der Club der toten Dichter“ (1989): Welche lateinische Aufforderung prägt Keatings (Robin Williams) Unterricht besonders?
+- **DRA-S-013** (Dead Poets Society|1989): „Der Club der toten Dichter“ (1989): Welche Theaterrolle übernimmt Neil (Robert Sean Leonard) gegen den Willen seines Vaters?
+- **DRA-S-014** (Dead Poets Society|1989): „Der Club der toten Dichter“ (1989): Wie zeigen Todd (Ethan Hawke) und mehrere Mitschüler dem entlassenen Keating (Robin Williams) am Ende ihre Verbundenheit?
+- **DRA-L-016** (Rain Man|1988): „Rain Man“ (1988): Wie sind Charlie (Tom Cruise) und Raymond (Dustin Hoffman) miteinander verwandt?
+- **DRA-M-015** (Rain Man|1988): „Rain Man“ (1988): Was treibt Charlie (Tom Cruise) zunächst dazu, Raymond (Dustin Hoffman) aus der Einrichtung mitzunehmen?
+- **DRA-S-015** (Rain Man|1988): „Rain Man“ (1988): Bei welchem Casinospiel nutzt Charlie (Tom Cruise) Raymonds (Dustin Hoffman) außergewöhnliche Gedächtnisleistung?
+- **DRA-S-016** (Rain Man|1988): „Rain Man“ (1988): Was erkennt Charlie (Tom Cruise) über seinen kindlichen Ausdruck „Rain Man“?
+- **DRA-L-020** (Philadelphia|1993): „Philadelphia“ (1993): Gegen wen richtet sich Andrews (Tom Hanks) Klage?
+- **DRA-M-019** (Philadelphia|1993): „Philadelphia“ (1993): Wer übernimmt schließlich Andrews (Tom Hanks) anwaltliche Vertretung?
+- **DRA-M-020** (Philadelphia|1993): „Philadelphia“ (1993): Welcher beobachtete Vorfall trägt dazu bei, dass Joe (Denzel Washington) den Fall annimmt?
+- **DRA-S-019** (Philadelphia|1993): „Philadelphia“ (1993): Welche Beziehung hat Miguel (Antonio Banderas) zu Andrew (Tom Hanks)?
+- **DRA-S-020** (Philadelphia|1993): „Philadelphia“ (1993): Wie entscheidet die Jury über Andrews (Tom Hanks) Klage?
+- **DRA-M-022** (A Beautiful Mind|2001): „A Beautiful Mind – Genie und Wahnsinn“ (2001): Was erkennt Nash im Verlauf der Handlung über Charles (Paul Bettany) und Parcher (Ed Harris)?
+- **DRA-S-021** (A Beautiful Mind|2001): „A Beautiful Mind – Genie und Wahnsinn“ (2001): Welche Beobachtung hilft Nash, Marcee (Vivien Cardone) als nicht real zu erkennen?
+- **DRA-L-024** (American Beauty|1999): „American Beauty“ (1999): Wie ist Jane (Thora Birch) mit Lester (Kevin Spacey) und Carolyn (Annette Bening) verbunden?
+- **DRA-M-023** (American Beauty|1999): „American Beauty“ (1999): Welchen Beruf übt Carolyn (Annette Bening) aus?
+- **DRA-M-024** (American Beauty|1999): „American Beauty“ (1999): Mit welchem Gerät hält Ricky (Wes Bentley) seine Beobachtungen der Umgebung fest?
+- **DRA-S-023** (American Beauty|1999): „American Beauty“ (1999): Welches unscheinbare Objekt zeigt Ricky (Wes Bentley) Jane (Thora Birch) in einer besonders wichtigen Videoaufnahme?
+- **DRA-S-024** (American Beauty|1999): „American Beauty“ (1999): Auf wen weisen die Schlussbilder als Lesters (Kevin Spacey) Mörder hin?
+- **DRA-L-026** (American History X|1998): „American History X“ (1998): In welchem Verhältnis steht Danny (Edward Furlong) zu Derek (Edward Norton)?
+- **DRA-M-025** (American History X|1998): „American History X“ (1998): Worüber soll Danny (Edward Furlong) auf Anweisung von Schulleiter Sweeney (Avery Brooks) einen Aufsatz schreiben?
+- **DRA-M-026** (American History X|1998): „American History X“ (1998): Mit wem arbeitet Derek (Edward Norton) in der Gefängniswäscherei und entwickelt eine unerwartete Verbindung?
+- **DRA-S-026** (American History X|1998): „American History X“ (1998): Was versucht Derek (Edward Norton) nach seiner Entlassung vor allem in Bezug auf Danny (Edward Furlong)?
+- **DRA-M-027** (Gran Torino|2008): „Gran Torino“ (2008): Warum versucht Thao (Bee Vang), Walts (Clint Eastwood) Auto zu stehlen?
+- **DRA-M-028** (Gran Torino|2008): „Gran Torino“ (2008): Wie ist Sue (Ahney Her) mit Thao (Bee Vang) verwandt?
+- **DRA-S-027** (Gran Torino|2008): „Gran Torino“ (2008): Warum schließt Walt (Clint Eastwood) Thao (Bee Vang) vor der letzten Konfrontation im Keller ein?
+- **DRA-S-028** (Gran Torino|2008): „Gran Torino“ (2008): Wem vermacht Walt (Clint Eastwood) seinen Gran Torino?
+- **DRA-L-030** (Million Dollar Baby|2004): „Million Dollar Baby“ (2004): In welcher Sportart möchte Maggie (Hilary Swank) erfolgreich werden?
+- **DRA-M-029** (Million Dollar Baby|2004): „Million Dollar Baby“ (2004): Wer übernimmt schließlich Maggies (Hilary Swank) Training?
+- **DRA-M-030** (Million Dollar Baby|2004): „Million Dollar Baby“ (2004): Welche Verbindung hat Scrap (Morgan Freeman) zum Boxsport?
+- **DRA-S-029** (Million Dollar Baby|2004): „Million Dollar Baby“ (2004): Was verursacht Maggies (Hilary Swank) schwere Verletzung im Titelkampf?
+- **DRA-S-030** (Million Dollar Baby|2004): „Million Dollar Baby“ (2004): An wen richtet Scrap (Morgan Freeman) seine abschließende Erzählung über Frankie (Clint Eastwood)?
+- **DRA-L-032** (Manchester by the Sea|2016): „Manchester by the Sea“ (2016): In welchem Verhältnis steht Patrick zu Lee (Casey Affleck)?
+- **DRA-M-031** (Manchester by the Sea|2016): „Manchester by the Sea“ (2016): Welche unerwartete Verantwortung hat Joe seinem Bruder Lee (Casey Affleck) zugedacht?
+- **DRA-M-032** (Manchester by the Sea|2016): „Manchester by the Sea“ (2016): Weshalb widersetzt Patrick sich einem Umzug zu Lee (Casey Affleck) nach Boston?
+- **DRA-S-031** (Manchester by the Sea|2016): „Manchester by the Sea“ (2016): Welche frühere Tragödie erklärt Lees (Casey Affleck) besondere Belastung durch Manchester?
+- **DRA-S-032** (Manchester by the Sea|2016): „Manchester by the Sea“ (2016): Welche Lösung finden Lee (Casey Affleck) und Patrick am Ende?
+- **DRA-M-033** (Whiplash|2014): „Whiplash“ (2014): Welche Rolle hat Terence Fletcher (J. K. Simmons) an Andrews (Miles Teller) Ausbildungsstätte?
+- **DRA-M-034** (Whiplash|2014): „Whiplash“ (2014): Warum beendet Andrew seine Beziehung zu Nicole (Melissa Benoist)?
+- **DRA-S-033** (Whiplash|2014): „Whiplash“ (2014): Wie versucht Fletcher (J. K. Simmons), Andrew beim abschließenden Festivalauftritt bloßzustellen?
+- **DRA-M-035** (The Social Network|2010): „The Social Network“ (2010): Welche wichtige Funktion übernimmt Eduardo (Andrew Garfield) zu Beginn?
+- **DRA-M-036** (The Social Network|2010): „The Social Network“ (2010): Mit welchem früheren Internetdienst ist Sean Parker (Justin Timberlake) verbunden?
+- **DRA-S-035** (The Social Network|2010): „The Social Network“ (2010): Was löst Eduardos (Andrew Garfield) besonders heftigen Bruch mit Mark (Jesse Eisenberg) aus?
+- **DRA-S-037** (Stand by Me|1986): „Stand by Me – Das Geheimnis eines Sommers“ (1986): Worin bestärkt Chris (River Phoenix) seinen Freund Gordie besonders?
+- **DRA-L-040** (Das Leben der Anderen|2006): „Das Leben der Anderen“ (2006): Welcher Tätigkeit geht der überwachte Georg Dreyman (Sebastian Koch) nach?
+- **DRA-M-040** (Das Leben der Anderen|2006): „Das Leben der Anderen“ (2006): Warum verwendet Dreyman (Sebastian Koch) für seinen kritischen Artikel eine eingeschmuggelte Schreibmaschine?
+- **DRA-S-039** (Das Leben der Anderen|2006): „Das Leben der Anderen“ (2006): Was tut Wiesler (Ulrich Mühe) vor der entscheidenden Durchsuchung?
+- **DRA-S-040** (Das Leben der Anderen|2006): „Das Leben der Anderen“ (2006): Woran erkennt Wiesler (Ulrich Mühe) am Ende Dreymans (Sebastian Koch) Dank?
+- **DRA-M-041** (Das Boot|1981): „Das Boot“ (1981): In welcher Funktion begleitet Werner (Herbert Grönemeyer) die Fahrt?
+- **DRA-L-044** (Kramer vs. Kramer|1979): „Kramer gegen Kramer“ (1979): Wie heißt der gemeinsame Sohn von Ted (Dustin Hoffman) und Joanna (Meryl Streep)?
+- **DRA-M-043** (Kramer vs. Kramer|1979): „Kramer gegen Kramer“ (1979): Was verändert Teds (Dustin Hoffman) Alltag zu Beginn grundlegend?
+- **DRA-M-044** (Kramer vs. Kramer|1979): „Kramer gegen Kramer“ (1979): Warum sucht Ted (Dustin Hoffman) nach seinem Arbeitsplatzverlust so dringend eine neue Stelle?
+- **DRA-S-043** (Kramer vs. Kramer|1979): „Kramer gegen Kramer“ (1979): Warum verzichtet Ted (Dustin Hoffman) darauf, gegen die Sorgerechtsentscheidung weiter vorzugehen?
+- **DRA-S-044** (Kramer vs. Kramer|1979): „Kramer gegen Kramer“ (1979): Welche Entscheidung trifft Joanna (Meryl Streep) am Ende trotz des ihr zugesprochenen Sorgerechts?
+- **DRA-M-045** (The Godfather|1972): „Der Pate“ (1972): Welche Funktion hat Tom Hagen (Robert Duvall) für die Corleones?
+- **DRA-M-046** (The Godfather|1972): „Der Pate“ (1972): Welches neue Geschäft lehnt Vito (Marlon Brando) zunächst ab?
+- **DRA-S-045** (The Godfather|1972): „Der Pate“ (1972): Wohin flieht Michael (Al Pacino) nach den Morden an Sollozzo (Al Lettieri) und McCluskey (Sterling Hayden)?
+- **DRA-L-048** (Taxi Driver|1976): „Taxi Driver“ (1976): In welcher Stadt fährt Travis (Robert De Niro) Taxi?
+- **DRA-M-047** (Taxi Driver|1976): „Taxi Driver“ (1976): Welches persönliche Problem nennt Travis (Robert De Niro) als Grund, nachts arbeiten zu wollen?
+- **DRA-S-047** (Taxi Driver|1976): „Taxi Driver“ (1976): Wer ist Iris (Jodie Foster) innerhalb der Handlung?
+- **DRA-S-048** (Taxi Driver|1976): „Taxi Driver“ (1976): Wie wird Travis (Robert De Niro) nach der blutigen Schlusskonfrontation in der Öffentlichkeit zunächst dargestellt?
+- **DRA-L-050** (Raging Bull|1980): „Wie ein wilder Stier“ (1980): In welcher Sportart macht Jake (Robert De Niro) Karriere?
+- **DRA-M-049** (Raging Bull|1980): „Wie ein wilder Stier“ (1980): Welche familiäre Verbindung hat Joey (Joe Pesci) zu Jake (Robert De Niro)?
+- **DRA-M-050** (Raging Bull|1980): „Wie ein wilder Stier“ (1980): Was belastet Jakes (Robert De Niro) Beziehung zu Vickie (Cathy Moriarty) besonders?
+- **DRA-S-049** (Raging Bull|1980): „Wie ein wilder Stier“ (1980): Welcher wiederkehrende Gegner nimmt Jake (Robert De Niro) im Film den Weltmeistertitel ab?
+- **DRA-S-050** (Raging Bull|1980): „Wie ein wilder Stier“ (1980): Aus welchem älteren Film zitiert Jake (Robert De Niro) vor einem späten Bühnenauftritt?
+- **DRA-L-002-V1** (The Shawshank Redemption|1994): „Die Verurteilten“ (1994): Wodurch kann Andy (Tim Robbins) den Wärtern in Geldfragen besonders nützlich werden?
+- **DRA-M-002-V1** (The Shawshank Redemption|1994): „Die Verurteilten“ (1994): Welches Projekt verfolgt Andy (Tim Robbins) trotz lange ausbleibender Antworten immer weiter per Brief?
+- **DRA-S-002-V1** (The Shawshank Redemption|1994): „Die Verurteilten“ (1994): Welches frühere Zukunftsziel Andys (Tim Robbins) wird zum Ort des abschließenden Wiedersehens?
+- **DRA-L-006-V1** (Forrest Gump|1994): „Forrest Gump“ (1994): Welche Alltagssituation bildet den Ausgangspunkt für Forrests (Tom Hanks) Rückblicke?
+- **DRA-M-006-V1** (Forrest Gump|1994): „Forrest Gump“ (1994): Welches Selbstbild erklärt Dans (Gary Sinise) zunächst ablehnende Reaktion auf Forrests (Tom Hanks) Hilfe im Krieg?
+- **DRA-S-006-V1** (Forrest Gump|1994): „Forrest Gump“ (1994): Welches Bild kehrt zurück, um Forrests (Tom Hanks) Lebensgeschichte visuell einzurahmen?
+- **DRA-L-012-V1** (Good Will Hunting|1997): „Good Will Hunting“ (1997): Welcher Gegensatz prägt Wills (Matt Damon) erste Stellung an der Hochschule?
+- **DRA-M-012-V1** (Good Will Hunting|1997): „Good Will Hunting“ (1997): Wer begegnet Wills (Matt Damon) Abwehr in regelmäßigen therapeutischen Gesprächen?
+- **DRA-S-012-V1** (Good Will Hunting|1997): „Good Will Hunting“ (1997): Welche Entscheidung ersetzt am Schluss Wills (Matt Damon) vorgesehenen beruflichen Start?
+- **DRA-L-016-V1** (Rain Man|1988): „Rain Man“ (1988): Welche bisher unbekannte Familienbindung entdeckt Charlie (Tom Cruise) nach dem Tod seines Vaters?
+- **DRA-M-016-V1** (Rain Man|1988): „Rain Man“ (1988): Welche Schwierigkeit verwandelt Charlies (Tom Cruise) geplante schnelle Rückreise in eine lange Autofahrt?
+- **DRA-S-016-V1** (Rain Man|1988): „Rain Man“ (1988): Welche Erinnerung bekommt durch Raymond (Dustin Hoffman) eine neue Bedeutung für Charlie (Tom Cruise)?
+- **DRA-L-028-V1** (Gran Torino|2008): „Gran Torino“ (2008): Welcher Besitz Walts (Clint Eastwood) steht hinter dem Filmtitel?
+- **DRA-M-028-V1** (Gran Torino|2008): „Gran Torino“ (2008): Welche familiäre Bindung erklärt Sues (Ahney Her) Nähe zu Thao (Bee Vang)?
+- **DRA-S-028-V1** (Gran Torino|2008): „Gran Torino“ (2008): Wie wird Thaos (Bee Vang) gewachsene Bedeutung für Walt (Clint Eastwood) im Testament sichtbar?
+- **DRA-S-034-V1** (Whiplash|2014): „Whiplash“ (2014): Welches Musikstück setzt Andrew eigenmächtig an, nachdem Fletchers (J. K. Simmons) Falle ihn bloßgestellt hat?
+- **DRA-L-040-V1** (Das Leben der Anderen|2006): „Das Leben der Anderen“ (2006): Welche Kunstform ist mit Dreymans (Sebastian Koch) Beruf verbunden?
+- **DRA-S-040-V1** (Das Leben der Anderen|2006): „Das Leben der Anderen“ (2006): Unter welcher Bezeichnung findet Wiesler (Ulrich Mühe) sich in Dreymans (Sebastian Koch) Buchwidmung wieder?
+- **DRA-L-044-V1** (Kramer vs. Kramer|1979): „Kramer gegen Kramer“ (1979): Welches Kind steht im Zentrum von Teds (Dustin Hoffman) und Joannas (Meryl Streep) Trennungskonflikt?
+- **DRA-M-044-V1** (Kramer vs. Kramer|1979): „Kramer gegen Kramer“ (1979): Weshalb wird die berufliche Neuorientierung für Ted (Dustin Hoffman) auch zur Sorge um Billy (Justin Henry)?
+- **DRA-S-044-V1** (Kramer vs. Kramer|1979): „Kramer gegen Kramer“ (1979): Welche Wendung verhindert am Schluss Billys (Justin Henry) erzwungenen Wechsel des Zuhauses?
+- **CLA-L-002** (Casablanca|1942): „Casablanca“ (1942): Welche Dokumente werden für die Flucht von Ilsa (Ingrid Bergman) und Laszlo (Paul Henreid) entscheidend?
+- **CLA-M-001** (Casablanca|1942): „Casablanca“ (1942): Welches Lied verbindet Rick und Ilsa (Ingrid Bergman) mit ihrer gemeinsamen Vergangenheit?
+- **CLA-M-002** (Casablanca|1942): „Casablanca“ (1942): Wer ist Victor Laszlo (Paul Henreid) für Ilsa (Ingrid Bergman)?
+- **CLA-S-001** (Casablanca|1942): „Casablanca“ (1942): Warum war Ilsa (Ingrid Bergman) damals nicht mit Rick aus Paris geflohen?
+- **CLA-S-002** (Casablanca|1942): „Casablanca“ (1942): Mit wem lässt Rick Ilsa (Ingrid Bergman) am Ende ausreisen?
+- **CLA-L-004** (Citizen Kane|1941): „Citizen Kane“ (1941): Welches letzte Wort löst die journalistische Suche nach Kanes (Orson Welles) Vergangenheit aus?
+- **CLA-M-004** (Citizen Kane|1941): „Citizen Kane“ (1941): Wie erschließt der Film nach Kanes (Orson Welles) Tod den größten Teil seines Lebens?
+- **CLA-S-003** (Citizen Kane|1941): „Citizen Kane“ (1941): Welche Karriere versucht Kane seiner zweiten Frau Susan (Dorothy Comingore) aufzuzwingen?
+- **CLA-L-006** (All About Eve|1950): „Alles über Eva“ (1950): Als was nähert sich Eve (Anne Baxter) zunächst Margo (Bette Davis)?
+- **CLA-M-005** (All About Eve|1950): „Alles über Eva“ (1950): Welche Theaterposition verschafft Eve (Anne Baxter) die Chance, für Margo (Bette Davis) einzuspringen?
+- **CLA-M-006** (All About Eve|1950): „Alles über Eva“ (1950): Wer ermöglicht Eve (Anne Baxter) den ersten persönlichen Zugang zu Margo (Bette Davis)?
+- **CLA-S-005** (All About Eve|1950): „Alles über Eva“ (1950): Wodurch gewinnt Addison (George Sanders) entscheidende Macht über Eve (Anne Baxter)?
+- **CLA-S-006** (All About Eve|1950): „Alles über Eva“ (1950): Was deutet die junge Phoebe (Barbara Bates) im Schlussbild an?
+- **CLA-M-008** (The African Queen|1951): „African Queen“ (1951): Welchen waghalsigen Plan entwickelt Rose (Katharine Hepburn) für die African Queen?
+- **CLA-L-010** (Singin' in the Rain|1952): „Singin’ in the Rain“ (1952): Welcher technische Wandel bedroht die Karriere des Leinwandpaars Don (Gene Kelly) und Lina?
+- **CLA-S-009** (Singin' in the Rain|1952): „Singin’ in the Rain“ (1952): Wer ist Dons (Gene Kelly) langjähriger Freund und musikalischer Mitstreiter?
+- **CLA-L-012** (Ben-Hur|1959): „Ben Hur“ (1959): In welchem Wettkampf tritt Judah (Charlton Heston) gegen Messala (Stephen Boyd) an?
+- **CLA-M-011** (Ben-Hur|1959): „Ben Hur“ (1959): Welche frühere Beziehung verbindet Judah (Charlton Heston) und Messala (Stephen Boyd)?
+- **CLA-M-012** (Ben-Hur|1959): „Ben Hur“ (1959): Warum erhält Judah (Charlton Heston) die besondere Unterstützung des Römers Arrius (Jack Hawkins)?
+- **CLA-S-011** (Ben-Hur|1959): „Ben Hur“ (1959): Welche Forderung Messalas (Stephen Boyd) lehnt Judah (Charlton Heston) ab und gefährdet damit ihre Freundschaft?
+- **CLA-S-012** (Ben-Hur|1959): „Ben Hur“ (1959): Welches Schicksal haben Judahs (Charlton Heston) Mutter und Schwester nach ihrer Haft erlitten?
+- **CLA-S-013** (Lawrence of Arabia|1962): „Lawrence von Arabien“ (1962): Welche bittere Wendung betrifft den zuvor geretteten Gasim (I. S. Johar) später?
+- **CLA-M-015** (The Bridge on the River Kwai|1957): „Die Brücke am Kwai“ (1957): Wogegen richtet sich Nicholsons (Alec Guinness) anfänglicher Widerstand gegen Saito (Sessue Hayakawa) besonders?
+- **CLA-L-018** (The Night of the Hunter|1955): „Die Nacht des Jägers“ (1955): Welche beiden Wörter stehen auf Powells (Robert Mitchum) Fingern?
+- **CLA-M-017** (The Night of the Hunter|1955): „Die Nacht des Jägers“ (1955): Was will Powell (Robert Mitchum) von John (Billy Chapin) und Pearl (Sally Jane Bruce) erfahren?
+- **CLA-S-017** (The Night of the Hunter|1955): „Die Nacht des Jägers“ (1955): Wer bietet den fliehenden Kindern wirksamen Schutz vor Powell (Robert Mitchum)?
+- **CLA-S-018** (The Night of the Hunter|1955): „Die Nacht des Jägers“ (1955): Über welchen Weg entkommen John (Billy Chapin) und Pearl (Sally Jane Bruce) zunächst dem Verfolger und gelangen zu ihrem Zufluchtsort?
+- **CLA-L-020** (Double Indemnity|1944): „Frau ohne Gewissen“ (1944): Welchen Beruf hat Walter Neff (Fred MacMurray)?
+- **CLA-S-020** (Double Indemnity|1944): „Frau ohne Gewissen“ (1944): Welche Beziehung hat Lola (Jean Heather) zu Phyllis?
+- **CLA-L-022** (Witness for the Prosecution|1957): „Zeugin der Anklage“ (1957): Welcher Mann wird von Wilfrid (Charles Laughton) gegen einen Mordvorwurf verteidigt?
+- **CLA-M-021** (Witness for the Prosecution|1957): „Zeugin der Anklage“ (1957): Welche von Marlene Dietrich gespielte Frau sagt gegen Leonard (Tyrone Power) aus?
+- **CLA-M-022** (Witness for the Prosecution|1957): „Zeugin der Anklage“ (1957): Welches scheinbare Beweismittel erschüttert Christines (Marlene Dietrich) Glaubwürdigkeit im Prozess?
+- **CLA-S-021** (Witness for the Prosecution|1957): „Zeugin der Anklage“ (1957): Wer steckt hinter der entstellten Frau, die Wilfrid (Charles Laughton) die Briefe verkauft?
+- **CLA-S-022** (Witness for the Prosecution|1957): „Zeugin der Anklage“ (1957): Wen will Wilfrid (Charles Laughton) nach Leonards (Tyrone Power) Tod als Nächstes verteidigen?
+- **CLA-L-024** (Rear Window|1954): „Das Fenster zum Hof“ (1954): Warum verbringt Jeff (James Stewart) so viel Zeit in seiner Wohnung?
+- **CLA-M-023** (Rear Window|1954): „Das Fenster zum Hof“ (1954): Wen verdächtigt Jeff (James Stewart), seine Ehefrau getötet zu haben?
+- **CLA-M-024** (Rear Window|1954): „Das Fenster zum Hof“ (1954): Wer dringt in Thorwalds Wohnung ein, während Jeff (James Stewart) vom gegenüberliegenden Fenster zusieht?
+- **CLA-S-023** (Rear Window|1954): „Das Fenster zum Hof“ (1954): Welchen gefundenen Gegenstand zeigt Lisa (Grace Kelly) Jeff (James Stewart) heimlich an ihrer Hand?
+- **CLA-S-024** (Rear Window|1954): „Das Fenster zum Hof“ (1954): Womit versucht Jeff (James Stewart) den angreifenden Thorwald vorübergehend abzuwehren?
+- **CLA-S-026** (North by Northwest|1959): „Der unsichtbare Dritte“ (1959): An welchem Monument fliehen Thornhill und Eve (Eva Marie Saint) im Finale vor Vandamms (James Mason) Männern?
+- **CLA-L-028** (Vertigo|1958): „Vertigo“ (1958): Welche Angst beeinträchtigt den früheren Polizisten Scottie (James Stewart) besonders?
+- **CLA-M-027** (Vertigo|1958): „Vertigo“ (1958): Wer bittet Scottie (James Stewart) zunächst, Madeleine zu beschatten?
+- **CLA-M-028** (Vertigo|1958): „Vertigo“ (1958): Was verlangt Scottie (James Stewart) von Judy (Kim Novak), nachdem er sie kennengelernt hat?
+- **CLA-S-027** (Vertigo|1958): „Vertigo“ (1958): Welches Schmuckstück bringt Scottie (James Stewart) auf die Spur der Täuschung?
+- **CLA-S-028** (Vertigo|1958): „Vertigo“ (1958): Wann erfährt das Publikum ausdrücklich von Judys (Kim Novak) Beteiligung an Elsters Plan?
+- **CLA-L-030** (Rebecca|1940): „Rebecca“ (1940): Wie heißt das Anwesen, auf das Maxim (Laurence Olivier) seine neue Frau bringt?
+- **CLA-S-029** (Rebecca|1940): „Rebecca“ (1940): Wie beschreibt Maxim (Laurence Olivier) Rebeccas Tod in dieser Filmfassung von 1940?
+- **CLA-L-032** (Modern Times|1936): „Moderne Zeiten“ (1936): Welche gleichförmige Arbeit verrichtet der Tramp (Charlie Chaplin) am Fließband?
+- **CLA-M-032** (Modern Times|1936): „Moderne Zeiten“ (1936): Warum wird der Tramp (Charlie Chaplin) irrtümlich für den Anführer einer Demonstration gehalten?
+- **CLA-S-032** (Modern Times|1936): „Moderne Zeiten“ (1936): Wie endet der gemeinsame Weg des Tramps (Charlie Chaplin) und des Mädchens im Film?
+- **CLA-L-034** (The Gold Rush|1925): „Goldrausch“ (1925): Welchen ungewöhnlichen Gegenstand bereitet der Goldsucher (Charlie Chaplin) aus Hunger als Mahlzeit zu?
+- **CLA-M-033** (The Gold Rush|1925): „Goldrausch“ (1925): Welche Gegenstände lässt der Goldsucher (Charlie Chaplin) in einer berühmten Fantasie wie kleine Beine tanzen?
+- **CLA-M-034** (The Gold Rush|1925): „Goldrausch“ (1925): In welche Frau verliebt sich der Goldsucher (Charlie Chaplin)?
+- **CLA-S-033** (The Gold Rush|1925): „Goldrausch“ (1925): Als was sieht der ausgehungerte Big Jim (Mack Swain) den Goldsucher (Charlie Chaplin) in seiner Halluzination?
+- **CLA-S-034** (The Gold Rush|1925): „Goldrausch“ (1925): Welche Gefahr bedroht die Hütte mit dem Goldsucher (Charlie Chaplin) und Big Jim (Mack Swain) in einer berühmten Sequenz?
+- **CLA-S-036** (Metropolis|1927): „Metropolis“ (1927): Zwischen welchen beiden Männern vermittelt Freder (Gustav Fröhlich) am Ende den Handschlag?
+- **CLA-M-037** (Nosferatu, eine Symphonie des Grauens|1922): „Nosferatu, eine Symphonie des Grauens“ (1922): Warum reist Hutter zu Orloks (Max Schreck) Schloss?
+- **CLA-M-038** (Nosferatu, eine Symphonie des Grauens|1922): „Nosferatu, eine Symphonie des Grauens“ (1922): Wie gelangt Orlok (Max Schreck) über die letzte große Strecke nach Wisborg?
+- **CLA-S-037** (Nosferatu, eine Symphonie des Grauens|1922): „Nosferatu, eine Symphonie des Grauens“ (1922): Wodurch kann Ellen (Greta Schröder) Orlok (Max Schreck) entscheidend aufhalten?
+- **CLA-M-039** (M|1931): „M – Eine Stadt sucht einen Mörder“ (1931): Welches akustische Merkmal hilft einem blinden Verkäufer, Beckert (Peter Lorre) wiederzuerkennen?
+- **CLA-M-040** (M|1931): „M – Eine Stadt sucht einen Mörder“ (1931): Wie wird Beckert (Peter Lorre) für seine Verfolger sichtbar markiert?
+- **CLA-S-039** (M|1931): „M – Eine Stadt sucht einen Mörder“ (1931): Vor welche Art von Versammlung bringen die Verbrecher Beckert (Peter Lorre)?
+- **CLA-S-040** (M|1931): „M – Eine Stadt sucht einen Mörder“ (1931): Was betont Elsies Mutter (Ellen Widmann) am Ende gegenüber der Hoffnung auf ein Urteil?
+- **CLA-L-042** (Der blaue Engel|1930): „Der blaue Engel“ (1930): Welchen Beruf übt Immanuel Rath (Emil Jannings) zu Beginn aus?
+- **CLA-M-041** (Der blaue Engel|1930): „Der blaue Engel“ (1930): Warum sucht Rath (Emil Jannings) den Blauen Engel anfangs auf?
+- **CLA-M-042** (Der blaue Engel|1930): „Der blaue Engel“ (1930): Welche Entscheidung trifft Rath (Emil Jannings) zugunsten seiner Beziehung zu Lola Lola (Marlene Dietrich)?
+- **CLA-S-041** (Der blaue Engel|1930): „Der blaue Engel“ (1930): In welcher erniedrigenden Bühnenrolle muss Rath (Emil Jannings) später auftreten?
+- **CLA-S-042** (Der blaue Engel|1930): „Der blaue Engel“ (1930): An welchen Ort kehrt Rath (Emil Jannings) in seiner letzten Nacht zurück?
+- **CLA-L-044** (The Sting|1973): „Der Clou“ (1973): Welchen Gangster wollen Hooker (Robert Redford) und Gondorff (Paul Newman) mit ihrem großen Betrug hereinlegen?
+- **CLA-M-043** (The Sting|1973): „Der Clou“ (1973): Welcher Verlust veranlasst Hooker (Robert Redford) besonders zur Rache an Lonnegan (Robert Shaw)?
+- **CLA-M-044** (The Sting|1973): „Der Clou“ (1973): Welche Geschäftsumgebung lassen die Betrüger für Lonnegan (Robert Shaw) aufwendig nachbauen?
+- **CLA-S-043** (The Sting|1973): „Der Clou“ (1973): Welchen vermeintlichen Vorteil soll Lonnegan (Robert Shaw) bei den Pferdewetten nutzen können?
+- **CLA-S-044** (The Sting|1973): „Der Clou“ (1973): Was stellt sich über die tödlichen Schüsse auf Hooker (Robert Redford) und Gondorff (Paul Newman) heraus?
+- **CLA-M-046** (Mutiny on the Bounty|1962): „Meuterei auf der Bounty“ (1962): Welche Entscheidung Blighs (Trevor Howard) verschärft auf der Rückfahrt den Wassermangel der Mannschaft?
+- **CLA-S-045** (Mutiny on the Bounty|1962): „Meuterei auf der Bounty“ (1962): Wie verfährt Christian (Marlon Brando) nach der Machtübernahme mit Bligh (Trevor Howard) und dessen Getreuen?
+- **CLA-S-046** (Mutiny on the Bounty|1962): „Meuterei auf der Bounty“ (1962): Was geschieht mit Christian (Marlon Brando) im Finale dieser Fassung von 1962?
+- **CLA-S-047** (To Kill a Mockingbird|1962): „Wer die Nachtigall stört“ (1962): Wer rettet Scout (Mary Badham) und Jem beim nächtlichen Angriff?
+- **CLA-S-048** (To Kill a Mockingbird|1962): „Wer die Nachtigall stört“ (1962): Warum will Sheriff Heck Tate (Frank Overton) Boo (Robert Duvall) nach der Rettung nicht öffentlich in den Mittelpunkt stellen?
+- **CLA-M-049** (On the Waterfront|1954): „Die Faust im Nacken“ (1954): Welche Verbindung hat Edie (Eva Marie Saint) zu dem getöteten Hafenarbeiter Joey Doyle?
+- **CLA-M-050** (On the Waterfront|1954): „Die Faust im Nacken“ (1954): Weshalb ist Terry (Marlon Brando) über seine frühere Boxkarriere besonders verbittert?
+- **CLA-S-049** (On the Waterfront|1954): „Die Faust im Nacken“ (1954): Wer ist Charley Malloy (Rod Steiger) für Terry (Marlon Brando)?
+- **CLA-S-050** (On the Waterfront|1954): „Die Faust im Nacken“ (1954): Welchen Weg wählt Terry (Marlon Brando) gegen Friendlys (Lee J. Cobb) System schließlich?
+- **CLA-L-002-V1** (Casablanca|1942): „Casablanca“ (1942): Welchen Besitz Ricks benötigen Ilsa (Ingrid Bergman) und Laszlo (Paul Henreid) besonders für ihren Weg aus Casablanca?
+- **CLA-M-002-V1** (Casablanca|1942): „Casablanca“ (1942): Welche persönliche Bindung erklärt, warum Ilsa (Ingrid Bergman) sich Laszlo (Paul Henreid) verpflichtet fühlt?
+- **CLA-S-002-V1** (Casablanca|1942): „Casablanca“ (1942): Welche Entscheidung Ricks führt am Flughafen zur Trennung von Ilsa (Ingrid Bergman)?
+- **CLA-L-004-V1** (Citizen Kane|1941): „Citizen Kane“ (1941): Welchem rätselhaften Wort geht Reporter Thompson (William Alland) nach Kanes (Orson Welles) Tod nach?
+- **CLA-S-004-V1** (Citizen Kane|1941): „Citizen Kane“ (1941): Welcher Gegenstand trägt die Aufschrift, die Kanes (Orson Welles) letztes Wort erklärt?
+- **CLA-L-006-V1** (All About Eve|1950): „Alles über Eva“ (1950): Mit welcher Rolle gewinnt Eve (Anne Baxter) zunächst das Vertrauen in Margos (Bette Davis) Umfeld?
+- **CLA-M-006-V1** (All About Eve|1950): „Alles über Eva“ (1950): Welche Freundin Margos (Bette Davis) vermittelt das erste Treffen mit Eve (Anne Baxter)?
+- **CLA-S-006-V1** (All About Eve|1950): „Alles über Eva“ (1950): Welche Funktion hat Phoebes (Barbara Bates) heimliches Posieren mit Eves (Anne Baxter) Auszeichnung?
+- **CLA-L-012-V1** (Ben-Hur|1959): „Ben Hur“ (1959): Bei welchem öffentlichen Ereignis treffen Judah (Charlton Heston) und Messala (Stephen Boyd) als direkte Rivalen aufeinander?
+- **CLA-M-012-V1** (Ben-Hur|1959): „Ben Hur“ (1959): Welche Tat verändert Judahs (Charlton Heston) Verhältnis zu Arrius (Jack Hawkins) nach der Seeschlacht?
+- **CLA-S-012-V1** (Ben-Hur|1959): „Ben Hur“ (1959): Welche Krankheit erklärt die Absonderung von Miriam (Martha Scott) und Tirzah?
+- **CLA-S-016-V1** (The Bridge on the River Kwai|1957): „Die Brücke am Kwai“ (1957): Welche Bewegung Nicholsons (Alec Guinness) bringt im letzten Moment die Sprengladung zur Explosion?
+- **CLA-L-022-V1** (Witness for the Prosecution|1957): „Zeugin der Anklage“ (1957): Wer ist Wilfrids (Charles Laughton) Mandant im zentralen Mordprozess?
+- **CLA-M-022-V1** (Witness for the Prosecution|1957): „Zeugin der Anklage“ (1957): Mit welchem angeblich privaten Material greift die Verteidigung Christines (Marlene Dietrich) Aussage an?
+- **CLA-S-022-V1** (Witness for the Prosecution|1957): „Zeugin der Anklage“ (1957): Für welche neue Mandantin schiebt Wilfrid (Charles Laughton) am Ende seinen Rückzug aus dem Beruf auf?
+- **CLA-L-024-V1** (Rear Window|1954): „Das Fenster zum Hof“ (1954): Welche Verletzung macht Jeff (James Stewart) zum überwiegend unbeweglichen Beobachter des Innenhofs?
+- **CLA-M-024-V1** (Rear Window|1954): „Das Fenster zum Hof“ (1954): Welche Verbündete Jeffs (James Stewart) sucht direkt in Thorwalds Wohnung nach Hinweisen?
+- **CLA-S-024-V1** (Rear Window|1954): „Das Fenster zum Hof“ (1954): Wie nutzt Jeff (James Stewart) im Schlussangriff seine Fotoausrüstung zur Verteidigung?
+- **CLA-L-032-V1** (Modern Times|1936): „Moderne Zeiten“ (1936): Welche Bewegung kann der Tramp (Charlie Chaplin) nach der Fließbandarbeit kaum noch ablegen?
+- **CLA-M-032-V1** (Modern Times|1936): „Moderne Zeiten“ (1936): Welches zufällig aufgehobene Objekt führt zur politischen Verwechslung des Tramps (Charlie Chaplin)?
+- **CLA-S-032-V1** (Modern Times|1936): „Moderne Zeiten“ (1936): Was bleibt dem Tramp (Charlie Chaplin) und seiner Begleiterin im letzten Bild trotz aller Unsicherheit?
+- **CLA-S-036-V1** (Metropolis|1927): „Metropolis“ (1927): Welche beiden Vertreter führt Freder (Gustav Fröhlich) im abschließenden Versöhnungsbild zusammen?
+- **CLA-L-050-V1** (On the Waterfront|1954): „Die Faust im Nacken“ (1954): Gegen welchen Gewerkschaftsboss richtet sich Terry Malloys (Marlon Brando) Aussage?
+- **CLA-M-050-V1** (On the Waterfront|1954): „Die Faust im Nacken“ (1954): Welche fremdbestimmte Entscheidung beschädigte Terrys (Marlon Brando) Chancen als Boxer?
+- **CLA-S-050-V1** (On the Waterfront|1954): „Die Faust im Nacken“ (1954): Wie widersetzt sich Terry (Marlon Brando) am Ende der Forderung nach Schweigen?
+- **MAR-L-002** (Snake in the Eagle's Shadow|1978): „Die Schlange im Schatten des Adlers“ (1978): Welche Arbeit verrichtet Chien Fu (Jackie Chan) anfangs in der Kampfschule?
+- **MAR-M-001** (Snake in the Eagle's Shadow|1978): „Die Schlange im Schatten des Adlers“ (1978): Wer bringt Chien Fu (Jackie Chan) den Schlangenstil bei?
+- **MAR-S-001** (Snake in the Eagle's Shadow|1978): „Die Schlange im Schatten des Adlers“ (1978): Warum möchte Pai Cheng-tien (Yuen Siu-tien) nicht öffentlich als Chien Fus (Jackie Chan) Meister bezeichnet werden?
+- **MAR-S-002** (Snake in the Eagle's Shadow|1978): „Die Schlange im Schatten des Adlers“ (1978): Welche Beobachtung hilft Chien Fu (Jackie Chan), die Adlerklaue schließlich zu überwinden?
+- **MAR-L-004** (Drunken Master|1978): „Drunken Master – The Beginning“ (1978): Welche Kampfmethode lernt Wong Fei-hung (Jackie Chan) bei Beggar So (Yuen Siu-tien)?
+- **MAR-M-003** (Drunken Master|1978): „Drunken Master – The Beginning“ (1978): Warum schickt Wong Fei-hungs (Jackie Chan) Vater ihn zu Beggar So (Yuen Siu-tien)?
+- **MAR-M-004** (Drunken Master|1978): „Drunken Master – The Beginning“ (1978): Wen soll der Auftragskämpfer Yim Tit-sam (Hwang Jang-lee) töten?
+- **MAR-S-003** (Drunken Master|1978): „Drunken Master – The Beginning“ (1978): Was bringt Wong Fei-hung (Jackie Chan) dazu, nach seiner Flucht ernsthaft zum Training zurückzukehren?
+- **MAR-S-004** (Drunken Master|1978): „Drunken Master – The Beginning“ (1978): Wie überwindet Wong Fei-hung (Jackie Chan) im Schlusskampf die Lücke in seiner Ausbildung?
+- **MAR-L-006** (Drunken Master II|1994): „Drunken Master 2“ (1994): Welches Geschäft versucht Wong Fei-hung (Jackie Chan) aufzudecken und zu stoppen?
+- **MAR-M-005** (Drunken Master II|1994): „Drunken Master 2“ (1994): Was erhält Wong Fei-hung (Jackie Chan) durch die vertauschten Kästen anstelle der Ginsengwurzel?
+- **MAR-M-006** (Drunken Master II|1994): „Drunken Master 2“ (1994): Was befürchtet Wong Kei-ying (Ti Lung) beim Drunken Boxing seines Sohnes besonders?
+- **MAR-S-005** (Drunken Master II|1994): „Drunken Master 2“ (1994): Welche Funktion hat Fu Wen-chi (Lau Kar-leung) im Kampf gegen die Schmuggler?
+- **MAR-S-006** (Drunken Master II|1994): „Drunken Master 2“ (1994): Wo findet Wong Fei-hungs (Jackie Chan) langer Schlusskampf gegen John (Ken Lo) statt?
+- **MAR-L-008** (Project A|1983): „Der Superfighter“ (1983): Gegen welche Bedrohung richtet sich Dragon Mas (Jackie Chan) Hauptauftrag?
+- **MAR-M-007** (Project A|1983): „Der Superfighter“ (1983): Was geschieht mit Dragon Mas (Jackie Chan) Einheit nach der Zerstörung ihrer Schiffe?
+- **MAR-M-008** (Project A|1983): „Der Superfighter“ (1983): An welchem Bauwerk hängt Dragon Ma (Jackie Chan), bevor er in einer berühmten Szene abstürzt?
+- **MAR-S-007** (Project A|1983): „Der Superfighter“ (1983): Wie verschafft sich Dragon Ma (Jackie Chan) Zugang zum Versteck von San Pao (Dick Wei)?
+- **MAR-S-008** (Project A|1983): „Der Superfighter“ (1983): Wie wird San Pao (Dick Wei) am Ende des gemeinsamen Kampfes ausgeschaltet?
+- **MAR-L-010** (Police Story|1985): „Police Story“ (1985): In welchem Verhältnis steht Salina (Brigitte Lin) zum Verbrecherboss Chu Tao (Chor Yuen)?
+- **MAR-M-009** (Police Story|1985): „Police Story“ (1985): Wie versucht Chan Ka-kui (Jackie Chan) anfangs, Salina (Brigitte Lin) von der Notwendigkeit seines Schutzes zu überzeugen?
+- **MAR-M-010** (Police Story|1985): „Police Story“ (1985): Welcher Vorwurf soll Chan Ka-kui (Jackie Chan) durch eine Falle angelastet werden?
+- **MAR-S-009** (Police Story|1985): „Police Story“ (1985): Was beschafft Salina (Brigitte Lin) im Einkaufszentrum, um Chu Tao (Chor Yuen) zu belasten?
+- **MAR-S-010** (Police Story|1985): „Police Story“ (1985): Welche riskante Abkürzung nimmt Chan Ka-kui (Jackie Chan) im Einkaufszentrum?
+- **MAR-L-012** (Police Story 3: Super Cop|1992): „Police Story III – Supercop“ (1992): Was ist das gemeinsame Ziel von Chan Ka-kui (Jackie Chan) und Jessica Yang (Michelle Yeoh)?
+- **MAR-M-011** (Police Story 3: Super Cop|1992): „Police Story III – Supercop“ (1992): Wie gewinnt Chan Ka-kui (Jackie Chan) zunächst Panthers (Yuen Wah) Vertrauen?
+- **MAR-M-012** (Police Story 3: Super Cop|1992): „Police Story III – Supercop“ (1992): Als welche Verwandte von Chan Ka-kui (Jackie Chan) tritt Jessica Yang (Michelle Yeoh) bei der Tarnoperation auf?
+- **MAR-S-011** (Police Story 3: Super Cop|1992): „Police Story III – Supercop“ (1992): Warum ist Chaibat (Kenneth Tsang) auf die Befreiung seiner inhaftierten Frau Chen Wen-shi (Josephine Koo) angewiesen?
+- **MAR-L-014** (Armour of God|1986): „Armour of God: Der rechte Arm der Götter“ (1986): Warum bittet Alan (Alan Tam) Jackie (Jackie Chan) um Unterstützung?
+- **MAR-M-013** (Armour of God|1986): „Armour of God: Der rechte Arm der Götter“ (1986): Was verlangen die Entführer im Austausch für Lorelei (Rosamund Kwan)?
+- **MAR-S-013** (Armour of God|1986): „Armour of God: Der rechte Arm der Götter“ (1986): Warum ist Loreleis (Rosamund Kwan) erste Befreiung noch kein sicherer Erfolg?
+- **MAR-S-014** (Armour of God|1986): „Armour of God: Der rechte Arm der Götter“ (1986): Worauf landet Jackie (Jackie Chan) bei seiner Flucht aus dem zerstörten Versteck?
+- **MAR-L-016** (Armour of God II: Operation Condor|1991): „Mission Adler“ (1991): Welchen Schatz soll Jackie (Jackie Chan) in der Sahara finden?
+- **MAR-M-016** (Armour of God II: Operation Condor|1991): „Mission Adler“ (1991): Was braucht Jackie (Jackie Chan) zusätzlich zum besonderen Schlüssel, um den Zugang zum Gold zu öffnen?
+- **MAR-S-015** (Armour of God II: Operation Condor|1991): „Mission Adler“ (1991): Welche Verbindung hat der Söldnerführer Adolf (Aldo Sambrell) zum verlassenen Stützpunkt?
+- **MAR-S-016** (Armour of God II: Operation Condor|1991): „Mission Adler“ (1991): Wie entkommen Jackie (Jackie Chan) und seine Begleiterinnen aus dem einstürzenden Komplex?
+- **MAR-L-018** (Wheels on Meals|1984): „Powerman“ (1984): Womit verdienen Thomas (Jackie Chan) und David (Yuen Biao) in Barcelona ihr Geld?
+- **MAR-M-017** (Wheels on Meals|1984): „Powerman“ (1984): Wie hält sich Sylvia (Lola Forner) zunächst über Wasser?
+- **MAR-M-018** (Wheels on Meals|1984): „Powerman“ (1984): Warum ist Sylvia (Lola Forner) für Mondale gefährlich?
+- **MAR-S-018** (Wheels on Meals|1984): „Powerman“ (1984): Wo versuchen Thomas (Jackie Chan), David (Yuen Biao) und Moby (Sammo Hung), die entführten Frauen zu befreien?
+- **MAR-L-020** (Rumble in the Bronx|1995): „Rumble in the Bronx“ (1995): Weshalb reist Keung (Jackie Chan) ursprünglich nach New York?
+- **MAR-M-019** (Rumble in the Bronx|1995): „Rumble in the Bronx“ (1995): In welchem Verhältnis stehen Nancy (Françoise Yip) und Danny (Morgan Lam) zueinander?
+- **MAR-M-020** (Rumble in the Bronx|1995): „Rumble in the Bronx“ (1995): Wo landen die gestohlenen Diamanten zeitweise, ohne dass Keung (Jackie Chan) das zunächst weiß?
+- **MAR-S-019** (Rumble in the Bronx|1995): „Rumble in the Bronx“ (1995): Welche amtliche Identität täuschen Mitglieder des Syndikats gegenüber Keung (Jackie Chan) vor?
+- **MAR-L-022** (Rush Hour|1998): „Rush Hour“ (1998): Wessen Entführung bringt Lee (Jackie Chan) nach Los Angeles?
+- **MAR-M-021** (Rush Hour|1998): „Rush Hour“ (1998): Welche Aufgabe soll Carter (Chris Tucker) zunächst tatsächlich gegenüber Lee (Jackie Chan) erfüllen?
+- **MAR-S-021** (Rush Hour|1998): „Rush Hour“ (1998): Warum fährt Carter (Chris Tucker) den Wagen mit Soo Yung (Julia Hsu) in die Ausstellungshalle?
+- **MAR-S-022** (Rush Hour|1998): „Rush Hour“ (1998): Womit fängt Carter (Chris Tucker) den stürzenden Lee (Jackie Chan) am Ende auf?
+- **MAR-L-024** (New Police Story|2004): „New Police Story“ (2004): Welches Ereignis stürzt Chan Kwok-wing (Jackie Chan) in seine schwere Krise?
+- **MAR-M-024** (New Police Story|2004): „New Police Story“ (2004): Was ist an Frank Chengs (Nicholas Tse) Auftreten als neuer Partner falsch?
+- **MAR-S-023** (New Police Story|2004): „New Police Story“ (2004): Welchen Wettbewerb erzwingt Joe Kwan (Daniel Wu) beim letzten Zusammentreffen auf dem Dach?
+- **MAR-S-024** (New Police Story|2004): „New Police Story“ (2004): Welche frühere Begegnung erklärt Frank Chengs (Nicholas Tse) Verbundenheit mit Chan Kwok-wing?
+- **MAR-L-026** (Fist of Fury|1972): „Todesgrüße aus Shanghai“ (1972): Welcher Todesfall erschüttert Chen Zhen (Bruce Lee) bei seiner Rückkehr nach Shanghai?
+- **MAR-M-026** (Fist of Fury|1972): „Todesgrüße aus Shanghai“ (1972): Was findet Chen Zhen (Bruce Lee) über den Tod seines Meisters heraus?
+- **MAR-S-025** (Fist of Fury|1972): „Todesgrüße aus Shanghai“ (1972): Welchem russischen Kämpfer muss sich Chen Zhen (Bruce Lee) im gegnerischen Dojo stellen?
+- **MAR-S-026** (Fist of Fury|1972): „Todesgrüße aus Shanghai“ (1972): Wie endet Chen Zhens (Bruce Lee) Konfrontation mit den Bewaffneten vor der Schule?
+- **MAR-L-028** (The Way of the Dragon|1972): „Die Todeskralle schlägt wieder zu“ (1972): In welche Stadt reist Tang Lung (Bruce Lee), um einem bedrohten Restaurant zu helfen?
+- **MAR-M-028** (The Way of the Dragon|1972): „Die Todeskralle schlägt wieder zu“ (1972): Welche Waffen setzt Tang Lung (Bruce Lee) gegen mehrere bewaffnete Handlanger besonders markant ein?
+- **MAR-S-028** (The Way of the Dragon|1972): „Die Todeskralle schlägt wieder zu“ (1972): Warum endet Tang Lungs (Bruce Lee) Kampf gegen Colt (Chuck Norris) trotz eines Gnadenangebots tödlich?
+- **MAR-L-030** (Enter the Dragon|1973): „Der Mann mit der Todeskralle“ (1973): Welche Veranstaltung ermöglicht Lee (Bruce Lee) den Zugang zu Hans (Shih Kien) Insel?
+- **MAR-M-029** (Enter the Dragon|1973): „Der Mann mit der Todeskralle“ (1973): Was soll Lee (Bruce Lee) neben seiner Turnierteilnahme verdeckt tun?
+- **MAR-M-030** (Enter the Dragon|1973): „Der Mann mit der Todeskralle“ (1973): Warum hat Lee (Bruce Lee) ein persönliches Motiv gegen O'Hara (Bob Wall)?
+- **MAR-S-029** (Enter the Dragon|1973): „Der Mann mit der Todeskralle“ (1973): Welche Entscheidung zeigt, dass Roper (John Saxon) sich Han (Shih Kien) nicht vollständig unterordnet?
+- **MAR-S-030** (Enter the Dragon|1973): „Der Mann mit der Todeskralle“ (1973): Wie nimmt Lee (Bruce Lee) Han (Shih Kien) im Spiegelraum den entscheidenden taktischen Vorteil?
+- **MAR-L-032** (Fist of Legend|1994): „Fist of Legend“ (1994): In welchem Land studiert Chen Zhen (Jet Li) zu Beginn, bevor er nach Shanghai zurückkehrt?
+- **MAR-M-031** (Fist of Legend|1994): „Fist of Legend“ (1994): Welchen Verdacht über den Tod seines Meisters lässt Chen Zhen (Jet Li) durch eine Untersuchung bestätigen?
+- **MAR-M-032** (Fist of Legend|1994): „Fist of Legend“ (1994): Warum gerät Chen Zhen (Jet Li) wegen seiner Beziehung zu Mitsuko (Shinobu Nakayama) auch mit der eigenen Schule in Konflikt?
+- **MAR-S-031** (Fist of Legend|1994): „Fist of Legend“ (1994): Welcher japanische Meister begegnet Chen Zhen (Jet Li) im Kampf mit Respekt und regt ihn zur Weiterentwicklung an?
+- **MAR-S-032** (Fist of Legend|1994): „Fist of Legend“ (1994): Wie wird Chen Zhen (Jet Li) nach dem tödlichen Konflikt mit Fujita (Billy Chow) ein Überleben ermöglicht?
+- **MAR-L-034** (Fearless|2006): „Fearless“ (2006): Was treibt Huo Yuanjia (Jet Li) in seiner frühen erfolgreichen Phase besonders an?
+- **MAR-M-033** (Fearless|2006): „Fearless“ (2006): Welche Folge hat Huo Yuanjias (Jet Li) tödlicher Kampf gegen Qin Lei (Chen Zhihui)?
+- **MAR-M-034** (Fearless|2006): „Fearless“ (2006): Welche Figur hilft Huo Yuanjia (Jet Li) im Dorf, wieder einen einfachen Alltag zu finden?
+- **MAR-S-033** (Fearless|2006): „Fearless“ (2006): Welche Einrichtung hilft Huo Yuanjia (Jet Li) nach seiner Rückkehr aufzubauen?
+- **MAR-S-034** (Fearless|2006): „Fearless“ (2006): Wie zeigt Huo Yuanjia (Jet Li) im letzten Kampf gegen Tanaka seine gewandelte Haltung?
+- **MAR-L-036** (Hero|2002): „Hero“ (2002): Was legt der Namenlose (Jet Li) dem König als Beleg seiner angeblichen Siege vor?
+- **MAR-S-035** (Hero|2002): „Hero“ (2002): Welche Kunst verbindet Zerbrochenes Schwert (Tony Leung Chiu-wai) besonders eng mit seinem Verständnis des Schwertkampfs?
+- **MAR-S-036** (Hero|2002): „Hero“ (2002): Warum verzichtet der Namenlose (Jet Li) schließlich auf die Ermordung des Königs?
+- **MAR-L-038** (Ip Man|2008): „Ip Man“ (2008): Welche Kampfkunst beherrscht und vermittelt Ip Man (Donnie Yen)?
+- **MAR-M-037** (Ip Man|2008): „Ip Man“ (2008): Welche Arbeit nimmt Ip Man (Donnie Yen) nach dem Verlust seines Wohlstands an?
+- **MAR-M-038** (Ip Man|2008): „Ip Man“ (2008): Warum unterrichtet Ip Man (Donnie Yen) die Arbeiter der Baumwollfabrik?
+- **MAR-S-038** (Ip Man|2008): „Ip Man“ (2008): Was geschieht unmittelbar nach Ip Mans (Donnie Yen) Sieg über Miura (Hiroyuki Ikeuchi)?
+- **MAR-L-040** (Ong-Bak: Muay Thai Warrior|2003): „Ong-Bak“ (2003): Was wurde aus Tings (Tony Jaa) Dorf gestohlen und soll zurückgebracht werden?
+- **MAR-M-039** (Ong-Bak: Muay Thai Warrior|2003): „Ong-Bak“ (2003): In welche Großstadt führt Tings (Tony Jaa) Suche zuerst?
+- **MAR-M-040** (Ong-Bak: Muay Thai Warrior|2003): „Ong-Bak“ (2003): Was macht Humlae (Petchtai Wongkamlao) zunächst mit dem Geld, das Ting (Tony Jaa) aus dem Dorf mitbringt?
+- **MAR-S-039** (Ong-Bak: Muay Thai Warrior|2003): „Ong-Bak“ (2003): Was entdeckt Ting (Tony Jaa) nach der Verfolgung am Fluss?
+- **MAR-S-040** (Ong-Bak: Muay Thai Warrior|2003): „Ong-Bak“ (2003): Wie zeigt Humlae (Petchtai Wongkamlao) im Finale seine veränderte Loyalität?
+- **MAR-L-042** (Tom-Yum-Goong|2005): „Revenge of the Warrior“ (2005): Was löst Khams (Tony Jaa) Reise und seine Suche aus?
+- **MAR-M-042** (Tom-Yum-Goong|2005): „Revenge of the Warrior“ (2005): Welche Funktion hat Mark (Petchtai Wongkamlao), der Kham in Australien unterstützt?
+- **MAR-M-044** (Crouching Tiger, Hidden Dragon|2000): „Tiger & Dragon“ (2000): Was hält Li Mu Bai (Chow Yun-fat) und Yu Shu Lien lange davon ab, ihre Liebe offen zu leben?
+- **MAR-S-043** (Crouching Tiger, Hidden Dragon|2000): „Tiger & Dragon“ (2000): Wodurch konnte Jen (Zhang Ziyi) beim Studium des Wudang-Handbuchs über Jadefuchs (Cheng Pei-pei) hinausgelangen?
+- **MAR-S-044** (Crouching Tiger, Hidden Dragon|2000): „Tiger & Dragon“ (2000): Welche Handlung von Jen (Zhang Ziyi) beschließt den Film?
+- **MAR-M-045** (House of Flying Daggers|2004): „House of Flying Daggers“ (2004): Warum verhilft Jin (Takeshi Kaneshiro) Mei (Zhang Ziyi) zunächst scheinbar selbstlos zur Flucht?
+- **MAR-M-046** (House of Flying Daggers|2004): „House of Flying Daggers“ (2004): Welche zentrale Behauptung über Mei (Zhang Ziyi) erweist sich später als Täuschung?
+- **MAR-S-045** (House of Flying Daggers|2004): „House of Flying Daggers“ (2004): Welche geheime Zugehörigkeit verbirgt Leo (Andy Lau) hinter seiner Polizeifunktion?
+- **MAR-S-046** (House of Flying Daggers|2004): „House of Flying Daggers“ (2004): Warum endet Meis (Zhang Ziyi) Eingreifen in das letzte Duell für sie tödlich?
+- **MAR-L-048** (The 36th Chamber of Shaolin|1978): „Die 36 Kammern der Shaolin“ (1978): Warum sucht Liu Yu-de (Gordon Liu) Zuflucht und Ausbildung im Shaolin-Kloster?
+- **MAR-M-047** (The 36th Chamber of Shaolin|1978): „Die 36 Kammern der Shaolin“ (1978): Was soll San Te (Gordon Liu) beim Tragen von Wassereimern mit seitlichen Klingen besonders trainieren?
+- **MAR-S-047** (The 36th Chamber of Shaolin|1978): „Die 36 Kammern der Shaolin“ (1978): Welche Waffe entwickelt San Te (Gordon Liu), um eine wiederkehrende Grenze im Übungskampf zu überwinden?
+- **MAR-L-050** (Hard Boiled|1992): „Hard Boiled“ (1992): Welche geheime Funktion hat der als Gangster auftretende Alan (Tony Leung Chiu-wai)?
+- **MAR-M-049** (Hard Boiled|1992): „Hard Boiled“ (1992): Wo verbirgt Johnny Wong (Anthony Wong) sein großes Waffenlager?
+- **MAR-S-049** (Hard Boiled|1992): „Hard Boiled“ (1992): Welches kleine Ritual begleitet Alans (Tony Leung Chiu-wai) Tötungen?
+- **MAR-S-050** (Hard Boiled|1992): „Hard Boiled“ (1992): Wie ermöglichen Tequila (Chow Yun-fat) und Pang (Philip Chan) Alan (Tony Leung Chiu-wai) nach dem Einsatz einen Neuanfang?
+- **MAR-L-002-V1** (Snake in the Eagle's Shadow|1978): „Die Schlange im Schatten des Adlers“ (1978): Welche Ausgangsstellung macht Chien Fus (Jackie Chan) späteren Aufstieg besonders auffällig?
+- **MAR-M-002-V1** (Snake in the Eagle's Shadow|1978): „Die Schlange im Schatten des Adlers“ (1978): Zu welcher Schule gehört Sheng Kuan (Hwang Jang-lee), der Pai Cheng-tien (Yuen Siu-tien) verfolgt?
+- **MAR-S-002-V1** (Snake in the Eagle's Shadow|1978): „Die Schlange im Schatten des Adlers“ (1978): Welche Neuerung macht Chien Fus (Jackie Chan) Schlangenstil im entscheidenden Duell unberechenbar?
+- **MAR-M-006-V1** (Drunken Master II|1994): „Drunken Master 2“ (1994): Welche Sorge des Vaters bestätigt sich, als Wong Fei-hung (Jackie Chan) nach starkem Trinken wehrlos gedemütigt wird?
+- **MAR-S-006-V1** (Drunken Master II|1994): „Drunken Master 2“ (1994): Welcher industrielle Schauplatz verbindet das Schmuggelgeschäft mit dem Duell gegen John (Ken Lo)?
+- **MAR-L-010-V1** (Police Story|1985): „Police Story“ (1985): Warum kennt Salina (Brigitte Lin) Chu Taos (Chor Yuen) Geschäfte aus unmittelbarer beruflicher Nähe?
+- **MAR-S-010-V1** (Police Story|1985): „Police Story“ (1985): Welchen Teil der Dekoration macht Chan Ka-kui (Jackie Chan) beim Sprung durch die Etagen zum Fluchtweg?
+- **MAR-M-012-V1** (Police Story 3: Super Cop|1992): „Police Story III – Supercop“ (1992): Welche Familiengeschichte müssen Chan Ka-kui (Jackie Chan) und Jessica Yang (Michelle Yeoh) vor Panther (Yuen Wah) glaubwürdig vertreten?
+- **MAR-S-012-V1** (Police Story 3: Super Cop|1992): „Police Story III – Supercop“ (1992): Welcher Alltagsmoment wird für Chan Ka-kuis (Jackie Chan) Tarnung besonders gefährlich?
+- **MAR-L-018-V1** (Wheels on Meals|1984): „Powerman“ (1984): Welche gemeinsame Arbeit verbindet Thomas (Jackie Chan) und David (Yuen Biao) schon vor dem Kriminalfall?
+- **MAR-M-018-V1** (Wheels on Meals|1984): „Powerman“ (1984): Welcher Anspruch macht Sylvia (Lola Forner) zum Hindernis für Mondales Vermögenspläne?
+- **MAR-L-022-V1** (Rush Hour|1998): „Rush Hour“ (1998): Welches Familienmitglied von Konsul Han soll Lee (Jackie Chan) aus der Gewalt der Entführer befreien?
+- **MAR-M-022-V1** (Rush Hour|1998): „Rush Hour“ (1998): Unter welchem gesuchten Namen führt Thomas Griffin (Tom Wilkinson) seine kriminellen Geschäfte?
+- **MAR-S-022-V1** (Rush Hour|1998): „Rush Hour“ (1998): Welchen Zweck erfüllt die große Fahne im Finale für Carter (Chris Tucker) und Lee (Jackie Chan)?
+- **MAR-L-030-V1** (Enter the Dragon|1973): „Der Mann mit der Todeskralle“ (1973): Welche glaubwürdige Rolle verschafft Lee (Bruce Lee) eine Einladung in Hans (Shih Kien) abgeschottetes Reich?
+- **MAR-M-030-V1** (Enter the Dragon|1973): „Der Mann mit der Todeskralle“ (1973): Welche persönliche Vorgeschichte steht hinter Lees (Bruce Lee) Begegnung mit O'Hara (Bob Wall)?
+- **MAR-S-030-V1** (Enter the Dragon|1973): „Der Mann mit der Todeskralle“ (1973): Welche Eigenschaft des Finalraums beseitigt Lee (Bruce Lee), um Han (Shih Kien) zuverlässig lokalisieren zu können?
+- **MAR-L-040-V1** (Ong-Bak: Muay Thai Warrior|2003): „Ong-Bak“ (2003): Welchen fehlenden Teil von Ong-Bak will Ting (Tony Jaa) seiner Dorfgemeinschaft zurückbringen?
+- **MAR-M-040-V1** (Ong-Bak: Muay Thai Warrior|2003): „Ong-Bak“ (2003): Wodurch gefährdet Humlae (Petchtai Wongkamlao) die finanzielle Grundlage von Tings (Tony Jaa) Suche bereits bei dessen Ankunft?
+- **MAR-S-040-V1** (Ong-Bak: Muay Thai Warrior|2003): „Ong-Bak“ (2003): Was bewahrt Humlae (Petchtai Wongkamlao) im Finale unter Einsatz seines Lebens vor Komtuans (Suchao Pongwilai) Hammer?
+- **MAR-L-044-V1** (Crouching Tiger, Hidden Dragon|2000): „Tiger & Dragon“ (2000): Welchen Besitz hatte Li Mu Bai (Chow Yun-fat) zur sicheren Aufbewahrung weitergeben wollen, bevor er gestohlen wurde?
+- **MAR-M-044-V1** (Crouching Tiger, Hidden Dragon|2000): „Tiger & Dragon“ (2000): Welche ältere Bindung empfinden Li Mu Bai (Chow Yun-fat) und Yu Shu Lien (Michelle Yeoh) als Verpflichtung gegenüber ihrer eigenen Liebe?
+- **ROM-L-002** (When Harry Met Sally...|1989): „Harry & Sally“ (1989): Welche Grundfrage diskutieren Harry (Billy Crystal) und Sally (Meg Ryan) immer wieder?
+- **ROM-M-001** (When Harry Met Sally...|1989): „Harry & Sally“ (1989): Was geschieht bei dem gemeinsamen Essen mit Jess (Bruno Kirby) und Marie (Carrie Fisher)?
+- **ROM-M-002** (When Harry Met Sally...|1989): „Harry & Sally“ (1989): Was demonstriert Sally (Meg Ryan) in der berühmten Restaurantszene?
+- **ROM-S-001** (When Harry Met Sally...|1989): „Harry & Sally“ (1989): Was löst Harrys (Billy Crystal) Entschluss aus, Sally (Meg Ryan) am Silvesterabend aufzusuchen?
+- **ROM-L-004** (Pretty Woman|1990): „Pretty Woman“ (1990): Welche Vereinbarung treffen Edward (Richard Gere) und Vivian (Julia Roberts) zunächst?
+- **ROM-M-003** (Pretty Woman|1990): „Pretty Woman“ (1990): Wer hilft Vivian (Julia Roberts) als Hotelmanager beim Umgang mit der eleganten Umgebung?
+- **ROM-M-004** (Pretty Woman|1990): „Pretty Woman“ (1990): Warum ist Vivians (Julia Roberts) Rückkehr in die Boutique mit Einkaufstaschen bedeutsam?
+- **ROM-S-003** (Pretty Woman|1990): „Pretty Woman“ (1990): Welche Oper besuchen Edward (Richard Gere) und Vivian (Julia Roberts)?
+- **ROM-S-004** (Pretty Woman|1990): „Pretty Woman“ (1990): Welches Geschäftsvorhaben verändert Edward (Richard Gere) gegenüber James Morse (Ralph Bellamy)?
+- **ROM-L-005** (Notting Hill|1999): „Notting Hill“ (1999): Was betreibt William Thacker (Hugh Grant)?
+- **ROM-M-005** (Notting Hill|1999): „Notting Hill“ (1999): Wie heißt Williams (Hugh Grant) ungewöhnlicher Mitbewohner?
+- **ROM-M-006** (Notting Hill|1999): „Notting Hill“ (1999): Was führt nach Annas (Julia Roberts) erstem Ladenbesuch zu einer weiteren Begegnung in Williams (Hugh Grant) Wohnung?
+- **ROM-S-005** (Notting Hill|1999): „Notting Hill“ (1999): Für welche Zeitschrift gibt William (Hugh Grant) sich beim Pressetermin als Reporter aus?
+- **ROM-S-006** (Notting Hill|1999): „Notting Hill“ (1999): Welches persönliche Geschenk bringt Anna William (Hugh Grant) als Versöhnungszeichen?
+- **ROM-L-008** (Sleepless in Seattle|1993): „Schlaflos in Seattle“ (1993): Wie wird Annie (Meg Ryan) erstmals auf Sams (Tom Hanks) Geschichte aufmerksam?
+- **ROM-M-007** (Sleepless in Seattle|1993): „Schlaflos in Seattle“ (1993): Welche Beziehung besteht zwischen Jonah (Ross Malinger) und Sam (Tom Hanks)?
+- **ROM-M-008** (Sleepless in Seattle|1993): „Schlaflos in Seattle“ (1993): An welchem New Yorker Wahrzeichen treffen Sam (Tom Hanks) und Annie (Meg Ryan) am Ende zusammen?
+- **ROM-S-007** (Sleepless in Seattle|1993): „Schlaflos in Seattle“ (1993): Welcher ältere Liebesfilm prägt Annies (Meg Ryan) Vorstellung vom Treffen am Empire State Building?
+- **ROM-S-008** (Sleepless in Seattle|1993): „Schlaflos in Seattle“ (1993): Warum kehren Sam (Tom Hanks) und Jonah (Ross Malinger) noch einmal auf die Aussichtsplattform zurück?
+- **ROM-L-010** (You've Got Mail|1998): „E-m@il für Dich“ (1998): Was wissen Kathleen und Joe (Tom Hanks) anfangs nicht über ihre vertrauten E-Mail-Kontakte?
+- **ROM-L-012** (Four Weddings and a Funeral|1994): „Vier Hochzeiten und ein Todesfall“ (1994): In wen verliebt sich Charles (Hugh Grant) bei den wiederkehrenden Hochzeitsbegegnungen?
+- **ROM-M-011** (Four Weddings and a Funeral|1994): „Vier Hochzeiten und ein Todesfall“ (1994): Welche Freundin gesteht Charles (Hugh Grant) ihre lange unerwiderte Liebe?
+- **ROM-S-011** (Four Weddings and a Funeral|1994): „Vier Hochzeiten und ein Todesfall“ (1994): Wie bringt David (David Bower) Charles’ (Hugh Grant) geplante Hochzeit zum Stillstand?
+- **ROM-S-012** (Four Weddings and a Funeral|1994): „Vier Hochzeiten und ein Todesfall“ (1994): Welche Vereinbarung treffen Charles (Hugh Grant) und Carrie (Andie MacDowell) am Ende?
+- **ROM-L-014** (Bridget Jones's Diary|2001): „Bridget Jones – Schokolade zum Frühstück“ (2001): Worin hält Bridget (Renée Zellweger) ihre Vorsätze und persönlichen Missgeschicke fest?
+- **ROM-M-013** (Bridget Jones's Diary|2001): „Bridget Jones – Schokolade zum Frühstück“ (2001): Welche berufliche Beziehung hat Bridget (Renée Zellweger) anfangs zu Daniel Cleaver (Hugh Grant)?
+- **ROM-M-014** (Bridget Jones's Diary|2001): „Bridget Jones – Schokolade zum Frühstück“ (2001): In welchen beruflichen Bereich wechselt Bridget (Renée Zellweger) nach dem Bruch mit Daniel (Hugh Grant)?
+- **ROM-S-013** (Bridget Jones's Diary|2001): „Bridget Jones – Schokolade zum Frühstück“ (2001): Was erfährt Bridget (Renée Zellweger) über die frühere Feindschaft zwischen Mark und Daniel (Hugh Grant)?
+- **ROM-S-014** (Bridget Jones's Diary|2001): „Bridget Jones – Schokolade zum Frühstück“ (2001): Warum verlässt Mark am Ende Bridgets (Renée Zellweger) Wohnung, nachdem er ihr Tagebuch gelesen hat?
+- **ROM-L-015** (Bridget Jones: The Edge of Reason|2004): „Bridget Jones – Am Rande des Wahnsinns“ (2004): Mit wem ist Bridget (Renée Zellweger) zu Beginn dieses zweiten Films zusammen?
+- **ROM-L-016** (Bridget Jones: The Edge of Reason|2004): „Bridget Jones – Am Rande des Wahnsinns“ (2004): In welches Land führt Bridget (Renée Zellweger) eine berufliche Reise mit Daniel (Hugh Grant)?
+- **ROM-M-015** (Bridget Jones: The Edge of Reason|2004): „Bridget Jones – Am Rande des Wahnsinns“ (2004): Welche Kollegin Marks (Colin Firth) betrachtet Bridget (Renée Zellweger) als mögliche Rivalin?
+- **ROM-M-016** (Bridget Jones: The Edge of Reason|2004): „Bridget Jones – Am Rande des Wahnsinns“ (2004): Warum wird Bridget (Renée Zellweger) am thailändischen Flughafen verhaftet?
+- **ROM-S-015** (Bridget Jones: The Edge of Reason|2004): „Bridget Jones – Am Rande des Wahnsinns“ (2004): Wer setzt sich entscheidend für Bridgets (Renée Zellweger) Entlastung nach der Verhaftung ein?
+- **ROM-S-016** (Bridget Jones: The Edge of Reason|2004): „Bridget Jones – Am Rande des Wahnsinns“ (2004): Für wen hat Rebecca (Jacinda Barrett) tatsächlich romantische Gefühle?
+- **ROM-L-017** (Bridget Jones's Baby|2016): „Bridget Jones’ Baby“ (2016): Welche Unsicherheit steht im Zentrum von Bridgets (Renée Zellweger) Schwangerschaft?
+- **ROM-M-017** (Bridget Jones's Baby|2016): „Bridget Jones’ Baby“ (2016): Wo begegnet Bridget (Renée Zellweger) Jack (Patrick Dempsey) erstmals?
+- **ROM-S-018** (Bridget Jones's Baby|2016): „Bridget Jones’ Baby“ (2016): Welche Information liefert die Zeitung am Filmende über Daniel (Hugh Grant) Cleaver?
+- **ROM-L-020** (The Proposal|2009): „Selbst ist die Braut“ (2009): Warum behauptet Margaret (Sandra Bullock), sie werde ihren Assistenten Andrew (Ryan Reynolds) heiraten?
+- **ROM-M-019** (The Proposal|2009): „Selbst ist die Braut“ (2009): Wohin reisen Margaret (Sandra Bullock) und Andrew (Ryan Reynolds) zu seiner Familie?
+- **ROM-M-020** (The Proposal|2009): „Selbst ist die Braut“ (2009): In welcher Beziehung steht die von Betty White gespielte Annie zu Andrew (Ryan Reynolds)?
+- **ROM-S-019** (The Proposal|2009): „Selbst ist die Braut“ (2009): Welche berufliche Gegenleistung verlangt Andrew (Ryan Reynolds) für seine Mitwirkung?
+- **ROM-S-020** (The Proposal|2009): „Selbst ist die Braut“ (2009): Warum bricht Margaret (Sandra Bullock) die geplante Trauung vor der Familie ab?
+- **ROM-L-021** (The Holiday|2006): „Liebe braucht keine Ferien“ (2006): Was tauschen Amanda (Cameron Diaz) und Iris (Kate Winslet) über das Internet?
+- **ROM-M-021** (The Holiday|2006): „Liebe braucht keine Ferien“ (2006): Wie ist Graham (Jude Law) mit Iris (Kate Winslet) verbunden?
+- **ROM-M-022** (The Holiday|2006): „Liebe braucht keine Ferien“ (2006): Welchen Beruf übt Miles (Jack Black) aus?
+- **ROM-S-021** (The Holiday|2006): „Liebe braucht keine Ferien“ (2006): Was entdeckt Amanda (Cameron Diaz) bei ihrem überraschenden Besuch in Grahams (Jude Law) Zuhause?
+- **ROM-S-022** (The Holiday|2006): „Liebe braucht keine Ferien“ (2006): Wer ermutigt Iris (Kate Winslet) als älterer Nachbar, zur Hauptfigur ihres eigenen Lebens zu werden?
+- **ROM-L-024** (50 First Dates|2004): „50 erste Dates“ (2004): Warum muss Henry (Adam Sandler) Lucy (Drew Barrymore) immer wieder neu kennenlernen?
+- **ROM-M-023** (50 First Dates|2004): „50 erste Dates“ (2004): Welchen Beruf hat Henry (Adam Sandler)?
+- **ROM-M-024** (50 First Dates|2004): „50 erste Dates“ (2004): Wozu entwickelt Henry (Adam Sandler) ein Video für Lucy (Drew Barrymore)?
+- **ROM-S-023** (50 First Dates|2004): „50 erste Dates“ (2004): Was findet Henry (Adam Sandler) in Lucys (Drew Barrymore) Kunstraum, obwohl sie ihn nicht bewusst wiedererkennt?
+- **ROM-S-024** (50 First Dates|2004): „50 erste Dates“ (2004): Wie zeigt das Ende Lucys (Drew Barrymore) Gedächtnissituation?
+- **ROM-L-026** (10 Things I Hate About You|1999): „10 Dinge, die ich an Dir hasse“ (1999): Welche Regel ihres Vaters erschwert Biancas (Larisa Oleynik) Verabredungen?
+- **ROM-M-025** (10 Things I Hate About You|1999): „10 Dinge, die ich an Dir hasse“ (1999): Warum beginnt Patrick (Heath Ledger) zunächst, Kat (Julia Stiles) den Hof zu machen?
+- **ROM-S-025** (10 Things I Hate About You|1999): „10 Dinge, die ich an Dir hasse“ (1999): Was verrät Kat (Julia Stiles) Bianca (Larisa Oleynik) über ihre frühere Verbindung zu Joey (Andrew Keegan)?
+- **ROM-S-026** (10 Things I Hate About You|1999): „10 Dinge, die ich an Dir hasse“ (1999): Wofür verwendet Patrick (Heath Ledger) das Geld aus seiner Vereinbarung am Ende?
+- **ROM-L-028** (How to Lose a Guy in 10 Days|2003): „Wie werde ich ihn los – in 10 Tagen?“ (2003): Welches Ziel verfolgt Andie (Kate Hudson) zunächst für ihren Artikel?
+- **ROM-M-027** (How to Lose a Guy in 10 Days|2003): „Wie werde ich ihn los – in 10 Tagen?“ (2003): Was will Ben (Matthew McConaughey) durch seine eigene Wette erreichen?
+- **ROM-S-027** (How to Lose a Guy in 10 Days|2003): „Wie werde ich ihn los – in 10 Tagen?“ (2003): Warum verändert der Besuch bei Bens (Matthew McConaughey) Familie Andies (Kate Hudson) Haltung?
+- **ROM-S-028** (How to Lose a Guy in 10 Days|2003): „Wie werde ich ihn los – in 10 Tagen?“ (2003): Was bringt Ben (Matthew McConaughey) nach dem Zerwürfnis dazu, Andie (Kate Hudson) erneut aufzusuchen?
+- **ROM-M-030** (27 Dresses|2008): „27 Dresses“ (2008): Welchen Beruf hat Kevin Doyle (James Marsden)?
+- **ROM-S-029** (27 Dresses|2008): „27 Dresses“ (2008): Wodurch fühlt Jane sich von Kevin (James Marsden) öffentlich verraten?
+- **ROM-S-030** (27 Dresses|2008): „27 Dresses“ (2008): Wie greift Janes (Katherine Heigl) eigene Hochzeit die 27 früheren Brautjungfernkleider auf?
+- **ROM-L-032** (While You Were Sleeping|1995): „Während Du schliefst“ (1995): Für wen hält Peters (Peter Gallagher) Familie Lucy (Sandra Bullock) nach seiner Rettung?
+- **ROM-M-031** (While You Were Sleeping|1995): „Während Du schliefst“ (1995): Wie ist Jack (Bill Pullman) mit Peter (Peter Gallagher) verwandt?
+- **ROM-M-032** (While You Were Sleeping|1995): „Während Du schliefst“ (1995): Wie rettet Lucy (Sandra Bullock) Peter (Peter Gallagher) bei ihrer ersten entscheidenden Begegnung?
+- **ROM-S-031** (While You Were Sleeping|1995): „Während Du schliefst“ (1995): Wer kennt Lucys (Sandra Bullock) Geheimnis früh und verschweigt es zunächst vor der Familie?
+- **ROM-S-032** (While You Were Sleeping|1995): „Während Du schliefst“ (1995): Wie macht Jack (Bill Pullman) Lucy (Sandra Bullock) schließlich einen Heiratsantrag?
+- **ROM-L-033** (The Wedding Singer|1998): „Eine Hochzeit zum Verlieben“ (1998): Womit verdient Robbie Hart (Adam Sandler) sein Geld?
+- **ROM-M-033** (The Wedding Singer|1998): „Eine Hochzeit zum Verlieben“ (1998): Was passiert an Robbies (Adam Sandler) eigenem Hochzeitstag?
+- **ROM-M-034** (The Wedding Singer|1998): „Eine Hochzeit zum Verlieben“ (1998): Was erfährt Robbie (Adam Sandler) über Julias (Drew Barrymore) Verlobten Glenn (Matthew Glave)?
+- **ROM-S-033** (The Wedding Singer|1998): „Eine Hochzeit zum Verlieben“ (1998): Welcher Musiker hilft Robbie (Adam Sandler) beim Liebesgeständnis im Flugzeug?
+- **ROM-S-034** (The Wedding Singer|1998): „Eine Hochzeit zum Verlieben“ (1998): Welche Sehnsucht drückt Robbies (Adam Sandler) Lied für Julia (Drew Barrymore) im Flugzeug aus?
+- **ROM-L-035** (The Wedding Planner|2001): „Wedding Planner – Verliebt, verlobt, verplant“ (2001): Welchen Beruf übt Mary Fiore (Jennifer Lopez) aus?
+- **ROM-M-035** (The Wedding Planner|2001): „Wedding Planner – Verliebt, verlobt, verplant“ (2001): Welche Entdeckung bringt Mary (Jennifer Lopez) in einen beruflichen Konflikt?
+- **ROM-M-036** (The Wedding Planner|2001): „Wedding Planner – Verliebt, verlobt, verplant“ (2001): Wie kommt es zur ersten Begegnung zwischen Mary (Jennifer Lopez) und Steve (Matthew McConaughey)?
+- **ROM-S-035** (The Wedding Planner|2001): „Wedding Planner – Verliebt, verlobt, verplant“ (2001): Welche Rolle soll Massimo (Justin Chambers) nach dem Wunsch von Marys (Jennifer Lopez) Vater übernehmen?
+- **ROM-S-036** (The Wedding Planner|2001): „Wedding Planner – Verliebt, verlobt, verplant“ (2001): Wie lösen Steve (Matthew McConaughey) und Fran (Bridgette Wilson-Sampras) ihre geplante Hochzeit am Ende?
+- **ROM-L-038** (Hitch|2005): „Hitch – Der Date Doktor“ (2005): Wobei hilft Hitch (Will Smith) seinen Kunden?
+- **ROM-M-037** (Hitch|2005): „Hitch – Der Date Doktor“ (2005): In wen ist Hitchs (Will Smith) schüchterner Kunde Albert (Kevin James) verliebt?
+- **ROM-M-038** (Hitch|2005): „Hitch – Der Date Doktor“ (2005): Was arbeitet Sara Melas (Eva Mendes)?
+- **ROM-S-037** (Hitch|2005): „Hitch – Der Date Doktor“ (2005): Welches Missverständnis führt Sara (Eva Mendes) zu ihrem belastenden Artikel über Hitch (Will Smith)?
+- **ROM-S-038** (Hitch|2005): „Hitch – Der Date Doktor“ (2005): Was erfährt Hitch (Will Smith) über Allegras (Amber Valletta) Gründe, Albert (Kevin James) zu mögen?
+- **ROM-M-039** (Love Actually|2003): „Tatsächlich… Liebe“ (2003): Wie sind Karen (Emma Thompson) und Premierminister David (Hugh Grant) miteinander verwandt?
+- **ROM-M-040** (Love Actually|2003): „Tatsächlich… Liebe“ (2003): Wie gesteht Mark (Andrew Lincoln) Juliet (Keira Knightley) seine Gefühle an ihrer Haustür?
+- **ROM-S-039** (Love Actually|2003): „Tatsächlich… Liebe“ (2003): Warum verletzt Karen (Emma Thompson) das Weihnachtsgeschenk ihres Mannes besonders?
+- **ROM-S-040** (Love Actually|2003): „Tatsächlich… Liebe“ (2003): Für wen entscheidet sich Billy Mack (Bill Nighy) am Weihnachtsabend statt für eine glamouröse Party?
+- **ROM-L-042** (Music and Lyrics|2007): „Mitten ins Herz – Ein Song für dich“ (2007): Welche gemeinsame Arbeit bringt Alex (Hugh Grant) und Sophie (Drew Barrymore) näher zusammen?
+- **ROM-M-041** (Music and Lyrics|2007): „Mitten ins Herz – Ein Song für dich“ (2007): Welche Tätigkeit führt Sophie (Drew Barrymore) anfangs in Alex’ (Hugh Grant) Wohnung?
+- **ROM-M-042** (Music and Lyrics|2007): „Mitten ins Herz – Ein Song für dich“ (2007): Wer erteilt Alex (Hugh Grant) den Auftrag für das Lied „Way Back Into Love“?
+- **ROM-S-041** (Music and Lyrics|2007): „Mitten ins Herz – Ein Song für dich“ (2007): Warum hat Sophie (Drew Barrymore) zunächst Schwierigkeiten, ihrem eigenen Schreiben zu vertrauen?
+- **ROM-S-042** (Music and Lyrics|2007): „Mitten ins Herz – Ein Song für dich“ (2007): Was überrascht Sophie (Drew Barrymore) bei Alex’ (Hugh Grant) angekündigtem neuen Lied im Konzert?
+- **ROM-L-044** (Roman Holiday|1953): „Ein Herz und eine Krone“ (1953): In welcher Stadt erlebt Ann (Audrey Hepburn) ihren heimlichen freien Tag?
+- **ROM-M-043** (Roman Holiday|1953): „Ein Herz und eine Krone“ (1953): Welchen Beruf verschweigt Joe (Gregory Peck) der Prinzessin zunächst?
+- **ROM-M-044** (Roman Holiday|1953): „Ein Herz und eine Krone“ (1953): Mit welchem Fahrzeug sind Ann (Audrey Hepburn) und Joe (Gregory Peck) in einer berühmten Stadtszene unterwegs?
+- **ROM-S-043** (Roman Holiday|1953): „Ein Herz und eine Krone“ (1953): Was entscheidet Joe (Gregory Peck) über seine geplante Exklusivgeschichte?
+- **ROM-S-044** (Roman Holiday|1953): „Ein Herz und eine Krone“ (1953): Was übergibt Fotograf Irving (Eddie Albert) der Prinzessin bei der abschließenden Pressebegegnung?
+- **ROM-L-046** (Moonstruck|1987): „Mondsüchtig“ (1987): Wie ist Ronny (Nicolas Cage) mit Lorettas Verlobtem Johnny (Danny Aiello) verwandt?
+- **ROM-M-045** (Moonstruck|1987): „Mondsüchtig“ (1987): Wo arbeitet Ronny (Nicolas Cage)?
+- **ROM-S-045** (Moonstruck|1987): „Mondsüchtig“ (1987): Wofür macht Ronny (Nicolas Cage) seinen Bruder seit Jahren verantwortlich?
+- **ROM-S-046** (Moonstruck|1987): „Mondsüchtig“ (1987): Wen entdeckt Loretta beim Opernbesuch mit Ronny (Nicolas Cage) in belastender Begleitung?
+- **ROM-L-048** (French Kiss|1995): „French Kiss“ (1995): Warum reist Kate (Meg Ryan) zunächst nach Frankreich?
+- **ROM-M-047** (French Kiss|1995): „French Kiss“ (1995): Welchen eigenen Traum verfolgt Luc (Kevin Kline) mit seinen riskanten Geschäften?
+- **ROM-M-048** (French Kiss|1995): „French Kiss“ (1995): Warum versteckt Luc (Kevin Kline) Gegenstände in Kates (Meg Ryan) Tasche vor der Einreise?
+- **ROM-S-048** (French Kiss|1995): „French Kiss“ (1995): Woher stammt das Geld, das Kate (Meg Ryan) Luc (Kevin Kline) als Erlös für die Halskette übergibt?
+- **ROM-M-050** (Sweet Home Alabama|2002): „Sweet Home Alabama – Liebe auf Umwegen“ (2002): Welche öffentliche Position hat Andrews (Patrick Dempsey) Mutter Kate (Candice Bergen)?
+- **ROM-S-049** (Sweet Home Alabama|2002): „Sweet Home Alabama – Liebe auf Umwegen“ (2002): Wessen fehlende Unterschrift stoppt die geplante Hochzeit mit Andrew (Patrick Dempsey)?
+- **ROM-L-002-V1** (When Harry Met Sally...|1989): „Harry & Sally“ (1989): Womit widerspricht Sally (Meg Ryan) Harrys (Billy Crystal) Ausgangsthese über Männer und Frauen?
+- **ROM-M-001-V1** (When Harry Met Sally...|1989): „Harry & Sally“ (1989): Welche Beziehung entsteht überraschend aus dem von Harry (Billy Crystal) und Sally (Meg Ryan) arrangierten Essen?
+- **ROM-M-002-V1** (When Harry Met Sally...|1989): „Harry & Sally“ (1989): Warum bringt Sallys (Meg Ryan) Darbietung im Restaurant Harrys (Billy Crystal) Argument ins Wanken?
+- **ROM-S-001-V1** (When Harry Met Sally...|1989): „Harry & Sally“ (1989): Welche Erkenntnis erklärt Harrys (Billy Crystal) Liebeserklärung gerade am Silvesterabend?
+- **ROM-L-005-V1** (Notting Hill|1999): „Notting Hill“ (1999): Womit verdient William (Hugh Grant) seinen Lebensunterhalt, bevor Anna in sein Leben tritt?
+- **ROM-M-005-V1** (Notting Hill|1999): „Notting Hill“ (1999): Welche Funktion hat der von Rhys Ifans gespielte Spike in Williams (Hugh Grant) Alltag?
+- **ROM-M-006-V1** (Notting Hill|1999): „Notting Hill“ (1999): Warum bietet William (Hugh Grant) Anna nach der Straßenbegegnung Hilfe in seiner Wohnung an?
+- **ROM-S-005-V1** (Notting Hill|1999): „Notting Hill“ (1999): Welche improvisierte Tarnung benutzt William (Hugh Grant) bei Annas (Julia Roberts) Pressetermin?
+- **ROM-S-006-V1** (Notting Hill|1999): „Notting Hill“ (1999): Woran zeigt Annas (Julia Roberts) Chagall-Geschenk, dass sie William (Hugh Grant) aufmerksam zugehört hat?
+- **ROM-L-014-V1** (Bridget Jones's Diary|2001): „Bridget Jones – Schokolade zum Frühstück“ (2001): Welcher Gegenstand bewahrt Bridgets (Renée Zellweger) ungefilterte Urteile, die später ein Missverständnis mit Mark auslösen?
+- **ROM-M-013-V1** (Bridget Jones's Diary|2001): „Bridget Jones – Schokolade zum Frühstück“ (2001): Warum überschneidet sich Bridgets (Renée Zellweger) Flirt mit Daniel (Hugh Grant) zunächst unmittelbar mit ihrem Berufsleben?
+- **ROM-M-014-V1** (Bridget Jones's Diary|2001): „Bridget Jones – Schokolade zum Frühstück“ (2001): Welcher Berufswechsel markiert Bridgets (Renée Zellweger) Neuanfang nach Daniel (Hugh Grant)?
+- **ROM-S-013-V1** (Bridget Jones's Diary|2001): „Bridget Jones – Schokolade zum Frühstück“ (2001): Warum ist Daniels (Hugh Grant) Geschichte über Mark irreführend?
+- **ROM-S-014-V1** (Bridget Jones's Diary|2001): „Bridget Jones – Schokolade zum Frühstück“ (2001): Was bedeutet das neue Tagebuch, das Mark Bridget (Renée Zellweger) am Ende überreicht?
+- **ROM-L-021-V1** (The Holiday|2006): „Liebe braucht keine Ferien“ (2006): Wie kommt Iris (Kate Winslet) ausgerechnet in Amandas (Cameron Diaz) Haus in Kalifornien?
+- **ROM-M-021-V1** (The Holiday|2006): „Liebe braucht keine Ferien“ (2006): Warum gehört Graham (Jude Law) schon vor dem Haustausch zum vertrauten Umfeld des englischen Hauses?
+- **ROM-S-021-V1** (The Holiday|2006): „Liebe braucht keine Ferien“ (2006): Wie muss Amanda (Cameron Diaz) Grahams (Jude Law) vermeintlich verborgenes Liebesleben neu einordnen?
+- **ROM-S-022-V1** (The Holiday|2006): „Liebe braucht keine Ferien“ (2006): Welche Begegnung hilft Iris (Kate Winslet), ihre eigene Rolle neu zu sehen und klassische Filmheldinnen kennenzulernen?
+- **ROM-L-044-V1** (Roman Holiday|1953): „Ein Herz und eine Krone“ (1953): Welche Stadt verbindet Ann (Audrey Hepburn) am Ende besonders mit ihrem privaten Ausbruch?
+- **ROM-M-043-V1** (Roman Holiday|1953): „Ein Herz und eine Krone“ (1953): Warum ist Joes (Gregory Peck) anfängliches Interesse an Ann (Audrey Hepburn) auch beruflich motiviert?
+- **ROM-M-044-V1** (Roman Holiday|1953): „Ein Herz und eine Krone“ (1953): Welche Szene zeigt Ann (Audrey Hepburn) auf einer Vespa statt in ihrem offiziellen Reiseablauf?
+- **ROM-S-043-V1** (Roman Holiday|1953): „Ein Herz und eine Krone“ (1953): Woran zeigt Joe (Gregory Peck) am Ende, dass Anns (Audrey Hepburn) Vertrauen für ihn wichtiger als der journalistische Gewinn geworden ist?
+- **ROM-S-044-V1** (Roman Holiday|1953): „Ein Herz und eine Krone“ (1953): Wie verändert sich die Funktion von Irvings (Eddie Albert) Fotos am Ende?
+- **ART-L-001** (Paris, Texas|1984): „Paris, Texas“ (1984): Wer ist Hunter (Hunter Carson) für Travis (Harry Dean Stanton)?
+- **ART-M-001** (Paris, Texas|1984): „Paris, Texas“ (1984): In welcher Stadt finden Travis (Harry Dean Stanton) und Hunter (Hunter Carson) Jane (Nastassja Kinski) wieder?
+- **ART-M-002** (Paris, Texas|1984): „Paris, Texas“ (1984): Wie sprechen Travis (Harry Dean Stanton) und Jane (Nastassja Kinski) in der entscheidenden Aussprache miteinander?
+- **ART-S-002** (Paris, Texas|1984): „Paris, Texas“ (1984): Was tut Travis (Harry Dean Stanton), nachdem Jane (Nastassja Kinski) und Hunter (Hunter Carson) zusammengefunden haben?
+- **ART-L-003** (Der Himmel über Berlin|1987): „Der Himmel über Berlin“ (1987): Was sind Damiel (Bruno Ganz) und Cassiel (Otto Sander) zu Beginn?
+- **ART-L-004** (Der Himmel über Berlin|1987): „Der Himmel über Berlin“ (1987): Welchen Beruf hat Marion (Solveig Dommartin)?
+- **ART-S-003** (Der Himmel über Berlin|1987): „Der Himmel über Berlin“ (1987): Wie heißt der alte Erzähler, dem Cassiel (Otto Sander) folgt?
+- **ART-S-004** (Der Himmel über Berlin|1987): „Der Himmel über Berlin“ (1987): Worauf verzichtet Damiel (Bruno Ganz), um als Mensch leben zu können?
+- **ART-L-005** (Persona|1966): „Persona“ (1966): Welchen Beruf hat Alma (Bibi Andersson)?
+- **ART-L-006** (Persona|1966): „Persona“ (1966): Welches Verhalten führt Elisabet (Liv Ullmann) in ärztliche Betreuung?
+- **ART-M-005** (Persona|1966): „Persona“ (1966): Wohin ziehen Alma (Bibi Andersson) und Elisabet (Liv Ullmann) zur Erholung?
+- **ART-M-006** (Persona|1966): „Persona“ (1966): Wodurch fühlt Alma (Bibi Andersson) ihr Vertrauen besonders verletzt?
+- **ART-L-007** (Smultronstället|1957): „Wilde Erdbeeren“ (1957): Welchen Beruf hat Isak Borg (Victor Sjöström) ausgeübt?
+- **ART-M-007** (Smultronstället|1957): „Wilde Erdbeeren“ (1957): In welche Stadt fährt Isak (Victor Sjöström) zur akademischen Ehrung?
+- **ART-M-008** (Smultronstället|1957): „Wilde Erdbeeren“ (1957): In welcher Beziehung steht Marianne (Ingrid Thulin) zu Isak (Victor Sjöström)?
+- **ART-S-008** (Smultronstället|1957): „Wilde Erdbeeren“ (1957): Was fehlt den Uhren in Isaks (Victor Sjöström) berühmtem Anfangstraum?
+- **ART-L-009** (Det sjunde inseglet|1957): „Das siebente Siegel“ (1957): Zu welchem Spiel fordert Antonius Block (Max von Sydow) den Tod (Bengt Ekerot) heraus?
+- **ART-L-010** (Det sjunde inseglet|1957): „Das siebente Siegel“ (1957): Welcher Stand kennzeichnet Antonius Block (Max von Sydow)?
+- **ART-M-009** (Det sjunde inseglet|1957): „Das siebente Siegel“ (1957): Wer begleitet Block (Max von Sydow) als Knappe?
+- **ART-M-010** (Det sjunde inseglet|1957): „Das siebente Siegel“ (1957): Wem verrät Block (Max von Sydow) im Beichtstuhl versehentlich seine Schachstrategie?
+- **ART-S-010** (Det sjunde inseglet|1957): „Das siebente Siegel“ (1957): Wem verschafft Block (Max von Sydow) durch Ablenkung beim Schach Gelegenheit zur Flucht?
+- **ART-L-011** (Fitzcarraldo|1982): „Fitzcarraldo“ (1982): Was möchte Fitzcarraldo (Klaus Kinski) in Iquitos errichten?
+- **ART-M-014** (Aguirre, der Zorn Gottes|1972): „Aguirre, der Zorn Gottes“ (1972): In welcher Beziehung steht Flores (Cecilia Rivera) zu Aguirre?
+- **ART-L-017** (Солярис|1972): „Solaris“ (1972): Welchen Beruf hat Kris Kelvin (Donatas Banionis)?
+- **ART-L-019** (Blue Velvet|1986): „Blue Velvet“ (1986): Was findet Jeffrey (Kyle MacLachlan) auf einer Wiese?
+- **ART-L-020** (Blue Velvet|1986): „Blue Velvet“ (1986): Welchen Beruf hat Dorothy Vallens (Isabella Rossellini)?
+- **ART-M-019** (Blue Velvet|1986): „Blue Velvet“ (1986): Wer ist der gewalttätige Frank Booth (Dennis Hopper)?
+- **ART-M-020** (Blue Velvet|1986): „Blue Velvet“ (1986): Wo versteckt sich Jeffrey (Kyle MacLachlan) in Dorothys (Isabella Rossellini) Wohnung?
+- **ART-S-019** (Blue Velvet|1986): „Blue Velvet“ (1986): Zu welchem Roy-Orbison-Lied bewegt Ben (Dean Stockwell) die Lippen?
+- **ART-L-021** (Mulholland Drive|2001): „Mulholland Drive – Straße der Finsternis“ (2001): Welches berufliche Ziel verfolgt Betty (Naomi Watts) in Los Angeles?
+- **ART-L-022** (Mulholland Drive|2001): „Mulholland Drive – Straße der Finsternis“ (2001): Welches Problem hat die Frau, die sich Rita (Laura Harring) nennt?
+- **ART-S-022** (Mulholland Drive|2001): „Mulholland Drive – Straße der Finsternis“ (2001): Wodurch kommt die unbekannte Frau auf den Namen Rita (Laura Harring)?
+- **ART-L-024** (Lost Highway|1997): „Lost Highway“ (1997): Was wird wiederholt vor Freds (Bill Pullman) Haus abgelegt?
+- **ART-M-023** (Lost Highway|1997): „Lost Highway“ (1997): Wer wird plötzlich an Freds (Bill Pullman) Stelle in der Gefängniszelle gefunden?
+- **ART-S-023** (Lost Highway|1997): „Lost Highway“ (1997): Was demonstriert der Mystery Man (Robert Blake) auf der Party durch einen Telefonanruf?
+- **ART-L-025** (Dead Man|1995): „Dead Man“ (1995): Welchen Beruf hat William Blake (Johnny Depp) zu Beginn?
+- **ART-L-026** (Dead Man|1995): „Dead Man“ (1995): Wie nennt sich Blakes (Johnny Depp) indigener Begleiter?
+- **ART-M-025** (Dead Man|1995): „Dead Man“ (1995): Wie heißt die Industriestadt, in der Blake (Johnny Depp) Arbeit sucht?
+- **ART-M-026** (Dead Man|1995): „Dead Man“ (1995): Für wen hält Nobody (Gary Farmer) den Buchhalter aufgrund seines Namens?
+- **ART-S-026** (Dead Man|1995): „Dead Man“ (1995): Worin treibt Blake (Johnny Depp) am Ende aufs Meer hinaus?
+- **ART-M-027** (Down by Law|1986): „Down by Law“ (1986): Was verbindet Zack (Tom Waits), Jack (John Lurie) und Roberto (Roberto Benigni) zunächst?
+- **ART-M-028** (Down by Law|1986): „Down by Law“ (1986): Aus welchem Land stammt Roberto (Roberto Benigni)?
+- **ART-S-028** (Down by Law|1986): „Down by Law“ (1986): Warum bleibt Roberto (Roberto Benigni) bei Nicoletta (Nicoletta Braschi) zurück?
+- **ART-L-029** (Broken Flowers|2005): „Broken Flowers“ (2005): Welche Behauptung enthält der anonyme Brief an Don (Bill Murray)?
+- **ART-M-029** (Broken Flowers|2005): „Broken Flowers“ (2005): Wer drängt Don (Bill Murray) besonders zur Spurensuche?
+- **ART-L-031** (Paterson|2016): „Paterson“ (2016): Womit verdient Paterson (Adam Driver) seinen Lebensunterhalt?
+- **ART-M-032** (Paterson|2016): „Paterson“ (2016): Was tut Paterson (Adam Driver) regelmäßig in seinem Notizbuch?
+- **ART-L-033** (Only Lovers Left Alive|2013): „Only Lovers Left Alive“ (2013): Was sind Adam (Tom Hiddleston) und Eve (Tilda Swinton)?
+- **ART-S-034** (Only Lovers Left Alive|2013): „Only Lovers Left Alive“ (2013): Warum beschaffen sich Adam (Tom Hiddleston) und Eve (Tilda Swinton) bevorzugt kontrolliert bezogenes Blut?
+- **ART-L-036** (Chung Hing sam lam|1994): „Chungking Express“ (1994): Wo arbeitet Faye (Faye Wong) zu Beginn ihrer Geschichte?
+- **ART-M-036** (Chung Hing sam lam|1994): „Chungking Express“ (1994): Welcher Song begleitet Fayes (Faye Wong) Sehnsucht besonders auffällig?
+- **ART-S-035** (Chung Hing sam lam|1994): „Chungking Express“ (1994): Wie erhält Faye (Faye Wong) Zugang zur Wohnung von Polizist 663?
+- **ART-S-039** (2046|2004): „2046“ (2004): Mit wem ist Jing-wen (Faye Wong) gegen den Willen ihres Vaters verbunden?
+- **ART-L-041** (The Piano|1993): „Das Piano“ (1993): Welches Instrument ist für Ada (Holly Hunter) besonders wichtig?
+- **ART-M-041** (The Piano|1993): „Das Piano“ (1993): In welches Land reist Ada (Holly Hunter) mit Flora (Anna Paquin)?
+- **ART-M-042** (The Piano|1993): „Das Piano“ (1993): Wer ist Flora (Anna Paquin) für Ada (Holly Hunter)?
+- **ART-S-041** (The Piano|1993): „Das Piano“ (1993): Was verlangt Baines (Harvey Keitel) anfangs im Tausch gegen die Rückgabe des Klaviers?
+- **ART-S-042** (The Piano|1993): „Das Piano“ (1993): Wie entscheidet Ada (Holly Hunter) sich, nachdem das sinkende Klavier sie unter Wasser zieht?
+- **ART-M-043** (Dogville|2003): „Dogville“ (2003): Wer wirbt zunächst dafür, Grace (Nicole Kidman) aufzunehmen?
+- **ART-M-044** (Dogville|2003): „Dogville“ (2003): Wie verändert die Gemeinde die Bedingungen für Graces (Nicole Kidman) Schutz?
+- **ART-L-045** (Melancholia|2011): „Melancholia“ (2011): Wie sind Justine (Kirsten Dunst) und Claire (Charlotte Gainsbourg) miteinander verwandt?
+- **ART-S-046** (Melancholia|2011): „Melancholia“ (2011): Was baut Justine (Kirsten Dunst) für Leo (Cameron Spurr) kurz vor dem Ende?
+- **ART-L-048** (Lola rennt|1998): „Lola rennt“ (1998): Wem versucht Lola (Franka Potente) das fehlende Geld zu beschaffen?
+- **ART-M-048** (Lola rennt|1998): „Lola rennt“ (1998): Wie oft wird Lolas (Franka Potente) zentraler Lauf in veränderter Form erzählt?
+- **ART-S-047** (Lola rennt|1998): „Lola rennt“ (1998): Welche Summe hat Manni (Moritz Bleibtreu) ursprünglich verloren?
+- **ART-S-048** (Lola rennt|1998): „Lola rennt“ (1998): Auf welche Zahl setzt Lola (Franka Potente) beim Roulette im dritten Durchgang?
+- **ART-S-049** (Le Fabuleux Destin d’Amélie Poulain|2001): „Die fabelhafte Welt der Amélie“ (2001): Welcher Gegenstand reist auf Fotos um die Welt, um Amélies (Audrey Tautou) Vater anzuregen?
+- **ART-S-050** (Le Fabuleux Destin d’Amélie Poulain|2001): „Die fabelhafte Welt der Amélie“ (2001): Welches Renoir-Gemälde kopiert Dufayel (Serge Merlin) immer wieder?
+- **ART-L-001-V1** (Paris, Texas|1984): „Paris, Texas“ (1984): Welche familiäre Verbindung erklärt Travis’ (Harry Dean Stanton) Annäherung an Hunter (Hunter Carson)?
+- **ART-M-001-V1** (Paris, Texas|1984): „Paris, Texas“ (1984): Wohin führt die Suche nach Jane (Nastassja Kinski) schließlich?
+- **ART-L-005-V1** (Persona|1966): „Persona“ (1966): In welcher beruflichen Funktion betreut Alma (Bibi Andersson) Elisabet (Liv Ullmann)?
+- **ART-L-009-V1** (Det sjunde inseglet|1957): „Das siebente Siegel“ (1957): Womit versucht der heimkehrende Ritter seinen Tod (Bengt Ekerot) aufzuschieben?
+- **ART-L-019-V1** (Blue Velvet|1986): „Blue Velvet“ (1986): Welcher grausige Fund stößt Jeffreys (Kyle MacLachlan) Ermittlungen an?
+- **ART-M-019-V1** (Blue Velvet|1986): „Blue Velvet“ (1986): Welche Beschreibung trifft auf Frank Booth (Dennis Hopper) zu?
+- **ART-S-019-V1** (Blue Velvet|1986): „Blue Velvet“ (1986): Welcher Titel erklingt bei Bens (Dean Stockwell) berühmtem Playback?
+- **ART-L-025-V1** (Dead Man|1995): „Dead Man“ (1995): Für welche Tätigkeit reist Blake (Johnny Depp) ursprünglich nach Machine?
+- **ART-M-031-V1** (Paterson|2016): „Paterson“ (2016): Welcher Bundesstaat gehört zur Adresse der Stadt Paterson (Adam Driver)?
+- **ART-S-047-V1** (Lola rennt|1998): „Lola rennt“ (1998): Welche Geldmenge muss wegen Mannis (Moritz Bleibtreu) Verlust ersetzt werden?
+- **MUS-202609-P01-L-002** (Grease|1978): „Grease“ (1978): Wie heißt die Schule von Danny (John Travolta) und Sandy (Olivia Newton-John)?
+- **MUS-202609-P01-M-002** (Grease|1978): „Grease“ (1978): Welche Ausbildung versucht Frenchy (Didi Conn) nach dem Schulabbruch?
+- **MUS-202609-P01-S-002** (Grease|1978): „Grease“ (1978): Weshalb fährt Danny (John Travolta) das Rennen anstelle von Kenickie (Jeff Conaway)?
+- **MUS-202609-P01-S-003** (Dirty Dancing|1987): „Dirty Dancing“ (1987): Weshalb misstraut Babys Vater zunächst Johnny (Patrick Swayze) in Pennys (Cynthia Rhodes) Angelegenheit?
+- **MUS-202609-P01-M-005** (Moulin Rouge!|2001): „Moulin Rouge“ (2001): Für wen hält Satine (Nicole Kidman) Christian (Ewan McGregor) bei ihrer ersten privaten Begegnung?
+- **MUS-202609-P01-S-006** (Moulin Rouge!|2001): „Moulin Rouge“ (2001): Welche Form rahmt Christians (Ewan McGregor) Liebesgeschichte?
+- **MUS-202609-P01-L-008** (La La Land|2016): „La La Land“ (2016): Welchen Beruf möchte Mia (Emma Stone) erfolgreich ausüben?
+- **MUS-202609-P01-M-008** (La La Land|2016): „La La Land“ (2016): Welches Gebäude besuchen Mia (Emma Stone) und Sebastian (Ryan Gosling) nach dem abgebrochenen Kinobesuch?
+- **MUS-202609-P01-S-007** (La La Land|2016): „La La Land“ (2016): Welcher Song erzählt bei Mias (Emma Stone) entscheidendem Vorsprechen von ihrer Tante?
+- **MUS-202609-P01-L-010** (Chicago|2002): „Chicago“ (2002): Welchen Beruf hat Billy Flynn (Richard Gere)?
+- **MUS-202609-P01-L-012** (Mary Poppins|1964): „Mary Poppins“ (1964): Welche Aufgabe übernimmt Mary Poppins (Julie Andrews) bei Familie Banks?
+- **MUS-202609-P01-L-016** (West Side Story|1961): „West Side Story“ (1961): In wen verliebt sich Tony (Richard Beymer)?
+- **MUS-202609-P01-M-016** (West Side Story|1961): „West Side Story“ (1961): In welchem Verhältnis steht Bernardo (George Chakiris) zu Maria (Natalie Wood)?
+- **MUS-202609-P01-S-015** (West Side Story|1961): „West Side Story“ (1961): Wer übernimmt überwiegend Marias (Natalie Wood) englischen Gesang?
+- **MUS-202609-P01-L-018** (The Sound of Music|1965): „Meine Lieder – meine Träume“ (1965): Wie viele Kinder betreut Maria (Julie Andrews) im Haus von Trapp?
+- **MUS-202609-P01-M-017** (The Sound of Music|1965): „Meine Lieder – meine Träume“ (1965): Mit welchem Lied erklärt Maria (Julie Andrews) den Kindern musikalische Tonsilben?
+- **MUS-202609-P01-M-018** (The Sound of Music|1965): „Meine Lieder – meine Träume“ (1965): Woraus näht Maria (Julie Andrews) Spielkleidung für die Kinder?
+- **MUS-202609-P01-L-020** (The Rocky Horror Picture Show|1975): „The Rocky Horror Picture Show“ (1975): Welche Tanznummer begrüßt Brad (Barry Bostwick) und Janet (Susan Sarandon) im Schloss?
+- **MUS-202609-P01-M-019** (The Rocky Horror Picture Show|1975): „The Rocky Horror Picture Show“ (1975): Weshalb suchen Brad (Barry Bostwick) und Janet (Susan Sarandon) Hilfe im Schloss?
+- **MUS-202609-P01-S-021** (Walk the Line|2005): „Walk the Line“ (2005): Welches Lied überzeugt Sam Phillips (Dallas Roberts) beim Vorspielen nach dem zunächst wenig erfolgreichen Gospel?
+- **MUS-202609-P01-S-022** (Walk the Line|2005): „Walk the Line“ (2005): Welches Duett unterbricht Cash für seinen Heiratsantrag an June (Reese Witherspoon)?
+- **MUS-202609-P01-S-024** (Bohemian Rhapsody|2018): „Bohemian Rhapsody“ (2018): Was ist bei der Figur des EMI-Managers Ray Foster (Mike Myers) zu beachten?
+- **MUS-202609-P01-M-025** (Rocketman|2019): „Rocketman“ (2019): Wer ist Eltons (Taron Egerton) langjähriger Partner beim Schreiben der Liedtexte?
+- **MUS-202609-P01-M-026** (Rocketman|2019): „Rocketman“ (2019): In welchem Club erlebt Elton (Taron Egerton) seinen entscheidenden frühen US-Auftritt?
+- **MUS-202609-P01-L-028** (The Greatest Showman|2017): „Greatest Showman“ (2017): Welche Artistik betreibt Anne Wheeler (Zendaya)?
+- **MUS-202609-P01-M-027** (The Greatest Showman|2017): „Greatest Showman“ (2017): Welche Nummer führt Lettie Lutz (Keala Settle) als Lied der Selbstbehauptung an?
+- **MUS-202609-P01-M-028** (The Greatest Showman|2017): „Greatest Showman“ (2017): Welches Duett verbindet Phillip (Zac Efron) und Anne (Zendaya) mit einer Luftakrobatik-Choreografie?
+- **MUS-202609-P01-M-029** (Dreamgirls|2006): „Dreamgirls“ (2006): Wer übernimmt auf Curtis’ (Jamie Foxx) Wunsch die führende Stimme der Gruppe?
+- **MUS-202609-P01-S-029** (Dreamgirls|2006): „Dreamgirls“ (2006): Welches Lied erscheint als Effies (Jennifer Hudson) Ballade und als konkurrierende Discoversion der Dreams?
+- **MUS-202609-P01-L-032** (The Commitments|1991): „Die Commitments“ (1991): Welchem Musikstil will Jimmy (Robert Arkins) seine Band verschreiben?
+- **MUS-202609-P01-M-033** (Almost Famous|2000): „Almost Famous – Fast berühmt“ (2000): Wie nennt Penny Lane (Kate Hudson) die Frauen, die die Band begleiten?
+- **MUS-202609-P01-L-036** (The School of Rock|2003): „School of Rock“ (2003): Welche Stelle erschleicht sich Dewey (Jack Black) unter fremdem Namen?
+- **MUS-202609-P01-M-035** (The School of Rock|2003): „School of Rock“ (2003): Welche Aufgabe erhält Summer (Miranda Cosgrove) in der Schülerband?
+- **MUS-202609-P01-L-037** (Inside Llewyn Davis|2013): „Inside Llewyn Davis“ (2013): In welcher Musikszene versucht Llewyn (Oscar Isaac) sich durchzuschlagen?
+- **MUS-202609-P01-M-037** (Inside Llewyn Davis|2013): „Inside Llewyn Davis“ (2013): Welches entlaufene Tier begleitet Llewyn (Oscar Isaac) zeitweise durch die Stadt?
+- **MUS-202609-P01-S-037** (Inside Llewyn Davis|2013): „Inside Llewyn Davis“ (2013): Welche Bezahlung wählt Llewyn (Oscar Isaac) für die Studiosession?
+- **MUS-202609-P01-S-038** (Inside Llewyn Davis|2013): „Inside Llewyn Davis“ (2013): In welche Stadt reist Llewyn (Oscar Isaac) zum Vorspielen bei Bud Grossman (F. Murray Abraham)?
+- **MUS-202609-P01-M-040** (Control|2007): „Control“ (2007): Welche Erkrankung wird bei Ian (Sam Riley) diagnostiziert?
+- **MUS-202609-P01-S-040** (Control|2007): „Control“ (2007): Welchen Beruf übt Ian (Sam Riley) neben der Musik zunächst aus?
+- **MUS-202609-P01-L-041** (Sing Street|2016): „Sing Street“ (2016): Warum behauptet Conor (Ferdia Walsh-Peelo) zunächst, eine Band zu haben?
+- **MUS-202609-P01-M-041** (Sing Street|2016): „Sing Street“ (2016): Wer macht Conor (Ferdia Walsh-Peelo) zu Hause mit neuen musikalischen Vorbildern vertraut?
+- **MUS-202609-P01-M-042** (Sing Street|2016): „Sing Street“ (2016): Mit wem schreibt Conor (Ferdia Walsh-Peelo) besonders eng die eigenen Songs?
+- **MUS-202609-P01-S-042** (Sing Street|2016): „Sing Street“ (2016): Wie versuchen Conor (Ferdia Walsh-Peelo) und Raphina (Lucy Boynton) am Ende, nach Großbritannien zu gelangen?
+- **MUS-202609-P01-L-043** (Flashdance|1983): „Flashdance“ (1983): Welchen Beruf übt Alex (Jennifer Beals) tagsüber aus?
+- **MUS-202609-P01-M-044** (Flashdance|1983): „Flashdance“ (1983): Was tut Alex (Jennifer Beals) bei ihrem abschließenden Vortanzen nach einem frühen Fehler?
+- **MUS-202609-P01-S-044** (Flashdance|1983): „Flashdance“ (1983): Welche Tänzerin übernahm zahlreiche Tanzpassagen als Double für Alex (Jennifer Beals)?
+- **MUS-202609-P01-M-045** (Saturday Night Fever|1977): „Saturday Night Fever“ (1977): In welchem New Yorker Stadtbezirk lebt Tony (John Travolta) zu Beginn?
+- **MUS-202609-P01-M-046** (Saturday Night Fever|1977): „Saturday Night Fever“ (1977): Mit wem tritt Tony (John Travolta) beim Tanzwettbewerb an?
+- **MUS-202609-P01-S-045** (Saturday Night Fever|1977): „Saturday Night Fever“ (1977): Warum gibt Tony (John Travolta) den gewonnenen Preis an ein anderes Paar weiter?
+- **MUS-202609-P01-M-047** (Evita|1996): „Evita“ (1996): Welche Funktion hat Ché (Antonio Banderas) in der Erzählung?
+- **MUS-202609-P01-M-049** (Across the Universe|2007): „Across the Universe“ (2007): In welchem Verhältnis stehen Lucy (Evan Rachel Wood) und Max (Joe Anderson) zueinander?
+- **MUS-202609-P01-S-049** (Across the Universe|2007): „Across the Universe“ (2007): Welche Früchte verbindet Jude (Jim Sturgess) in einer Bildmontage mit roten Kriegsbildern?
+- **MUS-202609-P01-L-007-V1** (La La Land|2016): „La La Land“ (2016): An welchem Instrument tritt Sebastian (Ryan Gosling) als Jazzmusiker auf?
+- **MUS-202609-P01-M-025-V1** (Rocketman|2019): „Rocketman“ (2019): Wer liefert als Eltons (Taron Egerton) Schreibpartner die Liedtexte?
+- **MUS-202609-P01-M-027-V1** (The Greatest Showman|2017): „Greatest Showman“ (2017): Welches Lied macht Lettie Lutz (Keala Settle) zur Anführerin einer gemeinsamen Selbstbehauptung des Ensembles?
+- **MUS-202609-P01-M-033-V1** (Almost Famous|2000): „Almost Famous – Fast berühmt“ (2000): Welchen eigenen Namen verwendet Penny Lane (Kate Hudson) für die weibliche Bandbegleitung?
+- **MUS-202609-P01-M-035-V1** (The School of Rock|2003): „School of Rock“ (2003): Welche Funktion übernimmt die ehrgeizige Summer (Miranda Cosgrove) im Bandprojekt?
+- **MUS-202609-P01-M-037-V1** (Inside Llewyn Davis|2013): „Inside Llewyn Davis“ (2013): Welches Tier entwischt aus der Wohnung von Llewyns (Oscar Isaac) Gastgebern und muss zurückgebracht werden?
+- **MUS-202609-P01-S-041-V1** (Sing Street|2016): „Sing Street“ (2016): Welches Lied gehört zu Conors (Ferdia Walsh-Peelo) Wunschbild eines perfekt gelingenden Schulballauftritts?
+- **MUS-202609-P01-S-045-V1** (Saturday Night Fever|1977): „Saturday Night Fever“ (1977): Weshalb akzeptiert Tony (John Travolta) den Tanzsieg nicht für sich, sondern überlässt den Preis einem anderen Paar?
+- **MUS-202609-P01-S-049-V1** (Across the Universe|2007): „Across the Universe“ (2007): Welches Obst nutzt Jude (Jim Sturgess) für die Bildarbeit zur Nummer „Strawberry Fields Forever“?
+- **MUS-202609-P01-S-003-V1** (Dirty Dancing|1987): „Dirty Dancing“ (1987): Welcher Irrtum bestimmt zunächst Dr. Housemans Urteil über Johnny (Patrick Swayze) in Bezug auf Penny (Cynthia Rhodes)?
+- **MUS-202609-P01-S-007-V1** (La La Land|2016): „La La Land“ (2016): In welchem Lied berichtet Mia (Emma Stone) beim Vorsprechen von ihrer inspirierenden Tante?
+- **SF-202609-P02-S-003** (2010: The Year We Make Contact|1984): „2010: Das Jahr, in dem wir Kontakt aufnehmen“ (1984): Welcher Widerspruch erklärt laut Chandra (Bob Balaban) HALs früheren Zusammenbruch?
+- **SF-202609-P02-L-008** (The Day the Earth Stood Still|1951): „Der Tag, an dem die Erde stillstand“ (1951): Wie heißt der große Roboter, der Klaatu (Michael Rennie) begleitet?
+- **SF-202609-P02-M-008** (The Day the Earth Stood Still|1951): „Der Tag, an dem die Erde stillstand“ (1951): Welche Worte soll Helen (Patricia Neal) dem Roboter im Notfall sagen?
+- **SF-202609-P02-S-011** (The Time Machine|1960): „Die Zeitmaschine“ (1960): In welchem fernen Jahr trifft George (Rod Taylor) auf die Eloi?
+- **SF-202609-P02-S-012** (The Time Machine|1960): „Die Zeitmaschine“ (1960): Welche Gegenstände fehlen am Ende aus Georges (Rod Taylor) Haus?
+- **SF-202609-P02-M-013** (Planet of the Apes|1968): „Planet der Affen“ (1968): Welche Schimpansenforscherin setzt sich für Taylor (Charlton Heston) ein?
+- **SF-202609-P02-M-014** (Planet of the Apes|1968): „Planet der Affen“ (1968): Welches Bauwerk erkennt Taylor (Charlton Heston) im Schlussbild?
+- **SF-202609-P02-S-013** (Planet of the Apes|1968): „Planet der Affen“ (1968): Warum kann Taylor (Charlton Heston) nach seiner Gefangennahme zunächst nicht sprechen?
+- **SF-202609-P02-M-015** (Silent Running|1972): „Lautlos im Weltraum“ (1972): Wie heißt Lowells (Bruce Dern) Raumfrachter?
+- **SF-202609-P02-M-016** (Silent Running|1972): „Lautlos im Weltraum“ (1972): Welcher Befehl löst Lowells (Bruce Dern) Auflehnung aus?
+- **SF-202609-P02-S-015** (Silent Running|1972): „Lautlos im Weltraum“ (1972): Welche fehlende Versorgung erkennt Lowell (Bruce Dern) als Ursache für das Sterben der Pflanzen?
+- **SF-202609-P02-L-017** (Soylent Green|1973): „Soylent Green – Jahr 2022… die überleben wollen“ (1973): Welchen Beruf hat Robert Thorn (Charlton Heston)?
+- **SF-202609-P02-S-018** (Soylent Green|1973): „Soylent Green – Jahr 2022… die überleben wollen“ (1973): Was zeigt die Einrichtung Sol (Edward G. Robinson) während seines freiwillig gewählten Sterbens?
+- **SF-202609-P02-S-021** (Close Encounters of the Third Kind|1977): „Unheimliche Begegnung der dritten Art“ (1977): Aus welchem Essen formt Roy (Richard Dreyfuss) beim Abendessen die rätselhafte Berggestalt?
+- **SF-202609-P02-S-023** (Invasion of the Body Snatchers|1978): „Die Körperfresser kommen“ (1978): Wie verrät sich Matthew (Donald Sutherland) im Schlussbild als Doppelgänger?
+- **SF-202609-P02-M-026** (The Thing|1982): „Das Ding aus einer anderen Welt“ (1982): Mit welchem Verfahren prüft MacReady (Kurt Russell) Blutproben?
+- **SF-202609-P02-L-028** (The Fly|1986): „Die Fliege“ (1986): Was entwickelt Brundle (Jeff Goldblum) in seinem Labor?
+- **SF-202609-P02-M-027** (The Fly|1986): „Die Fliege“ (1986): Welchen Beruf hat Veronica Quaife (Geena Davis)?
+- **SF-202609-P02-S-027** (The Fly|1986): „Die Fliege“ (1986): Wie deutet Brundle (Jeff Goldblum) seine zunächst gesteigerte Kraft?
+- **SF-202609-P02-S-028** (The Fly|1986): „Die Fliege“ (1986): Wie verarbeitet Brundle (Jeff Goldblum) später feste Nahrung?
+- **SF-202609-P02-S-029** (The Abyss|1989): „The Abyss – Abgrund des Todes“ (1989): Welche besondere Atemtechnik ermöglicht Buds (Ed Harris) extrem tiefen Abstieg?
+- **SF-202609-P02-S-032** (Event Horizon|1997): „Event Horizon – Am Rande des Universums“ (1997): Wie will Miller (Laurence Fishburne) den Überlebenden einen abtrennbaren Schutzraum verschaffen?
+- **SF-202609-P02-L-034** (Pitch Black|2000): „Pitch Black – Planet der Finsternis“ (2000): Welche Fähigkeit hilft Riddick (Vin Diesel) in der Dunkelheit?
+- **SF-202609-P02-M-034** (Pitch Black|2000): „Pitch Black – Planet der Finsternis“ (2000): Welchen Beruf hat Carolyn Fry (Radha Mitchell)?
+- **SF-202609-P02-S-033** (Pitch Black|2000): „Pitch Black – Planet der Finsternis“ (2000): Was ist Johns (Cole Hauser) entgegen seinem Auftreten tatsächlich?
+- **SF-202609-P02-M-036** (Pandorum|2009): „Pandorum“ (2009): Welche Überlebende hilft Bower (Ben Foster) auf dem Weg durch das Schiff?
+- **SF-202609-P02-M-037** (Passengers|2016): „Passengers“ (2016): Warum erwacht Jim (Chris Pratt) zu früh?
+- **SF-202609-P02-S-037** (Passengers|2016): „Passengers“ (2016): Was verursacht Auroras (Jennifer Lawrence) vorzeitiges Erwachen tatsächlich?
+- **SF-202609-P02-S-039** (Life|2017): „Life“ (2017): Welche ungewöhnliche Eigenschaft beschreibt Hugh (Ariyon Bakare) an Calvins Zellen?
+- **SF-202609-P02-L-042** (Ad Astra|2019): „Ad Astra – Zu den Sternen“ (2019): Wen sucht Roy (Brad Pitt) auf seiner Reise?
+- **SF-202609-P02-M-041** (Ad Astra|2019): „Ad Astra – Zu den Sternen“ (2019): Wie heißt die Forschungsmission von Roys (Brad Pitt) Vater?
+- **SF-202609-P02-S-042** (Ad Astra|2019): „Ad Astra – Zu den Sternen“ (2019): Was findet Clifford (Tommy Lee Jones) trotz seiner langen Suche nicht?
+- **SF-202609-P02-S-043** (Prometheus|2012): „Prometheus – Dunkle Zeichen“ (2012): Welche medizinische Anlage benutzt Shaw (Noomi Rapace) in einer Notsituation?
+- **SF-202609-P02-S-044** (Prometheus|2012): „Prometheus – Dunkle Zeichen“ (2012): Welches persönliche Ziel verfolgt Peter Weyland (Guy Pearce) bei den Konstrukteuren?
+- **SF-202609-P02-L-050** (A.I. Artificial Intelligence|2001): „A.I. – Künstliche Intelligenz“ (2001): Welche Fähigkeit soll David (Haley Joel Osment) als besondere Neuerung besitzen?
+- **SF-202609-P02-M-049** (A.I. Artificial Intelligence|2001): „A.I. – Künstliche Intelligenz“ (2001): Welche Märchenfigur prägt Davids (Haley Joel Osment) Wunsch, ein echter Junge zu werden?
+- **SF-202609-P02-S-049** (A.I. Artificial Intelligence|2001): „A.I. – Künstliche Intelligenz“ (2001): Was ist die von David (Haley Joel Osment) unter Wasser gefundene Blaue Fee tatsächlich?
+- **SF-202609-P02-S-050** (A.I. Artificial Intelligence|2001): „A.I. – Künstliche Intelligenz“ (2001): Wer findet David (Haley Joel Osment) in der fernen Zukunft?
+- **SF-202609-P02-M-052** (I, Robot|2004): „I, Robot“ (2004): Welches Fachgebiet vertritt Susan Calvin (Bridget Moynahan)?
+- **SF-202609-P02-S-051** (I, Robot|2004): „I, Robot“ (2004): Warum misstraut Spooner (Will Smith) einer früheren Roboterrettung?
+- **SF-202609-P02-M-053** (Children of Men|2006): „Children of Men“ (2006): Welche besondere Situation macht Kee (Clare-Hope Ashitey) für verschiedene Gruppen bedeutsam?
+- **SF-202609-P02-S-054** (Children of Men|2006): „Children of Men“ (2006): Wie heißt das Schiff, das Kee (Clare-Hope Ashitey) erreichen soll?
+- **SF-202609-P02-S-055** (Equilibrium|2002): „Equilibrium“ (2002): Was bewahrt Prestons (Christian Bale) Partner Partridge (Sean Bean) heimlich auf?
+- **SF-202609-P02-S-057** (eXistenZ|1999): „eXistenZ“ (1999): Woraus setzt Pikul (Jude Law) im Restaurant eine Pistole zusammen?
+- **SF-202609-P02-S-059** (Dark Star|1974): „Dark Star – Finsterer Stern“ (1974): Womit versucht Doolittle (Brian Narelle) die gefährliche Bombe vom Explodieren abzuhalten?
+- **SF-202609-P02-S-060** (Dark Star|1974): „Dark Star – Finsterer Stern“ (1974): Was benutzt Doolittle (Brian Narelle) am Ende wie ein Surfbrett?
+- **SF-202609-P02-L-062** (Tron|1982): „Tron“ (1982): Wohin wird Flynn (Jeff Bridges) durch den experimentellen Laser versetzt?
+- **SF-202609-P02-S-062** (Tron|1982): „Tron“ (1982): Welchen Beweis sucht Flynn (Jeff Bridges) im Computersystem?
+- **SF-202609-P02-L-063** (Tron: Legacy|2010): „Tron: Legacy“ (2010): Wer ist Sam Flynn (Garrett Hedlund) im Verhältnis zu Kevin Flynn (Jeff Bridges)?
+- **SF-202609-P02-S-064** (Tron: Legacy|2010): „Tron: Legacy“ (2010): Welcher Gegenstand enthält Kevin Flynns (Jeff Bridges) besonderen Zugang zum Portal?
+- **SF-202609-P02-M-071** (Demolition Man|1993): „Demolition Man“ (1993): Wie verbringen Spartan (Sylvester Stallone) und Phoenix (Wesley Snipes) ihre Haftzeit?
+- **SF-202609-P02-S-071** (Demolition Man|1993): „Demolition Man“ (1993): Welche unerwartete Fähigkeit wurde Spartan (Sylvester Stallone) während der Haft vermittelt?
+- **SF-202609-P02-S-072** (Demolition Man|1993): „Demolition Man“ (1993): Welche rätselhafte Einrichtung findet Spartan (Sylvester Stallone) auf der Toilette?
+- **SF-202609-P02-M-077** (John Carter|2012): „John Carter – Zwischen zwei Welten“ (2012): Welche Fähigkeit gewinnt Carter (Taylor Kitsch) durch die geringere Schwerkraft besonders sichtbar?
+- **SF-202609-P02-S-079** (Elysium|2013): „Elysium“ (2013): Was setzt Max (Matt Damon) unter einen unmittelbaren tödlichen Zeitdruck?
+- **SF-202609-P02-S-081** (Chappie|2015): „Chappie“ (2015): Welches konkurrierende Robotersystem entwickelt Vincent Moore (Hugh Jackman)?
+- **SF-202609-P02-L-084** (Transcendence|2014): „Transcendence“ (2014): Was versucht Evelyn (Rebecca Hall) nach Wills (Johnny Depp) tödlicher Verletzung?
+- **SF-202609-P02-S-083** (Transcendence|2014): „Transcendence“ (2014): Welcher Freund äußert früh Zweifel an der digitalen Identität Wills (Johnny Depp)?
+- **SF-202609-P02-S-085** (Autómata|2014): „Automata“ (2014): Welches besondere Bauteil findet Jacq (Antonio Banderas) in einem verbrannten Roboter?
+- **SF-202609-P02-M-088** (Enemy Mine|1985): „Enemy Mine – Geliebter Feind“ (1985): Welche Besonderheit der Dracs überrascht Davidge (Dennis Quaid)?
+- **SF-202609-P02-S-087** (Enemy Mine|1985): „Enemy Mine – Geliebter Feind“ (1985): Wen zieht Davidge (Dennis Quaid) nach Jeribas (Louis Gossett Jr.) Tod groß?
+- **SF-202609-P02-S-088** (Enemy Mine|1985): „Enemy Mine – Geliebter Feind“ (1985): Welche kulturelle Aufgabe erfüllt Davidge (Dennis Quaid) für Zammis (Bumper Robinson)?
+- **SF-202609-P02-M-089** (Outland|1981): „Outland – Planet der Verdammten“ (1981): Welche Ärztin unterstützt O’Niels (Sean Connery) Untersuchung?
+- **SF-202609-P02-S-091** (The Thirteenth Floor|1999): „The 13th Floor – Bist du, was du denkst?“ (1999): Was entdeckt Hall (Craig Bierko) bei seiner Fahrt an einen unwahrscheinlichen Zielort?
+- **SF-202609-P02-L-096** (Donnie Darko|2001): „Donnie Darko“ (2001): In welcher Gestalt erscheint Frank (James Duval)?
+- **SF-202609-P02-M-095** (Donnie Darko|2001): „Donnie Darko“ (2001): Welcher Gegenstand stürzt in Donnies (Jake Gyllenhaal) Schlafzimmer?
+- **SF-202609-P02-S-095** (Donnie Darko|2001): „Donnie Darko“ (2001): Wie heißt das Buch, das Donnie (Jake Gyllenhaal) zur Erklärung der Vorgänge erhält?
+- **SF-202609-P02-M-098** (They Live|1988): „Sie leben“ (1988): Was entdeckt Nada (Roddy Piper) unter der Oberfläche gewöhnlicher Werbung?
+- **SF-202609-P02-S-097** (They Live|1988): „Sie leben“ (1988): Worüber geraten Nada (Roddy Piper) und Frank (Keith David) in den langen Straßenkampf?
+- **SF-202609-P02-S-098** (They Live|1988): „Sie leben“ (1988): Was zerstört Nada (Roddy Piper), um die Tarnung öffentlich aufzuheben?
+- **SF-202609-P02-L-003-V1** (2010: The Year We Make Contact|1984): „2010: Das Jahr, in dem wir Kontakt aufnehmen“ (1984): Welches Computersystem nimmt Dr. Chandra (Bob Balaban) auf der Discovery wieder in Betrieb?
+- **SF-202609-P02-L-017-V1** (Soylent Green|1973): „Soylent Green – Jahr 2022… die überleben wollen“ (1973): In welcher beruflichen Funktion untersucht Thorn (Charlton Heston) den Tod eines wohlhabenden Mannes?
+- **SF-202609-P02-L-025-V1** (The Thing|1982): „Das Ding aus einer anderen Welt“ (1982): In welcher Polarregion arbeiten MacReady (Kurt Russell) und seine Kollegen?
+- **SF-202609-P02-L-029-V1** (The Abyss|1989): „The Abyss – Abgrund des Todes“ (1989): Welche Art von Einrichtung dient Buds (Ed Harris) Team als Arbeitsplatz unter dem Meer?
+- **SF-202609-P02-M-041-V1** (Ad Astra|2019): „Ad Astra – Zu den Sternen“ (2019): Unter welchem Namen wurde Clifford McBrides (Tommy Lee Jones) Expedition ausgesandt?
+- **SF-202609-P02-M-049-V1** (A.I. Artificial Intelligence|2001): „A.I. – Künstliche Intelligenz“ (2001): An welchem Märchenhelden orientiert sich Davids (Haley Joel Osment) Vorstellung vom Menschwerden?
+- **SF-202609-P02-M-053-V1** (Children of Men|2006): „Children of Men“ (2006): Welches Geheimnis unterscheidet Kee (Clare-Hope Ashitey) von den anderen Menschen dieser Zukunft?
+- **SF-202609-P02-S-081-V1** (Chappie|2015): „Chappie“ (2015): Wie heißt Vincent Moores (Hugh Jackman) schwer bewaffneter Roboterkonkurrent?
+- **SF-202609-P02-S-083-V1** (Transcendence|2014): „Transcendence“ (2014): Welche Figur begegnet dem vermeintlich hochgeladenen Will (Johnny Depp) früh mit Skepsis?
+- **SF-202609-P02-S-085-V1** (Autómata|2014): „Automata“ (2014): Welche ungewöhnliche Energiequelle entdeckt Jacq (Antonio Banderas) bei seiner Untersuchung eines Roboterwracks?
+- **SF-202609-P02-S-087-V1** (Enemy Mine|1985): „Enemy Mine – Geliebter Feind“ (1985): Für welches Kind übernimmt Davidge (Dennis Quaid) nach dem Verlust seines Gefährten Verantwortung?
+- **SF-202609-P02-S-091-V1** (The Thirteenth Floor|1999): „The 13th Floor – Bist du, was du denkst?“ (1999): Welche Entdeckung am Rand seiner vermeintlichen Realität erschüttert Halls (Craig Bierko) Weltbild?
+- **SF-202609-P02-S-095-V1** (Donnie Darko|2001): „Donnie Darko“ (2001): Welchen Titel trägt Roberta Sparrows (Patience Cleveland) Abhandlung, die Donnie (Jake Gyllenhaal) liest?
+- **SF-202609-P02-S-097-V1** (They Live|1988): „Sie leben“ (1988): Welche konkrete Forderung Nadas (Roddy Piper) löst die ausgedehnte Prügelei mit Frank (Keith David) aus?
+- **SF-202609-P02-S-012-V1** (The Time Machine|1960): „Die Zeitmaschine“ (1960): Was hat George (Rod Taylor) für seine erneute Reise offenbar aus der eigenen Bibliothek mitgenommen?
+- **SF-202609-P02-S-016-V1** (Silent Running|1972): „Lautlos im Weltraum“ (1972): Wessen Gesang begleitet mit mehreren Liedern Lowells (Bruce Dern) Geschichte?
+- **SF-202609-P02-S-018-V1** (Soylent Green|1973): „Soylent Green – Jahr 2022… die überleben wollen“ (1973): Welche Art von Aufnahmen umgibt Sol (Edward G. Robinson) bei seinem letzten Aufenthalt in der Einrichtung?
+- **KOM-202609-P02-M-001** (Anchorman: The Legend of Ron Burgundy|2004): „Anchorman – Die Legende von Ron Burgundy“ (2004): Welche Funktion hat Brick Tamland (Steve Carell) im Team?
+- **KOM-202609-P02-M-002** (Anchorman: The Legend of Ron Burgundy|2004): „Anchorman – Die Legende von Ron Burgundy“ (2004): Wodurch bringt Veronica (Christina Applegate) Ron (Will Ferrell) dazu, sich auf Sendung zu blamieren?
+- **KOM-202609-P02-S-002** (Anchorman: The Legend of Ron Burgundy|2004): „Anchorman – Die Legende von Ron Burgundy“ (2004): Wie heißt Rons (Will Ferrell) Hund?
+- **KOM-202609-P02-L-004** (Wayne's World|1992): „Wayne’s World“ (1992): Wo produzieren Wayne (Mike Myers) und Garth (Dana Carvey) anfangs ihre Fernsehsendung?
+- **KOM-202609-P02-M-004** (Wayne's World|1992): „Wayne’s World“ (1992): Wie heißt Cassandras (Tia Carrere) Rockband?
+- **KOM-202609-P02-S-003** (Wayne's World|1992): „Wayne’s World“ (1992): Welches Instrument bewundert Wayne (Mike Myers) immer wieder im Musikgeschäft?
+- **KOM-202609-P02-M-005** (Dumb and Dumber|1994): „Dumm und Dümmer“ (1994): Welches Tier stellt Harrys (Jeff Daniels) auffälliger Lieferwagen dar?
+- **KOM-202609-P02-M-006** (Dumb and Dumber|1994): „Dumm und Dümmer“ (1994): Was liegt tatsächlich in Marys (Lauren Holly) Koffer?
+- **KOM-202609-P02-S-005** (Dumb and Dumber|1994): „Dumm und Dümmer“ (1994): Womit ersetzen Lloyd (Jim Carrey) und Harry (Jeff Daniels) das ausgegebene Geld im Koffer?
+- **KOM-202609-P02-S-006** (Dumb and Dumber|1994): „Dumm und Dümmer“ (1994): In welchen Bundesstaat führt Lloyds (Jim Carrey) falsche Abzweigung die beiden?
+- **KOM-202609-P02-M-007** (Ace Ventura: Pet Detective|1994): „Ace Ventura – Ein tierischer Detektiv“ (1994): Für welches Footballteam soll Ace (Jim Carrey) das Maskottchen finden?
+- **KOM-202609-P02-M-008** (Ace Ventura: Pet Detective|1994): „Ace Ventura – Ein tierischer Detektiv“ (1994): Welcher Gegenstand führt Ace (Jim Carrey) auf die Spur eines früheren Dolphins-Spielers?
+- **KOM-202609-P02-L-010** (The Cable Guy|1996): „Cable Guy – Die Nervensäge“ (1996): Bei welcher Arbeit lernt Steven (Matthew Broderick) Chip (Jim Carrey) kennen?
+- **KOM-202609-P02-M-009** (The Cable Guy|1996): „Cable Guy – Die Nervensäge“ (1996): Welchen Beruf hat Steven Kovacs (Matthew Broderick)?
+- **KOM-202609-P02-S-009** (The Cable Guy|1996): „Cable Guy – Die Nervensäge“ (1996): Woher stammen mehrere von Chips (Jim Carrey) verwendeten Namen?
+- **KOM-202609-P02-S-010** (The Cable Guy|1996): „Cable Guy – Die Nervensäge“ (1996): Welche Anlage wird im Finale durch Chips (Jim Carrey) Sturz beschädigt?
+- **KOM-202609-P02-M-011** (Bruce Almighty|2003): „Bruce Allmächtig“ (2003): In welcher Stadt arbeitet Bruce (Jim Carrey) als Reporter?
+- **KOM-202609-P02-M-012** (Bruce Almighty|2003): „Bruce Allmächtig“ (2003): Was kann Bruce (Jim Carrey) trotz seiner göttlichen Kräfte nicht außer Kraft setzen?
+- **KOM-202609-P02-S-011** (Bruce Almighty|2003): „Bruce Allmächtig“ (2003): Wie organisiert Bruce (Jim Carrey) die eingehenden Gebete zeitweise?
+- **KOM-202609-P02-S-012** (Bruce Almighty|2003): „Bruce Allmächtig“ (2003): Welche Folge hat Bruces (Jim Carrey) pauschale Erfüllung der Lotteriewünsche?
+- **KOM-202609-P02-L-014** (Mrs. Doubtfire|1993): „Mrs. Doubtfire – Das stachelige Hausmädchen“ (1993): Warum nimmt Daniel (Robin Williams) die Identität der Haushälterin an?
+- **KOM-202609-P02-M-013** (Mrs. Doubtfire|1993): „Mrs. Doubtfire – Das stachelige Hausmädchen“ (1993): Welchen Beruf hat Daniel (Robin Williams) am Anfang?
+- **KOM-202609-P02-M-014** (Mrs. Doubtfire|1993): „Mrs. Doubtfire – Das stachelige Hausmädchen“ (1993): Wer hilft Daniel (Robin Williams) bei der aufwendigen Verwandlung?
+- **KOM-202609-P02-S-014** (Mrs. Doubtfire|1993): „Mrs. Doubtfire – Das stachelige Hausmädchen“ (1993): Bei welcher Rettungsaktion fliegt Daniels (Robin Williams) Verkleidung auf?
+- **KOM-202609-P02-L-016** (Tootsie|1982): „Tootsie“ (1982): In welchem Beruf versucht Michael (Dustin Hoffman) als Dorothy Arbeit zu bekommen?
+- **KOM-202609-P02-M-015** (Tootsie|1982): „Tootsie“ (1982): In welcher Art Fernsehproduktion wird Dorothy (Dustin Hoffman) engagiert?
+- **KOM-202609-P02-S-015** (Tootsie|1982): „Tootsie“ (1982): Bei welcher Gelegenheit enthüllt Michael (Dustin Hoffman) seine wahre Identität?
+- **KOM-202609-P02-S-016** (Tootsie|1982): „Tootsie“ (1982): Wie heißt Michaels (Dustin Hoffman) Mitbewohner und befreundeter Autor?
+- **KOM-202609-P02-M-018** (Dirty Rotten Scoundrels|1988): „Zwei hinreißend verdorbene Schurken“ (1988): Welche Einschränkung täuscht Freddy (Steve Martin) gegenüber Janet (Glenne Headly) vor?
+- **KOM-202609-P02-S-017** (Dirty Rotten Scoundrels|1988): „Zwei hinreißend verdorbene Schurken“ (1988): Welchen Namen benutzt Lawrence (Michael Caine) als angeblicher behandelnder Arzt?
+- **KOM-202609-P02-M-019** (The Money Pit|1986): „Geschenkt ist noch zu teuer“ (1986): Welchen Beruf hat Anna (Shelley Long)?
+- **KOM-202609-P02-S-020** (The Money Pit|1986): „Geschenkt ist noch zu teuer“ (1986): Was stellt sich über Annas (Shelley Long) vermeintliche Nacht mit Max (Alexander Godunov) heraus?
+- **KOM-202609-P02-M-022** (Caddyshack|1980): „Caddyshack“ (1980): Welches Tier versucht Carl (Bill Murray) vom Golfplatz zu vertreiben?
+- **KOM-202609-P02-L-026** (Top Secret!|1984): „Top Secret!“ (1984): In welchem Staat gerät Nick (Val Kilmer) in die Spionagegeschichte?
+- **KOM-202609-P02-M-025** (Top Secret!|1984): „Top Secret!“ (1984): Welchen Beruf hat Nick Rivers (Val Kilmer)?
+- **KOM-202609-P02-M-028** (Spies Like Us|1985): „Spione wie wir“ (1985): Welche besondere berufliche Fähigkeit bringt Austin (Dan Aykroyd) mit?
+- **KOM-202609-P02-L-030** (Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006): „Borat“ (2006): Aus welchem Land kommt Borat (Sacha Baron Cohen) laut seiner erfundenen Biografie?
+- **KOM-202609-P02-M-029** (Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006): „Borat“ (2006): In welchem Land soll Borat (Sacha Baron Cohen) seine Reportage drehen?
+- **KOM-202609-P02-L-032** (The Dictator|2012): „Der Diktator“ (2012): Wie heißt Aladeens (Sacha Baron Cohen) fiktiver Staat?
+- **KOM-202609-P02-L-034** (Burn After Reading|2008): „Burn After Reading – Wer verbrennt sich hier die Finger?“ (2008): Wo arbeiten Linda (Frances McDormand) und Chad (Brad Pitt)?
+- **KOM-202609-P02-S-033** (Burn After Reading|2008): „Burn After Reading – Wer verbrennt sich hier die Finger?“ (2008): Wo entdeckt Harry (George Clooney) den versteckten Chad (Brad Pitt)?
+- **KOM-202609-P02-S-034** (Burn After Reading|2008): „Burn After Reading – Wer verbrennt sich hier die Finger?“ (2008): Welche Kosten übernimmt die CIA schließlich für Linda (Frances McDormand)?
+- **KOM-202609-P02-L-036** (Clerks|1994): „Clerks – Die Ladenhüter“ (1994): An welchem Arbeitsplatz verbringt Dante (Brian O’Halloran) den Großteil des Films?
+- **KOM-202609-P02-M-036** (Clerks|1994): „Clerks – Die Ladenhüter“ (1994): Über welches Bauwerk aus Star Wars diskutieren Dante (Brian O’Halloran) und Randal (Jeff Anderson) moralisch?
+- **KOM-202609-P02-S-035** (Clerks|1994): „Clerks – Die Ladenhüter“ (1994): In welchem benachbarten Geschäft arbeitet Randal (Jeff Anderson)?
+- **KOM-202609-P02-M-037** (Bean|1997): „Bean – Der ultimative Katastrophenfilm“ (1997): Welchen tatsächlichen Beruf hat Bean (Rowan Atkinson) in London?
+- **KOM-202609-P02-M-038** (Bean|1997): „Bean – Der ultimative Katastrophenfilm“ (1997): In welche US-Stadt führt Beans (Rowan Atkinson) Museumsauftrag?
+- **KOM-202609-P02-S-038** (Bean|1997): „Bean – Der ultimative Katastrophenfilm“ (1997): Womit ersetzt Bean (Rowan Atkinson) schließlich das beschädigte Bild?
+- **KOM-202609-P02-L-040** (Bad Santa|2003): „Bad Santa“ (2003): Welche Arbeit dient Willie (Billy Bob Thornton) als Tarnung für seine Diebstähle?
+- **KOM-202609-P02-M-040** (Bad Santa|2003): „Bad Santa“ (2003): Wie heißt der Junge, der Willie (Billy Bob Thornton) vertraut?
+- **KOM-202609-P02-S-040** (Bad Santa|2003): „Bad Santa“ (2003): Welches Spielzeug möchte Willie (Billy Bob Thornton) Thurman (Brett Kelly) bringen?
+- **KOM-202609-P02-L-042** (Bad Teacher|2011): „Bad Teacher“ (2011): An welchem Arbeitsplatz muss Elizabeth (Cameron Diaz) wieder anfangen?
+- **KOM-202609-P02-M-042** (Bad Teacher|2011): „Bad Teacher“ (2011): Wofür will Elizabeth (Cameron Diaz) anfangs unbedingt Geld sammeln?
+- **KOM-202609-P02-S-041** (Bad Teacher|2011): „Bad Teacher“ (2011): Welche Kollegin wird zu Elizabeths (Cameron Diaz) besonders ehrgeiziger Gegenspielerin?
+- **KOM-202609-P02-S-042** (Bad Teacher|2011): „Bad Teacher“ (2011): Wie verschafft Elizabeth (Cameron Diaz) ihrer Klasse die erfolgreichen Testergebnisse?
+- **KOM-202609-P02-S-043** (Horrible Bosses|2011): „Kill the Boss“ (2011): Was löst Harkens (Kevin Spacey) schwere allergische Reaktion aus?
+- **KOM-202609-P02-S-044** (Horrible Bosses|2011): „Kill the Boss“ (2011): Welche Technik liefert schließlich Harkens (Kevin Spacey) aufgenommenes Geständnis?
+- **KOM-202609-P02-M-045** (Old School|2003): „Old School – Wir lassen absolut nichts anbrennen“ (2003): Welchen Spitznamen trägt Frank (Will Ferrell)?
+- **KOM-202609-P02-S-045** (Old School|2003): „Old School – Wir lassen absolut nichts anbrennen“ (2003): Welchen realen politischen Berater besiegt Frank (Will Ferrell) in einer Debatte?
+- **KOM-202609-P02-S-046** (Old School|2003): „Old School – Wir lassen absolut nichts anbrennen“ (2003): Welche gymnastische Darbietung führt Frank (Will Ferrell) bei den Prüfungen vor?
+- **KOM-202609-P02-M-051** (Dinner for Schmucks|2010): „Dinner für Spinner“ (2010): Welche Tiere verwendet Barry (Steve Carell) für seine Miniaturkunstwerke?
+- **KOM-202609-P02-S-051** (Dinner for Schmucks|2010): „Dinner für Spinner“ (2010): Welche angebliche Fähigkeit behauptet Barrys (Steve Carell) Rivale Therman (Zach Galifianakis) zu besitzen?
+- **KOM-202609-P02-M-053** (Wedding Crashers|2005): „Die Hochzeits-Crasher“ (2005): Welchen Beruf üben John (Owen Wilson) und Jeremy (Vince Vaughn) regulär aus?
+- **KOM-202609-P02-S-054** (Wedding Crashers|2005): „Die Hochzeits-Crasher“ (2005): Welche andere Veranstaltungsart besucht Chazz (Will Ferrell) inzwischen zum Anbandeln?
+- **KOM-202609-P02-L-056** (Fack ju Göhte|2013): „Fack ju Göhte“ (2013): Was sucht Zeki (Elyas M’Barek) auf dem Schulgelände?
+- **KOM-202609-P02-M-055** (Fack ju Göhte|2013): „Fack ju Göhte“ (2013): Welche problematische Klasse übernimmt Zeki (Elyas M’Barek)?
+- **KOM-202609-P02-S-055** (Fack ju Göhte|2013): „Fack ju Göhte“ (2013): Für welche Stelle wollte Zeki (Elyas M’Barek) sich ursprünglich bewerben?
+- **KOM-202609-P02-M-058** (Rien à déclarer|2010): „Nichts zu verzollen“ (2010): In wen ist Mathias (Dany Boon) heimlich verliebt?
+- **KOM-202609-P02-S-057** (Rien à déclarer|2010): „Nichts zu verzollen“ (2010): Wogegen richtet sich Rubens (Benoît Poelvoorde) besonders starke Abneigung?
+- **KOM-202609-P02-L-060** (L'Aile ou la Cuisse|1976): „Brust oder Keule“ (1976): Welche Publikation gibt Duchemin (Louis de Funès) heraus?
+- **KOM-202609-P02-S-059** (L'Aile ou la Cuisse|1976): „Brust oder Keule“ (1976): Welchen Sinn verliert Charles (Louis de Funès) nach einem erzwungenen Essen?
+- **KOM-202609-P02-S-060** (L'Aile ou la Cuisse|1976): „Brust oder Keule“ (1976): Wie erkennt Charles (Louis de Funès) beim Fernsehduell den schwierigen Wein?
+- **KOM-202609-P02-M-061** (Fantômas|1964): „Fantomas“ (1964): Welchen Beruf hat Fandor (Jean Marais)?
+- **KOM-202609-P02-M-062** (Fantômas|1964): „Fantomas“ (1964): Was provoziert Fantomas' (Jean Marais) Rache an Fandor?
+- **KOM-202609-P02-S-061** (Fantômas|1964): „Fantomas“ (1964): Welche Methode benutzt Fantomas (Jean Marais) zur Nachahmung anderer Personen?
+- **KOM-202609-P02-M-063** (Le Gendarme de Saint-Tropez|1964): „Der Gendarm von Saint Tropez“ (1964): Wie heißt Cruchots (Louis de Funès) Tochter?
+- **KOM-202609-P02-M-065** (L'Avare|1980): „Louis, der Geizkragen“ (1980): Wo versteckt Harpagon (Louis de Funès) seinen Geldkasten?
+- **KOM-202609-P02-M-066** (L'Avare|1980): „Louis, der Geizkragen“ (1980): Mit wem konkurriert Harpagon (Louis de Funès) um Marianne (Anne Caudry)?
+- **KOM-202609-P02-S-065** (L'Avare|1980): „Louis, der Geizkragen“ (1980): Warum hält Harpagon (Louis de Funès) Anselme für einen passenden Mann für Elise (Claire Dupray)?
+- **KOM-202609-P02-S-066** (L'Avare|1980): „Louis, der Geizkragen“ (1980): Welche zwei Tätigkeiten erledigt Maître Jacques (Michel Galabru) im Haus?
+- **KOM-202609-P02-L-068** (Le Corniaud|1965): „Louis, das Schlitzohr“ (1965): Welches Fahrzeug soll Maréchal für Saroyan (Louis de Funès) durch Europa fahren?
+- **KOM-202609-P02-L-070** (Le Grand Blond avec une chaussure noire|1972): „Der große Blonde mit dem schwarzen Schuh“ (1972): Welchen Beruf hat Perrin (Pierre Richard)?
+- **KOM-202609-P02-M-069** (Le Grand Blond avec une chaussure noire|1972): „Der große Blonde mit dem schwarzen Schuh“ (1972): Warum wird Perrin (Pierre Richard) am Flughafen als Köder ausgewählt?
+- **KOM-202609-P02-M-070** (Le Grand Blond avec une chaussure noire|1972): „Der große Blonde mit dem schwarzen Schuh“ (1972): Was weiß Perrin (Pierre Richard) zunächst von seiner Rolle im Geheimdienstkonflikt?
+- **KOM-202609-P02-S-070** (Le Grand Blond avec une chaussure noire|1972): „Der große Blonde mit dem schwarzen Schuh“ (1972): Zu welchem Reiseziel brechen Perrin (Pierre Richard) und Christine (Mireille Darc) am Ende auf?
+- **KOM-202609-P02-M-071** (Les Fugitifs|1986): „Die Flüchtigen“ (1986): Welche Rolle hat Lucas (Gérard Depardieu) bei Pignons (Pierre Richard) Überfall tatsächlich?
+- **KOM-202609-P02-M-072** (Les Fugitifs|1986): „Die Flüchtigen“ (1986): Warum braucht Pignon (Pierre Richard) dringend Geld?
+- **KOM-202609-P02-S-071** (Les Fugitifs|1986): „Die Flüchtigen“ (1986): Wer behandelt Lucas' (Gérard Depardieu) Schusswunde als pensionierter Tierarzt?
+- **KOM-202609-P02-S-072** (Les Fugitifs|1986): „Die Flüchtigen“ (1986): Welche Rolle übernimmt Pignon (Pierre Richard) in der getarnten Reisefamilie?
+- **KOM-202609-P02-L-074** (The Great Dictator|1940): „Der große Diktator“ (1940): Welchen Beruf hat die von Charlie Chaplin gespielte Figur, die am Ende mit Diktator Hynkel (Charles Chaplin) verwechselt wird?
+- **KOM-202609-P02-M-073** (The Great Dictator|1940): „Der große Diktator“ (1940): Mit welchem Gegenstand tanzt Hynkel (Charles Chaplin) in der berühmten Szene?
+- **KOM-202609-P02-M-074** (The Great Dictator|1940): „Der große Diktator“ (1940): Wie heißt Hynkels (Charles Chaplin) erfundener Staat?
+- **KOM-202609-P02-S-074** (The Great Dictator|1940): „Der große Diktator“ (1940): Wer hält am Schluss die große Rede in Hynkels (Charles Chaplin) Erscheinung?
+- **KOM-202609-P02-M-076** (The General|1926): „Der General“ (1926): Warum wird Johnnie (Buster Keaton) bei der Armee zunächst abgewiesen?
+- **KOM-202609-P02-S-075** (The General|1926): „Der General“ (1926): Womit blockieren die Entführer wiederholt Johnnies (Buster Keaton) Verfolgung?
+- **KOM-202609-P02-L-078** (Some Like It Hot|1959): „Manche mögen’s heiß“ (1959): Warum verkleiden sich Joe (Tony Curtis) und Jerry (Jack Lemmon) als Frauen?
+- **KOM-202609-P02-M-078** (Some Like It Hot|1959): „Manche mögen’s heiß“ (1959): Unter welchem Namen tritt Jerry (Jack Lemmon) in der Frauenkapelle auf?
+- **KOM-202609-P02-S-077** (Some Like It Hot|1959): „Manche mögen’s heiß“ (1959): Als Erbe welcher Firma gibt Joe (Tony Curtis) sich gegenüber Sugar (Marilyn Monroe) aus?
+- **KOM-202609-P02-S-078** (Some Like It Hot|1959): „Manche mögen’s heiß“ (1959): Welche kurze Antwort beendet Osgoods (Joe E. Brown) Gespräch über Jerrys (Jack Lemmon) Geschlecht?
+- **KOM-202609-P02-L-080** (The Apartment|1960): „Das Apartment“ (1960): Wofür stellt Baxter (Jack Lemmon) seine Wohnung den Vorgesetzten zur Verfügung?
+- **KOM-202609-P02-M-080** (The Apartment|1960): „Das Apartment“ (1960): Welche Arbeit verrichtet Fran (Shirley MacLaine) im Versicherungsgebäude?
+- **KOM-202609-P02-S-079** (The Apartment|1960): „Das Apartment“ (1960): Welches beschädigte persönliche Objekt lässt Baxter (Jack Lemmon) eine Verbindung zu Fran (Shirley MacLaine) erkennen?
+- **KOM-202609-P02-S-080** (The Apartment|1960): „Das Apartment“ (1960): Womit lässt Baxter (Jack Lemmon) beim Kochen die Spaghetti abtropfen?
+- **KOM-202609-P02-L-082** (Arsenic and Old Lace|1944): „Arsen und Spitzenhäubchen“ (1944): Was entdeckt Mortimer (Cary Grant) über seine liebenswürdigen Tanten?
+- **KOM-202609-P02-M-082** (Arsenic and Old Lace|1944): „Arsen und Spitzenhäubchen“ (1944): Für welchen US-Präsidenten hält sich Teddy Brewster (John Alexander)?
+- **KOM-202609-P02-S-084** (The Ladykillers|1955): „Ladykillers“ (1955): Warum darf Mrs. Wilberforce (Katie Johnson) die Beute am Schluss behalten?
+- **KOM-202609-P02-L-088** (The Party|1968): „Der Partyschreck“ (1968): Wie kommt Bakshi (Peter Sellers) auf die Gästeliste der Party?
+- **KOM-202609-P02-M-087** (The Party|1968): „Der Partyschreck“ (1968): Welchen Beruf hat Bakshi (Peter Sellers)?
+- **KOM-202609-P02-M-088** (The Party|1968): „Der Partyschreck“ (1968): Welches Kleidungsstück verliert Bakshi (Peter Sellers) im Wasser und erhält es auf einem Tablett zurück?
+- **KOM-202609-P02-L-090** (Good Bye, Lenin!|2003): „Good Bye, Lenin!“ (2003): Warum erfährt Christiane (Katrin Sass) den politischen Umbruch zunächst nicht?
+- **KOM-202609-P02-M-090** (Good Bye, Lenin!|2003): „Good Bye, Lenin!“ (2003): Wie erklären Alex (Daniel Brühl) und Denis (Florian Lukas) neue Erscheinungen gegenüber Christiane (Katrin Sass)?
+- **KOM-202609-P02-S-089** (Good Bye, Lenin!|2003): „Good Bye, Lenin!“ (2003): Welche Lebensmittelverpackungen versucht Alex (Daniel Brühl) unter anderem wiederzufinden?
+- **KOM-202609-P02-S-090** (Good Bye, Lenin!|2003): „Good Bye, Lenin!“ (2003): Welcher DDR-Kosmonaut ist Alex' (Daniel Brühl) Kindheitsheld?
+- **KOM-202609-P02-L-092** (Tucker & Dale vs. Evil|2010): „Tucker & Dale vs. Evil“ (2010): Was wollen Tucker (Alan Tudyk) und Dale (Tyler Labine) ursprünglich am See tun?
+- **KOM-202609-P02-M-091** (Tucker & Dale vs. Evil|2010): „Tucker & Dale vs. Evil“ (2010): Warum nehmen die Männer Allison (Katrina Bowden) mit in ihre Hütte?
+- **KOM-202609-P02-M-092** (Tucker & Dale vs. Evil|2010): „Tucker & Dale vs. Evil“ (2010): Warum rennt Tucker (Alan Tudyk) mit einer Motorsäge wild umher?
+- **KOM-202609-P02-S-092** (Tucker & Dale vs. Evil|2010): „Tucker & Dale vs. Evil“ (2010): Was hält Tucker (Alan Tudyk) irrtümlich für die Erklärung der vielen Todesfälle?
+- **KOM-202609-P02-M-093** (Zombieland|2009): „Zombieland“ (2009): Nach welcher Süßigkeit sucht Tallahassee (Woody Harrelson) besonders hartnäckig?
+- **KOM-202609-P02-S-093** (Zombieland|2009): „Zombieland“ (2009): Welche erste Überlebensregel nennt Columbus (Jesse Eisenberg)?
+- **KOM-202609-P02-M-097** (Non c'è due senza quattro|1984): „Vier Fäuste gegen Rio“ (1984): Warum werden Greg (Bud Spencer) und Elliot (Terence Hill) engagiert?
+- **KOM-202609-P02-M-098** (Non c'è due senza quattro|1984): „Vier Fäuste gegen Rio“ (1984): Welchen Beruf hat Elliot Vance (Terence Hill)?
+- **KOM-202609-P02-M-045-V1** (Old School|2003): „Old School – Wir lassen absolut nichts anbrennen“ (2003): Unter welchem Spitznamen ist Frank (Will Ferrell) bekannt?
+- **KOM-202609-P02-M-051-V1** (Dinner for Schmucks|2010): „Dinner für Spinner“ (2010): Mit welchen präparierten Tieren gestaltet Barry (Steve Carell) seine Dioramen?
+- **KOM-202609-P02-M-055-V1** (Fack ju Göhte|2013): „Fack ju Göhte“ (2013): Welche Klassenbezeichnung trägt Zekis (Elyas M’Barek) schwierige Lerngruppe?
+- **KOM-202609-P02-M-057-V1** (Rien à déclarer|2010): „Nichts zu verzollen“ (2010): In welchem gemeinsamen Beruf müssen Mathias (Dany Boon) und Ruben (Benoît Poelvoorde) zusammenarbeiten?
+- **KOM-202609-P02-M-061-V1** (Fantômas|1964): „Fantomas“ (1964): Womit verdient Fandor (Jean Marais) seinen Lebensunterhalt?
+- **KOM-202609-P02-M-063-V1** (Le Gendarme de Saint-Tropez|1964): „Der Gendarm von Saint Tropez“ (1964): Welchen Vornamen trägt Cruchots (Louis de Funès) Tochter?
+- **KOM-202609-P02-M-065-V1** (L'Avare|1980): „Louis, der Geizkragen“ (1980): An welchem Ort bewahrt Harpagon (Louis de Funès) seine vergrabene Schatulle auf?
+- **KOM-202609-P02-M-069-V1** (Le Grand Blond avec une chaussure noire|1972): „Der große Blonde mit dem schwarzen Schuh“ (1972): Welches auffällige Detail entscheidet über Perrins (Pierre Richard) Auswahl am Flughafen?
+- **KOM-202609-P02-M-071-V1** (Les Fugitifs|1986): „Die Flüchtigen“ (1986): In welcher tatsächlichen Rolle gerät Lucas (Gérard Depardieu) in den Banküberfall?
+- **KOM-202609-P02-M-073-V1** (The Great Dictator|1940): „Der große Diktator“ (1940): Welches große Spielzeug verwendet Hynkel (Charles Chaplin) bei seinem Tanz?
+- **KOM-202609-P02-M-077-V1** (Some Like It Hot|1959): „Manche mögen’s heiß“ (1959): Welches Musikinstrument gehört zu Jerrys (Jack Lemmon) Beruf?
+- **KOM-202609-P02-S-089-V1** (Good Bye, Lenin!|2003): „Good Bye, Lenin!“ (2003): Nach welchen alten Gurkenverpackungen sucht Alex (Daniel Brühl) für seine Täuschung?
+- **KOM-202609-P02-S-093-V1** (Zombieland|2009): „Zombieland“ (2009): Wie heißt Columbus' (Jesse Eisenberg) Überlebensregel Nummer eins?
+- **KOM-202609-P02-S-097-V1** (Non c'è due senza quattro|1984): „Vier Fäuste gegen Rio“ (1984): Welches Musikinstrument gehört zu Greg Wonders (Bud Spencer) eigener Identität?
+- **KOM-202609-P02-S-002-V1** (Anchorman: The Legend of Ron Burgundy|2004): „Anchorman – Die Legende von Ron Burgundy“ (2004): Welchen Namen trägt Burgundys (Will Ferrell) geliebter Hund?
+- **KOM-202609-P02-S-006-V1** (Dumb and Dumber|1994): „Dumm und Dümmer“ (1994): In welchen Bundesstaat geraten die Reisenden durch Lloyds (Jim Carrey) Navigationsfehler?
+- **KOM-202609-P02-S-010-V1** (The Cable Guy|1996): „Cable Guy – Die Nervensäge“ (1996): Welche Empfangsanlage wird bei Chips (Jim Carrey) letzter Aktion beschädigt?
+- **KOM-202609-P02-S-012-V1** (Bruce Almighty|2003): „Bruce Allmächtig“ (2003): Was macht Bruces (Jim Carrey) massenhafte Lotteriewunscherfüllung mit der einzelnen Gewinnsumme?
+- **KOM-202609-P02-S-014-V1** (Mrs. Doubtfire|1993): „Mrs. Doubtfire – Das stachelige Hausmädchen“ (1993): Welche Erste-Hilfe-Maßnahme führt zur Enthüllung von Daniels (Robin Williams) Identität?
+- **KOM-202609-P02-S-020-V1** (The Money Pit|1986): „Geschenkt ist noch zu teuer“ (1986): Welche Wahrheit erfährt Anna (Shelley Long) später über Max' (Alexander Godunov) Geschichte ihrer angeblichen gemeinsamen Nacht?
+- **SFI-202610-P01-M-004** (Serenity|2005): „Serenity – Flucht in neue Welten“ (2005): Wer ist River Tams (Summer Glau) Bruder?
+- **SFI-202610-P01-S-005** (Serenity|2005): „Serenity – Flucht in neue Welten“ (2005): Welches öffentliche Bild löst Rivers (Summer Glau) Angriff in einer Bar aus?
+- **SFI-202610-P01-L-005** (Her|2013): „Her“ (2013): In was verliebt sich Theodore (Joaquin Phoenix)?
+- **SFI-202610-P01-L-006** (Her|2013): „Her“ (2013): Welche Arbeit verrichtet Theodore (Joaquin Phoenix) für andere Menschen?
+- **SFI-202610-P01-M-013** (Cube|1997): „Cube“ (1997): Was benutzt Rennes (Wayne Robson) zunächst, um Fallen auszulösen?
+- **SFI-202610-P01-M-020** (In Time|2011): „In Time – Deine Zeit läuft ab“ (2011): Wer verfolgt Will (Justin Timberlake) als Timekeeper?
+- **SFI-202610-P01-S-019** (In Time|2011): „In Time – Deine Zeit läuft ab“ (2011): Wie heißt die reiche Erbin, die Will (Justin Timberlake) begleitet?
+- **SFI-202610-P01-L-015** (I Am Legend|2007): „I Am Legend“ (2007): In welcher Stadt lebt Robert Neville (Will Smith) nach der Katastrophe?
+- **SFI-202610-P01-L-016** (I Am Legend|2007): „I Am Legend“ (2007): Welchen Beruf hat Robert Neville (Will Smith)?
+- **SFI-202610-P01-L-018** (Ready Player One|2018): „Ready Player One“ (2018): Unter welchem Avatar-Namen tritt Wade Watts (Tye Sheridan) an?
+- **SFI-202610-P01-M-026** (Ready Player One|2018): „Ready Player One“ (2018): Wie gewinnt Wade (Tye Sheridan) die zunächst unlösbare Autorennstrecke?
+- **SFI-202610-P01-L-019** (The Quiet Earth|1985): „The Quiet Earth – Das letzte Experiment“ (1985): Was stellt Zac (Bruno Lawrence) nach dem Erwachen fest?
+- **SFI-202610-P01-M-028** (The Quiet Earth|1985): „The Quiet Earth – Das letzte Experiment“ (1985): Wie heißt das Experiment, an dem Zac (Bruno Lawrence) mitgearbeitet hat?
+- **ACT-202610-P01-L-004** (Le Transporteur|2002): „The Transporter“ (2002): Welche Regel verletzt Frank (Jason Statham), als er seine Fracht untersucht?
+- **ACT-202610-P01-M-004** (Le Transporteur|2002): „The Transporter“ (2002): Wo lebt Frank (Jason Statham) zu Beginn als selbstständiger Transporteur?
+- **ACT-202610-P01-M-005** (Le Transporteur|2002): „The Transporter“ (2002): Wie heißt der Polizeikommissar, der Frank (Jason Statham) kennt?
+- **ACT-202610-P01-S-005** (Le Transporteur|2002): „The Transporter“ (2002): Welcher Fahrzeugbaureihe gehört Franks (Jason Statham) Auto im ersten Film an?
+- **ACT-202610-P01-L-007** (Man on Fire|2004): „Man on Fire – Mann unter Feuer“ (2004): Welche Aufgabe übernimmt John Creasy (Denzel Washington) für die Familie Ramos?
+- **ACT-202610-P01-M-011** (Man on Fire|2004): „Man on Fire – Mann unter Feuer“ (2004): Bei welchem Sport unterstützt Creasy (Denzel Washington) das Mädchen?
+- **ACT-202610-P01-L-009** (Kingsman: The Secret Service|2014): „Kingsman: The Secret Service“ (2014): Wie heißt der junge Rekrut, den Harry Hart (Colin Firth) fördert?
+- **ACT-202610-P01-M-014** (Kingsman: The Secret Service|2014): „Kingsman: The Secret Service“ (2014): Was verteilt Valentine (Samuel L. Jackson) zur Umsetzung seines Plans?
+- **ACT-202610-P01-S-014** (Kingsman: The Secret Service|2014): „Kingsman: The Secret Service“ (2014): Was ist Gazelles (Sofia Boutella) auffälligstes Kampfmittel?
+- **ACT-202610-P01-L-011** (John Wick: Chapter 2|2017): „John Wick: Kapitel 2“ (2017): Was zwingt John Wick (Keanu Reeves) zur Annahme eines neuen Auftrags?
+- **ACT-202610-P01-L-012** (John Wick: Chapter 2|2017): „John Wick: Kapitel 2“ (2017): Welche Stadt ist das Ziel des Auftrags gegen Gianna (Claudia Gerini)?
+- **ACT-202610-P01-S-016** (John Wick: Chapter 2|2017): „John Wick: Kapitel 2“ (2017): Welche Hotelregel verletzt Wick (Keanu Reeves) am Ende?
+- **ACT-202610-P01-L-013** (Mission: Impossible – Fallout|2018): „Mission: Impossible – Fallout“ (2018): Welche gefährliche Substanz will Ethans (Tom Cruise) Team zurückholen?
+- **ACT-202610-P01-M-019** (Mission: Impossible – Fallout|2018): „Mission: Impossible – Fallout“ (2018): Welche Agentin kehrt an Ethans (Tom Cruise) Seite zurück?
+- **ACT-202610-P01-M-020** (Mission: Impossible – Fallout|2018): „Mission: Impossible – Fallout“ (2018): In welcher Stadt trifft Ethan (Tom Cruise) die als White Widow (Vanessa Kirby) bekannte Vermittlerin?
+- **ACT-202610-P01-L-015** (The Last Boy Scout|1991): „Last Boy Scout – Das Ziel ist Überleben“ (1991): Welchen Beruf übt Joe Hallenbeck (Bruce Willis) aus?
+- **ACT-202610-P01-S-023** (The Last Boy Scout|1991): „Last Boy Scout – Das Ziel ist Überleben“ (1991): Was war Hallenbecks (Bruce Willis) früherer staatlicher Dienst?
+- **ACT-202610-P01-L-017** (Point Break|1991): „Gefährliche Brandung“ (1991): In welche Szene schleust sich FBI-Agent Johnny Utah (Keanu Reeves) ein?
+- **ACT-202610-P01-M-026** (Point Break|1991): „Gefährliche Brandung“ (1991): Wer bringt Utah (Keanu Reeves) das Surfen bei?
+- **ACT-202610-P01-S-026** (Point Break|1991): „Gefährliche Brandung“ (1991): In welchem Land findet die letzte Begegnung mit Bodhi (Patrick Swayze) statt?
+- **ACT-202610-P01-L-019** (Desperado|1995): „Desperado“ (1995): Was trägt der Mariachi (Antonio Banderas) in seinem Gitarrenkoffer?
+- **HOR-202610-P01-M-002** (The Mist|2007): „Der Nebel“ (2007): Welchen Beruf hat David Drayton (Thomas Jane)?
+- **HOR-202610-P01-L-006** (The Others|2001): „The Others“ (2001): Warum hält Grace (Nicole Kidman) das Haus weitgehend dunkel?
+- **HOR-202610-P01-M-010** (The Descent|2005): „The Descent – Abgrund des Grauens“ (2005): Was verschweigt Juno (Natalie Mendoza) über die ausgewählte Höhle?
+- **HOR-202610-P01-M-017** (Interview with the Vampire|1994): „Interview mit einem Vampir“ (1994): In welcher Stadt beginnt Louis’ (Brad Pitt) zentrale Vampirgeschichte?
+- **HOR-202610-P01-L-013** (28 Days Later|2002): „28 Days Later“ (2002): Wo erwacht Jim (Cillian Murphy) zu Beginn?
+- **HOR-202610-P01-L-014** (28 Days Later|2002): „28 Days Later“ (2002): Welche Stadt durchquert Jim (Cillian Murphy) zunächst nahezu menschenleer?
+- **HOR-202610-P01-S-023** (The Blair Witch Project|1999): „The Blair Witch Project“ (1999): Welche früh erzählte Legende erhält durch Mikes (Michael C. Williams) Haltung im Schlussbild neue Bedeutung?
+- **HOR-202610-P01-L-018** (The Wicker Man|1973): „The Wicker Man“ (1973): Warum reist Sergeant Howie (Edward Woodward) auf die Insel?
+- **HOR-202610-P01-M-025** (The Wicker Man|1973): „The Wicker Man“ (1973): Welche religiöse Orientierung hat Howie (Edward Woodward)?
+- **FAN-202610-P01-S-002** (Ghostbusters|1984): „Ghostbusters – Die Geisterjäger“ (1984): Welche Gestalt nimmt Gozer durch Rays (Dan Aykroyd) Gedanken an?
+- **FAN-202610-P01-L-003** (Beetlejuice|1988): „Beetlejuice“ (1988): Was passiert mit Adam (Alec Baldwin) und Barbara Maitland (Geena Davis) früh im Film?
+- **FAN-202610-P01-M-005** (Beetlejuice|1988): „Beetlejuice“ (1988): Was muss man tun, um Beetlejuice (Michael Keaton) zu rufen?
+- **FAN-202610-P01-L-008** (Conan the Barbarian|1982): „Conan der Barbar“ (1982): Welcher Kult steht unter Thulsa Dooms (James Earl Jones) Führung?
+- **FAN-202610-P01-M-010** (Conan the Barbarian|1982): „Conan der Barbar“ (1982): Welcher Autor schuf die Figur Conan (Arnold Schwarzenegger)?
+- **FAN-202610-P01-M-011** (Conan the Barbarian|1982): „Conan der Barbar“ (1982): Welche Kämpferin wird zu Conans (Arnold Schwarzenegger) Gefährtin?
+- **FAN-202610-P01-S-011** (Conan the Barbarian|1982): „Conan der Barbar“ (1982): Welche Gegenüberstellung erläutert Doom (James Earl Jones) als vermeintliches Geheimnis des Stahls?
+- **FAN-202610-P01-L-014** (The Wizard of Oz|1939): „Der Zauberer von Oz“ (1939): Welchem Weg folgt Dorothy (Judy Garland) zur Smaragdstadt?
+- **FAN-202610-P01-M-019** (The Wizard of Oz|1939): „Der Zauberer von Oz“ (1939): Welche Farbe haben Dorothys (Judy Garland) Schuhe in dieser Verfilmung?
+- **FAN-202610-P01-M-020** (The Wizard of Oz|1939): „Der Zauberer von Oz“ (1939): Welches Tier begleitet Dorothy (Judy Garland)?
+- **FAN-202610-P01-S-020** (The Wizard of Oz|1939): „Der Zauberer von Oz“ (1939): Was befindet sich hinter der scheinbar übermächtigen Erscheinung des Zauberers (Frank Morgan)?
+- **FAN-202610-P01-M-023** (Big Trouble in Little China|1986): „Big Trouble in Little China“ (1986): Was ist an Miao Yin (Suzee Pai) für Lo Pans (James Hong) Plan besonders wichtig?
+- **FAN-202610-P01-S-022** (Big Trouble in Little China|1986): „Big Trouble in Little China“ (1986): Welche Kräfte kennzeichnen Lo Pans (James Hong) drei Krieger?
+- **FAN-202610-P01-S-023** (Big Trouble in Little China|1986): „Big Trouble in Little China“ (1986): Wie heißt Jack Burtons (Kurt Russell) Lastwagen?
+- **FAN-202610-P01-L-017** (The Shape of Water|2017): „Shape of Water – Das Flüstern des Wassers“ (2017): Welcher Tätigkeit geht Elisa (Sally Hawkins) nach?
+- **FAN-202610-P01-M-025** (The Shape of Water|2017): „Shape of Water – Das Flüstern des Wassers“ (2017): Warum kommuniziert Elisa (Sally Hawkins) häufig mit Gebärden?
+- **FAN-202610-P01-S-025** (The Shape of Water|2017): „Shape of Water – Das Flüstern des Wassers“ (2017): Welche Lebensmittel bringt Elisa (Sally Hawkins) dem Wesen (Doug Jones) wiederholt mit?
+- **FAN-202610-P01-S-026** (The Shape of Water|2017): „Shape of Water – Das Flüstern des Wassers“ (2017): Welcher Nachbar hilft Elisa (Sally Hawkins) bei der Rettung?
+- **ROM-202610-P01-M-001** (There's Something About Mary|1998): „Verrückt nach Mary“ (1998): Welchen Beruf hat Mary (Cameron Diaz) als Erwachsene?
+- **ROM-202610-P01-M-002** (There's Something About Mary|1998): „Verrückt nach Mary“ (1998): Warum engagiert Ted (Ben Stiller) den Privatdetektiv Healy (Matt Dillon)?
+- **ROM-202610-P01-S-001** (There's Something About Mary|1998): „Verrückt nach Mary“ (1998): Welcher NFL-Spieler tritt als früherer Freund Marys (Cameron Diaz) auf?
+- **ROM-202610-P01-S-002** (There's Something About Mary|1998): „Verrückt nach Mary“ (1998): Welche Tätigkeit verbirgt sich hinter Tuckers (Lee Evans) erfundener Architektenidentität?
+- **ROM-202610-P01-L-004** (As Good as It Gets|1997): „Besser geht’s nicht“ (1997): Welchen Beruf hat Carol (Helen Hunt)?
+- **ROM-202610-P01-M-004** (As Good as It Gets|1997): „Besser geht’s nicht“ (1997): Für welches Tier muss Melvin (Jack Nicholson) zeitweise sorgen?
+- **ROM-202610-P01-M-005** (As Good as It Gets|1997): „Besser geht’s nicht“ (1997): Welcher Beruf gehört zu Simon Bishop (Greg Kinnear)?
+- **ROM-202610-P01-S-005** (As Good as It Gets|1997): „Besser geht’s nicht“ (1997): Welche Erkrankung ihres Sohnes belastet Carols (Helen Hunt) Alltag?
+- **ROM-202610-P01-M-007** ((500) Days of Summer|2009): „(500) Days of Summer“ (2009): Wo arbeitet Tom (Joseph Gordon-Levitt) zu Beginn?
+- **ROM-202610-P01-S-007** ((500) Days of Summer|2009): „(500) Days of Summer“ (2009): Welche Bildanordnung vergleicht Toms (Joseph Gordon-Levitt) Partyhoffnung mit dem tatsächlichen Geschehen?
+- **ROM-202610-P01-L-007** (Crazy, Stupid, Love.|2011): „Crazy, Stupid, Love.“ (2011): Wer hilft Cal (Steve Carell) dabei, sein Auftreten zu verändern?
+- **ROM-202610-P01-M-011** (Crazy, Stupid, Love.|2011): „Crazy, Stupid, Love.“ (2011): Welche romantische Filmszene wird bei Jacobs (Ryan Gosling) Annäherung ausdrücklich nachgestellt?
+- **ROM-202610-P01-S-011** (Crazy, Stupid, Love.|2011): „Crazy, Stupid, Love.“ (2011): Welche Verbindung zwischen Hannah (Emma Stone) und Cal (Steve Carell) wird später enthüllt?
+- **ROM-202610-P01-L-009** (What Women Want|2000): „Was Frauen wollen“ (2000): Welche ungewöhnliche Fähigkeit erhält Nick (Mel Gibson)?
+- **ROM-202610-P01-M-013** (What Women Want|2000): „Was Frauen wollen“ (2000): In welcher Branche arbeitet Nick (Mel Gibson)?
+- **ROM-202610-P01-S-013** (What Women Want|2000): „Was Frauen wollen“ (2000): Welche Beziehung gehört neben der Romanze zu Nicks (Mel Gibson) Veränderung?
+- **ROM-202610-P01-M-016** (Something's Gotta Give|2003): „Was das Herz begehrt“ (2003): Warum bleibt Harry (Jack Nicholson) in Ericas (Diane Keaton) Strandhaus?
+- **ROM-202610-P01-M-017** (Something's Gotta Give|2003): „Was das Herz begehrt“ (2003): Welche Beziehung hat Marin (Amanda Peet) zu Erica (Diane Keaton)?
+- **ROM-202610-P01-S-016** (Something's Gotta Give|2003): „Was das Herz begehrt“ (2003): Welchen Beruf hat Julian Mercer (Keanu Reeves)?
+- **ROM-202610-P01-L-013** (Meet the Parents|2000): „Meine Braut, ihr Vater und ich“ (2000): Welchen Beruf hat Greg Focker (Ben Stiller)?
+- **ROM-202610-P01-M-019** (Meet the Parents|2000): „Meine Braut, ihr Vater und ich“ (2000): Welche frühere Tätigkeit erklärt Jacks (Robert De Niro) Verhörmethoden?
+- **ROM-202610-P01-M-020** (Meet the Parents|2000): „Meine Braut, ihr Vater und ich“ (2000): Wie heißt Jacks (Robert De Niro) geliebte Katze?
+- **ROM-202610-P01-S-020** (Meet the Parents|2000): „Meine Braut, ihr Vater und ich“ (2000): Was enthält Gregs (Ben Stiller) verlorenes Reisegepäck, das für seinen Plan wichtig ist?
+- **ROM-202610-P01-L-016** (Forgetting Sarah Marshall|2008): „Nie wieder Sex mit der Ex“ (2008): Wo verbringt Peter (Jason Segel) seinen Urlaub?
+- **ROM-202610-P01-M-022** (Forgetting Sarah Marshall|2008): „Nie wieder Sex mit der Ex“ (2008): Welchen Beruf hat Sarah Marshall (Kristen Bell)?
+- **ROM-202610-P01-S-022** (Forgetting Sarah Marshall|2008): „Nie wieder Sex mit der Ex“ (2008): Welche ungewöhnliche Bühnenidee verfolgt Peter (Jason Segel)?
+- **ROM-202610-P01-M-025** (Two Weeks Notice|2002): „Ein Chef zum Verlieben“ (2002): Was bedeutet der Originaltitel Two Weeks Notice in Lucys (Sandra Bullock) Arbeitsverhältnis?
+- **ROM-202610-P01-M-026** (Two Weeks Notice|2002): „Ein Chef zum Verlieben“ (2002): Welches Anliegen bringt Lucy (Sandra Bullock) zunächst mit George (Hugh Grant) zusammen?
+- **ROM-202610-P01-M-028** (About Time|2013): „Alles eine Frage der Zeit“ (2013): Welche Familienmitglieder können laut Tims Vater (Bill Nighy) Zeitreisen unternehmen?
+- **ROM-202610-P01-M-029** (About Time|2013): „Alles eine Frage der Zeit“ (2013): Wohin kann Tim (Domhnall Gleeson) grundsätzlich reisen?
+- **WES-202610-P01-L-002** (High Noon|1952): „Zwölf Uhr mittags“ (1952): Welches Verkehrsmittel bringt Frank Miller (Ian MacDonald) nach Hadleyville?
+- **WES-202610-P01-L-004** (Hostiles|2017): „Feinde – Hostiles“ (2017): Wohin soll Blocker (Christian Bale) den schwerkranken Yellow Hawk (Wes Studi) begleiten?
+- **WES-202610-P01-L-012** (Little Big Man|1970): „Little Big Man“ (1970): Welche Gemeinschaft zieht Jack (Dustin Hoffman) als Kind auf?
+- **WES-202610-P01-M-016** (Little Big Man|1970): „Little Big Man“ (1970): Welches Alter nennt Jack (Dustin Hoffman) in der Rahmenhandlung?
+- **WES-202610-P01-S-019** (Wyatt Earp|1994): „Wyatt Earp“ (1994): Welches Ereignis erschüttert den jungen erwachsenen Wyatt (Kevin Costner) besonders?
+- **WES-202610-P01-L-016** (One-Eyed Jacks|1961): „Der Besessene“ (1961): Welchen Beruf hat Rios (Marlon Brando) früherer Partner später?
+- **WES-202610-P01-L-018** (Django Unchained|2012): „Django Unchained“ (2012): Welchen früheren Beruf hatte Dr. King Schultz (Christoph Waltz)?
+- **WES-202610-P01-M-026** (Django Unchained|2012): „Django Unchained“ (2012): Wie heißt Djangos (Jamie Foxx) Frau?
+- **WES-202610-P01-S-029** (The Hateful Eight|2015): „The Hateful Eight“ (2015): Welches angebliche Dokument Warrens (Samuel L. Jackson) erweist sich als erfunden?
+- **KOM-202610-P01-L-002** (Raising Arizona|1987): „Arizona Junior“ (1987): Welchen Beruf hat Edwina (Holly Hunter) bei ihrem Kennenlernen?
+- **KOM-202610-P01-L-004** (Austin Powers: International Man of Mystery|1997): „Austin Powers – Das Schärfste, was Ihre Majestät zu bieten hat“ (1997): Wodurch gelangt Austin (Mike Myers) aus den 1960ern in die 1990er?
+- **KOM-202610-P01-S-004** (Austin Powers: International Man of Mystery|1997): „Austin Powers – Das Schärfste, was Ihre Majestät zu bieten hat“ (1997): Wie heißt Dr. Evils (Mike Myers) Sohn?
+- **KOM-202610-P01-L-006** (Talladega Nights: The Ballad of Ricky Bobby|2006): „Ricky Bobby – König der Rennfahrer“ (2006): In welcher Motorsportserie fährt Ricky (Will Ferrell) hauptsächlich?
+- **KOM-202610-P01-M-008** (Talladega Nights: The Ballad of Ricky Bobby|2006): „Ricky Bobby – König der Rennfahrer“ (2006): Woher kommt Rickys (Will Ferrell) Konkurrent Jean Girard (Sacha Baron Cohen)?
+- **KOM-202610-P01-S-007** (Talladega Nights: The Ballad of Ricky Bobby|2006): „Ricky Bobby – König der Rennfahrer“ (2006): Welches Tier setzt Rickys (Will Ferrell) Vater bei einem ungewöhnlichen Fahrtraining ins Auto?
+- **KOM-202610-P01-S-008** (Talladega Nights: The Ballad of Ricky Bobby|2006): „Ricky Bobby – König der Rennfahrer“ (2006): Welche Aussage des Vaters prägt Rickys (Will Ferrell) Erfolgsdenken?
+- **KOM-202610-P01-M-017** (Big|1988): „Big“ (1988): Welches Instrument spielen Josh und MacMillan (Robert Loggia) im Spielzeugladen mit den Füßen?
+- **KOM-202610-P01-S-022** (Twins|1988): „Twins – Zwillinge“ (1988): Welcher Beruf beziehungsweise Lebensstil prägt Vincent (Danny DeVito) zunächst?
+- **KOM-202610-P01-M-026** (Bang Boom Bang|1999): „Bang Boom Bang – Ein todsicheres Ding“ (1999): Welchen Gegenstand ziehen Keek (Oliver Korittke) und Andy (Markus Knüfken) mit dem Auto hinter sich her?
+- **KOM-202610-P01-L-020** (Kehraus|1983): „Kehraus“ (1983): Welchen Beruf hat Ferdinand (Gerhard Polt)?
+- **KOM-202610-P01-M-028** (Kehraus|1983): „Kehraus“ (1983): Welcher Festtag prägt Ferdinands (Gerhard Polt) Besuch in der Versicherung?
+- **DRA-202610-P01-L-004** (Network|1976): „Network“ (1976): Was macht Beales (Peter Finch) Ausbruch für den Sender zunächst attraktiv?
+- **DRA-202610-P01-M-008** (The Graduate|1967): „Die Reifeprüfung“ (1967): Welches Wort erhält Benjamin (Dustin Hoffman) als vermeintlich entscheidenden Karrieretipp?
+- **DRA-202610-P01-S-007** (The Graduate|1967): „Die Reifeprüfung“ (1967): Wen liebt Benjamin (Dustin Hoffman) später neben seiner Affäre mit Mrs. Robinson?
+- **DRA-202610-P01-S-008** (The Graduate|1967): „Die Reifeprüfung“ (1967): Mit welchem Verkehrsmittel entkommen Benjamin (Dustin Hoffman) und Elaine (Katharine Ross) nach der Hochzeitsszene?
+- **DRA-202610-P01-L-009** (Three Billboards Outside Ebbing, Missouri|2017): „Three Billboards Outside Ebbing, Missouri“ (2017): Warum mietet Mildred (Frances McDormand) drei Werbetafeln?
+- **DRA-202610-P01-M-017** (Flight|2012): „Flight“ (2012): Welche Frau lernt Whip (Denzel Washington) im Krankenhaus kennen?
+- **DRA-202610-P01-S-017** (Flight|2012): „Flight“ (2012): Welche Entscheidung trifft Whip (Denzel Washington) bei der abschließenden Anhörung?
+- **DRA-202610-P01-M-019** (What's Eating Gilbert Grape|1993): „Gilbert Grape – Irgendwo in Iowa“ (1993): Wo arbeitet Gilbert (Johnny Depp), um zum Lebensunterhalt der Familie beizutragen?
+- **DRA-202610-P01-M-020** (What's Eating Gilbert Grape|1993): „Gilbert Grape – Irgendwo in Iowa“ (1993): Welches Bauwerk erklimmt Arnie (Leonardo DiCaprio) wiederholt?
+- **DRA-202610-P01-S-026** (The Grapes of Wrath|1940): „Früchte des Zorns“ (1940): Welchen früheren Beruf hatte Jim Casy (John Carradine)?
+- **DRA-202610-P01-S-028** (The Fighter|2010): „The Fighter“ (2010): Was ist tatsächlich das Thema der Dokumentation über Dicky (Christian Bale)?
+- **ASI-202610-P01-S-001** (Bloodsport|1988): „Bloodsport“ (1988): Was wirft Chong Li (Bolo Yeung) seinem Gegner im Finale in die Augen?
+- **ASI-202610-P01-S-002** (Bloodsport|1988): „Bloodsport“ (1988): Welcher Freund wird von Chong Li (Bolo Yeung) schwer verletzt?
+- **ASI-202610-P01-L-004** (The Karate Kid|1984): „Karate Kid“ (1984): Wer wird Daniels (Ralph Macchio) Mentor?
+- **ASI-202610-P01-M-005** (The Karate Kid|1984): „Karate Kid“ (1984): Wozu dienen Miyagis (Pat Morita) scheinbar gewöhnliche Hausarbeiten?
+- **ASI-202610-P01-L-006** (Yip Man 2|2010): „Ip Man 2“ (2010): Welche Kampfkunst unterrichtet Ip Man (Donnie Yen)?
+- **ASI-202610-P01-M-008** (Yip Man 2|2010): „Ip Man 2“ (2010): Wo muss Ip Man (Donnie Yen) die örtlichen Meister in einer markanten Prüfung herausfordern?
+- **ASI-202610-P01-S-007** (Yip Man 2|2010): „Ip Man 2“ (2010): Welche Sportart betreibt der Gegner Twister (Darren Shahlavi)?
+- **ASI-202610-P01-M-013** (Xin Shaolin Si|2011): „Shaolin“ (2011): Wer verrät Hou Jie (Andy Lau) und übernimmt seine Machtposition?
+- **ASI-202610-P01-S-014** (Xin Shaolin Si|2011): „Shaolin“ (2011): Welche Entscheidung trifft Hou Jie (Andy Lau) im Schlusskampf gegenüber Cao Man (Nicholas Tse)?
+- **ASI-202610-P01-M-016** (Ging chaat goo si juk jaap|1988): „Police Story 2“ (1988): Welche neue Dienstaufgabe hat Ka-kui (Jackie Chan) zunächst?
+- **ASI-202610-P01-S-017** (Ging chaat goo si juk jaap|1988): „Police Story 2“ (1988): Wohin wollen Ka-kui (Jackie Chan) und May (Maggie Cheung) gemeinsam verreisen, bevor der Bombenfall dazwischenkommt?
+- **ASI-202610-P01-S-019** (Kiss of the Dragon|2001): „Kiss of the Dragon“ (2001): Welches kleine Hilfsmittel benutzt Liu (Jet Li) wiederholt?
+- **ASI-202610-P01-M-023** (Who Am I?|1998): „Jackie Chan ist Nobody“ (1998): Welches Fahrzeug verbindet die Hauptfigur mit Yuki (Mirai Yamamoto)?
+- **ASI-202610-P01-S-026** (Serbuan maut|2011): „The Raid“ (2011): Welche Verbindung hat Andi (Donny Alamsyah) zu Rama (Iko Uwais)?
+- **ASI-202610-P01-M-028** (Yi dai zong shi|2013): „The Grandmaster“ (2013): Welche Kampfkunst ist besonders mit Gong Er (Zhang Ziyi) verbunden?
+- **ASI-202610-P01-S-028** (Yi dai zong shi|2013): „The Grandmaster“ (2013): Welche Umgebung prägt Gong Ers (Zhang Ziyi) Auseinandersetzung mit Ma San (Zhang Jin)?
+- **MUS-202610-P01-L-002** (Little Shop of Horrors|1986): „Der kleine Horrorladen“ (1986): Wovon ernährt sich Audrey (Ellen Greene) II?
+- **MUS-202610-P01-M-001** (Little Shop of Horrors|1986): „Der kleine Horrorladen“ (1986): Wer gibt Audrey (Ellen Greene) II im Original die Stimme?
+- **MUS-202610-P01-M-004** (Mamma Mia!|2008): „Mamma Mia!“ (2008): Warum lädt Sophie (Amanda Seyfried) drei frühere Partner ihrer Mutter ein?
+- **MUS-202610-P01-L-006** (Hair|1979): „Hair“ (1979): Warum kommt Claude (John Savage) nach New York?
+- **MUS-202610-P01-S-007** (Hair|1979): „Hair“ (1979): Was geschieht durch Bergers (Treat Williams) Verwechslung mit Claude (John Savage) im Finale?
+- **MUS-202610-P01-M-011** (Pink Floyd – The Wall|1982): „Pink Floyd – The Wall“ (1982): Was bedeutet die Mauer hauptsächlich in Pinks (James Laurenson) Geschichte?
+- **MUS-202610-P01-S-010** (Pink Floyd – The Wall|1982): „Pink Floyd – The Wall“ (1982): Welche historische Erfahrung gehört zu Pinks (James Laurenson) frühen Verletzungen?
+- **MUS-202610-P01-S-016** (Elvis|2022): „Elvis“ (2022): Welche Stadt steht für Elvis’ (Austin Butler) lange späteren Bühnenaufenthalte?
+- **MUS-202610-P01-M-020** (A Star Is Born|2018): „A Star Is Born“ (2018): Wo begegnet Jackson (Bradley Cooper) Ally (Lady Gaga) zunächst?
+- **MUS-202610-P01-M-029** (Gentlemen Prefer Blondes|1953): „Blondinen bevorzugt“ (1953): Wer beobachtet Lorelei (Marilyn Monroe) im Auftrag der Familie ihres Verlobten?
+- **MUS-202610-P01-S-029** (Gentlemen Prefer Blondes|1953): „Blondinen bevorzugt“ (1953): Welche Absicherung sucht Lorelei (Marilyn Monroe) besonders in einer Partnerschaft?
+- **ADV-202610-P01-L-002** (Raiders of the Lost Ark|1981): „Jäger des verlorenen Schatzes“ (1981): Nach welchem Gegenstand sucht Indiana (Harrison Ford) im Hauptabenteuer?
+- **ADV-202610-P01-M-002** (Raiders of the Lost Ark|1981): „Jäger des verlorenen Schatzes“ (1981): Vor welchem Tier fürchtet sich Indiana (Harrison Ford) besonders?
+- **ADV-202610-P01-S-004** (Indiana Jones and the Last Crusade|1989): „Indiana Jones und der letzte Kreuzzug“ (1989): Welches Tier lieferte laut Schlussdialog Indianas (Harrison Ford) Spitznamen?
+- **ADV-202610-P01-M-010** (Romancing the Stone|1984): „Auf der Jagd nach dem grünen Diamanten“ (1984): In welches Land reist Joan (Kathleen Turner), um ihrer Schwester zu helfen?
+- **ADV-202610-P01-M-017** (The Man Who Would Be King|1975): „Der Mann, der König sein wollte“ (1975): Warum halten Bewohner Dravot (Sean Connery) zeitweise für übermenschlich?
+- **THR-202610-P01-M-004** (The Silence of the Lambs|1991): „Das Schweigen der Lämmer“ (1991): Welcher Täter soll mit Lecters (Anthony Hopkins) Hilfe gefunden werden?
+- **THR-202610-P01-S-004** (The Silence of the Lambs|1991): „Das Schweigen der Lämmer“ (1991): Was verlangt Lecter (Anthony Hopkins) im Austausch für Informationen zunehmend von Clarice?
+- **THR-202610-P01-S-007** (Fargo|1996): „Fargo“ (1996): Welchen Beruf hat Marge Gundersons (Frances McDormand) Mann Norm (John Carroll Lynch)?
+- **THR-202610-P01-L-008** (Memento|2000): „Memento“ (2000): Womit sichert Leonard (Guy Pearce) wichtige Informationen?
+- **THR-202610-P01-S-011** (Memento|2000): „Memento“ (2000): Was zeigen Leonards (Guy Pearce) Entscheidungen im Schluss über seine Informationssammlung?
+- **THR-202610-P01-S-013** (The Prestige|2006): „Prestige – Die Meister der Magie“ (2006): Welche drei Teile einer Illusion benennt Cutter (Michael Caine)?
+- **THR-202610-P01-S-020** (Prisoners|2013): „Prisoners“ (2013): Welches kleine Objekt wird im Schluss zum möglichen Lebenszeichen Kellers (Hugh Jackman)?
+- **THR-202610-P01-M-023** (Gone Girl|2014): „Gone Girl – Das perfekte Opfer“ (2014): Welche Kinderbuchfigur wurde durch Amys (Rosamund Pike) Eltern nach ihrem Vorbild geschaffen?
+- **PRZ-202610-P01-L-001** (Gone with the Wind|1939): Welches Bürgerkriegsdrama über Scarlett O’Haras (Vivien Leigh) Kampf um das Familiengut Tara gewann 1940 den Oscar als bester Film?
+- **PRZ-202610-P01-L-016** (The Shape of Water|2017): Eine Reinigungskraft befreit ein Amphibienwesen (Doug Jones) aus einem Geheimlabor. Welcher Film erhielt 2018 den Oscar als bester Film?
+- **PRZ-202610-P01-S-022** (Joker|2019): Wer entwickelte Arthurs (Joaquin Phoenix) musikalisches Thema für „Joker“ bereits vor Drehbeginn und gewann für die Originalmusik 2020 den Oscar?
+- **PRZ-202610-P01-S-028** (Barton Fink|1991): Welche Kombination gewann Barton Fink (John Turturro) 1991 im Cannes-Hauptwettbewerb?
+- **F240-20261006-001-L1** (Indiana Jones and the Temple of Doom|1984): Wie heißt Indiana Jones’ (Harrison Ford) junger Begleiter, gespielt von Ke Huy Quan, in „Indiana Jones und der Tempel des Todes“?
+- **F240-20261006-003-M2** (King Kong|2005): Welche Haltung nimmt Ann Darrow (Naomi Watts) in „King Kong“ gegenüber Denhams (Jack Black) New Yorker Bühnenschau ein?
+- **F240-20261006-006-M1** (The Poseidon Adventure|1972): Welchen Gegenstand benutzt Scotts (Gene Hackman) Gruppe in „Die Höllenfahrt der Poseidon“ als Aufstiegshilfe aus dem umgedrehten Speisesaal?
+- **F240-20261006-006-M2** (The Poseidon Adventure|1972): Welche Fähigkeit ermöglicht Belle Rosen (Shelley Winters) in „Die Höllenfahrt der Poseidon“, Scott (Gene Hackman) aus einem überfluteten Gang zu retten?
+- **F240-20261006-012-M1** (Up|2009): Wodurch können Dug (Originalstimme: Bob Peterson) und die anderen Hunde in „Oben“ mit Menschen sprechen?
+- **F240-20261006-012-S1** (Up|2009): Wie erzählt „Oben“ zu Beginn den Großteil von Carls (Originalstimme: Ed Asner) und Ellies gemeinsamem Erwachsenenleben?
+- **F240-20261006-013-M1** (Hunt for the Wilderpeople|2016): Warum versteckt sich Ricky (Julian Dennison) nach Bellas (Rima Te Wiata) Tod in „Wo die wilden Menschen jagen“?
+- **F240-20261006-013-M2** (Hunt for the Wilderpeople|2016): Was hält Hec (Sam Neill) in „Wo die wilden Menschen jagen“ zunächst länger als geplant mit Ricky (Julian Dennison) im Busch fest?
+- **F240-20261006-013-S1** (Hunt for the Wilderpeople|2016): Wie wird der Aufenthaltsort von Ricky (Julian Dennison) und Hec (Sam Neill) bei Psycho Sam (Rhys Darby) in „Wo die wilden Menschen jagen“ entdeckt?
+- **F240-20261006-014-M2** (The Jewel of the Nile|1985): Welches Ereignis zwingt Jack Colton (Michael Douglas) in „Auf der Jagd nach dem Juwel vom Nil“, die Warnung vor Omar (Spiros Focás) ernst zu nehmen?
+- **F240-20261006-015-L2** (The Lost City|2022): Welche Aufgabe hat Alan (Channing Tatum) beruflich für Lorettas (Sandra Bullock) Bücher in „The Lost City – Das Geheimnis der verlorenen Stadt“?
+- **F240-20261006-016-M2** (The Lost City of Z|2016): Warum muss Fawcetts (Charlie Hunnam) Expedition in „Die versunkene Stadt Z“ nach der Trennung von James Murray (Angus Macfadyen) aufgegeben werden?
+- **F240-20261006-019-M1** (Kon-Tiki|2012): Warum verwirft Heyerdahl (Pål Sverre Hagen) in „Kon-Tiki“ Watzingers (Anders Baasmo Christiansen) Vorschlag, Stahlseile einzusetzen?
+- **F240-20261006-021-M2** (Mad Max 2|1981): Was löst beim Versuch eines Angreifers, Benzin aus Max’ (Mel Gibson) Wagen abzuzapfen, in „Mad Max II – Der Vollstrecker“ die Explosion aus?
+- **F240-20261006-021-S1** (Mad Max 2|1981): Was befindet sich am Ende von „Mad Max II – Der Vollstrecker“ tatsächlich im von Max (Mel Gibson) gefahrenen Tankauflieger?
+- **F240-20261006-021-S2** (Mad Max 2|1981): Wer erzählt in der Rahmenhandlung von „Mad Max II – Der Vollstrecker“ als erwachsener Mann von Max (Mel Gibson)?
+- **F240-20261006-022-L1** (Mad Max: Fury Road|2015): Wen bringt Furiosa (Charlize Theron) in „Mad Max: Fury Road“ heimlich aus Immortan Joes (Hugh Keays-Byrne) Herrschaftsgebiet fort?
+- **F240-20261006-022-M1** (Mad Max: Fury Road|2015): Was erfahren Furiosa (Charlize Theron) und ihre Begleiter in „Mad Max: Fury Road“ über das ersehnte Grüne Land?
+- **F240-20261006-022-S2** (Mad Max: Fury Road|2015): Wie verändert sich die Bedeutung von Max’ (Tom Hardy) Blutspenden in „Mad Max: Fury Road“ zwischen Anfang und Ende?
+- **F240-20261006-023-M1** (Top Gun|1986): Was kritisiert Jester (Michael Ironside) an Mavericks (Tom Cruise) Verhalten nach dem verlorenen Übungskampf gegen Viper in „Top Gun – Sie fürchten weder Tod noch Teufel“?
+- **F240-20261006-023-M2** (Top Gun|1986): Welche unmittelbare Folge hat der Ausbildungsunfall mit Goose (Anthony Edwards) in „Top Gun – Sie fürchten weder Tod noch Teufel“ für Maverick (Tom Cruise)?
+- **F240-20261006-024-L2** (Top Gun: Maverick|2022): Welche Verbindung hat Rooster (Miles Teller) in „Top Gun: Maverick“ zu Mavericks (Tom Cruise) verstorbenem Freund Goose (Anthony Edwards)?
+- **F240-20261006-024-S1** (Top Gun: Maverick|2022): Mit welchem erbeuteten Flugzeug entkommen Maverick (Tom Cruise) und Rooster (Miles Teller) in „Top Gun: Maverick“ zunächst vom feindlichen Stützpunkt?
+- **F240-20261006-024-S2** (Top Gun: Maverick|2022): Wer rettet Maverick (Tom Cruise) und Rooster (Miles Teller) in „Top Gun: Maverick“ vor dem letzten gegnerischen Jagdflugzeug?
+- **F240-20261006-025-L1** (Live Free or Die Hard|2007): Welche Fähigkeit ergänzt Matt Farrell (Justin Long) in „Stirb langsam 4.0“ an der Seite von John McClane (Bruce Willis)?
+- **F240-20261006-025-L2** (Live Free or Die Hard|2007): Wen lässt Thomas Gabriel (Timothy Olyphant) in „Stirb langsam 4.0“ entführen, um McClane (Bruce Willis) unter Druck zu setzen?
+- **F240-20261006-025-M2** (Live Free or Die Hard|2007): Welche Hilfe erhalten McClane (Bruce Willis) und Farrell (Justin Long) in „Stirb langsam 4.0“ von Warlock (Kevin Smith)?
+- **F240-20261006-025-S2** (Live Free or Die Hard|2007): Wie tötet McClane (Bruce Willis) in „Stirb langsam 4.0“ Gabriel (Timothy Olyphant) in der letzten Konfrontation?
+- **F240-20261006-026-L2** (Dredd|2012): Welche besondere Fähigkeit besitzt Dredds (Karl Urban) Nachwuchspartnerin Anderson (Olivia Thirlby) in „Dredd“?
+- **F240-20261006-026-M1** (Dredd|2012): Warum können Dredd (Karl Urban) und Anderson (Olivia Thirlby) in „Dredd“ das Hochhaus Peach Trees nicht einfach verlassen?
+- **F240-20261006-026-S1** (Dredd|2012): Warum versagt Kays (Wood Harris) Versuch, Anderson (Olivia Thirlby) in „Dredd“ mit ihrer eigenen Dienstwaffe zu erschießen?
+- **F240-20261006-026-S2** (Dredd|2012): Wie beurteilt Dredd (Karl Urban) Andersons (Olivia Thirlby) Leistung am Ende von „Dredd“ offiziell?
+- **F240-20261006-028-M2** (Nobody|2021): Warum verfolgt Yulian (Aleksei Serebryakov) Hutch (Bob Odenkirk) in „Nobody“ nach der Busprügelei?
+- **F240-20261006-028-S1** (Nobody|2021): Wie schützt sich Hutch (Bob Odenkirk) in „Nobody“ bei seinem letzten Sprengstoffangriff auf Yulian (Aleksei Serebryakov)?
+- **F240-20261006-029-L1** (Baby Driver|2017): Welche Aufgabe übernimmt Baby (Ansel Elgort) in „Baby Driver“ für Docs (Kevin Spacey) Raubüberfälle?
+- **F240-20261006-029-M2** (Baby Driver|2017): Warum verdächtigen Buddy (Jon Hamm) und Bats (Jamie Foxx) Baby (Ansel Elgort) in „Baby Driver“ zeitweise, für die Polizei zu arbeiten?
+- **F240-20261006-029-S1** (Baby Driver|2017): Wie beendet Baby (Ansel Elgort) in „Baby Driver“ Bats’ (Jamie Foxx) Gewalt beim missglückten Postraub?
+- **F240-20261006-029-S2** (Baby Driver|2017): Was tut Baby (Ansel Elgort) in „Baby Driver“ an der Polizeisperre während seiner Flucht mit Debora (Lily James)?
+- **F240-20261006-030-M1** (Atomic Blonde|2017): Warum ist Spyglass (Eddie Marsan) in „Atomic Blonde“ auch ohne die Uhr für Lorraine (Charlize Theron) wertvoll?
+- **F240-20261006-030-M2** (Atomic Blonde|2017): Welche Handlung Percivals (James McAvoy) gefährdet in „Atomic Blonde“ die geplante Flucht von Spyglass (Eddie Marsan)?
+- **F240-20261006-030-S1** (Atomic Blonde|2017): Welche Belege Delphines (Sofia Boutella) findet Lorraine (Charlize Theron) in „Atomic Blonde“ nach deren Tod?
+- **F240-20261006-031-L1** (The Equalizer|2014): Wo arbeitet McCall (Denzel Washington) in „The Equalizer“ während seines zurückgezogenen Alltags?
+- **F240-20261006-031-L2** (The Equalizer|2014): Was bewegt McCall (Denzel Washington) in „The Equalizer“ zum Eingreifen gegen Slavi?
+- **F240-20261006-031-M1** (The Equalizer|2014): Wie erfährt McCall (Denzel Washington) in „The Equalizer“, wer hinter dem Namen Teddy Rensen steckt?
+- **F240-20261006-031-M2** (The Equalizer|2014): Welchen Teil von Pushkins Geschäft greift McCall (Denzel Washington) mithilfe von Masters (David Harbour) in „The Equalizer“ an?
+- **F240-20261006-031-S1** (The Equalizer|2014): Warum kommt es in „The Equalizer“ zum abschließenden Kampf in McCalls (Denzel Washington) Baumarkt?
+- **F240-20261006-031-S2** (The Equalizer|2014): Wie verhindert McCall (Denzel Washington) im Finale von „The Equalizer“, dass Nicolai (Marton Csokas) Ralphie (Johnny Skourtis) erschießt?
+- **F240-20261006-032-L1** (Sicario|2015): Was entdeckt Kates (Emily Blunt) FBI-Team beim ersten großen Einsatz in „Sicario“ in den Hauswänden?
+- **F240-20261006-032-M1** (Sicario|2015): Warum ist Kates (Emily Blunt) Beteiligung an der Tunneloperation in „Sicario“ für Matt (Josh Brolin) notwendig?
+- **F240-20261006-032-M2** (Sicario|2015): Welches übergeordnete Ziel verfolgt Matt (Josh Brolin) in „Sicario“ mit der Beseitigung Alarcóns?
+- **F240-20261006-032-S2** (Sicario|2015): Was erzwingt Alejandro bei seinem letzten Besuch bei Kate (Emily Blunt) in „Sicario“?
+- **F240-20261006-033-L1** (Fast Five|2011): In welcher Stadt plant Doms (Vin Diesel) Gruppe den großen Raubzug in „Fast & Furious Five“?
+- **F240-20261006-033-M2** (Fast Five|2011): Warum verbrennt Doms (Vin Diesel) Team in „Fast & Furious Five“ einen Teil von Reyes’ (Joaquim de Almeida) Bargeld öffentlich vor seinen Leuten?
+- **F240-20261006-033-S1** (Fast Five|2011): Warum unterstützt Hobbs (Dwayne Johnson) Doms (Vin Diesel) Team in „Fast & Furious Five“ schließlich beim Raub?
+- **F240-20261006-033-S2** (Fast Five|2011): Warum erhält Hobbs (Dwayne Johnson) am Ende von „Fast & Furious Five“ nur einen leeren Tresor?
+- **F240-20261006-034-L2** (The French Connection|1971): Womit verfolgt Doyle (Gene Hackman) in „Brennpunkt Brooklyn“ Nicolis (Marcel Bozzuffi) flüchtenden Hochbahnzug?
+- **F240-20261006-034-M1** (The French Connection|1971): Welcher Befund lässt Russo (Roy Scheider) in „Brennpunkt Brooklyn“ trotz zunächst erfolgloser Suche am Lincoln weiterforschen?
+- **F240-20261006-034-S1** (The French Connection|1971): Wen trifft Doyle (Gene Hackman) in „Brennpunkt Brooklyn“ bei der letzten Verfolgung tödlich statt Charnier (Fernando Rey)?
+- **F240-20261006-034-S2** (The French Connection|1971): Welche Nachricht über Charnier (Fernando Rey) beendet „Brennpunkt Brooklyn“ in den abschließenden Texttafeln?
+- **F240-20261006-035-L1** (Bullitt|1968): Welche Aufgabe erhält Frank Bullitt (Steve McQueen) zu Beginn von „Bullitt“?
+- **F240-20261006-035-M1** (Bullitt|1968): Warum lässt Bullitt (Steve McQueen) in „Bullitt“ den Tod des bewachten Mannes zunächst verschleiern?
+- **F240-20261006-035-M2** (Bullitt|1968): Wodurch erkennt Bullitt (Steve McQueen) in „Bullitt“, dass er einen falschen Johnny Ross (Pat Renella) bewacht hat?
+- **F240-20261006-035-S1** (Bullitt|1968): Was erschüttert Cathy (Jacqueline Bisset) in „Bullitt“ bei ihrer Fahrt mit Bullitt (Steve McQueen) nach San Mateo?
+- **F240-20261006-035-S2** (Bullitt|1968): Wie vereitelt Ross (Pat Renella) in „Bullitt“ zunächst Bullitts (Steve McQueen) Suche am Flughafen?
+- **F240-20261006-036-M1** (The Taking of Pelham One Two Three|1974): Warum vermutet Garber (Walter Matthau) in „Stoppt die Todesfahrt der U-Bahn 123“ einen früheren U-Bahn-Fahrer unter den Entführern?
+- **F240-20261006-036-M2** (The Taking of Pelham One Two Three|1974): Warum lässt Garber (Walter Matthau) in „Stoppt die Todesfahrt der U-Bahn 123“ Blue (Robert Shaw) glauben, das Lösegeld sei bereits an der Station angekommen?
+- **F240-20261006-036-S2** (The Taking of Pelham One Two Three|1974): Welche unwillkürliche Handlung verrät Green (Martin Balsam) am Schluss von „Stoppt die Todesfahrt der U-Bahn 123“?
+- **F240-20261006-037-L1** (The Train|1964): Welche Ladung will von Waldheim (Paul Scofield) in „Der Zug“ nach Deutschland bringen?
+- **F240-20261006-037-L2** (The Train|1964): Warum lehnt Labiche (Burt Lancaster) in „Der Zug“ die erste Bitte um Rettung der Gemälde ab?
+- **F240-20261006-037-S1** (The Train|1964): Warum sprengt Labiche (Burt Lancaster) in „Der Zug“ die Gleise vorzeitig statt die ankommende Lokomotive?
+- **F240-20261006-037-S2** (The Train|1964): Worauf blickt Labiche (Burt Lancaster) in „Der Zug“ unmittelbar vor seinem tödlichen Angriff auf von Waldheim (Paul Scofield)?
+- **F240-20261006-038-L1** (The Driver|1978): Wie reagiert die Spielerin (Isabelle Adjani) in „Driver“ auf die Aufforderung, den Fahrer (Ryan O’Neal) zu identifizieren?
+- **F240-20261006-038-L2** (The Driver|1978): Was verspricht der Ermittler (Bruce Dern) in „Driver“ festgenommenen Kriminellen für ihre Hilfe gegen den Fahrer (Ryan O’Neal)?
+- **F240-20261006-038-M1** (The Driver|1978): Wie reagiert der Fahrer (Ryan O’Neal) in „Driver“, als die geplanten Auftraggeber sein Können bezweifeln?
+- **F240-20261006-038-M2** (The Driver|1978): Warum lagert der Fahrer (Ryan O’Neal) in „Driver“ die Raubbeute in einem Bahnhofsschließfach?
+- **F240-20261006-038-S1** (The Driver|1978): Warum erfüllt Glasses (Joseph Walsh) in „Driver“ nach dem Bankraub seine Abmachung mit dem Ermittler (Bruce Dern) nicht?
+- **F240-20261006-038-S2** (The Driver|1978): Warum kann der Ermittler (Bruce Dern) in „Driver“ den Fahrer (Ryan O’Neal) am letzten Schließfach nicht mit der Beute stellen?
+- **F240-20261006-039-L1** (Haywire|2011): Für welche Art von Organisation arbeitet Mallory (Gina Carano) in „Haywire“ vor dem Verrat?
+- **F240-20261006-039-L2** (Haywire|2011): In welcher Stadt wird Mallory (Gina Carano) bei dem als Paarmission getarnten Auftrag in „Haywire“ angegriffen?
+- **F240-20261006-039-M1** (Haywire|2011): Woran erkennt Mallory (Gina Carano) in „Haywire“ beim Empfang, dass sie mit Jiangs (Anthony Brandon Wong) Tod belastet werden soll?
+- **F240-20261006-039-M2** (Haywire|2011): Wie bestätigt Mallory (Gina Carano) nach Pauls (Michael Fassbender) Tod in „Haywire“ Kenneths (Ewan McGregor) Beteiligung an der Falle?
+- **F240-20261006-039-S1** (Haywire|2011): Welche Wahrheit enthüllt Kenneth (Ewan McGregor) in „Haywire“ über die vermeintliche Befreiung Jiangs (Anthony Brandon Wong)?
+- **F240-20261006-039-S2** (Haywire|2011): Wie lässt Mallory (Gina Carano) Kenneth (Ewan McGregor) nach dessen Geständnis am Strand in „Haywire“ zurück?
+- **F240-20261006-040-L1** (Hanna|2011): In welchem Land beginnt Hannas (Saoirse Ronan) abgeschiedenes Leben in „Wer ist Hanna?“?
+- **F240-20261006-040-L2** (Hanna|2011): Wie beendet Hanna (Saoirse Ronan) in „Wer ist Hanna?“ bewusst die heimliche Abgeschiedenheit?
+- **F240-20261006-040-M1** (Hanna|2011): Warum tötet Hanna (Saoirse Ronan) in „Wer ist Hanna?“ beim ersten Verhör nicht die echte Marissa (Cate Blanchett)?
+- **F240-20261006-040-M2** (Hanna|2011): Wie schafft Hanna (Saoirse Ronan) in „Wer ist Hanna?“ den Weg von Marokko nach Spanien?
+- **F240-20261006-040-S1** (Hanna|2011): Welche Erklärung gibt Erik (Eric Bana) in „Wer ist Hanna?“ für Hannas (Saoirse Ronan) Herkunft?
+- **F240-20261006-040-S2** (Hanna|2011): Welche Handlung wiederholt Hanna (Saoirse Ronan) beim tödlichen Schluss von „Wer ist Hanna?“ aus der ersten Jagdszene?
+- **F240-20261006-043-M1** (Nomadland|2020): Was bietet Bob Wells’ Zusammenkunft Fern (Frances McDormand) in „Nomadland“ außer einem Stellplatz?
+- **F240-20261006-043-S2** (Nomadland|2020): Welche Handlung markiert Ferns (Frances McDormand) Rückkehr nach Empire am Ende von „Nomadland“?
+- **F240-20261006-045-M2** (The Father|2020): Woran erinnert die Pflegekraft Laura (Imogen Poots) Anthony (Anthony Hopkins) in „The Father“?
+- **F240-20261006-046-L2** (Aftersun|2022): In welchem Land verbringen Calum (Paul Mescal) und Sophie ihren Urlaub in „Aftersun“?
+- **F240-20261006-047-L1** (Past Lives|2023): Wodurch verlieren die Kinder Nora (Greta Lee) und Hae Sung (Teo Yoo) in „Past Lives – In einem anderen Leben“ zunächst den Kontakt?
+- **F240-20261006-049-S2** (Doraibu mai kā|2021): Was verbindet die Reise nach Hokkaido in „Drive My Car“ mit den Gesprächen zwischen Kafuku und Misaki (Tōko Miura)?
+- **F240-20261006-050-M2** (Perfect Days|2023): Warum bleibt Niko (Arisa Nakano) unerwartet bei Hirayama (Kōji Yakusho) in „Perfect Days“?
+- **F240-20261006-051-S1** (Manbiki Kazoku|2018): Wie reagieren Osamu (Lily Franky) und Nobuyo (Sakura Ando) nach Hatsues (Kirin Kiki) Tod in „Shoplifters – Familienbande“?
+- **F240-20261006-051-S2** (Manbiki Kazoku|2018): Welches Eingeständnis macht Osamu (Lily Franky) Shota (Kairi Jō) am Ende von „Shoplifters – Familienbande“?
+- **F240-20261006-053-M2** (Cidade de Deus|2002): Warum gerät Benés (Phellipe Haagensen) Abschiedsparty in „City of God“ zum Wendepunkt?
+- **F240-20261006-054-L2** (Central do Brasil|1998): Wen suchen Dora (Fernanda Montenegro) und Josué auf ihrer Reise in „Central Station“?
+- **F240-20261006-054-M2** (Central do Brasil|1998): Wie verschaffen Dora (Fernanda Montenegro) und Josué sich in „Central Station“ nach dem Geldverlust neue Einnahmen?
+- **F240-20261006-054-S2** (Central do Brasil|1998): Was erfahren Dora (Fernanda Montenegro) und Josué in „Central Station“ aus dem Brief des gesuchten Vaters?
+- **F240-20261006-055-L2** (Jodāyi-e Nāder az Simin|2011): Welche Aufgabe übernimmt Razieh (Sareh Bayat) nach Simins (Leila Hatami) Auszug in „Nader und Simin – Eine Trennung“?
+- **F240-20261006-055-M1** (Jodāyi-e Nāder az Simin|2011): Was finden Nader (Peyman Moaadi) und Termeh (Sarina Farhadi) bei ihrer früheren Heimkehr in „Nader und Simin – Eine Trennung“ vor?
+- **F240-20261006-055-M2** (Jodāyi-e Nāder az Simin|2011): Welche Information ist für Naders (Peyman Moaadi) mögliche Schuld nach Raziehs (Sareh Bayat) Fehlgeburt in „Nader und Simin – Eine Trennung“ entscheidend?
+- **F240-20261006-056-L1** (The Lunchbox|2013): Was bringt Ila (Nimrat Kaur) und Saajan (Irrfan Khan) in „Lunchbox“ erstmals miteinander in Kontakt?
+- **F240-20261006-056-M2** (The Lunchbox|2013): Warum spricht Saajan (Irrfan Khan) Ila (Nimrat Kaur) beim vereinbarten Restauranttreffen in „Lunchbox“ nicht an?
+- **F240-20261006-056-S1** (The Lunchbox|2013): Welcher Unterschied prägt die Darstellung von Ilas (Nimrat Kaur) Nachbarin in „Lunchbox“?
+- **F240-20261006-057-L2** (Jagten|2012): Wer sucht trotz der Vorwürfe gegen Lucas (Mads Mikkelsen) in „Die Jagd“ ausdrücklich seine Nähe?
+- **F240-20261006-057-M1** (Jagten|2012): Welche Befragungsweise verstärkt in „Die Jagd“ die Anschuldigung gegen Lucas (Mads Mikkelsen)?
+- **F240-20261006-058-M2** (The Florida Project|2017): Welche Folge hat der von den Kindern gelegte Brand in „The Florida Project“ für Moonees Freundschaft mit Scooty (Christopher Rivera)?
+- **F240-20261006-058-S2** (The Florida Project|2017): Wohin führt Moonees Flucht mit Jancey (Valeria Cotto) am Schluss von „The Florida Project“?
+- **F240-20261006-059-L1** (A Woman Under the Influence|1974): Welche Beziehung haben Mabel (Gena Rowlands) und Nick (Peter Falk) in „Eine Frau unter Einfluss“?
+- **F240-20261006-059-L2** (A Woman Under the Influence|1974): Warum fällt der geplante gemeinsame Abend von Mabel (Gena Rowlands) und Nick (Peter Falk) in „Eine Frau unter Einfluss“ aus?
+- **F240-20261006-059-S1** (A Woman Under the Influence|1974): Warum verkleinert Nick (Peter Falk) die geplante Feier zu Mabels (Gena Rowlands) Rückkehr in „Eine Frau unter Einfluss“?
+- **F240-20261006-060-L2** (The Last Picture Show|1971): Welche Beziehung verbindet Sonny (Timothy Bottoms) und Duane (Jeff Bridges) am Anfang von „Die letzte Vorstellung“?
+- **F240-20261006-060-M2** (The Last Picture Show|1971): Welche Aufgabe übernimmt Sonny (Timothy Bottoms) nach Sams (Ben Johnson) Tod in „Die letzte Vorstellung“?
+- **F240-20261006-060-S2** (The Last Picture Show|1971): Wohin kehrt Sonny (Timothy Bottoms) am Ende von „Die letzte Vorstellung“ nach Billys (Sam Bottoms) Tod zurück?
+- **F240-20261006-066-L2** (Pinocchio|1940): Welche Eigenschaften soll Pinocchio (Originalstimme: Dickie Jones) beweisen, um in Disneys „Pinocchio“ ein echter Junge zu werden?
+- **F240-20261006-066-M1** (Pinocchio|1940): Wie reagiert Stromboli in Disneys „Pinocchio“, als Pinocchio (Originalstimme: Dickie Jones) nach dem Auftritt nach Hause möchte?
+- **F240-20261006-066-S1** (Pinocchio|1940): Wie wollen Pinocchio (Originalstimme: Dickie Jones) und Geppetto in Disneys „Pinocchio“ aus Monstros Bauch entkommen?
+- **F240-20261006-069-L1** (Aladdin|1992): Wozu nutzt Aladdin (Originalstimme: Scott Weinger) seinen ersten ausdrücklich gezählten Wunsch?
+- **F240-20261006-069-M2** (Aladdin|1992): Wie entkommt Aladdin (Originalstimme: Scott Weinger) in „Aladdin“ der Höhle, ohne einen Wunsch zu verbrauchen?
+- **F240-20261006-069-S2** (Aladdin|1992): Welche Entscheidung verbindet Aladdins (Originalstimme: Scott Weinger) letzten Wunsch und die spätere Heirat in „Aladdin“?
+- **F240-20261006-071-S2** (Big Fish|2003): Was entdeckt Will bei Edwards (Albert Finney) Beerdigung in „Big Fish“?
+- **F240-20261006-072-L1** (Pleasantville|1998): Wie gelangen David und Jennifer (Reese Witherspoon) in „Pleasantville – Zu schön, um wahr zu sein“ in die Fernsehwelt?
+- **F240-20261006-073-L1** (The Fall|2006): Wo lernen Roy (Lee Pace) und Alexandria (Catinca Untaru) sich in „The Fall“ kennen?
+- **F240-20261006-073-M1** (The Fall|2006): Warum erzählt Roy (Lee Pace) Alexandria (Catinca Untaru) in „The Fall“ zunächst die Abenteuer?
+- **F240-20261006-073-S1** (The Fall|2006): Warum bekommt Roy (Lee Pace) in „The Fall“ zunächst nur drei Morphiumtabletten?
+- **F240-20261006-075-L1** (The Green Knight|2021): Welche Gegenleistung verlangt der Grüne Ritter (Ralph Ineson) für einen Schlag in „The Green Knight“?
+- **F240-20261006-075-M1** (The Green Knight|2021): Was holt Gawain (Dev Patel) für Winifred (Erin Kellyman) in „The Green Knight“ aus dem Wasser?
+- **F240-20261006-075-M2** (The Green Knight|2021): Worin besteht das Tauschversprechen zwischen Gawain (Dev Patel) und dem Burgherrn in „The Green Knight“?
+- **F240-20261006-075-S1** (The Green Knight|2021): Wie ist Gawains (Dev Patel) lange Rückkehr als späterer König kurz vor dem Schluss von „The Green Knight“ eingeordnet?
+- **F240-20261006-076-L1** (Wolfwalkers|2020): Welchen Auftrag hat Robyns (Originalstimme: Honor Kneafsey) Vater in „Wolfwalkers“?
+- **F240-20261006-076-M1** (Wolfwalkers|2020): Wodurch erhält Robyn (Originalstimme: Honor Kneafsey) in „Wolfwalkers“ selbst die Fähigkeit der Wolfwalkers?
+- **F240-20261006-076-S1** (Wolfwalkers|2020): Was gefährdet Mebhs Vertrauen in Robyn (Originalstimme: Honor Kneafsey) in „Wolfwalkers“ besonders?
+- **F240-20261006-078-L1** (The Secret of Kells|2009): Welche Arbeit begeistert Brendan (Originalstimme: Evan McGuire) in „Das Geheimnis von Kells“?
+- **F240-20261006-078-M1** (The Secret of Kells|2009): Wozu sammelt Brendan (Originalstimme: Evan McGuire) im Wald von „Das Geheimnis von Kells“ Galläpfel?
+- **F240-20261006-078-M2** (The Secret of Kells|2009): Warum braucht Brendan (Originalstimme: Evan McGuire) in „Das Geheimnis von Kells“ das Auge von Colmcille?
+- **F240-20261006-078-S1** (The Secret of Kells|2009): Wie besiegt Brendan (Originalstimme: Evan McGuire) in „Das Geheimnis von Kells“ den schlangenartigen Crom Cruach?
+- **F240-20261006-079-M1** (Il racconto dei racconti|2015): Wie gewinnt der Oger (Guillaume Delaunay) in „Das Märchen der Märchen“ das Recht, Violet (Bebe Cave) zu heiraten?
+- **F240-20261006-079-M2** (Il racconto dei racconti|2015): Was verbindet Elias (Christian Lees) und Jonah (Jonah Lees) in „Das Märchen der Märchen“ trotz ihrer unterschiedlichen Mütter?
+- **F240-20261006-079-S1** (Il racconto dei racconti|2015): Warum lässt Imma (Shirley Henderson) in „Das Märchen der Märchen“ sich die Haut abziehen?
+- **F240-20261006-079-S2** (Il racconto dei racconti|2015): Welche Enthüllung folgt in „Das Märchen der Märchen“ auf Elias’ (Christian Lees) Sieg über das Monster in der Höhle?
+- **F240-20261006-080-L1** (Orlando|1992): Welche ungewöhnliche Bedingung stellt die Königin Orlando (Tilda Swinton) in „Orlando“ für ihr Geschenk?
+- **F240-20261006-080-L2** (Orlando|1992): Welche Veränderung erlebt Orlando (Tilda Swinton) in „Orlando“ nach dem langen Schlaf?
+- **F240-20261006-080-M1** (Orlando|1992): Warum wird Orlandos (Tilda Swinton) Besitz nach der Rückkehr in „Orlando“ juristisch angefochten?
+- **F240-20261006-080-M2** (Orlando|1992): Warum flieht Orlando (Tilda Swinton) in „Orlando“ aus der Schlacht im Osmanischen Reich?
+- **F240-20261006-080-S2** (Orlando|1992): Was unterscheidet die familiäre Situation am modernen Schluss von „Orlando“ von Orlandos (Tilda Swinton) früherer Isolation?
+- **F240-20261006-081-M1** (Hereditary|2018): Welche Hilfe bietet Joan (Ann Dowd) Annie (Toni Collette) in „Hereditary – Das Vermächtnis“ scheinbar an?
+- **F240-20261006-081-S1** (Hereditary|2018): Was geschieht beim zweiten Versuch, Charlies (Milly Shapiro) Zeichenbuch zu verbrennen, in „Hereditary – Das Vermächtnis“?
+- **F240-20261006-081-S2** (Hereditary|2018): Warum wird Peter (Alex Wolff) am Ende von „Hereditary – Das Vermächtnis“ für den Kult zum entscheidenden Körper?
+- **F240-20261006-082-L1** (Midsommar|2019): In welches Land reist Danis (Florence Pugh) Gruppe in „Midsommar“ zum Fest?
+- **F240-20261006-082-M1** (Midsommar|2019): Wodurch wird Dani (Florence Pugh) in „Midsommar“ zur Maikönigin?
+- **F240-20261006-082-M2** (Midsommar|2019): Warum gerät Josh (William Jackson Harper) in „Midsommar“ beim nächtlichen Fotografieren in Gefahr?
+- **F240-20261006-082-S1** (Midsommar|2019): Wie reagieren die Frauen in „Midsommar“ auf Danis (Florence Pugh) Zusammenbruch nach dem Sexualritual?
+- **F240-20261006-082-S2** (Midsommar|2019): Welche Entscheidung trifft Dani (Florence Pugh) als Maikönigin am Ende von „Midsommar“?
+- **F240-20261006-083-S2** (The Witch|2015): Was verlangt Black Phillip von Thomasin (Anya Taylor-Joy) im Schluss von „The Witch“?
+- **F240-20261006-084-L2** (The Lighthouse|2019): Welchen Bereich hält Wake (Willem Dafoe) in „Der Leuchtturm“ dem Gehilfen vor?
+- **F240-20261006-084-M1** (The Lighthouse|2019): Warum warnt Wake (Willem Dafoe) den Gehilfen in „Der Leuchtturm“ davor, Möwen zu töten?
+- **F240-20261006-084-M2** (The Lighthouse|2019): Was erfährt der Gehilfe (Robert Pattinson) in „Der Leuchtturm“ aus Wakes (Willem Dafoe) Dienstbuch?
+- **F240-20261006-084-S1** (The Lighthouse|2019): Was gesteht der Gehilfe (Robert Pattinson) in „Der Leuchtturm“ über den Namen Ephraim Winslow?
+- **F240-20261006-084-S2** (The Lighthouse|2019): Welches Bild schließt „Der Leuchtturm“ nach Howards (Robert Pattinson) Zugang zum Licht ab?
+- **F240-20261006-085-M2** (It Follows|2014): Warum unterschätzt Greg (Daniel Zovatto) in „It Follows“ nach der Weitergabe die Gefahr?
+- **F240-20261006-086-L1** (The Babadook|2014): Welcher Gegenstand bringt Sam (Noah Wiseman) in „Der Babadook“ die Gestalt des Monsters näher?
+- **F240-20261006-086-L2** (The Babadook|2014): Welcher Verlust verbindet sich für Amelia (Essie Davis) in „Der Babadook“ mit Sams (Noah Wiseman) Geburt?
+- **F240-20261006-086-M2** (The Babadook|2014): Welche Strategie nutzt Sam (Noah Wiseman) in „Der Babadook“ gegen die besessene Mutter?
+- **F240-20261006-086-S1** (The Babadook|2014): Warum lässt sich Amelia (Essie Davis) in „Der Babadook“ nicht auf die Erscheinung ihres Mannes ein?
+- **F240-20261006-086-S2** (The Babadook|2014): Wie gestaltet Amelia (Essie Davis) am Ende von „Der Babadook“ den Umgang mit dem Wesen?
+- **F240-20261006-087-L1** (Suspiria|1977): Warum kommt Suzy (Jessica Harper) in „Suspiria“ an die Akademie?
+- **F240-20261006-087-M2** (Suspiria|1977): Wie findet Suzy (Jessica Harper) in „Suspiria“ den verborgenen Zugang im Büro?
+- **F240-20261006-087-S1** (Suspiria|1977): Warum stürzt der Hexenzirkel am Ende von „Suspiria“ nach Markos’ (Lela Svasta) Tod zusammen?
+- **F240-20261006-087-S2** (Suspiria|1977): Wie kann Suzy (Jessica Harper) die unsichtbar gewordene Markos im Schluss von „Suspiria“ treffen?
+- **F240-20261006-088-L1** (The Innocents|1961): Welche Aufgabe übernimmt Miss Giddens (Deborah Kerr) in „Schloss des Schreckens“ auf Bly?
+- **F240-20261006-088-L2** (The Innocents|1961): Welche Bedingung stellt der Onkel (Michael Redgrave) der Kinder in „Schloss des Schreckens“ an Miss Giddens (Deborah Kerr)?
+- **F240-20261006-088-M1** (The Innocents|1961): Warum kommt Miles (Martin Stephens) in „Schloss des Schreckens“ unerwartet von der Schule zurück?
+- **F240-20261006-088-M2** (The Innocents|1961): Wie identifiziert Mrs Grose (Megs Jenkins) in „Schloss des Schreckens“ die von Miss Giddens (Deborah Kerr) beschriebenen Erscheinungen?
+- **F240-20261006-088-S1** (The Innocents|1961): Welche Absicht schreibt Miss Giddens (Deborah Kerr) den vermeintlichen Geistern in „Schloss des Schreckens“ zu?
+- **F240-20261006-088-S2** (The Innocents|1961): Was geschieht mit Miles (Martin Stephens), nachdem Miss Giddens (Deborah Kerr) ihn am Schluss von „Schloss des Schreckens“ zum Namen Quint (Peter Wyngarde) drängt?
+- **F240-20261006-089-L1** (Rosemary's Baby|1968): Wohin ziehen Rosemary (Mia Farrow) und Guy (John Cassavetes) am Anfang von „Rosemaries Baby“?
+- **F240-20261006-089-L2** (Rosemary's Baby|1968): Was will Rosemary (Mia Farrow) in „Rosemaries Baby“ vor den Nachbarn geschützt wissen?
+- **F240-20261006-089-M1** (Rosemary's Baby|1968): Warum bekommt Guy (John Cassavetes) in „Rosemaries Baby“ eine wichtige Theaterrolle?
+- **F240-20261006-089-M2** (Rosemary's Baby|1968): Welcher Hinweis aus Hutchs (Maurice Evans) Buch führt Rosemary (Mia Farrow) in „Rosemaries Baby“ zu Roman Castevets (Sidney Blackmer) Vergangenheit?
+- **F240-20261006-089-S1** (Rosemary's Baby|1968): Warum scheitert Rosemarys (Mia Farrow) Flucht zu Dr Hill (Charles Grodin) in „Rosemaries Baby“?
+- **F240-20261006-089-S2** (Rosemary's Baby|1968): Wie findet Rosemary (Mia Farrow) im Schluss von „Rosemaries Baby“ das lebende Baby?
+- **F240-20261006-090-L1** (The Haunting|1963): Warum lädt Dr Markway (Richard Johnson) die Gruppe in „Bis das Blut gefriert“ nach Hill House ein?
+- **F240-20261006-090-L2** (The Haunting|1963): Welche Erfahrung belastet Eleanor (Julie Harris) vor ihrer Ankunft in „Bis das Blut gefriert“?
+- **F240-20261006-090-M2** (The Haunting|1963): Welcher Schriftzug verstärkt in „Bis das Blut gefriert“ Eleanors (Julie Harris) persönliche Bindung an das Haus?
+- **F240-20261006-090-S1** (The Haunting|1963): Warum erschreckt Eleanor (Julie Harris) die vermeintlich gehaltene Hand in „Bis das Blut gefriert“ nachträglich?
+- **F240-20261006-090-S2** (The Haunting|1963): Welche frühere Todesart wiederholt Eleanors (Julie Harris) Ende in „Bis das Blut gefriert“?
+- **F240-20261006-091-L1** (Låt den rätte komma in|2008): Welche Erfahrung prägt Oskars (Kåre Hedebrant) Schulalltag in „So finster die Nacht“?
+- **F240-20261006-091-M1** (Låt den rätte komma in|2008): Wie verständigen sich Oskar (Kåre Hedebrant) und Eli in „So finster die Nacht“ auch durch ihre gemeinsame Wand?
+- **F240-20261006-091-M2** (Låt den rätte komma in|2008): Warum verätzt Håkan (Per Ragnar) in „So finster die Nacht“ sein eigenes Gesicht?
+- **F240-20261006-091-S1** (Låt den rätte komma in|2008): Wie reagiert Eli in „So finster die Nacht“ auf das Betreten von Oskars (Kåre Hedebrant) Wohnung ohne seine Erlaubnis?
+- **F240-20261006-091-S2** (Låt den rätte komma in|2008): Welche Funktion übernimmt Oskar (Kåre Hedebrant) im letzten Bild von „So finster die Nacht“ für Eli?
+- **F240-20261006-092-L1** (REC|2007): Welche Berufsgruppe begleitet Ángela (Manuela Velasco) für ihre Reportage in „[REC]“?
+- **F240-20261006-093-M1** (Ōdishon|1999): Was macht Yoshikawa (Jun Kunimura) in „Audition“ bei Asamis (Eihi Shiina) Lebenslauf misstrauisch?
+- **F240-20261006-093-M2** (Ōdishon|1999): Wie wurden Asamis (Eihi Shiina) Brandnarben laut der späteren Enthüllung in „Audition“ verursacht?
+- **F240-20261006-093-S1** (Ōdishon|1999): Was ist an der Lähmung Aoyamas (Ryo Ishibashi) im Schluss von „Audition“ besonders grausam?
+- **F240-20261006-093-S2** (Ōdishon|1999): Welchen Vorwurf macht Asami (Eihi Shiina) Aoyama während der Folter in „Audition“?
+- **F240-20261006-094-L1** (Janghwa, Hongryeon|2003): Wohin kehrt Su-mi (Im Soo-jung) nach ihrer Behandlung in „A Tale of Two Sisters“ zurück?
+- **F240-20261006-094-L2** (Janghwa, Hongryeon|2003): Mit wem erlebt Su-mi (Im Soo-jung) in „A Tale of Two Sisters“ den schärfsten offenen Familienkonflikt?
+- **F240-20261006-094-M1** (Janghwa, Hongryeon|2003): Welche frühere Rolle von Eun-joo (Yum Jung-ah) entdeckt Su-mi (Im Soo-jung) auf Fotos in „A Tale of Two Sisters“?
+- **F240-20261006-094-M2** (Janghwa, Hongryeon|2003): Was befindet sich tatsächlich in dem Sack, den Su-mi (Im Soo-jung) in „A Tale of Two Sisters“ für ein Opferversteck hält?
+- **F240-20261006-094-S1** (Janghwa, Hongryeon|2003): Welche zentrale Tatsache bestreitet Su-mi (Im Soo-jung) lange in „A Tale of Two Sisters“?
+- **F240-20261006-094-S2** (Janghwa, Hongryeon|2003): Warum rettet Eun-joo (Yum Jung-ah) Su-yeon (Moon Geun-young) in der abschließenden Rückblende von „A Tale of Two Sisters“ nicht?
+- **F240-20261006-095-L1** (La maschera del demonio|1960): Welche Verbindung besteht zwischen Asa (Barbara Steele) und Katia in „Die Stunde, wenn Dracula kommt“?
+- **F240-20261006-095-M1** (La maschera del demonio|1960): Wie wird Asa (Barbara Steele) in „Die Stunde, wenn Dracula kommt“ unbeabsichtigt wiederbelebt?
+- **F240-20261006-095-M2** (La maschera del demonio|1960): Warum lässt Kruvajan (Andrea Checchi) in „Die Stunde, wenn Dracula kommt“ das Kreuz aus dem Zimmer des Fürsten entfernen?
+- **F240-20261006-095-S1** (La maschera del demonio|1960): Warum will Asa (Barbara Steele) in „Die Stunde, wenn Dracula kommt“ Katias Lebenskraft entziehen?
+- **F240-20261006-095-S2** (La maschera del demonio|1960): Woran scheitert Asas (Barbara Steele) Täuschung als Katia im Schluss von „Die Stunde, wenn Dracula kommt“ zunächst?
+- **F240-20261006-096-M2** (Peeping Tom|1960): Was verlangt Helen (Anna Massey) bei ihrem gemeinsamen Abend mit Mark in „Augen der Angst“?
+- **F240-20261006-097-M1** (Night of the Living Dead|1968): Worüber streiten Ben (Duane Jones) und Harry (Karl Hardman) in „Die Nacht der lebenden Toten“ bei der Wahl des Schutzortes?
+- **F240-20261006-097-S2** (Night of the Living Dead|1968): Warum stirbt Ben (Duane Jones) im Morgenlicht am Ende von „Die Nacht der lebenden Toten“?
+- **F240-20261006-098-M2** (Dawn of the Dead|1978): Warum lässt Fran (Gaylen Ross) sich in „Zombie“ das Hubschrauberfliegen beibringen?
+- **F240-20261006-098-S1** (Dawn of the Dead|1978): Warum eröffnet Stephen (David Emge) in „Zombie“ entgegen dem Rückzugsplan das Feuer auf die Motorradgruppe?
+- **F240-20261006-099-L1** (The Fly|1958): Welche Erfindung erprobt André (David Hedison) in „Die Fliege“?
+- **F240-20261006-099-L2** (The Fly|1958): Wessen Geständnis eröffnet in „Die Fliege“ die Untersuchung von Andrés (David Hedison) Tod?
+- **F240-20261006-099-M1** (The Fly|1958): Warum sucht Hélène (Patricia Owens) in „Die Fliege“ so dringend eine bestimmte Fliege?
+- **F240-20261006-099-M2** (The Fly|1958): Wie verständigt André (David Hedison) sich nach der Veränderung in „Die Fliege“ mit Hélène (Patricia Owens)?
+- **F240-20261006-099-S1** (The Fly|1958): Warum zerstört André (David Hedison) in „Die Fliege“ schließlich Apparatur und Aufzeichnungen?
+- **F240-20261006-099-S2** (The Fly|1958): Was überzeugt Inspektor Charas (Herbert Marshall) im Schluss von „Die Fliege“ von Hélènes (Patricia Owens) unglaublichem Bericht?
+- **F240-20261006-100-L1** (The Devils|1971): Welche politische Maßnahme bekämpft Grandier (Oliver Reed) in „Die Teufel“?
+- **F240-20261006-100-L2** (The Devils|1971): Was verbindet Schwester Jeanne (Vanessa Redgrave) in „Die Teufel“ persönlich mit Grandier (Oliver Reed)?
+- **F240-20261006-100-M2** (The Devils|1971): Wie werden Jeannes (Vanessa Redgrave) Aussagen gegen Grandier (Oliver Reed) in „Die Teufel“ politisch nutzbar gemacht?
+- **F240-20261006-100-S1** (The Devils|1971): Welche Haltung behält Grandier (Oliver Reed) in „Die Teufel“ trotz der Folter bei?
+- **F240-20261006-101-S1** (The Death of Stalin|2017): Welche Interessengemeinschaft ermöglicht in „The Death of Stalin“ den entscheidenden Schlag gegen Beria (Simon Russell Beale)?
+- **F240-20261006-102-M2** (Jojo Rabbit|2019): Wie schützt Hauptmann Klenzendorf (Sam Rockwell) Jojo (Roman Griffin Davis) in „Jojo Rabbit“ nach der Eroberung der Stadt?
+- **F240-20261006-103-S1** (What We Do in the Shadows|2014): Wer verbirgt sich in „5 Zimmer Küche Sarg“ hinter Vladislavs (Jemaine Clement) gefürchteter „Bestie“?
+- **F240-20261006-106-M2** (Airplane II: The Sequel|1982): Was tut Simon Kurtz (Chad Everett) in „Die unglaubliche Reise in einem verrückten Raumschiff“, als Elaine (Julie Hagerty) beim gefährlichen Flug Hilfe braucht?
+- **F240-20261006-106-S2** (Airplane II: The Sequel|1982): Woran erinnert das Misstrauen von Mondkommandant Buck Murdock (William Shatner) gegenüber Ted Striker (Robert Hays) in „Die unglaubliche Reise in einem verrückten Raumschiff“?
+- **F240-20261006-108-L2** (Mon Oncle|1958): Was unterscheidet die Villa Arpel in „Mein Onkel“ von Hulots (Jacques Tati) alter Nachbarschaft?
+- **F240-20261006-110-L2** (Le Dîner de Cons|1998): Was hindert Pierre Brochant (Thierry Lhermitte) in „Dinner für Spinner“ daran, wie geplant mit Pignon (Jacques Villeret) auszugehen?
+- **F240-20261006-110-S1** (Le Dîner de Cons|1998): Welches Missverständnis löst François Pignon (Jacques Villeret) in „Dinner für Spinner“ um Marlène Sasseur (Catherine Frot) aus?
+- **F240-20261006-111-S1** (Intouchables|2011): Warum akzeptiert Philippe (François Cluzet) in „Ziemlich beste Freunde“ Driss (Omar Sy) trotz Warnungen vor dessen Vergangenheit?
+- **F240-20261006-111-S2** (Intouchables|2011): Welche Begegnung organisiert Driss (Omar Sy) in „Ziemlich beste Freunde“ am Meer für Philippe (François Cluzet)?
+- **F240-20261006-112-S2** (Hundraåringen som klev ut genom fönstret och försvann|2013): Welche Erzählstruktur verbindet in „Der Hundertjährige, der aus dem Fenster stieg und verschwand“ die Flucht aus dem Heim mit Allans (Robert Gustafsson) früherem Leben?
+- **F240-20261006-113-S2** (Toni Erdmann|2016): Welcher Auftritt ermöglicht in „Toni Erdmann“ eine wortlose Umarmung zwischen Winfried (Peter Simonischek) und Ines (Sandra Hüller)?
+- **F240-20261006-114-M2** (The Nice Guys|2016): Warum erweist sich die Geldkofferfahrt für March (Ryan Gosling) und Healy in „The Nice Guys“ als Falle?
+- **F240-20261006-114-S2** (The Nice Guys|2016): Wie können March (Ryan Gosling) und Healy in „The Nice Guys“ die belastende Filmkopie am Ende wiederfinden?
+- **F240-20261006-115-M1** (Booksmart|2019): Welche Überraschung erleben Molly (Beanie Feldstein) und Amy (Kaitlyn Dever) in „Booksmart“ beim bestellten Fahrdienst?
+- **F240-20261006-115-M2** (Booksmart|2019): Wie finden Molly (Beanie Feldstein) und Amy (Kaitlyn Dever) in „Booksmart“ die Adresse der gesuchten Party?
+- **F240-20261006-115-S1** (Booksmart|2019): Welche bisher verschwiegene Entscheidung verschärft Amys (Kaitlyn Dever) Streit mit Molly (Beanie Feldstein) in „Booksmart“?
+- **F240-20261006-115-S2** (Booksmart|2019): In welche ungewöhnliche Form wechseln Molly (Beanie Feldstein) und Amy (Kaitlyn Dever) während ihres Rausches in „Booksmart“?
+- **F240-20261006-116-M2** (Palm Springs|2020): Weshalb jagt Roy (J. K. Simmons) Nyles (Andy Samberg) in „Palm Springs“ immer wieder mit Waffen?
+- **F240-20261006-116-S2** (Palm Springs|2020): Welcher Hinweis in der Szene während des Abspanns von „Palm Springs“ bestätigt Roy (J. K. Simmons) die Möglichkeit eines Ausstiegs?
+- **F240-20261006-118-M1** (Office Space|1999): Was machen Peter (Ron Livingston) und seine Kollegen in „Alles Routine“ mit dem ständig streikenden Drucker?
+- **F240-20261006-119-L2** (The Producers|1967): Welche berufliche Funktion hat Leo Bloom (Gene Wilder) in „Frühling für Hitler“, bevor er Max’ (Zero Mostel) Partner wird?
+- **F240-20261006-119-M1** (The Producers|1967): Warum scheitert Max’ (Zero Mostel) und Leos (Gene Wilder) Betrugsplan in „Frühling für Hitler“ gerade am Publikumserfolg?
+- **F240-20261006-120-M1** (Kind Hearts and Coronets|1949): Warum wurde Louis’ Mutter (Audrey Fildes) in „Adel verpflichtet“ von ihrer Familie ausgestoßen?
+- **F240-20261006-120-M2** (Kind Hearts and Coronets|1949): Wie nutzt Louis (Dennis Price) in „Adel verpflichtet“ Lady Agathas (Alec Guinness) öffentlichen Auftritt für einen Anschlag?
+- **F240-20261006-123-M2** (Tsubaki Sanjūrō|1962): Welche Lehre gibt die Frau des Kammerherrn (Takako Irie) Sanjuro (Toshirō Mifune) in „Sanjuro“ über sein Schwert?
+- **F240-20261006-127-L2** (Jūsannin no Shikaku|2010): Wo wollen Shinzaemons (Kōji Yakusho) Männer in „13 Assassins“ den zahlenmäßig stärkeren Gegner abfangen?
+- **F240-20261006-127-M2** (Jūsannin no Shikaku|2010): Weshalb lehnt Naritsugu (Gorō Inagaki) in „13 Assassins“ Hanbeis (Masachika Ichimura) Warnung vor dem gefährlichen Weg ab?
+- **F240-20261006-128-M2** (Shurayukihime|1973): Welche Verbindung macht Ryūreis (Toshio Kurosawa) Hilfe für Yuki (Meiko Kaji) in „Lady Snowblood“ besonders widersprüchlich?
+- **F240-20261006-129-S2** (Kill Bill: Volume 1|2003): Was erfährt das Publikum am Ende von „Kill Bill – Volume 1“ durch Bills Frage an Sofie Fatale (Julie Dreyfus)?
+- **F240-20261006-130-S1** (Kill Bill: Volume 2|2004): Wie tötet Elle Driver (Daryl Hannah) Budd (Michael Madsen) in „Kill Bill – Volume 2“ bei der vermeintlichen Schwertübergabe?
+- **F240-20261006-130-S2** (Kill Bill: Volume 2|2004): Welche vorher erklärte Technik entscheidet in „Kill Bill – Volume 2“ Beatrix’ (Uma Thurman) letzte Auseinandersetzung mit Bill (David Carradine)?
+- **F240-20261006-131-M1** (The Raid 2|2014): Wo versteckt Rama (Iko Uwais) in „The Raid 2“ einen Abhörsender bei Uco (Arifin Putra)?
+- **F240-20261006-132-S2** (Chocolate|2008): Was verändert sich nach Zins (Ammara Siripong) Tod am Ende von „Chocolate“ für Zen (Yanin Vismistananda)?
+- **F240-20261006-133-S1** (Fong Sai-yuk|1993): Wozu benutzt der Gouverneur (Vincent Zhao) in „The Legend“ die angesetzte öffentliche Hinrichtung von Fong De (Paul Chu)?
+- **F240-20261006-134-L2** (Wong Fei-hung|1991): Welches Geschäft betreiben Jacksons (Jonathan Isgar) Leute in „Once Upon a Time in China“ hinter dem Schutz für lokale Gangster?
+- **F240-20261006-134-M2** (Wong Fei-hung|1991): Worauf verweist der Fächer, den Liu Yongfu (Lau Shun) Wong Fei-hung (Jet Li) in „Once Upon a Time in China“ übergibt?
+- **F240-20261006-136-M2** (Siu Lam juk kau|2001): Wodurch besitzt Hungs (Patrick Tse) Mannschaft in „Shaolin Soccer“ ihre übermenschliche Kraft?
+- **F240-20261006-137-M2** (Ying hung boon sik|1986): Wie nutzt Shing (Waise Lee) in „A Better Tomorrow“ Hos (Ti Lung) Gefängniszeit aus?
+- **F240-20261006-138-M1** (Dip huet seung hung|1989): Welche Tat lässt Ermittler Li Ying (Danny Lee) in „The Killer“ an seiner einfachen Vorstellung von Ah Jong (Chow Yun-fat) zweifeln?
+- **F240-20261006-138-M2** (Dip huet seung hung|1989): Welche Bedeutung hat der Koffer mit leeren Geldscheinen in „The Killer“ für Ah Jongs (Chow Yun-fat) Verhältnis zu Fung Sei (Chu Kong)?
+- **F240-20261006-138-S1** (Dip huet seung hung|1989): Welches Versprechen nimmt Ah Jong (Chow Yun-fat) Li Ying (Danny Lee) in „The Killer“ ab?
+- **F240-20261006-139-M2** (Mou gaan dou|2002): Warum ist Superintendent Wongs (Anthony Wong) Tod in „Infernal Affairs“ für Chan (Tony Leung) besonders gefährlich?
+- **F240-20261006-139-S1** (Mou gaan dou|2002): Welche neue Lebensentscheidung will Lau (Andy Lau) in „Infernal Affairs“ nach dem Tod Hons (Eric Tsang) erreichen?
+- **F240-20261006-140-L2** (RRR|2022): Welche gemeinsame Rettung begründet die Freundschaft von Ram (Ram Charan) und Bheem (N. T. Rama Rao Jr.) in „RRR“?
+- **F240-20261006-140-S1** (RRR|2022): Wodurch verändert Bheem (N. T. Rama Rao Jr.) in „RRR“ während der öffentlichen Auspeitschung Rams (Ram Charan) Haltung?
+- **F240-20261006-140-S2** (RRR|2022): Worum bittet Bheem (N. T. Rama Rao Jr.) Ram (Ram Charan) am Ende von „RRR“ als Gegenleistung?
+- **F240-20261006-141-M2** (Cabaret|1972): Welche Entscheidung trifft Sally Bowles (Liza Minnelli) in „Cabaret“ nach Brians (Michael York) Heiratsangebot?
+- **F240-20261006-142-M1** (All That Jazz|1979): Was gehört zu Joes (Roy Scheider) morgendlichem Ritual in „Hinter dem Rampenlicht“?
+- **F240-20261006-142-M2** (All That Jazz|1979): Warum ist der Tod Joes (Roy Scheider) für die Produzenten des Musicals in „Hinter dem Rampenlicht“ finanziell attraktiv?
+- **F240-20261006-142-S1** (All That Jazz|1979): Welchen Zusammenhang haben die fünf Trauerphasen in „Hinter dem Rampenlicht“ mit dem Film, den Joe (Roy Scheider) schneidet?
+- **F240-20261006-143-S2** (Fame|1980): Was macht Cocos (Irene Cara) vermeintlichen Filmtest in „Fame – Der Weg zum Ruhm“ zu einem Übergriff?
+- **F240-20261006-144-L2** (Funny Girl|1968): Welche private Beziehung steht in „Funny Girl“ neben Fannys (Barbra Streisand) Karriere im Mittelpunkt?
+- **F240-20261006-144-M1** (Funny Girl|1968): Wie verändert Fanny Brice (Barbra Streisand) in „Funny Girl“ ihre Brautnummer bei den Ziegfeld (Walter Pidgeon) Follies?
+- **F240-20261006-144-M2** (Funny Girl|1968): Wie erreicht Fanny Brice (Barbra Streisand) in „Funny Girl“ Nickys (Omar Sharif) bereits ausgelaufenes Schiff?
+- **F240-20261006-145-L2** (An American in Paris|1951): Welche Beziehung hat Milo Roberts (Nina Foch) in „Ein Amerikaner in Paris“ zu Jerrys (Gene Kelly) Kunst?
+- **F240-20261006-145-M1** (An American in Paris|1951): Warum glaubt Lise Bouvier (Leslie Caron) in „Ein Amerikaner in Paris“, Henri Baurel (Georges Guétary) heiraten zu sollen?
+- **F240-20261006-145-M2** (An American in Paris|1951): Was weiß Adam Cook (Oscar Levant) in „Ein Amerikaner in Paris“ vor Henri (Georges Guétary) und Jerry (Gene Kelly)?
+- **F240-20261006-146-S2** (Les Parapluies de Cherbourg|1964): Welche Vorgeschichte verbindet Roland Cassard (Marc Michel) in „Die Regenschirme von Cherbourg“ mit Demys „Lola“?
+- **F240-20261006-147-L1** (Les Demoiselles de Rochefort|1967): Welche Beziehung haben Delphine und Solange (Françoise Dorléac) in „Die Mädchen von Rochefort“?
+- **F240-20261006-147-M2** (Les Demoiselles de Rochefort|1967): Was findet Andy Miller (Gene Kelly) in „Die Mädchen von Rochefort“ nach der Begegnung mit Solange (Françoise Dorléac)?
+- **F240-20261006-147-S1** (Les Demoiselles de Rochefort|1967): Warum hatte Yvonne (Danielle Darrieux) in „Die Mädchen von Rochefort“ einst Simon (Michel Piccoli) verlassen?
+- **F240-20261006-150-M1** (Begin Again|2013): Wie zeigt „Can a Song Save Your Life?“ beim ersten Auftritt Grettas (Keira Knightley) Dans (Mark Ruffalo) besondere Art zuzuhören?
+- **F240-20261006-150-S1** (Begin Again|2013): Warum stört Gretta (Keira Knightley) sich in „Can a Song Save Your Life?“ an Daves (Adam Levine) neuer Fassung von „Lost Stars“?
+- **F240-20261006-151-L1** (O Brother, Where Art Thou?|2000): Warum schließen sich Pete (John Turturro) und Delmar (Tim Blake Nelson) in „O Brother, Where Art Thou? – Eine Mississippi-Odyssee“ Everetts (George Clooney) Flucht zunächst an?
+- **F240-20261006-151-M1** (O Brother, Where Art Thou?|2000): Was glauben die Flüchtigen in „O Brother, Where Art Thou? – Eine Mississippi-Odyssee“ nach dem Treffen mit den singenden Frauen über Pete (John Turturro)?
+- **F240-20261006-151-S1** (O Brother, Where Art Thou?|2000): Was ist der eigentliche Grund für Everetts (George Clooney) Flucht in „O Brother, Where Art Thou? – Eine Mississippi-Odyssee“?
+- **F240-20261006-153-M1** (Purple Rain|1984): Weshalb sind Wendy (Wendy Melvoin) und Lisa (Lisa Coleman) in „Purple Rain“ mit The Kid (Prince) unzufrieden?
+- **F240-20261006-156-L1** (Hedwig and the Angry Inch|2001): Wo spielt Hedwig mit ihrer Band in „Hedwig and the Angry Inch“ meist, während Tommy (Michael Pitt) große Erfolge feiert?
+- **F240-20261006-156-M1** (Hedwig and the Angry Inch|2001): Welches Ereignis fällt in „Hedwig and the Angry Inch“ auf den Tag, an dem Luther (Maurice Dean Wint) Hedwig verlässt?
+- **F240-20261006-157-M1** (Velvet Goldmine|1998): Welche Bühnenpersona nimmt Brian Slade (Jonathan Rhys Meyers) in „Velvet Goldmine“ für seinen Glamrockaufstieg an?
+- **F240-20261006-157-S1** (Velvet Goldmine|1998): Welche Verbindung erkennt Arthur (Christian Bale) in „Velvet Goldmine“ zwischen Brian Slade (Jonathan Rhys Meyers) und dem Popstar Tommy Stone?
+- **F240-20261006-157-S2** (Velvet Goldmine|1998): Mit wem wird die grüne Brosche verbunden, die Curt Wild (Ewan McGregor) Arthur (Christian Bale) in „Velvet Goldmine“ überlässt?
+- **F240-20261006-158-M1** (The Red Shoes|1948): Warum sucht Julian Craster (Marius Goring) in „Die roten Schuhe“ ursprünglich Kontakt zu Lermontov (Anton Walbrook)?
+- **F240-20261006-158-S2** (The Red Shoes|1948): Wie wird das Ballett am Ende von „Die roten Schuhe“ trotz Victorias (Moira Shearer) Tod aufgeführt?
+- **F240-20261006-159-L2** (Swing Kids|1993): Welchen Widerspruch wollen Peter (Robert Sean Leonard) und Thomas (Christian Bale) in „Swing Kids“ zunächst miteinander vereinbaren?
+- **F240-20261006-159-S1** (Swing Kids|1993): Welche Folge hat Thomas’ (Christian Bale) Meldung gegen seinen Vater in „Swing Kids“?
+- **F240-20261006-160-M1** (Sound of Metal|2019): Welche Aufgabe gibt Joe (Paul Raci) Ruben (Riz Ahmed) in „Sound of Metal“ für die Zeit allein im Arbeitszimmer?
+- **F240-20261006-160-S1** (Sound of Metal|2019): Was unterscheidet Joes (Paul Raci) Haltung in „Sound of Metal“ von Rubens (Riz Ahmed) Hoffnung auf die Operation?
+- **F240-20261006-163-S1** (The Philadelphia Story|1940): Warum lehnt Tracy (Katharine Hepburn) in „Die Nacht vor der Hochzeit“ Mikes (James Stewart) spontanen Heiratsantrag ab?
+- **F240-20261006-164-S2** (It Happened One Night|1934): Was verlangt Peter (Clark Gable) in „Es geschah in einer Nacht“ von Ellies (Claudette Colbert) Vater anstelle der hohen Belohnung?
+- **F240-20261006-166-M2** (Pillow Talk|1959): Wodurch durchschaut Jan (Doris Day) in „Bettgeflüster“ Brads (Rock Hudson) falsche Identität?
+- **F240-20261006-167-M2** (Sabrina|1954): Welcher Zwischenfall ermöglicht Linus (Humphrey Bogart) in „Sabrina“, anstelle Davids (William Holden) um Sabrina (Audrey Hepburn) zu werben?
+- **F240-20261006-167-S1** (Sabrina|1954): Welche Täuschung plant Linus (Humphrey Bogart) zunächst für Sabrinas (Audrey Hepburn) Rückfahrt in „Sabrina“?
+- **F240-20261006-167-S2** (Sabrina|1954): Wie unterstützt David (William Holden) in „Sabrina“ schließlich Linus’ (Humphrey Bogart) Beziehung zu Sabrina (Audrey Hepburn)?
+- **F240-20261006-168-L2** (Charade|1963): Was macht Reggies (Audrey Hepburn) neuen Helfer (Cary Grant) in „Charade“ so schwer einzuschätzen?
+- **F240-20261006-169-M2** (The Lady Eve|1941): Wie tarnt Jeans Vater (Charles Coburn) in „Die Falschspielerin“ den Verbleib des beim Kartenspiel gewonnenen Schecks?
+- **F240-20261006-169-S2** (The Lady Eve|1941): Was macht die Wiedervereinigung von Jean (Barbara Stanwyck) und Charles (Henry Fonda) am Ende von „Die Falschspielerin“ besonders ironisch?
+- **F240-20261006-170-M2** (Trouble in Paradise|1932): Warum drängen Gaston (Herbert Marshall) und Lily (Miriam Hopkins) in „Ärger im Paradies“ schließlich auf eine frühere Flucht?
+- **F240-20261006-170-S1** (Trouble in Paradise|1932): Welche Wendung relativiert Gastons (Herbert Marshall) Diebstahl gegenüber Mariettes (Kay Francis) Firma in „Ärger im Paradies“?
+- **F240-20261006-171-S1** (Ninotchka|1939): Was macht Léons (Melvyn Douglas) Brief an Ninotschka (Greta Garbo) in „Ninotschka“ nach ihrer Rückkehr unbrauchbar?
+- **F240-20261006-173-S1** (The Awful Truth|1937): Wie sabotiert Lucy (Irene Dunne) in „Die schreckliche Wahrheit“ Jerrys (Cary Grant) Verhältnis zur vornehmen Barbara?
+- **F240-20261006-174-M2** (Crazy Rich Asians|2018): Was signalisiert Nicks (Henry Golding) Ring beim abschließenden Antrag in „Crazy Rich“?
+- **F240-20261006-178-M1** (Enough Said|2013): Welchen Zusammenhang entdeckt Eva (Julia Louis-Dreyfus) zwischen Marianne (Catherine Keener) und Albert (James Gandolfini) in „Genug gesagt“?
+- **F240-20261006-178-M2** (Enough Said|2013): Warum ermuntert Eva (Julia Louis-Dreyfus) Marianne (Catherine Keener) in „Genug gesagt“ zu Beschwerden über Albert (James Gandolfini)?
+- **F240-20261006-178-S1** (Enough Said|2013): Was beendet in „Genug gesagt“ zunächst Evas (Julia Louis-Dreyfus) Beziehung zu Albert (James Gandolfini)?
+- **F240-20261006-178-S2** (Enough Said|2013): Wo deutet „Genug gesagt“ schließlich eine vorsichtige neue Annäherung zwischen Eva (Julia Louis-Dreyfus) und Albert (James Gandolfini) an?
+- **F240-20261006-179-L2** (Obvious Child|2014): Welche unerwartete Folge hat Donnas (Jenny Slate) Nacht mit Max (Jake Lacy) in „Obvious Child“?
+- **F240-20261006-179-M2** (Obvious Child|2014): Warum kennt Max (Jake Lacy) in „Obvious Child“ Donnas Mutter (Polly Draper) bereits?
+- **F240-20261006-179-S2** (Obvious Child|2014): Wie reagiert Max (Jake Lacy) in „Obvious Child“ schließlich auf Donnas (Jenny Slate) Entscheidung?
+- **F240-20261006-180-S1** (Man Up|2015): Warum spielt Jack (Simon Pegg) in „Es ist kompliziert..!“ nach der Aufdeckung seinerseits eine falsche Beziehung mit Nancy (Lake Bell)?
+- **F240-20261006-181-S1** (Dune|2021): Warum können die Fremen in „Dune“ Paul (Timothée Chalamet) und Jessica (Rebecca Ferguson) bereits als mögliche Heilsfiguren deuten?
+- **F240-20261006-181-S2** (Dune|2021): Welche Folge hat Pauls (Timothée Chalamet) Duell mit Jamis (Babs Olusanmokun) am Ende von „Dune“?
+- **F240-20261006-182-M2** (Dune: Part Two|2024): Was findet Gurney Halleck (Josh Brolin) mit Paul (Timothée Chalamet) in „Dune: Part Two“ wieder?
+- **F240-20261006-182-S1** (Dune: Part Two|2024): Warum lehnt Chani (Zendaya) Pauls (Timothée Chalamet) Aufstieg in „Dune: Part Two“ zunehmend ab?
+- **F240-20261006-182-S2** (Dune: Part Two|2024): Welche Entwicklung folgt in „Dune: Part Two“ trotz Pauls (Timothée Chalamet) Sieg über den Imperator?
+- **F240-20261006-183-S1** (Everything Everywhere All at Once|2022): Welche Haltung Waymonds (Ke Huy Quan) verändert Evelyns (Michelle Yeoh) Vorgehen in „Everything Everywhere All at Once“?
+- **F240-20261006-183-S2** (Everything Everywhere All at Once|2022): Warum möchte Jobu Tupaki (Stephanie Hsu) in „Everything Everywhere All at Once“ Evelyn (Michelle Yeoh) zum Bagel führen?
+- **F240-20261006-185-M2** (The Creator|2023): Welche Information über Maya (Gemma Chan) verändert Joshuas (John David Washington) Auftrag in „The Creator“?
+- **F240-20261006-185-S2** (The Creator|2023): Wie ermöglicht Alphie (Madeleine Yuna Voyles) in „The Creator“ Joshuas (John David Washington) letztes Wiedersehen mit Maya (Gemma Chan)?
+- **F240-20261006-188-S1** (Primer|2004): Welche Funktion hat Abes (David Sullivan) heimliche „Failsafe“-Box in „Primer“?
+- **F240-20261006-189-S1** (Los cronocrímenes|2007): Wie rettet Héctor (Karra Elejalde) in „Timecrimes – Mord ist nur eine Frage der Zeit“ seine Frau Clara (Candela Fernández)?
+- **F240-20261006-190-S1** (Droste no hate de bokura|2020): Welche Absicht verfolgen die Zeitpolizisten in „Beyond the Infinite Two Minutes“ gegenüber Kato (Kazunari Tosa) und Megumi (Aki Asakura)?
+- **F240-20261006-190-S2** (Droste no hate de bokura|2020): Wie entgehen Kato (Kazunari Tosa) und Megumi (Aki Asakura) in „Beyond the Infinite Two Minutes“ dem verordneten Erinnerungsverlust?
+- **F240-20261006-191-M2** (The Vast of Night|2019): Wo finden Fay (Sierra McCormick) und Everett (Jake Horowitz) in „Die Weite der Nacht“ eine frühere Aufnahme des Signals?
+- **F240-20261006-191-S2** (The Vast of Night|2019): Was bleibt nach dem Spiel am Ende von „Die Weite der Nacht“ von Fay (Sierra McCormick), Everett (Jake Horowitz) und Maddie zurück?
+- **F240-20261006-193-L2** (Solaris|2002): Wie reagiert Kelvin (George Clooney) in „Solaris“ zuerst auf Rheyas (Natascha McElhone) unerwartete Wiederkehr?
+- **F240-20261006-193-M2** (Solaris|2002): Welche Entdeckung über Snow (Jeremy Davies) überrascht Kelvin (George Clooney) in „Solaris“?
+- **F240-20261006-193-S1** (Solaris|2002): Warum bittet Rheya (Natascha McElhone) in „Solaris“ Gordon (Viola Davis) um ihre endgültige Beseitigung?
+- **F240-20261006-197-S1** (Akira|1988): Was zeigt Tetsuos (Originalstimme: Nozomu Sasaki) körperliche Mutation im Finale von „Akira“?
+- **F240-20261006-198-L2** (Paprika|2006): Wie ist Paprika mit Dr. Atsuko Chiba (Originalstimme: Megumi Hayashibara) in „Paprika“ verbunden?
+- **F240-20261006-200-L2** (After Yang|2021): Welches Ereignis setzt Jakes (Colin Farrell) Suche in „After Yang“ in Gang?
+- **F240-20261006-200-M2** (After Yang|2021): Welche Beziehung verbindet Yang (Justin H. Min) und die junge Ada (Haley Lu Richardson) in „After Yang“?
+- **F240-20261006-200-S1** (After Yang|2021): Warum zeigen Yangs (Justin H. Min) früheste Erinnerungen in „After Yang“ eine andere Ada (Haley Lu Richardson)?
+- **F240-20261006-200-S2** (After Yang|2021): Was wollen Jake (Colin Farrell) und Kyra (Jodie Turner-Smith) in „After Yang“ am Ende bewahren und zugänglich machen?
+- **F240-20261006-202-S1** (L.A. Confidential|1997): Warum wird Smiths (James Cromwell) Frage nach „Rollo Tomasi“ in „L.A. Confidential“ für Exley (Guy Pearce) verdächtig?
+- **F240-20261006-202-S2** (L.A. Confidential|1997): Wie behandelt die Polizeiführung Smiths (James Cromwell) Tod am Ende von „L.A. Confidential“?
+- **F240-20261006-204-S1** (No Country for Old Men|2007): Warum verweigert Carla Jean (Kelly Macdonald) in „No Country for Old Men“ Chigurhs (Javier Bardem) Münzspiel?
+- **F240-20261006-204-S2** (No Country for Old Men|2007): Was beendet „No Country for Old Men“ anstelle einer endgültigen Verhaftung Chigurhs (Javier Bardem)?
+- **F240-20261006-205-S1** (The Third Man|1949): Warum stimmt Holly (Joseph Cotten) in „Der dritte Mann“ nach erneutem Zögern doch der Falle für Lime (Orson Welles) zu?
+- **F240-20261006-208-S1** (The Parallax View|1974): Welche Bilderfolge benutzt die Organisation in „Zeuge einer Verschwörung“ zur Prüfung Fradys (Warren Beatty)?
+- **F240-20261006-211-L1** (Klute|1971): Welche Spur führt den Ermittler in „Klute“ zu Bree (Jane Fonda)?
+- **F240-20261006-211-L2** (Klute|1971): Welche berufliche Hoffnung verfolgt Bree (Jane Fonda) neben ihrer Arbeit als Callgirl in „Klute“?
+- **F240-20261006-211-M1** (Klute|1971): Warum belastet die wachsende Nähe zum Ermittler Bree (Jane Fonda) in „Klute“?
+- **F240-20261006-211-S2** (Klute|1971): Was will der Täter Bree (Jane Fonda) gegen Ende von „Klute“ mit einer Tonaufnahme vermitteln?
+- **F240-20261006-212-L1** (Body Heat|1981): Welchen Beruf hat Ned Racine (William Hurt) in „Heißblütig – Kaltblütig“?
+- **F240-20261006-212-L2** (Body Heat|1981): Was hält Matty (Kathleen Turner) in „Heißblütig – Kaltblütig“ nach eigener Darstellung von einer Scheidung ab?
+- **F240-20261006-212-M1** (Body Heat|1981): Warum fährt Ned (William Hurt) in „Heißblütig – Kaltblütig“ vor dem Mord nach Miami?
+- **F240-20261006-212-S1** (Body Heat|1981): Warum nützt das fehlerhafte Testament Matty (Kathleen Turner) in „Heißblütig – Kaltblütig“?
+- **F240-20261006-212-S2** (Body Heat|1981): Was bestätigt Ned (William Hurt) im Gefängnis in „Heißblütig – Kaltblütig“ seinen Verdacht eines Identitätstauschs?
+- **F240-20261006-213-L1** (The Talented Mr. Ripley|1999): Mit welchem Auftrag reist Tom (Matt Damon) in „Der talentierte Mr. Ripley“ nach Italien?
+- **F240-20261006-213-L2** (The Talented Mr. Ripley|1999): Welche Musikrichtung prägt Dickies (Jude Law) Freizeit und Toms (Matt Damon) Annäherung in „Der talentierte Mr. Ripley“?
+- **F240-20261006-213-M1** (The Talented Mr. Ripley|1999): Wie erzeugt Tom (Matt Damon) in „Der talentierte Mr. Ripley“ nach Dickies (Jude Law) Tod den Eindruck zweier lebender Personen?
+- **F240-20261006-213-M2** (The Talented Mr. Ripley|1999): Welche Entdeckung macht Freddie (Philip Seymour Hoffman) in „Der talentierte Mr. Ripley“ für Tom (Matt Damon) gefährlich?
+- **F240-20261006-213-S1** (The Talented Mr. Ripley|1999): Warum weist Herbert Greenleaf (James Rebhorn) in „Der talentierte Mr. Ripley“ Marges (Gwyneth Paltrow) Verdacht gegen Tom (Matt Damon) zurück?
+- **F240-20261006-213-S2** (The Talented Mr. Ripley|1999): Welche Begegnung gefährdet auf dem Schiff am Ende von „Der talentierte Mr. Ripley“ Toms (Matt Damon) neues Leben mit Peter (Jack Davenport)?
+- **F240-20261006-214-L1** (A History of Violence|2005): Welches Geschäft betreibt Tom (Viggo Mortensen) in „A History of Violence“?
+- **F240-20261006-214-L2** (A History of Violence|2005): Wodurch wird Tom (Viggo Mortensen) in „A History of Violence“ landesweit bekannt?
+- **F240-20261006-214-M1** (A History of Violence|2005): Warum sucht der Gangster Carl Fogarty (Ed Harris) Tom (Viggo Mortensen) in „A History of Violence“ auf?
+- **F240-20261006-214-M2** (A History of Violence|2005): Was macht den Streit über Gewalt zwischen Tom (Viggo Mortensen) und seinem Sohn in „A History of Violence“ widersprüchlich?
+- **F240-20261006-214-S1** (A History of Violence|2005): Warum scheitert Toms (Viggo Mortensen) Versöhnungsversuch bei seinem Bruder in „A History of Violence“?
+- **F240-20261006-214-S2** (A History of Violence|2005): Wie empfängt die Familie Tom (Viggo Mortensen) in der letzten Szene von „A History of Violence“?
+- **F240-20261006-215-L1** (Eastern Promises|2007): Welcher Fund bringt Anna (Naomi Watts) in „Tödliche Versprechen – Eastern Promises“ auf die Spur der Londoner Unterwelt?
+- **F240-20261006-215-L2** (Eastern Promises|2007): Welche äußeren Merkmale erzählen in „Tödliche Versprechen – Eastern Promises“ von Nikolais (Viggo Mortensen) krimineller Vergangenheit?
+- **F240-20261006-215-M1** (Eastern Promises|2007): Warum wird Nikolai (Viggo Mortensen) im Badehaus von „Tödliche Versprechen – Eastern Promises“ angegriffen?
+- **F240-20261006-215-M2** (Eastern Promises|2007): Welche Untersuchung soll Semyon (Armin Mueller-Stahl) in „Tödliche Versprechen – Eastern Promises“ strafrechtlich belasten?
+- **F240-20261006-215-S1** (Eastern Promises|2007): Was erfährt Anna (Naomi Watts) in „Tödliche Versprechen – Eastern Promises“ über den scheinbar verschwundenen Onkel?
+- **F240-20261006-215-S2** (Eastern Promises|2007): Wie verändern sich Annas (Naomi Watts) und Nikolais (Viggo Mortensen) Lebenswege am Ende von „Tödliche Versprechen – Eastern Promises“?
+- **F240-20261006-216-L1** (Drive|2011): Welche Tätigkeit übernimmt der Fahrer (Ryan Gosling) in „Drive“ für Kriminelle?
+- **F240-20261006-216-L2** (Drive|2011): Welche Nachbarin wird dem Fahrer (Ryan Gosling) in „Drive“ wichtig?
+- **F240-20261006-216-M1** (Drive|2011): Warum hilft der Fahrer (Ryan Gosling) in „Drive“ Irenes (Carey Mulligan) Mann bei einem Raub?
+- **F240-20261006-216-M2** (Drive|2011): Was verändert die Aufzugszene in „Drive“ zwischen Irene (Carey Mulligan) und dem Fahrer (Ryan Gosling)?
+- **F240-20261006-216-S1** (Drive|2011): Warum wollen Nino (Ron Perlman) und Bernie (Albert Brooks) in „Drive“ alle Beteiligten des Raubs beseitigen?
+- **F240-20261006-216-S2** (Drive|2011): Was lässt der Fahrer (Ryan Gosling) in „Drive“ nach der letzten Konfrontation bei Bernies (Albert Brooks) Leiche zurück?
+- **F240-20261006-217-L1** (Beoning|2018): Was soll Jong-su (Yoo Ah-in) in „Burning“ während Hae-mis (Jeon Jong-seo) Reise erledigen?
+- **F240-20261006-217-L2** (Beoning|2018): Womit kontrastiert Ben (Steven Yeun) in „Burning“ Jong-sus (Yoo Ah-in) ländlichen Alltag?
+- **F240-20261006-217-M1** (Beoning|2018): Welches ungewöhnliche Hobby behauptet Ben (Steven Yeun) in „Burning“ zu haben?
+- **F240-20261006-217-M2** (Beoning|2018): Welche Gegenstände findet Jong-su (Yoo Ah-in) in „Burning“ in Bens (Steven Yeun) Badezimmer?
+- **F240-20261006-217-S1** (Beoning|2018): Warum wird Bens (Steven Yeun) neue Katze in „Burning“ für Jong-su (Yoo Ah-in) verdächtig?
+- **F240-20261006-217-S2** (Beoning|2018): Wie bringt Jong-su (Yoo Ah-in) Ben (Steven Yeun) in „Burning“ zum letzten Treffen?
+- **F240-20261006-218-L1** (Agassi|2016): Welche Stellung soll Sook-hee (Kim Tae-ri) in „Die Taschendiebin“ bei Hideko (Kim Min-hee) antreten?
+- **F240-20261006-218-L2** (Agassi|2016): Was besitzt Hidekos (Kim Min-hee) Onkel in „Die Taschendiebin“ als Mittelpunkt seines Hauses und seiner Geschäfte?
+- **F240-20261006-218-M1** (Agassi|2016): Was soll nach dem ursprünglichen Plan mit Hideko (Kim Min-hee) in „Die Taschendiebin“ geschehen?
+- **F240-20261006-218-M2** (Agassi|2016): Wie verändert der zweite Teil von „Die Taschendiebin“ die Einweisung Sook-hees (Kim Tae-ri)?
+- **F240-20261006-219-L2** (Heeojil gyeolsim|2022): Unter welchem gesundheitlichen Problem leidet Hae-jun (Park Hae-il) in „Die Frau im Nebel“?
+- **F240-20261006-219-M1** (Heeojil gyeolsim|2022): Welcher digitale Befund widerspricht in „Die Frau im Nebel“ Seo-raes (Tang Wei) Alibi?
+- **F240-20261006-219-M2** (Heeojil gyeolsim|2022): Warum entleert Seo-rae (Tang Wei) in „Die Frau im Nebel“ das Schwimmbecken nach dem Tod ihres zweiten Mannes?
+- **F240-20261006-219-S1** (Heeojil gyeolsim|2022): Welche Worte deutet Seo-rae (Tang Wei) in „Die Frau im Nebel“ als Hae-juns (Park Hae-il) Liebeserklärung?
+- **F240-20261006-219-S2** (Heeojil gyeolsim|2022): Warum findet Hae-jun (Park Hae-il) Seo-rae (Tang Wei) am Ende von „Die Frau im Nebel“ am Strand nicht?
+- **F240-20261006-220-M1** (Den skyldige|2018): Warum verrichtet Asger (Jakob Cedergren) in „The Guilty“ vorübergehend Innendienst?
+- **F240-20261006-220-M2** (Den skyldige|2018): Welcher Irrtum prägt Asgers (Jakob Cedergren) Handeln gegenüber Michael in „The Guilty“?
+- **F240-20261006-220-S1** (Den skyldige|2018): Welche Aussage Ibens verändert in „The Guilty“ Asgers (Jakob Cedergren) Bild von der Situation?
+- **F240-20261006-220-S2** (Den skyldige|2018): Was fordert Asger (Jakob Cedergren) in „The Guilty“ nach seiner Einsicht von seinem Kollegen Rashid?
+- **F240-20261006-221-L1** (The Searchers|1956): Wen suchen Ethan (John Wayne) und Martin (Jeffrey Hunter) in „Der schwarze Falke“ über Jahre?
+- **F240-20261006-221-M1** (The Searchers|1956): Warum stellt sich Martin (Jeffrey Hunter) in „Der schwarze Falke“ zeitweise gegen Ethan (John Wayne)?
+- **F240-20261006-221-M2** (The Searchers|1956): Wie erreicht Martin (Jeffrey Hunter) in „Der schwarze Falke“ Debbie (Natalie Wood) beim letzten Angriff?
+- **F240-20261006-221-S1** (The Searchers|1956): Welche Entscheidung trifft Ethan (John Wayne) in „Der schwarze Falke“, als er Debbie (Natalie Wood) schließlich einholt?
+- **F240-20261006-222-L2** (Stagecoach|1939): Welche Notlage bewältigen Doc Boone (Thomas Mitchell) und Dallas (Claire Trevor) in „Ringo“ an einer Reisestation?
+- **F240-20261006-222-M1** (Stagecoach|1939): Warum nimmt Marshal Curley (George Bancroft) Ringo (John Wayne) in „Ringo“ zunächst fest?
+- **F240-20261006-222-M2** (Stagecoach|1939): Warum bleibt Ringo (John Wayne) in „Ringo“ bei der Kutsche, obwohl er fliehen könnte?
+- **F240-20261006-222-S2** (Stagecoach|1939): Wie helfen Curley (George Bancroft) und Doc Boone (Thomas Mitchell) dem Paar am Ende von „Ringo“?
+- **F240-20261006-223-L1** (Red River|1948): Warum beginnt Dunson (John Wayne) in „Red River“ den großen Viehtrieb nach Norden?
+- **F240-20261006-223-L2** (Red River|1948): Welches Verhältnis verbindet Dunson (John Wayne) und Matt (Montgomery Clift) in „Red River“?
+- **F240-20261006-223-M1** (Red River|1948): Warum übernimmt Matt (Montgomery Clift) in „Red River“ schließlich die Führung des Trecks?
+- **F240-20261006-223-M2** (Red River|1948): Welches neue Ziel wählt Matt (Montgomery Clift) für die Herde in „Red River“?
+- **F240-20261006-223-S1** (Red River|1948): Was verhindert in „Red River“, dass Dunsons (John Wayne) letzte Konfrontation mit Matt (Montgomery Clift) im erwarteten Duell endet?
+- **F240-20261006-223-S2** (Red River|1948): Was verspricht Dunson (John Wayne) Matt (Montgomery Clift) am Ende von „Red River“ bezüglich des Brandzeichens?
+- **F240-20261006-224-L1** (Shane|1953): Bei wem findet Shane (Alan Ladd) in „Mein großer Freund Shane“ vorübergehend Arbeit und Unterkunft?
+- **F240-20261006-224-L2** (Shane|1953): Wer bewundert Shane (Alan Ladd) in „Mein großer Freund Shane“ besonders?
+- **F240-20261006-224-M1** (Shane|1953): Was will Ryker (Emile Meyer) in „Mein großer Freund Shane“ von den Siedlern erreichen?
+- **F240-20261006-224-M2** (Shane|1953): Warum schlägt Shane (Alan Ladd) in „Mein großer Freund Shane“ Joe Starrett (Van Heflin) vor dem letzten Gang in die Stadt nieder?
+- **F240-20261006-224-S1** (Shane|1953): Welche Warnung ermöglicht Shane (Alan Ladd) in „Mein großer Freund Shane“, die letzte Begegnung richtig einzuschätzen?
+- **F240-20261006-224-S2** (Shane|1953): Warum verlässt Shane (Alan Ladd) in „Mein großer Freund Shane“ nach dem gewonnenen Kampf das Tal?
+- **F240-20261006-225-L2** (Rio Bravo|1959): Welche persönliche Schwäche versucht Dude (Dean Martin) in „Rio Bravo“ zu überwinden?
+- **F240-20261006-225-M1** (Rio Bravo|1959): Welche Spur entdeckt Dude (Dean Martin) in „Rio Bravo“ beim Verfolgen eines Mörders im Saloon?
+- **F240-20261006-225-S1** (Rio Bravo|1959): Warum lehnt Chance (John Wayne) in „Rio Bravo“ die Unterstützung wohlmeinender ungeübter Bürger ab?
+- **F240-20261006-226-L2** (Rio Lobo|1970): Wer wird nach dem Krieg in „Rio Lobo“ zu McNallys (John Wayne) Verbündeten?
+- **F240-20261006-226-M1** (Rio Lobo|1970): Warum macht McNally (John Wayne) in „Rio Lobo“ einen Unterschied zwischen Cordona (Jorge Rivero) und den gesuchten Informanten?
+- **F240-20261006-226-M2** (Rio Lobo|1970): Welche Herrschaft finden McNally (John Wayne) und seine Helfer in „Rio Lobo“ in Rio Lobo vor?
+- **F240-20261006-226-S1** (Rio Lobo|1970): Was erzwingt McNally (John Wayne) in „Rio Lobo“ von dem als Ketcham (Victor French) auftretenden Verräter?
+- **F240-20261006-226-S2** (Rio Lobo|1970): Wie wird Amelitas (Sherry Lansing) Ankündigung in „Rio Lobo“ am Schluss eingelöst?
+- **F240-20261006-227-L1** (The Man from Laramie|1955): Was sucht Will Lockhart (James Stewart) in „Der Mann aus Laramie“ in Coronado?
+- **F240-20261006-227-L2** (The Man from Laramie|1955): Welche Arbeit dient Lockhart (James Stewart) in „Der Mann aus Laramie“ bei der Ankunft als Vorwand?
+- **F240-20261006-227-M1** (The Man from Laramie|1955): Was tut Dave Waggoman (Alex Nicol) in „Der Mann aus Laramie“ bei der Auseinandersetzung am Salzsee?
+- **F240-20261006-227-M2** (The Man from Laramie|1955): Warum hält Vic (Arthur Kennedy) in „Der Mann aus Laramie“ trotz Konflikten an Alec Waggomans (Donald Crisp) Ranch fest?
+- **F240-20261006-227-S1** (The Man from Laramie|1955): Welche Rechnung lässt Alec (Donald Crisp) in „Der Mann aus Laramie“ den illegalen Handel seines Sohnes vermuten?
+- **F240-20261006-227-S2** (The Man from Laramie|1955): Wie beendet Lockhart (James Stewart) in „Der Mann aus Laramie“ die Gefahr der versteckten Gewehre?
+- **F240-20261006-228-L1** (Winchester '73|1950): Wie gewinnt Lin McAdam (James Stewart) in „Winchester ’73“ das wertvolle Gewehr?
+- **F240-20261006-228-L2** (Winchester '73|1950): Was geschieht kurz nach Lins (James Stewart) Gewinn in „Winchester ’73“ mit dem Gewehr?
+- **F240-20261006-228-M1** (Winchester '73|1950): Warum können Lin (James Stewart) und Dutch (Stephen McNally) in „Winchester ’73“ in Dodge City zunächst kein Duell austragen?
+- **F240-20261006-228-M2** (Winchester '73|1950): Was zeigt Steves (Charles Drake) Verhalten bei der Flucht vor den Angreifern in „Winchester ’73“?
+- **F240-20261006-228-S1** (Winchester '73|1950): Welche Familiengeschichte erklärt in „Winchester ’73“ Lins (James Stewart) Verfolgung von Dutch (Stephen McNally)?
+- **F240-20261006-228-S2** (Winchester '73|1950): Warum erhält Waco (Dan Duryea) Johnny Dean in „Winchester ’73“ das Gewehr von Steve (Charles Drake)?
+- **F240-20261006-229-L1** (Ride the High Country|1962): Welchen Auftrag übernimmt Steve Judd (Joel McCrea) in „Sacramento“?
+- **F240-20261006-229-L2** (Ride the High Country|1962): Warum schließt sich Elsa (Mariette Hartley) in „Sacramento“ den reisenden Männern an?
+- **F240-20261006-229-M1** (Ride the High Country|1962): Was planen Gil (Randolph Scott) und Heck (Ron Starr) in „Sacramento“ heimlich während des Goldtransports?
+- **F240-20261006-229-M2** (Ride the High Country|1962): Warum müssen die Männer Elsa (Mariette Hartley) in „Sacramento“ nach der Hochzeit schützen?
+- **F240-20261006-229-S1** (Ride the High Country|1962): Mit welchem Trick ermöglicht Gil (Randolph Scott) in „Sacramento“ zunächst Elsas (Mariette Hartley) Abreise?
+- **F240-20261006-229-S2** (Ride the High Country|1962): Wie handelt Gil (Randolph Scott) in „Sacramento“ nach dem Scheitern seines Goldraubplans zuletzt?
+- **F240-20261006-230-L1** (Hondo|1953): Warum erreicht Hondo (John Wayne) in „Man nennt mich Hondo“ die Farm zunächst zu Fuß?
+- **F240-20261006-230-L2** (Hondo|1953): Warum hält Angie (Geraldine Page) in „Man nennt mich Hondo“ einen Verbleib auf ihrer Farm zunächst für sicher?
+- **F240-20261006-230-M1** (Hondo|1953): Warum nimmt Vittorio (Michael Pate) in „Man nennt mich Hondo“ Johnny (Lee Aaker) als Blutsbruder an?
+- **F240-20261006-230-M2** (Hondo|1953): Welches Wissen belastet Hondos (John Wayne) Annäherung an Angie (Geraldine Page) in „Man nennt mich Hondo“?
+- **F240-20261006-230-S1** (Hondo|1953): Wie entscheidet Hondo (John Wayne) in „Man nennt mich Hondo“ den von Vittorio (Michael Pate) verlangten Kampf gegen Silva (Rodolfo Acosta)?
+- **F240-20261006-230-S2** (Hondo|1953): Warum bittet Angie (Geraldine Page) in „Man nennt mich Hondo“ darum, Johnny (Lee Aaker) vorerst nichts über den Tod seines Vaters zu sagen?
+- **F240-20261006-231-L1** (The Shootist|1976): Welche Diagnose erhält Books (John Wayne) in „Der letzte Scharfschütze“?
+- **F240-20261006-231-L2** (The Shootist|1976): Wo wohnt Books (John Wayne) in „Der letzte Scharfschütze“ während seiner letzten Tage?
+- **F240-20261006-231-M1** (The Shootist|1976): Warum lehnt Books (John Wayne) in „Der letzte Scharfschütze“ das kostenlose Begräbnis des Bestatters ab?
+- **F240-20261006-231-M2** (The Shootist|1976): Warum schickt Books (John Wayne) in „Der letzte Scharfschütze“ Gillom (Ron Howard) zu drei gefährlichen Männern?
+- **F240-20261006-231-S1** (The Shootist|1976): Wer verletzt Books (John Wayne) in „Der letzte Scharfschütze“ nach dem Sieg über die drei Gegner tödlich?
+- **F240-20261006-231-S2** (The Shootist|1976): Welche Handlung Gilloms (Ron Howard) billigt Books (John Wayne) in der letzten Szene von „Der letzte Scharfschütze“?
+- **F240-20261006-233-L2** (The Ballad of Buster Scruggs|2018): Welche Fähigkeit verbindet Buster (Tim Blake Nelson) und den jungen Herausforderer in „The Ballad of Buster Scruggs“ neben dem Schießen?
+- **F240-20261006-233-M2** (The Ballad of Buster Scruggs|2018): Wie überlebt der Goldsucher (Tom Waits) in All Gold Canyon innerhalb von „The Ballad of Buster Scruggs“ den Angriff?
+- **F240-20261006-233-S1** (The Ballad of Buster Scruggs|2018): Warum stirbt Alice (Zoe Kazan) in The Gal Who Got Rattled innerhalb von „The Ballad of Buster Scruggs“ trotz der Abwehr des Angriffs?
+- **F240-20261006-234-L1** (The Assassination of Jesse James by the Coward Robert Ford|2007): Wie begegnet der junge Robert Ford (Casey Affleck) Jesse James in „Die Ermordung des Jesse James durch den Feigling Robert Ford“ zunächst?
+- **F240-20261006-234-L2** (The Assassination of Jesse James by the Coward Robert Ford|2007): Wobei hilft Ford Jesse (Brad Pitt) in „Die Ermordung des Jesse James durch den Feigling Robert Ford“ nach dem Zugraub zunächst im privaten Alltag?
+- **F240-20261006-234-M1** (The Assassination of Jesse James by the Coward Robert Ford|2007): Welche frühere Tötung muss Robert Ford (Casey Affleck) in „Die Ermordung des Jesse James durch den Feigling Robert Ford“ vor Jesse (Brad Pitt) verbergen?
+- **F240-20261006-234-M2** (The Assassination of Jesse James by the Coward Robert Ford|2007): Was verspricht der Gouverneur Ford in „Die Ermordung des Jesse James durch den Feigling Robert Ford“ für die Auslieferung oder Tötung Jesses (Brad Pitt)?
+- **F240-20261006-234-S1** (The Assassination of Jesse James by the Coward Robert Ford|2007): Welchen Gegenstand benutzt Ford in „Die Ermordung des Jesse James durch den Feigling Robert Ford“ bei der Tötung Jesses (Brad Pitt)?
+- **F240-20261006-235-L1** (The Proposition|2005): Welchen Handel bietet Captain Stanley (Ray Winstone) Charlie (Guy Pearce) in „The Proposition – Tödliches Angebot“ an?
+- **F240-20261006-235-L2** (The Proposition|2005): Welche Frist setzt Stanley (Ray Winstone) in „The Proposition – Tödliches Angebot“ für seinen Handel?
+- **F240-20261006-235-M1** (The Proposition|2005): Warum widerspricht Stanley (Ray Winstone) in „The Proposition – Tödliches Angebot“ der angeordneten Auspeitschung Mikeys (Richard Wilson)?
+- **F240-20261006-235-M2** (The Proposition|2005): Wie gelangt die Gruppe um Arthur (Danny Huston) in „The Proposition – Tödliches Angebot“ in die Stadt, um Mikey (Richard Wilson) zu befreien?
+- **F240-20261006-235-S1** (The Proposition|2005): Warum gelingt Charlies (Guy Pearce) Rettung Mikeys (Richard Wilson) in „The Proposition – Tödliches Angebot“ trotz der Befreiung aus dem Gefängnis nicht?
+- **F240-20261006-235-S2** (The Proposition|2005): Warum schießt Charlie (Guy Pearce) in „The Proposition – Tödliches Angebot“ schließlich auf Arthur (Danny Huston)?
+- **F240-20261006-236-L1** (The Sisters Brothers|2018): In welchem Verhältnis stehen Eli (John C. Reilly) und Charlie (Joaquin Phoenix) in „The Sisters Brothers“ zueinander?
+- **F240-20261006-236-L2** (The Sisters Brothers|2018): Welche Erfindung macht Hermann Warm (Riz Ahmed) in „The Sisters Brothers“ begehrt?
+- **F240-20261006-236-M1** (The Sisters Brothers|2018): Warum lässt John Morris (Jake Gyllenhaal) in „The Sisters Brothers“ den gesuchten Warm (Riz Ahmed) entkommen?
+- **F240-20261006-236-M2** (The Sisters Brothers|2018): Warum nimmt Eli (John C. Reilly) in „The Sisters Brothers“ die gemeinsame Gewaltarbeit trotz eigener Zweifel auf sich?
+- **F240-20261006-237-L1** (The Power of the Dog|2021): Welche Veränderung des Haushalts setzt Phil (Benedict Cumberbatch) in „The Power of the Dog“ besonders unter Druck?
+- **F240-20261006-237-L2** (The Power of the Dog|2021): Was studiert Roses (Kirsten Dunst) Sohn Peter (Kodi Smit-McPhee) in „The Power of the Dog“?
+- **F240-20261006-237-M1** (The Power of the Dog|2021): Wie untergräbt Phil (Benedict Cumberbatch) in „The Power of the Dog“ Roses (Kirsten Dunst) geplanten Klavierauftritt?
+- **F240-20261006-237-M2** (The Power of the Dog|2021): Welche gemeinsame Arbeit bietet Phil (Benedict Cumberbatch) Peter (Kodi Smit-McPhee) in „The Power of the Dog“ als Annäherung an?
+- **F240-20261006-237-S1** (The Power of the Dog|2021): Warum ist Peters (Kodi Smit-McPhee) Rohhautangebot an Phil (Benedict Cumberbatch) in „The Power of the Dog“ gefährlich?
+- **F240-20261006-237-S2** (The Power of the Dog|2021): Was tut Peter (Kodi Smit-McPhee) in „The Power of the Dog“ mit dem fertig geflochtenen Seil nach Phils (Benedict Cumberbatch) Tod?
+- **F240-20261006-238-L1** (Slow West|2015): Was bringt Jay (Kodi Smit-McPhee) in „Slow West“ aus Schottland in den amerikanischen Westen?
+- **F240-20261006-238-L2** (Slow West|2015): Welche Rolle übernimmt Silas (Michael Fassbender) in „Slow West“ zunächst für Jay (Kodi Smit-McPhee)?
+- **F240-20261006-238-M1** (Slow West|2015): Welches Wissen verschweigt Silas (Michael Fassbender) Jay (Kodi Smit-McPhee) in „Slow West“ zunächst?
+- **F240-20261006-238-M2** (Slow West|2015): Was bewirkt Jays (Kodi Smit-McPhee) Vertrauen in den reisenden Schriftsteller in „Slow West“?
+- **F240-20261006-238-S1** (Slow West|2015): Warum bindet Silas (Michael Fassbender) Jay (Kodi Smit-McPhee) in „Slow West“ vor der letzten Schießerei an einen Baum?
+- **F240-20261006-239-L1** (The Homesman|2014): Wen soll Mary Bee Cuddy (Hilary Swank) in „The Homesman“ nach Iowa begleiten?
+- **F240-20261006-239-L2** (The Homesman|2014): Wie gewinnt Cuddy (Hilary Swank) in „The Homesman“ George Briggs (Tommy Lee Jones) als Begleiter?
+- **F240-20261006-239-M1** (The Homesman|2014): Warum bleibt Cuddy (Hilary Swank) in „The Homesman“ zeitweise hinter der Reisegruppe zurück?
+- **F240-20261006-239-M2** (The Homesman|2014): Warum setzt Briggs (Tommy Lee Jones) in „The Homesman“ die Reise nach Cuddys (Hilary Swank) Tod schließlich doch fort?
+- **F240-20261006-239-S1** (The Homesman|2014): Warum erweist sich Briggs’ (Tommy Lee Jones) Bezahlung in „The Homesman“ am Ziel als wertlos?
+- **F240-20261006-239-S2** (The Homesman|2014): Was geschieht in „The Homesman“ mit dem für Cuddy (Hilary Swank) angefertigten Grabzeichen?
+- **F240-20261006-240-L1** (McCabe & Mrs. Miller|1971): Welches Geschäft bauen McCabe (Warren Beatty) und Mrs. Miller (Julie Christie) in „McCabe & Mrs. Miller“ gemeinsam auf?
+- **F240-20261006-240-L2** (McCabe & Mrs. Miller|1971): Welche große Macht will McCabes (Warren Beatty) Geschäft in „McCabe & Mrs. Miller“ übernehmen?
+- **F240-20261006-240-M1** (McCabe & Mrs. Miller|1971): Warum scheitert McCabes (Warren Beatty) Verhandlung in „McCabe & Mrs. Miller“?
+- **F240-20261006-240-M2** (McCabe & Mrs. Miller|1971): Was bewirkt McCabes (Warren Beatty) Besuch beim Anwalt in „McCabe & Mrs. Miller“ tatsächlich?
+- **F240-20261006-240-S1** (McCabe & Mrs. Miller|1971): Womit sind die Einwohner in „McCabe & Mrs. Miller“ während McCabes (Warren Beatty) letztem Kampf beschäftigt?
+- **E20261007-F-003-M2** (Sinbad and the Eye of the Tiger|1977): Welche Funktion erfüllt der bronzene Minoton (Peter Mayhew) in „Sindbad und das Auge des Tigers“ zunächst für Zenobia (Margaret Whiting) und ihren Sohn?
+- **E20261007-F-003-S1** (Sinbad and the Eye of the Tiger|1977): Welche Folge hat Zenobias (Margaret Whiting) gewaltsamer Versuch, in „Sindbad und das Auge des Tigers“ mit dem Minoton (Peter Mayhew) in die Pyramide einzudringen?
+- **E20261007-F-013-M1** (Nim’s Island|2008): Welche persönliche Hürde muss Alexandra Rover (Jodie Foster) in „Die Insel der Abenteuer“ überwinden, um Nim (Abigail Breslin) tatsächlich zu helfen?
+- **E20261007-F-020-M1** (The Three Musketeers|1993): Wie wird aus d’Artagnans (Chris O’Donnell) ersten Begegnungen mit Athos (Kiefer Sutherland), Aramis (Charlie Sheen) und Porthos in „Die drei Musketiere“ eine gemeinsame Sache?
+- **E20261007-F-022-M2** (The Negotiator|1998): Was steckt in „Verhandlungssache“ hinter Dannys (Samuel L. Jackson) vermeintlicher Erschießung des festgehaltenen Polizisten Scott (Dean Norris)?
+- **E20261007-F-027-M1** (Hard Target|1993): Welches Fundstück widerspricht in „Harte Ziele“ der Behauptung, Douglas Binder (Yancy Butler) sei nur bei einem Brand gestorben?
+- **E20261007-F-041-M2** (The Straight Story|1999): Warum lehnt Alvin (Richard Farnsworth) in „Eine wahre Geschichte“ Dannys (James Cada) Angebot ab, ihn direkt zu Lyle (Harry Dean Stanton) zu fahren?
+- **E20261007-F-041-S2** (The Straight Story|1999): Wie orientierte sich der Dreh von „Eine wahre Geschichte“ an Alvin Straights (Richard Farnsworth) wirklicher Reise?
+- **E20261007-F-042-L1** (The Elephant Man|1980): Welchen Beruf hat Frederick Treves (Anthony Hopkins), der Merrick (John Hurt) in „Der Elefantenmensch“ kennenlernt?
+- **E20261007-F-042-M2** (The Elephant Man|1980): Wie setzt der Nachtportier (Michael Elphick) in „Der Elefantenmensch“ Merricks (John Hurt) frühere Ausbeutung im Krankenhaus fort?
+- **E20261007-F-044-L1** (Amour|2012): Welchen Beruf hatten Anne (Emmanuelle Riva) und Georges (Jean-Louis Trintignant) in „Liebe“ vor ihrem Ruhestand?
+- **E20261007-F-044-L2** (Amour|2012): Welches Ereignis beim Frühstück verändert in „Liebe“ Annes (Emmanuelle Riva) und Georges’ (Jean-Louis Trintignant) Alltag?
+- **E20261007-F-044-M1** (Amour|2012): Welche Verbindung hat der Pianist Alexandre (Alexandre Tharaud) in „Liebe“ zu Anne (Emmanuelle Riva)?
+- **E20261007-F-044-M2** (Amour|2012): Welches Versprechen gibt Georges (Jean-Louis Trintignant) Anne (Emmanuelle Riva) in „Liebe“ nach ihrer Rückkehr nach Hause?
+- **E20261007-F-044-S2** (Amour|2012): Wie ordnet „Liebe“ die Szene mit der toten Anne (Emmanuelle Riva) und den Rettungskräften zeitlich ein?
+- **E20261007-F-046-L2** (Requiem for a Dream|2000): Welche Droge prägt Harrys (Jared Leto) und Tyrones (Marlon Wayans) Sucht in „Requiem for a Dream“?
+- **E20261007-F-046-M2** (Requiem for a Dream|2000): Weshalb fahren Harry (Jared Leto) und Tyrone (Marlon Wayans) in „Requiem for a Dream“ nach Florida?
+- **E20261007-F-047-M2** (The Wrestler|2008): Wodurch zerstört Randy (Mickey Rourke) in „The Wrestler“ die gerade erneuerte Nähe zu Stephanie (Evan Rachel Wood)?
+- **E20261007-F-047-S2** (The Wrestler|2008): Wie endet „The Wrestler“ unmittelbar nach Randys (Mickey Rourke) letztem Sprung vom Ringseil?
+- **E20261007-F-048-M2** (Into the Wild|2007): Was bietet Ron Franz (Hal Holbrook) Chris (Emile Hirsch) in „Into the Wild“ vor dessen Aufbruch nach Alaska an?
+- **E20261007-F-048-S1** (Into the Wild|2007): Was verhindert Chris’ (Emile Hirsch) Rückweg aus der Wildnis in „Into the Wild“, als er zu anderen Menschen zurückkehren will?
+- **E20261007-F-048-S2** (Into the Wild|2007): Wessen Stimme ergänzt Chris’ (Emile Hirsch) eigene Erzählung in „Into the Wild“ besonders um die Familienperspektive?
+- **E20261007-F-049-M2** (Dallas Buyers Club|2013): Wie verändert die Zusammenarbeit mit Rayon (Jared Leto) Rons (Matthew McConaughey) Verhalten in „Dallas Buyers Club“?
+- **E20261007-F-050-M1** (Die Welle|2008): Warum bindet sich Tim (Frederick Lau) in „Die Welle“ besonders stark an die Bewegung?
+- **E20261007-F-050-M2** (Die Welle|2008): Was bewegt Marco (Max Riemelt) in „Die Welle“ dazu, Wenger um den Abbruch zu bitten?
+- **E20261007-F-050-S1** (Die Welle|2008): „Die Welle“: Wozu lässt Wenger bei der letzten Versammlung Marco (Max Riemelt) als „Verräter“ nach vorn holen?
+- **E20261007-F-051-M1** (Das weiße Band – Eine deutsche Kindergeschichte|2009): „Das weiße Band“: Welche Bedeutung gibt der Pastor (Burghart Klaußner) den Bändern, die seine Kinder tragen müssen?
+- **E20261007-F-052-L1** (Atonement|2007): Welche Beziehung haben Cecilia (Keira Knightley) und Briony in „Abbitte“?
+- **E20261007-F-052-L2** (Atonement|2007): „Abbitte“: Welchen Weg nimmt Robbie (James McAvoy) nach Gefängnis und Verurteilung während des Krieges?
+- **E20261007-F-052-M1** (Atonement|2007): „Abbitte“: Welcher Fehler macht Robbies (James McAvoy) Brief an Cecilia (Keira Knightley) besonders belastend?
+- **E20261007-F-052-S1** (Atonement|2007): „Abbitte“: Wie wurde Robbies (James McAvoy) Ankunft am Strand von Dünkirchen filmisch gestaltet?
+- **E20261007-F-052-S2** (Atonement|2007): „Abbitte“: Was gesteht die alte Briony über das gezeigte Wiedersehen von Robbie (James McAvoy) und Cecilia (Keira Knightley)?
+- **E20261007-F-053-L1** (The Reader|2008): In welcher Ausbildung begegnet Michael Hanna (Kate Winslet) in „Der Vorleser“ später erneut?
+- **E20261007-F-053-L2** (The Reader|2008): „Der Vorleser“: Welchen Beruf übt Hanna (Kate Winslet) aus, als Michael sie kennenlernt?
+- **E20261007-F-053-M1** (The Reader|2008): „Der Vorleser“: Warum gibt Hanna (Kate Winslet) zu, einen belastenden Bericht geschrieben zu haben, obwohl sie dessen Autorin nicht sein kann?
+- **E20261007-F-053-M2** (The Reader|2008): „Der Vorleser“: Wie lernt Hanna (Kate Winslet) im Gefängnis schließlich lesen?
+- **E20261007-F-053-S1** (The Reader|2008): „Der Vorleser“: Wie reagiert die Überlebende Ilana (Lena Olin) auf Hannas (Kate Winslet) hinterlassenes Geld?
+- **E20261007-F-053-S2** (The Reader|2008): „Der Vorleser“: Wem beginnt Michael am Filmende seine Geschichte mit Hanna (Kate Winslet) zu erzählen?
+- **E20261007-F-054-L2** (The Descendants|2011): Welches Ereignis zwingt Matt (George Clooney) in „The Descendants – Familie und andere Angelegenheiten“, sich intensiver um seine Töchter zu kümmern?
+- **E20261007-F-054-M1** (The Descendants|2011): „The Descendants – Familie und andere Angelegenheiten“: Welche Mitteilung von Alex (Shailene Woodley) verändert Matts (George Clooney) Bild seiner Ehe?
+- **E20261007-F-054-M2** (The Descendants|2011): „The Descendants – Familie und andere Angelegenheiten“: Warum berührt Elizabeths (Patricia Hastie) Geliebter auch Matts (George Clooney) Entscheidung über das Familienland?
+- **E20261007-F-054-S1** (The Descendants|2011): „The Descendants – Familie und andere Angelegenheiten“: Welche Entscheidung trifft Matt (George Clooney) gegenüber seinen verkaufswilligen Verwandten?
+- **E20261007-F-055-L2** (Boyhood|2014): „Boyhood“: Welche familiäre Situation prägt Masons (Ellar Coltrane) Kindheit von Beginn an?
+- **E20261007-F-055-M1** (Boyhood|2014): „Boyhood“: Warum zieht Olivia (Patricia Arquette) mit den Kindern nach Houston?
+- **E20261007-F-055-S1** (Boyhood|2014): „Boyhood“: Was löst Olivias (Patricia Arquette) Zusammenbruch kurz vor Masons (Ellar Coltrane) Studienbeginn aus?
+- **E20261007-F-056-M1** (Babel|2006): „Babel“: Warum nimmt Amelia (Adriana Barraza) die amerikanischen Kinder mit nach Mexiko?
+- **E20261007-F-057-M2** (Crash|2004): „L.A. Crash“: Was hält Peter (Larenz Tate) tatsächlich in der Hand, als Hansen (Ryan Phillippe) eine Waffe vermutet?
+- **E20261007-F-057-S2** (Crash|2004): „L.A. Crash“: Welche falsche Annahme trifft sowohl Jean (Sandra Bullock) als auch den Ladenbesitzer Farhad (Shaun Toub) über den Schlosser Daniel (Michael Peña)?
+- **E20261007-F-058-L2** (Precious: Based on the Novel “Push” by Sapphire|2009): „Precious – Das Leben ist kostbar“: Welche neue Fähigkeit vermittelt Miss Rain (Paula Patton) Precious besonders grundlegend?
+- **E20261007-F-058-M1** (Precious: Based on the Novel “Push” by Sapphire|2009): „Precious – Das Leben ist kostbar“: Welche Funktion haben Precious’ (Gabourey Sidibe) glamouröse Tagträume?
+- **E20261007-F-058-M2** (Precious: Based on the Novel “Push” by Sapphire|2009): „Precious – Das Leben ist kostbar“: Warum versucht Mary (Mo'Nique), Precious vom weiteren Schulbesuch abzuhalten?
+- **E20261007-F-058-S1** (Precious: Based on the Novel “Push” by Sapphire|2009): „Precious – Das Leben ist kostbar“: Welche Entscheidung trifft Precious nach Marys (Mo'Nique) Erklärung des zugelassenen Missbrauchs?
+- **E20261007-F-058-S2** (Precious: Based on the Novel “Push” by Sapphire|2009): „Precious – Das Leben ist kostbar“: Welche Rolle ergänzt Miss Weiss (Mariah Carey) neben der Unterstützung durch die Lehrerin?
+- **E20261007-F-059-L1** (Todo sobre mi madre|1999): Welches Ereignis bringt Manuelas (Cecilia Roth) Leben in „Alles über meine Mutter“ aus dem Gleichgewicht?
+- **E20261007-F-059-L2** (Todo sobre mi madre|1999): „Alles über meine Mutter“: In welche Stadt fährt Manuela (Cecilia Roth) nach Estebans (Eloy Azorín) Tod, um dessen anderen Elternteil zu suchen?
+- **E20261007-F-059-M1** (Todo sobre mi madre|1999): „Alles über meine Mutter“: Welche Situation aus Manuelas (Cecilia Roth) Krankenhausarbeit wird nach dem Unfall ihres Sohnes zur eigenen Erfahrung?
+- **E20261007-F-059-M2** (Todo sobre mi madre|1999): „Alles über meine Mutter“: Welche Verbindung besteht zwischen Manuelas (Cecilia Roth) verstorbenem Sohn und dem Kind, das Rosa (Penélope Cruz) erwartet?
+- **E20261007-F-059-S1** (Todo sobre mi madre|1999): „Alles über meine Mutter“: Wie überbrückt Agrado (Antonia San Juan) die abgesagte Theateraufführung?
+- **E20261007-F-059-S2** (Todo sobre mi madre|1999): „Alles über meine Mutter“: Welches Theaterstück begleitet Manuela (Cecilia Roth) durch die Begegnungen mit Huma (Marisa Paredes)?
+- **E20261007-F-060-L1** (21 Grams|2003): Welche lebensrettende Behandlung benötigt Paul (Sean Penn) am Anfang von „21 Gramm“?
+- **E20261007-F-060-L2** (21 Grams|2003): „21 Gramm“: Welches Ereignis verbindet Jack mit Cristinas (Naomi Watts) zerstörtem Familienleben?
+- **E20261007-F-060-M1** (21 Grams|2003): „21 Gramm“: Warum sucht Paul (Sean Penn) gezielt den Kontakt zu Cristina (Naomi Watts)?
+- **E20261007-F-060-S1** (21 Grams|2003): „21 Gramm“: Was tut Paul (Sean Penn), als er Jack unter Waffengewalt in eine abgelegene Stelle führt?
+- **E20261007-F-061-L1** (Alice in Wonderland|2010): In welcher Lebensphase kehrt Alice (Mia Wasikowska) in „Alice im Wunderland“ nach Underland zurück?
+- **E20261007-F-061-L2** (Alice in Wonderland|2010): Warum benötigt die Weiße Königin (Anne Hathaway) in „Alice im Wunderland“ jemanden, der für sie kämpft?
+- **E20261007-F-061-M1** (Alice in Wonderland|2010): Was erhält Alice (Mia Wasikowska) in „Alice im Wunderland“, nachdem sie dem Bandersnatch sein verlorenes Auge zurückgibt?
+- **E20261007-F-061-S1** (Alice in Wonderland|2010): Welche auffällige Veränderung wurde an der Roten Königin (Helena Bonham Carter) in „Alice im Wunderland“ digital erzeugt?
+- **E20261007-F-061-S2** (Alice in Wonderland|2010): Welchen eigenen beruflichen Weg schlägt Alice (Mia Wasikowska) am Ende von „Alice im Wunderland“ vor?
+- **E20261007-F-062-M1** (The Brothers Grimm|2005): Wie unterscheiden sich Will (Matt Damon) und Jake (Heath Ledger) in „Brothers Grimm“ zunächst in ihrer Haltung zu übernatürlichen Geschichten?
+- **E20261007-F-062-M2** (The Brothers Grimm|2005): Welche familiäre Verbindung entdeckt Angelika (Lena Headey) zum verzauberten Jäger in „Brothers Grimm“?
+- **E20261007-F-062-S1** (The Brothers Grimm|2005): Womit will die Spiegelkönigin (Monica Bellucci) in „Brothers Grimm“ ihre Jugend endgültig zurückgewinnen?
+- **E20261007-F-062-S2** (The Brothers Grimm|2005): Warum überlebt Cavaldi (Peter Stormare) in „Brothers Grimm“ den Schuss des Generals?
+- **E20261007-F-063-L2** (The Imaginarium of Doctor Parnassus|2009): Welche Verpflichtung bedroht Parnassus’ (Christopher Plummer) Tochter in „Das Kabinett des Dr. Parnassus“ an ihrem sechzehnten Geburtstag?
+- **E20261007-F-063-M1** (The Imaginarium of Doctor Parnassus|2009): Worauf einigen sich Parnassus (Christopher Plummer) und Mr. Nick (Tom Waits) in „Das Kabinett des Dr. Parnassus“ bei ihrer neuen Wette?
+- **E20261007-F-063-S2** (The Imaginarium of Doctor Parnassus|2009): Wie verhält sich Parnassus (Christopher Plummer) in „Das Kabinett des Dr. Parnassus“, als er Valentina (Lily Cole) später mit ihrer eigenen Familie sieht?
+- **E20261007-F-064-L1** (Charlie and the Chocolate Factory|2005): Wie erhalten Kinder in „Charlie und die Schokoladenfabrik“ eine Einladung in Wonkas (Johnny Depp) Fabrik?
+- **E20261007-F-064-L2** (Charlie and the Chocolate Factory|2005): Wer begleitet Charlie (Freddie Highmore) bei der Fabrikbesichtigung in „Charlie und die Schokoladenfabrik“?
+- **E20261007-F-064-M1** (Charlie and the Chocolate Factory|2005): Welchen Beruf übte Wonkas (Johnny Depp) strenger Vater in „Charlie und die Schokoladenfabrik“ aus?
+- **E20261007-F-064-M2** (Charlie and the Chocolate Factory|2005): Welche Bedingung lässt Charlie (Freddie Highmore) in „Charlie und die Schokoladenfabrik“ das Fabrikerbe zunächst ablehnen?
+- **E20261007-F-064-S1** (Charlie and the Chocolate Factory|2005): Wie beurteilen die Nüsse sortierenden Eichhörnchen Veruca (Julia Winter) in „Charlie und die Schokoladenfabrik“?
+- **E20261007-F-065-L1** (Percy Jackson & the Olympians: The Lightning Thief|2010): Welcher griechische Gott ist in „Percy Jackson: Diebe im Olymp“ Percys (Logan Lerman) Vater?
+- **E20261007-F-065-L2** (Percy Jackson & the Olympians: The Lightning Thief|2010): Welche wirkliche Gestalt verbirgt sich in „Percy Jackson: Diebe im Olymp“ hinter Percys (Logan Lerman) Lehrer Mr. Brunner (Pierce Brosnan)?
+- **E20261007-F-065-M1** (Percy Jackson & the Olympians: The Lightning Thief|2010): Warum verlieren Percy (Logan Lerman) und seine Freunde in „Percy Jackson: Diebe im Olymp“ im Lotus-Casino fast eine Woche?
+- **E20261007-F-065-M2** (Percy Jackson & the Olympians: The Lightning Thief|2010): Warum muss Grover (Brandon T. Jackson) in „Percy Jackson: Diebe im Olymp“ zunächst in der Unterwelt bleiben?
+- **E20261007-F-065-S1** (Percy Jackson & the Olympians: The Lightning Thief|2010): Wo ist der gestohlene Blitz in „Percy Jackson: Diebe im Olymp“ verborgen, ohne dass Percy (Logan Lerman) davon weiß?
+- **E20261007-F-066-L1** (Percy Jackson: Sea of Monsters|2013): Welchen mythischen Gegenstand suchen Percy (Logan Lerman) und seine Freunde in „Percy Jackson: Im Bann des Zyklopen“ zur Rettung ihrer Heimat?
+- **E20261007-F-066-L2** (Percy Jackson: Sea of Monsters|2013): Welche Beziehung hat Tyson (Douglas Smith) zu Percy (Logan Lerman) in „Percy Jackson: Im Bann des Zyklopen“?
+- **E20261007-F-066-M2** (Percy Jackson: Sea of Monsters|2013): Wozu will Luke (Jake Abel) das Goldene Vlies in „Percy Jackson: Im Bann des Zyklopen“ entgegen dem Rettungsplan verwenden?
+- **E20261007-F-066-S1** (Percy Jackson: Sea of Monsters|2013): Warum überlebt Tyson (Douglas Smith) in „Percy Jackson: Im Bann des Zyklopen“ seinen Sturz nach einer schweren Verletzung?
+- **E20261007-F-067-L1** (Inkheart|2008): Welche besondere Wirkung hat Mos (Brendan Fraser) Vorlesen in „Tintenherz“?
+- **E20261007-F-067-L2** (Inkheart|2008): Wie ist Meggie (Eliza Bennett) in „Tintenherz“ mit Mo verwandt?
+- **E20261007-F-067-M1** (Inkheart|2008): Welchen Preis hat das Herauslesen von Figuren in „Tintenherz“ für Mos (Brendan Fraser) Familie?
+- **E20261007-F-067-S1** (Inkheart|2008): Wie verändert Meggie (Eliza Bennett) im Finale von „Tintenherz“ den erzwungenen Ablauf der Geschichte?
+- **E20261007-F-067-S2** (Inkheart|2008): Warum kann Staubfinger (Paul Bettany) am Ende von „Tintenherz“ einem im Buch vorhergesagten Tod entgehen?
+- **E20261007-F-068-L2** (The Golden Compass|2007): Welche Suche treibt Lyra (Dakota Blue Richards) in „Der Goldene Kompass“ nach Norden?
+- **E20261007-F-068-M2** (The Golden Compass|2007): Warum verhindert Mrs. Coulter (Nicole Kidman) in „Der Goldene Kompass“ Lyras (Dakota Blue Richards) Trennung von ihrem Dæmon?
+- **E20261007-F-068-S1** (The Golden Compass|2007): Wie setzt Lyra (Dakota Blue Richards) in „Der Goldene Kompass“ eine zuvor abgefangene Spionagefliege gegen Coulter (Nicole Kidman) ein?
+- **E20261007-F-068-S2** (The Golden Compass|2007): Wie ermöglicht Lyra (Dakota Blue Richards) in „Der Goldene Kompass“ Ioreks Kampf gegen den Bärenkönig Ragnar?
+- **E20261007-F-069-L1** (Maleficent|2014): Welche Rolle besitzt Maleficent (Angelina Jolie) am Anfang von „Maleficent: Die dunkle Fee“ gegenüber ihrem magischen Waldreich?
+- **E20261007-F-069-L2** (Maleficent|2014): Was soll Aurora nach Maleficents (Angelina Jolie) Fluch in „Maleficent: Die dunkle Fee“ widerfahren?
+- **E20261007-F-069-M1** (Maleficent|2014): Womit verschafft sich Stefan (Sharlto Copley) in „Maleficent: Die dunkle Fee“ den Anspruch auf die Königskrone?
+- **E20261007-F-069-M2** (Maleficent|2014): Welche Gestalt hat Diaval (Sam Riley) in „Maleficent: Die dunkle Fee“, bevor Maleficent (Angelina Jolie) ihm menschliches Aussehen gibt?
+- **E20261007-F-070-S2** (Yume|1990): Warum feiern die Dorfbewohner (Chishū Ryū) in der letzten Episode von „Träume“ einen Trauerzug mit Musik?
+- **E20261007-F-071-S2** (Practical Magic|1998): Welcher gewöhnliche Gegenstand schützt Gary (Aidan Quinn) in „Zauberhafte Schwestern“ vor Jimmys (Goran Višnjić) Geist?
+- **E20261007-F-072-L1** (What Dreams May Come|1998): Wohin folgt die Handlung Chris (Robin Williams) nach seinem Tod in „Hinter dem Horizont“?
+- **E20261007-F-072-L2** (What Dreams May Come|1998): Welcher Verlust belastet Chris (Robin Williams) und Annie (Annabella Sciorra) in „Hinter dem Horizont“ schon vor Chris’ eigenem Tod?
+- **E20261007-F-072-M1** (What Dreams May Come|1998): Welcher Kunstwelt ähnelt Chris’ (Robin Williams) erstes Paradies in „Hinter dem Horizont“?
+- **E20261007-F-072-M2** (What Dreams May Come|1998): Warum ist Annie (Annabella Sciorra) in „Hinter dem Horizont“ nach ihrem Tod zunächst in einer schrecklichen Welt gefangen?
+- **E20261007-F-072-S1** (What Dreams May Come|1998): Wer steckt in „Hinter dem Horizont“ zunächst hinter Chris’ (Robin Williams) vertraut erscheinendem Begleiter Albert?
+- **E20261007-F-072-S2** (What Dreams May Come|1998): Welche Entscheidung von Chris (Robin Williams) ermöglicht in „Hinter dem Horizont“ schließlich Annies (Annabella Sciorra) Rettung?
+- **E20261007-F-073-L1** (Beasts of the Southern Wild|2012): In welcher Umgebung lebt Hushpuppy (Quvenzhané Wallis) in „Beasts of the Southern Wild“?
+- **E20261007-F-073-L2** (Beasts of the Southern Wild|2012): Welche beiden Gefahren bedrohen Hushpuppys (Quvenzhané Wallis) Alltag in „Beasts of the Southern Wild“ zugleich?
+- **E20261007-F-073-M1** (Beasts of the Southern Wild|2012): Welche Verbindung stellt Hushpuppy (Quvenzhané Wallis) in „Beasts of the Southern Wild“ zwischen einem Streit und dem Unwetter her?
+- **E20261007-F-073-S1** (Beasts of the Southern Wild|2012): Wie reagiert Hushpuppy (Quvenzhané Wallis) in „Beasts of the Southern Wild“ auf die riesigen Auerochsen, als diese ihre Heimat erreichen?
+- **E20261007-F-074-L1** (Lemony Snicket's A Series of Unfortunate Events|2004): Was will Graf Olaf (Jim Carrey) von den drei Waisenkindern in „Lemony Snicket: Rätselhafte Ereignisse“ vor allem erlangen?
+- **E20261007-F-074-M2** (Lemony Snicket's A Series of Unfortunate Events|2004): Warum erkennt Klaus (Liam Aiken) in „Lemony Snicket: Rätselhafte Ereignisse“ in Josephines (Meryl Streep) Abschiedsbrief eine versteckte Nachricht?
+- **E20261007-F-074-S1** (Lemony Snicket's A Series of Unfortunate Events|2004): Wie will Olaf (Jim Carrey) in „Lemony Snicket: Rätselhafte Ereignisse“ eine Theateraufführung rechtlich für sich ausnutzen?
+- **E20261007-F-075-L2** (Jack the Giant Slayer|2013): Wen soll Jacks (Nicholas Hoult) Reise in das Riesenreich in „Jack and the Giants“ retten?
+- **E20261007-F-075-M1** (Jack the Giant Slayer|2013): Warum warnt der Mönch Jack (Nicholas Hoult) in „Jack and the Giants“ davor, die Bohnen nass werden zu lassen?
+- **E20261007-F-075-S1** (Jack the Giant Slayer|2013): Wie besiegt Jack (Nicholas Hoult) in „Jack and the Giants“ den Riesen Fallon unmittelbar vor dem Verschlungenwerden?
+- **E20261007-F-076-L1** (Die Nibelungen. 1. Teil: Siegfried|1924): Welches Handwerk erlernt Siegfried (Paul Richter) zu Beginn von „Die Nibelungen: Siegfried“?
+- **E20261007-F-076-L2** (Die Nibelungen. 1. Teil: Siegfried|1924): Mit welchem persönlichen Ziel reist Siegfried (Paul Richter) in „Die Nibelungen: Siegfried“ an den Hof von Worms?
+- **E20261007-F-076-M1** (Die Nibelungen. 1. Teil: Siegfried|1924): Wie ermöglicht Siegfried (Paul Richter) in „Die Nibelungen: Siegfried“ Gunthers (Theodor Loos) Sieg bei Brunhilds (Hanna Ralph) Kraftproben?
+- **E20261007-F-076-M2** (Die Nibelungen. 1. Teil: Siegfried|1924): Warum bleibt Siegfried (Paul Richter) in „Die Nibelungen: Siegfried“ trotz seines Bades im Drachenblut an einer Stelle verwundbar?
+- **E20261007-F-076-S1** (Die Nibelungen. 1. Teil: Siegfried|1924): Welches Beweisstück nutzt Kriemhild (Margarete Schön) in „Die Nibelungen: Siegfried“, um Brunhild (Hanna Ralph) die Täuschung in ihrer Hochzeitsnacht vorzuführen?
+- **E20261007-F-076-S2** (Die Nibelungen. 1. Teil: Siegfried|1924): Wie erfährt Hagen (Hans Adalbert Schlettow) in „Die Nibelungen: Siegfried“, wo er Siegfried (Paul Richter) tödlich treffen kann?
+- **E20261007-F-077-L1** (The Witches|1990): Wer übernimmt in „Hexen hexen“ nach dem Tod seiner Eltern die Sorge für Luke (Jasen Fisher)?
+- **E20261007-F-077-L2** (The Witches|1990): Was soll der neue Zaubertrank der Oberhexe (Anjelica Huston) in „Hexen hexen“ mit Kindern machen?
+- **E20261007-F-077-M2** (The Witches|1990): Warum rät Helga (Mai Zetterling) in „Hexen hexen“, Luke (Jasen Fisher) nicht allzu gründlich zu waschen?
+- **E20261007-F-077-S1** (The Witches|1990): Wie wendet Luke (Jasen Fisher) in „Hexen hexen“ den Verwandlungsplan gegen die versammelten Hexen?
+- **E20261007-F-077-S2** (The Witches|1990): Was ermöglicht in der Filmfassung von „Hexen hexen“ Lukes (Jasen Fisher) Rückkehr zur menschlichen Gestalt?
+- **E20261007-F-079-L1** (The Santa Clause|1994): Welche familiäre Situation prägt Scott Calvins (Tim Allen) Weihnachtsabend zu Beginn von „Santa Clause – Eine schöne Bescherung“?
+- **E20261007-F-079-L2** (The Santa Clause|1994): Wodurch verpflichtet sich Scott (Tim Allen) in „Santa Clause – Eine schöne Bescherung“, die Aufgaben des Weihnachtsmanns zu übernehmen?
+- **E20261007-F-079-M1** (The Santa Clause|1994): Welche Entwicklung macht Scotts (Tim Allen) Rückkehr zu seinem normalen Alltag in „Santa Clause – Eine schöne Bescherung“ zunehmend schwierig?
+- **E20261007-F-079-M2** (The Santa Clause|1994): Warum verliert Scott (Tim Allen) in „Santa Clause – Eine schöne Bescherung“ zeitweise das Recht, Charlie (Eric Lloyd) zu sehen?
+- **E20261007-F-079-S1** (The Santa Clause|1994): Welche Bedeutung haben Lauras (Wendy Crewson) und Neils (Judge Reinhold) unerfüllte Kindheitswünsche in „Santa Clause – Eine schöne Bescherung“?
+- **E20261007-F-079-S2** (The Santa Clause|1994): Wie kann Charlie (Eric Lloyd) in „Santa Clause – Eine schöne Bescherung“ seinen Vater am Schluss erneut zu sich rufen?
+- **E20261007-F-081-M1** (A Quiet Place|2018): Was löst in „A Quiet Place“ die tödliche Gefahr für Beau (Cade Woodward) beim Heimweg aus?
+- **E20261007-F-081-S1** (A Quiet Place|2018): Wie rettet Lee (John Krasinski) in „A Quiet Place“ seine Kinder, als die Kreatur ihren Wagen angreift?
+- **E20261007-F-081-S2** (A Quiet Place|2018): Welche Schwäche der Kreaturen nutzt Regan (Millicent Simmonds) im Finale von „A Quiet Place“?
+- **E20261007-F-082-L2** (The Invisible Man|2020): Welche Nachricht soll Cecilia in „Der Unsichtbare“ zunächst von der Angst vor Adrian (Oliver Jackson-Cohen) befreien?
+- **E20261007-F-082-S1** (The Invisible Man|2020): Welche Entdeckung macht Cecilia in „Der Unsichtbare“ nach dem tödlichen Schuss auf den Angreifer bei James (Aldis Hodge)?
+- **E20261007-F-083-L1** (Candyman|1992): Welchem Thema geht Helen (Virginia Madsen) in „Candyman“ bei ihrer Forschungsarbeit nach?
+- **E20261007-F-083-M1** (Candyman|1992): Warum glaubt Helen (Virginia Madsen) in „Candyman“ zeitweise, die Legende entkräftet zu haben?
+- **E20261007-F-083-S1** (Candyman|1992): Warum reagiert Candyman (Tony Todd) in „Candyman“ auf Helens (Virginia Madsen) Zweifel mit neuer Gewalt?
+- **E20261007-F-083-S2** (Candyman|1992): Was zeigt Trevors (Xander Berkeley) Spiegelritual am Ende von „Candyman“ über Helen (Virginia Madsen)?
+- **E20261007-F-084-L1** (The Lost Boys|1987): Wohin zieht Michael (Jason Patric) mit seiner Mutter und seinem Bruder zu Beginn von „The Lost Boys“?
+- **E20261007-F-084-L2** (The Lost Boys|1987): Wo trifft Sam (Corey Haim) in „The Lost Boys“ die Brüder, die ihm Wissen über Vampire anbieten?
+- **E20261007-F-084-M1** (The Lost Boys|1987): Welcher Schritt setzt Michaels (Jason Patric) Verwandlung in „The Lost Boys“ in Gang?
+- **E20261007-F-084-M2** (The Lost Boys|1987): Warum besteht für Michael (Jason Patric) und Star (Jami Gertz) in „The Lost Boys“ zunächst noch Hoffnung auf Rückverwandlung?
+- **E20261007-F-084-S1** (The Lost Boys|1987): Warum bestehen die Vampirtests bei Max (Edward Herrmann) in „The Lost Boys“ zunächst scheinbar nicht?
+- **E20261007-F-085-M2** (The Autopsy of Jane Doe|2016): Welche tragische Fehlwahrnehmung führt in „The Autopsy of Jane Doe“ zu Emmas (Ophelia Lovibond) Tod?
+- **E20261007-F-085-S1** (The Autopsy of Jane Doe|2016): Welche Erklärung entwickelt Tommy (Brian Cox) in „The Autopsy of Jane Doe“ für Jane Does (Olwen Kelly) übernatürlichen Zustand?
+- **E20261007-F-085-S2** (The Autopsy of Jane Doe|2016): Was geschieht in „The Autopsy of Jane Doe“, nachdem Tommy (Brian Cox) anbietet, Jane Does (Olwen Kelly) Leiden auf sich zu nehmen?
+- **E20261007-F-086-L1** (Gokseong|2016): Welche Aufgabe hat Jong-goo (Kwak Do-won) zu Beginn von „The Wailing“ in seinem Dorf?
+- **E20261007-F-086-L2** (Gokseong|2016): Wodurch wird die Mordserie in „The Wailing“ für Jong-goo (Kwak Do-won) zu einer unmittelbaren Familienkrise?
+- **E20261007-F-086-M2** (Gokseong|2016): Warum bricht Jong-goo (Kwak Do-won) in „The Wailing“ das Ritual des Schamanen ab?
+- **E20261007-F-086-S1** (Gokseong|2016): Welche Bedingung der Frau in Weiß missachtet Jong-goo (Kwak Do-won) im Schluss von „The Wailing“?
+- **E20261007-F-087-L1** (In the Mouth of Madness|1994): Mit welchem beruflichen Hintergrund beginnt John Trent (Sam Neill) seinen Auftrag in „Die Mächte des Wahnsinns“?
+- **E20261007-F-087-L2** (In the Mouth of Madness|1994): Was soll John Trent (Sam Neill) in „Die Mächte des Wahnsinns“ für den Verlag aufklären?
+- **E20261007-F-087-M1** (In the Mouth of Madness|1994): Wie findet Trent (Sam Neill) in „Die Mächte des Wahnsinns“ einen Hinweis auf den Ort Hobb’s End?
+- **E20261007-F-087-S1** (In the Mouth of Madness|1994): Welche Erklärung gibt Cane (Jürgen Prochnow) in „Die Mächte des Wahnsinns“ dafür, dass seine Geschichten Wirklichkeit werden?
+- **E20261007-F-087-S2** (In the Mouth of Madness|1994): Was sieht Trent (Sam Neill) am Ende von „Die Mächte des Wahnsinns“ im verlassenen Kino?
+- **E20261007-F-088-L2** (Hellraiser|1987): Warum hilft Julia (Clare Higgins) in „Hellraiser“ dem zurückgekehrten Frank?
+- **E20261007-F-088-S1** (Hellraiser|1987): Welches Angebot macht Kirsty (Ashley Laurence) in „Hellraiser“ den Cenobiten, um zunächst verschont zu werden?
+- **E20261007-F-088-S2** (Hellraiser|1987): Wie wehrt Kirsty (Ashley Laurence) in „Hellraiser“ die Cenobiten ab, nachdem sie den Handel brechen?
+- **E20261007-F-089-L1** (Ravenous|1999): Wo wird Boyd (Guy Pearce) in „Ravenous“ nach seinem scheinbaren Kriegsheldentum eingesetzt?
+- **E20261007-F-089-L2** (Ravenous|1999): Welche Geschichte veranlasst die Soldaten in „Ravenous“, mit Colqhoun (Robert Carlyle) in die Berge aufzubrechen?
+- **E20261007-F-089-M1** (Ravenous|1999): Wie kommt Boyd (Guy Pearce) in „Ravenous“ zu seinem überraschenden militärischen Erfolg?
+- **E20261007-F-089-S1** (Ravenous|1999): Wie verhindert Boyd (Guy Pearce) im Finale von „Ravenous“, dass Ives (Robert Carlyle) einfach weiterlebt?
+- **E20261007-F-090-M2** (Dead Ringers|1988): Warum bringt Beverlys (Jeremy Irons) Beziehung zu Claire (Geneviève Bujold) in „Die Unzertrennlichen“ das Gleichgewicht zwischen den Brüdern ins Wanken?
+- **E20261007-F-090-S1** (Dead Ringers|1988): Was drücken Beverlys (Jeremy Irons) neu angefertigte Operationsinstrumente in „Die Unzertrennlichen“ aus?
+- **E20261007-F-091-L1** (The Curse of Frankenstein|1957): Welches Ziel verfolgt Victor (Peter Cushing) mit seinen Experimenten in „Frankensteins Fluch“?
+- **E20261007-F-091-L2** (The Curse of Frankenstein|1957): Wie beginnt die Zusammenarbeit von Victor (Peter Cushing) und Paul (Robert Urquhart) in „Frankensteins Fluch“?
+- **E20261007-F-091-M1** (The Curse of Frankenstein|1957): Warum lässt Victor (Peter Cushing) den alten Professor in „Frankensteins Fluch“ tödlich stürzen?
+- **E20261007-F-091-M2** (The Curse of Frankenstein|1957): Warum bleibt Paul (Robert Urquhart) trotz seiner Ablehnung der Experimente zunächst im Haus in „Frankensteins Fluch“?
+- **E20261007-F-091-S1** (The Curse of Frankenstein|1957): Welche Folge hat der Säuresturz der Kreatur (Christopher Lee) im Finale von „Frankensteins Fluch“ für Victors (Peter Cushing) Verteidigung?
+- **E20261007-F-091-S2** (The Curse of Frankenstein|1957): „Frankensteins Fluch“: Wie reagiert Paul (Robert Urquhart) im Gefängnis auf Victors (Peter Cushing) Bitte, die Experimente zu bestätigen?
+- **E20261007-F-092-L1** (Pontypool|2008): Welchen Beruf übt Grant Mazzy (Stephen McHattie) in „Pontypool“ aus?
+- **E20261007-F-092-M1** (Pontypool|2008): Welche Übertragungsregel vermutet Dr. Mendez (Hrant Alianak) für die Infektion in „Pontypool“?
+- **E20261007-F-092-M2** (Pontypool|2008): Warum versuchen Grant (Stephen McHattie) und Sydney (Lisa Houle) in „Pontypool“, miteinander Französisch zu sprechen?
+- **E20261007-F-092-S1** (Pontypool|2008): Wozu spielt Sydney (Lisa Houle) in „Pontypool“ eine Schleife von Grants (Stephen McHattie) Stimme über einen Außenlautsprecher ab?
+- **E20261007-F-092-S2** (Pontypool|2008): Wie hilft Grant (Stephen McHattie) der bereits betroffenen Sydney (Lisa Houle) im Schluss von „Pontypool“?
+- **E20261007-F-093-L1** (Grave|2016): Welche Ausbildung beginnt Justine (Garance Marillier) in „Raw“?
+- **E20261007-F-093-L2** (Grave|2016): Welche Mutprobe verletzt in „Raw“ Justines (Garance Marillier) vegetarische Lebensweise?
+- **E20261007-F-093-M2** (Grave|2016): Warum verursacht Alexia (Ella Rumpf) in „Raw“ absichtlich einen Verkehrsunfall?
+- **E20261007-F-094-M2** (Kamera o tomeru na!|2017): Welche persönliche Hoffnung verbindet Higurashi (Takayuki Hamatsu) in „One Cut of the Dead“ mit dem schwierigen Filmauftrag?
+- **E20261007-F-094-S1** (Kamera o tomeru na!|2017): Warum übernehmen Higurashi (Takayuki Hamatsu) und seine Frau während des Live-Drehs in „One Cut of the Dead“ selbst Rollen?
+- **E20261007-F-095-L1** (Mandy|2018): Wie leben Red (Nicolas Cage) und Mandy (Andrea Riseborough) zu Beginn von „Mandy“?
+- **E20261007-F-095-L2** (Mandy|2018): Warum lässt der Sektenführer Mandy (Andrea Riseborough) in „Mandy“ entführen?
+- **E20261007-F-095-M1** (Mandy|2018): Was verletzt Jeremiahs (Linus Roache) Selbstbild während seiner Begegnung mit Mandy (Andrea Riseborough) in „Mandy“?
+- **E20261007-F-095-M2** (Mandy|2018): Was stellt Red (Nicolas Cage) in „Mandy“ selbst her, bevor er seinen Racheweg fortsetzt?
+- **E20261007-F-095-S1** (Mandy|2018): Welche Wirkung hat Reds (Nicolas Cage) lange Szene mit Alkohol und Schmerzensschreien nach Mandys (Andrea Riseborough) Tod in „Mandy“?
+- **E20261007-F-095-S2** (Mandy|2018): Was prägt Reds (Nicolas Cage) letzte Autofahrt in „Mandy“ trotz seiner ausgeführten Rache?
+- **E20261007-F-096-M1** (Creature from the Black Lagoon|1954): Worüber streiten David (Richard Carlson) und Mark (Richard Denning) in „Der Schrecken vom Amazonas“ nach den Begegnungen mit der Kreatur?
+- **E20261007-F-097-L1** (Dance of the Vampires|1967): Welche Aufgabe verfolgen Abronsius (Jack MacGowran) und Alfred (Roman Polanski) in „Tanz der Vampire“?
+- **E20261007-F-097-L2** (Dance of the Vampires|1967): Welches Ereignis treibt Alfred (Roman Polanski) in „Tanz der Vampire“ zur Rettungsaktion im Schloss?
+- **E20261007-F-097-M2** (Dance of the Vampires|1967): Warum muss Alfred (Roman Polanski) in „Tanz der Vampire“ allein zu den schlafenden Vampiren vordringen?
+- **E20261007-F-097-S2** (Dance of the Vampires|1967): Was macht die Flucht mit Sarah (Sharon Tate) im Schluss von „Tanz der Vampire“ zur Niederlage der Jäger?
+- **E20261007-F-098-L1** (The Invisible Man|1933): Wie verbirgt Griffin (Claude Rains) bei seiner Ankunft im Gasthaus in „Der Unsichtbare“ sein Gesicht?
+- **E20261007-F-098-L2** (The Invisible Man|1933): Was versucht Griffin (Claude Rains) in seinem Gasthauszimmer in „Der Unsichtbare“ zunächst herauszufinden?
+- **E20261007-F-098-M1** (The Invisible Man|1933): Welche zusätzliche Wirkung des verwendeten Mittels beunruhigt Dr. Cranley (Henry Travers) in „Der Unsichtbare“?
+- **E20261007-F-098-M2** (The Invisible Man|1933): Warum zieht Griffin (Claude Rains) in „Der Unsichtbare“ beim Entkommen auch seine Kleidung aus?
+- **E20261007-F-098-S1** (The Invisible Man|1933): Welche sichtbare Spur ermöglicht der Polizei in „Der Unsichtbare“ den entscheidenden Schuss auf Griffin (Claude Rains)?
+- **E20261007-F-098-S2** (The Invisible Man|1933): Was geschieht mit Griffins (Claude Rains) Körper in „Der Unsichtbare“ im Augenblick seines Todes?
+- **E20261007-F-099-L2** (Color Out of Space|2019): Welche Tiere hält Nathan (Nicolas Cage) auf seiner Farm in „Die Farbe aus dem All“?
+- **E20261007-F-099-M1** (Color Out of Space|2019): Welche konkrete Warnung gibt Ward (Elliot Knight) der Familie in „Die Farbe aus dem All“ nach seinen Untersuchungen?
+- **E20261007-F-099-S1** (Color Out of Space|2019): Was geschieht mit Theresa (Joely Richardson) und ihrem jüngsten Sohn nach dem Ausbruch der fremden Kraft in „Die Farbe aus dem All“?
+- **E20261007-F-100-L1** (Sinister|2012): Welche berufliche Hoffnung führt Ellison (Ethan Hawke) mit seiner Familie in das Haus in „Sinister“?
+- **E20261007-F-100-L2** (Sinister|2012): Was entdeckt Ellison (Ethan Hawke) auf dem Dachboden in „Sinister“?
+- **E20261007-F-100-M1** (Sinister|2012): Welche Information über das neue Haus verschweigt Ellison (Ethan Hawke) seiner Frau in „Sinister“?
+- **E20261007-F-100-M2** (Sinister|2012): Welche Verbindung zwischen Bughuul (Nicholas King) und Bildern erklärt Professor Jonas (Vincent D’Onofrio) in „Sinister“?
+- **E20261007-F-101-L1** (The Missing|2003): Welche Beziehung verbindet Maggie (Cate Blanchett) und Samuel (Tommy Lee Jones) in „The Missing“?
+- **E20261007-F-101-L2** (The Missing|2003): Welche unmittelbare Krise bringt Maggie (Cate Blanchett) in „The Missing“ dazu, Hilfe zu suchen?
+- **E20261007-F-101-M1** (The Missing|2003): Warum nimmt Maggie (Cate Blanchett) in „The Missing“ trotz ihres Misstrauens Samuels (Tommy Lee Jones) Hilfe an?
+- **E20261007-F-101-M2** (The Missing|2003): Warum kann sich Maggie (Cate Blanchett) in „The Missing“ für die Suche nicht auf die angetroffenen Soldaten verlassen?
+- **E20261007-F-101-S2** (The Missing|2003): Wie endet Samuels (Tommy Lee Jones) Kampf mit Chidin (Eric Schweig) in „The Missing“?
+- **E20261007-F-102-L1** (The Lone Ranger|2013): Mit welcher beruflichen Vorstellung kommt John Reid (Armie Hammer) in „Lone Ranger“ zunächst in den Westen?
+- **E20261007-F-102-L2** (The Lone Ranger|2013): Was verbindet Tonto (Johnny Depp) und John (Armie Hammer) in „Lone Ranger“ trotz ihrer unterschiedlichen Motive?
+- **E20261007-F-102-M1** (The Lone Ranger|2013): Warum trägt John Reid (Armie Hammer) in „Lone Ranger“ eine Maske?
+- **E20261007-F-102-M2** (The Lone Ranger|2013): Welche Erfahrung erschüttert Johns (Armie Hammer) Vertrauen in eine gesetzliche Lösung in „Lone Ranger“?
+- **E20261007-F-102-S2** (The Lone Ranger|2013): Welche Gabe verbindet Tontos (Johnny Depp) Kindheit in „Lone Ranger“ mit seiner späteren Schuld gegenüber seinem Stamm?
+- **E20261007-F-103-M1** (Bandidas|2006): Warum wechselt der Ermittler Quentin (Steve Zahn) in „Bandidas“ auf die Seite der Frauen?
+- **E20261007-F-103-M2** (Bandidas|2006): Womit beweist Sara (Salma Hayek) beim Training in „Bandidas“ Vertrauen in María (Penélope Cruz)?
+- **E20261007-F-103-S2** (Bandidas|2006): Warum reichen die erbeuteten Banknoten in „Bandidas“ nicht als dauerhafter Erfolg gegen Jackson (Dwight Yoakam)?
+- **E20261007-F-104-M1** (Heaven's Gate|1980): Wie ist Ella (Isabelle Huppert) in „Heaven's Gate“ in die Beziehung zwischen Averill (Kris Kristofferson) und Champion (Christopher Walken) eingebunden?
+- **E20261007-F-104-S1** (Heaven's Gate|1980): Wie bewahrt Champion (Christopher Walken) in „Heaven's Gate“ während des Angriffs auf seine Hütte eine letzte eigene Stimme?
+- **E20261007-F-104-S2** (Heaven's Gate|1980): Was macht das späte Bild Averills (Kris Kristofferson) auf einer Yacht in „Heaven's Gate“ besonders bitter?
+- **E20261007-F-105-M1** (The Unforgiven|1960): Wie reagiert Cash (Audie Murphy) in „Denen man nicht vergibt“ zunächst auf die bestätigte Herkunft seiner aufgenommenen Schwester?
+- **E20261007-F-105-M2** (The Unforgiven|1960): Warum bringt Matilda (Lillian Gish) in „Denen man nicht vergibt“ Kelseys (Joseph Wiseman) Pferd zum Wegspringen, während er die Schlinge trägt?
+- **E20261007-F-105-S2** (The Unforgiven|1960): Wie beantwortet Rachel in „Denen man nicht vergibt“ am Ende Lost Birds (Carlos Rivas) Anspruch, sie gehöre zu ihm?
+- **E20261007-F-106-L2** (The Alamo|1960): Wie beantwortet Travis (Laurence Harvey) in „Alamo“ die aufgeführten Forderungen zur Kapitulation?
+- **E20261007-F-106-M1** (The Alamo|1960): Welche Rolle übernimmt Crockett (John Wayne) in „Alamo“ zwischen Travis (Laurence Harvey) und Bowie (Richard Widmark)?
+- **E20261007-F-106-M2** (The Alamo|1960): Welche Entscheidung überlässt Travis (Laurence Harvey) in „Alamo“ den Männern nach der schlechten Nachricht über Verstärkung?
+- **E20261007-F-106-S1** (The Alamo|1960): Warum entgeht Smitty (Frankie Avalon) in „Alamo“ dem letzten Angriff?
+- **E20261007-F-106-S2** (The Alamo|1960): Was tut der bereits tödlich getroffene Crockett (John Wayne) im Finale von „Alamo“?
+- **E20261007-F-107-M1** (How the West Was Won|1962): Welche Enttäuschung erwartet Lilith (Debbie Reynolds) und Cleve (Gregory Peck) nach der Reise zur geerbten Goldmine in „Das war der wilde Westen“?
+- **E20261007-F-107-M2** (How the West Was Won|1962): Warum quittiert Zeb (George Peppard) in „Das war der wilde Westen“ nach dem Konflikt um den Eisenbahnbau den Militärdienst?
+- **E20261007-F-107-S1** (How the West Was Won|1962): Warum erschießt Zeb (George Peppard) in der Bürgerkriegsepisode von „Das war der wilde Westen“ den Soldaten, der mit ihm fortgehen wollte?
+- **E20261007-F-108-L1** (Das finstere Tal|2014): Als was stellt sich der fremde Greider (Sam Riley) in „Das finstere Tal“ den Bewohnern vor?
+- **E20261007-F-108-M1** (Das finstere Tal|2014): Warum wird Luzis (Paula Beer) bevorstehende Hochzeit in „Das finstere Tal“ von Angst begleitet?
+- **E20261007-F-108-M2** (Das finstere Tal|2014): Welche Vorgeschichte erklärt Greiders (Sam Riley) Rache in „Das finstere Tal“?
+- **E20261007-F-108-S1** (Das finstere Tal|2014): Warum richtet sich Greiders (Sam Riley) Vorgehen in „Das finstere Tal“ auch gegen den Pfarrer (Erwin Steinhauer)?
+- **E20261007-F-108-S2** (Das finstere Tal|2014): Welchen entscheidenden Vorteil besitzt Greider (Sam Riley) beim Schusswechsel in „Das finstere Tal“?
+- **E20261007-F-109-L1** (The Salvation|2014): Woher sind Jon (Mads Mikkelsen) und sein Bruder in „The Salvation“ in den amerikanischen Westen eingewandert?
+- **E20261007-F-109-L2** (The Salvation|2014): Welche Erwartung prägt Jons (Mads Mikkelsen) Begegnung am Bahnhof in „The Salvation“?
+- **E20261007-F-109-M1** (The Salvation|2014): Warum verfolgt Delarue in „The Salvation“ gerade Jon (Mads Mikkelsen)?
+- **E20261007-F-109-M2** (The Salvation|2014): Wie ermöglicht Peter (Mikael Persbrandt) in „The Salvation“ seinem geschwächten Bruder die Flucht vor den Verfolgern?
+- **E20261007-F-109-S2** (The Salvation|2014): Welche Rolle übernimmt Madelaine (Eva Green) im entscheidenden Kampf von „The Salvation“?
+- **E20261007-F-110-L1** (Red Hill|2010): Was möchte Shane Cooper (Ryan Kwanten) in „Red Hill“ mit dem Umzug aufs Land erreichen?
+- **E20261007-F-110-L2** (Red Hill|2010): Welche Nachricht verwandelt Shanes (Ryan Kwanten) ersten Arbeitstag in „Red Hill“ in einen gefährlichen Einsatz?
+- **E20261007-F-110-M1** (Red Hill|2010): Warum ist es in „Red Hill“ für Shane (Ryan Kwanten) entscheidend, dass Jimmy (Tom E. Lewis) ihn verschont?
+- **E20261007-F-110-M2** (Red Hill|2010): Warum beginnt Shane (Ryan Kwanten) in „Red Hill“ seinen ersten Rundgang ohne seine eigene Pistole?
+- **E20261007-F-110-S1** (Red Hill|2010): Was erfährt Shane (Ryan Kwanten) in „Red Hill“ über das Verbrechen, für das Jimmy verurteilt wurde?
+- **E20261007-F-110-S2** (Red Hill|2010): Welche letzte Aussage Jimmys (Tom E. Lewis) verbindet seinen Verlust in „Red Hill“ mit Shanes (Ryan Kwanten) eigener Zukunft?
+- **E20261007-F-111-L2** (Mackenna's Gold|1969): Warum hält Colorado (Omar Sharif) den gefangenen Marshal in „Mackenna's Gold“ am Leben?
+- **E20261007-F-111-M2** (Mackenna's Gold|1969): Welches persönliche Leben erträumt sich Colorado (Omar Sharif) in „Mackenna's Gold“ nach dem Goldfund?
+- **E20261007-F-111-S2** (Mackenna's Gold|1969): Welche ironische Wendung begleitet MacKennas (Gregory Peck) Abritt am Ende von „Mackenna's Gold“?
+- **E20261007-F-112-L2** (Soleil rouge|1971): Welcher gestohlene Gegenstand ist für Kurodas (Toshirō Mifune) Auftrag in „Rivalen unter roter Sonne“ entscheidend?
+- **E20261007-F-112-M1** (Soleil rouge|1971): Welche Frist macht Kurodas (Toshirō Mifune) Suche in „Rivalen unter roter Sonne“ besonders dringlich?
+- **E20261007-F-112-M2** (Soleil rouge|1971): Warum kehrt Link (Charles Bronson) in „Rivalen unter roter Sonne“ zu Kuroda (Toshirō Mifune) zurück, nachdem ihm die Flucht gelungen ist?
+- **E20261007-F-112-S1** (Soleil rouge|1971): Warum zögert Kuroda (Toshirō Mifune) in „Rivalen unter roter Sonne“ beim letzten Zugriff auf Gauche (Alain Delon) einen entscheidenden Moment?
+- **E20261007-F-112-S2** (Soleil rouge|1971): Welche Entscheidung trifft Link (Charles Bronson) im Finale von „Rivalen unter roter Sonne“ gegenüber Gauche (Alain Delon) und dem Geldversteck?
+- **E20261007-F-113-L1** (Nevada Smith|1966): Was setzt Max Sands (Steve McQueen) Reise in „Nevada Smith“ in Gang?
+- **E20261007-F-113-L2** (Nevada Smith|1966): Welche Hilfe erhält Max (Steve McQueen) in „Nevada Smith“ von Jonas Cord (Brian Keith)?
+- **E20261007-F-113-M1** (Nevada Smith|1966): Wie erreicht Max (Steve McQueen) in „Nevada Smith“ den inhaftierten Bill Bowdre (Arthur Kennedy)?
+- **E20261007-F-113-M2** (Nevada Smith|1966): Wozu verwendet Max (Steve McQueen) in „Nevada Smith“ den Namen „Nevada Smith“ während der letzten Verfolgung?
+- **E20261007-F-113-S1** (Nevada Smith|1966): Welche Folge hat die Flucht durch den Sumpf in „Nevada Smith“ für Pilar (Suzanne Pleshette)?
+- **E20261007-F-113-S2** (Nevada Smith|1966): Wie endet Max’ (Steve McQueen) Begegnung mit dem letzten gesuchten Täter Fitch (Karl Malden) in „Nevada Smith“?
+- **E20261007-F-114-L1** (The Big Country|1958): Aus welcher früheren Berufswelt kommt James McKay (Gregory Peck) in „Weites Land“ in das Ranchmilieu?
+- **E20261007-F-114-M1** (The Big Country|1958): Warum reitet McKay (Gregory Peck) das schwierige Pferd Old Thunder in „Weites Land“ später ohne die üblichen Zuschauer?
+- **E20261007-F-114-M2** (The Big Country|1958): Welche Lösung plant McKay (Gregory Peck) in „Weites Land“ nach dem Kauf von Big Muddy?
+- **E20261007-F-114-S1** (The Big Country|1958): Was unterscheidet McKays (Gregory Peck) Faustkampf mit Leech (Charlton Heston) in „Weites Land“ von der sonst erwarteten öffentlichen Bewährung?
+- **E20261007-F-114-S2** (The Big Country|1958): Warum erschießt Rufus (Burl Ives) in „Weites Land“ seinen eigenen Sohn Buck (Chuck Connors)?
+- **E20261007-F-115-M1** (The Ox-Bow Incident|1943): Was macht Martins (Dana Andrews) Erklärung über die Rinder in „Ritt zum Ox-Bow“ für die Gruppe leicht angreifbar?
+- **E20261007-F-115-S2** (The Ox-Bow Incident|1943): Welche Funktion erhält Martins (Dana Andrews) Brief an seine Frau im Schluss von „Ritt zum Ox-Bow“?
+- **E20261007-F-116-L1** (My Darling Clementine|1946): Welche Aufgabe übernimmt Wyatt Earp (Henry Fonda) in „Faustrecht der Prärie“ in Tombstone?
+- **E20261007-F-116-L2** (My Darling Clementine|1946): Welche Krankheit belastet Doc Holliday (Victor Mature) in „Faustrecht der Prärie“?
+- **E20261007-F-116-M1** (My Darling Clementine|1946): Welche Spur lenkt Wyatt (Henry Fonda) in „Faustrecht der Prärie“ zunächst auf einen falschen Verdacht gegen Doc (Victor Mature)?
+- **E20261007-F-116-M2** (My Darling Clementine|1946): Warum kommt Clementine (Cathy Downs) in „Faustrecht der Prärie“ nach Tombstone?
+- **E20261007-F-116-S2** (My Darling Clementine|1946): Wie nutzt Wyatt (Henry Fonda) beim letzten Gefecht in „Faustrecht der Prärie“ den zufälligen Durchzug einer Kutsche?
+- **E20261007-F-117-L1** (The Man from Snowy River|1982): Welche praktische Aufgabe soll Jim (Tom Burlinson) in „Der Mann vom Snowy River“ seine Bewährung ermöglichen?
+- **E20261007-F-117-L2** (The Man from Snowy River|1982): Welche Beziehung vertieft Jims (Tom Burlinson) Konflikt mit dem Ranchbesitzer in „Der Mann vom Snowy River“?
+- **E20261007-F-117-M2** (The Man from Snowy River|1982): Was tut Curly (Chris Haywood) in „Der Mann vom Snowy River“, um Jim (Tom Burlinson) erneut in Verdacht zu bringen?
+- **E20261007-F-117-S1** (The Man from Snowy River|1982): Welche Entscheidung unterscheidet Jim (Tom Burlinson) beim letzten Ritt in „Der Mann vom Snowy River“ von den anderen Verfolgern?
+- **E20261007-F-117-S2** (The Man from Snowy River|1982): Wie reagiert Jim (Tom Burlinson) in „Der Mann vom Snowy River“ nach der erfolgreichen Rückkehr auf die Geldbelohnung?
+- **E20261007-F-118-L1** (The Tin Star|1957): Mit welchem Anliegen kommt Morgan Hickman (Henry Fonda) in „Der Stern des Gesetzes“ in den Ort?
+- **E20261007-F-118-L2** (The Tin Star|1957): Welche Beziehung entwickelt sich in „Der Stern des Gesetzes“ zwischen Hickman (Henry Fonda) und dem jungen Sheriff Owens (Anthony Perkins)?
+- **E20261007-F-118-M1** (The Tin Star|1957): Was unterscheidet Morgans (Henry Fonda) Rat in „Der Stern des Gesetzes“ von bloßem Schießunterricht?
+- **E20261007-F-118-M2** (The Tin Star|1957): Warum findet Morgan (Henry Fonda) in „Der Stern des Gesetzes“ gerade bei Nona (Betsy Palmer) und Kip (Michel Ray) Unterkunft?
+- **E20261007-F-118-S1** (The Tin Star|1957): Was verkehrt die vorbereitete Geburtstagsfeier für Dr. McCord (John McIntire) in „Der Stern des Gesetzes“ in ein Erschrecken?
+- **E20261007-F-118-S2** (The Tin Star|1957): Welche Amtsauffassung beweist Owens (Anthony Perkins) in „Der Stern des Gesetzes“ gegenüber dem Lynchmob?
+- **E20261007-F-119-L1** (Last Train from Gun Hill|1959): Welche Tat führt Matt Morgan (Kirk Douglas) in „Der letzte Zug von Gun Hill“ zur Suche nach den Tätern?
+- **E20261007-F-119-L2** (Last Train from Gun Hill|1959): Warum widersetzt sich Morgans (Kirk Douglas) alter Freund Belden (Anthony Quinn) in „Der letzte Zug von Gun Hill“ der Auslieferung des Verdächtigen?
+- **E20261007-F-119-M1** (Last Train from Gun Hill|1959): Welche Spur verbindet den Tatort in „Der letzte Zug von Gun Hill“ zuerst mit Beldens (Anthony Quinn) Umfeld?
+- **E20261007-F-119-M2** (Last Train from Gun Hill|1959): Welche konkrete Hilfe erhält Morgan (Kirk Douglas) in „Der letzte Zug von Gun Hill“ von Linda (Carolyn Jones)?
+- **E20261007-F-119-S1** (Last Train from Gun Hill|1959): Wer trifft Rick (Earl Holliman) in „Der letzte Zug von Gun Hill“ tödlich, als Morgan (Kirk Douglas) ihn am Bahnhof unter Kontrolle hält?
+- **E20261007-F-119-S2** (Last Train from Gun Hill|1959): Warum kann Morgan (Kirk Douglas) in „Der letzte Zug von Gun Hill“ Rick (Earl Holliman) aus dem brennenden Hotel Richtung Bahnhof führen?
+- **E20261007-F-120-L1** (The Bravados|1958): Warum möchte Jim Douglass (Gregory Peck) in „Bravados“ die Hinrichtung der vier Gefangenen sehen?
+- **E20261007-F-120-M2** (The Bravados|1958): Welche entscheidende Erkenntnis erschüttert Jims (Gregory Peck) Rachegewissheit in „Bravados“?
+- **E20261007-F-120-S1** (The Bravados|1958): Welche Auskunft über den Geldsack führt Jim (Gregory Peck) in „Bravados“ zur Erkenntnis des wirklichen Täters?
+- **E20261007-F-120-S2** (The Bravados|1958): Womit muss Jim (Gregory Peck) nach seiner Erkenntnis in „Bravados“ in der Kirche umgehen?
+- **E20261007-F-121-L2** (Herr Lehmann|2003): Warum nennen Franks (Christian Ulmen) Freunde ihn in „Herr Lehmann“ plötzlich so förmlich?
+- **E20261007-F-123-M2** (Midnight Run|1988): Warum benutzt Jack Walsh (Robert De Niro) in „Midnight Run – Fünf Tage bis Mitternacht“ den Ausweis von Agent Mosely (Yaphet Kotto)?
+- **E20261007-F-126-S2** (Thank You for Smoking|2005): Welche Verschiebung zeigt Nicks (Aaron Eckhart) Beratungstätigkeit am Ende von „Thank You for Smoking“?
+- **E20261007-F-127-S1** (Männer|1985): Was bewirkt Julius’ (Heiner Lauterbach) Karriereberatung für Stefan (Uwe Ochsenknecht) in „Männer“?
+- **E20261007-F-129-M1** (Er ist wieder da|2015): Welcher Vorfall bringt Hitlers (Oliver Masucci) Medienkarriere in „Er ist wieder da“ vorübergehend zu Fall?
+- **E20261007-F-130-S2** (Fantômas se déchaîne|1965): In welcher außergewöhnlichen Umgebung liegt Fantomas’ (Jean Marais) Hauptquartier in „Fantomas gegen Interpol“?
+- **E20261007-F-131-S1** (Fantômas contre Scotland Yard|1967): Wie manipuliert Fantomas (Jean Marais) Juves (Louis de Funès) vermeintliche Geldübergabefalle in „Fantomas bedroht die Welt“?
+- **E20261007-F-132-M1** (Drei Männer im Schnee|1955): Welche Rolle soll Johann Kesselhut (Günther Lüders) bei Schlüters (Paul Dahlke) Experiment in „Drei Männer im Schnee“ spielen?
+- **E20261007-F-135-S1** (Election|1999): Warum übernimmt Tammy Metzler (Jessica Campbell) in „Election“ die Verantwortung für zerstörte Wahlplakate, obwohl Tracy (Reese Witherspoon) sie zerrissen hat?
+- **E20261007-F-140-L2** (Good Boys|2019): Welchen beschädigten Gegenstand müssen die Jungen in „Good Boys“ vor der Rückkehr von Max’ Vater (Will Forte) ersetzen?
+- **E20261007-F-141-S1** (Chaiya|2007): Wie handelt Piak (Akara Amarttayakul), als er in „Muay Thai Chaiya – Der Körper ist die ultimative Waffe“ den Auftrag erhält, Pao (Thawatchai Penpakdee) zu töten?
+- **E20261007-F-141-S2** (Chaiya|2007): Welche Botschaft erhält Pao (Thawatchai Penpakdee) vor dem entscheidenden Rückkampf in „Muay Thai Chaiya – Der Körper ist die ultimative Waffe“ von Samor (Sonthaya Chitmanee)?
+- **E20261007-F-144-S2** (Gau yat san diu hap|1991): Wer verfügt in „Savior of the Soul“ über das benötigte Gegenmittel gegen Silver Fox' (Aaron Kwok) Droge?
+- **E20261007-F-145-M2** (Azumi|2003): Warum beendet der scheinbare Tod von Kato Kiyomasa (Naoto Takenaka) den Auftrag in „Azumi – Die furchtlose Kriegerin“ nicht?
+- **E20261007-F-145-S1** (Azumi|2003): Was widerlegt Azumi (Aya Ueto) im Schlusskampf an Bijomarus (Joe Odagiri) Behauptung in „Azumi – Die furchtlose Kriegerin“?
+- **E20261007-F-145-S2** (Azumi|2003): Welchen Rat gibt der sterbende Gessai (Yoshio Harada) Azumi (Aya Ueto) in „Azumi – Die furchtlose Kriegerin“ für ihr weiteres Leben?
+- **E20261007-F-146-S2** (Arahan Jangpung Daejakjeon|2004): Welche Rückkehrentscheidung verbindet Eui-jin (Yoon So-yi) und Sang-hwan (Ryoo Seung-bum) vor dem Finale von „Arahan“?
+- **E20261007-F-150-M2** (Lung fu moon|2006): Warum muss Turbo (Shawn Yue) vor seiner Aufnahme in „Dragon Tiger Gate“ zunächst eine Niederlage gegen Master Wong (Yuen Wah) erleben?
+- **E20261007-F-150-S1** (Lung fu moon|2006): Warum lässt Shibumi (Yu Kang) Ma Kun (Chen Kuan-tai) in „Dragon Tiger Gate“ töten?
+- **E20261007-F-151-L1** (Guan Yun Chang|2011): Wem hält Guan Yu (Donnie Yen) in „The Lost Bladesman“ trotz Cao Caos (Jiang Wen) Werben die Treue?
+- **E20261007-F-151-M2** (Guan Yun Chang|2011): Was macht Guan Yus (Donnie Yen) Reise zu Liu Bei (Alex Fong) in „The Lost Bladesman“ trotz zugesagter Abreise gefährlich?
+- **E20261007-F-151-S1** (Guan Yun Chang|2011): Wer hat nach der Enthüllung in „The Lost Bladesman“ den Befehl zur Tötung Guan Yus (Donnie Yen) erteilt?
+- **E20261007-F-151-S2** (Guan Yun Chang|2011): Wie ist Guan Yus (Donnie Yen) Begräbnis im erzählerischen Aufbau von „The Lost Bladesman“ eingesetzt?
+- **E20261007-F-152-L2** (Rurouni Kenshin|2012): Was unterscheidet Kenshins (Takeru Satoh) Schwert in „Rurouni Kenshin“ von einer gewöhnlichen Klinge?
+- **E20261007-F-152-S1** (Rurouni Kenshin|2012): Wie bewahrt Kaoru (Emi Takei) Kenshin (Takeru Satoh) im letzten Kampf von „Rurouni Kenshin“ vor dem Bruch seines Vorsatzes?
+- **E20261007-F-152-S2** (Rurouni Kenshin|2012): Welcher alltägliche Vorgang zeigt am Schluss von „Rurouni Kenshin“, dass Kenshin (Takeru Satoh) geblieben ist?
+- **E20261007-F-153-S2** (Shao Lin da peng da shi|1980): Welches Material seiner Klosterarbeit verwendet Chu Jen-chieh (Gordon Liu) im Finale von „Die Rückkehr zu den 36 Kammern der Shaolin“ zum Fesseln der Aufseher?
+- **E20261007-F-157-M2** (Tai ji: Cong ling kai shi|2012): Warum erkennt Yang Luchan (Jayden Yuan) den Mann, der ihn in „Tai Chi Zero“ unauffällig unterstützt, zunächst nicht als gesuchten Lehrer?
+- **E20261007-F-157-S1** (Tai ji: Cong ling kai shi|2012): Wie verhindert Yuniang (Angelababy) in „Tai Chi Zero“ die Bestrafung Yangs (Jayden Yuan) für unerlaubtes Lernen?
+- **E20261007-F-158-M2** (Ichimei|2011): Welche persönliche Verbindung erklärt Hanshiros (Ichikawa Ebizo) Kenntnis von Motomes (Eita) Schicksal in „Hara-Kiri – Tod eines Samurai“?
+- **E20261007-F-159-M1** (Redbelt|2008): Was verursacht Laura Black (Emily Mortimer) bei der ersten Begegnung in Mikes (Chiwetel Ejiofor) Schule in „Redbelt“?
+- **E20261007-F-160-M1** (Man of Tai Chi|2013): Warum lehnen die Behörden Tigers (Tiger Chen) Denkmalschutzantrag in „Man of Tai Chi“ zwischenzeitlich ab?
+- **E20261007-F-161-M1** (Rock of Ages|2012): Welches Missverständnis trennt Drew (Diego Boneta) und Sherrie (Julianne Hough) in „Rock of Ages“?
+- **E20261007-F-161-S2** (Rock of Ages|2012): Welches Geschenk führt Sherrie (Julianne Hough) in „Rock of Ages“ wieder zu Drew (Diego Boneta) zurück?
+- **E20261007-F-162-M2** (Absolute Beginners|1986): Warum will Suzette (Patsy Kensit) in „Absolute Beginners“ Henley (James Fox) heiraten?
+- **E20261007-F-163-M1** (Burlesque|2010): Wie wird Alis (Christina Aguilera) Gesang in „Burlesque“ gerade durch Nikkis (Kristen Bell) Sabotage erstmals zur entscheidenden Stärke?
+- **E20261007-F-165-S2** (Beyond the Sea|2004): Warum stößt Darins (Kevin Spacey) Hinwendung zu Folk- und Protestliedern in „Beyond the Sea – Musik war sein Leben“ zunächst auf Widerstand?
+- **E20261007-F-176-S2** (Notorious|2009): Welcher Song begleitet in „Notorious B.I.G.“ den Abschied der Fans bei Biggies (Jamal Woolard) Beerdigung?
+- **E20261007-F-181-S2** (Maggie's Plan|2015): Was weckt beim Eislaufen am Schluss von „Maggies Plan“ Maggies (Greta Gerwig) erneute Vermutung über Lily (Ida Rohatyn)?
+- **E20261007-F-186-M2** (Hors de prix|2006): Womit finanziert Jean (Gad Elmaleh) in „Liebe um jeden Preis“ Irènes (Audrey Tautou) Hotelaufenthalt, nachdem Gilles (Jacques Spiesser) sie verlassen hat?
+- **E20261007-F-187-M2** (Beautiful Girls|1996): Warum weist Andera (Uma Thurman) Willies (Timothy Hutton) Hoffnung auf einen besonderen Neubeginn in „Beautiful Girls“ zurück?
+- **E20261007-F-188-S2** (The Sure Thing|1985): Was erfährt Alison (Daphne Zuniga) in „Der Volltreffer“ aus Gibs (John Cusack) vorgelesenem Aufsatz?
+- **E20261007-F-193-S2** (Working Girl|1988): Welches Missverständnis erlebt Tess (Melanie Griffith) an ihrem ersten Tag bei Trask (Philip Bosco) Industries in „Die Waffen der Frauen“?
+- **E20261007-F-194-M2** (Indiscreet|1958): Wodurch erfährt Annas Schwester (Phyllis Calvert) in „Indiskret“, dass Philip (Cary Grant) tatsächlich ledig ist?
+- **E20261007-F-194-S1** (Indiscreet|1958): Wer springt für Annas (Ingrid Bergman) ausgefallenen früheren Verehrer beim Racheplan von „Indiskret“ ein?
+- **E20261007-F-194-S2** (Indiscreet|1958): Welche Bildgestaltung lässt Anna (Ingrid Bergman) und Philip (Cary Grant) in „Indiskret“ scheinbar nebeneinander im Bett erscheinen, obwohl sie in verschiedenen Städten sind?
+- **E20261007-F-196-M2** (Send Me No Flowers|1964): Warum verdächtigt Judy (Doris Day) George (Rock Hudson) in „Schick mir keine Blumen“ einer Affäre mit Linda (Patricia Barry)?
+- **E20261007-F-196-S1** (Send Me No Flowers|1964): Wie verändert Arnold (Tony Randall) in „Schick mir keine Blumen“ die vorbereitete Trauerrede, als George (Rock Hudson) bei ihm übernachtet?
+- **E20261007-F-196-S2** (Send Me No Flowers|1964): Welches Dokument hilft Judy (Doris Day) in „Schick mir keine Blumen“ schließlich, Georges (Rock Hudson) wirkliche Absichten zu verstehen?
+- **E20261007-F-198-M1** (The Switch|2010): Was tut Wally (Jason Bateman) bei Kassies (Jennifer Aniston) Feier in „Umständlich verliebt“ mit der Spenderprobe?
+- **E20261007-F-199-M1** (L'Arnacœur|2010): Wie erhält Alex (Romain Duris) in „Der Auftragslover“ Zugang zu Juliettes (Vanessa Paradis) Alltag in Monte Carlo?
+- **E20261007-F-199-S1** (L'Arnacœur|2010): Wie erkennt Juliette (Vanessa Paradis) in „Der Auftragslover“, dass die Begegnung mit Alex (Romain Duris) vorbereitet worden war?
+- **E20261007-F-199-S2** (L'Arnacœur|2010): Welche zusätzliche Verbindung wird bei der ausgefallenen Hochzeit am Ende von „Der Auftragslover“ über Alex’ (Romain Duris) Geldprobleme enthüllt?
+- **E20261007-F-200-M2** (Sleeping with Other People|2015): Mit welchem vereinbarten Wort wollen Jake (Jason Sudeikis) und Lainey (Alison Brie) in „Sleeping with Other People“ sexuelle Spannung unterbrechen?
+- **E20261007-F-200-S2** (Sleeping with Other People|2015): Wie bringt Lainey (Alison Brie) Matthew (Adam Scott) in „Sleeping with Other People“ dazu, das Verfahren gegen Jake (Jason Sudeikis) zu beenden?
+- **E20261007-F-201-M1** (Abre los ojos|1997): Was verunsichert César (Eduardo Noriega) an Sofía (Penélope Cruz) in „Open Your Eyes“ besonders?
+- **E20261007-F-201-M2** (Abre los ojos|1997): Welches Angebot erklärt in „Open Your Eyes“ Césars (Eduardo Noriega) scheinbar geheilte Existenz?
+- **E20261007-F-202-L2** (Another Earth|2011): Mit welcher Erklärung erhält Rhoda (Brit Marling) in „Another Earth“ Zugang zu Johns (William Mapother) Haus?
+- **E20261007-F-202-S1** (Another Earth|2011): Warum überlässt Rhoda (Brit Marling) in „Another Earth“ ihren Reiseplatz schließlich John (William Mapother)?
+- **E20261007-F-202-S2** (Another Earth|2011): Welche Begegnung beendet „Another Earth“ nach Johns (William Mapother) Abreise?
+- **E20261007-F-204-S1** (The Final Cut|2004): Was widerlegt in „The Final Cut – Dein Tod ist erst der Anfang“ Hakmans (Robin Williams) Erinnerung an Louis’ vermeintlichen Tod?
+- **E20261007-F-205-M2** (Frequency|2000): Wie gelangt in „Frequency“ ein Fingerabdruck aus Franks (Dennis Quaid) Zeit zu John (Jim Caviezel)?
+- **E20261007-F-205-S2** (Frequency|2000): Wie wirkt Franks (Dennis Quaid) Schuss im Finale von „Frequency“ gleichzeitig auf Johns (Jim Caviezel) Gegner?
+- **E20261007-F-209-M2** (The Omega Man|1971): Woraus gewinnt Neville (Charlton Heston) in „Der Omega-Mann“ ein Mittel zur Behandlung Richies (Eric Laneuville)?
+- **E20261007-F-210-M1** (The Man Who Fell to Earth|1976): Wie entdeckt Bryce (Rip Torn) in „Der Mann, der vom Himmel fiel“ Newtons (David Bowie) fremde körperliche Natur?
+- **E20261007-F-210-S1** (The Man Who Fell to Earth|1976): Was geschieht bei den Untersuchungen während Newtons (David Bowie) Gefangenschaft in „Der Mann, der vom Himmel fiel“ mit seinen Tarnlinsen?
+- **E20261007-F-211-M2** (The Incredible Shrinking Man|1957): Warum hält Louise (Randy Stuart) Scott (Grant Williams) in „Die unglaubliche Geschichte des Mr. C.“ nach dem Angriff der Katze für tot?
+- **E20261007-F-212-M1** (Starman|1984): Welche Handlung des Besuchers (Jeff Bridges) verändert Jennys (Karen Allen) Haltung in „Starman“ besonders?
+- **E20261007-F-212-S2** (Starman|1984): Für wen lässt der Besucher (Jeff Bridges) Jenny (Karen Allen) am Ende von „Starman“ die letzte Kugel?
+- **E20261007-F-213-S1** (Cargo|2009): Welche Wahrheit über Rhea erfährt Laura (Anna Katharina Schwabroh) in „Cargo“?
+- **E20261007-F-213-S2** (Cargo|2009): Was soll Lauras (Anna Katharina Schwabroh) letzte Übertragung von Rhea in „Cargo“ bewirken?
+- **E20261007-F-217-M2** (Prospect|2018): Welche Hilfe muss Cee (Sophie Thatcher) Ezra (Pedro Pascal) in „Prospect – Niemand überlebt allein“ nach seiner Verletzung leisten?
+- **E20261007-F-219-S1** (Repo Man|1984): Wer kann am Ende von „Repo Man“ den leuchtenden Malibu betreten und nimmt Otto (Emilio Estevez) mit?
+- **E20261007-F-220-S2** (The Machine|2013): Was bewahrt die Maschine nach der Flucht in „The Machine“ von Mary (Jade Croot)?
+- **E20261007-F-221-M2** (Insomnia|1997): Was soll die gegen Eilert (Bjørn Moan) gelegte Spur in „Insomnia – Todesschlaf“ bewirken?
+- **E20261007-F-221-S2** (Insomnia|1997): „Insomnia – Todesschlaf“: Welche Entdeckung legt Hilde Hagen (Gisken Armand) Engström (Stellan Skarsgård) am Ende vor?
+- **E20261007-F-222-M2** (Bound|1996): „Bound – Gefesselt“: Welche erwartete Reaktion Caesars (Joe Pantoliano) scheitert nach dem Diebstahl?
+- **E20261007-F-222-S2** (Bound|1996): „Bound – Gefesselt“: Welche Entscheidung Violets (Jennifer Tilly) löst den letzten Konflikt mit Caesar (Joe Pantoliano)?
+- **E20261007-F-223-M2** (Manhunter|1986): „Blutmond“: Womit gefährdet Hannibal Lecktor (Brian Cox) Grahams (William Petersen) Familie aus der Haft heraus?
+- **E20261007-F-224-M1** (Arlington Road|1999): „Arlington Road“: Welche Unstimmigkeit führt Faraday (Jeff Bridges) zur früheren Identität Oliver Langs (Tim Robbins)?
+- **E20261007-F-226-L2** (Breakdown|1997): „Breakdown“: Wie reagiert der Lastwagenfahrer (J. T. Walsh), als Jeff (Kurt Russell) ihn wiederfindet?
+- **E20261007-F-228-S1** (The International|2009): „The International“: Was erreichen die Söhne Calvinis (Luca Barbareschi), nachdem Salinger (Clive Owen) sie informiert?
+- **E20261007-F-228-S2** (The International|2009): „The International“: Was zeigen die Zeitungsschlagzeilen nach Skarssens (Ulrich Thomsen) Tod?
+- **E20261007-F-229-L2** (The Gift|2000): „The Gift – Die dunkle Gabe“: Warum bedroht Donnie (Keanu Reeves) Annie (Cate Blanchett) und ihre Familie?
+- **E20261007-F-229-M2** (The Gift|2000): „The Gift – Die dunkle Gabe“: Weshalb lässt Annie (Cate Blanchett) den Fall nach Donnies (Keanu Reeves) Verurteilung nicht ruhen?
+- **E20261007-F-231-M1** (Hodejegerne|2011): „Headhunters“: Welcher Fund in Clas’ (Nikolaj Coster-Waldau) Schlafzimmer verändert Rogers (Aksel Hennie) Jobentscheidung?
+- **E20261007-F-231-M2** (Hodejegerne|2011): „Headhunters“: Wie kann Clas (Nikolaj Coster-Waldau) Roger (Aksel Hennie) trotz dessen Flucht wiederfinden?
+- **E20261007-F-231-S1** (Hodejegerne|2011): „Headhunters“: Wie macht Diana (Synnøve Macody Lund) Clas’ (Nikolaj Coster-Waldau) Waffe im letzten Treffen ungefährlich?
+- **E20261007-F-233-S2** (Frantic|1988): „Frantic“: Was tut Walker (Harrison Ford) mit dem Krytron nach Michelles (Emmanuelle Seigner) Tod?
+- **E20261007-F-234-M1** (Cape Fear|1962): „Ein Köder für die Bestie“: Warum bleibt die Polizei trotz Cadys (Robert Mitchum) Drohkulisse zunächst weitgehend machtlos?
+- **E20261007-F-234-S1** (Cape Fear|1962): „Ein Köder für die Bestie“: Wie will Bowden (Gregory Peck) Cady (Robert Mitchum) zum Hausboot locken?
+- **E20261007-F-234-S2** (Cape Fear|1962): „Ein Köder für die Bestie“: Warum erschießt Bowden (Gregory Peck) den überwältigten Cady (Robert Mitchum) am Ende nicht?
+- **E20261007-F-235-S2** (Cape Fear|1991): „Kap der Angst“: Was ermöglicht Danielle (Juliette Lewis) auf dem Boot eine erste Unterbrechung von Cadys (Robert De Niro) Angriff?
+- **E20261007-F-237-M1** (Green Room|2015): „Green Room“: Wie täuscht der Club die wegen Pats (Anton Yelchin) Anruf eintreffende Polizei?
+- **E20261007-F-237-M2** (Green Room|2015): „Green Room“: Warum endet die Verhandlung über die abgenommene Pistole mit Pats (Anton Yelchin) Verletzung?
+- **E20261007-F-238-S1** (The Pledge|2001): „Das Versprechen“: Warum verlässt Lori (Robin Wright) Jerry (Jack Nicholson) nach der gescheiterten Überwachung?
+- **E20261007-F-238-S2** (The Pledge|2001): „Das Versprechen“: Weshalb erscheint der Täter nicht an Jerrys (Jack Nicholson) vorbereiteter Falle?
+- **E20261007-F-239-M2** (The Machinist|2004): „The Machinist“: Was erfährt Trevor (Christian Bale) bei der Suche nach Ivans (John Sharian) Autokennzeichen?
+- **E20261007-F-240-M1** (Mientras duermes|2011): „Sleep Tight“: Wie verursacht César (Luis Tosar) Claras (Marta Etura) Hautprobleme?
+- **E20261007-F-240-S1** (Mientras duermes|2011): „Sleep Tight“: Warum wird Marcos (Alberto San Juan) für César (Luis Tosar) besonders gefährlich?
+- **E20261007-F-240-S2** (Mientras duermes|2011): „Sleep Tight“: Welche Wirkung soll Césars (Luis Tosar) letzter Brief auf Clara (Marta Etura) haben?
+- **E20261007-F-243-M1** (The Big Sleep|1946): „Tote schlafen fest“: Welcher Fund in Geigers (Theodore von Eltz) Haus deutet auf fehlendes Erpressungsmaterial hin?
+- **E20261007-F-253-M2** (Grand Hotel|1932): „Menschen im Hotel“: Warum gibt der Baron (John Barrymore) Kringeleins (Lionel Barrymore) verlorene Geldbörse zurück?
+- **E20261007-F-257-S2** (The Children’s Hour|1961): „Infam“: Warum kann die spätere Aufdeckung von Marys (Karen Balkin) Lüge den Schaden nicht beheben?
+- **E20261007-F-259-L2** (Gilda|1946): Welche vergangene Beziehung verschweigen Gilda (Rita Hayworth) und Johnny (Glenn Ford) Ballin (George Macready)?
+- **E20261007-F-259-S2** (Gilda|1946): Wer verhindert Ballins (George Macready) letzten Angriff auf Gilda (Rita Hayworth) und Johnny (Glenn Ford)?
+- **E20261007-F-261-M1** (Jungfrukällan|1960): „Die Jungfrauenquelle“: Woran erkennt Märeta (Birgitta Valberg), dass die aufgenommenen Fremden mit Karins (Birgitta Pettersson) Tod verbunden sind?
+- **E20261007-F-261-M2** (Jungfrukällan|1960): „Die Jungfrauenquelle“: Was belastet Ingeri (Gunnel Lindblom), als sie Töre (Max von Sydow) von Karin (Birgitta Pettersson) erzählt?
+- **E20261007-F-261-S2** (Jungfrukällan|1960): „Die Jungfrauenquelle“: Was gelobt Töre (Max von Sydow), nachdem er Karins (Birgitta Pettersson) Leichnam gefunden hat?
+- **E20261007-F-262-M1** (Il Gattopardo|1963): „Der Leopard“: Warum unterstützt Fabrizio (Burt Lancaster) Tancredis (Alain Delon) Heirat mit Angelica (Claudia Cardinale)?
+- **E20261007-F-262-S1** (Il Gattopardo|1963): „Der Leopard“: Was macht Ciccios (Serge Reggiani) Aussage über die Abstimmung in Donnafugata bedeutsam?
+- **E20261007-F-263-S2** (Le Mépris|1963): „Die Verachtung“: Was geschieht mit Langs Filmprojekt nach dem Ende von Pauls (Michel Piccoli) und Camilles (Brigitte Bardot) Beziehung?
+- **E20261007-F-264-S1** (Pierrot le fou|1965): „Elf Uhr nachts“: Welche Täuschung betrifft den Mann, den Marianne (Anna Karina) als Fred (Dirk Sanders) vorstellt?
+- **E20261007-F-265-M1** (Naked|1993): „Nackt“: Was macht Brians (Peter Wight) nächtliche Arbeit für Johnnys (David Thewlis) Begegnung mit ihm auffällig?
+- **E20261007-F-265-S1** (Naked|1993): „Nackt“: Warum verändert Sandras (Claire Skinner) Rückkehr den Umgang mit dem verletzten Johnny (David Thewlis)?
+- **E20261007-F-266-L2** (Kagemusha|1980): „Kagemusha – Der Schatten des Kriegers“: Welchen Clan soll die Täuschung nach Shingens (Tatsuya Nakadai) Tod stabilisieren?
+- **E20261007-F-266-M2** (Kagemusha|1980): „Kagemusha – Der Schatten des Kriegers“: Was fordert Shingen (Tatsuya Nakadai) vor seinem Tod von seinen Generälen?
+- **E20261007-F-267-S1** (Ran|1985): „Ran“: Wie widersetzt sich Kurogane (Hisashi Igawa) dem Auftrag, Sue (Yoshiko Miyazaki) zu töten?
+- **E20261007-F-267-S2** (Ran|1985): „Ran“: Was zerstört die wiedergewonnene Nähe zwischen Hidetora (Tatsuya Nakadai) und Saburo (Daisuke Ryū)?
+- **E20261007-F-269-M2** (Carol|2015): Womit bedroht Harge (Kyle Chandler) Carol (Cate Blanchett) im Scheidungsverfahren?
+- **E20261007-F-270-M1** (Caché|2005): „Caché“: Warum wurde Majid (Maurice Bénichou) als Kind aus Georges’ (Daniel Auteuil) Familie entfernt?
+- **E20261007-F-270-M2** (Caché|2005): „Caché“: Was widerlegt die Vermutung, Majid (Maurice Bénichou) habe Pierrot (Lester Makedonsky) entführt?
+- **E20261007-F-272-S1** (Werk ohne Autor|2018): „Werk ohne Autor“: Wie sabotiert Seeband (Sebastian Koch) Ellies (Paula Beer) erste Schwangerschaft mit Kurt?
+- **E20261007-F-273-L2** (Fish Tank|2009): „Fish Tank“: Wie kommt Connor (Michael Fassbender) zunächst in Mias (Katie Jarvis) Familie?
+- **E20261007-F-273-M1** (Fish Tank|2009): „Fish Tank“: Was entdeckt Mia (Katie Jarvis), als sie Connor (Michael Fassbender) zu Hause nachgeht?
+- **E20261007-F-273-S2** (Fish Tank|2009): „Fish Tank“: Was tun Mia (Katie Jarvis), ihre Mutter und ihre Schwester kurz vor Mias Abreise?
+- **E20261007-F-274-M2** (Amores perros|2000): „Amores Perros“: Wo verschwindet Valerias (Goya Toledo) Hund Richie in der neuen Wohnung?
+- **E20261007-F-275-L2** (Naked Lunch|1991): „Naked Lunch“: In welcher Form erscheinen Bills (Peter Weller) Schreibgeräte in seinen Halluzinationen?
+- **E20261007-F-277-M2** (Stranger Than Paradise|1984): „Stranger Than Paradise“: Was tut Eva (Eszter Bálint) mit dem Kleid, das Willie (John Lurie) ihr schenkt?
+- **E20261007-F-278-S1** (La grande bellezza|2013): „La Grande Bellezza – Die große Schönheit“: Wie reagiert der Kardinal (Roberto Herlitzka) häufig auf Jeps (Toni Servillo) Suche nach geistlicher Orientierung?
+- **E20261007-F-280-L1** (The Immigrant|2013): „The Immigrant“: Aus welchem Land kommen Ewa (Marion Cotillard) und Magda nach Amerika?
+- **E20261007-F-280-M1** (The Immigrant|2013): „The Immigrant“: Wie nutzt Bruno (Joaquin Phoenix) Ewas (Marion Cotillard) Geldnot aus?
+- **E20261007-A-005-L** (The Sound of Music|1965): Welcher Film über Maria (Julie Andrews) und die Familie von Trapp gewann den Film-Oscar bei der Verleihung 1966?
+- **G100-20261008-ABENTEUER-001-M1** (Captain Blood|1935): Was setzt Peter Blood (Errol Flynn) in „Unter Piratenflagge“ gegen den Piraten Levasseur (Basil Rathbone) durch?
+- **G100-20261008-ABENTEUER-001-M2** (Captain Blood|1935): Welche Nachricht bewegt Bloods (Errol Flynn) Mannschaft in „Unter Piratenflagge“ dazu, Port Royal gegen die Franzosen zu verteidigen?
+- **G100-20261008-ABENTEUER-008-S1** (The Three Musketeers|1948): Woran erkennt D’Artagnan (Gene Kelly) in „Die drei Musketiere“, dass Athos’ (Van Heflin) Warnung vor Milady (Lana Turner) begründet ist?
+- **G100-20261008-ABENTEUER-012-S2** (Moby Dick|1956): Was macht Starbuck (Leo Genn) in „Moby Dick“ nach Ahabs (Gregory Peck) Tod im Kampf gegen den Wal?
+- **G100-20261008-ABENTEUER-014-S1** (First Knight|1995): Warum wendet sich Arthurs (Sean Connery) Prozess gegen Guinevere (Julia Ormond) und Lancelot (Richard Gere) in „Der erste Ritter“ plötzlich in einen Kampf um Camelot?
+- **G100-20261008-ABENTEUER-015-L2** (The Man in the Iron Mask|1998): Was wollen Athos (John Malkovich), Porthos (Gérard Depardieu) und Aramis (Jeremy Irons) in „Der Mann in der eisernen Maske“ mit dem befreiten Philippe (Leonardo DiCaprio) erreichen?
+- **G100-20261008-ABENTEUER-017-S1** (The Legend of Zorro|2005): Warum gelingt es Padre Felipe (Julio Oscar Mechoso) in „Die Legende des Zorro“, Alejandro (Antonio Banderas) später trotz des Schusses zu helfen?
+- **G100-20261008-ABENTEUER-018-S1** (Cutthroat Island|1995): Wie verrät John Reed (Maury Chaykin) in „Die Piratenbraut“ Morgans (Geena Davis) Position an Gouverneur Ainslee (Patrick Malahide)?
+- **G100-20261008-ABENTEUER-019-S2** (Allan Quatermain and the Lost City of Gold|1986): Welche zusätzliche Funktion erhält Umslopogaas’ (James Earl Jones) Axt im Finale von „Quatermain II – Auf der Suche nach der geheimnisvollen Stadt“?
+- **G100-20261008-ABENTEUER-020-M2** (The Adventures of Baron Munchausen|1988): Was ist am Mondkönig (Robin Williams) in „Die Abenteuer des Baron Münchhausen“ besonders ungewöhnlich?
+- **G100-20261008-ABENTEUER-022-M2** (White Squall|1996): Welche Handlung Gils (Ryan Phillippe) gibt Franks (Jeremy Sisto) Abschied in „White Squall – Reißende Strömung“ eine zusätzliche Bedeutung?
+- **G100-20261008-ABENTEUER-025-L2** (Cast Away|2000): Was ist Wilson, Chucks (Tom Hanks) Begleiter auf der Insel in „Cast Away – Verschollen“?
+- **G100-20261008-ABENTEUER-030-M2** (Le Comte de Monte-Cristo|1954): Welchen politischen Vorwurf nutzen Dantès’ (Jean Marais) Gegner in „Der Graf von Monte Christo“ für seine Verhaftung?
+- **G100-20261008-ABENTEUER-034-L2** (Les Trois Mousquetaires: D’Artagnan|2023): Was verbindet D’Artagnan (François Civil) in „Die drei Musketiere: D’Artagnan“ erstmals im Kampf mit Athos (Vincent Cassel), Porthos (Pio Marmaï) und Aramis (Romain Duris)?
+- **G100-20261008-ABENTEUER-035-S2** (Wild|2014): Wie erscheint die wirkliche Cheryl Strayed (Reese Witherspoon) zu Beginn von „Der große Trip – Wild“ selbst im Film?
+- **G100-20261008-ABENTEUER-042-S1** (The Eagle|2011): Welche Bedeutung hat Guerns (Mark Strong) Bericht über Marcus’ (Channing Tatum) Vater im Schlusskampf von „Der Adler der neunten Legion“?
+- **G100-20261008-THRILLER-001-S1** (Notorious|1946): Warum meldet Sebastian (Claude Rains) Alicias (Ingrid Bergman) Enttarnung in „Berüchtigt“ nicht seinen Mitverschwörern?
+- **G100-20261008-THRILLER-001-S2** (Notorious|1946): Wozu küsst Devlin (Cary Grant) Alicia (Ingrid Bergman) in „Berüchtigt“, als Sebastian (Claude Rains) sie beim Keller überrascht?
+- **G100-20261008-THRILLER-002-M2** (Strangers on a Train|1951): Welchen Gegenstand will Bruno (Robert Walker) in „Der Fremde im Zug“ am Tatort platzieren, um Guy (Farley Granger) zu belasten?
+- **G100-20261008-THRILLER-004-S2** (The 39 Steps|1935): Was überzeugt Pamela (Madeleine Carroll) in „Die 39 Stufen“ schließlich von Hannays (Robert Donat) Unschuld?
+- **G100-20261008-THRILLER-007-L2** (Les Diaboliques|1955): Welche Verbindung haben die beiden Frauen, die in „Die Teuflischen“ zunächst Michels (Paul Meurisse) Tod planen?
+- **G100-20261008-THRILLER-007-S2** (Les Diaboliques|1955): Welche Behauptung eines Schülers setzt in „Die Teuflischen“ nach Christinas (Véra Clouzot) Tod einen letzten irritierenden Akzent?
+- **G100-20261008-THRILLER-008-S2** (Three Days of the Condor|1975): Welche Unsicherheit lässt Higgins (Cliff Robertson) in „Die drei Tage des Condor“ trotz Turners (Robert Redford) Gang zur New York Times bestehen?
+- **G100-20261008-THRILLER-013-L1** (The Hand That Rocks the Cradle|1992): Welche Stelle erhält Peyton (Rebecca De Mornay) in „Die Hand an der Wiege“ im Haushalt der Bartels (Matt McCoy)?
+- **G100-20261008-THRILLER-026-M1** (Searching|2018): Was erfährt David Kim (John Cho) in „Searching“ beim Anruf bei Margots (Michelle La) Klavierlehrerin?
+- **G100-20261008-THRILLER-026-M2** (Searching|2018): Welcher Fund macht David Kim (John Cho) in „Searching“ misstrauisch gegenüber Margots (Michelle La) Online-Freundin Hannah (Erica Jenkins)?
+- **G100-20261008-ACTION-010-L2** (The Spy Who Loved Me|1977): Welche besondere Funktion hilft Bonds (Roger Moore) Lotus Esprit in „James Bond 007 – Der Spion, der mich liebte“ bei der Flucht von der sardischen Küste?
+- **G100-20261008-ACTION-011-L2** (Licence to Kill|1989): Welchen praktischen Beitrag leistet Pam Bouvier (Carey Lowell) in „James Bond 007 – Lizenz zum Töten“ bei der Verfolgung von Sanchez’ (Robert Davi) Tanklastern?
+- **G100-20261008-MARTIALARTS-015-L2** (Yip Man 3|2015): Welche Diagnose erhält Cheung Wing-sing (Lynn Hung), Ip Mans (Donnie Yen) Frau, in „Ip Man 3“?
+- **G100-20261008-MARTIALARTS-023-L2** (Unleashed|2005): Welcher Arbeit geht Sam (Morgan Freeman), Dannys (Jet Li) Helfer in „Unleashed – Entfesselt“, nach?
+- **G100-20261008-MUSIK-017-L2** (Sweeney Todd: The Demon Barber of Fleet Street|2007): Was macht Mrs. Lovett (Helena Bonham Carter) in „Sweeney Todd – Der teuflische Barbier aus der Fleet Street“ aus Todds (Johnny Depp) Opfern?
+- **G100-20261008-WESTERN-019-M2** (Lo chiamavano Trinità...|1970): Wofür will der Major (Farley Granger) in „Die rechte und die linke Hand des Teufels“ das Land der Siedler nutzen?
+- **G100-20261008-WESTERN-024-L2** (Ned Kelly|2003): Womit schützt sich Kellys (Heath Ledger) Gruppe beim letzten großen Schusswechsel in „Gesetzlos – Die Geschichte des Ned Kelly“?
+- **G100-20261008-FANTASY-015-M2** (Aladdin|2019): Wodurch beendet Aladdin (Mena Massoud) in der Realverfilmung „Aladdin“ zunächst die Kontrolle über den Sultan (Navid Negahban)?
+- **G100-20261008-FANTASY-019-M2** (Beowulf|2007): Was verlangt Grendels Mutter (Angelina Jolie) in „Die Legende von Beowulf“ zusätzlich zum Trinkhorn für ihr Versprechen, Beowulf (Ray Winstone) zum König zu machen?
+- **G100-20261008-HORROR-020-M2** (Annabelle|2014): Wessen Gestalt benutzt der Dämon in „Annabelle“, um am Abend in Mias (Annabelle Wallis) Wohnung zu gelangen?
+- **G100-20261008-HORROR-022-M1** (Ju-on: The Grudge|2002): Warum besucht Mariko (Kayoko Shibata) in „Ju-on: The Grudge“ das Haus, während Rika (Megumi Okina) sie zu retten versucht?
+- **G100-20261008-HORROR-022-M2** (Ju-on: The Grudge|2002): Welches auffällige Merkmal zeigen die Fotos von Izumi (Misa Uehara) und ihren Freundinnen in „Ju-on: The Grudge“?
+- **G100-20261008-HORROR-022-S1** (Ju-on: The Grudge|2002): Wie hängen Toyamas (Yōji Tanaka) Beobachtung der Mädchen und Izumis (Misa Uehara) späterer Hausbesuch in „Ju-on: The Grudge“ zusammen?

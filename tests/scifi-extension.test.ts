@@ -99,7 +99,7 @@ it("erhält alle 2.797 bisherigen Fragen einschließlich Regiealternativen und e
   const old = emptyState();
   addPackages(old, contents.slice(0, 12));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "d3418b06feb55ef67e82070d18d3e2767028ece3214d8b8dd7df0ef758b06d9b",
+    "6d1be0f3e05286fd49846b73ace82548b773e80a0f4b66603fa93a2c8cd4678d",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);

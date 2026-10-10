@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 10.10.2026 – Darstellernamen im gesamten Fragenbestand
+
+Alle 12.773 Fragen auf Darstellerkontext durchgesehen; 2.612 Fragetexte zu 845 Filmfassungen um 3.345 Angaben ergänzt. Gesuchte Besetzungsnamen geschützt, Originalstimmen ausdrücklich bezeichnet, uneindeutige Alters-/Familien-/Rollenwechselzuordnungen ausgelassen. Nur das Fragefeld geändert; IDs, Varianten, Antworten, Lernziele und Rohquellen erhalten. 412 historische Prüfeinträge und 393 zugehörige Anzeigeeinträge auf die neuen Fragefassungen abgeglichen. [Redaktion, Lesefassung, Belege und Grenzen](Darstellerkontext-2026-10-10/Pruefbericht.md).
+
+Katalogprüfung: 33 Pakete, 12.773 Fragen, 12.207 Ziele, 2.840 vollständig dokumentierte geänderte CSV-Zeilen; keine Importkonflikte, verlustfreier Rundlauf. Im vollständigen Lauf 422 von 435 Tests bestanden; 13 durch Quellenendstände, Zeichenkodierung und Anzeigeschlüssel verursachte Fehler behoben, anschließend alle 33 Tests der sieben betroffenen Dateien erfolgreich. Abschließender TypeScript-/Produktionsbuild und Diffprüfung erfolgreich. Vorhandene fremde Importberichte erhalten; keine realen Konten oder Spielstände verändert. Lokal, keine Veröffentlichung und kein Push.
+
 ## 10.10.2026 – Version 61 veröffentlicht
 
 Festen Quellcommit 7b2ceea am 10.10.2026 um 09:45:29 Uhr Europe/Berlin veröffentlicht, nativ succeeded. Vollständiger erneuter Lauf am gemeinsamen Veröffentlichungsstand: **434 Tests in 70 Dateien**, TypeScript und Produktionsbuild mit VITE_SITE_VERSION=61 sowie **zwölf gezielte Browserfälle** in Chromium/mobilem WebKit erfolgreich. Neu-/Wiederholungsanzeige, dauerhaftes unabhängiges Aus-/Einschalten, Fragenstatistik, Poster und tatsächliche Versionszeit geprüft. Alle 479 Produktionsdateien im Paket bytegleich. Öffentlicher Zugriff Revision 2 erhalten und Brazil-Korrektur im Online- und Duellkatalog bestätigt, sechs Live-Dateien anonym bytegleich, Versionsmetadaten dauerhaft gespeichert und separat/anonym bestätigt; direkter Tabellenzugriff 401. Keine echte Quiz-Sitzung, Migration oder Änderung privater Spielstände. Gesamten aktuellen Main-Stand veröffentlicht; offene Arbeit und fremde Git-Vormerkung erhalten. [Veröffentlichung](Veroeffentlichung-2026-10-10-Version-61.json), [Betrieb](Sites-Betrieb.md#version-61-neu-und-wiederholung-vor-der-antwort).

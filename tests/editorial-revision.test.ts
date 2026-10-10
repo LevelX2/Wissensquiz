@@ -10,6 +10,7 @@ import {
   assertEditorialSource,
   editorialCsvIds,
   editorialRevisions,
+  latestCsvRevision,
 } from "./editorialSource";
 
 it("zeigt alle 21 redigierten Fragen mit erhaltenen Wissenszielen und wirksamen Darstellertexten", () => {
@@ -33,8 +34,9 @@ it("zeigt alle 21 redigierten Fragen mit erhaltenen Wissenszielen und wirksamen 
       expect(actorPresentation(q), q.id).toEqual(entry.after);
       expect(presentedQuestion(q), q.id).toBe(entry.after.question);
     } else {
-      expect(q.question, q.id).toBe(entry.after.question);
-      expect(q.context, q.id).toBe(entry.after.explanation_context);
+      const latest = latestCsvRevision(entry.file, entry.id)!;
+      expect(q.question, q.id).toBe(latest.after.question);
+      expect(q.context, q.id).toBe(latest.after.explanation_context);
       expect(q.metadata.variant_of, q.id).toBe(entry.before.variant_of);
     }
   }

@@ -7,6 +7,7 @@ import { filmIdentity, familiarityOf } from "../src/familiarity";
 import { genreOf, questionSourceOf } from "../src/filters";
 import films from "../docs/Genres-100-2026-10-08/Filmdaten.json";
 import { catalogCounts } from "./catalog-counts";
+import { assertEditorialSource } from "./editorialSource";
 
 const contents = packages.map((p) => ({
   filename: p.filename,
@@ -122,7 +123,7 @@ for (const directory of readdirSync(root, { withFileTypes: true }).filter(
   ) as {
     films: { film: string; title: string; question_ids: string[] }[];
   };
-  it(`erreicht 100 Filme und den Klassikerkern für ${selection.genre}; öffentliche und erhaltene Rohquelle sind identisch`, () => {
+  it(`erreicht 100 Filme und den Klassikerkern für ${selection.genre}; prüft erhaltene Rohquelle und dokumentierte Redaktion`, () => {
     const questions = state.questions.filter(
       (q) => questionSourceOf(q) === "film" && genreOf(q) === selection.genre,
     );
@@ -151,11 +152,12 @@ for (const directory of readdirSync(root, { withFileTypes: true }).filter(
     const pkg = packages.find((p) => p.filename === filename)!;
     expect(pkg, filename).toBeDefined();
     const publicFile = readFileSync(`public${pkg.path}`);
-    expect(publicFile.equals(readFileSync(`${folder}/${filename}`))).toBe(true);
-    expect(
-      publicFile.equals(
-        readFileSync(`KI-Wissen-Wissensquiz/01 Rohquellen/${filename}`),
-      ),
-    ).toBe(true);
+    const raw = readFileSync(`KI-Wissen-Wissensquiz/01 Rohquellen/${filename}`);
+    expect(raw.equals(readFileSync(`${folder}/${filename}`))).toBe(true);
+    assertEditorialSource(
+      publicFile.toString("utf8"),
+      raw.toString("utf8"),
+      `public${pkg.path}`,
+    );
   });
 }

@@ -9,6 +9,7 @@ import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { answer, complete, startRound } from "../src/engine";
 import { validateBackup } from "../src/storage";
 import source from "../KI-Wissen-Wissensquiz/01 Rohquellen/Musik_Ergaenzung_Filmdaten.json";
+import { assertEditorialSource } from "./editorialSource";
 
 const contents = packages.slice(0, 14).map((p) => ({
   filename: p.filename,
@@ -20,13 +21,20 @@ const hash = (value: string | Buffer) =>
   createHash("sha256").update(value).digest("hex");
 
 it("erhält die Musik-Rohquellen und verbindet alle Filmreferenzen mit Bekanntheit und Filmdaten", () => {
-  expect(hash(readFileSync("public/musik-fragen.csv"))).toBe(
-    "d8c47f7931d31ba0bf1108bf1b860e001170a44c7fa21449f514d03e1baab132",
-  );
-  expect(readFileSync("public/musik-fragen.csv")).toEqual(
+  expect(
+    hash(
+      readFileSync(
+        "KI-Wissen-Wissensquiz/01 Rohquellen/Musik_Ergaenzung_180_Fragen.csv",
+      ),
+    ),
+  ).toBe("d8c47f7931d31ba0bf1108bf1b860e001170a44c7fa21449f514d03e1baab132");
+  assertEditorialSource(
+    readFileSync("public/musik-fragen.csv", "utf8"),
     readFileSync(
       "KI-Wissen-Wissensquiz/01 Rohquellen/Musik_Ergaenzung_180_Fragen.csv",
+      "utf8",
     ),
+    "public/musik-fragen.csv",
   );
   expect(
     hash(
@@ -70,7 +78,7 @@ it("ändert keine der 2.567 bestehenden Fragen oder Antwortvorlagen durch die Er
   const old = emptyState();
   addPackages(old, contents.slice(0, 11));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "efc29fa62ec2e704ed3d9bb8f7a3c3612790f6c6fb6a249c0d5dbf045d868466",
+    "c9aaf06298f979267b9e1ded5898dcb64915802342d39c3d6bea81780d104291",
   );
   const oldQuestions = structuredClone(old.questions);
   addPackages(old, contents);

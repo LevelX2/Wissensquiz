@@ -78,6 +78,8 @@ Die Einstufung ist redaktionell. Schwierige Formulierungen, Fachwortballungen od
 
 Spielspaß, die verständliche Beschäftigung mit dem Thema und die Festigung des eigenen Wissens führen die Gestaltung, Prüfung und Neuentwicklung. Bei Fragen zu handelnden Filmfiguren den Originaldarsteller in der Regel bereits im Fragetext mitnennen. Dies ist eine Empfehlung, kein Zwang: Bei sehr bekannten Filmen und Figuren kann der Zusatz bewusst entfallen; bei schwierigeren Fragen und spezielleren Themen hilft dieser Kontext besonders. Wird gerade der Schauspielername gesucht, bleibt er vor der Antwort verborgen.
 
+Die [systematische Bestandsdurchsicht vom 10.10.2026](Darstellerkontext-2026-10-10/Pruefbericht.md) setzt diese Empfehlung auch für vorhandene Fragen um: Besetzungswissen und Lösungen schützen, Lebensalter und Rollenwechsel berücksichtigen und Originalstimmen ausdrücklich von sichtbaren Darstellern unterscheiden. Es gibt keine pauschale automatische Namenergänzung.
+
 ## Struktur jeder Frage
 
 Jede neue Frage enthält einen eindeutig formulierten Fragetext, ein präzises Wissensziel, vier verschiedene Antwortmöglichkeiten und genau eine belegbare richtige Lösung. Hinzu kommen eine kurze Begründung der Lösung, eine konkrete Vertiefung, ein Merksatz, passende Quellen und bei Filmfragen die Spoilereinstufung. Zu jeder Antwort ist redaktionell zu prüfen, warum sie richtig oder falsch ist. Ein sichtbarer Zusatztext zu einer falschen Antwort ist nur bei eigenständigem Erkenntniswert sinnvoll. Für Film- und Preis-CSV gehören solche Texte in `feedback_a` bis `feedback_d`; sie dürfen sonst leer bleiben. Für Personenfragen die gewählte Übergabe auf Erhalt der Inhalte prüfen.

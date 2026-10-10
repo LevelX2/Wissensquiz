@@ -103,3 +103,8 @@ Die richtige Antwort bleibt **Friseur**. Die Erklärung unterscheidet Chaplins z
 Frage, Wissenszieltext, kurze Erklärung, Vertiefung, Antwortfeedback, Merksatz, Spoilereinstufung und Quellenangaben passen zum klargestellten Zusammenhang. Frage-/Wissensziel-ID, Antwortoptionen und Lösungsschlüssel bleiben erhalten. Alle übrigen Datensätze und die ursprüngliche Rohquelle bleiben unverändert.
 
 Prüfnachweis: [Prüfbericht](Pruefbericht.md).
+
+
+## Darstellernamen im gesamten Fragenbestand – 10.10.2026
+
+Auf ausdrücklichen Auftrag alle 12.773 Fragen auf sinnvollen Darstellerkontext durchgesehen und ausschließlich die Fragetexte von 2.612 Fragen zu 845 Filmfassungen ergänzt. Gesuchte Schauspielernamen bleiben verborgen; Personenfragen, Antworten und Lernidentitäten unverändert. Originalstimmen gekennzeichnet, uneindeutige Familien-, Alters- und Rollenwechselzuordnungen ausgelassen. [Umfang, Lesefassung, Quellen, Grenzen und Abnahme](Darstellerkontext-2026-10-10/Pruefbericht.md). Lokal, noch nicht veröffentlicht.
