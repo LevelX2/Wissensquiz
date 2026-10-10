@@ -1,5 +1,11 @@
 # Lern-, Runden- und Speichervertrag
 
+## Zusatz zur falschen Antwort – 10.10.2026
+
+Zusatztexte zur gewählten falschen Antwort nur mit eigenständigem Erkenntniswert: Funktion eines Gegenstands, Figurenzuordnung oder nachvollziehbare Verwechslung. Bekannte reine Verneinungsformeln und wortgleiche Lösungswiederholungen entfallen in direkter Auflösung und Rückblick. Folgt auf eine solche Formel ein konkreter Hinweis, bleibt dieser erhalten. Beim gemeldeten „Tron: Legacy“-Beispiel entfällt der Zusatz zu Helm, Brille und Uhr vollständig. Keine Änderung der Fragepakete oder Lernidentitäten.
+
+Inhaltliche Aktualisierungen benötigen einen Quellenabgleich; ohne sinnvolle belegbare Ergänzung bleibt der Zusatz leer. Die technische Kürzung bekannter Formeln ist keine automatische Prüfung aller individuell formulierten Texte. [Redaktionsmaßstab](Fragenredaktion.md#falsche-antworten-sinnvoll-einordnen--10102026), [vollständiger Katalogdurchlauf und Grenzen](Antwortfeedback-Pruefung-2026-10-10.json).
+
 ## Kompakte Antwortansicht – 10.10.2026
 
 Auf Nutzerauftrag die Antwortansicht vereinfacht: Statt der großen Überschrift „Eine neue Entdeckung“ beziehungsweise „Genau richtig“ steht eine kleine Rückmeldung mit Symbol: „Richtig“, „Nicht richtig“, „Nicht gewusst“ oder „Zeit abgelaufen“. Die bisherige Entdeckungsüberschrift bezeichnete jede falsche Auswahl und war kein Erstbegegnungsnachweis. Antwortfarben und Wertung bleiben erhalten.

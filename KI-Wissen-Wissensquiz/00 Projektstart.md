@@ -12,6 +12,8 @@ Stand: 10.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- Lokal am 10.10.2026 Zusatztexte falscher Antworten auf eigenständigen Erkenntniswert begrenzt: bekannte Verneinungsformeln und Lösungswiederholungen entfallen, konkrete Einordnungen bleiben erhalten. Gemeldete „Tron: Legacy“-Texte zu Helm, Brille und Uhr entfallen. Vollständiger Katalog technisch gesichtet; keine vollständige neue Faktenprüfung individueller Antworttexte. [Redaktionsmaßstab und Grenzen](../docs/Fragenredaktion.md#falsche-antworten-sinnvoll-einordnen--10102026).
+
 - Seit Sites-Version 60 am 10.10.2026 Poster auf alle **1.405 referenzierten Filmfassungen / 11.013 Fragen** erweitert, einschließlich filmbezogener Preisfragen. Antwortansicht vereinfacht: kleine sachliche Rückmeldung, dezentes „Neu“ bei der Fragenstatistik, Erklärung vor Poster ohne doppelte Textausgabe oder „Die Idee dahinter“. Katalog und Lernregeln zur Bewertung unverändert. [Poster](../docs/Filmposter.md), [Anzeigevertrag](../docs/Lernregeln.md#kompakte-antwortansicht--10102026).
 
 - Lokal am 10.10.2026 die kurze Soloantwortanzeige auch bei „Nach der Runde“ erhalten: richtige Lösung grün, falsche Auswahl rot, eingestellte Dauer ohne Verbrauch von Fragenzeit oder Zeitkonto. Danach automatisch nächste Frage oder Rückblick; Erklärungen erst im Rückblick. Seit Sites-Version 59 veröffentlicht. [Aktueller Ablauf](../docs/Lernregeln.md#antwortanzeige-bei-auflösung-nach-der-runde--10102026).

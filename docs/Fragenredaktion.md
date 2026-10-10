@@ -1,6 +1,6 @@
 # Redaktion von Filmfragen, Schauspielerfragen und Preisfragen
 
-Stand: 07.10.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
+Stand: 10.10.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
 
 Quelle: [unveränderter Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerauftrag%20Fragenredaktions-Skill.txt). Bestehende technische Bereichs- und Importverträge wurden für den Stand abgeglichen.
 
@@ -80,7 +80,7 @@ Spielspaß, die verständliche Beschäftigung mit dem Thema und die Festigung de
 
 ## Struktur jeder Frage
 
-Jede neue Frage enthält einen eindeutig formulierten Fragetext, ein präzises Wissensziel, vier verschiedene Antwortmöglichkeiten und genau eine belegbare richtige Lösung. Hinzu kommen eine kurze Begründung der Lösung, eine konkrete Vertiefung, ein Merksatz, passende Quellen und bei Filmfragen die Spoilereinstufung. Zu jeder Antwort ist in der Redaktion festzuhalten, warum sie richtig oder falsch ist. Für Film- und Preis-CSV gehören diese Texte in `feedback_a` bis `feedback_d`; für Personenfragen die gewählte Übergabe auf Erhalt der Inhalte prüfen.
+Jede neue Frage enthält einen eindeutig formulierten Fragetext, ein präzises Wissensziel, vier verschiedene Antwortmöglichkeiten und genau eine belegbare richtige Lösung. Hinzu kommen eine kurze Begründung der Lösung, eine konkrete Vertiefung, ein Merksatz, passende Quellen und bei Filmfragen die Spoilereinstufung. Zu jeder Antwort ist redaktionell zu prüfen, warum sie richtig oder falsch ist. Ein sichtbarer Zusatztext zu einer falschen Antwort ist nur bei eigenständigem Erkenntniswert sinnvoll. Für Film- und Preis-CSV gehören solche Texte in `feedback_a` bis `feedback_d`; sie dürfen sonst leer bleiben. Für Personenfragen die gewählte Übergabe auf Erhalt der Inhalte prüfen.
 
 „Keine Ahnung“ ist die zusätzliche App-Auswahl und gehört nicht zu den vier redaktionellen Antwortoptionen.
 
@@ -93,6 +93,16 @@ Für Film-Jahresfragen gilt der Nutzermaßstab vom 04.10.2026: Die Vertiefung ve
 Frage und vier Antworten zusammen möglichst unter 60 Wörtern halten. Längere, fachlich notwendige Kombinationen im Prüfbericht kenntlich machen; der Rekordmodus sieht 30 Sekunden pro Frage vor. Interpretationen und eigene Beobachtungshinweise als solche kennzeichnen und nicht als einzig objektiv richtige Multiple-Choice-Lösung anbieten.
 
 Antwortfeedback darf nicht auf Buchstaben oder Bildschirmpositionen verweisen: Die App mischt die Optionen. Richtige Buchstaben innerhalb eines Pakets möglichst ausgewogen verteilen, ohne dafür schlechte Alternativen zu bauen.
+
+### Falsche Antworten sinnvoll einordnen – 10.10.2026
+
+Der Zusatz zur gewählten falschen Antwort soll erklären, wofür diese Antwort im Film oder im jeweiligen Sachgebiet tatsächlich steht: etwa die Funktion eines Gegenstands, die Identität und Beziehung einer Figur, ein anderes Werk oder eine nachvollziehbare Verwechslung. Seine Aussage anhand geeigneter tatsächlich gelesener Quellen prüfen und bei einer belegbaren besseren Einordnung aktualisieren. Aus der bloßen Plausibilität eines Ablenkers keine Filmhandlung oder Zuordnung erfinden.
+
+„Das ist falsch“, „… trifft hier nicht zu“, „… ist hier nicht richtig“ und eine bloße Wiederholung der richtigen Lösung entfallen. Lässt sich kein sinnvoller, belegbarer Zusatz zur falschen Antwort geben, bleibt das Feedback leer. Eine Verneinung innerhalb einer konkreten Einordnung darf erhalten bleiben; entscheidend ist der Informationsgewinn, nicht das Wort „nicht“.
+
+Beim gemeldeten Motorradhelm in „Tron: Legacy“ wiederholte der Text lediglich Kevin Flynns Identitätsdisk als Lösung. Dieser Hinweis entfällt, ebenso die entsprechenden Texte zu Sonnenbrille und Armbanduhr. Die Recherche ergab keinen ausreichend belastbaren zusätzlichen Zusammenhang dieser Optionen mit Kevin Flynns Portalzugang. Ein Disney-Beleg zu einem Helm von Sam Flynn allein rechtfertigt keine Gleichsetzung mit dem in der falschen Antwort Kevin zugeordneten Helm. Es wurde deshalb kein Ersatztext erfunden. [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerpraezisierung%20Erklaerungen%20falscher%20Antworten.txt), [Anzeigeprüfung und Grenzen](Antwortfeedback-Pruefung-2026-10-10.json), [Disney-Archivhinweis zu Sam Flynns Helm](https://disneyparksblog.com/products/meet-amanda-luna-the-creative-force-behind-cpgps-new-tron-inspired-product-line/).
+
+Die Anzeige entfernt bekannte leere Formeln und wortgleiche Lösungswiederholungen auch aus bestehenden Fragesnapshots. Individuelle Texte werden damit nicht automatisch fachlich geprüft oder semantisch bewertet. Ihre Überarbeitung bleibt Quellenarbeit nach diesem Vertrag.
 
 ## Filmfassung, Eckdaten und Lösungsschutz
 

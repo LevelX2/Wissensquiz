@@ -3,6 +3,8 @@
 - [Version 60 veröffentlicht: alle Filmposter und kompakte Antwortansicht](../../../docs/Sites-Betrieb.md#version-60-alle-filmposter-und-kompakte-antwortansicht)
 - [Version 60: Quelle, Archiv, Liveprüfungen und Grenzen](../../../docs/Veroeffentlichung-2026-10-10-Version-60.json)
 
+- [Falsche Antworten erklären: belegten Zusatznutzen erhalten, leere Verneinungen weglassen – 10.10.2026](../../../docs/Fragenredaktion.md#falsche-antworten-sinnvoll-einordnen--10102026)
+
 - [Kompakte Antwortansicht: kleine Rückmeldung, dezentes Neu und keine doppelten Erklärungen – 10.10.2026](../../../docs/Lernregeln.md#kompakte-antwortansicht--10102026)
 
 - [Version 59: Poster für alle SciFi-Filme, Anmeldungspflicht und Online-Spielstand](../../../docs/Sites-Betrieb.md#version-59-scifi-poster-anmeldung-und-online-spielstand)

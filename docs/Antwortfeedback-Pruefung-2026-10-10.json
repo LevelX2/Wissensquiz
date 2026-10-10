@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-10",
+  "scope": "Vollständiger öffentlicher App-Katalog einschließlich generierter Filmfragen; ausschließlich Prüfung bekannter leerer Anzeigeformeln und wortgleicher Lösungswiederholungen.",
+  "counts": {
+    "questions": 12773,
+    "wrongAnswers": 38319,
+    "emptySource": 4200,
+    "hidden": 13186,
+    "shortened": 26,
+    "unchanged": 25107
+  },
+  "tron": {
+    "questionId": "SF-202609-P02-S-064",
+    "hiddenWrongAnswerHints": 3
+  },
+  "limits": [
+    "Keine vollständige fachliche Quellenprüfung der verbleibenden Antworttexte.",
+    "Inhaltliche Paraphrasen und andere individuell formulierte Verneinungen werden nicht automatisch als leer eingestuft; sie benötigen Redaktion nach docs/Fragenredaktion.md.",
+    "Fragepakete, Rohquellen, Antwortoptionen und Lernidentitäten werden nicht verändert."
+  ]
+}
