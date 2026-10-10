@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 2500,
-  "totalReviewed": 2650,
-  "remainingFilmQuestions": 8083,
+  "completedInThisRun": 2550,
+  "totalReviewed": 2700,
+  "remainingFilmQuestions": 8033,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 10123,
+  "remainingAllQuestions": 10073,
   "blocks": [
     {
       "block": 1,
@@ -258,6 +258,11 @@
     {
       "block": 50,
       "path": "Block-50.json",
+      "count": 50
+    },
+    {
+      "block": 51,
+      "path": "Block-51.json",
       "count": 50
     }
   ],
@@ -2911,209 +2916,59 @@
     "FF-003-DIRECTOR",
     "E20261007-F-076-L1",
     "E20261007-F-076-L2",
-    "E20261007-F-076-M1"
+    "E20261007-F-076-M1",
+    "E20261007-F-076-M2",
+    "E20261007-F-076-S1",
+    "E20261007-F-076-S2",
+    "E20261007-F-076-Y",
+    "E20261007-F-076-D",
+    "E20261007-F-050-L1",
+    "E20261007-F-050-L2",
+    "E20261007-F-050-M1",
+    "E20261007-F-050-M2",
+    "E20261007-F-050-S1",
+    "E20261007-F-050-S2",
+    "E20261007-F-050-Y",
+    "E20261007-F-050-D",
+    "KOM-202609-P02-L-051",
+    "KOM-202609-P02-L-052",
+    "KOM-202609-P02-M-051",
+    "KOM-202609-P02-M-052",
+    "KOM-202609-P02-S-051",
+    "KOM-202609-P02-S-052",
+    "KOM-202609-P02-M-051-V1",
+    "FF-401-YEAR",
+    "FF-401-DIRECTOR",
+    "F240-20261006-138-L1",
+    "F240-20261006-138-L2",
+    "F240-20261006-138-M1",
+    "F240-20261006-138-M2",
+    "F240-20261006-138-S1",
+    "F240-20261006-138-S2",
+    "F240-20261006-138-Y",
+    "F240-20261006-138-D",
+    "MUS-202609-P01-L-003",
+    "MUS-202609-P01-L-004",
+    "MUS-202609-P01-M-003",
+    "MUS-202609-P01-M-004",
+    "MUS-202609-P01-S-003",
+    "MUS-202609-P01-S-004",
+    "MUS-202609-P01-L-003-V1",
+    "MUS-202609-P01-S-003-V1",
+    "FF-302-YEAR",
+    "FF-302-DIRECTOR",
+    "G100-20261008-ACTION-001-L1",
+    "G100-20261008-ACTION-001-L2",
+    "G100-20261008-ACTION-001-M1",
+    "G100-20261008-ACTION-001-M2",
+    "G100-20261008-ACTION-001-S1",
+    "G100-20261008-ACTION-001-S2",
+    "G100-20261008-ACTION-001-Y",
+    "G100-20261008-ACTION-001-D",
+    "KOM-202609-P02-L-017",
+    "KOM-202609-P02-L-018"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "E20261007-F-076-M2",
-      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
-    },
-    {
-      "id": "E20261007-F-076-S1",
-      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
-    },
-    {
-      "id": "E20261007-F-076-S2",
-      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
-    },
-    {
-      "id": "E20261007-F-076-Y",
-      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
-    },
-    {
-      "id": "E20261007-F-076-D",
-      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
-    },
-    {
-      "id": "E20261007-F-050-L1",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-L2",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-M1",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-M2",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-S1",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-S2",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-Y",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-D",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "KOM-202609-P02-L-051",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-L-052",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-051",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-052",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-S-051",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-S-052",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-051-V1",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "FF-401-YEAR",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "FF-401-DIRECTOR",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "F240-20261006-138-L1",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-L2",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-M1",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-M2",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-S1",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-S2",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-Y",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-D",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "MUS-202609-P01-L-003",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-L-004",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-M-003",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-M-004",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-S-003",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-S-004",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-L-003-V1",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-S-003-V1",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "FF-302-YEAR",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "FF-302-DIRECTOR",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-L1",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-L2",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-M1",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-M2",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-S1",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-S2",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-Y",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-D",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "KOM-202609-P02-L-017",
-      "filmKey": "Dirty Rotten Scoundrels|1988"
-    },
-    {
-      "id": "KOM-202609-P02-L-018",
-      "filmKey": "Dirty Rotten Scoundrels|1988"
-    },
     {
       "id": "KOM-202609-P02-M-017",
       "filmKey": "Dirty Rotten Scoundrels|1988"
@@ -35249,204 +35104,204 @@
   ],
   "next": [
     {
-      "id": "E20261007-F-076-M2",
-      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
-    },
-    {
-      "id": "E20261007-F-076-S1",
-      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
-    },
-    {
-      "id": "E20261007-F-076-S2",
-      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
-    },
-    {
-      "id": "E20261007-F-076-Y",
-      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
-    },
-    {
-      "id": "E20261007-F-076-D",
-      "filmKey": "Die Nibelungen. 1. Teil: Siegfried|1924"
-    },
-    {
-      "id": "E20261007-F-050-L1",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-L2",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-M1",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-M2",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-S1",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-S2",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-Y",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "E20261007-F-050-D",
-      "filmKey": "Die Welle|2008"
-    },
-    {
-      "id": "KOM-202609-P02-L-051",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-L-052",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-051",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-052",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-S-051",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-S-052",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-051-V1",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "FF-401-YEAR",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "FF-401-DIRECTOR",
-      "filmKey": "Dinner for Schmucks|2010"
-    },
-    {
-      "id": "F240-20261006-138-L1",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-L2",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-M1",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-M2",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-S1",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-S2",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-Y",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "F240-20261006-138-D",
-      "filmKey": "Dip huet seung hung|1989"
-    },
-    {
-      "id": "MUS-202609-P01-L-003",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-L-004",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-M-003",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-M-004",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-S-003",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-S-004",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-L-003-V1",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "MUS-202609-P01-S-003-V1",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "FF-302-YEAR",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "FF-302-DIRECTOR",
-      "filmKey": "Dirty Dancing|1987"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-L1",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-L2",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-M1",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-M2",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-S1",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-S2",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-Y",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "G100-20261008-ACTION-001-D",
-      "filmKey": "Dirty Harry|1971"
-    },
-    {
-      "id": "KOM-202609-P02-L-017",
+      "id": "KOM-202609-P02-M-017",
       "filmKey": "Dirty Rotten Scoundrels|1988"
     },
     {
-      "id": "KOM-202609-P02-L-018",
+      "id": "KOM-202609-P02-M-018",
       "filmKey": "Dirty Rotten Scoundrels|1988"
+    },
+    {
+      "id": "KOM-202609-P02-S-017",
+      "filmKey": "Dirty Rotten Scoundrels|1988"
+    },
+    {
+      "id": "KOM-202609-P02-S-018",
+      "filmKey": "Dirty Rotten Scoundrels|1988"
+    },
+    {
+      "id": "KOM-202609-P02-L-017-V1",
+      "filmKey": "Dirty Rotten Scoundrels|1988"
+    },
+    {
+      "id": "KOM-202609-P02-S-018-V1",
+      "filmKey": "Dirty Rotten Scoundrels|1988"
+    },
+    {
+      "id": "FF-384-YEAR",
+      "filmKey": "Dirty Rotten Scoundrels|1988"
+    },
+    {
+      "id": "FF-384-DIRECTOR",
+      "filmKey": "Dirty Rotten Scoundrels|1988"
+    },
+    {
+      "id": "SF-L-028",
+      "filmKey": "District 9|2009"
+    },
+    {
+      "id": "SF-M-028",
+      "filmKey": "District 9|2009"
+    },
+    {
+      "id": "SF-S-028",
+      "filmKey": "District 9|2009"
+    },
+    {
+      "id": "FF-153-YEAR",
+      "filmKey": "District 9|2009"
+    },
+    {
+      "id": "FF-153-DIRECTOR",
+      "filmKey": "District 9|2009"
+    },
+    {
+      "id": "WES-202610-P01-L-017",
+      "filmKey": "Django Unchained|2012"
+    },
+    {
+      "id": "WES-202610-P01-L-018",
+      "filmKey": "Django Unchained|2012"
+    },
+    {
+      "id": "WES-202610-P01-M-025",
+      "filmKey": "Django Unchained|2012"
+    },
+    {
+      "id": "WES-202610-P01-M-026",
+      "filmKey": "Django Unchained|2012"
+    },
+    {
+      "id": "WES-202610-P01-S-025",
+      "filmKey": "Django Unchained|2012"
+    },
+    {
+      "id": "WES-202610-P01-S-026",
+      "filmKey": "Django Unchained|2012"
+    },
+    {
+      "id": "WES-202610-P01-M-027",
+      "filmKey": "Django Unchained|2012"
+    },
+    {
+      "id": "WES-202610-P01-S-027",
+      "filmKey": "Django Unchained|2012"
+    },
+    {
+      "id": "WES-L-011",
+      "filmKey": "Django|1966"
+    },
+    {
+      "id": "WES-L-012",
+      "filmKey": "Django|1966"
+    },
+    {
+      "id": "WES-M-011",
+      "filmKey": "Django|1966"
+    },
+    {
+      "id": "WES-M-012",
+      "filmKey": "Django|1966"
+    },
+    {
+      "id": "WES-S-011",
+      "filmKey": "Django|1966"
+    },
+    {
+      "id": "WES-S-012",
+      "filmKey": "Django|1966"
+    },
+    {
+      "id": "FF-281-YEAR",
+      "filmKey": "Django|1966"
+    },
+    {
+      "id": "FF-281-DIRECTOR",
+      "filmKey": "Django|1966"
+    },
+    {
+      "id": "ART-L-043",
+      "filmKey": "Dogville|2003"
+    },
+    {
+      "id": "ART-L-044",
+      "filmKey": "Dogville|2003"
+    },
+    {
+      "id": "ART-M-043",
+      "filmKey": "Dogville|2003"
+    },
+    {
+      "id": "ART-M-044",
+      "filmKey": "Dogville|2003"
+    },
+    {
+      "id": "ART-S-043",
+      "filmKey": "Dogville|2003"
+    },
+    {
+      "id": "ART-S-044",
+      "filmKey": "Dogville|2003"
+    },
+    {
+      "id": "FF-047-YEAR",
+      "filmKey": "Dogville|2003"
+    },
+    {
+      "id": "FF-047-DIRECTOR",
+      "filmKey": "Dogville|2003"
+    },
+    {
+      "id": "F240-20261006-049-L1",
+      "filmKey": "Doraibu mai kā|2021"
+    },
+    {
+      "id": "F240-20261006-049-L2",
+      "filmKey": "Doraibu mai kā|2021"
+    },
+    {
+      "id": "F240-20261006-049-M1",
+      "filmKey": "Doraibu mai kā|2021"
+    },
+    {
+      "id": "F240-20261006-049-M2",
+      "filmKey": "Doraibu mai kā|2021"
+    },
+    {
+      "id": "F240-20261006-049-S1",
+      "filmKey": "Doraibu mai kā|2021"
+    },
+    {
+      "id": "F240-20261006-049-S2",
+      "filmKey": "Doraibu mai kā|2021"
+    },
+    {
+      "id": "F240-20261006-049-Y",
+      "filmKey": "Doraibu mai kā|2021"
+    },
+    {
+      "id": "F240-20261006-049-D",
+      "filmKey": "Doraibu mai kā|2021"
+    },
+    {
+      "id": "CLA-L-019",
+      "filmKey": "Double Indemnity|1944"
+    },
+    {
+      "id": "CLA-L-020",
+      "filmKey": "Double Indemnity|1944"
+    },
+    {
+      "id": "CLA-M-019",
+      "filmKey": "Double Indemnity|1944"
+    },
+    {
+      "id": "CLA-M-020",
+      "filmKey": "Double Indemnity|1944"
+    },
+    {
+      "id": "CLA-S-019",
+      "filmKey": "Double Indemnity|1944"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
