@@ -1,14 +1,14 @@
 {
   "asOf": "2026-10-10",
   "status": "Lauf aktiv",
-  "sourceCommit": "4c6448888fef8c83b5c7d7583aa6d48c1c4b3128",
+  "sourceCommit": "d2e5a3e2a5c02344224cbb422df52d54039e2ebe",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 450,
-  "totalReviewed": 600,
-  "remainingFilmQuestions": 10133,
+  "completedInThisRun": 500,
+  "totalReviewed": 650,
+  "remainingFilmQuestions": 10083,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 12173,
+  "remainingAllQuestions": 12123,
   "blocks": [
     {
       "block": 1,
@@ -53,6 +53,11 @@
     {
       "block": 9,
       "path": "Block-09.json",
+      "count": 50
+    },
+    {
+      "block": 10,
+      "path": "Block-10.json",
       "count": 50
     }
   ],
@@ -656,209 +661,59 @@
     "F240-20261006-107-M2",
     "F240-20261006-107-S1",
     "F240-20261006-107-S2",
-    "F240-20261006-107-Y"
+    "F240-20261006-107-Y",
+    "WES-L-013",
+    "WES-L-014",
+    "WES-M-013",
+    "WES-M-014",
+    "WES-S-014",
+    "WES-L-014-V1",
+    "WES-M-014-V1",
+    "WES-S-014-V1",
+    "FF-282-YEAR",
+    "E20261007-F-266-L1",
+    "E20261007-F-266-L2",
+    "E20261007-F-266-M1",
+    "E20261007-F-266-S1",
+    "E20261007-F-266-S2",
+    "E20261007-F-266-Y",
+    "E20261007-F-266-D",
+    "F240-20261006-157-L2",
+    "F240-20261006-157-M1",
+    "F240-20261006-157-M2",
+    "F240-20261006-157-S1",
+    "F240-20261006-157-S2",
+    "F240-20261006-157-Y",
+    "F240-20261006-157-D",
+    "G100-20261008-ROMCOM-004-L1",
+    "G100-20261008-ROMCOM-004-L2",
+    "G100-20261008-ROMCOM-004-M1",
+    "G100-20261008-ROMCOM-004-M2",
+    "G100-20261008-ROMCOM-004-S2",
+    "G100-20261008-ROMCOM-004-Y",
+    "G100-20261008-ROMCOM-004-D",
+    "G100-20261008-THRILLER-025-L1",
+    "G100-20261008-THRILLER-025-L2",
+    "G100-20261008-THRILLER-025-M2",
+    "G100-20261008-THRILLER-025-S1",
+    "G100-20261008-THRILLER-025-S2",
+    "G100-20261008-THRILLER-025-Y",
+    "G100-20261008-THRILLER-025-D",
+    "G100-20261008-WESTERN-020-L1",
+    "G100-20261008-WESTERN-020-L2",
+    "G100-20261008-WESTERN-020-M1",
+    "G100-20261008-WESTERN-020-M2",
+    "G100-20261008-WESTERN-020-S1",
+    "G100-20261008-WESTERN-020-S2",
+    "G100-20261008-WESTERN-020-Y",
+    "G100-20261008-WESTERN-020-D",
+    "ROM-202610-P01-L-005",
+    "ROM-202610-P01-L-006",
+    "ROM-202610-P01-M-007",
+    "ROM-202610-P01-M-008",
+    "ROM-202610-P01-S-007"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "WES-L-013",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-L-014",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-M-013",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-M-014",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-S-014",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-L-014-V1",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-M-014-V1",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-S-014-V1",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "FF-282-YEAR",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "E20261007-F-266-L1",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-L2",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-M1",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-S1",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-S2",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-Y",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-D",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "F240-20261006-157-L2",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-M1",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-M2",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-S1",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-S2",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-Y",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-D",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-L1",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-L2",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-M1",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-M2",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-S2",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-Y",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-D",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-L1",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-L2",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-M2",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-S1",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-S2",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-Y",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-D",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-L1",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-L2",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-M1",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-M2",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-S1",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-S2",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-Y",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-D",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "ROM-202610-P01-L-005",
-      "filmKey": "(500) Days of Summer|2009"
-    },
-    {
-      "id": "ROM-202610-P01-L-006",
-      "filmKey": "(500) Days of Summer|2009"
-    },
-    {
-      "id": "ROM-202610-P01-M-007",
-      "filmKey": "(500) Days of Summer|2009"
-    },
-    {
-      "id": "ROM-202610-P01-M-008",
-      "filmKey": "(500) Days of Summer|2009"
-    },
-    {
-      "id": "ROM-202610-P01-S-007",
-      "filmKey": "(500) Days of Summer|2009"
-    },
     {
       "id": "ROM-202610-P01-S-008",
       "filmKey": "(500) Days of Summer|2009"
@@ -41194,204 +41049,204 @@
   ],
   "next": [
     {
-      "id": "WES-L-013",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-L-014",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-M-013",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-M-014",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-S-014",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-L-014-V1",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-M-014-V1",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "WES-S-014-V1",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "FF-282-YEAR",
-      "filmKey": "Il mio nome è Nessuno|1973"
-    },
-    {
-      "id": "E20261007-F-266-L1",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-L2",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-M1",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-S1",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-S2",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-Y",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "E20261007-F-266-D",
-      "filmKey": "Kagemusha|1980"
-    },
-    {
-      "id": "F240-20261006-157-L2",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-M1",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-M2",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-S1",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-S2",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-Y",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "F240-20261006-157-D",
-      "filmKey": "Velvet Goldmine|1998"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-L1",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-L2",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-M1",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-M2",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-S2",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-Y",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-004-D",
-      "filmKey": "Annie Hall|1977"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-L1",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-L2",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-M2",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-S1",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-S2",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-Y",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-THRILLER-025-D",
-      "filmKey": "Le Cercle Rouge|1970"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-L1",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-L2",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-M1",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-M2",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-S1",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-S2",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-Y",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "G100-20261008-WESTERN-020-D",
-      "filmKey": "...continuavano a chiamarlo Trinità|1971"
-    },
-    {
-      "id": "ROM-202610-P01-L-005",
+      "id": "ROM-202610-P01-S-008",
       "filmKey": "(500) Days of Summer|2009"
     },
     {
-      "id": "ROM-202610-P01-L-006",
+      "id": "ROM-202610-P01-M-009",
       "filmKey": "(500) Days of Summer|2009"
     },
     {
-      "id": "ROM-202610-P01-M-007",
+      "id": "ROM-202610-P01-S-009",
       "filmKey": "(500) Days of Summer|2009"
     },
     {
-      "id": "ROM-202610-P01-M-008",
-      "filmKey": "(500) Days of Summer|2009"
+      "id": "ROM-L-025",
+      "filmKey": "10 Things I Hate About You|1999"
     },
     {
-      "id": "ROM-202610-P01-S-007",
-      "filmKey": "(500) Days of Summer|2009"
+      "id": "ROM-L-026",
+      "filmKey": "10 Things I Hate About You|1999"
+    },
+    {
+      "id": "ROM-M-025",
+      "filmKey": "10 Things I Hate About You|1999"
+    },
+    {
+      "id": "ROM-M-026",
+      "filmKey": "10 Things I Hate About You|1999"
+    },
+    {
+      "id": "ROM-S-025",
+      "filmKey": "10 Things I Hate About You|1999"
+    },
+    {
+      "id": "ROM-S-026",
+      "filmKey": "10 Things I Hate About You|1999"
+    },
+    {
+      "id": "FF-263-YEAR",
+      "filmKey": "10 Things I Hate About You|1999"
+    },
+    {
+      "id": "FF-263-DIRECTOR",
+      "filmKey": "10 Things I Hate About You|1999"
+    },
+    {
+      "id": "SF-L-022",
+      "filmKey": "12 Monkeys|1995"
+    },
+    {
+      "id": "SF-M-022",
+      "filmKey": "12 Monkeys|1995"
+    },
+    {
+      "id": "SF-S-022",
+      "filmKey": "12 Monkeys|1995"
+    },
+    {
+      "id": "FF-147-YEAR",
+      "filmKey": "12 Monkeys|1995"
+    },
+    {
+      "id": "FF-147-DIRECTOR",
+      "filmKey": "12 Monkeys|1995"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-015-L1",
+      "filmKey": "13 Going on 30|2004"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-015-L2",
+      "filmKey": "13 Going on 30|2004"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-015-M1",
+      "filmKey": "13 Going on 30|2004"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-015-M2",
+      "filmKey": "13 Going on 30|2004"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-015-S1",
+      "filmKey": "13 Going on 30|2004"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-015-S2",
+      "filmKey": "13 Going on 30|2004"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-015-Y",
+      "filmKey": "13 Going on 30|2004"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-015-D",
+      "filmKey": "13 Going on 30|2004"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-027-L1",
+      "filmKey": "1492: Conquest of Paradise|1992"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-027-L2",
+      "filmKey": "1492: Conquest of Paradise|1992"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-027-M1",
+      "filmKey": "1492: Conquest of Paradise|1992"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-027-M2",
+      "filmKey": "1492: Conquest of Paradise|1992"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-027-S1",
+      "filmKey": "1492: Conquest of Paradise|1992"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-027-S2",
+      "filmKey": "1492: Conquest of Paradise|1992"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-027-Y",
+      "filmKey": "1492: Conquest of Paradise|1992"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-027-D",
+      "filmKey": "1492: Conquest of Paradise|1992"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-003-L1",
+      "filmKey": "20,000 Leagues Under the Sea|1954"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-003-L2",
+      "filmKey": "20,000 Leagues Under the Sea|1954"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-003-M1",
+      "filmKey": "20,000 Leagues Under the Sea|1954"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-003-M2",
+      "filmKey": "20,000 Leagues Under the Sea|1954"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-003-S1",
+      "filmKey": "20,000 Leagues Under the Sea|1954"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-003-S2",
+      "filmKey": "20,000 Leagues Under the Sea|1954"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-003-Y",
+      "filmKey": "20,000 Leagues Under the Sea|1954"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-003-D",
+      "filmKey": "20,000 Leagues Under the Sea|1954"
+    },
+    {
+      "id": "SF-202609-P02-L-001",
+      "filmKey": "2001: A Space Odyssey|1968"
+    },
+    {
+      "id": "SF-202609-P02-L-002",
+      "filmKey": "2001: A Space Odyssey|1968"
+    },
+    {
+      "id": "SF-202609-P02-M-001",
+      "filmKey": "2001: A Space Odyssey|1968"
+    },
+    {
+      "id": "SF-202609-P02-M-002",
+      "filmKey": "2001: A Space Odyssey|1968"
+    },
+    {
+      "id": "SF-202609-P02-S-001",
+      "filmKey": "2001: A Space Odyssey|1968"
+    },
+    {
+      "id": "SF-202609-P02-S-002",
+      "filmKey": "2001: A Space Odyssey|1968"
+    },
+    {
+      "id": "SF-202609-P02-L-001-V1",
+      "filmKey": "2001: A Space Odyssey|1968"
+    },
+    {
+      "id": "SF-202609-P02-S-002-V1",
+      "filmKey": "2001: A Space Odyssey|1968"
+    },
+    {
+      "id": "FF-326-YEAR",
+      "filmKey": "2001: A Space Odyssey|1968"
+    },
+    {
+      "id": "FF-326-DIRECTOR",
+      "filmKey": "2001: A Space Odyssey|1968"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
