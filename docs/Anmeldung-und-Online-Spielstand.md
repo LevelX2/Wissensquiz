@@ -4,7 +4,7 @@
 
 Zum Spielen ist immer eine Anmeldung nötig. Offline-Paket und dauerhafte lokale Spielstände sind unerwünscht und werden entfernt. [Originalanweisungen](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Anmeldung%20und%20Online-Spielstand.txt).
 
-Das ersetzt frühere Projektbeschreibungen zu Gastspiel, IndexedDB und Offline-PWA. Die öffentliche Website benötigt weiterhin keine vorgeschaltete ChatGPT-Anmeldung; innerhalb des Quiz ist ein bestätigtes Quiz-Konto erforderlich. Diese lokale Änderung ist noch nicht veröffentlicht.
+Das ersetzt frühere Projektbeschreibungen zu Gastspiel, IndexedDB und Offline-PWA. Die öffentliche Website benötigt weiterhin keine vorgeschaltete ChatGPT-Anmeldung; innerhalb des Quiz ist ein bestätigtes Quiz-Konto erforderlich. Seit Sites-Version 59 am 10.10.2026 veröffentlicht. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-10-Version-59.json).
 
 ## Laufender Spielbetrieb
 

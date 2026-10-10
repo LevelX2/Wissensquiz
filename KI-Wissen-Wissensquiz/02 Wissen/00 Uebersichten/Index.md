@@ -1,10 +1,13 @@
 # Wissensindex
 
+- [Version 59: Poster für alle SciFi-Filme, Anmeldungspflicht und Online-Spielstand](../../../docs/Sites-Betrieb.md#version-59-scifi-poster-anmeldung-und-online-spielstand)
+- [Version 59: Quellcommit, Paket, Liveprüfungen und Grenzen](../../../docs/Veroeffentlichung-2026-10-10-Version-59.json)
+
 - [Antwortfarben auch bei Auflösung nach der Runde; Anzeigezeit ohne Abzug vom Zeitkonto – 10.10.2026](../../../docs/Lernregeln.md#antwortanzeige-bei-auflösung-nach-der-runde--10102026)
 
-- [Anmeldung zwingend, Spielstand ausschließlich online, Offline-Paket entfernt – lokaler Stand 10.10.2026](../../../docs/Anmeldung-und-Online-Spielstand.md)
+- [Anmeldung zwingend, Spielstand ausschließlich online, Offline-Paket entfernt – seit Version 59 veröffentlicht – 10.10.2026](../../../docs/Anmeldung-und-Online-Spielstand.md)
 
-- [Filmposter für alle 154 SciFi-Filmfassungen: Zugang, Online-Anzeige und Erneuerung – lokaler Stand 10.10.2026](../../../docs/Filmposter.md)
+- [Filmposter für alle 154 SciFi-Filmfassungen: Zugang, Online-Anzeige und Erneuerung – seit Version 59 veröffentlicht – 10.10.2026](../../../docs/Filmposter.md)
 
 - [Version 58 veröffentlicht: alle Genres mindestens 100 Filme und fällige Wiederholungen](../../../docs/Sites-Betrieb.md#version-58-genreausbau-und-fällige-wiederholungen)
 - [Version 58: Main-Quellcommit, Archiv, Online- und Duellkatalog](../../../docs/Veroeffentlichung-2026-10-09-Version-58.json)
@@ -31,7 +34,6 @@
 - [Je Kategorie 20 weitere Einträge: 320 Einträge und 2.480 Fragen seit Version 57 veröffentlicht – 07.10.2026](../../../docs/Erweiterung-2026-10-07/Pruefbericht.md)
 - [Alle neuen Fragen mit Lösungen und Vertiefungen](../../../docs/Erweiterung-2026-10-07/Fragenlesefassung.md)
 - [Nutzerauftrag zur weiteren Erweiterung](../../01%20Rohquellen/2026-10-07%20Nutzerauftrag%20Erweiterung%20je%20Kategorie.txt)
-
 
 - [200 neue Schauspieler-Bildfragen: Porträt vor der Antwort, Namen und Nachweise danach – 07.10.2026](../../../docs/Schauspieler-Bilderkennung-2026-10-07/Pruefbericht.md)
 - [Lesefassung aller 200 Bildfragen mit Lösungen](../../../docs/Schauspieler-Bilderkennung-2026-10-07/Lesefassung.md)
@@ -193,7 +195,6 @@
 
 - [Kompakte Spielen-Seite, Fragen-/Gebietszeile, mobile Menüleiste am Bildschirmrand, Navigation und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
 - [Nutzerhinweis: nur die gewählte Startmoduskachel anzeigen](../../01%20Rohquellen/2026-10-03%20Nutzerhinweis%20einzelne%20Startmoduskachel.txt)
-
 
 - [Classics-Rohquelle](../../01%20Rohquellen/Classics_Quiz_180_Fragen.csv)
 - [Classics-Bestandszuordnungen](../../01%20Rohquellen/Classics_Zuordnungen_Bestand.json)

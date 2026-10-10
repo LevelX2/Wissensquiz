@@ -1,5 +1,17 @@
 # Sites-Veröffentlichung
 
+## Version 59: SciFi-Poster, Anmeldung und Online-Spielstand
+
+Am **10.10.2026 um 08:35:03 Uhr Europe/Berlin** erfolgreich veröffentlicht, nativer Status **succeeded**. Gesamter committeter Main-Stand einschließlich Antwortfarben und Anzeigedauer bei gesammelten Lösungen. Poster für alle **154 SciFi-Filmfassungen / 1.173 Fragen** nach bestätigter Antwort beziehungsweise im Rückblick. Spielen ausschließlich mit bestätigter Quiz-Anmeldung, dauerhafter Fortschritt ausschließlich privat online; kein Offline-Paket und keine automatische lokale Spielstandsablage. Bestehende Geräte-Datenbanken bleiben unangetastet. Der mitgelieferte Stilllegungs-Worker entfernt nur frühere statische Film-Caches und meldet sich ab. Alte App-Fenster schließen und neu öffnen.
+
+Projekt-ID, öffentliche Adresse und Besucherzugriff **public, Revision 2** erhalten. Quellcommit **b6ca4e6179b286b6476b0e4040054a30fd24f2a0**, gespeicherte Version **appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_e9d63849ac6881919a0afb50590a5203**, Deployment **appgdep_6ac9dc6a0f68819181dd48c900989f7b**. Regulärer Sites-Workflow aus sauberer Kopie des exakten Main-Commits; nur Sites-Source-Push, kein GitHub-Push. Betreiberindex ausdrücklich als ignorierte öffentliche Build-Datei übernommen; keine TMDB-Zugangsdaten oder privaten Spielstände im Archiv. Index gültig bis **10.03.2027**, rechtzeitig erneuern und alte Kopien entfernen.
+
+**417 Tests in 68 Dateien und elf Poster-Browserfälle** für unveränderten Quellstand wiederverwendet. TypeScript und Produktionsbuild mit Versionsnummer 59 erneut erfolgreich; beide Versions-/Zeit-/Neuladen-Prüfungen in Chromium und mobilem WebKit bestanden. Alle **479 Produktionsdateien** im lokalen Paket bytegleich zum geprüften Build, zusätzlich Hostingmanifest semantisch geprüft. Native Archivmetadaten: **480 Dateien, 83.271.680 Bytes**, Hash **sha256:897f5163f0e7e15dd3d32f24a43a1bf26db7f8b086549d44b14cf52642b14320**. Abweichende lokale TAR-Metadaten separat im Nachweis; kein Gleichheitsnachweis zwischen lokaler TAR-Datei und nativem Speicherhash behauptet.
+
+Öffentlicher Onlinekatalog weiterhin **12.773 Fragen**, Hash unverändert; kein erneuter Katalogrollout und keine Migration. Tatsächliche Veröffentlichungszeit und Quellcommit dauerhaft gespeichert, separat zurückgelesen und anonym über quiz_app_release(59) bestätigt. Direkter Tabellenzugriff gesperrt. Anonyme Live-HTTP-Abrufe von Startseite, App-JavaScript, Posterindex, TMDB-Logo, Stilllegungs-Worker und Kontokonfiguration erfolgreich; fünf Dateien bytegleich zum Build. 14 vorgefundene Importberichte bytegleich erhalten.
+
+**Grenze der Liveprüfung:** Der IAB verwendete eine bereits angemeldete Quiz-Sitzung. Beim Prüfen des Spieleinstiegs wurde versehentlich eine echte Runde gestartet; keine Antwort ausgewählt, Prüftab geschlossen und Nutzer informiert. Keine weitere Änderung oder Rücksetzung des Kontostands. Das ist keine isolierte Anmeldegate-Abnahme; maßgeblich bleiben die kontrollierten Browsertests. Keine physische Geräteabnahme. Native Browserübergabe angefordert. [Maschinenlesbarer Nachweis](Veroeffentlichung-2026-10-10-Version-59.json), [Prüfbericht](Pruefbericht.md).
+
 ## Version 58: Genreausbau und fällige Wiederholungen
 
 Am **09.10.2026 um 09:17:18 Uhr Europe/Berlin** als **Sites-Version 58 öffentlich veröffentlicht**, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Exakter Main-Quellcommit `91e05da33468ad617769bf45d726273530fbed40`; bestehende Projekt-ID und öffentlicher Besucherzugriff (Revision 2) erhalten. [Maschinenlesbarer Nachweis](Veroeffentlichung-2026-10-09-Version-58.json).
@@ -12,7 +24,6 @@ Onlinekatalog `35ba8d20e83b30f5b285abc115ff69f1f416ffde0b44d945840548f18cc8721d`
 
 Tatsächliche Veröffentlichungszeit `2026-10-09T07:17:18.805510+00:00` und Quellcommit dauerhaft gespeichert, separat zurückgelesen und anonym über `quiz_app_release(58)` bestätigt; direkter Tabellenzugriff weiterhin gesperrt. Native Browserübergabe angefordert; keine zusätzliche Live-Browserprüfung oder physische Geräteabnahme. Kein GitHub-Push.
 
-
 ## Version 57: 200 Bildfragen mit 400 Fotos und 2.480 weitere Fragen
 
 Am **07.10.2026 um 16:29:48 Uhr Europe/Berlin** als **Sites-Version 57 öffentlich veröffentlicht**, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Quellcommit `be1bf65703ee67b1fdd71b0eb7a94ade7a65ec3d`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_3ff437e0fb508191a2c80b147319da2f`, Deployment `appgdep_6ac65741b40c81919400189c567c3516`. Öffentlicher Zugriff (`public`, Revision 2) und Projekt-ID nativ erneut bestätigt. [Maschinenlesbarer Veröffentlichungsnachweis](Veroeffentlichung-2026-10-07-Version-57.json).
@@ -24,7 +35,6 @@ Vollständiger committeter Main-Stand: 200 Schauspieler-Erkennungsfragen für je
 Onlinekatalog `473ebc3770f984426007db3462e92d9b62358a06296b2d62a0ce4e9924669a83` mit 10.877 Fragen, Nachweisen und Bewertungsfeldern vollständig geprüft und transaktional freigegeben; fünf frühere Kataloge erhalten, alle 489 Bereitstellungsteile entfernt. Duellkatalog ausschließlich um 2.300 neue zulässige Fragen auf **9.047 aktive Fragen** ergänzt. Alle bisherigen 6.747 Fragen unverändert (Fingerprint `153bb9413ef758d99757e6beedffdec0`); neue Inhalte unabhängig über PostgreSQL/WASM und live mit Fingerprint `aa3180b0dede303d80f1369bf788c7d1` bestätigt. Bestehende Personen-Bildfragen bleiben gemäß Duellvertrag außerhalb des Duellkatalogs. Keine Migration oder Änderung privater Spielstände und laufender Duellsnapshots.
 
 Tatsächliche Veröffentlichungszeit `2026-10-07T14:29:48.553681+00:00` und Quellcommit separat dauerhaft gespeichert, zurückgelesen und anonym über `quiz_app_release(57)` bestätigt; direkter Tabellenzugriff bleibt gesperrt. 17 vorgefundene offene Dateien und fremde Wissenshunks erhalten. Native Browserübergabe angefordert. Kein GitHub-Push.
-
 
 ## Version 56: 240 zusätzliche Filme und 1.920 Fragen
 
@@ -219,7 +229,7 @@ Erst nach nativ bestätigtem Deployment `succeeded` wird die Versionszeile in `p
 5. Der gebündelte Build-Helfer fand npm in dieser Windows-Umgebung nicht korrekt. `npm run build` in PowerShell war erfolgreich; danach im Workflow den unveränderten Build mit leerer `commands`-Liste verwenden. Der Workflow prüft und pusht den Quellstand und paketiert das Artefakt.
 6. Genau den zurückgegebenen Commit und Archivpfad speichern und veröffentlichen. Bei der inzwischen öffentlichen Site `sites_save_site_version` und `sites_deploy_site_version` verwenden; ausschließlich bei nachgewiesenem Eigentümerzugriff `sites_save_version_and_deploy_private`. Freigabe nicht zum Veröffentlichen ändern. Bei bereits gespeicherter Version diese weiterverwenden. Auf `succeeded` samt URL warten; anschließend die native Browserübergabe verwenden.
 
-Keine Nutzerspielstände im Deployment veröffentlichen. Gaststände liegen im Browser; Kontostände zusätzlich privat in Supabase. Bei Adresswechsel JSON exportieren/importieren. Updates warten auf das Schließen alter App-Fenster. Das neue Action-Paket ergänzt bestehende Sci-Fi-Spielstände transaktional.
+Keine Nutzerspielstände im Deployment veröffentlichen. Seit Version 59 ist eine bestätigte Quiz-Anmeldung zum Spielen nötig; dauerhafte Spielstände liegen ausschließlich privat in Supabase. Kein Offline-Paket und keine automatische lokale Spielstandsablage. Bei alter Ansicht alle Quiz-Fenster schließen und neu öffnen. Frühere IndexedDB-/Gast-/Offline-Aussagen in den historischen Veröffentlichungsnachweisen beschreiben ausschließlich damalige Versionen.
 
 Seit Version 3 enthält die Live-Site zusätzlich das Horror-Paket. Es ergänzt bestehende Sci-Fi-/Action-Spielstände über denselben Mechanismus und ist im Produktions-Build für den Offline-Cache enthalten. Projekt-ID, URL und privater Zugriff bleiben unverändert.
 

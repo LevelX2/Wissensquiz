@@ -1,0 +1,119 @@
+{
+  "asOf": "2026-10-10",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 59,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_e9d63849ac6881919a0afb50590a5203",
+  "source_commit": "b6ca4e6179b286b6476b0e4040054a30fd24f2a0",
+  "deployment_id": "appgdep_6ac9dc6a0f68819181dd48c900989f7b",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-10T06:35:03.134338+00:00",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000a7588210946b973ab1d096a1",
+    "content_hash": "sha256:897f5163f0e7e15dd3d32f24a43a1bf26db7f8b086549d44b14cf52642b14320",
+    "size_bytes": 83271680,
+    "file_count": 480
+  },
+  "localArchive": {
+    "buildFiles": 479,
+    "archiveFiles": 480,
+    "sha256": "bbb927b4690a9632ff4525edb2c0c3e8e6b8ad4654c4b6a4d8413e2b0764a109",
+    "bytes": 63638220,
+    "posters": 154
+  },
+  "access": {
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "packages": 33,
+  "catalog": {
+    "questions": 12773,
+    "knowledgeGoals": 12207,
+    "releaseHash": "35ba8d20e83b30f5b285abc115ff69f1f416ffde0b44d945840548f18cc8721d",
+    "unchanged": true,
+    "republished": false
+  },
+  "posters": {
+    "filmEditions": 154,
+    "questions": 1173,
+    "indexCheckedAt": "2026-10-10",
+    "expiresAt": "2027-03-10",
+    "indexInGit": false,
+    "indexInDeployment": true,
+    "apiKeyInDeployment": false
+  },
+  "checks": {
+    "tests": 417,
+    "testFiles": 68,
+    "priorPosterBrowserCases": 11,
+    "releaseBrowserCases": 2,
+    "buildVersion": 59,
+    "typeScript": true,
+    "productionBuild": true,
+    "packagedBuildFiles": 479,
+    "packagedBuildByteIdentical": true,
+    "sourceWorkflowCommitMatchesMain": true,
+    "foreignFilesPreserved": 14,
+    "githubPush": false,
+    "schemaMigration": false,
+    "releaseMetadataPersistedAndRead": true,
+    "anonymousReleaseRpc": true,
+    "directReleaseTableAccess": false,
+    "nativeBrowserHandoff": "queued"
+  },
+  "live": {
+    "anonymousHTML": 200,
+    "checks": [
+      {
+        "path": "/assets/index-D52lwlrG.js",
+        "status": 200,
+        "bytes": 5747469,
+        "sha256": "74f7bbf6a899b6115cd05924f15de3441df1ec83725103e78d9d3736ce406a7b"
+      },
+      {
+        "path": "/film-posters.json",
+        "status": 200,
+        "bytes": 59459,
+        "sha256": "5053f372e2c0ac4ca43e00ddb262424d492967487d15ed24a6fb33849599fc29"
+      },
+      {
+        "path": "/tmdb-logo.svg",
+        "status": 200,
+        "bytes": 2232,
+        "sha256": "5bdc75aaebeb75dc7ae79426ddd9be3b2be1e342510f8202baf6bffa71d7f5c4"
+      },
+      {
+        "path": "/sw.js",
+        "status": 200,
+        "bytes": 726,
+        "sha256": "f005a22fcf4146fe6724f0e9b52eea6dd2a314677c69d08a8bbc14db9543b34b"
+      },
+      {
+        "path": "/account-config.json",
+        "status": 200,
+        "bytes": 158,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      }
+    ]
+  },
+  "liveBrowser": {
+    "visited": true,
+    "isolated": false,
+    "existingQuizSessionDetected": true,
+    "realRoundStarted": true,
+    "answerSelected": false,
+    "testTabClosed": true,
+    "anonymousLoginGateVerified": false
+  },
+  "limits": [
+    "Keine physische Geräteabnahme.",
+    "Liveprüfung versehentlich mit vorhandener Quiz-Sitzung: Runde gestartet, keine Antwort gewählt, Tab geschlossen; nicht als isolierte Abnahme gewertet.",
+    "Früher geöffnete App-Fenster können den alten Stand behalten; schließen und neu öffnen."
+  ],
+  "offline": {
+    "package": false,
+    "automaticLocalGameState": false,
+    "retirementWorker": true
+  }
+}

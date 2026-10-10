@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 10.10.2026 – gesamter Main-Stand als Version 59 veröffentlicht
+
+Veröffentlichung um **08:35:03 Uhr Europe/Berlin**, nativ succeeded. Saubere Kopie von Main b6ca4e6, vollständiger öffentlicher Posterindex für 154 SciFi-Filmfassungen mit ausgeliefert; kein Schlüssel und keine privaten Spielstände im Artefakt. **417 Tests / 68 Dateien sowie elf Poster-Browserfälle** für identischen Quellstand wiederverwendet. **TypeScript, Produktionsbuild mit VITE_SITE_VERSION=59 und zwei Versions-/Zeit-/Neuladen-Fälle** in Chromium und mobilem WebKit erneut erfolgreich. Alle 479 Builddateien im Paket bytegleich geprüft, Hostingmanifest semantisch geprüft. Bestehende Vite-Größenwarnung unverändert. 14 vorgefundene Importberichte bytegleich erhalten; kein GitHub-Push.
+
+Öffentlicher Zugriff Revision 2 erhalten. Anonyme Live-HTTP-Prüfung: Startseite 200; aktuelles JavaScript, Posterindex, Logo, Stilllegungs-Worker und Kontokonfiguration jeweils 200 und bytegleich. Veröffentlichungszeit separat dauerhaft in Supabase gespeichert und zurückgelesen, öffentliche RPC-Abfrage 200, direkter Tabellenzugriff 401. Kataloghash und 12.773 Fragen lesend bestätigt; keine Migration oder Katalogveröffentlichung.
+
+**Abweichung:** Die zusätzliche IAB-Liveprüfung lief versehentlich mit vorhandener echter Quiz-Sitzung. Klick auf Losspielen startete eine Runde; keine Antwort ausgewählt, Tab geschlossen und Nutzer unmittelbar informiert. Keine Rücksetzung oder weitere Änderung des Kontos. Daher keine anonyme oder isolierte Browserabnahme aus diesem Livecheck ableiten und nicht behaupten, dass dabei keinerlei reale Spielstände berührt wurden. Sonstige Prüfungen weiterhin isoliert, mit synthetischen Kontodiensten und kontrollierter Zeit. Keine physische Geräteabnahme. [Vollständiger Veröffentlichungsnachweis](Veroeffentlichung-2026-10-10-Version-59.json).
+
 ## 10.10.2026 – SciFi-Poster und vorhandener TMDB-Zugang
 
 Nach Anmeldung des Nutzers den bereits vorhandenen TMDB-Zugang gefunden, lokal in einer ignorierten Datei hinterlegt und auf aktuelles Windows-Konto sowie SYSTEM beschränkt. Keine Neuregistrierung, Schlüsselerzeugung oder Änderung des TMDB-Kontos. Konfiguration und API-Lesezugriff erfolgreich geprüft; keine Zugangsdaten im Browsercode, in der Testkopie oder in Veröffentlichungsdateien.

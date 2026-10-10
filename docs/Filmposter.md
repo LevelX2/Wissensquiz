@@ -1,6 +1,6 @@
 # Filmposter nach der Antwort
 
-Stand: 10.10.2026. **TMDB-Zugang vorhanden und geprüft; SciFi-Poster lokal eingebaut, noch nicht veröffentlicht.** Der vorhandene Zugang des Nutzers wurde nach seiner Anmeldung verwendet. Kein neuer Account, neuer Schlüssel oder neuer API-Antrag war erforderlich.
+Stand: 10.10.2026. **TMDB-Zugang vorhanden und geprüft; SciFi-Poster seit Sites-Version 59 veröffentlicht.** Der vorhandene Zugang des Nutzers wurde nach seiner Anmeldung verwendet. Kein neuer Account, neuer Schlüssel oder neuer API-Antrag war erforderlich. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-10-Version-59.json).
 
 ## Umfang und Darstellung
 

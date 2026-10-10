@@ -1,8 +1,8 @@
 # Wissensquiz · Dein Filmkosmos
 
-Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Zum Spielen ist ein bestätigtes Quiz-Konto erforderlich. Der Fortschritt wird ausschließlich privat online gespeichert; ein Offline-Paket und automatische lokale Spielstände gibt es im aktuellen lokalen Stand nicht.
+Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Zum Spielen ist ein bestätigtes Quiz-Konto erforderlich. Der Fortschritt wird ausschließlich privat online gespeichert; ein Offline-Paket und automatische lokale Spielstände gibt es nicht.
 
-Stand 09.10.2026, öffentlich als **Sites-Version 58**: **33 Quellenpakete, 12.773 Fragen und 12.207 Wissensziele**. Alle zwölf Filmgenres umfassen mindestens 100 Filme; neun Genres wurden um 237 Filmfassungen und 1.896 Fragen erweitert. Die Übersicht fälliger Wiederholungen ist ebenfalls veröffentlicht. [Bestand aller Bereiche](docs/Genres-100-2026-10-08/Bestandsuebersicht.md), [Betrieb](docs/Sites-Betrieb.md), [Prüfnachweise](docs/Pruefbericht.md).
+Stand 10.10.2026, öffentlich als **Sites-Version 59**: Anmeldungspflicht, ausschließlich online gespeicherter Spielstand und Poster zu allen **154 SciFi-Filmfassungen** nach der Antwort. Antwortfarben und Anzeigedauer auch bei gesammelter Auflösung erhalten. Unverändert **33 Quellenpakete, 12.773 Fragen und 12.207 Wissensziele**. Alle zwölf Filmgenres umfassen mindestens 100 Filme; die Übersicht fälliger Wiederholungen ist ebenfalls veröffentlicht. [Bestand aller Bereiche](docs/Genres-100-2026-10-08/Bestandsuebersicht.md), [Betrieb](docs/Sites-Betrieb.md), [Prüfnachweise](docs/Pruefbericht.md).
 
 ## Starten
 
@@ -37,7 +37,7 @@ Seit Sites-Version 55: Bestätigte Quiz-Konten können aus einer Frage oder dem 
 
 ## Anmeldung und Speicherung
 
-Der aktuelle lokale Stand verlangt eine bestätigte Quiz-Anmeldung und speichert ausschließlich online. Antworten zählen erst nach Serverbestätigung; bei Speicherfehlern gibt es eine ausdrückliche Wiederholung. Revisionen verhindern das Überschreiben neuerer Gerätestände. Gastspiel, automatische Browser-Spielstände und Offline-Paket sind entfernt. Vorhandene Browserdaten werden nicht ungefragt gelöscht. JSON-Export und bestätigte Wiederherstellung bleiben manuelle Kontoaktionen. [Aktueller Vertrag und Veröffentlichungsgrenze](docs/Anmeldung-und-Online-Spielstand.md).
+Seit Version 59 verlangt das Quiz eine bestätigte Quiz-Anmeldung und speichert ausschließlich online. Antworten zählen erst nach Serverbestätigung; bei Speicherfehlern gibt es eine ausdrückliche Wiederholung. Revisionen verhindern das Überschreiben neuerer Gerätestände. Gastspiel, automatische Browser-Spielstände und Offline-Paket sind entfernt. Vorhandene Browserdaten werden nicht ungefragt gelöscht. JSON-Export und bestätigte Wiederherstellung bleiben manuelle Kontoaktionen. [Aktueller Vertrag und Veröffentlichungsgrenze](docs/Anmeldung-und-Online-Spielstand.md).
 
 ## Projektaufbau
 
