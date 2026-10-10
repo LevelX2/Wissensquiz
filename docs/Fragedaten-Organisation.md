@@ -1,8 +1,12 @@
 # Organisation der Fragedaten
 
-> Aktueller lokaler Vertrag seit 10.10.2026: [Anmeldung und ausschließlich online gespeicherter Spielstand](Anmeldung-und-Online-Spielstand.md). Frühere Abschnitte zu Gaststand, IndexedDB, Outbox und Offline-PWA beschreiben den damaligen veröffentlichten Stand und sind durch den neuen Nutzerauftrag abgelöst. Noch nicht neu veröffentlicht.
+> Aktueller lokaler Vertrag seit 10.10.2026: [Anmeldung und ausschließlich online gespeicherter Spielstand](Anmeldung-und-Online-Spielstand.md). Frühere Abschnitte zu Gaststand, IndexedDB, Outbox und Offline-PWA beschreiben den damaligen veröffentlichten Stand und sind durch den neuen Nutzerauftrag abgelöst. Seit Sites-Version 59 veröffentlicht.
 
-## Veröffentlichter Bestand – 09.10.2026, Version 58
+## Veröffentlichter Bestand – 10.10.2026, Version 61
+
+**33 Pakete, 12.773 Fragen und 12.207 Wissensziele.** Onlinekatalog `5e27cf15a45c6c021bfd413fa785545b5229f354c31de65d607af9bb6cddcf08` mit Brazil-Korrektur vollständig freigegeben; 587 Bereitstellungsteile entfernt. Dieselbe Frage für neue Duelle aktualisiert, übrige 10.942 Duellfragen unverändert. Historische Releases und laufende Duellsnapshots erhalten. [Nachweis](Veroeffentlichung-2026-10-10-Version-61.json).
+
+## Früherer veröffentlichter Bestand – 09.10.2026, Version 58
 
 **33 Pakete, 12.773 Fragen und 12.207 Wissensziele.** Genreausbau mit 237 zusätzlichen Filmfassungen und 1.896 Fragen vollständig veröffentlicht. Onlinekatalog `35ba8d20e83b30f5b285abc115ff69f1f416ffde0b44d945840548f18cc8721d` mit allen Nachweisen und Bewertungsfeldern geprüft, sechs frühere Releases erhalten und keine Bereitstellungsteile offen. Duellkatalog 10.943 aktive Fragen; bisherige 9.047 Fragen unverändert. [Betrieb und Katalognachweise](Sites-Betrieb.md#version-58-genreausbau-und-fällige-wiederholungen). Die nachfolgenden datierten Bestände dokumentieren die früheren Stände.
 

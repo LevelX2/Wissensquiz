@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**10.10.2026 – Version 61 veröffentlicht:** Neu/Wiederholung vor der Antwort mit eigenem Optionsschalter. Fester Quellcommit 7b2ceea, 434 Tests, Versionsbuild, zwölf gezielte Browserfälle und Archiv-/Livegleichheit geprüft. Gesamter aktueller Main-Stand enthalten. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-61.json).
+
 **10.10.2026 – Version 60 veröffentlicht:** Poster zu allen 1.405 referenzierten Filmfassungen, kompakte Rückmeldung und dezentes Neu-Kennzeichen. 427 Tests, Versionsbuild, 20 gezielte Browserfälle und Archiv-/Livegleichheit geprüft. [Nachweis](../docs/Veroeffentlichung-2026-10-10-Version-60.json).
 
 **10.10.2026 – Version 59 veröffentlicht:** SciFi-Poster, Anmeldungspflicht und ausschließlich online gespeicherter Spielstand; Antwortfarben und Anzeigedauer auch bei gesammelter Auflösung. 417 Tests, Versionsbuild, 13 gezielte Poster-/Versions-Browserfälle und Archivgleichheit geprüft. Öffentliche Adresse erhalten. Bei zusätzlicher Liveprüfung versehentlich Runde in bestehender Quiz-Sitzung gestartet, keine Antwort gewählt; Nutzer informiert. [Betrieb und Grenzen](../docs/Sites-Betrieb.md#version-59-scifi-poster-anmeldung-und-online-spielstand).
@@ -12,7 +14,7 @@ Stand: 10.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
-- Lokal am 10.10.2026 den Fragenstatus vorgezogen: kleines „Neu“ beziehungsweise „Wiederholung · N×“ neben Genre und Schwierigkeit, vor und nach der Antwort stabil. Eigener Optionsschalter, unabhängig von der ausführlichen Fragenstatistik; Zählung früherer Antwortereignisse je Frage-ID, keine Speicherung bloßer Sichtkontakte. [Anzeige und Zählvertrag](../docs/Lernregeln.md#kompakte-antwortansicht--10102026).
+- Seit Sites-Version 61 am 10.10.2026 den Fragenstatus vorgezogen: kleines „Neu“ beziehungsweise „Wiederholung · N×“ neben Genre und Schwierigkeit, vor und nach der Antwort stabil. Eigener Optionsschalter, unabhängig von der ausführlichen Fragenstatistik; Zählung früherer Antwortereignisse je Frage-ID, keine Speicherung bloßer Sichtkontakte. [Anzeige und Zählvertrag](../docs/Lernregeln.md#kompakte-antwortansicht--10102026).
 
 - Lokal am 10.10.2026 fällige Festigungswiederholungen und offene Fehler verständlich getrennt. Filmreise bietet reine fällige Wiederholungen oder eine Mischung mit neuen Zielen; fällige Ziele werden nicht mehr durch den neuen Bestand verdrängt. Vier Lernintervalle in der Hilfe erläutert. Noch nicht veröffentlicht. [Auswahl, Lernstufen und Grenzen](../docs/Wiederholungen-und-Lernstufen-2026-10-10.md).
 

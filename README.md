@@ -2,7 +2,7 @@
 
 Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Zum Spielen ist ein bestätigtes Quiz-Konto erforderlich. Der Fortschritt wird ausschließlich privat online gespeichert; ein Offline-Paket und automatische lokale Spielstände gibt es nicht.
 
-Stand 10.10.2026, öffentlich als **Sites-Version 60**: Anmeldungspflicht, ausschließlich online gespeicherter Spielstand und Poster zu allen **1.405 referenzierten Filmfassungen** nach der Antwort. Kompakte Rückmeldung und dezentes „Neu“ ersetzen die große Entdeckungsüberschrift. Antwortfarben und Anzeigedauer auch bei gesammelter Auflösung erhalten. Unverändert **33 Quellenpakete, 12.773 Fragen und 12.207 Wissensziele**. Alle zwölf Filmgenres umfassen mindestens 100 Filme; die Übersicht fälliger Wiederholungen ist ebenfalls veröffentlicht. [Bestand aller Bereiche](docs/Genres-100-2026-10-08/Bestandsuebersicht.md), [Betrieb](docs/Sites-Betrieb.md), [Prüfnachweise](docs/Pruefbericht.md).
+Stand 10.10.2026, öffentlich als **Sites-Version 61**: Anmeldungspflicht, ausschließlich online gespeicherter Spielstand und Poster zu allen **1.405 referenzierten Filmfassungen** nach der Antwort. Kompakte Rückmeldung und optionales „Neu / Wiederholung“ schon vor der Antwort ersetzen die große Entdeckungsüberschrift. Antwortfarben und Anzeigedauer auch bei gesammelter Auflösung erhalten. Unverändert **33 Quellenpakete, 12.773 Fragen und 12.207 Wissensziele**. Alle zwölf Filmgenres umfassen mindestens 100 Filme; die Übersicht fälliger Wiederholungen ist ebenfalls veröffentlicht. [Bestand aller Bereiche](docs/Genres-100-2026-10-08/Bestandsuebersicht.md), [Betrieb](docs/Sites-Betrieb.md), [Prüfnachweise](docs/Pruefbericht.md).
 
 ## Starten
 

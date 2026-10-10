@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [Version 61 veröffentlicht: optionales Neu/Wiederholung vor der Antwort](../../../docs/Sites-Betrieb.md#version-61-neu-und-wiederholung-vor-der-antwort)
+- [Version 61: Quelle, Archiv, Liveprüfungen und Grenzen](../../../docs/Veroeffentlichung-2026-10-10-Version-61.json)
+
 - [Neu oder Wiederholung mit Anzahl schon vor der Antwort; eigener Optionsschalter – 10.10.2026](../../../docs/Lernregeln.md#kompakte-antwortansicht--10102026)
 
 - [Brazil: Darstellernamen schon im Fragetext ergänzt – 10.10.2026](../../../docs/Fragenkorrekturen.md#brazil-1985--10102026)

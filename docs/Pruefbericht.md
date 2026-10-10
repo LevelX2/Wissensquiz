@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 10.10.2026 – Version 61 veröffentlicht
+
+Festen Quellcommit 7b2ceea am 10.10.2026 um 09:45:29 Uhr Europe/Berlin veröffentlicht, nativ succeeded. Vollständiger erneuter Lauf am gemeinsamen Veröffentlichungsstand: **434 Tests in 70 Dateien**, TypeScript und Produktionsbuild mit VITE_SITE_VERSION=61 sowie **zwölf gezielte Browserfälle** in Chromium/mobilem WebKit erfolgreich. Neu-/Wiederholungsanzeige, dauerhaftes unabhängiges Aus-/Einschalten, Fragenstatistik, Poster und tatsächliche Versionszeit geprüft. Alle 479 Produktionsdateien im Paket bytegleich. Öffentlicher Zugriff Revision 2 erhalten und Brazil-Korrektur im Online- und Duellkatalog bestätigt, sechs Live-Dateien anonym bytegleich, Versionsmetadaten dauerhaft gespeichert und separat/anonym bestätigt; direkter Tabellenzugriff 401. Keine echte Quiz-Sitzung, Migration oder Änderung privater Spielstände. Gesamten aktuellen Main-Stand veröffentlicht; offene Arbeit und fremde Git-Vormerkung erhalten. [Veröffentlichung](Veroeffentlichung-2026-10-10-Version-61.json), [Betrieb](Sites-Betrieb.md#version-61-neu-und-wiederholung-vor-der-antwort).
+
 ## 10.10.2026 – Brazil: Darsteller im Fragetext
 
 In `SF-202609-P02-S-066` Sam Lowry (Jonathan Pryce) und Jill Layton (Kim Greist) direkt im Fragetext ergänzt, beide Rollen anhand der geöffneten Criterion-Credits bestätigt und die Quelle aufgenommen. Genau eine CSV-Zeile mit zwei geänderten Feldern; vollständiges Rücklesen gegen den Vorher-/Nachher-Nachweis erfolgreich. Originalquelle, IDs, Antworten und Lernziel unverändert. [Redaktion und Quellen](Fragenkorrekturen.md#brazil-1985--10102026).
