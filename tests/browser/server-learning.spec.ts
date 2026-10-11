@@ -1,4 +1,3 @@
-import { readFile } from "node:fs/promises";
 import { test, expect, accountBackend, fixCalendarTime } from "./fixtures";
 test("lädt keinen Katalog, setzt eine Serverrunde fort und speichert zehn Antworten", async ({
   page,
@@ -50,14 +49,10 @@ test("lädt keinen Katalog, setzt eine Serverrunde fort und speichert zehn Antwo
   await expect(page.locator(".topic-card").first()).toBeVisible();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  const downloaded = page.waitForEvent("download");
-  await page.getByRole("button", { name: "Alles als JSON sichern ↓" }).click();
-  const save = await downloaded;
-  const path = (await save.path())!;
-  const backup = JSON.parse(await readFile(path, "utf8"));
-  expect(backup.format).toBe("wissensquiz-server-save-v1");
-  expect(backup.state.questions).toEqual([]);
-  expect(backup.state.events).toHaveLength(10);
+  await expect(
+    page.getByRole("button", { name: /Alles als JSON sichern/ }),
+  ).toHaveCount(0);
+  await expect(page.getByLabel("Sicherung auswählen")).toHaveCount(0);
   await page.getByLabel("Zum Bestätigen LÖSCHEN eingeben").fill("LÖSCHEN");
   await page
     .getByRole("button", { name: "Fortschritt jetzt endgültig zurücksetzen" })
@@ -69,21 +64,6 @@ test("lädt keinen Katalog, setzt eine Serverrunde fort und speichert zehn Antwo
     ),
   );
   expect(resetCount.rows[0].n).toBe(0);
-  await page.getByRole("button", { name: "Profil", exact: true }).click();
-  await page.getByRole("button", { name: "Optionen" }).click();
-  await page.getByLabel("Sicherung auswählen").setInputFiles(path);
-  await page
-    .getByRole("button", { name: "Online-Spielstand durch Sicherung ersetzen" })
-    .click();
-  await expect(
-    page.getByText("Sicherung vollständig wiederhergestellt.", { exact: true }),
-  ).toBeVisible();
-  const restoredCount = await backend.admin(() =>
-    backend.db.query<{ n: number }>(
-      "select count(*)::integer n from public.quiz_sync_entries e join public.quiz_account_heads h on h.owner_id=e.owner_id and h.generation=e.generation where kind='event' and not deleted",
-    ),
-  );
-  expect(restoredCount.rows[0].n).toBe(10);
   expect(catalogs).toEqual([]);
   expect(
     await page.evaluate(() => ({

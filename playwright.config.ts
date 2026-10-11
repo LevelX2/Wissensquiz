@@ -61,6 +61,7 @@ export default defineConfig({
         "record-modes.spec.ts",
         "ranked-security.spec.ts",
         "release-info.spec.ts",
+        "profile-folds.spec.ts",
       ],
       use: { ...devices["iPhone 13"] },
     },

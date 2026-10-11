@@ -3,6 +3,7 @@ import { careerProgress } from "./career";
 import { isRecordMode } from "./recordModes";
 import { learningOverview } from "./learningProgress";
 import { useServerView, type LearningOverview } from "./serverViews";
+import { ProfileSection } from "./ProfileSection";
 
 export function profileStats(state: State) {
   const answered = state.events.filter(hasAnswer);
@@ -38,8 +39,7 @@ export function ProfileStats({ state }: { state: State }) {
   if (summary.value) stats.totalGoals = summary.value.maximum / 4;
   return (
     <>
-      <section aria-label="Dein Lernstand">
-        <h2>Dein Lernstand</h2>
+      <ProfileSection title="Dein Lernstand" subject="learning">
         <p>
           <strong>
             {stats.encountered.toLocaleString("de-DE")} unterschiedliche Fragen
@@ -73,9 +73,8 @@ export function ProfileStats({ state }: { state: State }) {
           Antworten nach dem Wiederholungstermin erhöhen die Stufe; die Abstände
           wachsen auf 1, 3, 7 und 21 Tage.
         </p>
-      </section>
-      <section aria-label="Deine Spielstatistik">
-        <h2>Deine Spielstatistik</h2>
+      </ProfileSection>
+      <ProfileSection title="Deine Spielstatistik" subject="statistics">
         <dl className="profile-stats">
           {[
             ["Runden gespielt", stats.played],
@@ -100,7 +99,7 @@ export function ProfileStats({ state }: { state: State }) {
           {careerProgress(state.experience).title} ·{" "}
           {state.experience.toLocaleString("de-DE")} XP
         </p>
-      </section>
+      </ProfileSection>
     </>
   );
 }

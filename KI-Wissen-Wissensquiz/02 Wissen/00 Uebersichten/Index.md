@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Profil: einheitliche Klappen, drei neue Icons und Antwortansicht ohne Merksatz – 11.10.2026](../../../docs/Profilklappen-2026-10-11.md)
+
 - [Weitere Serveroptimierungen: Statistikabschluss, Duellsperre, Kontostart und bedarfsgerechte Abrufe – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md#nachprüfung-weitere-optimierungen--11102026)
 
 - [Server-Lernablauf seit Version 66: einzelne Fragen, vorbereitete Inhalte und begrenzte Abfragen – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md)

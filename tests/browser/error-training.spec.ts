@@ -86,6 +86,7 @@ test("Filmreise zeigt die nächste Etappe; Wiederholen festigt fällige Filmfrag
   );
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   const profile = page.getByRole("region", { name: "Dein Lernstand" });
+  await profile.locator("summary").click();
   await expect(profile).toContainText(
     "13 unterschiedliche Fragen kennengelernt",
   );

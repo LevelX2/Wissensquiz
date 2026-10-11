@@ -78,16 +78,18 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
         "Gefragt ist die Regie dieses Films",
       );
       await page.getByText("Quellen ansehen", { exact: true }).click();
-      await expect(page.locator('.explanation a[href="https://www.slashfilm.com/559508/die-hard-interviews/"]')).toBeVisible();
+      await expect(
+        page.locator(
+          '.explanation a[href="https://www.slashfilm.com/559508/die-hard-interviews/"]',
+        ),
+      ).toBeVisible();
     }
     if (kind === "year" || kind === "csv-year") {
       await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
       await expect(page.locator(".explanation")).toContainText(
         kind === "year" ? "Rain Man" : "Windows 95",
       );
-      await expect(page.locator(".memory-anchor")).toContainText(
-        kind === "year" ? "1988" : "1995",
-      );
+      await expect(page.locator(".memory-anchor")).toHaveCount(0);
       await page.getByText("Quellen ansehen", { exact: true }).click();
       await expect(
         page.locator(

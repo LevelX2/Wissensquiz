@@ -1110,3 +1110,10 @@ Keine Abhängigkeiten oder echten Konten verändert. Keine Veröffentlichung und
 ## 11.10.2026 – Nachprüfung weiterer Serveroptimierungen
 
 Aktuellen Code und produktive SQL-Definitionen ausschließlich lesend geprüft. Zwei strukturelle Restpunkte bestätigt: normale Rundenabschlüsse stoßen noch einen vollständigen Neuaufbau der eigenen Statistikbeiträge an; selbst lesende Duellaufrufe verwenden die gemeinsame globale Mutexzeile und globale Fristbereinigung. Zusätzlich vollständiger privater Erstabruf, 20-Sekunden-Duellaktualisierung, wiederholte Inhaltsgruppierung und erneute Ranglistenabrufe priorisiert. Keine gemessene Mehrspielerlast oder tatsächliche Beschleunigung durch diese Nachprüfung behauptet. Nur Wissenspflege, keine Laufzeit-/SQL-Änderung oder neue Veröffentlichung. [Befunde, Quellen, Zielkonzepte und Abnahme](Server-Lernablauf-2026-10-11.md#nachprüfung-weitere-optimierungen--11102026).
+
+
+## Profilklappen und vereinfachte Optionen – 11.10.2026
+
+Offenen Profilauftrag mit ausdrücklicher Nutzerfreigabe für die gemeinsame Main-Veröffentlichung abgeschlossen. Fünf Profilklappen übernehmen Gestaltung und Bedienung der Frageklappen; drei neue passende Symbole. Merksatz aus gemeinsamer Auflösung und Rückblick entfernt. Manuelle Sicherung/Wiederherstellung, Export historischer lokaler Meldungen und doppelte Options-Infoblöcke entfernt. Online-Speicherung und Spieloptionen bleiben bestehen; bewusst bestätigter Neustart weiterhin verfügbar. Keine echten Konten zurückgesetzt.
+
+TypeScript und Produktionsbuild erfolgreich. Vier Profil-Browserfälle in Chromium und mobilem WebKit bei 320/1280 Pixeln erfolgreich (55,7 s): geladene Symbole, Enter/Leertaste, Pfeile, Konto-/Meldungsaktionen, WCAG-Automatik, unveränderte synthetische Spieldaten und geschlossene Klappen nach Rückkehr. Keine horizontalen Überläufe. [Profilvertrag](Profilklappen-2026-10-11.md). Die anschließende gemeinsame Serverintegration erhält eine eigene Abnahme.

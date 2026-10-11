@@ -37,7 +37,7 @@ Seit Sites-Version 55: Bestätigte Quiz-Konten können aus einer Frage oder dem 
 
 ## Anmeldung und Speicherung
 
-Seit Version 64: eine Zehnerrunde ohne Konto, Ergebnis und Rückblick vor der Registrierung, danach Anmeldungspflicht und einmalige Kontoübernahme der Runde nach E-Mail-Bestätigung. Der befristete Entwurf enthält nur diese Runde, keine regulären Kontospielstände. Kontoantworten zählen erst nach Serverbestätigung; Revisionen verhindern das Überschreiben neuerer Gerätestände. Offline-Paket und dauerhafter Gastmodus bleiben entfernt. Vorhandene alte Browserdaten werden nicht ungefragt gelöscht oder übernommen. JSON-Export und bestätigte Wiederherstellung bleiben manuelle Kontoaktionen. [Aktueller Vertrag und Veröffentlichungsgrenze](docs/Anmeldung-und-Online-Spielstand.md).
+Seit Version 64: eine Zehnerrunde ohne Konto, Ergebnis und Rückblick vor der Registrierung, danach Anmeldungspflicht und einmalige Kontoübernahme der Runde nach E-Mail-Bestätigung. Der befristete Entwurf enthält nur diese Runde, keine regulären Kontospielstände. Kontoantworten zählen erst nach Serverbestätigung; Revisionen verhindern das Überschreiben neuerer Gerätestände. Offline-Paket und dauerhafter Gastmodus bleiben entfernt. Vorhandene alte Browserdaten werden nicht ungefragt gelöscht oder übernommen. Manuelle JSON-Sicherung und Wiederimport entfallen; der Fortschritt wird ausschließlich automatisch online gespeichert. [Aktueller Vertrag und Veröffentlichungsgrenze](docs/Anmeldung-und-Online-Spielstand.md).
 
 ## Projektaufbau
 

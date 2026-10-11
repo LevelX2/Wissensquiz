@@ -104,12 +104,14 @@ for (const width of [320, 1280]) {
     await expect(page.locator(".career-level-up")).toHaveCount(0);
     expect((await readState(page)).experience).toBe(100);
     await page.getByRole("button", { name: "Profil", exact: true }).click();
+    await page.getByText(/^Deine Filmkarriere · Level/).click();
     await expect(
       page.getByRole("main").getByRole("progressbar"),
     ).toHaveAttribute("aria-valuemax", "150");
     await expect(page.getByRole("main")).toContainText("Level 2 · Kinogänger");
     await page.reload();
     await page.getByRole("button", { name: "Profil", exact: true }).click();
+    await page.getByText(/^Deine Filmkarriere · Level/).click();
     await expect(page.getByRole("main")).toContainText("100 XP insgesamt");
     expect((await readState(page)).experience).toBe(100);
   });
@@ -135,6 +137,7 @@ test("alte Level und ihr Fortschritt werden beim Start einmal erhalten; reduzier
   await writeState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByText(/^Deine Filmkarriere · Level/).click();
   await expect(page.getByRole("main")).toContainText("Level 2 · Kinogänger");
   await expect(page.getByRole("main")).toContainText("135 / 150 XP");
   await expect(page.getByRole("main")).toContainText("234 XP Startgutschrift");

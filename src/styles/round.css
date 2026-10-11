@@ -295,33 +295,6 @@ progress::-moz-progress-bar {
 .explanation details {
   font-size: 13px;
 }
-.memory-anchor {
-  display: flex;
-  align-items: center;
-  gap: 15px;
-  border-left: 2px solid #b89b69;
-  background: #c6a67709;
-  padding: 15px;
-  margin: 20px 0;
-}
-.memory-anchor > span {
-  color: var(--accent);
-  font-size: 22px;
-}
-.memory-anchor p {
-  margin: 0;
-  font-family: Georgia, serif;
-  font-size: 16px;
-  color: #4c5b60;
-}
-.memory-anchor small {
-  display: block;
-  font-family: system-ui;
-  font-size: 8px;
-  letter-spacing: 1.5px;
-  color: #4c5b60;
-  margin-bottom: 6px;
-}
 .feedback-actions {
   display: flex;
   justify-content: flex-end;

@@ -642,22 +642,9 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
-    page.getByText(
-      `${catalogCounts.questions} Fragen · ${catalogCounts.goals} Wissensziele · 0 Demo-Fragen`,
-    ),
-  ).toBeVisible();
-  const download = page.waitForEvent("download");
-  await page.getByRole("button", { name: "Alles als JSON sichern" }).click();
-  const file = await download;
-  const backupPath = testInfo.outputPath("backup.json");
-  await file.saveAs(backupPath);
-  await page.getByLabel("Sicherung auswählen").setInputFiles(backupPath);
-  await page
-    .getByRole("button", { name: "Online-Spielstand durch Sicherung ersetzen" })
-    .click();
-  await expect(
-    page.getByText("Sicherung vollständig wiederhergestellt."),
-  ).toBeVisible();
+    page.getByRole("button", { name: /Alles als JSON sichern/ }),
+  ).toHaveCount(0);
+  await expect(page.getByLabel("Sicherung auswählen")).toHaveCount(0);
   await expect(page.getByLabel("CSV auswählen")).toHaveCount(0);
   await expect(
     page.getByRole("heading", { name: "Fragen hinzufügen" }),
@@ -728,7 +715,9 @@ test("Rekordtimer läuft ab, Erklärung hält an, Neuladen bricht ab", async ({
   await expect(page.locator(".answer").first()).toBeEnabled();
   await page.clock.fastForward(31_000);
   await expect(
-    page.locator(".feedback-outcome").getByText("Zeit abgelaufen", { exact: true }),
+    page
+      .locator(".feedback-outcome")
+      .getByText("Zeit abgelaufen", { exact: true }),
   ).toBeVisible();
   await expect(page.getByText("+0 Punkte")).toBeVisible();
   await page.clock.fastForward(60000);
@@ -781,21 +770,13 @@ for (const genrePackage of [
     await answerCurrent(page, true);
   });
 }
-test("Ungültige Sicherung und ausdrückliches Zurücksetzen erhalten den offiziellen Fragenbestand", async ({
+test("Ausdrückliches Zurücksetzen erhält den offiziellen Fragenbestand", async ({
   page,
 }) => {
   await page.clock.install({ time: new Date("2026-10-04T12:00:00+02:00") });
   await launch(page);
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await page.getByLabel("Sicherung auswählen").setInputFiles({
-    name: "kaputt.json",
-    mimeType: "application/json",
-    buffer: Buffer.from('{"schemaVersion":999}'),
-  });
-  await expect(
-    page.getByText("Datei abgelehnt:", { exact: false }),
-  ).toBeVisible();
   const beforeReset = await readStoredState(page);
   await expect(
     page.getByRole("button", {

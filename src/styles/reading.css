@@ -42,13 +42,6 @@
 .incorrect {
   color: #795218;
 }
-.memory-anchor {
-  background: #f6efdf;
-  border-color: #a17839;
-}
-.memory-anchor p {
-  color: #514024;
-}
 .notice.error,
 .danger-button {
   color: #852d28;
@@ -199,10 +192,6 @@
 .recognition-portrait figcaption {
   text-align: center;
   font-size: 12px;
-}
-.memory-anchor {
-  margin: 12px 0;
-  padding: 10px 12px;
 }
 .feedback-actions {
   margin-top: 12px;
@@ -516,9 +505,5 @@ footer[hidden] {
     font-size: 15px;
     line-height: 1.45;
     margin-block: 6px 8px;
-  }
-  .is-answered .memory-anchor {
-    padding: 8px 10px;
-    margin-block: 8px;
   }
 }

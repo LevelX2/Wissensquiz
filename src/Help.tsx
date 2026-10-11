@@ -133,15 +133,15 @@ export function Help() {
           raten möchtest. Wie bei einer gewählten Antwort siehst Du alle vier
           Möglichkeiten für die eingestellte Anzeigezeit, standardmäßig 1,1
           Sekunden. Die richtige Lösung ist grün mit Häkchen markiert und sanft
-          hervorgehoben. Danach folgen die Erklärung und der Merksatz. Über
-          „Alle Antworten ansehen“ kannst Du die Möglichkeiten wieder öffnen.
-          Keine falsche Antwort wird als Deine Wahl markiert.
+          hervorgehoben. Danach folgt die Erklärung. Über „Alle Antworten
+          ansehen“ kannst Du die Möglichkeiten wieder öffnen. Keine falsche
+          Antwort wird als Deine Wahl markiert.
         </p>
         <p>
           Bei „Lösungen nach der Runde“ bleibt die kurze Antwortanzeige auch für
-          „Keine Ahnung“ erhalten. Danach geht es automatisch weiter; Erklärung
-          und Merksatz folgen im Rückblick. Im Duell siehst Du die Lösung erst
-          nach Deiner eigenen Zehnerrunde.
+          „Keine Ahnung“ erhalten. Danach geht es automatisch weiter; Die
+          Erklärung folgt im Rückblick. Im Duell siehst Du die Lösung erst nach
+          Deiner eigenen Zehnerrunde.
         </p>
         <p>
           Die Auswahl zählt in allen Modi als falsch, in der Rekordrunde gibt es
@@ -404,18 +404,15 @@ export function Help() {
         <p>
           Erst die angezeigte Issue-Nummer bestätigt den Versand. Falls die
           Bestätigung ausbleibt, kannst Du „Versand erneut prüfen“ wählen. Der
-          erneute Versuch verwendet dieselbe Meldungs-ID. Frühere lokale
-          Fragenmeldungen kannst Du weiterhin unter „Profil → Optionen“
-          exportieren.
+          erneute Versuch verwendet dieselbe Meldungs-ID.
         </p>
       </details>
       <details>
         <summary>Wo finde ich Optionen und meinen Spielstand?</summary>
         <p>
           Unter „Profil → Optionen“ stellst Du Ton, Vibration sowie Genre- und
-          Schwierigkeitsanzeige ein. Dort kannst Du Deinen Spielstand als JSON
-          sichern und eine Sicherung wiederherstellen. Neue Fragen erhältst Du
-          automatisch mit den Quiz-Updates.
+          Schwierigkeitsanzeige ein. Dein Fortschritt wird automatisch online
+          gespeichert. Neue Fragen stehen beim nächsten Rundenstart bereit.
         </p>
         <p>
           Im Spiel zeigt „Ton an“ bzw. „Ton aus“ den aktuellen Zustand und lässt

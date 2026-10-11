@@ -9,6 +9,7 @@ import type { State } from "./model";
 import { OnlineConfirmation } from "./OnlineConfirmation";
 import { AccountBenefits } from "./AccountBenefits";
 import { authorizeTrial } from "./trial";
+import { ProfileSection } from "./ProfileSection";
 
 export function AccountPanel({
   client,
@@ -265,13 +266,7 @@ export function AccountPanel({
         · {user.email}
       </p>
       <ProfileStats state={state} />
-      <p className="tiny muted">
-        Dein Spielername und Deine Leistungswerte erscheinen automatisch in der
-        öffentlichen Bestenliste, für andere Spieler. E-Mail und privater
-        Spielstand bleiben verborgen.
-      </p>
-      <details className="account-help">
-        <summary>Konto & Speicherung</summary>
+      <ProfileSection title="Konto & Speicherung" subject="account">
         <p className="tiny muted profile-sync-status" role="status">
           {syncMessage || (syncStatus && syncText[syncStatus])}
         </p>
@@ -293,7 +288,12 @@ export function AccountPanel({
           Dein Fortschritt wird automatisch gespeichert. Warte vor dem
           Gerätewechsel hier im Profil auf „Spielstand online gespeichert“.
         </p>
-      </details>
+        <p className="tiny muted">
+          Dein Spielername und Deine Leistungswerte erscheinen automatisch in
+          der öffentlichen Bestenliste, für andere Spieler. E-Mail und privater
+          Spielstand bleiben verborgen.
+        </p>
+      </ProfileSection>
     </section>
   );
 }

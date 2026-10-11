@@ -32,6 +32,7 @@ import type { OnlineGameStore } from "./onlineGameStore";
 import { readRoundSetup } from "./roundSetup";
 import { careerProgress } from "./career";
 import { CareerProgress } from "./CareerProgress";
+import { ProfileSection } from "./ProfileSection";
 import { type Category, selectionTopic, ACTORS } from "./categories";
 
 import { SyncSymbol, type SyncDisplay } from "./SyncIndicator";
@@ -797,11 +798,16 @@ export function App({
                 />
               )}
               {page === "account" && (
-                <>
-                  <CareerProgress
-                    experience={state.experience}
-                    legacyBonus={state.career?.legacyBonus}
-                  />
+                <div className="profile-page">
+                  <ProfileSection
+                    title={`Deine Filmkarriere · Level ${careerProgress(state.experience).level}`}
+                    subject="film"
+                  >
+                    <CareerProgress
+                      experience={state.experience}
+                      legacyBonus={state.career?.legacyBonus}
+                    />
+                  </ProfileSection>
                   <div className="profile-tools">
                     <button
                       className="secondary"
@@ -817,12 +823,14 @@ export function App({
                     </button>
                   </div>
                   {accountPanel?.(state)}
-                  <details className="settings-panel">
-                    <summary>Problem oder Verbesserung melden</summary>
+                  <ProfileSection
+                    title="Problem oder Verbesserung melden"
+                    subject="report"
+                  >
                     <IssueReportForm />
-                  </details>
+                  </ProfileSection>
                   <ReleaseInfo />
-                </>
+                </div>
               )}
               {page === "help" && <Help />}
               {page === "settings" && (
@@ -836,7 +844,6 @@ export function App({
                   <Settings
                     state={state}
                     mutate={mutate}
-                    setState={setState}
                     busy={busy}
                     onHome={() => {
                       setActiveLearning(undefined);

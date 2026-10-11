@@ -3,8 +3,6 @@ import { validateBackup } from "./backupValidation";
 import { useEffect, useState } from "react";
 import { SolutionChoice } from "./SolutionChoice";
 import { DEFAULT_ANSWER_REVEAL_MS, emptyState, type State } from "./model";
-import { download } from "./download";
-import { isRecordMode } from "./recordModes";
 import {
   playFeedback,
   stopFeedback,
@@ -17,25 +15,15 @@ import type { Mutate } from "./uiTypes";
 export function Settings({
   state,
   mutate,
-  setState,
   busy,
   onHome,
 }: {
   state: State;
   mutate: Mutate;
-  setState: (s: State) => void;
   busy: boolean;
   onHome: () => void;
 }) {
   const server = useServer();
-  const readSave = (value: any): State => {
-    if (server && value?.format !== "wissensquiz-server-save-v1")
-      throw new Error(
-        "Bitte wähle eine Sicherung aus der aktuellen Serverversion.",
-      );
-    return validateBackup(server ? value.state : value, !server);
-  };
-  const [message, setMessage] = useState("");
   const [pendingSolutions, setPendingSolutions] =
     useState<State["settings"]["solutionDisplay"]>();
   const [hapticMessage, setHapticMessage] = useState("");
@@ -84,37 +72,17 @@ export function Settings({
             ? "Vibration ist eingeschaltet und gespeichert. Dieser Browser bietet keine Vibrationsfunktion; hier wird deshalb keine Vibration ausgegeben."
             : "",
     );
-  const [backup, setBackup] = useState<State | null>(null);
   const [reset, setReset] = useState("");
-  const readBackup = async (file: File | undefined) => {
-    setMessage("");
-    if (!file) return;
-    const maxMiB = 64;
-    if (file.size > maxMiB * 1024 * 1024) {
-      setMessage(`Datei ist zu groß. Höchstens ${maxMiB} MiB.`);
-      return;
-    }
-    try {
-      const text = await file.text();
-      setBackup(readSave(JSON.parse(text)));
-    } catch (e) {
-      setMessage(
-        `Datei abgelehnt: ${e instanceof Error ? e.message : String(e)}`,
-      );
-    }
-  };
   return (
     <>
       <span className="eyebrow">DEIN KONTO. DEIN FORTSCHRITT.</span>
       <h1>
-        Einstellungen <em>& Daten.</em>
+        Deine <em>Optionen.</em>
       </h1>
       <p className="lead">
         Ton, Vibration, Lösungsanzeige und Fragehinweise stellst Du hier ein.
-        Dein Fortschritt wird in Deinem Konto online gespeichert. Eine
-        JSON-Sicherung bietet Dir eine zusätzliche Kopie.
+        Dein Fortschritt wird automatisch in Deinem Konto online gespeichert.
       </p>
-      <div role="status">{message && <p className="notice">{message}</p>}</div>
       <section className="settings-panel">
         <h2>Lösungen in Zeitspielen und im Freien Spiel</h2>
         <p>
@@ -227,7 +195,7 @@ export function Settings({
         <p className="muted tiny">
           Gilt für Filmreise und Freies Spiel. Nach der Antwort zählt Dein
           aktuelles Ergebnis bereits mit. Deine Auswahl wird im Spielstand
-          online gespeichert und ist in Deiner JSON-Sicherung enthalten.
+          online gespeichert.
         </p>
       </section>
       <section className="settings-panel" data-feedback="own">
@@ -311,125 +279,6 @@ export function Settings({
             {soundMessage}
           </p>
         )}
-      </section>
-      <section className="settings-panel">
-        <h2>Dein Lernpaket</h2>
-        <p>
-          {server?.info.questions ?? state.questions.length} Fragen ·{" "}
-          {server?.info.goals ??
-            new Set(state.questions.map((q) => q.knowledgeId)).size}{" "}
-          Wissensziele
-        </p>
-        <p className="muted">
-          Zum Öffnen des Quiz und Laden der Bilder brauchst Du eine
-          Internetverbindung. Dein Fortschritt wird in Deinem Konto online
-          gespeichert.
-        </p>
-      </section>
-      <section className="settings-panel">
-        <h2>Fortschritt sichern & wiederherstellen</h2>
-        <p>
-          Der Export enthält Deinen Fortschritt, abgeschlossene Runden,
-          Einstellungen und Meldungen. Laufende Serverrunden werden nicht
-          exportiert. Ein Wiederimport ersetzt nach Deiner Bestätigung den
-          gesamten Online-Spielstand.
-        </p>
-        <button
-          className="primary"
-          onClick={() =>
-            download(
-              `wissensquiz-${new Date().toISOString().slice(0, 10)}.json`,
-              server ? { format: "wissensquiz-server-save-v1", state } : state,
-            )
-          }
-        >
-          Alles als JSON sichern ↓
-        </button>
-        <label className="file-label">
-          Sicherung auswählen
-          <input
-            type="file"
-            accept=".json,application/json"
-            onChange={(e) => void readBackup(e.target.files?.[0])}
-          />
-        </label>
-        {backup && (
-          <div className="notice">
-            <p>
-              Geprüfte Sicherung: {backup.questions.length} Fragen,{" "}
-              {backup.rounds.length} Runden. Dein jetziger Stand wird ersetzt.
-              Laufende Rekordrunden werden beendet.
-            </p>
-            <button
-              className="primary"
-              disabled={busy}
-              onClick={async () => {
-                try {
-                  const restored = validateBackup(backup, !server);
-                  for (const round of restored.rounds)
-                    if (round.status === "active" && isRecordMode(round.mode)) {
-                      round.status = "aborted";
-                      round.finishedAt = Date.now();
-                    }
-                  const saved = await mutate(
-                    (s) => {
-                      for (const name of Object.keys(s))
-                        delete (s as unknown as Record<string, unknown>)[name];
-                      Object.assign(s, restored);
-                    },
-                    { replace: true },
-                  );
-                  if (!saved) return;
-                  setState(saved);
-                  setBackup(null);
-                  setMessage("Sicherung vollständig wiederhergestellt.");
-                } catch (e) {
-                  setMessage(`Wiederherstellung fehlgeschlagen: ${String(e)}`);
-                }
-              }}
-            >
-              Online-Spielstand durch Sicherung ersetzen
-            </button>
-            <button className="text-button" onClick={() => setBackup(null)}>
-              Abbrechen
-            </button>
-          </div>
-        )}
-      </section>
-      <section className="settings-panel">
-        <h2>Bisherige lokale Fragenmeldungen</h2>
-        <p>
-          {state.reports.length} frühere Meldungen im Spielstand gespeichert.
-          Diese Meldungen wurden nicht an GitHub gesendet. Neue Meldungen
-          sendest Du direkt bei der Frage oder im Profil.
-        </p>
-        <button
-          className="secondary"
-          onClick={() =>
-            download("wissensquiz-fragenmeldungen.json", state.reports)
-          }
-        >
-          Meldungen exportieren ↓
-        </button>
-      </section>
-      <section className="settings-panel">
-        <h2>So wächst Dein Wissen</h2>
-        <p>
-          Nach einer ersten sicheren Antwort folgt eine Wiederholung nach etwa
-          einem Tag. Weitere sichere, fällige Antworten verlängern auf drei,
-          sieben und 21 Tage.
-        </p>
-        <p>
-          „Gefestigt“ braucht mindestens vier sichere Lerntage und eine
-          erfolgreiche Wiederholung nach mindestens sieben Tagen Abstand. Am
-          gleichen Tag steigt die Stufe höchstens einmal. Falsche Antworten
-          kommen nach zehn Minuten, geratene nach sechs Stunden wieder.
-        </p>
-        <p className="muted">
-          Das sind konfigurierbare Testregeln, keine wissenschaftliche Messung
-          Deines gesamten Wissens. Eine Runde enthält jedes Wissensziel nur
-          einmal.
-        </p>
       </section>
       <section className="settings-panel danger">
         <h2>Lernfortschritt zurücksetzen</h2>

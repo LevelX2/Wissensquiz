@@ -2,7 +2,7 @@
 
 ## Serverablauf ohne Clientkatalog
 
-Seit Version 66 am 11.10.2026 veröffentlicht und im Backend eingerichtet: [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Normale Lernrunden werden ebenfalls serverseitig ausgewählt und ausgewertet; Kontostart und Navigation benötigen keinen Vollkatalog. Wiederaufnahme erhält die zuletzt ausgegebene Frage und bestätigte Auflösung. Aktuelle manuelle Sicherungen tragen eine eigene Formatkennung; keine Übernahme alter Spielstände. Entwicklungs-Teststand mit ausdrücklicher Freigabe atomar zurückgesetzt; Anmeldung und Profil erhalten. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-66.json).
+Seit Version 66 am 11.10.2026 veröffentlicht und im Backend eingerichtet: [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Normale Lernrunden werden ebenfalls serverseitig ausgewählt und ausgewertet; Kontostart und Navigation benötigen keinen Vollkatalog. Wiederaufnahme erhält die zuletzt ausgegebene Frage und bestätigte Auflösung. Manuelle Sicherungen waren bis Version 66 verfügbar; der folgende Optionsumbau entfernt ihre Oberfläche. Keine Übernahme alter Spielstände. Entwicklungs-Teststand mit ausdrücklicher Freigabe atomar zurückgesetzt; Anmeldung und Profil erhalten. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-66.json).
 
 ## Verbindlicher Nutzerauftrag
 
@@ -38,7 +38,7 @@ Das ist die ausdrücklich angenommene befristete Übernahme aus dem neuen Ablauf
 - Wiederholen sendet dieselbe unveränderliche Paket-ID. Eine verlorene Bestätigung zählt dadurch keine Antwort doppelt. Unbestätigte Absichten liegen nur im offenen Tab; nach Schließen oder Neuladen wird ausschließlich der tatsächlich bestätigte Serverstand geladen.
 - Ein veralteter Stand darf einen neueren anderen Gerätestand nicht überschreiben. Die bestehende Serverrevision weist ihn ab; die Oberfläche bietet erneutes Laden.
 - Vorhandene Online-Konten verwenden das bestehende Serverprotokoll einschließlich dessen Aktivierung. Dieser Block benötigt keine neue Datenbankmigration, keinen lokalen Fallback und keine Übernahme alter Geräteablagen.
-- JSON-Export und ausdrücklich bestätigte Wiederherstellung bleiben manuelle Kontoaktionen. Große Ersetzungen verwenden den vorhandenen atomaren Serveraustausch. Sie sind keine automatische Browserablage.
+- Kein manueller JSON-Export oder Wiederimport im Quiz. Ein bewusst bestätigter Neustart verwendet den atomaren Serveraustausch; die automatische Online-Speicherung bleibt bestehen.
 
 `OnlineGameStore` ersetzt im aktiven Ablauf IndexedDB, dauerhafte Outbox, lokale Synchronisierungsbelege und Rückfallkopien. Auth-Sitzung, statische Veröffentlichungsdaten, Passwort-Reset-Marker und Meldungsentwürfe bleiben von Spielständen getrennt; sie speichern keinen Lernfortschritt. Die bestehenden alten Geräte-Datenbanken werden weder gelesen noch verändert oder ungefragt gelöscht. Frühere Speichermodule sind kein Bestandteil des aktiven Spielwegs. Unveränderliche Frageinhalte und Bewertungsfakten archivierter Runden werden im RAM schreibgeschützt geteilt; veränderliche Fortschrittsdaten, Rundenköpfe und Archivlisten bleiben getrennte Kopien. Die [sofortige Auswahlrückmeldung](Lernregeln.md#sofortige-auswahlrückmeldung--10102026) bestätigt den Klick neutral, während Lösungen und Ergebnis weiterhin die Speicherbestätigung abwarten.
 
