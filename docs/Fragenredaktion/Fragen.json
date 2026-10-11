@@ -247992,6 +247992,2330 @@
       "originalId": "FILM-20261011-KILLBILL2-S001",
       "filmKey": "Kill Bill: Volume 2|2004",
       "filmTitle": "Kill Bill: Volume 2"
+    },
+    {
+      "id": "F240-20261006-120-L2",
+      "originalId": "F240-20261006-120-L2",
+      "knowledgeId": "K-F240-20261006-120-L2",
+      "filmKey": "Kind Hearts and Coronets|1949",
+      "filmTitle": "Adel verpflichtet",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Acht getrennte D’Ascoyne-Figuren, ein Darsteller",
+      "question": "Welche besondere Besetzungsleistung prägt „Adel verpflichtet“?",
+      "answers": [
+        {
+          "id": "F240-20261006-120-L2:a",
+          "text": "Ein Darsteller spielt dieselbe Figur in acht Lebensaltern.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-L2:b",
+          "text": "Ein Darsteller spielt acht Mitglieder derselben Familie.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-L2:c",
+          "text": "Acht Darsteller spielen dieselbe Figur in verschiedenen Verkleidungen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-L2:d",
+          "text": "Acht Darsteller spielen acht identisch aussehende Brüder.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Alec Guinness spielt acht Mitglieder der Familie D’Ascoyne.",
+      "context": "Alec Guinness erscheint unter anderem als Herzog, Geistlicher, Admiral und Lady Agatha. Die Rollen sind verschiedene Menschen, nicht Verkleidungen einer einzigen Figur. Louis Mazzini (Dennis Price) begegnet damit einer ganzen Familienordnung, deren wiederkehrendes Gesicht die satirische Ähnlichkeit ihrer gesellschaftlichen Positionen verstärkt.",
+      "anchor": "Guinness gibt acht getrennten Aristokraten ein gemeinsames Gesicht.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kind_Hearts_and_Coronets",
+        "https://www.criterion.com/films/357-kind-hearts-and-coronets"
+      ]
+    },
+    {
+      "id": "F240-20261006-120-M1",
+      "originalId": "F240-20261006-120-M1",
+      "knowledgeId": "K-F240-20261006-120-M1",
+      "filmKey": "Kind Hearts and Coronets|1949",
+      "filmTitle": "Adel verpflichtet",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Standesdünkel, Ausgrenzung und verweigertes Familienbegräbnis",
+      "question": "Warum wurde Louis’ Mutter (Audrey Fildes) in „Adel verpflichtet“ von ihrer Familie ausgestoßen?",
+      "answers": [
+        {
+          "id": "F240-20261006-120-M1:a",
+          "text": "Sie weigerte sich, einen italienischen Opernsänger zu heiraten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-M1:b",
+          "text": "Sie heiratete einen verarmten Adeligen gegen den Rat der Familie.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-M1:c",
+          "text": "Sie heiratete einen italienischen Opernsänger unter ihrem Stand.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-M1:d",
+          "text": "Sie ließ sich von einem italienischen Opernsänger scheiden.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Familie verstößt sie wegen ihrer nicht standesgemäßen Ehe.",
+      "context": "Louis’ Mutter (Audrey Fildes) heiratet einen italienischen Sänger und verliert dadurch die Unterstützung ihrer Verwandten. Louis Mazzini (Dennis Price) wächst mit dem Wissen um diese Ausgrenzung auf. Als der Mutter sogar das gewünschte Begräbnis im Familiengewölbe verweigert wird, verbindet er den eigenen Ehrgeiz mit einer Vergeltung für die Mutter.",
+      "anchor": "Die nicht standesgemäße Ehe legt den Grund für Louis’ Vergeltung.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kind_Hearts_and_Coronets",
+        "https://www.criterion.com/films/357-kind-hearts-and-coronets",
+        "https://www.tcm.com/articles/12645/kind-hearts-and-coronets"
+      ]
+    },
+    {
+      "id": "F240-20261006-120-M2",
+      "originalId": "F240-20261006-120-M2",
+      "knowledgeId": "K-F240-20261006-120-M2",
+      "filmKey": "Kind Hearts and Coronets|1949",
+      "filmTitle": "Adel verpflichtet",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Ballonanschlag und selbst verursachter Untergang des Admirals",
+      "question": "Wie nutzt Louis (Dennis Price) in „Adel verpflichtet“ Lady Agathas (Alec Guinness) öffentlichen Auftritt für einen Anschlag?",
+      "answers": [
+        {
+          "id": "F240-20261006-120-M2:a",
+          "text": "Er durchtrennt die Halteseile ihres Ballons.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-M2:b",
+          "text": "Er füllt ihren Ballon mit einem entzündlichen Gas.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-M2:c",
+          "text": "Er beschädigt den Korb ihres Ballons vor dem Start.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-M2:d",
+          "text": "Er schießt ihren Ballon mit einem Pfeil ab.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Louis schießt mit Pfeil und Bogen auf ihren Ballon.",
+      "context": "Die Frauenrechtlerin Lady Agatha (Alec Guinness) wirft Flugblätter über London ab. Louis (Dennis Price) schießt von seiner Wohnung aus auf ihren Ballon. Beim Admiral derselben Familie muss er gar nicht eingreifen: Der Admiral (ebenfalls Guinness) verursacht einen Zusammenstoß auf See und geht mit seinem Schiff unter.",
+      "anchor": "Lady Agathas Werbeflug endet durch Louis’ Pfeil.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kind_Hearts_and_Coronets"
+      ]
+    },
+    {
+      "id": "F240-20261006-120-S1",
+      "originalId": "F240-20261006-120-S1",
+      "knowledgeId": "K-F240-20261006-120-S1",
+      "filmKey": "Kind Hearts and Coronets|1949",
+      "filmTitle": "Adel verpflichtet",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Lionels Tod, Sibellas Falschaussage und Abschiedsbrief",
+      "question": "Welche bittere Ironie führt Louis Mazzini (Dennis Price) in „Adel verpflichtet“ vor Gericht?",
+      "answers": [
+        {
+          "id": "F240-20261006-120-S1:a",
+          "text": "Er wird wegen eines Todes verurteilt, den er nicht verursacht hat.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-S1:b",
+          "text": "Er wird für alle tatsächlich begangenen Anschläge zugleich angeklagt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-S1:c",
+          "text": "Ein Zeuge wirft ihm den Tod seiner Mutter vor.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-S1:d",
+          "text": "Die Familie lässt ihn wegen gefälschter Abstammungsunterlagen verurteilen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Louis wird für Lionel Hollands Tod verurteilt, obwohl er ihn nicht getötet hat.",
+      "context": "Lionel Holland (John Penrose) bittet Louis (Dennis Price) vergeblich um Geld. Nach Lionels Tod belastet dessen Frau Sibella (Joan Greenwood) Louis vor Gericht. Sie behauptet, es gebe keinen Abschiedsbrief. Im Gefängnis bietet sie ihm dessen „Entdeckung“ an, wenn er ihr die Ehe verspricht. Der Brief rettet ihn vor der Hinrichtung.",
+      "anchor": "Lionels Abschiedsbrief widerlegt den Mordvorwurf gegen Louis.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kind_Hearts_and_Coronets",
+        "https://www.criterion.com/current/posts/414-kind-hearts-and-coronets-ealing-s-shadow-side"
+      ]
+    },
+    {
+      "id": "F240-20261006-120-S2",
+      "originalId": "F240-20261006-120-S2",
+      "knowledgeId": "K-F240-20261006-120-S2",
+      "filmKey": "Kind Hearts and Coronets|1949",
+      "filmTitle": "Adel verpflichtet",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Vergessenes Manuskript als Gefahr nach der Freilassung",
+      "question": "Was bedroht Louis (Dennis Price) im britischen Originalende von „Adel verpflichtet“ nach seiner Freilassung erneut?",
+      "answers": [
+        {
+          "id": "F240-20261006-120-S2:a",
+          "text": "Ein Reporter besitzt schon eine Abschrift seiner gerichtlichen Aussage.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-S2:b",
+          "text": "Seine vollständigen Memoiren liegen noch in der Gefängniszelle.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-S2:c",
+          "text": "Sibella zeigt vor der Gefängnistür eine belastende Zeugenaussage.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-S2:d",
+          "text": "Edith entdeckt nach der Freilassung einen der Tatgegenstände im Gepäck.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die zurückgelassenen Memoiren enthalten sein Geständnis.",
+      "context": "Louis Mazzini (Dennis Price) hat in Erwartung seiner Hinrichtung die Wahrheit aufgeschrieben. Nach seiner Rettung erinnert ihn ein Reporter an die Möglichkeit, diese Erinnerungen zu veröffentlichen. Nun fällt ihm das Manuskript in der Zelle ein. Sein eigenes Erzählen wird damit zur letzten Gefahr; der Film endet am Rand einer neuen Enthüllung.",
+      "anchor": "Der frei gewordene Erzähler hat sein Geständnis in der Zelle vergessen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kind_Hearts_and_Coronets"
+      ]
+    },
+    {
+      "id": "F240-20261006-120-Y",
+      "originalId": "F240-20261006-120-Y",
+      "knowledgeId": "K-F240-20261006-120-Y",
+      "filmKey": "Kind Hearts and Coronets|1949",
+      "filmTitle": "Adel verpflichtet",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "1907 Roman, 1949 Film: 42 Jahre Abstand",
+      "question": "In welchem Jahr wurde „Adel verpflichtet“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-120-Y:a",
+          "text": "1947",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-Y:b",
+          "text": "1948",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-Y:c",
+          "text": "1949",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-Y:d",
+          "text": "1950",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Adel verpflichtet“ wurde erstmals 1949 veröffentlicht.",
+      "context": "Adel verpflichtet erschien 1949 in Großbritannien. Roy Hornimans Roman Israel Rank war bereits 1907 veröffentlicht worden. Die Edwardianische Handlungswelt gehört wiederum zur erzählten Epoche, nicht zum Filmstart. Gerade die Distanz zwischen kultivierter gesellschaftlicher Oberfläche und mörderischem Aufstieg prägt die spätere Ealing-Komödie. Zwischen Buch und Film liegen 42 Jahre.",
+      "anchor": "Hornimans Roman 1907, Ealing-Film 1949: 42 Jahre bis zur schwarzen Komödie.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kind_Hearts_and_Coronets",
+        "https://www.criterion.com/films/357-kind-hearts-and-coronets",
+        "https://www.criterion.com/current/posts/414-kind-hearts-and-coronets-ealing-s-shadow-side"
+      ]
+    },
+    {
+      "id": "F240-20261006-120-D",
+      "originalId": "F240-20261006-120-D",
+      "knowledgeId": "K-F240-20261006-120-D",
+      "filmKey": "Kind Hearts and Coronets|1949",
+      "filmTitle": "Adel verpflichtet",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Hamers und Dightons Änderungen der Romanhandlung",
+      "question": "Wer führte bei „Adel verpflichtet“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-120-D:a",
+          "text": "Alexander Mackendrick",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-D:b",
+          "text": "Charles Crichton",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-D:c",
+          "text": "Carol Reed",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-120-D:d",
+          "text": "Robert Hamer",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Robert Hamer führte Regie.",
+      "context": "Robert Hamer und John Dighton schrieben Louis’ (Dennis Price) kühl erzählten Rückblick auf seine Verbrechen. Dabei veränderten sie Roy Hornimans Roman: Dessen Täter vergiftet die meisten Opfer; im Film werden daraus sehr unterschiedliche Anschläge. Auch die Verurteilung für den gerade nicht begangenen Mord ist eine Erfindung der Drehbuchautoren.",
+      "anchor": "Hamer und Dighton machten aus dem Roman eine variantenreiche Mordkomödie.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.criterion.com/films/357-kind-hearts-and-coronets",
+        "https://www.criterion.com/current/posts/414-kind-hearts-and-coronets-ealing-s-shadow-side"
+      ]
+    },
+    {
+      "id": "KOM-202610-P01-L-013",
+      "originalId": "KOM-202610-P01-L-013",
+      "knowledgeId": "K-KOM-202610-P01-L-013",
+      "filmKey": "Kindergarten Cop|1990",
+      "filmTitle": "Kindergarten Cop",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Kimbles ungewohnte Betreuungsaufgabe",
+      "question": "„Kindergarten Cop“ (1990): Wer spielt den Polizisten John Kimble, der verdeckt eine Kindergartengruppe übernimmt?",
+      "answers": [
+        {
+          "id": "KOM-202610-P01-L-013:a",
+          "text": "Sylvester Stallone",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-L-013:b",
+          "text": "Arnold Schwarzenegger",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-L-013:c",
+          "text": "Jean-Claude Van Damme",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-L-013:d",
+          "text": "Bruce Willis",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Arnold Schwarzenegger spielt den Polizisten John Kimble.",
+      "context": "John Kimble (Arnold Schwarzenegger) muss eine Kindergartengruppe betreuen, obwohl er für diese Arbeit kaum vorbereitet ist. Die Komödie nutzt den Abstand zwischen seinem bekannten körperlichen Actionprofil und einer Aufgabe, die Geduld, Aufmerksamkeit und andere Formen von Autorität erfordert.",
+      "anchor": "Arnold Schwarzenegger spielt den Polizisten John Kimble.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58569",
+        "https://en.wikipedia.org/wiki/Kindergarten_Cop"
+      ]
+    },
+    {
+      "id": "KOM-202610-P01-L-014",
+      "originalId": "KOM-202610-P01-L-014",
+      "knowledgeId": "K-KOM-202610-P01-L-014",
+      "filmKey": "Kindergarten Cop|1990",
+      "filmTitle": "Kindergarten Cop",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "O’Haras Erkrankung",
+      "question": "„Kindergarten Cop“ (1990): Warum übernimmt Kimble die Rolle des Vertretungslehrers?",
+      "answers": [
+        {
+          "id": "KOM-202610-P01-L-014:a",
+          "text": "Die dafür vorgesehene Kollegin erkrankt.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-L-014:b",
+          "text": "Die Schulleiterin lehnt seine Kollegin als Vertretung ab.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-L-014:c",
+          "text": "Die Kinder wählen ihn anstelle seiner Kollegin aus.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-L-014:d",
+          "text": "Die Polizei ruft seine Kollegin nach Los Angeles zurück.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Seine für den Einsatz vorgesehene Kollegin Phoebe O’Hara erkrankt.",
+      "context": "Phoebe O'Hara (Pamela Reed) sollte die verdeckte Aufgabe übernehmen, fällt aber wegen Krankheit aus. Kimble (Arnold Schwarzenegger) muss einspringen. Die Verwechslung der Kompetenzen ist dadurch innerhalb des Polizeiplans begründet und nicht nur eine zufällige Begegnung mit Kindern.",
+      "anchor": "„Kindergarten Cop“: Seine dafür vorgesehene Kollegin wird krank.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58569",
+        "https://en.wikipedia.org/wiki/Kindergarten_Cop"
+      ]
+    },
+    {
+      "id": "KOM-202610-P01-M-019",
+      "originalId": "KOM-202610-P01-M-019",
+      "knowledgeId": "K-KOM-202610-P01-M-019",
+      "filmKey": "Kindergarten Cop|1990",
+      "filmTitle": "Kindergarten Cop",
+      "difficulty": "mittel",
+      "questionType": "Schauplatz",
+      "learningObjective": "Astoria und Schulinnenräume",
+      "question": "„Kindergarten Cop“ (1990): In welcher Stadt arbeitet Kimble verdeckt?",
+      "answers": [
+        {
+          "id": "KOM-202610-P01-M-019:a",
+          "text": "Eugene in Oregon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-M-019:b",
+          "text": "Salem in Oregon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-M-019:c",
+          "text": "Portland in Oregon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-M-019:d",
+          "text": "Astoria in Oregon",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kimble arbeitet verdeckt in Astoria, Oregon.",
+      "context": "Als Schulaußenmotiv dient die John Jacob Astor Elementary School in Astoria. Laut AFI entstehen die Innenräume der Schule und des Motels in den Universal-Studios in Los Angeles.",
+      "anchor": "Astorias Schulaußenmotiv wird mit Studioinnenräumen verbunden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58569",
+        "https://en.wikipedia.org/wiki/Kindergarten_Cop"
+      ]
+    },
+    {
+      "id": "KOM-202610-P01-M-020",
+      "originalId": "KOM-202610-P01-M-020",
+      "knowledgeId": "K-KOM-202610-P01-M-020",
+      "filmKey": "Kindergarten Cop|1990",
+      "filmTitle": "Kindergarten Cop",
+      "difficulty": "mittel",
+      "questionType": "Besetzung",
+      "learningObjective": "Schlowski und Kindesmisshandlung",
+      "question": "„Kindergarten Cop“ (1990): Wer spielt die Schulleiterin Ingrid Schlowski?",
+      "answers": [
+        {
+          "id": "KOM-202610-P01-M-020:a",
+          "text": "Kathy Bates",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-M-020:b",
+          "text": "Maggie Smith",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-M-020:c",
+          "text": "Doris Roberts",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-M-020:d",
+          "text": "Linda Hunt",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Linda Hunt spielt die Schulleiterin Ingrid Schlowski.",
+      "context": "Kimble (Arnold Schwarzenegger) bemerkt Verletzungen an einem Kind. Als er dessen Vater zur Rede stellt, holt dieser zum Schlag aus; Kimble schlägt zurück. Schlowski (Linda Hunt) billigt sein Eingreifen und lobt seine Arbeit als Lehrer.",
+      "anchor": "Schlowski unterstützt Kimble nach der Konfrontation mit einem gewalttätigen Vater.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58569",
+        "https://en.wikipedia.org/wiki/Kindergarten_Cop"
+      ]
+    },
+    {
+      "id": "KOM-202610-P01-S-019",
+      "originalId": "KOM-202610-P01-S-019",
+      "knowledgeId": "K-KOM-202610-P01-S-019",
+      "filmKey": "Kindergarten Cop|1990",
+      "filmTitle": "Kindergarten Cop",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Maskottchen und Geiselbefreiung",
+      "question": "„Kindergarten Cop“ (1990): Welches Haustier bringt Kimble mit in die Klasse?",
+      "answers": [
+        {
+          "id": "KOM-202610-P01-S-019:a",
+          "text": "Ein Kaninchen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-S-019:b",
+          "text": "Ein Meerschweinchen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-S-019:c",
+          "text": "Einen Hamster",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-S-019:d",
+          "text": "Ein Frettchen",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kimble bringt ein Frettchen mit.",
+      "context": "Das Frettchen beruhigt zunächst Kimbles (Arnold Schwarzenegger) laute Klasse. Im Finale versteckt Dominic (Joseph und Christian Cousins) es unter seinem Hemd. Als Crisp (Richard Tyson) den Jungen als Geisel festhält, beißt das Tier den Entführer. Dominic kann entkommen.",
+      "anchor": "Das Klassenmaskottchen hilft Dominic später aus Crisps Griff.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58569",
+        "https://en.wikipedia.org/wiki/Kindergarten_Cop"
+      ]
+    },
+    {
+      "id": "KOM-202610-P01-S-020",
+      "originalId": "KOM-202610-P01-S-020",
+      "knowledgeId": "K-KOM-202610-P01-S-020",
+      "filmKey": "Kindergarten Cop|1990",
+      "filmTitle": "Kindergarten Cop",
+      "difficulty": "mittel",
+      "questionType": "Besetzung",
+      "learningObjective": "Joyces Schutzidentität",
+      "question": "Welche Schauspielerin spielt in „Kindergarten Cop“ (1990) die Lehrerin und Dominics Mutter Joyce Palmieri?",
+      "answers": [
+        {
+          "id": "KOM-202610-P01-S-020:a",
+          "text": "Pamela Reed",
+          "correct": false,
+          "feedback": "Pamela Reed spielt Kimbles Polizeikollegin Phoebe O’Hara."
+        },
+        {
+          "id": "KOM-202610-P01-S-020:b",
+          "text": "Carroll Baker",
+          "correct": false,
+          "feedback": "Carroll Baker spielt Crisps Mutter Eleanor."
+        },
+        {
+          "id": "KOM-202610-P01-S-020:c",
+          "text": "Penelope Ann Miller",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-S-020:d",
+          "text": "Cathy Moriarty",
+          "correct": false,
+          "feedback": "Cathy Moriarty spielt Sylvesters Mutter."
+        }
+      ],
+      "explanation": "Penelope Ann Miller spielt Joyce Palmieri.",
+      "context": "Joyce (Penelope Ann Miller) heißt eigentlich Rachel. Sie ist mit Dominic (Joseph und Christian Cousins) vor Crisp (Richard Tyson) geflohen. Kimble (Arnold Schwarzenegger) verliebt sich in die Lehrerin, deren Schutz auch sein Polizeiauftrag gilt.",
+      "anchor": "Joyce verbirgt ihre Identität vor Crisp.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58569",
+        "https://en.wikipedia.org/wiki/Kindergarten_Cop"
+      ]
+    },
+    {
+      "id": "KOM-202610-P01-M-021",
+      "originalId": "KOM-202610-P01-M-021",
+      "knowledgeId": "K-KOM-202610-P01-M-021",
+      "filmKey": "Kindergarten Cop|1990",
+      "filmTitle": "Kindergarten Cop",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "O’Haras Unterrichtsrat",
+      "question": "Wer führte bei „Kindergarten Cop“ (1990) Regie?",
+      "answers": [
+        {
+          "id": "KOM-202610-P01-M-021:a",
+          "text": "Ivan Reitman",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-M-021:b",
+          "text": "Joel Coen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-M-021:c",
+          "text": "Penny Marshall",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-M-021:d",
+          "text": "Hanns Christian Müller",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ivan Reitman führte Regie.",
+      "context": "Phoebe O’Hara (Pamela Reed) rät Kimble (Arnold Schwarzenegger), die Kinder wie Polizeianwärter zu behandeln. Als Hilfssheriffs marschieren sie und machen Bewegungsspiele.",
+      "anchor": "O’Haras Rat macht aus der Klasse spielerische Polizeianwärter.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58569",
+        "https://en.wikipedia.org/wiki/Kindergarten_Cop"
+      ]
+    },
+    {
+      "id": "KOM-202610-P01-S-021",
+      "originalId": "KOM-202610-P01-S-021",
+      "knowledgeId": "K-KOM-202610-P01-S-021",
+      "filmKey": "Kindergarten Cop|1990",
+      "filmTitle": "Kindergarten Cop",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Schwarzeneggers Filmjahr zwischen Kindergarten und Mars",
+      "question": "In welchem Jahr erschien „Kindergarten Cop“ erstmals?",
+      "answers": [
+        {
+          "id": "KOM-202610-P01-S-021:a",
+          "text": "1990",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-S-021:b",
+          "text": "1989",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-S-021:c",
+          "text": "1991",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202610-P01-S-021:d",
+          "text": "1992",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Kindergarten Cop“ erschien 1990.",
+      "context": "1990 erscheint Schwarzenegger in „Kindergarten Cop“ und „Total Recall“. Kindergarten und Mars sind zwei denkbar verschiedene Einsatzorte desselben Stars. Actionkomödie und Science-Fiction-Thriller geben seinem Filmjahr einen besonders anschaulichen Doppelanker.",
+      "anchor": "1990: Schwarzenegger im Kindergarten und auf dem Mars.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58569",
+        "https://en.wikipedia.org/wiki/Kindergarten_Cop",
+        "https://www.bfi.org.uk/film/4645967f-1287-54ac-8a69-1c339b21a5cd/total-recall",
+        "https://www.schwarzenegger.com/filmography/movie/total-recall"
+      ]
+    },
+    {
+      "id": "F240-20261006-002-L1",
+      "originalId": "F240-20261006-002-L1",
+      "knowledgeId": "K-F240-20261006-002-L1",
+      "filmKey": "King Kong|1933",
+      "filmTitle": "King Kong und die weiße Frau",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Letzter Zufluchtsort",
+      "question": "Auf welches New Yorker Gebäude klettert Kong im Finale von „King Kong und die weiße Frau“ mit Fay Wray?",
+      "answers": [
+        {
+          "id": "F240-20261006-002-L1:a",
+          "text": "Empire State Building",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-L1:b",
+          "text": "Chrysler Building",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-L1:c",
+          "text": "Flatiron Building",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-L1:d",
+          "text": "Woolworth Building",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kong trägt Ann Darrow auf das Empire State Building.",
+      "context": "Nach seiner Flucht aus dem Theater sucht Kong mit Ann Darrow (Fay Wray) Schutz in großer Höhe. Das Empire State Building wird zum Schauplatz des Luftangriffs. Das berühmte Bild stellt das riesige Tier einer noch größeren Stadt gegenüber; auf dem Gipfel findet es keinen Ausweg.",
+      "anchor": "Kongs letzter Zufluchtsort ist das Empire State Building.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://catalog.afi.com/Film/4005-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-002-L2",
+      "originalId": "F240-20261006-002-L2",
+      "knowledgeId": "K-F240-20261006-002-L2",
+      "filmKey": "King Kong|1933",
+      "filmTitle": "King Kong und die weiße Frau",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Filmprojekt und Schaustellung",
+      "question": "Mit welchem ursprünglichen beruflichen Vorhaben fährt Carl Denham (Robert Armstrong) in „King Kong und die weiße Frau“ zur geheimnisvollen Insel?",
+      "answers": [
+        {
+          "id": "F240-20261006-002-L2:a",
+          "text": "Er will eine Handelsstation gründen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-L2:b",
+          "text": "Er will einen Abenteuerfilm drehen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-L2:c",
+          "text": "Er will eine Forschungsstation bauen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-L2:d",
+          "text": "Er will ein Passagierschiff erproben.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Denham führt die Expedition als Filmemacher an.",
+      "context": "Carl Denham (Robert Armstrong) sucht für sein Filmprojekt eine Darstellerin und nimmt Ann Darrow (Fay Wray) mit. Auf der Insel trifft sein Wunsch nach außergewöhnlichen Bildern auf eine echte Gefahr. Die spätere Schaustellung Kongs folgt demselben Geschäftsdenken: Ein lebendes Wesen soll zum verkäuflichen Spektakel werden.",
+      "anchor": "Denhams Filmexpedition wird zur Jagd nach einem Schaustück.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Film/4005-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-002-M1",
+      "originalId": "F240-20261006-002-M1",
+      "knowledgeId": "K-F240-20261006-002-M1",
+      "filmKey": "King Kong|1933",
+      "filmTitle": "King Kong und die weiße Frau",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Betäubung und Transport",
+      "question": "Wie gelingt es Carl Denham (Robert Armstrong) in „King Kong und die weiße Frau“, Kong für den Transport nach New York zu überwältigen?",
+      "answers": [
+        {
+          "id": "F240-20261006-002-M1:a",
+          "text": "Er wirft ihn mit einer Kanone um.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-M1:b",
+          "text": "Er vergiftet dessen Trinkwasser.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-M1:c",
+          "text": "Er setzt eine Gasbombe ein.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-M1:d",
+          "text": "Er lässt die Felswand auf ihn stürzen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Denham schlägt Kong mit einer Gasbombe bewusstlos.",
+      "context": "Kong verfolgt Ann Darrow (Fay Wray) bis zum Dorf. Carl Denham (Robert Armstrong) benutzt die Gasbombe, statt das Tier zu töten. Die Entscheidung ermöglicht den Ortswechsel nach New York: Aus dem gefährlichen Inselbewohner wird ein gefesseltes Ausstellungsobjekt. Gerade der Wunsch, ihn lebend zu besitzen, bereitet das Unglück vor.",
+      "anchor": "Gas betäubt Kong; Denham macht aus der Gefahr ein Geschäft.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Film/4005-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-002-M2",
+      "originalId": "F240-20261006-002-M2",
+      "knowledgeId": "K-F240-20261006-002-M2",
+      "filmKey": "King Kong|1933",
+      "filmTitle": "King Kong und die weiße Frau",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Bühnenauftritt und Ausbruch",
+      "question": "Was löst in „King Kong und die weiße Frau“ während Kongs Theaterpräsentation unmittelbar seinen Ausbruch aus?",
+      "answers": [
+        {
+          "id": "F240-20261006-002-M2:a",
+          "text": "Ein Brand hinter der Bühne",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-M2:b",
+          "text": "Das Geräusch einer Sirene",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-M2:c",
+          "text": "Ein Schuss aus dem Zuschauerraum",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-M2:d",
+          "text": "Die Blitzlichter der Pressefotografen",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Blitzlichter führen dazu, dass Kong seine Ketten sprengt.",
+      "context": "Auf der Bühne wird Kong als Weltwunder vorgeführt. Ann Darrow (Fay Wray) und Jack Driscoll (Bruce Cabot) stehen bei ihm, als die Presse zu fotografieren beginnt. Kong reagiert auf das Blitzen und bricht aus. Die geplante kontrollierte Werbung kippt damit in genau jene Gewalt, die die Veranstalter verkaufen wollten.",
+      "anchor": "Die Presseblitze machen aus der Kong-Schau einen Ausbruch.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://catalog.afi.com/Film/4005-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-002-S1",
+      "originalId": "F240-20261006-002-S1",
+      "knowledgeId": "K-F240-20261006-002-S1",
+      "filmKey": "King Kong|1933",
+      "filmTitle": "King Kong und die weiße Frau",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Bildweise Modellanimation",
+      "question": "Welches Verfahren brachte Kongs Miniaturmodelle in „King Kong und die weiße Frau“ zum Leben?",
+      "answers": [
+        {
+          "id": "F240-20261006-002-S1:a",
+          "text": "Stop-Motion-Animation",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-S1:b",
+          "text": "Handgezeichnete Zeichentrickfolien",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-S1:c",
+          "text": "Mechanische Figuren mit ferngesteuerten Gelenken",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-S1:d",
+          "text": "Ein durchgehend getragenes Ganzkörperkostüm",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kongs Modelle werden in Stop Motion animiert und mit Realaufnahmen kombiniert.",
+      "context": "Stop Motion erzeugt Bewegung aus vielen einzeln aufgenommenen Modellposen. Die Filmtechnik verbindet diese Aufnahmen mit den realen Darstellern, sodass kleine Modelle riesig erscheinen. Der Effekt erklärt die besondere Körperlichkeit des ursprünglichen Kong: Die Kreatur besitzt keine natürliche Bewegung vor der Kamera, sondern erhält sie Bild für Bild.",
+      "anchor": "Ein Modell, viele Einzelbilder: Kongs Bewegung entsteht in Stop Motion.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/4005-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-002-S2",
+      "originalId": "F240-20261006-002-S2",
+      "knowledgeId": "K-F240-20261006-002-S2",
+      "filmKey": "King Kong|1933",
+      "filmTitle": "King Kong und die weiße Frau",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Auftrag zur Originalmusik",
+      "question": "Wer komponierte die eigenständige Orchestermusik zur ursprünglichen Fassung von „King Kong und die weiße Frau“?",
+      "answers": [
+        {
+          "id": "F240-20261006-002-S2:a",
+          "text": "Erich Wolfgang Korngold",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-S2:b",
+          "text": "Max Steiner",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-S2:c",
+          "text": "Franz Waxman",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-S2:d",
+          "text": "Dimitri Tiomkin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Max Steiner schrieb die Musik zu „King Kong“.",
+      "context": "RKO wollte zunächst Musik anderer Produktionen wiederverwenden. Merian C. Cooper bestand jedoch auf einer neuen Partitur und bot an, sie selbst zu bezahlen. Max Steiner schrieb die Musik in acht Wochen und nahm sie mit einem 46-köpfigen Orchester auf.",
+      "anchor": "Cooper setzt für Kong eine neue Steiner-Partitur durch.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/4005-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-002-Y",
+      "originalId": "F240-20261006-002-Y",
+      "knowledgeId": "K-F240-20261006-002-Y",
+      "filmKey": "King Kong|1933",
+      "filmTitle": "King Kong und die weiße Frau",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Original und frühe Fortsetzung",
+      "question": "In welchem Jahr wurde „King Kong und die weiße Frau“ mit Fay Wray erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-002-Y:a",
+          "text": "1931",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-Y:b",
+          "text": "1932",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-Y:c",
+          "text": "1933",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-Y:d",
+          "text": "1934",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„King Kong“ mit Fay Wray wurde 1933 erstmals veröffentlicht.",
+      "context": "1933 erschien nicht nur der ursprüngliche „King Kong“, sondern auch „The Son of Kong“. Die schnelle Fortsetzung kehrte im selben Jahr zur Insel zurück. Das ist ein konkreter Zeitanker für den ersten Film: Der Erfolg führte unmittelbar zu weiterem Material, lange bevor die späteren großen Neuverfilmungen entstanden.",
+      "anchor": "1933: King Kong und schon im selben Jahr Son of Kong.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/4005-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-002-D",
+      "originalId": "F240-20261006-002-D",
+      "knowledgeId": "K-F240-20261006-002-D",
+      "filmKey": "King Kong|1933",
+      "filmTitle": "King Kong und die weiße Frau",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Expeditionsfilmer als Regieteam",
+      "question": "Welches Team führte bei „King Kong und die weiße Frau“ mit Fay Wray Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-002-D:a",
+          "text": "James Whale und Tod Browning",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-D:b",
+          "text": "Fritz Lang und F. W. Murnau",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-D:c",
+          "text": "Victor Fleming und George Cukor",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-002-D:d",
+          "text": "Merian C. Cooper und Ernest B. Schoedsack",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Merian C. Cooper und Ernest B. Schoedsack führten gemeinsam Regie.",
+      "context": "Merian C. Cooper und Ernest B. Schoedsack hatten gemeinsam die Expeditionsfilme „Grass“ und „Chang“ gedreht. Bei „King Kong“ konzentrierte sich Cooper auf technisch aufwendige Szenen. Schoedsack inszenierte unter anderem die Dorfszenen und Teile der New-York-Handlung.",
+      "anchor": "Das Expeditionsfilmer-Duo teilt bei Kong die Inszenierungsarbeit.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/4005-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-003-L1",
+      "originalId": "F240-20261006-003-L1",
+      "knowledgeId": "K-F240-20261006-003-L1",
+      "filmKey": "King Kong|2005",
+      "filmTitle": "King Kong",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Varieté vor der Expedition",
+      "question": "Als was arbeitet Ann Darrow (Naomi Watts) zu Beginn von „King Kong“ mit Jack Black?",
+      "answers": [
+        {
+          "id": "F240-20261006-003-L1:a",
+          "text": "Als Varietékünstlerin",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-L1:b",
+          "text": "Als Biologin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-L1:c",
+          "text": "Als Zeitungsfotografin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-L1:d",
+          "text": "Als Schiffsköchin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ann Darrow ist eine arbeitslos gewordene Varietékünstlerin.",
+      "context": "Ann Darrow (Naomi Watts) verliert mit der Schließung ihrer Revue ihr Einkommen. Carl Denham (Jack Black) bietet ihr daraufhin eine Filmrolle an. Ihre Bühnenfertigkeiten bleiben für die Reise bedeutsam: Ann ist keine Forscherin, sondern eine Darstellerin, die später mit Bewegung und Komik Kontakt zu Kong aufnehmen kann.",
+      "anchor": "Naomi Watts’ Ann bringt Varietéfertigkeiten auf die Insel mit.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/54475-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-003-L2",
+      "originalId": "F240-20261006-003-L2",
+      "knowledgeId": "K-F240-20261006-003-L2",
+      "filmKey": "King Kong|2005",
+      "filmTitle": "King Kong",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Dramatiker an Bord",
+      "question": "Welchen Beruf hat Jack Driscoll (Adrien Brody) in der Neuverfilmung „King Kong“ mit Naomi Watts?",
+      "answers": [
+        {
+          "id": "F240-20261006-003-L2:a",
+          "text": "Erster Offizier des Schiffes",
+          "correct": false,
+          "feedback": "Im Film von 1933 ist Jack Driscoll der erste Offizier."
+        },
+        {
+          "id": "F240-20261006-003-L2:b",
+          "text": "Dramatiker und Drehbuchautor",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-L2:c",
+          "text": "Tierarzt der Expedition",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-L2:d",
+          "text": "Pressedirektor des Studios",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jack Driscoll ist in dieser Fassung ein Dramatiker und Drehbuchautor.",
+      "context": "Ann Darrow (Naomi Watts) kennt die Arbeiten von Jack Driscoll (Adrien Brody), bevor sie ihm begegnet. Sein Name hilft Carl Denham (Jack Black), sie für die Reise zu gewinnen. Der Autor fährt schließlich mit. Damit erhält Jack einen anderen Ausgangspunkt als der gleichnamige Seemann in der ursprünglichen Filmfassung.",
+      "anchor": "Brodys Jack schreibt; der Jack des Originals fährt als Offizier.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/54475-KING-KONG",
+        "https://catalog.afi.com/Film/4005-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-003-M1",
+      "originalId": "F240-20261006-003-M1",
+      "knowledgeId": "K-F240-20261006-003-M1",
+      "filmKey": "King Kong|2005",
+      "filmTitle": "King Kong",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Darbietung und eigener Wille",
+      "question": "Wie gewinnt Ann Darrow (Naomi Watts) in „King Kong“ auf der Insel erstmals Kongs Aufmerksamkeit auf freundlichere Weise?",
+      "answers": [
+        {
+          "id": "F240-20261006-003-M1:a",
+          "text": "Sie heilt mit Medizin seine Wunden.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-M1:b",
+          "text": "Sie singt ihm die Melodie des Schiffshorns vor.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-M1:c",
+          "text": "Sie zeigt ihm komische Bühnenkunststücke.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-M1:d",
+          "text": "Sie füttert ihn aus dem Vorrat der Expedition.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ann setzt ihre Varietékomik ein und unterhält Kong.",
+      "context": "Ann Darrow (Naomi Watts) unterhält Kong mit Tanz und Akrobatik. Als sie erschöpft aufhört, reagiert er zunächst wütend und geht dann fort. Ann nutzt die Gelegenheit zur Flucht, gerät aber in Gefahr. Kong rettet sie vor den Raubsauriern; später betrachten beide gemeinsam den Sonnenuntergang.",
+      "anchor": "Auf Anns Darbietung folgen ihre Flucht und Kongs Rettung.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://catalog.afi.com/Film/54475-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-003-M2",
+      "originalId": "F240-20261006-003-M2",
+      "knowledgeId": "K-F240-20261006-003-M2",
+      "filmKey": "King Kong|2005",
+      "filmTitle": "King Kong",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Verweigerte Schaustellung",
+      "question": "Welche Haltung nimmt Ann Darrow (Naomi Watts) in „King Kong“ gegenüber Denhams (Jack Black) New Yorker Bühnenschau ein?",
+      "answers": [
+        {
+          "id": "F240-20261006-003-M2:a",
+          "text": "Sie führt die Schau als Regisseurin weiter.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-M2:b",
+          "text": "Sie kauft Kong dem Veranstalter ab.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-M2:c",
+          "text": "Sie organisiert selbst die Fotografenrunde.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-M2:d",
+          "text": "Sie weigert sich, bei der Schau mitzuwirken.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ann lehnt die Mitwirkung an Denhams Kong-Schau ab.",
+      "context": "Carl Denham (Jack Black) will Kong am Broadway als Attraktion vermarkten. Ann Darrow (Naomi Watts) macht dabei nicht mit; eine andere Frau übernimmt auf der Bühne ihre Rolle. Der Film trennt dadurch Anns Beziehung zur Kreatur von Denhams Geschäftsinteresse. Das Publikum sieht eine nachgestellte Rettung, während das gefangene Tier Ann selbst sucht.",
+      "anchor": "Ann verweigert die Show; Denham ersetzt sie auf der Bühne.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://catalog.afi.com/Film/54475-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-003-S1",
+      "originalId": "F240-20261006-003-S1",
+      "knowledgeId": "K-F240-20261006-003-S1",
+      "filmKey": "King Kong|2005",
+      "filmTitle": "King Kong",
+      "difficulty": "mittel",
+      "questionType": "Besetzung",
+      "learningObjective": "Darsteller und digitale Figur",
+      "question": "Welcher Darsteller liefert in „King Kong“ mit Naomi Watts die Bewegungsdarstellung für den digital erschaffenen Kong?",
+      "answers": [
+        {
+          "id": "F240-20261006-003-S1:a",
+          "text": "Andy Serkis",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-S1:b",
+          "text": "Doug Jones",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-S1:c",
+          "text": "Alan Tudyk",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-S1:d",
+          "text": "Terry Notary",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Andy Serkis liefert die Performance für Kong.",
+      "context": "Kong ist bei Wētā eine digitale Figur. Seine Darstellung verbindet aufgezeichnetes Schauspiel mit zusätzlicher Animation, statt allein automatisch Bewegungen zu kopieren. Andy Serkis trägt zur körperlichen und emotionalen Gestaltung bei. Das Ergebnis erklärt, wie ein Wesen ohne gesprochenen Dialog zugleich als riesiges Tier und als handelnde Figur wirken kann.",
+      "anchor": "Serkis’ Spiel und Wētās Animation formen den digitalen Kong.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/54475-KING-KONG",
+        "https://www.wetafx.co.nz/films/filmography/king-kong"
+      ]
+    },
+    {
+      "id": "F240-20261006-003-S2",
+      "originalId": "F240-20261006-003-S2",
+      "knowledgeId": "K-F240-20261006-003-S2",
+      "filmKey": "King Kong|2005",
+      "filmTitle": "King Kong",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Wiederaufgenommene Abgrundidee",
+      "question": "Welche Bedrohung im Schluchtabgrund baut „King Kong“ mit Naomi Watts aus einer berühmt gewordenen, verworfenen Idee des Originals aus?",
+      "answers": [
+        {
+          "id": "F240-20261006-003-S2:a",
+          "text": "Ein Angriff weiterer Raubsaurier",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-S2:b",
+          "text": "Rieseninsekten und andere kriechende Kreaturen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-S2:c",
+          "text": "Eine Flutwelle in einer unterirdischen Höhle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-S2:d",
+          "text": "Ein erneuter Angriff Kongs",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Kreaturen im Abgrund erweitern die bekannte verworfene Spinnenidee des Originals.",
+      "context": "Die Männer geraten nach dem Sturz in die Schlucht zwischen riesige kriechende Kreaturen. Diese Passage greift Material auf, das mit einer verworfenen Spinnenszene des ursprünglichen „King Kong“ verbunden ist. Der Bezug betrifft eine zusätzliche Gefahr für die Suchtruppe; er bedeutet nicht, dass die Szene in der regulären Originalfassung enthalten wäre.",
+      "anchor": "Jackson baut die verworfene Abgrundidee als neue Kreaturenszene aus.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://catalog.afi.com/Film/54475-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-003-Y",
+      "originalId": "F240-20261006-003-Y",
+      "knowledgeId": "K-F240-20261006-003-Y",
+      "filmKey": "King Kong|2005",
+      "filmTitle": "King Kong",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Erscheinungsjahr und Handlungszeit",
+      "question": "In welchem Jahr wurde „King Kong“ mit Naomi Watts und Jack Black erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-003-Y:a",
+          "text": "2003",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-Y:b",
+          "text": "2004",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-Y:c",
+          "text": "2005",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-Y:d",
+          "text": "2006",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Neuverfilmung mit Naomi Watts wurde 2005 veröffentlicht.",
+      "context": "2005 erschien diese „King Kong“-Fassung, 72 Jahre nach dem Original von 1933. Trotz des großen technischen Abstands bleibt die Geschichte in der alten Epoche angesiedelt. Der zeitliche Anker liegt deshalb zwischen den Veröffentlichungen, nicht zwischen den Handlungen: Moderne digitale Effekte erzählen erneut ein Abenteuer im New York der 1930er-Jahre.",
+      "anchor": "2005 folgt der neue Kong dem Original von 1933 mit 72 Jahren Abstand.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/54475-KING-KONG"
+      ]
+    },
+    {
+      "id": "F240-20261006-003-D",
+      "originalId": "F240-20261006-003-D",
+      "knowledgeId": "K-F240-20261006-003-D",
+      "filmKey": "King Kong|2005",
+      "filmTitle": "King Kong",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Jacksons früher Kong-Versuch",
+      "question": "Wer führte bei „King Kong“ mit Naomi Watts und Jack Black Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-003-D:a",
+          "text": "Guillermo del Toro",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-D:b",
+          "text": "Robert Zemeckis",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-D:c",
+          "text": "James Cameron",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-003-D:d",
+          "text": "Peter Jackson",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Peter Jackson führte bei dieser Neuverfilmung Regie.",
+      "context": "Als Kind sah Peter Jackson den ursprünglichen „King Kong“ im Fernsehen und wollte danach selbst Filme machen. Später baute er einen Kong sowie ein Modell der Empire-State-Spitze und malte einen Manhattan-Hintergrund, um das Finale nachzustellen. Mit der Neuverfilmung kehrte er zu dieser frühen Begeisterung zurück.",
+      "anchor": "Vom selbst gebauten Kong zum eigenen Kinoremake.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/54475-KING-KONG"
+      ]
+    },
+    {
+      "id": "E20261007-F-019-L1",
+      "originalId": "E20261007-F-019-L1",
+      "knowledgeId": "K-E20261007-F-019-L1",
+      "filmKey": "King Solomon’s Mines|1985",
+      "filmTitle": "Quatermain: Auf der Suche nach dem Schatz der Könige",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Entführter Professor und erzwungene Schatzsuche",
+      "question": "Warum engagiert Jesse Huston (Sharon Stone) Allan Quatermain (Richard Chamberlain) zu Beginn von „Quatermain: Auf der Suche nach dem Schatz der Könige“?",
+      "answers": [
+        {
+          "id": "E20261007-F-019-L1:a",
+          "text": "Sie will den Aufenthaltsort eines gestohlenen Familienerbes finden.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-L1:b",
+          "text": "Sie möchte einen verschwundenen Verlobten ausfindig machen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-L1:c",
+          "text": "Sie braucht einen Führer für die Bergung eines Expeditionsschiffs.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-L1:d",
+          "text": "Sie sucht ihren auf einer Expedition verschwundenen Vater.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jesse bittet Quatermain, ihren Vater zu finden.",
+      "context": "Professor Huston (Bernard Archard) besitzt eine Karte zu den Minen. Bockner (Herbert Lom) und Dogati (John Rhys-Davies) halten ihn gefangen und drohen seiner Tochter Jesse (Sharon Stone), um seine Mitarbeit zu erzwingen. Quatermains (Richard Chamberlain) Rettungsauftrag führt damit unmittelbar zu den konkurrierenden Schatzsuchern.",
+      "anchor": "Die Entführer nutzen Jesse als Druckmittel gegen ihren Vater.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.springfieldspringfield.co.uk/movie_script.php?movie=king-solomons-mines-1985",
+        "https://catalog.afi.com/Catalog/moviedetails/57742"
+      ]
+    },
+    {
+      "id": "E20261007-F-019-L2",
+      "originalId": "E20261007-F-019-L2",
+      "knowledgeId": "K-E20261007-F-019-L2",
+      "filmKey": "King Solomon’s Mines|1985",
+      "filmTitle": "Quatermain: Auf der Suche nach dem Schatz der Könige",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Jesse als bedrohte vermeintliche Rivalin",
+      "question": "Welches Darstellerpaar spielt den Abenteurer und seine Auftraggeberin in „Quatermain: Auf der Suche nach dem Schatz der Könige“?",
+      "answers": [
+        {
+          "id": "E20261007-F-019-L2:a",
+          "text": "Richard Chamberlain und Sharon Stone",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-L2:b",
+          "text": "Harrison Ford und Karen Allen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-L2:c",
+          "text": "Michael Douglas und Kathleen Turner",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-L2:d",
+          "text": "Brendan Fraser und Rachel Weisz",
+          "correct": false,
+          "feedback": "Fraser und Weisz gehören zur modernen Mumie-Reihe."
+        }
+      ],
+      "explanation": "Richard Chamberlain und Sharon Stone spielen Quatermain und Jesse.",
+      "context": "Gagoola (June Buthelezi) hält Jesse Huston (Sharon Stone) wegen ihrer Ähnlichkeit mit der Königin von Saba für eine Bedrohung. Sie will Jesse opfern lassen. Allan Quatermain (Richard Chamberlain) und Umbopo (Ken Gampu) müssen sie aus dieser Gefangenschaft befreien.",
+      "anchor": "Jesses Ähnlichkeit mit einer Königin bringt sie in Lebensgefahr.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/King_Solomon%27s_Mines_(1985_film)",
+        "https://www.universalpicturesathome.com/movies/the-mummy-1999"
+      ]
+    },
+    {
+      "id": "E20261007-F-019-M1",
+      "originalId": "E20261007-F-019-M1",
+      "knowledgeId": "K-E20261007-F-019-M1",
+      "filmKey": "King Solomon’s Mines|1985",
+      "filmTitle": "Quatermain: Auf der Suche nach dem Schatz der Könige",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Rettung und Rückkehr des vertriebenen Herrschers",
+      "question": "Welche zunächst verborgene Stellung besitzt Umbopo (Ken Gampu) in „Quatermain: Auf der Suche nach dem Schatz der Könige“?",
+      "answers": [
+        {
+          "id": "E20261007-F-019-M1:a",
+          "text": "Er ist ein abgesetzter Heerführer des Nachbarvolkes.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-M1:b",
+          "text": "Er ist der vertriebene rechtmäßige Anführer der Kukuana.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-M1:c",
+          "text": "Er ist der geheime Wächter des Bergschatzes.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-M1:d",
+          "text": "Er ist ein als Diener getarnter Gesandter des Königs.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Umbopo ist der vertriebene rechtmäßige Anführer.",
+      "context": "Als Allan Quatermain (Richard Chamberlain) über einem Krokodilbecken aufgehängt wird, greift Umbopo (Ken Gampu) ein. Die Kukuana erkennen den zurückgekehrten Herrscher. Aus dem Begleiter der Expedition wird ein Gegner der herrschenden Gagoola (June Buthelezi).",
+      "anchor": "Die Rettung am Krokodilbecken führt zur Anerkennung Umbopos.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/King_Solomon%27s_Mines_(1985_film)"
+      ]
+    },
+    {
+      "id": "E20261007-F-019-M2",
+      "originalId": "E20261007-F-019-M2",
+      "knowledgeId": "K-E20261007-F-019-M2",
+      "filmKey": "King Solomon’s Mines|1985",
+      "filmTitle": "Quatermain: Auf der Suche nach dem Schatz der Könige",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Gescheiterter Mord und Vergeltung am Partner",
+      "question": "Wie bestraft Dogati (John Rhys-Davies) seinen betrügerischen Partner Bockner (Herbert Lom) in „Quatermain: Auf der Suche nach dem Schatz der Könige“ mit dessen eigener Schatzgier?",
+      "answers": [
+        {
+          "id": "E20261007-F-019-M2:a",
+          "text": "Er lässt ihn mit Diamanten beschwert ins Wasser werfen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-M2:b",
+          "text": "Er zwingt ihn, den Schatzweg ohne Vorräte zurückzugehen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-M2:c",
+          "text": "Er zwingt ihn, Diamanten zu schlucken.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-M2:d",
+          "text": "Er schließt ihn mit den Edelsteinen in der Mine ein.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Dogati zwingt Bockner, die begehrten Diamanten zu schlucken.",
+      "context": "Bockner (Herbert Lom) hält Dogati (John Rhys-Davies) nach seinem Mordversuch für beseitigt. Doch Dogati kehrt zurück und zwingt ihn, Diamanten zu schlucken. Er kündigt an, ihn später aufzuschneiden, um die Steine wiederzubekommen.",
+      "anchor": "Der totgeglaubte Partner kehrt zurück und droht Bockner mit dem Aufschneiden.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://www.springfieldspringfield.co.uk/movie_script.php?movie=king-solomons-mines-1985"
+      ]
+    },
+    {
+      "id": "E20261007-F-019-S1",
+      "originalId": "E20261007-F-019-S1",
+      "knowledgeId": "K-E20261007-F-019-S1",
+      "filmKey": "King Solomon’s Mines|1985",
+      "filmTitle": "Quatermain: Auf der Suche nach dem Schatz der Könige",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Verfilmungsgeschichte und komödiantische Ausrichtung",
+      "question": "Welche literarische Vorlage bildet den Ausgangspunkt von „Quatermain: Auf der Suche nach dem Schatz der Könige“?",
+      "answers": [
+        {
+          "id": "E20261007-F-019-S1:a",
+          "text": "Jules Vernes „Reise zum Mittelpunkt der Erde“",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-S1:b",
+          "text": "Robert Louis Stevensons „Die Schatzinsel“",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-S1:c",
+          "text": "Rudyard Kiplings „Kim“",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-S1:d",
+          "text": "H. Rider Haggards „King Solomon’s Mines“",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "H. Rider Haggards Roman ist die literarische Grundlage.",
+      "context": "Haggards Roman wurde bereits 1937 und 1950 verfilmt. Chamberlain sah seine spätere Fassung als Parodie; auch die Filmemacher verteidigten sie als Komödie.",
+      "anchor": "Chamberlains komödiantische Fassung folgt früheren Verfilmungen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/57742"
+      ]
+    },
+    {
+      "id": "E20261007-F-019-S2",
+      "originalId": "E20261007-F-019-S2",
+      "knowledgeId": "K-E20261007-F-019-S2",
+      "filmKey": "King Solomon’s Mines|1985",
+      "filmTitle": "Quatermain: Auf der Suche nach dem Schatz der Könige",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Warnung und dennoch mitgenommene Diamanten",
+      "question": "Welche Grundregel nennt Umbopo (Ken Gampu) während der Flucht aus den Minen in „Quatermain: Auf der Suche nach dem Schatz der Könige“?",
+      "answers": [
+        {
+          "id": "E20261007-F-019-S2:a",
+          "text": "Die Diamanten gehören dem Berg und sollen dort bleiben.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-S2:b",
+          "text": "Die Edelsteine dürfen nur durch einen König verschenkt werden.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-S2:c",
+          "text": "Die Steine sollen unter allen Kukuana gleich geteilt werden.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-S2:d",
+          "text": "Die Schatzsuchenden dürfen genau einen Stein zur Erinnerung mitnehmen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Umbopo warnt, dass die Diamanten dem Berg gehören.",
+      "context": "Bockner (Herbert Lom) löst beim Griff nach einem Diamanten eine tödliche Falle aus. Während der Flucht warnt Umbopo (Ken Gampu) vor der Mitnahme der Steine. Jesse (Sharon Stone) und Quatermain (Richard Chamberlain) haben dennoch jeweils einen Diamanten behalten.",
+      "anchor": "Auch die entkommenen Helden haben gegen Umbopos Warnung gehandelt.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/King_Solomon%27s_Mines_(1985_film)"
+      ]
+    },
+    {
+      "id": "E20261007-F-019-Y",
+      "originalId": "E20261007-F-019-Y",
+      "knowledgeId": "K-E20261007-F-019-Y",
+      "filmKey": "King Solomon’s Mines|1985",
+      "filmTitle": "Quatermain: Auf der Suche nach dem Schatz der Könige",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Hundert Jahre zwischen Roman und Verfilmung",
+      "question": "In welchem Jahr erschien „Quatermain: Auf der Suche nach dem Schatz der Könige“ mit Richard Chamberlain und Sharon Stone erstmals?",
+      "answers": [
+        {
+          "id": "E20261007-F-019-Y:a",
+          "text": "1984",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-Y:b",
+          "text": "1985",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-Y:c",
+          "text": "1986",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-Y:d",
+          "text": "1987",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Chamberlain-Stone-Fassung erschien 1985.",
+      "context": "H. Rider Haggards Roman King Solomon’s Mines erschien 1885 in London. Die Verfilmung mit Richard Chamberlain und Sharon Stone startete im November 1985 in den USA. Zwischen der Veröffentlichung der Vorlage und dieser Filmfassung liegen damit hundert Jahre.",
+      "anchor": "1885 Roman, 1985 Chamberlain-Stone-Verfilmung.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/57742"
+      ]
+    },
+    {
+      "id": "E20261007-F-019-D",
+      "originalId": "E20261007-F-019-D",
+      "knowledgeId": "K-E20261007-F-019-D",
+      "filmKey": "King Solomon’s Mines|1985",
+      "filmTitle": "Quatermain: Auf der Suche nach dem Schatz der Könige",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Drehort und direkt anschließende Fortsetzungsproduktion",
+      "question": "Wer führte bei „Quatermain: Auf der Suche nach dem Schatz der Könige“ mit Richard Chamberlain und Sharon Stone Regie?",
+      "answers": [
+        {
+          "id": "E20261007-F-019-D:a",
+          "text": "Gary Nelson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-D:b",
+          "text": "John Guillermin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-D:c",
+          "text": "J. Lee Thompson",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-019-D:d",
+          "text": "Richard Fleischer",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "J. Lee Thompson führte Regie.",
+      "context": "J. Lee Thompson drehte die Schatzsuche in Simbabwe. Die Produktion bereitete bereits das nächste Quatermain-Abenteuer mit Richard Chamberlain und Sharon Stone vor; dessen Dreharbeiten begannen kurz nach Abschluss des ersten Films.",
+      "anchor": "Nach der Schatzsuche ging die gemeinsame Produktion mit dem nächsten Abenteuer weiter.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/57742"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-L1",
+      "originalId": "G100-20261008-ABENTEUER-043-L1",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-043-L1",
+      "filmKey": "Kingdom of Heaven|2005",
+      "filmTitle": "Königreich der Himmel",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Handwerker vor der Reise nach Jerusalem",
+      "question": "Welchen Beruf übt Balian (Orlando Bloom) zu Beginn von „Königreich der Himmel“ in Frankreich aus?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-043-L1:a",
+          "text": "Zimmermann",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-L1:b",
+          "text": "Töpfer",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-L1:c",
+          "text": "Steinmetz",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-L1:d",
+          "text": "Schmied",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Balian beginnt als Schmied.",
+      "context": "Balian (Orlando Bloom) lebt nach dem Verlust seiner Frau zunächst als Handwerker in Frankreich. Die Begegnung mit Godfrey (Liam Neeson) eröffnet ihm einen Weg nach Jerusalem. Der Film stellt seine spätere Verantwortung dadurch als Veränderung eines Mannes dar, der nicht bereits als Herrscher eingeführt wird. Handwerkliches Können bleibt auch bei seinen späteren Aufgaben von Nutzen.",
+      "anchor": "Aus dem Schmied wird ein Verteidiger Jerusalems.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingdom_of_Heaven_(film)",
+        "https://www.springfieldspringfield.co.uk/movie_script.php?movie=kingdom-of-heaven"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-L2",
+      "originalId": "G100-20261008-ABENTEUER-043-L2",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-043-L2",
+      "filmKey": "Kingdom of Heaven|2005",
+      "filmTitle": "Königreich der Himmel",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Väterliches Erbe und Ritterpflicht",
+      "question": "Welche Beziehung offenbart Godfrey (Liam Neeson) Balian (Orlando Bloom) in „Königreich der Himmel“?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-043-L2:a",
+          "text": "Er ist sein Vater.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-L2:b",
+          "text": "Er ist sein Onkel.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-L2:c",
+          "text": "Er ist sein Schwiegervater.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-L2:d",
+          "text": "Er ist sein älterer Bruder.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Godfrey stellt sich Balian als dessen Vater vor.",
+      "context": "Der verwundete Godfrey (Liam Neeson) schlägt Balian (Orlando Bloom) vor seinem Tod zum Ritter. Er verpflichtet ihn, die Wahrheit zu sagen und Schutzlose zu verteidigen. Balian erhält mit dem väterlichen Erbe somit auch einen Auftrag, an dem sich seine spätere Verantwortung in Jerusalem messen lässt.",
+      "anchor": "Godfreys Ritterschlag verbindet das Erbe mit dem Schutz der Schwachen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingdom_of_Heaven_(film)",
+        "https://www.springfieldspringfield.co.uk/movie_script.php?movie=kingdom-of-heaven"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-M1",
+      "originalId": "G100-20261008-ABENTEUER-043-M1",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-043-M1",
+      "filmKey": "Kingdom of Heaven|2005",
+      "filmTitle": "Königreich der Himmel",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Persönliche Friedensverhandlung trotz Krankheit",
+      "question": "Warum trägt König Balduin IV. (Edward Norton) in „Königreich der Himmel“ eine Maske?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-043-M1:a",
+          "text": "Er verbirgt die Verletzungen eines früheren Gefechts.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-M1:b",
+          "text": "Er ist an Lepra erkrankt.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-M1:c",
+          "text": "Die Maske soll ihn vor Anschlägen bei öffentlichen Begegnungen schützen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-M1:d",
+          "text": "Die Maske gehört zum vorgeschriebenen königlichen Trauergewand.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Film zeigt Balduin als an Lepra erkrankten König.",
+      "context": "Balduin IV. (Edward Norton) reitet trotz seiner schweren Krankheit nach Kerak. Dort erreicht er Saladins (Ghassan Massoud) Rückzug und kündigt die Bestrafung des Friedensbrechers Reynald (Brendan Gleeson) an. Seine körperliche Schwäche hindert ihn noch nicht daran, die offene Schlacht durch eine persönliche Verhandlung abzuwenden.",
+      "anchor": "Der kranke König verhindert bei Kerak die offene Schlacht.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingdom_of_Heaven_(film)",
+        "https://www.springfieldspringfield.co.uk/movie_script.php?movie=kingdom-of-heaven"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-M2",
+      "originalId": "G100-20261008-ABENTEUER-043-M2",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-043-M2",
+      "filmKey": "Kingdom of Heaven|2005",
+      "filmTitle": "Königreich der Himmel",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Gewissenskonflikt beim politischen Aufstieg",
+      "question": "Warum lehnt Balian (Orlando Bloom) in „Königreich der Himmel“ den vorgeschlagenen Aufstieg an Sibyllas (Eva Green) Seite ab?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-043-M2:a",
+          "text": "Dafür müsste er Saladins Gesandten ermorden.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-M2:b",
+          "text": "Dafür müsste er die Bewohner Ibelins zwangsumsiedeln.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-M2:c",
+          "text": "Dafür müsste ihr Mann Guy beseitigt werden.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-M2:d",
+          "text": "Dafür müsste er Tiberias als Verräter verurteilen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Balian weigert sich, Guys Beseitigung zum Preis seines Aufstiegs zu machen.",
+      "context": "Balduin IV. (Edward Norton) möchte Balian (Orlando Bloom) an Sibyllas (Eva Green) Seite in eine entscheidende Machtposition bringen. Guy (Marton Csokas), ihr Ehemann, müsste dafür sterben. Balian lehnt ab, obwohl seine Übernahme auch den Frieden schützen könnte. Das Angebot stellt ihn vor einen konkreten Gewissenskonflikt: Soll ein persönliches Verbrechen erlaubt sein, wenn es eine größere Katastrophe verhindern könnte?",
+      "anchor": "Balian lehnt Macht um den Preis eines Mordes ab.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingdom_of_Heaven_(film)",
+        "https://www.springfieldspringfield.co.uk/movie_script.php?movie=kingdom-of-heaven"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-S1",
+      "originalId": "G100-20261008-ABENTEUER-043-S1",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-043-S1",
+      "filmKey": "Kingdom of Heaven|2005",
+      "filmTitle": "Königreich der Himmel",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Schutz der Bewohner bei Verlust der Stadt",
+      "question": "Welche Zusage erreicht Balian (Orlando Bloom) bei der Übergabe Jerusalems in „Königreich der Himmel“ von Saladin (Ghassan Massoud)?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-043-S1:a",
+          "text": "Schutz nur für die Ritter, während einfache Bewohner als Gefangene bleiben",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-S1:b",
+          "text": "Die Wiederherstellung der christlichen Königsherrschaft unter Saladins Aufsicht",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-S1:c",
+          "text": "Einen Waffenstillstand bis zum Eintreffen englischer Verstärkung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-S1:d",
+          "text": "Freien Abzug für die christlichen Bewohner",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Balian handelt sicheres Geleit für die christlichen Bewohner aus.",
+      "context": "Die Verteidigung Jerusalems kann Saladins (Ghassan Massoud) Angriff nicht auf Dauer aufhalten. Balian (Orlando Bloom) nutzt deshalb die Verhandlung, um das Überleben der Bewohner zu sichern. Sein Erfolg besteht im Schutz von Menschen, obwohl die Stadt verloren geht. Der Film trennt damit den Sieg über einen Gegner von der Verantwortung für diejenigen, die einen militärischen Sieg nicht mehr erwarten können.",
+      "anchor": "Die Stadt fällt, die Bewohner dürfen gehen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingdom_of_Heaven_(film)",
+        "https://www.springfieldspringfield.co.uk/movie_script.php?movie=kingdom-of-heaven"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-S2",
+      "originalId": "G100-20261008-ABENTEUER-043-S2",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-043-S2",
+      "filmKey": "Kingdom of Heaven|2005",
+      "filmTitle": "Königreich der Himmel",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Erwiderte Verschonung nach Kerak",
+      "question": "„Königreich der Himmel“: Warum lässt Imad ad-Din (Alexander Siddig) Balian (Orlando Bloom) nach dessen Niederlage bei Kerak frei?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-043-S2:a",
+          "text": "Balian hatte ihn nach ihrer früheren Begegnung verschont.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-S2:b",
+          "text": "Saladin hat Balian bereits als Gesandten zu Balduin bestimmt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-S2:c",
+          "text": "Sibylla hat für ihn ein Lösegeld zugesagt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-S2:d",
+          "text": "Imad erwartet als Gegenleistung die Übergabe Ibelins.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Imad erwidert die Gnade, die Balian ihm früher erwiesen hatte.",
+      "context": "Nach dem Schiffbruch begegnet Balian (Orlando Bloom) einem Mann, den er für einen Sklaven hält und später freilässt. Nach der Niederlage bei Kerak erkennt er diesen als Imad ad-Din (Alexander Siddig), einen hochgestellten Vertrauten Saladins (Ghassan Massoud), wieder. Die frühere Verschonung erhält nun eine konkrete Antwort. Eine scheinbar nebensächliche Entscheidung wirkt über die Grenzen der beiden Kriegsparteien hinaus.",
+      "anchor": "Balians frühere Gnade kehrt als Freiheit zu ihm zurück.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingdom_of_Heaven_(film)",
+        "https://www.springfieldspringfield.co.uk/movie_script.php?movie=kingdom-of-heaven"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-Y",
+      "originalId": "G100-20261008-ABENTEUER-043-Y",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-043-Y",
+      "filmKey": "Kingdom of Heaven|2005",
+      "filmTitle": "Königreich der Himmel",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Veröffentlichung fünf Jahre nach Gladiator",
+      "question": "Wann wurde „Königreich der Himmel“ mit Orlando Bloom als Balian erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-043-Y:a",
+          "text": "2003",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-Y:b",
+          "text": "2005",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-Y:c",
+          "text": "2004",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-Y:d",
+          "text": "2006",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die erste Veröffentlichung war 2005.",
+      "context": "Königreich der Himmel wurde im Mai 2005 erstmals veröffentlicht. Fünf Jahre zuvor hatte Ridley Scott mit Gladiator bereits ein historisches Kinoepos inszeniert. Die beiden Filme führen in unterschiedliche Zeiten: Gladiator ins Römische Reich, Königreich der Himmel in die Epoche der Kreuzzüge.",
+      "anchor": "2005: Scotts Jerusalem-Epos fünf Jahre nach Gladiator.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingdom_of_Heaven_(film)",
+        "https://www.bfi.org.uk/features/where-begin-with-ridley-scott"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-D",
+      "originalId": "G100-20261008-ABENTEUER-043-D",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-043-D",
+      "filmKey": "Kingdom of Heaven|2005",
+      "filmTitle": "Königreich der Himmel",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Zusätzlicher Mutter-Kind-Strang im Director’s Cut",
+      "question": "Wer führte bei „Königreich der Himmel“ mit Orlando Bloom, Eva Green und Liam Neeson Regie?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-043-D:a",
+          "text": "Tony Scott",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-D:b",
+          "text": "Peter Jackson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-D:c",
+          "text": "Ridley Scott",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-043-D:d",
+          "text": "Wolfgang Petersen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ridley Scott führte Regie.",
+      "context": "Der Director’s Cut ergänzt Sibyllas (Eva Green) Sohn und seine Erkrankung. Ridley Scott erklärte, Sibylla wolle dem Kind das von ihrem Bruder bekannte Leiden ersparen. Diese Begründung gehört zum erweiterten Handlungsstrang; die kürzere Kinofassung lässt ihn aus.",
+      "anchor": "Der Director’s Cut macht Sibyllas Entscheidung als Mutter sichtbar.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://www.eyeforfilm.co.uk/feature/2006-10-24-kingdom-of-heaven-ridley-scott-interview-feature-story-by-matt-arnoldi",
+        "https://en.wikipedia.org/wiki/Kingdom_of_Heaven_(film)"
+      ]
+    },
+    {
+      "id": "ACT-202610-P01-L-009",
+      "originalId": "ACT-202610-P01-L-009",
+      "knowledgeId": "K-ACT-202610-P01-L-009",
+      "filmKey": "Kingsman: The Secret Service|2014",
+      "filmTitle": "Kingsman: The Secret Service",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Vaters Opfer, Medaille und Eggsys neue Chance",
+      "question": "„Kingsman: The Secret Service“ (2014): Wie heißt der junge Londoner, den Harry Hart (Colin Firth) für die Agentenausbildung vorschlägt?",
+      "answers": [
+        {
+          "id": "ACT-202610-P01-L-009:a",
+          "text": "Charlie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-009:b",
+          "text": "Digby",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-009:c",
+          "text": "Eggsy",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-009:d",
+          "text": "Hugo",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Harry schlägt Gary „Eggsy“ Unwin (Taron Egerton) vor.",
+      "context": "Eggsys Vater (Jonno Davies) starb, als er Harry Hart (Colin Firth) rettete. Harry gab dessen Sohn eine Medaille mit einer Notrufnummer. Jahre später nutzt Eggsy (Taron Egerton) sie nach seiner Festnahme wegen eines gestohlenen Autos. Harry holt ihn aus dem Gefängnis und eröffnet ihm die Chance auf eine Agentenausbildung.",
+      "anchor": "Der Notruf auf Vaters Medaille führt Eggsy zu Harry.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service",
+        "https://www.samdb.co.za/titleproductionnotes/1937",
+        "https://www.20thcenturystudios.com/movies/kingsman-the-secret-service"
+      ]
+    },
+    {
+      "id": "ACT-202610-P01-L-010",
+      "originalId": "ACT-202610-P01-L-010",
+      "knowledgeId": "K-ACT-202610-P01-L-010",
+      "filmKey": "Kingsman: The Secret Service|2014",
+      "filmTitle": "Kingsman: The Secret Service",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Reale Schneiderei als Vorbild des gebauten Filmsets",
+      "question": "„Kingsman: The Secret Service“ (2014): Hinter welcher Geschäftsfassade verbirgt sich Kingsman?",
+      "answers": [
+        {
+          "id": "ACT-202610-P01-L-010:a",
+          "text": "Ein Auktionshaus",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-010:b",
+          "text": "Eine Buchhandlung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-010:c",
+          "text": "Eine Parfümerie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-010:d",
+          "text": "Eine Maßschneiderei",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kingsman nutzt eine Maßschneiderei als Tarnung.",
+      "context": "Die Kingsman-Schneiderei hat ein reales Vorbild: Huntsman in der Londoner Savile Row. Szenenbildner Paul Kirby ließ für den Film eine eigene Version im Studio nachbauen; Huntsman lieh dafür Requisiten. Die Einrichtung konnte so für die Dreharbeiten verändert werden und behielt zugleich Einzelheiten einer echten Maßschneiderei.",
+      "anchor": "Huntsman lieferte das Vorbild für Kingsmans Schneiderei.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service",
+        "https://www.samdb.co.za/titleproductionnotes/1937"
+      ]
+    },
+    {
+      "id": "ACT-202610-P01-M-013",
+      "originalId": "ACT-202610-P01-M-013",
+      "knowledgeId": "K-ACT-202610-P01-M-013",
+      "filmKey": "Kingsman: The Secret Service|2014",
+      "filmTitle": "Kingsman: The Secret Service",
+      "difficulty": "mittel",
+      "questionType": "Besetzung",
+      "learningObjective": "Valentines Selbstbild wird durch sein Kostüm sichtbar",
+      "question": "„Kingsman: The Secret Service“ (2014): Wer spielt den Technikmilliardär Richmond Valentine, der kostenlose Kommunikation verspricht?",
+      "answers": [
+        {
+          "id": "ACT-202610-P01-M-013:a",
+          "text": "Forest Whitaker",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-M-013:b",
+          "text": "Samuel L. Jackson",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-M-013:c",
+          "text": "Laurence Fishburne",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-M-013:d",
+          "text": "Morgan Freeman",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Samuel L. Jackson spielt den Milliardär Richmond Valentine.",
+      "context": "Valentine (Samuel L. Jackson) hält seinen Massenmordplan für eine Rettung der Welt. Kostümbildnerin Arianne Phillips gab ihm sogar eine buddhistische Gebetskette. Seine bunten, amerikanisch geprägten Outfits setzen ihn von den britischen Maßanzügen der Agenten ab. An seiner Kleidung lässt sich ablesen, wie gern er sich als Wohltäter versteht.",
+      "anchor": "Jacksons Valentine trägt die Gebetskette eines vermeintlichen Weltenretters.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service",
+        "https://www.samdb.co.za/titleproductionnotes/1937",
+        "https://www.20thcenturystudios.com/movies/kingsman-the-secret-service"
+      ]
+    },
+    {
+      "id": "QRL-20261011-KONG1933B91-S-001",
+      "knowledgeId": "K-QRL-20261011-KONG1933B91-S-001",
+      "filmKey": "King Kong|1933",
+      "filmTitle": "King Kong und die weiße Frau",
+      "filmYear": 1933,
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "question": "Welches Problem lösten Willis O’Briens genaue Kamera- und Perspektivpläne für „King Kong“ (1933)?",
+      "answers": [
+        {
+          "id": "QRL-20261011-KONG1933B91-S-001-A",
+          "text": "Bereits animierte Miniaturen legten die späteren Schauspielerbewegungen fest.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "QRL-20261011-KONG1933B91-S-001-B",
+          "text": "Gleichzeitige Aufnahmen verlangten laufend wechselnde Größenverhältnisse.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "QRL-20261011-KONG1933B91-S-001-C",
+          "text": "Früher gedrehte Schauspieler mussten perspektivisch in spätere Miniaturen passen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "QRL-20261011-KONG1933B91-S-001-D",
+          "text": "Mehrere Kameras sollten dieselbe Modellbewegung aus identischen Perspektiven erfassen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die früheren Realaufnahmen mussten zur späteren Miniaturperspektive passen.",
+      "context": "O’Brien beschreibt, dass Darstelleraufnahmen manchmal einen Monat vor der zugehörigen Miniatur entstanden. Zeichnungen legten deshalb Kamerastandpunkt, Größen und Figurenpositionen genau fest. So konnten projizierte oder einkopierte Menschen glaubwürdig im Modellraum erscheinen.",
+      "anchor": "Getrennte Drehtermine verlangen eine gemeinsame Bildperspektive.",
+      "learningObjective": "Zeitlich getrennte Aufnahme und perspektivische Planung verknüpfen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://vintoz.com/blogs/vintage-movie-resources/king-kong-a-wonder-in-celluloid-and-miniature-effect-shots"
+      ],
+      "originalId": "QRL-20261011-KONG1933B91-S-001"
+    },
+    {
+      "id": "QRL-20261011-KONG2005B91-S-001",
+      "knowledgeId": "K-QRL-20261011-KONG2005B91-S-001",
+      "filmKey": "King Kong|2005",
+      "filmTitle": "King Kong",
+      "filmYear": 2005,
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "question": "Welche Grenze des Gesichtscaptures löste Wētā laut Produktionsnotizen für „King Kong“ (2005), und wie?",
+      "answers": [
+        {
+          "id": "QRL-20261011-KONG2005B91-S-001-A",
+          "text": "Andere Gorillamuskeln; proportionale Vergrößerung menschlicher Gesichtspunkte.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "QRL-20261011-KONG2005B91-S-001-B",
+          "text": "Andere Gorillamuskeln; Software übersetzte menschliche Emotionen in passende Gorillamimik.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "QRL-20261011-KONG2005B91-S-001-C",
+          "text": "Andere Gorillamuskeln; Tierfilmreferenzen ersetzten sämtliche menschlichen Gesichtsdaten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "QRL-20261011-KONG2005B91-S-001-D",
+          "text": "Andere Gorillamuskeln; Körpermarker steuerten die Gesichtsausdrücke.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Menschliche Mimik wurde in emotional entsprechende Gorillaausdrücke übersetzt.",
+      "context": "Kongs Gesicht besitzt andere Muskeln und Knochen als Andy Serkis’ Gesicht. Eine direkte Übertragung seiner Bewegungen hätte deshalb keine überzeugende Gorillamimik ergeben. Wētā modellierte die tierische Anatomie und entwickelte Software für entsprechende Gefühlsausdrücke, statt dieselbe sichtbare Bewegung zu übernehmen.",
+      "anchor": "Gleiche Emotion bedeutet bei Mensch und Gorilla andere Mimik.",
+      "learningObjective": "Anatomieunterschied und emotionale statt geometrische Übertragung verknüpfen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.scifijapan.com/kaiju-monsters/king-kong-production-notes"
+      ],
+      "originalId": "QRL-20261011-KONG2005B91-S-001"
     }
   ]
 }

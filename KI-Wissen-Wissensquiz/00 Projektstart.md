@@ -1,6 +1,6 @@
 # Projektstart Wissensquiz
 
-**Aktuelle Fragenredaktion:** 4.650 Originalfragen geprüft, 8.123 offen; Block 91 noch nicht aufgenommen. [Fragetexte und Quellen](../docs/Fragenredaktion/Fragen.json), [Fortschritt](../docs/Fragenredaktion/Fortschritt.json). Bis Block 17 seit Version 65 veröffentlicht, spätere Fassungen weiterhin Redaktion.
+**Aktuelle Fragenredaktion:** 4.700 Originalfragen geprüft, 8.073 offen; Block 91 abgeschlossen. [Fragetexte und Quellen](../docs/Fragenredaktion/Fragen.json), [Fortschritt](../docs/Fragenredaktion/Fortschritt.json). Bis Block 17 seit Version 65 veröffentlicht, spätere Fassungen weiterhin Redaktion.
 
 **11.10.2026 – Konto-Ladefehler und Serverumbau:** Parallele historische Vollkatalogabrufe scheitern produktiv am Datenbankzeitlimit. Nutzer beauftragt normale Lernrunden, Auswahl und Übersichten ohne Clientvollkatalog im eigenen Worktree; eigener Entwicklungs-Spielstand darf nach Abnahme zurückgesetzt werden. Keine Altstandmigration, noch keine Veröffentlichung. [Befund und Auftrag](../docs/Online-Spielstand-Ladefehler-2026-10-11.md).
 
