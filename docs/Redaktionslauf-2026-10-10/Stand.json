@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 3100,
-  "totalReviewed": 3250,
-  "remainingFilmQuestions": 7483,
+  "completedInThisRun": 3150,
+  "totalReviewed": 3300,
+  "remainingFilmQuestions": 7433,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 9523,
+  "remainingAllQuestions": 9473,
   "blocks": [
     {
       "block": 1,
@@ -318,6 +318,11 @@
     {
       "block": 62,
       "path": "Block-62.json",
+      "count": 50
+    },
+    {
+      "block": 63,
+      "path": "Block-63.json",
       "count": 50
     }
   ],
@@ -3571,209 +3576,59 @@
     "G100-20261008-ABENTEUER-014-M2",
     "G100-20261008-ABENTEUER-014-S1",
     "G100-20261008-ABENTEUER-014-S2",
-    "G100-20261008-ABENTEUER-014-Y"
+    "G100-20261008-ABENTEUER-014-Y",
+    "G100-20261008-ABENTEUER-014-D",
+    "E20261007-F-001-L1",
+    "E20261007-F-001-L2",
+    "E20261007-F-001-M1",
+    "E20261007-F-001-M2",
+    "E20261007-F-001-S1",
+    "E20261007-F-001-S2",
+    "E20261007-F-001-Y",
+    "E20261007-F-001-D",
+    "E20261007-F-273-L1",
+    "E20261007-F-273-L2",
+    "E20261007-F-273-M1",
+    "E20261007-F-273-M2",
+    "E20261007-F-273-S1",
+    "E20261007-F-273-S2",
+    "E20261007-F-273-Y",
+    "E20261007-F-273-D",
+    "MAR-L-025",
+    "MAR-L-026",
+    "MAR-M-025",
+    "MAR-M-026",
+    "MAR-S-025",
+    "MAR-S-026",
+    "FF-238-YEAR",
+    "FF-238-DIRECTOR",
+    "MAR-L-031",
+    "MAR-L-032",
+    "MAR-M-031",
+    "MAR-M-032",
+    "MAR-S-031",
+    "MAR-S-032",
+    "FF-241-YEAR",
+    "FF-241-DIRECTOR",
+    "MUS-202609-P01-L-043",
+    "MUS-202609-P01-L-044",
+    "MUS-202609-P01-M-043",
+    "MUS-202609-P01-M-044",
+    "MUS-202609-P01-S-043",
+    "MUS-202609-P01-S-044",
+    "MUS-202609-P01-S-043-V1",
+    "FF-322-YEAR",
+    "FF-322-DIRECTOR",
+    "DRA-202610-P01-L-011",
+    "DRA-202610-P01-L-012",
+    "DRA-202610-P01-M-016",
+    "DRA-202610-P01-M-017",
+    "DRA-202610-P01-S-016",
+    "DRA-202610-P01-S-017",
+    "DRA-202610-P01-M-018",
+    "DRA-202610-P01-S-018"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "G100-20261008-ABENTEUER-014-D",
-      "filmKey": "First Knight|1995"
-    },
-    {
-      "id": "E20261007-F-001-L1",
-      "filmKey": "First Men in the Moon|1964"
-    },
-    {
-      "id": "E20261007-F-001-L2",
-      "filmKey": "First Men in the Moon|1964"
-    },
-    {
-      "id": "E20261007-F-001-M1",
-      "filmKey": "First Men in the Moon|1964"
-    },
-    {
-      "id": "E20261007-F-001-M2",
-      "filmKey": "First Men in the Moon|1964"
-    },
-    {
-      "id": "E20261007-F-001-S1",
-      "filmKey": "First Men in the Moon|1964"
-    },
-    {
-      "id": "E20261007-F-001-S2",
-      "filmKey": "First Men in the Moon|1964"
-    },
-    {
-      "id": "E20261007-F-001-Y",
-      "filmKey": "First Men in the Moon|1964"
-    },
-    {
-      "id": "E20261007-F-001-D",
-      "filmKey": "First Men in the Moon|1964"
-    },
-    {
-      "id": "E20261007-F-273-L1",
-      "filmKey": "Fish Tank|2009"
-    },
-    {
-      "id": "E20261007-F-273-L2",
-      "filmKey": "Fish Tank|2009"
-    },
-    {
-      "id": "E20261007-F-273-M1",
-      "filmKey": "Fish Tank|2009"
-    },
-    {
-      "id": "E20261007-F-273-M2",
-      "filmKey": "Fish Tank|2009"
-    },
-    {
-      "id": "E20261007-F-273-S1",
-      "filmKey": "Fish Tank|2009"
-    },
-    {
-      "id": "E20261007-F-273-S2",
-      "filmKey": "Fish Tank|2009"
-    },
-    {
-      "id": "E20261007-F-273-Y",
-      "filmKey": "Fish Tank|2009"
-    },
-    {
-      "id": "E20261007-F-273-D",
-      "filmKey": "Fish Tank|2009"
-    },
-    {
-      "id": "MAR-L-025",
-      "filmKey": "Fist of Fury|1972"
-    },
-    {
-      "id": "MAR-L-026",
-      "filmKey": "Fist of Fury|1972"
-    },
-    {
-      "id": "MAR-M-025",
-      "filmKey": "Fist of Fury|1972"
-    },
-    {
-      "id": "MAR-M-026",
-      "filmKey": "Fist of Fury|1972"
-    },
-    {
-      "id": "MAR-S-025",
-      "filmKey": "Fist of Fury|1972"
-    },
-    {
-      "id": "MAR-S-026",
-      "filmKey": "Fist of Fury|1972"
-    },
-    {
-      "id": "FF-238-YEAR",
-      "filmKey": "Fist of Fury|1972"
-    },
-    {
-      "id": "FF-238-DIRECTOR",
-      "filmKey": "Fist of Fury|1972"
-    },
-    {
-      "id": "MAR-L-031",
-      "filmKey": "Fist of Legend|1994"
-    },
-    {
-      "id": "MAR-L-032",
-      "filmKey": "Fist of Legend|1994"
-    },
-    {
-      "id": "MAR-M-031",
-      "filmKey": "Fist of Legend|1994"
-    },
-    {
-      "id": "MAR-M-032",
-      "filmKey": "Fist of Legend|1994"
-    },
-    {
-      "id": "MAR-S-031",
-      "filmKey": "Fist of Legend|1994"
-    },
-    {
-      "id": "MAR-S-032",
-      "filmKey": "Fist of Legend|1994"
-    },
-    {
-      "id": "FF-241-YEAR",
-      "filmKey": "Fist of Legend|1994"
-    },
-    {
-      "id": "FF-241-DIRECTOR",
-      "filmKey": "Fist of Legend|1994"
-    },
-    {
-      "id": "MUS-202609-P01-L-043",
-      "filmKey": "Flashdance|1983"
-    },
-    {
-      "id": "MUS-202609-P01-L-044",
-      "filmKey": "Flashdance|1983"
-    },
-    {
-      "id": "MUS-202609-P01-M-043",
-      "filmKey": "Flashdance|1983"
-    },
-    {
-      "id": "MUS-202609-P01-M-044",
-      "filmKey": "Flashdance|1983"
-    },
-    {
-      "id": "MUS-202609-P01-S-043",
-      "filmKey": "Flashdance|1983"
-    },
-    {
-      "id": "MUS-202609-P01-S-044",
-      "filmKey": "Flashdance|1983"
-    },
-    {
-      "id": "MUS-202609-P01-S-043-V1",
-      "filmKey": "Flashdance|1983"
-    },
-    {
-      "id": "FF-322-YEAR",
-      "filmKey": "Flashdance|1983"
-    },
-    {
-      "id": "FF-322-DIRECTOR",
-      "filmKey": "Flashdance|1983"
-    },
-    {
-      "id": "DRA-202610-P01-L-011",
-      "filmKey": "Flight|2012"
-    },
-    {
-      "id": "DRA-202610-P01-L-012",
-      "filmKey": "Flight|2012"
-    },
-    {
-      "id": "DRA-202610-P01-M-016",
-      "filmKey": "Flight|2012"
-    },
-    {
-      "id": "DRA-202610-P01-M-017",
-      "filmKey": "Flight|2012"
-    },
-    {
-      "id": "DRA-202610-P01-S-016",
-      "filmKey": "Flight|2012"
-    },
-    {
-      "id": "DRA-202610-P01-S-017",
-      "filmKey": "Flight|2012"
-    },
-    {
-      "id": "DRA-202610-P01-M-018",
-      "filmKey": "Flight|2012"
-    },
-    {
-      "id": "DRA-202610-P01-S-018",
-      "filmKey": "Flight|2012"
-    },
     {
       "id": "F240-20261006-133-L1",
       "filmKey": "Fong Sai-yuk|1993"
@@ -33509,204 +33364,204 @@
   ],
   "next": [
     {
-      "id": "G100-20261008-ABENTEUER-014-D",
-      "filmKey": "First Knight|1995"
+      "id": "F240-20261006-133-L1",
+      "filmKey": "Fong Sai-yuk|1993"
     },
     {
-      "id": "E20261007-F-001-L1",
-      "filmKey": "First Men in the Moon|1964"
+      "id": "F240-20261006-133-L2",
+      "filmKey": "Fong Sai-yuk|1993"
     },
     {
-      "id": "E20261007-F-001-L2",
-      "filmKey": "First Men in the Moon|1964"
+      "id": "F240-20261006-133-M1",
+      "filmKey": "Fong Sai-yuk|1993"
     },
     {
-      "id": "E20261007-F-001-M1",
-      "filmKey": "First Men in the Moon|1964"
+      "id": "F240-20261006-133-M2",
+      "filmKey": "Fong Sai-yuk|1993"
     },
     {
-      "id": "E20261007-F-001-M2",
-      "filmKey": "First Men in the Moon|1964"
+      "id": "F240-20261006-133-S1",
+      "filmKey": "Fong Sai-yuk|1993"
     },
     {
-      "id": "E20261007-F-001-S1",
-      "filmKey": "First Men in the Moon|1964"
+      "id": "F240-20261006-133-S2",
+      "filmKey": "Fong Sai-yuk|1993"
     },
     {
-      "id": "E20261007-F-001-S2",
-      "filmKey": "First Men in the Moon|1964"
+      "id": "F240-20261006-133-Y",
+      "filmKey": "Fong Sai-yuk|1993"
     },
     {
-      "id": "E20261007-F-001-Y",
-      "filmKey": "First Men in the Moon|1964"
+      "id": "F240-20261006-133-D",
+      "filmKey": "Fong Sai-yuk|1993"
     },
     {
-      "id": "E20261007-F-001-D",
-      "filmKey": "First Men in the Moon|1964"
+      "id": "SF-202609-P02-L-005",
+      "filmKey": "Forbidden Planet|1956"
     },
     {
-      "id": "E20261007-F-273-L1",
-      "filmKey": "Fish Tank|2009"
+      "id": "SF-202609-P02-L-006",
+      "filmKey": "Forbidden Planet|1956"
     },
     {
-      "id": "E20261007-F-273-L2",
-      "filmKey": "Fish Tank|2009"
+      "id": "SF-202609-P02-M-005",
+      "filmKey": "Forbidden Planet|1956"
     },
     {
-      "id": "E20261007-F-273-M1",
-      "filmKey": "Fish Tank|2009"
+      "id": "SF-202609-P02-M-006",
+      "filmKey": "Forbidden Planet|1956"
     },
     {
-      "id": "E20261007-F-273-M2",
-      "filmKey": "Fish Tank|2009"
+      "id": "SF-202609-P02-S-005",
+      "filmKey": "Forbidden Planet|1956"
     },
     {
-      "id": "E20261007-F-273-S1",
-      "filmKey": "Fish Tank|2009"
+      "id": "SF-202609-P02-S-006",
+      "filmKey": "Forbidden Planet|1956"
     },
     {
-      "id": "E20261007-F-273-S2",
-      "filmKey": "Fish Tank|2009"
+      "id": "SF-202609-P02-L-005-V1",
+      "filmKey": "Forbidden Planet|1956"
     },
     {
-      "id": "E20261007-F-273-Y",
-      "filmKey": "Fish Tank|2009"
+      "id": "SF-202609-P02-S-006-V1",
+      "filmKey": "Forbidden Planet|1956"
     },
     {
-      "id": "E20261007-F-273-D",
-      "filmKey": "Fish Tank|2009"
+      "id": "FF-328-YEAR",
+      "filmKey": "Forbidden Planet|1956"
     },
     {
-      "id": "MAR-L-025",
-      "filmKey": "Fist of Fury|1972"
+      "id": "FF-328-DIRECTOR",
+      "filmKey": "Forbidden Planet|1956"
     },
     {
-      "id": "MAR-L-026",
-      "filmKey": "Fist of Fury|1972"
+      "id": "ROM-202610-P01-L-015",
+      "filmKey": "Forgetting Sarah Marshall|2008"
     },
     {
-      "id": "MAR-M-025",
-      "filmKey": "Fist of Fury|1972"
+      "id": "ROM-202610-P01-L-016",
+      "filmKey": "Forgetting Sarah Marshall|2008"
     },
     {
-      "id": "MAR-M-026",
-      "filmKey": "Fist of Fury|1972"
+      "id": "ROM-202610-P01-M-022",
+      "filmKey": "Forgetting Sarah Marshall|2008"
     },
     {
-      "id": "MAR-S-025",
-      "filmKey": "Fist of Fury|1972"
+      "id": "ROM-202610-P01-M-023",
+      "filmKey": "Forgetting Sarah Marshall|2008"
     },
     {
-      "id": "MAR-S-026",
-      "filmKey": "Fist of Fury|1972"
+      "id": "ROM-202610-P01-S-022",
+      "filmKey": "Forgetting Sarah Marshall|2008"
     },
     {
-      "id": "FF-238-YEAR",
-      "filmKey": "Fist of Fury|1972"
+      "id": "ROM-202610-P01-S-023",
+      "filmKey": "Forgetting Sarah Marshall|2008"
     },
     {
-      "id": "FF-238-DIRECTOR",
-      "filmKey": "Fist of Fury|1972"
+      "id": "ROM-202610-P01-M-024",
+      "filmKey": "Forgetting Sarah Marshall|2008"
     },
     {
-      "id": "MAR-L-031",
-      "filmKey": "Fist of Legend|1994"
+      "id": "ROM-202610-P01-S-024",
+      "filmKey": "Forgetting Sarah Marshall|2008"
     },
     {
-      "id": "MAR-L-032",
-      "filmKey": "Fist of Legend|1994"
+      "id": "DRA-L-005",
+      "filmKey": "Forrest Gump|1994"
     },
     {
-      "id": "MAR-M-031",
-      "filmKey": "Fist of Legend|1994"
+      "id": "DRA-L-006",
+      "filmKey": "Forrest Gump|1994"
     },
     {
-      "id": "MAR-M-032",
-      "filmKey": "Fist of Legend|1994"
+      "id": "DRA-M-005",
+      "filmKey": "Forrest Gump|1994"
     },
     {
-      "id": "MAR-S-031",
-      "filmKey": "Fist of Legend|1994"
+      "id": "DRA-M-006",
+      "filmKey": "Forrest Gump|1994"
     },
     {
-      "id": "MAR-S-032",
-      "filmKey": "Fist of Legend|1994"
+      "id": "DRA-S-005",
+      "filmKey": "Forrest Gump|1994"
     },
     {
-      "id": "FF-241-YEAR",
-      "filmKey": "Fist of Legend|1994"
+      "id": "DRA-S-006",
+      "filmKey": "Forrest Gump|1994"
     },
     {
-      "id": "FF-241-DIRECTOR",
-      "filmKey": "Fist of Legend|1994"
+      "id": "DRA-L-006-V1",
+      "filmKey": "Forrest Gump|1994"
     },
     {
-      "id": "MUS-202609-P01-L-043",
-      "filmKey": "Flashdance|1983"
+      "id": "DRA-M-006-V1",
+      "filmKey": "Forrest Gump|1994"
     },
     {
-      "id": "MUS-202609-P01-L-044",
-      "filmKey": "Flashdance|1983"
+      "id": "DRA-S-006-V1",
+      "filmKey": "Forrest Gump|1994"
     },
     {
-      "id": "MUS-202609-P01-M-043",
-      "filmKey": "Flashdance|1983"
+      "id": "FF-078-YEAR",
+      "filmKey": "Forrest Gump|1994"
     },
     {
-      "id": "MUS-202609-P01-M-044",
-      "filmKey": "Flashdance|1983"
+      "id": "FF-078-DIRECTOR",
+      "filmKey": "Forrest Gump|1994"
     },
     {
-      "id": "MUS-202609-P01-S-043",
-      "filmKey": "Flashdance|1983"
+      "id": "SF-202609-P02-L-069",
+      "filmKey": "Fortress|1992"
     },
     {
-      "id": "MUS-202609-P01-S-044",
-      "filmKey": "Flashdance|1983"
+      "id": "SF-202609-P02-L-070",
+      "filmKey": "Fortress|1992"
     },
     {
-      "id": "MUS-202609-P01-S-043-V1",
-      "filmKey": "Flashdance|1983"
+      "id": "SF-202609-P02-M-069",
+      "filmKey": "Fortress|1992"
     },
     {
-      "id": "FF-322-YEAR",
-      "filmKey": "Flashdance|1983"
+      "id": "SF-202609-P02-M-070",
+      "filmKey": "Fortress|1992"
     },
     {
-      "id": "FF-322-DIRECTOR",
-      "filmKey": "Flashdance|1983"
+      "id": "SF-202609-P02-S-069",
+      "filmKey": "Fortress|1992"
     },
     {
-      "id": "DRA-202610-P01-L-011",
-      "filmKey": "Flight|2012"
+      "id": "SF-202609-P02-S-070",
+      "filmKey": "Fortress|1992"
     },
     {
-      "id": "DRA-202610-P01-L-012",
-      "filmKey": "Flight|2012"
+      "id": "SF-202609-P02-M-069-V1",
+      "filmKey": "Fortress|1992"
     },
     {
-      "id": "DRA-202610-P01-M-016",
-      "filmKey": "Flight|2012"
+      "id": "FF-360-YEAR",
+      "filmKey": "Fortress|1992"
     },
     {
-      "id": "DRA-202610-P01-M-017",
-      "filmKey": "Flight|2012"
+      "id": "FF-360-DIRECTOR",
+      "filmKey": "Fortress|1992"
     },
     {
-      "id": "DRA-202610-P01-S-016",
-      "filmKey": "Flight|2012"
+      "id": "ROM-L-011",
+      "filmKey": "Four Weddings and a Funeral|1994"
     },
     {
-      "id": "DRA-202610-P01-S-017",
-      "filmKey": "Flight|2012"
+      "id": "ROM-L-012",
+      "filmKey": "Four Weddings and a Funeral|1994"
     },
     {
-      "id": "DRA-202610-P01-M-018",
-      "filmKey": "Flight|2012"
+      "id": "ROM-M-011",
+      "filmKey": "Four Weddings and a Funeral|1994"
     },
     {
-      "id": "DRA-202610-P01-S-018",
-      "filmKey": "Flight|2012"
+      "id": "ROM-M-012",
+      "filmKey": "Four Weddings and a Funeral|1994"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
