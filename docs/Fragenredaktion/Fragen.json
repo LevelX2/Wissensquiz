@@ -266573,6 +266573,2462 @@
         "https://www.syfy.com/syfy-wire/a-series-of-unfortunate-events-movie-retrospective-lemony-snicket-brad-silberling"
       ],
       "originalId": "R98-LEMONY-GESTALTUNG-S1"
+    },
+    {
+      "id": "G100-20261008-THRILLER-007-D",
+      "originalId": "G100-20261008-THRILLER-007-D",
+      "knowledgeId": "K-G100-20261008-THRILLER-007-D",
+      "filmKey": "Les Diaboliques|1955",
+      "filmTitle": "Die Teuflischen",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Clouzots Schutz der überraschenden Auflösung über die Filmvorführung hinaus erkennen",
+      "question": "Wer führte beim französischen Original von „Die Teuflischen“ mit Véra Clouzot Regie?",
+      "answers": [
+        {
+          "id": "G100-20261008-THRILLER-007-D:a",
+          "text": "Jacques Becker",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-THRILLER-007-D:b",
+          "text": "René Clément",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-THRILLER-007-D:c",
+          "text": "Henri-Georges Clouzot",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-THRILLER-007-D:d",
+          "text": "Jules Dassin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Henri-Georges Clouzot inszenierte das französische Original.",
+      "context": "Clouzot schützt die Überraschung sogar noch nach dem Finale: Eine Texttafel fordert das Publikum auf, die Auflösung nicht weiterzuerzählen. Der Film bezieht seine Zuschauer damit in die Geheimhaltung ein. Wer das Ende kennt, soll den nächsten Besuchern das von Clouzot sorgfältig vorbereitete Versteckspiel erhalten.",
+      "anchor": "Nach dem Finale bittet Clouzot die Zuschauer, das Geheimnis zu bewahren.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.criterion.com/films/575-diabolique",
+        "https://www.criterion.com/current/posts/1859-diabolique-murder-considered-as-one-of-the-fine-arts"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-L-071",
+      "originalId": "KOM-202609-P02-L-071",
+      "knowledgeId": "K-KOM-202609-P02-L-071",
+      "filmKey": "Les Fugitifs|1986",
+      "filmTitle": "Die Flüchtigen",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Den Ex-Bankräuber Lucas und den überforderten Vater Pignon ihren Darstellern zuordnen",
+      "question": "Welche Darsteller spielen in „Die Flüchtigen“ den Ex-Bankräuber Jean Lucas und den überforderten Vater François Pignon?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-L-071:a",
+          "text": "Jean Reno und Christian Clavier",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-L-071:b",
+          "text": "Daniel Auteuil und Michel Blanc",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-L-071:c",
+          "text": "Gérard Depardieu und Pierre Richard",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-L-071:d",
+          "text": "Louis de Funès und Bourvil",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Depardieu spielt Lucas, Richard spielt Pignon.",
+      "context": "An der italienischen Grenze will Jean Lucas (Gérard Depardieu) zunächst zurückbleiben und sein eigenes Leben in Frankreich fortsetzen. François Pignon (Pierre Richard) und Jeanne (Anaïs Bret) gehen allein weiter. Doch als Pignon beinahe über sein Tarnkleid stolpert, schließt Lucas sich ihnen an. Aus der unfreiwilligen Verbindung wird eine eigene Entscheidung.",
+      "anchor": "Lucas bleibt am Ende freiwillig bei Pignon und Jeanne.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://www.cinematheque.fr/film/51542.html",
+        "https://en.wikipedia.org/wiki/Les_Fugitifs"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-L-072",
+      "originalId": "KOM-202609-P02-L-072",
+      "knowledgeId": "K-KOM-202609-P02-L-072",
+      "filmKey": "Les Fugitifs|1986",
+      "filmTitle": "Die Flüchtigen",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Den missglückten Banküberfall als Beginn der unfreiwilligen Verbindung erkennen",
+      "question": "Welches Ereignis bringt Jean Lucas (Gérard Depardieu) und François Pignon (Pierre Richard) in „Die Flüchtigen“ zusammen?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-L-072:a",
+          "text": "Ein Gefängnisausbruch",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-L-072:b",
+          "text": "Eine Hotelverwechslung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-L-072:c",
+          "text": "Ein Autounfall",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-L-072:d",
+          "text": "Ein Banküberfall",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Pignons Banküberfall führt die Männer zusammen.",
+      "context": "Jean Lucas (Gérard Depardieu) will nach seiner Haft ein legales Leben beginnen und ein Konto eröffnen. Genau dabei gerät er in François Pignons (Pierre Richard) missglückten Überfall. Der Ort liefert daher eine doppelte Ironie: Lucas sucht einen geregelten Umgang mit Geld, wird aber wegen seiner Vergangenheit sofort wieder als Teil einer kriminellen Handlung betrachtet.",
+      "anchor": "Legaler Bankbesuch endet als Geiselnahme.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.gaumont.com/fr/film/les-fugitifs",
+        "https://en.wikipedia.org/wiki/Les_Fugitifs"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-M-071",
+      "originalId": "KOM-202609-P02-M-071",
+      "knowledgeId": "K-KOM-202609-P02-M-071",
+      "filmKey": "Les Fugitifs|1986",
+      "filmTitle": "Die Flüchtigen",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Lucas als Geisel von seiner polizeilichen Verdächtigung unterscheiden",
+      "question": "Welche Rolle hat Lucas (Gérard Depardieu) in „Die Flüchtigen“ beim Banküberfall tatsächlich?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-M-071:a",
+          "text": "Ein unerkannt gebliebener Bankangestellter",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-071:b",
+          "text": "Der eingeweihte Fluchtfahrer",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-071:c",
+          "text": "Eine zufällig gewählte Geisel",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-071:d",
+          "text": "Der heimliche Auftraggeber",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Lucas ist die Geisel des unerfahrenen Bankräubers.",
+      "context": "François Pignon (Pierre Richard) nimmt Jean Lucas (Gérard Depardieu) als Geisel, doch die Polizei glaubt an eine Zusammenarbeit. Lucas' Vorstrafen überlagern das sichtbare Geschehen. Die Handlung entwickelt daraus eine praktische Falle: Um seine Unschuld zu beweisen, müsste er den tatsächlichen Täter kontrollieren, dessen Ungeschick ihn aber gerade immer tiefer in Schwierigkeiten bringt.",
+      "anchor": "Geisel wird für Täter gehalten.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.gaumont.com/fr/film/les-fugitifs",
+        "https://en.wikipedia.org/wiki/Les_Fugitifs"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-M-072",
+      "originalId": "KOM-202609-P02-M-072",
+      "knowledgeId": "K-KOM-202609-P02-M-072",
+      "filmKey": "Les Fugitifs|1986",
+      "filmTitle": "Die Flüchtigen",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Pignons Geldnot mit der bedrohten Versorgung seiner Tochter verbinden",
+      "question": "Wofür braucht François Pignon (Pierre Richard) in „Die Flüchtigen“ das Geld aus dem Banküberfall?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-M-072:a",
+          "text": "Um einen entführten Freund freizukaufen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-072:b",
+          "text": "Um eine drohende Geldstrafe zu bezahlen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-072:c",
+          "text": "Um eine eigene Werkstatt zu eröffnen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-072:d",
+          "text": "Um seine Tochter Jeanne zu versorgen",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Pignon will seine Tochter versorgen.",
+      "context": "François Pignon (Pierre Richard) ist seit längerer Zeit arbeitslos und sorgt allein für Jeanne (Anaïs Bret). Der Film gibt seinem ungeschickten Überfall damit einen verzweifelten Anlass. Die Tochter verändert außerdem Jean Lucas' (Gérard Depardieu) Haltung: Die Verbindung zu dem Kind macht es schwerer, den belastenden Begleiter einfach als selbst verschuldetes Problem abzuschütteln.",
+      "anchor": "Pignons Not betrifft Jeanne.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Les_Fugitifs_(film,_1986)",
+        "https://en.wikipedia.org/wiki/Les_Fugitifs"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-S-071",
+      "originalId": "KOM-202609-P02-S-071",
+      "knowledgeId": "K-KOM-202609-P02-S-071",
+      "filmKey": "Les Fugitifs|1986",
+      "filmTitle": "Die Flüchtigen",
+      "difficulty": "mittel",
+      "questionType": "Besetzung",
+      "learningObjective": "Den pensionierten Tierarzt Martin und seine gefährlich unpassende Hilfe zuordnen",
+      "question": "Wer spielt in „Die Flüchtigen“ den pensionierten Tierarzt, der Lucas’ (Gérard Depardieu) Schusswunde behandelt?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-S-071:a",
+          "text": "Jean Lefebvre",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-071:b",
+          "text": "Michel Galabru",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-071:c",
+          "text": "Jean Carmet",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-071:d",
+          "text": "Bernard Blier",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jean Carmet spielt den Tierarzt Dr. Martin.",
+      "context": "Pignon (Pierre Richard) schießt Lucas (Gérard Depardieu) bei der Flucht versehentlich ins Bein. Zur Behandlung bringt er ihn zu Martin (Jean Carmet), einem pensionierten Tierarzt. Dieser hält den verletzten Mann für einen Hund. Lucas ist damit ausgerechnet auf eine Hilfe angewiesen, die selbst zur Gefahr wird.",
+      "anchor": "Jean Carmets Tierarzt behandelt Lucas wie einen Hund.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.cinematheque.fr/film/51542.html",
+        "https://de.wikipedia.org/wiki/Die_Fl%C3%BCchtigen_(1986)"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-S-072",
+      "originalId": "KOM-202609-P02-S-072",
+      "knowledgeId": "K-KOM-202609-P02-S-072",
+      "filmKey": "Les Fugitifs|1986",
+      "filmTitle": "Die Flüchtigen",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Pignons Familientarnung und die Folgen der vorgetäuschten Geburt verbinden",
+      "question": "Welche Familienrolle übernimmt François Pignon (Pierre Richard) in „Die Flüchtigen“ mit den fremden Reisepapieren?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-S-072:a",
+          "text": "Den Großvater",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-072:b",
+          "text": "Den erwachsenen Sohn",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-072:c",
+          "text": "Den Vater",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-072:d",
+          "text": "Die Mutter",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Pignon verkleidet sich als Mutter der Familie.",
+      "context": "Lucas (Gérard Depardieu) gibt sich als Vater aus, Pignon (Pierre Richard) als Mutter und Jeanne (Anaïs Bret) als Sohn. An einer Straßensperre behauptet Lucas, seine „Frau“ bekomme gerade ein Kind. Die Polizei eskortiert sie deshalb ins Krankenhaus. Die Ausrede öffnet den Weg durch die Sperre, führt die Flüchtenden aber direkt in die nächste Zwangslage.",
+      "anchor": "Die angeblich gebärende Mutter Pignon wird ins Krankenhaus eskortiert.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Les_Fugitifs_(film,_1986)",
+        "https://en.wikipedia.org/wiki/Les_Fugitifs"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-M-071-V1",
+      "originalId": "KOM-202609-P02-M-071-V1",
+      "knowledgeId": "K-KOM-202609-P02-M-071",
+      "filmKey": "Les Fugitifs|1986",
+      "filmTitle": "Die Flüchtigen",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Lucas als Geisel von seiner polizeilichen Verdächtigung unterscheiden",
+      "question": "In welcher tatsächlichen Rolle gerät Lucas (Gérard Depardieu) in „Die Flüchtigen“ in den Banküberfall?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-M-071-V1:a",
+          "text": "Ein unerkannt gebliebener Bankangestellter",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-071-V1:b",
+          "text": "Der heimliche Auftraggeber",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-071-V1:c",
+          "text": "Der eingeweihte Fluchtfahrer",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-071-V1:d",
+          "text": "Eine zufällig gewählte Geisel",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Lucas ist die Geisel des unerfahrenen Bankräubers.",
+      "context": "François Pignon (Pierre Richard) nimmt Jean Lucas (Gérard Depardieu) als Geisel, doch die Polizei glaubt an eine Zusammenarbeit. Lucas' Vorstrafen überlagern das sichtbare Geschehen. Die Handlung entwickelt daraus eine praktische Falle: Um seine Unschuld zu beweisen, müsste er den tatsächlichen Täter kontrollieren, dessen Ungeschick ihn aber gerade immer tiefer in Schwierigkeiten bringt.",
+      "anchor": "Geisel wird für Täter gehalten.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.gaumont.com/fr/film/les-fugitifs",
+        "https://en.wikipedia.org/wiki/Les_Fugitifs"
+      ],
+      "variantOf": "KOM-202609-P02-M-071"
+    },
+    {
+      "id": "FF-411-YEAR",
+      "originalId": "FF-411-YEAR",
+      "knowledgeId": "K-FF-411-YEAR",
+      "filmKey": "Les Fugitifs|1986",
+      "filmTitle": "Die Flüchtigen",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Den Jahrgang 1986 mit Vebers früheren Filmen des Darstellerduos verbinden",
+      "question": "In welchem Jahr erschien Francis Vebers Komödie „Die Flüchtigen“ erstmals?",
+      "answers": [
+        {
+          "id": "FF-411-YEAR:y1986",
+          "text": "1986",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-411-YEAR:y1982",
+          "text": "1984",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-411-YEAR:y1984",
+          "text": "1985",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-411-YEAR:y1987",
+          "text": "1987",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Die Flüchtigen“ wurde erstmals 1986 veröffentlicht.",
+      "context": "1986 folgte „Die Flüchtigen“ auf zwei frühere Veber-Komödien mit Gérard Depardieu und Pierre Richard: „La Chèvre“ von 1981 und „Les Compères“ von 1983. Fünf beziehungsweise drei Jahre später brachte Veber das Duo erneut zusammen. Laut INA erhielt ihre gegensätzliche Paarung diesmal einen stärker dramatischen und sozialen Ton.",
+      "anchor": "1981 La Chèvre, 1983 Les Compères, 1986 Die Flüchtigen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.cinematheque.fr/film/51542.html",
+        "https://www.ina.fr/ina-eclaire-actu/1986-gerard-depardieu-sur-son-role-dans-les-fugitifs"
+      ]
+    },
+    {
+      "id": "FF-411-DIRECTOR",
+      "originalId": "FF-411-DIRECTOR",
+      "knowledgeId": "K-FF-411-DIRECTOR",
+      "filmKey": "Les Fugitifs|1986",
+      "filmTitle": "Die Flüchtigen",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Vebers Autorenschaft und Depardieus Sicht auf die tragische Seite dieser Komödie verbinden",
+      "question": "Wer führte bei der französischen Komödie „Die Flüchtigen“ Regie?",
+      "answers": [
+        {
+          "id": "FF-411-DIRECTOR:a",
+          "text": "Francis Veber",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-411-DIRECTOR:b",
+          "text": "Claude Zidi",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-411-DIRECTOR:c",
+          "text": "Gérard Oury",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-411-DIRECTOR:d",
+          "text": "Patrice Leconte",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Francis Veber schrieb und inszenierte „Die Flüchtigen“.",
+      "context": "Gérard Depardieu betonte im Fernsehinterview zum Film, Francis Veber solle beim Schreiben und Inszenieren selbstständig arbeiten: Er sei darin stärker als die Schauspieler. Depardieu beschrieb außerdem seine Vorliebe für Komödien, die sich dem Tragischen nähern. Der soziale Ernst hinter der Flucht war für ihn somit Teil der komischen Wirkung.",
+      "anchor": "Veber schreibt und inszeniert; Depardieu betont die tragische Seite der Komödie.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.cinematheque.fr/film/51542.html",
+        "https://www.ina.fr/ina-eclaire-actu/1986-gerard-depardieu-sur-son-role-dans-les-fugitifs"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-L-009",
+      "originalId": "MUS-202610-P01-L-009",
+      "knowledgeId": "K-MUS-202610-P01-L-009",
+      "filmKey": "Les Misérables|2012",
+      "filmTitle": "Les Misérables",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Den Sachverhalt „Wer spielt Jean Valjean“ für „Les Misérables“ mit „Hugh Jackman“ richtig zuordnen.",
+      "question": "Wer spielt den ehemaligen Sträfling Jean Valjean, der in „Les Misérables“ ein neues Leben beginnt?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-L-009:a",
+          "text": "Eddie Redmayne",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-009:b",
+          "text": "Russell Crowe",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-009:c",
+          "text": "Hugh Jackman",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-009:d",
+          "text": "Aaron Tveit",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Hugh Jackman spielt Jean Valjean.",
+      "context": "Jean Valjean (Hugh Jackman) versucht nach der Haft ein neues Leben aufzubauen. Der Film zeigt seine Veränderungen über Körper, Stimme und soziale Stellung. Die Rolle verlangt sowohl dramatische Präsenz als auch Gesang in sehr unterschiedlichen emotionalen Situationen.",
+      "anchor": "Hugh Jackman spielt Jean Valjean.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(2012_film)"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-L-010",
+      "originalId": "MUS-202610-P01-L-010",
+      "knowledgeId": "K-MUS-202610-P01-L-010",
+      "filmKey": "Les Misérables|2012",
+      "filmTitle": "Les Misérables",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Den Sachverhalt „Wer verkörpert Javert“ für „Les Misérables“ mit „Russell Crowe“ richtig zuordnen.",
+      "question": "Wer spielt in „Les Misérables“ den Polizeiinspektor Javert, der Jean Valjean über Jahre verfolgt?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-L-010:a",
+          "text": "Colm Wilkinson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-010:b",
+          "text": "Russell Crowe",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-010:c",
+          "text": "Sacha Baron Cohen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-010:d",
+          "text": "Hugh Jackman",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Russell Crowe spielt Javert.",
+      "context": "Valjean (Hugh Jackman) lässt den gefangenen Javert (Russell Crowe) an der Barrikade frei. Später kann der Inspektor ihn erneut festnehmen, gewährt ihm aber die Flucht mit dem verletzten Marius (Eddie Redmayne). Den Widerspruch zwischen seiner Gesetzestreue und Valjeans Gnade erträgt Javert nicht: Er nimmt sich das Leben.",
+      "anchor": "Valjeans Gnade erschüttert Javerts unbedingte Gesetzestreue.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(2012_film)"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-M-013",
+      "originalId": "MUS-202610-P01-M-013",
+      "knowledgeId": "K-MUS-202610-P01-M-013",
+      "filmKey": "Les Misérables|2012",
+      "filmTitle": "Les Misérables",
+      "difficulty": "mittel",
+      "questionType": "Besetzung",
+      "learningObjective": "Den Sachverhalt „Welche Schauspielerin singt als Fantine I Dreamed a Dream“ für „Les Misérables“ mit „Anne Hathaway“ richtig zuordnen.",
+      "question": "Wer spielt in „Les Misérables“ die verarmte Mutter Fantine und singt „I Dreamed a Dream“?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-M-013:a",
+          "text": "Samantha Barks",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-013:b",
+          "text": "Helena Bonham Carter",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-013:c",
+          "text": "Amanda Seyfried",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-013:d",
+          "text": "Anne Hathaway",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Anne Hathaway spielt Fantine und singt „I Dreamed a Dream“.",
+      "context": "Fantine (Anne Hathaway) verliert Arbeit und Sicherheit und versucht, ihre Tochter zu versorgen. Das Lied wird im Film in einer nahen, langen Darstellung konzentriert. Hathaway gewann für die Rolle den Oscar als Nebendarstellerin.",
+      "anchor": "Fantine (Anne Hathaway) verliert Arbeit und Sicherheit und versucht, ihre Tochter zu versorgen.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(2012_film)",
+        "https://www.oscars.org/oscars/ceremonies/2013"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-M-014",
+      "originalId": "MUS-202610-P01-M-014",
+      "knowledgeId": "K-MUS-202610-P01-M-014",
+      "filmKey": "Les Misérables|2012",
+      "filmTitle": "Les Misérables",
+      "difficulty": "mittel",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Den Sachverhalt „Was war an der Gesangsaufnahme dieser Produktion besonders“ für „Les Misérables“ mit „Die Darsteller sangen während der Aufnahme am Set“ richtig zuordnen.",
+      "question": "„Les Misérables“ (2012): Was war an der Gesangsaufnahme dieser Produktion besonders?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-M-014:a",
+          "text": "Gesang vorher im Studio, danach Spiel zum Playback",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-014:b",
+          "text": "Gesang nach dem Dreh passend zu den Bildern",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-014:c",
+          "text": "Die Darsteller sangen während der Aufnahme am Set",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-014:d",
+          "text": "Gesang in Einzelphrasen, danach lippensynchroner Schnitt",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Darsteller sangen direkt bei den Aufnahmen am Set.",
+      "context": "Die Gesangsleistungen wurden überwiegend direkt beim Spiel aufgenommen, begleitet über Ohrhörer. Die Orchestrierung folgte später. Das Verfahren sollte Tempo und Ausdruck stärker an den jeweiligen Auftritt binden, statt die Darsteller ausschließlich zu einer bereits fertigen Studioaufnahme spielen zu lassen.",
+      "anchor": "„Les Misérables“: Die Darsteller sangen während der Aufnahme am Set.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.dga.org/craft/dgaq/issues/1401-winter-2014/tom-hooper",
+        "https://www.fast-and-wide.com/faw-news/4048-les-miserables"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-S-013",
+      "originalId": "MUS-202610-P01-S-013",
+      "knowledgeId": "K-MUS-202610-P01-S-013",
+      "filmKey": "Les Misérables|2012",
+      "filmTitle": "Les Misérables",
+      "difficulty": "mittel",
+      "questionType": "Filmgeschichte",
+      "learningObjective": "Den Sachverhalt „Wessen Roman steht hinter Musical und Filmstoff“ für „Les Misérables“ mit „Victor Hugo“ richtig zuordnen.",
+      "question": "„Les Misérables“ (2012): Wessen Roman steht hinter Musical und Filmstoff?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-S-013:a",
+          "text": "Honoré de Balzac",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-013:b",
+          "text": "Émile Zola",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-013:c",
+          "text": "Alexandre Dumas",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-013:d",
+          "text": "Victor Hugo",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Victor Hugos Roman ist die literarische Grundlage.",
+      "context": "Victor Hugos Roman ist die literarische Grundlage. Der Film von 2012 adaptiert jedoch unmittelbar die Musicalfassung mit der Musik von Claude-Michel Schönberg. Zwischen Buch und Film liegt daher eine wichtige Bühnenbearbeitung, deren gesungene Form die Inszenierung bestimmt.",
+      "anchor": "Victor Hugos Roman ist die literarische Grundlage.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(2012_film)"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-S-014",
+      "originalId": "MUS-202610-P01-S-014",
+      "knowledgeId": "K-MUS-202610-P01-S-014",
+      "filmKey": "Les Misérables|2012",
+      "filmTitle": "Les Misérables",
+      "difficulty": "mittel",
+      "questionType": "Filmgeschichte",
+      "learningObjective": "Den Sachverhalt „Welcher frühere Bühnen-Valjean spielt im Film den Bischof“ für „Les Misérables“ mit „Colm Wilkinson“ richtig zuordnen.",
+      "question": "„Les Misérables“ (2012): Welcher frühere Bühnen-Valjean spielt im Film den Bischof?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-S-014:a",
+          "text": "Colm Wilkinson",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-014:b",
+          "text": "Michael Ball",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-014:c",
+          "text": "Alfie Boe",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-014:d",
+          "text": "Ramin Karimloo",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Colm Wilkinson war der ursprüngliche Valjean der englischsprachigen Bühnenproduktion und spielt hier den Bischof.",
+      "context": "Colm Wilkinson war der ursprüngliche Valjean der englischsprachigen Bühnenproduktion und spielt hier den Bischof. Seine Figur ermöglicht Valjeans (Hugh Jackman) Neubeginn. Die Besetzung schafft damit eine konkrete Verbindung zwischen früherer Theatergeschichte und neuer Filmadaption.",
+      "anchor": "Colm Wilkinson war der ursprüngliche Valjean der englischsprachigen Bühnenproduktion und spielt hier den Bischof.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(2012_film)"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-M-015",
+      "originalId": "MUS-202610-P01-M-015",
+      "knowledgeId": "K-MUS-202610-P01-M-015",
+      "filmKey": "Les Misérables|2012",
+      "filmTitle": "Les Misérables",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Den Sachverhalt „Wer führte bei dieser Fassung Regie“ für „Les Misérables“ mit „Tom Hooper“ richtig zuordnen.",
+      "question": "„Les Misérables“ (2012): Wer führte bei dieser Fassung Regie?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-M-015:a",
+          "text": "Tom Hooper",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-015:b",
+          "text": "Frank Oz",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-015:c",
+          "text": "Miloš Forman",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-015:d",
+          "text": "Norman Jewison",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Bei „Les Misérables“ führte Tom Hooper Regie.",
+      "context": "Valjean (Hugh Jackman) lebt inzwischen als angesehener Bürgermeister. Als ein Unschuldiger für den gesuchten Sträfling gehalten wird, könnte er seine neue Stellung durch Schweigen bewahren. Stattdessen offenbart er vor Gericht seine Identität. Sein moralischer Neubeginn bringt ihn damit erneut in Gefahr.",
+      "anchor": "Valjean schützt einen Unschuldigen und gefährdet dadurch seine eigene Freiheit.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(2012_film)"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-S-015",
+      "originalId": "MUS-202610-P01-S-015",
+      "knowledgeId": "K-MUS-202610-P01-S-015",
+      "filmKey": "Les Misérables|2012",
+      "filmTitle": "Les Misérables",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Den Sachverhalt „In welchem Jahr wurde diese Fassung erstmals öffentlich gezeigt oder veröffentlicht“ für „Les Misérables“ mit „2012“ richtig zuordnen.",
+      "question": "„Les Misérables“ – die Fassung von Tom Hooper: In welchem Jahr wurde diese Fassung erstmals öffentlich gezeigt oder veröffentlicht?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-S-015:a",
+          "text": "2012",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-015:b",
+          "text": "2010",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-015:c",
+          "text": "2013",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-015:d",
+          "text": "2011",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die erste öffentliche Veröffentlichung dieser Fassung fällt ins Jahr 2012.",
+      "context": "Victor Hugos Roman „Les Misérables“ erschien 1862; das Filmmusical folgte 2012, genau 150 Jahre später. Die literarische Geschichte erreicht das Kino dabei über die gesungene Bühnenbearbeitung.",
+      "anchor": "1862 Roman, 2012 Filmmusical: 150 Jahre Abstand.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(2012_film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-146-L1",
+      "originalId": "F240-20261006-146-L1",
+      "knowledgeId": "K-F240-20261006-146-L1",
+      "filmKey": "Les Parapluies de Cherbourg|1964",
+      "filmTitle": "Die Regenschirme von Cherbourg",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "In Cherbourg bleibt selbst das Alltagsgespräch Teil der Musik.",
+      "question": "Was prägt die Dialoge in „Die Regenschirme von Cherbourg“?",
+      "answers": [
+        {
+          "id": "F240-20261006-146-L1:a",
+          "text": "Auch gewöhnliche Alltagsgespräche werden gesungen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-L1:b",
+          "text": "Gesprochene Alltagsszenen wechseln mit Gesangsnummern",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-L1:c",
+          "text": "Nur Liebesgespräche werden vollständig gesungen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-L1:d",
+          "text": "Jede Figur wechselt zwischen Sprech- und Gesangsstimme",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der gesamte Dialog ist gesungen.",
+      "context": "Geneviève Émery (Catherine Deneuve) und Guy Foucher (Nino Castelnuovo) singen auch die unspektakulären Alltagssätze. Michel Legrands Musik verbindet Liebesbekenntnisse mit Gesprächen über Arbeit und Geld. Diese Form erhebt den Alltag, ohne seine praktischen Zwänge verschwinden zu lassen.",
+      "anchor": "In Cherbourg bleibt selbst das Alltagsgespräch Teil der Musik.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Umbrellas_of_Cherbourg"
+      ]
+    },
+    {
+      "id": "F240-20261006-146-L2",
+      "originalId": "F240-20261006-146-L2",
+      "knowledgeId": "K-F240-20261006-146-L2",
+      "filmKey": "Les Parapluies de Cherbourg|1964",
+      "filmTitle": "Die Regenschirme von Cherbourg",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Einberufung trennt das Paar und verändert seinen Zukunftsplan.",
+      "question": "Wodurch wird Guy Foucher (Nino Castelnuovo) in „Die Regenschirme von Cherbourg“ von Geneviève getrennt?",
+      "answers": [
+        {
+          "id": "F240-20261006-146-L2:a",
+          "text": "Er nimmt eine Arbeitsstelle in Paris an",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-L2:b",
+          "text": "Er wird zum Militärdienst im Algerienkrieg eingezogen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-L2:c",
+          "text": "Er beginnt eine Ausbildung in Marseille",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-L2:d",
+          "text": "Er heuert auf einem Handelsschiff an",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Guy muss als Soldat nach Algerien.",
+      "context": "Die junge Liebe von Guy Foucher (Nino Castelnuovo) und Geneviève Émery (Catherine Deneuve) wird durch die Einberufung unterbrochen. In seiner Abwesenheit wirken Schwangerschaft, seltene Briefe und die Erwartungen ihrer Mutter zusammen. Ein politischer Konflikt greift so direkt in einen privaten Zukunftsplan ein.",
+      "anchor": "Die Einberufung trennt das Paar und verändert seinen Zukunftsplan.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Umbrellas_of_Cherbourg"
+      ]
+    },
+    {
+      "id": "F240-20261006-146-M1",
+      "originalId": "F240-20261006-146-M1",
+      "knowledgeId": "K-F240-20261006-146-M1",
+      "filmKey": "Les Parapluies de Cherbourg|1964",
+      "filmTitle": "Die Regenschirme von Cherbourg",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Roland bietet Sicherheit, obwohl das Kind von Guy stammt.",
+      "question": "Welche persönliche Situation Genevièves kennt Roland Cassard, als er sie in „Die Regenschirme von Cherbourg“ heiraten möchte?",
+      "answers": [
+        {
+          "id": "F240-20261006-146-M1:a",
+          "text": "Sie ist noch rechtsgültig mit Guy verheiratet",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-M1:b",
+          "text": "Sie will Guy heimlich nach Algerien folgen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-M1:c",
+          "text": "Sie ist von Guy schwanger",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-M1:d",
+          "text": "Sie will ohne ihre Mutter nach Paris ziehen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Roland akzeptiert Genevièves Schwangerschaft von Guy.",
+      "context": "Geneviève Émery (Catherine Deneuve) erwartet ein Kind, während Guy Foucher (Nino Castelnuovo) abwesend ist. Roland Cassard (Marc Michel) bietet eine abgesicherte Zukunft trotz dieser Tatsache. Die Entscheidung wird damit als Spannung zwischen erster Liebe und materieller Sicherheit erzählt.",
+      "anchor": "Roland bietet Sicherheit, obwohl das Kind von Guy stammt.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Umbrellas_of_Cherbourg"
+      ]
+    },
+    {
+      "id": "F240-20261006-146-M2",
+      "originalId": "F240-20261006-146-M2",
+      "knowledgeId": "K-F240-20261006-146-M2",
+      "filmKey": "Les Parapluies de Cherbourg|1964",
+      "filmTitle": "Die Regenschirme von Cherbourg",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Guys neuer Erwerbsort wird zum Ort der alten Liebe.",
+      "question": "Was baut Guy Foucher (Nino Castelnuovo) in „Die Regenschirme von Cherbourg“ mit seinem Erbe auf?",
+      "answers": [
+        {
+          "id": "F240-20261006-146-M2:a",
+          "text": "Ein Kino",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-M2:b",
+          "text": "Ein Hotel",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-M2:c",
+          "text": "Eine Musikschule",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-M2:d",
+          "text": "Eine Tankstelle",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Guy eröffnet eine Tankstelle.",
+      "context": "Nach seiner Rückkehr findet Guy Foucher (Nino Castelnuovo) die alte Liebesgeschichte beendet. Das Erbe seiner Tante ermöglicht eine eigene Tankstelle. Zusammen mit Madeleine (Ellen Farner) entsteht ein neues Leben; genau dieser Ort wird später zum Schauplatz der zufälligen Wiederbegegnung mit Geneviève.",
+      "anchor": "Guys neuer Erwerbsort wird zum Ort der alten Liebe.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Umbrellas_of_Cherbourg"
+      ]
+    },
+    {
+      "id": "F240-20261006-146-S1",
+      "originalId": "F240-20261006-146-S1",
+      "knowledgeId": "K-F240-20261006-146-S1",
+      "filmKey": "Les Parapluies de Cherbourg|1964",
+      "filmTitle": "Die Regenschirme von Cherbourg",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Guy lässt Geneviève weiterfahren und kehrt zu seiner neuen Familie zurück.",
+      "question": "Was entscheidet Guy (Nino Castelnuovo) bei der winterlichen Wiederbegegnung in „Die Regenschirme von Cherbourg“?",
+      "answers": [
+        {
+          "id": "F240-20261006-146-S1:a",
+          "text": "Er lehnt ab, ihre im Auto wartende Tochter zu sehen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-S1:b",
+          "text": "Er bittet Geneviève, die Tochter allein hereinzuschicken",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-S1:c",
+          "text": "Er verabredet einen späteren Besuch mit der Tochter",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-S1:d",
+          "text": "Er bittet sie, bis zu Madeleines Rückkehr zu warten",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Guy lehnt es ab, seine Tochter kennenzulernen.",
+      "context": "Geneviève (Catherine Deneuve) hält mit ihrer Tochter an Guys Tankstelle. Guy (Nino Castelnuovo) lehnt eine Begegnung mit dem Kind ab. Nach Genevièves Abfahrt begrüßt er Madeleine (Ellen Farner) und seinen Sohn. Der Zufall führt die frühere Liebe zusammen, ohne ihre getrennten Lebenswege wieder zu vereinen.",
+      "anchor": "Guy lässt Geneviève weiterfahren und kehrt zu seiner neuen Familie zurück.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Umbrellas_of_Cherbourg"
+      ]
+    },
+    {
+      "id": "F240-20261006-146-S2",
+      "originalId": "F240-20261006-146-S2",
+      "knowledgeId": "K-F240-20261006-146-S2",
+      "filmKey": "Les Parapluies de Cherbourg|1964",
+      "filmTitle": "Die Regenschirme von Cherbourg",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Rolands alte Enttäuschung wandert aus Lola nach Cherbourg.",
+      "question": "Welche Vorgeschichte verbindet Roland Cassard (Marc Michel) in „Die Regenschirme von Cherbourg“ mit Demys „Lola“?",
+      "answers": [
+        {
+          "id": "F240-20261006-146-S2:a",
+          "text": "Er war Lolas Verlobter und löste die Verlobung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-S2:b",
+          "text": "Er liebte zuvor Lola, blieb aber unerhört",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-S2:c",
+          "text": "Er war der Seemann, für den Lola ihn verließ",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-S2:d",
+          "text": "Er vermittelte Lola ihre erste Stelle als Tänzerin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Roland war bereits in Lola ein enttäuschter Liebender.",
+      "context": "Roland Cassard (Marc Michel) berichtet Madame Émery (Anne Vernon) von seiner früheren Liebe. Der Bezug auf Lola verbindet zwei unabhängige Geschichten durch dieselbe Figur. Seine nun angebotene Ehe steht damit auch vor dem Hintergrund eigener romantischer Enttäuschung.",
+      "anchor": "Rolands alte Enttäuschung wandert aus Lola nach Cherbourg.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Umbrellas_of_Cherbourg"
+      ]
+    },
+    {
+      "id": "F240-20261006-146-Y",
+      "originalId": "F240-20261006-146-Y",
+      "knowledgeId": "K-F240-20261006-146-Y",
+      "filmKey": "Les Parapluies de Cherbourg|1964",
+      "filmTitle": "Die Regenschirme von Cherbourg",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Lola 1961, Cherbourg 1964: drei Jahre später hat Roland Cassard eine weitere Liebesgeschichte.",
+      "question": "In welchem Jahr wurde „Die Regenschirme von Cherbourg“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-146-Y:a",
+          "text": "1962",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-Y:b",
+          "text": "1963",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-Y:c",
+          "text": "1964",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-Y:d",
+          "text": "1965",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die erste Veröffentlichung fällt ins Jahr 1964.",
+      "context": "„Die Regenschirme von Cherbourg“ erschien 1964, drei Jahre nach Demys „Lola“ von 1961. Roland Cassard (Marc Michel) tritt in beiden Filmen auf: Die zuvor unerfüllte Liebe wird zur Vorgeschichte des Mannes, der nun Geneviève (Catherine Deneuve) eine abgesicherte Ehe anbietet.",
+      "anchor": "Lola 1961, Cherbourg 1964: Roland Cassards Vorgeschichte reicht in Demys früheren Film zurück.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Umbrellas_of_Cherbourg",
+        "https://cdn.festival-cannes.com/media/uploads/2024/05/174307.pdf"
+      ]
+    },
+    {
+      "id": "F240-20261006-146-D",
+      "originalId": "F240-20261006-146-D",
+      "knowledgeId": "K-F240-20261006-146-D",
+      "filmKey": "Les Parapluies de Cherbourg|1964",
+      "filmTitle": "Die Regenschirme von Cherbourg",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Demy verbindet verständliche Opernworte mit getrennt besetztem Schauspielgesicht und Gesang.",
+      "question": "Wer führte bei „Die Regenschirme von Cherbourg“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-146-D:a",
+          "text": "François Truffaut",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-D:b",
+          "text": "Agnès Varda",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-D:c",
+          "text": "Jean-Luc Godard",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-146-D:d",
+          "text": "Jacques Demy",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Regiecredit lautet Jacques Demy.",
+      "context": "Jacques Demy wollte die Oper für den Film erneuern: Anders als beim langsamen Operngesang sollten die Worte unmittelbar verständlich bleiben. Auch das Zusammenführen von Schauspielgesicht und fremder Singstimme gehörte für ihn zum Konzept. Geneviève verbindet so Catherine Deneuves Erscheinung mit Danielle Licaris Gesang.",
+      "anchor": "Demy verbindet verständliche Alltagsworte mit getrennt besetztem Gesicht und Gesang.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://www.bergamofilmmeeting.it/bfm/wp-content/uploads/2025/08/AFFN_2025_EN_THE_UMBRELLAS_OF_CHERBOURG.pdf"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-034-L1",
+      "originalId": "G100-20261008-ABENTEUER-034-L1",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-034-L1",
+      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023",
+      "filmTitle": "Die drei Musketiere: D’Artagnan",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "question": "Mit welchem Ziel kommt D’Artagnan (François Civil) in „Die drei Musketiere: D’Artagnan“ nach Paris?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-034-L1:a",
+          "text": "Er will in Richelieus Kardinalsgarde eintreten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-L1:b",
+          "text": "Er sucht eine Stelle als Fechtlehrer am Hof",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-L1:c",
+          "text": "Er möchte in die königlichen Musketiere aufgenommen werden",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-L1:d",
+          "text": "Er möchte als Diener eines Gesandten nach England reisen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "D’Artagnan will Musketier werden.",
+      "context": "D’Artagnan (François Civil) reist als ehrgeiziger junger Mann aus der Gascogne nach Paris. Hauptmann Tréville (Marc Barbé) kannte seinen Vater und rät ihm zum Einstieg als Kadett. Der Aufbruch führt also nicht unmittelbar zur fertigen Heldenrolle. Erst Begegnungen, Konflikte und bewährte Loyalität machen aus dem Bewerber einen Angehörigen der königlichen Truppe.",
+      "anchor": "Der Gasconer kommt als Bewerber nach Paris.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Three_Musketeers:_D%27Artagnan",
+        "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-dartagnan/"
+      ],
+      "learningObjective": "Der Gasconer kommt als Bewerber nach Paris."
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-034-L2",
+      "originalId": "G100-20261008-ABENTEUER-034-L2",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-034-L2",
+      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023",
+      "filmTitle": "Die drei Musketiere: D’Artagnan",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "question": "Was macht D’Artagnan (François Civil) und die drei Musketiere in „Die drei Musketiere: D’Artagnan“ beim ersten Kampf zu Verbündeten?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-034-L2:a",
+          "text": "Ein königlicher Wettkampf gegen spanische Fechter",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-L2:b",
+          "text": "Ein gemeinsamer Angriff auf Buckinghams Bewacher",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-L2:c",
+          "text": "Die gemeinsame Festnahme eines gesuchten Mörders",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-L2:d",
+          "text": "Der Angriff der Kardinalsgarden auf ihre Duellrunde",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kardinalsgarden machen aus geplanten Gegnern eine Kampfgemeinschaft.",
+      "context": "D’Artagnan (François Civil) beleidigt nacheinander Athos (Vincent Cassel), Porthos (Pio Marmaï) und Aramis (Romain Duris). Drei verabredete Duelle führen sie an denselben Ort. Als die Kardinalsgarden einschreiten, stellen sich die Männer gemeinsam gegen sie. Der Wechsel von gekränkter Ehre zu Solidarität ist damit nicht nur ein Motto, sondern entsteht aus einer konkreten Gefahr.",
+      "anchor": "Aus drei Duellen wird ein gemeinsamer Kampf.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Three_Musketeers:_D%27Artagnan",
+        "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-dartagnan/"
+      ],
+      "learningObjective": "Aus drei Duellen wird ein gemeinsamer Kampf."
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-034-M1",
+      "originalId": "G100-20261008-ABENTEUER-034-M1",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-034-M1",
+      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023",
+      "filmTitle": "Die drei Musketiere: D’Artagnan",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "question": "Weshalb wird Athos (Vincent Cassel) in „Die drei Musketiere: D’Artagnan“ zum Tod verurteilt?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-034-M1:a",
+          "text": "Eine ermordete Frau wird in seinem Bett gefunden",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-M1:b",
+          "text": "Er gesteht einen Anschlag auf Buckingham",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-M1:c",
+          "text": "Er hat dem König falsche Diamanten verkauft",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-M1:d",
+          "text": "Er wird beim Diebstahl des königlichen Siegels gefasst",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eine ermordete Frau in seinem Bett führt zu einer falschen Mordanklage.",
+      "context": "Athos (Vincent Cassel) wird durch den Fund einer erstochenen Frau in seinem Bett belastet. D’Artagnan (François Civil) erkennt in ihr die junge Frau, deren Entführung er auf seiner Reise nach Paris verhindern wollte. Die Verbindung zwischen dem frühen Angriff und der späteren Anklage gibt den Freunden einen Ermittlungsansatz. Ihr Zusammenhalt verlangt nun mehr als Geschick mit dem Degen.",
+      "anchor": "Der scheinbar private Mordfund führt zurück zum Reiseauftakt.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Three_Musketeers:_D%27Artagnan",
+        "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-dartagnan/"
+      ],
+      "learningObjective": "Der scheinbar private Mordfund führt zurück zum Reiseauftakt."
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-034-M2",
+      "originalId": "G100-20261008-ABENTEUER-034-M2",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-034-M2",
+      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023",
+      "filmTitle": "Die drei Musketiere: D’Artagnan",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "question": "Warum muss D’Artagnan (François Civil) in „Die drei Musketiere: D’Artagnan“ die Diamanten aus England zurückholen?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-034-M2:a",
+          "text": "Buckingham hat sie als Lösegeld für Athos gefordert",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-M2:b",
+          "text": "Die Königin muss das Geschenk des Königs bei einer Hochzeit tragen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-M2:c",
+          "text": "Der König möchte sie der Braut seiner Hochzeit schenken",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-M2:d",
+          "text": "Die Königin braucht ihren Verkaufserlös für eine heimliche Flucht",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Königin soll die verschenkten Diamanten bei einer Hochzeit tragen.",
+      "context": "Königin Anne (Vicky Krieps) gibt Buckingham (Jacob Fortune-Lloyd) die Diamanten, die ihr der König geschenkt hat, als Erinnerung. Als Louis XIII. (Louis Garrel) verlangt, sie bei der Hochzeit seines Bruders zu tragen, droht ihre Beziehung sichtbar zu werden. Constance (Lyna Khoudri) schickt D’Artagnan (François Civil) deshalb nach England. Ein privates Geschenk wird zu einer Gefahr am Hof.",
+      "anchor": "Die verschenkten Diamanten müssen vor der Hochzeit zurück.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Three_Musketeers:_D%27Artagnan",
+        "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-dartagnan/"
+      ],
+      "learningObjective": "Die verschenkten Diamanten müssen vor der Hochzeit zurück."
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-034-S1",
+      "originalId": "G100-20261008-ABENTEUER-034-S1",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-034-S1",
+      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023",
+      "filmTitle": "Die drei Musketiere: D’Artagnan",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "question": "Wer befreit Athos (Vincent Cassel) in „Die drei Musketiere: D’Artagnan“ auf dem Weg zu seiner Hinrichtung?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-034-S1:a",
+          "text": "Der König mit seiner persönlichen Leibwache",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-S1:b",
+          "text": "Buckingham mit englischen Matrosen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-S1:c",
+          "text": "Sein Bruder mit protestantischen Verbündeten",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-S1:d",
+          "text": "Milady mit Richelieus Kardinalsgarde",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Athos wird von seinem Bruder und dessen protestantischen Verbündeten befreit.",
+      "context": "Athos (Vincent Cassel) wird von seinem jüngeren Bruder und dessen protestantischen Verbündeten vor der Hinrichtung gerettet. Bei der Hochzeit von Gaston (Julien Frison) gehört sein Bruder jedoch zu den Verschwörern gegen Louis XIII. (Louis Garrel). Athos schützt den König vor dem Anschlag. Dafür erhält er dessen Begnadigung.",
+      "anchor": "Athos verdankt seinem Bruder die Rettung, dem Schutz des Königs die Begnadigung.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Three_Musketeers:_D%27Artagnan",
+        "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-dartagnan/"
+      ],
+      "learningObjective": "Brüderliche Hilfe zieht Athos in den religiösen Machtkonflikt."
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-034-S2",
+      "originalId": "G100-20261008-ABENTEUER-034-S2",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-034-S2",
+      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023",
+      "filmTitle": "Die drei Musketiere: D’Artagnan",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "question": "Warum lehnt Louis XIII. (Louis Garrel) in „Die drei Musketiere: D’Artagnan“ zunächst den geforderten Krieg gegen La Rochelle ab?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-034-S2:a",
+          "text": "Er will zunächst die Hilfe Englands gegen Spanien abwarten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-S2:b",
+          "text": "Er will erst die Zustimmung der Königin zum Feldzug erhalten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-S2:c",
+          "text": "Er hält den Angriff für die alleinige Aufgabe des Kardinals",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-S2:d",
+          "text": "Er will die religiösen Kriege seiner Vorgänger nicht wiederholen",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der König will die früheren Religionskriege nicht wiederholen.",
+      "context": "Louis XIII. (Louis Garrel) wird von Beratern und seinem Bruder Gaston (Julien Frison) zum Krieg gegen die protestantische Hochburg La Rochelle gedrängt. Er verweigert die Zustimmung mit Blick auf die Religionskriege seiner Vorgänger. Die Intrige spielt daher vor einem ernsthaften politischen Konflikt. Die Abenteuerhelden verteidigen nicht nur eine Person, sondern auch deren Entscheidung gegen eine neue Eskalation.",
+      "anchor": "Louis’ Zögern verweist auf die Erfahrung früherer Religionskriege.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Three_Musketeers:_D%27Artagnan",
+        "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-dartagnan/"
+      ],
+      "learningObjective": "Louis’ Zögern verweist auf die Erfahrung früherer Religionskriege."
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-034-Y",
+      "originalId": "G100-20261008-ABENTEUER-034-Y",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-034-Y",
+      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023",
+      "filmTitle": "Die drei Musketiere: D’Artagnan",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "question": "In welchem Jahr wurde „Die drei Musketiere: D’Artagnan“ mit François Civil und Eva Green erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-034-Y:a",
+          "text": "2023",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-Y:b",
+          "text": "2021",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-Y:c",
+          "text": "2022",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-Y:d",
+          "text": "2024",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "D’Artagnan erschien 2023.",
+      "context": "D’Artagnan kam im April 2023 ins Kino; Milady folgte im Dezember desselben Jahres. Beide Teile des von Martin Bourboulon inszenierten Zweiteilers teilen sich somit ein Veröffentlichungsjahr. François Civil spielt D’Artagnan und Eva Green Milady. Der Abstand von rund acht Monaten ordnet die offene Fortsetzung unmittelbar dem ersten Abenteuer zu und macht 2023 als gemeinsames Jahr beider Teile merkbar.",
+      "anchor": "2023 beginnt mit D’Artagnan und endet mit Milady.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-dartagnan/",
+        "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-milady/"
+      ],
+      "learningObjective": "2023 beginnt mit D’Artagnan und endet mit Milady."
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-034-D",
+      "originalId": "G100-20261008-ABENTEUER-034-D",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-034-D",
+      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023",
+      "filmTitle": "Die drei Musketiere: D’Artagnan",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "question": "Wer führte bei „Die drei Musketiere: D’Artagnan“ mit François Civil und Eva Green Regie?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-034-D:a",
+          "text": "Richard Lester",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-D:b",
+          "text": "Martin Bourboulon",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-D:c",
+          "text": "Paul W. S. Anderson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-034-D:d",
+          "text": "Peter Hyams",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Martin Bourboulon führte Regie.",
+      "context": "Martin Bourboulon beschreibt die Suche nach Glaubwürdigkeit als Leitgedanken seiner Inszenierung. Sie sollte das Spiel, die Kämpfe, Kostüme und Schauplätze verbinden. Er wollte die neue Dumas-Adaption dabei nicht in bewusster Opposition zu früheren Verfilmungen gestalten. Als Ausgangspunkte nennt er besonders die Genauigkeit des Spiels und seinen Zugang zu den Actionszenen.",
+      "anchor": "Bourboulon richtet Spiel, Ausstattung und Action auf Glaubwürdigkeit aus.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-dartagnan/",
+        "https://www.linternaute.com/cinema/star-cinema/2868978-la-chasse-au-vrai-a-guide-la-mise-en-scene-des-trois-mousquetaires/"
+      ],
+      "learningObjective": "Martin Bourboulon führte Regie."
+    },
+    {
+      "id": "ACT-L-009",
+      "originalId": "ACT-L-009",
+      "knowledgeId": "K-ACT-05-leo-getz",
+      "filmKey": "Lethal Weapon 2|1989",
+      "filmTitle": "Lethal Weapon 2 – Brennpunkt L.A.",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "question": "Welchen redseligen Zeugen sollen Riggs (Mel Gibson) und Murtaugh (Danny Glover) in „Lethal Weapon 2 – Brennpunkt L.A.“ beschützen?",
+      "answers": [
+        {
+          "id": "ACT-L-009:a",
+          "text": "Jack Travis",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-L-009:b",
+          "text": "Leo Getz",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-L-009:c",
+          "text": "Pieter Vorstedt",
+          "correct": false,
+          "feedback": "Pieter Vorstedt ist Rudds gewalttätiger Handlanger."
+        },
+        {
+          "id": "ACT-L-009:d",
+          "text": "Arjen Rudd",
+          "correct": false,
+          "feedback": "Arjen Rudd führt das südafrikanische Verbrechernetz."
+        }
+      ],
+      "explanation": "Leo Getz wird den beiden als gefährdeter Zeuge anvertraut.",
+      "context": "Joe Pesci spielt Getz als nervösen Mann, dessen Redefluss die Geduld der Ermittler strapaziert. Seine Rolle wirkt zunächst wie eine lästige Nebenaufgabe. Doch seine Erfahrungen mit Geldwäsche verbinden ihn unmittelbar mit dem Fall. Der Schutz eines scheinbar unbedeutenden Zeugen wird dadurch zu einem Zugang in die Finanzstrukturen der gesuchten Täter.",
+      "anchor": "Leo Getz verbindet Zeugenschutz mit dem Geldwäschefall.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_2",
+        "https://catalog.afi.com/Catalog/MovieDetails/58168"
+      ],
+      "learningObjective": "Leo Getz verbindet Zeugenschutz mit dem Geldwäschefall."
+    },
+    {
+      "id": "ACT-L-010",
+      "originalId": "ACT-L-010",
+      "knowledgeId": "K-ACT-05-suedafrika",
+      "filmKey": "Lethal Weapon 2|1989",
+      "filmTitle": "Lethal Weapon 2 – Brennpunkt L.A.",
+      "difficulty": "leicht",
+      "questionType": "Schauplatz",
+      "question": "Die Gegenspieler in „Lethal Weapon 2 – Brennpunkt L.A.“ beanspruchen den Diplomatenschutz welches Landes?",
+      "answers": [
+        {
+          "id": "ACT-L-010:a",
+          "text": "Brasiliens",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-L-010:b",
+          "text": "Südafrikas",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-L-010:c",
+          "text": "Australiens",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-L-010:d",
+          "text": "Kanadas",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Arjen Rudd und seine Mitarbeiter berufen sich auf ihre südafrikanische diplomatische Stellung.",
+      "context": "Die Täter bewegen sich nicht bloß im Verborgenen, sondern beanspruchen einen offiziellen Schutzstatus. Das bringt die Ermittler in einen Konflikt zwischen Verdacht und zulässigem Zugriff. Der Film bindet die Kriminalhandlung zugleich an das damalige Apartheidregime. Die Herkunft ist daher nicht austauschbare Dekoration, sondern prägt Auftreten, politische Haltung und Machtanspruch der Gegenspieler.",
+      "anchor": "Rudds Gruppe nutzt südafrikanische Diplomatenprivilegien.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_2",
+        "https://catalog.afi.com/Catalog/MovieDetails/58168"
+      ],
+      "learningObjective": "Rudds Gruppe nutzt südafrikanische Diplomatenprivilegien."
+    },
+    {
+      "id": "ACT-M-009",
+      "originalId": "ACT-M-009",
+      "knowledgeId": "K-ACT-05-toilettenbombe",
+      "filmKey": "Lethal Weapon 2|1989",
+      "filmTitle": "Lethal Weapon 2 – Brennpunkt L.A.",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "question": "Wo befindet sich in „Lethal Weapon 2 – Brennpunkt L.A.“ die Bombe, die Murtaugh (Danny Glover) und Riggs (Mel Gibson) gemeinsam überleben?",
+      "answers": [
+        {
+          "id": "ACT-M-009:a",
+          "text": "Unter Murtaughs Toilette",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-M-009:b",
+          "text": "Im Motor von Murtaughs Dienstwagen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-M-009:c",
+          "text": "Unter Riggs’ Esstisch",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-M-009:d",
+          "text": "In Murtaughs Fernseher",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Murtaugh sitzt auf einer mit einem Sprengsatz versehenen Toilette fest.",
+      "context": "Der Anschlag dringt in Murtaughs privaten Rückzugsraum ein. Aus einer alltäglichen Situation wird eine Falle, in der jede falsche Bewegung gefährlich sein könnte. Riggs bleibt bei ihm, obwohl ein Rückzug möglich wäre. Der Humor der Szene beruht auf der peinlichen Lage, ihre emotionale Wirkung aber auf der inzwischen gewachsenen Loyalität zwischen den Partnern.",
+      "anchor": "Die Toilettenbombe macht aus Alltagspeinlichkeit einen Freundschaftstest.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_2",
+        "https://catalog.afi.com/Catalog/MovieDetails/58168"
+      ],
+      "learningObjective": "Die Toilettenbombe macht aus Alltagspeinlichkeit einen Freundschaftstest."
+    },
+    {
+      "id": "ACT-M-010",
+      "originalId": "ACT-M-010",
+      "knowledgeId": "K-ACT-05-leo-geldwaesche",
+      "filmKey": "Lethal Weapon 2|1989",
+      "filmTitle": "Lethal Weapon 2 – Brennpunkt L.A.",
+      "difficulty": "mittel",
+      "questionType": "Motiv",
+      "question": "Warum kennen die Täter in „Lethal Weapon 2 – Brennpunkt L.A.“ den geschützten Zeugen Leo Getz (Joe Pesci)?",
+      "answers": [
+        {
+          "id": "ACT-M-010:a",
+          "text": "Er hat ihre diplomatischen Pässe gedruckt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-M-010:b",
+          "text": "Er hat für sie Geld gewaschen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-M-010:c",
+          "text": "Er hat ihre Waffen entworfen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-M-010:d",
+          "text": "Er hat ihre Flugzeuge gesteuert.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Getz war an der Verschleierung illegaler Geldströme beteiligt.",
+      "context": "Leo Getz (Joe Pesci) hat Geld für die Organisation gewaschen und selbst etwas davon unterschlagen. Nach einem Mordversuch im Hotel führt er Riggs (Mel Gibson) und Murtaugh (Danny Glover) zu einem Haus auf Stelzen, in dem er für die Arbeit angeworben wurde. Als die Polizei mit Verstärkung zurückkehrt, verhindert Rudd (Joss Ackland) unter Berufung auf diplomatische Immunität den Zugriff.",
+      "anchor": "Getz führt die Ermittler vom Geldwäscheauftrag zum Haus des Diplomaten.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Catalog/MovieDetails/58168",
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_2"
+      ],
+      "learningObjective": "Getz wird wegen seines Wissens über Geldwäsche zum wichtigen Zeugen."
+    },
+    {
+      "id": "ACT-S-009",
+      "originalId": "ACT-S-009",
+      "knowledgeId": "K-ACT-05-vorstedt-riggs-frau",
+      "filmKey": "Lethal Weapon 2|1989",
+      "filmTitle": "Lethal Weapon 2 – Brennpunkt L.A.",
+      "difficulty": "mittel",
+      "questionType": "Beziehung",
+      "question": "Welche Enthüllung macht Vorstedt (Derrick O’Connor) in „Lethal Weapon 2 – Brennpunkt L.A.“ über den Tod von Riggs’ (Mel Gibson) Frau?",
+      "answers": [
+        {
+          "id": "ACT-S-009:a",
+          "text": "Sie starb bei einem Überfall auf Getz' Büro.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-S-009:b",
+          "text": "Sie verunglückte während einer geheimen Polizeimission.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-S-009:c",
+          "text": "Sie starb bei einem Anschlag, der eigentlich Riggs galt.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-S-009:d",
+          "text": "Sie wurde von Rudd bei einer Verfolgung überfahren.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Vorstedt erklärt, dass der vermeintliche Unfall ein fehlgeschlagener Anschlag auf Riggs war.",
+      "context": "Vorstedt (Derrick O’Connor) berichtet Riggs (Mel Gibson), dass er ihn wegen seiner Ermittlungen gegen Rudds Organisation töten wollte. Stattdessen starb Riggs’ Frau bei dem Anschlag. Nun lassen die Täter auch Rika (Patsy Kensit) ertränken. Nach seiner eigenen Befreiung findet Riggs ihre Leiche und kündigt Murtaugh (Danny Glover) an, gegen die Verantwortlichen vorzugehen.",
+      "anchor": "Der Anschlag galt Riggs, traf aber seine Frau.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_2",
+        "https://catalog.afi.com/Catalog/MovieDetails/58168"
+      ],
+      "learningObjective": "Der Anschlag galt Riggs, traf aber seine Frau."
+    },
+    {
+      "id": "ACT-S-010",
+      "originalId": "ACT-S-010",
+      "knowledgeId": "K-ACT-05-riggs-schulter",
+      "filmKey": "Lethal Weapon 2|1989",
+      "filmTitle": "Lethal Weapon 2 – Brennpunkt L.A.",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "question": "„Lethal Weapon 2 – Brennpunkt L.A.“ (1989): Wie befreit sich Riggs (Mel Gibson), nachdem er gefesselt ins Wasser geworfen wurde?",
+      "answers": [
+        {
+          "id": "ACT-S-010:a",
+          "text": "Er wartet, bis Murtaugh ihn mit Tauchgerät erreicht.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-S-010:b",
+          "text": "Er löst die Fesseln mit einem versteckten Dietrich.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-S-010:c",
+          "text": "Er renkt seine Schulter aus und windet sich frei.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-S-010:d",
+          "text": "Er sägt die Fesseln an einem versenkten Gitter durch.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Riggs nutzt seine zuvor gezeigte Fähigkeit, die Schulter auszurenken, um sich zu befreien.",
+      "context": "Die besondere Beweglichkeit wird nicht erst in der lebensgefährlichen Situation eingeführt. Der Film hat bereits gezeigt, dass Riggs seine Schulter ausrenken kann. Unter Wasser wird aus dieser auffälligen Eigenheit eine Rettungsmöglichkeit. Der Ablauf belohnt Aufmerksamkeit für eine frühere Szene und verbindet eine körperliche Besonderheit mit einem späteren Wendepunkt der Handlung.",
+      "anchor": "Die ausgerenkte Schulter ermöglicht Riggs die Befreiung unter Wasser.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://catalog.afi.com/Catalog/MovieDetails/58168",
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_2"
+      ],
+      "learningObjective": "Die ausgerenkte Schulter ermöglicht Riggs die Befreiung unter Wasser."
+    },
+    {
+      "id": "FF-005-YEAR",
+      "originalId": "FF-005-YEAR",
+      "knowledgeId": "K-FF-005-YEAR",
+      "filmKey": "Lethal Weapon 2|1989",
+      "filmTitle": "Lethal Weapon 2 – Brennpunkt L.A.",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "question": "„Lethal Weapon 2 – Brennpunkt L.A.“: In welchem Jahr erschien der Film von Richard Donner erstmals?",
+      "answers": [
+        {
+          "id": "FF-005-YEAR:y1989",
+          "text": "1989",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-005-YEAR:y1979",
+          "text": "1987",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-005-YEAR:y1981",
+          "text": "1988",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-005-YEAR:y1983",
+          "text": "1990",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Lethal Weapon 2 – Brennpunkt L.A.“ wurde erstmals 1989 veröffentlicht.",
+      "context": "„Lethal Weapon 2“ erschien 1989, als Frederik Willem de Klerk südafrikanischer Staatspräsident wurde. Im Film schützen sich südafrikanische Gegner hinter diplomatischer Immunität; in der Wirklichkeit begann unter de Klerk der Übergang weg von der Apartheid. Der Film gehört also noch unmittelbar an die Schwelle dieses politischen Umbruchs.",
+      "anchor": "1989: Südafrikas Diplomaten im Film, de Klerk im Präsidentenamt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Catalog/MovieDetails/58168",
+        "https://fwdeklerk.org/wp-content/uploads/2023/05/22-12-04-FW-de-Klerk-CV.pdf"
+      ],
+      "learningObjective": "1989: Südafrikas Diplomaten im Film, de Klerk im Präsidentenamt."
+    },
+    {
+      "id": "FF-005-DIRECTOR",
+      "originalId": "FF-005-DIRECTOR",
+      "knowledgeId": "K-FF-005-DIRECTOR",
+      "filmKey": "Lethal Weapon 2|1989",
+      "filmTitle": "Lethal Weapon 2 – Brennpunkt L.A.",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "question": "Wer führte bei „Lethal Weapon 2 – Brennpunkt L.A.“ Regie?",
+      "answers": [
+        {
+          "id": "FF-005-DIRECTOR:a",
+          "text": "Richard Donner",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-005-DIRECTOR:b",
+          "text": "John McTiernan",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-005-DIRECTOR:c",
+          "text": "Renny Harlin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-005-DIRECTOR:d",
+          "text": "Andrew Davis",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Richard Donner führte Regie.",
+      "context": "Richard Donner wollte die Fortsetzung während des Drehs immer wieder verändern und Szenen improvisieren. Drehbuchautor Jeffrey Boam schrieb deshalb nicht nur vor Produktionsbeginn, sondern auch laufend am Set um. Nach zwei zunächst unterschiedlich gewichteten Fassungen sollte er Action und Komik zusammenführen. So entstand die Mischung aus Diplomatenschmuggel, Gewalt und dem nervösen Zeugen Leo Getz (Joe Pesci).",
+      "anchor": "Lethal Weapon 2 – Brennpunkt L.A. → Richard Donner",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_2",
+        "https://catalog.afi.com/Catalog/MovieDetails/58168"
+      ],
+      "learningObjective": "Richard Donner führte bei „Lethal Weapon 2“ Regie."
+    },
+    {
+      "id": "G100-20261008-ACTION-017-L1",
+      "originalId": "G100-20261008-ACTION-017-L1",
+      "knowledgeId": "K-G100-20261008-ACTION-017-L1",
+      "filmKey": "Lethal Weapon 3|1992",
+      "filmTitle": "Lethal Weapon 3 – Die Profis sind zurück",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der geplante Ruhestand stellt auch die Zukunft der Partnerschaft infrage.",
+      "question": "Welcher persönliche Abschied steht für Murtaugh (Danny Glover) zu Beginn von „Lethal Weapon 3 – Die Profis sind zurück“ bevor?",
+      "answers": [
+        {
+          "id": "G100-20261008-ACTION-017-L1:a",
+          "text": "Sein Wechsel zur Bundespolizei",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-L1:b",
+          "text": "Sein Ruhestand bei der Polizei",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-L1:c",
+          "text": "Sein Umzug zu einer neuen Dienststelle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-L1:d",
+          "text": "Sein Abschied von der Familie",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Murtaugh plant, in den Ruhestand zu gehen.",
+      "context": "Roger Murtaugh (Danny Glover) zählt die verbleibenden Tage bis zum Ruhestand und will sein Haus verkaufen. Martin Riggs (Mel Gibson) verliert dadurch nicht nur einen Kollegen, sondern seinen vertrauten Partner. Der neue Fall trifft das Duo also in einer Phase des geplanten Abschieds. Am Ende entscheidet Murtaugh sich, weiterzuarbeiten. Die Ermittlungen und die Freundschaft machen seine zunächst feste Entscheidung wieder offen.",
+      "anchor": "Der geplante Ruhestand stellt auch die Zukunft der Partnerschaft infrage.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_3",
+        "https://catalog.afi.com/Catalog/moviedetails/59301"
+      ]
+    },
+    {
+      "id": "G100-20261008-ACTION-017-L2",
+      "originalId": "G100-20261008-ACTION-017-L2",
+      "knowledgeId": "K-G100-20261008-ACTION-017-L2",
+      "filmKey": "Lethal Weapon 3|1992",
+      "filmTitle": "Lethal Weapon 3 – Die Profis sind zurück",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Coles internen Ermittlungsbereich und die Funktion seiner Überwachung erkennen.",
+      "question": "Für welchen Polizeibereich arbeitet Lorna Cole (Rene Russo), die in „Lethal Weapon 3 – Die Profis sind zurück“ mit Riggs (Mel Gibson) und Murtaugh (Danny Glover) ermittelt?",
+      "answers": [
+        {
+          "id": "G100-20261008-ACTION-017-L2:a",
+          "text": "Drogenfahndung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-L2:b",
+          "text": "Mordkommission",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-L2:c",
+          "text": "Interne Ermittlungen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-L2:d",
+          "text": "Zeugenschutz",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Lorna Cole arbeitet für die internen Ermittlungen.",
+      "context": "Lorna Cole (Rene Russo) übernimmt den gefassten Geldtransporter-Räuber und hält ihre Informationen zunächst geheim. Als der Verdächtige im Revier erschossen wird, liefern die von ihrer Abteilung heimlich installierten Verhörraumkameras das entscheidende Bild. Captain Murphy (Steve Kahan) erkennt darauf Jack Travis (Stuart Wilson), einen früheren Kollegen. Interne Kontrolle macht hier das Verbrechen innerhalb des Polizeigebäudes sichtbar.",
+      "anchor": "Coles geheime Kameras entlarven den ehemaligen Polizisten.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.springfieldspringfield.co.uk/movie_script.php?movie=lethal-weapon-3",
+        "https://catalog.afi.com/Catalog/moviedetails/59301"
+      ]
+    },
+    {
+      "id": "G100-20261008-ACTION-017-M1",
+      "originalId": "G100-20261008-ACTION-017-M1",
+      "knowledgeId": "K-G100-20261008-ACTION-017-M1",
+      "filmKey": "Lethal Weapon 3|1992",
+      "filmTitle": "Lethal Weapon 3 – Die Profis sind zurück",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Ein Einsatz trifft Murtaugh unmittelbar in seinem familiären Umfeld.",
+      "question": "Warum erschüttert Murtaugh (Danny Glover) der tödliche Schusswechsel mit einem Jugendlichen in „Lethal Weapon 3 – Die Profis sind zurück“ besonders?",
+      "answers": [
+        {
+          "id": "G100-20261008-ACTION-017-M1:a",
+          "text": "Der Getötete ist der Sohn seines Partners.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-M1:b",
+          "text": "Der Getötete ist sein verdeckt eingesetzter Informant.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-M1:c",
+          "text": "Der Getötete ist ein Polizeischüler aus seinem Kurs.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-M1:d",
+          "text": "Der Getötete ist ein Freund seines Sohnes.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Murtaugh hat einen Freund seines Sohnes erschossen.",
+      "context": "Darryl (Bobby Wynn) schießt während einer Auseinandersetzung auf die Polizisten und wird von Roger Murtaugh (Danny Glover) getötet. Erst danach erkennt Murtaugh in ihm einen Freund seines Sohnes Nick (Damon Hines). Der rechtfertigende Ablauf des Einsatzes beseitigt seine persönliche Erschütterung nicht. Sein Rückzug und das Gespräch mit Martin Riggs (Mel Gibson) zeigen, dass polizeiliche Routine keinen Schutz vor dieser Nähe des Verlusts bietet.",
+      "anchor": "Ein Einsatz trifft Murtaugh unmittelbar in seinem familiären Umfeld.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_3",
+        "https://catalog.afi.com/Catalog/moviedetails/59301"
+      ]
+    },
+    {
+      "id": "G100-20261008-ACTION-017-M2",
+      "originalId": "G100-20261008-ACTION-017-M2",
+      "knowledgeId": "K-G100-20261008-ACTION-017-M2",
+      "filmKey": "Lethal Weapon 3|1992",
+      "filmTitle": "Lethal Weapon 3 – Die Profis sind zurück",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Herkunft der Waffen und Travis’ weiteren Zugriff auf Polizeibestände verstehen.",
+      "question": "Woher stammen die Waffen, mit denen Jack Travis (Stuart Wilson) in „Lethal Weapon 3 – Die Profis sind zurück“ Handel treibt?",
+      "answers": [
+        {
+          "id": "G100-20261008-ACTION-017-M2:a",
+          "text": "Aus Polizeibeständen, die vernichtet werden sollten",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-M2:b",
+          "text": "Aus Lieferungen für eine ausländische Armee",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-M2:c",
+          "text": "Aus einer stillgelegten privaten Waffenfabrik",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-M2:d",
+          "text": "Aus geplünderten Depots der Nationalgarde",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Travis bringt beschlagnahmte Polizeiwaffen zurück in Umlauf.",
+      "context": "Jack Travis (Stuart Wilson) kennt als ehemaliger Polizist die Lagerung beschlagnahmter Waffen. Nachdem Lorna Cole (Rene Russo) deren Diebstahl aufklärt, werden seine Zugangsrechte gesperrt. Für den nächsten Zugriff lässt er das System ausforschen und zwingt Captain Murphy (Steve Kahan), ihn ins gesicherte Lager zu führen. Sein Wissen über die Behörde ergänzt er nun durch die Entführung eines aktiven Beamten.",
+      "anchor": "Nach der Zugangssperre erzwingt Travis den Zutritt über Murphy.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_3",
+        "https://catalog.afi.com/Catalog/moviedetails/59301"
+      ]
+    },
+    {
+      "id": "G100-20261008-ACTION-017-S1",
+      "originalId": "G100-20261008-ACTION-017-S1",
+      "knowledgeId": "K-G100-20261008-ACTION-017-S1",
+      "filmKey": "Lethal Weapon 3|1992",
+      "filmTitle": "Lethal Weapon 3 – Die Profis sind zurück",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die gefährliche Spezialmunition wird zum Mittel, den Händler zu stoppen.",
+      "question": "Wie beendet Riggs (Mel Gibson) in „Lethal Weapon 3 – Die Profis sind zurück“ die letzte Konfrontation mit Jack Travis (Stuart Wilson)?",
+      "answers": [
+        {
+          "id": "G100-20261008-ACTION-017-S1:a",
+          "text": "Mit einer Sprengladung am Fahrzeug",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-S1:b",
+          "text": "Mit panzerbrechenden Geschossen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-S1:c",
+          "text": "Mit einer Explosion im Treibstofftank",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-S1:d",
+          "text": "Mit Schüssen auf die Hydraulik",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die panzerbrechenden Geschosse durchschlagen das Metall.",
+      "context": "Jack Travis (Stuart Wilson) nutzt ein Baufahrzeug als beweglichen Schutz, gegen den gewöhnliche Schüsse wirkungslos bleiben. Roger Murtaugh (Danny Glover) wirft Martin Riggs (Mel Gibson) eine Waffe mit der panzerbrechenden Munition zu. Damit kann Riggs das Metall durchschießen und Travis töten. Die besondere Munition ist also nicht bloß ein früher Gefahrenhinweis: Dasselbe Material bestimmt auch die konkrete Auflösung der letzten Auseinandersetzung.",
+      "anchor": "Die gefährliche Spezialmunition wird zum Mittel, den Händler zu stoppen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_3",
+        "https://catalog.afi.com/Catalog/moviedetails/59301"
+      ]
+    },
+    {
+      "id": "G100-20261008-ACTION-017-S2",
+      "originalId": "G100-20261008-ACTION-017-S2",
+      "knowledgeId": "K-G100-20261008-ACTION-017-S2",
+      "filmKey": "Lethal Weapon 3|1992",
+      "filmTitle": "Lethal Weapon 3 – Die Profis sind zurück",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der ungewöhnliche Credit unterscheidet Einzelarbeit von gemeinsamer Überarbeitung.",
+      "question": "Warum steht Jeffrey Boam im Drehbuchcredit von „Lethal Weapon 3 – Die Profis sind zurück“ zweimal?",
+      "answers": [
+        {
+          "id": "G100-20261008-ACTION-017-S2:a",
+          "text": "Zwei selbständige Entwürfe Boams wurden als getrennte Drehbucharbeiten gewertet.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-S2:b",
+          "text": "Boams Story und seine Dialogrevision wurden beide als Drehbuch gewertet.",
+          "correct": false,
+          "feedback": "Boam erhielt daneben einen eigenen Story-Credit."
+        },
+        {
+          "id": "G100-20261008-ACTION-017-S2:c",
+          "text": "Boams eigener Entwurf und sein Team-Entwurf mit Kamen wurden anerkannt.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-S2:d",
+          "text": "Boams Überarbeitung und Kamens unverändertes Drehbuch wurden getrennt gewertet.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Boams eigener Entwurf und seine Teamarbeit erhielten getrennte Anerkennung.",
+      "context": "Jeffrey Boam schrieb zunächst einen eigenen Drehbuchentwurf und arbeitete danach mit Robert Mark Kamen an einer weiteren Fassung. Nach einem Schiedsverfahren der Writers Guild of America blieben ausreichend Beiträge aus beiden Arbeitszusammenhängen im Film, um beide Nennungen zu rechtfertigen. Der doppelte Drehbuchcredit bildet somit die Entstehungsgeschichte ab. Boams zusätzliche Nennung für die Story ist eine andere Creditkategorie und erklärt die Dopplung nicht.",
+      "anchor": "Der ungewöhnliche Credit unterscheidet Einzelarbeit von gemeinsamer Überarbeitung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/59301"
+      ]
+    },
+    {
+      "id": "G100-20261008-ACTION-017-Y",
+      "originalId": "G100-20261008-ACTION-017-Y",
+      "knowledgeId": "K-G100-20261008-ACTION-017-Y",
+      "filmKey": "Lethal Weapon 3|1992",
+      "filmTitle": "Lethal Weapon 3 – Die Profis sind zurück",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Das Filmjahr 1992 mit dem realen Rathaus-Abbruch im Vorjahr verbinden.",
+      "question": "In welchem Jahr wurde „Lethal Weapon 3 – Die Profis sind zurück“ mit Mel Gibson und Danny Glover erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "G100-20261008-ACTION-017-Y:a",
+          "text": "1991",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-Y:b",
+          "text": "1993",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-Y:c",
+          "text": "1994",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-Y:d",
+          "text": "1992",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der dritte Film erschien 1992.",
+      "context": "Für den 1992 veröffentlichten Film wurde schon 1991 Orlandos altes Rathaus gesprengt. Die Stadt hatte ein neues Rathaus errichtet und suchte eine günstigere Möglichkeit, das alte abzureißen. Aus dem kommunalen Abbruchprojekt wurde die Explosion am Filmanfang.",
+      "anchor": "1991 Rathaus-Abbruch, 1992 Kinofilm.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/59301",
+        "https://en.wikipedia.org/wiki/Lethal_Weapon_3"
+      ]
+    },
+    {
+      "id": "G100-20261008-ACTION-017-D",
+      "originalId": "G100-20261008-ACTION-017-D",
+      "knowledgeId": "K-G100-20261008-ACTION-017-D",
+      "filmKey": "Lethal Weapon 3|1992",
+      "filmTitle": "Lethal Weapon 3 – Die Profis sind zurück",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Richard Donner als Regisseur und die reale Herkunft der Finalkulisse kennen.",
+      "question": "Wer inszenierte „Lethal Weapon 3 – Die Profis sind zurück“ mit Mel Gibson, Danny Glover und Rene Russo?",
+      "answers": [
+        {
+          "id": "G100-20261008-ACTION-017-D:a",
+          "text": "Richard Donner",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-D:b",
+          "text": "Tony Scott",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-D:c",
+          "text": "Renny Harlin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ACTION-017-D:d",
+          "text": "John McTiernan",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Richard Donner inszenierte den dritten Lethal-Weapon-Film.",
+      "context": "Für Richard Donners Finale stellte Lancaster eine unfertige Wohnsiedlung zur Verfügung. Ihr Bau war nach der amerikanischen Sparkassenkrise gescheitert; die Stadt wollte die leerstehenden Häuser abreißen lassen. Die Filmproduktion durfte sie für die große Brandsequenz nutzen. Der Schauplatz von Travis’ (Stuart Wilson) Baugeschäft war somit selbst ein aufgegebenes Immobilienprojekt.",
+      "anchor": "Eine gescheiterte Wohnsiedlung wird zur brennenden Kulisse des Finales.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/59301"
+      ]
+    },
+    {
+      "id": "Q-RED99-FUGITIFS-REMAKE-S-001",
+      "originalId": "Q-RED99-FUGITIFS-REMAKE-S-001",
+      "knowledgeId": "K-Q-RED99-FUGITIFS-REMAKE-S-001",
+      "filmKey": "Les Fugitifs|1986",
+      "filmTitle": "Die Flüchtigen",
+      "difficulty": "schwer",
+      "questionType": "Filmgeschichte",
+      "learningObjective": "Die ungewöhnlich frühe Vereinbarung der amerikanischen Neuverfilmung einordnen",
+      "question": "Wann wurde die US-Neuverfilmung von „Die Flüchtigen“ bereits vereinbart?",
+      "answers": [
+        {
+          "id": "Q-RED99-FUGITIFS-REMAKE-S-001:a",
+          "text": "Noch bevor die Dreharbeiten des französischen Originals begonnen hatten.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-FUGITIFS-REMAKE-S-001:b",
+          "text": "Nach Abschluss der Dreharbeiten, vor der französischen Premiere.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-FUGITIFS-REMAKE-S-001:c",
+          "text": "Nach dem französischen Kinostart, vor dem US-Kinostart des Originals.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-FUGITIFS-REMAKE-S-001:d",
+          "text": "Erst nach dem US-Kinostart des französischen Originals.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Vereinbarung entstand vor den Dreharbeiten des Originals.",
+      "context": "Francis Veber erzählte Jeffrey Katzenberg 1985 in Cannes die Handlung. Der Touchstone-Chef entschied sich schon damals für die Neuverfilmung. Veber begann das englischsprachige Drehbuch, während das französische Original noch nicht gedreht war. Dessen US-Veröffentlichung wurde später sogar bis nach dem Start von „Three Fugitives“ zurückgehalten.",
+      "anchor": "Die Neuverfilmung war vereinbart, bevor das Original gedreht wurde.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Film/58311-THREE-FUGITIVES"
+      ]
+    },
+    {
+      "id": "Q-RED99-LESMIS-S001",
+      "knowledgeId": "K-RED99-LESMIS-S001",
+      "filmKey": "Les Misérables|2012",
+      "filmTitle": "Les Misérables",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Verschiedene Live-Tempi erforderten die vollständige Bildabdeckung innerhalb derselben Gesangsaufnahme.",
+      "question": "Warum filmte Tom Hooper den Livegesang in „Les Misérables“ mit mehreren Kameras?",
+      "answers": [
+        {
+          "id": "Q-RED99-LESMIS-S001:a",
+          "text": "Wechselnde Tempi erforderten nachträglich angepasste Bildgeschwindigkeiten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-LESMIS-S001:b",
+          "text": "Wechselnde Tempi sollten durch Montage verschiedener Takes vereinheitlicht werden.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-LESMIS-S001:c",
+          "text": "Parallel gefilmte Reaktionen sollten Tempowechsel zwischen verschiedenen Gesangsdurchgängen verdecken.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-LESMIS-S001:d",
+          "text": "Wechselnde Tempi erschwerten Take-Wechsel; alle Einstellungen entstanden deshalb gleichzeitig.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Kameras deckten denselben Durchgang ab; unterschiedliche Live-Tempi erschwerten den Schnitt zwischen Takes.",
+      "context": "Hooper verknüpft das Verfahren mit seiner Erfahrung aus Mehrkamera-Fernsehproduktionen. Beim Livegesang konnten die Darsteller das Tempo verändern. Deshalb mussten Totalen und nähere Einstellungen gemeinsam entstehen, statt auf passend wiederholte Darbietungen zu hoffen.",
+      "anchor": "Ein Gesangsdurchgang liefert gleichzeitig die benötigten Bildgrößen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.dga.org/craft/dgaq/issues/1401-winter-2014/tom-hooper"
+      ],
+      "originalId": "Q-RED99-LESMIS-S001"
+    },
+    {
+      "id": "Q-RED99-LESMIS-S002",
+      "knowledgeId": "K-RED99-LESMIS-S002",
+      "filmKey": "Les Misérables|2012",
+      "filmTitle": "Les Misérables",
+      "difficulty": "schwer",
+      "questionType": "Filmgeschichte",
+      "learningObjective": "Die neue Vaterliebe zu Cosette verbindet für Hooper den älteren und jüngeren Handlungsteil.",
+      "question": "Welche dramaturgische Lücke sollte das neue Lied „Suddenly“ laut Tom Hooper in „Les Misérables“ schließen?",
+      "answers": [
+        {
+          "id": "Q-RED99-LESMIS-S002:a",
+          "text": "Valjeans Liebe zu Cosette sollte den Wechsel zur jüngeren Figurengeneration verbinden.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-LESMIS-S002:b",
+          "text": "Seine Sorge um Cosette sollte den späteren Rückzug aus Paris vorbereiten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-LESMIS-S002:c",
+          "text": "Seine Verantwortung für Cosette sollte vor allem Javerts Dienstpflicht spiegeln.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-LESMIS-S002:d",
+          "text": "Seine Fürsorge sollte den späteren Liebeskonflikt um Cosette und Marius vorwegnehmen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die entstehende Vaterliebe zu Cosette sollte die beiden Filmhälften emotional verbinden.",
+      "context": "Hooper störte, dass die vertrauten Figuren in der Mitte weitgehend einer neuen Generation weichen. In Hugos Roman fand er Valjeans Liebe zu Cosette als zweiten entscheidenden Wendepunkt nach dem Bischof. Diese im Bühnenmusical weniger klare Erfahrung sollte ein neues Lied ausdrücken.",
+      "anchor": "Cosettes Aufnahme verändert Valjean und hält die zwei Generationen zusammen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.comingsoon.net/movies/features/97853-exclusive-interview-les-miserables-director-tom-hooper"
+      ],
+      "originalId": "Q-RED99-LESMIS-S002"
+    },
+    {
+      "id": "Q-RED99-CHERBOURG-S001",
+      "knowledgeId": "K-RED99-CHERBOURG-S001",
+      "filmKey": "Les Parapluies de Cherbourg|1964",
+      "filmTitle": "Die Regenschirme von Cherbourg",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Demys Rückfahrt löst beim Abschied die Paarperspektive zugunsten der äußeren Welt auf.",
+      "question": "Wie wollte Jacques Demy beim Bahnhofsabschied in „Die Regenschirme von Cherbourg“ eine dritte Perspektive herstellen?",
+      "answers": [
+        {
+          "id": "Q-RED99-CHERBOURG-S001:a",
+          "text": "Durch wechselnde Nahaufnahmen, die am Ende eine einzelne Figur isolieren.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-CHERBOURG-S001:b",
+          "text": "Durch einen Rückzug der Kamera von der zurückbleibenden Figur zur Bahnhofswelt.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-CHERBOURG-S001:c",
+          "text": "Durch eine seitliche Fahrt, die beide Figuren trotz der Trennung zusammenhält.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-CHERBOURG-S001:d",
+          "text": "Durch eine Fahrt mit dem Zug, die den Zurückbleibenden verschwinden lässt.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Nach dem Verlassen des Bildes zieht die Kamera von der anderen Figur zurück; der Bahnhof tritt hervor.",
+      "context": "Demy beschreibt zunächst die Nähe zum Paar. Dann verlässt eine Figur den Bildausschnitt, und die Kamera entfernt sich von der anderen. Bahnhofspersonal und Schilder lassen die Außenwelt wieder sichtbar werden: Die private Trennung wird aus einer weiteren Perspektive erfahrbar.",
+      "anchor": "Vom Paar über die einzelne Figur hinaus zur Bahnhofswelt.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.bergamofilmmeeting.it/bfm/wp-content/uploads/2025/08/AFFN_2025_EN_THE_UMBRELLAS_OF_CHERBOURG.pdf"
+      ],
+      "originalId": "Q-RED99-CHERBOURG-S001"
+    },
+    {
+      "id": "Q-RED99-CHERBOURG-S002",
+      "knowledgeId": "K-RED99-CHERBOURG-S002",
+      "filmKey": "Les Parapluies de Cherbourg|1964",
+      "filmTitle": "Die Regenschirme von Cherbourg",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Vergleichsscans bestimmten die beste Bildquelle; ein Flüssigkeitsscan milderte deren physische Kratzer.",
+      "question": "Welchen Restaurierungsweg wählte Éclair Classics für „Die Regenschirme von Cherbourg“?",
+      "answers": [
+        {
+          "id": "Q-RED99-CHERBOURG-S002:a",
+          "text": "Interpositiv nach Vergleichsscans; digitaler Farbersatz aus Kinokopien.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-CHERBOURG-S002:b",
+          "text": "Schwarzweiß-Auszüge kombiniert; Kratzer vor dem Scan retuschiert.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-CHERBOURG-S002:c",
+          "text": "Kameranegativ nach Vergleichsscans; Flüssigkeitsscan zur Kratzerminderung.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED99-CHERBOURG-S002:d",
+          "text": "Kameranegativ nach Vergleichsscans; beschädigte Bilder durch Auszüge ersetzt.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Kameranegativ bot im Vergleich die beste Bildqualität; der immersive Scan sollte Kratzspuren mindern.",
+      "context": "Das Labor prüfte auch die auf Schwarzweißfilm gesicherten Farbauszüge. Trotz einzelner Schäden war das Kameranegativ die bessere Grundlage. Nach mechanischen Reparaturen folgte der immersive Arriscan-Scan; manuelle und automatische digitale Verfahren behandelten anschließend verbliebene Bildfehler.",
+      "anchor": "Beste Quelle vergleichen, physische Schäden reparieren, Kratzer beim Scan mindern.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://cdn.festival-cannes.com/media/uploads/2024/05/174307.pdf"
+      ],
+      "originalId": "Q-RED99-CHERBOURG-S002"
     }
   ]
 }

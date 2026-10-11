@@ -1,11 +1,11 @@
 {
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
-  "totalReviewed": 5050,
-  "remainingFilmQuestions": 5683,
+  "totalReviewed": 5100,
+  "remainingFilmQuestions": 5633,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 7723,
-  "lastCompletedBlock": 98,
+  "remainingAllQuestions": 7673,
+  "lastCompletedBlock": 99,
   "reviewedIds": [
     "ART-L-017",
     "ACT-M-025",
@@ -5056,209 +5056,59 @@
     "G100-20261008-THRILLER-007-M2",
     "G100-20261008-THRILLER-007-S1",
     "G100-20261008-THRILLER-007-S2",
-    "G100-20261008-THRILLER-007-Y"
+    "G100-20261008-THRILLER-007-Y",
+    "G100-20261008-THRILLER-007-D",
+    "KOM-202609-P02-L-071",
+    "KOM-202609-P02-L-072",
+    "KOM-202609-P02-M-071",
+    "KOM-202609-P02-M-072",
+    "KOM-202609-P02-S-071",
+    "KOM-202609-P02-S-072",
+    "KOM-202609-P02-M-071-V1",
+    "FF-411-YEAR",
+    "FF-411-DIRECTOR",
+    "MUS-202610-P01-L-009",
+    "MUS-202610-P01-L-010",
+    "MUS-202610-P01-M-013",
+    "MUS-202610-P01-M-014",
+    "MUS-202610-P01-S-013",
+    "MUS-202610-P01-S-014",
+    "MUS-202610-P01-M-015",
+    "MUS-202610-P01-S-015",
+    "F240-20261006-146-L1",
+    "F240-20261006-146-L2",
+    "F240-20261006-146-M1",
+    "F240-20261006-146-M2",
+    "F240-20261006-146-S1",
+    "F240-20261006-146-S2",
+    "F240-20261006-146-Y",
+    "F240-20261006-146-D",
+    "G100-20261008-ABENTEUER-034-L1",
+    "G100-20261008-ABENTEUER-034-L2",
+    "G100-20261008-ABENTEUER-034-M1",
+    "G100-20261008-ABENTEUER-034-M2",
+    "G100-20261008-ABENTEUER-034-S1",
+    "G100-20261008-ABENTEUER-034-S2",
+    "G100-20261008-ABENTEUER-034-Y",
+    "G100-20261008-ABENTEUER-034-D",
+    "ACT-L-009",
+    "ACT-L-010",
+    "ACT-M-009",
+    "ACT-M-010",
+    "ACT-S-009",
+    "ACT-S-010",
+    "FF-005-YEAR",
+    "FF-005-DIRECTOR",
+    "G100-20261008-ACTION-017-L1",
+    "G100-20261008-ACTION-017-L2",
+    "G100-20261008-ACTION-017-M1",
+    "G100-20261008-ACTION-017-M2",
+    "G100-20261008-ACTION-017-S1",
+    "G100-20261008-ACTION-017-S2",
+    "G100-20261008-ACTION-017-Y",
+    "G100-20261008-ACTION-017-D"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "G100-20261008-THRILLER-007-D",
-      "filmKey": "Les Diaboliques|1955"
-    },
-    {
-      "id": "KOM-202609-P02-L-071",
-      "filmKey": "Les Fugitifs|1986"
-    },
-    {
-      "id": "KOM-202609-P02-L-072",
-      "filmKey": "Les Fugitifs|1986"
-    },
-    {
-      "id": "KOM-202609-P02-M-071",
-      "filmKey": "Les Fugitifs|1986"
-    },
-    {
-      "id": "KOM-202609-P02-M-072",
-      "filmKey": "Les Fugitifs|1986"
-    },
-    {
-      "id": "KOM-202609-P02-S-071",
-      "filmKey": "Les Fugitifs|1986"
-    },
-    {
-      "id": "KOM-202609-P02-S-072",
-      "filmKey": "Les Fugitifs|1986"
-    },
-    {
-      "id": "KOM-202609-P02-M-071-V1",
-      "filmKey": "Les Fugitifs|1986"
-    },
-    {
-      "id": "FF-411-YEAR",
-      "filmKey": "Les Fugitifs|1986"
-    },
-    {
-      "id": "FF-411-DIRECTOR",
-      "filmKey": "Les Fugitifs|1986"
-    },
-    {
-      "id": "MUS-202610-P01-L-009",
-      "filmKey": "Les Misérables|2012"
-    },
-    {
-      "id": "MUS-202610-P01-L-010",
-      "filmKey": "Les Misérables|2012"
-    },
-    {
-      "id": "MUS-202610-P01-M-013",
-      "filmKey": "Les Misérables|2012"
-    },
-    {
-      "id": "MUS-202610-P01-M-014",
-      "filmKey": "Les Misérables|2012"
-    },
-    {
-      "id": "MUS-202610-P01-S-013",
-      "filmKey": "Les Misérables|2012"
-    },
-    {
-      "id": "MUS-202610-P01-S-014",
-      "filmKey": "Les Misérables|2012"
-    },
-    {
-      "id": "MUS-202610-P01-M-015",
-      "filmKey": "Les Misérables|2012"
-    },
-    {
-      "id": "MUS-202610-P01-S-015",
-      "filmKey": "Les Misérables|2012"
-    },
-    {
-      "id": "F240-20261006-146-L1",
-      "filmKey": "Les Parapluies de Cherbourg|1964"
-    },
-    {
-      "id": "F240-20261006-146-L2",
-      "filmKey": "Les Parapluies de Cherbourg|1964"
-    },
-    {
-      "id": "F240-20261006-146-M1",
-      "filmKey": "Les Parapluies de Cherbourg|1964"
-    },
-    {
-      "id": "F240-20261006-146-M2",
-      "filmKey": "Les Parapluies de Cherbourg|1964"
-    },
-    {
-      "id": "F240-20261006-146-S1",
-      "filmKey": "Les Parapluies de Cherbourg|1964"
-    },
-    {
-      "id": "F240-20261006-146-S2",
-      "filmKey": "Les Parapluies de Cherbourg|1964"
-    },
-    {
-      "id": "F240-20261006-146-Y",
-      "filmKey": "Les Parapluies de Cherbourg|1964"
-    },
-    {
-      "id": "F240-20261006-146-D",
-      "filmKey": "Les Parapluies de Cherbourg|1964"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-034-L1",
-      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-034-L2",
-      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-034-M1",
-      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-034-M2",
-      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-034-S1",
-      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-034-S2",
-      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-034-Y",
-      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-034-D",
-      "filmKey": "Les Trois Mousquetaires: D’Artagnan|2023"
-    },
-    {
-      "id": "ACT-L-009",
-      "filmKey": "Lethal Weapon 2|1989"
-    },
-    {
-      "id": "ACT-L-010",
-      "filmKey": "Lethal Weapon 2|1989"
-    },
-    {
-      "id": "ACT-M-009",
-      "filmKey": "Lethal Weapon 2|1989"
-    },
-    {
-      "id": "ACT-M-010",
-      "filmKey": "Lethal Weapon 2|1989"
-    },
-    {
-      "id": "ACT-S-009",
-      "filmKey": "Lethal Weapon 2|1989"
-    },
-    {
-      "id": "ACT-S-010",
-      "filmKey": "Lethal Weapon 2|1989"
-    },
-    {
-      "id": "FF-005-YEAR",
-      "filmKey": "Lethal Weapon 2|1989"
-    },
-    {
-      "id": "FF-005-DIRECTOR",
-      "filmKey": "Lethal Weapon 2|1989"
-    },
-    {
-      "id": "G100-20261008-ACTION-017-L1",
-      "filmKey": "Lethal Weapon 3|1992"
-    },
-    {
-      "id": "G100-20261008-ACTION-017-L2",
-      "filmKey": "Lethal Weapon 3|1992"
-    },
-    {
-      "id": "G100-20261008-ACTION-017-M1",
-      "filmKey": "Lethal Weapon 3|1992"
-    },
-    {
-      "id": "G100-20261008-ACTION-017-M2",
-      "filmKey": "Lethal Weapon 3|1992"
-    },
-    {
-      "id": "G100-20261008-ACTION-017-S1",
-      "filmKey": "Lethal Weapon 3|1992"
-    },
-    {
-      "id": "G100-20261008-ACTION-017-S2",
-      "filmKey": "Lethal Weapon 3|1992"
-    },
-    {
-      "id": "G100-20261008-ACTION-017-Y",
-      "filmKey": "Lethal Weapon 3|1992"
-    },
-    {
-      "id": "G100-20261008-ACTION-017-D",
-      "filmKey": "Lethal Weapon 3|1992"
-    },
     {
       "id": "G100-20261008-ACTION-018-L1",
       "filmKey": "Lethal Weapon 4|1998"

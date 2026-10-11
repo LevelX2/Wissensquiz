@@ -10,10 +10,10 @@
 
 - [Fragenredaktion bis Block 17 seit Version 65 veröffentlicht](../../../docs/Sites-Betrieb.md#version-65-integrierte-fragenredaktion-und-eingerichteter-meldungsdienst)
 
-- [GitHub-Meldungsdienst: fehlenden Schlüssel eingerichtet, Live-Abnahme und Betrieb – 10.10.2026](../../../docs/GitHub-Meldungen.md)
+- [GitHub-Meldungsdienst: betriebsbereit; Fragetext im Ticket lokal ergänzt – 11.10.2026](../../../docs/GitHub-Meldungen.md)
 
 - [Aktuelle Fragetexte und Quellen](../../../docs/Fragenredaktion/Fragen.json)
-- [Redaktionsfortschritt: 5.050 Originalfragen geprüft, 7.723 offen; Block 98 abgeschlossen](../../../docs/Fragenredaktion/Fortschritt.json)
+- [Redaktionsfortschritt: 5.100 Originalfragen geprüft, 7.673 offen; Block 99 abgeschlossen](../../../docs/Fragenredaktion/Fortschritt.json)
 
 - [Version 64: gesamter Main-Stand einschließlich Proberunde, Serverzeit, Wettbewerbs-XP und Menüicons veröffentlicht](../../../docs/Sites-Betrieb.md)
 - [Version 64: Quellen-, Backend-, Archiv- und Live-Nachweis](../../../docs/Veroeffentlichung-2026-10-10-Version-64.json)
