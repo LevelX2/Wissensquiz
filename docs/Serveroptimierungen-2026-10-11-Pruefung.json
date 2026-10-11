@@ -100,14 +100,26 @@
         "passed": 2,
         "distinctCases": 1,
         "durationSeconds": 56.4
+      },
+      {
+        "name": "core-release-verification",
+        "passed": 52,
+        "failed": 0,
+        "durationMinutes": 11.1,
+        "projects": {
+          "chromium": 23,
+          "firefox": 6,
+          "webkit-mobile": 23
+        }
       }
     ],
     "notes": [
-      "Kein vollständig grüner breiter Kernlauf; erfolgreiche gezielte Nachprüfungen separat erfasst.",
+      "Der erste breite Kernlauf war unterbrochen; nach den dokumentierten Korrekturen bestehen alle 52 Kernfälle in einem erneuten zusammenhängenden Lauf (11,1 min). Die zehn Posterfälle sind zusätzlich erfolgreich geprüft; insgesamt 62 unterschiedliche Fälle.",
       "Kontrollierte Kalender-/Rundenzeit und CSS-Animationen im Testaufbau angeglichen.",
       "Doppelte Inhaltsvorbereitung im Testbackend entfernt.",
       "Laufende Test-Routen vor Browserkontextabschluss abgewartet; Fristen unverändert."
-    ]
+    ],
+    "finalCoreRunPassed": true
   },
   "native": {
     "passed": true,

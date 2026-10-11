@@ -1932,3 +1932,8 @@ Sechs priorisierte Prozesse und Posterabruf im beauftragten Worktree optimiert: 
 ### 11.10.2026 – Native Parallelitätsabnahme der Serveroptimierungen
 
 Isolierter PostgreSQL 17.11 mit vollständigem Fragenbestand: 16 parallele Zehnerrunden, konkurrierende Antwortwiederholungen, Einladungen und Fünfer-Platzgrenze erfolgreich; unabhängige Schreibzüge und lesende Übersichten bleiben bei gehaltener Duellsperre frei. 101 Runden starten begrenzt; der Folgeabschluss erhält alle alten Beitragszeilen. Vorbereitete Themen- und Startindizes nativ bestätigt. Messwerte und Grenzen im [Prüfbericht](../../../docs/Pruefbericht.md) und im [nativen Prüfnachweis](../../../docs/Serveroptimierungen-2026-10-11-Native-Pruefung.json). Noch keine Integration oder Veröffentlichung: überschneidende unfertige Profil-/Optionsänderungen in Main werden erhalten; deren Übernahme ist beim Nutzer angefragt.
+
+
+### 11.10.2026 – Browser-Kernlauf der Serveroptimierungen vollständig grün
+
+Alle 52 Kernfälle in einem zusammenhängenden Lauf erfolgreich: Chromium 23, Firefox 6 und mobiles WebKit 23 (11,1 min). Zusammen mit den zehn bereits erfolgreichen Posterfällen 62 unterschiedliche Fälle. Frühere unterbrochene Läufe durch diese erfolgreiche Nachprüfung ergänzt, keine Prüfgrenze erhöht. Native Datenbank und deren große temporäre Arbeitsdateien gestoppt/entfernt. Integration und Veröffentlichung warten weiterhin auf die angefragte Übernahme der überschneidenden unfertigen Main-Arbeiten. [Prüfbericht](../../../docs/Pruefbericht.md).
