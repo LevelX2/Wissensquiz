@@ -1,0 +1,116 @@
+{
+  "version": 70,
+  "sourceBranch": "main",
+  "sourceCommit": "01b7efd98566d5bb15f3c33793f20f0c4c56ccfe",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "versionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_e09cfdbf620081919c8ff4ff14c6d417",
+  "deploymentId": "appgdep_6acbf08053448191bfe210fa2fea7155",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-10-11T20:24:51.138106+00:00",
+  "publicAccessPreserved": true,
+  "archiveNative": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_0000000088ec8210897309fe2bfe0035",
+    "content_hash": "sha256:3cbc18ec0bd5108f8b639ba4f737f5419ab915f6b206b6a24f139b105cfee462",
+    "size_bytes": 77015040,
+    "file_count": 490
+  },
+  "migration": "20261011201651_journey_group_half_current_goals.sql",
+  "checks": {
+    "unitTests": 416,
+    "unitFiles": 68,
+    "sqlTests": 19,
+    "browserCases": 11,
+    "browsers": [
+      "chromium",
+      "firefox",
+      "webkit-mobile"
+    ],
+    "typeScript": true,
+    "buildVersion": 70,
+    "diffCheck": true,
+    "contentPreparationQuestions": 12787
+  },
+  "data": {
+    "reset": false,
+    "answerAndLearningEntriesUnchangedAtomicFingerprint": true,
+    "secureGoalsUnchangedAtomicFingerprint": true,
+    "journeyGroupRightsRecomputed": true,
+    "obsoleteCurriculumRemoved": true
+  },
+  "thresholds": {
+    "Abenteuer": {
+      "group": 1,
+      "easyGoals": 15,
+      "toNextGroup": 8
+    }
+  },
+  "syntheticNativeProbe": {
+    "rolledBack": true,
+    "sevenOpensNextGroup": false,
+    "eightOpensNextGroup": true,
+    "higherDifficultyRemainsLocked": true
+  },
+  "archiveLocal": {
+    "fileCount": 490,
+    "buildFiles": 489,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 62639641,
+    "sha256": "dd400cd22e06cc70eb5aaad48f40cab841982d0a7ac58641a4b24fee20d07a2c"
+  },
+  "limits": [
+    "Keine Mehrspielerlastmessung",
+    "Keine physische Geräteabnahme"
+  ],
+  "live": {
+    "htmlStatus": 200,
+    "htmlMatchesApartFromCloudflareJsd": true,
+    "files": [
+      {
+        "path": "/assets/Help-DmP7Q-7v.js",
+        "status": 200,
+        "sha256": "d25f8dd79eb66cbe572de3ed384cc10b14901ead46fdb21a61181817c0701384"
+      },
+      {
+        "path": "/assets/index-B6kzMLPO.js",
+        "status": 200,
+        "sha256": "05b79872ac71f9855fc39916675c2c84ab2481670e21fb33e77c8ff76603c2ce"
+      },
+      {
+        "path": "/assets/index-BPr2pq_a.css",
+        "status": 200,
+        "sha256": "9b0f2c44ccc43ffcc45b605efd0dc873c217b83a21d6f7e47cd9db519177d570"
+      },
+      {
+        "path": "/account-config.json",
+        "status": 200,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      },
+      {
+        "path": "/sw.js",
+        "status": 200,
+        "sha256": "0c3f9919e46aacbadf04f0a2ccf87bcd2296697179a907f787e74857a46f47ec"
+      }
+    ],
+    "releaseMetadata": [
+      {
+        "version": 70,
+        "published_at": "2026-10-11T20:24:51.138106+00:00"
+      }
+    ]
+  },
+  "cleanup": {
+    "completed": false,
+    "reason": "Automatic approval review rejected recursive cleanup: blocked by policy",
+    "paths": [
+      "tmp-runtime/groups70",
+      "test-results/port-4297",
+      "test-results/freischaltung-320.png",
+      "dist"
+    ],
+    "retentionPurpose": "Nur wegen der Löschsperre; nach dokumentierter Abnahme entbehrlich",
+    "deleteWhen": "Sobald die automatische Freigabeprüfung die geprüften auftragseigenen Ziele zulässt"
+  }
+}

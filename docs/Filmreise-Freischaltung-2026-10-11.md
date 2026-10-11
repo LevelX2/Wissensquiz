@@ -26,7 +26,7 @@ Private SQL-Funktionen berechnen Freigaben aus vorbereiteten aktuellen Zielmenge
 
 Die bestehende Freischaltfeier erhält beim Serverabschluss wieder ihre achtteilige Fanfare statt des normalen Abschlusssignals. Nach Schließen des Dialogs geht der Tastaturfokus in die Ergebnisansicht zurück.
 
-Seit Sites-Version 69 am 11.10.2026 um 16:18:29 Uhr Europe/Berlin produktiv. [Quelle, Checks und Live-Nachweis](Veroeffentlichung-2026-10-11-Version-69.json).
+Schwierigkeiten und Fragenauswahl seit Sites-Version 69 am 11.10.2026 um 16:18:29 Uhr Europe/Berlin produktiv. Filmgruppen seit **Version 70 am 11.10.2026 um 22:24:51 Uhr Europe/Berlin**. [Quelle, Checks und Live-Nachweis 69](Veroeffentlichung-2026-10-11-Version-69.json), [Nachweis 70](Veroeffentlichung-2026-10-11-Version-70.json).
 
 ## Prüfung der Fragenauswahl am 11.10.2026
 
