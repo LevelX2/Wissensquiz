@@ -2,6 +2,10 @@
 
 - [Weitere Serveroptimierungen lokal umgesetzt: einziger aktueller Bestand, begrenzter Start, Statistikdifferenzen, Duellsperren, Ranglistencache und einzelne Poster – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md#weitere-optimierungen-lokal-umgesetzt-noch-nicht-veröffentlicht)
 
+- [Profil: einheitliche Klappen, drei neue Icons und Antwortansicht ohne Merksatz – 11.10.2026](../../../docs/Profilklappen-2026-10-11.md)
+
+- [Weitere Serveroptimierungen: Statistikabschluss, Duellsperre, Kontostart und bedarfsgerechte Abrufe – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md#nachprüfung-weitere-optimierungen--11102026)
+
 - [Server-Lernablauf seit Version 66: einzelne Fragen, vorbereitete Inhalte und begrenzte Abfragen – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md)
 
 - [Konto-Ladefehler: Vollkatalogabrufe entfernt, freigegebener Teststand zurückgesetzt und Version 66 veröffentlicht – 11.10.2026](../../../docs/Online-Spielstand-Ladefehler-2026-10-11.md)
@@ -10,10 +14,10 @@
 
 - [Fragenredaktion bis Block 17 seit Version 65 veröffentlicht](../../../docs/Sites-Betrieb.md#version-65-integrierte-fragenredaktion-und-eingerichteter-meldungsdienst)
 
-- [GitHub-Meldungsdienst: fehlenden Schlüssel eingerichtet, Live-Abnahme und Betrieb – 10.10.2026](../../../docs/GitHub-Meldungen.md)
+- [GitHub-Meldungsdienst: betriebsbereit; Fragetext im Ticket lokal ergänzt – 11.10.2026](../../../docs/GitHub-Meldungen.md)
 
 - [Aktuelle Fragetexte und Quellen](../../../docs/Fragenredaktion/Fragen.json)
-- [Redaktionsfortschritt: 5.000 Originalfragen geprüft, 7.773 offen; Block 97 abgeschlossen](../../../docs/Fragenredaktion/Fortschritt.json)
+- [Redaktionsfortschritt: 5.650 Originalfragen geprüft, 7.123 offen; Block 110 abgeschlossen](../../../docs/Fragenredaktion/Fortschritt.json)
 
 - [Version 64: gesamter Main-Stand einschließlich Proberunde, Serverzeit, Wettbewerbs-XP und Menüicons veröffentlicht](../../../docs/Sites-Betrieb.md)
 - [Version 64: Quellen-, Backend-, Archiv- und Live-Nachweis](../../../docs/Veroeffentlichung-2026-10-10-Version-64.json)

@@ -12,8 +12,9 @@ import {
 import { GenreArtwork } from "./Icons";
 import { repetitionContext } from "./errorTraining";
 import { useForegroundTime } from "./useForegroundTime";
+import type { LearningEvidence } from "./learningProgress";
 import { roundSummary } from "./roundSummary";
-import { careerSummary } from "./career";
+import { careerSummary, type XpBreakdown } from "./career";
 import { RoundExperience } from "./CareerProgress";
 import { historicalModeName, formatDate } from "./gameUi";
 import { Explanation } from "./Explanation";
@@ -45,12 +46,32 @@ export function Result({
     "all",
   );
   useEffect(() => setReviewFilter("all"), [round.id]);
-  const summary = roundSummary(state, round);
-  const career = useMemo(() => careerSummary(state), [state]);
-  const roundXp = career.rounds.get(round.id)!;
-  const roundProgress = career.progress.get(round.id)!;
-  const { events, correct, improved, secured: secure } = summary;
   const server = useServer();
+  const remoteReward = !!server && !trialActions;
+  const career = useMemo(
+    () => (remoteReward ? null : careerSummary(state)),
+    [state, remoteReward],
+  );
+  const serverReward = useServerView<{
+    xp: XpBreakdown;
+    learning: (LearningEvidence & { eventId: string })[];
+    before: number;
+    after: number;
+  } | null>(
+    remoteReward ? { action: "round-experience", scope: round.id } : null,
+  );
+  const roundXp = remoteReward
+    ? serverReward.value?.xp
+    : career!.rounds.get(round.id);
+  const roundProgress = remoteReward
+    ? serverReward.value
+    : career!.progress.get(round.id);
+  const summary = roundSummary(
+    state,
+    round,
+    remoteReward ? serverReward.value?.learning : undefined,
+  );
+  const { events, correct, improved, secured: secure } = summary;
   const now = useForegroundTime();
   const repetitions = useServerView<{ due: number; nextAt: number | null }>(
     server && !trialActions
@@ -184,13 +205,23 @@ export function Result({
         </div>
       )}
       <div className="result-progress">
-        <RoundExperience
-          key={round.id}
-          xp={roundXp}
-          before={roundProgress.before}
-          after={roundProgress.after}
-          celebrate={celebrate}
-        />
+        {roundXp && roundProgress && (
+          <RoundExperience
+            key={round.id}
+            xp={roundXp}
+            before={roundProgress.before}
+            after={roundProgress.after}
+            celebrate={celebrate}
+          />
+        )}
+        {serverReward.error && (
+          <p role="alert">
+            Deine Rundenerfahrung konnte nicht geladen werden.{" "}
+            <button className="text-button" onClick={serverReward.retry}>
+              Erneut versuchen
+            </button>
+          </p>
+        )}
         <div className="result-insights">
           <div>
             <strong>{summary.firstSolved}</strong>
@@ -351,6 +382,9 @@ export function Result({
                 {e.guessed && <p className="muted">Als geraten markiert.</p>}
                 <LearningProgress
                   events={state.events}
+                  evidence={serverReward.value?.learning.find(
+                    (x) => x.eventId === e.id,
+                  )}
                   event={e}
                   now={Date.now()}
                 />

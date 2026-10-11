@@ -185,8 +185,22 @@
   border: 1px solid var(--line);
   border-radius: 12px;
 }
-.account-help {
-  margin: 2rem 0;
+.profile-section {
+  margin: 12px 0;
+}
+.profile-section-group {
+  margin-bottom: 0;
+}
+.profile-page .account-page {
+  max-width: none;
+  margin: 16px 0;
+  padding: 0;
+}
+.profile-section-content {
+  padding-top: 1px;
+}
+.profile-section-content .career-progress {
+  margin-top: 16px;
 }
 .shared-entries {
   margin: 1rem 0;

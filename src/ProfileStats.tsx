@@ -2,7 +2,8 @@ import { hasAnswer, type State } from "./model";
 import { careerProgress } from "./career";
 import { isRecordMode } from "./recordModes";
 import { learningOverview } from "./learningProgress";
-import { useServerView, type LearningOverview } from "./serverViews";
+import { useServer, useServerView, type LearningOverview } from "./serverViews";
+import { ProfileSection } from "./ProfileSection";
 
 export function profileStats(state: State) {
   const answered = state.events.filter(hasAnswer);
@@ -32,14 +33,51 @@ export function profileStats(state: State) {
 }
 
 export function ProfileStats({ state }: { state: State }) {
+  const server = useServer();
   const stats = profileStats(state);
+  const totals = useServerView<
+    Pick<
+      ReturnType<typeof profileStats>,
+      | "played"
+      | "completed"
+      | "answered"
+      | "correct"
+      | "encountered"
+      | "recordRounds"
+      | "accuracy"
+    >
+  >(server ? { action: "profile-stats" } : null);
   const summary = useServerView<LearningOverview>({ action: "summary" });
   const learning = summary.value ?? stats.learning;
-  if (summary.value) stats.totalGoals = summary.value.maximum / 4;
+  if (summary.value) {
+    stats.totalGoals = summary.value.maximum / 4;
+    stats.mastered = summary.value.mastered;
+  }
+  if (totals.value) Object.assign(stats, totals.value);
+  if (server && (!summary.value || !totals.value))
+    return (
+      <p role={summary.error || totals.error ? "alert" : "status"}>
+        {summary.error || totals.error ? (
+          <>
+            Dein Profil konnte nicht geladen werden.{" "}
+            <button
+              className="text-button"
+              onClick={() => {
+                summary.retry();
+                totals.retry();
+              }}
+            >
+              Erneut versuchen
+            </button>
+          </>
+        ) : (
+          "Dein Lernstand wird geladen …"
+        )}
+      </p>
+    );
   return (
     <>
-      <section aria-label="Dein Lernstand">
-        <h2>Dein Lernstand</h2>
+      <ProfileSection title="Dein Lernstand" subject="learning">
         <p>
           <strong>
             {stats.encountered.toLocaleString("de-DE")} unterschiedliche Fragen
@@ -73,9 +111,8 @@ export function ProfileStats({ state }: { state: State }) {
           Antworten nach dem Wiederholungstermin erhöhen die Stufe; die Abstände
           wachsen auf 1, 3, 7 und 21 Tage.
         </p>
-      </section>
-      <section aria-label="Deine Spielstatistik">
-        <h2>Deine Spielstatistik</h2>
+      </ProfileSection>
+      <ProfileSection title="Deine Spielstatistik" subject="statistics">
         <dl className="profile-stats">
           {[
             ["Runden gespielt", stats.played],
@@ -100,7 +137,7 @@ export function ProfileStats({ state }: { state: State }) {
           {careerProgress(state.experience).title} ·{" "}
           {state.experience.toLocaleString("de-DE")} XP
         </p>
-      </section>
+      </ProfileSection>
     </>
   );
 }

@@ -1,6 +1,13 @@
 import type { AnswerEvent, Learning, State } from "./model";
 import { DAY, dayKey, learn } from "./learning";
 
+export type LearningEvidence = {
+  previous?: Learning | null;
+  current: Learning;
+  resolvedMistake: boolean;
+  firstSolved: boolean;
+};
+
 export function learningOverview(ids: string[], learning: State["learning"]) {
   const goals = [...new Set(ids)];
   const stages = [0, 0, 0, 0];

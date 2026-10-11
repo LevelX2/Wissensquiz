@@ -17,7 +17,7 @@ import {
 } from "../../src/rankedRuns";
 import { rebuild } from "../../src/engine";
 import { OnlineGameStore } from "../../src/onlineGameStore";
-import { LearningSession, type LearningRun } from "../../src/learningRuns";
+import { type LearningRun } from "../../src/learningRuns";
 import { syncFixture } from "../helpers/sync-fixture";
 export { expect, chromium, type Page } from "@playwright/test";
 export const testBaseUrl = `http://localhost:${process.env.WISSENSQUIZ_BROWSER_PORT ?? 4173}`;
@@ -256,20 +256,38 @@ export async function readStoredState(
         question: RankedItem["question"];
         order: string[];
         event: RankedItem["event"] | null;
+        before: State["learning"][string] | null;
       }>(
-        `select coalesce(q.question,c.question)||jsonb_build_object('tags',c.question->'tags','metadata',c.question->'metadata') question,q.answer_order as "order",q.event from unnest($2::text[]) with ordinality selected(id,n) join quiz_ranked_internal.catalog c on c.release_hash=$3 and c.id=selected.id left join quiz_game_internal.questions q on q.run_id=$1 and q.index=selected.n-1 order by selected.n`,
+        `select coalesce(q.question,c.question)||jsonb_build_object('tags',c.question->'tags','metadata',c.question->'metadata') question,q.answer_order as "order",q.event,q.learning_before as before from unnest($2::text[]) with ordinality selected(id,n) join quiz_ranked_internal.catalog c on c.release_hash=$3 and c.id=selected.id left join quiz_game_internal.questions q on q.run_id=$1 and q.index=selected.n-1 order by selected.n`,
         [run.id, queue, release_hash],
       );
-      const session = new LearningSession(api);
-      session.run = run;
-      session.items = rows.rows.filter((x): x is RankedItem => !!x.event);
-      const round = session.round();
+      const answered = rows.rows.filter((x) => x.event !== null);
+      const round: State["rounds"][number] = {
+        id: "learn-" + run.id,
+        mode: run.mode,
+        topic: run.topic,
+        filters: run.filters,
+        difficulty: "Alle Stufen",
+        ruleVersion: "learn-server-v1",
+        solutionDisplay: run.solutionDisplay,
+        status: run.status,
+        startedAt: run.startedAt,
+        finishedAt: run.finishedAt,
+        questions: [],
+        order: [],
+        events: answered.map((x) => x.event!.id),
+        before: Object.fromEntries(
+          answered
+            .filter((x) => x.before)
+            .map((x) => [x.question.knowledgeId, x.before!]),
+        ),
+      };
       round.questions = rows.rows.map((x) => x.question);
       round.order = rows.rows.map(
         (x) => x.order ?? x.question.answers.map((a) => a.id),
       );
       state.rounds.push(round);
-      state.events.push(...session.items.map((x) => x.event));
+      state.events.push(...answered.map((x) => x.event!));
     }
     const runs = await db.query<{ run: RankedSummary }>(
       "select quiz_ranked_internal.summary(r) as run from quiz_ranked_internal.runs r where owner_id=$1 order by created_at",
@@ -401,7 +419,7 @@ export async function writeStoredState(page: Page, state: State) {
       );
       for (let i = 0; i < Math.max(1, activeEvents.length); i++)
         await backend.db.query(
-          "insert into quiz_game_internal.questions(run_id,index,question,answer_order,event,issued_at,learning_before) values($1,$2,$3::jsonb,$4::jsonb,$5::jsonb,to_timestamp($6/1000.0),$7::jsonb)",
+          "insert into quiz_game_internal.questions(run_id,index,question,answer_order,event,issued_at,learning_before) values($1,$2,$3::jsonb,$4::jsonb,$5::jsonb,to_timestamp($6/1000.0),case when $5::jsonb is null then (select value from public.quiz_sync_entries where owner_id=$8 and generation=$9 and kind='learning' and id=$10 and not deleted) else $7::jsonb end)",
           [
             id,
             i,
@@ -410,6 +428,9 @@ export async function writeStoredState(page: Page, state: State) {
             activeEvents[i] ? JSON.stringify(activeEvents[i]) : null,
             active.startedAt,
             JSON.stringify(active.before[questions[i].knowledgeId] ?? null),
+            testOwner,
+            head.generation,
+            questions[i].knowledgeId,
           ],
         );
       for (const event of activeEvents)

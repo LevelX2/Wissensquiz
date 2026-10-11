@@ -1,5 +1,14 @@
 # Prüfnachweis
 
+## 11.10.2026 – Fragetext in GitHub-Meldungen ergänzt
+
+Bei Fragenbezug den tatsächlich sichtbaren Fragetext vollständig in den gemeinsamen Versandvertrag aufgenommen und im Ticket unter „Gemeldete Frage“ ausgegeben. Fragen-ID und Inhaltsversion bleiben erhalten; allgemeine Meldungen ohne Fragenabschnitt. Öffentlichen Formularhinweis ergänzt, unveränderliche Wiederholung mit demselben Text und Inhalts-Hash geprüft. HTML und Erwähnungen auch im Fragetext entschärft, private Zusatzfelder und fehlende/leere/zu lange Fragetexte abgewiesen. Die begrenzte HTTP-Nutzlast erlaubt vollständige mehrbyteige Texte bis zur bestehenden maximalen Fragenlänge.
+
+**482/482 Tests in 77 Dateien** im vollständigen Lauf erfolgreich, darunter zwölf Versand-/Vertragstests. TypeScript und Produktionsbuild erfolgreich; Fragenkatalog weiterhin 12.787 Fragen mit Hash `e1f228ac81d24bf78e8cd36d30031a713731928df264b9fbc33f40b03e0e9576`. Beide gezielten Chromiumfälle im isolierten Browserprofil mit kontrollierter Testzeit bestanden: allgemeine Meldung mit Zustimmung, Beleg und unverändertem synthetischen Spielstand; Fragenmeldung mit exakt sichtbarem Text, unverändertem Inhalt und gleicher ID nach unklarem Versand/Neuladen. Der Konten-Mock reicht neue `quiz_game_*`-Aufrufe an den vorhandenen isolierten SQL-Testserver durch. Keine echten Meldungen oder Nutzerspielstände verwendet, keine Abhängigkeit oder Datenbankmigration geändert. Diff-Prüfung erfolgreich.
+
+Lokal vorbereitet und geprüft; Website und Edge Function noch nicht veröffentlicht. Keine automatische Anpassung älterer Meldungsentwürfe. [Vertrag und Veröffentlichungsbedarf](GitHub-Meldungen.md#klartext-der-gemeldeten-frage--11102026).
+
+
 ## 11.10.2026 – Lernablauf ohne Clientkatalog
 
 Normale Lernrunden, Auswahl und Lernübersichten auf private Serverabläufe umgestellt. Kontostart ohne CSV- oder historischen Vollkatalogabruf; aktuelle Frage einzeln, Auswertung und Lernprojektion auf dem Server, kurze Antwortbelege und inkrementeller Fortschrittsabruf. Vorbereitete Inhalte, Filmreise-Cache, zusammengeführte Übersichtsabfragen und begrenzte Themenseiten senken laufende Last und Traffic. Keine Altstandmigration.
@@ -1132,3 +1141,26 @@ Lokale Laufzeiten einschließlich PostgreSQL-Wartezeiten und psql-Transport: bei
 Nach den dokumentierten Korrekturen am Testaufbau alle 52 Kernfälle ohne Fehler in einem zusammenhängenden Lauf bestanden (11,1 min): Chromium 23, Firefox 6, mobiles WebKit 23. Geprüft sind vollständige Lern- und Duellrunden, Einladungen und Wiederaufnahme, kleine Fortschrittspakete, verlorene Bestätigungen/Wiederholung ohne Doppelzählung, Gerätewechsel und konkurrierende Fenster, serverseitige Zeitläufe, alle Rekordmodi sowie Kalenderansichten. Zusammen mit den zuvor erfolgreichen zehn Posterfällen sind 62 unterschiedliche gezielte Browserfälle abgedeckt. Keine Testfrist erhöht und keine Produktvalidierung abgeschwächt. Der frühere unterbrochene Kernlauf bleibt als Diagnosehistorie dokumentiert; der neue vollständige Kernlauf ist grün.
 
 Offene Integrationsgrenze: Main enthält weiterhin ungecommittete, unfertige Profil-/Optionsänderungen aus einem anderen Auftrag; unter anderem `src/App.tsx` überschneidet sich mit dem Serverumbau. Deren Übernahme und Abschluss sind angefragt. Deshalb noch kein Merge, produktiver Datenbankrollout, Sites-Deployment oder Entfernen des Arbeitsworktrees. Der öffentliche Stand bleibt Version 66. Main selbst besteht die zusätzlich lesend angestoßene TypeScript- und Diff-Prüfung; diese ist keine Abnahme des unfertigen Profilauftrags.
+
+## Profilklappen und vereinfachte Optionen – 11.10.2026
+
+Offenen Profilauftrag mit ausdrücklicher Nutzerfreigabe für die gemeinsame Main-Veröffentlichung abgeschlossen. Fünf Profilklappen übernehmen Gestaltung und Bedienung der Frageklappen; drei neue passende Symbole. Merksatz aus gemeinsamer Auflösung und Rückblick entfernt. Manuelle Sicherung/Wiederherstellung, Export historischer lokaler Meldungen und doppelte Options-Infoblöcke entfernt. Online-Speicherung und Spieloptionen bleiben bestehen; bewusst bestätigter Neustart weiterhin verfügbar. Keine echten Konten zurückgesetzt.
+
+TypeScript und Produktionsbuild erfolgreich. Vier Profil-Browserfälle in Chromium und mobilem WebKit bei 320/1280 Pixeln erfolgreich (55,7 s): geladene Symbole, Enter/Leertaste, Pfeile, Konto-/Meldungsaktionen, WCAG-Automatik, unveränderte synthetische Spieldaten und geschlossene Klappen nach Rückkehr. Keine horizontalen Überläufe. [Profilvertrag](Profilklappen-2026-10-11.md). Die anschließende gemeinsame Serverintegration erhält eine eigene Abnahme.
+
+
+### Gemeinsame Integration: zusätzlicher XP-Anzeigebefund – 11.10.2026
+
+Die zusätzliche Karriereprüfung mit 19 abgeschlossenen Runden deckte eine falsche Anzeige im Ergebnis auf: `careerSummary` sah nach begrenztem Start nur einen Teil der Historie. Die gespeicherten Gesamt-XP waren korrekt, der dargestellte Level zu niedrig. Ergebnisansichten erhalten jetzt einen kleinen privaten XP-Beleg vom Server; Aufschlüsselung entsteht in der bereits nötigen Zielprojektion, Gesamtstände werden beim Abschluss eingefroren. Kein Vollhistorienabruf und keine Rückfüllung alter Runden. Kontentrennung und Summe der Komponenten zusätzlich im Datenbanktest geprüft. Der erste gemeinsame Lauf wurde zur Korrektur unterbrochen; der anfängliche Logiklauf bestand 488/489 Tests, allein der Katalogindexfall überschritt unter gleichzeitiger Browserlast seine unveränderte Fünfsekundengrenze. Abschließende Läufe folgen nach dieser Korrektur.
+
+
+Die breitere Integrationsprüfung ergänzte zwei weitere Befunde durch den begrenzten Erstabruf: Profil-/Fragenzähler und Lernstufen-/Fehlerkorrekturanzeigen verwendeten weiterhin teilweise Clientereignisse. Private inkrementelle Zähler und serverseitige Antwortbelege ersetzen diese Berechnung. Der alte Browserfall zur Übernahme früherer Level wurde auf gültigen aktuellen Serverfortschritt mit unveränderter Prüfung für reduzierte Bewegung und Neuladen umgestellt; keine Altstandkompatibilität ergänzt. Separate SQL-/Typprüfungen nach der Korrektur erfolgreich. Die beiden unterbrochenen Browserläufe bleiben Diagnosehistorie; abschließende gemeinsame Abnahme folgt.
+
+
+### Ergänzende Diagnose des gemeinsamen Browserlaufs
+
+Die erste erweiterte Abnahme zeigte eine fehlende Übergabe des bereits richtigen Server-Lernbelegs an die Anzeige. Die Übergabe in Frage und Rückblick wurde vervollständigt; der gezielte Lernstufenfall besteht. Außerdem erhielt die Proberundenübernahme nach dem begrenzten Nachladen eine unveränderliche Fragenliste. Die Mutatorvorbereitung erzeugt nun auch beim erneuten Anwenden eine bearbeitbare Liste; 40 gezielte Tests einschließlich eines neuen Falls mit verlorener Bestätigung und Übernahme genau einmal bestehen.
+
+Filmtests warten auf wiederhergestellte Antworten und bestätigten Abschluss; Originalfelder müssen exakt erhalten bleiben, die zusätzliche vorbereitete Darstellung wird separat geprüft. Die Fragenhistorienprüfung nutzt ein festes Datum mit nativen Animationen statt eines eingefrorenen Aufklappens. Keine Testfristen oder fachlichen Erwartungen gelockert. Der abschließende Browserlauf wird separat dokumentiert.
+
+Die synthetische Ausgabe einer noch unbeantworteten Frage liest ihren vorherigen Lernstand nun wie die echte Serverroutine aus der privaten Projektion. Frühe Wiederholungen prüfen damit den tatsächlichen Vorzustand. Die Filmprüfung vergleicht die kompakten Rundenfakten und die private vollständige Fragendarstellung jeweils exakt. Vor der Kontrastprüfung wird das Ende der Aufklappanimation ausdrücklich abgewartet.

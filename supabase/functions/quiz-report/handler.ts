@@ -73,7 +73,7 @@ export function createReportHandler(ports: ReportPorts) {
         const { done, value } = await reader.read();
         if (done) break;
         bytes += value.length;
-        if (bytes > 24_000) {
+        if (bytes > 48_000) {
           await reader.cancel();
           throw new Error();
         }

@@ -51,7 +51,7 @@ Ebenfalls am 26.09.2026 geliefert: `Fantasy_Quiz_180_Fragen.csv`, 31 Spalten. Vo
 | `feedback_a` bis `feedback_d` | Feedback am jeweiligen Antwortobjekt, bleibt beim Mischen erhalten. Fehlende Texte bleiben leer. |
 | `explanation_short` | `explanation`; verpflichtend, nach der Antwort sichtbar. Bei „Keine Ahnung“ folgt die Erklärung auf die kurze Hervorhebung der richtigen Lösung. |
 | `explanation_context` | Optionale Vertiefung; fehlt sie, entfällt der Abschnitt. |
-| `memory_anchor` | Optionaler Merksatz. |
+| `memory_anchor` | Optionaler Merksatz in den Quelldaten; seit 11.10.2026 lokal nicht mehr angezeigt. |
 | `spoiler_level` | Original in `metadata`; vor jeder Runde allgemeiner Spoilerhinweis. |
 | `source_urls` | HTTP-/HTTPS-URLs; Pipe, Semikolon oder Leerraum als Trenner. Ungültige/andere Protokolle schließen den Datensatz aus. |
 | `verification_status` | Unverändert in `metadata`. „redaktionell_geprueft“ wird nicht als eigene Faktenprüfung ausgegeben. „demo-redaktionell“ kennzeichnet das separate Beispielpaket. |

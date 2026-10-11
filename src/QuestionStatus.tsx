@@ -1,3 +1,5 @@
+import { useServer, useServerView } from "./serverViews";
+import type { questionHistory } from "./questionHistory";
 import type { AnswerEvent, Question } from "./model";
 
 export function QuestionStatus({
@@ -9,9 +11,28 @@ export function QuestionStatus({
   question: Question;
   currentEventId?: string;
 }) {
-  const previous = events.filter(
-    (event) => event.questionId === question.id && event.id !== currentEventId,
-  ).length;
+  const server = useServer();
+  const history = useServerView<
+    ReturnType<typeof questionHistory> & { question: { seen: number } }
+  >(
+    server
+      ? {
+          action: "question-history",
+          scope: question.id,
+          topic: question.knowledgeId,
+          cursor: `${currentEventId ?? ""}:${events.find((e) => e.id === currentEventId)?.guessed ?? false}`,
+        }
+      : null,
+  );
+  const previous = server
+    ? Math.max(
+        0,
+        (history.value?.question.seen ?? 0) - (currentEventId ? 1 : 0),
+      )
+    : events.filter(
+        (event) =>
+          event.questionId === question.id && event.id !== currentEventId,
+      ).length;
   return (
     <span
       className={`pill question-status ${previous === 0 ? "is-new" : "is-repeat"}`}
@@ -21,7 +42,11 @@ export function QuestionStatus({
           : `${previous} frühere ${previous === 1 ? "Antwort" : "Antworten"} auf diese Frage, einschließlich Zeitablauf`
       }
     >
-      {previous === 0 ? "Neu" : `Wiederholung · ${previous}×`}
+      {server && !history.value
+        ? "…"
+        : previous === 0
+          ? "Neu"
+          : `Wiederholung · ${previous}×`}
     </span>
   );
 }

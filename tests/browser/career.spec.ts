@@ -1,4 +1,4 @@
-import { writeStoredState } from "./fixtures";
+import { writeStoredState, fixCalendarTime } from "./fixtures";
 import { test, expect, readStoredState, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { answer, complete, startRound } from "../../src/engine";
@@ -43,7 +43,7 @@ for (const width of [320, 1280]) {
     context,
     browserName,
   }) => {
-    await page.clock.install({ time: now });
+    await fixCalendarTime(page, now);
     await page.setViewportSize({ width, height: 900 });
     await page.goto("/");
     await expect(
@@ -104,21 +104,23 @@ for (const width of [320, 1280]) {
     await expect(page.locator(".career-level-up")).toHaveCount(0);
     expect((await readState(page)).experience).toBe(100);
     await page.getByRole("button", { name: "Profil", exact: true }).click();
+    await page.getByText(/^Deine Filmkarriere · Level/).click();
     await expect(
       page.getByRole("main").getByRole("progressbar"),
     ).toHaveAttribute("aria-valuemax", "150");
     await expect(page.getByRole("main")).toContainText("Level 2 · Kinogänger");
     await page.reload();
     await page.getByRole("button", { name: "Profil", exact: true }).click();
+    await page.getByText(/^Deine Filmkarriere · Level/).click();
     await expect(page.getByRole("main")).toContainText("100 XP insgesamt");
     expect((await readState(page)).experience).toBe(100);
   });
 }
 
-test("alte Level und ihr Fortschritt werden beim Start einmal erhalten; reduzierte Bewegung bleibt ruhig", async ({
+test("aktueller Serverfortschritt bleibt nach Neuladen erhalten; reduzierte Bewegung bleibt ruhig", async ({
   page,
 }) => {
-  await page.clock.install({ time: now });
+  await fixCalendarTime(page, now);
   await page.emulateMedia({ reducedMotion: "reduce" });
   await page.setViewportSize({ width: 320, height: 740 });
   await page.goto("/");
@@ -129,23 +131,23 @@ test("alte Level und ihr Fortschritt werden beim Start einmal erhalten; reduzier
   )!;
   for (let i = 0; i < 19; i++)
     seededRound(state, q, now.getTime() - 60000 + i * 100, false);
-  delete state.career;
-  state.experience = 190;
+  expect(state.experience).toBe(1);
   const events = structuredClone(state.events);
   await writeState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
-  await expect(page.getByRole("main")).toContainText("Level 2 · Kinogänger");
-  await expect(page.getByRole("main")).toContainText("135 / 150 XP");
-  await expect(page.getByRole("main")).toContainText("234 XP Startgutschrift");
+  await page.getByText(/^Deine Filmkarriere · Level/).click();
+  await expect(page.getByRole("main")).toContainText("Level 1 · Kinogänger");
+  await expect(page.getByRole("main")).toContainText("1 / 100 XP");
+  await expect(page.getByRole("main")).toContainText("1 XP insgesamt");
   expect((await readState(page)).events).toEqual(events);
-  expect((await readState(page)).experience).toBe(235);
+  expect((await readState(page)).experience).toBe(1);
   const track = page.getByRole("main").locator(".career-track > span");
   expect(
     await track.evaluate((el) => getComputedStyle(el).transitionDuration),
   ).toBe("0s");
   await page.reload();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
-  expect((await readState(page)).experience).toBe(235);
+  expect((await readState(page)).experience).toBe(1);
   await expect(page.locator(".career-level-up")).toHaveCount(0);
 });

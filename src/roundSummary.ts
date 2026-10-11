@@ -1,19 +1,35 @@
 import { hasAnswer, type Round, type State } from "./model";
 import { learn } from "./engine";
 import { genreOf } from "./filters";
+import type { LearningEvidence } from "./learningProgress";
 import { openMistakes } from "./errorTraining";
 
-export function roundSummary(state: State, round: Round) {
+export function roundSummary(
+  state: State,
+  round: Round,
+  evidence?: (LearningEvidence & { eventId: string })[],
+) {
   const byId = new Map(state.events.map((e) => [e.id, e]));
   const events = round.events.flatMap((id) => {
     const event = byId.get(id);
     return event ? [event] : [];
   });
-  const after = structuredClone(round.before);
+  const before = evidence
+    ? Object.fromEntries(
+        evidence
+          .filter((x) => x.previous)
+          .map((x) => [
+            events.find((e) => e.id === x.eventId)!.knowledgeId,
+            x.previous!,
+          ]),
+      )
+    : round.before;
+  const proofs = new Map(evidence?.map((x) => [x.eventId, x]));
+  const after = structuredClone(before);
   const advanced = new Set<string>();
   for (const e of events) {
     const previous = after[e.knowledgeId];
-    const next = learn(previous, e);
+    const next = proofs.get(e.id)?.current ?? learn(previous, e);
     if (next.stage > (previous?.stage ?? 0)) advanced.add(e.knowledgeId);
     after[e.knowledgeId] = next;
   }
@@ -55,13 +71,12 @@ export function roundSummary(state: State, round: Round) {
   const improved = goals.filter(
     (q) =>
       after[q.knowledgeId]?.status === "geübt" &&
-      (!round.before[q.knowledgeId] ||
-        round.before[q.knowledgeId].status === "entdeckt"),
+      (!before[q.knowledgeId] || before[q.knowledgeId].status === "entdeckt"),
   ).length;
   const secured = goals.filter(
     (q) =>
       after[q.knowledgeId]?.status === "gefestigt" &&
-      round.before[q.knowledgeId]?.status !== "gefestigt",
+      before[q.knowledgeId]?.status !== "gefestigt",
   ).length;
   return {
     events,
@@ -69,13 +84,16 @@ export function roundSummary(state: State, round: Round) {
     improved,
     secured,
     advanced: advanced.size,
-    firstSolved: new Set(
-      events
-        .filter(
-          (e) => e.correct && !e.guessed && !solvedBefore.has(e.knowledgeId),
-        )
-        .map((e) => e.knowledgeId),
-    ).size,
+    firstSolved: evidence
+      ? evidence.filter((x) => x.firstSolved).length
+      : new Set(
+          events
+            .filter(
+              (e) =>
+                e.correct && !e.guessed && !solvedBefore.has(e.knowledgeId),
+            )
+            .map((e) => e.knowledgeId),
+        ).size,
     genres,
     bestStreak,
     accuracy: Math.round((100 * correct) / round.questions.length),
@@ -83,13 +101,16 @@ export function roundSummary(state: State, round: Round) {
     dontKnow: events.filter((e) => e.dontKnow).length,
     timedOut: events.filter((e) => !e.correct && !hasAnswer(e)).length,
     guessed: events.filter((e) => e.guessed).length,
-    recovered: new Set(
-      events
-        .filter(
-          (e) => e.correct && !e.guessed && mistakesBefore.has(e.knowledgeId),
-        )
-        .map((e) => e.knowledgeId),
-    ).size,
-    newGoals: goals.filter((q) => !round.before[q.knowledgeId]).length,
+    recovered: evidence
+      ? evidence.filter((x) => x.resolvedMistake).length
+      : new Set(
+          events
+            .filter(
+              (e) =>
+                e.correct && !e.guessed && mistakesBefore.has(e.knowledgeId),
+            )
+            .map((e) => e.knowledgeId),
+        ).size,
+    newGoals: goals.filter((q) => !before[q.knowledgeId]).length,
   };
 }

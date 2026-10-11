@@ -7,6 +7,8 @@ import { OnlineGameStore } from "../src/onlineGameStore";
 import { LearningSession } from "../src/learningRuns";
 import { startRound, answer, complete } from "../src/engine";
 import { learn } from "../src/learning";
+import { emptyState } from "../src/model";
+import { mergeTrial } from "../src/trial";
 let fixture: Awaited<ReturnType<typeof syncFixture>>;
 beforeAll(async () => {
   fixture = await syncFixture();
@@ -97,6 +99,63 @@ it("spielt, bestätigt, setzt fort und öffnet ohne einen Katalogabruf", async (
   await store.refresh();
   expect(store.read().events).toHaveLength(10);
   expect(store.read().experience).toBeGreaterThan(0);
+  const reward = await api.call<any>("quiz_game_view", {
+    request_text: JSON.stringify({
+      action: "round-experience",
+      scope: "learn-" + id,
+    }),
+  });
+  expect(reward.before).toBe(0);
+  expect(reward.after).toBe(store.read().experience);
+  expect(reward.learning).toHaveLength(10);
+  const firstEvent = store.read().events[0];
+  expect(
+    await api.call("quiz_game_view", {
+      request_text: JSON.stringify({
+        action: "question-history",
+        scope: firstEvent.questionId,
+        topic: firstEvent.knowledgeId,
+      }),
+    }),
+  ).toMatchObject({
+    question: {
+      seen: 1,
+      answered: 1,
+      correct: 1,
+      wrong: 0,
+      unanswered: 0,
+      guessedCorrect: 0,
+    },
+    goal: { seen: 1 },
+  });
+  expect(
+    reward.learning.every((x: any) => x.current.stage === 1 && x.firstSolved),
+  ).toBe(true);
+  expect(
+    await api.call("quiz_game_view", {
+      request_text: JSON.stringify({ action: "profile-stats" }),
+    }),
+  ).toEqual({
+    played: 1,
+    completed: 1,
+    answered: 10,
+    correct: 10,
+    encountered: 10,
+    recordRounds: 0,
+    accuracy: 100,
+  });
+  expect(
+    Object.values(reward.xp).reduce((n: number, xp) => n + Number(xp), 0),
+  ).toBe(reward.after);
+  const stranger = await fixture.client();
+  expect(
+    await stranger.api.call("quiz_game_view", {
+      request_text: JSON.stringify({
+        action: "round-experience",
+        scope: "learn-" + id,
+      }),
+    }),
+  ).toBeNull();
   expect(store.read().questions).toEqual([]);
   for (const e of store.read().events)
     expect(store.read().learning[e.knowledgeId]).toEqual(learn(undefined, e));
@@ -222,6 +281,11 @@ it("kann eine laufende Runde durch einen leeren Entwicklungsstand ersetzen", asy
     { replace: true },
   );
   expect(store.read().events).toEqual([]);
+  expect(
+    await api.call("quiz_game_view", {
+      request_text: JSON.stringify({ action: "profile-stats" }),
+    }),
+  ).toMatchObject({ played: 0, completed: 0, answered: 0, encountered: 0 });
   const status = await api.call<any>("quiz_game_call", {
     request_text: JSON.stringify({ action: "status" }),
   });
@@ -588,5 +652,44 @@ it("projiziert sichere Ziele aus kompakten Duell-/Importfragen einschließlich P
     );
     expect(rows.rows).toContainEqual({ goal: q.knowledgeId, area });
   }
+  store.stop();
+});
+
+it("übernimmt eine aktuelle Proberunde nach gezieltem Nachladen genau einmal", async () => {
+  const { api, owner } = await fixture.client();
+  const store = new OnlineGameStore(api, owner, undefined, undefined);
+  await store.open();
+  const questions = await api.call<any[]>("quiz_trial_questions", {
+    genre: null,
+  });
+  const state = emptyState(questions);
+  const at = Date.parse("2026-10-11T12:00:00Z");
+  const round = startRound(
+    state,
+    { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+    at,
+  );
+  for (const [i, q] of round.questions.entries())
+    answer(state, round.id, q.id, q.correctId, 100, at + i);
+  complete(state, round.id, at + 100);
+  const trial = { state, expiresAt: at + 86400000 };
+  api.lost("quiz_game_apply");
+  await expect(store.update((s) => mergeTrial(s, trial))).rejects.toThrow(
+    /Bestätigung verloren/,
+  );
+  await store.retry();
+  await store.update((s) => mergeTrial(s, trial));
+  const saved = await store.exportState();
+  expect(saved.rounds).toHaveLength(1);
+  expect(saved.events).toEqual(state.events);
+  expect(saved.experience).toBe(state.experience);
+  expect(
+    api.calls.some(
+      (c) =>
+        c.name === "quiz_sync_scope_page" &&
+        String(c.args.scope_text).includes("details"),
+    ),
+  ).toBe(true);
+  expect(api.calls.some((c) => c.name === "quiz_sync_catalog")).toBe(false);
   store.stop();
 });

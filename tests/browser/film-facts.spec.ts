@@ -1,11 +1,12 @@
-import { writeStoredState } from "./fixtures";
+import { writeStoredState, accountBackend } from "./fixtures";
 import { test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
-import { emptyState, type State } from "../../src/model";
+import { emptyState, type State, type Question } from "../../src/model";
 import { addPackages, packages } from "../../src/packages";
 import { answer, startRound } from "../../src/engine";
 import { validateBackup } from "../../src/storage";
+import { roundFact } from "../../src/roundArchive";
 
 for (const kind of ["year", "csv-year", "director", "original"] as const) {
   test(`${kind}: Filmfrage ohne Lösungshinweis, gespeicherte Antworten und Online-Fortsetzen`, async ({
@@ -56,6 +57,7 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
       kind === "original" ? "Sci-Fi" : "Action",
     );
     await expect(page.locator(".film-data")).toHaveCount(0);
+    await expect(page.locator(".answer")).toHaveCount(5);
     const before = await page.locator(".answer").allTextContents();
     expect(
       (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
@@ -67,7 +69,9 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
     await page.getByRole("button", { name: "Optionen" }).click();
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
-    expect(await page.locator(".answer").allTextContents()).toEqual(before);
+    await expect
+      .poll(() => page.locator(".answer").allTextContents())
+      .toEqual(before);
     const correct = snapshot.answers.find((a) => a.id === snapshot.correctId)!;
     await page.locator(".answer").filter({ hasText: correct.text }).click();
     await expect(page.locator(".feedback")).toBeVisible();
@@ -78,16 +82,18 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
         "Gefragt ist die Regie dieses Films",
       );
       await page.getByText("Quellen ansehen", { exact: true }).click();
-      await expect(page.locator('.explanation a[href="https://www.slashfilm.com/559508/die-hard-interviews/"]')).toBeVisible();
+      await expect(
+        page.locator(
+          '.explanation a[href="https://www.slashfilm.com/559508/die-hard-interviews/"]',
+        ),
+      ).toBeVisible();
     }
     if (kind === "year" || kind === "csv-year") {
       await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
       await expect(page.locator(".explanation")).toContainText(
         kind === "year" ? "Rain Man" : "Windows 95",
       );
-      await expect(page.locator(".memory-anchor")).toContainText(
-        kind === "year" ? "1988" : "1995",
-      );
+      await expect(page.locator(".memory-anchor")).toHaveCount(0);
       await page.getByText("Quellen ansehen", { exact: true }).click();
       await expect(
         page.locator(
@@ -121,8 +127,21 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
       page.getByRole("button", { name: "Runde abschließen" }),
     ).toBeInViewport();
     await page.getByRole("button", { name: "Runde abschließen" }).click();
+    await expect(page.locator(".result")).toBeVisible();
     const saved = await readStoredState(page);
-    expect(validateBackup(saved).rounds.at(-1)?.questions[0]).toEqual(snapshot);
+    const savedRound = validateBackup(saved).rounds.at(-1)!;
+    expect(savedRound.archive?.questions[0]).toEqual(roundFact(snapshot));
+    const backend = accountBackend(page);
+    const privateQuestions = await backend.admin(() =>
+      backend.db.query<{ question: Question }>(
+        "select question from quiz_game_internal.questions where run_id=$1 and index=0",
+        [savedRound.id.slice("learn-".length)],
+      ),
+    );
+    const savedQuestion = privateQuestions.rows[0].question;
+    const { presentation, ...storedQuestion } = savedQuestion;
+    expect(storedQuestion).toEqual(snapshot);
+    expect(presentation?.questionText).toBe(snapshot.question);
     expect(saved.events.at(-1)?.correct).toBe(true);
     expect(saved.learning[q.knowledgeId].seen).toBe(1);
   });

@@ -1,4 +1,4 @@
-import { writeStoredState, accountBackend } from "./fixtures";
+import { writeStoredState, accountBackend, fixCalendarTime } from "./fixtures";
 import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { emptyState, type Mode, type Question } from "../../src/model";
@@ -8,7 +8,7 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
   test(`${mode}: Fragenstatistik zählt Antworten und Varianten, bleibt nach Neuladen korrekt`, async ({
     page,
   }) => {
-    await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
+    await fixCalendarTime(page, new Date("2026-09-26T12:00:00+02:00"));
     await page.setViewportSize({ width: 320, height: 740 });
     await page.goto("/");
     await expect(
@@ -18,7 +18,7 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     const variant = questions.find((q) => q.metadata.variant_of)!;
     const q = questions.find((q) => q.id === variant.metadata.variant_of)!;
     const state = emptyState(questions);
-    delete state.settings.questionHistory; // Old saves use the new default too.
+    delete state.settings.questionHistory; // Aktueller Standard: nach der Antwort.
     let now = Date.parse("2026-09-25T12:00:00+02:00");
     const roundFor = (question: Question, mode: Mode) => {
       const r = startRound(
@@ -92,6 +92,13 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     await expect(stats.locator(".goal-history")).toContainText(
       "Als geraten markierte richtige Antworten: 1",
     );
+    await stats.locator(":scope > div").evaluate(async (node) => {
+      await Promise.all(
+        node
+          .getAnimations({ subtree: true })
+          .map((animation) => animation.finished),
+      );
+    });
     expect(
       (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
         .violations,

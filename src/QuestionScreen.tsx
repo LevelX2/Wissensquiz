@@ -23,6 +23,7 @@ import { playFeedback, stopFeedback, unlockSound } from "./feedback";
 import type { Mutate } from "./uiTypes";
 import { historicalModeName, Pill } from "./gameUi";
 import { Explanation } from "./Explanation";
+import type { LearningEvidence } from "./learningProgress";
 import { LearningProgress } from "./LearningProgressPanel";
 import { IssueReportForm } from "./IssueReportForm";
 import { ActorPortrait } from "./ActorPortrait";
@@ -53,6 +54,7 @@ export function QuestionScreen({
   onCompleted,
   hasNext,
   presentationQuestion,
+  learningEvidence,
 }: {
   round: Round;
   index: number;
@@ -69,6 +71,7 @@ export function QuestionScreen({
   onCompleted?: (saved: State) => void;
   hasNext?: boolean;
   presentationQuestion?: Question;
+  learningEvidence?: LearningEvidence;
 }) {
   const q = round.questions[index];
   const event = state.events.find((e) => e.id === round.events[index]);
@@ -81,6 +84,10 @@ export function QuestionScreen({
     presentationQuestion.question === q.question
       ? presentationQuestion
       : q;
+  const titleParts = questionTitleParts(displayQ);
+  const displayedQuestionText = titleParts
+    ? `${titleParts.before}${titleParts.title}${titleParts.after}`
+    : (displayQ.presentation?.questionText ?? displayQ.question);
   const collected =
     round.solutionDisplay === "round" &&
     (!!round.duel || allowsSolutionChoice(round.mode));
@@ -462,18 +469,15 @@ export function QuestionScreen({
           </div>
         </div>
         <h1 data-question-id={q.id}>
-          {(() => {
-            const parts = questionTitleParts(displayQ);
-            return parts ? (
-              <>
-                {parts.before}
-                <mark className="film-title">{parts.title}</mark>
-                {parts.after}
-              </>
-            ) : (
-              (displayQ.presentation?.questionText ?? displayQ.question)
-            );
-          })()}
+          {titleParts ? (
+            <>
+              {titleParts.before}
+              <mark className="film-title">{titleParts.title}</mark>
+              {titleParts.after}
+            </>
+          ) : (
+            displayedQuestionText
+          )}
         </h1>
         {!event && (
           <ActorPortrait
@@ -487,7 +491,12 @@ export function QuestionScreen({
           state.settings.questionHistory !== "hidden" &&
           (state.settings.questionHistory === "always" || !!event) &&
           !showReveal && (
-            <QuestionHistory key={q.id} events={state.events} question={q} />
+            <QuestionHistory
+              key={q.id}
+              events={state.events}
+              question={q}
+              currentEventId={event?.id}
+            />
           )}
         {event
           ? !showReveal &&
@@ -589,6 +598,7 @@ export function QuestionScreen({
                   </p>
                 )}
                 <LearningProgress
+                  evidence={learningEvidence}
                   events={state.events}
                   event={event}
                   now={Date.now()}
@@ -634,7 +644,11 @@ export function QuestionScreen({
           <div hidden={!reporting}>
             <IssueReportForm
               key={`${q.id}:${index}`}
-              question={{ id: q.id, version: q.version }}
+              question={{
+                id: q.id,
+                version: q.version,
+                text: displayedQuestionText,
+              }}
             />
           </div>
         </div>

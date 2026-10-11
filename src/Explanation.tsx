@@ -11,7 +11,6 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const film = q.presentation?.film;
   const director = q.presentation?.director;
   const deepContext = q.presentation?.deepContext ?? q.context;
-  const anchor = q.presentation?.anchor ?? q.anchor;
   const sources = [
     ...new Set([
       ...q.sources,
@@ -71,15 +70,6 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
         </details>
       )}
       <FilmDataPanel q={q} />
-      {anchor && (
-        <div className="memory-anchor">
-          <span>✦</span>
-          <p>
-            <small>DEIN MERKSATZ</small>
-            {anchor}
-          </p>
-        </div>
-      )}
       {sources.length > 0 && (
         <details>
           <summary className="illustrated-summary">

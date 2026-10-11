@@ -47,6 +47,12 @@ const item = z.object({
   order: z.array(z.string()).length(4),
   event: stateSchema.shape.events.element,
   before: stateSchema.shape.learning.valueType.nullable().optional(),
+  progress: z.object({
+    previous: stateSchema.shape.learning.valueType.nullable(),
+    current: stateSchema.shape.learning.valueType,
+    resolvedMistake: z.boolean(),
+    firstSolved: z.boolean(),
+  }),
 });
 const response = z.object({
   run: learningRunSchema,

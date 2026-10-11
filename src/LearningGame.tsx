@@ -91,6 +91,7 @@ export function LearningGame({
         <QuestionScreen
           key={`${screen.round.id}:${screen.index}`}
           round={screen.round}
+          learningEvidence={session.items[screen.index]?.progress}
           index={screen.index}
           state={screen.state}
           mutate={mutate}

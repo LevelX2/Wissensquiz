@@ -405,6 +405,8 @@ export class OnlineGameStore {
           this.document = doc;
           this.state = this.copy(reconstructState(doc, [], true));
           next = this.read();
+          if (!options.reuseCatalog)
+            next.questions = structuredClone(next.questions);
           mutator(next);
         }
       }

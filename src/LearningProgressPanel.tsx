@@ -5,21 +5,22 @@ import {
   learningAtAnswer,
   learningDueText,
   nextLearningAt,
+  type LearningEvidence,
 } from "./learningProgress";
 
 export function LearningProgress({
   events,
   event,
   now,
+  evidence,
 }: {
   events: AnswerEvent[];
   event: AnswerEvent;
   now: number;
+  evidence?: LearningEvidence;
 }) {
-  const { previous, current, resolvedMistake } = learningAtAnswer(
-    events,
-    event,
-  );
+  const { previous, current, resolvedMistake } =
+    evidence ?? learningAtAnswer(events, event);
   return (
     <details
       key={event.id}
@@ -38,7 +39,7 @@ export function LearningProgress({
           </span>
         ))}
       </div>
-      <p>{learningAnswerNote(previous, current, event)}</p>
+      <p>{learningAnswerNote(previous ?? undefined, current, event)}</p>
       {resolvedMistake && (
         <p className="learning-error-resolved">Fehler sicher korrigiert.</p>
       )}

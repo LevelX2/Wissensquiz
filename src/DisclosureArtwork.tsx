@@ -1,5 +1,13 @@
 export type DisclosureSubject =
-  "history" | "answers" | "context" | "film" | "sources" | "learning";
+  | "history"
+  | "answers"
+  | "context"
+  | "film"
+  | "sources"
+  | "learning"
+  | "statistics"
+  | "account"
+  | "report";
 
 /** Decorative artwork; the summary text supplies the accessible name. */
 export function DisclosureArtwork({ subject }: { subject: DisclosureSubject }) {

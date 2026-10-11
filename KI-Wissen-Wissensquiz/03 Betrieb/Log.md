@@ -1937,3 +1937,12 @@ Isolierter PostgreSQL 17.11 mit vollständigem Fragenbestand: 16 parallele Zehne
 ### 11.10.2026 – Browser-Kernlauf der Serveroptimierungen vollständig grün
 
 Alle 52 Kernfälle in einem zusammenhängenden Lauf erfolgreich: Chromium 23, Firefox 6 und mobiles WebKit 23 (11,1 min). Zusammen mit den zehn bereits erfolgreichen Posterfällen 62 unterschiedliche Fälle. Frühere unterbrochene Läufe durch diese erfolgreiche Nachprüfung ergänzt, keine Prüfgrenze erhöht. Native Datenbank und deren große temporäre Arbeitsdateien gestoppt/entfernt. Integration und Veröffentlichung warten weiterhin auf die angefragte Übernahme der überschneidenden unfertigen Main-Arbeiten. [Prüfbericht](../../../docs/Pruefbericht.md).
+
+## 11.10.2026 – Vollständiger Fragetext in GitHub-Meldungen vorbereitet
+
+Auf Nutzerwunsch den sichtbaren Fragetext als Pflichtfeld im Fragenbezug und als eigenen Ticketabschnitt „Gemeldete Frage“ ergänzt. Öffentlichen Formularhinweis angepasst, Text im vorhandenen Wiederholungsinhalt und Hash eingefroren; allgemeine Meldungen ohne Fragenabschnitt. UTF-8-Grenzen, HTML-/Erwähnungsentschärfung, fehlende/private Zusatzfelder und Wiederaufnahme geprüft. 482 Tests in 77 Dateien, Build und beide isolierten Formular-Browserfälle erfolgreich. Keine echten Tickets, Nutzerspielstandsänderungen, Abhängigkeitsänderung, Datenbankmigration oder Altentwurf-Anpassung. Lokal auf Main vorbereitet; gemeinsame Veröffentlichung von Website und Function steht aus. [Vertrag und Grenzen](../../docs/GitHub-Meldungen.md#klartext-der-gemeldeten-frage--11102026).
+
+
+### 11.10.2026 – Offenen Profil-/Optionsauftrag für gemeinsame Veröffentlichung abgeschlossen
+
+Nutzer hat die Übernahme und gemeinsame Veröffentlichung ausdrücklich freigegeben. Fünf einheitliche Profilklappen mit drei neuen Motiven, Antwortansicht ohne Merksatz und auf Spieleinstellungen reduzierte Optionen; manuelle Sicherungen und historische Meldungsexporte entfernt. TypeScript, Build und vier responsive Browserfälle erfolgreich. Serverumbau wird anschließend integriert und gemeinsam geprüft. [Profilvertrag](../../../docs/Profilklappen-2026-10-11.md), [Prüfbericht](../../../docs/Pruefbericht.md).
