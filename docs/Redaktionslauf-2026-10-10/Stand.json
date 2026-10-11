@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 4050,
-  "totalReviewed": 4200,
-  "remainingFilmQuestions": 6533,
+  "completedInThisRun": 4100,
+  "totalReviewed": 4250,
+  "remainingFilmQuestions": 6483,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 8573,
+  "remainingAllQuestions": 8523,
   "blocks": [
     {
       "block": 1,
@@ -413,6 +413,11 @@
     {
       "block": 81,
       "path": "Block-81.json",
+      "count": 50
+    },
+    {
+      "block": 82,
+      "path": "Block-82.json",
       "count": 50
     }
   ],
@@ -4616,209 +4621,59 @@
     "WES-M-050",
     "WES-S-049",
     "WES-S-050",
-    "FF-300-YEAR"
+    "FF-300-YEAR",
+    "FF-300-DIRECTOR",
+    "F240-20261006-079-L1",
+    "F240-20261006-079-L2",
+    "F240-20261006-079-M1",
+    "F240-20261006-079-M2",
+    "F240-20261006-079-S1",
+    "F240-20261006-079-S2",
+    "F240-20261006-079-Y",
+    "F240-20261006-079-D",
+    "G100-20261008-ROMCOM-021-L1",
+    "G100-20261008-ROMCOM-021-L2",
+    "G100-20261008-ROMCOM-021-M1",
+    "G100-20261008-ROMCOM-021-M2",
+    "G100-20261008-ROMCOM-021-S1",
+    "G100-20261008-ROMCOM-021-S2",
+    "G100-20261008-ROMCOM-021-Y",
+    "G100-20261008-ROMCOM-021-D",
+    "E20261007-F-087-L1",
+    "E20261007-F-087-L2",
+    "E20261007-F-087-M1",
+    "E20261007-F-087-M2",
+    "E20261007-F-087-S1",
+    "E20261007-F-087-S2",
+    "E20261007-F-087-Y",
+    "E20261007-F-087-D",
+    "SFI-202610-P01-L-013",
+    "SFI-202610-P01-L-014",
+    "SFI-202610-P01-M-019",
+    "SFI-202610-P01-M-020",
+    "SFI-202610-P01-S-019",
+    "SFI-202610-P01-S-020",
+    "SFI-202610-P01-M-021",
+    "SFI-202610-P01-S-021",
+    "SF-L-008",
+    "SF-L-008-V1",
+    "SF-M-008",
+    "SF-M-008-V1",
+    "SF-S-008",
+    "SF-S-008-V1",
+    "FF-133-YEAR",
+    "FF-133-DIRECTOR",
+    "SF-L-020",
+    "SF-M-020",
+    "SF-S-020",
+    "FF-145-YEAR",
+    "FF-145-DIRECTOR",
+    "ADV-202610-P01-L-003",
+    "ADV-202610-P01-L-004",
+    "ADV-202610-P01-M-004",
+    "ADV-202610-P01-M-005"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "FF-300-DIRECTOR",
-      "filmKey": "Il grande silenzio|1968"
-    },
-    {
-      "id": "F240-20261006-079-L1",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-L2",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-M1",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-M2",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-S1",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-S2",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-Y",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-D",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-L1",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-L2",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-M1",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-M2",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-S1",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-S2",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-Y",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-D",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "E20261007-F-087-L1",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-L2",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-M1",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-M2",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-S1",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-S2",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-Y",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-D",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "SFI-202610-P01-L-013",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-L-014",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-M-019",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-M-020",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-S-019",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-S-020",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-M-021",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-S-021",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SF-L-008",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-L-008-V1",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-M-008",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-M-008-V1",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-S-008",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-S-008-V1",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "FF-133-YEAR",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "FF-133-DIRECTOR",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-L-020",
-      "filmKey": "Independence Day|1996"
-    },
-    {
-      "id": "SF-M-020",
-      "filmKey": "Independence Day|1996"
-    },
-    {
-      "id": "SF-S-020",
-      "filmKey": "Independence Day|1996"
-    },
-    {
-      "id": "FF-145-YEAR",
-      "filmKey": "Independence Day|1996"
-    },
-    {
-      "id": "FF-145-DIRECTOR",
-      "filmKey": "Independence Day|1996"
-    },
-    {
-      "id": "ADV-202610-P01-L-003",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
-    {
-      "id": "ADV-202610-P01-L-004",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
-    {
-      "id": "ADV-202610-P01-M-004",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
-    {
-      "id": "ADV-202610-P01-M-005",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
     {
       "id": "ADV-202610-P01-S-004",
       "filmKey": "Indiana Jones and the Last Crusade|1989"
@@ -30754,204 +30609,204 @@
   ],
   "next": [
     {
-      "id": "FF-300-DIRECTOR",
-      "filmKey": "Il grande silenzio|1968"
-    },
-    {
-      "id": "F240-20261006-079-L1",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-L2",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-M1",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-M2",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-S1",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-S2",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-Y",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "F240-20261006-079-D",
-      "filmKey": "Il racconto dei racconti|2015"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-L1",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-L2",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-M1",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-M2",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-S1",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-S2",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-Y",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-021-D",
-      "filmKey": "Im Juli|2000"
-    },
-    {
-      "id": "E20261007-F-087-L1",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-L2",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-M1",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-M2",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-S1",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-S2",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-Y",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "E20261007-F-087-D",
-      "filmKey": "In the Mouth of Madness|1994"
-    },
-    {
-      "id": "SFI-202610-P01-L-013",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-L-014",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-M-019",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-M-020",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-S-019",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-S-020",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-M-021",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SFI-202610-P01-S-021",
-      "filmKey": "In Time|2011"
-    },
-    {
-      "id": "SF-L-008",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-L-008-V1",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-M-008",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-M-008-V1",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-S-008",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-S-008-V1",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "FF-133-YEAR",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "FF-133-DIRECTOR",
-      "filmKey": "Inception|2010"
-    },
-    {
-      "id": "SF-L-020",
-      "filmKey": "Independence Day|1996"
-    },
-    {
-      "id": "SF-M-020",
-      "filmKey": "Independence Day|1996"
-    },
-    {
-      "id": "SF-S-020",
-      "filmKey": "Independence Day|1996"
-    },
-    {
-      "id": "FF-145-YEAR",
-      "filmKey": "Independence Day|1996"
-    },
-    {
-      "id": "FF-145-DIRECTOR",
-      "filmKey": "Independence Day|1996"
-    },
-    {
-      "id": "ADV-202610-P01-L-003",
+      "id": "ADV-202610-P01-S-004",
       "filmKey": "Indiana Jones and the Last Crusade|1989"
     },
     {
-      "id": "ADV-202610-P01-L-004",
+      "id": "ADV-202610-P01-S-005",
       "filmKey": "Indiana Jones and the Last Crusade|1989"
     },
     {
-      "id": "ADV-202610-P01-M-004",
+      "id": "ADV-202610-P01-M-006",
       "filmKey": "Indiana Jones and the Last Crusade|1989"
     },
     {
-      "id": "ADV-202610-P01-M-005",
+      "id": "ADV-202610-P01-S-006",
       "filmKey": "Indiana Jones and the Last Crusade|1989"
+    },
+    {
+      "id": "F240-20261006-001-L1",
+      "filmKey": "Indiana Jones and the Temple of Doom|1984"
+    },
+    {
+      "id": "F240-20261006-001-L2",
+      "filmKey": "Indiana Jones and the Temple of Doom|1984"
+    },
+    {
+      "id": "F240-20261006-001-M1",
+      "filmKey": "Indiana Jones and the Temple of Doom|1984"
+    },
+    {
+      "id": "F240-20261006-001-M2",
+      "filmKey": "Indiana Jones and the Temple of Doom|1984"
+    },
+    {
+      "id": "F240-20261006-001-S1",
+      "filmKey": "Indiana Jones and the Temple of Doom|1984"
+    },
+    {
+      "id": "F240-20261006-001-S2",
+      "filmKey": "Indiana Jones and the Temple of Doom|1984"
+    },
+    {
+      "id": "F240-20261006-001-Y",
+      "filmKey": "Indiana Jones and the Temple of Doom|1984"
+    },
+    {
+      "id": "F240-20261006-001-D",
+      "filmKey": "Indiana Jones and the Temple of Doom|1984"
+    },
+    {
+      "id": "E20261007-F-194-L1",
+      "filmKey": "Indiscreet|1958"
+    },
+    {
+      "id": "E20261007-F-194-L2",
+      "filmKey": "Indiscreet|1958"
+    },
+    {
+      "id": "E20261007-F-194-M1",
+      "filmKey": "Indiscreet|1958"
+    },
+    {
+      "id": "E20261007-F-194-M2",
+      "filmKey": "Indiscreet|1958"
+    },
+    {
+      "id": "E20261007-F-194-S1",
+      "filmKey": "Indiscreet|1958"
+    },
+    {
+      "id": "E20261007-F-194-S2",
+      "filmKey": "Indiscreet|1958"
+    },
+    {
+      "id": "E20261007-F-194-Y",
+      "filmKey": "Indiscreet|1958"
+    },
+    {
+      "id": "E20261007-F-194-D",
+      "filmKey": "Indiscreet|1958"
+    },
+    {
+      "id": "E20261007-F-067-L1",
+      "filmKey": "Inkheart|2008"
+    },
+    {
+      "id": "E20261007-F-067-L2",
+      "filmKey": "Inkheart|2008"
+    },
+    {
+      "id": "E20261007-F-067-M1",
+      "filmKey": "Inkheart|2008"
+    },
+    {
+      "id": "E20261007-F-067-M2",
+      "filmKey": "Inkheart|2008"
+    },
+    {
+      "id": "E20261007-F-067-S1",
+      "filmKey": "Inkheart|2008"
+    },
+    {
+      "id": "E20261007-F-067-S2",
+      "filmKey": "Inkheart|2008"
+    },
+    {
+      "id": "E20261007-F-067-Y",
+      "filmKey": "Inkheart|2008"
+    },
+    {
+      "id": "E20261007-F-067-D",
+      "filmKey": "Inkheart|2008"
+    },
+    {
+      "id": "MUS-202609-P01-L-037",
+      "filmKey": "Inside Llewyn Davis|2013"
+    },
+    {
+      "id": "MUS-202609-P01-L-038",
+      "filmKey": "Inside Llewyn Davis|2013"
+    },
+    {
+      "id": "MUS-202609-P01-M-037",
+      "filmKey": "Inside Llewyn Davis|2013"
+    },
+    {
+      "id": "MUS-202609-P01-M-038",
+      "filmKey": "Inside Llewyn Davis|2013"
+    },
+    {
+      "id": "MUS-202609-P01-S-037",
+      "filmKey": "Inside Llewyn Davis|2013"
+    },
+    {
+      "id": "MUS-202609-P01-S-038",
+      "filmKey": "Inside Llewyn Davis|2013"
+    },
+    {
+      "id": "MUS-202609-P01-M-037-V1",
+      "filmKey": "Inside Llewyn Davis|2013"
+    },
+    {
+      "id": "FF-319-YEAR",
+      "filmKey": "Inside Llewyn Davis|2013"
+    },
+    {
+      "id": "FF-319-DIRECTOR",
+      "filmKey": "Inside Llewyn Davis|2013"
+    },
+    {
+      "id": "G100-20261008-HORROR-016-L1",
+      "filmKey": "Insidious|2010"
+    },
+    {
+      "id": "G100-20261008-HORROR-016-L2",
+      "filmKey": "Insidious|2010"
+    },
+    {
+      "id": "G100-20261008-HORROR-016-M1",
+      "filmKey": "Insidious|2010"
+    },
+    {
+      "id": "G100-20261008-HORROR-016-M2",
+      "filmKey": "Insidious|2010"
+    },
+    {
+      "id": "G100-20261008-HORROR-016-S1",
+      "filmKey": "Insidious|2010"
+    },
+    {
+      "id": "G100-20261008-HORROR-016-S2",
+      "filmKey": "Insidious|2010"
+    },
+    {
+      "id": "G100-20261008-HORROR-016-Y",
+      "filmKey": "Insidious|2010"
+    },
+    {
+      "id": "G100-20261008-HORROR-016-D",
+      "filmKey": "Insidious|2010"
+    },
+    {
+      "id": "E20261007-F-221-L1",
+      "filmKey": "Insomnia|1997"
+    },
+    {
+      "id": "E20261007-F-221-L2",
+      "filmKey": "Insomnia|1997"
+    },
+    {
+      "id": "E20261007-F-221-M1",
+      "filmKey": "Insomnia|1997"
+    },
+    {
+      "id": "E20261007-F-221-M2",
+      "filmKey": "Insomnia|1997"
+    },
+    {
+      "id": "E20261007-F-221-S1",
+      "filmKey": "Insomnia|1997"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
