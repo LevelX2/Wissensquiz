@@ -693,3 +693,111 @@ it("übernimmt eine aktuelle Proberunde nach gezieltem Nachladen genau einmal", 
   expect(api.calls.some((c) => c.name === "quiz_sync_catalog")).toBe(false);
   store.stop();
 });
+
+it("weist alte Schreibpakete für serverseitige Spielstände vollständig ab", async () => {
+  const { api, owner } = await fixture.client();
+  const store = new OnlineGameStore(api, owner, undefined, undefined);
+  await store.open();
+  const before = store.read();
+  const metadata = await api.call<any>("quiz_sync_metadata", {
+    expected_owner: owner,
+  });
+  for (const row of [
+    { kind: "field", id: "catalog", position: 0, value: { parts: [] } },
+    {
+      kind: "field",
+      id: "settings",
+      position: 0,
+      value: { ...before.settings, sound: false },
+    },
+  ]) {
+    await expect(
+      api.call("quiz_sync_apply", {
+        packet_text: JSON.stringify({
+          format: "quiz-entry-sync-v1",
+          protocol: 1,
+          id: crypto.randomUUID(),
+          owner,
+          generation: metadata.generation,
+          expectedRevision: metadata.revision,
+          changes: [{ op: "put", row }],
+          objects: [],
+        }),
+      }),
+    ).rejects.toThrow("obsolete_client");
+  }
+  expect(
+    await api.call("quiz_sync_metadata", { expected_owner: owner }),
+  ).toEqual(metadata);
+  const reopened = new OnlineGameStore(api, owner, undefined, undefined);
+  await reopened.open();
+  expect(reopened.read()).toEqual(before);
+  await reopened.update((s) => {
+    s.settings.sound = false;
+  });
+  expect(reopened.read().settings.sound).toBe(false);
+  expect(api.calls.some((c) => c.name === "quiz_sync_catalog")).toBe(false);
+});
+it("verbietet den Wechsel eines Server-Spielstands zu einer Katalog-Generation", async () => {
+  const { api, owner } = await fixture.client();
+  const store = new OnlineGameStore(api, owner, undefined, undefined);
+  await store.open();
+  const metadata = await api.call<any>("quiz_sync_metadata", {
+    expected_owner: owner,
+  });
+  const target = crypto.randomUUID();
+  await api.call("quiz_sync_begin", {
+    expected_owner: owner,
+    target_generation: target,
+    parent_generation: metadata.generation,
+    expected_revision: metadata.revision,
+  });
+  await api.call("quiz_sync_stage", {
+    expected_owner: owner,
+    target_generation: target,
+    changes: (
+      await fixture.admin(() =>
+        fixture.db.query<any>(
+          "select kind,id,position,value from public.quiz_sync_entries where owner_id=$1 and generation=$2 and not deleted",
+          [owner, metadata.generation],
+        ),
+      )
+    ).rows.map((row) => ({
+      op: "put",
+      row:
+        row.id === "catalog" && row.kind === "field"
+          ? { ...row, value: { parts: [] } }
+          : row,
+    })),
+  });
+  const count = await fixture.admin(() =>
+    fixture.db.query<any>(
+      "select count(*)::integer n from public.quiz_sync_entries where owner_id=$1 and generation=$2",
+      [owner, target],
+    ),
+  );
+  await api.call("quiz_sync_seal", {
+    expected_owner: owner,
+    target_generation: target,
+    row_count: count.rows[0].n,
+    object_count: 0,
+  });
+  await expect(
+    api.call("quiz_sync_activate", {
+      expected_owner: owner,
+      target_generation: target,
+    }),
+  ).rejects.toThrow("invalid_game_format");
+  expect(
+    await api.call("quiz_sync_metadata", { expected_owner: owner }),
+  ).toEqual(metadata);
+  await store.update(
+    (s) => {
+      s.settings.sound = false;
+    },
+    { replace: true },
+  );
+  const reopened = new OnlineGameStore(api, owner, undefined, undefined);
+  await reopened.open();
+  expect(reopened.read().settings.sound).toBe(false);
+});

@@ -1951,3 +1951,10 @@ Nutzer hat die Übernahme und gemeinsame Veröffentlichung ausdrücklich freigeg
 ### 11.10.2026 – Version 67 aus integriertem Main veröffentlicht und Worktree entfernt
 
 Serveroptimierungen, kompakte Lern-/XP-Belege und Profilzähler, Profilklappen, vereinfachte Optionen und Fragetext im Meldungsdienst gemeinsam veröffentlicht. 490 Tests, TypeScript/Build und 63 unterschiedliche Browserfälle nach erfolgreichen Nachprüfungen abgenommen. Sechs Migrationen und 12.787 Fragen aus 132 Teilen produktiv aktiviert; synthetische Zehnerrunde vollständig zurückgerollt. Öffentliche Dateien und Versionsnachweis bestätigt, öffentliche Adresse erhalten. Keine echten Konten zurückgesetzt, keine Altstandkompatibilität ergänzt, kein GitHub-Push. Worktree nach Integration wiederherstellbar archiviert und physisch entfernt; fremder Worktree erhalten. [Nachweis](../../../docs/Veroeffentlichung-2026-10-11-Version-67.json).
+
+
+## 2026-10-11 – Konto-Ladefehler nach Version 67
+
+Alter Schreibendpunkt konnte einen aktuellen Server-Spielstand mit einem Vollkatalogverweis überschreiben. Produktiv abgesichert: alte Schreibpakete für Server-Spielstände abweisen und Aktivierung von Katalog-Generationen verhindern. Formatverweis und unnötige Fragen-ID-Liste kontrolliert korrigiert; alle übrigen Einträge per Hash unverändert, eine Runde und zehn Antworten erhalten. Aktueller Originalclient öffnet produktive Serverantworten ohne Katalogabruf bei 34.595 Bytes Startumfang. Kein Reset und keine Altstandkompatibilität. 492 Tests in 78 Dateien sowie TypeScript und Produktionsbuild erfolgreich. Kein Sites-Neubuild und kein Push. [Nachweis](../../docs/Online-Spielstand-Ladefehler-2026-10-11.md#erneuter-ladefehler-nach-version-67-alter-schreibweg-gesperrt).
+
+Ergänzende Abnahme: drei isolierte Browserfälle in Chromium, Firefox und mobilem WebKit erfolgreich. Wiederaufnahme, zehn Antworten und Neuladen ohne Katalogabruf geprüft; Reset ausschließlich im synthetischen Testkonto.

@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Erneuter Konto-Ladefehler nach Version 67: alter Schreibweg gesperrt, Spielstand ohne Reset repariert](../../../docs/Online-Spielstand-Ladefehler-2026-10-11.md#erneuter-ladefehler-nach-version-67-alter-schreibweg-gesperrt)
+
 - [Version 67: gemeinsamer Main-Stand, Serveroptimierungen und Veröffentlichung nachgewiesen](../../../docs/Veroeffentlichung-2026-10-11-Version-67.json)
 
 - [Weitere Serveroptimierungen seit Version 67 produktiv: einziger aktueller Bestand, begrenzter Start, Statistikdifferenzen, Duellsperren, Ranglistencache und einzelne Poster – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md#weitere-optimierungen-seit-version-67-produktiv)

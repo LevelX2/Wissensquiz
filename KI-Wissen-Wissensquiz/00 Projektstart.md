@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**11.10.2026 – Erneuter Konto-Ladefehler behoben:** Alter Schreibweg für Server-Spielstände gesperrt, beschädigten Formatverweis ohne Zurücksetzen korrigiert. Zehn Antworten erhalten; aktueller Client öffnet produktive Serverantworten ohne Katalogabruf. 492 Tests, Build und drei isolierte Browserfälle erfolgreich. [Befund und Abnahme](../docs/Online-Spielstand-Ladefehler-2026-10-11.md#erneuter-ladefehler-nach-version-67-alter-schreibweg-gesperrt).
+
 **11.10.2026 – Version 67 veröffentlicht:** Serveroptimierungen samt Profil-/Optionsauftrag gemeinsam aus Main veröffentlicht. Sechs Migrationen, genau ein aktueller Fragenbestand, kleine serverseitige Lern-/XP-Belege und Profilzähler; kein erneutes Zurücksetzen echter Konten. 490 Tests, Build und 63 unterschiedliche Browserfälle einschließlich erfolgreicher Nachprüfungen. Produktive synthetische Zehnerrunde vollständig zurückgerollt, Archiv und öffentliche Dateien bestätigt. Worktree nach Integration archiviert und entfernt. [Veröffentlichungsnachweis](../docs/Veroeffentlichung-2026-10-11-Version-67.json).
 
 **11.10.2026 – Fragetext in GitHub-Tickets veröffentlicht:** Fragenmeldungen enthalten den vollständigen sichtbaren Text. Website Version 67 und Meldungsdienst Version 4 gemeinsam veröffentlicht. [Vertrag und Abnahme](../docs/GitHub-Meldungen.md#klartext-der-gemeldeten-frage--11102026).
