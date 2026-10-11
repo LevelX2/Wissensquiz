@@ -1,0 +1,69 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 0,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 7,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Herr Lehmann|2003",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 4,
+        "schwer": 1
+      },
+      "yearReviewed": true,
+      "directorReviewed": true,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    },
+    {
+      "filmKey": "High Noon|1952",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 4,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    13,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21,
+    26,
+    27,
+    28,
+    32,
+    37,
+    41,
+    42,
+    45,
+    46,
+    48,
+    49
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "02e282a47a204c7b2973a38f3187cc4e00759de7d4ed69964ce353deb411f84f",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf",
+  "canonicalDisplayFieldsComplete": true
+}

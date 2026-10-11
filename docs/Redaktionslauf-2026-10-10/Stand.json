@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 3750,
-  "totalReviewed": 3900,
-  "remainingFilmQuestions": 6833,
+  "completedInThisRun": 3800,
+  "totalReviewed": 3950,
+  "remainingFilmQuestions": 6783,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 8873,
+  "remainingAllQuestions": 8823,
   "blocks": [
     {
       "block": 1,
@@ -383,6 +383,11 @@
     {
       "block": 75,
       "path": "Block-75.json",
+      "count": 50
+    },
+    {
+      "block": 76,
+      "path": "Block-76.json",
       "count": 50
     }
   ],
@@ -4286,209 +4291,59 @@
     "SFI-202610-P01-M-008",
     "SFI-202610-P01-S-007",
     "SFI-202610-P01-S-008",
-    "SFI-202610-P01-M-009"
+    "SFI-202610-P01-M-009",
+    "SFI-202610-P01-S-009",
+    "F240-20261006-081-L1",
+    "F240-20261006-081-L2",
+    "F240-20261006-081-M1",
+    "F240-20261006-081-M2",
+    "F240-20261006-081-S1",
+    "F240-20261006-081-S2",
+    "F240-20261006-081-Y",
+    "F240-20261006-081-D",
+    "MAR-L-035",
+    "MAR-L-036",
+    "MAR-M-035",
+    "MAR-M-036",
+    "MAR-S-035",
+    "MAR-S-036",
+    "MAR-L-036-V1",
+    "MAR-M-036-V1",
+    "MAR-S-036-V1",
+    "FF-243-YEAR",
+    "FF-243-DIRECTOR",
+    "E20261007-F-121-L1",
+    "E20261007-F-121-L2",
+    "E20261007-F-121-M1",
+    "E20261007-F-121-M2",
+    "E20261007-F-121-S1",
+    "E20261007-F-121-S2",
+    "E20261007-F-121-Y",
+    "E20261007-F-121-D",
+    "E20261007-F-007-L1",
+    "E20261007-F-007-L2",
+    "E20261007-F-007-M1",
+    "E20261007-F-007-M2",
+    "E20261007-F-007-S1",
+    "E20261007-F-007-S2",
+    "E20261007-F-007-Y",
+    "E20261007-F-007-D",
+    "G100-20261008-ROMCOM-010-L1",
+    "G100-20261008-ROMCOM-010-L2",
+    "G100-20261008-ROMCOM-010-M1",
+    "G100-20261008-ROMCOM-010-M2",
+    "G100-20261008-ROMCOM-010-S1",
+    "G100-20261008-ROMCOM-010-S2",
+    "G100-20261008-ROMCOM-010-Y",
+    "G100-20261008-ROMCOM-010-D",
+    "WES-202610-P01-L-001",
+    "WES-202610-P01-L-002",
+    "WES-202610-P01-M-001",
+    "WES-202610-P01-M-002",
+    "WES-202610-P01-S-001",
+    "WES-202610-P01-S-002"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "SFI-202610-P01-S-009",
-      "filmKey": "Her|2013"
-    },
-    {
-      "id": "F240-20261006-081-L1",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-L2",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-M1",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-M2",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-S1",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-S2",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-Y",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-D",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "MAR-L-035",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-L-036",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-M-035",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-M-036",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-S-035",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-S-036",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-L-036-V1",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-M-036-V1",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-S-036-V1",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "FF-243-YEAR",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "FF-243-DIRECTOR",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "E20261007-F-121-L1",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-L2",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-M1",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-M2",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-S1",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-S2",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-Y",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-D",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-007-L1",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-L2",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-M1",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-M2",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-S1",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-S2",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-Y",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-D",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-L1",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-L2",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-M1",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-M2",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-S1",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-S2",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-Y",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-D",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "WES-202610-P01-L-001",
-      "filmKey": "High Noon|1952"
-    },
-    {
-      "id": "WES-202610-P01-L-002",
-      "filmKey": "High Noon|1952"
-    },
-    {
-      "id": "WES-202610-P01-M-001",
-      "filmKey": "High Noon|1952"
-    },
-    {
-      "id": "WES-202610-P01-M-002",
-      "filmKey": "High Noon|1952"
-    },
-    {
-      "id": "WES-202610-P01-S-001",
-      "filmKey": "High Noon|1952"
-    },
-    {
-      "id": "WES-202610-P01-S-002",
-      "filmKey": "High Noon|1952"
-    },
     {
       "id": "WES-202610-P01-M-003",
       "filmKey": "High Noon|1952"
@@ -31624,204 +31479,204 @@
   ],
   "next": [
     {
-      "id": "SFI-202610-P01-S-009",
-      "filmKey": "Her|2013"
-    },
-    {
-      "id": "F240-20261006-081-L1",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-L2",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-M1",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-M2",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-S1",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-S2",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-Y",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "F240-20261006-081-D",
-      "filmKey": "Hereditary|2018"
-    },
-    {
-      "id": "MAR-L-035",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-L-036",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-M-035",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-M-036",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-S-035",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-S-036",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-L-036-V1",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-M-036-V1",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "MAR-S-036-V1",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "FF-243-YEAR",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "FF-243-DIRECTOR",
-      "filmKey": "Hero|2002"
-    },
-    {
-      "id": "E20261007-F-121-L1",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-L2",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-M1",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-M2",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-S1",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-S2",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-Y",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-121-D",
-      "filmKey": "Herr Lehmann|2003"
-    },
-    {
-      "id": "E20261007-F-007-L1",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-L2",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-M1",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-M2",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-S1",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-S2",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-Y",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "E20261007-F-007-D",
-      "filmKey": "Hidalgo|2004"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-L1",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-L2",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-M1",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-M2",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-S1",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-S2",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-Y",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-010-D",
-      "filmKey": "High Fidelity|2000"
-    },
-    {
-      "id": "WES-202610-P01-L-001",
+      "id": "WES-202610-P01-M-003",
       "filmKey": "High Noon|1952"
     },
     {
-      "id": "WES-202610-P01-L-002",
+      "id": "WES-202610-P01-S-003",
       "filmKey": "High Noon|1952"
     },
     {
-      "id": "WES-202610-P01-M-001",
-      "filmKey": "High Noon|1952"
+      "id": "F240-20261006-232-L1",
+      "filmKey": "High Plains Drifter|1973"
     },
     {
-      "id": "WES-202610-P01-M-002",
-      "filmKey": "High Noon|1952"
+      "id": "F240-20261006-232-L2",
+      "filmKey": "High Plains Drifter|1973"
     },
     {
-      "id": "WES-202610-P01-S-001",
-      "filmKey": "High Noon|1952"
+      "id": "F240-20261006-232-M1",
+      "filmKey": "High Plains Drifter|1973"
     },
     {
-      "id": "WES-202610-P01-S-002",
-      "filmKey": "High Noon|1952"
+      "id": "F240-20261006-232-M2",
+      "filmKey": "High Plains Drifter|1973"
+    },
+    {
+      "id": "F240-20261006-232-S1",
+      "filmKey": "High Plains Drifter|1973"
+    },
+    {
+      "id": "F240-20261006-232-S2",
+      "filmKey": "High Plains Drifter|1973"
+    },
+    {
+      "id": "F240-20261006-232-Y",
+      "filmKey": "High Plains Drifter|1973"
+    },
+    {
+      "id": "F240-20261006-232-D",
+      "filmKey": "High Plains Drifter|1973"
+    },
+    {
+      "id": "G100-20261008-MUSIK-023-L1",
+      "filmKey": "High School Musical 2|2007"
+    },
+    {
+      "id": "G100-20261008-MUSIK-023-L2",
+      "filmKey": "High School Musical 2|2007"
+    },
+    {
+      "id": "G100-20261008-MUSIK-023-M1",
+      "filmKey": "High School Musical 2|2007"
+    },
+    {
+      "id": "G100-20261008-MUSIK-023-M2",
+      "filmKey": "High School Musical 2|2007"
+    },
+    {
+      "id": "G100-20261008-MUSIK-023-S1",
+      "filmKey": "High School Musical 2|2007"
+    },
+    {
+      "id": "G100-20261008-MUSIK-023-S2",
+      "filmKey": "High School Musical 2|2007"
+    },
+    {
+      "id": "G100-20261008-MUSIK-023-Y",
+      "filmKey": "High School Musical 2|2007"
+    },
+    {
+      "id": "G100-20261008-MUSIK-023-D",
+      "filmKey": "High School Musical 2|2007"
+    },
+    {
+      "id": "G100-20261008-MUSIK-024-L1",
+      "filmKey": "High School Musical 3: Senior Year|2008"
+    },
+    {
+      "id": "G100-20261008-MUSIK-024-L2",
+      "filmKey": "High School Musical 3: Senior Year|2008"
+    },
+    {
+      "id": "G100-20261008-MUSIK-024-M1",
+      "filmKey": "High School Musical 3: Senior Year|2008"
+    },
+    {
+      "id": "G100-20261008-MUSIK-024-M2",
+      "filmKey": "High School Musical 3: Senior Year|2008"
+    },
+    {
+      "id": "G100-20261008-MUSIK-024-S1",
+      "filmKey": "High School Musical 3: Senior Year|2008"
+    },
+    {
+      "id": "G100-20261008-MUSIK-024-S2",
+      "filmKey": "High School Musical 3: Senior Year|2008"
+    },
+    {
+      "id": "G100-20261008-MUSIK-024-Y",
+      "filmKey": "High School Musical 3: Senior Year|2008"
+    },
+    {
+      "id": "G100-20261008-MUSIK-024-D",
+      "filmKey": "High School Musical 3: Senior Year|2008"
+    },
+    {
+      "id": "G100-20261008-MUSIK-009-L1",
+      "filmKey": "High Society|1956"
+    },
+    {
+      "id": "G100-20261008-MUSIK-009-L2",
+      "filmKey": "High Society|1956"
+    },
+    {
+      "id": "G100-20261008-MUSIK-009-M1",
+      "filmKey": "High Society|1956"
+    },
+    {
+      "id": "G100-20261008-MUSIK-009-M2",
+      "filmKey": "High Society|1956"
+    },
+    {
+      "id": "G100-20261008-MUSIK-009-S1",
+      "filmKey": "High Society|1956"
+    },
+    {
+      "id": "G100-20261008-MUSIK-009-S2",
+      "filmKey": "High Society|1956"
+    },
+    {
+      "id": "G100-20261008-MUSIK-009-Y",
+      "filmKey": "High Society|1956"
+    },
+    {
+      "id": "G100-20261008-MUSIK-009-D",
+      "filmKey": "High Society|1956"
+    },
+    {
+      "id": "FAN-202610-P01-L-005",
+      "filmKey": "Highlander|1986"
+    },
+    {
+      "id": "FAN-202610-P01-L-006",
+      "filmKey": "Highlander|1986"
+    },
+    {
+      "id": "FAN-202610-P01-M-007",
+      "filmKey": "Highlander|1986"
+    },
+    {
+      "id": "FAN-202610-P01-M-008",
+      "filmKey": "Highlander|1986"
+    },
+    {
+      "id": "FAN-202610-P01-S-007",
+      "filmKey": "Highlander|1986"
+    },
+    {
+      "id": "FAN-202610-P01-S-008",
+      "filmKey": "Highlander|1986"
+    },
+    {
+      "id": "FAN-202610-P01-M-009",
+      "filmKey": "Highlander|1986"
+    },
+    {
+      "id": "FAN-202610-P01-S-009",
+      "filmKey": "Highlander|1986"
+    },
+    {
+      "id": "F240-20261006-162-L1",
+      "filmKey": "His Girl Friday|1940"
+    },
+    {
+      "id": "F240-20261006-162-L2",
+      "filmKey": "His Girl Friday|1940"
+    },
+    {
+      "id": "F240-20261006-162-M1",
+      "filmKey": "His Girl Friday|1940"
+    },
+    {
+      "id": "F240-20261006-162-M2",
+      "filmKey": "His Girl Friday|1940"
+    },
+    {
+      "id": "F240-20261006-162-S1",
+      "filmKey": "His Girl Friday|1940"
+    },
+    {
+      "id": "F240-20261006-162-S2",
+      "filmKey": "His Girl Friday|1940"
+    },
+    {
+      "id": "F240-20261006-162-Y",
+      "filmKey": "His Girl Friday|1940"
+    },
+    {
+      "id": "F240-20261006-162-D",
+      "filmKey": "His Girl Friday|1940"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
