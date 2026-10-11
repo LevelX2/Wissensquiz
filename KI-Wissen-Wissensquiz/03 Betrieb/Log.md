@@ -1854,3 +1854,12 @@ Ausschließlich lesende Produktionsdiagnose belegt Datenbankzeitüberschreitunge
 Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche Ergänzungen und sieben Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Mind→Ghost→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
 
 Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.450 von12.773 Original-IDs geprüft,8.323 offen (6.283 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-86.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-86-Pruefnachweis.json).
+
+
+### 11.10.2026 – Redaktionslauf Block 87
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 26 Vertiefungen geändert, 24 wortgleich bewahrt; 21 Antwortauswahlen und 18 Schwierigkeiten angepasst. 0 Wissensziele ausdrücklich durch neue Frage-/Wissensziel-IDs ersetzt. 5 ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. John Wick: Kapitel 2, John Wick erfüllen die dokumentierten Mindestziele. Offene Gruppen/Entwürfe: John Carter – Zwischen zwei Welten, Tatis Schützenfest, Johnny Guitar – Gejagt, gehaßt, gefürchtet, Jojo Rabbit.
+
+Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche fünf Ergänzungen und sechs Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Ghost→Mind→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.500 von12.773 Original-IDs geprüft,8.273 offen (6.233 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-87.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-87-Pruefnachweis.json).
