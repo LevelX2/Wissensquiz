@@ -1,0 +1,45 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 0,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 7,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Drunken Master|1978",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 3,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    1,
+    4,
+    7,
+    17,
+    25,
+    27,
+    29,
+    31,
+    32,
+    34,
+    38,
+    42,
+    44
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "8e0041f58358cd33dcc5ceb195c4d2b90199d43c72c7468a23b8a6c36b9bd2c2",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf",
+  "canonicalDisplayFieldsComplete": true
+}

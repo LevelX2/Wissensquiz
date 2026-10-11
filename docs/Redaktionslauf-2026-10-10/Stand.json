@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 2650,
-  "totalReviewed": 2800,
-  "remainingFilmQuestions": 7933,
+  "completedInThisRun": 2700,
+  "totalReviewed": 2850,
+  "remainingFilmQuestions": 7883,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 9973,
+  "remainingAllQuestions": 9923,
   "blocks": [
     {
       "block": 1,
@@ -273,6 +273,11 @@
     {
       "block": 53,
       "path": "Block-53.json",
+      "count": 50
+    },
+    {
+      "block": 54,
+      "path": "Block-54.json",
       "count": 50
     }
   ],
@@ -3076,209 +3081,59 @@
     "F240-20261006-026-M1",
     "F240-20261006-026-M2",
     "F240-20261006-026-S1",
-    "F240-20261006-026-S2"
+    "F240-20261006-026-S2",
+    "F240-20261006-026-Y",
+    "F240-20261006-026-D",
+    "E20261007-F-132-L1",
+    "E20261007-F-132-L2",
+    "E20261007-F-132-M1",
+    "E20261007-F-132-M2",
+    "E20261007-F-132-S1",
+    "E20261007-F-132-S2",
+    "E20261007-F-132-Y",
+    "E20261007-F-132-D",
+    "E20261007-F-232-L1",
+    "E20261007-F-232-L2",
+    "E20261007-F-232-M1",
+    "E20261007-F-232-M2",
+    "E20261007-F-232-S1",
+    "E20261007-F-232-S2",
+    "E20261007-F-232-Y",
+    "E20261007-F-232-D",
+    "F240-20261006-216-L1",
+    "F240-20261006-216-L2",
+    "F240-20261006-216-M1",
+    "F240-20261006-216-M2",
+    "F240-20261006-216-S1",
+    "F240-20261006-216-S2",
+    "F240-20261006-216-Y",
+    "F240-20261006-216-D",
+    "F240-20261006-190-L1",
+    "F240-20261006-190-L2",
+    "F240-20261006-190-M1",
+    "F240-20261006-190-M2",
+    "F240-20261006-190-S1",
+    "F240-20261006-190-S2",
+    "F240-20261006-190-Y",
+    "F240-20261006-190-D",
+    "MAR-L-005",
+    "MAR-L-006",
+    "MAR-M-005",
+    "MAR-M-006",
+    "MAR-S-005",
+    "MAR-S-006",
+    "MAR-L-006-V1",
+    "MAR-M-006-V1",
+    "MAR-S-006-V1",
+    "FF-228-YEAR",
+    "FF-228-DIRECTOR",
+    "MAR-L-003",
+    "MAR-L-004",
+    "MAR-M-003",
+    "MAR-M-004",
+    "MAR-S-003"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-026-Y",
-      "filmKey": "Dredd|2012"
-    },
-    {
-      "id": "F240-20261006-026-D",
-      "filmKey": "Dredd|2012"
-    },
-    {
-      "id": "E20261007-F-132-L1",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-L2",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-M1",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-M2",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-S1",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-S2",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-Y",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-D",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-232-L1",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-L2",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-M1",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-M2",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-S1",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-S2",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-Y",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-D",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "F240-20261006-216-L1",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-L2",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-M1",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-M2",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-S1",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-S2",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-Y",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-D",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-190-L1",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-L2",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-M1",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-M2",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-S1",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-S2",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-Y",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-D",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "MAR-L-005",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-L-006",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-M-005",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-M-006",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-S-005",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-S-006",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-L-006-V1",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-M-006-V1",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-S-006-V1",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "FF-228-YEAR",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "FF-228-DIRECTOR",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-L-003",
-      "filmKey": "Drunken Master|1978"
-    },
-    {
-      "id": "MAR-L-004",
-      "filmKey": "Drunken Master|1978"
-    },
-    {
-      "id": "MAR-M-003",
-      "filmKey": "Drunken Master|1978"
-    },
-    {
-      "id": "MAR-M-004",
-      "filmKey": "Drunken Master|1978"
-    },
-    {
-      "id": "MAR-S-003",
-      "filmKey": "Drunken Master|1978"
-    },
     {
       "id": "MAR-S-004",
       "filmKey": "Drunken Master|1978"
@@ -34814,204 +34669,204 @@
   ],
   "next": [
     {
-      "id": "F240-20261006-026-Y",
-      "filmKey": "Dredd|2012"
-    },
-    {
-      "id": "F240-20261006-026-D",
-      "filmKey": "Dredd|2012"
-    },
-    {
-      "id": "E20261007-F-132-L1",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-L2",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-M1",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-M2",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-S1",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-S2",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-Y",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-132-D",
-      "filmKey": "Drei Männer im Schnee|1955"
-    },
-    {
-      "id": "E20261007-F-232-L1",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-L2",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-M1",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-M2",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-S1",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-S2",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-Y",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "E20261007-F-232-D",
-      "filmKey": "Dressed to Kill|1980"
-    },
-    {
-      "id": "F240-20261006-216-L1",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-L2",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-M1",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-M2",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-S1",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-S2",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-Y",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-216-D",
-      "filmKey": "Drive|2011"
-    },
-    {
-      "id": "F240-20261006-190-L1",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-L2",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-M1",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-M2",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-S1",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-S2",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-Y",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "F240-20261006-190-D",
-      "filmKey": "Droste no hate de bokura|2020"
-    },
-    {
-      "id": "MAR-L-005",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-L-006",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-M-005",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-M-006",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-S-005",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-S-006",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-L-006-V1",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-M-006-V1",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-S-006-V1",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "FF-228-YEAR",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "FF-228-DIRECTOR",
-      "filmKey": "Drunken Master II|1994"
-    },
-    {
-      "id": "MAR-L-003",
+      "id": "MAR-S-004",
       "filmKey": "Drunken Master|1978"
     },
     {
-      "id": "MAR-L-004",
+      "id": "FF-227-YEAR",
       "filmKey": "Drunken Master|1978"
     },
     {
-      "id": "MAR-M-003",
+      "id": "FF-227-DIRECTOR",
       "filmKey": "Drunken Master|1978"
     },
     {
-      "id": "MAR-M-004",
-      "filmKey": "Drunken Master|1978"
+      "id": "E20261007-F-256-L1",
+      "filmKey": "Du rififi chez les hommes|1955"
     },
     {
-      "id": "MAR-S-003",
-      "filmKey": "Drunken Master|1978"
+      "id": "E20261007-F-256-L2",
+      "filmKey": "Du rififi chez les hommes|1955"
+    },
+    {
+      "id": "E20261007-F-256-M1",
+      "filmKey": "Du rififi chez les hommes|1955"
+    },
+    {
+      "id": "E20261007-F-256-M2",
+      "filmKey": "Du rififi chez les hommes|1955"
+    },
+    {
+      "id": "E20261007-F-256-S1",
+      "filmKey": "Du rififi chez les hommes|1955"
+    },
+    {
+      "id": "E20261007-F-256-S2",
+      "filmKey": "Du rififi chez les hommes|1955"
+    },
+    {
+      "id": "E20261007-F-256-Y",
+      "filmKey": "Du rififi chez les hommes|1955"
+    },
+    {
+      "id": "E20261007-F-256-D",
+      "filmKey": "Du rififi chez les hommes|1955"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-004-L1",
+      "filmKey": "Dubei dao|1967"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-004-L2",
+      "filmKey": "Dubei dao|1967"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-004-M1",
+      "filmKey": "Dubei dao|1967"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-004-M2",
+      "filmKey": "Dubei dao|1967"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-004-S1",
+      "filmKey": "Dubei dao|1967"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-004-S2",
+      "filmKey": "Dubei dao|1967"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-004-Y",
+      "filmKey": "Dubei dao|1967"
+    },
+    {
+      "id": "G100-20261008-MARTIALARTS-004-D",
+      "filmKey": "Dubei dao|1967"
+    },
+    {
+      "id": "KOM-202609-P02-L-005",
+      "filmKey": "Dumb and Dumber|1994"
+    },
+    {
+      "id": "KOM-202609-P02-L-006",
+      "filmKey": "Dumb and Dumber|1994"
+    },
+    {
+      "id": "KOM-202609-P02-M-005",
+      "filmKey": "Dumb and Dumber|1994"
+    },
+    {
+      "id": "KOM-202609-P02-M-006",
+      "filmKey": "Dumb and Dumber|1994"
+    },
+    {
+      "id": "KOM-202609-P02-S-005",
+      "filmKey": "Dumb and Dumber|1994"
+    },
+    {
+      "id": "KOM-202609-P02-S-006",
+      "filmKey": "Dumb and Dumber|1994"
+    },
+    {
+      "id": "KOM-202609-P02-L-005-V1",
+      "filmKey": "Dumb and Dumber|1994"
+    },
+    {
+      "id": "KOM-202609-P02-S-006-V1",
+      "filmKey": "Dumb and Dumber|1994"
+    },
+    {
+      "id": "FF-378-YEAR",
+      "filmKey": "Dumb and Dumber|1994"
+    },
+    {
+      "id": "FF-378-DIRECTOR",
+      "filmKey": "Dumb and Dumber|1994"
+    },
+    {
+      "id": "F240-20261006-182-L1",
+      "filmKey": "Dune: Part Two|2024"
+    },
+    {
+      "id": "F240-20261006-182-L2",
+      "filmKey": "Dune: Part Two|2024"
+    },
+    {
+      "id": "F240-20261006-182-M1",
+      "filmKey": "Dune: Part Two|2024"
+    },
+    {
+      "id": "F240-20261006-182-M2",
+      "filmKey": "Dune: Part Two|2024"
+    },
+    {
+      "id": "F240-20261006-182-S1",
+      "filmKey": "Dune: Part Two|2024"
+    },
+    {
+      "id": "F240-20261006-182-S2",
+      "filmKey": "Dune: Part Two|2024"
+    },
+    {
+      "id": "F240-20261006-182-Y",
+      "filmKey": "Dune: Part Two|2024"
+    },
+    {
+      "id": "F240-20261006-182-D",
+      "filmKey": "Dune: Part Two|2024"
+    },
+    {
+      "id": "SFI-202610-P01-L-001",
+      "filmKey": "Dune|1984"
+    },
+    {
+      "id": "SFI-202610-P01-L-002",
+      "filmKey": "Dune|1984"
+    },
+    {
+      "id": "SFI-202610-P01-M-001",
+      "filmKey": "Dune|1984"
+    },
+    {
+      "id": "SFI-202610-P01-M-002",
+      "filmKey": "Dune|1984"
+    },
+    {
+      "id": "SFI-202610-P01-S-001",
+      "filmKey": "Dune|1984"
+    },
+    {
+      "id": "SFI-202610-P01-S-002",
+      "filmKey": "Dune|1984"
+    },
+    {
+      "id": "SFI-202610-P01-M-003",
+      "filmKey": "Dune|1984"
+    },
+    {
+      "id": "SFI-202610-P01-S-003",
+      "filmKey": "Dune|1984"
+    },
+    {
+      "id": "F240-20261006-181-L1",
+      "filmKey": "Dune|2021"
+    },
+    {
+      "id": "F240-20261006-181-L2",
+      "filmKey": "Dune|2021"
+    },
+    {
+      "id": "F240-20261006-181-M1",
+      "filmKey": "Dune|2021"
+    },
+    {
+      "id": "F240-20261006-181-M2",
+      "filmKey": "Dune|2021"
+    },
+    {
+      "id": "F240-20261006-181-S1",
+      "filmKey": "Dune|2021"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
