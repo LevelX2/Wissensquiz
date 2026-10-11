@@ -1,11 +1,11 @@
 {
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
-  "totalReviewed": 5200,
-  "remainingFilmQuestions": 5533,
+  "totalReviewed": 5250,
+  "remainingFilmQuestions": 5483,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 7573,
-  "lastCompletedBlock": 101,
+  "remainingAllQuestions": 7523,
+  "lastCompletedBlock": 102,
   "reviewedIds": [
     "ART-L-017",
     "ACT-M-025",
@@ -5206,209 +5206,59 @@
     "G100-20261008-MARTIALARTS-005-M1",
     "G100-20261008-MARTIALARTS-005-M2",
     "G100-20261008-MARTIALARTS-005-S1",
-    "G100-20261008-MARTIALARTS-005-S2"
+    "G100-20261008-MARTIALARTS-005-S2",
+    "G100-20261008-MARTIALARTS-005-Y",
+    "G100-20261008-MARTIALARTS-005-D",
+    "SF-L-047",
+    "SF-M-047",
+    "SF-S-047",
+    "FF-172-YEAR",
+    "FF-172-DIRECTOR",
+    "F240-20261006-189-L1",
+    "F240-20261006-189-L2",
+    "F240-20261006-189-M1",
+    "F240-20261006-189-M2",
+    "F240-20261006-189-S1",
+    "F240-20261006-189-S2",
+    "F240-20261006-189-Y",
+    "F240-20261006-189-D",
+    "ART-L-023",
+    "ART-L-024",
+    "ART-M-023",
+    "ART-M-024",
+    "ART-S-023",
+    "ART-S-024",
+    "FF-037-YEAR",
+    "FF-037-DIRECTOR",
+    "E20261007-F-241-L1",
+    "E20261007-F-241-L2",
+    "E20261007-F-241-M1",
+    "E20261007-F-241-M2",
+    "E20261007-F-241-S1",
+    "E20261007-F-241-S2",
+    "E20261007-F-241-Y",
+    "E20261007-F-241-D",
+    "G100-20261008-ROMCOM-017-L1",
+    "G100-20261008-ROMCOM-017-L2",
+    "G100-20261008-ROMCOM-017-M1",
+    "G100-20261008-ROMCOM-017-M2",
+    "G100-20261008-ROMCOM-017-S1",
+    "G100-20261008-ROMCOM-017-S2",
+    "G100-20261008-ROMCOM-017-Y",
+    "G100-20261008-ROMCOM-017-D",
+    "ROM-L-039",
+    "ROM-L-040",
+    "ROM-M-039",
+    "ROM-M-040",
+    "ROM-S-039",
+    "ROM-S-040",
+    "FF-270-YEAR",
+    "FF-270-DIRECTOR",
+    "G100-20261008-ROMCOM-020-L1",
+    "G100-20261008-ROMCOM-020-L2",
+    "G100-20261008-ROMCOM-020-M1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "G100-20261008-MARTIALARTS-005-Y",
-      "filmKey": "Long men ke zhan|1967"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-005-D",
-      "filmKey": "Long men ke zhan|1967"
-    },
-    {
-      "id": "SF-L-047",
-      "filmKey": "Looper|2012"
-    },
-    {
-      "id": "SF-M-047",
-      "filmKey": "Looper|2012"
-    },
-    {
-      "id": "SF-S-047",
-      "filmKey": "Looper|2012"
-    },
-    {
-      "id": "FF-172-YEAR",
-      "filmKey": "Looper|2012"
-    },
-    {
-      "id": "FF-172-DIRECTOR",
-      "filmKey": "Looper|2012"
-    },
-    {
-      "id": "F240-20261006-189-L1",
-      "filmKey": "Los cronocrímenes|2007"
-    },
-    {
-      "id": "F240-20261006-189-L2",
-      "filmKey": "Los cronocrímenes|2007"
-    },
-    {
-      "id": "F240-20261006-189-M1",
-      "filmKey": "Los cronocrímenes|2007"
-    },
-    {
-      "id": "F240-20261006-189-M2",
-      "filmKey": "Los cronocrímenes|2007"
-    },
-    {
-      "id": "F240-20261006-189-S1",
-      "filmKey": "Los cronocrímenes|2007"
-    },
-    {
-      "id": "F240-20261006-189-S2",
-      "filmKey": "Los cronocrímenes|2007"
-    },
-    {
-      "id": "F240-20261006-189-Y",
-      "filmKey": "Los cronocrímenes|2007"
-    },
-    {
-      "id": "F240-20261006-189-D",
-      "filmKey": "Los cronocrímenes|2007"
-    },
-    {
-      "id": "ART-L-023",
-      "filmKey": "Lost Highway|1997"
-    },
-    {
-      "id": "ART-L-024",
-      "filmKey": "Lost Highway|1997"
-    },
-    {
-      "id": "ART-M-023",
-      "filmKey": "Lost Highway|1997"
-    },
-    {
-      "id": "ART-M-024",
-      "filmKey": "Lost Highway|1997"
-    },
-    {
-      "id": "ART-S-023",
-      "filmKey": "Lost Highway|1997"
-    },
-    {
-      "id": "ART-S-024",
-      "filmKey": "Lost Highway|1997"
-    },
-    {
-      "id": "FF-037-YEAR",
-      "filmKey": "Lost Highway|1997"
-    },
-    {
-      "id": "FF-037-DIRECTOR",
-      "filmKey": "Lost Highway|1997"
-    },
-    {
-      "id": "E20261007-F-241-L1",
-      "filmKey": "Lost Horizon|1937"
-    },
-    {
-      "id": "E20261007-F-241-L2",
-      "filmKey": "Lost Horizon|1937"
-    },
-    {
-      "id": "E20261007-F-241-M1",
-      "filmKey": "Lost Horizon|1937"
-    },
-    {
-      "id": "E20261007-F-241-M2",
-      "filmKey": "Lost Horizon|1937"
-    },
-    {
-      "id": "E20261007-F-241-S1",
-      "filmKey": "Lost Horizon|1937"
-    },
-    {
-      "id": "E20261007-F-241-S2",
-      "filmKey": "Lost Horizon|1937"
-    },
-    {
-      "id": "E20261007-F-241-Y",
-      "filmKey": "Lost Horizon|1937"
-    },
-    {
-      "id": "E20261007-F-241-D",
-      "filmKey": "Lost Horizon|1937"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-017-L1",
-      "filmKey": "Love & Other Drugs|2010"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-017-L2",
-      "filmKey": "Love & Other Drugs|2010"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-017-M1",
-      "filmKey": "Love & Other Drugs|2010"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-017-M2",
-      "filmKey": "Love & Other Drugs|2010"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-017-S1",
-      "filmKey": "Love & Other Drugs|2010"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-017-S2",
-      "filmKey": "Love & Other Drugs|2010"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-017-Y",
-      "filmKey": "Love & Other Drugs|2010"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-017-D",
-      "filmKey": "Love & Other Drugs|2010"
-    },
-    {
-      "id": "ROM-L-039",
-      "filmKey": "Love Actually|2003"
-    },
-    {
-      "id": "ROM-L-040",
-      "filmKey": "Love Actually|2003"
-    },
-    {
-      "id": "ROM-M-039",
-      "filmKey": "Love Actually|2003"
-    },
-    {
-      "id": "ROM-M-040",
-      "filmKey": "Love Actually|2003"
-    },
-    {
-      "id": "ROM-S-039",
-      "filmKey": "Love Actually|2003"
-    },
-    {
-      "id": "ROM-S-040",
-      "filmKey": "Love Actually|2003"
-    },
-    {
-      "id": "FF-270-YEAR",
-      "filmKey": "Love Actually|2003"
-    },
-    {
-      "id": "FF-270-DIRECTOR",
-      "filmKey": "Love Actually|2003"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-020-L1",
-      "filmKey": "Love, Rosie|2014"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-020-L2",
-      "filmKey": "Love, Rosie|2014"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-020-M1",
-      "filmKey": "Love, Rosie|2014"
-    },
     {
       "id": "G100-20261008-ROMCOM-020-M2",
       "filmKey": "Love, Rosie|2014"
