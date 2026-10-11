@@ -1822,3 +1822,12 @@ Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowi
 ### 11.10.2026 – Rollenhinweise bei Besetzungsfragen
 
 Nutzerpräzisierung unverändert gesichert und im führenden Redaktionsvertrag sowie in Quelle und Installation des Fragenredaktionsskills verankert: Figuren durch eine knappe, passende Rolle oder ein prägnantes Merkmal wiedererkennbar machen; gesuchten Darsteller verborgen halten und keine feste Formschablone erzwingen. Für DRA-L-003 zu John Coffey quellengeprüften Alt/Neu-Vorschlag mit allen Originaloptionen dokumentiert. Noch keine App-Integration; keine zusätzliche Original-ID als vollständig geprüft gezählt. [Regel und konkreter Nachweis](../../docs/Fragenkorrekturen.md#rollenhinweise-bei-besetzungsfragen--11102026).
+
+
+### 11.10.2026 – Redaktionslauf Block 84
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 22 Vertiefungen geändert, 28 wortgleich bewahrt; 21 Antwortauswahlen und 15 Schwierigkeiten angepasst. 0 Wissensziele ausdrücklich durch neue Frage-/Wissensziel-IDs ersetzt. 13 ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. Into the Wild, Ziemlich beste Freunde, Interstellar, Interview mit einem Vampir, Insomnia – Todesschlaf, Die Körperfresser kommen erfüllen die dokumentierten Mindestziele. Offene Gruppen/Entwürfe: Ip Man.
+
+Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche Ergänzungen und sieben Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Mind→Ghost→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.350 von12.773 Original-IDs geprüft,8.423 offen (6.383 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-84.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-84-Pruefnachweis.json).
