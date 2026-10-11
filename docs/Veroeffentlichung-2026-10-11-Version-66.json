@@ -54,7 +54,8 @@
     "physicalIphoneTest": false,
     "multiplayerLoadTest": false,
     "liveFilesByteIdentical": 14,
-    "liveHtmlSourceMatchesAfterCloudflareInjectionRemoval": true
+    "liveHtmlSourceMatchesAfterCloudflareInjectionRemoval": true,
+    "nativeBrowserHandoffRequested": true
   },
   "databaseMeasurements": {
     "mean_answer_ms": 2.441,
@@ -238,5 +239,16 @@
       "sha256": "49846a6c75ab5443f182ebeef7ff4717ab988e7f6ff21ac7105e5f557113492d",
       "installed": true
     }
-  ]
+  ],
+  "nativeBrowserHandoffStatus": "queued",
+  "localIntegrationVerification": {
+    "mergedMainCommit": "d5a9b4645b106ed5708f68f8acfdcbff01b1e47c",
+    "verifiedCommit": "6aaef7bbd60bb5d8e5ca244daa5212b43d0c5cea",
+    "tests": 480,
+    "testFiles": 77,
+    "durationSeconds": 200.46,
+    "applicationAndSqlMatchPublishedSource": true,
+    "typeScript": true,
+    "diffCheck": true
+  }
 }
