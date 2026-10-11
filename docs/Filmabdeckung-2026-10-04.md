@@ -110,3 +110,10 @@ node tmp-film-coverage/analyze.mjs
 ```
 
 Der Befehl aktualisiert den datierten JSON-Nachweis ausdrücklich; den historischen Snapshot bei späteren Analysen erhalten und dafür einen neuen Ausgabestand verwenden.
+
+
+## Nachprüfung am 11.10.2026: Abenteuer und unveränderte Kurzschwellen
+
+Der aktuelle produktive Filmfragenbestand enthält für Abenteuer **802 unterschiedliche Wissensziele**: 203 leichte, 387 mittlere und 212 schwere; 805 Fragevarianten insgesamt. Die Kuratierung in `src/journeyCurriculum.json` und der produktive Serverplan verwenden weiterhin `difficultyTargets: [2, 2]`. Mittel öffnet nach zwei sicher richtig beantworteten unterschiedlichen leichten Zielen aus abgeschlossenen Runden; Schwer nach zusätzlich zwei solchen mittleren Zielen. Wiederholungen und geratene Treffer erhöhen diese Zähler nicht. Die sicheren Ersttreffer genügen; eine höhere Lernstufe ist keine zusätzliche Voraussetzung.
+
+Damit ist eine Schwer-Freischaltung schon innerhalb zweier Zehnerrunden möglich. Die geringe Schwelle stammt aus dem früheren kleinen Bestand und wurde bei Erweiterungen sowie der Serverumstellung beibehalten. Sie hängt nicht von der heutigen Gesamtzahl der Abenteuerfragen ab. Die Schwierigkeitsfreigabe und die Freigabe der Filmgruppen sind getrennt. Der bereits oben dokumentierte Bedarf, die Freischaltkurve gesondert zu prüfen, besteht weiterhin. Diese Nachprüfung ändert keine Spielregel und keinen Spielstand; persönliche Kontoinhalte wurden nicht in diesen Nachweis übernommen. Quelle: aktueller Quellplan und ausschließlich lesende produktive SQL-Aggregate am 11.10.2026.
