@@ -63,9 +63,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 57: vollständiger Alt/Neu-Vergleich](Block-57.md) und [strukturierter Nachweis](Block-57.json): 50 Fragen, 34 Vertiefungen geändert, 16 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 58: vollständiger Alt/Neu-Vergleich](Block-58.md) und [strukturierter Nachweis](Block-58.json): 50 Fragen, 30 Vertiefungen geändert, 20 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 59: vollständiger Alt/Neu-Vergleich](Block-59.md) und [strukturierter Nachweis](Block-59.json): 50 Fragen, 28 Vertiefungen geändert, 22 erhalten, 0 Fragen vollständig unverändert; 7 von 7 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 3100 von 12.773 IDs redaktionell erfasst.
-- Offen: 7633 Filmfragen und 2040 weitere Fragen; zusammen 9673. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 59 schließt Event Horizon mit vier Vorblocktexten ab und prüft Everest, Everything Everywhere All at Once, Evil Dead II, Evita, Ex Machina und Executive Decision vollständig. Drei bestehende Subagenten recherchieren und prüfen andere Filmgruppen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Gute Vertiefungen bleiben erhalten; Einzelabrufe erhalten ehrliche Schwierigkeiten. Keine App-Integration durch diesen Block.
+- [Block 60: vollständiger Alt/Neu-Vergleich](Block-60.md) und [strukturierter Nachweis](Block-60.json): 50 Fragen, 25 Vertiefungen geändert, 25 erhalten, 0 Fragen vollständig unverändert; 5 von 6 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 3150 von 12.773 IDs redaktionell erfasst.
+- Offen: 7583 Filmfragen und 2040 weitere Fragen; zusammen 9623. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 60 prüft eXistenZ, Extraction, Fa yeung nin wa, Face/Off und Fame vollständig. Fantômas beginnt mit sieben Originalen; seine Regiefrage bleibt für Block 61 offen. Drei bestehende Subagenten recherchieren und prüfen andere Filmgruppen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Gute Vertiefungen bleiben erhalten; Einzelabrufe erhalten ehrliche Schwierigkeiten. Keine App-Integration durch diesen Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 
