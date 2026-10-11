@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 4000,
-  "totalReviewed": 4150,
-  "remainingFilmQuestions": 6583,
+  "completedInThisRun": 4050,
+  "totalReviewed": 4200,
+  "remainingFilmQuestions": 6533,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 8623,
+  "remainingAllQuestions": 8573,
   "blocks": [
     {
       "block": 1,
@@ -408,6 +408,11 @@
     {
       "block": 80,
       "path": "Block-80.json",
+      "count": 50
+    },
+    {
+      "block": 81,
+      "path": "Block-81.json",
       "count": 50
     }
   ],
@@ -4561,209 +4566,59 @@
     "E20261007-F-197-S2",
     "E20261007-F-197-Y",
     "E20261007-F-197-D",
-    "SF-202609-P02-L-051"
+    "SF-202609-P02-L-051",
+    "SF-202609-P02-L-052",
+    "SF-202609-P02-M-051",
+    "SF-202609-P02-M-052",
+    "SF-202609-P02-S-051",
+    "SF-202609-P02-S-052",
+    "SF-202609-P02-M-051-V1",
+    "FF-351-YEAR",
+    "FF-351-DIRECTOR",
+    "E20261007-F-158-L1",
+    "E20261007-F-158-L2",
+    "E20261007-F-158-M1",
+    "E20261007-F-158-M2",
+    "E20261007-F-158-S1",
+    "E20261007-F-158-S2",
+    "E20261007-F-158-Y",
+    "E20261007-F-158-D",
+    "E20261007-F-230-L1",
+    "E20261007-F-230-L2",
+    "E20261007-F-230-M1",
+    "E20261007-F-230-M2",
+    "E20261007-F-230-S1",
+    "E20261007-F-230-S2",
+    "E20261007-F-230-Y",
+    "E20261007-F-230-D",
+    "WES-L-005",
+    "WES-L-006",
+    "WES-M-005",
+    "WES-M-006",
+    "WES-S-005",
+    "WES-S-006",
+    "WES-L-006-V1",
+    "WES-M-006-V1",
+    "WES-S-006-V1",
+    "FF-278-YEAR",
+    "FF-278-DIRECTOR",
+    "E20261007-F-262-L1",
+    "E20261007-F-262-L2",
+    "E20261007-F-262-M1",
+    "E20261007-F-262-M2",
+    "E20261007-F-262-S1",
+    "E20261007-F-262-S2",
+    "E20261007-F-262-Y",
+    "E20261007-F-262-D",
+    "WES-L-049",
+    "WES-L-050",
+    "WES-M-049",
+    "WES-M-050",
+    "WES-S-049",
+    "WES-S-050",
+    "FF-300-YEAR"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "SF-202609-P02-L-052",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "SF-202609-P02-M-051",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "SF-202609-P02-M-052",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "SF-202609-P02-S-051",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "SF-202609-P02-S-052",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "SF-202609-P02-M-051-V1",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "FF-351-YEAR",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "FF-351-DIRECTOR",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "E20261007-F-158-L1",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-L2",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-M1",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-M2",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-S1",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-S2",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-Y",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-D",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-230-L1",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-L2",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-M1",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-M2",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-S1",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-S2",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-Y",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-D",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "WES-L-005",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-L-006",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-M-005",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-M-006",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-S-005",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-S-006",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-L-006-V1",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-M-006-V1",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-S-006-V1",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "FF-278-YEAR",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "FF-278-DIRECTOR",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "E20261007-F-262-L1",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-L2",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-M1",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-M2",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-S1",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-S2",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-Y",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-D",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "WES-L-049",
-      "filmKey": "Il grande silenzio|1968"
-    },
-    {
-      "id": "WES-L-050",
-      "filmKey": "Il grande silenzio|1968"
-    },
-    {
-      "id": "WES-M-049",
-      "filmKey": "Il grande silenzio|1968"
-    },
-    {
-      "id": "WES-M-050",
-      "filmKey": "Il grande silenzio|1968"
-    },
-    {
-      "id": "WES-S-049",
-      "filmKey": "Il grande silenzio|1968"
-    },
-    {
-      "id": "WES-S-050",
-      "filmKey": "Il grande silenzio|1968"
-    },
-    {
-      "id": "FF-300-YEAR",
-      "filmKey": "Il grande silenzio|1968"
-    },
     {
       "id": "FF-300-DIRECTOR",
       "filmKey": "Il grande silenzio|1968"
@@ -30899,204 +30754,204 @@
   ],
   "next": [
     {
-      "id": "SF-202609-P02-L-052",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "SF-202609-P02-M-051",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "SF-202609-P02-M-052",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "SF-202609-P02-S-051",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "SF-202609-P02-S-052",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "SF-202609-P02-M-051-V1",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "FF-351-YEAR",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "FF-351-DIRECTOR",
-      "filmKey": "I, Robot|2004"
-    },
-    {
-      "id": "E20261007-F-158-L1",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-L2",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-M1",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-M2",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-S1",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-S2",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-Y",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-158-D",
-      "filmKey": "Ichimei|2011"
-    },
-    {
-      "id": "E20261007-F-230-L1",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-L2",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-M1",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-M2",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-S1",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-S2",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-Y",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "E20261007-F-230-D",
-      "filmKey": "Identity|2003"
-    },
-    {
-      "id": "WES-L-005",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-L-006",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-M-005",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-M-006",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-S-005",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-S-006",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-L-006-V1",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-M-006-V1",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "WES-S-006-V1",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "FF-278-YEAR",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "FF-278-DIRECTOR",
-      "filmKey": "Il buono, il brutto, il cattivo|1966"
-    },
-    {
-      "id": "E20261007-F-262-L1",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-L2",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-M1",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-M2",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-S1",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-S2",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-Y",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "E20261007-F-262-D",
-      "filmKey": "Il Gattopardo|1963"
-    },
-    {
-      "id": "WES-L-049",
+      "id": "FF-300-DIRECTOR",
       "filmKey": "Il grande silenzio|1968"
     },
     {
-      "id": "WES-L-050",
-      "filmKey": "Il grande silenzio|1968"
+      "id": "F240-20261006-079-L1",
+      "filmKey": "Il racconto dei racconti|2015"
     },
     {
-      "id": "WES-M-049",
-      "filmKey": "Il grande silenzio|1968"
+      "id": "F240-20261006-079-L2",
+      "filmKey": "Il racconto dei racconti|2015"
     },
     {
-      "id": "WES-M-050",
-      "filmKey": "Il grande silenzio|1968"
+      "id": "F240-20261006-079-M1",
+      "filmKey": "Il racconto dei racconti|2015"
     },
     {
-      "id": "WES-S-049",
-      "filmKey": "Il grande silenzio|1968"
+      "id": "F240-20261006-079-M2",
+      "filmKey": "Il racconto dei racconti|2015"
     },
     {
-      "id": "WES-S-050",
-      "filmKey": "Il grande silenzio|1968"
+      "id": "F240-20261006-079-S1",
+      "filmKey": "Il racconto dei racconti|2015"
     },
     {
-      "id": "FF-300-YEAR",
-      "filmKey": "Il grande silenzio|1968"
+      "id": "F240-20261006-079-S2",
+      "filmKey": "Il racconto dei racconti|2015"
+    },
+    {
+      "id": "F240-20261006-079-Y",
+      "filmKey": "Il racconto dei racconti|2015"
+    },
+    {
+      "id": "F240-20261006-079-D",
+      "filmKey": "Il racconto dei racconti|2015"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-021-L1",
+      "filmKey": "Im Juli|2000"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-021-L2",
+      "filmKey": "Im Juli|2000"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-021-M1",
+      "filmKey": "Im Juli|2000"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-021-M2",
+      "filmKey": "Im Juli|2000"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-021-S1",
+      "filmKey": "Im Juli|2000"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-021-S2",
+      "filmKey": "Im Juli|2000"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-021-Y",
+      "filmKey": "Im Juli|2000"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-021-D",
+      "filmKey": "Im Juli|2000"
+    },
+    {
+      "id": "E20261007-F-087-L1",
+      "filmKey": "In the Mouth of Madness|1994"
+    },
+    {
+      "id": "E20261007-F-087-L2",
+      "filmKey": "In the Mouth of Madness|1994"
+    },
+    {
+      "id": "E20261007-F-087-M1",
+      "filmKey": "In the Mouth of Madness|1994"
+    },
+    {
+      "id": "E20261007-F-087-M2",
+      "filmKey": "In the Mouth of Madness|1994"
+    },
+    {
+      "id": "E20261007-F-087-S1",
+      "filmKey": "In the Mouth of Madness|1994"
+    },
+    {
+      "id": "E20261007-F-087-S2",
+      "filmKey": "In the Mouth of Madness|1994"
+    },
+    {
+      "id": "E20261007-F-087-Y",
+      "filmKey": "In the Mouth of Madness|1994"
+    },
+    {
+      "id": "E20261007-F-087-D",
+      "filmKey": "In the Mouth of Madness|1994"
+    },
+    {
+      "id": "SFI-202610-P01-L-013",
+      "filmKey": "In Time|2011"
+    },
+    {
+      "id": "SFI-202610-P01-L-014",
+      "filmKey": "In Time|2011"
+    },
+    {
+      "id": "SFI-202610-P01-M-019",
+      "filmKey": "In Time|2011"
+    },
+    {
+      "id": "SFI-202610-P01-M-020",
+      "filmKey": "In Time|2011"
+    },
+    {
+      "id": "SFI-202610-P01-S-019",
+      "filmKey": "In Time|2011"
+    },
+    {
+      "id": "SFI-202610-P01-S-020",
+      "filmKey": "In Time|2011"
+    },
+    {
+      "id": "SFI-202610-P01-M-021",
+      "filmKey": "In Time|2011"
+    },
+    {
+      "id": "SFI-202610-P01-S-021",
+      "filmKey": "In Time|2011"
+    },
+    {
+      "id": "SF-L-008",
+      "filmKey": "Inception|2010"
+    },
+    {
+      "id": "SF-L-008-V1",
+      "filmKey": "Inception|2010"
+    },
+    {
+      "id": "SF-M-008",
+      "filmKey": "Inception|2010"
+    },
+    {
+      "id": "SF-M-008-V1",
+      "filmKey": "Inception|2010"
+    },
+    {
+      "id": "SF-S-008",
+      "filmKey": "Inception|2010"
+    },
+    {
+      "id": "SF-S-008-V1",
+      "filmKey": "Inception|2010"
+    },
+    {
+      "id": "FF-133-YEAR",
+      "filmKey": "Inception|2010"
+    },
+    {
+      "id": "FF-133-DIRECTOR",
+      "filmKey": "Inception|2010"
+    },
+    {
+      "id": "SF-L-020",
+      "filmKey": "Independence Day|1996"
+    },
+    {
+      "id": "SF-M-020",
+      "filmKey": "Independence Day|1996"
+    },
+    {
+      "id": "SF-S-020",
+      "filmKey": "Independence Day|1996"
+    },
+    {
+      "id": "FF-145-YEAR",
+      "filmKey": "Independence Day|1996"
+    },
+    {
+      "id": "FF-145-DIRECTOR",
+      "filmKey": "Independence Day|1996"
+    },
+    {
+      "id": "ADV-202610-P01-L-003",
+      "filmKey": "Indiana Jones and the Last Crusade|1989"
+    },
+    {
+      "id": "ADV-202610-P01-L-004",
+      "filmKey": "Indiana Jones and the Last Crusade|1989"
+    },
+    {
+      "id": "ADV-202610-P01-M-004",
+      "filmKey": "Indiana Jones and the Last Crusade|1989"
+    },
+    {
+      "id": "ADV-202610-P01-M-005",
+      "filmKey": "Indiana Jones and the Last Crusade|1989"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."

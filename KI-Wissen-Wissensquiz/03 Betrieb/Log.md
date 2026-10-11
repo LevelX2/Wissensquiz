@@ -1791,3 +1791,12 @@ Struktur-, Identitäts-, Vollständigkeits-, Wortlängen-, Quellen- und Linkprü
 Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche Ergänzungen und acht Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Mind→Ghost→Wanda abgeschlossen. Unterschiedliche Filmfassungen, vollständige Regieteams, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
 
 Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.150 von12.773 Original-IDs geprüft,8.623 offen (6.583 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-80.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-80-Pruefnachweis.json).
+
+
+### 11.10.2026 – Redaktionslauf Block 81
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 25 Vertiefungen geändert, 25 wortgleich bewahrt; 29 Antwortauswahlen und 14 Schwierigkeiten angepasst. 2 durch den Titel weitgehend verratene Wissensziele ausdrücklich mit neuen Frage-/Wissensziel-IDs ersetzt. 10 ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. Zwei glorreiche Halunken, Hara-Kiri – Tod eines Samurai, Identität, Der Leopard erfüllen die dokumentierten Mindestziele. Offene Gruppen/Entwürfe: I, Robot, Leichen pflastern seinen Weg.
+
+Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche Ergänzungen und sechs Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Mind→Ghost→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.200 von12.773 Original-IDs geprüft,8.573 offen (6.533 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-81.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-81-Pruefnachweis.json).
