@@ -302776,6 +302776,2411 @@
       "sources": [
         "https://in70mm.com/presents/1957_ultra_panavision/1962_mutiny/press/index.htm"
       ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-001-M2",
+      "originalId": "G100-20261008-MUSIK-001-M2",
+      "knowledgeId": "K-G100-20261008-MUSIK-001-M2",
+      "filmKey": "My Fair Lady|1964",
+      "filmTitle": "My Fair Lady",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Erfolg bringt Eliza keine Anerkennung ihrer eigenen Arbeit.",
+      "question": "Was veranlasst Eliza Doolittle (Audrey Hepburn) in „My Fair Lady“ nach dem erfolgreichen Ball, das Haus ihres Lehrers zu verlassen?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-001-M2:a",
+          "text": "Higgins und Pickering übergehen Elizas Beitrag.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-M2:b",
+          "text": "Der Oberst verlangt die Unterrichtskosten zurück",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-M2:c",
+          "text": "Der Professor kündigt ihre Heirat öffentlich an",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-M2:d",
+          "text": "Eine Zeitung enthüllt ihre wahre Herkunft",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Männer übergehen Elizas Arbeit und Zukunft.",
+      "context": "Nach dem Ball gratulieren Henry Higgins (Rex Harrison) und Colonel Pickering (Wilfrid Hyde-White) einander zum gelungenen Experiment. Eliza Doolittle (Audrey Hepburn) fühlt sich übergangen, obwohl sie die Anstrengung getragen hat. Auch ihre künftige Lebenssituation scheint die Männer kaum zu interessieren. Ihr Aufbruch richtet sich deshalb gegen eine Behandlung als erfolgreich bearbeitetes Material. Die gesellschaftliche Anerkennung auf dem Ball löst das Problem persönlicher Anerkennung im Haus noch nicht.",
+      "anchor": "Der Erfolg bringt Eliza keine Anerkennung ihrer eigenen Arbeit.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+        "https://catalog.afi.com/Film/22921-MY-FAIRLADY"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-001-S1",
+      "originalId": "G100-20261008-MUSIK-001-S1",
+      "knowledgeId": "K-G100-20261008-MUSIK-001-S1",
+      "filmKey": "My Fair Lady|1964",
+      "filmTitle": "My Fair Lady",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Karpathys Expertise führt zur falschen Diagnose einer ungarischen Prinzessin.",
+      "question": "Für wen hält Zoltan Karpathy (Theodore Bikel) Eliza Doolittle (Audrey Hepburn) beim Ball in „My Fair Lady“?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-001-S1:a",
+          "text": "Für eine österreichische Baronin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-S1:b",
+          "text": "Für eine ungarische Prinzessin",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-S1:c",
+          "text": "Für eine russische Großfürstin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-S1:d",
+          "text": "Für eine französische Herzogin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Karpathy erklärt Eliza zur ungarischen Prinzessin.",
+      "context": "Zoltan Karpathy (Theodore Bikel), ein früherer Schüler von Henry Higgins (Rex Harrison), beobachtet Eliza Doolittle (Audrey Hepburn) beim Ball besonders genau. Er hört ihr zu, tanzt mit ihr und kommt schließlich zu der Überzeugung, sie sei eine ungarische Prinzessin. Der vermeintliche Fachmann bestätigt damit gerade die falsche Identität. Seine Sicherheit verstärkt den Erfolg der Verwandlung und macht zugleich sichtbar, wie täuschbar gesellschaftliche Herkunftsdiagnosen sein können.",
+      "anchor": "Karpathys Expertise führt zur falschen Diagnose einer ungarischen Prinzessin.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-001-S2",
+      "originalId": "G100-20261008-MUSIK-001-S2",
+      "knowledgeId": "K-G100-20261008-MUSIK-001-S2",
+      "filmKey": "My Fair Lady|1964",
+      "filmTitle": "My Fair Lady",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Krawattenknoten verbarg das Mikrofon für Harrisons Live-Aufnahme.",
+      "question": "Wo verbarg die Produktion laut AFI Rex Harrisons Funkmikrofon für seine live gesungenen Nummern in „My Fair Lady“?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-001-S2:a",
+          "text": "Unter dem Rand seines Hutes",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-S2:b",
+          "text": "Im Griff seines Spazierstocks",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-S2:c",
+          "text": "Im Knoten seiner Krawatte",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-S2:d",
+          "text": "Hinter dem Knopf seines Jackettärmels",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Mikrofon war im Krawattenknoten verborgen.",
+      "context": "Rex Harrison wollte seine musikalischen Nummern während der Aufnahme live ausführen. Nach dem vom AFI ausgewerteten Bericht wurde dafür ein drahtloses Mikrofon im Knoten seiner Krawatte verborgen. So konnte die Aufnahme seiner Stimme dem jeweiligen Spiel folgen, statt ihn an eine unverändert abgespielte Voraufnahme zu binden. Diese Arbeitsweise unterscheidet sich von der Gesangsdopplung anderer Rollen und verbindet eine technische Lösung mit dem besonderen sprechenden Gesangsstil des Darstellers.",
+      "anchor": "Der Krawattenknoten verbarg das Mikrofon für Harrisons Live-Aufnahme.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+        "https://catalog.afi.com/Film/22921-MY-FAIRLADY"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-001-Y",
+      "originalId": "G100-20261008-MUSIK-001-Y",
+      "knowledgeId": "K-G100-20261008-MUSIK-001-Y",
+      "filmKey": "My Fair Lady|1964",
+      "filmTitle": "My Fair Lady",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "1956 Broadway, 1964 Film: acht Jahre Abstand.",
+      "question": "In welchem Jahr wurde „My Fair Lady“ mit Audrey Hepburn und Rex Harrison erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-001-Y:a",
+          "text": "1963",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-Y:b",
+          "text": "1965",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-Y:c",
+          "text": "1966",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-Y:d",
+          "text": "1964",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Weltpremiere fand 1964 statt.",
+      "context": "1956 spielte Julie Andrews die Eliza bei der Broadway-Premiere von „My Fair Lady“, Rex Harrison ihren Sprachlehrer Higgins. Acht Jahre später kam 1964 die Verfilmung heraus. Harrison übernahm seine Bühnenrolle erneut; als Eliza stand nun Audrey Hepburn vor der Kamera.",
+      "anchor": "1956 Broadway, 1964 Film: acht Jahre Abstand.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+        "https://catalog.afi.com/Film/22921-MY-FAIRLADY"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-001-D",
+      "originalId": "G100-20261008-MUSIK-001-D",
+      "knowledgeId": "K-G100-20261008-MUSIK-001-D",
+      "filmKey": "My Fair Lady|1964",
+      "filmTitle": "My Fair Lady",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "George Cukor: Hauptregie der Verfilmung.",
+      "question": "Wer führte bei „My Fair Lady“ mit Audrey Hepburn und Rex Harrison Hauptregie?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-001-D:a",
+          "text": "George Cukor",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-D:b",
+          "text": "Vincente Minnelli",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-D:c",
+          "text": "Stanley Donen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-001-D:d",
+          "text": "Robert Wise",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "George Cukor ist der Hauptregisseur.",
+      "context": "George Cukor wollte „My Fair Lady“ laut einem zeitgenössischen Bericht möglichst in der Reihenfolge der Handlung drehen, um Elizas (Audrey Hepburn) Verwandlung zu folgen. Dafür entstand London weitgehend im Warner-Studio: Higgins’ (Rex Harrison) Haus, die Wimpole Street und Covent Garden wurden auf mehreren Bühnen aufgebaut.",
+      "anchor": "George Cukor: Hauptregie der Verfilmung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+        "https://catalog.afi.com/Film/22921-MY-FAIRLADY"
+      ]
+    },
+    {
+      "id": "F240-20261006-172-L1",
+      "originalId": "F240-20261006-172-L1",
+      "knowledgeId": "K-F240-20261006-172-L1",
+      "filmKey": "My Man Godfrey|1936",
+      "filmTitle": "Mein Mann Godfrey",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der neue Butler bringt Ordnung in den reichen Haushalt.",
+      "question": "Welche Stelle erhält Godfrey (William Powell) bei der Familie Bullock in „Mein Mann Godfrey“?",
+      "answers": [
+        {
+          "id": "F240-20261006-172-L1:a",
+          "text": "Butler",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-L1:b",
+          "text": "Chauffeur",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-L1:c",
+          "text": "Gärtner",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-L1:d",
+          "text": "Privatsekretär",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Godfrey wird Butler der Bullocks.",
+      "context": "Schon am ersten Arbeitstag warnt Hausmädchen Molly (Jean Dixon) Godfrey (William Powell): Seine Vorgänger hätten es bei den Bullocks kaum ausgehalten. Irene (Carole Lombard) verliebt sich in ihn und küsst ihn. Er weist sie auf die Grenze zwischen Arbeitgeberin und Angestelltem hin.",
+      "anchor": "Der neue Butler bringt Ordnung in den reichen Haushalt.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/My_Man_Godfrey"
+      ]
+    },
+    {
+      "id": "F240-20261006-172-L2",
+      "originalId": "F240-20261006-172-L2",
+      "knowledgeId": "K-F240-20261006-172-L2",
+      "filmKey": "My Man Godfrey|1936",
+      "filmTitle": "Mein Mann Godfrey",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Das Suchspiel macht soziale Kälte sichtbar.",
+      "question": "Wobei begegnet Irene (Carole Lombard) Godfrey (William Powell) in „Mein Mann Godfrey“ erstmals?",
+      "answers": [
+        {
+          "id": "F240-20261006-172-L2:a",
+          "text": "Bei einer Gerichtsverhandlung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-L2:b",
+          "text": "Bei einer gesellschaftlichen Suchspiel-Aufgabe",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-L2:c",
+          "text": "Bei einer Segelregatta",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-L2:d",
+          "text": "Bei einer Opernprobe",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Gesellschaft sucht für ein Spiel einen „vergessenen Mann“.",
+      "context": "Irene (Carole Lombard) erklärt Godfrey (William Powell) die Spielregeln und merkt dabei selbst, wie entwürdigend der Umgang mit Menschen als Fundstücken ist. Sie möchte nicht mehr mitspielen. Ihr Mitgefühl bewegt ihn, sie trotzdem zum Ball zu begleiten und ihr gegen Cornelia (Gail Patrick) zu helfen.",
+      "anchor": "Das Suchspiel macht soziale Kälte sichtbar.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.criterion.com/current/posts/5928-my-man-godfrey-the-right-kind-of-people"
+      ]
+    },
+    {
+      "id": "F240-20261006-172-M1",
+      "originalId": "F240-20261006-172-M1",
+      "knowledgeId": "K-F240-20261006-172-M1",
+      "filmKey": "My Man Godfrey|1936",
+      "filmTitle": "Mein Mann Godfrey",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Cornelia legt selbst den vermeintlichen Diebstahlsbeweis.",
+      "question": "Wie versucht Cornelia (Gail Patrick) in „Mein Mann Godfrey“, Godfrey (William Powell) eines Diebstahls zu überführen?",
+      "answers": [
+        {
+          "id": "F240-20261006-172-M1:a",
+          "text": "Sie legt gestohlene Silberlöffel in seinen Koffer.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-M1:b",
+          "text": "Sie steckt fremde Geldscheine in seine Jacke.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-M1:c",
+          "text": "Sie versteckt ihre Perlen bei ihm.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-M1:d",
+          "text": "Sie legt verschwundene Manschettenknöpfe in sein Zimmer.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Cornelia versteckt ihre Perlen unter Godfreys Matratze und meldet sie als gestohlen.",
+      "context": "Die Polizei durchsucht Godfreys (William Powell) Zimmer, findet jedoch nichts. Alexander Bullock (Eugene Pallette) durchschaut die Absicht seiner Tochter Cornelia (Gail Patrick) und lässt die Sache fallen. Für Cornelia bleibt ein kostspieliges Problem: Die verschwundenen Perlen sind nicht versichert.",
+      "anchor": "Cornelia legt selbst den vermeintlichen Diebstahlsbeweis.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Film/5200-MY-MANGODFREY",
+        "https://en.wikipedia.org/wiki/My_Man_Godfrey"
+      ]
+    },
+    {
+      "id": "F240-20261006-172-M2",
+      "originalId": "F240-20261006-172-M2",
+      "knowledgeId": "K-F240-20261006-172-M2",
+      "filmKey": "My Man Godfrey|1936",
+      "filmTitle": "Mein Mann Godfrey",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Godfreys Obdachlosigkeit verbirgt eine vermögende Herkunft.",
+      "question": "Was zeigt Godfreys (William Powell) Gespräch mit Tommy (Alan Mowbray) in „Mein Mann Godfrey“ über seine Herkunft?",
+      "answers": [
+        {
+          "id": "F240-20261006-172-M2:a",
+          "text": "Er stammt aus einer armen Bauernfamilie.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-M2:b",
+          "text": "Er wuchs als Waisenkind auf der Straße auf.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-M2:c",
+          "text": "Er stammt aus einer verschuldeten Handwerkerfamilie.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-M2:d",
+          "text": "Er stammt selbst aus einer reichen Familie.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Godfrey stammt selbst aus einer wohlhabenden Bostoner Familie.",
+      "context": "Godfrey (William Powell) hatte nach einer gescheiterten Liebe erwogen, sich das Leben zu nehmen. Die Obdachlosen an der Müllkippe gaben ihm neuen Lebensmut. Seinem alten Freund Tommy (Alan Mowbray) erklärt er nun, warum er seine vermögende Bostoner Familie verlassen hat und als Diener arbeitet.",
+      "anchor": "Godfreys Obdachlosigkeit verbirgt eine vermögende Herkunft.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/My_Man_Godfrey"
+      ]
+    },
+    {
+      "id": "F240-20261006-172-S1",
+      "originalId": "F240-20261006-172-S1",
+      "knowledgeId": "K-F240-20261006-172-S1",
+      "filmKey": "My Man Godfrey|1936",
+      "filmTitle": "Mein Mann Godfrey",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die falsche Diebstahlsfalle finanziert die echte Rettung.",
+      "question": "Wie rettet Godfrey (William Powell) in „Mein Mann Godfrey“ das gefährdete Vermögen der Bullocks?",
+      "answers": [
+        {
+          "id": "F240-20261006-172-S1:a",
+          "text": "Er kauft mit dem Erlös der verpfändeten Perlen Aktien zurück.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-S1:b",
+          "text": "Er nimmt für die Bullocks einen Kredit bei Tommy auf.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-S1:c",
+          "text": "Er verkauft das Anwesen und mietet es zurück.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-S1:d",
+          "text": "Er gründet mit dem Vater eine neue Handelsfirma.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Godfrey verpfändet Cornelias Perlen und kauft die benötigten Aktien zurück.",
+      "context": "Als Alexander Bullock (Eugene Pallette) seiner Familie den drohenden Ruin eröffnet, hat Godfrey (William Powell) bereits gehandelt. Er übergibt ihm die Aktien und gibt Cornelia (Gail Patrick) ihren Schmuck zurück. Sie entschuldigt sich bei dem Mann, den sie zuvor loswerden wollte.",
+      "anchor": "Die falsche Diebstahlsfalle finanziert die echte Rettung.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://catalog.afi.com/Film/5200-MY-MANGODFREY",
+        "https://en.wikipedia.org/wiki/My_Man_Godfrey"
+      ]
+    },
+    {
+      "id": "F240-20261006-172-S2",
+      "originalId": "F240-20261006-172-S2",
+      "knowledgeId": "K-F240-20261006-172-S2",
+      "filmKey": "My Man Godfrey|1936",
+      "filmTitle": "Mein Mann Godfrey",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Aus dem Ort der Ausgrenzung entsteht Beschäftigung.",
+      "question": "Wozu wird die frühere Müllkippe am Ende von „Mein Mann Godfrey“?",
+      "answers": [
+        {
+          "id": "F240-20261006-172-S2:a",
+          "text": "Zu einem Hotel mit Stellen für die früheren Bewohner",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-S2:b",
+          "text": "Zu einem Nachtclub mit Arbeit für Obdachlose",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-S2:c",
+          "text": "Zu einem Kaufhaus mit Stellen für die früheren Bewohner",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-S2:d",
+          "text": "Zu einer Wäscherei mit Arbeit für Obdachlose",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Godfrey (William Powell) und Tommy (Alan Mowbray) machen aus der Müllkippe einen Nachtclub.",
+      "context": "Nachdem Godfrey (William Powell) den Bankrott der Bullocks verhindert hat, verabschiedet er sich von ihnen. An seiner früheren Müllkippe ist inzwischen der Nachtclub entstanden. Irene (Carole Lombard) folgt ihm dorthin; mit Tommys (Alan Mowbray) Unterstützung heiraten die beiden.",
+      "anchor": "Aus dem Ort der Ausgrenzung entsteht Beschäftigung.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Mein_Mann_Godfrey",
+        "https://en.wikipedia.org/wiki/My_Man_Godfrey"
+      ]
+    },
+    {
+      "id": "F240-20261006-172-Y",
+      "originalId": "F240-20261006-172-Y",
+      "knowledgeId": "K-F240-20261006-172-Y",
+      "filmKey": "My Man Godfrey|1936",
+      "filmTitle": "Mein Mann Godfrey",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Roman 1935, Film 1936: Ein Jahr später bringt die Komödie Armut und verschwenderische Gesellschaftsspiele zusammen.",
+      "question": "In welchem Jahr wurde „Mein Mann Godfrey“ mit William Powell und Carole Lombard erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-172-Y:a",
+          "text": "1935",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-Y:b",
+          "text": "1934",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-Y:c",
+          "text": "1936",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-Y:d",
+          "text": "1937",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die erste Veröffentlichung war 1936.",
+      "context": "1936 erschien der Film nach Eric Hatchs Roman „1101 Park Avenue“ von 1935. Ein Jahr Abstand verbindet die Vorlage mit einer Komödie, die ausdrücklich im Milieu der Weltwirtschaftskrise spielt. Obdachlosigkeit und verschwenderische Gesellschaftsspiele stehen nebeneinander.",
+      "anchor": "Roman 1935, Film 1936: Ein Jahr später bringt die Komödie Armut und verschwenderische Gesellschaftsspiele zusammen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/My_Man_Godfrey"
+      ]
+    },
+    {
+      "id": "F240-20261006-172-D",
+      "originalId": "F240-20261006-172-D",
+      "knowledgeId": "K-F240-20261006-172-D",
+      "filmKey": "My Man Godfrey|1936",
+      "filmTitle": "Mein Mann Godfrey",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Gregory La Cava inszenierte William Powell und Carole Lombard.",
+      "question": "Wer führte bei „Mein Mann Godfrey“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-172-D:a",
+          "text": "George Cukor",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-D:b",
+          "text": "Preston Sturges",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-D:c",
+          "text": "Leo McCarey",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-172-D:d",
+          "text": "Gregory La Cava",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Gregory La Cava inszenierte William Powell und Carole Lombard.",
+      "context": "William Powell wollte den Godfrey nur spielen, wenn seine frühere Ehefrau Carole Lombard Irene übernahm. Gregory La Cava hatte zunächst Constance Bennett für diese Rolle im Blick. Laut AFI setzte Powell seine Besetzungsbedingung vertraglich durch. Das bereits geschiedene Paar wurde so zum Liebespaar der Komödie.",
+      "anchor": "Gregory La Cava inszenierte William Powell und Carole Lombard.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Film/5200-MY-MANGODFREY"
+      ]
+    },
+    {
+      "id": "E20261007-F-279-L1",
+      "originalId": "E20261007-F-279-L1",
+      "knowledgeId": "K-E20261007-F-279-L1",
+      "filmTitle": "Mystery Train",
+      "filmKey": "Mystery Train|1989",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Memphis als gemeinsames Reiseziel der drei Episoden erkennen.",
+      "question": "„Mystery Train“: Welche Stadt besuchen die Reisenden der drei Geschichten?",
+      "answers": [
+        {
+          "id": "E20261007-F-279-L1:a",
+          "text": "Nashville",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-L1:b",
+          "text": "New Orleans",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-L1:c",
+          "text": "Detroit",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-L1:d",
+          "text": "Memphis",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Memphis bildet den gemeinsamen Raum der Nacht.",
+      "context": "Jun (Masatoshi Nagase) und Mitsuko (Youki Kudoh) besuchen das Sun-Studio, doch ihre musikalischen Vorlieben unterscheiden sich: Sie verehrt Elvis Presley, er bevorzugt Carl Perkins. Mitsuko sammelt sogar Bilder, die Elvis anderen berühmten Gestalten ähnlich sehen lassen. Ihre Reise führt damit an denselben Ort, folgt aber unterschiedlichen Idolen.",
+      "anchor": "Gemeinsame Musikreise: Mitsuko verehrt Elvis, Jun bevorzugt Carl Perkins.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mystery_Train_(film)",
+        "https://www.criterion.com/films/2057-mystery-train"
+      ]
+    },
+    {
+      "id": "E20261007-F-279-L2",
+      "originalId": "E20261007-F-279-L2",
+      "knowledgeId": "K-E20261007-F-279-L2",
+      "filmTitle": "Mystery Train",
+      "filmKey": "Mystery Train|1989",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Das Arcade Hotel als wiederkehrenden Schauplatz der drei Episoden erkennen.",
+      "question": "„Mystery Train“: Welches Gebäude verbindet die drei Episoden besonders unmittelbar?",
+      "answers": [
+        {
+          "id": "E20261007-F-279-L2:a",
+          "text": "Das heruntergekommene Arcade Hotel",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-L2:b",
+          "text": "Das traditionsreiche Sun-Studio",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-L2:c",
+          "text": "Der zentrale Bahnhof von Memphis",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-L2:d",
+          "text": "Die abendliche Bar namens Shades",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Alle Erzählgruppen verbringen einen Teil der Nacht im Arcade Hotel.",
+      "context": "Der Nachtportier (Screamin’ Jay Hawkins) und der Page (Cinqué Lee) begegnen im Hotel verschiedenen Gästen. Für das Publikum kehrt dieser Raum wieder, obwohl die Reisenden einander kaum begegnen. Der alltägliche Unterkunftsort gibt der Erzählung damit eine feste Verbindung, die aus dem normalen Ablauf des Übernachtens entsteht.",
+      "anchor": "Das Hotel verbindet wechselnde Gäste durch denselben Raum und dieselben Angestellten.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Mystery_Train",
+        "https://en.wikipedia.org/wiki/Mystery_Train_(film)",
+        "https://www.criterion.com/films/2057-mystery-train"
+      ]
+    },
+    {
+      "id": "E20261007-F-279-M1",
+      "originalId": "E20261007-F-279-M1",
+      "knowledgeId": "K-E20261007-F-279-M1",
+      "filmTitle": "Mystery Train",
+      "filmKey": "Mystery Train|1989",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Luisas erzwungenen Zwischenstopp während der Überführung ihres Mannes erklären.",
+      "question": "„Mystery Train“: Warum muss Luisa (Nicoletta Braschi) eine Nacht in Memphis bleiben?",
+      "answers": [
+        {
+          "id": "E20261007-F-279-M1:a",
+          "text": "Die Fluggesellschaft hat den Sarg ihres Mannes fehlgeleitet",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-M1:b",
+          "text": "Ihre Weiterreise mit dem Sarg ihres Mannes ist unterbrochen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-M1:c",
+          "text": "Die Einreise mit dem Sarg ihres Mannes wird verweigert",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-M1:d",
+          "text": "Die Überführung ihres Mannes wartet auf eine amtliche Freigabe",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Witwe begleitet den Sarg nach Italien und bleibt wegen der Reiseunterbrechung.",
+      "context": "Luisa (Nicoletta Braschi) teilt ihr Zimmer mit Dee Dee (Elizabeth Bracco), die ihren Freund verlassen hat. Während die neue Bekanntschaft schläft, erscheint Luisa der Geist von Elvis. Am Morgen hilft sie Dee Dee mit Geld für die Weiterreise. Aus der erzwungenen Übernachtung entsteht so eine kurze Begegnung, bevor die Frauen getrennt weiterziehen.",
+      "anchor": "Luisas Zwischenstopp bringt Gesellschaft, eine Elvis-Erscheinung und Abschiedshilfe.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Mystery_Train",
+        "https://en.wikipedia.org/wiki/Mystery_Train_(film)",
+        "https://www.criterion.com/films/2057-mystery-train"
+      ]
+    },
+    {
+      "id": "E20261007-F-279-M2",
+      "originalId": "E20261007-F-279-M2",
+      "knowledgeId": "K-E20261007-F-279-M2",
+      "filmTitle": "Mystery Train",
+      "filmKey": "Mystery Train|1989",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Elvis Presleys „Blue Moon“ als zeitliche Verbindung der Episoden erkennen.",
+      "question": "„Mystery Train“: Welches Lied ist in den verschiedenen Geschichten zur selben Nachtstunde zu hören?",
+      "answers": [
+        {
+          "id": "E20261007-F-279-M2:a",
+          "text": "Heartbreak Hotel in Elvis Presleys Aufnahme",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-M2:b",
+          "text": "Folsom Prison Blues in Johnny Cashs Aufnahme",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-M2:c",
+          "text": "Blue Moon in Elvis Presleys Aufnahme",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-M2:d",
+          "text": "Great Balls of Fire in Jerry Lee Lewis’ Aufnahme",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die gleiche Blue-Moon-Ausstrahlung verbindet die Perspektiven.",
+      "context": "Die wiederholte Radiosendung stellt einen gemeinsamen Zeitpunkt her. Die Figuren hören Elvis’ Aufnahme in unterschiedlichen privaten Situationen. Das Lied bewegt die Handlung nicht als eindeutiger Befehl, gibt dem Publikum aber eine zeitliche Orientierung. Eine musikalische Gemeinsamkeit verbindet damit Menschen, die ihre Aufenthalte nicht als Teil einer gemeinsamen Geschichte verstehen.",
+      "anchor": "Dasselbe Blue Moon markiert einen gemeinsamen Zeitpunkt in getrennten Erlebnissen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Mystery_Train",
+        "https://www.criterion.com/current/posts/1488-mystery-train-strangers-in-the-night"
+      ]
+    },
+    {
+      "id": "E20261007-F-279-S1",
+      "originalId": "E20261007-F-279-S1",
+      "knowledgeId": "K-E20261007-F-279-S1",
+      "filmTitle": "Mystery Train",
+      "filmKey": "Mystery Train|1989",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Charlies Irrtum über Johnnys Ehe mit seiner Schwester erklären.",
+      "question": "„Mystery Train“: Welche Einsicht verschärft Charlies (Steve Buscemi) Ärger über Johnny (Joe Strummer)?",
+      "answers": [
+        {
+          "id": "E20261007-F-279-S1:a",
+          "text": "Johnny hat Charlies Schwester heimlich geheiratet",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-S1:b",
+          "text": "Johnny ist schon mit einer anderen Frau verheiratet",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-S1:c",
+          "text": "Johnny hat Charlies Schwester erneut eine Heirat versprochen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-S1:d",
+          "text": "Johnny war gar nicht mit seiner Schwester verheiratet",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die vermeintliche Schwägerschaft stellt sich als unbegründet heraus.",
+      "context": "Charlie (Steve Buscemi) und Will (Rick Aviles) wollen Johnny (Joe Strummer) aus einer Bar nach Hause bringen. Im Spirituosenladen beleidigt der Verkäufer Will rassistisch, worauf Johnny auf ihn schießt. Erst nach der gemeinsamen Flucht ins Hotel erfährt Charlie, dass auch die vermeintliche familiäre Bindung nie bestand.",
+      "anchor": "Charlie gerät in Johnnys bewaffneten Ärger, bevor die behauptete Schwägerschaft zerfällt.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mystery_Train_(film)",
+        "https://www.criterion.com/films/2057-mystery-train"
+      ]
+    },
+    {
+      "id": "E20261007-F-279-S2",
+      "originalId": "E20261007-F-279-S2",
+      "knowledgeId": "K-E20261007-F-279-S2",
+      "filmTitle": "Mystery Train",
+      "filmKey": "Mystery Train|1989",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Den gehörten Schuss dem Unfall beim Verhindern von Johnnys Selbsttötung zuordnen.",
+      "question": "„Mystery Train“: Welches Ereignis verursacht den Schuss, den die anderen Hotelgäste am Morgen hören?",
+      "answers": [
+        {
+          "id": "E20261007-F-279-S2:a",
+          "text": "Charlie wird beim Verhindern von Johnnys Selbsttötung ins Bein getroffen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-S2:b",
+          "text": "Johnny wird beim Verhindern von Charlies Selbsttötung ins Bein getroffen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-S2:c",
+          "text": "Will wird beim Entladen von Johnnys Waffe in den Arm getroffen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-S2:d",
+          "text": "Charlie wird beim Vertreiben eines Eindringlings ins Hotelzimmer getroffen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Kampf um die Waffe verletzt Charlie und verbindet die dritte Episode mit den anderen.",
+      "context": "In den früher erzählten Geschichten bleibt der Schuss zunächst ein Geräusch mit unklarer Ursache. Die dritte Episode zeigt Charlie (Steve Buscemi), der Johnnys (Joe Strummer) Selbsttötung verhindern will und getroffen wird. Dieselbe Wahrnehmung erhält damit nachträglich einen anderen Wissensstand. Die Episodenfolge verändert die Erklärung, nicht den Zeitpunkt des Geschehens.",
+      "anchor": "Der zuvor nur gehörte Schuss wird später als Verletzung Charlies beim Eingreifen erklärt.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mystery_Train_(film)",
+        "https://www.criterion.com/current/posts/1488-mystery-train-strangers-in-the-night"
+      ]
+    },
+    {
+      "id": "E20261007-F-279-Y",
+      "originalId": "E20261007-F-279-Y",
+      "knowledgeId": "K-E20261007-F-279-Y",
+      "filmTitle": "Mystery Train",
+      "filmKey": "Mystery Train|1989",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Die erste Veröffentlichung von „Mystery Train“ dem Jahr 1989 zuordnen.",
+      "question": "In welchem Jahr wurde „Mystery Train“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "E20261007-F-279-Y:a",
+          "text": "1988",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-Y:b",
+          "text": "1989",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-Y:c",
+          "text": "1990",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-Y:d",
+          "text": "1991",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die erste Veröffentlichung gehört ins Jahr 1989.",
+      "context": "„Mystery Train“ erschien 1989. Bei der Premiere in Cannes bezeichnete Jarmusch ihn als Abschluss einer Trilogie mit „Stranger Than Paradise“ (1984) und „Down by Law“ (1986). Der Abschlussfilm besteht seinerseits aus drei verbundenen Geschichten: Die äußere Werkfolge und die innere Episodenform spiegeln sich damit in seiner Einordnung.",
+      "anchor": "1989: Abschluss einer Filmtrilogie, selbst aus drei Geschichten zusammengesetzt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.festival-cannes.com/en/f/mystery-train/",
+        "https://www.criterion.com/films/2057-mystery-train"
+      ]
+    },
+    {
+      "id": "E20261007-F-279-D",
+      "originalId": "E20261007-F-279-D",
+      "knowledgeId": "K-E20261007-F-279-D",
+      "filmTitle": "Mystery Train",
+      "filmKey": "Mystery Train|1989",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Jim Jarmusch als Regisseur von „Mystery Train“ kennen.",
+      "question": "Wer führte bei „Mystery Train“ Regie?",
+      "answers": [
+        {
+          "id": "E20261007-F-279-D:a",
+          "text": "Wayne Wang",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-D:b",
+          "text": "Alan Rudolph",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-D:c",
+          "text": "Jim Jarmusch",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-279-D:d",
+          "text": "Hal Hartley",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jim Jarmusch führte bei diesem Film Regie.",
+      "context": "Jim Jarmusch schrieb und inszenierte die drei Geschichten derselben Nacht. Robby Müllers Farbbilder und John Luries Musik verbinden die sehr verschiedenen Besucher. Ein wiederkehrendes Lied und derselbe Schuss werden aus anderen Zusammenhängen wahrgenommen. Die Regie macht zeitliche Gleichzeitigkeit deshalb erfahrbar, ohne alle Hauptfiguren zu einer gemeinsamen Handlung zusammenzuführen.",
+      "anchor": "Jarmusch verbindet getrennte Geschichten durch dieselbe Nacht, ein Lied und einen Schuss.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.criterion.com/films/2057-mystery-train",
+        "https://www.festival-cannes.com/en/f/mystery-train/"
+      ]
+    },
+    {
+      "id": "E20261007-F-275-L1",
+      "originalId": "E20261007-F-275-L1",
+      "knowledgeId": "K-E20261007-F-275-L1",
+      "filmTitle": "Naked Lunch",
+      "filmKey": "Naked Lunch|1991",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Bill Lees anfängliche Arbeit als Kammerjäger erkennen.",
+      "question": "„Naked Lunch“: Womit verdient Bill Lee (Peter Weller) zunächst seinen Lebensunterhalt?",
+      "answers": [
+        {
+          "id": "E20261007-F-275-L1:a",
+          "text": "Mit Teppichreinigung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-L1:b",
+          "text": "Mit Schlossreparaturen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-L1:c",
+          "text": "Mit Abflussreinigung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-L1:d",
+          "text": "Mit Schädlingsbekämpfung",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Bill arbeitet als Kammerjäger und verfügt dadurch über Insektizid.",
+      "context": "Bills (Peter Weller) Beruf erklärt, weshalb das Insektizid im Haushalt verfügbar ist. Joan (Judy Davis) benutzt es als Rauschmittel, und auch Bill gerät in den Bereich der Halluzinationen. Eine gewöhnliche Arbeitsausrüstung wird so zum Zugang zu einer Welt, in der Alltag, geheime Aufträge und körperliche Verwandlungen nicht mehr verlässlich getrennt erscheinen.",
+      "anchor": "Das beruflich verfügbare Insektizid verbindet Alltag und Rauschwelt.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Naked_Lunch_(Film)",
+        "https://en.wikipedia.org/wiki/Naked_Lunch_(film)",
+        "https://www.criterion.com/films/634-naked-lunch"
+      ]
+    },
+    {
+      "id": "E20261007-F-275-L2",
+      "originalId": "E20261007-F-275-L2",
+      "knowledgeId": "K-E20261007-F-275-L2",
+      "filmTitle": "Naked Lunch",
+      "filmKey": "Naked Lunch|1991",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die sprechenden Insektengestalten von Bills Schreibmaschinen erkennen.",
+      "question": "„Naked Lunch“: In welcher Form erscheinen Bills (Peter Weller) Schreibgeräte in seinen Halluzinationen?",
+      "answers": [
+        {
+          "id": "E20261007-F-275-L2:a",
+          "text": "Als sprechende, insektenartige Wesen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-L2:b",
+          "text": "Als sprechende, pflanzenartige Gewächse",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-L2:c",
+          "text": "Als sprechende, fischartige Wesen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-L2:d",
+          "text": "Als sprechende, vogelartige Wesen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Schreibmaschinen werden zu lebenden, sprechenden Kreaturen.",
+      "context": "Die Schreibmaschine Clark Nova weist Bill Lee (Peter Weller) an, über Joan Frost (Judy Davis) Dr. Benway (Roy Scheider) aufzuspüren. Als Bill die Maschine von Joans Mann Tom (Ian Holm) an sich nimmt, zerstört Clark Nova das fremde Gerät. Bills Arbeitsmittel mischt sich damit selbst in seine Begegnungen und Konflikte ein.",
+      "anchor": "Clark Nova gibt Aufträge und zerstört eine andere Schreibmaschine.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naked_Lunch_(film)",
+        "https://www.criterion.com/films/634-naked-lunch"
+      ]
+    },
+    {
+      "id": "E20261007-F-275-M1",
+      "originalId": "E20261007-F-275-M1",
+      "knowledgeId": "K-E20261007-F-275-M1",
+      "filmTitle": "Naked Lunch",
+      "filmKey": "Naked Lunch|1991",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Joan Lees Tod durch Bills verfehlten Tell-Schuss erklären.",
+      "question": "„Naked Lunch“: Wie kommt Joan Lee (Judy Davis) ums Leben?",
+      "answers": [
+        {
+          "id": "E20261007-F-275-M1:a",
+          "text": "Bill löst beim Reinigen seiner Pistole versehentlich einen Schuss aus",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-M1:b",
+          "text": "Bill verfehlt bei einem Wilhelm-Tell-Spiel das Glas auf ihrem Kopf",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-M1:c",
+          "text": "Bill schießt bei einem Streit über ihrem Kopf in die Wand",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-M1:d",
+          "text": "Bill will einen Eindringling treffen und erwischt dabei Joan",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Bills Schuss trifft Joan statt des aufgestellten Glases.",
+      "context": "Bill (Peter Weller) versucht die riskante Schießgeste und tötet Joan (Judy Davis). Die Tat bleibt in seiner späteren Reise und im Schreiben gegenwärtig. Der vermeintliche Geheimauftrag kann die konkrete Schuld nicht einfach ersetzen. Die erneute Begegnung mit einer Frau gleichen Gesichts verstärkt, wie sehr das verlorene Verhältnis seine weitere Wahrnehmung bestimmt.",
+      "anchor": "Der verfehlte Tell-Schuss verbindet Bills spätere Reise mit einer nicht abgeschlossenen Schuld.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Naked_Lunch_(Film)",
+        "https://en.wikipedia.org/wiki/Naked_Lunch_(film)",
+        "https://www.criterion.com/films/634-naked-lunch"
+      ]
+    },
+    {
+      "id": "E20261007-F-275-M2",
+      "originalId": "E20261007-F-275-M2",
+      "knowledgeId": "K-E20261007-F-275-M2",
+      "filmTitle": "Naked Lunch",
+      "filmKey": "Naked Lunch|1991",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Joan Frost als Doppelgängerin von Bills getöteter Frau erkennen.",
+      "question": "„Naked Lunch“: Was ist an Joan Frost (Judy Davis) für Bill (Peter Weller) besonders verstörend?",
+      "answers": [
+        {
+          "id": "E20261007-F-275-M2:a",
+          "text": "Sie kennt die letzten Worte seiner getöteten Frau",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-M2:b",
+          "text": "Sie besitzt den Ehering seiner getöteten Frau",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-M2:c",
+          "text": "Sie sieht seiner getöteten Frau gleich",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-M2:d",
+          "text": "Sie erzählt ihm denselben Traum wie seine getötete Frau",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Doppelgängerin hat das Gesicht der verlorenen Joan Lee.",
+      "context": "Judy Davis spielt Joan Lee und Joan Frost. Für Bill (Peter Weller) bringt das neue Gesicht deshalb zugleich etwas Vertrautes und Verlorenes zurück. Die Doppelrolle macht den Zusammenhang unmittelbar sichtbar. Seine angebliche Aufgabe führt ihn nicht bloß zu einer unbekannten Frau, sondern wieder in die Nähe eines Bildes seiner eigenen Schuldgeschichte.",
+      "anchor": "Joan Frosts Gesicht verbindet eine neue Begegnung mit der getöteten Joan Lee.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Naked_Lunch_(Film)",
+        "https://en.wikipedia.org/wiki/Naked_Lunch_(film)",
+        "https://www.criterion.com/films/634-naked-lunch"
+      ]
+    },
+    {
+      "id": "E20261007-F-275-S1",
+      "originalId": "E20261007-F-275-S1",
+      "knowledgeId": "K-E20261007-F-275-S1",
+      "filmTitle": "Naked Lunch",
+      "filmKey": "Naked Lunch|1991",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Dr. Benway hinter Fadelas Verkleidung identifizieren.",
+      "question": "„Naked Lunch“: Welche Enthüllung betrifft die Hausangestellte Fadela (Monique Mercure)?",
+      "answers": [
+        {
+          "id": "E20261007-F-275-S1:a",
+          "text": "Tom Frost verbirgt sich in ihrer Gestalt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-S1:b",
+          "text": "Yves Cloquet verbirgt sich in ihrer Gestalt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-S1:c",
+          "text": "Hank verbirgt sich in ihrer Gestalt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-S1:d",
+          "text": "Dr. Benway verbirgt sich in ihrer Gestalt",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Benway (Roy Scheider) erscheint hinter der Verkleidung als Fadela.",
+      "context": "Bill Lee (Peter Weller) verfolgt die Droge „Black Meat“. Hinter der Hausangestellten Fadela (Monique Mercure) kommt Dr. Benway (Roy Scheider) zum Vorschein, der das Geschäft leitet. Er wirbt Bill als Doppelagenten an. Nach seinem Bericht verlässt Bill Interzone mit Joan Frost (Judy Davis).",
+      "anchor": "Benway wird als Fadela entlarvt und wirbt Bill für sein Drogengeschäft an.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naked_Lunch_(film)",
+        "https://www.criterion.com/films/634-naked-lunch"
+      ]
+    },
+    {
+      "id": "E20261007-F-275-S2",
+      "originalId": "E20261007-F-275-S2",
+      "knowledgeId": "K-E20261007-F-275-S2",
+      "filmTitle": "Naked Lunch",
+      "filmKey": "Naked Lunch|1991",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die erneute Tötung Joan Frosts als Bills Grenzbeweis erklären.",
+      "question": "„Naked Lunch“: Wie soll Bill (Peter Weller) an der Grenze zu Annexia beweisen, dass er Schriftsteller ist?",
+      "answers": [
+        {
+          "id": "E20261007-F-275-S2:a",
+          "text": "Er wiederholt das tödliche Tell-Spiel mit Joan Frost",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-S2:b",
+          "text": "Er führt einen Auszug aus seinem Bericht als Verhörszene vor",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-S2:c",
+          "text": "Er erzählt den Beamten die Entstehungsgeschichte seines Romans",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-S2:d",
+          "text": "Er setzt ein Gespräch der Beamten sofort in eine Erzählung um",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die erneute Tötung wird von den Beamten als Beweis akzeptiert.",
+      "context": "Bill (Peter Weller) zeigt zunächst einen Stift, was den Beamten nicht reicht. Er wiederholt daraufhin das Tell-Spiel mit Joan Frost (Judy Davis) und tötet sie. Die Grenzüberquerung wird mit derselben Gewalt verbunden, die schon den Anfang seiner Reise bestimmte. Der anerkannte Schriftstellerstatus erhält dadurch einen verstörenden Preis statt eines befreienden Abschlusses.",
+      "anchor": "Die Aufnahme als Schriftsteller verlangt die Wiederholung der Gewalt, vor der Bill fortging.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naked_Lunch_(film)",
+        "https://www.criterion.com/films/634-naked-lunch"
+      ]
+    },
+    {
+      "id": "E20261007-F-275-Y",
+      "originalId": "E20261007-F-275-Y",
+      "knowledgeId": "K-E20261007-F-275-Y",
+      "filmTitle": "Naked Lunch",
+      "filmKey": "Naked Lunch|1991",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Die erste Veröffentlichung von „Naked Lunch“ dem Jahr 1991 zuordnen.",
+      "question": "In welchem Jahr wurde „Naked Lunch“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "E20261007-F-275-Y:a",
+          "text": "1990",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-Y:b",
+          "text": "1991",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-Y:c",
+          "text": "1992",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-Y:d",
+          "text": "1993",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die erste Veröffentlichung gehört ins Jahr 1991.",
+      "context": "William S. Burroughs’ Roman Naked Lunch erschien 1959. Cronenbergs Film wurde 1991 veröffentlicht, zweiunddreißig Jahre später. Er stellt nicht einfach jede Romanepisode nach, sondern verbindet Textmotive mit einer erfundenen Entstehungsgeschichte und biografischen Anregungen. Der Zeitabstand verankert das Filmjahr als spätere Bearbeitung, die zugleich über das Schreiben selbst nachdenkt.",
+      "anchor": "Burroughs’ Roman 1959 → Cronenbergs Film 1991: zweiunddreißig Jahre bis zur freien Bearbeitung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naked_Lunch_(film)",
+        "https://www.criterion.com/films/634-naked-lunch"
+      ]
+    },
+    {
+      "id": "E20261007-F-275-D",
+      "originalId": "E20261007-F-275-D",
+      "knowledgeId": "K-E20261007-F-275-D",
+      "filmTitle": "Naked Lunch",
+      "filmKey": "Naked Lunch|1991",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "David Cronenberg als Regisseur von „Naked Lunch“ kennen.",
+      "question": "Wer führte bei „Naked Lunch“ Regie?",
+      "answers": [
+        {
+          "id": "E20261007-F-275-D:a",
+          "text": "David Lynch",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-D:b",
+          "text": "Terry Gilliam",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-D:c",
+          "text": "David Cronenberg",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-275-D:d",
+          "text": "Ken Russell",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "David Cronenberg führte bei diesem Film Regie.",
+      "context": "Cronenberg sprach mit Burroughs über dessen Leben, einschließlich des tödlichen Schusses auf seine Frau, und erhielt seine Zustimmung zur fiktionalisierten Verwendung biografischer Ereignisse. Für das Drehbuch konnte er außerdem mehrere Werke heranziehen, darunter „Queer“ und „Interzone“. Seine Bearbeitung verbindet deshalb unterschiedliche Texte und Lebensmaterial, statt nur den Titelroman nachzuerzählen.",
+      "anchor": "Cronenbergs Bearbeitung verbindet Burroughs-Texte mit fiktionalisiertem Lebensmaterial.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://movingimagesource.us/files/dialogues/2/63883_programs_transcript_html_204.htm",
+        "https://www.criterion.com/films/634-naked-lunch"
+      ]
+    },
+    {
+      "id": "E20261007-F-265-L1",
+      "originalId": "E20261007-F-265-L1",
+      "knowledgeId": "K-E20261007-F-265-L1",
+      "filmKey": "Naked|1993",
+      "filmTitle": "Nackt",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Johnny sucht Schutz bei Louise, ohne die frühere Beziehung geklärt zu haben.",
+      "question": "„Nackt“: Bei wem sucht Johnny (David Thewlis) zunächst Unterkunft?",
+      "answers": [
+        {
+          "id": "E20261007-F-265-L1:a",
+          "text": "Bei der Krankenschwester Sandra",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-L1:b",
+          "text": "Bei seiner früheren Freundin Louise",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-L1:c",
+          "text": "Bei seiner neuen Bekanntschaft Sophie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-L1:d",
+          "text": "Bei Archies Freundin Maggie",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Louise (Lesley Sharp) ist die frühere Freundin, zu deren Wohnung er fährt.",
+      "context": "Johnny (David Thewlis) verlässt Manchester nach einer gewalttätigen Begegnung und sucht Louise (Lesley Sharp) in London auf. Der vertraute Kontakt bietet eine mögliche Zuflucht, aber keine geklärte Beziehung. In der gemeinsamen Wohnung trifft er zudem Sophie (Katrin Cartlidge). Sein Bedürfnis nach Unterkunft führt damit sofort in ein weiteres Geflecht verletzlicher und ungleicher Beziehungen.",
+      "anchor": "Johnny sucht Schutz bei Louise, ohne die frühere Beziehung geklärt zu haben.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naked_(1993_film)"
+      ]
+    },
+    {
+      "id": "E20261007-F-265-L2",
+      "originalId": "E20261007-F-265-L2",
+      "knowledgeId": "K-E20261007-F-265-L2",
+      "filmKey": "Naked|1993",
+      "filmTitle": "Nackt",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Johnnys nächtliche Begegnungen in London verorten.",
+      "question": "„Nackt“: In welcher Stadt finden Johnnys (David Thewlis) ausgedehnte nächtliche Begegnungen statt?",
+      "answers": [
+        {
+          "id": "E20261007-F-265-L2:a",
+          "text": "Manchester",
+          "correct": false,
+          "feedback": "Manchester ist der Ausgangspunkt seiner Flucht."
+        },
+        {
+          "id": "E20261007-F-265-L2:b",
+          "text": "Liverpool",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-L2:c",
+          "text": "London",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-L2:d",
+          "text": "Glasgow",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der größere Teil der Begegnungen folgt seiner Ankunft in London.",
+      "context": "In London trifft Johnny (David Thewlis) den Schotten Archie (Ewen Bremner), der seine Freundin Maggie (Susan Vidler) sucht. Später begegnet er Nachtwächter Brian (Peter Wight) im leeren Bürogebäude. Die Wanderung verbindet eine private Suche auf der Straße mit der Einsamkeit eines bewachten Arbeitsplatzes.",
+      "anchor": "Archies Suche und Brians Wachposten sind Stationen von Johnnys Londoner Nacht.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naked_(1993_film)"
+      ]
+    },
+    {
+      "id": "E20261007-F-265-M1",
+      "originalId": "E20261007-F-265-M1",
+      "knowledgeId": "K-E20261007-F-265-M1",
+      "filmKey": "Naked|1993",
+      "filmTitle": "Nackt",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Brians Wachposten schützt leere Räume und isoliert ihn selbst.",
+      "question": "Was bewacht Nachtwächter Brian (Peter Wight) in „Nackt“?",
+      "answers": [
+        {
+          "id": "E20261007-F-265-M1:a",
+          "text": "Ein geschlossenes Einkaufszentrum",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-M1:b",
+          "text": "Ein unbewohntes Mietshaus",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-M1:c",
+          "text": "Eine stillgelegte Fabrik",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-M1:d",
+          "text": "Ein weitgehend leeres Bürogebäude",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Brian sichert nachts ein Gebäude, dessen Arbeitsräume leer sind.",
+      "context": "Brian (Peter Wight) schützt nachts ein weitgehend leeres Gebäude und spricht mit Johnny (David Thewlis) über seine eigenen Hoffnungen. Der gesicherte Raum bietet Beschäftigung und Isolation zugleich. Johnnys Fragen dringen in diese Ruhe ein, ohne ihm automatisch Nähe zu geben. Das Gespräch verbindet daher eine reale Arbeitssituation mit dem schwierigen Versuch, über Sinn und Zukunft zu sprechen.",
+      "anchor": "Brians Wachposten schützt leere Räume und isoliert ihn selbst.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naked_(1993_film)"
+      ]
+    },
+    {
+      "id": "E20261007-F-265-M2",
+      "originalId": "E20261007-F-265-M2",
+      "knowledgeId": "K-E20261007-F-265-M2",
+      "filmKey": "Naked|1993",
+      "filmTitle": "Nackt",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Wohlstand und Mittellosigkeit unterscheiden Jeremy und Johnny, ihre Gewalt verbindet sie.",
+      "question": "Was verbindet Johnny (David Thewlis) und Jeremy (Greg Cruttwell) in „Nackt“?",
+      "answers": [
+        {
+          "id": "E20261007-F-265-M2:a",
+          "text": "Ihre soziale Lage ist verschieden, doch beide verletzen Frauen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-M2:b",
+          "text": "Jeremy bietet Johnny Arbeit an und macht ihn dadurch von sich abhängig.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-M2:c",
+          "text": "Johnny bewundert Jeremys Erfolg und bittet ihn um Rat.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-M2:d",
+          "text": "Johnny schützt Sophie vor Jeremy und gewinnt dadurch ihr Vertrauen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Johnnys Mittellosigkeit und Jeremys Wohlstand verhindern die ähnliche Gewalt nicht.",
+      "context": "Jeremy (Greg Cruttwell) tritt mit Geld und Besitzanspruch auf, Johnny (David Thewlis) dagegen als entwurzelter Besucher. Ihr Umgang mit Frauen zeigt trotz dieses Unterschieds ähnliche Missachtung. Der Film macht die wirtschaftliche Lage deshalb nicht zu einer vollständigen Erklärung der Gewalt. Gesellschaftliche Macht und sprachliche Überlegenheit können auf verschiedene Weise gegen verletzliche Menschen eingesetzt werden.",
+      "anchor": "Wohlstand und Mittellosigkeit unterscheiden Jeremy und Johnny, ihre Gewalt verbindet sie.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naked_(1993_film)"
+      ]
+    },
+    {
+      "id": "E20261007-F-265-S1",
+      "originalId": "E20261007-F-265-S1",
+      "knowledgeId": "K-E20261007-F-265-S1",
+      "filmKey": "Naked|1993",
+      "filmTitle": "Nackt",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Sandra antwortet auf Johnnys Verletzungen mit praktischer Pflege.",
+      "question": "„Nackt“: Warum verändert Sandras (Claire Skinner) Rückkehr den Umgang mit dem verletzten Johnny (David Thewlis)?",
+      "answers": [
+        {
+          "id": "E20261007-F-265-S1:a",
+          "text": "Sie organisiert eine ärztliche Untersuchung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-S1:b",
+          "text": "Sie ist Krankenschwester und kümmert sich um seine Verletzungen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-S1:c",
+          "text": "Sie vermittelt eine Entschädigung durch die Angreifer.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-S1:d",
+          "text": "Sie begleitet Johnny ins Krankenhaus.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sandras Beruf befähigt sie zur unmittelbaren Versorgung.",
+      "context": "Johnny (David Thewlis) kehrt nach weiteren Angriffen verletzt in die Wohnung zurück. Sandra (Claire Skinner) kommt von ihrer Reise und versorgt ihn als Krankenschwester. Ihre praktische Hilfe steht neben den langen, oft verletzenden Gesprächen. Der Film zeigt damit eine Form von Zuwendung, die auf den konkreten Zustand eines Menschen reagiert, ohne seine Haltung zu billigen.",
+      "anchor": "Sandra antwortet auf Johnnys Verletzungen mit praktischer Pflege.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naked_(1993_film)"
+      ]
+    },
+    {
+      "id": "E20261007-F-265-S2",
+      "originalId": "E20261007-F-265-S2",
+      "knowledgeId": "K-E20261007-F-265-S2",
+      "filmKey": "Naked|1993",
+      "filmTitle": "Nackt",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Johnny verlässt Louise trotz der besprochenen gemeinsamen Rückkehr und geht verletzt weiter.",
+      "question": "„Nackt“: Was tut Johnny (David Thewlis), während Louise (Lesley Sharp) zur Arbeit geht?",
+      "answers": [
+        {
+          "id": "E20261007-F-265-S2:a",
+          "text": "Er wartet mit Fahrkarten auf Louise.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-S2:b",
+          "text": "Er versöhnt sich mit Sophie und bleibt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-S2:c",
+          "text": "Er nimmt Geld und verlässt die Wohnung, obwohl eine gemeinsame Rückkehr geplant war",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-S2:d",
+          "text": "Er holt Louise von der Arbeit ab.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Er geht allein und bricht die Aussicht auf eine gemeinsame Fahrt ab.",
+      "context": "Louise (Lesley Sharp) und Johnny (David Thewlis) haben eine mögliche Rückkehr nach Manchester besprochen. Sobald sie arbeiten geht, nimmt er Geld und humpelt allein davon. Der Schluss zeigt keine sichere neue Ankunft. Eine angebotene Bindung bleibt hinter ihm zurück, während seine körperliche Verletzung auch den erneuten Weg sichtbar mühsam macht.",
+      "anchor": "Johnny verlässt Louise trotz der besprochenen gemeinsamen Rückkehr und geht verletzt weiter.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Naked_(1993_film)"
+      ]
+    },
+    {
+      "id": "E20261007-F-265-Y",
+      "originalId": "E20261007-F-265-Y",
+      "knowledgeId": "K-E20261007-F-265-Y",
+      "filmKey": "Naked|1993",
+      "filmTitle": "Nackt",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Leigh und Thewlis: The Short and Curlies 1987 → Nackt 1993, sechs Jahre später.",
+      "question": "In welchem Jahr wurde „Nackt“ mit David Thewlis erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "E20261007-F-265-Y:a",
+          "text": "1991",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-Y:b",
+          "text": "1992",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-Y:c",
+          "text": "1994",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-Y:d",
+          "text": "1993",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die erste Veröffentlichung gehört ins Jahr 1993.",
+      "context": "Mike Leigh und David Thewlis arbeiteten bereits 1987 beim Kurzfilm The Short and Curlies zusammen. Nackt erschien 1993, sechs Jahre später, mit Thewlis in der zentralen Rolle des Johnny. In Cannes wurden Regisseur und Hauptdarsteller ausgezeichnet. Der frühere gemeinsame Film verankert das Jahr deshalb als einen späteren Schritt in einer bereits bestehenden Zusammenarbeit.",
+      "anchor": "Leigh und Thewlis: The Short and Curlies 1987 → Nackt 1993, sechs Jahre später.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.criterion.com/films/220-naked"
+      ]
+    },
+    {
+      "id": "E20261007-F-265-D",
+      "originalId": "E20261007-F-265-D",
+      "knowledgeId": "K-E20261007-F-265-D",
+      "filmKey": "Naked|1993",
+      "filmTitle": "Nackt",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Mike Leighs Regie und die vorbereitende Funktion der Improvisation zuordnen.",
+      "question": "Wer führte bei „Nackt“ Regie?",
+      "answers": [
+        {
+          "id": "E20261007-F-265-D:a",
+          "text": "Mike Leigh",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-D:b",
+          "text": "Ken Loach",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-D:c",
+          "text": "Stephen Frears",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-265-D:d",
+          "text": "Terence Davies",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Mike Leigh führte bei diesem Film Regie.",
+      "context": "Für „Nackt“ entwickelten Mike Leigh und seine Darsteller vier Monate lang Figuren, Beziehungen und deren Vorgeschichte. Die einzelnen Szenen entstanden erst während der Drehphase durch weitere Proben am jeweiligen Schauplatz. Improvisation diente dabei der Vorbereitung: Sobald die Kamera lief, waren die Abläufe präzise festgelegt. Die spontane Wirkung beruht also auf vorausgehender Strukturierung.",
+      "anchor": "Leigh entwickelt Figuren vorab und strukturiert ihre Szenen am Drehort.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://bombmagazine.org/articles/1994/01/01/mike-leigh/",
+        "https://www.criterion.com/films/220-naked"
+      ]
+    },
+    {
+      "id": "KOM-L-037",
+      "originalId": "KOM-L-037",
+      "knowledgeId": "K-KOM-19-01",
+      "filmKey": "National Lampoon's Christmas Vacation|1989",
+      "filmTitle": "Schöne Bescherung",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Chevy Chase als weihnachtsbegeisterten Familienvater Clark Griswold erkennen.",
+      "question": "Wer spielt in „Schöne Bescherung“ (1989) den Familienvater Clark Griswold, der ein perfektes Weihnachtsfest erzwingen will?",
+      "answers": [
+        {
+          "id": "KOM-L-037:a",
+          "text": "Chevy Chase",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-037:b",
+          "text": "Steve Martin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-037:c",
+          "text": "John Candy",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-037:d",
+          "text": "Bill Murray",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Chevy Chase spielt Clark Griswold.",
+      "context": "Clark (Chevy Chase) möchte ein Familienfest schaffen, das seinen eigenen Erwartungen vollständig entspricht. Chevy Chase verbindet seinen demonstrativen Optimismus mit zunehmender Gereiztheit. Der Film gewinnt die Komik aus dem Abstand zwischen dieser Wunschvorstellung und den vielen eigenständigen Bedürfnissen der Gäste. Je stärker Clark ein perfektes Erlebnis erzwingen möchte, desto weniger nimmt er die tatsächliche Situation gelassen wahr.",
+      "anchor": "Chevy Chase als Gastgeber Clark Griswold.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Lampoon%27s_Christmas_Vacation"
+      ]
+    },
+    {
+      "id": "KOM-L-038",
+      "originalId": "KOM-L-038",
+      "knowledgeId": "K-KOM-19-02",
+      "filmKey": "National Lampoon's Christmas Vacation|1989",
+      "filmTitle": "Schöne Bescherung",
+      "difficulty": "leicht",
+      "questionType": "Motivation",
+      "learningObjective": "Clark will seiner Großfamilie ein besonders schönes Weihnachtsfest bereiten.",
+      "question": "„Schöne Bescherung“ (1989): Was ist Clarks (Chevy Chase) großes persönliches Vorhaben für die Feiertage?",
+      "answers": [
+        {
+          "id": "KOM-L-038:a",
+          "text": "Mit der Familie Weihnachten in einer Berghütte verbringen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-038:b",
+          "text": "Ein vollkommenes Weihnachtsfest mit der Großfamilie ausrichten",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-038:c",
+          "text": "Die Verwandten zu einer gemeinsamen Fernreise einladen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-038:d",
+          "text": "Nur mit Frau und Kindern in einem Hotel feiern",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Clark (Chevy Chase) will seiner Großfamilie ein besonders schönes Weihnachtsfest bereiten.",
+      "context": "Clark (Chevy Chase) beginnt sein Wunschfest mit der Suche nach einem riesigen Weihnachtsbaum. Weil er keine Säge mitgenommen hat, bringt die Familie ihn samt Wurzeln nach Hause. Später verkabelt Clark das ganze Haus mit Lichterketten. Als sie endlich leuchten, belasten sie die Stromversorgung der ganzen Stadt.",
+      "anchor": "Riesenbaum und Lichtermeer sollen Clarks Wunschfest schaffen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Lampoon%27s_Christmas_Vacation"
+      ]
+    },
+    {
+      "id": "KOM-M-037",
+      "originalId": "KOM-M-037",
+      "knowledgeId": "K-KOM-19-03",
+      "filmKey": "National Lampoon's Christmas Vacation|1989",
+      "filmTitle": "Schöne Bescherung",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Eddie erscheint mit seiner Familie in einem heruntergekommenen Wohnmobil.",
+      "question": "„Schöne Bescherung“ (1989): Womit reist Cousin Eddie (Randy Quaid) überraschend an?",
+      "answers": [
+        {
+          "id": "KOM-M-037:a",
+          "text": "Mit einem heruntergekommenen Wohnmobil",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-037:b",
+          "text": "Mit einem Kombi samt Wohnwagen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-037:c",
+          "text": "Mit einem umgebauten Kleinbus",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-037:d",
+          "text": "Mit einem Pick-up samt Campinganhänger",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eddie (Randy Quaid) erscheint mit seiner Familie in einem heruntergekommenen Wohnmobil.",
+      "context": "Eddie (Randy Quaid) kündigt an, mit seiner Familie noch bis zum nächsten Monat zu bleiben. Clark (Chevy Chase) erfährt, dass die Kinder zuletzt keine Weihnachtsgeschenke bekommen haben. Obwohl ihn Eddies Auftreten ärgert, bietet er deshalb an, die Geschenke zu kaufen. Eddie hat dafür bereits eine alphabetische Wunschliste vorbereitet.",
+      "anchor": "Eddie (Randy Quaid) kommt unangekündigt im Wohnmobil.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58204"
+      ]
+    },
+    {
+      "id": "KOM-M-038",
+      "originalId": "KOM-M-038",
+      "knowledgeId": "K-KOM-19-04",
+      "filmKey": "National Lampoon's Christmas Vacation|1989",
+      "filmTitle": "Schöne Bescherung",
+      "difficulty": "mittel",
+      "questionType": "Motivation",
+      "learningObjective": "Clark möchte mit der erwarteten Gratifikation einen Swimmingpool finanzieren.",
+      "question": "„Schöne Bescherung“ (1989): Wofür hat Clark seine erwartete Weihnachtsgratifikation bereits eingeplant?",
+      "answers": [
+        {
+          "id": "KOM-M-038:a",
+          "text": "Für einen Wintergarten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-038:b",
+          "text": "Für einen Swimmingpool",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-038:c",
+          "text": "Für eine neue Küche",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-038:d",
+          "text": "Für eine Garage",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Clark (Chevy Chase) möchte mit der erwarteten Gratifikation einen Swimmingpool finanzieren.",
+      "context": "Clark (Chevy Chase) hat bereits einen Scheck über 7.500 Dollar als Anzahlung für den Pool ausgestellt. Erst vor dem Öffnen des Firmenbriefs gesteht er der Familie, dass der Scheck ohne den erwarteten Bonus platzen würde. Sein geplantes Weihnachtsgeschenk ist damit schon zu einer finanziellen Verpflichtung geworden.",
+      "anchor": "Der Bonus soll den Pool bezahlen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58204"
+      ]
+    },
+    {
+      "id": "KOM-S-037",
+      "originalId": "KOM-S-037",
+      "knowledgeId": "K-KOM-19-05",
+      "filmKey": "National Lampoon's Christmas Vacation|1989",
+      "filmTitle": "Schöne Bescherung",
+      "difficulty": "mittel",
+      "questionType": "Objekt",
+      "learningObjective": "Statt Geld erhält Clark eine Mitgliedschaft in einem Gelee-des-Monats-Club.",
+      "question": "„Schöne Bescherung“ (1989): Was erhält Clark zunächst anstelle der erhofften Geldgratifikation?",
+      "answers": [
+        {
+          "id": "KOM-S-037:a",
+          "text": "Eine Mitgliedschaft im Gelee-des-Monats-Club",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-037:b",
+          "text": "Ein Weinabonnement für ein Jahr",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-037:c",
+          "text": "Einen Geschenkkorb mit Firmenprodukten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-037:d",
+          "text": "Einen Einkaufsgutschein für ein Kaufhaus",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Statt Geld erhält Clark (Chevy Chase) eine Mitgliedschaft in einem Gelee-des-Monats-Club.",
+      "context": "Die Lieferung beantwortet Clarks (Chevy Chase) große Erwartungen mit einem Geschenk, das seine konkreten Verpflichtungen nicht berührt. Die Diskrepanz zwischen symbolischer Aufmerksamkeit und finanzieller Anerkennung löst seinen Zusammenbruch der Selbstbeherrschung aus. Der Film macht die Überraschung besonders wirksam, weil sich viele vorherige Belastungen darin bündeln. Ein scheinbar kleiner Ersatz wird zum Auslöser einer bereits lange vorbereiteten Eskalation.",
+      "anchor": "Kein Poolgeld, sondern Gelee im Abonnement.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Lampoon%27s_Christmas_Vacation"
+      ]
+    },
+    {
+      "id": "KOM-S-038",
+      "originalId": "KOM-S-038",
+      "knowledgeId": "K-KOM-19-06",
+      "filmKey": "National Lampoon's Christmas Vacation|1989",
+      "filmTitle": "Schöne Bescherung",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Eddie nimmt Clarks Wutausbruch wörtlich und bringt den entführten Shirley ins Haus.",
+      "question": "„Schöne Bescherung“ (1989): Wie setzt Eddie (Randy Quaid) Clarks (Chevy Chase) wütende Worte über seinen Chef in die Tat um?",
+      "answers": [
+        {
+          "id": "KOM-S-038:a",
+          "text": "Er bringt die Familie unangemeldet zum Haus des Chefs.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-038:b",
+          "text": "Er entführt den Chef und bringt ihn zu Clark.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-038:c",
+          "text": "Er übergibt dem Chef Clarks schriftliche Kündigung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-038:d",
+          "text": "Er stört die Weihnachtsfeier des Chefs mit einer Protestrede.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eddie (Randy Quaid) nimmt Clarks (Chevy Chase) Wutausbruch wörtlich und bringt den entführten Shirley (Brian Doyle-Murray) ins Haus.",
+      "context": "Clark (Chevy Chase) formuliert seinen Ärger als übersteigerte Wunschfantasie, Eddie (Randy Quaid) behandelt ihn als erfüllbaren Auftrag. Die Eskalation entsteht damit aus einem Missverständnis darüber, wie ernst Sprache gemeint ist. Zugleich zwingt die Ankunft von Shirley (Brian Doyle-Murray) die berufliche Entscheidungsebene in den privaten Raum. Was zuvor als abstrakte Firmenmaßnahme wirkte, bekommt plötzlich sichtbare menschliche Folgen gegenüber einer ganzen Familie.",
+      "anchor": "Eddie (Randy Quaid) macht aus einer Wutrede einen Auftrag.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Lampoon%27s_Christmas_Vacation"
+      ]
+    },
+    {
+      "id": "FF-219-YEAR",
+      "originalId": "FF-219-YEAR",
+      "knowledgeId": "K-FF-219-YEAR",
+      "filmKey": "National Lampoon's Christmas Vacation|1989",
+      "filmTitle": "Schöne Bescherung",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Den Kinostart von „Schöne Bescherung“ auf 1989 datieren.",
+      "question": "„Schöne Bescherung“: In welchem Jahr erschien der Film von Jeremiah Chechik erstmals?",
+      "answers": [
+        {
+          "id": "FF-219-YEAR:y1989",
+          "text": "1989",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-219-YEAR:y1979",
+          "text": "1987",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-219-YEAR:y1981",
+          "text": "1988",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-219-YEAR:y1983",
+          "text": "1990",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Schöne Bescherung“ wurde erstmals 1989 veröffentlicht.",
+      "context": "Die Dreharbeiten begannen im März 1989 in Colorado. Anschließend entstand die verschneite Wohnstraße auf dem Warner-Gelände in Burbank: Baumwollwatte, Sägespäne und Glitzer ersetzten dort den Schnee. Noch im selben Jahr kam die Weihnachtskomödie ins Kino, am 1. Dezember 1989.",
+      "anchor": "1989: Frühjahrsdreh, künstlicher Schnee und Dezemberstart.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58204"
+      ]
+    },
+    {
+      "id": "FF-219-DIRECTOR",
+      "originalId": "FF-219-DIRECTOR",
+      "knowledgeId": "K-FF-219-DIRECTOR",
+      "filmKey": "National Lampoon's Christmas Vacation|1989",
+      "filmTitle": "Schöne Bescherung",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Jeremiah Chechik als Regisseur von „Schöne Bescherung“ kennen.",
+      "question": "Wer führte bei „Schöne Bescherung“ (1989) Regie?",
+      "answers": [
+        {
+          "id": "FF-219-DIRECTOR:a",
+          "text": "Jeremiah Chechik",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-219-DIRECTOR:b",
+          "text": "Charles Crichton",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-219-DIRECTOR:c",
+          "text": "David Zucker",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-219-DIRECTOR:d",
+          "text": "Chris Columbus",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jeremiah Chechik führte Regie.",
+      "context": "Jeremiah Chechik übernahm „Schöne Bescherung“, nachdem Chris Columbus die Produktion wegen Schwierigkeiten mit Hauptdarsteller Chevy Chase verlassen hatte. John Hughes blieb als Autor und Produzent beteiligt. Dieser Wechsel verbindet zwei bekannte Weihnachtskomödien: Hughes gab Columbus anschließend das Drehbuch zu „Kevin – Allein zu Haus“, das schließlich unter dessen Regie verfilmt wurde.",
+      "anchor": "Schöne Bescherung → Jeremiah Chechik",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Lampoon%27s_Christmas_Vacation"
+      ]
+    },
+    {
+      "id": "E20261007-F-009-L1",
+      "originalId": "E20261007-F-009-L1",
+      "knowledgeId": "K-E20261007-F-009-L1",
+      "filmKey": "National Treasure: Book of Secrets|2007",
+      "filmTitle": "Das Vermächtnis des geheimen Buches",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Eine belastete Familiengeschichte setzt die Schatzsuche in Gang.",
+      "question": "Welchen Vorwurf gegen seine Familie möchte Ben Gates (Nicolas Cage) in „Das Vermächtnis des geheimen Buches“ widerlegen?",
+      "answers": [
+        {
+          "id": "E20261007-F-009-L1:a",
+          "text": "Ein Vorfahr habe einen Schatz der Konföderierten gestohlen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-L1:b",
+          "text": "Ein Vorfahr habe das Attentat auf Abraham Lincoln mitgeplant.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-L1:c",
+          "text": "Sein Vater habe ein wichtiges Nationaldokument gefälscht.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-L1:d",
+          "text": "Sein Großvater habe ein Geheimarchiv der Regierung verkauft.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ben Gates will den Namen seines Vorfahren im Lincoln-Fall rehabilitieren.",
+      "context": "Ben Gates (Nicolas Cage) präsentiert seine Familiengeschichte zunächst als Beispiel für Zivilcourage. Mitch Wilkinson (Ed Harris) legt jedoch einen Fund vor, der den Vorfahren belastet. Die anschließende Schatzsuche soll deshalb nicht nur Reichtum bringen. Ben versucht mit weiteren Belegen zu zeigen, welche Rolle sein Vorfahr tatsächlich in der Geschichte spielte.",
+      "anchor": "Eine belastete Familiengeschichte setzt die Schatzsuche in Gang.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Treasure:_Book_of_Secrets"
+      ]
+    },
+    {
+      "id": "E20261007-F-009-L2",
+      "originalId": "E20261007-F-009-L2",
+      "knowledgeId": "K-E20261007-F-009-L2",
+      "filmKey": "National Treasure: Book of Secrets|2007",
+      "filmTitle": "Das Vermächtnis des geheimen Buches",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Für das Buch riskiert Ben den Vorwurf der Präsidentenentführung.",
+      "question": "Wen führt Ben Gates (Nicolas Cage) in „Das Vermächtnis des geheimen Buches“ in einen geheimen Tunnel, um Zugang zum Präsidentenbuch zu erhalten?",
+      "answers": [
+        {
+          "id": "E20261007-F-009-L2:a",
+          "text": "Den US-Vizepräsidenten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-L2:b",
+          "text": "Den Direktor des FBI",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-L2:c",
+          "text": "Den US-Präsidenten",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-L2:d",
+          "text": "Den US-Außenminister",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ben Gates führt den US-Präsidenten in einen geheimen Tunnel.",
+      "context": "Ben Gates (Nicolas Cage) will Zugang zu einem nur dem Präsidenten zugänglichen Buch. Bei einer Feier in Mount Vernon nutzt er seine Kenntnis geheimer Wege, um den Präsidenten (Bruce Greenwood) kurz von seinem Schutzpersonal zu trennen. Das Mittel bringt ihn in große rechtliche Gefahr: Die gewünschte private Unterhaltung kann als Entführung verstanden werden.",
+      "anchor": "Für das Buch riskiert Ben den Vorwurf der Präsidentenentführung.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Treasure:_Book_of_Secrets"
+      ]
+    },
+    {
+      "id": "E20261007-F-009-M1",
+      "originalId": "E20261007-F-009-M1",
+      "knowledgeId": "K-E20261007-F-009-M1",
+      "filmKey": "National Treasure: Book of Secrets|2007",
+      "filmTitle": "Das Vermächtnis des geheimen Buches",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "London und Washington liefern zwei Teile derselben Möbelspur.",
+      "question": "Welche Funktion übernehmen die beiden Resolute-Schreibtische in „Das Vermächtnis des geheimen Buches“ für die Spurensuche?",
+      "answers": [
+        {
+          "id": "E20261007-F-009-M1:a",
+          "text": "Ihre geschnitzten Zeichen enthalten einen identischen Geheimtext.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-M1:b",
+          "text": "Ihre Herstellerplatten nennen die Besitzer des gesuchten Schatzes.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-M1:c",
+          "text": "Ihre Holzarten weisen auf denselben Herkunftsort hin.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-M1:d",
+          "text": "Ihre versteckten Fächer enthalten zusammengehörige Hinweise.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die beiden Schreibtische bewahren zusammengehörige Hinweise.",
+      "context": "Ben Gates (Nicolas Cage) und Abigail Chase (Diane Kruger) finden im Londoner Schreibtisch eine beschriftete Holztafel. Im Gegenstück im Weißen Haus fehlt die zweite Tafel. Dort entdecken sie stattdessen einen Siegelabdruck, der zum Präsidentenbuch führt. Die beiden Fächer liefern daher unterschiedliche nächste Schritte der Suche.",
+      "anchor": "Die erste Tafel liegt in London; ihr Gegenstück führt zum Präsidentenbuch.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Treasure:_Book_of_Secrets"
+      ]
+    },
+    {
+      "id": "E20261007-F-009-M2",
+      "originalId": "E20261007-F-009-M2",
+      "knowledgeId": "K-E20261007-F-009-M2",
+      "filmKey": "National Treasure: Book of Secrets|2007",
+      "filmTitle": "Das Vermächtnis des geheimen Buches",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Schriftspur verlangt Zusammenarbeit zwischen getrennten Eltern.",
+      "question": "Welche besondere Fachkenntnis bringt Emily Appleton (Helen Mirren) in „Das Vermächtnis des geheimen Buches“ in die Suche ein?",
+      "answers": [
+        {
+          "id": "E20261007-F-009-M2:a",
+          "text": "Sie kann alte Schriftzeichen deuten.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-M2:b",
+          "text": "Sie kann alte Landkarten anhand der Vermessung datieren.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-M2:c",
+          "text": "Sie erkennt die Herstellung historischer Goldmünzen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-M2:d",
+          "text": "Sie kennt die Umbauten des Buckingham Palace.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Emily Appleton hilft bei der Deutung der alten Schriftzeichen.",
+      "context": "Patrick Gates (Jon Voight) muss seine frühere Frau Emily Appleton (Helen Mirren) um Hilfe bitten. Ihr Fachwissen ist für die Schriftspur nötig, obwohl ihr persönliches Verhältnis angespannt ist. Die Familiengeschichte des Films wird so doppelt wirksam: Ein alter Vorfahr motiviert die Reise, und gegenwärtige Familienmitglieder müssen für ihre Lösung wieder zusammenarbeiten.",
+      "anchor": "Die Schriftspur verlangt Zusammenarbeit zwischen getrennten Eltern.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Treasure:_Book_of_Secrets"
+      ]
+    },
+    {
+      "id": "E20261007-F-009-S1",
+      "originalId": "E20261007-F-009-S1",
+      "knowledgeId": "K-E20261007-F-009-S1",
+      "filmKey": "National Treasure: Book of Secrets|2007",
+      "filmTitle": "Das Vermächtnis des geheimen Buches",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Das Präsidentenbuch verbindet Archiv und versteckten Schatz.",
+      "question": "Welche Aufgabe erfüllt die offizielle Bibliothek des Kongresses in „Das Vermächtnis des geheimen Buches“ für die Schatzsuche?",
+      "answers": [
+        {
+          "id": "E20261007-F-009-S1:a",
+          "text": "Dort wird eine unvollständige Schatzkarte öffentlich archiviert.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-S1:b",
+          "text": "Dort ist das vertrauliche Präsidentenbuch verborgen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-S1:c",
+          "text": "Dort finden sich Gates’ Vorfahren in einer Liste der Angeklagten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-009-S1:d",
+          "text": "Dort werden die beiden Schreibtische erstmals zusammen ausgestellt.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Präsidentenbuch liegt in der Library of Congress.",
+      "context": "Ben Gates (Nicolas Cage) findet im Präsidentenbuch ein Foto der fehlenden Holztafel. Calvin Coolidges Eintrag berichtet von deren Entdeckung und Vernichtung. Außerdem verbindet er den Fund mit dem Bau von Mount Rushmore, der geographische Hinweise auf die Goldstadt verdecken sollte.",
+      "anchor": "Das Buch bewahrt die zerstörte Tafel als Foto und verweist auf Mount Rushmore.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Treasure:_Book_of_Secrets"
+      ]
+    },
+    {
+      "id": "ED114-GODFREY-M-001",
+      "originalId": "ED114-GODFREY-M-001",
+      "knowledgeId": "K-ED114-GODFREY-M-001",
+      "filmKey": "My Man Godfrey|1936",
+      "filmTitle": "Mein Mann Godfrey",
+      "difficulty": "mittel",
+      "questionType": "Filmherstellung",
+      "learningObjective": "La Cava ließ das Ensemble Tagesaufnahmen sichten und Vorschläge zur Weiterentwicklung einbringen.",
+      "question": "Wie beteiligte Gregory La Cava laut Farran Smith Nehmes Criterion-Essay das Ensemble von „Mein Mann Godfrey“ an der Weiterentwicklung des Films?",
+      "answers": [
+        {
+          "id": "ED114-GODFREY-M-001:a",
+          "text": "Tagesaufnahmen sichten und Ideen für Dialog und Spiel beisteuern.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-GODFREY-M-001:b",
+          "text": "Tonaufnahmen hören und Gesten von einem Choreografen übernehmen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-GODFREY-M-001:c",
+          "text": "Stumme Proben aufnehmen und Dialoge erst nach dem Dreh ergänzen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-GODFREY-M-001:d",
+          "text": "Den fertigen Schnitt sehen und Dialoge bei der Nachsynchronisation entwickeln.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "La Cava ermunterte die Darsteller, Tagesaufnahmen anzusehen und ihm neue Ideen vorzuschlagen.",
+      "context": "Das Drehbuch war für La Cava ein veränderbarer Ausgangspunkt. Er arbeitete mit Morrie Ryskind daran, ohne selbst einen Autorencredit zu erhalten. Ausgiebige Proben und Einfälle des Ensembles konnten die Komödie weiterentwickeln; auch kurzfristig eingebrachte Ideen waren willkommen.",
+      "anchor": "Tagesaufnahmen gemeinsam nutzen, statt das Drehbuch als unveränderlich behandeln.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.criterion.com/current/posts/5928-my-man-godfrey-the-right-kind-of-people"
+      ]
+    },
+    {
+      "id": "ED114-MYSTERY-S-001",
+      "originalId": "ED114-MYSTERY-S-001",
+      "knowledgeId": "K-ED114-MYSTERY-S-001",
+      "filmKey": "Mystery Train|1989",
+      "filmTitle": "Mystery Train",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Zeitplanung und gestaffelte Zuschauererkenntnis verbinden.",
+      "question": "Wie organisierte Jarmusch die Gleichzeitigkeit der Episoden in „Mystery Train“?",
+      "answers": [
+        {
+          "id": "ED114-MYSTERY-S-001:a",
+          "text": "Mit identischen Szenenlängen und einem gemeinsamen Enthüllungsmoment.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-MYSTERY-S-001:b",
+          "text": "Mit gestoppten Teilstücken und mehreren Hinweisen für individuelles Erkennen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-MYSTERY-S-001:c",
+          "text": "Mit gestoppten Teilstücken und einem abschließenden gemeinsamen Zeitsignal.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-MYSTERY-S-001:d",
+          "text": "Mit angeglichenen Episodenlängen und wiederkehrenden akustischen Hinweisen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Er verband genaue Zeitplanung mit verteilten Hinweisen.",
+      "context": "Jarmusch stoppte einzelne Abschnitte mit der Uhr. Mehrere kleine Hinweise sollten die Gleichzeitigkeit für Zuschauer zu unterschiedlichen Zeitpunkten erkennbar machen.",
+      "anchor": "Präzise getaktet, individuell erkannt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://louderthanwar.com/jim-jarmusch-is-our-favourite-film-director-so-with-great-pleasure-we-reprint-this-classic-interview-with-him-by-ian-johnston/"
+      ]
+    },
+    {
+      "id": "ED114-MYSTERY-S-002",
+      "originalId": "ED114-MYSTERY-S-002",
+      "knowledgeId": "K-ED114-MYSTERY-S-002",
+      "filmKey": "Mystery Train|1989",
+      "filmTitle": "Mystery Train",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Kameradistanz und beabsichtigte Gewaltdarstellung verknüpfen.",
+      "question": "Wie gestaltete Jarmusch den Überfall in „Mystery Train“, und welche Wirkung bezweckte er?",
+      "answers": [
+        {
+          "id": "ED114-MYSTERY-S-002:a",
+          "text": "Distanzierte Überwachungsperspektive, damit die Gewalt unromantisiert erscheint.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-MYSTERY-S-002:b",
+          "text": "Distanzierte Überwachungsperspektive, damit die Täter souveräner erscheinen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-MYSTERY-S-002:c",
+          "text": "Nahe Gesichtsaufnahmen, damit die Gewalt unromantisiert erscheint.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-MYSTERY-S-002:d",
+          "text": "Nahe Gesichtsaufnahmen, damit die Täter souveräner erscheinen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Distanzierte Beobachtung sollte die Gewalt nicht romantisieren.",
+      "context": "Jarmusch wollte den Überfall wie durch eine Überwachungskamera zeigen. Auf dramatisierende Großaufnahmen und Zeitlupe verzichtete er bewusst.",
+      "anchor": "Beobachten statt Gewalt ausschmücken.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://louderthanwar.com/jim-jarmusch-is-our-favourite-film-director-so-with-great-pleasure-we-reprint-this-classic-interview-with-him-by-ian-johnston/"
+      ]
+    },
+    {
+      "id": "ED114-NAKEDLUNCH-S-001",
+      "originalId": "ED114-NAKEDLUNCH-S-001",
+      "knowledgeId": "K-ED114-NAKEDLUNCH-S-001",
+      "filmKey": "Naked Lunch|1991",
+      "filmTitle": "Naked Lunch",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Musikalische Erprobung und anschließende Kompositions-/Improvisationsarbeit verbinden.",
+      "question": "Welcher Weg führte laut Cronenberg zur musikalischen Verbindung von Jazz und Interzone in „Naked Lunch“?",
+      "answers": [
+        {
+          "id": "ED114-NAKEDLUNCH-S-001:a",
+          "text": "Charlie-Parker-Aufnahmen im Probeschnitt; danach Colemans notengetreue Orchestereinspielung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-NAKEDLUNCH-S-001:b",
+          "text": "Colemans Jajouka-Aufnahme im Probeschnitt; danach seine Improvisation über Shores Orchestermusik.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-NAKEDLUNCH-S-001:c",
+          "text": "Colemans Jajouka-Aufnahme im Probeschnitt; danach Shores vollständiger Ersatz durch historische Aufnahmen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED114-NAKEDLUNCH-S-001:d",
+          "text": "Charlie-Parker-Aufnahmen im Probeschnitt; danach Shores Übertragung ihrer Soli auf das Orchester.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ein erprobter Coleman/Jajouka-Klang führte zu Colemans neuer Improvisation.",
+      "context": "Howard Shore schlug eine Aufnahme Ornette Colemans mit den Master Musicians of Jajouka vor. Sie bewährte sich im vorläufigen Mix. Nach einer Filmvorführung auf Band sagte Coleman zu; Shore schrieb die Vor- und Abspannmusik als Grundlage seiner Improvisation mit Orchester.",
+      "anchor": "Vom erprobten Klang zur neuen improvisierten Filmmusik.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://movingimagesource.us/files/dialogues/2/63883_programs_transcript_html_204.htm"
+      ]
     }
   ]
 }
