@@ -392,7 +392,7 @@ export function App({
       }
     : {
         genres: (selectedGenres ?? genres).filter((genre) => genre !== ACTORS),
-        sources: mode === "fehler" ? ["film" as const] : selectedSources,
+        sources: selectedSources,
         difficulties:
           mode === "entdecken" ? [...difficulties] : selectedDifficulties,
         familiarities:
@@ -419,10 +419,7 @@ export function App({
       : undefined);
   const roundTopic = standard
     ? "Alle Themen"
-    : selectionTopic(
-        selectedCategories,
-        mode === "fehler" ? ["film"] : selectedSources,
-      );
+    : selectionTopic(selectedCategories, selectedSources);
   const begin = async (requestedMode: Mode = mode) => {
     unlockSound(state.settings);
     const next = await mutate((s) => {
@@ -499,7 +496,7 @@ export function App({
         topic: source.filters ? source.topic : "Alle Themen",
         filters: source.filters ?? {
           genres,
-          sources: ["film"],
+          sources: [...questionSources],
           difficulties: [...difficulties],
           familiarities: [...familiarities],
         },
@@ -659,9 +656,7 @@ export function App({
                   }
                   begin={begin}
                   roundTopic={roundTopic}
-                  selectedSources={
-                    mode === "fehler" ? ["film"] : selectedSources
-                  }
+                  selectedSources={selectedSources}
                   filters={filters}
                   genres={standard ? recordGenres : genres}
                   selectedDifficulties={selectedDifficulties}

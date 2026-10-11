@@ -30,6 +30,8 @@ Schwierigkeiten und Fragenauswahl seit Sites-Version 69 am 11.10.2026 um 16:18:2
 
 ## Prüfung der Fragenauswahl am 11.10.2026
 
+**Folgeauftrag lokal umgesetzt, noch nicht veröffentlicht:** Die unten festgehaltenen Befunde beschreiben den geprüften Ausgangsstand. Wiederholen ist inzwischen auf alle gewählten Fragenbereiche erweitert; richtig beantwortete, noch nicht fällige Ziele werden in Filmreise und Freiem Spiel bei Alternativen für 24 Stunden zurückgestellt. Die stufenübergreifende Zielchance und die Viererquote für fällige Filmreiseziele bleiben unverändert. [Aktueller Vertrag](Wiederholungen-und-Lernstufen-2026-10-10.md#alle-fragenbereiche-und-24-stunden-abstand--11102026).
+
 Auf Nutzerfrage die aktuellen Auswahlpfade für Filmreise, Wiederholen, Freies Spiel, Solo-Rekorde, Duelle und Proberunde gelesen und gezielt geprüft. Die folgenden Bewertungen sind eine Code- und Vertragsprüfung des lokalen Main-Stands, keine erneute Prüfung der produktiven Datenbank und keine neue Freigabe geänderter Spielregeln.
 
 ### Tatsächliche Auswahl je Zweck

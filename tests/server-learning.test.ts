@@ -18,6 +18,183 @@ beforeAll(async () => {
   await fixture.seedRanked(release);
 }, 30000);
 afterAll(() => fixture?.db.close());
+
+it("zählt und wiederholt fällige Ziele aller gewählten Bereiche einschließlich Rundenergebnis", async () => {
+  const { api, owner } = await fixture.client();
+  await new OnlineGameStore(api, owner).open();
+  const stamp = new Date("2026-10-11T12:00:00+02:00").getTime();
+  api.clockAt(stamp);
+  const target = (
+    await fixture.db.query<{ generation: string }>(
+      "select generation from public.quiz_account_heads where owner_id=$1",
+      [owner],
+    )
+  ).rows[0].generation;
+  await fixture.db.exec("begin");
+  try {
+    await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
+      insert into quiz_game_internal.catalog_meta values
+      ('film','film-goal','Test','Abenteuer','film','leicht',1,'[]'),
+      ('actor','actor-goal','Test','Schauspieler','actors','experte',0,'[]'),
+      ('award','award-goal','Test','Preisträger','awards','schwer',0,'[]'),
+      ('later','later-goal','Test','Schauspieler','actors','leicht',0,'[]'),
+      ('new','new-goal','Test','Preisträger','awards','leicht',0,'[]');
+      select quiz_game_internal.refresh_groups(); delete from quiz_game_internal.journey_cache;`);
+    await fixture.db.query(
+      `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
+      select $1,$2,'learning',goal,i,jsonb_build_object('stage',1,'due',$3::bigint+case when i=4 then 60000 else -10000+i end,'seen',1),0
+      from (values ('film-goal',1),('actor-goal',2),('award-goal',3),('later-goal',4)) v(goal,i)`,
+      [owner, target, stamp],
+    );
+    await fixture.db.query(
+      `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
+      select $1,$2,'event','event'||i,i,jsonb_build_object('roundId','source','knowledgeId',goal,'correct',false,'at',$3::bigint-100000),0
+      from (values ('film-goal',1),('actor-goal',2),('award-goal',3),('later-goal',4)) v(goal,i)`,
+      [owner, target, stamp],
+    );
+    const setup = {
+      mode: "fehler",
+      topic: "Alle Themen",
+      filters: {
+        genres: ["Abenteuer"],
+        sources: ["film", "actors", "awards"],
+        difficulties: ["leicht", "mittel", "schwer", "experte"],
+        familiarities: [1, 2, 3, 4],
+      },
+    };
+    const selection = await api.call<any>("quiz_game_view", {
+      request_text: JSON.stringify({
+        ...setup,
+        action: "selection",
+        timezone: "Europe/Berlin",
+      }),
+    });
+    expect(selection).toMatchObject({
+      selectionSize: 3,
+      repetitions: { due: 3, later: 1, nextAt: stamp + 60000 },
+    });
+    const queue = async (selectedSetup = setup) =>
+      (
+        await fixture.db.query<{ ids: string[] }>(
+          "select quiz_game_internal.select_queue($1,$2,$3,'Europe/Berlin') ids",
+          [owner, target, JSON.stringify(selectedSetup)],
+        )
+      ).rows[0].ids;
+    expect(await queue()).toEqual(["film", "actor", "award"]);
+    expect(
+      await queue({
+        ...setup,
+        filters: {
+          ...setup.filters,
+          genres: [],
+          sources: ["actors", "awards"],
+        },
+      }),
+    ).toEqual(["actor", "award"]);
+    expect(
+      await api.call<any>("quiz_game_view", {
+        request_text: JSON.stringify({
+          action: "round-repetitions",
+          scope: "source",
+          timezone: "Europe/Berlin",
+        }),
+      }),
+    ).toMatchObject({ due: 3, nextAt: stamp + 60000 });
+    expect(
+      await queue({ ...setup, sourceRoundId: "other" } as typeof setup),
+    ).toBeNull();
+  } finally {
+    await fixture.db.exec("rollback");
+  }
+});
+
+it("stellt kürzlich richtige nicht fällige Serverziele 24 Stunden zurück, mit Auffüllung und Fälligkeitsausnahme", async () => {
+  const { api, owner } = await fixture.client();
+  await new OnlineGameStore(api, owner).open();
+  const stamp = new Date("2026-10-11T12:00:00+02:00").getTime();
+  api.clockAt(stamp);
+  const target = (
+    await fixture.db.query<{ generation: string }>(
+      "select generation from public.quiz_account_heads where owner_id=$1",
+      [owner],
+    )
+  ).rows[0].generation;
+  await fixture.db.exec("begin");
+  try {
+    await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
+      insert into quiz_game_internal.catalog_meta select 'q'||i,'goal'||i,'Test','Abenteuer','film','leicht',1,'[]' from generate_series(0,19) i;
+      insert into quiz_game_internal.catalog_meta values ('variant','goal0','Test','Abenteuer','film','leicht',1,'[]');
+      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+    await fixture.db.query(
+      `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
+      select $1,$2,'learning','goal'||i,i,jsonb_build_object('stage',2,'due',$3::bigint+259200000,'lastSeenAt',$3::bigint-1000,'lastSecure',$3::bigint-172800000,'seen',3),0 from generate_series(0,19) i`,
+      [owner, target, stamp],
+    );
+    await fixture.db.query(
+      `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
+      select $1,$2,'event','event'||i,i,jsonb_build_object('roundId','old-round','knowledgeId','goal'||i,'correct',true,'guessed',i=4,'at',$3::bigint-3600000),0 from generate_series(0,9) i`,
+      [owner, target, stamp],
+    );
+    const setup = {
+      mode: "ueben",
+      topic: "Alle Themen",
+      filters: {
+        genres: ["Abenteuer"],
+        sources: ["film"],
+        difficulties: ["leicht"],
+        familiarities: [1, 2, 3, 4],
+      },
+    };
+    const queue = async (mode = "ueben") =>
+      (
+        await fixture.db.query<{ ids: string[] }>(
+          "select quiz_game_internal.select_queue($1,$2,$3,'Europe/Berlin') ids",
+          [owner, target, JSON.stringify({ ...setup, mode })],
+        )
+      ).rows[0].ids;
+    for (const mode of ["ueben", "entdecken"]) {
+      for (let i = 0; i < 4; i++)
+        expect((await queue(mode)).sort()).toEqual(
+          Array.from({ length: 10 }, (_, i) => `q${i + 10}`).sort(),
+        );
+    }
+    // Eleven goals: the one alternative must survive while protected goals fill the rest.
+    await fixture.db.exec(
+      "delete from quiz_game_internal.catalog_meta where id in (select 'q'||i from generate_series(11,19) i)",
+    );
+    for (const mode of ["ueben", "entdecken"]) {
+      const ids = await queue(mode);
+      expect(ids).toHaveLength(10);
+      expect(ids).toContain("q10");
+      expect(
+        ids.filter((id) => id === "q0" || id === "variant").length,
+      ).toBeLessThanOrEqual(1);
+    }
+    // Exactly 24 hours old is eligible; recent correct but already due is eligible too.
+    await fixture.db.query(
+      "update public.quiz_sync_entries set value=jsonb_set(value,'{at}',to_jsonb($3::bigint-86400000)) where owner_id=$1 and generation=$2 and kind='event' and id='event1'",
+      [owner, target, stamp],
+    );
+    await fixture.db.query(
+      "update public.quiz_sync_entries set value=jsonb_set(value,'{due}',to_jsonb($3::bigint)) where owner_id=$1 and generation=$2 and kind='learning' and id='goal2'",
+      [owner, target, stamp],
+    );
+    for (const mode of ["ueben", "entdecken"]) {
+      const ids = await queue(mode);
+      expect(ids).toEqual(expect.arrayContaining(["q1", "q2", "q10"]));
+    }
+    // The timed lookup is covered by the account/time index, without a history replay.
+    expect(
+      (
+        await fixture.db.query<{ indexdef: string }>(
+          "select indexdef from pg_indexes where indexname='quiz_sync_recent_correct'",
+        )
+      ).rows[0].indexdef,
+    ).toContain("owner_id, generation");
+  } finally {
+    await fixture.db.exec("rollback");
+  }
+});
 it("berechnet 50-%-Grenzen aufgerundet aus aktuellen Zielen und ignoriert alte Freigaben", async () => {
   const { api, owner } = await fixture.client();
   const store = new OnlineGameStore(api, owner);

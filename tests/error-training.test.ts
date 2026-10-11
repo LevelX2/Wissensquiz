@@ -80,7 +80,7 @@ describe("Wiederholen", () => {
     expect(openMistakes(state.events).get(qs[0].knowledgeId)?.failures).toBe(1);
   });
 
-  it("wählt fällige Filmziele unabhängig von richtig, falsch oder geraten, älteste Termine zuerst", () => {
+  it("wählt fällige Ziele aller Bereiche unabhängig von richtig, falsch oder geraten, älteste Termine zuerst", () => {
     const variant = { ...qs[0], id: "variant" };
     const actor = {
       ...qs[3],
@@ -88,11 +88,17 @@ describe("Wiederholen", () => {
       knowledgeId: "actor-goal",
       metadata: { ...qs[3].metadata, person_id: "actor" },
     };
-    const state = emptyState([...qs, variant, actor]);
+    const award = {
+      ...qs[4],
+      id: "award",
+      knowledgeId: "award-goal",
+      tags: ["Preisträger"],
+    };
+    const state = emptyState([...qs, variant, actor, award]);
     played(
       state,
-      [qs[0], qs[1], qs[2], actor],
-      ["correct", "wrong", "guessed", "correct"],
+      [qs[0], qs[1], qs[2], actor, award],
+      ["correct", "wrong", "guessed", "correct", "correct"],
       now - 2 * DAY,
     );
     const selected = selectQuestions(
@@ -105,8 +111,20 @@ describe("Wiederholen", () => {
       qs[1].knowledgeId,
       qs[2].knowledgeId,
       qs[0].knowledgeId,
+      actor.knowledgeId,
+      award.knowledgeId,
     ]);
-    expect(new Set(selected.map((q) => q.knowledgeId)).size).toBe(3);
+    expect(new Set(selected.map((q) => q.knowledgeId)).size).toBe(5);
+    expect(
+      selectQuestions(state.questions, state.learning, {
+        ...options,
+        filters: {
+          genres: [],
+          sources: ["actors", "awards"],
+          difficulties: ["leicht", "mittel", "schwer", "experte"],
+        },
+      }).map((q) => q.knowledgeId),
+    ).toEqual([actor.knowledgeId, award.knowledgeId]);
     expect(
       selectQuestions(state.questions, state.learning, { ...options, size: 1 }),
     ).toHaveLength(1);

@@ -41,9 +41,10 @@ export function Help() {
           richtige Antworten verschieben Deinen Wiederholungstermin und die
           Festigung nicht nach hinten. Der Abstand zählt ab Deiner letzten
           erreichten Lernstufe. Nach der Antwort siehst Du den nächsten Termin.
-          Der Modus „Wiederholen“ enthält ausschließlich fällige Filmziele. Die
-          Filmreise mischt bei genügend passenden Fragen sechs neue Ziele mit
-          vier fälligen Wiederholungen je Zehnerrunde.
+          Der Modus „Wiederholen“ enthält ausschließlich fällige Wissensziele
+          aus Deinen gewählten Fragenbereichen. Die Filmreise mischt bei
+          genügend passenden Fragen sechs neue Ziele mit vier fälligen
+          Wiederholungen je Zehnerrunde.
         </p>
         <ol>
           <li>Stufe 1: erste sichere Antwort → Wiederholung nach 1 Tag.</li>
@@ -58,8 +59,8 @@ export function Help() {
         </p>
         <p>
           Nach jeder Antwort gilt der nächste Wiederholungstermin. Früher
-          richtig beantwortete Filmziele kommen ebenso in „Wiederholen“ vor wie
-          falsch beantwortete oder geratene Ziele, sobald sie fällig sind.
+          richtig beantwortete Wissensziele kommen ebenso in „Wiederholen“ vor
+          wie falsch beantwortete oder geratene Ziele, sobald sie fällig sind.
           Fragenvarianten teilen denselben Lernstand. Gefestigte Ziele können
           weiterhin vorkommen.
         </p>
@@ -99,11 +100,11 @@ export function Help() {
           Filmgruppen gelten nur für Filmfragen, die Schwierigkeitsstufen für
           alle Bereiche. Im Freien Spiel und in Rekordrunden erfolgt die Auswahl
           zufällig aus dem gemeinsamen Pool; feste Anteile je Bereich gibt es
-          nicht. „Wiederholen“ enthält ausschließlich fällige Filmfragen. Die
-          Filmreise unterstützt ebenfalls alle drei Bereiche. Schauspieler und
-          Preisträger öffnen ihre Stufen separat: je 20 sicher beantwortete
-          Ziele aus der vorherigen Stufe bis zu Experte. Bei Filmfragen bleiben
-          Genre- und Filmgruppenfortschritte erhalten.
+          nicht. „Wiederholen“ enthält ausschließlich fällige Fragen aus den
+          gewählten Bereichen. Die Filmreise unterstützt ebenfalls alle drei
+          Bereiche. Schauspieler und Preisträger öffnen ihre Stufen separat: je
+          20 sicher beantwortete Ziele aus der vorherigen Stufe bis zu Experte.
+          Bei Filmfragen bleiben Genre- und Filmgruppenfortschritte erhalten.
         </p>
         <p>
           Classics und Arthouse sind kuratierte Filmauswahlen innerhalb Deiner
@@ -121,9 +122,10 @@ export function Help() {
           Expertenfragen verlangen vertieftes Film- und Preiswissen, etwa über
           Filmhandwerk, geteilte Auszeichnungen und ungewöhnliche Preisverläufe.
           Du kannst sie im Freien Spiel und in Rekordrunden auswählen; im
-          Wiederholungsmodus wiederholst Du fällige Filmziele. Die Filmreise
-          führt weiterhin durch leicht, mittel und schwer. Eine sichere richtige
-          Expertenantwort bringt wie eine schwere Antwort 5 zusätzliche XP.
+          Wiederholungsmodus wiederholst Du fällige Wissensziele aller gewählten
+          Bereiche. Die Filmreise führt weiterhin durch leicht, mittel und
+          schwer. Eine sichere richtige Expertenantwort bringt wie eine schwere
+          Antwort 5 zusätzliche XP.
         </p>
       </details>
       <details>
@@ -171,15 +173,19 @@ export function Help() {
           </li>
           <li>
             <strong>Freies Spiel:</strong> Genres, Schwierigkeit und Bekanntheit
-            frei kombinieren. Zufällige Wissensziele ohne Lernstandsgewichtung
-            und ohne Zeitdruck.
+            frei kombinieren. Zufällige Wissensziele ohne Zeitdruck. In
+            Filmreise und Freiem Spiel werden richtig beantwortete, noch nicht
+            fällige Ziele für 24 Stunden zurückgestellt, solange passende
+            Alternativen vorhanden sind. Das gilt auch für andere Varianten
+            desselben Ziels.
           </li>
           <li>
-            <strong>Wiederholen:</strong> Ausschließlich fällige Filmziele
-            festigen – auch früher richtig beantwortete. Am längsten fällige
-            Ziele kommen zuerst. Deine Filter gelten weiter. Neue und noch nicht
-            fällige Fragen werden nicht ergänzt. Im Ergebnis kannst Du fällige
-            Filmfragen der abgeschlossenen Runde erneut spielen.
+            <strong>Wiederholen:</strong> Ausschließlich fällige Wissensziele
+            aus Filmfragen, Schauspieler- und Preisfragen festigen – auch früher
+            richtig beantwortete. Am längsten fällige Ziele kommen zuerst. Deine
+            Filter gelten weiter. Neue und noch nicht fällige Fragen werden
+            nicht ergänzt. Im Ergebnis kannst Du fällige Fragen der
+            abgeschlossenen Runde erneut spielen.
           </li>
           <li>
             <strong>10 Fragen:</strong> Pro Frage 30 Sekunden. Richtige

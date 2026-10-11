@@ -295,7 +295,7 @@ export function Result({
               data-feedback="own"
               disabled={busy || active}
             >
-              Fällige Filmfragen dieser Runde wiederholen ({retryCount}) →
+              Fällige Fragen dieser Runde wiederholen ({retryCount}) →
             </button>
           )}
           <button
@@ -310,7 +310,7 @@ export function Result({
         <p className="muted tiny">
           {active
             ? "Setze zuerst Deine begonnene Runde fort oder beende sie auf der Startseite."
-            : "Du wiederholst ausschließlich Filmfragen dieser Runde, deren Lerntermin erreicht ist."}
+            : "Du wiederholst ausschließlich Fragen dieser Runde, deren Lerntermin erreicht ist."}
         </p>
       )}
       {!trialActions && (

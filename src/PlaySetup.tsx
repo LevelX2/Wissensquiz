@@ -395,54 +395,50 @@ export function PlaySetup({
 
             {!isRecordMode(mode) && (
               <div className="quiz-filters">
-                {mode !== "fehler" && (
-                  <SetupSection
-                    title="Fragenbereiche"
-                    illustration={<DisclosureArtwork subject="answers" />}
-                    selection={
-                      selectedSources.map((s) => sourceLabels[s]).join(" + ") ||
-                      "Keine Bereiche"
-                    }
-                  >
-                    <fieldset disabled={busy}>
-                      <legend>Fragenbereiche</legend>
-                      <div className="filter-options">
-                        {questionSources.map((source) => (
-                          <label className="filter-choice" key={source}>
-                            <input
-                              type="checkbox"
-                              checked={selectedSources.includes(source)}
-                              onChange={(e) =>
-                                void changeSetup({
-                                  sources: e.target.checked
-                                    ? [...selectedSources, source]
-                                    : selectedSources.filter(
-                                        (s) => s !== source,
-                                      ),
-                                })
-                              }
-                            />
-                            <GenreArtwork
-                              genre={
-                                source === "film"
-                                  ? "Classics"
-                                  : sourceLabels[source]
-                              }
-                              compact
-                            />
-                            {sourceLabels[source]}
-                          </label>
-                        ))}
-                      </div>
-                      <p className="tiny muted">
-                        Gewählte Bereiche bilden einen gemeinsamen Zufallspool.
-                        Genres, Filmgruppen und die Filmauswahl gelten nur für
-                        Filmfragen. In der Filmreise gelten die freigeschalteten
-                        Stufen jedes Bereichs.
-                      </p>
-                    </fieldset>
-                  </SetupSection>
-                )}
+                <SetupSection
+                  title="Fragenbereiche"
+                  illustration={<DisclosureArtwork subject="answers" />}
+                  selection={
+                    selectedSources.map((s) => sourceLabels[s]).join(" + ") ||
+                    "Keine Bereiche"
+                  }
+                >
+                  <fieldset disabled={busy}>
+                    <legend>Fragenbereiche</legend>
+                    <div className="filter-options">
+                      {questionSources.map((source) => (
+                        <label className="filter-choice" key={source}>
+                          <input
+                            type="checkbox"
+                            checked={selectedSources.includes(source)}
+                            onChange={(e) =>
+                              void changeSetup({
+                                sources: e.target.checked
+                                  ? [...selectedSources, source]
+                                  : selectedSources.filter((s) => s !== source),
+                              })
+                            }
+                          />
+                          <GenreArtwork
+                            genre={
+                              source === "film"
+                                ? "Classics"
+                                : sourceLabels[source]
+                            }
+                            compact
+                          />
+                          {sourceLabels[source]}
+                        </label>
+                      ))}
+                    </div>
+                    <p className="tiny muted">
+                      Gewählte Bereiche bilden einen gemeinsamen Fragenpool.
+                      Genres, Filmgruppen und die Filmauswahl gelten nur für
+                      Filmfragen. In der Filmreise gelten die freigeschalteten
+                      Stufen jedes Bereichs.
+                    </p>
+                  </fieldset>
+                </SetupSection>
                 <SetupSection
                   title="Filmgenres & Filmauswahl"
                   illustration={<DisclosureArtwork subject="film" />}

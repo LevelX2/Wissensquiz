@@ -4,7 +4,174 @@ import {
   accountBackend,
   fixCalendarTime,
   openRoundSetup,
+  modePreparation,
+  readStoredState,
+  writeStoredState,
 } from "./fixtures";
+import { answer, complete, startRound } from "../../src/engine";
+import { questionSourceOf, genreOf } from "../../src/filters";
+
+test("Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- und Preisfragen", async ({
+  page,
+}) => {
+  const now = new Date("2026-10-11T12:00:00+02:00");
+  await page.clock.install({ time: now });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const state = await readStoredState(page);
+  state.settings.sound = false;
+  const questions = (["film", "actors", "awards"] as const).map((source) =>
+    state.questions.find(
+      (q) => questionSourceOf(q) === source && q.difficulty === "leicht",
+    )!,
+  );
+  expect(new Set(questions.map((q) => q.knowledgeId)).size).toBe(3);
+  const seed = startRound(
+    state,
+    { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+    now.getTime() - 1200000,
+  );
+  seed.questions = structuredClone(questions);
+  seed.order = questions.map((q) => q.answers.map((a) => a.id));
+  seed.familiaritySnapshot = undefined;
+  for (const q of questions)
+    answer(
+      state,
+      seed.id,
+      q.id,
+      { dontKnow: true },
+      1000,
+      now.getTime() - 1200000,
+    );
+  complete(state, seed.id, now.getTime() - 1199000);
+  state.settings.roundSetup = {
+    mode: "fehler",
+    sources: ["film", "actors", "awards"],
+    genres: [genreOf(questions[0])],
+    categories: [],
+    difficulties: ["leicht", "mittel", "schwer", "experte"],
+    familiarities: [1, 2, 3, 4],
+  };
+  await writeStoredState(page, state);
+  await page.reload();
+  await openRoundSetup(page);
+  const sources = page.getByRole("group", {
+    name: "Fragenbereiche",
+    exact: true,
+  });
+  for (const label of ["Filmfragen", "Schauspieler", "Preisträger"])
+    await expect(sources.getByLabel(label, { exact: true })).toBeChecked();
+  await expect(
+    page.getByLabel("Fällige Wiederholungen", { exact: true }),
+  ).toContainText("3 Wiederholungen fällig");
+  // Narrowing the areas must update both the count and the actual server start.
+  await sources.getByLabel("Filmfragen", { exact: true }).uncheck();
+  await expect(
+    page.getByLabel("Fällige Wiederholungen", { exact: true }),
+  ).toContainText("2 Wiederholungen fällig");
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(
+    page.getByRole("button", { name: "Keine Ahnung", exact: true }),
+  ).toBeEnabled();
+  const round = (await readStoredState(page)).rounds.find(
+    (r) => r.status === "active",
+  )!;
+  expect(round.questions).toHaveLength(2);
+  expect(new Set(round.questions.map(questionSourceOf))).toEqual(
+    new Set(["actors", "awards"]),
+  );
+  for (let i = 0; i < 2; i++) {
+    await page
+      .getByRole("button", { name: "Keine Ahnung", exact: true })
+      .click();
+    await page
+      .getByRole("button", {
+        name: i === 1 ? /Runde abschließen/ : /Nächste Frage/,
+      })
+      .click();
+  }
+  await expect(page.locator(".result")).toBeVisible();
+  // Move the calendar without firing request timeouts of still loading result views.
+  await page.clock.setSystemTime(new Date(now.getTime() + 11 * 60_000));
+  await page.evaluate(() => window.dispatchEvent(new Event("focus")));
+  await expect(
+    page.getByRole("button", {
+      name: /Fällige Fragen dieser Runde wiederholen \(2\)/,
+    }),
+  ).toBeVisible();
+});
+
+test("Freies Spiel wiederholt innerhalb 24 Stunden keine richtigen nicht fälligen Ziele bei Alternativen", async ({
+  page,
+}) => {
+  const now = new Date("2026-10-11T12:00:00+02:00");
+  await page.clock.install({ time: now });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const state = await readStoredState(page);
+  state.settings.sound = false;
+  const pool = [
+    ...new Map(
+      state.questions
+        .filter(
+          (q) => questionSourceOf(q) === "film" && q.difficulty === "leicht",
+        )
+        .map((q) => [q.knowledgeId, q]),
+    ).values(),
+  ].slice(0, 20);
+  expect(pool).toHaveLength(20);
+  const round = startRound(
+    state,
+    { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+    now.getTime() - 3600000,
+  );
+  round.questions = structuredClone(pool.slice(0, 10));
+  round.order = round.questions.map((q) => q.answers.map((a) => a.id));
+  round.familiaritySnapshot = undefined;
+  for (const q of round.questions)
+    answer(state, round.id, q.id, q.correctId, 1000, now.getTime() - 3599000);
+  complete(state, round.id, now.getTime() - 3598000);
+  const previous = new Set(round.questions.map((q) => q.knowledgeId));
+  state.settings.roundSetup = {
+    mode: "ueben",
+    sources: ["film", "actors", "awards"],
+    genres: null,
+    categories: [],
+    difficulties: ["leicht", "mittel", "schwer", "experte"],
+    familiarities: [1, 2, 3, 4],
+  };
+  await writeStoredState(page, state);
+  const backend = accountBackend(page);
+  await backend.admin(async () => {
+    await backend.db.query(
+      "delete from quiz_game_internal.catalog_meta where not(id=any($1::text[]))",
+      [pool.map((q) => q.id)],
+    );
+    await backend.db.exec(
+      "select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;",
+    );
+  });
+  await page.reload();
+  await openRoundSetup(page);
+  await expect(
+    modePreparation(page, /Freies Spiel Alle Stufen/),
+  ).toHaveAttribute("aria-pressed", "true");
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(
+    page.getByRole("button", { name: "Keine Ahnung", exact: true }),
+  ).toBeEnabled();
+  const next = (await readStoredState(page)).rounds.find(
+    (r) => r.status === "active",
+  )!;
+  expect(next.questions).toHaveLength(10);
+  expect(next.questions.every((q) => !previous.has(q.knowledgeId))).toBe(true);
+  expect(next.questions.map((q) => q.knowledgeId).sort()).toEqual(
+    pool
+      .slice(10)
+      .map((q) => q.knowledgeId)
+      .sort(),
+  );
+});
 test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
   page,
 }) => {

@@ -108,7 +108,7 @@ test("Filmreise zeigt die nächste Etappe; Wiederholen festigt fällige Filmfrag
   });
   await page.getByRole("button", { name: "Spielen", exact: true }).click();
   await openRoundSetup(page);
-  await modePreparation(page, /Wiederholen Fällige Filmfragen/).click();
+  await modePreparation(page, /Wiederholen Fällige Fragen/).click();
   await expect(overview).toContainText("13 Wiederholungen fällig");
   await expect(page.getByLabel("Fragenauswahl", { exact: true })).toHaveCount(
     0,
@@ -220,7 +220,7 @@ test("kompakte Lernanzeige zählt den fälligen Pool nur beim Wiederholen und ak
   await modePreparation(page, /Filmreise Filmwelten/).click();
   await expect(overview).toHaveCount(0);
   await openRoundSetup(page);
-  await modePreparation(page, /Wiederholen Fällige Filmfragen/).click();
+  await modePreparation(page, /Wiederholen Fällige Fragen/).click();
   await expect(overview).toContainText("12 Wiederholungen fällig");
   await page.clock.setFixedTime(new Date(now.getTime() + 10 * 60_000 + 1000));
   await page.evaluate(() => window.dispatchEvent(new Event("focus")));
@@ -620,7 +620,7 @@ test("Wiederholen hat einen verständlichen leeren Zustand und bleibt als Modus 
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await openRoundSetup(page);
-  await modePreparation(page, /Wiederholen Fällige Filmfragen/).click();
+  await modePreparation(page, /Wiederholen Fällige Fragen/).click();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
   await expect(
     page.getByText(
@@ -633,7 +633,7 @@ test("Wiederholen hat einen verständlichen leeren Zustand und bleibt als Modus 
   await page.reload();
   await openRoundSetup(page);
   await expect(
-    modePreparation(page, /Wiederholen Fällige Filmfragen/),
+    modePreparation(page, /Wiederholen Fällige Fragen/),
   ).toHaveAttribute("aria-pressed", "true");
   await expect(page.locator(".round-guide")).toContainText(
     "Neue Fragen und noch nicht fällige Wiederholungen werden nicht ergänzt",
@@ -712,14 +712,14 @@ for (const width of [320, 1280]) {
     );
     await expect(
       page.getByRole("button", {
-        name: /Fällige Filmfragen dieser Runde wiederholen/,
+        name: /Fällige Fragen dieser Runde wiederholen/,
       }),
     ).toHaveCount(0);
     await page.clock.setFixedTime(new Date(now.getTime() + 10 * 60_000 + 1000));
     await page.evaluate(() => window.dispatchEvent(new Event("focus")));
     await expect(
       page.getByRole("button", {
-        name: /Fällige Filmfragen dieser Runde wiederholen \(2\)/,
+        name: /Fällige Fragen dieser Runde wiederholen \(2\)/,
       }),
     ).toBeEnabled();
     expect(
@@ -752,7 +752,7 @@ for (const width of [320, 1280]) {
     await expect(page.locator(".review > details")).toHaveCount(1);
     await page
       .getByRole("button", {
-        name: /Fällige Filmfragen dieser Runde wiederholen \(2\)/,
+        name: /Fällige Fragen dieser Runde wiederholen \(2\)/,
       })
       .click();
     await expect(page.locator(".question-card")).toBeVisible();
@@ -787,14 +787,14 @@ for (const width of [320, 1280]) {
     );
     await expect(
       page.getByRole("button", {
-        name: /Fällige Filmfragen dieser Runde wiederholen/,
+        name: /Fällige Fragen dieser Runde wiederholen/,
       }),
     ).toHaveCount(0);
     await page.getByRole("button", { name: "Neue Runde wählen" }).click();
     await openRoundSetup(page);
     await openRoundSetup(page);
     await openRoundSetup(page);
-    await modePreparation(page, /Wiederholen Fällige Filmfragen/).click();
+    await modePreparation(page, /Wiederholen Fällige Fragen/).click();
     await expect(
       page.getByRole("button", { name: "Losspielen" }),
     ).toBeDisabled();

@@ -23,7 +23,7 @@ import {
   newlyUnlocked,
 } from "./learningPath";
 import { familiarityOf, familiarities, selectionRule } from "./familiarity";
-import { discoveryContext } from "./discovery";
+import { discoveryContext, recentCorrectContext } from "./discovery";
 import { matchesTopic } from "./categories";
 import { prepareFactQuestion } from "./yearQuestions";
 import { repetitionContext } from "./errorTraining";
@@ -76,6 +76,7 @@ export function selectQuestions(
     size: number;
     now: number;
     recentKnowledgeIds?: Set<string>;
+    recentCorrectKnowledgeIds?: Set<string>;
     knowledgeIds?: Set<string>;
     recordPreset?: "standard" | "genre";
   },
@@ -102,14 +103,20 @@ export function selectQuestions(
     return unique
       .filter(
         (q) =>
-          questionSourceOf(q) === "film" &&
           (!options.knowledgeIds || options.knowledgeIds.has(q.knowledgeId)) &&
           learning[q.knowledgeId] &&
           nextLearningAt(learning[q.knowledgeId], options.now) <= options.now,
       )
       .sort((a, b) => learning[a.knowledgeId].due - learning[b.knowledgeId].due)
       .slice(0, options.size);
-  if (options.mode === "ueben") return unique.slice(0, options.size);
+  const deferred = (q: Question) =>
+    !!options.recentCorrectKnowledgeIds?.has(q.knowledgeId) &&
+    !!learning[q.knowledgeId] &&
+    nextLearningAt(learning[q.knowledgeId], options.now) > options.now;
+  if (options.mode === "ueben")
+    return unique
+      .sort((a, b) => Number(deferred(a)) - Number(deferred(b)))
+      .slice(0, options.size);
   if (isRecordMode(options.mode)) {
     if (
       options.recordPreset === "standard" ||
@@ -198,15 +205,18 @@ export function selectQuestions(
         );
       });
     // Not-yet-due practice fills only the remaining places, older goals first.
-    for (const recent of [false, true]) {
-      const candidates = repeats.filter(
-        (q) => !!options.recentKnowledgeIds?.has(q.knowledgeId) === recent,
-      );
-      take(
-        candidates.filter((q) => !due.includes(q)),
-        options.size,
-      );
-    }
+    for (const postponed of [false, true])
+      for (const recent of [false, true]) {
+        const candidates = repeats.filter(
+          (q) =>
+            deferred(q) === postponed &&
+            !!options.recentKnowledgeIds?.has(q.knowledgeId) === recent,
+        );
+        take(
+          candidates.filter((q) => !due.includes(q)),
+          options.size,
+        );
+      }
     return shuffle(result, random);
   }
   return shuffle(result, random);
@@ -330,6 +340,7 @@ export function startRound(
     {
       ...options,
       ...(options.mode === "entdecken" ? discoveryContext(state) : {}),
+      ...recentCorrectContext(state, now),
       ...(options.mode === "fehler"
         ? repetitionContext(state, options.sourceRoundId)
         : {}),
