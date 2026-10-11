@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 3350,
-  "totalReviewed": 3500,
-  "remainingFilmQuestions": 7233,
+  "completedInThisRun": 3400,
+  "totalReviewed": 3550,
+  "remainingFilmQuestions": 7183,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 9273,
+  "remainingAllQuestions": 9223,
   "blocks": [
     {
       "block": 1,
@@ -343,6 +343,11 @@
     {
       "block": 67,
       "path": "Block-67.json",
+      "count": 50
+    },
+    {
+      "block": 68,
+      "path": "Block-68.json",
       "count": 50
     }
   ],
@@ -3846,209 +3851,59 @@
     "FAN-202610-P01-L-002",
     "FAN-202610-P01-M-001",
     "FAN-202610-P01-M-002",
-    "FAN-202610-P01-S-001"
+    "FAN-202610-P01-S-001",
+    "FAN-202610-P01-S-002",
+    "FAN-202610-P01-M-003",
+    "FAN-202610-P01-S-003",
+    "G100-20261008-MUSIK-008-L1",
+    "G100-20261008-MUSIK-008-L2",
+    "G100-20261008-MUSIK-008-M1",
+    "G100-20261008-MUSIK-008-M2",
+    "G100-20261008-MUSIK-008-S1",
+    "G100-20261008-MUSIK-008-S2",
+    "G100-20261008-MUSIK-008-Y",
+    "G100-20261008-MUSIK-008-D",
+    "E20261007-F-259-L1",
+    "E20261007-F-259-L2",
+    "E20261007-F-259-M1",
+    "E20261007-F-259-M2",
+    "E20261007-F-259-S1",
+    "E20261007-F-259-S2",
+    "E20261007-F-259-Y",
+    "E20261007-F-259-D",
+    "ASI-202610-P01-L-011",
+    "ASI-202610-P01-L-012",
+    "ASI-202610-P01-M-016",
+    "ASI-202610-P01-M-017",
+    "ASI-202610-P01-S-016",
+    "ASI-202610-P01-S-017",
+    "ASI-202610-P01-M-018",
+    "ASI-202610-P01-S-018",
+    "WES-L-009",
+    "WES-L-010",
+    "WES-M-009",
+    "WES-M-010",
+    "WES-S-009",
+    "WES-S-010",
+    "FF-280-YEAR",
+    "FF-280-DIRECTOR",
+    "ACT-L-035",
+    "ACT-L-036",
+    "ACT-M-035",
+    "ACT-M-036",
+    "ACT-S-035",
+    "ACT-S-036",
+    "FF-018-YEAR",
+    "FF-018-DIRECTOR",
+    "ACT-L-033",
+    "ACT-L-034",
+    "ACT-M-033",
+    "ACT-M-034",
+    "ACT-S-033",
+    "ACT-S-034",
+    "ACT-L-033-V1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "FAN-202610-P01-S-002",
-      "filmKey": "Ghostbusters|1984"
-    },
-    {
-      "id": "FAN-202610-P01-M-003",
-      "filmKey": "Ghostbusters|1984"
-    },
-    {
-      "id": "FAN-202610-P01-S-003",
-      "filmKey": "Ghostbusters|1984"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-L1",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-L2",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-M1",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-M2",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-S1",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-S2",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-Y",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-D",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "E20261007-F-259-L1",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-L2",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-M1",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-M2",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-S1",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-S2",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-Y",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-D",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "ASI-202610-P01-L-011",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-L-012",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-M-016",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-M-017",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-S-016",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-S-017",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-M-018",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-S-018",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "WES-L-009",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "WES-L-010",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "WES-M-009",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "WES-M-010",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "WES-S-009",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "WES-S-010",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "FF-280-YEAR",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "FF-280-DIRECTOR",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "ACT-L-035",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-L-036",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-M-035",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-M-036",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-S-035",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-S-036",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "FF-018-YEAR",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "FF-018-DIRECTOR",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-L-033",
-      "filmKey": "Goldfinger|1964"
-    },
-    {
-      "id": "ACT-L-034",
-      "filmKey": "Goldfinger|1964"
-    },
-    {
-      "id": "ACT-M-033",
-      "filmKey": "Goldfinger|1964"
-    },
-    {
-      "id": "ACT-M-034",
-      "filmKey": "Goldfinger|1964"
-    },
-    {
-      "id": "ACT-S-033",
-      "filmKey": "Goldfinger|1964"
-    },
-    {
-      "id": "ACT-S-034",
-      "filmKey": "Goldfinger|1964"
-    },
-    {
-      "id": "ACT-L-033-V1",
-      "filmKey": "Goldfinger|1964"
-    },
     {
       "id": "ACT-L-034-V1",
       "filmKey": "Goldfinger|1964"
@@ -32784,204 +32639,204 @@
   ],
   "next": [
     {
-      "id": "FAN-202610-P01-S-002",
-      "filmKey": "Ghostbusters|1984"
-    },
-    {
-      "id": "FAN-202610-P01-M-003",
-      "filmKey": "Ghostbusters|1984"
-    },
-    {
-      "id": "FAN-202610-P01-S-003",
-      "filmKey": "Ghostbusters|1984"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-L1",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-L2",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-M1",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-M2",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-S1",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-S2",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-Y",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "G100-20261008-MUSIK-008-D",
-      "filmKey": "Gigi|1958"
-    },
-    {
-      "id": "E20261007-F-259-L1",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-L2",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-M1",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-M2",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-S1",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-S2",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-Y",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "E20261007-F-259-D",
-      "filmKey": "Gilda|1946"
-    },
-    {
-      "id": "ASI-202610-P01-L-011",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-L-012",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-M-016",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-M-017",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-S-016",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-S-017",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-M-018",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "ASI-202610-P01-S-018",
-      "filmKey": "Ging chaat goo si juk jaap|1988"
-    },
-    {
-      "id": "WES-L-009",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "WES-L-010",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "WES-M-009",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "WES-M-010",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "WES-S-009",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "WES-S-010",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "FF-280-YEAR",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "FF-280-DIRECTOR",
-      "filmKey": "Giù la testa|1971"
-    },
-    {
-      "id": "ACT-L-035",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-L-036",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-M-035",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-M-036",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-S-035",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-S-036",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "FF-018-YEAR",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "FF-018-DIRECTOR",
-      "filmKey": "GoldenEye|1995"
-    },
-    {
-      "id": "ACT-L-033",
+      "id": "ACT-L-034-V1",
       "filmKey": "Goldfinger|1964"
     },
     {
-      "id": "ACT-L-034",
+      "id": "ACT-M-033-V1",
       "filmKey": "Goldfinger|1964"
     },
     {
-      "id": "ACT-M-033",
+      "id": "ACT-M-034-V1",
       "filmKey": "Goldfinger|1964"
     },
     {
-      "id": "ACT-M-034",
+      "id": "ACT-S-033-V1",
       "filmKey": "Goldfinger|1964"
     },
     {
-      "id": "ACT-S-033",
+      "id": "ACT-S-034-V1",
       "filmKey": "Goldfinger|1964"
     },
     {
-      "id": "ACT-S-034",
+      "id": "FF-017-YEAR",
       "filmKey": "Goldfinger|1964"
     },
     {
-      "id": "ACT-L-033-V1",
+      "id": "FF-017-DIRECTOR",
       "filmKey": "Goldfinger|1964"
+    },
+    {
+      "id": "THR-202610-P01-L-015",
+      "filmKey": "Gone Girl|2014"
+    },
+    {
+      "id": "THR-202610-P01-L-016",
+      "filmKey": "Gone Girl|2014"
+    },
+    {
+      "id": "THR-202610-P01-M-022",
+      "filmKey": "Gone Girl|2014"
+    },
+    {
+      "id": "THR-202610-P01-M-023",
+      "filmKey": "Gone Girl|2014"
+    },
+    {
+      "id": "THR-202610-P01-S-022",
+      "filmKey": "Gone Girl|2014"
+    },
+    {
+      "id": "THR-202610-P01-S-023",
+      "filmKey": "Gone Girl|2014"
+    },
+    {
+      "id": "THR-202610-P01-M-024",
+      "filmKey": "Gone Girl|2014"
+    },
+    {
+      "id": "THR-202610-P01-S-024",
+      "filmKey": "Gone Girl|2014"
+    },
+    {
+      "id": "E20261007-F-140-L1",
+      "filmKey": "Good Boys|2019"
+    },
+    {
+      "id": "E20261007-F-140-L2",
+      "filmKey": "Good Boys|2019"
+    },
+    {
+      "id": "E20261007-F-140-M1",
+      "filmKey": "Good Boys|2019"
+    },
+    {
+      "id": "E20261007-F-140-M2",
+      "filmKey": "Good Boys|2019"
+    },
+    {
+      "id": "E20261007-F-140-S1",
+      "filmKey": "Good Boys|2019"
+    },
+    {
+      "id": "E20261007-F-140-S2",
+      "filmKey": "Good Boys|2019"
+    },
+    {
+      "id": "E20261007-F-140-Y",
+      "filmKey": "Good Boys|2019"
+    },
+    {
+      "id": "E20261007-F-140-D",
+      "filmKey": "Good Boys|2019"
+    },
+    {
+      "id": "KOM-202609-P02-L-089",
+      "filmKey": "Good Bye, Lenin!|2003"
+    },
+    {
+      "id": "KOM-202609-P02-L-090",
+      "filmKey": "Good Bye, Lenin!|2003"
+    },
+    {
+      "id": "KOM-202609-P02-M-089",
+      "filmKey": "Good Bye, Lenin!|2003"
+    },
+    {
+      "id": "KOM-202609-P02-M-090",
+      "filmKey": "Good Bye, Lenin!|2003"
+    },
+    {
+      "id": "KOM-202609-P02-S-089",
+      "filmKey": "Good Bye, Lenin!|2003"
+    },
+    {
+      "id": "KOM-202609-P02-S-090",
+      "filmKey": "Good Bye, Lenin!|2003"
+    },
+    {
+      "id": "KOM-202609-P02-S-089-V1",
+      "filmKey": "Good Bye, Lenin!|2003"
+    },
+    {
+      "id": "FF-420-YEAR",
+      "filmKey": "Good Bye, Lenin!|2003"
+    },
+    {
+      "id": "FF-420-DIRECTOR",
+      "filmKey": "Good Bye, Lenin!|2003"
+    },
+    {
+      "id": "E20261007-F-236-L1",
+      "filmKey": "Good Time|2017"
+    },
+    {
+      "id": "E20261007-F-236-L2",
+      "filmKey": "Good Time|2017"
+    },
+    {
+      "id": "E20261007-F-236-M1",
+      "filmKey": "Good Time|2017"
+    },
+    {
+      "id": "E20261007-F-236-M2",
+      "filmKey": "Good Time|2017"
+    },
+    {
+      "id": "E20261007-F-236-S1",
+      "filmKey": "Good Time|2017"
+    },
+    {
+      "id": "E20261007-F-236-S2",
+      "filmKey": "Good Time|2017"
+    },
+    {
+      "id": "E20261007-F-236-Y",
+      "filmKey": "Good Time|2017"
+    },
+    {
+      "id": "E20261007-F-236-D",
+      "filmKey": "Good Time|2017"
+    },
+    {
+      "id": "DRA-L-011",
+      "filmKey": "Good Will Hunting|1997"
+    },
+    {
+      "id": "DRA-L-012",
+      "filmKey": "Good Will Hunting|1997"
+    },
+    {
+      "id": "DRA-M-011",
+      "filmKey": "Good Will Hunting|1997"
+    },
+    {
+      "id": "DRA-M-012",
+      "filmKey": "Good Will Hunting|1997"
+    },
+    {
+      "id": "DRA-S-011",
+      "filmKey": "Good Will Hunting|1997"
+    },
+    {
+      "id": "DRA-S-012",
+      "filmKey": "Good Will Hunting|1997"
+    },
+    {
+      "id": "DRA-L-012-V1",
+      "filmKey": "Good Will Hunting|1997"
+    },
+    {
+      "id": "DRA-M-012-V1",
+      "filmKey": "Good Will Hunting|1997"
+    },
+    {
+      "id": "DRA-S-012-V1",
+      "filmKey": "Good Will Hunting|1997"
+    },
+    {
+      "id": "FF-081-YEAR",
+      "filmKey": "Good Will Hunting|1997"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
