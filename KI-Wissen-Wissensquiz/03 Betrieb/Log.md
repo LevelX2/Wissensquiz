@@ -1840,3 +1840,8 @@ Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowi
 Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche Ergänzungen und sieben Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Mind→Ghost→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
 
 Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.400 von12.773 Original-IDs geprüft,8.373 offen (6.333 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-85.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-85-Pruefnachweis.json).
+
+
+### 11.10.2026 – Konto-Ladefehler diagnostiziert; Serverumbau beauftragt
+
+Ausschließlich lesende Produktionsdiagnose belegt Datenbankzeitüberschreitungen bei parallelen Vollabrufen früherer öffentlicher Fragenkataloge. Nutzer verlangt keine Altstandkompatibilität, erlaubt die Rücksetzung seines Entwicklungs-Spielstands nach Abnahme und beauftragt normale Lernrunden samt Auswahl/Übersichten ohne Clientvollkatalog im eigenen Worktree. Vorläufige Vollkatalog-Optimierungen verworfen; keine Fassung veröffentlicht und noch kein Nutzerspielstand zurückgesetzt. [Befund, Architektur und Abnahmeauftrag](../../docs/Online-Spielstand-Ladefehler-2026-10-11.md).
