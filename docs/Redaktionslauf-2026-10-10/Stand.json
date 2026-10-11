@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 4350,
-  "totalReviewed": 4500,
-  "remainingFilmQuestions": 6233,
+  "completedInThisRun": 4400,
+  "totalReviewed": 4550,
+  "remainingFilmQuestions": 6183,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 8273,
+  "remainingAllQuestions": 8223,
   "blocks": [
     {
       "block": 1,
@@ -443,6 +443,11 @@
     {
       "block": 87,
       "path": "Block-87.json",
+      "count": 50
+    },
+    {
+      "block": 88,
+      "path": "Block-88.json",
       "count": 50
     }
   ],
@@ -4946,209 +4951,59 @@
     "F240-20261006-109-L2",
     "F240-20261006-109-M1",
     "F240-20261006-109-M2",
-    "F240-20261006-109-S1"
+    "F240-20261006-109-S1",
+    "F240-20261006-109-S2",
+    "F240-20261006-109-Y",
+    "F240-20261006-109-D",
+    "E20261007-F-015-L1",
+    "E20261007-F-015-L2",
+    "E20261007-F-015-M1",
+    "E20261007-F-015-M2",
+    "E20261007-F-015-S1",
+    "E20261007-F-015-S2",
+    "E20261007-F-015-Y",
+    "E20261007-F-015-D",
+    "G100-20261008-ABENTEUER-006-L1",
+    "G100-20261008-ABENTEUER-006-L2",
+    "G100-20261008-ABENTEUER-006-M1",
+    "G100-20261008-ABENTEUER-006-M2",
+    "G100-20261008-ABENTEUER-006-S1",
+    "G100-20261008-ABENTEUER-006-S2",
+    "G100-20261008-ABENTEUER-006-Y",
+    "G100-20261008-ABENTEUER-006-D",
+    "E20261007-F-014-L1",
+    "E20261007-F-014-L2",
+    "E20261007-F-014-M1",
+    "E20261007-F-014-M2",
+    "E20261007-F-014-S1",
+    "E20261007-F-014-S2",
+    "E20261007-F-014-Y",
+    "E20261007-F-014-D",
+    "G100-20261008-HORROR-022-L1",
+    "G100-20261008-HORROR-022-L2",
+    "G100-20261008-HORROR-022-M1",
+    "G100-20261008-HORROR-022-M2",
+    "G100-20261008-HORROR-022-S1",
+    "G100-20261008-HORROR-022-S2",
+    "G100-20261008-HORROR-022-Y",
+    "G100-20261008-HORROR-022-D",
+    "E20261007-F-258-L1",
+    "E20261007-F-258-L2",
+    "E20261007-F-258-M1",
+    "E20261007-F-258-M2",
+    "E20261007-F-258-S1",
+    "E20261007-F-258-S2",
+    "E20261007-F-258-Y",
+    "E20261007-F-258-D",
+    "E20261007-F-174-L1",
+    "E20261007-F-174-L2",
+    "E20261007-F-174-M1",
+    "E20261007-F-174-M2",
+    "E20261007-F-174-S1",
+    "E20261007-F-174-S2",
+    "E20261007-F-174-Y"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-109-S2",
-      "filmKey": "Jour de fête|1949"
-    },
-    {
-      "id": "F240-20261006-109-Y",
-      "filmKey": "Jour de fête|1949"
-    },
-    {
-      "id": "F240-20261006-109-D",
-      "filmKey": "Jour de fête|1949"
-    },
-    {
-      "id": "E20261007-F-015-L1",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-L2",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-M1",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-M2",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-S1",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-S2",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-Y",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-D",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-L1",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-L2",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-M1",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-M2",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-S1",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-S2",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-Y",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-D",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "E20261007-F-014-L1",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-L2",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-M1",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-M2",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-S1",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-S2",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-Y",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-D",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-L1",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-L2",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-M1",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-M2",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-S1",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-S2",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-Y",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-D",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "E20261007-F-258-L1",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-L2",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-M1",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-M2",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-S1",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-S2",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-Y",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-D",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-174-L1",
-      "filmKey": "Judy|2019"
-    },
-    {
-      "id": "E20261007-F-174-L2",
-      "filmKey": "Judy|2019"
-    },
-    {
-      "id": "E20261007-F-174-M1",
-      "filmKey": "Judy|2019"
-    },
-    {
-      "id": "E20261007-F-174-M2",
-      "filmKey": "Judy|2019"
-    },
-    {
-      "id": "E20261007-F-174-S1",
-      "filmKey": "Judy|2019"
-    },
-    {
-      "id": "E20261007-F-174-S2",
-      "filmKey": "Judy|2019"
-    },
-    {
-      "id": "E20261007-F-174-Y",
-      "filmKey": "Judy|2019"
-    },
     {
       "id": "E20261007-F-174-D",
       "filmKey": "Judy|2019"
@@ -29884,204 +29739,204 @@
   ],
   "next": [
     {
-      "id": "F240-20261006-109-S2",
-      "filmKey": "Jour de fête|1949"
-    },
-    {
-      "id": "F240-20261006-109-Y",
-      "filmKey": "Jour de fête|1949"
-    },
-    {
-      "id": "F240-20261006-109-D",
-      "filmKey": "Jour de fête|1949"
-    },
-    {
-      "id": "E20261007-F-015-L1",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-L2",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-M1",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-M2",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-S1",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-S2",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-Y",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "E20261007-F-015-D",
-      "filmKey": "Journey 2: The Mysterious Island|2012"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-L1",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-L2",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-M1",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-M2",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-S1",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-S2",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-Y",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-006-D",
-      "filmKey": "Journey to the Center of the Earth|1959"
-    },
-    {
-      "id": "E20261007-F-014-L1",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-L2",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-M1",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-M2",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-S1",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-S2",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-Y",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "E20261007-F-014-D",
-      "filmKey": "Journey to the Center of the Earth|2008"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-L1",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-L2",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-M1",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-M2",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-S1",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-S2",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-Y",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "G100-20261008-HORROR-022-D",
-      "filmKey": "Ju-on: The Grudge|2002"
-    },
-    {
-      "id": "E20261007-F-258-L1",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-L2",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-M1",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-M2",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-S1",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-S2",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-Y",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-258-D",
-      "filmKey": "Judgment at Nuremberg|1961"
-    },
-    {
-      "id": "E20261007-F-174-L1",
+      "id": "E20261007-F-174-D",
       "filmKey": "Judy|2019"
     },
     {
-      "id": "E20261007-F-174-L2",
-      "filmKey": "Judy|2019"
+      "id": "E20261007-F-191-L1",
+      "filmKey": "Juliet, Naked|2018"
     },
     {
-      "id": "E20261007-F-174-M1",
-      "filmKey": "Judy|2019"
+      "id": "E20261007-F-191-L2",
+      "filmKey": "Juliet, Naked|2018"
     },
     {
-      "id": "E20261007-F-174-M2",
-      "filmKey": "Judy|2019"
+      "id": "E20261007-F-191-M1",
+      "filmKey": "Juliet, Naked|2018"
     },
     {
-      "id": "E20261007-F-174-S1",
-      "filmKey": "Judy|2019"
+      "id": "E20261007-F-191-M2",
+      "filmKey": "Juliet, Naked|2018"
     },
     {
-      "id": "E20261007-F-174-S2",
-      "filmKey": "Judy|2019"
+      "id": "E20261007-F-191-S1",
+      "filmKey": "Juliet, Naked|2018"
     },
     {
-      "id": "E20261007-F-174-Y",
-      "filmKey": "Judy|2019"
+      "id": "E20261007-F-191-S2",
+      "filmKey": "Juliet, Naked|2018"
+    },
+    {
+      "id": "E20261007-F-191-Y",
+      "filmKey": "Juliet, Naked|2018"
+    },
+    {
+      "id": "E20261007-F-191-D",
+      "filmKey": "Juliet, Naked|2018"
+    },
+    {
+      "id": "E20261007-F-261-L1",
+      "filmKey": "Jungfrukällan|1960"
+    },
+    {
+      "id": "E20261007-F-261-L2",
+      "filmKey": "Jungfrukällan|1960"
+    },
+    {
+      "id": "E20261007-F-261-M1",
+      "filmKey": "Jungfrukällan|1960"
+    },
+    {
+      "id": "E20261007-F-261-M2",
+      "filmKey": "Jungfrukällan|1960"
+    },
+    {
+      "id": "E20261007-F-261-S1",
+      "filmKey": "Jungfrukällan|1960"
+    },
+    {
+      "id": "E20261007-F-261-S2",
+      "filmKey": "Jungfrukällan|1960"
+    },
+    {
+      "id": "E20261007-F-261-Y",
+      "filmKey": "Jungfrukällan|1960"
+    },
+    {
+      "id": "E20261007-F-261-D",
+      "filmKey": "Jungfrukällan|1960"
+    },
+    {
+      "id": "SF-L-014",
+      "filmKey": "Jurassic Park|1993"
+    },
+    {
+      "id": "SF-M-014",
+      "filmKey": "Jurassic Park|1993"
+    },
+    {
+      "id": "SF-S-014",
+      "filmKey": "Jurassic Park|1993"
+    },
+    {
+      "id": "FF-139-YEAR",
+      "filmKey": "Jurassic Park|1993"
+    },
+    {
+      "id": "FF-139-DIRECTOR",
+      "filmKey": "Jurassic Park|1993"
+    },
+    {
+      "id": "SF-L-015",
+      "filmKey": "Jurassic World|2015"
+    },
+    {
+      "id": "SF-M-015",
+      "filmKey": "Jurassic World|2015"
+    },
+    {
+      "id": "SF-S-015",
+      "filmKey": "Jurassic World|2015"
+    },
+    {
+      "id": "FF-140-YEAR",
+      "filmKey": "Jurassic World|2015"
+    },
+    {
+      "id": "FF-140-DIRECTOR",
+      "filmKey": "Jurassic World|2015"
+    },
+    {
+      "id": "F240-20261006-127-L1",
+      "filmKey": "Jūsannin no Shikaku|2010"
+    },
+    {
+      "id": "F240-20261006-127-L2",
+      "filmKey": "Jūsannin no Shikaku|2010"
+    },
+    {
+      "id": "F240-20261006-127-M1",
+      "filmKey": "Jūsannin no Shikaku|2010"
+    },
+    {
+      "id": "F240-20261006-127-M2",
+      "filmKey": "Jūsannin no Shikaku|2010"
+    },
+    {
+      "id": "F240-20261006-127-S1",
+      "filmKey": "Jūsannin no Shikaku|2010"
+    },
+    {
+      "id": "F240-20261006-127-S2",
+      "filmKey": "Jūsannin no Shikaku|2010"
+    },
+    {
+      "id": "F240-20261006-127-Y",
+      "filmKey": "Jūsannin no Shikaku|2010"
+    },
+    {
+      "id": "F240-20261006-127-D",
+      "filmKey": "Jūsannin no Shikaku|2010"
+    },
+    {
+      "id": "E20261007-F-094-L1",
+      "filmKey": "Kamera o tomeru na!|2017"
+    },
+    {
+      "id": "E20261007-F-094-L2",
+      "filmKey": "Kamera o tomeru na!|2017"
+    },
+    {
+      "id": "E20261007-F-094-M1",
+      "filmKey": "Kamera o tomeru na!|2017"
+    },
+    {
+      "id": "E20261007-F-094-M2",
+      "filmKey": "Kamera o tomeru na!|2017"
+    },
+    {
+      "id": "E20261007-F-094-S1",
+      "filmKey": "Kamera o tomeru na!|2017"
+    },
+    {
+      "id": "E20261007-F-094-S2",
+      "filmKey": "Kamera o tomeru na!|2017"
+    },
+    {
+      "id": "E20261007-F-094-Y",
+      "filmKey": "Kamera o tomeru na!|2017"
+    },
+    {
+      "id": "E20261007-F-094-D",
+      "filmKey": "Kamera o tomeru na!|2017"
+    },
+    {
+      "id": "KOM-202610-P01-L-019",
+      "filmKey": "Kehraus|1983"
+    },
+    {
+      "id": "KOM-202610-P01-L-020",
+      "filmKey": "Kehraus|1983"
+    },
+    {
+      "id": "KOM-202610-P01-M-028",
+      "filmKey": "Kehraus|1983"
+    },
+    {
+      "id": "KOM-202610-P01-M-029",
+      "filmKey": "Kehraus|1983"
+    },
+    {
+      "id": "KOM-202610-P01-S-028",
+      "filmKey": "Kehraus|1983"
+    },
+    {
+      "id": "KOM-202610-P01-S-029",
+      "filmKey": "Kehraus|1983"
+    },
+    {
+      "id": "KOM-202610-P01-M-030",
+      "filmKey": "Kehraus|1983"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."

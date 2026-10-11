@@ -91,9 +91,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 85: vollständiger Alt/Neu-Vergleich](Block-85.md) und [strukturierter Nachweis](Block-85.json): 50 Fragen, 21 Vertiefungen geändert, 29 erhalten, 0 Fragen vollständig unverändert; 2 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 86: vollständiger Alt/Neu-Vergleich](Block-86.md) und [strukturierter Nachweis](Block-86.json): 50 Fragen, 27 Vertiefungen geändert, 23 erhalten, 0 Fragen vollständig unverändert; 0 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 87: vollständiger Alt/Neu-Vergleich](Block-87.md) und [strukturierter Nachweis](Block-87.json): 50 Fragen, 26 Vertiefungen geändert, 24 erhalten, 0 Fragen vollständig unverändert; 2 von 6 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 4500 von 12.773 IDs redaktionell erfasst.
-- Offen: 6233 Filmfragen und 2040 weitere Fragen; zusammen 8273. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 87 erfasst die übrigen John-Carter-Fragen, John Wick, John Wick: Kapitel 2, Johnny Guitar, Jojo Rabbit und eine Jour-de-fête-Teilgruppe. Rollenhinweise bei Besetzungsfragen gemäß Nutzerpräzisierung vom 11.10.2026 berücksichtigt. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Fehlende schwere Mindestziele bleiben ausdrücklich offen. Keine App-Integration durch diesen Block.
+- [Block 88: vollständiger Alt/Neu-Vergleich](Block-88.md) und [strukturierter Nachweis](Block-88.json): 50 Fragen, 28 Vertiefungen geändert, 22 erhalten, 0 Fragen vollständig unverändert; 0 von 7 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 4550 von 12.773 IDs redaktionell erfasst.
+- Offen: 6183 Filmfragen und 2040 weitere Fragen; zusammen 8223. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 88 erfasst den Abschluss von Jour de fête, Journey2, Journey1959, Journey2008, Ju-on, Das Urteil von Nürnberg und eine Judy-Teilgruppe. Rollenhinweise bei Besetzungsfragen gemäß Nutzerpräzisierung vom 11.10.2026 berücksichtigt. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Fehlende schwere Mindestziele bleiben ausdrücklich offen. Keine App-Integration durch diesen Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 

@@ -1863,3 +1863,12 @@ Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowi
 Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche fünf Ergänzungen und sechs Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Ghost→Mind→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
 
 Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.500 von12.773 Original-IDs geprüft,8.273 offen (6.233 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-87.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-87-Pruefnachweis.json).
+
+
+### 11.10.2026 – Redaktionslauf Block 88
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 28 Vertiefungen geändert, 22 wortgleich bewahrt; 29 Antwortauswahlen und 13 Schwierigkeiten angepasst. 0 Wissensziele ausdrücklich durch neue Frage-/Wissensziel-IDs ersetzt. 2 ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. Keine der sieben Gruppen erhält eine vollständige Mindestzielabnahme. Offene Gruppen/Entwürfe: Die Reise zum Mittelpunkt der Erde, Judy, Die Reise zum Mittelpunkt der Erde, Ju-on: The Grudge, Tatis Schützenfest, Die Reise zur geheimnisvollen Insel, Das Urteil von Nürnberg.
+
+Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche zwei Ergänzungen und sieben Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Ghost→Mind→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.550 von12.773 Original-IDs geprüft,8.223 offen (6.183 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-88.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-88-Pruefnachweis.json).
