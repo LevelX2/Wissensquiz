@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 2750,
-  "totalReviewed": 2900,
-  "remainingFilmQuestions": 7833,
+  "completedInThisRun": 2800,
+  "totalReviewed": 2950,
+  "remainingFilmQuestions": 7783,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 9873,
+  "remainingAllQuestions": 9823,
   "blocks": [
     {
       "block": 1,
@@ -283,6 +283,11 @@
     {
       "block": 55,
       "path": "Block-55.json",
+      "count": 50
+    },
+    {
+      "block": 56,
+      "path": "Block-56.json",
       "count": 50
     }
   ],
@@ -3186,209 +3191,59 @@
     "F240-20261006-181-L2",
     "F240-20261006-181-M1",
     "F240-20261006-181-M2",
-    "F240-20261006-181-S1"
+    "F240-20261006-181-S1",
+    "F240-20261006-181-S2",
+    "F240-20261006-181-Y",
+    "F240-20261006-181-D",
+    "SF-L-017",
+    "SF-M-017",
+    "SF-S-017",
+    "FF-142-YEAR",
+    "FF-142-DIRECTOR",
+    "F240-20261006-215-L1",
+    "F240-20261006-215-L2",
+    "F240-20261006-215-M1",
+    "F240-20261006-215-M2",
+    "F240-20261006-215-S1",
+    "F240-20261006-215-S2",
+    "F240-20261006-215-Y",
+    "F240-20261006-215-D",
+    "SF-L-048",
+    "SF-M-048",
+    "SF-S-048",
+    "FF-173-YEAR",
+    "FF-173-DIRECTOR",
+    "FAN-L-049",
+    "FAN-L-050",
+    "FAN-M-049",
+    "FAN-M-050",
+    "FAN-S-049",
+    "FAN-S-050",
+    "FF-125-YEAR",
+    "FF-125-DIRECTOR",
+    "WES-L-039",
+    "WES-L-040",
+    "WES-M-039",
+    "WES-M-040",
+    "WES-S-039",
+    "WES-S-040",
+    "FF-295-YEAR",
+    "FF-295-DIRECTOR",
+    "FAN-L-047",
+    "FAN-L-048",
+    "FAN-M-047",
+    "FAN-M-048",
+    "FAN-S-047",
+    "FAN-S-048",
+    "FF-124-YEAR",
+    "E20261007-F-135-L1",
+    "E20261007-F-135-L2",
+    "E20261007-F-135-M1",
+    "E20261007-F-135-M2",
+    "E20261007-F-135-S1",
+    "E20261007-F-135-S2"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-181-S2",
-      "filmKey": "Dune|2021"
-    },
-    {
-      "id": "F240-20261006-181-Y",
-      "filmKey": "Dune|2021"
-    },
-    {
-      "id": "F240-20261006-181-D",
-      "filmKey": "Dune|2021"
-    },
-    {
-      "id": "SF-L-017",
-      "filmKey": "E.T. the Extra-Terrestrial|1982"
-    },
-    {
-      "id": "SF-M-017",
-      "filmKey": "E.T. the Extra-Terrestrial|1982"
-    },
-    {
-      "id": "SF-S-017",
-      "filmKey": "E.T. the Extra-Terrestrial|1982"
-    },
-    {
-      "id": "FF-142-YEAR",
-      "filmKey": "E.T. the Extra-Terrestrial|1982"
-    },
-    {
-      "id": "FF-142-DIRECTOR",
-      "filmKey": "E.T. the Extra-Terrestrial|1982"
-    },
-    {
-      "id": "F240-20261006-215-L1",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-L2",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-M1",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-M2",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-S1",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-S2",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-Y",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-D",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "SF-L-048",
-      "filmKey": "Edge of Tomorrow|2014"
-    },
-    {
-      "id": "SF-M-048",
-      "filmKey": "Edge of Tomorrow|2014"
-    },
-    {
-      "id": "SF-S-048",
-      "filmKey": "Edge of Tomorrow|2014"
-    },
-    {
-      "id": "FF-173-YEAR",
-      "filmKey": "Edge of Tomorrow|2014"
-    },
-    {
-      "id": "FF-173-DIRECTOR",
-      "filmKey": "Edge of Tomorrow|2014"
-    },
-    {
-      "id": "FAN-L-049",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FAN-L-050",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FAN-M-049",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FAN-M-050",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FAN-S-049",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FAN-S-050",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FF-125-YEAR",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FF-125-DIRECTOR",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "WES-L-039",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "WES-L-040",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "WES-M-039",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "WES-M-040",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "WES-S-039",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "WES-S-040",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "FF-295-YEAR",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "FF-295-DIRECTOR",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "FAN-L-047",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FAN-L-048",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FAN-M-047",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FAN-M-048",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FAN-S-047",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FAN-S-048",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FF-124-YEAR",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "E20261007-F-135-L1",
-      "filmKey": "Election|1999"
-    },
-    {
-      "id": "E20261007-F-135-L2",
-      "filmKey": "Election|1999"
-    },
-    {
-      "id": "E20261007-F-135-M1",
-      "filmKey": "Election|1999"
-    },
-    {
-      "id": "E20261007-F-135-M2",
-      "filmKey": "Election|1999"
-    },
-    {
-      "id": "E20261007-F-135-S1",
-      "filmKey": "Election|1999"
-    },
-    {
-      "id": "E20261007-F-135-S2",
-      "filmKey": "Election|1999"
-    },
     {
       "id": "E20261007-F-135-Y",
       "filmKey": "Election|1999"
@@ -34524,204 +34379,204 @@
   ],
   "next": [
     {
-      "id": "F240-20261006-181-S2",
-      "filmKey": "Dune|2021"
-    },
-    {
-      "id": "F240-20261006-181-Y",
-      "filmKey": "Dune|2021"
-    },
-    {
-      "id": "F240-20261006-181-D",
-      "filmKey": "Dune|2021"
-    },
-    {
-      "id": "SF-L-017",
-      "filmKey": "E.T. the Extra-Terrestrial|1982"
-    },
-    {
-      "id": "SF-M-017",
-      "filmKey": "E.T. the Extra-Terrestrial|1982"
-    },
-    {
-      "id": "SF-S-017",
-      "filmKey": "E.T. the Extra-Terrestrial|1982"
-    },
-    {
-      "id": "FF-142-YEAR",
-      "filmKey": "E.T. the Extra-Terrestrial|1982"
-    },
-    {
-      "id": "FF-142-DIRECTOR",
-      "filmKey": "E.T. the Extra-Terrestrial|1982"
-    },
-    {
-      "id": "F240-20261006-215-L1",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-L2",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-M1",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-M2",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-S1",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-S2",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-Y",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "F240-20261006-215-D",
-      "filmKey": "Eastern Promises|2007"
-    },
-    {
-      "id": "SF-L-048",
-      "filmKey": "Edge of Tomorrow|2014"
-    },
-    {
-      "id": "SF-M-048",
-      "filmKey": "Edge of Tomorrow|2014"
-    },
-    {
-      "id": "SF-S-048",
-      "filmKey": "Edge of Tomorrow|2014"
-    },
-    {
-      "id": "FF-173-YEAR",
-      "filmKey": "Edge of Tomorrow|2014"
-    },
-    {
-      "id": "FF-173-DIRECTOR",
-      "filmKey": "Edge of Tomorrow|2014"
-    },
-    {
-      "id": "FAN-L-049",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FAN-L-050",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FAN-M-049",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FAN-M-050",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FAN-S-049",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FAN-S-050",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FF-125-YEAR",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "FF-125-DIRECTOR",
-      "filmKey": "Edward Scissorhands|1990"
-    },
-    {
-      "id": "WES-L-039",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "WES-L-040",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "WES-M-039",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "WES-M-040",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "WES-S-039",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "WES-S-040",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "FF-295-YEAR",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "FF-295-DIRECTOR",
-      "filmKey": "El Dorado|1966"
-    },
-    {
-      "id": "FAN-L-047",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FAN-L-048",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FAN-M-047",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FAN-M-048",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FAN-S-047",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FAN-S-048",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "FF-124-YEAR",
-      "filmKey": "El laberinto del fauno|2006"
-    },
-    {
-      "id": "E20261007-F-135-L1",
+      "id": "E20261007-F-135-Y",
       "filmKey": "Election|1999"
     },
     {
-      "id": "E20261007-F-135-L2",
+      "id": "E20261007-F-135-D",
       "filmKey": "Election|1999"
     },
     {
-      "id": "E20261007-F-135-M1",
-      "filmKey": "Election|1999"
+      "id": "MUS-202610-P01-L-011",
+      "filmKey": "Elvis|2022"
     },
     {
-      "id": "E20261007-F-135-M2",
-      "filmKey": "Election|1999"
+      "id": "MUS-202610-P01-L-012",
+      "filmKey": "Elvis|2022"
     },
     {
-      "id": "E20261007-F-135-S1",
-      "filmKey": "Election|1999"
+      "id": "MUS-202610-P01-M-016",
+      "filmKey": "Elvis|2022"
     },
     {
-      "id": "E20261007-F-135-S2",
-      "filmKey": "Election|1999"
+      "id": "MUS-202610-P01-M-017",
+      "filmKey": "Elvis|2022"
+    },
+    {
+      "id": "MUS-202610-P01-S-016",
+      "filmKey": "Elvis|2022"
+    },
+    {
+      "id": "MUS-202610-P01-S-017",
+      "filmKey": "Elvis|2022"
+    },
+    {
+      "id": "MUS-202610-P01-M-018",
+      "filmKey": "Elvis|2022"
+    },
+    {
+      "id": "MUS-202610-P01-S-018",
+      "filmKey": "Elvis|2022"
+    },
+    {
+      "id": "SF-202609-P02-L-079",
+      "filmKey": "Elysium|2013"
+    },
+    {
+      "id": "SF-202609-P02-L-080",
+      "filmKey": "Elysium|2013"
+    },
+    {
+      "id": "SF-202609-P02-M-079",
+      "filmKey": "Elysium|2013"
+    },
+    {
+      "id": "SF-202609-P02-M-080",
+      "filmKey": "Elysium|2013"
+    },
+    {
+      "id": "SF-202609-P02-S-079",
+      "filmKey": "Elysium|2013"
+    },
+    {
+      "id": "SF-202609-P02-S-080",
+      "filmKey": "Elysium|2013"
+    },
+    {
+      "id": "SF-202609-P02-M-079-V1",
+      "filmKey": "Elysium|2013"
+    },
+    {
+      "id": "FF-365-YEAR",
+      "filmKey": "Elysium|2013"
+    },
+    {
+      "id": "FF-365-DIRECTOR",
+      "filmKey": "Elysium|2013"
+    },
+    {
+      "id": "SF-202609-P02-L-087",
+      "filmKey": "Enemy Mine|1985"
+    },
+    {
+      "id": "SF-202609-P02-L-088",
+      "filmKey": "Enemy Mine|1985"
+    },
+    {
+      "id": "SF-202609-P02-M-087",
+      "filmKey": "Enemy Mine|1985"
+    },
+    {
+      "id": "SF-202609-P02-M-088",
+      "filmKey": "Enemy Mine|1985"
+    },
+    {
+      "id": "SF-202609-P02-S-087",
+      "filmKey": "Enemy Mine|1985"
+    },
+    {
+      "id": "SF-202609-P02-S-088",
+      "filmKey": "Enemy Mine|1985"
+    },
+    {
+      "id": "SF-202609-P02-S-087-V1",
+      "filmKey": "Enemy Mine|1985"
+    },
+    {
+      "id": "FF-369-YEAR",
+      "filmKey": "Enemy Mine|1985"
+    },
+    {
+      "id": "FF-369-DIRECTOR",
+      "filmKey": "Enemy Mine|1985"
+    },
+    {
+      "id": "E20261007-F-039-L1",
+      "filmKey": "Enemy of the State|1998"
+    },
+    {
+      "id": "E20261007-F-039-L2",
+      "filmKey": "Enemy of the State|1998"
+    },
+    {
+      "id": "E20261007-F-039-M1",
+      "filmKey": "Enemy of the State|1998"
+    },
+    {
+      "id": "E20261007-F-039-M2",
+      "filmKey": "Enemy of the State|1998"
+    },
+    {
+      "id": "E20261007-F-039-S1",
+      "filmKey": "Enemy of the State|1998"
+    },
+    {
+      "id": "E20261007-F-039-S2",
+      "filmKey": "Enemy of the State|1998"
+    },
+    {
+      "id": "E20261007-F-039-Y",
+      "filmKey": "Enemy of the State|1998"
+    },
+    {
+      "id": "E20261007-F-039-D",
+      "filmKey": "Enemy of the State|1998"
+    },
+    {
+      "id": "F240-20261006-178-L1",
+      "filmKey": "Enough Said|2013"
+    },
+    {
+      "id": "F240-20261006-178-L2",
+      "filmKey": "Enough Said|2013"
+    },
+    {
+      "id": "F240-20261006-178-M1",
+      "filmKey": "Enough Said|2013"
+    },
+    {
+      "id": "F240-20261006-178-M2",
+      "filmKey": "Enough Said|2013"
+    },
+    {
+      "id": "F240-20261006-178-S1",
+      "filmKey": "Enough Said|2013"
+    },
+    {
+      "id": "F240-20261006-178-S2",
+      "filmKey": "Enough Said|2013"
+    },
+    {
+      "id": "F240-20261006-178-Y",
+      "filmKey": "Enough Said|2013"
+    },
+    {
+      "id": "F240-20261006-178-D",
+      "filmKey": "Enough Said|2013"
+    },
+    {
+      "id": "MAR-L-029",
+      "filmKey": "Enter the Dragon|1973"
+    },
+    {
+      "id": "MAR-L-030",
+      "filmKey": "Enter the Dragon|1973"
+    },
+    {
+      "id": "MAR-M-029",
+      "filmKey": "Enter the Dragon|1973"
+    },
+    {
+      "id": "MAR-M-030",
+      "filmKey": "Enter the Dragon|1973"
+    },
+    {
+      "id": "MAR-S-029",
+      "filmKey": "Enter the Dragon|1973"
+    },
+    {
+      "id": "MAR-S-030",
+      "filmKey": "Enter the Dragon|1973"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
