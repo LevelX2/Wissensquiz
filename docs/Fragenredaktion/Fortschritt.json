@@ -1,11 +1,11 @@
 {
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
-  "totalReviewed": 4800,
-  "remainingFilmQuestions": 5933,
+  "totalReviewed": 4850,
+  "remainingFilmQuestions": 5883,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 7973,
-  "lastCompletedBlock": 93,
+  "remainingAllQuestions": 7923,
+  "lastCompletedBlock": 94,
   "reviewedIds": [
     "ART-L-017",
     "ACT-M-025",
@@ -4806,209 +4806,59 @@
     "FF-408-YEAR",
     "FF-408-DIRECTOR",
     "G100-20261008-FANTASY-001-L1",
-    "G100-20261008-FANTASY-001-L2"
+    "G100-20261008-FANTASY-001-L2",
+    "G100-20261008-FANTASY-001-M1",
+    "G100-20261008-FANTASY-001-M2",
+    "G100-20261008-FANTASY-001-S1",
+    "G100-20261008-FANTASY-001-S2",
+    "G100-20261008-FANTASY-001-Y",
+    "G100-20261008-FANTASY-001-D",
+    "E20261007-F-278-L1",
+    "E20261007-F-278-L2",
+    "E20261007-F-278-M1",
+    "E20261007-F-278-M2",
+    "E20261007-F-278-S1",
+    "E20261007-F-278-S2",
+    "E20261007-F-278-Y",
+    "E20261007-F-278-D",
+    "F240-20261006-194-L1",
+    "F240-20261006-194-L2",
+    "F240-20261006-194-M1",
+    "F240-20261006-194-M2",
+    "F240-20261006-194-S1",
+    "F240-20261006-194-S2",
+    "F240-20261006-194-Y",
+    "F240-20261006-194-D",
+    "MUS-202609-P01-L-007",
+    "MUS-202609-P01-L-008",
+    "MUS-202609-P01-M-007",
+    "MUS-202609-P01-M-008",
+    "MUS-202609-P01-S-007",
+    "MUS-202609-P01-S-008",
+    "MUS-202609-P01-L-007-V1",
+    "MUS-202609-P01-S-007-V1",
+    "FF-304-YEAR",
+    "FF-304-DIRECTOR",
+    "G100-20261008-MUSIK-013-L1",
+    "G100-20261008-MUSIK-013-L2",
+    "G100-20261008-MUSIK-013-M1",
+    "G100-20261008-MUSIK-013-M2",
+    "G100-20261008-MUSIK-013-S1",
+    "G100-20261008-MUSIK-013-S2",
+    "G100-20261008-MUSIK-013-Y",
+    "G100-20261008-MUSIK-013-D",
+    "F240-20261006-196-L1",
+    "F240-20261006-196-L2",
+    "F240-20261006-196-M1",
+    "F240-20261006-196-M2",
+    "F240-20261006-196-S1",
+    "F240-20261006-196-S2",
+    "F240-20261006-196-Y",
+    "F240-20261006-196-D",
+    "E20261007-F-124-L1",
+    "E20261007-F-124-L2"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "G100-20261008-FANTASY-001-M1",
-      "filmKey": "La Belle et la Bête|1946"
-    },
-    {
-      "id": "G100-20261008-FANTASY-001-M2",
-      "filmKey": "La Belle et la Bête|1946"
-    },
-    {
-      "id": "G100-20261008-FANTASY-001-S1",
-      "filmKey": "La Belle et la Bête|1946"
-    },
-    {
-      "id": "G100-20261008-FANTASY-001-S2",
-      "filmKey": "La Belle et la Bête|1946"
-    },
-    {
-      "id": "G100-20261008-FANTASY-001-Y",
-      "filmKey": "La Belle et la Bête|1946"
-    },
-    {
-      "id": "G100-20261008-FANTASY-001-D",
-      "filmKey": "La Belle et la Bête|1946"
-    },
-    {
-      "id": "E20261007-F-278-L1",
-      "filmKey": "La grande bellezza|2013"
-    },
-    {
-      "id": "E20261007-F-278-L2",
-      "filmKey": "La grande bellezza|2013"
-    },
-    {
-      "id": "E20261007-F-278-M1",
-      "filmKey": "La grande bellezza|2013"
-    },
-    {
-      "id": "E20261007-F-278-M2",
-      "filmKey": "La grande bellezza|2013"
-    },
-    {
-      "id": "E20261007-F-278-S1",
-      "filmKey": "La grande bellezza|2013"
-    },
-    {
-      "id": "E20261007-F-278-S2",
-      "filmKey": "La grande bellezza|2013"
-    },
-    {
-      "id": "E20261007-F-278-Y",
-      "filmKey": "La grande bellezza|2013"
-    },
-    {
-      "id": "E20261007-F-278-D",
-      "filmKey": "La grande bellezza|2013"
-    },
-    {
-      "id": "F240-20261006-194-L1",
-      "filmKey": "La Jetée|1962"
-    },
-    {
-      "id": "F240-20261006-194-L2",
-      "filmKey": "La Jetée|1962"
-    },
-    {
-      "id": "F240-20261006-194-M1",
-      "filmKey": "La Jetée|1962"
-    },
-    {
-      "id": "F240-20261006-194-M2",
-      "filmKey": "La Jetée|1962"
-    },
-    {
-      "id": "F240-20261006-194-S1",
-      "filmKey": "La Jetée|1962"
-    },
-    {
-      "id": "F240-20261006-194-S2",
-      "filmKey": "La Jetée|1962"
-    },
-    {
-      "id": "F240-20261006-194-Y",
-      "filmKey": "La Jetée|1962"
-    },
-    {
-      "id": "F240-20261006-194-D",
-      "filmKey": "La Jetée|1962"
-    },
-    {
-      "id": "MUS-202609-P01-L-007",
-      "filmKey": "La La Land|2016"
-    },
-    {
-      "id": "MUS-202609-P01-L-008",
-      "filmKey": "La La Land|2016"
-    },
-    {
-      "id": "MUS-202609-P01-M-007",
-      "filmKey": "La La Land|2016"
-    },
-    {
-      "id": "MUS-202609-P01-M-008",
-      "filmKey": "La La Land|2016"
-    },
-    {
-      "id": "MUS-202609-P01-S-007",
-      "filmKey": "La La Land|2016"
-    },
-    {
-      "id": "MUS-202609-P01-S-008",
-      "filmKey": "La La Land|2016"
-    },
-    {
-      "id": "MUS-202609-P01-L-007-V1",
-      "filmKey": "La La Land|2016"
-    },
-    {
-      "id": "MUS-202609-P01-S-007-V1",
-      "filmKey": "La La Land|2016"
-    },
-    {
-      "id": "FF-304-YEAR",
-      "filmKey": "La La Land|2016"
-    },
-    {
-      "id": "FF-304-DIRECTOR",
-      "filmKey": "La La Land|2016"
-    },
-    {
-      "id": "G100-20261008-MUSIK-013-L1",
-      "filmKey": "La Môme|2007"
-    },
-    {
-      "id": "G100-20261008-MUSIK-013-L2",
-      "filmKey": "La Môme|2007"
-    },
-    {
-      "id": "G100-20261008-MUSIK-013-M1",
-      "filmKey": "La Môme|2007"
-    },
-    {
-      "id": "G100-20261008-MUSIK-013-M2",
-      "filmKey": "La Môme|2007"
-    },
-    {
-      "id": "G100-20261008-MUSIK-013-S1",
-      "filmKey": "La Môme|2007"
-    },
-    {
-      "id": "G100-20261008-MUSIK-013-S2",
-      "filmKey": "La Môme|2007"
-    },
-    {
-      "id": "G100-20261008-MUSIK-013-Y",
-      "filmKey": "La Môme|2007"
-    },
-    {
-      "id": "G100-20261008-MUSIK-013-D",
-      "filmKey": "La Môme|2007"
-    },
-    {
-      "id": "F240-20261006-196-L1",
-      "filmKey": "La Planète sauvage|1973"
-    },
-    {
-      "id": "F240-20261006-196-L2",
-      "filmKey": "La Planète sauvage|1973"
-    },
-    {
-      "id": "F240-20261006-196-M1",
-      "filmKey": "La Planète sauvage|1973"
-    },
-    {
-      "id": "F240-20261006-196-M2",
-      "filmKey": "La Planète sauvage|1973"
-    },
-    {
-      "id": "F240-20261006-196-S1",
-      "filmKey": "La Planète sauvage|1973"
-    },
-    {
-      "id": "F240-20261006-196-S2",
-      "filmKey": "La Planète sauvage|1973"
-    },
-    {
-      "id": "F240-20261006-196-Y",
-      "filmKey": "La Planète sauvage|1973"
-    },
-    {
-      "id": "F240-20261006-196-D",
-      "filmKey": "La Planète sauvage|1973"
-    },
-    {
-      "id": "E20261007-F-124-L1",
-      "filmKey": "La Soupe aux choux|1981"
-    },
-    {
-      "id": "E20261007-F-124-L2",
-      "filmKey": "La Soupe aux choux|1981"
-    },
     {
       "id": "E20261007-F-124-M1",
       "filmKey": "La Soupe aux choux|1981"

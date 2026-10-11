@@ -254862,6 +254862,2282 @@
         "https://splicedwire.com/features/la_hanson.html"
       ],
       "originalId": "QRL-20261011-GHOST93-LAC-S001"
+    },
+    {
+      "id": "G100-20261008-FANTASY-001-M1",
+      "originalId": "G100-20261008-FANTASY-001-M1",
+      "knowledgeId": "K-G100-20261008-FANTASY-001-M1",
+      "filmKey": "La Belle et la Bête|1946",
+      "filmTitle": "Es war einmal",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Die verschiedenen Funktionen der magischen Gegenstände unterscheiden",
+      "question": "Wodurch gelangt Belle (Josette Day) in „Es war einmal“ unmittelbar vom Schloss ins Elternhaus?",
+      "answers": [
+        {
+          "id": "G100-20261008-FANTASY-001-M1:a",
+          "text": "Durch einen goldenen Schlüssel",
+          "correct": false,
+          "feedback": "Der Schlüssel öffnet Dianas Schatzpavillon."
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-M1:b",
+          "text": "Durch einen verzauberten Spiegel",
+          "correct": false,
+          "feedback": "Der Spiegel zeigt Belle ihren Vater; er dient der Fernsicht."
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-M1:c",
+          "text": "Durch eine silberne Halskette",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-M1:d",
+          "text": "Durch einen magischen Handschuh",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ein magischer Handschuh versetzt Belle ins Elternhaus.",
+      "context": "Das Biest (Jean Marais) überlässt Belle (Josette Day) mehrere kostbare Dinge, deren Funktionen verschieden sind. Der Spiegel zeigt ihr den kranken Vater (Marcel André), während der Handschuh die unmittelbare Reise zu ihm ermöglicht. Der Schlüssel öffnet dagegen den Schatzpavillon. Diese Trennung ist wichtig: Sehen, Reisen und Zutritt werden durch unterschiedliche Zaubermittel ermöglicht, die später nicht alle in sicheren Händen bleiben.",
+      "anchor": "Der Handschuh reist, der Spiegel zeigt.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1946_film)"
+      ]
+    },
+    {
+      "id": "G100-20261008-FANTASY-001-M2",
+      "originalId": "G100-20261008-FANTASY-001-M2",
+      "knowledgeId": "K-G100-20261008-FANTASY-001-M2",
+      "filmKey": "La Belle et la Bête|1946",
+      "filmTitle": "Es war einmal",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Den eigennützigen Plan hinter der vorgespielten Zuneigung erkennen",
+      "question": "Wie verzögern Belles (Josette Day) Schwestern in „Es war einmal“ ihre vereinbarte Rückkehr zum Biest (Jean Marais)?",
+      "answers": [
+        {
+          "id": "G100-20261008-FANTASY-001-M2:a",
+          "text": "Sie täuschen besonders herzliche Zuneigung vor.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-M2:b",
+          "text": "Sie drohen, den Vater allein zu lassen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-M2:c",
+          "text": "Sie versprechen Belle einen Anteil am Familienbesitz.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-M2:d",
+          "text": "Sie behaupten, der Vater liege erneut im Sterben.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Vorgespielte Zuneigung hält Belle länger zu Hause.",
+      "context": "Belle (Josette Day) darf nur für eine Woche zu ihrer Familie zurückkehren. Félicie (Mila Parély) und Adélaïde (Nane Germon) beneiden jedoch ihr neues Leben und spielen ihr größere Herzlichkeit vor, als sie empfinden. Belle lässt sich dadurch zum längeren Bleiben bewegen. Die Verzögerung gefährdet das Biest (Jean Marais), während die scheinbare familiäre Nähe einen eigennützigen Plan verdeckt.",
+      "anchor": "Falsche Herzlichkeit verlängert die Woche.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1946_film)"
+      ]
+    },
+    {
+      "id": "G100-20261008-FANTASY-001-S1",
+      "originalId": "G100-20261008-FANTASY-001-S1",
+      "knowledgeId": "K-G100-20261008-FANTASY-001-S1",
+      "filmKey": "La Belle et la Bête|1946",
+      "filmTitle": "Es war einmal",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Den Schutz des Schatzpavillons und die parallelen Verwandlungen verstehen",
+      "question": "Was trifft Avenant (Jean Marais) beim Einbruch in den Schatzpavillon in „Es war einmal“?",
+      "answers": [
+        {
+          "id": "G100-20261008-FANTASY-001-S1:a",
+          "text": "Ein Hieb einer lebendig gewordenen Ritterrüstung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-S1:b",
+          "text": "Ein Pfeil der lebendig gewordenen Diana-Statue",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-S1:c",
+          "text": "Ein Feuerstoß aus einem steinernen Drachen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-S1:d",
+          "text": "Ein Schlag einer verborgenen Falltür",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Diana-Statue erschießt Avenant mit einem Pfeil.",
+      "context": "Avenant (Jean Marais) und Ludovic (Michel Auclair) misstrauen dem gestohlenen Schlüssel und dringen durch das Glasdach in den Schatzpavillon ein. Dianas Pfeil trifft Avenant, der daraufhin die Gestalt des Biests annimmt. Gleichzeitig wird das bei Belle (Josette Day) sterbende Biest zum Prinzen Ardent. Jean Marais spielt den Eindringling, das Biest und den erlösten Prinzen; es sind unterschiedliche Figuren.",
+      "anchor": "Avenant wird zum Biest, während das bisherige Biest als Prinz erlöst wird.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1946_film)"
+      ]
+    },
+    {
+      "id": "G100-20261008-FANTASY-001-S2",
+      "originalId": "G100-20261008-FANTASY-001-S2",
+      "knowledgeId": "K-G100-20261008-FANTASY-001-S2",
+      "filmKey": "La Belle et la Bête|1946",
+      "filmTitle": "Es war einmal",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Rückwärts laufende Filmaufnahme als praktischen Zaubertrick erklären",
+      "question": "Wie wurden die sich scheinbar selbst entzündenden Kerzen in „Es war einmal“ filmisch erzeugt?",
+      "answers": [
+        {
+          "id": "G100-20261008-FANTASY-001-S2:a",
+          "text": "Durch Einzelbildaufnahmen kleiner Flammenmodelle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-S2:b",
+          "text": "Durch optische Mehrfachbelichtung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-S2:c",
+          "text": "Durch rückwärts abgespieltes Ausblasen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-S2:d",
+          "text": "Durch elektrisch gezündete Dochte",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Rückwärts laufendes Ausblasen erzeugt das Entzünden.",
+      "context": "Die scheinbar selbst entzündeten Kerzen gehören zur belebten Architektur des Schlosses. Geoffrey O’Brien erläutert im Criterion-Essay das einfache Aufnahmeprinzip: Ausgeblasene Kerzen werden rückwärts gezeigt und scheinen dadurch von selbst aufzuleuchten. René Clément war an dieser Passage beteiligt. Der Zauber entsteht somit aus einer Umkehr gewöhnlicher Bewegung, die im fertigen Bild wie eine selbständige Handlung der Dinge wirkt.",
+      "anchor": "Ausblasen rückwärts wird Entzünden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.criterion.com/current/posts/1928-beauty-and-the-beast-dark-magic",
+        "https://www.tcm.com/articles/961498/trivia-beauty-and-the-beast-trivia-and-fun-facts-about-beauty-and-the-beast"
+      ]
+    },
+    {
+      "id": "G100-20261008-FANTASY-001-Y",
+      "originalId": "G100-20261008-FANTASY-001-Y",
+      "knowledgeId": "K-G100-20261008-FANTASY-001-Y",
+      "filmKey": "La Belle et la Bête|1946",
+      "filmTitle": "Es war einmal",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Die Märchenverfilmung zeitlich mit Cocteaus „Orpheus“ verbinden",
+      "question": "In welchem Jahr wurde „Es war einmal“ mit Josette Day erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "G100-20261008-FANTASY-001-Y:a",
+          "text": "1944",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-Y:b",
+          "text": "1947",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-Y:c",
+          "text": "1948",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-Y:d",
+          "text": "1946",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die erste Veröffentlichung war 1946.",
+      "context": "Es war einmal erschien 1946; Jean Cocteaus Orpheus folgte 1950, vier Jahre später. Beide Filme verbinden vertraute Erzählstoffe mit einer eigens erfundenen Bildwelt, setzen aber unterschiedliche Schauplätze ein. Hier bestimmen das Schloss und seine belebten Gegenstände das Märchen. Im späteren Film geraten moderne Straßen, Autos und Spiegel in eine Geschichte zwischen Alltag und Jenseits.",
+      "anchor": "Märchen 1946, Orpheus 1950: vier Jahre.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.criterion.com/films/177-beauty-and-the-beast",
+        "https://www.criterion.com/films/610-orpheus",
+        "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1946_film)",
+        "https://en.wikipedia.org/wiki/Orpheus_(film)"
+      ]
+    },
+    {
+      "id": "G100-20261008-FANTASY-001-D",
+      "originalId": "G100-20261008-FANTASY-001-D",
+      "knowledgeId": "K-G100-20261008-FANTASY-001-D",
+      "filmKey": "La Belle et la Bête|1946",
+      "filmTitle": "Es war einmal",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Cocteaus Regie und den ungeplanten Schwarzweißlook einordnen",
+      "question": "Wer führte bei „Es war einmal“ mit Josette Day Regie?",
+      "answers": [
+        {
+          "id": "G100-20261008-FANTASY-001-D:a",
+          "text": "Jean Cocteau",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-D:b",
+          "text": "Marcel Carné",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-D:c",
+          "text": "Jean Renoir",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-FANTASY-001-D:d",
+          "text": "Jacques Feyder",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jean Cocteau führte Regie.",
+      "context": "Jean Cocteau wollte „Es war einmal“ ursprünglich in Farbe drehen. Die Mangelbedingungen nach dem Krieg verhinderten das. Kameramann Henri Alekan gestaltete stattdessen einen Schwarzweißfilm, der die scheinbar sonnige Alltagswelt gegen die nächtliche Schlosswelt setzt.",
+      "anchor": "Cocteaus geplanter Farbfilm erhält durch Alekan seine Schwarzweißwelt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.criterion.com/films/177-beauty-and-the-beast",
+        "https://www.criterion.com/current/posts/1928-beauty-and-the-beast-dark-magic"
+      ]
+    },
+    {
+      "id": "E20261007-F-278-L1",
+      "originalId": "E20261007-F-278-L1",
+      "knowledgeId": "K-E20261007-F-278-L1",
+      "filmKey": "La grande bellezza|2013",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Roms sichtbare Pracht beseitigt Jeps Gefühl vergeudeter Zeit nicht.",
+      "question": "„La Grande Bellezza – Die große Schönheit“: Welche Stadt ist Jeps (Toni Servillo) zentraler Lebensraum?",
+      "answers": [
+        {
+          "id": "E20261007-F-278-L1:a",
+          "text": "Mailand",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-L1:b",
+          "text": "Neapel",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-L1:c",
+          "text": "Rom",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-L1:d",
+          "text": "Turin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jep bewegt sich durch Roms Gesellschaft und historische Räume.",
+      "context": "Mit Ramona (Sabrina Ferilli) findet Jep (Toni Servillo) eine Vertraute außerhalb seiner üblichen Partyroutine. Er führt sie in die Umgangsformen seiner Gesellschaft ein und erklärt ihr sogar, wie man bei einer Beerdigung Aufmerksamkeit gewinnt. Ihre Freundschaft endet durch Ramonas Krankheit und Tod.",
+      "anchor": "Mit Ramona erlebt Jep Rom jenseits seiner Partyroutine.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/La_Grande_Bellezza_%E2%80%93_Die_gro%C3%9Fe_Sch%C3%B6nheit"
+      ],
+      "filmTitle": "La Grande Bellezza – Die große Schönheit"
+    },
+    {
+      "id": "E20261007-F-278-L2",
+      "originalId": "E20261007-F-278-L2",
+      "knowledgeId": "K-E20261007-F-278-L2",
+      "filmKey": "La grande bellezza|2013",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der frühe Roman bleibt erfolgreich, seine Fortsetzung als Schriftsteller aber aus.",
+      "question": "„La Grande Bellezza – Die große Schönheit“: Was hatte Jep (Toni Servillo) als junger Mann erfolgreich veröffentlicht?",
+      "answers": [
+        {
+          "id": "E20261007-F-278-L2:a",
+          "text": "Einen Gedichtband",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-L2:b",
+          "text": "Eine Essaysammlung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-L2:c",
+          "text": "Seine Memoiren",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-L2:d",
+          "text": "Einen Roman",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jep veröffentlichte als junger Mann einen erfolgreichen Roman.",
+      "context": "Auf seinen preisgekrönten Roman folgte kein zweites Buch. Jep (Toni Servillo) arbeitet als Kulturjournalist und wird zum festen Mitglied der römischen High Society. Dort wollte er nicht bloß dazugehören, sondern ihr König sein. An seinem 65. Geburtstag erkennt er jedoch, wie viel Zeit in diesem Leben vergangen ist.",
+      "anchor": "Ein Roman begründet Jeps Ruf; danach beherrscht er die Gesellschaft statt weiterzuschreiben.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/La_Grande_Bellezza_%E2%80%93_Die_gro%C3%9Fe_Sch%C3%B6nheit"
+      ],
+      "filmTitle": "La Grande Bellezza – Die große Schönheit"
+    },
+    {
+      "id": "E20261007-F-278-M1",
+      "originalId": "E20261007-F-278-M1",
+      "knowledgeId": "K-E20261007-F-278-M1",
+      "filmKey": "La grande bellezza|2013",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Elisas Tod und Tagebuch verändern die Lebensdeutung sowohl Jeps als auch ihres Ehemanns.",
+      "question": "„La Grande Bellezza – Die große Schönheit“: Welche Nachricht bringt Jep (Toni Servillo) zur erneuten Beschäftigung mit seiner ersten Liebe?",
+      "answers": [
+        {
+          "id": "E20261007-F-278-M1:a",
+          "text": "Ihr Mann meldet ihren Tod und berichtet von ihrem Tagebuch",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-M1:b",
+          "text": "Eine Freundin kündigt Elisas Rückkehr nach Rom an",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-M1:c",
+          "text": "Elisa bittet ihn um ein Treffen zu seinem Geburtstag",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-M1:d",
+          "text": "Ihr Sohn übergibt ihm bisher unbekannte Liebesbriefe",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Ehemann von Jeps erster Liebe berichtet Jep (Toni Servillo) von ihrem Tod und ihrem Tagebuch.",
+      "context": "Im Tagebuch von Jeps früherer Liebe liest ihr Mann, dass sie immer Jep (Toni Servillo) geliebt hat. Er selbst war für sie nur ein guter Gefährte. Während Jep seine verpasste Liebe neu betrachtet, findet der Witwer später Trost bei seiner Haushälterin.",
+      "anchor": "Dasselbe Tagebuch erschüttert Jeps Erinnerung und die Ehe ihres Mannes.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Great_Beauty"
+      ],
+      "filmTitle": "La Grande Bellezza – Die große Schönheit"
+    },
+    {
+      "id": "E20261007-F-278-M2",
+      "originalId": "E20261007-F-278-M2",
+      "knowledgeId": "K-E20261007-F-278-M2",
+      "filmKey": "La grande bellezza|2013",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Romano verlässt die enttäuschende Stadt und bewahrt im Abschied nur die Verbindung zu Jep.",
+      "question": "„La Grande Bellezza – Die große Schönheit“: Warum verlässt Romano (Carlo Verdone) Rom?",
+      "answers": [
+        {
+          "id": "E20261007-F-278-M2:a",
+          "text": "Er hat dort keine bezahlbare Wohnung mehr gefunden",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-M2:b",
+          "text": "Er ist von der Stadt und seinen dortigen Beziehungen enttäuscht",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-M2:c",
+          "text": "Er muss eine erkrankte Angehörige in seiner Heimat pflegen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-M2:d",
+          "text": "Er folgt einem bereits unterschriebenen Vertrag als Operndirektor",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Er zieht sich nach langer Enttäuschung zu seinen Verwandten zurück.",
+      "context": "Romano (Carlo Verdone) hat sich lange an die Hoffnung auf Anerkennung und eine erwiderte Liebe gebunden. Der Aufbruch beendet seinen Aufenthalt, statt eine plötzliche Karriere zu eröffnen. Nur von Jep (Toni Servillo) verabschiedet er sich persönlich. Die Geste unterscheidet eine erhaltene Freundschaft von den Beziehungen, die ihn enttäuscht haben.",
+      "anchor": "Romano verlässt die enttäuschende Stadt und bewahrt im Abschied nur die Verbindung zu Jep.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Great_Beauty",
+        "https://de.wikipedia.org/wiki/La_Grande_Bellezza_%E2%80%93_Die_gro%C3%9Fe_Sch%C3%B6nheit"
+      ],
+      "filmTitle": "La Grande Bellezza – Die große Schönheit"
+    },
+    {
+      "id": "E20261007-F-278-S1",
+      "originalId": "E20261007-F-278-S1",
+      "knowledgeId": "K-E20261007-F-278-S1",
+      "filmKey": "La grande bellezza|2013",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Rezeptgespräche des Kardinals gehen an Jeps Suche nach geistlicher Orientierung vorbei.",
+      "question": "„La Grande Bellezza – Die große Schönheit“: Wie reagiert der Kardinal (Roberto Herlitzka) häufig auf Jeps (Toni Servillo) Suche nach geistlicher Orientierung?",
+      "answers": [
+        {
+          "id": "E20261007-F-278-S1:a",
+          "text": "Er spricht vor allem über Restaurierungen alter Kirchen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-S1:b",
+          "text": "Er diskutiert hauptsächlich kirchliche Verwaltungsreformen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-S1:c",
+          "text": "Er lenkt das Gespräch auf Kochrezepte",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-S1:d",
+          "text": "Er fragt nur nach Jeps Kontakten zu privaten Stiftern",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kulinarische Ratschläge ersetzen eine Antwort auf die gesuchten Lebensfragen.",
+      "context": "Paolo Sorrentino empfand die Rezeptgespräche des Kardinals (Roberto Herlitzka) als komisch. Anders wirke Schwester Maria (Giusi Merli): Jeps (Toni Servillo) sonst wirksame Ironie könne sie nicht verkleinern. Ihre Beschränkung auf Wesentliches bringe ihn dazu, sich selbst ernsthafte Fragen zu stellen.",
+      "anchor": "Rezepte erheitern Sorrentino; Marias Einfachheit entzieht sich Jeps Ironie.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://filmmakermagazine.com/84363-paolo-sorrentino-on-the-greaty-beauty/",
+        "https://en.wikipedia.org/wiki/The_Great_Beauty"
+      ],
+      "filmTitle": "La Grande Bellezza – Die große Schönheit"
+    },
+    {
+      "id": "E20261007-F-278-S2",
+      "originalId": "E20261007-F-278-S2",
+      "knowledgeId": "K-E20261007-F-278-S2",
+      "filmKey": "La grande bellezza|2013",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Erinnerung auf Giglio eröffnet einen Schreibimpuls, dessen fertiges Ergebnis noch nicht gezeigt wird.",
+      "question": "„La Grande Bellezza – Die große Schönheit“: Was regt am Ende Jeps (Toni Servillo) Hoffnung auf neues Schreiben an?",
+      "answers": [
+        {
+          "id": "E20261007-F-278-S2:a",
+          "text": "Ein fertiges Manuskript, das Romano unter Jeps Namen hinterlassen hat",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-S2:b",
+          "text": "Eine neue Verlagsanfrage zu seiner alten Rom-Erzählung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-S2:c",
+          "text": "Ein geplanter Zeitungsauftrag über die Heilige",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-S2:d",
+          "text": "Die Erinnerung an Elisa während einer Reise nach Giglio",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Landschaft ruft die frühere Begegnung auf und eröffnet eine neue innere Verbindung.",
+      "context": "Jep (Toni Servillo) reist für eine Reportage nach Giglio und erinnert sich dort an Elisa. Die Rückkehr des früheren Moments lässt etwas Persönliches neben die lange gesellschaftliche Beobachtung treten. Der Film zeigt einen möglichen Anfang, kein schon fertiges zweites Buch. Die neue Hoffnung beruht auf einer veränderten Beziehung zur eigenen Erinnerung.",
+      "anchor": "Die Erinnerung auf Giglio eröffnet einen Schreibimpuls, dessen fertiges Ergebnis noch nicht gezeigt wird.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Great_Beauty",
+        "https://de.wikipedia.org/wiki/La_Grande_Bellezza_%E2%80%93_Die_gro%C3%9Fe_Sch%C3%B6nheit"
+      ],
+      "filmTitle": "La Grande Bellezza – Die große Schönheit"
+    },
+    {
+      "id": "E20261007-F-278-Y",
+      "originalId": "E20261007-F-278-Y",
+      "knowledgeId": "K-E20261007-F-278-Y",
+      "filmKey": "La grande bellezza|2013",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Die große Schönheit 2013 → Oscar-Auszeichnung 2014: ein Jahr später.",
+      "question": "In welchem Jahr wurde „La Grande Bellezza – Die große Schönheit“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "E20261007-F-278-Y:a",
+          "text": "2013",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-Y:b",
+          "text": "2011",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-Y:c",
+          "text": "2012",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-Y:d",
+          "text": "2014",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Film erschien 2013.",
+      "context": "„La Grande Bellezza“ wurde 2013 im Wettbewerb von Cannes gezeigt. 2014 gewann Italien mit dem Film den Oscar für den besten fremdsprachigen Film. Zwischen dem Festivalauftritt und der Auszeichnung lag damit ein Jahr.",
+      "anchor": "Cannes 2013 → Oscar 2014.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.festival-cannes.com/en/f/la-grande-bellezza/",
+        "https://www.oscars.org/oscars/ceremonies/2014"
+      ],
+      "filmTitle": "La Grande Bellezza – Die große Schönheit"
+    },
+    {
+      "id": "E20261007-F-278-D",
+      "originalId": "E20261007-F-278-D",
+      "knowledgeId": "K-E20261007-F-278-D",
+      "filmKey": "La grande bellezza|2013",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Sorrentinos Entwicklung von Gesellschaftsnotizen zu Jep und einer Romanstruktur.",
+      "question": "Wer führte bei „La Grande Bellezza – Die große Schönheit“ Regie?",
+      "answers": [
+        {
+          "id": "E20261007-F-278-D:a",
+          "text": "Matteo Garrone",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-D:b",
+          "text": "Paolo Sorrentino",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-D:c",
+          "text": "Nanni Moretti",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-278-D:d",
+          "text": "Giuseppe Tornatore",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Paolo Sorrentino führte bei diesem Film Regie.",
+      "context": "Sorrentino begann nach eigener Aussage mit Beobachtungsnotizen über die Gesellschaft. Erst danach fand er Jep (Toni Servillo) als Figur, die sich durch diese Welt bewegen konnte, und entwickelte die emotionale Geschichte. Als Leitbild diente ihm die Romanform: lange Szenen, Nebenwege und die Innenschau der Hauptfigur.",
+      "anchor": "Gesellschaftsbeobachtungen zuerst, Jep als Bindeglied danach: Sorrentinos Romanform.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://filmmakermagazine.com/84363-paolo-sorrentino-on-the-greaty-beauty/",
+        "https://www.festival-cannes.com/en/f/la-grande-bellezza/"
+      ],
+      "filmTitle": "La Grande Bellezza – Die große Schönheit"
+    },
+    {
+      "id": "F240-20261006-194-L1",
+      "originalId": "F240-20261006-194-L1",
+      "knowledgeId": "K-F240-20261006-194-L1",
+      "filmKey": "La Jetée|1962",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die zerstörte Gegenwart sucht Hilfe aus anderen Zeiten.",
+      "question": "Welche Katastrophe liegt der Welt von „Am Rande des Rollfelds“ zugrunde?",
+      "answers": [
+        {
+          "id": "F240-20261006-194-L1:a",
+          "text": "Ein Weltkrieg hat Paris zerstört.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-L1:b",
+          "text": "Ein einzelner Reaktorunfall hat die Stadt evakuiert.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-L1:c",
+          "text": "Eine Naturkatastrophe hat Paris unbewohnbar gemacht.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-L1:d",
+          "text": "Eine fremde Besatzung hat die Stadt ohne Zerstörung übernommen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ein Weltkrieg hat Paris zerstört.",
+      "context": "Ein Weltkrieg hat Paris zerstört. Die Überlebenden leben unterirdisch und suchen Hilfe in anderen Zeiten; die Zeitreise ist hier zunächst ein Mittel, die zerstörte Gegenwart materiell zu retten.",
+      "anchor": "Die zerstörte Gegenwart sucht Hilfe aus anderen Zeiten.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Jet%C3%A9e"
+      ],
+      "filmTitle": "Am Rande des Rollfelds"
+    },
+    {
+      "id": "F240-20261006-194-L2",
+      "originalId": "F240-20261006-194-L2",
+      "knowledgeId": "K-F240-20261006-194-L2",
+      "filmKey": "La Jetée|1962",
+      "difficulty": "leicht",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Stehende Bilder erzählen eine Geschichte von Zeitbewegung.",
+      "question": "Woraus besteht die Bildfolge von „Am Rande des Rollfelds“ überwiegend?",
+      "answers": [
+        {
+          "id": "F240-20261006-194-L2:a",
+          "text": "Aus durchgehend bewegten Schwarzweißaufnahmen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-L2:b",
+          "text": "Aus stehenden Fotografien",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-L2:c",
+          "text": "Aus gefilmten Zeichnungen einer Kriegschronik",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-L2:d",
+          "text": "Aus abgefilmten Schriftseiten",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Film besteht überwiegend aus Fotografien.",
+      "context": "Der Film besteht überwiegend aus Fotografien. Erzählerstimme, Musik und Montage erzeugen dennoch einen zeitlichen Ablauf; die Erinnerung wird dadurch nicht nur zum Gegenstand der Geschichte, sondern auch zur Form ihrer Bilder.",
+      "anchor": "Stehende Bilder erzählen eine Geschichte von Zeitbewegung.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Jet%C3%A9e",
+        "https://www.cinematheque.fr/film/49998.html"
+      ],
+      "filmTitle": "Am Rande des Rollfelds"
+    },
+    {
+      "id": "F240-20261006-194-M1",
+      "originalId": "F240-20261006-194-M1",
+      "knowledgeId": "K-F240-20261006-194-M1",
+      "filmKey": "La Jetée|1962",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Kindheitserinnerung wird zum Anker der Zeitreise.",
+      "question": "Warum wählen die Forscher den Mann (Davos Hanich) in „Am Rande des Rollfelds“ für ihre Zeitexperimente aus?",
+      "answers": [
+        {
+          "id": "F240-20261006-194-M1:a",
+          "text": "Er widersteht den Injektionen ohne körperliche Schäden.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-M1:b",
+          "text": "Er beherrscht die Steuerung der Zeitreiseapparatur.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-M1:c",
+          "text": "Eine besonders starke Kindheitserinnerung bindet ihn an die Vergangenheit.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-M1:d",
+          "text": "Er besitzt eine sichere Erinnerung an den Kriegsausbruch.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die intensive Erinnerung an eine Frau am Flughafen macht den Mann zum geeigneten Versuchssubjekt.",
+      "context": "Die intensive Erinnerung an eine Frau am Flughafen macht den Mann zum geeigneten Versuchssubjekt. Andere können die Reise psychisch nicht ertragen; seine persönliche Bindung bietet den Forschern einen Zugang zur früheren Welt.",
+      "anchor": "Die Kindheitserinnerung wird zum Anker der Zeitreise.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Jet%C3%A9e"
+      ],
+      "filmTitle": "Am Rande des Rollfelds"
+    },
+    {
+      "id": "F240-20261006-194-M2",
+      "originalId": "F240-20261006-194-M2",
+      "knowledgeId": "K-F240-20261006-194-M2",
+      "filmKey": "La Jetée|1962",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der technische Missionserfolg schützt den Reisenden nicht.",
+      "question": "Was erhält der Mann (Davos Hanich) in „Am Rande des Rollfelds“ von den Menschen der fernen Zukunft?",
+      "answers": [
+        {
+          "id": "F240-20261006-194-M2:a",
+          "text": "Einen Schutzanzug gegen die radioaktive Außenluft",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-M2:b",
+          "text": "Einen Bauplan für einen dauerhaften Zeitkanal",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-M2:c",
+          "text": "Ein Medikament gegen die Strahlenkrankheit",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-M2:d",
+          "text": "Eine Energiequelle zur Rettung seiner Gesellschaft",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die zukünftigen Menschen geben eine Energiequelle, die die zerstörte Gesellschaft erneuern kann.",
+      "context": "Die zukünftigen Menschen geben eine Energiequelle, die die zerstörte Gesellschaft erneuern kann. Die Reise erfüllt damit ihren technischen Auftrag; gerade nach dem Erfolg droht dem Versuchssubjekt jedoch die Beseitigung durch seine Bewacher.",
+      "anchor": "Der technische Missionserfolg schützt den Reisenden nicht.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Jet%C3%A9e"
+      ],
+      "filmTitle": "Am Rande des Rollfelds"
+    },
+    {
+      "id": "F240-20261006-194-S1",
+      "originalId": "F240-20261006-194-S1",
+      "knowledgeId": "K-F240-20261006-194-S1",
+      "filmKey": "La Jetée|1962",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Er wählt die geliebte Vergangenheit statt der sicheren Zukunft.",
+      "question": "Welche Zuflucht wählt der Mann (Davos Hanich) am Ende von „Am Rande des Rollfelds“ anstelle der angebotenen Zukunft?",
+      "answers": [
+        {
+          "id": "F240-20261006-194-S1:a",
+          "text": "Die Vorkriegszeit seiner Kindheit",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-S1:b",
+          "text": "Die Vergangenheit vor seiner eigenen Geburt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-S1:c",
+          "text": "Die zerstörte Gegenwart der Überlebenden",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-S1:d",
+          "text": "Die Zeit während des Weltkriegs",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Mann bittet um Rückkehr in die Zeit seiner Kindheit.",
+      "context": "Der Mann bittet um Rückkehr in die Zeit seiner Kindheit. Er möchte die Frau (Hélène Châtelain) wiedersehen; sein persönlicher Erinnerungswunsch verdrängt die sicherer wirkende Flucht in eine ferne Zukunft.",
+      "anchor": "Er wählt die geliebte Vergangenheit statt der sicheren Zukunft.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Jet%C3%A9e"
+      ],
+      "filmTitle": "Am Rande des Rollfelds"
+    },
+    {
+      "id": "F240-20261006-194-S2",
+      "originalId": "F240-20261006-194-S2",
+      "knowledgeId": "K-F240-20261006-194-S2",
+      "filmKey": "La Jetée|1962",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die lebensprägende Erinnerung ist der eigene künftige Tod.",
+      "question": "Welches Ereignis hat der Mann (Davos Hanich) als Kind in „Am Rande des Rollfelds“ tatsächlich gesehen?",
+      "answers": [
+        {
+          "id": "F240-20261006-194-S2:a",
+          "text": "Den späteren Tod seines Experimentators",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-S2:b",
+          "text": "Seinen eigenen späteren Tod",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-S2:c",
+          "text": "Den Tod seines Vaters vor dem Krieg",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-S2:d",
+          "text": "Die Hinrichtung eines anderen Gefangenen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die verstörende Kindheitserinnerung zeigt den späteren Tod des Mannes selbst.",
+      "context": "Die verstörende Kindheitserinnerung zeigt den späteren Tod des Mannes selbst. Ein Verfolger aus der zerstörten Gegenwart tötet ihn bei der Rückkehr; der vermeintliche Fluchtort war schon immer Teil seines zeitlichen Kreises.",
+      "anchor": "Die lebensprägende Erinnerung ist der eigene künftige Tod.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Jet%C3%A9e"
+      ],
+      "filmTitle": "Am Rande des Rollfelds"
+    },
+    {
+      "id": "F240-20261006-194-Y",
+      "originalId": "F240-20261006-194-Y",
+      "knowledgeId": "K-F240-20261006-194-Y",
+      "filmKey": "La Jetée|1962",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Filmjahr 1962 bei BFI und Cinémathèque, Jean-Vigo-Preis 1963: Die Anerkennung folgt im nächsten Jahr.",
+      "question": "Welches Filmjahr nennen BFI und Cinémathèque française für „Am Rande des Rollfelds“?",
+      "answers": [
+        {
+          "id": "F240-20261006-194-Y:a",
+          "text": "1960",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-Y:b",
+          "text": "1961",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-Y:c",
+          "text": "1962",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-Y:d",
+          "text": "1963",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Beide Institutionen führen den Film unter 1962.",
+      "context": "BFI und Cinémathèque française führen den Film unter 1962. Der Jean-Vigo-Preis folgte 1963. Criterion nennt dagegen 1963 als Filmjahr.",
+      "anchor": "Foto-Roman 1962 → Jean-Vigo-Preis 1963.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.cinematheque.fr/film/49998.html",
+        "https://www.bfi.org.uk/film/e6855ee9-c56d-5914-9f9b-69307cef5b18/la-jetee",
+        "https://www.criterion.com/films/329-la-jetee"
+      ],
+      "filmTitle": "Am Rande des Rollfelds"
+    },
+    {
+      "id": "F240-20261006-194-D",
+      "originalId": "F240-20261006-194-D",
+      "knowledgeId": "K-F240-20261006-194-D",
+      "filmKey": "La Jetée|1962",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Markers Regie und seine frühere Zusammenarbeit mit Alain Resnais unterscheiden.",
+      "question": "Wer führte bei „Am Rande des Rollfelds“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-194-D:a",
+          "text": "Jean-Luc Godard",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-D:b",
+          "text": "François Truffaut",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-D:c",
+          "text": "Alain Resnais",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-194-D:d",
+          "text": "Chris Marker",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Chris Marker schrieb und inszenierte den Foto-Roman.",
+      "context": "1953 führten Chris Marker und Alain Resnais gemeinsam bei „Les Statues meurent aussi“ Regie, einem antikolonialen Dokumentarfilm über afrikanische Kunst. Marker verfasste den Kommentar, Resnais montierte den Film. Neun Jahre später schrieb und inszenierte Marker „Am Rande des Rollfelds“.",
+      "anchor": "Marker schrieb zunächst für die gemeinsame Regie mit Resnais, später für seinen Zeitreise-Foto-Roman.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.cinematheque.fr/film/49998.html",
+        "https://www.cinematheque.fr/film/50892.html"
+      ],
+      "filmTitle": "Am Rande des Rollfelds"
+    },
+    {
+      "id": "MUS-202609-P01-L-007",
+      "originalId": "MUS-202609-P01-L-007",
+      "knowledgeId": "K-MUS-202609-P01-L-007",
+      "filmKey": "La La Land|2016",
+      "filmTitle": "La La Land",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "learningObjective": "Sebastian ist Jazzpianist.",
+      "question": "„La La Land“ (2016): Welches Instrument spielt Sebastian (Ryan Gosling) beruflich?",
+      "answers": [
+        {
+          "id": "MUS-202609-P01-L-007:a",
+          "text": "Violine",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-L-007:b",
+          "text": "Schlagzeug",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-L-007:c",
+          "text": "Klavier",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-L-007:d",
+          "text": "Trompete",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sebastian ist Jazzpianist.",
+      "context": "Sebastian (Ryan Gosling) verdient sein Geld zunächst mit musikalischen Aufträgen, bei denen er wenig Freiheit hat. Im Restaurant soll er vorgeschriebene Stücke spielen; sein Ausflug in eine eigene Jazzimprovisation kostet ihn die Stelle. Diese kleine Arbeitsszene macht seine musikalischen Ansprüche hörbar. Klavierspiel bleibt später auch das Mittel, mit dem der Film Erinnerungen ohne erklärende Dialoge zurückholt.",
+      "anchor": "Sebastians musikalische Sprache ist das Klavier.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_La_Land",
+        "https://theasc.com/article/la-la-land-city-of-stars/"
+      ]
+    },
+    {
+      "id": "MUS-202609-P01-L-008",
+      "originalId": "MUS-202609-P01-L-008",
+      "knowledgeId": "K-MUS-202609-P01-L-008",
+      "filmKey": "La La Land|2016",
+      "filmTitle": "La La Land",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "learningObjective": "Mia möchte als Schauspielerin Fuß fassen.",
+      "question": "„La La Land“ (2016): Welchen Beruf möchte Mia (Emma Stone) erfolgreich ausüben?",
+      "answers": [
+        {
+          "id": "MUS-202609-P01-L-008:a",
+          "text": "Filmkomponistin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-L-008:b",
+          "text": "Kostümbildnerin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-L-008:c",
+          "text": "Architektin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-L-008:d",
+          "text": "Schauspielerin",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Mia möchte als Schauspielerin Fuß fassen.",
+      "context": "Mia (Emma Stone) arbeitet in einem Café auf einem Studiogelände und geht immer wieder zu Vorsprechen. Die Nähe zur Filmwelt bedeutet für sie noch keinen beruflichen Zugang. Der Film zeigt etwa, wie eine emotionale Darbietung durch einen Telefonanruf unterbrochen wird. Solche kurzen Alltagsszenen geben ihren späteren großen Gesangsauftritten eine Vorgeschichte aus sehr konkreten beruflichen Enttäuschungen.",
+      "anchor": "Mia sucht ihre Chance als Schauspielerin.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_La_Land"
+      ]
+    },
+    {
+      "id": "MUS-202609-P01-M-007",
+      "originalId": "MUS-202609-P01-M-007",
+      "knowledgeId": "K-MUS-202609-P01-M-007",
+      "filmKey": "La La Land|2016",
+      "filmTitle": "La La Land",
+      "difficulty": "leicht",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Die Eröffnungsnummer verwandelt einen Verkehrsstau in eine Tanzbühne.",
+      "question": "„La La Land“ (2016): Wo beginnt die große Eröffnungsnummer „Another Day of Sun“?",
+      "answers": [
+        {
+          "id": "MUS-202609-P01-M-007:a",
+          "text": "Im Wartebereich eines Flughafens",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-M-007:b",
+          "text": "Auf einem Bahnsteig am Hauptbahnhof",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-M-007:c",
+          "text": "In einem Stau auf einer Autobahnauffahrt",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-M-007:d",
+          "text": "In einer Schlange vor einem Filmstudio",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Eröffnungsnummer verwandelt einen Verkehrsstau in eine Tanzbühne.",
+      "context": "Für wenige Minuten verlassen zahlreiche Wartende ihre Autos und tanzen zwischen den Fahrzeugen. „Another Day of Sun“ stellt damit die Stadt und ihre hoffnungsvollen Neuankömmlinge vor, noch bevor das zentrale Paar im Mittelpunkt steht. Die aufwendige Choreografie nutzt Autodächer, Fahrspuren und Höhenunterschiede. Ein alltäglicher Stillstand wird räumlich geöffnet und setzt den Ton für das Musical.",
+      "anchor": "Der Stau wird zur Bühne von „Another Day of Sun“.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://theasc.com/article/la-la-land-city-of-stars/",
+        "https://time.com/4594589/la-la-land-opening-scene-musical-another-day-of-sun/"
+      ]
+    },
+    {
+      "id": "MUS-202609-P01-M-008",
+      "originalId": "MUS-202609-P01-M-008",
+      "knowledgeId": "K-MUS-202609-P01-M-008",
+      "filmKey": "La La Land|2016",
+      "filmTitle": "La La Land",
+      "difficulty": "mittel",
+      "questionType": "Schauplatz",
+      "learningObjective": "Die beiden besuchen das Griffith Observatory.",
+      "question": "„La La Land“ (2016): Welches Gebäude besuchen Mia (Emma Stone) und Sebastian (Ryan Gosling) nach dem abgebrochenen Kinobesuch?",
+      "answers": [
+        {
+          "id": "MUS-202609-P01-M-008:a",
+          "text": "Die Walt Disney Concert Hall",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-M-008:b",
+          "text": "Das Bradbury Building",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-M-008:c",
+          "text": "Das Getty Center",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-M-008:d",
+          "text": "Das Griffith Observatory",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die beiden besuchen das Griffith Observatory.",
+      "context": "Mia (Emma Stone) und Sebastian (Ryan Gosling) sehen zunächst „… denn sie wissen nicht, was sie tun“. Nach einer Projektorpanne besuchen sie das Griffith Observatory, das auch in diesem älteren Film vorkommt. Das Rendezvous setzt also einen Kinobesuch im Stadtraum fort. Im Planetarium löst sich die Szene schließlich von der Schwerkraft und verwandelt sich in eine Tanzfantasie.",
+      "anchor": "Vom James-Dean-Film geht es zum Griffith Observatory.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_La_Land",
+        "https://theasc.com/article/la-la-land-city-of-stars/"
+      ]
+    },
+    {
+      "id": "MUS-202609-P01-S-007",
+      "originalId": "MUS-202609-P01-S-007",
+      "knowledgeId": "K-MUS-202609-P01-S-007",
+      "filmKey": "La La Land|2016",
+      "filmTitle": "La La Land",
+      "difficulty": "mittel",
+      "questionType": "Musik",
+      "learningObjective": "Mia singt beim Vorsprechen „Audition (The Fools Who Dream)“.",
+      "question": "„La La Land“ (2016): Mit welchem Lied besingt Mia (Emma Stone) die Träume ihrer Tante?",
+      "answers": [
+        {
+          "id": "MUS-202609-P01-S-007:a",
+          "text": "Someone in the Crowd",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-S-007:b",
+          "text": "A Lovely Night",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-S-007:c",
+          "text": "Audition (The Fools Who Dream)",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-S-007:d",
+          "text": "Start a Fire",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Mia singt beim Vorsprechen „Audition (The Fools Who Dream)“.",
+      "context": "Beim Vorsprechen soll Mia (Emma Stone) eine Geschichte erzählen. Sie erinnert sich an ihre Tante, die sie zum Spielen und Träumen inspirierte, und der Bericht geht in Gesang über. Die Szene benötigt keine große Tanzgruppe: Stimme, Gesicht und eine allmähliche Veränderung des Lichts tragen den Auftritt. Gerade diese Konzentration unterscheidet die Nummer deutlich vom Trubel des Filmanfangs.",
+      "anchor": "Mias Tante steht im Zentrum von „Audition“.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_La_Land",
+        "https://filmmakermagazine.com/101296-pink-skies-and-poetic-artifacts-dp-linus-sandgren-on-la-la-land/"
+      ]
+    },
+    {
+      "id": "MUS-202609-P01-S-008",
+      "originalId": "MUS-202609-P01-S-008",
+      "knowledgeId": "K-MUS-202609-P01-S-008",
+      "filmKey": "La La Land|2016",
+      "filmTitle": "La La Land",
+      "difficulty": "mittel",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Der Epilog entwirft einen alternativen Verlauf ihrer gemeinsamen Geschichte.",
+      "question": "„La La Land“ (2016): Was zeigt die lange musikalische Fantasie im Epilog?",
+      "answers": [
+        {
+          "id": "MUS-202609-P01-S-008:a",
+          "text": "Eine Rückblende auf Sebastians Kindheit",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-S-008:b",
+          "text": "Eine Probe für Mias nächsten Kinofilm",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-S-008:c",
+          "text": "Ein tatsächlich nachgeholtes gemeinsames Jahr",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-S-008:d",
+          "text": "Ein mögliches gemeinsames Leben des Paares",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Epilog entwirft einen alternativen Verlauf ihrer gemeinsamen Geschichte.",
+      "context": "Als Mia (Emma Stone) Jahre später Sebastians (Ryan Gosling) Club besucht, setzt sein Klavierspiel eine Bildfolge in Gang. Bekannte Situationen erscheinen mit verändertem Ausgang; daraus entsteht ein mögliches gemeinsames Leben. Anschließend kehrt der Film in den Club zurück. Diese Rückkehr macht klar, dass die musikalische Montage keine nachträglich enthüllte Realität war, sondern eine Vorstellung vom verpassten Weg.",
+      "anchor": "Der Epilog spielt durch, was hätte sein können.",
+      "spoilerLevel": "Auflösung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_La_Land"
+      ]
+    },
+    {
+      "id": "MUS-202609-P01-L-007-V1",
+      "originalId": "MUS-202609-P01-L-007-V1",
+      "knowledgeId": "K-MUS-202609-P01-L-007",
+      "filmKey": "La La Land|2016",
+      "filmTitle": "La La Land",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "learningObjective": "Sebastian ist Jazzpianist.",
+      "question": "„La La Land“ (2016): An welchem Instrument tritt Sebastian (Ryan Gosling) als Jazzmusiker auf?",
+      "answers": [
+        {
+          "id": "MUS-202609-P01-L-007-V1:a",
+          "text": "Trompete",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-L-007-V1:b",
+          "text": "Klavier",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-L-007-V1:c",
+          "text": "Schlagzeug",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-L-007-V1:d",
+          "text": "Violine",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sebastian ist Jazzpianist.",
+      "context": "Sebastian (Ryan Gosling) verdient sein Geld zunächst mit musikalischen Aufträgen, bei denen er wenig Freiheit hat. Im Restaurant soll er vorgeschriebene Stücke spielen; sein Ausflug in eine eigene Jazzimprovisation kostet ihn die Stelle. Diese kleine Arbeitsszene macht seine musikalischen Ansprüche hörbar. Klavierspiel bleibt später auch das Mittel, mit dem der Film Erinnerungen ohne erklärende Dialoge zurückholt.",
+      "anchor": "Sebastians musikalische Sprache ist das Klavier.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_La_Land",
+        "https://theasc.com/article/la-la-land-city-of-stars/"
+      ],
+      "variantOf": "MUS-202609-P01-L-007"
+    },
+    {
+      "id": "MUS-202609-P01-S-007-V1",
+      "originalId": "MUS-202609-P01-S-007-V1",
+      "knowledgeId": "K-MUS-202609-P01-S-007",
+      "filmKey": "La La Land|2016",
+      "filmTitle": "La La Land",
+      "difficulty": "mittel",
+      "questionType": "Musik",
+      "learningObjective": "Mia singt beim Vorsprechen „Audition (The Fools Who Dream)“.",
+      "question": "„La La Land“ (2016): Welches Lied singt Mia (Emma Stone) über ihre inspirierende Tante?",
+      "answers": [
+        {
+          "id": "MUS-202609-P01-S-007-V1:a",
+          "text": "Someone in the Crowd",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-S-007-V1:b",
+          "text": "Start a Fire",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-S-007-V1:c",
+          "text": "Audition (The Fools Who Dream)",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202609-P01-S-007-V1:d",
+          "text": "A Lovely Night",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Mia singt beim Vorsprechen „Audition (The Fools Who Dream)“.",
+      "context": "Beim Vorsprechen soll Mia (Emma Stone) eine Geschichte erzählen. Sie erinnert sich an ihre Tante, die sie zum Spielen und Träumen inspirierte, und der Bericht geht in Gesang über. Die Szene benötigt keine große Tanzgruppe: Stimme, Gesicht und eine allmähliche Veränderung des Lichts tragen den Auftritt. Gerade diese Konzentration unterscheidet die Nummer deutlich vom Trubel des Filmanfangs.",
+      "anchor": "Mias Tante steht im Zentrum von „Audition“.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_La_Land",
+        "https://filmmakermagazine.com/101296-pink-skies-and-poetic-artifacts-dp-linus-sandgren-on-la-la-land/"
+      ],
+      "variantOf": "MUS-202609-P01-S-007"
+    },
+    {
+      "id": "FF-304-YEAR",
+      "originalId": "FF-304-YEAR",
+      "knowledgeId": "K-FF-304-YEAR",
+      "filmKey": "La La Land|2016",
+      "filmTitle": "La La Land",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Die Erstveröffentlichung und Emma Stones Auszeichnung in Venedig zeitlich einordnen",
+      "question": "„La La Land“: In welchem Jahr erschien der Film von Damien Chazelle erstmals?",
+      "answers": [
+        {
+          "id": "FF-304-YEAR:y2016",
+          "text": "2016",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-304-YEAR:y2006",
+          "text": "2015",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-304-YEAR:y2008",
+          "text": "2017",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-304-YEAR:y2010",
+          "text": "2014",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„La La Land“ wurde erstmals 2016 veröffentlicht.",
+      "context": "Im August 2016 eröffnete „La La Land“ die Filmfestspiele von Venedig. Emma Stone gewann dort für Mia den Darstellerinnenpreis Coppa Volpi. Der US-Kinostart folgte im Dezember desselben Jahres.",
+      "anchor": "2016: Venedig eröffnet mit „La La Land“ und zeichnet Emma Stone aus.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_La_Land",
+        "https://asac.labiennale.org/attivita/cinema/264246"
+      ]
+    },
+    {
+      "id": "FF-304-DIRECTOR",
+      "originalId": "FF-304-DIRECTOR",
+      "knowledgeId": "K-FF-304-DIRECTOR",
+      "filmKey": "La La Land|2016",
+      "filmTitle": "La La Land",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Chazelle als Regisseur und die Nachwirkung von Mias gescheitertem Theaterabend einordnen",
+      "question": "Wer führte bei „La La Land“ (2016) Regie?",
+      "answers": [
+        {
+          "id": "FF-304-DIRECTOR:a",
+          "text": "Damien Chazelle",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-304-DIRECTOR:b",
+          "text": "John Carney",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-304-DIRECTOR:c",
+          "text": "Michael Gracey",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-304-DIRECTOR:d",
+          "text": "Rob Marshall",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Damien Chazelle führte Regie.",
+      "context": "Sebastian (Ryan Gosling) verpasst Mias (Emma Stone) selbstgeschriebenes Solostück wegen eines Fototermins seiner Band. Mia gibt nach der schlecht besuchten Aufführung auf und kehrt nach Boulder City zurück. Doch eine Castingdirektorin hat das Stück gesehen und sucht sie für ein Vorsprechen. Sebastian fährt zu ihr, um sie zur Rückkehr zu bewegen.",
+      "anchor": "Aus Mias scheinbar gescheitertem Stück entsteht die entscheidende Chance.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_La_Land"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-013-L1",
+      "originalId": "G100-20261008-MUSIK-013-L1",
+      "knowledgeId": "K-G100-20261008-MUSIK-013-L1",
+      "filmKey": "La Môme|2007",
+      "filmTitle": "La Vie en Rose",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Piafs Chansons verbinden Ruhm und ein schwieriges Leben.",
+      "question": "Welche künstlerische Laufbahn steht in „La Vie en Rose“ im Mittelpunkt?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-013-L1:a",
+          "text": "Die einer Opernsängerin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-L1:b",
+          "text": "Die einer Chansonsängerin",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-L1:c",
+          "text": "Die einer Operettensängerin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-L1:d",
+          "text": "Die einer Jazzsängerin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Film erzählt Édith Piafs Laufbahn als Chansonsängerin.",
+      "context": "Édith Piaf (Marion Cotillard; als Kind Manon Chevallier und Pauline Burlet) wird vom Straßenkind zur international bekannten Chansonsängerin. Der Film verbindet ihre musikalische Karriere mit Erinnerungen an eine unbeständige Kindheit, Beziehungen und gesundheitliche Krisen. Die Lieder erscheinen dabei in verschiedenen Lebenssituationen. Sie erzählen nicht allein von öffentlichem Erfolg, sondern tragen auch persönliche Verluste und die Verletzlichkeit der Künstlerin in die Auftritte hinein.",
+      "anchor": "Piafs Chansons verbinden Ruhm und ein schwieriges Leben.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)",
+        "https://filta.org.uk/filta_resources/French/La.Mome.pdf"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-013-L2",
+      "originalId": "G100-20261008-MUSIK-013-L2",
+      "knowledgeId": "K-G100-20261008-MUSIK-013-L2",
+      "filmKey": "La Môme|2007",
+      "filmTitle": "La Vie en Rose",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Sängerin verliebt sich in einen Boxer.",
+      "question": "Welchen Sport betreibt Piafs Geliebter Marcel Cerdan (Jean-Pierre Martins) in „La Vie en Rose“?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-013-L2:a",
+          "text": "Radsport",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-L2:b",
+          "text": "Fußball",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-L2:c",
+          "text": "Boxen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-L2:d",
+          "text": "Tennis",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Marcel Cerdan ist Boxer.",
+      "context": "In New York lernt Édith Piaf (Marion Cotillard) den verheirateten Boxer Marcel Cerdan (Jean-Pierre Martins) kennen, der um den Weltmeistertitel kämpft. Sie beginnen eine Affäre, die geheim bleiben soll. Doch wo Marcel auftaucht, wird „La Vie en rose“ gespielt: Ihr Lied verrät die Verbindung.",
+      "anchor": "Die Sängerin verliebt sich in einen Boxer.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-013-M1",
+      "originalId": "G100-20261008-MUSIK-013-M1",
+      "knowledgeId": "K-G100-20261008-MUSIK-013-M1",
+      "filmKey": "La Môme|2007",
+      "filmTitle": "La Vie en Rose",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Titine gibt dem erblindeten Kind Schutz.",
+      "question": "Wer kümmert sich in „La Vie en Rose“ besonders um die zeitweise erblindete junge Édith (Manon Chevallier)?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-013-M1:a",
+          "text": "Mômone (Sylvie Testud)",
+          "correct": false,
+          "feedback": "Mômone ist Piafs spätere Freundin."
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-M1:b",
+          "text": "Annetta (Clotilde Courau)",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-M1:c",
+          "text": "Ginou (Caroline Raynaud)",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-M1:d",
+          "text": "Titine (Emmanuelle Seigner)",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Titine kümmert sich um Édith während ihrer Erblindung.",
+      "context": "Die junge Édith (Manon Chevallier) lebt zeitweise im Bordell ihrer Großmutter. Dort nimmt sich Titine (Emmanuelle Seigner) besonders des Kindes an, als es sein Augenlicht verliert. Die Szene stellt Fürsorge an einem gesellschaftlich stigmatisierten Ort dar. Das Umfeld, das von außen leicht allein als anstößig betrachtet werden könnte, gibt Édith eine persönliche Bezugsperson in einer Kindheit, die sonst von wechselnden Betreuungssituationen geprägt ist.",
+      "anchor": "Titine gibt dem erblindeten Kind Schutz.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)",
+        "https://filta.org.uk/filta_resources/French/La.Mome.pdf"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-013-M2",
+      "originalId": "G100-20261008-MUSIK-013-M2",
+      "knowledgeId": "K-G100-20261008-MUSIK-013-M2",
+      "filmKey": "La Môme|2007",
+      "filmTitle": "La Vie en Rose",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die scheinbare Ankunft kippt in die Nachricht vom Absturz.",
+      "question": "Was geschieht Marcel Cerdan (Jean-Pierre Martins) auf dem Weg zu Piaf (Marion Cotillard) in „La Vie en Rose“?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-013-M2:a",
+          "text": "Er stirbt bei einem Flugzeugabsturz",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-M2:b",
+          "text": "Er wird nach einem verlorenen Kampf festgenommen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-M2:c",
+          "text": "Er verunglückt bei einer Autofahrt in New York",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-M2:d",
+          "text": "Er erleidet einen tödlichen Unfall im Training",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Cerdan stirbt bei einem Flugzeugabsturz.",
+      "context": "Édith Piaf (Marion Cotillard) bittet Marcel Cerdan (Jean-Pierre Martins), zu ihr nach New York zu kommen. Der Film lässt ihn zunächst scheinbar in ihrem Zimmer erscheinen, bevor die Nachricht von seinem tödlichen Flugzeugabsturz die Szene zerreißt. Diese Inszenierung folgt Piafs emotionaler Wahrnehmung. Der abrupte Wechsel macht den Verlust besonders unmittelbar, weil die erhoffte Wiedervereinigung für einen Moment bereits sichtbar geworden ist.",
+      "anchor": "Die scheinbare Ankunft kippt in die Nachricht vom Absturz.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-013-S1",
+      "originalId": "G100-20261008-MUSIK-013-S1",
+      "knowledgeId": "K-G100-20261008-MUSIK-013-S1",
+      "filmKey": "La Môme|2007",
+      "filmTitle": "La Vie en Rose",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Auf der Straße wird die Kinderstimme plötzlich zum Ereignis.",
+      "question": "Welches Lied singt die junge Édith (Pauline Burlet) in „La Vie en Rose“ beim Straßenauftritt ihres Vaters?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-013-S1:a",
+          "text": "Mon homme",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-S1:b",
+          "text": "La Marseillaise",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-S1:c",
+          "text": "Milord",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-S1:d",
+          "text": "L’Accordéoniste",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die junge Édith singt „La Marseillaise“.",
+      "context": "Édiths Vater Louis Gassion (Jean-Paul Rouve) tritt auf der Straße auf. Als ein Zuschauer nach der Beteiligung des Kindes fragt, singt die junge Édith (Pauline Burlet) „La Marseillaise“. Ihre Stimme zieht die Aufmerksamkeit auf sich. Der Moment deutet die spätere Karriere an, ohne sie bereits als ausgeformte Bühnenkünstlerin zu zeigen: Ihr Talent wird in einem improvisierten öffentlichen Auftritt sichtbar.",
+      "anchor": "Auf der Straße wird die Kinderstimme plötzlich zum Ereignis.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-013-S2",
+      "originalId": "G100-20261008-MUSIK-013-S2",
+      "knowledgeId": "K-G100-20261008-MUSIK-013-S2",
+      "filmKey": "La Môme|2007",
+      "filmTitle": "La Vie en Rose",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die letzten Erinnerungen münden in „Non, je ne regrette rien“.",
+      "question": "Welches Lied begleitet in „La Vie en Rose“ die abschließende Rückblende auf Piafs (Marion Cotillard) Auftritt im Olympia?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-013-S2:a",
+          "text": "La Vie en rose",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-S2:b",
+          "text": "Hymne à l’amour",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-S2:c",
+          "text": "Non, je ne regrette rien",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-S2:d",
+          "text": "Milord",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Am Schluss erklingt „Non, je ne regrette rien“.",
+      "context": "Die letzte Rückblende zeigt Édith Piaf (Marion Cotillard) im Olympia mit „Non, je ne regrette rien“. Zuvor verbindet der Film ihre letzten Stunden mit einzelnen Erinnerungen aus dem Leben. Das Lied wirkt dadurch als musikalischer Gegenpol zu den gezeigten Verletzungen und Verlusten. Die Erzählung behauptet nicht, alles sei unbeschwert gewesen; sie schließt mit der Kraft eines Auftritts, der diese Erfahrungen in Gesang verwandelt.",
+      "anchor": "Die letzten Erinnerungen münden in „Non, je ne regrette rien“.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-013-Y",
+      "originalId": "G100-20261008-MUSIK-013-Y",
+      "knowledgeId": "K-G100-20261008-MUSIK-013-Y",
+      "filmKey": "La Môme|2007",
+      "filmTitle": "La Vie en Rose",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Das Erstveröffentlichungsjahr bestimmen.",
+      "question": "In welchem Jahr wurde „La Vie en Rose“ erstmals öffentlich gezeigt?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-013-Y:a",
+          "text": "2006",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-Y:b",
+          "text": "2008",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-Y:c",
+          "text": "2005",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-Y:d",
+          "text": "2007",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Weltpremiere fand 2007 statt.",
+      "context": "Auf die Weltpremiere von „La Vie en Rose“ 2007 folgten 2008 zwei Oscars: Marion Cotillard gewann für ihre Hauptrolle als Édith Piaf; Didier Lavergne und Jan Archibald wurden für das Make-up ausgezeichnet. Schauspiel und äußerliche Verwandlung der Sängerin erhielten damit getrennte Auszeichnungen.",
+      "anchor": "Premiere 2007, Oscars für Hauptrolle und Make-up 2008.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)",
+        "https://filmcommission.gov.cz/en/film/la-mome/",
+        "https://www.oscars.org/oscars/ceremonies/2008"
+      ]
+    },
+    {
+      "id": "G100-20261008-MUSIK-013-D",
+      "originalId": "G100-20261008-MUSIK-013-D",
+      "knowledgeId": "K-G100-20261008-MUSIK-013-D",
+      "filmKey": "La Môme|2007",
+      "filmTitle": "La Vie en Rose",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Den Regisseur zuordnen.",
+      "question": "Wer führte bei „La Vie en Rose“ Regie?",
+      "answers": [
+        {
+          "id": "G100-20261008-MUSIK-013-D:a",
+          "text": "Olivier Dahan",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-D:b",
+          "text": "Jacques Audiard",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-D:c",
+          "text": "François Ozon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-MUSIK-013-D:d",
+          "text": "Jean-Pierre Jeunet",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Olivier Dahan führte Regie.",
+      "context": "Die Sprünge zwischen Piafs Lebensaltern standen laut Olivier Dahan bereits im ersten Drehbuchentwurf. Sie entstanden nicht erst am Schneidetisch. Marion Cotillard spielte schon an ihrem vierten Drehtag eine Szene der alten, kranken Piaf: Sie lehnt den Olympia-Auftritt zunächst ab, bis das neue Lied „Non, je ne regrette rien“ sie wieder aufrichtet.",
+      "anchor": "Dahan plante die Zeitsprünge schon im ersten Entwurf.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://filmcommission.gov.cz/en/film/la-mome/",
+        "https://www.comingsoon.net/movies/features/20762-living-la-vie-en-rose"
+      ]
+    },
+    {
+      "id": "F240-20261006-196-L1",
+      "originalId": "F240-20261006-196-L1",
+      "knowledgeId": "K-F240-20261006-196-L1",
+      "filmKey": "La Planète sauvage|1973",
+      "filmTitle": "Der wilde Planet",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Größenunterschied wird zum Herrschaftsverhältnis.",
+      "question": "Wie behandeln die riesigen Draags die kleinen Menschen in „Der wilde Planet“ zunächst?",
+      "answers": [
+        {
+          "id": "F240-20261006-196-L1:a",
+          "text": "Als Haustiere oder Schädlinge",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-L1:b",
+          "text": "Als gleichberechtigte Nachbarn",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-L1:c",
+          "text": "Als bezahlte Arbeitskräfte",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-L1:d",
+          "text": "Als verehrte Vorfahren",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Draags halten manche Menschen als Haustiere und bekämpfen wilde Gruppen.",
+      "context": "Schon der Auftakt zeigt die tödlichen Folgen dieser Haltung: Draag-Kinder spielen mit einer Om-Mutter und bringen sie dabei um. Ihr Baby überlebt. Haustierhaltung und Vernichtungsaktionen stehen nebeneinander, weil die Draags die kleinen Menschen nicht als gleichberechtigte Wesen behandeln.",
+      "anchor": "Der Größenunterschied wird zum Herrschaftsverhältnis.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fantastic_Planet"
+      ]
+    },
+    {
+      "id": "F240-20261006-196-L2",
+      "originalId": "F240-20261006-196-L2",
+      "knowledgeId": "K-F240-20261006-196-L2",
+      "filmKey": "La Planète sauvage|1973",
+      "filmTitle": "Der wilde Planet",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Tiwas Fürsorge hält Terr zugleich unter Kontrolle.",
+      "question": "Wer nimmt den verwaisten Terr in „Der wilde Planet“ in einem Draag-Haushalt auf?",
+      "answers": [
+        {
+          "id": "F240-20261006-196-L2:a",
+          "text": "Tiwas Lehrerin und deren Sohn",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-L2:b",
+          "text": "Tiwa und ihr Vater",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-L2:c",
+          "text": "Zwei erwachsene Draag-Forscher",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-L2:d",
+          "text": "Ein Draag-Händler und seine Frau",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Tiwa (Originalstimme Jennifer Drake) und ihr Vater Sinh (Jean Topart) nehmen Terr auf.",
+      "context": "Tiwa (Originalstimme Jennifer Drake) nennt das verwaiste Menschenkind Terr und möchte es nicht verletzen. Auf Anweisung der Eltern legt sie ihm dennoch ein Halsband an, mit dem sie ihn nach Belieben heranziehen kann. Als sie älter wird und sich weniger für ihn interessiert, nutzt Terr seine Chance zur Flucht.",
+      "anchor": "Tiwas Fürsorge hält Terr zugleich unter Kontrolle.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fantastic_Planet"
+      ]
+    },
+    {
+      "id": "F240-20261006-196-M1",
+      "originalId": "F240-20261006-196-M1",
+      "knowledgeId": "K-F240-20261006-196-M1",
+      "filmKey": "La Planète sauvage|1973",
+      "filmTitle": "Der wilde Planet",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Mitgehörtes Wissen wird zur Befreiungsressource.",
+      "question": "Wie erwirbt Terr in „Der wilde Planet“ Wissen der Draags?",
+      "answers": [
+        {
+          "id": "F240-20261006-196-M1:a",
+          "text": "Er findet eine vollständig menschliche Bibliothek.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-M1:b",
+          "text": "Er wird offiziell in eine Draag-Schule aufgenommen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-M1:c",
+          "text": "Er empfängt Tiwas Lernkopfband mit.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-M1:d",
+          "text": "Er beobachtet nur die Übungen der erwachsenen Draags.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ein Defekt in Terrs Halsband lässt ihn Tiwas Lehrwissen empfangen.",
+      "context": "Ein Defekt in Terrs Halsband lässt ihn Tiwas Lehrwissen empfangen. Terr (Originalstimmen Eric Baugin als Kind und Jean Valmont als Erwachsener) nimmt das Lernkopfband bei seiner Flucht mit; Bildung wird damit zum Mittel seiner späteren Befreiung.",
+      "anchor": "Mitgehörtes Wissen wird zur Befreiungsressource.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fantastic_Planet",
+        "https://www.criterion.com/films/28636-fantastic-planet"
+      ]
+    },
+    {
+      "id": "F240-20261006-196-M2",
+      "originalId": "F240-20261006-196-M2",
+      "knowledgeId": "K-F240-20261006-196-M2",
+      "filmKey": "La Planète sauvage|1973",
+      "filmTitle": "Der wilde Planet",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Schriftkenntnis ermöglicht das Erkennen der Bedrohung.",
+      "question": "Warum ist das Lesenlernen für die freie Menschengruppe in „Der wilde Planet“ unmittelbar nützlich?",
+      "answers": [
+        {
+          "id": "F240-20261006-196-M2:a",
+          "text": "Sie entschlüsseln den Weg zu einer verborgenen menschlichen Stadt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-M2:b",
+          "text": "Sie lernen eine medizinische Behandlung gegen Draag-Gifte.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-M2:c",
+          "text": "Sie verstehen einen Auftrag, das Gebiet für die Draags zu verlassen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-M2:d",
+          "text": "Sie erkennen die Ankündigung einer geplanten Vernichtung.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Menschen können die Ankündigung einer Vernichtungsaktion lesen.",
+      "context": "Die gelesene Warnung kündigt die Säuberung des Parks an, in dem die Menschen leben. Einige sterben beim Angriff; Überlebende schließen sich einer anderen Gruppe an. Nach einer weiteren Begegnung töten sie einen Draag und fliehen in ein verlassenes Raketendepot. Dort entwickeln sie später ihre Fluchtmöglichkeit von Ygam.",
+      "anchor": "Die Warnung lässt sich lesen, doch die Flucht bleibt gefährlich.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fantastic_Planet"
+      ]
+    },
+    {
+      "id": "F240-20261006-196-S1",
+      "originalId": "F240-20261006-196-S1",
+      "knowledgeId": "K-F240-20261006-196-S1",
+      "filmKey": "La Planète sauvage|1973",
+      "filmTitle": "Der wilde Planet",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die geistige Reise hängt an verletzlichen Statuen.",
+      "question": "Was macht die Statuen auf dem Mond in „Der wilde Planet“ für die Draags lebenswichtig?",
+      "answers": [
+        {
+          "id": "F240-20261006-196-S1:a",
+          "text": "Sie ermöglichen ihre meditative Fortpflanzung.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-S1:b",
+          "text": "Sie bewahren Erinnerungen verstorbener Draags.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-S1:c",
+          "text": "Sie übertragen das Lernwissen auf die Kinder.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-S1:d",
+          "text": "Sie stabilisieren die Körper während der Meditation.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Draags nutzen die Statuen in ihrer Meditation für ein Fortpflanzungsritual.",
+      "context": "Die Draags nutzen die Statuen in ihrer Meditation für ein Fortpflanzungsritual. Als Terrs Gruppe einige zerstört, entsteht erstmals ein Druckmittel gegen die Herrscher; deren eigene Verletzlichkeit eröffnet Verhandlungen.",
+      "anchor": "Die geistige Reise hängt an verletzlichen Statuen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fantastic_Planet"
+      ]
+    },
+    {
+      "id": "F240-20261006-196-S2",
+      "originalId": "F240-20261006-196-S2",
+      "knowledgeId": "K-F240-20261006-196-S2",
+      "filmKey": "La Planète sauvage|1973",
+      "filmTitle": "Der wilde Planet",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Gegenseitige Verletzlichkeit macht Koexistenz möglich.",
+      "question": "Welche Lösung beendet in „Der wilde Planet“ die Vernichtung der Menschen?",
+      "answers": [
+        {
+          "id": "F240-20261006-196-S2:a",
+          "text": "Ein Abkommen über menschliche Städte auf Ygam",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-S2:b",
+          "text": "Ein Abkommen mit einem eigenen künstlichen Satelliten als Heimat",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-S2:c",
+          "text": "Ein gemeinsamer Umzug beider Völker auf den Mond",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-S2:d",
+          "text": "Eine Eingliederung der Menschen in die Draag-Haushalte",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Menschen schließen Frieden mit den Draags und erhalten einen künstlichen Satelliten als Heimat.",
+      "context": "Menschen und Draags schließen Frieden. Die Menschen erhalten einen eigenen künstlichen Satelliten; die Lösung beruht auf erkannter gegenseitiger Verwundbarkeit und einem veränderten Zusammenleben, nicht auf der vollständigen Vernichtung des anderen.",
+      "anchor": "Gegenseitige Verletzlichkeit macht Koexistenz möglich.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fantastic_Planet"
+      ]
+    },
+    {
+      "id": "F240-20261006-196-Y",
+      "originalId": "F240-20261006-196-Y",
+      "knowledgeId": "K-F240-20261006-196-Y",
+      "filmKey": "La Planète sauvage|1973",
+      "filmTitle": "Der wilde Planet",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Roman 1957, Film 1973: Sechzehn Jahre später erhält Wuls Welt Topors eigenständige Zeichengestalt.",
+      "question": "In welchem Jahr wurde „Der wilde Planet“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-196-Y:a",
+          "text": "1972",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-Y:b",
+          "text": "1974",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-Y:c",
+          "text": "1973",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-Y:d",
+          "text": "1971",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "1973 wurde der Film in Cannes erstmals gezeigt.",
+      "context": "1973 wurde der Film in Cannes erstmals gezeigt. Stefan Wuls Roman „Oms en série“ stammt von 1957; sechzehn Jahre trennen Vorlage und animierte Adaption. Die Gestaltung von Roland Topor macht aus dem Science-Fiction-Stoff eine sichtbar eigenständige fantastische Welt.",
+      "anchor": "Roman 1957, Film 1973: Sechzehn Jahre später erhält Wuls Welt Topors eigenständige Zeichengestalt.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fantastic_Planet",
+        "https://www.tcm.com/articles/1299220/fantastic-planet",
+        "https://www.festival-cannes.com/en/f/la-planete-sauvage/"
+      ]
+    },
+    {
+      "id": "F240-20261006-196-D",
+      "originalId": "F240-20261006-196-D",
+      "knowledgeId": "K-F240-20261006-196-D",
+      "filmKey": "La Planète sauvage|1973",
+      "filmTitle": "Der wilde Planet",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "René Laloux führte Regie und schrieb mit Roland Topor.",
+      "question": "Wer führte bei „Der wilde Planet“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-196-D:a",
+          "text": "Paul Grimault",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-D:b",
+          "text": "Karel Zeman",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-D:c",
+          "text": "Jiří Trnka",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-196-D:d",
+          "text": "René Laloux",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "René Laloux führte Regie und schrieb mit Roland Topor.",
+      "context": "Für die Prager Produktion zeichnete René Laloux das vollständige Storyboard samt Einstellungslängen und die meisten Layouts. Die Arbeit folgte damit seinen Vorgaben, auch wenn er nicht ständig vor Ort war. Der Forscher Jean-Gaspard Páleníček grenzt diese Regiearbeit ausdrücklich von Roland Topors Beitrag als Mitautor und Gestalter der Bildwelt ab.",
+      "anchor": "Laloux gab mit Storyboard und Layouts die Inszenierung vor.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.criterion.com/films/28636-fantastic-planet",
+        "https://www.anifilm.cz/en/blog/interview-jean-gaspard-palenicek-fantastic-planet"
+      ]
+    },
+    {
+      "id": "E20261007-F-124-L1",
+      "originalId": "E20261007-F-124-L1",
+      "knowledgeId": "K-E20261007-F-124-L1",
+      "filmKey": "La Soupe aux choux|1981",
+      "filmTitle": "Louis und seine außerirdischen Kohlköpfe",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Den unfreiwilligen Erstkontakt und die Rolle der Kohlsuppe erkennen",
+      "question": "Was zieht den außerirdischen Besucher (Jacques Villeret) in „Louis und seine außerirdischen Kohlköpfe“ auf die Erde?",
+      "answers": [
+        {
+          "id": "E20261007-F-124-L1:a",
+          "text": "Die nächtlichen Blähgeräusche zweier Freunde",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-124-L1:b",
+          "text": "Das Läuten der Dorfkirche",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-124-L1:c",
+          "text": "Eine Radiosendung über Landwirtschaft",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-124-L1:d",
+          "text": "Das Licht eines Volksfestes",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Blähgeräusche locken den Besucher an.",
+      "context": "Die nächtlichen Blähgeräusche von Claude Ratinier (Louis de Funès) und Francis Chérasse (Jean Carmet) locken den Besucher (Jacques Villeret) vom Planeten Oxo an. Claude gibt ihm Kohlsuppe mit. Auf Oxo ernährt man sich bisher von Mineralien; die ungewohnte Speise schmeckt dem Gast so gut, dass er wiederkommt.",
+      "anchor": "Die Geräusche locken ihn an, die Kohlsuppe lässt ihn wiederkommen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Soupe_aux_choux"
+      ]
+    },
+    {
+      "id": "E20261007-F-124-L2",
+      "originalId": "E20261007-F-124-L2",
+      "knowledgeId": "K-E20261007-F-124-L2",
+      "filmKey": "La Soupe aux choux|1981",
+      "filmTitle": "Louis und seine außerirdischen Kohlköpfe",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Die Nachbarschaft und den Zusammenhalt der beiden Freunde verstehen",
+      "question": "Wo leben die beiden alten Freunde am Anfang von „Louis und seine außerirdischen Kohlköpfe“?",
+      "answers": [
+        {
+          "id": "E20261007-F-124-L2:a",
+          "text": "In einer Pariser Mietskaserne",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-124-L2:b",
+          "text": "Auf benachbarten ländlichen Anwesen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-124-L2:c",
+          "text": "In einem kleinen Stadthotel",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-124-L2:d",
+          "text": "In einem gemeinsamen Altersheim",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Claude und Francis leben auf benachbarten ländlichen Anwesen.",
+      "context": "Claude Ratinier (Louis de Funès) und Francis Chérasse (Jean Carmet) teilen ihren Alltag als Nachbarn. Als Francis von der fliegenden Untertasse erzählt, weist die Polizei ihn als Verrückten ab. Seine Verzweiflung geht so weit, dass er sich erhängen will. Claude greift heimlich ein und durchtrennt das Seil: Trotz aller Grobheiten lässt er den Freund nicht allein.",
+      "anchor": "Die alten Nachbarn bleiben auch in der Verzweiflung füreinander da.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Soupe_aux_choux"
+      ]
+    },
+    {
+      "id": "FILM-20261011-LALALAND-S001",
+      "knowledgeId": "K-FILM-20261011-LALALAND-S001",
+      "filmKey": "La La Land|2016",
+      "filmTitle": "La La Land",
+      "difficulty": "schwer",
+      "questionType": "Filmherstellung",
+      "learningObjective": "Die Kameralösung der Eröffnungsnummer aus räumlichen Drehhindernissen erklären",
+      "question": "Wie wurde die ursprünglich geplante Steadicam-Fahrt für „Another Day of Sun“ in „La La Land“ wegen des Betonmittelstreifens verändert?",
+      "answers": [
+        {
+          "id": "FILM-20261011-LALALAND-S001:a",
+          "text": "Eine durchgehende Steadicam-Fahrt über eigens gebaute Übergänge.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FILM-20261011-LALALAND-S001:b",
+          "text": "Drei Kranfahrten; der Mittelstreifen wurde digital entfernt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FILM-20261011-LALALAND-S001:c",
+          "text": "Zwei Kransegmente und ein Steadicam-Segment, verbunden durch Reißschwenks.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FILM-20261011-LALALAND-S001:d",
+          "text": "Eine Drohnenfahrt mit am Boden nachgedrehten Nahaufnahmen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Mittelstreifen erzwang Kranaufnahmen; drei Segmente wurden durch Reißschwenks verbunden.",
+      "context": "Laut Kameramann Linus Sandgren konnte der Steadicam-Operator den Betonmittelstreifen nicht überqueren. Zwei Segmente entstanden deshalb mit einem Kran auf einem fahrbaren Anhänger, das dritte mit Steadicam. Am Ende stieg der Operator rückwärts auf einen versteckten Kran. Reißschwenks kaschieren die Übergänge zur scheinbar ununterbrochenen Nummer.",
+      "anchor": "Der Mittelstreifen erzwingt den Kran; Reißschwenks verbinden drei Aufnahmeteile.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://filmmakermagazine.com/101296-pink-skies-and-poetic-artifacts-dp-linus-sandgren-on-la-la-land/"
+      ],
+      "originalId": "FILM-20261011-LALALAND-S001"
     }
   ]
 }
