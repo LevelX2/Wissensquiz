@@ -201,7 +201,11 @@ test("GitHub-Fragenmeldung behält Kontext und Meldungs-ID nach unklarem Versand
   const questionId = await page
     .locator(".question-card h1")
     .getAttribute("data-question-id");
+  const questionText = await page.locator(".question-card h1").innerText();
   await page.getByRole("button", { name: "Frage melden" }).click();
+  await expect(page.locator(".issue-report-form")).toContainText(
+    "Fragetext, Fragen-ID und Inhaltsversion",
+  );
   await page.getByLabel("Meldungstyp").selectOption("content");
   await page
     .getByLabel("Was ist Dir aufgefallen?")
@@ -231,7 +235,15 @@ test("GitHub-Fragenmeldung behält Kontext und Meldungs-ID nach unklarem Versand
   ).toBeVisible();
   expect(reports).toHaveLength(2);
   expect(reports[1]).toEqual(reports[0]);
-  expect(reports[0].question).toMatchObject({ id: questionId });
+  expect(reports[0].question).toMatchObject({
+    id: questionId,
+    text: questionText,
+  });
+  expect(Object.keys(reports[0].question as object).sort()).toEqual([
+    "id",
+    "text",
+    "version",
+  ]);
   expect(
     (
       await readStoredState(
@@ -265,7 +277,11 @@ async function mockAccounts(page: Page, server: Server = new Map()) {
     const path = new URL(request.url()).pathname;
     const body = request.postDataJSON() ?? {};
     requests.push({ path, body });
-    if (path.includes("/quiz_sync_") || path.endsWith("/quiz_ranked_call"))
+    if (
+      path.includes("/quiz_sync_") ||
+      path.includes("/quiz_game_") ||
+      path.endsWith("/quiz_ranked_call")
+    )
       return route.fallback();
     if (path.endsWith("/token")) {
       current = body.email === "bob@example.test" ? bob : alice;

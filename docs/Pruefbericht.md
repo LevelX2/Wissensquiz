@@ -1,5 +1,14 @@
 # Prüfnachweis
 
+## 11.10.2026 – Fragetext in GitHub-Meldungen ergänzt
+
+Bei Fragenbezug den tatsächlich sichtbaren Fragetext vollständig in den gemeinsamen Versandvertrag aufgenommen und im Ticket unter „Gemeldete Frage“ ausgegeben. Fragen-ID und Inhaltsversion bleiben erhalten; allgemeine Meldungen ohne Fragenabschnitt. Öffentlichen Formularhinweis ergänzt, unveränderliche Wiederholung mit demselben Text und Inhalts-Hash geprüft. HTML und Erwähnungen auch im Fragetext entschärft, private Zusatzfelder und fehlende/leere/zu lange Fragetexte abgewiesen. Die begrenzte HTTP-Nutzlast erlaubt vollständige mehrbyteige Texte bis zur bestehenden maximalen Fragenlänge.
+
+**482/482 Tests in 77 Dateien** im vollständigen Lauf erfolgreich, darunter zwölf Versand-/Vertragstests. TypeScript und Produktionsbuild erfolgreich; Fragenkatalog weiterhin 12.787 Fragen mit Hash `e1f228ac81d24bf78e8cd36d30031a713731928df264b9fbc33f40b03e0e9576`. Beide gezielten Chromiumfälle im isolierten Browserprofil mit kontrollierter Testzeit bestanden: allgemeine Meldung mit Zustimmung, Beleg und unverändertem synthetischen Spielstand; Fragenmeldung mit exakt sichtbarem Text, unverändertem Inhalt und gleicher ID nach unklarem Versand/Neuladen. Der Konten-Mock reicht neue `quiz_game_*`-Aufrufe an den vorhandenen isolierten SQL-Testserver durch. Keine echten Meldungen oder Nutzerspielstände verwendet, keine Abhängigkeit oder Datenbankmigration geändert. Diff-Prüfung erfolgreich.
+
+Lokal vorbereitet und geprüft; Website und Edge Function noch nicht veröffentlicht. Keine automatische Anpassung älterer Meldungsentwürfe. [Vertrag und Veröffentlichungsbedarf](GitHub-Meldungen.md#klartext-der-gemeldeten-frage--11102026).
+
+
 ## 11.10.2026 – Lernablauf ohne Clientkatalog
 
 Normale Lernrunden, Auswahl und Lernübersichten auf private Serverabläufe umgestellt. Kontostart ohne CSV- oder historischen Vollkatalogabruf; aktuelle Frage einzeln, Auswertung und Lernprojektion auf dem Server, kurze Antwortbelege und inkrementeller Fortschrittsabruf. Vorbereitete Inhalte, Filmreise-Cache, zusammengeführte Übersichtsabfragen und begrenzte Themenseiten senken laufende Last und Traffic. Keine Altstandmigration.

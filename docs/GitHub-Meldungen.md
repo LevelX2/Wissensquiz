@@ -1,6 +1,6 @@
 # Meldungen aus Spiel und Profil
 
-## Stand – 10.10.2026
+## Stand – 11.10.2026
 
 Auf [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerauftrag%20GitHub-Meldungen.txt) umgesetzt: „Frage melden“ öffnet das gemeinsame Meldeformular mit Fragenbezug. Profil → „Problem oder Verbesserung melden“ bietet dasselbe Formular für allgemeine Rückmeldungen. Angemeldete, bestätigte Quiz-Konten können ein öffentliches Issue in [LevelX2/Wissensquiz](https://github.com/LevelX2/Wissensquiz/issues) erstellen; ein eigenes GitHub-Konto ist nicht erforderlich. Gäste erhalten einen Anmeldehinweis.
 
@@ -17,11 +17,23 @@ Die angezeigte Fehlermeldung entsprach `reporting_not_configured`: Der Code gibt
 | Textverbesserung | `meldung:text` |
 | Sonstiges | `meldung:sonstiges` |
 
-Erforderlich sind ein Kurztitel mit 3–120 Zeichen, eine Beschreibung mit 10–4.000 Zeichen und die ausdrückliche Zustimmung zur öffentlichen Veröffentlichung. Das Issue enthält Typ, Titel, Beschreibung, App-Version und bei Fragenmeldungen Fragen-ID sowie Inhaltsversion. Die Version stammt aus der veröffentlichten Sites-Version; lokale Builds ohne Versionswert melden 0. E-Mail-Adresse, Kontoname, Konto-ID, Antworten und Spielstand werden nicht automatisch übertragen. Der Hinweis warnt vor privaten Angaben im Freitext. HTML und automatische @-Erwähnungen werden im Issue-Text entschärft.
+Erforderlich sind ein Kurztitel mit 3–120 Zeichen, eine Beschreibung mit 10–4.000 Zeichen und die ausdrückliche Zustimmung zur öffentlichen Veröffentlichung. Das Issue enthält Typ, Titel, Beschreibung, App-Version und bei Fragenmeldungen den vollständigen angezeigten Fragetext unter „Gemeldete Frage“, Fragen-ID sowie Inhaltsversion. Diese Klartext-Erweiterung ist am 11.10.2026 lokal umgesetzt; die gemeinsame Veröffentlichung von Website und Function steht noch aus. Die Version stammt aus der veröffentlichten Sites-Version; lokale Builds ohne Versionswert melden 0. E-Mail-Adresse, Kontoname, Konto-ID, Antworten und Spielstand werden nicht automatisch übertragen. Der Hinweis warnt vor privaten Angaben im Freitext. HTML und automatische @-Erwähnungen werden im Issue-Text entschärft.
 
 Erfolg erscheint erst nach einem bestätigten GitHub-Beleg und enthält einen Link zur konkreten Issue-Nummer. Bis dahin bleibt der eingereichte Inhalt mit derselben Meldungs-ID im Sitzungsspeicher des Browser-Tabs, getrennt nach Konto und Fragenbezug. Er übersteht Neuladen desselben Tabs und wird nach bestätigtem Versand entfernt. „Versand erneut prüfen“ verwendet denselben Inhalt und dieselbe ID. Währenddessen ist die eingereichte Meldung nicht mehr editierbar. Schließen des Tabs beendet diese lokale Wiederaufnahmemöglichkeit; der Serverbeleg bleibt erhalten.
 
 Neue Meldungen werden nicht im Quiz-Spielstand gespeichert. Frühere lokale Fragenmeldungen bleiben über Profil → Optionen als JSON exportierbar und werden nicht automatisch versendet. Kontoübernahme, private Sicherung und Meldungsversand sind getrennte Vorgänge.
+
+## Klartext der gemeldeten Frage – 11.10.2026
+
+Auf [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-11%20Nutzerauftrag%20Fragetext%20in%20GitHub-Meldungen.txt) den tatsächlich angezeigten Fragetext zum Fragenbezug hinzugefügt. Die Frage steht im Ticket als eigener Abschnitt „Gemeldete Frage“ vor dem technischen Kontext. Hervorgehobene Filmtitel werden dabei als durchgehender Klartext übertragen; vorbereitete Fragendarstellungen bleiben berücksichtigt. Es werden weder Antwortoptionen noch die gewählte oder richtige Antwort ergänzt. Allgemeine Meldungen enthalten weiterhin keinen Fragenabschnitt.
+
+Der gemeinsame Versandvertrag verlangt bei Fragenbezug `question.text` mit 1–4.000 Zeichen, passend zur maximalen Fragenlänge. Der Text bleibt ungekürzt und wird wie der Beschreibungstext gegen HTML und automatische Erwähnungen entschärft. Die HTTP-Nutzdatenbegrenzung beträgt nun 48.000 Bytes, damit vollständige Frage und Beschreibung auch mit mehrbyteigen UTF-8-Zeichen zulässig bleiben. Unbekannte oder private Zusatzfelder werden weiterhin abgewiesen.
+
+Der Fragetext gehört zum eingefrorenen Versandinhalt und seinem Inhalts-Hash. Wiederholung und Neuladen verwenden denselben Text und dieselbe Meldungs-ID. Der Formularhinweis nennt den Fragetext ausdrücklich als öffentliche Angabe. Der vorhandene Sitzungsspeicher erhält ihn nur für den laufenden Versand; die private Versandtabelle speichert weiterhin ausschließlich Hash und Versandbeleg. Keine neue Datenbankmigration oder automatische Anpassung älterer Meldungsentwürfe.
+
+Abnahme: 482 Tests in 77 Dateien, TypeScript/Produktionsbuild, zwölf gezielte Versandtests und beide Formular-Browserfälle erfolgreich. Der sichtbare Text bleibt beim erneuten Versand nach Neuladen exakt erhalten. [Prüfnachweis](Pruefbericht.md#11102026--fragetext-in-github-meldungen-ergänzt).
+
+**Lokal vorbereitet, noch nicht live:** Website und `quiz-report` müssen gemeinsam mit dem neuen Pflichtfeld veröffentlicht werden. Die produktive Function bleibt bis dahin unverändert. Bereits veröffentlichte GitHub-Tickets werden nicht nachträglich geändert.
 
 ## Versand und Berechtigungen
 

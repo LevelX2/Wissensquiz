@@ -81,6 +81,10 @@ export function QuestionScreen({
     presentationQuestion.question === q.question
       ? presentationQuestion
       : q;
+  const titleParts = questionTitleParts(displayQ);
+  const displayedQuestionText = titleParts
+    ? `${titleParts.before}${titleParts.title}${titleParts.after}`
+    : (displayQ.presentation?.questionText ?? displayQ.question);
   const collected =
     round.solutionDisplay === "round" &&
     (!!round.duel || allowsSolutionChoice(round.mode));
@@ -462,18 +466,15 @@ export function QuestionScreen({
           </div>
         </div>
         <h1 data-question-id={q.id}>
-          {(() => {
-            const parts = questionTitleParts(displayQ);
-            return parts ? (
-              <>
-                {parts.before}
-                <mark className="film-title">{parts.title}</mark>
-                {parts.after}
-              </>
-            ) : (
-              (displayQ.presentation?.questionText ?? displayQ.question)
-            );
-          })()}
+          {titleParts ? (
+            <>
+              {titleParts.before}
+              <mark className="film-title">{titleParts.title}</mark>
+              {titleParts.after}
+            </>
+          ) : (
+            displayedQuestionText
+          )}
         </h1>
         {!event && (
           <ActorPortrait
@@ -634,7 +635,11 @@ export function QuestionScreen({
           <div hidden={!reporting}>
             <IssueReportForm
               key={`${q.id}:${index}`}
-              question={{ id: q.id, version: q.version }}
+              question={{
+                id: q.id,
+                version: q.version,
+                text: displayedQuestionText,
+              }}
             />
           </div>
         </div>

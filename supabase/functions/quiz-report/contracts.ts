@@ -15,7 +15,7 @@ export type IssueReport = {
   title: string;
   comment: string;
   appVersion: number;
-  question?: { id: string; version: string };
+  question?: { id: string; version: string; text: string };
 };
 export type IssueReceipt = { number: number; url: string };
 export const repository = "LevelX2/Wissensquiz";
@@ -53,9 +53,10 @@ export function parseReport(value: unknown): IssueReport {
   if (
     q !== undefined &&
     (!record(q) ||
-      Object.keys(q).some((key) => !["id", "version"].includes(key)) ||
+      Object.keys(q).some((key) => !["id", "version", "text"].includes(key)) ||
       !text(q.id, 1, 200) ||
       !text(q.version, 1, 200) ||
+      !text(q.text, 1, 4000) ||
       /[\r\n]/.test(`${q.id}${q.version}`))
   )
     throw new Error("invalid_report");
@@ -71,6 +72,7 @@ export function parseReport(value: unknown): IssueReport {
           question: {
             id: (q as Record<string, string>).id,
             version: (q as Record<string, string>).version,
+            text: (q as Record<string, string>).text,
           },
         }),
   };
@@ -101,6 +103,6 @@ export function issueContent(report: IssueReport) {
   return {
     title: `[${reportTypes[report.type].name}] ${report.title.replaceAll("@", "@\u200b")}`,
     labels: [reportTypes[report.type].label],
-    body: `## Meldung aus dem Wissensquiz\n\n${quoted(report.comment)}\n\n## Kontext\n\nTyp: ${reportTypes[report.type].name}\n\nApp-Version: ${report.appVersion || "Lokale Entwicklung"}${report.question ? `\n\nFragen-ID:\n${quoted(report.question.id)}\n\nInhaltsversion:\n${quoted(report.question.version)}` : "\n\nAllgemeine Meldung ohne Fragenbezug."}\n\n${reportMarker(report.id)}`,
+    body: `## Meldung aus dem Wissensquiz\n\n${quoted(report.comment)}${report.question ? `\n\n## Gemeldete Frage\n\n${quoted(report.question.text)}` : ""}\n\n## Kontext\n\nTyp: ${reportTypes[report.type].name}\n\nApp-Version: ${report.appVersion || "Lokale Entwicklung"}${report.question ? `\n\nFragen-ID:\n${quoted(report.question.id)}\n\nInhaltsversion:\n${quoted(report.question.version)}` : "\n\nAllgemeine Meldung ohne Fragenbezug."}\n\n${reportMarker(report.id)}`,
   };
 }

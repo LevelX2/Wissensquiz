@@ -11,7 +11,7 @@ import {
 export function IssueReportForm({
   question,
 }: {
-  question?: { id: string; version: string };
+  question?: IssueReport["question"];
 }) {
   const account = useContext(ReportContext);
   const draftKey = `wissensquiz-issue:${account?.storageKey}:${question ? `${question.id}:${question.version}` : "general"}`;
@@ -153,9 +153,9 @@ export function IssueReportForm({
       <p className="tiny muted">
         Deine Meldung wird öffentlich in GitHub veröffentlicht. Automatisch
         ergänzt werden die App-Version
-        {question ? ", Fragen-ID und Inhaltsversion" : ""}. E-Mail-Adresse und
-        Spielstand werden nicht mitgesendet. Bitte schreibe keine privaten
-        Angaben in Deine Meldung.
+        {question ? ", Fragetext, Fragen-ID und Inhaltsversion" : ""}.
+        E-Mail-Adresse und Spielstand werden nicht mitgesendet. Bitte schreibe
+        keine privaten Angaben in Deine Meldung.
       </p>
       <label className="filter-choice">
         <input

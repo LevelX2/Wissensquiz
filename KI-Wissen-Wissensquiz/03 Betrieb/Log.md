@@ -1920,3 +1920,8 @@ Abgeschlossene Entfernung der Redaktions-Umstellungsprotokolle und Block 91 aus 
 ## 11.10.2026 – Weitere Serveroptimierungen geprüft und priorisiert
 
 Auf Nachfrage Code und produktive SQL-Definitionen ausschließlich lesend nachgeprüft. Vollständigen Statistikneuaufbau beim Rundenabschluss sowie kontenübergreifende Duell-Mutexsperre auch bei Listen-/Ansichtsabrufen als wichtigste Restpunkte bestätigt. Danach privaten Erstabruf, Duellaktualisierung, vorbereitete Inhaltsgruppen und Ranglisten-Cache priorisiert. Keine Laufzeitänderung, Spielstandänderung, Veröffentlichung oder neue Lastmessung. [Befunde und Abnahmekriterien](../../docs/Server-Lernablauf-2026-10-11.md#nachprüfung-weitere-optimierungen--11102026).
+
+
+## 11.10.2026 – Vollständiger Fragetext in GitHub-Meldungen vorbereitet
+
+Auf Nutzerwunsch den sichtbaren Fragetext als Pflichtfeld im Fragenbezug und als eigenen Ticketabschnitt „Gemeldete Frage“ ergänzt. Öffentlichen Formularhinweis angepasst, Text im vorhandenen Wiederholungsinhalt und Hash eingefroren; allgemeine Meldungen ohne Fragenabschnitt. UTF-8-Grenzen, HTML-/Erwähnungsentschärfung, fehlende/private Zusatzfelder und Wiederaufnahme geprüft. 482 Tests in 77 Dateien, Build und beide isolierten Formular-Browserfälle erfolgreich. Keine echten Tickets, Nutzerspielstandsänderungen, Abhängigkeitsänderung, Datenbankmigration oder Altentwurf-Anpassung. Lokal auf Main vorbereitet; gemeinsame Veröffentlichung von Website und Function steht aus. [Vertrag und Grenzen](../../docs/GitHub-Meldungen.md#klartext-der-gemeldeten-frage--11102026).

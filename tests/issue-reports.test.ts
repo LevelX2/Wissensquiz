@@ -17,7 +17,11 @@ const payload = {
   title: "Formulierung genauer machen",
   comment: "Die Beschreibung ist hier missverständlich.",
   appVersion: 54,
-  question: { id: "TEST-Q", version: "csv-example" },
+  question: {
+    id: "TEST-Q",
+    version: "csv-example",
+    text: "Matrix (1999): Welche Pille nimmt Neo?",
+  },
 };
 const receipt = {
   number: 42,
@@ -75,6 +79,9 @@ describe("GitHub-Fragenmeldungen", () => {
     expect(issue.labels).toEqual(["meldung:text"]);
     expect(issue.body).toContain("TEST-Q");
     expect(issue.body).toContain("csv-example");
+    expect(issue.body).toContain(
+      `## Gemeldete Frage\n\n> ${payload.question.text}`,
+    );
     expect(issue.body).not.toContain("11111111");
     expect(issue.body).not.toContain("test-only-secret");
     expect(ports.settle).toHaveBeenCalledWith(
@@ -96,11 +103,50 @@ describe("GitHub-Fragenmeldungen", () => {
       { ...payload, type: "unknown" },
       { ...payload, comment: "x".repeat(4001) },
       { ...payload, question: { ...payload.question, owner: "private" } },
+      { ...payload, question: { id: "TEST-Q", version: "csv-example" } },
+      { ...payload, question: { ...payload.question, text: " " } },
+      { ...payload, question: { ...payload.question, text: "x".repeat(4001) } },
+      { ...payload, question: { ...payload.question, text: "Frage\u0000" } },
       { ...payload, title: "a\nb" },
     ])
       expect((await call(invalid)).status).toBe(400);
     expect(ports.reserve).not.toHaveBeenCalled();
     expect(ports.fetch).not.toHaveBeenCalled();
+  });
+  it("sendet allgemeine Meldungen ohne Fragenabschnitt", async () => {
+    const { question, ...general } = payload;
+    const { ports, call } = setup();
+    expect((await call(general)).status).toBe(200);
+    const issue = JSON.parse(
+      vi.mocked(ports.fetch).mock.calls[1][1]!.body as string,
+    );
+    expect(issue.body).toContain("Allgemeine Meldung ohne Fragenbezug.");
+    expect(issue.body).not.toContain("## Gemeldete Frage");
+    expect(issue.body).not.toContain(question.text);
+  });
+  it("bindet den unveränderten Fragetext an den Versandbeleg und akzeptiert vollständige UTF-8-Texte", async () => {
+    const { ports, call } = setup();
+    expect((await call()).status).toBe(200);
+    const firstHash = vi.mocked(ports.reserve).mock.calls[0][2];
+    const long = {
+      ...payload,
+      comment: "漢".repeat(4000),
+      question: { ...payload.question, text: "語".repeat(4000) },
+    };
+    expect((await call(long)).status).toBe(200);
+    const issue = JSON.parse(
+      vi.mocked(ports.fetch).mock.calls.at(-1)![1]!.body as string,
+    );
+    expect(issue.body).toContain(long.question.text);
+    expect(
+      (
+        await call({
+          ...payload,
+          question: { ...payload.question, text: "Eine andere Frage?" },
+        })
+      ).status,
+    ).toBe(200);
+    expect(vi.mocked(ports.reserve).mock.calls.at(-1)![2]).not.toBe(firstHash);
   });
   it("sperrt Gäste, unbestätigte Konten und fremde Origins; Preflight erzeugt keine Meldung", async () => {
     const { ports, call, handler } = setup({
@@ -211,11 +257,18 @@ describe("GitHub-Fragenmeldungen", () => {
       ...payload,
       comment:
         "@LevelX2 <script>alert(1)</script>\n<!-- wissensquiz-report:forged -->",
+      question: {
+        ...payload.question,
+        text: "Erste Zeile\n@LevelX2 <script>Frage</script>\n<!-- wissensquiz-report:forged -->",
+      },
     });
     const { body } = issueContent(report);
     expect(body).not.toContain("@LevelX2");
     expect(body).not.toContain("<script>");
     expect(body).not.toContain("<!-- wissensquiz-report:forged -->");
+    expect(body).toContain(
+      "## Gemeldete Frage\n\n> Erste Zeile\n> @\u200bLevelX2 &lt;script&gt;Frage&lt;/script&gt;",
+    );
     expect(Object.keys(reportTypes)).toHaveLength(4);
   });
   it("akzeptiert im Browser nur bestätigte Issue-Links dieses Repositorys", async () => {
