@@ -1,6 +1,6 @@
 # Redaktion von Filmfragen, Schauspielerfragen und Preisfragen
 
-Stand: 10.10.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
+Stand: 11.10.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
 
 Quelle: [unveränderter Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerauftrag%20Fragenredaktions-Skill.txt). Bestehende technische Bereichs- und Importverträge wurden für den Stand abgeglichen.
 
@@ -80,7 +80,9 @@ Die Einstufung ist redaktionell. Schwierige Formulierungen, Fachwortballungen od
 
 Spielspaß, die verständliche Beschäftigung mit dem Thema und die Festigung des eigenen Wissens führen die Gestaltung, Prüfung und Neuentwicklung. Bei Fragen zu handelnden Filmfiguren den Originaldarsteller in der Regel bereits im Fragetext mitnennen. Dies ist eine Empfehlung, kein Zwang: Bei sehr bekannten Filmen und Figuren kann der Zusatz bewusst entfallen; bei schwierigeren Fragen und spezielleren Themen hilft dieser Kontext besonders. Wird gerade der Schauspielername gesucht, bleibt er vor der Antwort verborgen.
 
-Die [systematische Bestandsdurchsicht vom 10.10.2026](Darstellerkontext-2026-10-10/Pruefbericht.md) setzt diese Empfehlung auch für vorhandene Fragen um: Besetzungswissen und Lösungen schützen, Lebensalter und Rollenwechsel berücksichtigen und Originalstimmen ausdrücklich von sichtbaren Darstellern unterscheiden. Es gibt keine pauschale automatische Namenergänzung.
+Bei Besetzungsfragen die gesuchte Figur in der Regel schon im Fragetext durch ihre Rolle, Funktion oder ein prägnantes Handlungs- oder Erscheinungsmerkmal erkennbar machen. Ein bloßer Figurenname ist meist kein ausreichender Wiedererkennungsanker. Einen kurzen, belegten und zur Frage passenden Hinweis wählen; keine feste Satzschablone und keine Aufzählung beliebiger Merkmale erzwingen. Der gesuchte Schauspielername bleibt verborgen. Zum Beispiel: „Wer spielt den hünenhaften, sanftmütigen Todestraktinsassen John Coffey?“ statt nur „Wer spielt John Coffey?“. Den Hinweis zusammen mit allen Optionen auf unbeabsichtigte Lösungshinweise prüfen. [Nutzerpräzisierung vom 11.10.2026](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-11%20Nutzerpraezisierung%20Rollenhinweise.txt).
+
+Die [systematische Bestandsdurchsicht vom 10.10.2026](Darstellerkontext-2026-10-10/Pruefbericht.md) setzt die Empfehlung zum Mitnennen vorgegebener Originaldarsteller auch für vorhandene Fragen um: Besetzungswissen und Lösungen schützen, Lebensalter und Rollenwechsel berücksichtigen und Originalstimmen ausdrücklich von sichtbaren Darstellern unterscheiden. Es gibt keine pauschale automatische Namenergänzung.
 
 ## Struktur jeder Frage
 

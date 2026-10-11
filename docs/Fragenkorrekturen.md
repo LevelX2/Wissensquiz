@@ -108,3 +108,17 @@ Prüfnachweis: [Prüfbericht](Pruefbericht.md).
 ## Darstellernamen im gesamten Fragenbestand – 10.10.2026
 
 Auf ausdrücklichen Auftrag alle 12.773 Fragen auf sinnvollen Darstellerkontext durchgesehen und ausschließlich die Fragetexte von 2.612 Fragen zu 845 Filmfassungen ergänzt. Gesuchte Schauspielernamen bleiben verborgen; Personenfragen, Antworten und Lernidentitäten unverändert. Originalstimmen gekennzeichnet, uneindeutige Familien-, Alters- und Rollenwechselzuordnungen ausgelassen. [Umfang, Lesefassung, Quellen, Grenzen und Abnahme](Darstellerkontext-2026-10-10/Pruefbericht.md). Lokal, noch nicht veröffentlicht.
+
+## Rollenhinweise bei Besetzungsfragen – 11.10.2026
+
+Die [Nutzerpräzisierung](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-11%20Nutzerpraezisierung%20Rollenhinweise.txt) ergänzt den [Redaktionsvertrag](Fragenredaktion.md#schwierigkeiten-sinnvoll-gestalten) und den persönlichen Fragenredaktionsskill: Gesuchte Figuren vor der Antwort durch einen passenden Rollenhinweis wiedererkennbar machen. Namenwissen allein soll die Einstiegsfrage normalerweise nicht erschweren. Kein starres Formulierungsmuster; gesuchte Darsteller bleiben verborgen. Skill-Quelle und Installation sind synchron.
+
+Konkreter redaktioneller Vorschlag für **DRA-L-003**, Wissensziel **K-DRA-02-01**:
+
+- Bisher: **„The Green Mile“ (1999): Wer spielt John Coffey?**
+- Neu: **„The Green Mile“ (1999): Wer spielt den hünenhaften, sanftmütigen Todestraktinsassen John Coffey?**
+- Originale Auswahl: A Ving Rhames; B Sam Rockwell; **C Michael Clarke Duncan (richtig)**; D David Morse. Die App kann die Reihenfolge mischen. Auswahl, richtige Lösung und Lernidentitäten bleiben bei diesem Vorschlag erhalten.
+
+Die [offizielle Warner-Bros.-Inhaltsbeschreibung](https://www.warnerbros.it/scheda-film/genere-drammatico/il-miglio-verde/) beschreibt Coffey als gutmütigen Riesen im Todestrakt und ordnet ihm Duncan zu. [Stephen Kings Filmseite](https://stephenking.com/works/movie/green-mile.html) bestätigt Todesurteil, freundlichen Riesen und Darstellerzuordnung. Beide Beschreibungen am 11.10.2026 tatsächlich gelesen. Die Angaben auf diesen Seiten zu Verfügbarkeit beziehungsweise Veröffentlichungsdatum wurden für diese Korrektur nicht verwendet.
+
+Dies ist eine ergänzende, quellengeprüfte Fragetextredaktion für die spätere filmweise Abnahme; keine zusätzliche vollständig geprüfte Originalfrage im 50er-Zähler. Green Mile ist bis Block 83 noch nicht filmweise abgenommen. Öffentliche CSV, Roh-CSV, Kurzantwort und Vertiefung sind hier unverändert; App-Integration und Veröffentlichung stehen aus.
