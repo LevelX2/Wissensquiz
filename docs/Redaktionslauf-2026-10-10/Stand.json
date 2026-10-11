@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 4250,
-  "totalReviewed": 4400,
-  "remainingFilmQuestions": 6333,
+  "completedInThisRun": 4300,
+  "totalReviewed": 4450,
+  "remainingFilmQuestions": 6283,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 8373,
+  "remainingAllQuestions": 8323,
   "blocks": [
     {
       "block": 1,
@@ -433,6 +433,11 @@
     {
       "block": 85,
       "path": "Block-85.json",
+      "count": 50
+    },
+    {
+      "block": 86,
+      "path": "Block-86.json",
       "count": 50
     }
   ],
@@ -4836,209 +4841,59 @@
     "G100-20261008-ACTION-025-S1",
     "G100-20261008-ACTION-025-S2",
     "G100-20261008-ACTION-025-Y",
-    "G100-20261008-ACTION-025-D"
+    "G100-20261008-ACTION-025-D",
+    "F240-20261006-057-L1",
+    "F240-20261006-057-L2",
+    "F240-20261006-057-M1",
+    "F240-20261006-057-M2",
+    "F240-20261006-057-S1",
+    "F240-20261006-057-S2",
+    "F240-20261006-057-Y",
+    "F240-20261006-057-D",
+    "F240-20261006-094-L1",
+    "F240-20261006-094-L2",
+    "F240-20261006-094-M1",
+    "F240-20261006-094-M2",
+    "F240-20261006-094-S1",
+    "F240-20261006-094-S2",
+    "F240-20261006-094-Y",
+    "F240-20261006-094-D",
+    "G100-20261008-HORROR-015-L1",
+    "G100-20261008-HORROR-015-L2",
+    "G100-20261008-HORROR-015-M1",
+    "G100-20261008-HORROR-015-M2",
+    "G100-20261008-HORROR-015-S1",
+    "G100-20261008-HORROR-015-S2",
+    "G100-20261008-HORROR-015-Y",
+    "G100-20261008-HORROR-015-D",
+    "WES-L-043",
+    "WES-L-044",
+    "WES-M-043",
+    "WES-M-044",
+    "WES-S-043",
+    "WES-S-044",
+    "FF-297-YEAR",
+    "FF-297-DIRECTOR",
+    "MUS-202610-P01-L-017",
+    "MUS-202610-P01-L-018",
+    "MUS-202610-P01-M-025",
+    "MUS-202610-P01-M-026",
+    "MUS-202610-P01-S-025",
+    "MUS-202610-P01-S-026",
+    "MUS-202610-P01-M-027",
+    "MUS-202610-P01-S-027",
+    "F240-20261006-055-L1",
+    "F240-20261006-055-L2",
+    "F240-20261006-055-M1",
+    "F240-20261006-055-M2",
+    "F240-20261006-055-S1",
+    "F240-20261006-055-S2",
+    "F240-20261006-055-Y",
+    "F240-20261006-055-D",
+    "SF-202609-P02-L-077",
+    "SF-202609-P02-L-078"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-057-L1",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-L2",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-M1",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-M2",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-S1",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-S2",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-Y",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-D",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-094-L1",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-L2",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-M1",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-M2",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-S1",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-S2",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-Y",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-D",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-L1",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-L2",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-M1",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-M2",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-S1",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-S2",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-Y",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-D",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "WES-L-043",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "WES-L-044",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "WES-M-043",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "WES-M-044",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "WES-S-043",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "WES-S-044",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "FF-297-YEAR",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "FF-297-DIRECTOR",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "MUS-202610-P01-L-017",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-L-018",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-M-025",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-M-026",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-S-025",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-S-026",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-M-027",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-S-027",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "F240-20261006-055-L1",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-L2",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-M1",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-M2",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-S1",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-S2",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-Y",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-D",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "SF-202609-P02-L-077",
-      "filmKey": "John Carter|2012"
-    },
-    {
-      "id": "SF-202609-P02-L-078",
-      "filmKey": "John Carter|2012"
-    },
     {
       "id": "SF-202609-P02-M-077",
       "filmKey": "John Carter|2012"
@@ -30174,204 +30029,204 @@
   ],
   "next": [
     {
-      "id": "F240-20261006-057-L1",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-L2",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-M1",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-M2",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-S1",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-S2",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-Y",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-057-D",
-      "filmKey": "Jagten|2012"
-    },
-    {
-      "id": "F240-20261006-094-L1",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-L2",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-M1",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-M2",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-S1",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-S2",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-Y",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "F240-20261006-094-D",
-      "filmKey": "Janghwa, Hongryeon|2003"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-L1",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-L2",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-M1",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-M2",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-S1",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-S2",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-Y",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-015-D",
-      "filmKey": "Jeepers Creepers|2001"
-    },
-    {
-      "id": "WES-L-043",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "WES-L-044",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "WES-M-043",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "WES-M-044",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "WES-S-043",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "WES-S-044",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "FF-297-YEAR",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "FF-297-DIRECTOR",
-      "filmKey": "Jeremiah Johnson|1972"
-    },
-    {
-      "id": "MUS-202610-P01-L-017",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-L-018",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-M-025",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-M-026",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-S-025",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-S-026",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-M-027",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "MUS-202610-P01-S-027",
-      "filmKey": "Jesus Christ Superstar|1973"
-    },
-    {
-      "id": "F240-20261006-055-L1",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-L2",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-M1",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-M2",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-S1",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-S2",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-Y",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "F240-20261006-055-D",
-      "filmKey": "Jodāyi-e Nāder az Simin|2011"
-    },
-    {
-      "id": "SF-202609-P02-L-077",
+      "id": "SF-202609-P02-M-077",
       "filmKey": "John Carter|2012"
     },
     {
-      "id": "SF-202609-P02-L-078",
+      "id": "SF-202609-P02-M-078",
       "filmKey": "John Carter|2012"
+    },
+    {
+      "id": "SF-202609-P02-S-077",
+      "filmKey": "John Carter|2012"
+    },
+    {
+      "id": "SF-202609-P02-S-078",
+      "filmKey": "John Carter|2012"
+    },
+    {
+      "id": "SF-202609-P02-M-077-V1",
+      "filmKey": "John Carter|2012"
+    },
+    {
+      "id": "FF-364-YEAR",
+      "filmKey": "John Carter|2012"
+    },
+    {
+      "id": "FF-364-DIRECTOR",
+      "filmKey": "John Carter|2012"
+    },
+    {
+      "id": "ACT-202610-P01-L-011",
+      "filmKey": "John Wick: Chapter 2|2017"
+    },
+    {
+      "id": "ACT-202610-P01-L-012",
+      "filmKey": "John Wick: Chapter 2|2017"
+    },
+    {
+      "id": "ACT-202610-P01-M-016",
+      "filmKey": "John Wick: Chapter 2|2017"
+    },
+    {
+      "id": "ACT-202610-P01-M-017",
+      "filmKey": "John Wick: Chapter 2|2017"
+    },
+    {
+      "id": "ACT-202610-P01-S-016",
+      "filmKey": "John Wick: Chapter 2|2017"
+    },
+    {
+      "id": "ACT-202610-P01-S-017",
+      "filmKey": "John Wick: Chapter 2|2017"
+    },
+    {
+      "id": "ACT-202610-P01-M-018",
+      "filmKey": "John Wick: Chapter 2|2017"
+    },
+    {
+      "id": "ACT-202610-P01-S-018",
+      "filmKey": "John Wick: Chapter 2|2017"
+    },
+    {
+      "id": "ACT-L-049",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "ACT-L-050",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "ACT-M-049",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "ACT-M-050",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "ACT-S-049",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "ACT-S-050",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "ACT-L-049-V1",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "ACT-L-050-V1",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "ACT-M-049-V1",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "ACT-M-050-V1",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "ACT-S-049-V1",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "ACT-S-050-V1",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "FF-025-YEAR",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "FF-025-DIRECTOR",
+      "filmKey": "John Wick|2014"
+    },
+    {
+      "id": "G100-20261008-WESTERN-001-L1",
+      "filmKey": "Johnny Guitar|1954"
+    },
+    {
+      "id": "G100-20261008-WESTERN-001-L2",
+      "filmKey": "Johnny Guitar|1954"
+    },
+    {
+      "id": "G100-20261008-WESTERN-001-M1",
+      "filmKey": "Johnny Guitar|1954"
+    },
+    {
+      "id": "G100-20261008-WESTERN-001-M2",
+      "filmKey": "Johnny Guitar|1954"
+    },
+    {
+      "id": "G100-20261008-WESTERN-001-S1",
+      "filmKey": "Johnny Guitar|1954"
+    },
+    {
+      "id": "G100-20261008-WESTERN-001-S2",
+      "filmKey": "Johnny Guitar|1954"
+    },
+    {
+      "id": "G100-20261008-WESTERN-001-Y",
+      "filmKey": "Johnny Guitar|1954"
+    },
+    {
+      "id": "G100-20261008-WESTERN-001-D",
+      "filmKey": "Johnny Guitar|1954"
+    },
+    {
+      "id": "F240-20261006-102-L1",
+      "filmKey": "Jojo Rabbit|2019"
+    },
+    {
+      "id": "F240-20261006-102-L2",
+      "filmKey": "Jojo Rabbit|2019"
+    },
+    {
+      "id": "F240-20261006-102-M1",
+      "filmKey": "Jojo Rabbit|2019"
+    },
+    {
+      "id": "F240-20261006-102-M2",
+      "filmKey": "Jojo Rabbit|2019"
+    },
+    {
+      "id": "F240-20261006-102-S1",
+      "filmKey": "Jojo Rabbit|2019"
+    },
+    {
+      "id": "F240-20261006-102-S2",
+      "filmKey": "Jojo Rabbit|2019"
+    },
+    {
+      "id": "F240-20261006-102-Y",
+      "filmKey": "Jojo Rabbit|2019"
+    },
+    {
+      "id": "F240-20261006-102-D",
+      "filmKey": "Jojo Rabbit|2019"
+    },
+    {
+      "id": "F240-20261006-109-L1",
+      "filmKey": "Jour de fête|1949"
+    },
+    {
+      "id": "F240-20261006-109-L2",
+      "filmKey": "Jour de fête|1949"
+    },
+    {
+      "id": "F240-20261006-109-M1",
+      "filmKey": "Jour de fête|1949"
+    },
+    {
+      "id": "F240-20261006-109-M2",
+      "filmKey": "Jour de fête|1949"
+    },
+    {
+      "id": "F240-20261006-109-S1",
+      "filmKey": "Jour de fête|1949"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."

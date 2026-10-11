@@ -1845,3 +1845,12 @@ Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowi
 ### 11.10.2026 – Konto-Ladefehler diagnostiziert; Serverumbau beauftragt
 
 Ausschließlich lesende Produktionsdiagnose belegt Datenbankzeitüberschreitungen bei parallelen Vollabrufen früherer öffentlicher Fragenkataloge. Nutzer verlangt keine Altstandkompatibilität, erlaubt die Rücksetzung seines Entwicklungs-Spielstands nach Abnahme und beauftragt normale Lernrunden samt Auswahl/Übersichten ohne Clientvollkatalog im eigenen Worktree. Vorläufige Vollkatalog-Optimierungen verworfen; keine Fassung veröffentlicht und noch kein Nutzerspielstand zurückgesetzt. [Befund, Architektur und Abnahmeauftrag](../../docs/Online-Spielstand-Ladefehler-2026-10-11.md).
+
+
+### 11.10.2026 – Redaktionslauf Block 86
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 27 Vertiefungen geändert, 23 wortgleich bewahrt; 22 Antwortauswahlen und 14 Schwierigkeiten angepasst. 0 Wissensziele ausdrücklich durch neue Frage-/Wissensziel-IDs ersetzt. 8 ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. Keine der sieben Gruppen erhält eine vollständige Mindestzielabnahme. Offene Gruppen/Entwürfe: Jeremiah Johnson, Jesus Christ Superstar, A Tale of Two Sisters, Jeepers Creepers, Die Jagd, John Carter – Zwischen zwei Welten, Nader und Simin – Eine Trennung.
+
+Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche Ergänzungen und sieben Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Mind→Ghost→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.450 von12.773 Original-IDs geprüft,8.323 offen (6.283 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-86.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-86-Pruefnachweis.json).

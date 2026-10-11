@@ -89,9 +89,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 83: vollständiger Alt/Neu-Vergleich](Block-83.md) und [strukturierter Nachweis](Block-83.json): 50 Fragen, 25 Vertiefungen geändert, 25 erhalten, 0 Fragen vollständig unverändert; 4 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 84: vollständiger Alt/Neu-Vergleich](Block-84.md) und [strukturierter Nachweis](Block-84.json): 50 Fragen, 22 Vertiefungen geändert, 28 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 85: vollständiger Alt/Neu-Vergleich](Block-85.md) und [strukturierter Nachweis](Block-85.json): 50 Fragen, 21 Vertiefungen geändert, 29 erhalten, 0 Fragen vollständig unverändert; 2 von 7 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 4400 von 12.773 IDs redaktionell erfasst.
-- Offen: 6333 Filmfragen und 2040 weitere Fragen; zusammen 8373. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 85 schließt die Ip-Man-Originalgruppe ab und erfasst It Follows, It Happened One Night, It’s Complicated, It, Ivanhoe sowie Jack Reacher. Rollenhinweise bei Besetzungsfragen gemäß Nutzerpräzisierung vom 11.10.2026 berücksichtigt. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Fehlende schwere Mindestziele bleiben ausdrücklich offen. Keine App-Integration durch diesen Block.
+- [Block 86: vollständiger Alt/Neu-Vergleich](Block-86.md) und [strukturierter Nachweis](Block-86.json): 50 Fragen, 27 Vertiefungen geändert, 23 erhalten, 0 Fragen vollständig unverändert; 0 von 7 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 4450 von 12.773 IDs redaktionell erfasst.
+- Offen: 6283 Filmfragen und 2040 weitere Fragen; zusammen 8323. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 86 erfasst Jagten, A Tale of Two Sisters, Jeepers Creepers, Jeremiah Johnson, Jesus Christ Superstar, A Separation sowie eine John-Carter-Teilgruppe. Rollenhinweise bei Besetzungsfragen gemäß Nutzerpräzisierung vom 11.10.2026 berücksichtigt. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Fehlende schwere Mindestziele bleiben ausdrücklich offen. Keine App-Integration durch diesen Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 
