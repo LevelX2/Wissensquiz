@@ -2,9 +2,8 @@ import { expect, it } from "vitest";
 import { emptyState, questionSchema, type State } from "../src/model";
 import { answer, startRound, selectQuestions } from "../src/engine";
 import { bankAfterAnswer, inPeriod } from "../src/recordModes";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 import { leaderboard } from "../src/leaderboard";
-import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
 
 export const runState = (): State =>
   emptyState(
@@ -62,9 +61,7 @@ it.each(["fehlerfrei", "zeitkonto"] as const)(
     expect(validateBackup(s).rounds[0].solutionDisplay).toBe("round");
     respond(s, true);
     respond(s, false);
-    const restored = validateBackup(
-      await decodeCloudState(await encodeCloudState(s)),
-    );
+    const restored = validateBackup(JSON.parse(JSON.stringify(s)));
     expect(restored.rounds[0].solutionDisplay).toBe("round");
     expect(restored.rounds[0].events).toEqual(r.events);
     expect(restored.rounds[0].run?.bankMs).toBe(r.run?.bankMs);
@@ -171,8 +168,7 @@ it("mischt 3/4/3, zieht Varianten ohne Zusatzlose und zählt Wiederholungen nach
   expect(new Set(r.events).size).toBe(12);
   expect(r.run?.cycle).toBe(2);
   expect(
-    validateBackup(await decodeCloudState(await encodeCloudState(s))).rounds[0]
-      .events,
+    validateBackup(JSON.parse(JSON.stringify(s))).rounds[0].events,
   ).toHaveLength(12);
   expect(r.questions[9].knowledgeId).not.toBe(r.questions[10].knowledgeId);
 });

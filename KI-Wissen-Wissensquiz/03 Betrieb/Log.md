@@ -1958,3 +1958,8 @@ Serveroptimierungen, kompakte Lern-/XP-Belege und Profilzähler, Profilklappen, 
 Alter Schreibendpunkt konnte einen aktuellen Server-Spielstand mit einem Vollkatalogverweis überschreiben. Produktiv abgesichert: alte Schreibpakete für Server-Spielstände abweisen und Aktivierung von Katalog-Generationen verhindern. Formatverweis und unnötige Fragen-ID-Liste kontrolliert korrigiert; alle übrigen Einträge per Hash unverändert, eine Runde und zehn Antworten erhalten. Aktueller Originalclient öffnet produktive Serverantworten ohne Katalogabruf bei 34.595 Bytes Startumfang. Kein Reset und keine Altstandkompatibilität. 492 Tests in 78 Dateien sowie TypeScript und Produktionsbuild erfolgreich. Kein Sites-Neubuild und kein Push. [Nachweis](../../docs/Online-Spielstand-Ladefehler-2026-10-11.md#erneuter-ladefehler-nach-version-67-alter-schreibweg-gesperrt).
 
 Ergänzende Abnahme: drei isolierte Browserfälle in Chromium, Firefox und mobilem WebKit erfolgreich. Wiederaufnahme, zehn Antworten und Neuladen ohne Katalogabruf geprüft; Reset ausschließlich im synthetischen Testkonto.
+
+
+## 11.10.2026 – Alte Speicherwege vollständig entfernt
+
+Auf ausdrücklichen Auftrag die vorübergehende Sperre durch tatsächliche Entfernung der alten RPCs, Katalogarchive und alternativen Client-Speicherpfade ersetzt. Zehn ungenutzte Archive gelöscht, ohne Spielstandreset oder neue Altstandkompatibilität. Produktive Transaktion bewahrt sämtliche Fortschrittseinträge und Revisionen; lesende Clientprüfung des echten Kontos und zurückgerollte synthetische Zehnerrunde erfolgreich. 413 Tests, TypeScript, Versionsbuild und gezielte Browserabnahme. [Nachweis](../../docs/Alte-Speicherwege-entfernt-2026-10-11.md).

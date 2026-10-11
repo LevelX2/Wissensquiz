@@ -15,8 +15,7 @@ import {
 } from "../src/categories";
 import { pathQuestions, learningPathProgress } from "../src/learningPath";
 import { careerSummary } from "../src/career";
-import { validateBackup } from "../src/storage";
-import { decodeCloudState, encodeCloudState } from "../src/cloudCodec";
+import { validateBackup } from "../src/backupValidation";
 import sources from "../KI-Wissen-Wissensquiz/01 Rohquellen/Preistraeger_Quellennachweis.json";
 import films from "../KI-Wissen-Wissensquiz/01 Rohquellen/Preistraeger_Filmdaten.json";
 import {
@@ -219,9 +218,7 @@ it("erhält Expertenrunden und alle drei Kategorien in JSON und privater Kontosi
   expect(pathQuestions(state, "ueben")).toEqual([q]);
   expect(learningPathProgress(state)(q.metadata.subdomain).easy).toBe(0);
   const json = validateBackup(JSON.parse(JSON.stringify(state)));
-  const cloud = validateBackup(
-    await decodeCloudState(await encodeCloudState(state)),
-  );
+  const cloud = validateBackup(JSON.parse(JSON.stringify(state)));
   expect(json).toEqual(state);
   expect(cloud).toEqual(state);
 });

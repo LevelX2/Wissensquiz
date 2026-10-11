@@ -1,28 +1,13 @@
 import { catalogCounts } from "./catalog-counts";
-import { afterEach, expect, it } from "vitest";
+import { expect, it } from "vitest";
 import { readFileSync, writeFileSync } from "node:fs";
-import "fake-indexeddb/auto";
 import { importCsv } from "../src/importer";
 import { addPackages, packages } from "../src/packages";
 import { emptyState } from "../src/model";
 import { answer, shuffle, startRound } from "../src/engine";
-import { read, update } from "../src/storage";
 import { withCategoryTags } from "../src/categories";
 import { assertEditorialSource } from "./editorialSource";
 import { testReportPath } from "./helpers/test-report";
-
-// Each upgrade scenario is independent. fake-indexeddb retains completed
-// transactions (including catalog snapshots) until its database is deleted.
-afterEach(
-  () =>
-    new Promise<void>((resolve, reject) => {
-      const request = indexedDB.deleteDatabase("wissensquiz");
-      request.onsuccess = () => resolve();
-      request.onerror = () => reject(request.error);
-      request.onblocked = () =>
-        reject(new Error("Testdatenbank ist noch geöffnet."));
-    }),
-);
 
 const contents = packages.map((p) => ({
   filename: p.filename,
@@ -119,7 +104,12 @@ it.each([
   "importiert $name vollständig ohne Konflikte und erhält Lösungen, Feedback und Varianten",
   ({ imported, previous, path, ...options }) => {
     const baseSize = "size" in options ? options.size : 180;
-    const additions: Record<string, number> = { arthouse: 3, drama: 1, western: 1, "scifi-ergaenzung": 1 };
+    const additions: Record<string, number> = {
+      arthouse: 3,
+      drama: 1,
+      western: 1,
+      "scifi-ergaenzung": 1,
+    };
     const added = additions[path] ?? 0;
     const size = baseSize + added;
     expect(imported.report.accepted).toBe(size);
@@ -229,7 +219,7 @@ it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedbac
 });
 
 it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13])(
-  "ergänzt neue Pakete bei %i vorhandenen Paketen transaktional ohne Fortschrittsverlust",
+  "ergänzt neue Pakete bei %i vorhandenen Paketen wiederholt ohne Fortschrittsverlust",
   async (packageCount) => {
     const previousPackages = allImported.slice(0, packageCount);
     const state = emptyState(previousPackages.flatMap((p) => p.questions));
@@ -263,12 +253,9 @@ it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13])(
       settings: state.settings,
       favorites: state.favorites,
     });
-    await update((s) => Object.assign(s, state));
-    await Promise.all([
-      update((s) => addPackages(s, contents)),
-      update((s) => addPackages(s, contents)),
-    ]);
-    const saved = (await read())!;
+    const saved = structuredClone(state);
+    addPackages(saved, contents);
+    addPackages(saved, contents);
     expect(saved.questions).toHaveLength(catalogCounts.questions);
     expect(saved.imports).toHaveLength(catalogCounts.packages);
     expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(

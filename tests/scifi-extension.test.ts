@@ -7,7 +7,7 @@ import { filmData } from "../src/filmFacts";
 import { familiarityOf, filmIdentity } from "../src/familiarity";
 import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { answer, complete, startRound } from "../src/engine";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 import source from "../KI-Wissen-Wissensquiz/01 Rohquellen/SciFi_Ergaenzung_Filmdaten.json";
 import { assertEditorialSource } from "./editorialSource";
 import reviewedFacts from "../src/reviewedFilmFacts.json";
@@ -83,10 +83,16 @@ it("erhält Sci-Fi-Rohquellen und bindet alle 50 Filme samt Zusatztexten, Bekann
         filmIdentity(n) === filmIdentity(q) &&
         n.metadata.fact_kind === "director",
     )!;
-    const current = (reviewedFacts as Record<string,{context:string}>)[director.id];
-    expect(director.context).toContain(current?.context ?? revision.after.directorContext);
+    const current = (reviewedFacts as Record<string, { context: string }>)[
+      director.id
+    ];
+    expect(director.context).toContain(
+      current?.context ?? revision.after.directorContext,
+    );
     expect(director.metadata.verification_status).toBe(
-      current ? "Redaktionsabgleich 2026-10-10" : "Redaktionelle Quelle 2026-09-29",
+      current
+        ? "Redaktionsabgleich 2026-10-10"
+        : "Redaktionelle Quelle 2026-09-29",
     );
   }
   const enemy = qs.find(

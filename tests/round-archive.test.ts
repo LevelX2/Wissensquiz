@@ -1,4 +1,3 @@
-import "fake-indexeddb/auto";
 import { expect, it } from "vitest";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../src/importer";
@@ -10,16 +9,14 @@ import { leaderboard } from "../src/leaderboard";
 import { careerSummary } from "../src/career";
 import { learningPathProgress } from "../src/learningPath";
 import { openMistakes } from "../src/errorTraining";
-import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
 import {
   compileState,
   difference,
-  prepareRelease,
   reconstructState,
   stableStringify,
   SYNC_FORMAT,
 } from "../src/syncCodec";
-import { objectHashes, releaseHashes } from "../src/entryStorage";
+import { objectHashes } from "../src/syncReferences";
 import { syncFixture } from "./helpers/sync-fixture";
 import { learn } from "../src/learning";
 
@@ -110,14 +107,16 @@ it("removes historical texts and before maps without changing any score, XP, lea
   rebuild(state);
   expect(evidence(state)).toEqual(before);
   expect(validateBackup(state)).toEqual(state);
-  const release = await prepareRelease(state.questions),
-    document = await compileState(state, [release]);
-  expect(reconstructState(document, [release])).toEqual(state);
-  expect([...releaseHashes(document)]).toEqual([release.hash]);
+  const document = await compileState(state);
+  const expected = structuredClone(state);
+  expected.questions = [];
+  delete expected.bundledQuestionIds;
+  expect(reconstructState(document)).toEqual(expected);
+  expect(document.rows.get("field:catalog")?.value).toEqual({
+    source: "server",
+    parts: [],
+  });
   expect(objectHashes(document)).toEqual(new Set([...document.objects.keys()]));
-  expect(
-    validateBackup(await decodeCloudState(await encodeCloudState(state))),
-  ).toEqual(state);
   // Historical learning must not depend on today's question difficulty/content.
   state.questions = state.questions.map((q) => ({
     ...q,
@@ -306,18 +305,9 @@ it("synchronizes archived rounds and new genre scores with unchanged server tota
       undefined,
       firstEvent,
     );
-    const release = await prepareRelease(state.questions);
-    const privateQuestion = {
-      ...structuredClone(state.questions[0]),
-      id: "PRIVATE-ARCHIVE-GC",
-      knowledgeId: "PRIVATE-ARCHIVE-GC",
-    };
-    delete privateQuestion.metadata.variant_of;
-    state.questions.push(privateQuestion);
-    await fixture.seed(release);
     const { owner, api } = await fixture.client();
     const generation = crypto.randomUUID(),
-      original = await compileState(state, [release]);
+      original = await compileState(state);
     const call = <T>(name: string, args: Record<string, unknown>) =>
       api.call<T>(name, args, 30000);
     await call("quiz_sync_begin", {
@@ -347,9 +337,10 @@ it("synchronizes archived rounds and new genre scores with unchanged server tota
       row_count: original.rows.size,
       object_count: original.objects.size,
     });
-    const activated = await call<{ revision: number }>("quiz_sync_activate", {
+    const activated = await call<{ revision: number }>("quiz_game_activate", {
       expected_owner: owner,
       target_generation: generation,
+      timezone: "Europe/Berlin",
     });
     const totals = (
       await fixture.db.query(
@@ -363,9 +354,10 @@ it("synchronizes archived rounds and new genre scores with unchanged server tota
     ).rows;
     expect(scores).toHaveLength(3);
     archiveClosedRounds(state);
-    const archived = await compileState(state, [release], original, true, true),
+    const archived = await compileState(state, original, true),
       delta = difference(original, archived);
-    await call("quiz_sync_apply", {
+    await call("quiz_game_apply", {
+      timezone: "Europe/Berlin",
       packet_text: stableStringify({
         ...delta,
         format: SYNC_FORMAT,
@@ -433,17 +425,6 @@ it("synchronizes archived rounds and new genre scores with unchanged server tota
         )
       ).rows,
     ).toHaveLength(1);
-    const privateHash = [...archived.objects.values()].find((o) =>
-      o.text.includes("PRIVATE-ARCHIVE-GC"),
-    )!.hash;
-    expect(
-      (
-        await fixture.db.query(
-          "select hash from public.quiz_private_catalog_objects where hash=$1",
-          [privateHash],
-        )
-      ).rows,
-    ).toHaveLength(1);
     expect(
       (
         await fixture.db.query(
@@ -456,9 +437,9 @@ it("synchronizes archived rounds and new genre scores with unchanged server tota
       ...bad.rounds[0].archive!.questions[0],
       question: "Forbidden old question text",
     } as NonNullable<(typeof bad.rounds)[0]["archive"]>["questions"][number];
-    const corrupt = await compileState(bad, [release], archived, true, true);
+    const corrupt = await compileState(bad, archived, true);
     await expect(
-      call("quiz_sync_apply", {
+      call("quiz_game_apply", {
         packet_text: stableStringify({
           ...difference(archived, corrupt),
           format: SYNC_FORMAT,
@@ -469,7 +450,7 @@ it("synchronizes archived rounds and new genre scores with unchanged server tota
           id: crypto.randomUUID(),
         }),
       }),
-    ).rejects.toThrow(/invalid_round_fact/);
+    ).rejects.toThrow(/invalid_game_packet/);
   } finally {
     await fixture.db.close();
   }

@@ -48,3 +48,7 @@ Die unveränderten produktiven Antworten des Kontostarts wurden ausschließlich 
 Abnahme: beide neuen Regressionen scheiterten vor der Korrektur; danach alle 492 Tests in 78 Dateien, TypeScript und Vite-Produktionsbuild erfolgreich. Produktiv wurde ein weiterer alter Schreibversuch ohne Änderung des Kontostands abgewiesen. Der neue interne Helfer ist für anonyme Zugriffe gesperrt; die öffentliche Hülle bleibt Security Invoker. Bestehende Advisor-Hinweise zu gesperrten Tabellen, freigegebenen Fach-RPCs und Passwortschutz bleiben unverändert. Website-Version 67 genügt für diese Backendkorrektur; keine neue Sites-Veröffentlichung und kein GitHub-Push.
 
 Die vollständige Serverrunde einschließlich Wiederaufnahme, zehn Antworten, Neuladen und anschließendem Reset ausschließlich des synthetischen Testkontos besteht zusätzlich in Chromium, Firefox und mobilem WebKit: drei Browserfälle erfolgreich, keine Katalogabrufe und keine lokale Kontospielstandsablage. Der lokale Testserver wurde wegen eines Startproblems der npm-Hülle direkt mit Vite gestartet; Produktcode und Testinhalt blieben unverändert.
+
+## Folgeauftrag: alte Speicherwege vollständig entfernen
+
+Die Sperre war eine Sofortkorrektur. Der anschließende Nutzerauftrag verlangt die tatsächliche Entfernung der Endpunkte und sämtlicher zugehörigen Katalog-/Rückfallwege. [Entfernung und Datenerhalt](Alte-Speicherwege-entfernt-2026-10-11.md). Der bereits reparierte Spielstand wird dabei nicht zurückgesetzt.

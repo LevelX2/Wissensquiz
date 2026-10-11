@@ -1,14 +1,11 @@
+import { prepareTestContent, type TestContent } from "../helpers/test-content";
 import { preparePresentation } from "../../src/questionPresentation";
 import { recognitionPortrait } from "../../src/portraitCatalog";
 import { test as base, type BrowserContext, type Page } from "@playwright/test";
 import { readFileSync } from "node:fs";
 import { emptyState, type State } from "../../src/model";
 import { packages, addPackages } from "../../src/packages";
-import {
-  prepareRelease,
-  reconstructState,
-  type PreparedRelease,
-} from "../../src/syncCodec";
+import { reconstructState } from "../../src/syncCodec";
 import { getMetadata, downloadDocument } from "../../src/entryRemote";
 import {
   rankedRound,
@@ -109,7 +106,7 @@ const session = {
   expires_at: 2000000000,
   user,
 };
-let preparedRelease: Promise<PreparedRelease> | undefined;
+let preparedRelease: Promise<TestContent> | undefined;
 export async function createAccountBackend() {
   const fixture = await syncFixture(),
     { api } = await fixture.client(testOwner);
@@ -129,9 +126,8 @@ export async function createAccountBackend() {
         text: readFileSync("public" + pkg.path, "utf8"),
       })),
     );
-    return prepareRelease(state.questions);
+    return prepareTestContent(state.questions);
   })());
-  await fixture.seed(release);
   const rankedReady = fixture.seedRanked(release);
   await rankedReady;
   const ensureRanked = () => rankedReady;
@@ -172,7 +168,6 @@ export async function isolateAccountService(
     if (path.endsWith("/user")) return route.fulfill({ json: user });
     if (path.endsWith("/token")) return route.fulfill({ json: session });
     if (path.endsWith("/logout")) return route.fulfill({ json: {} });
-    if (path.endsWith("/quiz_saves")) return route.fulfill({ json: [] });
     const name = path.split("/").at(-1)!;
     if (
       !name.startsWith("quiz_sync_") &&
@@ -233,11 +228,7 @@ export async function readStoredState(
     metadata.generation!,
     metadata.revision,
   );
-  const state = reconstructState(
-    downloaded.document,
-    [release, ...downloaded.catalogs],
-    true,
-  );
+  const state = reconstructState(downloaded.document);
   // Test authoring may inspect the operator catalog. It is never sent to the UI.
   state.questions = structuredClone(release.questions);
   // Read authoritative server histories without triggering any recovery write.
@@ -338,7 +329,7 @@ export async function writeStoredState(page: Page, state: State) {
         events: state.events.filter((e) => e.roundId !== active.id),
       }
     : state;
-  const store = new OnlineGameStore(api, testOwner, undefined, undefined);
+  const store = new OnlineGameStore(api, testOwner);
   await store.open();
   await store.update((s) => Object.assign(s, savedState), { replace: true });
   // Test administration authors native private runs, never a client fallback.

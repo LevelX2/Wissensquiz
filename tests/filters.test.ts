@@ -5,7 +5,7 @@ import { packages } from "../src/packages";
 import { emptyState, type Mode } from "../src/model";
 import { recordKey, selectQuestions, startRound } from "../src/engine";
 import { genreOf } from "../src/filters";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 
 const questions = packages.flatMap(
   (p) => importCsv(readFileSync(`public${p.path}`, "utf8")).questions,

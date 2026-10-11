@@ -1,7 +1,7 @@
 import { beforeAll, afterAll, it, expect } from "vitest";
 import { readFileSync } from "node:fs";
 import { syncFixture } from "./helpers/sync-fixture";
-import { prepareRelease } from "../src/syncCodec";
+import { prepareTestContent } from "./helpers/test-content";
 import { importCsv } from "../src/importer";
 import { OnlineGameStore } from "../src/onlineGameStore";
 import { LearningSession } from "../src/learningRuns";
@@ -12,10 +12,9 @@ import { mergeTrial } from "../src/trial";
 let fixture: Awaited<ReturnType<typeof syncFixture>>;
 beforeAll(async () => {
   fixture = await syncFixture();
-  const release = await prepareRelease(
+  const release = await prepareTestContent(
     importCsv(readFileSync("public/fragen.csv", "utf8")).questions,
   );
-  await fixture.seed(release);
   await fixture.seedRanked(release);
 }, 30000);
 afterAll(() => fixture?.db.close());
@@ -50,7 +49,7 @@ it("liefert kleine Metadaten und paginierte Themen ohne Fragen", async () => {
 });
 it("spielt, bestätigt, setzt fort und öffnet ohne einen Katalogabruf", async () => {
   const { api, owner } = await fixture.client();
-  const store = new OnlineGameStore(api, owner, undefined, undefined);
+  const store = new OnlineGameStore(api, owner);
   await store.open();
   expect(store.read().questions).toEqual([]);
   await store.update((s) => {
@@ -159,7 +158,7 @@ it("spielt, bestätigt, setzt fort und öffnet ohne einen Katalogabruf", async (
   expect(store.read().questions).toEqual([]);
   for (const e of store.read().events)
     expect(store.read().learning[e.knowledgeId]).toEqual(learn(undefined, e));
-  const reopened = new OnlineGameStore(api, owner, undefined, undefined);
+  const reopened = new OnlineGameStore(api, owner);
   await reopened.open();
   expect(reopened.read().rounds[0].archive?.questions).toHaveLength(10);
   expect(api.calls.some((c) => c.name === "quiz_sync_catalog")).toBe(false);
@@ -167,7 +166,7 @@ it("spielt, bestätigt, setzt fort und öffnet ohne einen Katalogabruf", async (
 
 async function playerRun() {
   const { api, owner } = await fixture.client();
-  const store = new OnlineGameStore(api, owner, undefined, undefined);
+  const store = new OnlineGameStore(api, owner);
   await store.open();
   const session = new LearningSession(api);
   await session.start({
@@ -385,7 +384,7 @@ it("bewahrt begrenzten Lernstand vor einer Runde und zählt fällige Rundenziele
   await resumed.resume(next.run!.id);
   expect(resumed.round().before).toEqual(next.round().before);
   await resumed.finish();
-  const reopened = new OnlineGameStore(api, owner, undefined, undefined);
+  const reopened = new OnlineGameStore(api, owner);
   await reopened.open();
   expect(reopened.read().rounds.at(-1)!.before).toEqual({});
   expect((await view()).due).toBe(0);
@@ -457,7 +456,7 @@ it("öffnet eine wachsende Historie begrenzt, exportiert vollständig und erhäl
       return result;
     },
   };
-  const opened = new OnlineGameStore(measured, owner, undefined, undefined);
+  const opened = new OnlineGameStore(measured, owner);
   await opened.open();
   expect(opened.read().rounds).toHaveLength(1);
   expect(opened.read().events).toHaveLength(10);
@@ -591,11 +590,10 @@ it("ersetzt den aktuellen Bestand ohne alte Gesamtkataloge und behält nur laufe
   expect(
     (
       await fixture.db.query(
-        "select hash from public.quiz_catalog_releases where hash=$1",
-        [next],
+        "select to_regclass('public.quiz_catalog_releases') as name",
       )
     ).rows,
-  ).toEqual([]);
+  ).toEqual([{ name: null }]);
   const resumed = new LearningSession(api);
   await resumed.resume(session.run!.id);
   expect(resumed.current).toEqual(issued);
@@ -618,7 +616,7 @@ it("ersetzt den aktuellen Bestand ohne alte Gesamtkataloge und behält nur laufe
 
 it("projiziert sichere Ziele aus kompakten Duell-/Importfragen einschließlich Preis- und Personenbereich", async () => {
   const { api, owner } = await fixture.client();
-  const store = new OnlineGameStore(api, owner, undefined, undefined);
+  const store = new OnlineGameStore(api, owner);
   await store.open();
   const samples = [
     ["public/fragen.csv", "Science-Fiction"],
@@ -657,7 +655,7 @@ it("projiziert sichere Ziele aus kompakten Duell-/Importfragen einschließlich P
 
 it("übernimmt eine aktuelle Proberunde nach gezieltem Nachladen genau einmal", async () => {
   const { api, owner } = await fixture.client();
-  const store = new OnlineGameStore(api, owner, undefined, undefined);
+  const store = new OnlineGameStore(api, owner);
   await store.open();
   const questions = await api.call<any[]>("quiz_trial_questions", {
     genre: null,
@@ -696,7 +694,7 @@ it("übernimmt eine aktuelle Proberunde nach gezieltem Nachladen genau einmal", 
 
 it("weist alte Schreibpakete für serverseitige Spielstände vollständig ab", async () => {
   const { api, owner } = await fixture.client();
-  const store = new OnlineGameStore(api, owner, undefined, undefined);
+  const store = new OnlineGameStore(api, owner);
   await store.open();
   const before = store.read();
   const metadata = await api.call<any>("quiz_sync_metadata", {
@@ -724,12 +722,12 @@ it("weist alte Schreibpakete für serverseitige Spielstände vollständig ab", a
           objects: [],
         }),
       }),
-    ).rejects.toThrow("obsolete_client");
+    ).rejects.toThrow(/does not exist/);
   }
   expect(
     await api.call("quiz_sync_metadata", { expected_owner: owner }),
   ).toEqual(metadata);
-  const reopened = new OnlineGameStore(api, owner, undefined, undefined);
+  const reopened = new OnlineGameStore(api, owner);
   await reopened.open();
   expect(reopened.read()).toEqual(before);
   await reopened.update((s) => {
@@ -740,7 +738,7 @@ it("weist alte Schreibpakete für serverseitige Spielstände vollständig ab", a
 });
 it("verbietet den Wechsel eines Server-Spielstands zu einer Katalog-Generation", async () => {
   const { api, owner } = await fixture.client();
-  const store = new OnlineGameStore(api, owner, undefined, undefined);
+  const store = new OnlineGameStore(api, owner);
   await store.open();
   const metadata = await api.call<any>("quiz_sync_metadata", {
     expected_owner: owner,
@@ -776,16 +774,12 @@ it("verbietet den Wechsel eines Server-Spielstands zu einer Katalog-Generation",
       [owner, target],
     ),
   );
-  await api.call("quiz_sync_seal", {
-    expected_owner: owner,
-    target_generation: target,
-    row_count: count.rows[0].n,
-    object_count: 0,
-  });
   await expect(
-    api.call("quiz_sync_activate", {
+    api.call("quiz_sync_seal", {
       expected_owner: owner,
       target_generation: target,
+      row_count: count.rows[0].n,
+      object_count: 0,
     }),
   ).rejects.toThrow("invalid_game_format");
   expect(
@@ -797,7 +791,7 @@ it("verbietet den Wechsel eines Server-Spielstands zu einer Katalog-Generation",
     },
     { replace: true },
   );
-  const reopened = new OnlineGameStore(api, owner, undefined, undefined);
+  const reopened = new OnlineGameStore(api, owner);
   await reopened.open();
   expect(reopened.read().settings.sound).toBe(false);
 });

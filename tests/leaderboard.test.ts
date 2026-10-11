@@ -4,7 +4,7 @@ import { importCsv } from "../src/importer";
 import { emptyState, type Round } from "../src/model";
 import { answer, complete, startRound } from "../src/engine";
 import { leaderboard } from "../src/leaderboard";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 const questions = importCsv(
   readFileSync("public/horror-fragen.csv", "utf8"),
 ).questions;

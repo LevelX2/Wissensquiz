@@ -17,8 +17,7 @@ import {
   type Question,
   type State,
 } from "../src/model";
-import { validateBackup } from "../src/storage";
-import { decodeCloudState, encodeCloudState } from "../src/cloudCodec";
+import { validateBackup } from "../src/backupValidation";
 
 const catalog = importCsv(readFileSync("public/fragen.csv", "utf8")).questions;
 const qs = [...new Map(catalog.map((q) => [q.knowledgeId, q])).values()].slice(
@@ -165,9 +164,7 @@ describe("Wiederholen", () => {
       familiarities: [1, 2, 3, 4],
     };
     const restored = validateBackup(JSON.parse(JSON.stringify(state)));
-    const cloud = validateBackup(
-      await decodeCloudState(await encodeCloudState(state)),
-    );
+    const cloud = validateBackup(JSON.parse(JSON.stringify(state)));
     expect(restored.rounds.at(-1)?.mode).toBe("fehler");
     expect(cloud.events).toEqual(state.events);
     expect(cloud.learning).toEqual(state.learning);

@@ -3,8 +3,7 @@ import { readFileSync } from "node:fs";
 import { emptyState, type Mode } from "../src/model";
 import { importCsv } from "../src/importer";
 import { startRound, answer, complete, recordKey } from "../src/engine";
-import { validateBackup } from "../src/storage";
-import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
+import { validateBackup } from "../src/backupValidation";
 import { readRoundSetup } from "../src/roundSetup";
 const qs = importCsv(
   readFileSync("public/horror-fragen.csv", "utf8"),
@@ -79,8 +78,8 @@ it("friert die Lösungsanzeige pro Runde ein, erhält alte Standards und trennt 
   complete(collected, r.id, 1700000002000);
   expect(validateBackup(collected).rounds[0].solutionDisplay).toBe("round");
   expect(
-    validateBackup(await decodeCloudState(await encodeCloudState(collected)))
-      .rounds[0].solutionDisplay,
+    validateBackup(JSON.parse(JSON.stringify(collected))).rounds[0]
+      .solutionDisplay,
   ).toBe("round");
   expect(readRoundSetup(direct).mode).toBe("entdecken");
 });

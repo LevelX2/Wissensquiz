@@ -44,5 +44,12 @@ it("sichert eine geänderte Anzeigezeit als private Einstellung ohne Lernänderu
     op: "put",
     row: { kind: "field", id: "settings" },
   });
-  expect(reconstructState(applyDifference(before, delta))).toEqual(state);
+  const online = structuredClone(state);
+  delete online.bundledQuestionIds;
+  online.questions = [
+    ...new Map(
+      online.rounds.flatMap((r) => r.questions).map((q) => [q.id, q]),
+    ).values(),
+  ];
+  expect(reconstructState(applyDifference(before, delta))).toEqual(online);
 });

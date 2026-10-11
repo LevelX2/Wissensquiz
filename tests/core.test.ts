@@ -1,7 +1,6 @@
-import { beforeEach, describe, expect, it } from "vitest";
+import { describe, expect, it } from "vitest";
 import { readFileSync, writeFileSync } from "node:fs";
 import { testReportPath } from "./helpers/test-report";
-import "fake-indexeddb/auto";
 import { importCsv } from "../src/importer";
 import {
   answer,
@@ -19,7 +18,7 @@ import {
   rebuild,
 } from "../src/engine";
 import { emptyState, type AnswerEvent, type Learning } from "../src/model";
-import { read, restore, update, validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 const csv = readFileSync("public/fragen.csv", "utf8");
 const imported = importCsv(csv, [], "SciFi_Quiz_180_Fragen.csv");
 const questions = imported.questions;
@@ -48,12 +47,7 @@ describe("CSV und Inhalte", () => {
     expect(questions.filter((q) => q.metadata.variant_of)).toHaveLength(30);
     expect(imported.report.warnings).toEqual([]);
     expect(
-      questions.every(
-        (q) =>
-          q.context &&
-          q.anchor &&
-          q.sources.length,
-      ),
+      questions.every((q) => q.context && q.anchor && q.sources.length),
     ).toBe(true);
     writeFileSync(
       testReportPath("importbericht.json"),
@@ -279,7 +273,7 @@ describe("Lernfortschritt mit kontrollierter Testzeit", () => {
     ).toHaveLength(0);
   });
 });
-describe("Runden und Persistenz", () => {
+describe("Runden und Validierung", () => {
   it("Abzeichen erst nach bestätigtem Abschluss; geratener letzter Treffer reicht nicht", () => {
     const pool = [
       ...new Map(
@@ -309,9 +303,6 @@ describe("Runden und Persistenz", () => {
     );
     rebuild(s);
     expect(s.badges).toEqual(["sci-fi-10-v1"]);
-  });
-  beforeEach(async () => {
-    await update((s) => Object.assign(s, emptyState(questions)));
   });
   it("antwortet doppelt nur einmal und zählt abgeschlossene Runden einmal", () => {
     const s = emptyState(questions.slice(0, 1));
@@ -344,31 +335,6 @@ describe("Runden und Persistenz", () => {
     expect(s.events[0].answerId).toBeNull();
     expect(s.events[0].correct).toBe(false);
   });
-  it("serialisiert konkurrierende Transaktionen ohne verlorene oder doppelte Ereignisse", async () => {
-    const state = await update((s) => {
-      startRound(
-        s,
-        { mode: "entdecken", topic: "Alle Themen", difficulty: "Alle Stufen" },
-        now,
-      );
-    });
-    const r = state.rounds[0],
-      q = r.questions[0];
-    await Promise.all([
-      update((s) => answer(s, r.id, q.id, q.correctId, 0, now)),
-      update((s) => answer(s, r.id, q.id, q.correctId, 0, now)),
-    ]);
-    expect((await read())?.events).toHaveLength(1);
-  });
-  it("rollt fehlgeschlagene Schreibvorgänge zurück", async () => {
-    await expect(
-      update((s) => {
-        s.experience = 999;
-        throw new Error("Testabbruch");
-      }),
-    ).rejects.toThrow("Testabbruch");
-    expect((await read())?.experience).toBe(0);
-  });
   it("Export und Import validieren Querverweise und berechnen Ableitungen neu", async () => {
     const s = emptyState(questions.slice(0, 1));
     const r = startRound(
@@ -381,23 +347,12 @@ describe("Runden und Persistenz", () => {
     s.experience = 10000;
     const checked = validateBackup(JSON.parse(JSON.stringify(s)));
     expect(checked.experience).toBe(5);
-    await restore(checked);
-    expect((await read())?.events).toHaveLength(1);
+    expect(checked.events).toHaveLength(1);
     const invalid = structuredClone(s);
     invalid.events.push({ ...invalid.events[0] });
     expect(() => validateBackup(invalid)).toThrow("Doppelte");
     const invalid2 = structuredClone(s);
     invalid2.rounds[0].order[0] = ["x", "x", "x", "x"];
     expect(() => validateBackup(invalid2)).toThrow("Antwortreihenfolge");
-  });
-  it("aktiver Rekord kann per Import nicht verlängert werden", async () => {
-    const s = emptyState(questions.slice(0, 1));
-    startRound(
-      s,
-      { mode: "rekord", topic: "Alle Themen", difficulty: "Alle Stufen" },
-      now,
-    );
-    const loaded = await restore(s);
-    expect(loaded.rounds[0].status).toBe("aborted");
   });
 });

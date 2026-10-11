@@ -6,7 +6,6 @@ import { actorPresentation } from "../src/actorEditorial";
 import { filmData } from "../src/filmFacts";
 import { validateBackup } from "../src/backupValidation";
 import { startRound, answer } from "../src/engine";
-import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
 import revision from "../docs/Bestandsredaktion-2026-10-04/Block-01.json";
 
 const contents = packages
@@ -102,7 +101,5 @@ it("bewahrt alte Ereignisse und Lernstände bei beiden Ergänzungen und sichert 
   expect(s.questions.filter((q) => q.metadata.person_id)).toHaveLength(1600);
   expect(s.bundledQuestionIds).toHaveLength(8409);
   expect(validateBackup(s).questions).toHaveLength(8409);
-  expect(await decodeCloudState(await encodeCloudState(s))).toEqual(
-    validateBackup(s),
-  );
+  expect(JSON.parse(JSON.stringify(s))).toEqual(validateBackup(s));
 });

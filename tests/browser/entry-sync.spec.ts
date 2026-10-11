@@ -85,7 +85,19 @@ test("Rundenstart und Antwort übertragen nur ein kleines Änderungspaket", asyn
   backend.api.calls.length = 0;
   await page.locator(".answer").first().click();
   await expect(page.locator(".feedback")).toBeVisible();
-  expect(backend.api.calls.map((c) => c.name)).toEqual(["quiz_game_call"]);
+  expect(
+    backend.api.calls
+      .filter((c) => c.name !== "quiz_game_view")
+      .map((c) => c.name),
+  ).toEqual(["quiz_game_call"]);
+  const views = backend.api.calls.filter((c) => c.name === "quiz_game_view");
+  expect(views.length).toBeLessThanOrEqual(1);
+  expect(
+    views.every(
+      (c) =>
+        JSON.parse(c.args.request_text as string).action === "question-history",
+    ),
+  ).toBe(true);
   expect(
     Buffer.byteLength(JSON.stringify(backend.api.calls[0].args)),
   ).toBeLessThan(1000);

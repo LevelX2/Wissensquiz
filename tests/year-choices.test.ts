@@ -11,7 +11,6 @@ import {
 import { answer, startRound } from "../src/engine";
 import { validateBackup } from "../src/backupValidation";
 import { compileState, reconstructState } from "../src/syncCodec";
-import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
 
 const catalog = emptyState();
 addPackages(
@@ -163,7 +162,7 @@ it("lässt historische Antworten weiter zu und weist verfälschte neue Antwortsn
   }
 });
 
-it("erhält Jahresalternativen und die korrekte Lernwertung im JSON-, Cloud- und Eintragssync-Rückweg", async () => {
+it("erhält Jahresalternativen und die korrekte Lernwertung im JSON- und Online-Snapshot-Rückweg", async () => {
   for (const q of [generated[0], fixed[0]]) {
     const state = emptyState([structuredClone(q)]);
     const round = startRound(
@@ -177,10 +176,15 @@ it("erhält Jahresalternativen und die korrekte Lernwertung im JSON-, Cloud- und
     expect(saved.rounds[0].questions[0]).toEqual(snapshot);
     expect(saved.events[0].correct).toBe(true);
     expect(saved.learning[q.knowledgeId].seen).toBe(1);
-    expect(await decodeCloudState(await encodeCloudState(saved))).toEqual(
-      saved,
-    );
-    expect(reconstructState(await compileState(saved))).toEqual(saved);
+    expect(JSON.parse(JSON.stringify(saved))).toEqual(saved);
+    const online = structuredClone(saved);
+    delete online.bundledQuestionIds;
+    online.questions = [
+      ...new Map(
+        online.rounds.flatMap((r) => r.questions).map((q) => [q.id, q]),
+      ).values(),
+    ];
+    expect(reconstructState(await compileState(saved))).toEqual(online);
   }
 });
 

@@ -5,7 +5,7 @@ import { readFileSync } from "node:fs";
 import { emptyState, type State, type Question } from "../../src/model";
 import { addPackages, packages } from "../../src/packages";
 import { answer, startRound } from "../../src/engine";
-import { validateBackup } from "../../src/storage";
+import { validateBackup } from "../../src/backupValidation";
 import { roundFact } from "../../src/roundArchive";
 
 for (const kind of ["year", "csv-year", "director", "original"] as const) {

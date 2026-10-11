@@ -6,10 +6,15 @@ import { addPackages, packages } from "../src/packages";
 import { emptyState } from "../src/model";
 import { familiarityOf, filmIdentity } from "../src/familiarity";
 import { pathQuestions } from "../src/learningPath";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 import { filmData } from "../src/filmFacts";
 import filmSource from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json";
-import { assertEditorialSource, editorialCsvIds, currentQuestionId, baselineCsvRow } from "./editorialSource";
+import {
+  assertEditorialSource,
+  editorialCsvIds,
+  currentQuestionId,
+  baselineCsvRow,
+} from "./editorialSource";
 import integration from "./fixtures/appliedEditorial.json";
 
 const packageIndex = packages.findIndex(
@@ -52,11 +57,23 @@ it("erhält die Rohquelle, prüft dokumentierte Redaktion und importiert alle 96
   expect(new Set(imported.questions.map(filmIdentity)).size).toBe(120);
   expect(
     imported.questions.filter(
-      (q) => q.metadata.question_type === "Regie" || q.question.includes("Wer führte bei dieser Fassung Regie?") || q.question.includes("Welche beiden Regisseure werden für diese Fassung genannt?"),
+      (q) =>
+        q.metadata.question_type === "Regie" ||
+        q.question.includes("Wer führte bei dieser Fassung Regie?") ||
+        q.question.includes(
+          "Welche beiden Regisseure werden für diese Fassung genannt?",
+        ),
     ),
   ).toHaveLength(120);
   expect(
-    imported.questions.filter((q) => q.metadata.question_type === "Filmjahr" || q.metadata.question_type === "Erscheinungsjahr" || q.question.includes("In welchem Jahr wurde diese Fassung erstmals öffentlich gezeigt oder veröffentlicht?")),
+    imported.questions.filter(
+      (q) =>
+        q.metadata.question_type === "Filmjahr" ||
+        q.metadata.question_type === "Erscheinungsjahr" ||
+        q.question.includes(
+          "In welchem Jahr wurde diese Fassung erstmals öffentlich gezeigt oder veröffentlicht?",
+        ),
+    ),
   ).toHaveLength(120);
   expect(
     new Set(imported.questions.map((q) => q.metadata.subdomain)).size,
@@ -117,7 +134,8 @@ it("verbindet alle 120 gelieferten Filmdaten mit den bestehenden CSV-Fragen, ohn
   ).toBe(120);
   for (const f of filmSource.films) {
     const q = imported.find(
-      (candidate) => candidate.id === currentQuestionId(f.reference_question_id),
+      (candidate) =>
+        candidate.id === currentQuestionId(f.reference_question_id),
     )!;
     expect(q).toBeDefined();
     expect(filmIdentity(q)).toBe(`${f.film_title_original}|${f.film_year}`);
@@ -140,16 +158,29 @@ it("verbindet alle 120 gelieferten Filmdaten mit den bestehenden CSV-Fragen, ohn
     const director = imported.find(
       (candidate) =>
         filmIdentity(candidate) === filmIdentity(q) &&
-        (candidate.metadata.question_type === "Regie" || candidate.question.includes("Wer führte bei dieser Fassung Regie?") || candidate.question.includes("Welche beiden Regisseure werden für diese Fassung genannt?")),
+        (candidate.metadata.question_type === "Regie" ||
+          candidate.question.includes("Wer führte bei dieser Fassung Regie?") ||
+          candidate.question.includes(
+            "Welche beiden Regisseure werden für diese Fassung genannt?",
+          )),
     )!;
-    const revised = integration.changes.find(c=>c.after.question_id===director.id);
-    expect(data.directorContext).toBe(revised ? baselineCsvRow(revised.file, revised.id).explanation_context : director.context);
+    const revised = integration.changes.find(
+      (c) => c.after.question_id === director.id,
+    );
+    expect(data.directorContext).toBe(
+      revised
+        ? baselineCsvRow(revised.file, revised.id).explanation_context
+        : director.context,
+    );
   }
   expect(
     filmSource.films.filter(
       (f) =>
-        filmData(imported.find((q) => q.id === currentQuestionId(f.reference_question_id))!)
-          ?.countryNote,
+        filmData(
+          imported.find(
+            (q) => q.id === currentQuestionId(f.reference_question_id),
+          )!,
+        )?.countryNote,
     ),
   ).toHaveLength(23);
 });

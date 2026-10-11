@@ -4,11 +4,15 @@
 
 Seit Version 66 am 11.10.2026 veröffentlicht und im Backend eingerichtet: [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Normale Lernrunden werden ebenfalls serverseitig ausgewählt und ausgewertet; Kontostart und Navigation benötigen keinen Vollkatalog. Wiederaufnahme erhält die zuletzt ausgegebene Frage und bestätigte Auflösung. Manuelle Sicherungen waren bis Version 66 verfügbar; der folgende Optionsumbau entfernt ihre Oberfläche. Keine Übernahme alter Spielstände. Entwicklungs-Teststand mit ausdrücklicher Freigabe atomar zurückgesetzt; Anmeldung und Profil erhalten. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-66.json).
 
-## Weitere Optimierung vom 11.10.2026 – lokal, noch nicht veröffentlicht
+## Weitere Optimierung vom 11.10.2026 – seit Version 67 produktiv
 
-Der normale Kontoabruf enthält Einstellungen, Summen und höchstens eine jüngste Zehnerrunde. Benötigte einzelne Runden/Ziele werden gezielt nachgeladen; eigene Rekordseiten werden serverseitig begrenzt abgefragt. Die manuelle Sicherung enthält ausdrücklich den vollständigen aktuellen Stand, unabhängig vom kleinen RAM-Ausschnitt. Noch nicht übernommene Zeitläufe bleiben eine Wiederherstellungsausnahme. Es gibt keinen dauerhaften lokalen Kontocache.
+Der normale Kontoabruf enthält Einstellungen, Summen und höchstens eine jüngste Zehnerrunde. Benötigte einzelne Runden/Ziele werden gezielt nachgeladen; eigene Rekordseiten werden serverseitig begrenzt abgefragt. Der interne Prüf-/Betreiberexport enthält den vollständigen aktuellen Stand; die Oberfläche bietet keine manuelle Sicherung mehr. Noch nicht übernommene Zeitläufe bleiben eine Wiederherstellungsausnahme. Es gibt keinen dauerhaften lokalen Kontocache.
 
-Ein gemeinsamer Betreiberimport ersetzt den einzigen aktuellen Fragenbestand atomar. Frühere Vollkataloge müssen weder im Client noch zur Fortsetzung dieses Ablaufs erhalten werden; aktive Runden besitzen ihre eigenen begrenzten Fragenbelege. Es wird keine neue Altstandkompatibilität eingeführt. Details und Prüfgrenzen: [Serverkonzept](Server-Lernablauf-2026-10-11.md#weitere-optimierungen-lokal-umgesetzt-noch-nicht-veröffentlicht).
+Ein gemeinsamer Betreiberimport ersetzt den einzigen aktuellen Fragenbestand atomar. Frühere Vollkataloge müssen weder im Client noch zur Fortsetzung dieses Ablaufs erhalten werden; aktive Runden besitzen ihre eigenen begrenzten Fragenbelege. Es wird keine neue Altstandkompatibilität eingeführt. Details und Prüfgrenzen: [Serverkonzept](Server-Lernablauf-2026-10-11.md#weitere-optimierungen-seit-version-67-produktiv).
+
+## Vollständige Entfernung der alten Speicherwege
+
+Der Folgeauftrag entfernt auch die alten RPCs, Vollkatalogarchive, lokalen Speichermodule und Rückfallpfade vollständig. Der aktuelle Serverablauf bleibt der einzige Kontospeicherweg. [Umsetzung und Abnahme](Alte-Speicherwege-entfernt-2026-10-11.md).
 
 ## Verbindlicher Nutzerauftrag
 

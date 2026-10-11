@@ -7,7 +7,7 @@ import { filmData } from "../src/filmFacts";
 import { familiarityOf, filmIdentity } from "../src/familiarity";
 import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { answer, complete, startRound } from "../src/engine";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 import source from "../KI-Wissen-Wissensquiz/01 Rohquellen/Musik_Ergaenzung_Filmdaten.json";
 import { assertEditorialSource } from "./editorialSource";
 

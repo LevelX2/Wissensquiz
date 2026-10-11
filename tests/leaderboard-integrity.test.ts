@@ -1,16 +1,16 @@
 import { afterAll, beforeAll, expect, it } from "vitest";
 import { syncFixture } from "./helpers/sync-fixture";
-import { prepareRelease, type PreparedRelease } from "../src/syncCodec";
+import { prepareTestContent, type TestContent } from "./helpers/test-content";
 import { RankedSession } from "../src/rankedRuns";
 import { duelSchema, duelViewSchema, duelStartSchema } from "../src/duels";
 import { OnlineGameStore } from "../src/onlineGameStore";
 import { questionSchema } from "../src/model";
 import { startRound, answer, complete } from "../src/engine";
 
-let fixture: Awaited<ReturnType<typeof syncFixture>>, release: PreparedRelease;
+let fixture: Awaited<ReturnType<typeof syncFixture>>, release: TestContent;
 beforeAll(async () => {
   fixture = await syncFixture();
-  release = await prepareRelease(
+  release = await prepareTestContent(
     Array.from({ length: 10 }, (_, i) =>
       questionSchema.parse({
         id: `q${i}`,
@@ -38,7 +38,6 @@ beforeAll(async () => {
       }),
     ),
   );
-  await fixture.seed(release);
   await fixture.seedRanked(release);
   for (let cycle = 0; cycle < 3; cycle++)
     for (const q of release.questions) {
@@ -122,12 +121,7 @@ async function solo(
 }
 it("ignoriert erfundene Speicherwerte, zählt Serverläufe einmal und erhält private Karriere-XP", async () => {
   const { owner, api } = await fixture.client();
-  const store = new OnlineGameStore(
-    api,
-    owner,
-    async () => release,
-    async () => null,
-  );
+  const store = new OnlineGameStore(api, owner);
   await store.open();
   await store.update((s) => {
     s.questions = structuredClone(release.questions);
@@ -171,7 +165,7 @@ it("ignoriert erfundene Speicherwerte, zählt Serverläufe einmal und erhält pr
     s.career!.legacyBonus = 123456789;
   });
   expect((await players(owner))[0].experience).toBe(86);
-  expect(store.read().experience).toBe(123456789);
+  expect(store.read().experience).toBe(63);
   const category = first.run!.id;
   const score = (
     await fixture.db.query<{ category: string }>(

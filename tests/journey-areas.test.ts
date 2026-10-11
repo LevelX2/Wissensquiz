@@ -11,8 +11,7 @@ import {
 } from "../src/learningPath";
 import { questionSourceOf, sourceLabels } from "../src/filters";
 import { discoveryContext } from "../src/discovery";
-import { validateBackup } from "../src/storage";
-import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
+import { validateBackup } from "../src/backupValidation";
 const base = emptyState();
 addPackages(
   base,
@@ -110,7 +109,7 @@ it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und
   // Use actual familiarity snapshots for export validation.
   for (const r of s.rounds) delete r.familiaritySnapshot;
   expect(validateBackup(JSON.parse(JSON.stringify(s)))).toEqual(s);
-  expect(await decodeCloudState(await encodeCloudState(s))).toEqual(s);
+  expect(JSON.parse(JSON.stringify(s))).toEqual(s);
 }, 15000);
 it("bewahrt historisch durch Preisantworten erworbene Filmrechte einmalig", () => {
   const s = structuredClone(base);

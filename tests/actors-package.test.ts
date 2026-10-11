@@ -13,8 +13,7 @@ import {
   learningPathProgress,
   newlyUnlocked,
 } from "../src/learningPath";
-import { validateBackup } from "../src/storage";
-import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
+import { validateBackup } from "../src/backupValidation";
 import source from "../docs/Schauspieler-Fragenpaket/Schauspieler_100_Personen_800_Fragen.json";
 import links from "../src/actorKnowledgeLinks.json";
 import proof from "../docs/importbericht-schauspieler.json";
@@ -237,5 +236,5 @@ it("sichert Personenmetadaten, Quellen und alle vier Kategorien in JSON und priv
     now,
   );
   expect(validateBackup(JSON.parse(JSON.stringify(state)))).toEqual(state);
-  expect(await decodeCloudState(await encodeCloudState(state))).toEqual(state);
+  expect(JSON.parse(JSON.stringify(state))).toEqual(state);
 });

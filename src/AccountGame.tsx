@@ -56,19 +56,13 @@ export function AccountGame({
     let alive = true;
     const lifecycle = new AbortController();
     const api = new SupabaseEntryRemote(client, lifecycle.signal);
-    const current = new OnlineGameStore(
-      api,
-      owner,
-      undefined,
-      undefined,
-      (next, at) => {
-        if (alive) {
-          setStatus(next);
-          if (next === "saved") invalidateRankingCache(client, owner);
-          if (at !== undefined) setConfirmedAt(at);
-        }
-      },
-    );
+    const current = new OnlineGameStore(api, owner, (next, at) => {
+      if (alive) {
+        setStatus(next);
+        if (next === "saved") invalidateRankingCache(client, owner);
+        if (at !== undefined) setConfirmedAt(at);
+      }
+    });
     setStore(null);
     setError("");
     setStatus("loading");

@@ -1,7 +1,6 @@
 import { afterAll, beforeAll, expect, it } from "vitest";
 import { PGlite } from "@electric-sql/pglite";
 import { readFileSync } from "node:fs";
-import { encodeCloudState } from "../src/cloudCodec";
 import { emptyState } from "../src/model";
 import { importCsv } from "../src/importer";
 import { startRound, answer, complete } from "../src/engine";
@@ -250,7 +249,7 @@ it("listet alle Endlosläufe einzeln, zählt wiederholte Antworten einmal und sc
       );
     }
     await db.query("update public.quiz_saves set state=$1 where owner_id=$2", [
-      await encodeCloudState(state),
+      structuredClone(state),
       alice,
     ]);
     await as(
@@ -433,7 +432,7 @@ it("zeigt globale Karriere-XP in beiden Ranglisten, erhält Gleichstände und ig
     );
     complete(state, r.id, 1700000000002);
     await db.query("update public.quiz_saves set state=$1 where owner_id=$2", [
-      await encodeCloudState(state),
+      structuredClone(state),
       alice,
     ]);
     await db.query(
@@ -924,7 +923,7 @@ it("kompakte Online-Sicherung liefert unveränderte Highscores und Spielerstatis
         )
       ).rows;
       await db.query("select quiz_save_state($1,1,$2)", [
-        await encodeCloudState(state),
+        structuredClone(state),
         id,
       ]);
       for (let i = 0; i < categories.length; i++)

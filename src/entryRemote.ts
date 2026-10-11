@@ -4,14 +4,11 @@ import { requestWithin } from "./request";
 import { CloudConflict, CloudSaveError } from "./accounts";
 import { RankedRunError, rankedMessages } from "./rankedErrors";
 import { LearningRunError, learningMessages } from "./learningErrors";
-import { objectHashes, releaseHashes } from "./syncReferences";
-const releaseCache = new WeakMap<SyncRemote, Map<string, PreparedRelease>>();
+import { objectHashes } from "./syncReferences";
 import {
-  verifyRelease,
   verifyObject,
   rowKey,
   jsonEqual,
-  type PreparedRelease,
   type SyncDocument,
   type SyncObject,
 } from "./syncCodec";
@@ -21,7 +18,6 @@ export const metadataSchema = z.object({
   generation: z.string().uuid().nullable(),
   revision: z.number().int().nonnegative(),
   cursorFloor: z.number().int().nonnegative(),
-  paused: z.boolean().optional(),
 });
 export type SyncMetadata = z.infer<typeof metadataSchema>;
 export type SyncConfirmation = {
@@ -108,22 +104,6 @@ export async function getMetadata(api: SyncRemote, owner: string) {
     await api.call("quiz_sync_metadata", { expected_owner: owner }),
   );
 }
-export async function getRelease(
-  api: SyncRemote,
-  hash: string,
-): Promise<PreparedRelease> {
-  const cache = releaseCache.get(api) ?? new Map<string, PreparedRelease>();
-  releaseCache.set(api, cache);
-  const existing = cache.get(hash);
-  if (existing) return existing;
-  const release = await verifyRelease(
-    await api.call("quiz_sync_catalog", { catalog_hash: hash }, 30_000),
-  );
-  if (release.hash !== hash)
-    throw new Error("Der geladene Katalog passt nicht zum Verweis.");
-  cache.set(hash, release);
-  return release;
-}
 const incomingRow = z.object({
   kind: z.enum(["field", "round", "event", "learning", "record"]),
   id: z.string().min(1).max(8192),
@@ -154,7 +134,6 @@ export async function downloadDocument(
   revision: number,
   afterRevision = -1,
   previous?: SyncDocument,
-  serverOnly = false,
   scope?: DocumentScope,
 ) {
   const document: SyncDocument = {
@@ -199,21 +178,12 @@ export async function downloadDocument(
     cursor = page.nextCursor;
   }
   if (
-    serverOnly &&
-    (!jsonEqual(document.rows.get(rowKey("field", "catalog"))?.value, {
+    !jsonEqual(document.rows.get(rowKey("field", "catalog"))?.value, {
       source: "server",
       parts: [],
-    }) ||
-      releaseHashes(document).size)
+    })
   )
-    throw new Error(
-      "Dieser Entwicklungs-Spielstand gehört zum früheren Speicherformat und muss zurückgesetzt werden.",
-    );
-  const catalogs = serverOnly
-    ? []
-    : await Promise.all(
-        [...releaseHashes(document)].map((hash) => getRelease(api, hash)),
-      );
+    throw new Error("Ungültiges Online-Speicherformat.");
   const missing = [...objectHashes(document)].filter(
     (hash) => !document.objects.has(hash),
   );
@@ -281,7 +251,7 @@ export async function downloadDocument(
   for (const hash of missing)
     if (!document.objects.has(hash))
       throw new Error("Ein privater Inhalt fehlt.");
-  return { document, catalogs, positions };
+  return { document, positions };
 }
 // UTF-8 bounded pieces; preserve surrogate pairs at boundaries. The server uses
 // character offsets only for downloads and never truncates stored object data.

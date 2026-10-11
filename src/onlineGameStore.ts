@@ -11,7 +11,6 @@ import {
   stableStringify,
   SYNC_FORMAT,
   SYNC_PROTOCOL,
-  type PreparedRelease,
   type SyncDocument,
 } from "./syncCodec";
 import { compactRoundRuns, type OnlineSyncPacket } from "./roundRunTransport";
@@ -38,7 +37,6 @@ export class OnlineGameStore {
   private state?: State;
   private document?: SyncDocument;
   private metadata?: SyncMetadata;
-  private catalogs: PreparedRelease[] = [];
   private positionHeads: Record<string, number | null> = {};
   private writing = false;
   private stopped = false;
@@ -51,22 +49,12 @@ export class OnlineGameStore {
   };
   private listeners = new Set<(state: State) => void>();
   info?: ContentInfo;
-  get serverOnly() {
-    return !this.official;
-  }
   get revision() {
     return this.metadata?.revision ?? 0;
   }
   constructor(
     private api: SyncRemote,
     private owner: string,
-    private official: (() => Promise<PreparedRelease>) | undefined,
-    private legacyRemote:
-      | (() => Promise<{
-          state: State;
-          revision: number;
-        } | null>)
-      | undefined,
     private notify: (
       status: SyncStatus,
       confirmedAt?: number,
@@ -85,7 +73,6 @@ export class OnlineGameStore {
     this.state = undefined;
     this.document = undefined;
     this.pending = undefined;
-    this.catalogs = [];
   }
   read(): State {
     if (this.stopped || !this.state)
@@ -97,10 +84,8 @@ export class OnlineGameStore {
     return this.api;
   }
   rankedCatalogHash() {
-    if (this.info) return this.info.hash;
-    if (!this.catalogs.length)
-      throw new Error("Der offizielle Fragenbestand fehlt.");
-    return this.catalogs[0].hash;
+    if (!this.info) throw new Error("Der offizielle Fragenbestand fehlt.");
+    return this.info.hash;
   }
   async recoverRanked() {
     for (;;) {
@@ -151,30 +136,20 @@ export class OnlineGameStore {
     };
   }
   async open() {
-    const [official, initialMetadata, contentInfo] = await Promise.all([
-      this.official?.(),
+    const [initialMetadata, contentInfo] = await Promise.all([
       getMetadata(this.api, this.owner),
-      this.serverOnly
-        ? this.api.call("quiz_game_view", { request_text: '{"action":"info"}' })
-        : undefined,
+      this.api.call("quiz_game_view", { request_text: '{"action":"info"}' }),
     ]);
     if (this.stopped) return;
-    this.catalogs = official ? [official] : [];
-    if (this.serverOnly) this.info = contentInfoSchema.parse(contentInfo);
+    this.info = contentInfoSchema.parse(contentInfo);
     let metadata = initialMetadata;
-    if (metadata.paused)
-      throw new Error("Der Online-Speicherdienst ist zurzeit nicht verfügbar.");
-    if (!metadata.generation) {
-      // Reuse the existing server activation flow, without any device copies.
-      const previous = await this.legacyRemote?.();
-      const state = validateBackup(previous?.state ?? emptyState());
+    if (!metadata.generation)
       metadata = await this.activate(
-        state,
+        validateBackup(emptyState()),
         null,
-        previous?.revision ?? metadata.revision,
+        metadata.revision,
         crypto.randomUUID(),
       );
-    }
     const loaded = await downloadDocument(
       this.api,
       this.owner,
@@ -182,51 +157,22 @@ export class OnlineGameStore {
       metadata.revision,
       -1,
       undefined,
-      this.serverOnly,
-      this.serverOnly ? { kind: "boot" } : undefined,
+      { kind: "boot" },
     );
     this.positionHeads = loaded.positions ?? {};
     if (this.stopped) return;
-    this.catalogs = [
-      ...new Map(
-        [...this.catalogs, ...loaded.catalogs].map((r) => [r.hash, r]),
-      ).values(),
-    ];
     this.metadata = metadata;
     this.document = loaded.document;
-    this.state = this.copy(
-      reconstructState(loaded.document, this.catalogs, this.serverOnly),
-    );
+    this.state = this.copy(reconstructState(loaded.document));
     await this.recoverRanked();
     this.notify("saved", Date.now());
   }
   private async compile(
     state: State,
     previous?: SyncDocument,
-    catalogUnchanged = false,
-    snapshotsUnchanged = catalogUnchanged,
+    snapshotsUnchanged = false,
   ) {
-    if (!this.serverOnly)
-      return compileState(
-        state,
-        this.catalogs,
-        previous,
-        catalogUnchanged,
-        snapshotsUnchanged,
-      );
-    const doc = await compileState(
-      { ...state, questions: [] },
-      [],
-      previous,
-      false,
-      snapshotsUnchanged,
-    );
-    doc.rows.set("field:catalog", {
-      kind: "field",
-      id: "catalog",
-      position: 0,
-      value: { source: "server", parts: [] },
-    });
+    const doc = await compileState(state, previous, snapshotsUnchanged);
     if (previous) {
       // Partial UI history must never overwrite full server projections.
       const derived = (row: { kind: string; id: string }) =>
@@ -255,23 +201,19 @@ export class OnlineGameStore {
       throw new Error("Bestätige zuerst die ausstehende Speicherung.");
     const metadata = await getMetadata(this.api, this.owner);
     if (!metadata.generation) throw new Error("Der Online-Spielstand fehlt.");
-    const same = metadata.generation === this.metadata?.generation;
     const loaded = await downloadDocument(
       this.api,
       this.owner,
       metadata.generation,
       metadata.revision,
-      this.serverOnly ? -1 : same ? this.metadata!.revision : -1,
-      this.serverOnly ? undefined : same ? this.document : undefined,
-      this.serverOnly,
-      this.serverOnly ? { kind: "boot" } : undefined,
+      -1,
+      undefined,
+      { kind: "boot" },
     );
     this.positionHeads = loaded.positions ?? this.positionHeads;
     this.document = loaded.document;
     this.metadata = metadata;
-    this.state = this.copy(
-      reconstructState(loaded.document, this.catalogs, this.serverOnly),
-    );
+    this.state = this.copy(reconstructState(loaded.document));
     const state = this.read();
     this.listeners.forEach((fn) => fn(state));
     this.notify("saved", Date.now());
@@ -326,24 +268,17 @@ export class OnlineGameStore {
       0,
       -1,
       undefined,
-      this.serverOnly,
     );
     if (
-      stableStringify(
-        reconstructState(staged.document, staged.catalogs, this.serverOnly),
-      ) !== stableStringify(state)
+      stableStringify(reconstructState(staged.document)) !==
+      stableStringify(state)
     )
       throw new Error("Der vorbereitete Online-Spielstand ist unvollständig.");
-    const metadata = await this.api.call<SyncMetadata>(
-      this.serverOnly ? "quiz_game_activate" : "quiz_sync_activate",
-      {
-        expected_owner: this.owner,
-        target_generation: generation,
-        ...(this.serverOnly
-          ? { timezone: Intl.DateTimeFormat().resolvedOptions().timeZone }
-          : {}),
-      },
-    );
+    const metadata = await this.api.call<SyncMetadata>("quiz_game_activate", {
+      expected_owner: this.owner,
+      target_generation: generation,
+      timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+    });
     if (
       metadata.generation !== generation ||
       metadata.revision !== revision + 1
@@ -369,7 +304,7 @@ export class OnlineGameStore {
       if (!options.reuseCatalog)
         next.questions = structuredClone(next.questions);
       mutator(next);
-      if (this.serverOnly && !options.replace) {
+      if (!options.replace) {
         const missingRounds = next.rounds
           .filter((r) => !this.document!.rows.has("round:" + r.id))
           .map((r) => r.id);
@@ -392,7 +327,6 @@ export class OnlineGameStore {
               this.metadata.revision,
               -1,
               doc,
-              true,
               {
                 kind: "details",
                 rounds: missingRounds.slice(at * 20, at * 20 + 20),
@@ -403,25 +337,22 @@ export class OnlineGameStore {
             this.positionHeads = loaded.positions ?? this.positionHeads;
           }
           this.document = doc;
-          this.state = this.copy(reconstructState(doc, [], true));
+          this.state = this.copy(reconstructState(doc));
           next = this.read();
           if (!options.reuseCatalog)
             next.questions = structuredClone(next.questions);
           mutator(next);
         }
       }
-      if (this.serverOnly) {
-        delete next.bundledQuestionIds;
-        next.questions = [
-          ...new Map(
-            next.rounds.flatMap((r) => r.questions).map((q) => [q.id, q]),
-          ).values(),
-        ];
-      }
+      delete next.bundledQuestionIds;
+      next.questions = [
+        ...new Map(
+          next.rounds.flatMap((r) => r.questions).map((q) => [q.id, q]),
+        ).values(),
+      ];
       const document = await this.compile(
         next,
         this.document,
-        next.questions === this.state!.questions,
         options.progressOnly === true,
       );
       const delta = difference(this.document, document);
@@ -510,12 +441,10 @@ export class OnlineGameStore {
             object,
           );
         const receipt = await this.api.call<SyncConfirmation>(
-          this.serverOnly ? "quiz_game_apply" : "quiz_sync_apply",
+          "quiz_game_apply",
           {
             packet_text: pending.text,
-            ...(this.serverOnly
-              ? { timezone: Intl.DateTimeFormat().resolvedOptions().timeZone }
-              : {}),
+            timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
           },
         );
         if (
@@ -534,11 +463,10 @@ export class OnlineGameStore {
       this.metadata = { ...this.metadata!, revision };
       this.state = this.copy(pending.state);
       if (
-        this.serverOnly &&
-        (pending.replacement ||
-          pending.packet!.changes.some(
-            (c) => c.op === "put" && c.row.kind !== "field",
-          ))
+        pending.replacement ||
+        pending.packet!.changes.some(
+          (c) => c.op === "put" && c.row.kind !== "field",
+        )
       ) {
         const loaded = await downloadDocument(
           this.api,
@@ -547,12 +475,11 @@ export class OnlineGameStore {
           revision,
           -1,
           undefined,
-          true,
           { kind: "boot" },
         );
         this.positionHeads = loaded.positions ?? this.positionHeads;
         this.document = loaded.document;
-        this.state = this.copy(reconstructState(loaded.document, [], true));
+        this.state = this.copy(reconstructState(loaded.document));
       }
       this.pending = undefined;
       this.notify("saved", confirmedAt);
@@ -577,9 +504,8 @@ export class OnlineGameStore {
       metadata.revision,
       -1,
       undefined,
-      this.serverOnly,
     );
-    return reconstructState(loaded.document, loaded.catalogs, this.serverOnly);
+    return reconstructState(loaded.document);
   }
   async retry() {
     if (this.writing) return this.read();

@@ -2,7 +2,7 @@ import { afterAll, beforeAll, expect, it } from "vitest";
 import { readFileSync } from "node:fs";
 import { syncFixture } from "./helpers/sync-fixture";
 import { importCsv } from "../src/importer";
-import { prepareRelease, type PreparedRelease } from "../src/syncCodec";
+import { prepareTestContent, type TestContent } from "./helpers/test-content";
 import {
   RankedSession,
   rankedHistory,
@@ -15,14 +15,13 @@ import { emptyState } from "../src/model";
 import { validateBackup } from "../src/backupValidation";
 import { startRound, answer, complete } from "../src/engine";
 
-let fixture: Awaited<ReturnType<typeof syncFixture>>, release: PreparedRelease;
+let fixture: Awaited<ReturnType<typeof syncFixture>>, release: TestContent;
 beforeAll(async () => {
   fixture = await syncFixture();
   // Real official question content, enough distinct targets in every level.
-  release = await prepareRelease(
+  release = await prepareTestContent(
     importCsv(readFileSync("public/fragen.csv", "utf8")).questions,
   );
-  await fixture.seed(release);
   await fixture.seedRanked(release);
 }, 30000);
 afterAll(() => fixture?.db.close());
@@ -71,12 +70,7 @@ it("erhält den festen Zehnermix und rekonstruiert bestätigte Ergebnisse nach e
   const { api, owner } = await fixture.client();
   const base = Date.now();
   api.clockAt(base);
-  const store = new OnlineGameStore(
-    api,
-    owner,
-    async () => release,
-    async () => null,
-  );
+  const store = new OnlineGameStore(api, owner);
   await store.open();
   const session = new RankedSession(api, release.hash);
   await session.start({
@@ -126,12 +120,7 @@ it("erhält den festen Zehnermix und rekonstruiert bestätigte Ergebnisse nach e
   expect(validateBackup(imported).rounds[0].archive!.questions).toHaveLength(
     10,
   );
-  const reopened = new OnlineGameStore(
-    api,
-    owner,
-    async () => release,
-    async () => null,
-  );
+  const reopened = new OnlineGameStore(api, owner);
   await reopened.open();
   expect(reopened.read().rounds[0].status).toBe("completed");
   expect(reopened.read().events).toHaveLength(10);
@@ -159,18 +148,16 @@ it("lässt normale Speicherpakete, Generationstausch und alte Speicher-RPCs kein
       i,
     );
   complete(fake, r.id);
-  await api.call("quiz_save_state", {
-    payload: fake,
-    expected_revision: 0,
-    expected_owner: owner,
-  });
-  const store = new OnlineGameStore(
-    api,
-    owner,
-    async () => release,
-    async () => ({ state: fake, revision: 1 }),
-  );
+  await expect(
+    api.call("quiz_save_state", {
+      payload: fake,
+      expected_revision: 0,
+      expected_owner: owner,
+    }),
+  ).rejects.toThrow(/does not exist/);
+  const store = new OnlineGameStore(api, owner);
   await store.open();
+  await store.update((s) => Object.assign(s, structuredClone(fake)));
   await store.update((s) => {
     s.rounds[0].finishedAt = Date.now();
   });
@@ -428,10 +415,9 @@ it("verhindert aktive Verlaufsabfragen und wertet zwei konkurrierende Antworten 
 });
 it("lässt neue Läufe nur mit dem vom Betreiber aktivierten Katalog starten und bindet laufende Runden an ihren Bestand", async () => {
   const { api, view, sessionId } = await start();
-  const nextRelease = await prepareRelease(
+  const nextRelease = await prepareTestContent(
     release.questions.map((q) => ({ ...q, question: q.question + " " })),
   );
-  await fixture.seed(nextRelease);
   await fixture.seedRanked(nextRelease);
   try {
     const fresh = await fixture.client();
@@ -472,8 +458,7 @@ it("schreibt die private Endlosliste erst beim neuen Zyklus und archiviert einen
       })
       .slice(0, level === "mittel" ? 4 : 3),
   );
-  const small = await prepareRelease(chosen);
-  await fixture.seed(small);
+  const small = await prepareTestContent(chosen);
   await fixture.seedRanked(small);
   try {
     const { api } = await fixture.client();

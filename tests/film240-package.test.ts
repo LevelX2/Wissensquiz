@@ -1,4 +1,3 @@
-import "fake-indexeddb/auto";
 import { readFileSync } from "node:fs";
 import { expect, it } from "vitest";
 import { importCsv } from "../src/importer";
@@ -9,7 +8,7 @@ import { familiarityOf, filmIdentity } from "../src/familiarity";
 import { filmData } from "../src/filmFacts";
 import { questionSourceOf } from "../src/filters";
 import { learningPathProgress, pathQuestions } from "../src/learningPath";
-import { read, update, validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 import source from "../docs/Filmfragen-Ergaenzung-2026-10-06/Filmdaten.json";
 import { assertEditorialSource, originalQuestionId } from "./editorialSource";
 import integration from "./fixtures/appliedEditorial.json";
@@ -75,28 +74,30 @@ it("importiert das veröffentlichte Paket vollständig mit 20 Filmen je Genre un
   expect(groups.size).toBe(240);
   for (const qs of groups.values()) {
     expect(qs).toHaveLength(8);
-    expect(qs.map((q) => originalQuestionId(q.id).split("-").at(-1)).sort()).toEqual([
-      "D",
-      "L1",
-      "L2",
-      "M1",
-      "M2",
-      "S1",
-      "S2",
-      "Y",
-    ]);
+    expect(
+      qs.map((q) => originalQuestionId(q.id).split("-").at(-1)).sort(),
+    ).toEqual(["D", "L1", "L2", "M1", "M2", "S1", "S2", "Y"]);
     for (const [code, difficulty] of [
       ["L", "leicht"],
       ["M", "mittel"],
       ["S", "schwer"],
     ]) {
       expect(
-        qs.filter((q) => originalQuestionId(q.id).split("-").at(-1)?.startsWith(code)),
+        qs.filter((q) =>
+          originalQuestionId(q.id).split("-").at(-1)?.startsWith(code),
+        ),
       ).toHaveLength(2);
       expect(
         qs
-          .filter((q) => originalQuestionId(q.id).split("-").at(-1)?.startsWith(code))
-          .every((q) => q.difficulty === (integration.changes.find(c=>c.after.question_id===q.id)?.after.difficulty ?? difficulty)),
+          .filter((q) =>
+            originalQuestionId(q.id).split("-").at(-1)?.startsWith(code),
+          )
+          .every(
+            (q) =>
+              q.difficulty ===
+              (integration.changes.find((c) => c.after.question_id === q.id)
+                ?.after.difficulty ?? difficulty),
+          ),
       ).toBe(true);
     }
   }
@@ -136,9 +137,9 @@ it("ergänzt den echten Gesamtkatalog ohne weitere Jahres-/Regiefragen und über
     ).size,
   ).toBe(785);
   expect(state.questions.slice(0, oldQuestions.length)).toEqual(oldQuestions);
-  expect(state.questions.filter((q) => originalQuestionId(q.id).startsWith(prefix))).toHaveLength(
-    1920,
-  );
+  expect(
+    state.questions.filter((q) => originalQuestionId(q.id).startsWith(prefix)),
+  ).toHaveLength(1920);
   expect(state.bundledQuestionIds).toHaveLength(8209);
   expect(
     state.imports.filter((r) => r.filename === latest.filename),
@@ -150,7 +151,7 @@ it("ergänzt den echten Gesamtkatalog ohne weitere Jahres-/Regiefragen und über
   expect(pathQuestions(fresh).some((q) => q.id.startsWith(prefix))).toBe(true);
 }, 20000);
 
-it("erhält Lerntermine, aktive Runden und erworbene Rechte bei gleichzeitigem Nachladen in zwei Tabs", async () => {
+it("erhält Lerntermine, aktive Runden und erworbene Rechte beim wiederholten Ergänzen des Fragenbestands", async () => {
   const state = structuredClone(before);
   state.settings.sound = false;
   state.favorites = ["Alien"];
@@ -190,13 +191,9 @@ it("erhält Lerntermine, aktive Runden und erworbene Rechte bei gleichzeitigem N
   });
   const snapshot = structuredClone(savedProgress(state));
   const oldRights = structuredClone(state.journey?.earned);
-  const key = `film240-test-${crypto.randomUUID()}`;
-  await update((s) => Object.assign(s, state), undefined, key);
-  await Promise.all([
-    update((s) => addPackages(s, [incoming]), undefined, key),
-    update((s) => addPackages(s, [incoming]), undefined, key),
-  ]);
-  const saved = (await read(key))!;
+  const saved = structuredClone(state);
+  addPackages(saved, [incoming]);
+  addPackages(saved, [incoming]);
   expect(savedProgress(saved)).toEqual(snapshot);
   expect(saved.journey?.earned).toEqual(oldRights);
   expect(learningPathProgress(saved)("Western").hardUnlocked).toBe(true);

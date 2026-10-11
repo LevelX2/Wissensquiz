@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 11.10.2026 – Alte Speicherwege vollständig entfernt
+
+413 Tests in 68 Dateien, TypeScript, Versionsbuild 68, Fragenorganisation und 41 unterschiedliche gezielte Browserfälle erfolgreich einschließlich aller Nachprüfungen. Drei Browser: Kontoöffnung, kleine Pakete, Ausfall/Wiederholung, zweites Gerät, Wiederaufnahme und vollständige Lernrunde; zusätzlich Proberunde/Kontoübernahme, Zeitlauf und Konto-/Meldungsaktionen. Erste Testläufe enthielten veraltete Abfrageerwartungen, Buildversion 0 und konkurrierende Prüfartefakte beziehungsweise einen falschen Zweitgeräte-Testport; gezielte Nachprüfungen am Versionsbuild bestehen. Keine vollständige neue Browser-Suite, physische Geräteabnahme oder Mehrspielerlastmessung.
+
+Produktive Löschmigration erfolgreich; zehn alte Vollkatalogarchive und ihre Tabellen/RPCs entfernt. Fortschrittseinträge und Revisionen durch atomaren Fingerabdruck unverändert bestätigt. Tatsächlicher Kontoabruf im aktuellen Client ausschließlich lesend: Revision 20, eine Runde, zehn Antworten, null Katalogabrufe. Native synthetische Zehnerrunde bestanden und vollständig zurückgerollt. Keine verbleibenden Funktionsverweise auf alte Tabellen oder direkten privaten Schreibrechte für Clientrollen; aktuelle 12.787 Fragen verfügbar. Native Advisors durchgeführt, bestehende Hinweise unverändert. [Einzelheiten](Alte-Speicherwege-entfernt-2026-10-11.md).
+
 ## 11.10.2026 – Fragetext in GitHub-Meldungen ergänzt
 
 Bei Fragenbezug den tatsächlich sichtbaren Fragetext vollständig in den gemeinsamen Versandvertrag aufgenommen und im Ticket unter „Gemeldete Frage“ ausgegeben. Fragen-ID und Inhaltsversion bleiben erhalten; allgemeine Meldungen ohne Fragenabschnitt. Öffentlichen Formularhinweis ergänzt, unveränderliche Wiederholung mit demselben Text und Inhalts-Hash geprüft. HTML und Erwähnungen auch im Fragetext entschärft, private Zusatzfelder und fehlende/leere/zu lange Fragetexte abgewiesen. Die begrenzte HTTP-Nutzlast erlaubt vollständige mehrbyteige Texte bis zur bestehenden maximalen Fragenlänge.

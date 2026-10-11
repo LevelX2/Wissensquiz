@@ -23,7 +23,7 @@ import {
   matchesTopic,
 } from "../src/categories";
 import { answer, startRound } from "../src/engine";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 import { genreOf } from "../src/filters";
 
 const contents = packages.slice(0, 14).map((p) => ({
@@ -321,8 +321,13 @@ it("prüft alle redigierten Jahres- und Regietexte gegen den Quellen- und Identi
       (c: { id: string }) => c.id === f.id,
     );
     expect(entry, f.id).toBeDefined();
-    const reference = integrated.referenceChanges.find(c=>c.id===f.id);
-    expect(reference ? {...entry.after,referenceId:reference.after} : entry.after, f.id).toEqual(f);
+    const reference = integrated.referenceChanges.find((c) => c.id === f.id);
+    expect(
+      reference
+        ? { ...entry.after, referenceId: reference.after }
+        : entry.after,
+      f.id,
+    ).toEqual(f);
     const stable = (value: Record<string, unknown>) =>
       Object.fromEntries(
         Object.entries(value).filter(
@@ -334,7 +339,9 @@ it("prüft alle redigierten Jahres- und Regietexte gegen den Quellen- und Identi
       );
     expect(stable(entry.after), f.id).toEqual(stable(entry.before));
     const year = extra.find((q) => q.id === f.id + "-YEAR")!;
-    const reviewedYear = (reviewedFacts as Record<string, Partial<Question>>)[year.id];
+    const reviewedYear = (reviewedFacts as Record<string, Partial<Question>>)[
+      year.id
+    ];
     expect(year.context, f.id).toBe(reviewedYear?.context ?? f.yearContext);
     expect(year.answers.find((a) => a.id === year.correctId)?.text, f.id).toBe(
       String(f.year),
@@ -350,7 +357,9 @@ it("prüft alle redigierten Jahres- und Regietexte gegen den Quellen- und Identi
       continue;
     }
     const director = extra.find((q) => q.id === f.id + "-DIRECTOR")!;
-    const reviewedDirector = (reviewedFacts as Record<string, Partial<Question>>)[director.id];
+    const reviewedDirector = (
+      reviewedFacts as Record<string, Partial<Question>>
+    )[director.id];
     if (reviewedDirector) {
       expect(director).toMatchObject(reviewedDirector);
       continue;

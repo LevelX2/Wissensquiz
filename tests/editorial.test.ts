@@ -5,7 +5,7 @@ import { fingerprint, importCsv } from "../src/importer";
 import { filmDetails } from "../src/filmDetails";
 import audit from "../docs/Darstellerpruefung.json";
 import { emptyState } from "../src/model";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 import { catalogBeforeReview } from "./editorialSource";
 
 const reviewedPackages = packages.filter((p) =>
@@ -17,7 +17,13 @@ const reviewedPackages = packages.filter((p) =>
   ].includes(p.filename),
 );
 const questions = reviewedPackages.flatMap(
-  (p) => importCsv(catalogBeforeReview(`public${p.path}`, readFileSync(`public${p.path}`, "utf8"))).questions,
+  (p) =>
+    importCsv(
+      catalogBeforeReview(
+        `public${p.path}`,
+        readFileSync(`public${p.path}`, "utf8"),
+      ),
+    ).questions,
 );
 const reviewed = audit.questions as Record<
   string,

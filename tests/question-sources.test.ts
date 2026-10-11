@@ -16,9 +16,8 @@ import {
 } from "../src/filters";
 import { selectionTopic, matchesTopic, isClassic } from "../src/categories";
 import { selectQuestions, startRound, recordKey } from "../src/engine";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 import { readRoundSetup } from "../src/roundSetup";
-import { decodeCloudState, encodeCloudState } from "../src/cloudCodec";
 import { genreSelection } from "../src/leaderboard";
 const catalog = emptyState();
 addPackages(
@@ -167,7 +166,7 @@ it("sichert reine Zusatzbereiche ohne Filmgenres und ignoriert deren Filmgruppen
     expect(round.filters?.familiarities).toBeUndefined();
     for (const restored of [
       validateBackup(JSON.parse(JSON.stringify(state))),
-      validateBackup(await decodeCloudState(await encodeCloudState(state))),
+      validateBackup(JSON.parse(JSON.stringify(state))),
     ]) {
       expect(restored.settings).toEqual(state.settings);
       expect(restored.rounds).toEqual(state.rounds);

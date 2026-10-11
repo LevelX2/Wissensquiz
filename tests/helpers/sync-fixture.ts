@@ -6,7 +6,7 @@ import {
   DownloadChanged,
   type SyncRemote,
 } from "../../src/entryRemote";
-import type { PreparedRelease } from "../../src/syncCodec";
+import type { TestContent } from "./test-content";
 import curriculum from "../../src/journeyCurriculum.json" with { type: "json" };
 import familiarity from "../../src/filmFamiliarity.json" with { type: "json" };
 import { preparePresentation } from "../../src/questionPresentation";
@@ -76,31 +76,7 @@ export async function syncFixture(stopBefore?: string) {
     writer = task;
     return task;
   };
-  async function seed(release: PreparedRelease) {
-    await db.query(
-      "insert into public.quiz_catalog_releases(hash,protocol,payload,digests,score_fields,question_count) values($1,1,decode($2,'base64'),$3::jsonb,$4::jsonb,$5) on conflict do nothing",
-      [
-        release.hash,
-        release.data,
-        JSON.stringify(release.digests),
-        JSON.stringify(
-          release.questions.map((q) => ({
-            id: q.id,
-            version: q.version,
-            correctId: q.correctId,
-            domain: q.domain,
-            difficulty: q.difficulty,
-            metadata:
-              q.metadata.subdomain === undefined
-                ? {}
-                : { subdomain: q.metadata.subdomain },
-          })),
-        ),
-        release.questions.length,
-      ],
-    );
-  }
-  async function seedRanked(release: PreparedRelease) {
+  async function seedRanked(release: TestContent) {
     await db.query(
       `insert into quiz_ranked_internal.catalog(release_hash,id,knowledge_id,difficulty,genre,source,question)
       select $1,q->>'id',q->>'knowledgeId',q->>'difficulty',coalesce(nullif(q->'metadata'->>'subdomain',''),q->>'domain'),
@@ -229,5 +205,5 @@ export async function syncFixture(stopBefore?: string) {
       await db.exec("reset role");
       return fn();
     });
-  return { db, seed, seedRanked, client, admin };
+  return { db, seedRanked, client, admin };
 }

@@ -1,7 +1,7 @@
 import { expect, it } from "vitest";
 import { emptyState } from "../src/model";
 import { readRoundSetup } from "../src/roundSetup";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 import { difficulties } from "../src/filters";
 
 it("liest alte Sicherungen ohne Rundenauswahl und erhält historische Favoriten", () => {

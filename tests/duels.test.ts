@@ -13,7 +13,7 @@ import {
   duelScreen,
   duelReviewRound,
 } from "../src/duels";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 import { archiveClosedRounds } from "../src/roundArchive";
 let db: PGlite;
 const alice = "11111111-1111-4111-8111-111111111111",

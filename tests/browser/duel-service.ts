@@ -68,7 +68,6 @@ export async function server() {
         body = route.request().postDataJSON() ?? {};
       if (path.endsWith("/token")) return route.fulfill({ json: session(id) });
       if (path.endsWith("/user")) return route.fulfill({ json: user(id) });
-      if (path.endsWith("/quiz_saves")) return route.fulfill({ json: [] });
       const name = path.split("/").at(-1)!;
       if (/^quiz_(sync|game|ranked|trial|duel|own_record)_/.test(name)) {
         try {

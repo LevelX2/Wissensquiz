@@ -15,7 +15,9 @@ try {
   const { emptyState } = await server.ssrLoadModule("/src/model.ts");
   const { encodeQuestionCatalog, decodeQuestionCatalog } =
     await server.ssrLoadModule("/src/catalogCodec.ts");
-  const { validateBackup } = await server.ssrLoadModule("/src/storage.ts");
+  const { validateBackup } = await server.ssrLoadModule(
+    "/src/backupValidation.ts",
+  );
   const { assertEditorialSource } = await server.ssrLoadModule(
     "/tests/editorialSource.ts",
   );
@@ -53,9 +55,11 @@ try {
       }
       const [app, original] = await Promise.all([
         readFile(join("public", pkg.path.slice(1))),
-        readFile(pkg.filename === "Filmfragen_240_Filme_1920_Fragen.csv"
-          ? join("docs/Filmfragen-Ergaenzung-2026-10-06", pkg.filename)
-          : join("KI-Wissen-Wissensquiz/01 Rohquellen", pkg.filename)),
+        readFile(
+          pkg.filename === "Filmfragen_240_Filme_1920_Fragen.csv"
+            ? join("docs/Filmfragen-Ergaenzung-2026-10-06", pkg.filename)
+            : join("KI-Wissen-Wissensquiz/01 Rohquellen", pkg.filename),
+        ),
       ]);
       const checked = assertEditorialSource(
         app.toString("utf8"),

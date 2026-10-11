@@ -73,11 +73,6 @@ const session = (id = alice) => ({
   user: user(id),
 });
 
-type Server = Map<
-  string,
-  { state: unknown; revision: number; updated_at: string }
->;
-
 const guestDays = () =>
   Array.from({ length: 7 }, (_, i) => ({
     activity_day: new Date(Date.UTC(2026, 9, 3 - i)).toISOString().slice(0, 10),
@@ -260,7 +255,7 @@ test("GitHub-Fragenmeldung behält Kontext und Meldungs-ID nach unklarem Versand
   expect(reports).toHaveLength(2);
 });
 
-async function mockAccounts(page: Page, server: Server = new Map()) {
+async function mockAccounts(page: Page) {
   const requests: { path: string; body: Record<string, unknown> }[] = [];
   let current = alice;
   await page.route("**/account-config.json", (r) =>
@@ -298,27 +293,6 @@ async function mockAccounts(page: Page, server: Server = new Map()) {
     )
       return route.fulfill({ json: {} });
     if (path.endsWith("/quiz_sharing")) return route.fulfill({ json: null });
-    if (path.endsWith("/quiz_saves"))
-      return route.fulfill({
-        json: server.has(current) ? [server.get(current)] : [],
-      });
-    if (path.endsWith("/quiz_save_state")) {
-      if (
-        body.expected_owner !== current ||
-        body.expected_revision !== (server.get(current)?.revision ?? 0)
-      )
-        return route.fulfill({
-          status: 409,
-          json: { message: "revision_conflict" },
-        });
-      const revision = (server.get(current)?.revision ?? 0) + 1;
-      server.set(current, {
-        state: body.payload,
-        revision,
-        updated_at: new Date().toISOString(),
-      });
-      return route.fulfill({ json: revision });
-    }
     return route.fulfill({
       status: 400,
       json: { message: "Unexpected mocked endpoint" },

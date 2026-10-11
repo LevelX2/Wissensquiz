@@ -1,4 +1,3 @@
-import "fake-indexeddb/auto";
 import { readFileSync } from "node:fs";
 import { expect, it } from "vitest";
 import { addPackages, packages } from "../src/packages";
@@ -9,7 +8,7 @@ import { actorPresentation } from "../src/actorEditorial";
 import { familiarityOf, filmIdentity } from "../src/familiarity";
 import { questionSourceOf } from "../src/filters";
 import { isCategory } from "../src/categories";
-import { read, update, validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 import films from "../docs/Erweiterung-2026-10-07/Filmdaten.json";
 import persons from "../docs/Erweiterung-2026-10-07/Personenfragen_20261007.json";
 import awards from "../docs/Erweiterung-2026-10-07/Preisefragen_20261007.json";
@@ -31,7 +30,9 @@ addPackages(
 );
 const full = structuredClone(before);
 addPackages(full, incoming);
-const added = full.questions.filter((q) => originalQuestionId(q.id).startsWith("E20261007-"));
+const added = full.questions.filter((q) =>
+  originalQuestionId(q.id).startsWith("E20261007-"),
+);
 const get = (id: string) => full.questions.find((q) => q.id === id)!;
 
 it("ergänzt genau 320 Einträge und 2.480 Fragen in allen 16 Kategorien ohne Importkonflikte", () => {
@@ -83,7 +84,9 @@ it("ergänzt genau 320 Einträge und 2.480 Fragen in allen 16 Kategorien ohne Im
       previousFilmKeys.has(`${f.film_title_original}|${f.film_year}`),
     ).toBe(false);
     const group = added.filter((q) =>
-      originalQuestionId(q.id).startsWith(`E20261007-F-${String(f.rank).padStart(3, "0")}-`),
+      originalQuestionId(q.id).startsWith(
+        `E20261007-F-${String(f.rank).padStart(3, "0")}-`,
+      ),
     );
     expect(group).toHaveLength(8);
     expect(new Set(group.map((q) => q.knowledgeId)).size).toBe(8);
@@ -172,7 +175,7 @@ it("teilt gleiche Wissensziele über Paketgrenzen und erzeugt beim Nachladen kei
   expect(validateBackup(structuredClone(full)).questions).toHaveLength(10889);
 }, 30000);
 
-it("erhält beantwortete und aktive Runden, Lerntermine, Rekorde und erworbene Rechte bei zwei gleichzeitigen Nachladevorgängen", async () => {
+it("erhält beantwortete und aktive Runden, Lerntermine, Rekorde und erworbene Rechte bei zwei wiederholten Nachladevorgängen", async () => {
   const state = structuredClone(before),
     at = Date.parse("2026-10-07T12:00:00+02:00");
   const played = startRound(
@@ -200,13 +203,9 @@ it("erhält beantwortete und aktive Runden, Lerntermine, Rekorde und erworbene R
     rights: s.journey?.earned,
   });
   const saved = structuredClone(snapshot(state));
-  const key = `expansion-20261007-${crypto.randomUUID()}`;
-  await update((s) => Object.assign(s, state), undefined, key);
-  await Promise.all([
-    update((s) => addPackages(s, incoming), undefined, key),
-    update((s) => addPackages(s, incoming), undefined, key),
-  ]);
-  const result = (await read(key))!;
+  const result = structuredClone(state);
+  addPackages(result, incoming);
+  addPackages(result, incoming);
   expect(snapshot(result)).toEqual(saved);
   expect(result.questions.slice(0, before.questions.length)).toEqual(
     before.questions,

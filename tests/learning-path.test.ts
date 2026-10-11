@@ -9,7 +9,7 @@ import {
   pathQuestions,
 } from "../src/learningPath";
 import { genreOf } from "../src/filters";
-import { validateBackup } from "../src/storage";
+import { validateBackup } from "../src/backupValidation";
 const questions = ["horror", "action"].flatMap(
   (g) => importCsv(readFileSync(`public/${g}-fragen.csv`, "utf8")).questions,
 );

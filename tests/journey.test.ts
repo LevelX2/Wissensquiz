@@ -19,8 +19,7 @@ import {
 } from "../src/learningPath";
 import { familiarityOf, selectionRule } from "../src/familiarity";
 import films from "../src/filmFamiliarity.json";
-import { validateBackup } from "../src/storage";
-import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
+import { validateBackup } from "../src/backupValidation";
 const questions = importCsv(
   readFileSync("public/horror-fragen.csv", "utf8"),
 ).questions;
@@ -90,9 +89,7 @@ it("startet bei Film-Ikonen, öffnet unabhängig Filmgruppen und bewahrt verdien
   expect(learningPathProgress(s)("Horror").familiarity).toBeGreaterThanOrEqual(
     2,
   );
-  const restored = validateBackup(
-    await decodeCloudState(await encodeCloudState(old)),
-  );
+  const restored = validateBackup(JSON.parse(JSON.stringify(old)));
   expect(restored.journey).toEqual(old.journey);
 });
 it("Freies Spiel und Rekord ignorieren Lernhistorie und ziehen jedes Wissensziel höchstens einmal", () => {

@@ -11,11 +11,7 @@ export type SyncObject = {
   encoding: ObjectEncoding;
   text: string;
 };
-export type QuestionRef =
-  { release: string; index: number } | { object: string };
-export type CatalogPart =
-  { release: string; start: number; count: number } | { objects: string[] };
-export type CatalogRef = { parts: CatalogPart[] } | { object: string };
+export type QuestionRef = { object: string };
 export type RowKind = "field" | "round" | "event" | "learning" | "record";
 export type SyncRow = {
   kind: RowKind;
@@ -37,16 +33,6 @@ export type SyncPacket = SyncDelta & {
   generation: string;
   expectedRevision: number;
   owner: string;
-};
-export type CatalogRelease = {
-  hash: string;
-  encoding: "gzip-field-refs-v1";
-  data: string;
-  digests: string[];
-};
-export type PreparedRelease = CatalogRelease & {
-  questions: Question[];
-  byContent: Map<string, number>;
 };
 const MAX_OBJECT_BYTES = 64 * 1024 * 1024;
 export const rowKey = (kind: RowKind, id: string) => `${kind}:${id}`;
@@ -108,93 +94,6 @@ export async function sha256(text: string) {
 }
 export const objectProof = (encoding: ObjectEncoding, text: string) =>
   JSON.stringify(["quiz-object-v1", encoding, text]);
-export const catalogProof = (text: string) =>
-  JSON.stringify(["quiz-catalog-v1", "json-field-refs-v1", text]);
-async function compress(text: string) {
-  const bytes = new Uint8Array(
-    await new Response(
-      new Blob([text]).stream().pipeThrough(new CompressionStream("gzip")),
-    ).arrayBuffer(),
-  );
-  let binary = "";
-  for (let at = 0; at < bytes.length; at += 8192)
-    binary += String.fromCharCode(...bytes.subarray(at, at + 8192));
-  return btoa(binary);
-}
-async function decompress(data: string) {
-  const reader = new Blob([Uint8Array.from(atob(data), (c) => c.charCodeAt(0))])
-    .stream()
-    .pipeThrough(new DecompressionStream("gzip"))
-    .getReader();
-  const chunks: Uint8Array[] = [];
-  let length = 0;
-  try {
-    while (true) {
-      const chunk = await reader.read();
-      if (chunk.done) break;
-      length += chunk.value.length;
-      if (length > MAX_OBJECT_BYTES)
-        throw new Error("Der Katalog ist zu groß.");
-      chunks.push(chunk.value);
-    }
-  } finally {
-    await reader.cancel();
-    reader.releaseLock();
-  }
-  const bytes = new Uint8Array(length);
-  let at = 0;
-  for (const chunk of chunks) {
-    bytes.set(chunk, at);
-    at += chunk.length;
-  }
-  return new TextDecoder("utf-8", { fatal: true }).decode(bytes);
-}
-export async function prepareRelease(
-  questions: Question[],
-): Promise<PreparedRelease> {
-  questions = questions.map((q) => questionSchema.parse(q));
-  const text = encodeQuestionCatalog(questions);
-  const contents = questions.map((q) => encodeQuestionCatalog([q]));
-  const digests = await Promise.all(
-    contents.map((text) =>
-      sha256(objectProof("questions-field-refs-v1", text)),
-    ),
-  );
-  return {
-    hash: await sha256(catalogProof(text)),
-    encoding: "gzip-field-refs-v1",
-    data: await compress(text),
-    digests,
-    questions: structuredClone(questions),
-    byContent: new Map(questions.map((q, i) => [JSON.stringify(q), i])),
-  };
-}
-export async function verifyRelease(
-  release: CatalogRelease,
-): Promise<PreparedRelease> {
-  if (release.encoding !== "gzip-field-refs-v1")
-    throw new Error("Unbekannte Katalogkodierung.");
-  const text = await decompress(release.data);
-  if ((await sha256(catalogProof(text))) !== release.hash)
-    throw new Error("Der Katalognachweis ist ungültig.");
-  const questions = decodeQuestionCatalog(text);
-  if (questions.length > 20000 || questions.length !== release.digests.length)
-    throw new Error("Ungültiger Katalogumfang.");
-  const digests = await Promise.all(
-    questions.map((q) =>
-      sha256(
-        objectProof("questions-field-refs-v1", encodeQuestionCatalog([q])),
-      ),
-    ),
-  );
-  if (!jsonEqual(digests, release.digests))
-    throw new Error("Die Fragennachweise passen nicht zum Katalog.");
-  return {
-    ...release,
-    questions,
-    byContent: new Map(questions.map((q, i) => [JSON.stringify(q), i])),
-  };
-}
 export async function verifyObject(object: SyncObject) {
   if (
     !["questions-field-refs-v1", "json-v1"].includes(object.encoding) ||
@@ -214,14 +113,11 @@ const scoreFields = (q: Question) => ({
       : { subdomain: q.metadata.subdomain },
 });
 
-// This compiler runs at migration/import and for changed entries. Catalog proofs
-// are reused on known progress-only writes; no full-state fingerprint is needed.
+// Persist current settings and private round snapshots; never a full catalog.
 export async function compileState(
   state: State,
-  releases: PreparedRelease[] = [],
   previous?: SyncDocument,
-  catalogUnchanged = false,
-  roundSnapshotsUnchanged = catalogUnchanged,
+  roundSnapshotsUnchanged = false,
 ): Promise<SyncDocument> {
   const rows = new Map<string, SyncRow>(),
     objects = new Map(previous?.objects);
@@ -247,11 +143,6 @@ export async function compileState(
     // Use the same schema normalization as release preparation/reconstruction
     // before hashing, while preserving all original metadata and answer order.
     q = questionSchema.parse(q);
-    const content = JSON.stringify(q);
-    for (const release of releases) {
-      const index = release.byContent.get(content);
-      if (index !== undefined) return { release: release.hash, index };
-    }
     return {
       object: await object(
         "questions-field-refs-v1",
@@ -259,42 +150,18 @@ export async function compileState(
       ),
     };
   }
-  const oldCatalog = previous?.rows.get(rowKey("field", "catalog"));
-  if (catalogUnchanged && oldCatalog)
-    rows.set(rowKey("field", "catalog"), oldCatalog);
-  else if (!releases.length)
-    row("field", "catalog", 0, {
-      object: await object(
-        "questions-field-refs-v1",
-        encodeQuestionCatalog(state.questions),
-      ),
-    });
-  else {
-    const parts: CatalogPart[] = [];
-    for (const q of state.questions) {
-      const reference = await ref(q),
-        last = parts.at(-1);
-      if ("release" in reference) {
-        if (
-          last &&
-          "release" in last &&
-          last.release === reference.release &&
-          last.start + last.count === reference.index
-        )
-          last.count++;
-        else
-          parts.push({
-            release: reference.release,
-            start: reference.index,
-            count: 1,
-          });
-      } else if (last && "objects" in last) last.objects.push(reference.object);
-      else parts.push({ objects: [reference.object] });
-    }
-    row("field", "catalog", 0, { parts });
-  }
+  row("field", "catalog", 0, { source: "server", parts: [] });
   for (const [id, value] of Object.entries(state))
-    if (!["questions", "rounds", "events", "learning", "records"].includes(id))
+    if (
+      ![
+        "questions",
+        "rounds",
+        "events",
+        "learning",
+        "records",
+        "bundledQuestionIds",
+      ].includes(id)
+    )
       row("field", id, 0, value);
   for (let position = 0; position < state.rounds.length; position++) {
     const { questions, before, archive, ...header } = state.rounds[position];
@@ -380,12 +247,7 @@ export function applyDifference(
     else result.rows.delete(rowKey(change.kind, change.id));
   return result;
 }
-export function reconstructState(
-  document: SyncDocument,
-  releases: PreparedRelease[] = [],
-  serverProgress = false,
-): State {
-  const known = new Map(releases.map((r) => [r.hash, r]));
+export function reconstructState(document: SyncDocument): State {
   function object(hash: string, encoding: ObjectEncoding) {
     const value = document.objects.get(hash);
     if (!value || value.encoding !== encoding)
@@ -393,17 +255,13 @@ export function reconstructState(
     return value.text;
   }
   function question(ref: QuestionRef) {
-    if ("object" in ref) {
-      const questions = decodeQuestionCatalog(
-        object(ref.object, "questions-field-refs-v1"),
-      );
-      if (questions.length !== 1) throw new Error("Ungültiger Fragenverweis.");
-      return questions[0];
-    }
-    const q = known.get(ref.release)?.questions[ref.index];
-    if (!q || !Number.isInteger(ref.index))
-      throw new Error("Ein historischer Kataloginhalt fehlt.");
-    return structuredClone(q);
+    if (!ref || Object.keys(ref).length !== 1 || typeof ref.object !== "string")
+      throw new Error("Ungültiger Fragenverweis.");
+    const questions = decodeQuestionCatalog(
+      object(ref.object, "questions-field-refs-v1"),
+    );
+    if (questions.length !== 1) throw new Error("Ungültiger Fragenverweis.");
+    return questions[0];
   }
   const ordered = (kind: RowKind) =>
     [...document.rows.values()]
@@ -412,28 +270,8 @@ export function reconstructState(
   const fields = Object.fromEntries(
     ordered("field").map((r) => [r.id, r.value]),
   );
-  const catalog = fields.catalog as CatalogRef;
-  if (!catalog) throw new Error("Der Katalogverweis fehlt.");
-  const questions =
-    "object" in catalog
-      ? decodeQuestionCatalog(object(catalog.object, "questions-field-refs-v1"))
-      : catalog.parts.flatMap((part) => {
-          if ("objects" in part)
-            return part.objects.map((hash) => question({ object: hash }));
-          const release = known.get(part.release);
-          if (
-            !release ||
-            !Number.isInteger(part.start) ||
-            !Number.isInteger(part.count) ||
-            part.start < 0 ||
-            part.count < 1 ||
-            part.start + part.count > release.questions.length
-          )
-            throw new Error("Ein Katalogausschnitt ist ungültig.");
-          return structuredClone(
-            release.questions.slice(part.start, part.start + part.count),
-          );
-        });
+  if (!jsonEqual(fields.catalog, { source: "server", parts: [] }))
+    throw new Error("Ungültiges Online-Speicherformat.");
   const rounds = ordered("round").map((row) => {
     const value = row.value as Record<string, unknown> & {
       questions: (ReturnType<typeof scoreFields> & { ref: QuestionRef })[];
@@ -464,13 +302,11 @@ export function reconstructState(
   return validateBackup(
     {
       ...fields,
-      questions: serverProgress
-        ? [
-            ...new Map(
-              rounds.flatMap((r) => r.questions).map((q) => [q.id, q]),
-            ).values(),
-          ]
-        : questions,
+      questions: [
+        ...new Map(
+          rounds.flatMap((r) => r.questions).map((q) => [q.id, q]),
+        ).values(),
+      ],
       rounds,
       events: ordered("event").map((r) => r.value),
       learning: Object.fromEntries(
@@ -480,6 +316,6 @@ export function reconstructState(
         ordered("record").map((r) => [r.id, r.value]),
       ),
     },
-    !serverProgress,
+    false,
   );
 }

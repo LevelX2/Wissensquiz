@@ -3,8 +3,7 @@ import { describe, expect, it } from "vitest";
 import { answer, complete, guess, startRound } from "../src/engine";
 import { emptyState, type Mode } from "../src/model";
 import { importCsv } from "../src/importer";
-import { validateBackup } from "../src/storage";
-import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
+import { validateBackup } from "../src/backupValidation";
 import { openMistakes } from "../src/errorTraining";
 import { roundSummary } from "../src/roundSummary";
 import { questionHistory } from "../src/questionHistory";
@@ -122,9 +121,7 @@ describe("Keine Ahnung", () => {
     answer(state, round.id, qs[0].id, { dontKnow: true }, 1000, now + 1000);
     const expected = validateBackup(state);
     expect(validateBackup(JSON.parse(JSON.stringify(state)))).toEqual(expected);
-    expect(
-      validateBackup(await decodeCloudState(await encodeCloudState(state))),
-    ).toEqual(expected);
+    expect(validateBackup(JSON.parse(JSON.stringify(state)))).toEqual(expected);
     for (const answerId of [
       qs[0].correctId,
       qs[0].answers.find((a) => a.id !== qs[0].correctId)!.id,

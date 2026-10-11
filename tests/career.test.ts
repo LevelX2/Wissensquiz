@@ -19,8 +19,7 @@ import {
   type Question,
   type State,
 } from "../src/model";
-import { validateBackup } from "../src/storage";
-import { decodeCloudState, encodeCloudState } from "../src/cloudCodec";
+import { validateBackup } from "../src/backupValidation";
 
 const now = new Date("2026-10-02T12:00:00+02:00").getTime();
 function question(
@@ -237,9 +236,7 @@ describe("Filmkarriere", () => {
     delete state.career;
     const migrated = validateBackup(state);
     const json = validateBackup(JSON.parse(JSON.stringify(migrated)));
-    const cloud = validateBackup(
-      await decodeCloudState(await encodeCloudState(migrated)),
-    );
+    const cloud = validateBackup(JSON.parse(JSON.stringify(migrated)));
     expect(json).toEqual(migrated);
     expect(cloud).toEqual(migrated);
     expect(() =>
