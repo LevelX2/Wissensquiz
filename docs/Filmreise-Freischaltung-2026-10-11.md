@@ -10,7 +10,7 @@ Gezählt wird jedes aktuelle Ziel einmal je Bereich und Schwierigkeit aus abgesc
 
 Abenteuer: aktuell 203 leichte Ziele → Mittel ab **102**; 387 mittlere Ziele → Schwer ab **194**, zusätzlich muss Mittel geöffnet sein. Die bisherige 2/2-Regel war für den stark gewachsenen Bestand ungeeignet.
 
-Filmgruppen bleiben unabhängig: ihre bestehenden leichten Zielmengen öffnen die nächste vorhandene Gruppe. Alle dafür benötigten Ziele sind im aktuellen Bestand vorhanden. Das Öffnen höherer Schwierigkeiten ist dafür keine Voraussetzung; die 50-Prozent-Regel kann über alle Filmgruppen erfüllt werden. Bestehende Filmgruppenrechte bleiben erhalten. Der Startplan enthält nur noch diese Gruppenregeln, keine Schwierigkeitsschwellen.
+Filmgruppen folgen ebenfalls 50 Prozent: Die nächste vorhandene Gruppe eines Genres öffnet ab der aufgerundeten Hälfte **aller aktuellen leichten Wissensziele der vorherigen Gruppe**. Varianten zählen einmal. Die Gruppen öffnen nacheinander; leere Gruppen werden übersprungen. Höhere Schwierigkeiten sind dafür keine Voraussetzung. Abenteuer Gruppe 1: 15 leichte Ziele → Gruppe 2 ab **8** sicheren Zielen. Feste Anker-IDs und gespeicherte frühere Gruppenrechte sind keine Berechnungsgrundlage mehr. Ergänzungen und entfernte Ziele wirken auf Nenner und Zähler; Antworten und Lernstände bleiben erhalten. `src/journeyCurriculum.json` und die private Curriculumtabelle sind entfernt.
 
 ## Auswahl neuer Ziele
 
@@ -20,7 +20,7 @@ Bei ausreichendem Bestand weiterhin vier fällige Wiederholungen und sechs neue 
 
 ## Betrieb und Grenzen
 
-Private SQL-Funktionen berechnen Freigaben aus vorbereiteten aktuellen Zielmengen und inkrementell gepflegten sicheren Zielen. Auswahl bleibt auf dem Server; kein Vollkatalogabruf beim Kontostart, keine neue Clientablage und keine historischen Kataloge. Die lokale Proberunden-/Prüflogik folgt denselben Regeln. Datenbankänderung: `20261011135954_journey_half_progress_and_balanced_new_questions.sql`. Bestehende Caches werden verworfen; die normale Revision informiert weitere Geräte über neu projizierte Freigaben. Bereits laufende Runden behalten ihre beim Start gezogene Folge, neue Starts verwenden die neue Regel.
+Private SQL-Funktionen berechnen Freigaben aus vorbereiteten aktuellen Zielmengen und inkrementell gepflegten sicheren Zielen. Auswahl bleibt auf dem Server; kein Vollkatalogabruf beim Kontostart, keine neue Clientablage und keine historischen Kataloge. Die lokale Proberunden-/Prüflogik folgt denselben Regeln. Datenbankänderungen: `20261011135954_journey_half_progress_and_balanced_new_questions.sql` für Schwierigkeiten und Auswahl sowie `20261011201651_journey_group_half_current_goals.sql` für Filmgruppen. Deren aktuelle leichte Zielmengen werden bei Inhaltsaktivierung in der privaten Tabelle `film_group_goals` vorbereitet; Kontoabfragen lesen diese kleinen Mengen und den bestehenden Cache. Kein Fragenbestand wird für jede Berechnung neu durchsucht. Bestehende Caches werden verworfen; die normale Revision informiert weitere Geräte über neu projizierte Freigaben. Bereits laufende Runden behalten ihre beim Start gezogene Folge, neue Starts verwenden die neue Regel.
 
 [Prüfnachweis](Pruefbericht.md), [Modusvertrag](Spielmodi-und-Bekanntheit.md).
 

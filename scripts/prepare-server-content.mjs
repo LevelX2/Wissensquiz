@@ -31,9 +31,6 @@ try {
   const posters = JSON.parse(
     await readFile("public/film-posters.json", "utf8"),
   );
-  const plans = JSON.parse(
-    await readFile("src/journeyCurriculum.json", "utf8"),
-  ).genres;
   const levels = JSON.parse(
     await readFile("src/filmFamiliarity.json", "utf8"),
   ).films;
@@ -92,8 +89,6 @@ try {
       "," +
       questions.length +
       "," +
-      literal(JSON.stringify(plans)) +
-      "::jsonb," +
       literal(JSON.stringify(levels)) +
       "::jsonb);\n",
   );

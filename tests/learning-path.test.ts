@@ -31,9 +31,7 @@ it("zeigt die nächste erreichbare Etappe nur in gewählten Bereichen und zählt
     independentAreas: true,
     earned: { Horror: { difficulty: 2, familiarity: 4 } },
   };
-  expect(nextJourneyStep(state, ["Horror"])?.label).toBe(
-    "Schwierigkeit Mittel",
-  );
+  expect(nextJourneyStep(state, ["Horror"])).toEqual(once);
 });
 function play(
   state: State,

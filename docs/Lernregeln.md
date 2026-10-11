@@ -1,6 +1,6 @@
 # Lern-, Runden- und Speichervertrag
 
-**Aktueller Filmreise-Vertrag (11.10.2026):** [50 Prozent der aktuellen Ziele der vorherigen Schwierigkeit und gleichwahrscheinliche Stufenauswahl](Filmreise-Freischaltung-2026-10-11.md). Ersetzt die früheren festen 60-Prozent-/20-Ziele-Schwellen und historischen Schwierigkeitsrechte; Filmgruppen bleiben unabhängig.
+**Aktueller Filmreise-Vertrag (11.10.2026):** [50 Prozent der aktuellen Ziele der vorherigen Schwierigkeit und gleichwahrscheinliche Stufenauswahl](Filmreise-Freischaltung-2026-10-11.md). Ersetzt die früheren festen 60-Prozent-/20-Ziele-Schwellen und historischen Schwierigkeitsrechte; Filmgruppen folgen derselben 50-Prozent-Regel für alle aktuellen leichten Ziele der vorherigen Gruppe, getrennt von den Schwierigkeiten.
 
 ## Serverzeit für gewertete Solo-Zeitspiele – 10.10.2026
 

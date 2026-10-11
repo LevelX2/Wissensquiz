@@ -84,7 +84,8 @@ export function LearningPath({
       <p className="tiny">
         Sichere richtige Antworten aus abgeschlossenen Runden zählen einmal pro
         Wissensziel – in allen Modi. Geratene Treffer und Varianten erhöhen den
-        Zähler nicht. Deine erreichten Stufen bleiben erhalten.
+        Zähler nicht. Für die nächste Filmgruppe zählen aufgerundet 50 Prozent
+        der aktuellen leichten Ziele der vorherigen Gruppe.
       </p>
       <div className="path-progress">
         {[

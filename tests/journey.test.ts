@@ -90,9 +90,7 @@ it("startet bei Film-Ikonen, öffnet Filmgruppen unabhängig und berechnet Schwe
         2,
     ),
   );
-  expect(learningPathProgress(s)("Horror").familiarity).toBeGreaterThanOrEqual(
-    2,
-  );
+  expect(learningPathProgress(s)("Horror").familiarity).toBe(1);
   const restored = validateBackup(JSON.parse(JSON.stringify(old)));
   expect(restored.journey).toEqual(old.journey);
 });
@@ -163,9 +161,8 @@ it("unbekannte Imports bleiben frei spielbar, aber werden nicht still Film-Ikone
   ).toHaveLength(1);
 });
 import { packages, addPackages } from "../src/packages";
-import curriculum from "../src/journeyCurriculum.json";
 import { genreOf } from "../src/filters";
-it("prüft Erreichbarkeit aller festen Ziele im vollständigen Katalog und leere Einstiegsgruppen", () => {
+it("prüft dynamische Halbziele aller Filmgruppen im vollständigen Bestand", () => {
   const s = emptyState();
   addPackages(
     s,
@@ -186,9 +183,19 @@ it("prüft Erreichbarkeit aller festen Ziele im vollständigen Katalog und leere
       .filter((q) => q.metadata.person_id)
       .every((q) => !familiarityOf(q)),
   ).toBe(true);
-  for (const [genre, plan] of Object.entries(curriculum.genres)) {
+  for (const genre of new Set(
+    s.questions
+      .filter((q) => !q.tags.includes("Preisträger") && !q.metadata.person_id)
+      .map(genreOf),
+  )) {
     const p = progress(genre);
-    expect(p.first).toBe(plan.first);
+    expect(p.first).toBe(
+      Math.min(
+        ...s.questions
+          .filter((q) => genreOf(q) === genre)
+          .map((q) => familiarityOf(q) || 5),
+      ),
+    );
     expect(p.easyTarget).toBe(
       Math.ceil(
         unique(
@@ -215,19 +222,22 @@ it("prüft Erreichbarkeit aller festen Ziele im vollständigen Katalog und leere
         ).length / 2,
       ),
     );
-    for (const group of plan.groups) {
+    for (const group of p.groups) {
       const actual = new Set(
         s.questions
           .filter(
             (q) =>
               genreOf(q) === genre &&
+              !q.tags.includes("Preisträger") &&
+              !q.metadata.person_id &&
               familiarityOf(q) === group.level &&
               q.difficulty === group.difficulty,
           )
           .map((q) => q.knowledgeId),
       );
-      expect(group.goals.every((id) => actual.has(id))).toBe(true);
-      expect(group.target).toBe(Math.ceil(group.goals.length * 0.6));
+      expect(group.difficulty).toBe("leicht");
+      expect(group.total).toBe(actual.size);
+      expect(group.target).toBe(Math.ceil(actual.size / 2));
       expect(group.target).toBeGreaterThan(0);
     }
     expect(pathQuestions(s).some((q) => genreOf(q) === genre)).toBe(true);
@@ -266,4 +276,52 @@ it("validiert historische Bekanntheit gegen den Rundensnapshot statt spätere re
   expect(validateBackup(s).rounds[0].filters!.familiarities).toEqual([2]);
   delete r.familiaritySnapshot[r.questions[0].id];
   expect(() => validateBackup(s)).toThrow("Rundenauswahl");
+});
+
+it("öffnet Filmgruppen ab der Hälfte aller aktuellen leichten Ziele und berechnet Ergänzungen neu", () => {
+  const base = questions.find(
+    (q) => familiarityOf(q) === 1 && q.difficulty === "leicht",
+  )!;
+  const next = questions.find((q) => familiarityOf(q) === 2)!;
+  const qs = Array.from({ length: 5 }, (_, i) => ({
+    ...base,
+    id: "group-" + i,
+    knowledgeId: "goal-" + i,
+  }));
+  const s = emptyState([...qs, next]);
+  s.journey = {
+    version: 1,
+    earned: { Horror: { difficulty: 0, familiarity: 4 } },
+  };
+  expect(learningPathProgress(s)("Horror")).toMatchObject({
+    familiarity: 1,
+    groups: [
+      { level: 1, total: 5, target: 3, answered: 0, unlocked: true },
+      { level: 2, unlocked: false },
+    ],
+  });
+  play(s, qs.slice(0, 2));
+  play(s, qs.slice(0, 2));
+  expect(learningPathProgress(s)("Horror")).toMatchObject({
+    familiarity: 1,
+    groups: [{ answered: 2 }, { unlocked: false }],
+  });
+  play(s, qs.slice(2, 3));
+  expect(learningPathProgress(s)("Horror").familiarity).toBe(2);
+  s.questions.push(
+    ...Array.from({ length: 2 }, (_, i) => ({
+      ...base,
+      id: "new-" + i,
+      knowledgeId: "new-" + i,
+    })),
+  );
+  expect(learningPathProgress(s)("Horror")).toMatchObject({
+    familiarity: 1,
+    groups: [{ total: 7, target: 4, answered: 3 }, { unlocked: false }],
+  });
+  s.questions = s.questions.filter((q) => q.id !== "group-0");
+  expect(learningPathProgress(s)("Horror")).toMatchObject({
+    familiarity: 1,
+    groups: [{ total: 6, target: 3, answered: 2 }, { unlocked: false }],
+  });
 });

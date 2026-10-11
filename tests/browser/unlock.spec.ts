@@ -6,7 +6,6 @@ import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { emptyState } from "../../src/model";
 import { addPackages, packages } from "../../src/packages";
-import curriculum from "../../src/journeyCurriculum.json" with { type: "json" };
 import { answer, complete, startRound } from "../../src/engine";
 
 const full = emptyState();
@@ -66,9 +65,7 @@ for (const scenario of [
     });
     const stageGoals = (d: string) =>
       goals(d).filter(
-        (q) =>
-          scenario !== "filmgruppe" ||
-          curriculum.genres.Horror.groups[0].goals.includes(q.knowledgeId),
+        (q) => scenario !== "filmgruppe" || familiarityOf(q) === 1,
       );
     const state = emptyState(questions);
     state.settings = {

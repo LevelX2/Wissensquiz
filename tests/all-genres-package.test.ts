@@ -103,7 +103,7 @@ it("ergänzt alte Spielstände idempotent und macht neue Film-Ikonen in der Film
   expect(
     state.imports.filter((r) => r.filename === latest.filename),
   ).toHaveLength(1);
-  expect(state.journey?.earned.Thriller?.familiarity).toBe(2);
+  expect(state.journey?.earned.Thriller?.familiarity).toBe(1);
   expect(
     pathQuestions(state).some(
       (q) => q.id.startsWith("ADV-202610-") && familiarityOf(q) === 1,

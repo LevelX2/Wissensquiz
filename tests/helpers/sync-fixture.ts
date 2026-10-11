@@ -7,7 +7,6 @@ import {
   type SyncRemote,
 } from "../../src/entryRemote";
 import type { TestContent } from "./test-content";
-import curriculum from "../../src/journeyCurriculum.json" with { type: "json" };
 import familiarity from "../../src/filmFamiliarity.json" with { type: "json" };
 import { preparePresentation } from "../../src/questionPresentation";
 
@@ -92,10 +91,6 @@ export async function syncFixture(stopBefore?: string) {
       await db.query(
         "update quiz_ranked_internal.config set question_count=$1 where id",
         [release.questions.length],
-      );
-      await db.query(
-        `insert into quiz_game_internal.curriculum select key,value from jsonb_each($1::jsonb) on conflict(area) do update set plan=excluded.plan`,
-        [JSON.stringify(curriculum.genres)],
       );
       await db.query(
         `insert into quiz_game_internal.familiarity select value->>'film',(value->>'level')::integer from jsonb_array_elements($1::jsonb) on conflict(film) do update set level=excluded.level`,

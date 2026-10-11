@@ -1974,3 +1974,10 @@ Auf Nutzerauftrag Schwierigkeiten je Bereich aus mindestens der Hälfte der aktu
 ## 11.10.2026 – Zufällige Fragenauswahl nach Spielzweck geprüft
 
 Auf Nutzerfrage Server- und lokale Auswahlpfade einschließlich Proberunde, Solo-Rekorden und Duellen geprüft; 67 gezielte Tests erfolgreich. Vollständiger Betreiberbestand im Speicher: 12.787 Fragen / 12.222 Ziele, darunter 33 stufenübergreifende und 83 bereichsübergreifende Ziele. Stufenübergreifende neue Ziele besitzen mehrere Auswahlwege; Eindeutigkeit je Runde bleibt erhalten. Filmreise hält auch bei Rückstand zunächst vier Fälligkeitsplätze frei; Wiederholen berücksichtigt ausschließlich Filmziele. Zweckgrenzen und mögliche Folgeentscheidungen dokumentiert, veralteten Etappenvorrang und Freischalttext berichtigt. Keine Spielregel-, Inhalts-, Konto- oder Serveränderung. Eigenes Auswertungsskript entfernt; erster Lauf durch unnötigen Vite-Abhängigkeitsscan gestört, vollständige Zählung anschließend ohne Scan erfolgreich wiederholt. [Prüfung und Belege](../../docs/Filmreise-Freischaltung-2026-10-11.md#prüfung-der-fragenauswahl-am-11102026).
+
+
+## 11.10.2026 – Filmgruppenregel aus aktuellem Bestand
+
+Auf Nutzerauftrag auch die Filmgruppen auf aufgerundet 50 Prozent aller aktuellen leichten Wissensziele der vorherigen Gruppe je Genre umgestellt. Abenteuer 8 von 15 statt 2 von drei festen Ankern. Quellplan und private Curriculumtabelle entfernt; gespeicherte Kurzrechte keine Autorität. Kleine bei Inhaltsänderungen vorbereitete Mengen und bestehender Cache halten Kontoabfragen begrenzt. Servermigration aktiv; alle Antworten/Lernstände und sicheren Ziele atomar unverändert bestätigt. Synthetische native 7-/8-Grenzprüfung vollständig zurückgerollt. 416 automatisierte Tests inklusive Nachprüfungen und Build 70 erfolgreich. [Vertrag](../../docs/Filmreise-Freischaltung-2026-10-11.md).
+
+Browserabnahme: elf gezielte Fälle in Chromium, Firefox und mobilem WebKit erfolgreich, einschließlich katalogfreier Serverrunde, Gruppenanzeige 8 und Freischaltfeier. Inhaltsvorbereitung mit 12.787 Fragen erfolgreich.

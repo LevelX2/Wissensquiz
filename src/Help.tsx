@@ -283,21 +283,19 @@ export function Help() {
           erst nach Mittel.
         </p>
         <p>
-          Die nächste vorhandene Filmgruppe öffnet, wenn Du 60 Prozent der
-          festgelegten leichten Wissensziele der aktuellen Gruppe sicher
-          beantwortet hast. Falls es keine leichten Fragen gibt, zählt die
-          niedrigste vorhandene Schwierigkeit. Leere Gruppen werden
+          Die nächste vorhandene Filmgruppe öffnet, wenn Du aufgerundet 50
+          Prozent aller aktuellen leichten Wissensziele der vorherigen Gruppe in
+          diesem Genre sicher beantwortet hast. Leere Gruppen werden
           übersprungen. Deine konkreten Zähler stehen unter „Deine
           Stufenfortschritte“.
         </p>
         <p>
           Es zählen abgeschlossene Runden aus allen Modi und Dein bisheriger
           Fortschritt. Wiederholungen, Varianten und geratene Treffer zählen
-          nicht zusätzlich. Neue Fragen können die Schwierigkeitsschwellen
-          erhöhen; die Freigaben werden aus Deinem bisherigen Fortschritt neu
-          berechnet. Spätere Fehler löschen frühere sichere Treffer nicht. Im
-          Freien Spiel und in der Rekordrunde stehen Dir sofort alle Stufen zur
-          Wahl.
+          nicht zusätzlich. Neue Fragen können die Freischaltschwellen erhöhen;
+          die Freigaben werden aus Deinem bisherigen Fortschritt neu berechnet.
+          Spätere Fehler löschen frühere sichere Treffer nicht. Im Freien Spiel
+          und in der Rekordrunde stehen Dir sofort alle Stufen zur Wahl.
         </p>
       </details>
       <details>

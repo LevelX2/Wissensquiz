@@ -1,6 +1,6 @@
 # Spielmodi und Filmbekanntheit
 
-**Aktuell seit 11.10.2026:** [50-Prozent-Freischaltung und gleichwahrscheinliche neue Schwierigkeiten](Filmreise-Freischaltung-2026-10-11.md) ersetzen die unten dokumentierten eingefrorenen Schwierigkeitsschwellen und historischen Bestandsrechte. Die Filmgruppenregeln bleiben bestehen.
+**Aktuell seit 11.10.2026:** [50-Prozent-Freischaltung und gleichwahrscheinliche neue Schwierigkeiten](Filmreise-Freischaltung-2026-10-11.md) ersetzen die unten dokumentierten eingefrorenen Schwierigkeitsschwellen und historischen Bestandsrechte. Filmgruppen öffnen ebenfalls ab der Hälfte aller aktuellen leichten Ziele der vorherigen Gruppe.
 
 ## Aktuelle Abdeckung und Kurvenprüfung – 04.10.2026
 
@@ -69,7 +69,7 @@ Der Hinweis unter Losspielen erklärt den gewählten Modus in zwei kurzen Sätze
 
 Der aktuelle [Freischaltvertrag](Filmreise-Freischaltung-2026-10-11.md) gilt für Filmgenres, Schauspieler und Preisträger. 50 Prozent der aktuellen Ziele der vorherigen Schwierigkeit, aufgerundet, öffnen die nächste Schwierigkeit; die vorherige Stufe muss bereits offen sein. Sichere unterschiedliche Ziele abgeschlossener Runden aller Modi zählen. Alte Kurzfreigaben sind keine Ausnahme.
 
-`src/journeyCurriculum.json` enthält ausschließlich den Plan für Bekanntheitsgruppen: 60 Prozent der festgelegten leichten Ziele öffnen die nächste vorhandene Filmgruppe. Leere Gruppen werden übersprungen; fehlende leichte Ziele verwenden die niedrigste vorhandene Schwierigkeit. Diese Gruppenrechte bleiben erhalten. Die Erreichbarkeit wird bei Inhaltsänderungen geprüft.
+Die nächste vorhandene Filmgruppe öffnet je Genre ab aufgerundet 50 Prozent aller aktuellen leichten Wissensziele der vorherigen Gruppe. Gruppen öffnen nacheinander, leere Gruppen werden übersprungen. Keine festen Anker-IDs und kein Bestandsschutz gespeicherter Kurzfreigaben. Die private vorbereitete Tabelle `film_group_goals` wird bei Inhaltsänderungen erneuert; der alte Curriculumplan ist entfernt. Die Erreichbarkeit aller aktuellen Gruppen wird geprüft.
 
 ## Speicherung und Rekorde
 

@@ -1,7 +1,6 @@
 import type { Difficulty, Mode, Question, State } from "./model";
 import { genreOf, questionSourceOf, sourceLabels } from "./filters";
 import { familiarityOf, type Familiarity } from "./familiarity";
-import curriculum from "./journeyCurriculum.json" with { type: "json" };
 import { roundFacts } from "./roundArchive";
 
 export const pathAreaOf = (
@@ -13,10 +12,7 @@ export const pathAreaOf = (
 export type PathUnlock =
   | { genre: string; difficulty: "mittel" | "schwer" | "experte" }
   | { genre: string; familiarity: Familiarity };
-type Plan = (typeof curriculum.genres)[keyof typeof curriculum.genres];
-const plans = curriculum.genres as Record<string, Plan>;
 export function learningPathProgress(state: State) {
-  const retained = structuredClone(state.journey?.earned ?? {});
   const snapshots = new Map<string, ReturnType<typeof roundFacts>[number]>();
   for (const round of state.rounds) {
     if (round.status !== "completed") continue;
@@ -57,7 +53,6 @@ export function learningPathProgress(state: State) {
   const result = new Map<string, ReturnType<typeof calculate>>();
   function calculate(genre: string) {
     const qs = available.get(genre) ?? [];
-    const plan = plans[genre];
     const independent =
       genre === sourceLabels.actors || genre === sourceLabels.awards;
     const levels = independent
@@ -71,7 +66,6 @@ export function learningPathProgress(state: State) {
     const easy = goals.get(genre)?.leicht.size ?? 0;
     const medium = goals.get(genre)?.mittel.size ?? 0;
     const hard = goals.get(genre)?.schwer.size ?? 0;
-    const earned = retained[genre];
     const target = (d: Difficulty) => {
       const present = new Set(
         qs.filter((q) => q.difficulty === d).map((q) => q.knowledgeId),
@@ -86,25 +80,19 @@ export function learningPathProgress(state: State) {
       mediumUnlocked && mediumTarget > 0 && medium >= mediumTarget;
     const expertUnlocked =
       independent && hardUnlocked && hardTarget > 0 && hard >= hardTarget;
-    let max = Math.max(first, earned?.familiarity ?? 0);
+    let max: number = first;
     const groups = levels.map((level, index) => {
-      const defined = plan?.groups.find((g) => g.level === level);
-      const at = qs.filter((q) => familiarityOf(q) === level);
-      const difficulty = (defined?.difficulty ??
-        ["leicht", "mittel", "schwer"].find((d) =>
-          at.some((q) => q.difficulty === d),
-        ) ??
-        "leicht") as Difficulty;
-      const present = new Set(
-        at.filter((q) => q.difficulty === difficulty).map((q) => q.knowledgeId),
-      );
-      const ids = defined
-        ? defined.goals.filter((id) => present.has(id))
-        : [...present];
-      const target = Math.min(
-        defined?.target ?? Math.ceil(ids.length * 0.6),
-        ids.length,
-      );
+      const difficulty = "leicht" as const;
+      const ids = [
+        ...new Set(
+          qs
+            .filter(
+              (q) => familiarityOf(q) === level && q.difficulty === difficulty,
+            )
+            .map((q) => q.knowledgeId),
+        ),
+      ];
+      const target = Math.ceil(ids.length / 2);
       const answered = ids.filter((id) =>
         goals.get(genre)?.[difficulty].has(id),
       ).length;

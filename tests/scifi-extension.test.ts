@@ -157,7 +157,8 @@ it("bewahrt Sci-Fi-Lernereignisse und aktive Runden, berechnet Schwellen beim Na
   expect(snapshot()).toEqual(before);
   const after = learningPathProgress(old)("Science-Fiction");
   expect(after.hardUnlocked).toBe(false);
-  expect(after.familiarity).toBeGreaterThanOrEqual(progress.familiarity);
+  expect(after.familiarity).toBe(2);
+  expect(after.groups[1].answered).toBeLessThan(after.groups[1].target);
   expect(after.easyTarget).toBeGreaterThan(progress.easyTarget);
   expect(after.mediumTarget).toBeGreaterThan(progress.mediumTarget);
   expect(() => validateBackup(structuredClone(old))).not.toThrow();

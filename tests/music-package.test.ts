@@ -88,14 +88,12 @@ it("ändert keine der 2.567 bestehenden Fragen oder Antwortvorlagen durch die Er
   expect(() => validateBackup(structuredClone(old))).not.toThrow();
 });
 
-it("beginnt Musik für neue Spieler bei Gruppe 1 und bewahrt den bisherigen Gruppe-2-Zugang ohne Lernereignisse", () => {
+it("berechnet den Musik-Einstieg bei neuen Gruppe-1-Fragen ohne historische Gruppenrechte neu", () => {
   const old = emptyState();
   addPackages(old, contents.slice(0, 11));
   expect(learningPathProgress(old)("Musik").first).toBe(2);
   addPackages(old, contents);
-  expect(learningPathProgress(old)("Musik").familiarity).toBeGreaterThanOrEqual(
-    2,
-  );
+  expect(learningPathProgress(old)("Musik").familiarity).toBe(1);
   const fresh = emptyState();
   addPackages(fresh, contents);
   expect(learningPathProgress(fresh)("Musik").familiarity).toBe(1);

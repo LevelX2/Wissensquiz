@@ -699,20 +699,22 @@ it("ersetzt den aktuellen Bestand ohne alte Gesamtkataloge und behält nur laufe
     [next, staged.id],
   );
   await expect(
-    fixture.db.query(
-      "select quiz_game_internal.activate_content($1,$2,$3,$4)",
-      [next, n, {}, []],
-    ),
+    fixture.db.query("select quiz_game_internal.activate_content($1,$2,$3)", [
+      next,
+      n,
+      [],
+    ]),
   ).rejects.toThrow("game_content_proof_mismatch");
   await fixture.db.query(
     "update quiz_game_internal.content_staging set content=$3 where hash=$1 and id=$2",
     [next, staged.id, staged.content],
   );
   await expect(
-    fixture.db.query(
-      "select quiz_game_internal.activate_content($1,$2,$3,$4)",
-      [next, n + 1, {}, []],
-    ),
+    fixture.db.query("select quiz_game_internal.activate_content($1,$2,$3)", [
+      next,
+      n + 1,
+      [],
+    ]),
   ).rejects.toThrow("game_content_incomplete");
   expect(
     (
@@ -722,7 +724,7 @@ it("ersetzt den aktuellen Bestand ohne alte Gesamtkataloge und behält nur laufe
     ).rows,
   ).toEqual([{ release_hash: old }]);
   await fixture.db.query(
-    `select quiz_game_internal.activate_content($1,$2,(select jsonb_object_agg(area,plan) from quiz_game_internal.curriculum),(select jsonb_agg(jsonb_build_object('film',film,'level',level)) from quiz_game_internal.familiarity))`,
+    `select quiz_game_internal.activate_content($1,$2,(select jsonb_agg(jsonb_build_object('film',film,'level',level)) from quiz_game_internal.familiarity))`,
     [next, n],
   );
   expect(
@@ -939,4 +941,81 @@ it("verbietet den Wechsel eines Server-Spielstands zu einer Katalog-Generation",
   const reopened = new OnlineGameStore(api, owner);
   await reopened.open();
   expect(reopened.read().settings.sound).toBe(false);
+});
+
+it("berechnet Filmgruppen aus aktuellen leichten Zielen ohne feste Anker oder gespeicherte Kurzrechte", async () => {
+  const { api, owner } = await fixture.client();
+  await new OnlineGameStore(api, owner).open();
+  const target = (
+    await fixture.db.query<{ generation: string }>(
+      "select generation from public.quiz_account_heads where owner_id=$1",
+      [owner],
+    )
+  ).rows[0].generation;
+  await fixture.db.exec("begin");
+  try {
+    await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
+ insert into quiz_game_internal.catalog_meta select 'g'||lev||'-'||d||i,'g'||lev||'-'||d||i,'Test','Abenteuer','film',d,lev,'[]' from (values(1,'leicht',5),(1,'mittel',5),(3,'leicht',3)) v(lev,d,n) cross join lateral generate_series(1,n) i;
+ insert into quiz_game_internal.catalog_meta values('variant','g1-leicht1','Test','Abenteuer','film','leicht',1,'[]');
+ select quiz_game_internal.refresh_groups();`);
+    await fixture.db.query(
+      `update public.quiz_sync_entries set value='{"version":1,"earned":{"Abenteuer":{"difficulty":0,"familiarity":4}}}' where owner_id=$1 and kind='field' and id='journey'`,
+      [owner],
+    );
+    const progress = async () =>
+      (
+        await fixture.db.query<{ p: any }>(
+          "select quiz_game_internal.journey($1,$2)->'Abenteuer' p",
+          [owner, target],
+        )
+      ).rows[0].p;
+    const secure = async (d: string, n: number, lev = 1) =>
+      fixture.db.query(
+        `insert into quiz_game_internal.secure_goals select $1,$2,'g'||$5::int||'-'||$3||i,'Abenteuer',$3 from generate_series(1,$4::int) i on conflict do nothing`,
+        [owner, target, d, n, lev],
+      );
+    expect(await progress()).toMatchObject({
+      familiarity: 1,
+      groups: [
+        { total: 5, target: 3, answered: 0 },
+        { level: 3, unlocked: false },
+      ],
+    });
+    await secure("mittel", 5);
+    await secure("leicht", 2);
+    await secure("leicht", 2);
+    await secure("leicht", 2, 3);
+    expect(await progress()).toMatchObject({
+      familiarity: 1,
+      groups: [{ answered: 2 }, { answered: 2, unlocked: false }],
+    });
+    await secure("leicht", 3);
+    expect(await progress()).toMatchObject({
+      familiarity: 3,
+      groups: [{ answered: 3 }, { unlocked: true }],
+    });
+    await fixture.db.exec(
+      `insert into quiz_game_internal.catalog_meta select 'new'||i,'new'||i,'Test','Abenteuer','film','leicht',1,'[]' from generate_series(1,2) i;select quiz_game_internal.refresh_groups();`,
+    );
+    expect(await progress()).toMatchObject({
+      familiarity: 1,
+      groups: [{ total: 7, target: 4, answered: 3 }, { unlocked: false }],
+    });
+    await fixture.db.exec(
+      "delete from quiz_game_internal.catalog_meta where knowledge_id='g1-leicht1';select quiz_game_internal.refresh_groups();",
+    );
+    expect(await progress()).toMatchObject({
+      familiarity: 1,
+      groups: [{ total: 6, target: 3, answered: 2 }, { unlocked: false }],
+    });
+    expect(
+      (
+        await fixture.db.query<{ obsolete: string | null }>(
+          "select to_regclass('quiz_game_internal.curriculum') as obsolete",
+        )
+      ).rows[0].obsolete,
+    ).toBeNull();
+  } finally {
+    await fixture.db.exec("rollback");
+  }
 });

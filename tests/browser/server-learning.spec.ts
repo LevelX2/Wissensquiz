@@ -24,6 +24,12 @@ test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
       exact: true,
     }),
   ).toHaveAttribute("max", "194");
+  await expect(
+    page.getByRole("progressbar", {
+      name: "Abenteuer: Fortschritt zur nächsten Filmgruppe",
+      exact: true,
+    }),
+  ).toHaveAttribute("max", "8");
   expect(
     (
       await accountBackend(page).admin(() =>

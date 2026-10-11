@@ -10,7 +10,6 @@ import { genreOf, questionSourceOf } from "../src/filters";
 import { filmData } from "../src/filmFacts";
 import { isCategory } from "../src/categories";
 import { learningPathProgress } from "../src/learningPath";
-import curriculum from "../src/journeyCurriculum.json";
 
 const inputs = packages.map((p) => ({
   filename: p.filename,
@@ -96,7 +95,6 @@ const genres = [...new Set(film.map(genreOf))]
   .map((genre) => {
     const qs = film.filter((q) => genreOf(q) === genre);
     const p = progress(genre);
-    const plan = curriculum.genres[genre as keyof typeof curriculum.genres];
     return {
       genre,
       ...stats(qs),
@@ -114,23 +112,11 @@ const genres = [...new Set(film.map(genreOf))]
             (q) =>
               familiarityOf(q) === g.level && q.difficulty === g.difficulty,
           );
-          const anchors =
-            plan?.groups.find((x) => x.level === g.level)?.goals ?? [];
-          const anchorQs = selected.filter((q) =>
-            anchors.includes(q.knowledgeId),
-          );
           return {
             level: g.level,
             difficulty: g.difficulty,
             target: g.target,
-            anchorGoals: g.total,
-            anchorFilms: uniqueFilms(anchorQs),
-            anchorGeneratedGoals: count(anchorQs.filter(generated)),
             currentEligibleGoals: count(selected),
-            currentGoalsOutsideAnchors: count(selected) - g.total,
-            missingAnchors: anchors.filter(
-              (id) => !selected.some((q) => q.knowledgeId === id),
-            ),
           };
         }),
       },
