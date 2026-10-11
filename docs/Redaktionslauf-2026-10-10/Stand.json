@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 3900,
-  "totalReviewed": 4050,
-  "remainingFilmQuestions": 6683,
+  "completedInThisRun": 3950,
+  "totalReviewed": 4100,
+  "remainingFilmQuestions": 6633,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 8723,
+  "remainingAllQuestions": 8673,
   "blocks": [
     {
       "block": 1,
@@ -398,6 +398,11 @@
     {
       "block": 78,
       "path": "Block-78.json",
+      "count": 50
+    },
+    {
+      "block": 79,
+      "path": "Block-79.json",
       "count": 50
     }
   ],
@@ -4451,209 +4456,59 @@
     "KOM-202609-P02-M-044",
     "KOM-202609-P02-S-043",
     "KOM-202609-P02-S-044",
-    "KOM-202609-P02-M-043-V1"
+    "KOM-202609-P02-M-043-V1",
+    "FF-397-YEAR",
+    "FF-397-DIRECTOR",
+    "E20261007-F-186-L1",
+    "E20261007-F-186-L2",
+    "E20261007-F-186-M1",
+    "E20261007-F-186-M2",
+    "E20261007-F-186-S1",
+    "E20261007-F-186-S2",
+    "E20261007-F-186-Y",
+    "E20261007-F-186-D",
+    "G100-20261008-HORROR-019-L1",
+    "G100-20261008-HORROR-019-L2",
+    "G100-20261008-HORROR-019-M1",
+    "G100-20261008-HORROR-019-M2",
+    "G100-20261008-HORROR-019-S1",
+    "G100-20261008-HORROR-019-S2",
+    "G100-20261008-HORROR-019-Y",
+    "G100-20261008-HORROR-019-D",
+    "WES-202610-P01-L-003",
+    "WES-202610-P01-L-004",
+    "WES-202610-P01-M-004",
+    "WES-202610-P01-M-005",
+    "WES-202610-P01-S-004",
+    "WES-202610-P01-S-005",
+    "WES-202610-P01-M-006",
+    "WES-202610-P01-S-006",
+    "KOM-L-021",
+    "KOM-L-022",
+    "KOM-M-021",
+    "KOM-M-022",
+    "KOM-S-021",
+    "KOM-S-022",
+    "FF-211-YEAR",
+    "FF-211-DIRECTOR",
+    "KOM-202609-P02-L-023",
+    "KOM-202609-P02-L-024",
+    "KOM-202609-P02-M-023",
+    "KOM-202609-P02-M-024",
+    "KOM-202609-P02-S-023",
+    "KOM-202609-P02-S-024",
+    "KOM-202609-P02-L-023-V1",
+    "FF-387-YEAR",
+    "FF-387-DIRECTOR",
+    "MAR-L-045",
+    "MAR-L-046",
+    "MAR-M-045",
+    "MAR-M-046",
+    "MAR-S-045",
+    "MAR-S-046",
+    "FF-248-YEAR"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "FF-397-YEAR",
-      "filmKey": "Horrible Bosses|2011"
-    },
-    {
-      "id": "FF-397-DIRECTOR",
-      "filmKey": "Horrible Bosses|2011"
-    },
-    {
-      "id": "E20261007-F-186-L1",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-L2",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-M1",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-M2",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-S1",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-S2",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-Y",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-D",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-L1",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-L2",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-M1",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-M2",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-S1",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-S2",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-Y",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-D",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "WES-202610-P01-L-003",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-L-004",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-M-004",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-M-005",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-S-004",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-S-005",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-M-006",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-S-006",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "KOM-L-021",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-L-022",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-M-021",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-M-022",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-S-021",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-S-022",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "FF-211-YEAR",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "FF-211-DIRECTOR",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-202609-P02-L-023",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-L-024",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-M-023",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-M-024",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-S-023",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-S-024",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-L-023-V1",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "FF-387-YEAR",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "FF-387-DIRECTOR",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "MAR-L-045",
-      "filmKey": "House of Flying Daggers|2004"
-    },
-    {
-      "id": "MAR-L-046",
-      "filmKey": "House of Flying Daggers|2004"
-    },
-    {
-      "id": "MAR-M-045",
-      "filmKey": "House of Flying Daggers|2004"
-    },
-    {
-      "id": "MAR-M-046",
-      "filmKey": "House of Flying Daggers|2004"
-    },
-    {
-      "id": "MAR-S-045",
-      "filmKey": "House of Flying Daggers|2004"
-    },
-    {
-      "id": "MAR-S-046",
-      "filmKey": "House of Flying Daggers|2004"
-    },
-    {
-      "id": "FF-248-YEAR",
-      "filmKey": "House of Flying Daggers|2004"
-    },
     {
       "id": "FF-248-DIRECTOR",
       "filmKey": "House of Flying Daggers|2004"
@@ -31189,204 +31044,204 @@
   ],
   "next": [
     {
-      "id": "FF-397-YEAR",
-      "filmKey": "Horrible Bosses|2011"
-    },
-    {
-      "id": "FF-397-DIRECTOR",
-      "filmKey": "Horrible Bosses|2011"
-    },
-    {
-      "id": "E20261007-F-186-L1",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-L2",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-M1",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-M2",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-S1",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-S2",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-Y",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "E20261007-F-186-D",
-      "filmKey": "Hors de prix|2006"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-L1",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-L2",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-M1",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-M2",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-S1",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-S2",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-Y",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "G100-20261008-HORROR-019-D",
-      "filmKey": "Hostel|2005"
-    },
-    {
-      "id": "WES-202610-P01-L-003",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-L-004",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-M-004",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-M-005",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-S-004",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-S-005",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-M-006",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "WES-202610-P01-S-006",
-      "filmKey": "Hostiles|2017"
-    },
-    {
-      "id": "KOM-L-021",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-L-022",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-M-021",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-M-022",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-S-021",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-S-022",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "FF-211-YEAR",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "FF-211-DIRECTOR",
-      "filmKey": "Hot Fuzz|2007"
-    },
-    {
-      "id": "KOM-202609-P02-L-023",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-L-024",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-M-023",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-M-024",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-S-023",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-S-024",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "KOM-202609-P02-L-023-V1",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "FF-387-YEAR",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "FF-387-DIRECTOR",
-      "filmKey": "Hot Shots!|1991"
-    },
-    {
-      "id": "MAR-L-045",
+      "id": "FF-248-DIRECTOR",
       "filmKey": "House of Flying Daggers|2004"
     },
     {
-      "id": "MAR-L-046",
-      "filmKey": "House of Flying Daggers|2004"
+      "id": "E20261007-F-107-L1",
+      "filmKey": "How the West Was Won|1962"
     },
     {
-      "id": "MAR-M-045",
-      "filmKey": "House of Flying Daggers|2004"
+      "id": "E20261007-F-107-L2",
+      "filmKey": "How the West Was Won|1962"
     },
     {
-      "id": "MAR-M-046",
-      "filmKey": "House of Flying Daggers|2004"
+      "id": "E20261007-F-107-M1",
+      "filmKey": "How the West Was Won|1962"
     },
     {
-      "id": "MAR-S-045",
-      "filmKey": "House of Flying Daggers|2004"
+      "id": "E20261007-F-107-M2",
+      "filmKey": "How the West Was Won|1962"
     },
     {
-      "id": "MAR-S-046",
-      "filmKey": "House of Flying Daggers|2004"
+      "id": "E20261007-F-107-S1",
+      "filmKey": "How the West Was Won|1962"
     },
     {
-      "id": "FF-248-YEAR",
-      "filmKey": "House of Flying Daggers|2004"
+      "id": "E20261007-F-107-S2",
+      "filmKey": "How the West Was Won|1962"
+    },
+    {
+      "id": "E20261007-F-107-Y",
+      "filmKey": "How the West Was Won|1962"
+    },
+    {
+      "id": "E20261007-F-107-D",
+      "filmKey": "How the West Was Won|1962"
+    },
+    {
+      "id": "ROM-L-027",
+      "filmKey": "How to Lose a Guy in 10 Days|2003"
+    },
+    {
+      "id": "ROM-L-028",
+      "filmKey": "How to Lose a Guy in 10 Days|2003"
+    },
+    {
+      "id": "ROM-M-027",
+      "filmKey": "How to Lose a Guy in 10 Days|2003"
+    },
+    {
+      "id": "ROM-M-028",
+      "filmKey": "How to Lose a Guy in 10 Days|2003"
+    },
+    {
+      "id": "ROM-S-027",
+      "filmKey": "How to Lose a Guy in 10 Days|2003"
+    },
+    {
+      "id": "ROM-S-028",
+      "filmKey": "How to Lose a Guy in 10 Days|2003"
+    },
+    {
+      "id": "FF-264-YEAR",
+      "filmKey": "How to Lose a Guy in 10 Days|2003"
+    },
+    {
+      "id": "FF-264-DIRECTOR",
+      "filmKey": "How to Lose a Guy in 10 Days|2003"
+    },
+    {
+      "id": "SFI-202610-P01-L-015",
+      "filmKey": "I Am Legend|2007"
+    },
+    {
+      "id": "SFI-202610-P01-L-016",
+      "filmKey": "I Am Legend|2007"
+    },
+    {
+      "id": "SFI-202610-P01-M-022",
+      "filmKey": "I Am Legend|2007"
+    },
+    {
+      "id": "SFI-202610-P01-M-023",
+      "filmKey": "I Am Legend|2007"
+    },
+    {
+      "id": "SFI-202610-P01-S-022",
+      "filmKey": "I Am Legend|2007"
+    },
+    {
+      "id": "SFI-202610-P01-S-023",
+      "filmKey": "I Am Legend|2007"
+    },
+    {
+      "id": "SFI-202610-P01-M-024",
+      "filmKey": "I Am Legend|2007"
+    },
+    {
+      "id": "SFI-202610-P01-S-024",
+      "filmKey": "I Am Legend|2007"
+    },
+    {
+      "id": "E20261007-F-215-L1",
+      "filmKey": "I Am Mother|2019"
+    },
+    {
+      "id": "E20261007-F-215-L2",
+      "filmKey": "I Am Mother|2019"
+    },
+    {
+      "id": "E20261007-F-215-M1",
+      "filmKey": "I Am Mother|2019"
+    },
+    {
+      "id": "E20261007-F-215-M2",
+      "filmKey": "I Am Mother|2019"
+    },
+    {
+      "id": "E20261007-F-215-S1",
+      "filmKey": "I Am Mother|2019"
+    },
+    {
+      "id": "E20261007-F-215-S2",
+      "filmKey": "I Am Mother|2019"
+    },
+    {
+      "id": "E20261007-F-215-Y",
+      "filmKey": "I Am Mother|2019"
+    },
+    {
+      "id": "E20261007-F-215-D",
+      "filmKey": "I Am Mother|2019"
+    },
+    {
+      "id": "E20261007-F-177-L1",
+      "filmKey": "I Can Only Imagine|2018"
+    },
+    {
+      "id": "E20261007-F-177-L2",
+      "filmKey": "I Can Only Imagine|2018"
+    },
+    {
+      "id": "E20261007-F-177-M1",
+      "filmKey": "I Can Only Imagine|2018"
+    },
+    {
+      "id": "E20261007-F-177-M2",
+      "filmKey": "I Can Only Imagine|2018"
+    },
+    {
+      "id": "E20261007-F-177-S1",
+      "filmKey": "I Can Only Imagine|2018"
+    },
+    {
+      "id": "E20261007-F-177-S2",
+      "filmKey": "I Can Only Imagine|2018"
+    },
+    {
+      "id": "E20261007-F-177-Y",
+      "filmKey": "I Can Only Imagine|2018"
+    },
+    {
+      "id": "E20261007-F-177-D",
+      "filmKey": "I Can Only Imagine|2018"
+    },
+    {
+      "id": "E20261007-F-197-L1",
+      "filmKey": "I Was a Male War Bride|1949"
+    },
+    {
+      "id": "E20261007-F-197-L2",
+      "filmKey": "I Was a Male War Bride|1949"
+    },
+    {
+      "id": "E20261007-F-197-M1",
+      "filmKey": "I Was a Male War Bride|1949"
+    },
+    {
+      "id": "E20261007-F-197-M2",
+      "filmKey": "I Was a Male War Bride|1949"
+    },
+    {
+      "id": "E20261007-F-197-S1",
+      "filmKey": "I Was a Male War Bride|1949"
+    },
+    {
+      "id": "E20261007-F-197-S2",
+      "filmKey": "I Was a Male War Bride|1949"
+    },
+    {
+      "id": "E20261007-F-197-Y",
+      "filmKey": "I Was a Male War Bride|1949"
+    },
+    {
+      "id": "E20261007-F-197-D",
+      "filmKey": "I Was a Male War Bride|1949"
+    },
+    {
+      "id": "SF-202609-P02-L-051",
+      "filmKey": "I, Robot|2004"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
