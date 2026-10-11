@@ -1,6 +1,6 @@
 # Online-Spielstand: Vollkatalogabrufe entfernen
 
-Stand: 11.10.2026. Diagnose abgeschlossen; Serverumbau im eigenen Worktree lokal umgesetzt, erweiterte Abnahme läuft. Noch keine Veröffentlichung oder Rücksetzung vorgenommen.
+Stand: 11.10.2026. Serverumbau geprüft und als Version 66 öffentlich veröffentlicht. Der ausdrücklich freigegebene Entwicklungs-Teststand wurde zurückgesetzt; Anmeldung und Profil bleiben erhalten. Kontoöffnung und normale Lernrunden benötigen keine Vollkataloge mehr. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-66.json).
 
 ## Befund
 
@@ -33,4 +33,4 @@ Abnahme des neuen Ablaufs: isolierte Konten und kontrollierte Testzeit, vollstä
 
 ## Aktuelle Umsetzung
 
-[Server-Lernablauf und Optimierung](Server-Lernablauf-2026-10-11.md): einzelne Fragenausgabe, serverseitige Auswertung und Freischaltung, vorbereitete Redaktion, paginierte Themen, begrenzte Belege und inkrementeller privater Fortschritt. Vollständige Lernrunde in Chromium, Firefox und mobilem WebKit ohne Katalogabruf erfolgreich; erweiterte Abnahme und produktiver Rollout noch offen.
+[Server-Lernablauf und Optimierung](Server-Lernablauf-2026-10-11.md): einzelne Fragenausgabe, serverseitige Auswertung und Freischaltung, vorbereitete Redaktion, paginierte Themen, begrenzte Belege und inkrementeller privater Fortschritt. Vollständige Lernrunde in Chromium, Firefox und mobilem WebKit ohne Katalogabruf erfolgreich. 480 Tests und 50 unterschiedliche gezielte Browserfälle bestanden. Backend eingerichtet und Version 66 am 11.10.2026 um 10:06:12 Uhr Europe/Berlin veröffentlicht; reale Handy- und Mehrspieler-Lastabnahme weiterhin nicht behauptet.

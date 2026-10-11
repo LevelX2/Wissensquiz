@@ -1,0 +1,242 @@
+{
+  "asOf": "2026-10-11",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 66,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_9130a55b0cd8819188b19c03be006800",
+  "source_commit": "6321b2029cec3cbfd07319a86b4a977ba60949f7",
+  "deployment_id": "appgdep_6acb4360ee048191a54c7d8eaa5b904b",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-11T08:06:12.792594+00:00",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000951c820ab8c5a84e81212103",
+    "content_hash": "sha256:cde77a98760cae81b3aca5544b5481e26f2293235515399fddec874a17af9b6e",
+    "size_bytes": 77363200,
+    "file_count": 488
+  },
+  "access": {
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "catalog": {
+    "hash": "e1f228ac81d24bf78e8cd36d30031a713731928df264b9fbc33f40b03e0e9576",
+    "questions": 12787,
+    "knowledgeGoals": 12222,
+    "packages": 33,
+    "preparedPresentations": 12787,
+    "exactPresentationMatches": 12787,
+    "questionCatalogChanged": false
+  },
+  "checks": {
+    "tests": 480,
+    "testFiles": 77,
+    "uniqueBrowserCases": 50,
+    "browserCasesAfterFinalSqlCorrection": 25,
+    "unchangedPriorBrowserCases": 25,
+    "typeScript": true,
+    "productionBuild": true,
+    "buildVersion": 66,
+    "packagedBuildByteIdentical": true,
+    "operatorSecretsAbsent": true,
+    "nativeSqlFunctionalProbe": true,
+    "syntheticDatabaseWritesRolledBack": true,
+    "authorizedDevelopmentSaveReset": true,
+    "developmentAccountsReset": 1,
+    "developmentSaveEventsAfterReset": 0,
+    "developmentSaveCatalogReferencesAfterReset": 0,
+    "loginAndProfilePreserved": true,
+    "duelsPreserved": true,
+    "oldSaveCompatibilityAdded": false,
+    "githubPush": false,
+    "releaseMetadataPersistedAndSeparatelyRead": true,
+    "anonymousReleaseRpc": true,
+    "physicalIphoneTest": false,
+    "multiplayerLoadTest": false,
+    "liveFilesByteIdentical": 14,
+    "liveHtmlSourceMatchesAfterCloudflareInjectionRemoval": true
+  },
+  "databaseMeasurements": {
+    "mean_answer_ms": 2.441,
+    "info_json_bytes": 292,
+    "start_json_bytes": 1371,
+    "cold_selection_ms": 481.139,
+    "warm_selection_ms": 224.352,
+    "functional_assertions": "passed; all synthetic rows rolled back",
+    "max_answer_json_bytes": 6865
+  },
+  "advisorCategories": {
+    "security": [
+      "rls_enabled_no_policy",
+      "anon_security_definer_function_executable",
+      "authenticated_security_definer_function_executable",
+      "auth_leaked_password_protection"
+    ],
+    "performance": [
+      "unindexed_foreign_keys",
+      "unused_index"
+    ]
+  },
+  "localArchive": {
+    "fileCount": 488,
+    "buildFiles": 487,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 62651755,
+    "sha256": "39a8ac0b7d17f17052092e97a62110fc64934ea6dbb7128d4ac1f256d31edae9"
+  },
+  "liveReadCheck": {
+    "origin": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "checkedAt": "2026-10-11T08:06:47.443Z",
+    "files": [
+      {
+        "path": "index.html",
+        "status": 200,
+        "sha256": "e5b4d27736458a6ae4b44016053ebe7cc523e5057552f3806399f4e6e866fa23",
+        "expected": "c02963360bc1ace0146438d722d529c54d971fc0112f973225b9e0c78c68975d",
+        "match": false
+      },
+      {
+        "path": "account-config.json",
+        "status": 200,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b",
+        "expected": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b",
+        "match": true
+      },
+      {
+        "path": "film-posters.json",
+        "status": 200,
+        "sha256": "5baa10a47e3af9363c169dbc9227aa24eec545cc605594b0820881343833bdd5",
+        "expected": "5baa10a47e3af9363c169dbc9227aa24eec545cc605594b0820881343833bdd5",
+        "match": true
+      },
+      {
+        "path": "sw.js",
+        "status": 200,
+        "sha256": "f005a22fcf4146fe6724f0e9b52eea6dd2a314677c69d08a8bbc14db9543b34b",
+        "expected": "f005a22fcf4146fe6724f0e9b52eea6dd2a314677c69d08a8bbc14db9543b34b",
+        "match": true
+      },
+      {
+        "path": "assets/CollectionPage-C5KgaeLG.js",
+        "status": 200,
+        "sha256": "fcd3cb7fe83ea050a2aa407d28b6fad81c65ffa6bc4481ce75d2d7a7119dd081",
+        "expected": "fcd3cb7fe83ea050a2aa407d28b6fad81c65ffa6bc4481ce75d2d7a7119dd081",
+        "match": true
+      },
+      {
+        "path": "assets/DuelCenter-BnAe6UjV.js",
+        "status": 200,
+        "sha256": "6d6d17438a9e3a2f47c9976d90b412bac8c7f6851bfb9520c8eb207bbff16177",
+        "expected": "6d6d17438a9e3a2f47c9976d90b412bac8c7f6851bfb9520c8eb207bbff16177",
+        "match": true
+      },
+      {
+        "path": "assets/duels-DjFG3Jbt.js",
+        "status": 200,
+        "sha256": "64d74110e00e15536b4e80b0974ccc6054a602c661a693140ab44aaf4fbb1d66",
+        "expected": "64d74110e00e15536b4e80b0974ccc6054a602c661a693140ab44aaf4fbb1d66",
+        "match": true
+      },
+      {
+        "path": "assets/Help-Bg75zOSs.js",
+        "status": 200,
+        "sha256": "2d6aede0928734b06e27c42a31000e1961db43f491f632a89ea862b5d85eb817",
+        "expected": "2d6aede0928734b06e27c42a31000e1961db43f491f632a89ea862b5d85eb817",
+        "match": true
+      },
+      {
+        "path": "assets/index-BDm0pkFf.js",
+        "status": 200,
+        "sha256": "48d12f7d2ab16dfb3bfa2a9203617b981a83d5880aaaa46730732704964a6c5e",
+        "expected": "48d12f7d2ab16dfb3bfa2a9203617b981a83d5880aaaa46730732704964a6c5e",
+        "match": true
+      },
+      {
+        "path": "assets/index-X7flbzvg.css",
+        "status": 200,
+        "sha256": "4c69ee1c4f6266b154492a7361f969d4717aa8b55a8d667dc8d26186454829c6",
+        "expected": "4c69ee1c4f6266b154492a7361f969d4717aa8b55a8d667dc8d26186454829c6",
+        "match": true
+      },
+      {
+        "path": "assets/RecordLeaderboard-c1tVmJTf.js",
+        "status": 200,
+        "sha256": "dd58fe525c5d58360453367f6170c4a7b9cc498659467d0be396653d73b35d09",
+        "expected": "dd58fe525c5d58360453367f6170c4a7b9cc498659467d0be396653d73b35d09",
+        "match": true
+      },
+      {
+        "path": "assets/ServerTopicList-CqLjL8j3.js",
+        "status": 200,
+        "sha256": "2e187ca5c7515fde352e4b2700afffe3b171cb9153e76a46a2539f4010d3c14a",
+        "expected": "2e187ca5c7515fde352e4b2700afffe3b171cb9153e76a46a2539f4010d3c14a",
+        "match": true
+      },
+      {
+        "path": "assets/Settings-Cy1APBdB.js",
+        "status": 200,
+        "sha256": "8b7fd2e0b2b4f8c089656039e8e6606e42eeff0e86392caacbaf84c6a9c42b7e",
+        "expected": "8b7fd2e0b2b4f8c089656039e8e6606e42eeff0e86392caacbaf84c6a9c42b7e",
+        "match": true
+      },
+      {
+        "path": "assets/stateProcessing.worker-BdxxGtre.js",
+        "status": 200,
+        "sha256": "a5c51e5192156014827585ddc2fe4aab78492538a2cc8ab722705857200fffde",
+        "expected": "a5c51e5192156014827585ddc2fe4aab78492538a2cc8ab722705857200fffde",
+        "match": true
+      },
+      {
+        "path": "assets/TopicsPage-BgQoa1Fr.js",
+        "status": 200,
+        "sha256": "1b94d065df644c5904bbe88f5db0fb02bfc6aa420690689d3924695abcc83476",
+        "expected": "1b94d065df644c5904bbe88f5db0fb02bfc6aa420690689d3924695abcc83476",
+        "match": true
+      }
+    ],
+    "html": {
+      "status": 200,
+      "sourceMatchesAfterPlatformInjectionRemoval": true,
+      "platformInjection": "Cloudflare JavaScript Detection",
+      "currentBuildAssetsReferenced": true
+    }
+  },
+  "migrations": [
+    {
+      "file": "20261011070000_server_question_views.sql",
+      "sha256": "f608fe394d906ff6e81632081bc75f13023948b67fffbedf783d0c8e8a48428b",
+      "installed": true
+    },
+    {
+      "file": "20261011071000_server_learning_runs.sql",
+      "sha256": "762fcd4cd7752c12c6821d613c6ff9834a504d0289ba5908bd9a50c4077d9700",
+      "installed": true
+    },
+    {
+      "file": "20261011072000_server_progress_writes.sql",
+      "sha256": "5cb651aca729a0c9c85447cedccadc72e8c92b336269fedf8a50eeb332afee04",
+      "installed": true
+    },
+    {
+      "file": "20261011073000_question_presentations.sql",
+      "sha256": "18f26a007c50cdd43d5e6ea00283315a7fc82f91aa9e9df6b4a30e2d7ad68a2e",
+      "installed": true
+    },
+    {
+      "file": "20261011074000_server_save_activation.sql",
+      "sha256": "6dc0e4076a163122a156c46117f93833346b4d31d5709a5be7bbbc045e113388",
+      "installed": true
+    },
+    {
+      "file": "20261011075000_server_round_review.sql",
+      "sha256": "011c84041626f171e6baa93f67c7215b90e25c6c4b58dfac78fad2013274844e",
+      "installed": true
+    },
+    {
+      "file": "20261011080000_server_topic_filter.sql",
+      "sha256": "49846a6c75ab5443f182ebeef7ff4717ab988e7f6ff21ac7105e5f557113492d",
+      "installed": true
+    }
+  ]
+}

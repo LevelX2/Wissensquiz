@@ -1899,3 +1899,10 @@ Im ausdrücklich beauftragten eigenen Worktree normale Lernrunden auf einzelne s
 ## 11.10.2026 – Serverlernablauf nativ eingerichtet und geprüft
 
 Sieben Migrationen, aktuelle Metadaten und 12.787 vorbereitete Fragendarstellungen in Supabase installiert. Native Zehnerrunde mit Wiederaufnahme, exakten Antwortbelegen, Lernprojektion und Rückblick erfolgreich; synthetische Daten vollständig zurückgerollt. SQL-Themenbindung gegen gleichnamiges Katalogfeld korrigiert und Classics-Auswahl produktiv lesend geprüft. Gezielte freigegebene Entwicklungs-Rücksetzung atomar geprobt und zurückgerollt; tatsächlicher Stand noch erhalten. Versionsbuild 66 und TypeScript erfolgreich, letzte lokale Abnahme läuft. [Konzept und Messgrenzen](../../docs/Server-Lernablauf-2026-10-11.md).
+
+
+## 11.10.2026 – Version 66 veröffentlicht, freigegebener Teststand zurückgesetzt
+
+Serverlernablauf mit einzelnen Fragen, autoritativer Auswahl/Auswertung, vorbereiteten Inhalten, begrenzten Übersichten, Cache und inkrementellem Fortschrittsabruf vollständig eingerichtet und um 10:06:12 Uhr Europe/Berlin als Version 66 veröffentlicht. Öffentliche Adresse und Zugriff erhalten. Sieben Migrationen und 12.787 Darstellungen installiert. Ausschließlich den ausdrücklich freigegebenen Entwicklungs-Teststand atomar zurückgesetzt; Anmeldung, Profil und Duelle erhalten, keine Altstandmigration.
+
+480 Tests in 77 Dateien, 50 unterschiedliche gezielte Browserfälle, TypeScript/Versionsbuild, native synthetische PostgreSQL-Abnahme, Archivgleichheit und öffentliche Dateiprüfung erfolgreich. 14 Live-Dateien bytegleich, HTML nach Entfernung der Hosting-Ergänzung passend; Versionszeit und Quellcommit separat und anonym live bestätigt. Haupt-JavaScript rund 79 % kleiner komprimiert. Kein physischer iPhone- oder Mehrspieler-Lasttest; kein GitHub-Push. [Vollständiger Veröffentlichungsnachweis](../../docs/Veroeffentlichung-2026-10-11-Version-66.json), [Konzept und Grenzen](../../docs/Server-Lernablauf-2026-10-11.md).

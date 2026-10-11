@@ -1,10 +1,10 @@
 # Lernablauf ohne Clientkatalog
 
-Stand: 11.10.2026. Im beauftragten Worktree umgesetzt. Alle sieben Migrationen sowie die Metadaten und 12.787 vorbereiteten Fragendarstellungen sind in Supabase installiert. Lokale Abnahme und native Datenbankprüfung erfolgreich; Veröffentlichung noch offen.
+Stand: 11.10.2026. Als **Version 66 öffentlich veröffentlicht**, nativer Status `succeeded`, um 10:06:12 Uhr Europe/Berlin. Alle sieben Migrationen sowie die Metadaten und 12.787 vorbereiteten Fragendarstellungen sind in Supabase installiert. 480 Tests, 50 gezielte Browserfälle, native Datenbankprüfung, Archivvergleich und öffentliche Dateiprüfung erfolgreich. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-66.json).
 
 ## Auftrag und Datenfluss
 
-Der Kontostart lädt kleine Inhaltsmetadaten und privaten Fortschritt; die unabhängigen Metadatenaufrufe erfolgen gleichzeitig. Das aktive Format verwendet `catalog: {source: "server", parts: []}`. Alte Speicherformate werden vor jedem Katalogabruf ausdrücklich abgelehnt. Keine Migration, kein neuer Altstandadapter. Die freigegebene Rücksetzung betrifft ausschließlich den Entwicklungs-Teststand. [Ursache und Freigaben](Online-Spielstand-Ladefehler-2026-10-11.md).
+Der Kontostart lädt kleine Inhaltsmetadaten und privaten Fortschritt; die unabhängigen Metadatenaufrufe erfolgen gleichzeitig. Das aktive Format verwendet `catalog: {source: "server", parts: []}`. Alte Speicherformate werden vor jedem Katalogabruf ausdrücklich abgelehnt. Keine Migration, kein neuer Altstandadapter. Der ausdrücklich freigegebene Entwicklungs-Teststand wurde vor der Veröffentlichung atomar zurückgesetzt. Anmeldung, Profil und bestehende Duelle blieben erhalten; der neue leere Stand enthält keine Katalogverweise. Andere Konten wurden nicht zurückgesetzt. [Ursache und Freigaben](Online-Spielstand-Ladefehler-2026-10-11.md).
 
 - `quiz_game_view`: Auswahlzahlen, Filmreise-Freischaltungen, Lernübersichten und höchstens 40 Themen mit Fortsetzungscursor; keine Fragen oder Lösungen.
 - `quiz_game_call`: Auswahl von bis zu zehn verschiedenen Wissenszielen und jeweils einer Variante; die zukünftige Folge bleibt privat. Eine Fragenausgabe enthält nur die aktuelle Frage, vier Antworttexte und sichere Anzeigehinweise. Korrektheit, Rückmeldungen, Namen, Quellen und Vertiefungen erscheinen mit der bestätigten Antwort.

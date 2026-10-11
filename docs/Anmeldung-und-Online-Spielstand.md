@@ -2,7 +2,7 @@
 
 ## Serverablauf ohne Clientkatalog
 
-Am 11.10.2026 im beauftragten Worktree umgesetzt und im Backend eingerichtet; Veröffentlichung noch offen: [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Normale Lernrunden werden ebenfalls serverseitig ausgewählt und ausgewertet; Kontostart und Navigation benötigen keinen Vollkatalog. Wiederaufnahme erhält die zuletzt ausgegebene Frage und bestätigte Auflösung. Aktuelle manuelle Sicherungen tragen eine eigene Formatkennung; keine Übernahme alter Spielstände. Entwicklungs-Teststand darf ausdrücklich zurückgesetzt werden.
+Seit Version 66 am 11.10.2026 veröffentlicht und im Backend eingerichtet: [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Normale Lernrunden werden ebenfalls serverseitig ausgewählt und ausgewertet; Kontostart und Navigation benötigen keinen Vollkatalog. Wiederaufnahme erhält die zuletzt ausgegebene Frage und bestätigte Auflösung. Aktuelle manuelle Sicherungen tragen eine eigene Formatkennung; keine Übernahme alter Spielstände. Entwicklungs-Teststand mit ausdrücklicher Freigabe atomar zurückgesetzt; Anmeldung und Profil erhalten. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-66.json).
 
 ## Verbindlicher Nutzerauftrag
 
@@ -12,7 +12,7 @@ Der frühere Auftrag zur Anmeldung vor jedem Spiel ist seit Sites-Version 59 ver
 
 ## Servergeprüfte Zeitrunden und weitere Geräte
 
-Ergänzung für Kontospiele: [Servergeprüfte Zeitrunden](Servergepruefte-Zeitrunden-2026-10-10.md) sind lokal umgesetzt, noch nicht veröffentlicht. Genau ein aktiver Solo-Zeitlauf pro Konto, gebunden an die Sitzung im offenen Tab; Öffnen eines zweiten Geräts beendet ihn nicht. Neuladen ermöglicht weder Fortsetzen noch Zeitneustart. Bewusstes Beenden des bestehenden Laufs ist vor einem neuen Start erforderlich. Antworten werden sofort autoritativ online gesichert, der kompakte private Lernstand am Ende oder Abbruch gesammelt abgeglichen; geschlossene fehlende Antworten lassen sich beim nächsten Öffnen einmalig wiederherstellen. Normale Lernrunden behalten Revisionsprüfung und explizites Neuladen bei Gerätekonflikten. Die Proberunde bleibt ohne Zeitwertung.
+Ergänzung für Kontospiele: [Servergeprüfte Zeitrunden](Servergepruefte-Zeitrunden-2026-10-10.md) sind seit Version 64 veröffentlicht. Genau ein aktiver Solo-Zeitlauf pro Konto, gebunden an die Sitzung im offenen Tab; Öffnen eines zweiten Geräts beendet ihn nicht. Neuladen ermöglicht weder Fortsetzen noch Zeitneustart. Bewusstes Beenden des bestehenden Laufs ist vor einem neuen Start erforderlich. Antworten werden sofort autoritativ online gesichert, der kompakte private Lernstand am Ende oder Abbruch gesammelt abgeglichen; geschlossene fehlende Antworten lassen sich beim nächsten Öffnen einmalig wiederherstellen. Normale Lernrunden behalten Revisionsprüfung und explizites Neuladen bei Gerätekonflikten. Die Proberunde bleibt ohne Zeitwertung.
 
 ## Einmalige Proberunde
 
@@ -54,6 +54,6 @@ Offline-Cache und lokaler Spielstand sind bereits im ersten Repository-Commit `8
 
 ## Prüfung und Veröffentlichung
 
-Die [Nachprüfung der Datenübertragung vom 10.10.2026](Online-Datenuebertragung-2026-10-10.md) bestätigt kleine Änderungspakete für normale Runden und dokumentiert noch große Pakete bei Fehlerfrei/Zeitkonto. Lokal werden kleine neue Inhalte mit derselben atomaren Änderungsanfrage übertragen; Katalog und Metadaten laden parallel. Keine Änderung der Serverbestätigung oder der ausschließlich privaten Online-Speicherung; noch nicht veröffentlicht.
+Die [Nachprüfung der Datenübertragung vom 10.10.2026](Online-Datenuebertragung-2026-10-10.md) hält den damaligen Stand mit noch großen Paketen bei Fehlerfrei/Zeitkonto fest. Seit Version 64 verwenden diese servergeprüften Zeitrunden kleine Anfragen; seit Version 66 gelten einzelne Fragenausgabe und Serverauswertung auch für normale Lernrunden. Ein Clientvollkatalog wird für den Kontostart nicht geladen. Serverbestätigung und ausschließlich private Online-Speicherung bleiben verbindlich.
 
-Isolierte Browserkonten verwenden ausschließlich synthetische Daten und das echte SQL-Speicherprotokoll in PGlite. Prüfergebnisse stehen im [Prüfbericht](Pruefbericht.md). Keine echten Nutzerdaten für Testspiele. Beim Serverumbau vom 11.10.2026 sieben Backendmigrationen und vorbereitete Inhalte eingerichtet; native synthetische Prüfungen vollständig zurückgerollt. Die ausdrückliche Rücksetzung des Entwicklungs-Teststands und Veröffentlichung sind getrennte, freigegebene Betriebsschritte. [Aktueller Ablauf und Nachweise](Server-Lernablauf-2026-10-11.md).
+Isolierte Browserkonten verwenden ausschließlich synthetische Daten und das echte SQL-Speicherprotokoll in PGlite. Prüfergebnisse stehen im [Prüfbericht](Pruefbericht.md). Keine echten Nutzerdaten für Testspiele. Beim Serverumbau vom 11.10.2026 sieben Backendmigrationen und vorbereitete Inhalte eingerichtet; native synthetische Prüfungen vollständig zurückgerollt. Die ausdrücklich freigegebene Rücksetzung des Entwicklungs-Teststands wurde atomar ausgeführt; Version 66 wurde anschließend veröffentlicht und öffentlich lesend nachgeprüft. [Aktueller Ablauf und Nachweise](Server-Lernablauf-2026-10-11.md).
