@@ -9,8 +9,8 @@ import { pathQuestions } from "../src/learningPath";
 import { validateBackup } from "../src/storage";
 import { filmData } from "../src/filmFacts";
 import filmSource from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json";
-import { assertEditorialSource, editorialCsvIds, currentQuestionId } from "./editorialSource";
-import integration from "../docs/Redaktionslauf-2026-10-10/Integration.json";
+import { assertEditorialSource, editorialCsvIds, currentQuestionId, baselineCsvRow } from "./editorialSource";
+import integration from "./fixtures/appliedEditorial.json";
 
 const packageIndex = packages.findIndex(
   (p) => p.filename === "Alle_Genres_120_Filme_960_Fragen.csv",
@@ -143,7 +143,7 @@ it("verbindet alle 120 gelieferten Filmdaten mit den bestehenden CSV-Fragen, ohn
         (candidate.metadata.question_type === "Regie" || candidate.question.includes("Wer führte bei dieser Fassung Regie?") || candidate.question.includes("Welche beiden Regisseure werden für diese Fassung genannt?")),
     )!;
     const revised = integration.changes.find(c=>c.after.question_id===director.id);
-    expect(data.directorContext).toBe(revised?.before.explanation_context ?? director.context);
+    expect(data.directorContext).toBe(revised ? baselineCsvRow(revised.file, revised.id).explanation_context : director.context);
   }
   expect(
     filmSource.films.filter(

@@ -1,14 +1,8 @@
 # Erklärungstiefe und redaktionelle Ergänzungen
 
-## Zweite Qualitätsrunde am 10.10.2026
+## Aktuelle Fragenredaktion
 
-Nach Freigabe der ersten Runde zehn neue Filme aus dem aktuellen App-Katalog gezogen. Genaue Originalfragen, alle vier Optionen, Kurzantworten und angezeigte Vertiefungen vollständig gesichert und den Vorschlägen gegenübergestellt. Alle zehn Lösungsschlüssel im Quellenabgleich bestätigt; bei Starman beantwortet die Kurzantwort die Körperherstellung statt der gesuchten Gestalt. Stirb langsam bleibt in Kurzantwort und Vertiefung erhalten. Neun Vertiefungsvorschläge und zwei vollständige neue Antwortauswahlen zur Durchsicht; Fitzcarraldo zunächst mittel statt schwer empfohlen. Fack ju Göhte bleibt trotz konkreterer Erklärung ein schwaches Detailziel. Anschließend bestätigt der Nutzer die angesehenen Ansätze als gute Richtung und präzisiert die Handlungsverankerung für passende Vertiefungen. Redaktionsvertrag und Skill gezielt ergänzt; keine App-Pakete geändert. [Rückmeldung und Präzisierung](Redaktionspruefung-2026-10-10/Runde-02-Rueckmeldung.md), [vollständiger Vergleich, Quellen und Prüfgrenzen](Redaktionspruefung-2026-10-10/Runde-02.md), [Originale und Vorschläge](Redaktionspruefung-2026-10-10/Runde-02.json).
-
-## Qualitätsprüfung von zehn Fragen am 10.10.2026
-
-Auf Nutzerauftrag eine vor dem Lesen gezogene Stichprobe aus zehn Genres geprüft: drei leichte, vier mittlere und drei schwere Fragen einschließlich einer CSV-Regiefrage. Aktueller App-Katalog mit 12.773 Fragen, tatsächliche Anzeigetexte und sichtbares Antwortfeedback berücksichtigt. Alle zehn Lösungsschlüssel im Quellenabgleich bestätigt; bei Orlando beantwortet die Kurzantwort „Elizabeth I.“ allerdings die falsche Frage. Redaktionelles Urteil: Playtime unverändert lassen, drei Fragen gezielt verfeinern, sechs deutlicher überarbeiten. Keine repräsentative Bestandsquote.
-
-Mehrfach fehlt das anschauliche Detail hinter einer allgemeinen Deutung: Hari bei Solaris, spiegelnde Satteltaschen bei Nobody oder die konkrete Schusshandlung bei Vier im roten Kreis. Gute bestehende Szenenerklärungen erhalten; keine neue feste Vertiefungsschablone oder obligatorische Produktionsanekdote ableiten. Originaltexte, Einzelbewertungen, mögliche Neufassungen, gelesene Quellen und Prüfgrenzen: [Prüfung und Vorschläge](Redaktionspruefung-2026-10-10/Pruefung.md), [versionierter Stichprobennachweis](Redaktionspruefung-2026-10-10/Stichprobe.json). Anschließend vom Nutzer freigegeben: [letzte Textfassung und Skill-Präzisierungen](Redaktionspruefung-2026-10-10/Freigabe.md). Redaktionsvertrag und Skill aktualisiert; Fragenpakete und Anzeigeergänzungen noch unverändert. Das zusätzliche Stativdetail ist sekundär belegt und vor Übernahme möglichst direkt an der Szene zu prüfen.
+Die aktuellen Fragetexte und Quellen stehen in [Fragen.json](Fragenredaktion/Fragen.json), der knappe Bearbeitungsstand in [Fortschritt.json](Fragenredaktion/Fortschritt.json). 4.650 Originalfragen sind geprüft, 8.123 offen; Block 91 ist noch nicht aufgenommen. Die Redaktion bis Block 17 ist seit Version 65 veröffentlicht. Spätere Fassungen bleiben Redaktion.
 
 ## Maßstab
 

@@ -1890,3 +1890,8 @@ Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowi
 Alle 50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche zwei Ergänzungen und acht Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Ghost→Mind→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Vertiefungen werden nicht allein zur Vereinheitlichung ersetzt. Die sachlich falsche Kündigungsursache in Keinohrhasen wurde in Antwort und Vertiefung gemeinsam korrigiert; bestehende Frage- und Wissensziel-ID bleiben erhalten.
 
 Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand: 4.650 von 12.773 Original-IDs geprüft, 8.123 offen (6.083 Filmfragen und 2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-90.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-90-Pruefnachweis.json).
+
+
+## 11.10.2026 – Fragenredaktion ohne Umstellungsprotokolle
+
+Auf ausdrücklichen Nutzerwunsch die Alt/Neu-Berichte und separaten Prüfprotokolle entfernt. Aktuelle Fragetexte mit Quellen und der Bearbeitungsstand bleiben in `docs/Fragenredaktion/` erhalten; weitere Redaktion ohne solche Protokolle. Historische Logeinträge bleiben unverändert und können auf die inzwischen entfernten Dateien verweisen.

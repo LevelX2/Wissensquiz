@@ -8,7 +8,7 @@ import { genreOf, questionSourceOf } from "../src/filters";
 import films from "../docs/Genres-100-2026-10-08/Filmdaten.json";
 import { catalogCounts } from "./catalog-counts";
 import { assertEditorialSource } from "./editorialSource";
-import integration from "../docs/Redaktionslauf-2026-10-10/Integration.json";
+import integration from "./fixtures/appliedEditorial.json";
 
 const contents = packages.map((p) => ({
   filename: p.filename,
