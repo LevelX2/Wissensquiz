@@ -2,7 +2,7 @@
 
 Stand: 10.10.2026, seit Sites-Version 62 um 11:02:31 Uhr Europe/Berlin veröffentlicht. [Nachweis](Veroeffentlichung-2026-10-10-Version-62.json).
 
-**11.10.2026 lokal erweitert, noch nicht veröffentlicht:** Wiederholen berücksichtigt alle gewählten Fragenbereiche. Filmreise und Freies Spiel stellen innerhalb der letzten 24 Stunden richtig beantwortete, noch nicht fällige Wissensziele zurück, solange passende Alternativen vorhanden sind. [Aktueller Auswahlvertrag](#alle-fragenbereiche-und-24-stunden-abstand--11102026).
+**11.10.2026 erweitert und als Version 71 um 23:00:15 Uhr Europe/Berlin veröffentlicht:** Wiederholen berücksichtigt alle gewählten Fragenbereiche. Filmreise und Freies Spiel stellen innerhalb der letzten 24 Stunden richtig beantwortete, noch nicht fällige Wissensziele zurück, solange passende Alternativen vorhanden sind. [Aktueller Auswahlvertrag](#alle-fragenbereiche-und-24-stunden-abstand--11102026), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-71.json).
 
 ## Befund und Entscheidung
 
@@ -24,7 +24,7 @@ In **Filmreise und Freiem Spiel** erhält ein Ziel nach jeder richtigen Antwort 
 
 Passende Alternativen werden zuerst verwendet, einschließlich bereits bekannter, noch nicht fälliger Ziele ohne diese Zurückstellung. Erst wenn davon zu wenige für die Runde vorhanden sind, füllen zurückgestellte Ziele auf. Fällige Ziele werden unabhängig von einem kürzlich richtigen Treffer zugelassen; Lernintervalle und lokale Tagesgrenze bleiben maßgeblich. Wiederholen enthält ohnehin ausschließlich fällige Ziele. Die bestehende Filmreise-Mischung aus vier fälligen und sechs neuen Zielen sowie die Gleichverteilung neuer Schwierigkeiten bleiben erhalten. Rekordläufe und Duelle bleiben vom persönlichen 24-Stunden-Abstand unabhängig und behalten ihre Wettbewerbsregeln.
 
-Der Server liest nur die richtigen Antwortereignisse des aktuellen Kontostands innerhalb dieses Zeitfensters über einen neuen privaten Konto-/Zeitindex. Keine neuen Lernstandfelder, keine Historienrückfüllung und kein zusätzlicher Netzwerkaufruf. Lokale Prüf- und Proberundenlogik verwendet denselben Ereignisbezug. Laufende Runden behalten ihre bereits ausgewählte Folge. Datenbankdatei: `20261011203247_learning_repetition_all_sources_and_correct_cooldown.sql`. Diese Umsetzung ist lokal vorbereitet; produktive Datenbank und Website wurden durch diesen Auftrag nicht veröffentlicht.
+Der Server liest nur die richtigen Antwortereignisse des aktuellen Kontostands innerhalb dieses Zeitfensters über einen neuen privaten Konto-/Zeitindex. Keine neuen Lernstandfelder, keine Historienrückfüllung und kein zusätzlicher Netzwerkaufruf. Lokale Prüf- und Proberundenlogik verwendet denselben Ereignisbezug. Laufende Runden behalten ihre bereits ausgewählte Folge. Datenbankdatei: `20261011203247_learning_repetition_all_sources_and_correct_cooldown.sql`. Auf anschließenden Veröffentlichungsauftrag produktiv installiert und als Website-Version 71 veröffentlicht; alle privaten Fortschrittseinträge atomar unverändert bestätigt, synthetische Prüfung vollständig zurückgerollt.
 
 ## Kompakte Zahlen und goldene Klappen
 
