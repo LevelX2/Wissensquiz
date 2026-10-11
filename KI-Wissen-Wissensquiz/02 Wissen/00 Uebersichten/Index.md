@@ -9,7 +9,7 @@
 - [GitHub-Meldungsdienst: fehlenden Schlüssel eingerichtet, Live-Abnahme und Betrieb – 10.10.2026](../../../docs/GitHub-Meldungen.md)
 
 - [Aktuelle Fragetexte und Quellen](../../../docs/Fragenredaktion/Fragen.json)
-- [Redaktionsfortschritt: 4.700 Originalfragen geprüft, 8.073 offen; Block 91 abgeschlossen](../../../docs/Fragenredaktion/Fortschritt.json)
+- [Redaktionsfortschritt: 4.750 Originalfragen geprüft, 8.023 offen; Block 92 abgeschlossen](../../../docs/Fragenredaktion/Fortschritt.json)
 
 - [Version 64: gesamter Main-Stand einschließlich Proberunde, Serverzeit, Wettbewerbs-XP und Menüicons veröffentlicht](../../../docs/Sites-Betrieb.md)
 - [Version 64: Quellen-, Backend-, Archiv- und Live-Nachweis](../../../docs/Veroeffentlichung-2026-10-10-Version-64.json)
