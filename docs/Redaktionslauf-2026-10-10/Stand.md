@@ -72,9 +72,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 66: vollständiger Alt/Neu-Vergleich](Block-66.md) und [strukturierter Nachweis](Block-66.json): 50 Fragen, 20 Vertiefungen geändert, 30 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 67: vollständiger Alt/Neu-Vergleich](Block-67.md) und [strukturierter Nachweis](Block-67.json): 50 Fragen, 32 Vertiefungen geändert, 18 erhalten, 0 Fragen vollständig unverändert; 3 von 6 betroffenen Filmgruppen abgeschlossen.
 - [Block 68: vollständiger Alt/Neu-Vergleich](Block-68.md) und [strukturierter Nachweis](Block-68.json): 50 Fragen, 29 Vertiefungen geändert, 21 erhalten, 0 Fragen vollständig unverändert; 3 von 7 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 3550 von 12.773 IDs redaktionell erfasst.
-- Offen: 7183 Filmfragen und 2040 weitere Fragen; zusammen 9223. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 68 schließt die drei restlichen Ghostbusters-Originale ab und prüft Gigi, Gilda, Police Story 2, Todesmelodie und GoldenEye vollständig. Von Goldfinger sind sieben der 14 Originale in diesem Block geprüft, sieben folgen später. Unvollständige Mindestziele sind ausdrücklich dokumentiert. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Keine App-Integration durch diesen Block.
+- [Block 69: vollständiger Alt/Neu-Vergleich](Block-69.md) und [strukturierter Nachweis](Block-69.json): 50 Fragen, 24 Vertiefungen geändert, 26 erhalten, 0 Fragen vollständig unverändert; 4 von 6 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 3600 von 12.773 IDs redaktionell erfasst.
+- Offen: 7133 Filmfragen und 2040 weitere Fragen; zusammen 9173. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 69 schließt die sieben restlichen Goldfinger-Originale ab und prüft Gone Girl, Good Boys, Good Bye, Lenin! und Good Time vollständig. Von Good Will Hunting sind zehn der elf Originale in diesem Block geprüft; Regie und zwei schwere Mindestziele folgen beim Filmabschluss. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Keine App-Integration durch diesen Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 
