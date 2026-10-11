@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 4400,
-  "totalReviewed": 4550,
-  "remainingFilmQuestions": 6183,
+  "completedInThisRun": 4450,
+  "totalReviewed": 4600,
+  "remainingFilmQuestions": 6133,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 8223,
+  "remainingAllQuestions": 8173,
   "blocks": [
     {
       "block": 1,
@@ -448,6 +448,11 @@
     {
       "block": 88,
       "path": "Block-88.json",
+      "count": 50
+    },
+    {
+      "block": 89,
+      "path": "Block-89.json",
       "count": 50
     }
   ],
@@ -5001,209 +5006,59 @@
     "E20261007-F-174-M2",
     "E20261007-F-174-S1",
     "E20261007-F-174-S2",
-    "E20261007-F-174-Y"
+    "E20261007-F-174-Y",
+    "E20261007-F-174-D",
+    "E20261007-F-191-L1",
+    "E20261007-F-191-L2",
+    "E20261007-F-191-M1",
+    "E20261007-F-191-M2",
+    "E20261007-F-191-S1",
+    "E20261007-F-191-S2",
+    "E20261007-F-191-Y",
+    "E20261007-F-191-D",
+    "E20261007-F-261-L1",
+    "E20261007-F-261-L2",
+    "E20261007-F-261-M1",
+    "E20261007-F-261-M2",
+    "E20261007-F-261-S1",
+    "E20261007-F-261-S2",
+    "E20261007-F-261-Y",
+    "E20261007-F-261-D",
+    "SF-L-014",
+    "SF-M-014",
+    "SF-S-014",
+    "FF-139-YEAR",
+    "FF-139-DIRECTOR",
+    "SF-L-015",
+    "SF-M-015",
+    "SF-S-015",
+    "FF-140-YEAR",
+    "FF-140-DIRECTOR",
+    "F240-20261006-127-L1",
+    "F240-20261006-127-L2",
+    "F240-20261006-127-M1",
+    "F240-20261006-127-M2",
+    "F240-20261006-127-S1",
+    "F240-20261006-127-S2",
+    "F240-20261006-127-Y",
+    "F240-20261006-127-D",
+    "E20261007-F-094-L1",
+    "E20261007-F-094-L2",
+    "E20261007-F-094-M1",
+    "E20261007-F-094-M2",
+    "E20261007-F-094-S1",
+    "E20261007-F-094-S2",
+    "E20261007-F-094-Y",
+    "E20261007-F-094-D",
+    "KOM-202610-P01-L-019",
+    "KOM-202610-P01-L-020",
+    "KOM-202610-P01-M-028",
+    "KOM-202610-P01-M-029",
+    "KOM-202610-P01-S-028",
+    "KOM-202610-P01-S-029",
+    "KOM-202610-P01-M-030"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "E20261007-F-174-D",
-      "filmKey": "Judy|2019"
-    },
-    {
-      "id": "E20261007-F-191-L1",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-L2",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-M1",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-M2",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-S1",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-S2",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-Y",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-D",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-261-L1",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-L2",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-M1",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-M2",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-S1",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-S2",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-Y",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-D",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "SF-L-014",
-      "filmKey": "Jurassic Park|1993"
-    },
-    {
-      "id": "SF-M-014",
-      "filmKey": "Jurassic Park|1993"
-    },
-    {
-      "id": "SF-S-014",
-      "filmKey": "Jurassic Park|1993"
-    },
-    {
-      "id": "FF-139-YEAR",
-      "filmKey": "Jurassic Park|1993"
-    },
-    {
-      "id": "FF-139-DIRECTOR",
-      "filmKey": "Jurassic Park|1993"
-    },
-    {
-      "id": "SF-L-015",
-      "filmKey": "Jurassic World|2015"
-    },
-    {
-      "id": "SF-M-015",
-      "filmKey": "Jurassic World|2015"
-    },
-    {
-      "id": "SF-S-015",
-      "filmKey": "Jurassic World|2015"
-    },
-    {
-      "id": "FF-140-YEAR",
-      "filmKey": "Jurassic World|2015"
-    },
-    {
-      "id": "FF-140-DIRECTOR",
-      "filmKey": "Jurassic World|2015"
-    },
-    {
-      "id": "F240-20261006-127-L1",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-L2",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-M1",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-M2",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-S1",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-S2",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-Y",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-D",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "E20261007-F-094-L1",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-L2",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-M1",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-M2",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-S1",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-S2",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-Y",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-D",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "KOM-202610-P01-L-019",
-      "filmKey": "Kehraus|1983"
-    },
-    {
-      "id": "KOM-202610-P01-L-020",
-      "filmKey": "Kehraus|1983"
-    },
-    {
-      "id": "KOM-202610-P01-M-028",
-      "filmKey": "Kehraus|1983"
-    },
-    {
-      "id": "KOM-202610-P01-M-029",
-      "filmKey": "Kehraus|1983"
-    },
-    {
-      "id": "KOM-202610-P01-S-028",
-      "filmKey": "Kehraus|1983"
-    },
-    {
-      "id": "KOM-202610-P01-S-029",
-      "filmKey": "Kehraus|1983"
-    },
-    {
-      "id": "KOM-202610-P01-M-030",
-      "filmKey": "Kehraus|1983"
-    },
     {
       "id": "KOM-202610-P01-S-030",
       "filmKey": "Kehraus|1983"
@@ -29739,204 +29594,204 @@
   ],
   "next": [
     {
-      "id": "E20261007-F-174-D",
-      "filmKey": "Judy|2019"
-    },
-    {
-      "id": "E20261007-F-191-L1",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-L2",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-M1",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-M2",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-S1",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-S2",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-Y",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-191-D",
-      "filmKey": "Juliet, Naked|2018"
-    },
-    {
-      "id": "E20261007-F-261-L1",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-L2",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-M1",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-M2",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-S1",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-S2",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-Y",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "E20261007-F-261-D",
-      "filmKey": "Jungfrukällan|1960"
-    },
-    {
-      "id": "SF-L-014",
-      "filmKey": "Jurassic Park|1993"
-    },
-    {
-      "id": "SF-M-014",
-      "filmKey": "Jurassic Park|1993"
-    },
-    {
-      "id": "SF-S-014",
-      "filmKey": "Jurassic Park|1993"
-    },
-    {
-      "id": "FF-139-YEAR",
-      "filmKey": "Jurassic Park|1993"
-    },
-    {
-      "id": "FF-139-DIRECTOR",
-      "filmKey": "Jurassic Park|1993"
-    },
-    {
-      "id": "SF-L-015",
-      "filmKey": "Jurassic World|2015"
-    },
-    {
-      "id": "SF-M-015",
-      "filmKey": "Jurassic World|2015"
-    },
-    {
-      "id": "SF-S-015",
-      "filmKey": "Jurassic World|2015"
-    },
-    {
-      "id": "FF-140-YEAR",
-      "filmKey": "Jurassic World|2015"
-    },
-    {
-      "id": "FF-140-DIRECTOR",
-      "filmKey": "Jurassic World|2015"
-    },
-    {
-      "id": "F240-20261006-127-L1",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-L2",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-M1",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-M2",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-S1",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-S2",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-Y",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "F240-20261006-127-D",
-      "filmKey": "Jūsannin no Shikaku|2010"
-    },
-    {
-      "id": "E20261007-F-094-L1",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-L2",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-M1",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-M2",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-S1",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-S2",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-Y",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "E20261007-F-094-D",
-      "filmKey": "Kamera o tomeru na!|2017"
-    },
-    {
-      "id": "KOM-202610-P01-L-019",
+      "id": "KOM-202610-P01-S-030",
       "filmKey": "Kehraus|1983"
     },
     {
-      "id": "KOM-202610-P01-L-020",
-      "filmKey": "Kehraus|1983"
+      "id": "G100-20261008-ROMCOM-023-L1",
+      "filmKey": "Keinohrhasen|2007"
     },
     {
-      "id": "KOM-202610-P01-M-028",
-      "filmKey": "Kehraus|1983"
+      "id": "G100-20261008-ROMCOM-023-L2",
+      "filmKey": "Keinohrhasen|2007"
     },
     {
-      "id": "KOM-202610-P01-M-029",
-      "filmKey": "Kehraus|1983"
+      "id": "G100-20261008-ROMCOM-023-M1",
+      "filmKey": "Keinohrhasen|2007"
     },
     {
-      "id": "KOM-202610-P01-S-028",
-      "filmKey": "Kehraus|1983"
+      "id": "G100-20261008-ROMCOM-023-M2",
+      "filmKey": "Keinohrhasen|2007"
     },
     {
-      "id": "KOM-202610-P01-S-029",
-      "filmKey": "Kehraus|1983"
+      "id": "G100-20261008-ROMCOM-023-S1",
+      "filmKey": "Keinohrhasen|2007"
     },
     {
-      "id": "KOM-202610-P01-M-030",
-      "filmKey": "Kehraus|1983"
+      "id": "G100-20261008-ROMCOM-023-S2",
+      "filmKey": "Keinohrhasen|2007"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-023-Y",
+      "filmKey": "Keinohrhasen|2007"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-023-D",
+      "filmKey": "Keinohrhasen|2007"
+    },
+    {
+      "id": "E20261007-F-043-L1",
+      "filmKey": "Kes|1969"
+    },
+    {
+      "id": "E20261007-F-043-L2",
+      "filmKey": "Kes|1969"
+    },
+    {
+      "id": "E20261007-F-043-M1",
+      "filmKey": "Kes|1969"
+    },
+    {
+      "id": "E20261007-F-043-M2",
+      "filmKey": "Kes|1969"
+    },
+    {
+      "id": "E20261007-F-043-S1",
+      "filmKey": "Kes|1969"
+    },
+    {
+      "id": "E20261007-F-043-S2",
+      "filmKey": "Kes|1969"
+    },
+    {
+      "id": "E20261007-F-043-Y",
+      "filmKey": "Kes|1969"
+    },
+    {
+      "id": "E20261007-F-043-D",
+      "filmKey": "Kes|1969"
+    },
+    {
+      "id": "E20261007-F-245-L1",
+      "filmKey": "Key Largo|1948"
+    },
+    {
+      "id": "E20261007-F-245-L2",
+      "filmKey": "Key Largo|1948"
+    },
+    {
+      "id": "E20261007-F-245-M1",
+      "filmKey": "Key Largo|1948"
+    },
+    {
+      "id": "E20261007-F-245-M2",
+      "filmKey": "Key Largo|1948"
+    },
+    {
+      "id": "E20261007-F-245-S1",
+      "filmKey": "Key Largo|1948"
+    },
+    {
+      "id": "E20261007-F-245-S2",
+      "filmKey": "Key Largo|1948"
+    },
+    {
+      "id": "E20261007-F-245-Y",
+      "filmKey": "Key Largo|1948"
+    },
+    {
+      "id": "E20261007-F-245-D",
+      "filmKey": "Key Largo|1948"
+    },
+    {
+      "id": "E20261007-F-033-L1",
+      "filmKey": "Kick-Ass|2010"
+    },
+    {
+      "id": "E20261007-F-033-L2",
+      "filmKey": "Kick-Ass|2010"
+    },
+    {
+      "id": "E20261007-F-033-M1",
+      "filmKey": "Kick-Ass|2010"
+    },
+    {
+      "id": "E20261007-F-033-M2",
+      "filmKey": "Kick-Ass|2010"
+    },
+    {
+      "id": "E20261007-F-033-S1",
+      "filmKey": "Kick-Ass|2010"
+    },
+    {
+      "id": "E20261007-F-033-S2",
+      "filmKey": "Kick-Ass|2010"
+    },
+    {
+      "id": "E20261007-F-033-Y",
+      "filmKey": "Kick-Ass|2010"
+    },
+    {
+      "id": "E20261007-F-033-D",
+      "filmKey": "Kick-Ass|2010"
+    },
+    {
+      "id": "F240-20261006-129-L1",
+      "filmKey": "Kill Bill: Volume 1|2003"
+    },
+    {
+      "id": "F240-20261006-129-L2",
+      "filmKey": "Kill Bill: Volume 1|2003"
+    },
+    {
+      "id": "F240-20261006-129-M1",
+      "filmKey": "Kill Bill: Volume 1|2003"
+    },
+    {
+      "id": "F240-20261006-129-M2",
+      "filmKey": "Kill Bill: Volume 1|2003"
+    },
+    {
+      "id": "F240-20261006-129-S1",
+      "filmKey": "Kill Bill: Volume 1|2003"
+    },
+    {
+      "id": "F240-20261006-129-S2",
+      "filmKey": "Kill Bill: Volume 1|2003"
+    },
+    {
+      "id": "F240-20261006-129-Y",
+      "filmKey": "Kill Bill: Volume 1|2003"
+    },
+    {
+      "id": "F240-20261006-129-D",
+      "filmKey": "Kill Bill: Volume 1|2003"
+    },
+    {
+      "id": "F240-20261006-130-L1",
+      "filmKey": "Kill Bill: Volume 2|2004"
+    },
+    {
+      "id": "F240-20261006-130-L2",
+      "filmKey": "Kill Bill: Volume 2|2004"
+    },
+    {
+      "id": "F240-20261006-130-M1",
+      "filmKey": "Kill Bill: Volume 2|2004"
+    },
+    {
+      "id": "F240-20261006-130-M2",
+      "filmKey": "Kill Bill: Volume 2|2004"
+    },
+    {
+      "id": "F240-20261006-130-S1",
+      "filmKey": "Kill Bill: Volume 2|2004"
+    },
+    {
+      "id": "F240-20261006-130-S2",
+      "filmKey": "Kill Bill: Volume 2|2004"
+    },
+    {
+      "id": "F240-20261006-130-Y",
+      "filmKey": "Kill Bill: Volume 2|2004"
+    },
+    {
+      "id": "F240-20261006-130-D",
+      "filmKey": "Kill Bill: Volume 2|2004"
+    },
+    {
+      "id": "F240-20261006-120-L1",
+      "filmKey": "Kind Hearts and Coronets|1949"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."

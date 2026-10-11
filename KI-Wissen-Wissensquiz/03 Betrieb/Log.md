@@ -1872,3 +1872,12 @@ Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowi
 Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche zwei Ergänzungen und sieben Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Ghost→Mind→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
 
 Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.550 von12.773 Original-IDs geprüft,8.223 offen (6.183 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-88.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-88-Pruefnachweis.json).
+
+
+### 11.10.2026 – Redaktionslauf Block 89
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 24 Vertiefungen geändert, 26 wortgleich bewahrt; 22 Antwortauswahlen und 13 Schwierigkeiten angepasst. Keine Wissensziele ersetzt. Fünf ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. Dokumentierte Mindestziele erfüllt: „Jurassic World“. Offene Gruppen/Entwürfe: „Jurassic Park“, „Die Jungfrauenquelle“, „13 Assassins“, „Judy“, „Juliet, Naked“, „One Cut of the Dead“, „Kehraus“.
+
+Alle 50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche fünf Ergänzungen und acht Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Ghost→Mind→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Vertiefungen werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand: 4.600 von 12.773 Original-IDs geprüft, 8.173 offen (6.133 Filmfragen und 2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-89.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-89-Pruefnachweis.json).
