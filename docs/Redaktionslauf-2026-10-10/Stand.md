@@ -62,9 +62,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 56: vollständiger Alt/Neu-Vergleich](Block-56.md) und [strukturierter Nachweis](Block-56.json): 50 Fragen, 31 Vertiefungen geändert, 19 erhalten, 1 Fragen vollständig unverändert; 7 von 8 betroffenen Filmgruppen abgeschlossen.
 - [Block 57: vollständiger Alt/Neu-Vergleich](Block-57.md) und [strukturierter Nachweis](Block-57.json): 50 Fragen, 34 Vertiefungen geändert, 16 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 58: vollständiger Alt/Neu-Vergleich](Block-58.md) und [strukturierter Nachweis](Block-58.json): 50 Fragen, 30 Vertiefungen geändert, 20 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 3050 von 12.773 IDs redaktionell erfasst.
-- Offen: 7683 Filmfragen und 2040 weitere Fragen; zusammen 9723. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 58 schließt Enter the Dragon mit sechs Vorblocktexten ab und prüft Equilibrium, Er ist wieder da, Eragon, Eraser und Europa Report. Event Horizon beginnt mit vier Inhaltsoriginalen; weitere Originale bleiben für Block 59 offen. Drei bestehende Subagenten recherchieren und prüfen andere Filmgruppen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Gute Vertiefungen bleiben erhalten; Einzelabrufe erhalten ehrliche Schwierigkeiten. Keine App-Integration durch diesen Block.
+- [Block 59: vollständiger Alt/Neu-Vergleich](Block-59.md) und [strukturierter Nachweis](Block-59.json): 50 Fragen, 28 Vertiefungen geändert, 22 erhalten, 0 Fragen vollständig unverändert; 7 von 7 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 3100 von 12.773 IDs redaktionell erfasst.
+- Offen: 7633 Filmfragen und 2040 weitere Fragen; zusammen 9673. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 59 schließt Event Horizon mit vier Vorblocktexten ab und prüft Everest, Everything Everywhere All at Once, Evil Dead II, Evita, Ex Machina und Executive Decision vollständig. Drei bestehende Subagenten recherchieren und prüfen andere Filmgruppen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Gute Vertiefungen bleiben erhalten; Einzelabrufe erhalten ehrliche Schwierigkeiten. Keine App-Integration durch diesen Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 
