@@ -86,9 +86,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 80: vollständiger Alt/Neu-Vergleich](Block-80.md) und [strukturierter Nachweis](Block-80.json): 50 Fragen, 23 Vertiefungen geändert, 27 erhalten, 0 Fragen vollständig unverändert; 5 von 8 betroffenen Filmgruppen abgeschlossen.
 - [Block 81: vollständiger Alt/Neu-Vergleich](Block-81.md) und [strukturierter Nachweis](Block-81.json): 50 Fragen, 25 Vertiefungen geändert, 25 erhalten, 0 Fragen vollständig unverändert; 4 von 6 betroffenen Filmgruppen abgeschlossen.
 - [Block 82: vollständiger Alt/Neu-Vergleich](Block-82.md) und [strukturierter Nachweis](Block-82.json): 50 Fragen, 23 Vertiefungen geändert, 27 erhalten, 0 Fragen vollständig unverändert; 4 von 8 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 4250 von 12.773 IDs redaktionell erfasst.
-- Offen: 6483 Filmfragen und 2040 weitere Fragen; zusammen 8523. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 82 schließt die Il-grande-silenzio-Originale ab; zwei schwere Inhaltsziele bleiben dort offen. Il racconto dei racconti, Im Juli, In the Mouth of Madness, In Time, Inception und Independence Day sowie die Last-Crusade-Teilgruppe werden gemeinsam geprüft. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Keine App-Integration durch diesen Block.
+- [Block 83: vollständiger Alt/Neu-Vergleich](Block-83.md) und [strukturierter Nachweis](Block-83.json): 50 Fragen, 25 Vertiefungen geändert, 25 erhalten, 0 Fragen vollständig unverändert; 4 von 7 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 4300 von 12.773 IDs redaktionell erfasst.
+- Offen: 6433 Filmfragen und 2040 weitere Fragen; zusammen 8473. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 83 schließt Last Crusade ab und erfasst Temple of Doom, Indiscreet, Inkheart, Inside Llewyn Davis, Insidious sowie eine Insomnia-Teilgruppe. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Fehlende schwere Mindestziele bleiben ausdrücklich offen. Keine App-Integration durch diesen Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 

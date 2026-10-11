@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 4100,
-  "totalReviewed": 4250,
-  "remainingFilmQuestions": 6483,
+  "completedInThisRun": 4150,
+  "totalReviewed": 4300,
+  "remainingFilmQuestions": 6433,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 8523,
+  "remainingAllQuestions": 8473,
   "blocks": [
     {
       "block": 1,
@@ -418,6 +418,11 @@
     {
       "block": 82,
       "path": "Block-82.json",
+      "count": 50
+    },
+    {
+      "block": 83,
+      "path": "Block-83.json",
       "count": 50
     }
   ],
@@ -4671,209 +4676,59 @@
     "ADV-202610-P01-L-003",
     "ADV-202610-P01-L-004",
     "ADV-202610-P01-M-004",
-    "ADV-202610-P01-M-005"
+    "ADV-202610-P01-M-005",
+    "ADV-202610-P01-S-004",
+    "ADV-202610-P01-S-005",
+    "ADV-202610-P01-M-006",
+    "ADV-202610-P01-S-006",
+    "F240-20261006-001-L1",
+    "F240-20261006-001-L2",
+    "F240-20261006-001-M1",
+    "F240-20261006-001-M2",
+    "F240-20261006-001-S1",
+    "F240-20261006-001-S2",
+    "F240-20261006-001-Y",
+    "F240-20261006-001-D",
+    "E20261007-F-194-L1",
+    "E20261007-F-194-L2",
+    "E20261007-F-194-M1",
+    "E20261007-F-194-M2",
+    "E20261007-F-194-S1",
+    "E20261007-F-194-S2",
+    "E20261007-F-194-Y",
+    "E20261007-F-194-D",
+    "E20261007-F-067-L1",
+    "E20261007-F-067-L2",
+    "E20261007-F-067-M1",
+    "E20261007-F-067-M2",
+    "E20261007-F-067-S1",
+    "E20261007-F-067-S2",
+    "E20261007-F-067-Y",
+    "E20261007-F-067-D",
+    "MUS-202609-P01-L-037",
+    "MUS-202609-P01-L-038",
+    "MUS-202609-P01-M-037",
+    "MUS-202609-P01-M-038",
+    "MUS-202609-P01-S-037",
+    "MUS-202609-P01-S-038",
+    "MUS-202609-P01-M-037-V1",
+    "FF-319-YEAR",
+    "FF-319-DIRECTOR",
+    "G100-20261008-HORROR-016-L1",
+    "G100-20261008-HORROR-016-L2",
+    "G100-20261008-HORROR-016-M1",
+    "G100-20261008-HORROR-016-M2",
+    "G100-20261008-HORROR-016-S1",
+    "G100-20261008-HORROR-016-S2",
+    "G100-20261008-HORROR-016-Y",
+    "G100-20261008-HORROR-016-D",
+    "E20261007-F-221-L1",
+    "E20261007-F-221-L2",
+    "E20261007-F-221-M1",
+    "E20261007-F-221-M2",
+    "E20261007-F-221-S1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "ADV-202610-P01-S-004",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
-    {
-      "id": "ADV-202610-P01-S-005",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
-    {
-      "id": "ADV-202610-P01-M-006",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
-    {
-      "id": "ADV-202610-P01-S-006",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
-    {
-      "id": "F240-20261006-001-L1",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-L2",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-M1",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-M2",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-S1",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-S2",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-Y",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-D",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "E20261007-F-194-L1",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-L2",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-M1",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-M2",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-S1",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-S2",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-Y",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-D",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-067-L1",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-L2",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-M1",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-M2",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-S1",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-S2",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-Y",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-D",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "MUS-202609-P01-L-037",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-L-038",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-M-037",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-M-038",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-S-037",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-S-038",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-M-037-V1",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "FF-319-YEAR",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "FF-319-DIRECTOR",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-L1",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-L2",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-M1",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-M2",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-S1",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-S2",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-Y",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-D",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "E20261007-F-221-L1",
-      "filmKey": "Insomnia|1997"
-    },
-    {
-      "id": "E20261007-F-221-L2",
-      "filmKey": "Insomnia|1997"
-    },
-    {
-      "id": "E20261007-F-221-M1",
-      "filmKey": "Insomnia|1997"
-    },
-    {
-      "id": "E20261007-F-221-M2",
-      "filmKey": "Insomnia|1997"
-    },
-    {
-      "id": "E20261007-F-221-S1",
-      "filmKey": "Insomnia|1997"
-    },
     {
       "id": "E20261007-F-221-S2",
       "filmKey": "Insomnia|1997"
@@ -30609,204 +30464,204 @@
   ],
   "next": [
     {
-      "id": "ADV-202610-P01-S-004",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
-    {
-      "id": "ADV-202610-P01-S-005",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
-    {
-      "id": "ADV-202610-P01-M-006",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
-    {
-      "id": "ADV-202610-P01-S-006",
-      "filmKey": "Indiana Jones and the Last Crusade|1989"
-    },
-    {
-      "id": "F240-20261006-001-L1",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-L2",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-M1",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-M2",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-S1",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-S2",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-Y",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "F240-20261006-001-D",
-      "filmKey": "Indiana Jones and the Temple of Doom|1984"
-    },
-    {
-      "id": "E20261007-F-194-L1",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-L2",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-M1",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-M2",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-S1",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-S2",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-Y",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-194-D",
-      "filmKey": "Indiscreet|1958"
-    },
-    {
-      "id": "E20261007-F-067-L1",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-L2",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-M1",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-M2",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-S1",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-S2",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-Y",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "E20261007-F-067-D",
-      "filmKey": "Inkheart|2008"
-    },
-    {
-      "id": "MUS-202609-P01-L-037",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-L-038",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-M-037",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-M-038",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-S-037",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-S-038",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "MUS-202609-P01-M-037-V1",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "FF-319-YEAR",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "FF-319-DIRECTOR",
-      "filmKey": "Inside Llewyn Davis|2013"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-L1",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-L2",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-M1",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-M2",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-S1",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-S2",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-Y",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "G100-20261008-HORROR-016-D",
-      "filmKey": "Insidious|2010"
-    },
-    {
-      "id": "E20261007-F-221-L1",
+      "id": "E20261007-F-221-S2",
       "filmKey": "Insomnia|1997"
     },
     {
-      "id": "E20261007-F-221-L2",
+      "id": "E20261007-F-221-Y",
       "filmKey": "Insomnia|1997"
     },
     {
-      "id": "E20261007-F-221-M1",
+      "id": "E20261007-F-221-D",
       "filmKey": "Insomnia|1997"
     },
     {
-      "id": "E20261007-F-221-M2",
-      "filmKey": "Insomnia|1997"
+      "id": "SF-L-007",
+      "filmKey": "Interstellar|2014"
     },
     {
-      "id": "E20261007-F-221-S1",
-      "filmKey": "Insomnia|1997"
+      "id": "SF-L-007-V1",
+      "filmKey": "Interstellar|2014"
+    },
+    {
+      "id": "SF-M-007",
+      "filmKey": "Interstellar|2014"
+    },
+    {
+      "id": "SF-M-007-V1",
+      "filmKey": "Interstellar|2014"
+    },
+    {
+      "id": "SF-S-007",
+      "filmKey": "Interstellar|2014"
+    },
+    {
+      "id": "SF-S-007-V1",
+      "filmKey": "Interstellar|2014"
+    },
+    {
+      "id": "FF-132-YEAR",
+      "filmKey": "Interstellar|2014"
+    },
+    {
+      "id": "FF-132-DIRECTOR",
+      "filmKey": "Interstellar|2014"
+    },
+    {
+      "id": "HOR-202610-P01-L-011",
+      "filmKey": "Interview with the Vampire|1994"
+    },
+    {
+      "id": "HOR-202610-P01-L-012",
+      "filmKey": "Interview with the Vampire|1994"
+    },
+    {
+      "id": "HOR-202610-P01-M-016",
+      "filmKey": "Interview with the Vampire|1994"
+    },
+    {
+      "id": "HOR-202610-P01-M-017",
+      "filmKey": "Interview with the Vampire|1994"
+    },
+    {
+      "id": "HOR-202610-P01-S-016",
+      "filmKey": "Interview with the Vampire|1994"
+    },
+    {
+      "id": "HOR-202610-P01-S-017",
+      "filmKey": "Interview with the Vampire|1994"
+    },
+    {
+      "id": "HOR-202610-P01-M-018",
+      "filmKey": "Interview with the Vampire|1994"
+    },
+    {
+      "id": "HOR-202610-P01-S-018",
+      "filmKey": "Interview with the Vampire|1994"
+    },
+    {
+      "id": "E20261007-F-048-L1",
+      "filmKey": "Into the Wild|2007"
+    },
+    {
+      "id": "E20261007-F-048-L2",
+      "filmKey": "Into the Wild|2007"
+    },
+    {
+      "id": "E20261007-F-048-M1",
+      "filmKey": "Into the Wild|2007"
+    },
+    {
+      "id": "E20261007-F-048-M2",
+      "filmKey": "Into the Wild|2007"
+    },
+    {
+      "id": "E20261007-F-048-S1",
+      "filmKey": "Into the Wild|2007"
+    },
+    {
+      "id": "E20261007-F-048-S2",
+      "filmKey": "Into the Wild|2007"
+    },
+    {
+      "id": "E20261007-F-048-Y",
+      "filmKey": "Into the Wild|2007"
+    },
+    {
+      "id": "E20261007-F-048-D",
+      "filmKey": "Into the Wild|2007"
+    },
+    {
+      "id": "F240-20261006-111-L1",
+      "filmKey": "Intouchables|2011"
+    },
+    {
+      "id": "F240-20261006-111-L2",
+      "filmKey": "Intouchables|2011"
+    },
+    {
+      "id": "F240-20261006-111-M1",
+      "filmKey": "Intouchables|2011"
+    },
+    {
+      "id": "F240-20261006-111-M2",
+      "filmKey": "Intouchables|2011"
+    },
+    {
+      "id": "F240-20261006-111-S1",
+      "filmKey": "Intouchables|2011"
+    },
+    {
+      "id": "F240-20261006-111-S2",
+      "filmKey": "Intouchables|2011"
+    },
+    {
+      "id": "F240-20261006-111-Y",
+      "filmKey": "Intouchables|2011"
+    },
+    {
+      "id": "F240-20261006-111-D",
+      "filmKey": "Intouchables|2011"
+    },
+    {
+      "id": "SF-202609-P02-L-023",
+      "filmKey": "Invasion of the Body Snatchers|1978"
+    },
+    {
+      "id": "SF-202609-P02-L-024",
+      "filmKey": "Invasion of the Body Snatchers|1978"
+    },
+    {
+      "id": "SF-202609-P02-M-023",
+      "filmKey": "Invasion of the Body Snatchers|1978"
+    },
+    {
+      "id": "SF-202609-P02-M-024",
+      "filmKey": "Invasion of the Body Snatchers|1978"
+    },
+    {
+      "id": "SF-202609-P02-S-023",
+      "filmKey": "Invasion of the Body Snatchers|1978"
+    },
+    {
+      "id": "SF-202609-P02-S-024",
+      "filmKey": "Invasion of the Body Snatchers|1978"
+    },
+    {
+      "id": "SF-202609-P02-L-023-V1",
+      "filmKey": "Invasion of the Body Snatchers|1978"
+    },
+    {
+      "id": "FF-337-YEAR",
+      "filmKey": "Invasion of the Body Snatchers|1978"
+    },
+    {
+      "id": "FF-337-DIRECTOR",
+      "filmKey": "Invasion of the Body Snatchers|1978"
+    },
+    {
+      "id": "MAR-L-037",
+      "filmKey": "Ip Man|2008"
+    },
+    {
+      "id": "MAR-L-038",
+      "filmKey": "Ip Man|2008"
+    },
+    {
+      "id": "MAR-M-037",
+      "filmKey": "Ip Man|2008"
+    },
+    {
+      "id": "MAR-M-038",
+      "filmKey": "Ip Man|2008"
+    },
+    {
+      "id": "MAR-S-037",
+      "filmKey": "Ip Man|2008"
+    },
+    {
+      "id": "MAR-S-038",
+      "filmKey": "Ip Man|2008"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."

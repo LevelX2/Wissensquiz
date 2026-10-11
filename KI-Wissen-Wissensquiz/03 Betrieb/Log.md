@@ -1809,3 +1809,12 @@ Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowi
 Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche Ergänzungen und acht Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Mind→Ghost→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
 
 Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.250 von12.773 Original-IDs geprüft,8.523 offen (6.483 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-82.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-82-Pruefnachweis.json).
+
+
+### 11.10.2026 – Redaktionslauf Block 83
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 25 Vertiefungen geändert, 25 wortgleich bewahrt; 25 Antwortauswahlen und 17 Schwierigkeiten angepasst. 0 Wissensziele ausdrücklich durch neue Frage-/Wissensziel-IDs ersetzt. 11 ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. Inside Llewyn Davis, Indiana Jones und der Tempel des Todes, Indiana Jones und der letzte Kreuzzug, Insidious erfüllen die dokumentierten Mindestziele. Offene Gruppen/Entwürfe: Tintenherz, Indiskret, Insomnia – Todesschlaf.
+
+Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche Ergänzungen und sieben Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Mind→Ghost→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.300 von12.773 Original-IDs geprüft,8.473 offen (6.433 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-83.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-83-Pruefnachweis.json).
