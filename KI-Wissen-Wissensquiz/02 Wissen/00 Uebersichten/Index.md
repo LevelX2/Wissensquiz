@@ -1,6 +1,8 @@
 # Wissensindex
 
-- [Weitere Serveroptimierungen lokal umgesetzt: einziger aktueller Bestand, begrenzter Start, Statistikdifferenzen, Duellsperren, Ranglistencache und einzelne Poster – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md#weitere-optimierungen-lokal-umgesetzt-noch-nicht-veröffentlicht)
+- [Version 67: gemeinsamer Main-Stand, Serveroptimierungen und Veröffentlichung nachgewiesen](../../../docs/Veroeffentlichung-2026-10-11-Version-67.json)
+
+- [Weitere Serveroptimierungen seit Version 67 produktiv: einziger aktueller Bestand, begrenzter Start, Statistikdifferenzen, Duellsperren, Ranglistencache und einzelne Poster – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md#weitere-optimierungen-seit-version-67-produktiv)
 
 - [Profil: einheitliche Klappen, drei neue Icons und Antwortansicht ohne Merksatz – 11.10.2026](../../../docs/Profilklappen-2026-10-11.md)
 
@@ -14,7 +16,7 @@
 
 - [Fragenredaktion bis Block 17 seit Version 65 veröffentlicht](../../../docs/Sites-Betrieb.md#version-65-integrierte-fragenredaktion-und-eingerichteter-meldungsdienst)
 
-- [GitHub-Meldungsdienst: betriebsbereit; Fragetext im Ticket lokal ergänzt – 11.10.2026](../../../docs/GitHub-Meldungen.md)
+- [GitHub-Meldungsdienst: betriebsbereit; Fragetext im Ticket seit Version 67 veröffentlicht – 11.10.2026](../../../docs/GitHub-Meldungen.md)
 
 - [Aktuelle Fragetexte und Quellen](../../../docs/Fragenredaktion/Fragen.json)
 - [Redaktionsfortschritt: 5.950 Originalfragen geprüft, 6.823 offen; Block 116 abgeschlossen](../../../docs/Fragenredaktion/Fortschritt.json)

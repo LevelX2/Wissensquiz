@@ -1946,3 +1946,8 @@ Auf Nutzerwunsch den sichtbaren Fragetext als Pflichtfeld im Fragenbezug und als
 ### 11.10.2026 – Offenen Profil-/Optionsauftrag für gemeinsame Veröffentlichung abgeschlossen
 
 Nutzer hat die Übernahme und gemeinsame Veröffentlichung ausdrücklich freigegeben. Fünf einheitliche Profilklappen mit drei neuen Motiven, Antwortansicht ohne Merksatz und auf Spieleinstellungen reduzierte Optionen; manuelle Sicherungen und historische Meldungsexporte entfernt. TypeScript, Build und vier responsive Browserfälle erfolgreich. Serverumbau wird anschließend integriert und gemeinsam geprüft. [Profilvertrag](../../../docs/Profilklappen-2026-10-11.md), [Prüfbericht](../../../docs/Pruefbericht.md).
+
+
+### 11.10.2026 – Version 67 aus integriertem Main veröffentlicht und Worktree entfernt
+
+Serveroptimierungen, kompakte Lern-/XP-Belege und Profilzähler, Profilklappen, vereinfachte Optionen und Fragetext im Meldungsdienst gemeinsam veröffentlicht. 490 Tests, TypeScript/Build und 63 unterschiedliche Browserfälle nach erfolgreichen Nachprüfungen abgenommen. Sechs Migrationen und 12.787 Fragen aus 132 Teilen produktiv aktiviert; synthetische Zehnerrunde vollständig zurückgerollt. Öffentliche Dateien und Versionsnachweis bestätigt, öffentliche Adresse erhalten. Keine echten Konten zurückgesetzt, keine Altstandkompatibilität ergänzt, kein GitHub-Push. Worktree nach Integration wiederherstellbar archiviert und physisch entfernt; fremder Worktree erhalten. [Nachweis](../../../docs/Veroeffentlichung-2026-10-11-Version-67.json).

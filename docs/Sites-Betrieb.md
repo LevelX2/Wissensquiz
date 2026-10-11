@@ -51,7 +51,7 @@ Mit Version 64 installiert und veröffentlicht: Nach `20261010102411_authoritati
 
 ## Servergeprüfte Zeitrunden – Rolloutverfahren
 
-Servergeprüfte Zeitrunden sind seit Version 64 produktiv. Die folgende Vorbereitung gilt für die lokal umgesetzte Folgeoptimierung vom 11.10.2026; sie ist noch nicht ausgerollt. Bestehende Projekt-ID, URL und öffentlichen Zugang erhalten. [Fachvertrag](Server-Lernablauf-2026-10-11.md).
+Servergeprüfte Zeitrunden sind seit Version 64 produktiv. Die folgende Vorgehensweise wurde für die Folgeoptimierung vom 11.10.2026 mit Version 67 erfolgreich ausgeführt. Bestehende Projekt-ID, URL und öffentlichen Zugang erhalten. [Fachvertrag](Server-Lernablauf-2026-10-11.md).
 
 1. Ausstehende Backendmigrationen in Dateireihenfolge anwenden, insbesondere die sechs Dateien mit Präfixen `20261011091304`, `20261011091305`, `20261011091306`, `20261011133000`, `20261011134000`, `20261011135000`. Sie lösen die Abhängigkeit von komprimierten Altarchiven, begrenzen Kontoabrufe, ersetzen die globale Duellsperre und liefern kleine serverseitige Rundenerfahrungsbelege.
 2. Aus dem geprüften Quellstand `npm run prepare:server-content` ausführen. Das erzeugt ausschließlich öffentliche Betreiberinhalte unter ignoriertem `tmp-sync/server-content/`: Manifest, nummerierte SQL-Teile und `activate.sql`. Nur exakt die im Manifest genannten Teile installieren. Der geprüfte lokale Bestand umfasst 12.787 Fragen und 132 Teile; bei späteren Ergänzungen gelten die neu erzeugten Manifestwerte.

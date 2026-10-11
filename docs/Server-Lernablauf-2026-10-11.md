@@ -2,9 +2,9 @@
 
 Stand: 11.10.2026. Als **Version 66 öffentlich veröffentlicht**, nativer Status `succeeded`, um 10:06:12 Uhr Europe/Berlin. Alle sieben Migrationen sowie die Metadaten und 12.787 vorbereiteten Fragendarstellungen sind in Supabase installiert. 480 Tests, 50 gezielte Browserfälle, native Datenbankprüfung, Archivvergleich und öffentliche Dateiprüfung erfolgreich. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-66.json).
 
-## Weitere Optimierungen: lokal umgesetzt, noch nicht veröffentlicht
+## Weitere Optimierungen: seit Version 67 produktiv
 
-Der Folgeauftrag vom 11.10.2026 ist lokal umgesetzt. Sechs neue Backendmigrationen und ein gemeinsamer Betreiberimport ersetzen die bisherigen getrennten Katalogvorbereitungen. Produktiv bleibt Version 66; diese Erweiterung wurde noch nicht in Supabase installiert oder über Sites veröffentlicht.
+Der Folgeauftrag vom 11.10.2026 ist seit Version 67 produktiv. Sechs neue Backendmigrationen und ein gemeinsamer Betreiberimport ersetzen die bisherigen getrennten Katalogvorbereitungen. Der geprüfte Arbeitsbranch wurde nach Main integriert und aus dem festen Main-Commit veröffentlicht; anschließend wurde der Worktree archiviert und entfernt. Echte Konten wurden nicht erneut zurückgesetzt.
 
 - Genau ein aktueller Fragenbestand auf dem Server. `npm run prepare:server-content` bereitet Fragen, Darstellungen einschließlich einzelner Posterzuordnungen, Filmreise und Duellbestand gemeinsam vor. Die atomare Aktivierung prüft Anzahl und SHA-256 über sämtliche Inhalte, ersetzt den aktuellen Bestand und leert die Bereitstellung. Weder Browser noch neue Serverläufe benötigen frühere komprimierte Katalogarchive. Bestehende ungenutzte Altarchive werden damit nicht automatisch aus der produktiven Datenbank gelöscht.
 - Eine aktive Lernrunde besitzt höchstens zehn eigene Fragendarstellungen. Duelle besitzen ihre drei Blöcke, Zeitläufe ihre tatsächlich ausgegebenen Fragen. Diese privaten Rundenbelege sind keine historischen Vollkataloge. Zeitläufe wählen noch nicht ausgegebene Fragen aus dem aktuellen Bestand.

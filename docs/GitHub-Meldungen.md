@@ -77,3 +77,8 @@ Migration `20261004161423_quiz_issue_reporting` nativ erfolgreich im bestehenden
 Live lesend geprüft: Tabellen-RLS, fehlende Clientrechte und ausschließlich serverseitige RPC-Ausführung. HTTP-Vorprüfung liefert 204 mit passendem Ursprung; fehlender Benutzer und öffentlicher API-Schlüssel ohne Benutzersitzung werden mit 401 abgewiesen. Die öffentlichen Signaturschlüssel verwenden ES256, von der aktuellen Plattformprüfung unterstützt. Der neue Advisor-Hinweis `rls_enabled_no_policy` ist hier beabsichtigt: Diese private Tabelle besitzt überhaupt keinen Clientzugang; nur die Serverrolle greift darauf zu. Keine neue Advisor-Warnung durch die Erweiterung.
 
 Lokale Tests simulieren GitHub und Quiz-Konten; sie erzeugen keine echten Issues und verändern keine echten Spielstände. Datenbankrechte, Parallel-/Wiederholungszustände, Grenzen, Veröffentlichungseinwilligung, Datenschutz und mobile Anzeige sind abgedeckt. Details und verbleibende Abnahmegrenzen im [Prüfbericht](Pruefbericht.md#04102026--github-meldungen-aus-spiel-und-profil).
+
+
+### Gemeinsame Veröffentlichung als Version 67 – 11.10.2026
+
+Fragetext-Ergänzung gemeinsam mit Website Version 67 produktiv veröffentlicht. Function `quiz-report` Version 4, Status ACTIVE, `verify_jwt: true`, Importmap `deno.json`; alle vier Quelldateien aus dem festen Main-Commit. 490 Tests und die gezielten Formularfälle erfolgreich. Keine echten GitHub-Tickets für diese Abnahme erzeugt. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-67.json).

@@ -1,0 +1,346 @@
+{
+  "asOf": "2026-10-11",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 67,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_77814119f870819192af11a83a26d051",
+  "source_commit": "698860c2c4b55934dec00819344a8a838541aa28",
+  "deployment_id": "appgdep_6acb7ddb63048191884573fdf6bba01c",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-11T12:15:42.997314+00:00",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000af2c81f4ad0afb52b4fcc853",
+    "content_hash": "sha256:8ab566a346c1ee87c22f66aec97edee3334201559c8f5697497be17d2d67dd43",
+    "size_bytes": 77455360,
+    "file_count": 491
+  },
+  "access": {
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "content": {
+    "hash": "145d794e868ace8651604be70447ae0ec7236c8b8786d6a4d4da439008fe8e22",
+    "questions": 12787,
+    "presentations": 12787,
+    "parts": 132,
+    "stagingAfterActivation": 0,
+    "historicalFullCatalogsRequired": false
+  },
+  "checks": {
+    "tests": 490,
+    "testFiles": 78,
+    "testDurationSeconds": 117.57,
+    "uniqueBrowserCases": 63,
+    "finalBrowserRunPassed": 55,
+    "finalBrowserRunFailed": 8,
+    "correctedHarnessFollowUpPassed": 27,
+    "allEightPriorFailuresSuccessfullyRetested": true,
+    "fullBrowserSuite": false,
+    "typeScript": true,
+    "productionBuild": true,
+    "buildVersion": 67,
+    "diffCheck": true,
+    "packagedBuildByteIdentical": true,
+    "operatorSecretsAbsent": true,
+    "nativeSqlFunctionalProbe": true,
+    "syntheticDatabaseWritesRolledBack": true,
+    "syntheticAccountsRemaining": 0,
+    "realAccountsReset": 0,
+    "oldSaveCompatibilityAdded": false,
+    "githubPush": false,
+    "anonymousPrivateRpcAllowed": false,
+    "privateTablesExposed": 0,
+    "releaseMetadataPersistedAndSeparatelyRead": true,
+    "anonymousReleaseRpc": true,
+    "physicalIphoneTest": false,
+    "liveFilesByteIdentical": 17,
+    "liveHtmlSourceMatchesAfterCloudflareInjectionRemoval": true
+  },
+  "productionProbe": {
+    "answers": 10,
+    "xpBefore": 0,
+    "xpAfter": 10,
+    "answerReplay": true,
+    "startReplay": true,
+    "answerNotLeaked": true,
+    "closedQueueCleared": true,
+    "bootEvents": 10,
+    "learningEvidence": 10,
+    "profileCounters": true,
+    "questionHistory": true,
+    "initialHarnessCorrections": [
+      "Staging operations require op=put and nested row."
+    ],
+    "applicationChangedDuringProbe": false
+  },
+  "edgeFunction": {
+    "name": "quiz-report",
+    "version": 4,
+    "verify_jwt": true,
+    "status": "ACTIVE",
+    "sha256": "a233bda8261a210d9b46cc435afc8462e23ba7f16986d8652e16babc9903339b"
+  },
+  "advisors": {
+    "before": {
+      "security": [
+        {
+          "name": "rls_enabled_no_policy",
+          "level": "INFO",
+          "count": 36
+        },
+        {
+          "name": "anon_security_definer_function_executable",
+          "level": "WARN",
+          "count": 10
+        },
+        {
+          "name": "authenticated_security_definer_function_executable",
+          "level": "WARN",
+          "count": 28
+        },
+        {
+          "name": "auth_leaked_password_protection",
+          "level": "WARN",
+          "count": 1
+        }
+      ],
+      "performance": [
+        {
+          "name": "unindexed_foreign_keys",
+          "level": "INFO",
+          "count": 8
+        },
+        {
+          "name": "unused_index",
+          "level": "INFO",
+          "count": 11
+        }
+      ]
+    },
+    "after": {
+      "security": [
+        {
+          "name": "rls_enabled_no_policy",
+          "level": "INFO",
+          "count": 44
+        },
+        {
+          "name": "anon_security_definer_function_executable",
+          "level": "WARN",
+          "count": 10
+        },
+        {
+          "name": "authenticated_security_definer_function_executable",
+          "level": "WARN",
+          "count": 33
+        },
+        {
+          "name": "auth_leaked_password_protection",
+          "level": "WARN",
+          "count": 1
+        }
+      ],
+      "performance": [
+        {
+          "name": "unindexed_foreign_keys",
+          "level": "INFO",
+          "count": 7
+        },
+        {
+          "name": "unused_index",
+          "level": "INFO",
+          "count": 16
+        }
+      ]
+    }
+  },
+  "nativeConcurrencyEvidence": "Serveroptimierungen-2026-10-11-Native-Pruefung.json",
+  "nativeConcurrencyLimit": "Native local benchmark predates the additional XP, profile counters and learning-evidence migrations; not a WAN or production capacity claim.",
+  "nativeBrowserHandoffStatus": "queued",
+  "mainIntegrated": true,
+  "worktreeArchived": true,
+  "localArchive": {
+    "fileCount": 491,
+    "buildFiles": 490,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 62744613,
+    "sha256": "d4711bc32393030f6cb53c516b8e799fe4d1f27e6261edf7a98f7095ae0b969b"
+  },
+  "liveReadCheck": {
+    "origin": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "checkedAt": "2026-10-11T12:16:37.941Z",
+    "files": [
+      {
+        "path": "index.html",
+        "status": 200,
+        "sha256": "ef1b8ee92590cf7aa4309fbdfefdcabd280750461a7816e48b27f5174be202df",
+        "expected": "3d8238c8244c803d6f19ddab275e4dac3691af2ed1fcd549361ed4136710ec7b",
+        "match": false,
+        "sourceMatchesAfterPlatformInjectionRemoval": true,
+        "platformScriptCount": 1
+      },
+      {
+        "path": "account-config.json",
+        "status": 200,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b",
+        "expected": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b",
+        "match": true
+      },
+      {
+        "path": "film-posters.json",
+        "status": 200,
+        "sha256": "5baa10a47e3af9363c169dbc9227aa24eec545cc605594b0820881343833bdd5",
+        "expected": "5baa10a47e3af9363c169dbc9227aa24eec545cc605594b0820881343833bdd5",
+        "match": true
+      },
+      {
+        "path": "sw.js",
+        "status": 200,
+        "sha256": "f005a22fcf4146fe6724f0e9b52eea6dd2a314677c69d08a8bbc14db9543b34b",
+        "expected": "f005a22fcf4146fe6724f0e9b52eea6dd2a314677c69d08a8bbc14db9543b34b",
+        "match": true
+      },
+      {
+        "path": "assets/CollectionPage-DxcJFjXD.js",
+        "status": 200,
+        "sha256": "fcfa53938bc07b32f3313e4c07ed0a77bc82f5866db1c7ccc01ea5deba390803",
+        "expected": "fcfa53938bc07b32f3313e4c07ed0a77bc82f5866db1c7ccc01ea5deba390803",
+        "match": true
+      },
+      {
+        "path": "assets/DuelCenter-BaZsHKPv.js",
+        "status": 200,
+        "sha256": "fffdc6550489185312bb548f896b4fb808320d6747eefcf2491b3b7fd90a094e",
+        "expected": "fffdc6550489185312bb548f896b4fb808320d6747eefcf2491b3b7fd90a094e",
+        "match": true
+      },
+      {
+        "path": "assets/duels-D6yZoZfK.js",
+        "status": 200,
+        "sha256": "f3fa25da2a608f0f1775176634159bd80525b8ea274c4df290d63e4f163203b3",
+        "expected": "f3fa25da2a608f0f1775176634159bd80525b8ea274c4df290d63e4f163203b3",
+        "match": true
+      },
+      {
+        "path": "assets/Help-CvRZhZZa.js",
+        "status": 200,
+        "sha256": "4b381755d9e6f804cb2213b35874820b17142f578e13f36e152f6e9f0e6c2bbc",
+        "expected": "4b381755d9e6f804cb2213b35874820b17142f578e13f36e152f6e9f0e6c2bbc",
+        "match": true,
+        "retriedWithoutQueryString": true
+      },
+      {
+        "path": "assets/index-BPr2pq_a.css",
+        "status": 200,
+        "sha256": "9b0f2c44ccc43ffcc45b605efd0dc873c217b83a21d6f7e47cd9db519177d570",
+        "expected": "9b0f2c44ccc43ffcc45b605efd0dc873c217b83a21d6f7e47cd9db519177d570",
+        "match": true
+      },
+      {
+        "path": "assets/index-Dzaocdp8.js",
+        "status": 200,
+        "sha256": "49c9cc246dab4a9bcc46d06aa68727ee9cda2725175d320e4d9d202545bd10d7",
+        "expected": "49c9cc246dab4a9bcc46d06aa68727ee9cda2725175d320e4d9d202545bd10d7",
+        "match": true
+      },
+      {
+        "path": "assets/RecordLeaderboard-BuiifNpO.js",
+        "status": 200,
+        "sha256": "fe1c3e75d427288abdd0ac1664d575c6ce7249f512cd8c7304c3814b1d190f33",
+        "expected": "fe1c3e75d427288abdd0ac1664d575c6ce7249f512cd8c7304c3814b1d190f33",
+        "match": true
+      },
+      {
+        "path": "assets/ServerTopicList-CXYpkMiU.js",
+        "status": 200,
+        "sha256": "021566530eb4cd9feb800cee5720ac18f534ec0ead284e99555c5a8db3a23d56",
+        "expected": "021566530eb4cd9feb800cee5720ac18f534ec0ead284e99555c5a8db3a23d56",
+        "match": true
+      },
+      {
+        "path": "assets/Settings-DiaOAfeR.js",
+        "status": 200,
+        "sha256": "c1ca2a100ef1cb21951d63d1e57ff8d9188b23ffb82ee821d58d04f0fe90e26d",
+        "expected": "c1ca2a100ef1cb21951d63d1e57ff8d9188b23ffb82ee821d58d04f0fe90e26d",
+        "match": true
+      },
+      {
+        "path": "assets/stateProcessing.worker-qNK8HNAf.js",
+        "status": 200,
+        "sha256": "45d4978a1c3b316a60c7f41f449ca78ea7ee985976d806a1d7d573e8d1e7b922",
+        "expected": "45d4978a1c3b316a60c7f41f449ca78ea7ee985976d806a1d7d573e8d1e7b922",
+        "match": true
+      },
+      {
+        "path": "assets/TopicsPage-DWfmsLRG.js",
+        "status": 200,
+        "sha256": "a103cd1e9f9a568258153de5a5eba9e7990dd2b0ce7978cd03384c0b983b4261",
+        "expected": "a103cd1e9f9a568258153de5a5eba9e7990dd2b0ce7978cd03384c0b983b4261",
+        "match": true
+      },
+      {
+        "path": "disclosures/account.png",
+        "status": 200,
+        "sha256": "a3d1b5e1ad33e237203498984f39e9a5ab964f7349c907d1fd978b0feb895a5e",
+        "expected": "a3d1b5e1ad33e237203498984f39e9a5ab964f7349c907d1fd978b0feb895a5e",
+        "match": true
+      },
+      {
+        "path": "disclosures/statistics.png",
+        "status": 200,
+        "sha256": "29455f27fa1e848fa00c6a57ac6efd0f6e150b2bae26a5863dc7584495f64f16",
+        "expected": "29455f27fa1e848fa00c6a57ac6efd0f6e150b2bae26a5863dc7584495f64f16",
+        "match": true
+      },
+      {
+        "path": "disclosures/report.png",
+        "status": 200,
+        "sha256": "c328355df2690bfa352cb8379985a07ad88cd557f57118c487fda13a6ec0f08d",
+        "expected": "c328355df2690bfa352cb8379985a07ad88cd557f57118c487fda13a6ec0f08d",
+        "match": true
+      }
+    ],
+    "initialTransientAssetMismatch": {
+      "path": "assets/Help-CvRZhZZa.js",
+      "returnedOldHtml": true,
+      "resolvedOnRetry": true
+    }
+  },
+  "migrations": [
+    {
+      "file": "20261011091304_server_catalog_and_incremental_projection.sql",
+      "sha256": "ec054b1e96a95fa43e6efd4525d4a69f8b8f5f8230ef08b07baaccf1744e647a",
+      "installed": true
+    },
+    {
+      "file": "20261011091305_server_boot_and_views.sql",
+      "sha256": "ca1da22d9574e82fd1a3d2334688eda1fc2ccb8e2808feac47e6b38cea98ddde",
+      "installed": true
+    },
+    {
+      "file": "20261011091306_server_duel_concurrency.sql",
+      "sha256": "81413e7b1cdaf0c52b47e8fb6ec5c64ab7fdf4d844a9d9ab2bca70daceb5f32e",
+      "installed": true
+    },
+    {
+      "file": "20261011133000_server_round_rewards.sql",
+      "sha256": "92caba757f92c787224281474fa9b1c87dd2a81c75ecc922f4f2a88d3e61451e",
+      "installed": true
+    },
+    {
+      "file": "20261011134000_server_profile_counters.sql",
+      "sha256": "c8ac36f1432e7a10b3281e08f22c51adfc9ce8c80d206370e0cb0f7d3c469212",
+      "installed": true
+    },
+    {
+      "file": "20261011135000_server_learning_evidence.sql",
+      "sha256": "5e0362c840025cfa0226cfb060238b789dae8492b7c54f038d8da0436ab8be7b",
+      "installed": true
+    }
+  ],
+  "worktreeDirectoryRemoved": true,
+  "mainAfterPublication": "75c10e1585a2ade938bbadea5313cf22a246c62b",
+  "laterMainChangesOnlyEditorialDocumentation": true
+}

@@ -1164,3 +1164,12 @@ Die erste erweiterte Abnahme zeigte eine fehlende Übergabe des bereits richtige
 Filmtests warten auf wiederhergestellte Antworten und bestätigten Abschluss; Originalfelder müssen exakt erhalten bleiben, die zusätzliche vorbereitete Darstellung wird separat geprüft. Die Fragenhistorienprüfung nutzt ein festes Datum mit nativen Animationen statt eines eingefrorenen Aufklappens. Keine Testfristen oder fachlichen Erwartungen gelockert. Der abschließende Browserlauf wird separat dokumentiert.
 
 Die synthetische Ausgabe einer noch unbeantworteten Frage liest ihren vorherigen Lernstand nun wie die echte Serverroutine aus der privaten Projektion. Frühe Wiederholungen prüfen damit den tatsächlichen Vorzustand. Die Filmprüfung vergleicht die kompakten Rundenfakten und die private vollständige Fragendarstellung jeweils exakt. Vor der Kontrastprüfung wird das Ende der Aufklappanimation ausdrücklich abgewartet.
+
+
+### 11.10.2026 – Gemeinsamer Main-Stand als Version 67 veröffentlicht
+
+490/490 Tests in 78 Dateien am festen Veröffentlichungsstand (117,57 s), TypeScript, Versionsbuild und Diffprüfung erfolgreich. Im erweiterten Browserlauf 55/63 Fälle erfolgreich; alle acht Fehler der Testaufbauten durch die anschließende grüne Prüfung von 27 Fällen abgedeckt. Insgesamt 63 unterschiedliche erfolgreiche Fälle in Chromium, Firefox und mobilem WebKit. Kein pauschaler Nachweis einer vollständigen Browser-Suite. Produktfehler bei Proberundenübernahme und Server-Lernbeleganzeige vor der finalen Abnahme korrigiert.
+
+Arbeitsbranch nach Main integriert, exakten Commit 698860c2c4b55934dec00819344a8a838541aa28 über Sites veröffentlicht. Sechs Migrationen und 132 Inhaltsteile produktiv eingerichtet; atomar 12.787 Fragen und Darstellungen aktiviert. Synthetische native Zehnerrunde mit Start-/Antwortwiederholung, zehn Antworten, 10 XP, zehn Lernbelegen, begrenztem Start und korrekten Profil-/Fragenzählern vollständig zurückgerollt. Der temporäre Prüfaufbau benötigte die gültige Staging-Hülle mit op und row; keine weitere Produktkorrektur nötig. Rollenrechte und Advisor-Differenzen geprüft. Keine echten Konten zurückgesetzt.
+
+490 Build-Dateien im Archiv exakt, 18 öffentliche Dateien einschließlich korrigiertem einmaligem CDN-Abruf geprüft. Version 67 nativ succeeded um 14:15:42 Uhr, öffentliche Versions-RPC bestätigt. Meldungsdienst Version 4 mit JWT-Prüfung gemeinsam ausgerollt. Worktree wiederherstellbar archiviert und entfernt; kein GitHub-Push. [Vollständiger Nachweis](Veroeffentlichung-2026-10-11-Version-67.json).

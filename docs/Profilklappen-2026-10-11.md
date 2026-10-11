@@ -1,6 +1,6 @@
 # Profilklappen und Entfernung des Merksatzes
 
-Lokaler Stand vom 11.10.2026, noch nicht veröffentlicht. Auftrag: [unveränderte Nutzerquelle](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-11%20Nutzerauftrag%20Profilklappen%20und%20Merksatz.txt).
+Seit 11.10.2026 als **Version 67 öffentlich veröffentlicht**. [Gemeinsamer Nachweis](Veroeffentlichung-2026-10-11-Version-67.json). Auftrag: [unveränderte Nutzerquelle](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-11%20Nutzerauftrag%20Profilklappen%20und%20Merksatz.txt).
 
 Die Profilseite verwendet die goldenen, illustrierten Klappen der Frageseite mit denselben 62 Pixel hohen Kopfzeilen, 40 Pixel großen dekorativen Bildern, Richtungspfeilen, Fokusmarkierungen und nativer Maus-/Tastaturbedienung. Filmkarriere, Lernstand, Spielstatistik, Konto & Speicherung und Problem-/Verbesserungsmeldung beginnen geschlossen. Die Filmkarriere nennt das aktuelle Level bereits in der Kopfzeile. Optionen und Hilfe bleiben direkt erreichbar. Bei erneutem Seitenbesuch beginnen die Klappen geschlossen; Öffnen und Schließen verändern keinen Spielstand. Datenschutz- und Speicherhinweise stehen gemeinsam im Kontobereich.
 
