@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 2800,
-  "totalReviewed": 2950,
-  "remainingFilmQuestions": 7783,
+  "completedInThisRun": 2850,
+  "totalReviewed": 3000,
+  "remainingFilmQuestions": 7733,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 9823,
+  "remainingAllQuestions": 9773,
   "blocks": [
     {
       "block": 1,
@@ -288,6 +288,11 @@
     {
       "block": 56,
       "path": "Block-56.json",
+      "count": 50
+    },
+    {
+      "block": 57,
+      "path": "Block-57.json",
       "count": 50
     }
   ],
@@ -3241,209 +3246,59 @@
     "E20261007-F-135-M1",
     "E20261007-F-135-M2",
     "E20261007-F-135-S1",
-    "E20261007-F-135-S2"
+    "E20261007-F-135-S2",
+    "E20261007-F-135-Y",
+    "E20261007-F-135-D",
+    "MUS-202610-P01-L-011",
+    "MUS-202610-P01-L-012",
+    "MUS-202610-P01-M-016",
+    "MUS-202610-P01-M-017",
+    "MUS-202610-P01-S-016",
+    "MUS-202610-P01-S-017",
+    "MUS-202610-P01-M-018",
+    "MUS-202610-P01-S-018",
+    "SF-202609-P02-L-079",
+    "SF-202609-P02-L-080",
+    "SF-202609-P02-M-079",
+    "SF-202609-P02-M-080",
+    "SF-202609-P02-S-079",
+    "SF-202609-P02-S-080",
+    "SF-202609-P02-M-079-V1",
+    "FF-365-YEAR",
+    "FF-365-DIRECTOR",
+    "SF-202609-P02-L-087",
+    "SF-202609-P02-L-088",
+    "SF-202609-P02-M-087",
+    "SF-202609-P02-M-088",
+    "SF-202609-P02-S-087",
+    "SF-202609-P02-S-088",
+    "SF-202609-P02-S-087-V1",
+    "FF-369-YEAR",
+    "FF-369-DIRECTOR",
+    "E20261007-F-039-L1",
+    "E20261007-F-039-L2",
+    "E20261007-F-039-M1",
+    "E20261007-F-039-M2",
+    "E20261007-F-039-S1",
+    "E20261007-F-039-S2",
+    "E20261007-F-039-Y",
+    "E20261007-F-039-D",
+    "F240-20261006-178-L1",
+    "F240-20261006-178-L2",
+    "F240-20261006-178-M1",
+    "F240-20261006-178-M2",
+    "F240-20261006-178-S1",
+    "F240-20261006-178-S2",
+    "F240-20261006-178-Y",
+    "F240-20261006-178-D",
+    "MAR-L-029",
+    "MAR-L-030",
+    "MAR-M-029",
+    "MAR-M-030",
+    "MAR-S-029",
+    "MAR-S-030"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "E20261007-F-135-Y",
-      "filmKey": "Election|1999"
-    },
-    {
-      "id": "E20261007-F-135-D",
-      "filmKey": "Election|1999"
-    },
-    {
-      "id": "MUS-202610-P01-L-011",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-L-012",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-M-016",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-M-017",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-S-016",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-S-017",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-M-018",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-S-018",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "SF-202609-P02-L-079",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-L-080",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-M-079",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-M-080",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-S-079",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-S-080",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-M-079-V1",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "FF-365-YEAR",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "FF-365-DIRECTOR",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-L-087",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-L-088",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-M-087",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-M-088",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-S-087",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-S-088",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-S-087-V1",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "FF-369-YEAR",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "FF-369-DIRECTOR",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "E20261007-F-039-L1",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-L2",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-M1",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-M2",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-S1",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-S2",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-Y",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-D",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "F240-20261006-178-L1",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-L2",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-M1",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-M2",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-S1",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-S2",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-Y",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-D",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "MAR-L-029",
-      "filmKey": "Enter the Dragon|1973"
-    },
-    {
-      "id": "MAR-L-030",
-      "filmKey": "Enter the Dragon|1973"
-    },
-    {
-      "id": "MAR-M-029",
-      "filmKey": "Enter the Dragon|1973"
-    },
-    {
-      "id": "MAR-M-030",
-      "filmKey": "Enter the Dragon|1973"
-    },
-    {
-      "id": "MAR-S-029",
-      "filmKey": "Enter the Dragon|1973"
-    },
-    {
-      "id": "MAR-S-030",
-      "filmKey": "Enter the Dragon|1973"
-    },
     {
       "id": "MAR-L-030-V1",
       "filmKey": "Enter the Dragon|1973"
@@ -34379,204 +34234,204 @@
   ],
   "next": [
     {
-      "id": "E20261007-F-135-Y",
-      "filmKey": "Election|1999"
-    },
-    {
-      "id": "E20261007-F-135-D",
-      "filmKey": "Election|1999"
-    },
-    {
-      "id": "MUS-202610-P01-L-011",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-L-012",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-M-016",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-M-017",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-S-016",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-S-017",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-M-018",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "MUS-202610-P01-S-018",
-      "filmKey": "Elvis|2022"
-    },
-    {
-      "id": "SF-202609-P02-L-079",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-L-080",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-M-079",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-M-080",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-S-079",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-S-080",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-M-079-V1",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "FF-365-YEAR",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "FF-365-DIRECTOR",
-      "filmKey": "Elysium|2013"
-    },
-    {
-      "id": "SF-202609-P02-L-087",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-L-088",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-M-087",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-M-088",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-S-087",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-S-088",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "SF-202609-P02-S-087-V1",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "FF-369-YEAR",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "FF-369-DIRECTOR",
-      "filmKey": "Enemy Mine|1985"
-    },
-    {
-      "id": "E20261007-F-039-L1",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-L2",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-M1",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-M2",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-S1",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-S2",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-Y",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "E20261007-F-039-D",
-      "filmKey": "Enemy of the State|1998"
-    },
-    {
-      "id": "F240-20261006-178-L1",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-L2",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-M1",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-M2",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-S1",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-S2",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-Y",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "F240-20261006-178-D",
-      "filmKey": "Enough Said|2013"
-    },
-    {
-      "id": "MAR-L-029",
+      "id": "MAR-L-030-V1",
       "filmKey": "Enter the Dragon|1973"
     },
     {
-      "id": "MAR-L-030",
+      "id": "MAR-M-030-V1",
       "filmKey": "Enter the Dragon|1973"
     },
     {
-      "id": "MAR-M-029",
+      "id": "MAR-S-030-V1",
       "filmKey": "Enter the Dragon|1973"
     },
     {
-      "id": "MAR-M-030",
+      "id": "FF-240-YEAR",
       "filmKey": "Enter the Dragon|1973"
     },
     {
-      "id": "MAR-S-029",
+      "id": "FF-240-DIRECTOR",
       "filmKey": "Enter the Dragon|1973"
     },
     {
-      "id": "MAR-S-030",
-      "filmKey": "Enter the Dragon|1973"
+      "id": "SF-202609-P02-L-055",
+      "filmKey": "Equilibrium|2002"
+    },
+    {
+      "id": "SF-202609-P02-L-056",
+      "filmKey": "Equilibrium|2002"
+    },
+    {
+      "id": "SF-202609-P02-M-055",
+      "filmKey": "Equilibrium|2002"
+    },
+    {
+      "id": "SF-202609-P02-M-056",
+      "filmKey": "Equilibrium|2002"
+    },
+    {
+      "id": "SF-202609-P02-S-055",
+      "filmKey": "Equilibrium|2002"
+    },
+    {
+      "id": "SF-202609-P02-S-056",
+      "filmKey": "Equilibrium|2002"
+    },
+    {
+      "id": "SF-202609-P02-M-055-V1",
+      "filmKey": "Equilibrium|2002"
+    },
+    {
+      "id": "FF-353-YEAR",
+      "filmKey": "Equilibrium|2002"
+    },
+    {
+      "id": "FF-353-DIRECTOR",
+      "filmKey": "Equilibrium|2002"
+    },
+    {
+      "id": "E20261007-F-129-L1",
+      "filmKey": "Er ist wieder da|2015"
+    },
+    {
+      "id": "E20261007-F-129-L2",
+      "filmKey": "Er ist wieder da|2015"
+    },
+    {
+      "id": "E20261007-F-129-M1",
+      "filmKey": "Er ist wieder da|2015"
+    },
+    {
+      "id": "E20261007-F-129-M2",
+      "filmKey": "Er ist wieder da|2015"
+    },
+    {
+      "id": "E20261007-F-129-S1",
+      "filmKey": "Er ist wieder da|2015"
+    },
+    {
+      "id": "E20261007-F-129-S2",
+      "filmKey": "Er ist wieder da|2015"
+    },
+    {
+      "id": "E20261007-F-129-Y",
+      "filmKey": "Er ist wieder da|2015"
+    },
+    {
+      "id": "E20261007-F-129-D",
+      "filmKey": "Er ist wieder da|2015"
+    },
+    {
+      "id": "G100-20261008-FANTASY-013-L1",
+      "filmKey": "Eragon|2006"
+    },
+    {
+      "id": "G100-20261008-FANTASY-013-L2",
+      "filmKey": "Eragon|2006"
+    },
+    {
+      "id": "G100-20261008-FANTASY-013-M1",
+      "filmKey": "Eragon|2006"
+    },
+    {
+      "id": "G100-20261008-FANTASY-013-M2",
+      "filmKey": "Eragon|2006"
+    },
+    {
+      "id": "G100-20261008-FANTASY-013-S1",
+      "filmKey": "Eragon|2006"
+    },
+    {
+      "id": "G100-20261008-FANTASY-013-S2",
+      "filmKey": "Eragon|2006"
+    },
+    {
+      "id": "G100-20261008-FANTASY-013-Y",
+      "filmKey": "Eragon|2006"
+    },
+    {
+      "id": "G100-20261008-FANTASY-013-D",
+      "filmKey": "Eragon|2006"
+    },
+    {
+      "id": "E20261007-F-030-L1",
+      "filmKey": "Eraser|1996"
+    },
+    {
+      "id": "E20261007-F-030-L2",
+      "filmKey": "Eraser|1996"
+    },
+    {
+      "id": "E20261007-F-030-M1",
+      "filmKey": "Eraser|1996"
+    },
+    {
+      "id": "E20261007-F-030-M2",
+      "filmKey": "Eraser|1996"
+    },
+    {
+      "id": "E20261007-F-030-S1",
+      "filmKey": "Eraser|1996"
+    },
+    {
+      "id": "E20261007-F-030-S2",
+      "filmKey": "Eraser|1996"
+    },
+    {
+      "id": "E20261007-F-030-Y",
+      "filmKey": "Eraser|1996"
+    },
+    {
+      "id": "E20261007-F-030-D",
+      "filmKey": "Eraser|1996"
+    },
+    {
+      "id": "E20261007-F-203-L1",
+      "filmKey": "Europa Report|2013"
+    },
+    {
+      "id": "E20261007-F-203-L2",
+      "filmKey": "Europa Report|2013"
+    },
+    {
+      "id": "E20261007-F-203-M1",
+      "filmKey": "Europa Report|2013"
+    },
+    {
+      "id": "E20261007-F-203-M2",
+      "filmKey": "Europa Report|2013"
+    },
+    {
+      "id": "E20261007-F-203-S1",
+      "filmKey": "Europa Report|2013"
+    },
+    {
+      "id": "E20261007-F-203-S2",
+      "filmKey": "Europa Report|2013"
+    },
+    {
+      "id": "E20261007-F-203-Y",
+      "filmKey": "Europa Report|2013"
+    },
+    {
+      "id": "E20261007-F-203-D",
+      "filmKey": "Europa Report|2013"
+    },
+    {
+      "id": "SF-202609-P02-L-031",
+      "filmKey": "Event Horizon|1997"
+    },
+    {
+      "id": "SF-202609-P02-L-032",
+      "filmKey": "Event Horizon|1997"
+    },
+    {
+      "id": "SF-202609-P02-M-031",
+      "filmKey": "Event Horizon|1997"
+    },
+    {
+      "id": "SF-202609-P02-M-032",
+      "filmKey": "Event Horizon|1997"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
