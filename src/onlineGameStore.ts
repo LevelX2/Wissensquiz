@@ -39,6 +39,7 @@ export class OnlineGameStore {
   private document?: SyncDocument;
   private metadata?: SyncMetadata;
   private catalogs: PreparedRelease[] = [];
+  private positionHeads: Record<string, number | null> = {};
   private writing = false;
   private stopped = false;
   private pending?: {
@@ -182,7 +183,9 @@ export class OnlineGameStore {
       -1,
       undefined,
       this.serverOnly,
+      this.serverOnly ? { kind: "boot" } : undefined,
     );
+    this.positionHeads = loaded.positions ?? {};
     if (this.stopped) return;
     this.catalogs = [
       ...new Map(
@@ -224,6 +227,24 @@ export class OnlineGameStore {
       position: 0,
       value: { source: "server", parts: [] },
     });
+    if (previous) {
+      // Partial UI history must never overwrite full server projections.
+      const derived = (row: { kind: string; id: string }) =>
+        row.kind === "learning" ||
+        row.kind === "record" ||
+        (row.kind === "field" &&
+          ["experience", "career", "journey", "badges"].includes(row.id));
+      for (const [key, row] of doc.rows) if (derived(row)) doc.rows.delete(key);
+      for (const [key, row] of previous.rows)
+        if (derived(row)) doc.rows.set(key, row);
+      const positions = { ...this.positionHeads };
+      for (const [key, row] of doc.rows) {
+        const old = previous.rows.get(key);
+        if (old) row.position = old.position;
+        else if (row.kind !== "field")
+          row.position = positions[row.kind] = (positions[row.kind] ?? -1) + 1;
+      }
+    }
     const used = objectHashes(doc);
     for (const hash of doc.objects.keys())
       if (!used.has(hash)) doc.objects.delete(hash);
@@ -240,10 +261,12 @@ export class OnlineGameStore {
       this.owner,
       metadata.generation,
       metadata.revision,
-      same ? this.metadata!.revision : -1,
-      same ? this.document : undefined,
+      this.serverOnly ? -1 : same ? this.metadata!.revision : -1,
+      this.serverOnly ? undefined : same ? this.document : undefined,
       this.serverOnly,
+      this.serverOnly ? { kind: "boot" } : undefined,
     );
+    this.positionHeads = loaded.positions ?? this.positionHeads;
     this.document = loaded.document;
     this.metadata = metadata;
     this.state = this.copy(
@@ -342,10 +365,49 @@ export class OnlineGameStore {
       throw new Error("Der Online-Spielstand fehlt.");
     this.writing = true;
     try {
-      const next = this.read();
+      let next = this.read();
       if (!options.reuseCatalog)
         next.questions = structuredClone(next.questions);
       mutator(next);
+      if (this.serverOnly && !options.replace) {
+        const missingRounds = next.rounds
+          .filter((r) => !this.document!.rows.has("round:" + r.id))
+          .map((r) => r.id);
+        const missingGoals = [
+          ...new Set(
+            next.rounds.flatMap((r) => r.questions.map((q) => q.knowledgeId)),
+          ),
+        ].filter((id) => !this.document!.rows.has("learning:" + id));
+        if (missingRounds.length || missingGoals.length) {
+          let doc = this.document!;
+          for (
+            let at = 0;
+            at < Math.max(missingRounds.length / 20, missingGoals.length / 100);
+            at++
+          ) {
+            const loaded = await downloadDocument(
+              this.api,
+              this.owner,
+              this.metadata.generation,
+              this.metadata.revision,
+              -1,
+              doc,
+              true,
+              {
+                kind: "details",
+                rounds: missingRounds.slice(at * 20, at * 20 + 20),
+                goals: missingGoals.slice(at * 100, at * 100 + 100),
+              },
+            );
+            doc = loaded.document;
+            this.positionHeads = loaded.positions ?? this.positionHeads;
+          }
+          this.document = doc;
+          this.state = this.copy(reconstructState(doc, [], true));
+          next = this.read();
+          mutator(next);
+        }
+      }
       if (this.serverOnly) {
         delete next.bundledQuestionIds;
         next.questions = [
@@ -361,7 +423,8 @@ export class OnlineGameStore {
         options.progressOnly === true,
       );
       const delta = difference(this.document, document);
-      if (!delta.changes.length && !delta.objects.length) return this.read();
+      if (!options.replace && !delta.changes.length && !delta.objects.length)
+        return this.read();
       if (options.replace || delta.changes.length > 2000) {
         this.pending = {
           state: next,
@@ -480,10 +543,12 @@ export class OnlineGameStore {
           this.owner,
           this.metadata!.generation!,
           revision,
-          pending.replacement ? -1 : revision - 1,
-          pending.replacement ? undefined : this.document,
+          -1,
+          undefined,
           true,
+          { kind: "boot" },
         );
+        this.positionHeads = loaded.positions ?? this.positionHeads;
         this.document = loaded.document;
         this.state = this.copy(reconstructState(loaded.document, [], true));
       }
@@ -497,6 +562,22 @@ export class OnlineGameStore {
         this.notify(error instanceof CloudConflict ? "conflict" : "offline");
       throw error;
     }
+  }
+  async exportState() {
+    if (this.writing || this.pending)
+      throw new Error("Bestätige zuerst die ausstehende Speicherung.");
+    const metadata = await getMetadata(this.api, this.owner);
+    if (!metadata.generation) throw new Error("Der Online-Spielstand fehlt.");
+    const loaded = await downloadDocument(
+      this.api,
+      this.owner,
+      metadata.generation,
+      metadata.revision,
+      -1,
+      undefined,
+      this.serverOnly,
+    );
+    return reconstructState(loaded.document, loaded.catalogs, this.serverOnly);
   }
   async retry() {
     if (this.writing) return this.read();

@@ -9,6 +9,7 @@ import { recordKey } from "./engine";
 import { roundQuestionCount } from "./roundArchive";
 import { RankingContext } from "./SharedLeaderboard";
 import { PlayerLeaderboard } from "./PlayerLeaderboard";
+import { useServer } from "./serverViews";
 import { OnlineRecords, DuelRankings } from "./OnlineRecords";
 import {
   isRecordMode,
@@ -33,6 +34,7 @@ export function Leaderboard({
   onPlay?: () => void;
 }) {
   const connection = useContext(RankingContext);
+  const server = useServer();
   const targetRound =
     initialTarget?.kind === "record"
       ? state.rounds.find(
@@ -49,11 +51,13 @@ export function Leaderboard({
     initialTarget?.kind === "duel" ? "duels" : "records",
   );
   const [mode, setMode] = useState<RecordMode>(
-    targetRound && isRecordMode(targetRound.mode)
-      ? targetRound.mode
-      : latest && isRecordMode(latest.mode)
-        ? latest.mode
-        : "rekord",
+    initialTarget?.kind === "record" && initialTarget.mode
+      ? initialTarget.mode
+      : targetRound && isRecordMode(targetRound.mode)
+        ? targetRound.mode
+        : latest && isRecordMode(latest.mode)
+          ? latest.mode
+          : "rekord",
   );
   const [scope, setScope] = useState<"mine" | "shared">("mine");
   const [period, setPeriod] = useState<RecordPeriod>("all");
@@ -197,6 +201,18 @@ export function Leaderboard({
             />
           ) : scope === "shared" ? (
             <OnlineRecords key={mode + period} mode={mode} period={period} />
+          ) : server ? (
+            <OnlineRecords
+              key={"mine" + mode + period}
+              mode={mode}
+              period={period}
+              mine
+              initialRoundId={
+                initialTarget?.kind === "record"
+                  ? initialTarget.roundId
+                  : undefined
+              }
+            />
           ) : (
             <>
               {!!categories.length && (

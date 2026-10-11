@@ -64,6 +64,22 @@ export const presentationSchema = z.object({
     z.object({ reference: z.string().optional(), data: filmDisplaySchema }),
   ),
   portraits: z.array(portraitSchema),
+  poster: z
+    .object({
+      title: z.string(),
+      year: z.number().int(),
+      src: z
+        .string()
+        .regex(
+          /^https:\/\/image\.tmdb\.org\/t\/p\/w342\/[a-zA-Z0-9]+\.(jpg|png)$/,
+        ),
+      sourceUrl: z
+        .string()
+        .regex(/^https:\/\/www\.themoviedb\.org\/movie\/[1-9][0-9]*$/),
+      expiresAt: z.string().datetime(),
+    })
+    .nullable()
+    .optional(),
 });
 export const questionSchema = z
   .object({

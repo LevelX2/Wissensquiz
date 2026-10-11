@@ -1,0 +1,113 @@
+{
+  "manifest": {
+    "hash": "145d794e868ace8651604be70447ae0ec7236c8b8786d6a4d4da439008fe8e22",
+    "questions": 12787,
+    "parts": 132
+  },
+  "result": {
+    "questions": 12787,
+    "content_sets": 1,
+    "release_archives": 0,
+    "presentations": 12787,
+    "posters": 11027,
+    "pending": 0,
+    "groups": 3372
+  },
+  "date": "2026-10-11",
+  "status": "local_only",
+  "unit": {
+    "files": 78,
+    "tests": 487,
+    "passed": true,
+    "targetedAfterLastChange": {
+      "file": "tests/duels.test.ts",
+      "tests": 7,
+      "passed": true,
+      "durationSeconds": 3.74
+    }
+  },
+  "history": {
+    "rounds": 31,
+    "bootBytes": 13767,
+    "fullExportBytes": 289678,
+    "encoding": "uncompressed JSON responses"
+  },
+  "build": {
+    "passed": true,
+    "mainKB": 1044.32,
+    "mainGzipKB": 281.07
+  },
+  "limits": [
+    "Kein nativer PostgreSQL-Parallelitäts-/Sperrwartezeittest",
+    "Keine Mehrspieler-Lastabnahme",
+    "Noch nicht nach Supabase oder Sites ausgerollt"
+  ],
+  "typescript": {
+    "passed": true
+  },
+  "migrations": [
+    {
+      "file": "20261011091304_server_catalog_and_incremental_projection.sql",
+      "sha256": "ec054b1e96a95fa43e6efd4525d4a69f8b8f5f8230ef08b07baaccf1744e647a"
+    },
+    {
+      "file": "20261011091305_server_boot_and_views.sql",
+      "sha256": "ca1da22d9574e82fd1a3d2334688eda1fc2ccb8e2808feac47e6b38cea98ddde"
+    },
+    {
+      "file": "20261011091306_server_duel_concurrency.sql",
+      "sha256": "81413e7b1cdaf0c52b47e8fb6ec5c64ab7fdf4d844a9d9ab2bca70daceb5f32e"
+    }
+  ],
+  "browser": {
+    "distinctCases": 62,
+    "passedAfterCorrectionsAndTargetedRechecks": true,
+    "projects": [
+      "chromium",
+      "firefox",
+      "webkit-mobile"
+    ],
+    "chunks": [
+      {
+        "name": "posters",
+        "passed": 10
+      },
+      {
+        "name": "own-record-calendar",
+        "passed": 2
+      },
+      {
+        "name": "core",
+        "passed": 29,
+        "failed": 2,
+        "notRun": 19,
+        "additionalLifecycleErrors": 1
+      },
+      {
+        "name": "firefox-first-start-recheck",
+        "passed": 1
+      },
+      {
+        "name": "mobile-remaining",
+        "passed": 19,
+        "failed": 1
+      },
+      {
+        "name": "mobile-invitation-diagnostic",
+        "passed": 1
+      },
+      {
+        "name": "mobile-invitation-final",
+        "passed": 2,
+        "distinctCases": 1,
+        "durationSeconds": 56.4
+      }
+    ],
+    "notes": [
+      "Kein vollständig grüner breiter Kernlauf; erfolgreiche gezielte Nachprüfungen separat erfasst.",
+      "Kontrollierte Kalender-/Rundenzeit und CSS-Animationen im Testaufbau angeglichen.",
+      "Doppelte Inhaltsvorbereitung im Testbackend entfernt.",
+      "Laufende Test-Routen vor Browserkontextabschluss abgewartet; Fristen unverändert."
+    ]
+  }
+}

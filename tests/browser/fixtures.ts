@@ -2,9 +2,10 @@ import { preparePresentation } from "../../src/questionPresentation";
 import { recognitionPortrait } from "../../src/portraitCatalog";
 import { test as base, type BrowserContext, type Page } from "@playwright/test";
 import { readFileSync } from "node:fs";
-import type { State } from "../../src/model";
+import { emptyState, type State } from "../../src/model";
+import { packages, addPackages } from "../../src/packages";
 import {
-  verifyRelease,
+  prepareRelease,
   reconstructState,
   type PreparedRelease,
 } from "../../src/syncCodec";
@@ -112,13 +113,28 @@ let preparedRelease: Promise<PreparedRelease> | undefined;
 export async function createAccountBackend() {
   const fixture = await syncFixture(),
     { api } = await fixture.client(testOwner);
-  const release = await (preparedRelease ??= verifyRelease(
-    JSON.parse(readFileSync("tmp-sync/catalog/release.json", "utf8")),
-  ));
+  // Calendar views use the same controlled clock as synthetic server runs.
+  // This override exists only in the isolated browser backend.
+  await fixture.db.exec(`do $patch$declare f record;begin
+    for f in select p.oid::regprocedure as name from pg_proc p join pg_namespace n on n.oid=p.pronamespace
+    where n.nspname='public' and p.proname in ('quiz_period_start','quiz_own_record_runs','quiz_own_record_location')
+    loop execute replace(pg_get_functiondef(f.name),'now()','quiz_ranked_internal.test_clock()');end loop;
+  end$patch$;`);
+  const release = await (preparedRelease ??= (async () => {
+    const state = emptyState();
+    addPackages(
+      state,
+      packages.map((pkg) => ({
+        filename: pkg.filename,
+        text: readFileSync("public" + pkg.path, "utf8"),
+      })),
+    );
+    return prepareRelease(state.questions);
+  })());
   await fixture.seed(release);
-  await fixture.seedRanked(release);
-  let rankedReady: Promise<void> | undefined;
-  const ensureRanked = () => (rankedReady ??= fixture.seedRanked(release));
+  const rankedReady = fixture.seedRanked(release);
+  await rankedReady;
+  const ensureRanked = () => rankedReady;
   return {
     ...fixture,
     api,
@@ -162,6 +178,7 @@ export async function isolateAccountService(
       !name.startsWith("quiz_sync_") &&
       !name.startsWith("quiz_game_") &&
       !name.startsWith("quiz_trial_") &&
+      !name.startsWith("quiz_own_record_") &&
       name !== "quiz_ranked_call"
     )
       return route.fulfill({ json: [] });
@@ -311,11 +328,30 @@ export async function writeStoredState(page: Page, state: State) {
     const id = crypto.randomUUID(),
       oldId = active.id;
     active.id = "learn-" + id;
+    const presentations = await backend.admin(() =>
+      backend.db.query<{
+        id: string;
+        version: string;
+        question: string;
+        context: string;
+        value: NonNullable<State["questions"][number]["presentation"]>;
+      }>(
+        "select id,version,question,context,value from quiz_game_internal.presentations where id=any($1::text[])",
+        [active.questions.map((q) => q.id)],
+      ),
+    );
     const questions = active.questions.map((q) => {
+      const prepared = presentations.rows.find(
+        (p) =>
+          p.id === q.id &&
+          p.version === q.version &&
+          p.question === q.question &&
+          p.context === q.context,
+      );
       const p = recognitionPortrait(q, oldId + ":" + q.knowledgeId);
       return {
         ...q,
-        presentation: preparePresentation(q),
+        presentation: prepared?.value ?? preparePresentation(q),
         ...(p
           ? {
               image: {

@@ -12,24 +12,6 @@ export type FilmPosterManifest = {
   expiresAt: string;
   films: Record<string, FilmPosterData>;
 };
-let manifest: Promise<FilmPosterManifest | null> | undefined;
-export function loadFilmPosters() {
-  return (manifest ??= fetch("/film-posters.json", { cache: "no-cache" })
-    .then(async (response) => {
-      if (!response.ok) return null;
-      const value = await response.json();
-      if (
-        !value ||
-        typeof value.films !== "object" ||
-        !value.films ||
-        typeof value.checkedAt !== "string" ||
-        typeof value.expiresAt !== "string"
-      )
-        return null;
-      return value as FilmPosterManifest;
-    })
-    .catch(() => null));
-}
 export function filmPoster(
   q: Question,
   data: FilmPosterManifest | null,

@@ -74,6 +74,12 @@ export function SharedLeaderboard({ state }: { state: State }) {
       (signal) =>
         connection.client.rpc("quiz_score_categories").abortSignal(signal),
       controller,
+      {
+        client: connection.client,
+        owner: connection.owner,
+        key: "score-categories",
+        fresh: refresh > 0,
+      },
     )
       .then(({ data, error }) => {
         if (!active) return;
@@ -134,6 +140,12 @@ export function SharedLeaderboard({ state }: { state: State }) {
           })
           .abortSignal(signal),
       controller,
+      {
+        client: connection.client,
+        owner: connection.owner,
+        key: JSON.stringify(["scores", category, offset]),
+        fresh: refresh > 0,
+      },
     )
       .then(({ data, error }) => {
         if (!active) return;

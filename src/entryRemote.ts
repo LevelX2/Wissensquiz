@@ -137,6 +137,7 @@ const pageSchema = z.object({
   rows: z.array(incomingRow).max(500),
   nextCursor: z.string().nullable(),
   done: z.boolean(),
+  positions: z.record(z.string(), z.number().nullable()).optional(),
 });
 const objectSchema = z.object({
   hash: z.string().regex(/^[0-9a-f]{64}$/),
@@ -144,6 +145,8 @@ const objectSchema = z.object({
   text: z.string().nullable(),
   characters: z.number().int().nonnegative(),
 });
+export type DocumentScope =
+  { kind: "boot" } | { kind: "details"; rounds: string[]; goals: string[] };
 export async function downloadDocument(
   api: SyncRemote,
   owner: string,
@@ -152,29 +155,34 @@ export async function downloadDocument(
   afterRevision = -1,
   previous?: SyncDocument,
   serverOnly = false,
+  scope?: DocumentScope,
 ) {
   const document: SyncDocument = {
     rows: new Map(previous?.rows),
     objects: new Map(previous?.objects),
   };
+  let positions: Record<string, number | null> | undefined;
   let cursor = "",
     pages = 0;
   while (true) {
     if (++pages > 10000) throw new Error("Der Abruf ist zu groß.");
     const page = pageSchema.parse(
       await api.call(
-        "quiz_sync_page",
+        scope ? "quiz_sync_scope_page" : "quiz_sync_page",
         {
           expected_owner: owner,
           target_generation: generation,
           expected_revision: revision,
-          after_revision: afterRevision,
+          ...(scope
+            ? { scope_text: JSON.stringify(scope) }
+            : { after_revision: afterRevision }),
           page_cursor: cursor,
           page_size: 200,
         },
         30_000,
       ),
     );
+    positions = page.positions ?? positions;
     if (page.generation !== generation || page.revision !== revision)
       throw new DownloadChanged();
     for (const row of page.rows) {
@@ -273,7 +281,7 @@ export async function downloadDocument(
   for (const hash of missing)
     if (!document.objects.has(hash))
       throw new Error("Ein privater Inhalt fehlt.");
-  return { document, catalogs };
+  return { document, catalogs, positions };
 }
 // UTF-8 bounded pieces; preserve surrogate pairs at boundaries. The server uses
 // character offsets only for downloads and never truncates stored object data.

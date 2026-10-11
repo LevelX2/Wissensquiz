@@ -20,7 +20,12 @@ import {
 } from "./recordModes";
 
 export type LeaderboardTarget =
-  { kind: "record"; roundId: string } | { kind: "duel"; duelId: string };
+  | {
+      kind: "record";
+      roundId: string;
+      mode?: import("./recordModes").RecordMode;
+    }
+  | { kind: "duel"; duelId: string };
 
 export const genreSelection = (r: Round) =>
   [

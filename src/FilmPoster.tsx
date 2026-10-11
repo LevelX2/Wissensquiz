@@ -1,24 +1,16 @@
 import { useEffect, useState } from "react";
 import type { Question } from "./model";
-import { filmPoster, loadFilmPosters } from "./filmPosters";
 
 export function FilmPoster({ q }: { q: Question }) {
-  const [poster, setPoster] = useState<ReturnType<typeof filmPoster>>();
+  const [poster, setPoster] =
+    useState<NonNullable<Question["presentation"]>["poster"]>();
   useEffect(() => {
-    let active = true;
-    if (
-      q.domain === "Film" &&
-      !q.metadata.person_id &&
-      q.metadata.film_title_original &&
-      q.metadata.film_year
-    ) {
-      void loadFilmPosters().then((data) => {
-        if (active) setPoster(filmPoster(q, data));
-      });
-    }
-    return () => {
-      active = false;
-    };
+    const prepared = q.presentation?.poster;
+    setPoster(
+      prepared && Date.now() < Date.parse(prepared.expiresAt)
+        ? prepared
+        : undefined,
+    );
   }, [q]);
   if (!poster) return null;
   return (

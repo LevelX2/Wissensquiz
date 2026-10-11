@@ -435,3 +435,83 @@ it("nimmt Einladungen genau einmal an und hält die ursprüngliche Erstellungsan
   ).toBe(d.id);
   await as(alice, () => rpc("quiz_duel_close", [d.id]));
 });
+
+it("liest Duellübersichten ohne globale Schreibsperre, erkennt Änderungen und paginiert ältere Spiele", async () => {
+  const player = crypto.randomUUID(),
+    foreign = crypto.randomUUID();
+  await db.query(
+    "insert into auth.users values($1,now(),false,$3),($2,now(),false,$3)",
+    [player, foreign, {}],
+  );
+  const own = duelSchema.parse(
+    await as(player, () =>
+      rpc("quiz_duel_create", ["round", true, crypto.randomUUID()]),
+    ),
+  );
+  const other = duelSchema.parse(
+    await as(foreign, () =>
+      rpc("quiz_duel_create", ["round", true, crypto.randomUUID()]),
+    ),
+  );
+  await db.query(
+    "update public.quiz_duels set due_at=now()-interval '1 minute' where id=any($1::uuid[])",
+    [[own.id, other.id]],
+  );
+  const before = (
+    await db.query(
+      "select id,status,revision from public.quiz_duels where id=any($1::uuid[]) order by id",
+      [[own.id, other.id]],
+    )
+  ).rows;
+  const read = (scope: string, extra = {}) =>
+    as(player, () =>
+      rpc<any>("quiz_duel_overview", [JSON.stringify({ scope, ...extra })]),
+    );
+  expect((await read("active")).items).toEqual([]);
+  const archive = await read("archive");
+  expect(archive.items).toHaveLength(1);
+  expect(archive.items[0].status).toBe("cancelled");
+  const results = await as(player, () =>
+    rpc<any[]>("quiz_duel_results", ["all", 0]),
+  );
+  expect(results.find((d) => d.id === own.id)).toMatchObject({
+    status: "cancelled",
+    reason: "timeout",
+  });
+  expect(results.some((d) => d.id === other.id)).toBe(false);
+  const unchanged = await read("archive", { revision: archive.revision });
+  expect(unchanged.unchanged).toBe(true);
+  expect(unchanged.items).toBeUndefined();
+  expect(
+    (
+      await db.query(
+        "select id,status,revision from public.quiz_duels where id=any($1::uuid[]) order by id",
+        [[own.id, other.id]],
+      )
+    ).rows,
+  ).toEqual(before);
+  await db.query(
+    `insert into public.quiz_duels(creator,kind,solution_display,request_id,questions,status,created_at,due_at)
+ select creator,kind,solution_display,gen_random_uuid(),questions,'cancelled',now()-i*interval '1 minute',now()-i*interval '1 minute' from public.quiz_duels cross join generate_series(1,25) i where id=$1`,
+    [own.id],
+  );
+  const first = await read("archive");
+  expect(first.items).toHaveLength(20);
+  expect(first.nextCursor).toBeTruthy();
+  const last = await read("archive", { cursor: first.nextCursor });
+  expect(last.items).toHaveLength(6);
+  expect(last.nextCursor).toBeNull();
+  expect(new Set([...first.items, ...last.items].map((d) => d.id)).size).toBe(
+    26,
+  );
+  const empty = await read("active");
+  await as(player, () =>
+    rpc("quiz_duel_create", ["round", true, crypto.randomUUID()]),
+  );
+  const changed = await read("active", { revision: empty.revision });
+  expect(changed.unchanged).toBe(false);
+  expect(changed.items).toHaveLength(1);
+  await expect(
+    as(foreign, () => rpc("quiz_duel_view", [own.id, 1])),
+  ).rejects.toThrow("duel_unavailable");
+});

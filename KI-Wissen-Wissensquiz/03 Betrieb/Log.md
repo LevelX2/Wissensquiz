@@ -1920,3 +1920,10 @@ Abgeschlossene Entfernung der Redaktions-Umstellungsprotokolle und Block 91 aus 
 ## 11.10.2026 – Weitere Serveroptimierungen geprüft und priorisiert
 
 Auf Nachfrage Code und produktive SQL-Definitionen ausschließlich lesend nachgeprüft. Vollständigen Statistikneuaufbau beim Rundenabschluss sowie kontenübergreifende Duell-Mutexsperre auch bei Listen-/Ansichtsabrufen als wichtigste Restpunkte bestätigt. Danach privaten Erstabruf, Duellaktualisierung, vorbereitete Inhaltsgruppen und Ranglisten-Cache priorisiert. Keine Laufzeitänderung, Spielstandänderung, Veröffentlichung oder neue Lastmessung. [Befunde und Abnahmekriterien](../../docs/Server-Lernablauf-2026-10-11.md#nachprüfung-weitere-optimierungen--11102026).
+
+
+## 11.10.2026 – Weitere Serveroptimierungen lokal umgesetzt
+
+Sechs priorisierte Prozesse und Posterabruf im beauftragten Worktree optimiert: aktueller gemeinsamer Serverbestand ohne benötigte historische Vollkataloge, inkrementelle Rundenstatistik, begrenzter Kontostart mit gezieltem Nachladen, Duell-/Kontosperren ohne globalen Mutex, bedingte paginierte Duellübersichten, vorbereitete Inhaltsgruppen und kontogetrennter Ranglisten-Cache. Aktive Runden besitzen nur ihre eigenen Fragenbelege; vollständige manuelle Sicherung erhalten.
+
+487 Tests in 78 Dateien, TypeScript/Produktionsbuild und kompletter Betreiberimport mit 12.787 Fragen erfolgreich. 62 unterschiedliche gezielte Browserfälle nach Korrekturen/Nachprüfungen erfolgreich abgedeckt; zwei abschließende mobile Einladungswiederholungen bestanden. In der synthetischen 31-Runden-Historie 13.767 Bytes Startantworten gegenüber 289.678 Bytes vollständigem Export. Keine native Mehrspieler-/Sperrwartezeitabnahme. Noch nicht nach Supabase oder Sites ausgerollt, keine echten Spielstände verändert, kein Push. Fremde unfertige Main-Änderungen erhalten. [Konzept](../../docs/Server-Lernablauf-2026-10-11.md), [Prüfnachweis](../../docs/Serveroptimierungen-2026-10-11-Pruefung.json).

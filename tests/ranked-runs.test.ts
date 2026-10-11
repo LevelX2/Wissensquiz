@@ -580,3 +580,69 @@ it("wertet verspätete Antworten als Zeitablauf und lässt eine andere Sitzung n
     }),
   ).rejects.toThrow("ranked_unavailable");
 });
+
+it("lädt eigene Rekordseiten und den Zielplatz ohne private Antwortarchive und trennt Konten", async () => {
+  const { api, owner } = await fixture.client();
+  const session = new RankedSession(api, release.hash);
+  await session.start({
+    mode: "rekord",
+    preset: "standard",
+    solutionDisplay: "question",
+  });
+  for (let i = 0; i < 10; i++) {
+    const q = release.questions.find(
+      (q) => q.id === session.current!.question.id,
+    )!;
+    await session.answer(q.correctId);
+    if (i < 9) await session.next();
+  }
+  const id = session.run!.id;
+  await fixture.db.query(
+    "update quiz_ranked_internal.runs set points=0,finished_at=now()-interval '1 day' where id=$1",
+    [id],
+  );
+  await fixture.db.query(
+    `insert into quiz_ranked_internal.runs select (jsonb_populate_record(null::quiz_ranked_internal.runs,to_jsonb(r)||jsonb_build_object('id',gen_random_uuid(),'points',i,'finished_at',now()))).* from quiz_ranked_internal.runs r cross join generate_series(1,60) i where r.id=$1`,
+    [id],
+  );
+  const categories = await api.call<any[]>("quiz_own_record_categories", {
+    selected_mode: "rekord",
+  });
+  expect(categories).toHaveLength(1);
+  const category = categories[0].category;
+  const location = await api.call<any>("quiz_own_record_location", {
+    target_round: "ranked-" + id,
+    selected_period: "all",
+  });
+  expect(location).toEqual({ category, offset: 50 });
+  const page = await api.call<any[]>("quiz_own_record_runs", {
+    selected_category: category,
+    selected_period: "all",
+    page_offset: location.offset,
+  });
+  expect(page).toHaveLength(11);
+  expect(page.at(-1).round_id).toBe("ranked-" + id);
+  expect(page.at(-1).place).toBe(61);
+  expect(JSON.stringify(page)).not.toMatch(
+    /correctId|explanation|beforeObject/,
+  );
+  const other = await fixture.client();
+  expect(
+    await other.api.call("quiz_own_record_categories", {
+      selected_mode: "rekord",
+    }),
+  ).toEqual([]);
+  expect(
+    await other.api.call("quiz_own_record_runs", {
+      selected_category: category,
+      selected_period: "all",
+      page_offset: 0,
+    }),
+  ).toEqual([]);
+  expect(
+    await other.api.call("quiz_own_record_location", {
+      target_round: "ranked-" + id,
+      selected_period: "all",
+    }),
+  ).toBeNull();
+});

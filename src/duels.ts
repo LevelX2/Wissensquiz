@@ -1,4 +1,5 @@
 import { z } from "zod";
+import { presentationSchema, questionImageSchema } from "./questionSchema";
 import type { SupabaseClient } from "@supabase/supabase-js";
 import {
   questionSchema,
@@ -39,6 +40,7 @@ export const duelSchema = z.object({
       z.object({
         number: z.number(),
         answered: z.number().int().min(0).max(10),
+        imported: z.boolean().optional(),
         mine: z.number().nullable(),
         opponent: z.number().nullable(),
       }),
@@ -72,6 +74,8 @@ const visibleQuestion = z.object({
   badgeTags: z.array(z.string()),
   metadata: z.record(z.string(), z.string()),
   demo: z.boolean(),
+  presentation: presentationSchema.optional(),
+  image: questionImageSchema.optional(),
 });
 const itemSchema = z.object({
   question: visibleQuestion,

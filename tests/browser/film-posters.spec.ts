@@ -107,13 +107,33 @@ async function prepare(
   state.settings.sound = false;
   state.settings.answerRevealMs = 500;
   state.settings.solutionDisplay = deferred ? "round" : "question";
-  const round = startRound(state, {
-    mode: "ueben",
-    topic: q.topic,
-    difficulty: "Alle Stufen",
-  });
+  const round = startRound(
+    state,
+    {
+      mode: "ueben",
+      topic: q.topic,
+      difficulty: "Alle Stufen",
+    },
+    await page.evaluate(() => Date.now()),
+  );
   q = round.questions[0];
   state.questions = pool;
+  const backend = accountBackend(page);
+  await backend.admin(() =>
+    backend.db.query(
+      "update quiz_game_internal.presentations set value=jsonb_set(value,'{poster}',$1::jsonb) where id=any($2::text[])",
+      [
+        JSON.stringify({
+          title: q.metadata.film_title_de,
+          year: Number(q.metadata.film_year),
+          src: "https://image.tmdb.org/t/p/w342/Example.png",
+          sourceUrl: "https://www.themoviedb.org/movie/123",
+          expiresAt: "2027-03-10T00:00:00.000Z",
+        }),
+        qs.map((q) => q.id),
+      ],
+    ),
+  );
   await writeStoredState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
@@ -163,7 +183,7 @@ test("SciFi-Poster erst nach der Antwort, auch nach Neuladen und im Rückblick",
     "href",
     "https://www.themoviedb.org/movie/123",
   );
-  expect(requests.manifest).toBe(1);
+  expect(requests.manifest).toBe(0);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".film-poster img")).toBeVisible();
@@ -175,11 +195,9 @@ test("SciFi-Poster erst nach der Antwort, auch nach Neuladen und im Rückblick",
   await page
     .locator(".feedback")
     .evaluate((node) =>
-      Promise.all(
-        node
-          .getAnimations({ subtree: true })
-          .map((animation) => animation.finished),
-      ),
+      node
+        .getAnimations({ subtree: true })
+        .forEach((animation) => animation.finish()),
     );
   expect(
     (
@@ -228,7 +246,7 @@ test("Action-Filme zeigen ebenfalls erst nach der Antwort ihr verlinktes Poster"
     "href",
     "https://www.themoviedb.org/movie/123",
   );
-  expect(requests).toEqual({ manifest: 1, image: 1 });
+  expect(requests).toEqual({ manifest: 0, image: 1 });
 });
 test("Nicht erreichbares Cover verhindert Erklärung und Weiterspielen nicht", async ({
   page,

@@ -32,6 +32,7 @@ export const ServerContext = createContext<{
   api: SyncRemote;
   info: ContentInfo;
   revision: number;
+  exportState: () => Promise<import("./model").State>;
 } | null>(null);
 export const useServer = () => useContext(ServerContext);
 // Per account connection, RAM only: coalesce simultaneous requests and reuse

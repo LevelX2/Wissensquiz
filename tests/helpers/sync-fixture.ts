@@ -44,6 +44,7 @@ export async function syncFixture(stopBefore?: string) {
     "expected_revision",
     "expected_owner",
   ];
+  argumentsByName.quiz_own_record_categories = ["selected_mode"];
   argumentsByName.quiz_ranked_call = ["request_text"];
   argumentsByName.quiz_game_call = ["request_text"];
   argumentsByName.quiz_game_view = ["request_text"];
@@ -62,7 +63,7 @@ export async function syncFixture(stopBefore?: string) {
       `supabase/migrations/${file}`,
       "utf8",
     ).matchAll(
-      /create(?: or replace)? function public\.(quiz_sync_\w+)\(([^)]*)\)/gi,
+      /create(?: or replace)? function public\.(quiz_(?:sync|duel|own_record)_\w+)\(([^)]*)\)/gi,
     ))
       argumentsByName[match[1]] = match[2]
         .split(",")
@@ -108,10 +109,14 @@ export async function syncFixture(stopBefore?: string) {
       [release.hash, JSON.stringify(release.questions)],
     );
     await db.query(
-      "insert into quiz_ranked_internal.config values(true,$1) on conflict(id) do update set release_hash=excluded.release_hash",
+      "insert into quiz_ranked_internal.config(id,release_hash) values(true,$1) on conflict(id) do update set release_hash=excluded.release_hash",
       [release.hash],
     );
     if (!stopBefore) {
+      await db.query(
+        "update quiz_ranked_internal.config set question_count=$1 where id",
+        [release.questions.length],
+      );
       await db.query(
         `insert into quiz_game_internal.curriculum select key,value from jsonb_each($1::jsonb) on conflict(area) do update set plan=excluded.plan`,
         [JSON.stringify(curriculum.genres)],
@@ -190,7 +195,9 @@ export async function syncFixture(stopBefore?: string) {
               params = keys.map((_, i) => `$${i + 1}`).join(",");
             return (
               await db.query<{ result: T }>(
-                `select public.${name}(${params}) as result`,
+                name === "quiz_own_record_categories"
+                  ? `select coalesce(jsonb_agg(t),'[]') as result from public.${name}(${params}) t`
+                  : `select public.${name}(${params}) as result`,
                 values,
               )
             ).rows[0].result;

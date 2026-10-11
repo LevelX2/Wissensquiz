@@ -4,6 +4,12 @@
 
 Seit Version 66 am 11.10.2026 veröffentlicht und im Backend eingerichtet: [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Normale Lernrunden werden ebenfalls serverseitig ausgewählt und ausgewertet; Kontostart und Navigation benötigen keinen Vollkatalog. Wiederaufnahme erhält die zuletzt ausgegebene Frage und bestätigte Auflösung. Aktuelle manuelle Sicherungen tragen eine eigene Formatkennung; keine Übernahme alter Spielstände. Entwicklungs-Teststand mit ausdrücklicher Freigabe atomar zurückgesetzt; Anmeldung und Profil erhalten. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-66.json).
 
+## Weitere Optimierung vom 11.10.2026 – lokal, noch nicht veröffentlicht
+
+Der normale Kontoabruf enthält Einstellungen, Summen und höchstens eine jüngste Zehnerrunde. Benötigte einzelne Runden/Ziele werden gezielt nachgeladen; eigene Rekordseiten werden serverseitig begrenzt abgefragt. Die manuelle Sicherung enthält ausdrücklich den vollständigen aktuellen Stand, unabhängig vom kleinen RAM-Ausschnitt. Noch nicht übernommene Zeitläufe bleiben eine Wiederherstellungsausnahme. Es gibt keinen dauerhaften lokalen Kontocache.
+
+Ein gemeinsamer Betreiberimport ersetzt den einzigen aktuellen Fragenbestand atomar. Frühere Vollkataloge müssen weder im Client noch zur Fortsetzung dieses Ablaufs erhalten werden; aktive Runden besitzen ihre eigenen begrenzten Fragenbelege. Es wird keine neue Altstandkompatibilität eingeführt. Details und Prüfgrenzen: [Serverkonzept](Server-Lernablauf-2026-10-11.md#weitere-optimierungen-lokal-umgesetzt-noch-nicht-veröffentlicht).
+
 ## Verbindlicher Nutzerauftrag
 
 Aktueller Nutzerauftrag: Eine erste Zehnerrunde ohne Konto ausprobieren; danach ist ein bestätigtes Quiz-Konto erforderlich. Die Proberunde zählt nach der Kontoübernahme mit. Kontovorteile ausdrücklich einschließlich Weiterspielen auf PC, Handy und Tablet aufführen. [Neue Originalanweisungen](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20Proberunde%20und%20Konto.txt).

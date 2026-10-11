@@ -90,6 +90,13 @@ test("zwei getrennte Konten spielen die vier Blöcke, sehen offene Duelle und er
     await a.getByRole("button", { name: "Aktualisieren", exact: true }).click();
     await expect(a.getByText("0 von 5 Spielplätzen belegt")).toBeVisible();
     await a.getByText("Abgeschlossene Duelle (1)").click();
+    await a
+      .locator(".duel-history")
+      .evaluate((node) =>
+        node
+          .getAnimations({ subtree: true })
+          .forEach((animation) => animation.finish()),
+      );
     await expect(a.getByText("Unentschieden.")).toBeVisible();
     await expect(a.getByText("30 : 30", { exact: true })).toBeVisible();
     expect((await new AxeBuilder({ page: a }).analyze()).violations).toEqual(
@@ -213,6 +220,13 @@ test("Freies Spiel fragt ohne Unterbrechung ab und zeigt gesammelte Lösungen im
     page.getByRole("heading", { name: "Dein Rundenrückblick" }),
   ).toBeVisible();
   await page.locator(".review details summary").first().click();
+  await page
+    .locator(".review")
+    .evaluate((node) =>
+      node
+        .getAnimations({ subtree: true })
+        .forEach((animation) => animation.finish()),
+    );
   await expect(page.locator(".review .explanation").first()).toBeVisible();
   expect((await new AxeBuilder({ page }).analyze()).violations).toEqual([]);
 });
@@ -313,9 +327,13 @@ test("gesammelte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den 
         ).rows[0].opponent,
       ).toBe(bob);
     } finally {
+      await other.unrouteAll({ behavior: "wait" });
+      await second.unrouteAll({ behavior: "wait" });
       await second.close();
     }
   } finally {
+    await page.unrouteAll({ behavior: "wait" });
+    await context.unrouteAll({ behavior: "wait" });
     await context.close();
     await service.db.close();
   }

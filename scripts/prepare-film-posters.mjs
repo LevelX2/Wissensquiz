@@ -42,12 +42,23 @@ const server = await createServer({
 });
 let questions, filmData;
 try {
-  const { verifyRelease } = await server.ssrLoadModule("/src/syncCodec.ts");
-  questions = (
-    await verifyRelease(
-      JSON.parse(await readFile("tmp-sync/catalog/release.json", "utf8")),
-    )
-  ).questions;
+  const { packages, addPackages } =
+    await server.ssrLoadModule("/src/packages.ts");
+  const { emptyState } = await server.ssrLoadModule("/src/model.ts");
+  const { validateBackup } = await server.ssrLoadModule(
+    "/src/backupValidation.ts",
+  );
+  const state = emptyState();
+  addPackages(
+    state,
+    await Promise.all(
+      packages.map(async (pkg) => ({
+        filename: pkg.filename,
+        text: await readFile("public" + pkg.path, "utf8"),
+      })),
+    ),
+  );
+  questions = validateBackup(state).questions;
   ({ filmData } = await server.ssrLoadModule("/src/filmFacts.ts"));
 } finally {
   await server.close();

@@ -33,6 +33,7 @@ const entrySchema = z.object({
   place: z.number(),
   is_mine: z.boolean(),
   experience: z.number(),
+  round_id: z.string().optional(),
 });
 const duelRankSchema = z.object({
   player_name: z.string(),
@@ -100,13 +101,18 @@ function Paging({
 export function OnlineRecords({
   mode,
   period,
+  mine = false,
+  initialRoundId,
 }: {
+  mine?: boolean;
+  initialRoundId?: string;
   mode: RecordMode;
   period: RecordPeriod;
 }) {
   const connection = useContext(RankingContext),
     publicClient = useContext(ActivityContext);
   const client = connection?.client ?? publicClient;
+  const targetEntry = useRef<HTMLLIElement>(null);
   const [categories, setCategories] = useState<
     z.infer<typeof categorySchema>[]
   >([]);
@@ -126,19 +132,61 @@ export function OnlineRecords({
     void rankingRequest(
       (signal) =>
         client
-          .rpc("quiz_record_categories", { selected_mode: mode })
+          .rpc(mine ? "quiz_own_record_categories" : "quiz_record_categories", {
+            selected_mode: mode,
+          })
           .abortSignal(signal),
       controller,
+      {
+        client,
+        owner: connection?.owner,
+        key: JSON.stringify(["record-categories", mine, mode]),
+        fresh: refresh > 0,
+      },
     )
-      .then(({ data, error }) => {
+      .then(async ({ data, error }) => {
         if (error) throw error;
         const checked = z.array(categorySchema).parse(data);
+        const location =
+          mine && initialRoundId
+            ? await rankingRequest(
+                (signal) =>
+                  client
+                    .rpc("quiz_own_record_location", {
+                      target_round: initialRoundId,
+                      selected_period: period,
+                    })
+                    .abortSignal(signal),
+                controller,
+                {
+                  client,
+                  owner: connection?.owner,
+                  key: JSON.stringify(["own-location", initialRoundId, period]),
+                  fresh: refresh > 0,
+                },
+              )
+            : undefined;
+        if (location?.error) throw location.error;
+        const requested = z
+          .object({
+            category: z.string(),
+            offset: z.number().int().nonnegative(),
+          })
+          .nullable()
+          .parse(location?.data ?? null);
+        const preferred =
+          requested && checked.some((c) => c.category === requested.category)
+            ? requested
+            : null;
         if (active) {
           setCategories(checked);
+          setOffset(preferred?.offset ?? 0);
           setCategory((value) =>
-            checked.some((c) => c.category === value)
-              ? value
-              : (checked[0]?.category ?? ""),
+            preferred
+              ? preferred.category
+              : checked.some((c) => c.category === value)
+                ? value
+                : (checked[0]?.category ?? ""),
           );
           if (!checked.length) setLoading(false);
         }
@@ -153,7 +201,7 @@ export function OnlineRecords({
       active = false;
       controller.abort();
     };
-  }, [client, connection?.owner, mode, refresh]);
+  }, [client, connection?.owner, mode, period, mine, initialRoundId, refresh]);
   useEffect(() => {
     if (!client || !category) return;
     let active = true;
@@ -164,13 +212,19 @@ export function OnlineRecords({
     void rankingRequest(
       (signal) =>
         client
-          .rpc("quiz_record_runs", {
+          .rpc(mine ? "quiz_own_record_runs" : "quiz_record_runs", {
             selected_category: category,
             selected_period: period,
             page_offset: offset,
           })
           .abortSignal(signal),
       controller,
+      {
+        client,
+        owner: connection?.owner,
+        key: JSON.stringify(["record-runs", mine, category, period, offset]),
+        fresh: refresh > 0,
+      },
     )
       .then(({ data, error }) => {
         if (error) throw error;
@@ -190,22 +244,33 @@ export function OnlineRecords({
       active = false;
       controller.abort();
     };
-  }, [client, connection?.owner, category, period, offset, refresh]);
+  }, [client, connection?.owner, category, period, offset, mine, refresh]);
+  useEffect(() => {
+    if (!initialRoundId) return;
+    const frame = requestAnimationFrame(() => {
+      targetEntry.current?.scrollIntoView({ block: "center" });
+      targetEntry.current?.focus({ preventScroll: true });
+    });
+    return () => cancelAnimationFrame(frame);
+  }, [rows, initialRoundId]);
   if (!client)
     return (
       <p>Die gemeinsame Rangliste benötigt eine Verbindung zum Kontodienst.</p>
     );
   return (
-    <section aria-label="Gemeinsame Rekordläufe">
+    <section aria-label={mine ? "Meine Rekordläufe" : "Gemeinsame Rekordläufe"}>
       <p className="muted">
-        Alle abgeschlossenen Läufe bestätigter Quiz-Konten. Deine eigenen Läufe
-        findest Du unter „Meine Läufe“.
+        {mine
+          ? "Deine abgeschlossenen Rekordläufe."
+          : "Alle abgeschlossenen Läufe bestätigter Quiz-Konten. Deine eigenen Läufe findest Du unter „Meine Läufe“."}
       </p>
       {!!categories.length && (
         <label>
           Vergleichskategorie
           <select
-            aria-label="Gemeinsame Vergleichskategorie"
+            aria-label={
+              mine ? "Vergleichskategorie" : "Gemeinsame Vergleichskategorie"
+            }
             value={category}
             onChange={(e) => {
               setCategory(e.target.value);
@@ -227,14 +292,28 @@ export function OnlineRecords({
       ) : !rows.length ? (
         <p>Noch keine abgeschlossenen Läufe in dieser Auswahl.</p>
       ) : (
-        <ol className="leaderboard-list" aria-label="Gemeinsame Läufe">
+        <ol
+          className="leaderboard-list"
+          aria-label={mine ? "Abgeschlossene Läufe" : "Gemeinsame Läufe"}
+        >
           {rows.map((r, i) => (
             <li
-              key={offset + i}
+              key={r.round_id ?? offset + i}
+              ref={r.round_id === initialRoundId ? targetEntry : undefined}
+              tabIndex={r.round_id === initialRoundId ? -1 : undefined}
               value={r.place}
-              className={r.is_mine ? "mine" : ""}
+              className={
+                r.round_id === initialRoundId
+                  ? "is-current-run"
+                  : r.is_mine
+                    ? "mine"
+                    : ""
+              }
             >
               <div className="leaderboard-entry">
+                {r.round_id === initialRoundId && (
+                  <span className="current-run-label">Dieser Lauf</span>
+                )}
                 <strong>
                   Platz {r.place} · {r.player_name}
                   {r.is_mine ? " · Du" : ""}
@@ -319,6 +398,12 @@ export function DuelRankings({
           })
           .abortSignal(signal),
       controller,
+      {
+        client,
+        owner: connection?.owner,
+        key: JSON.stringify(["duel-rankings", mine, period, offset]),
+        fresh: refresh > 0,
+      },
     )
       .then(({ data, error }) => {
         if (error) throw error;

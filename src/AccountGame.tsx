@@ -3,6 +3,7 @@ import type { SupabaseClient } from "@supabase/supabase-js";
 import { App } from "./App";
 import { RankingContext } from "./SharedLeaderboard";
 import type { SyncStatus } from "./syncTypes";
+import { invalidateRankingCache } from "./rankingRequest";
 import { OnlineGameStore } from "./onlineGameStore";
 import { SupabaseEntryRemote } from "./entryRemote";
 import type { State } from "./model";
@@ -63,6 +64,7 @@ export function AccountGame({
       (next, at) => {
         if (alive) {
           setStatus(next);
+          if (next === "saved") invalidateRankingCache(client, owner);
           if (at !== undefined) setConfirmedAt(at);
         }
       },
@@ -139,6 +141,7 @@ export function AccountGame({
               api: store.rankedRemote(),
               info: store.info!,
               revision: store.revision,
+              exportState: () => store.exportState(),
             }}
           >
             <App

@@ -36,6 +36,7 @@ export function Settings({
     return validateBackup(server ? value.state : value, !server);
   };
   const [message, setMessage] = useState("");
+  const [exporting, setExporting] = useState(false);
   const [pendingSolutions, setPendingSolutions] =
     useState<State["settings"]["solutionDisplay"]>();
   const [hapticMessage, setHapticMessage] = useState("");
@@ -336,14 +337,30 @@ export function Settings({
         </p>
         <button
           className="primary"
-          onClick={() =>
-            download(
-              `wissensquiz-${new Date().toISOString().slice(0, 10)}.json`,
-              server ? { format: "wissensquiz-server-save-v1", state } : state,
-            )
-          }
+          disabled={busy || exporting}
+          onClick={async () => {
+            setExporting(true);
+            setMessage("");
+            try {
+              const saved = server ? await server.exportState() : state;
+              download(
+                `wissensquiz-${new Date().toISOString().slice(0, 10)}.json`,
+                server
+                  ? { format: "wissensquiz-server-save-v1", state: saved }
+                  : saved,
+              );
+            } catch (e) {
+              setMessage(
+                e instanceof Error
+                  ? e.message
+                  : "Die Sicherung konnte nicht geladen werden.",
+              );
+            } finally {
+              setExporting(false);
+            }
+          }}
         >
-          Alles als JSON sichern ↓
+          {exporting ? "Sicherung wird geladen …" : "Alles als JSON sichern ↓"}
         </button>
         <label className="file-label">
           Sicherung auswählen

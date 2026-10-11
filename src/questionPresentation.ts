@@ -7,7 +7,12 @@ import { yearPresentation } from "./yearEditorial";
 import { familiarityOf } from "./familiarity";
 import { presentationSchema } from "./questionSchema";
 import { recognitionVariants, personPortrait } from "./portraitCatalog";
-export function preparePresentation(q: Question) {
+import { filmPoster, type FilmPosterManifest } from "./filmPosters";
+export function preparePresentation(
+  q: Question,
+  posters: FilmPosterManifest | null = null,
+) {
+  const poster = filmPoster(q, posters);
   const actor = actorPresentation(q),
     year = yearPresentation(q),
     director = directorExplanation(q),
@@ -22,6 +27,10 @@ export function preparePresentation(q: Question) {
     },
   );
   return presentationSchema.parse({
+    poster:
+      poster && posters
+        ? { ...poster, expiresAt: new Date(posters.expiresAt).toISOString() }
+        : null,
     questionText: presentedQuestion(q),
     deepContext: year?.text ?? actor?.text ?? director?.text ?? q.context,
     anchor: year?.anchor ?? q.anchor,

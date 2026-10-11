@@ -408,7 +408,11 @@ export function App({
   };
   const active =
     activeLearning ?? state.rounds.find((r) => r.status === "active");
-  const current = state.rounds.find((r) => r.id === roundId);
+  const current =
+    state.rounds.find((r) => r.id === roundId) ??
+    (immediateResult.current?.id === roundId
+      ? immediateResult.current
+      : undefined);
   const roundTopic = standard
     ? "Alle Themen"
     : selectionTopic(
@@ -789,6 +793,9 @@ export function App({
                     void nav("leaderboard", {
                       kind: "record",
                       roundId: current.id,
+                      ...(isRecordMode(current.mode)
+                        ? { mode: current.mode }
+                        : {}),
                     })
                   }
                   onRetry={() => void retryErrors(current)}

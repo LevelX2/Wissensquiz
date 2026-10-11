@@ -85,6 +85,19 @@ export function PlayerLeaderboard({
           )
           .abortSignal(signal),
       controller,
+      {
+        client,
+        owner: connection?.owner,
+        key: JSON.stringify([
+          "players",
+          publicList,
+          sort,
+          genre,
+          difficulty,
+          offset,
+        ]),
+        fresh: refresh > 0,
+      },
     )
       .then(({ data, error, status }) => {
         if (!active) return;

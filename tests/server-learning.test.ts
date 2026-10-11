@@ -5,6 +5,7 @@ import { prepareRelease } from "../src/syncCodec";
 import { importCsv } from "../src/importer";
 import { OnlineGameStore } from "../src/onlineGameStore";
 import { LearningSession } from "../src/learningRuns";
+import { startRound, answer, complete } from "../src/engine";
 import { learn } from "../src/learning";
 let fixture: Awaited<ReturnType<typeof syncFixture>>;
 beforeAll(async () => {
@@ -349,4 +350,243 @@ it("bindet den gewählten Themenfilter statt des gleichnamigen Katalogfelds", as
   expect(result.rows[0].n).toBeGreaterThan(0);
   expect(result.rows[0].n).toBe(expected.rows[0].n);
   expect(result.rows[0].invalid).toBe(0);
+});
+
+it("öffnet eine wachsende Historie begrenzt, exportiert vollständig und erhält unberührte Rundenbeiträge", async () => {
+  const { api, owner, store, session } = await playerRun();
+  for (let i = 0; i < 10; i++) {
+    await session.answer({ dontKnow: true }, false);
+    if (i < 9) await session.next();
+  }
+  await session.finish();
+  const generation = (
+    await api.call<any>("quiz_sync_metadata", { expected_owner: owner })
+  ).generation;
+  await fixture.db.query(
+    `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,deleted,changed_revision)
+ select e.owner_id,e.generation,e.kind,case when e.kind='round' then e.id||'-copy-'||i else replace(e.id,e.round_id,e.round_id||'-copy-'||i) end,e.position+i*10,
+ case when e.kind='round' then e.value||jsonb_build_object('id',e.id||'-copy-'||i,'events',(select jsonb_agg(replace(v,e.id,e.id||'-copy-'||i)) from jsonb_array_elements_text(e.value->'events') v))
+ else e.value||jsonb_build_object('id',replace(e.id,e.round_id,e.round_id||'-copy-'||i),'roundId',e.round_id||'-copy-'||i) end,false,e.changed_revision
+ from public.quiz_sync_entries e cross join generate_series(1,30) i where e.owner_id=$1 and e.generation=$2 and e.kind in ('round','event') and not e.deleted`,
+    [owner, generation],
+  );
+  await fixture.db.query("select quiz_sync_internal.project($1,$2,null,true)", [
+    owner,
+    generation,
+  ]);
+  const before = (
+    await fixture.db.query(
+      "select * from public.quiz_player_totals where owner_id=$1 order by genre,difficulty",
+      [owner],
+    )
+  ).rows;
+  api.calls.length = 0;
+  const traffic: { name: string; bytes: number }[] = [];
+  const measured = {
+    ...api,
+    call: async <T>(name: string, args: Record<string, unknown>) => {
+      const result = await api.call<T>(name, args);
+      traffic.push({
+        name,
+        bytes: new TextEncoder().encode(JSON.stringify(result)).length,
+      });
+      return result;
+    },
+  };
+  const opened = new OnlineGameStore(measured, owner, undefined, undefined);
+  await opened.open();
+  expect(opened.read().rounds).toHaveLength(1);
+  expect(opened.read().events).toHaveLength(10);
+  expect(api.calls.filter((c) => c.name === "quiz_sync_page")).toHaveLength(0);
+  expect(
+    api.calls.filter((c) => c.name === "quiz_sync_scope_page"),
+  ).toHaveLength(1);
+  await opened.update((s) => {
+    s.settings.sound = false;
+  });
+  expect(
+    (
+      await fixture.db.query(
+        "select * from public.quiz_player_totals where owner_id=$1 order by genre,difficulty",
+        [owner],
+      )
+    ).rows,
+  ).toEqual(before);
+  const bootBytes = traffic.reduce((n, r) => n + r.bytes, 0);
+  traffic.length = 0;
+  const exported = await opened.exportState();
+  const exportBytes = traffic.reduce((n, r) => n + r.bytes, 0);
+  expect(exportBytes).toBeGreaterThan(bootBytes * 10);
+  console.info(JSON.stringify({ historyRounds: 31, bootBytes, exportBytes }));
+  expect(exported.rounds).toHaveLength(31);
+  expect(exported.events).toHaveLength(310);
+  expect(opened.read().rounds).toHaveLength(1);
+  // A delete audit proves closing the next round does not clear old contributions.
+  await fixture.db.exec(
+    `create temporary table deleted_contributions(round_id text);create function public.test_contribution_deleted() returns trigger language plpgsql as $$begin insert into pg_temp.deleted_contributions values(old.round_id);return old;end$$;create trigger test_contribution_deleted after delete on public.quiz_round_contributions for each row execute function public.test_contribution_deleted();`,
+  );
+  try {
+    const next = new LearningSession(api);
+    await next.start({
+      mode: "ueben",
+      topic: "Alle Themen",
+      filters: {
+        genres: store.info!.genres,
+        sources: ["film"],
+        difficulties: ["leicht", "mittel", "schwer"],
+        familiarities: [1, 2, 3, 4],
+      },
+      solutionDisplay: "question",
+    });
+    for (let i = 0; i < 10; i++) {
+      await next.answer({ dontKnow: true }, false);
+      if (i < 9) await next.next();
+    }
+    await next.finish();
+    expect(
+      (await fixture.db.query("select * from deleted_contributions")).rows,
+    ).toEqual([]);
+    expect((await opened.exportState()).rounds).toHaveLength(32);
+  } finally {
+    await fixture.db.exec(
+      "drop trigger test_contribution_deleted on public.quiz_round_contributions;drop function public.test_contribution_deleted();drop table deleted_contributions;",
+    );
+  }
+}, 30000);
+
+it("ersetzt den aktuellen Bestand ohne alte Gesamtkataloge und behält nur laufende Rundenschnappschüsse", async () => {
+  const { api, store, session } = await playerRun();
+  const issued = structuredClone(session.current);
+  const old = store.info!.hash;
+  let next = "b".repeat(64);
+  await fixture.db.query(
+    `insert into quiz_game_internal.content_staging(hash,id,content) select $1,c.id,jsonb_build_object('q',jsonb_set(c.question,'{question}',to_jsonb((c.question->>'question')||' Aktuell.')),'presentation',jsonb_set(p.value,'{questionText}',to_jsonb((p.value->>'questionText')||' Aktuell.')))::text from quiz_ranked_internal.catalog c join quiz_game_internal.presentations p on p.id=c.id where c.release_hash=$2`,
+    [next, old],
+  );
+  const proof = (
+    await fixture.db.query<{ proof: string }>(
+      `select encode(sha256(convert_to(string_agg(encode(sha256(convert_to(content,'UTF8')),'hex'),'' order by id collate "C"),'UTF8')),'hex') proof from quiz_game_internal.content_staging where hash=$1`,
+      [next],
+    )
+  ).rows[0].proof;
+  await fixture.db.query(
+    "update quiz_game_internal.content_staging set hash=$1 where hash=$2",
+    [proof, next],
+  );
+  next = proof;
+  const n = (
+    await fixture.db.query<{ n: number }>(
+      "select count(*)::integer n from quiz_game_internal.content_staging where hash=$1",
+      [next],
+    )
+  ).rows[0].n;
+  const staged = (
+    await fixture.db.query<{ id: string; content: string }>(
+      "select id,content from quiz_game_internal.content_staging where hash=$1 limit 1",
+      [next],
+    )
+  ).rows[0];
+  await fixture.db.query(
+    "update quiz_game_internal.content_staging set content=content||' ' where hash=$1 and id=$2",
+    [next, staged.id],
+  );
+  await expect(
+    fixture.db.query(
+      "select quiz_game_internal.activate_content($1,$2,$3,$4)",
+      [next, n, {}, []],
+    ),
+  ).rejects.toThrow("game_content_proof_mismatch");
+  await fixture.db.query(
+    "update quiz_game_internal.content_staging set content=$3 where hash=$1 and id=$2",
+    [next, staged.id, staged.content],
+  );
+  await expect(
+    fixture.db.query(
+      "select quiz_game_internal.activate_content($1,$2,$3,$4)",
+      [next, n + 1, {}, []],
+    ),
+  ).rejects.toThrow("game_content_incomplete");
+  expect(
+    (
+      await fixture.db.query(
+        "select distinct release_hash from quiz_ranked_internal.catalog",
+      )
+    ).rows,
+  ).toEqual([{ release_hash: old }]);
+  await fixture.db.query(
+    `select quiz_game_internal.activate_content($1,$2,(select jsonb_object_agg(area,plan) from quiz_game_internal.curriculum),(select jsonb_agg(jsonb_build_object('film',film,'level',level)) from quiz_game_internal.familiarity))`,
+    [next, n],
+  );
+  expect(
+    (
+      await fixture.db.query(
+        "select distinct release_hash from quiz_ranked_internal.catalog",
+      )
+    ).rows,
+  ).toEqual([{ release_hash: next }]);
+  expect(
+    (
+      await fixture.db.query(
+        "select hash from public.quiz_catalog_releases where hash=$1",
+        [next],
+      )
+    ).rows,
+  ).toEqual([]);
+  const resumed = new LearningSession(api);
+  await resumed.resume(session.run!.id);
+  expect(resumed.current).toEqual(issued);
+  for (let i = 0; i < 10; i++) {
+    await resumed.answer({ dontKnow: true }, false);
+    if (i < 9) await resumed.next();
+  }
+  await resumed.finish();
+  expect(
+    (
+      await fixture.db.query<any>(
+        "select question_queue from quiz_game_internal.runs where id=$1",
+        [session.run!.id],
+      )
+    ).rows[0].question_queue,
+  ).toEqual([]);
+  const fresh = await playerRun();
+  expect(fresh.session.current!.question.question).toContain("Aktuell.");
+}, 30000);
+
+it("projiziert sichere Ziele aus kompakten Duell-/Importfragen einschließlich Preis- und Personenbereich", async () => {
+  const { api, owner } = await fixture.client();
+  const store = new OnlineGameStore(api, owner, undefined, undefined);
+  await store.open();
+  const samples = [
+    ["public/fragen.csv", "Science-Fiction"],
+    ["public/schauspieler-fragen.csv", "Schauspieler"],
+    ["public/preistraeger-fragen.csv", "Preisträger"],
+  ] as const;
+  for (const [file, area] of samples) {
+    const q = importCsv(readFileSync(file, "utf8")).questions[0];
+    await store.update((s) => {
+      s.questions = [q];
+      const round = startRound(s, {
+        mode: "ueben",
+        topic: "Alle Themen",
+        difficulty: "Alle Stufen",
+        filters: {
+          genres: [q.metadata.subdomain ?? q.domain],
+          sources: ["film", "actors", "awards"],
+          difficulties: [q.difficulty],
+          familiarities: [1, 2, 3, 4],
+        },
+      });
+      expect(round.questions).toHaveLength(1);
+      answer(s, round.id, q.id, q.correctId, 100);
+      complete(s, round.id);
+    });
+    const rows = await fixture.admin(() =>
+      fixture.db.query<{ goal: string; area: string }>(
+        "select goal,area from quiz_game_internal.secure_goals where owner_id=$1 and goal=$2",
+        [owner, q.knowledgeId],
+      ),
+    );
+    expect(rows.rows).toContainEqual({ goal: q.knowledgeId, area });
+  }
+  store.stop();
 });

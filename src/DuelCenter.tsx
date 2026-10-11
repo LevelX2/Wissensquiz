@@ -46,6 +46,14 @@ export function DuelCenter({
 }) {
   const connection = useContext(RankingContext);
   const [list, setList] = useState<Duel[]>([]);
+  const [archiveCursor, setArchiveCursor] = useState<string | null>(null);
+  const pages = useRef(
+    new Map<
+      string,
+      { revision: string; items: Duel[]; nextCursor: string | null }
+    >(),
+  );
+  const pollDelay = useRef(20000);
   const [loading, setLoading] = useState(true);
   const [working, setWorking] = useState(false);
   const [error, setError] = useState("");
@@ -97,13 +105,58 @@ export function DuelCenter({
       reuseCatalog: true,
     });
   }
-  async function refresh() {
-    const entries = await rpc(
-      "quiz_duel_list",
-      {},
-      z.array(duelSchema).max(100),
+  async function refresh(older = false) {
+    const overviewSchema = z.object({
+      revision: z.string(),
+      unchanged: z.boolean(),
+      items: z.array(duelSchema).max(20).optional(),
+      nextCursor: z.string().nullable(),
+    });
+    let changed = false;
+    for (const scope of older
+      ? (["archive"] as const)
+      : (["active", "archive"] as const)) {
+      const cursor = older ? archiveCursor : null;
+      const key = scope + ":" + (cursor ?? "");
+      const old = pages.current.get(key);
+      const page = await rpc(
+        "quiz_duel_overview",
+        {
+          request_text: JSON.stringify({
+            scope,
+            ...(cursor ? { cursor } : {}),
+            ...(old ? { revision: old.revision } : {}),
+          }),
+        },
+        overviewSchema,
+      );
+      if (!mounted.current) return false;
+      if (!page.unchanged) {
+        if (!page.items)
+          throw new Error("Die Duellübersicht ist unvollständig.");
+        pages.current.set(key, {
+          revision: page.revision,
+          items: page.items,
+          nextCursor: page.nextCursor,
+        });
+        changed = true;
+        if (scope === "archive" && !older)
+          for (const k of pages.current.keys())
+            if (k.startsWith("archive:") && k !== key) pages.current.delete(k);
+      }
+      if (scope === "archive" && (older || !page.unchanged))
+        setArchiveCursor(page.nextCursor);
+    }
+    const entries = [
+      ...new Map(
+        [...pages.current.values()]
+          .flatMap((p) => p.items)
+          .map((d) => [d.id, d]),
+      ).values(),
+    ].sort(
+      (a, b) =>
+        Number(openDuel(b)) - Number(openDuel(a)) || b.createdAt - a.createdAt,
     );
-    if (!mounted.current) return;
     setList(entries);
     setReview((previous) =>
       previous
@@ -114,16 +167,13 @@ export function DuelCenter({
           }
         : null,
     );
-    // Recover only own server-confirmed learning after a device change or local failure.
+    // The summary knows which own blocks are already saved, independently of
+    // the deliberately small history currently loaded in this tab.
     for (const d of entries)
       for (const r of d.rounds) {
-        const local = currentState.current.rounds.find(
-          (local) => local.id === duelRoundId(d.id, r.number),
-        );
         if (
           r.answered &&
-          ((local?.events.length ?? 0) < r.answered ||
-            (r.answered === 10 && local?.status !== "completed")) &&
+          !r.imported &&
           (d.solutionDisplay === "question" ||
             r.answered === 10 ||
             !openDuel(d))
@@ -133,10 +183,15 @@ export function DuelCenter({
             { duel: d.id, round_number: r.number },
             duelViewSchema,
           );
-          if (!mounted.current) return;
-          await accept(snapshot);
+          if (!mounted.current) return false;
+          const saved = await accept(snapshot);
+          if (saved) r.imported = true;
         }
       }
+    pollDelay.current = changed
+      ? 20000
+      : Math.min(120000, pollDelay.current * 2);
+    return changed;
   }
   async function run<T>(action: () => Promise<T>): Promise<T | null> {
     if (inFlight.current) return null;
@@ -164,21 +219,42 @@ export function DuelCenter({
       setLoading(false);
       return;
     }
-    void run(refresh).finally(() => setLoading(false));
+    void run(() => refresh()).finally(() => setLoading(false));
   }, [connection]);
+  const hasOpen = list.some(openDuel);
   useEffect(() => {
     if (!connection || view) return;
+    let active = true;
+    let timer: ReturnType<typeof setTimeout> | undefined;
+    const schedule = () => {
+      if (active && hasOpen && document.visibilityState !== "hidden")
+        timer = setTimeout(update, pollDelay.current);
+    };
     const update = () => {
+      if (timer) clearTimeout(timer);
       if (!inFlight.current && document.visibilityState !== "hidden")
-        void run(refresh);
+        void run(() => refresh())
+          .then((value) => {
+            if (value === null)
+              pollDelay.current = Math.min(120000, pollDelay.current * 2);
+          })
+          .finally(schedule);
+      else schedule();
     };
-    const interval = setInterval(update, 20000);
-    window.addEventListener("focus", update);
+    const focus = () => {
+      pollDelay.current = 20000;
+      update();
+    };
+    schedule();
+    window.addEventListener("focus", focus);
+    document.addEventListener("visibilitychange", focus);
     return () => {
-      clearInterval(interval);
-      window.removeEventListener("focus", update);
+      active = false;
+      if (timer) clearTimeout(timer);
+      window.removeEventListener("focus", focus);
+      document.removeEventListener("visibilitychange", focus);
     };
-  }, [connection, !!view]);
+  }, [connection, !!view, hasOpen]);
   async function load(d: Duel, number = d.round) {
     let next = await rpc(
       "quiz_duel_view",
@@ -352,7 +428,7 @@ export function DuelCenter({
           }}
           onExit={() => {
             setView(null);
-            void run(refresh);
+            void run(() => refresh());
           }}
           onNext={() => {
             if (index === 9) {
@@ -400,7 +476,7 @@ export function DuelCenter({
           className="text-button"
           onClick={() => {
             setReview(null);
-            void run(refresh);
+            void run(() => refresh());
           }}
         >
           ← Zur Duellübersicht
@@ -444,7 +520,7 @@ export function DuelCenter({
             state={state}
             onHome={() => {
               setReview(null);
-              void run(refresh);
+              void run(() => refresh());
             }}
             onLeaderboard={() => onLeaderboard(review.duel.id)}
             leaderboardLabel="Duell-Bestenliste ansehen"
@@ -504,7 +580,7 @@ export function DuelCenter({
       <button
         className="text-button"
         disabled={unavailable}
-        onClick={() => void run(refresh)}
+        onClick={() => void run(() => refresh())}
       >
         Aktualisieren
       </button>
@@ -713,6 +789,15 @@ export function DuelCenter({
               </article>
             ))}
             {!past.length && <p>Noch kein Duell abgeschlossen.</p>}
+            {archiveCursor && (
+              <button
+                className="secondary"
+                disabled={unavailable}
+                onClick={() => void run(() => refresh(true))}
+              >
+                Ältere Duelle laden
+              </button>
+            )}
           </details>
         </>
       )}

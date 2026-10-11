@@ -1,6 +1,6 @@
 # Wissensindex
 
-- [Weitere Serveroptimierungen: Statistikabschluss, Duellsperre, Kontostart und bedarfsgerechte Abrufe – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md#nachprüfung-weitere-optimierungen--11102026)
+- [Weitere Serveroptimierungen lokal umgesetzt: einziger aktueller Bestand, begrenzter Start, Statistikdifferenzen, Duellsperren, Ranglistencache und einzelne Poster – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md#weitere-optimierungen-lokal-umgesetzt-noch-nicht-veröffentlicht)
 
 - [Server-Lernablauf seit Version 66: einzelne Fragen, vorbereitete Inhalte und begrenzte Abfragen – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md)
 

@@ -70,7 +70,7 @@ export async function server() {
       if (path.endsWith("/user")) return route.fulfill({ json: user(id) });
       if (path.endsWith("/quiz_saves")) return route.fulfill({ json: [] });
       const name = path.split("/").at(-1)!;
-      if (name.startsWith("quiz_sync_")) {
+      if (/^quiz_(sync|game|ranked|trial|duel|own_record)_/.test(name)) {
         try {
           return route.fulfill({
             json: await clients.get(id)!.call(name, body),
