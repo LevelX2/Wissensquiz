@@ -1,0 +1,63 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 1,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 6,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Haywire|2011",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 3,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    },
+    {
+      "filmKey": "Hatari!|1962",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 4,
+        "schwer": 1
+      },
+      "yearReviewed": true,
+      "directorReviewed": true,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    1,
+    6,
+    7,
+    9,
+    10,
+    15,
+    16,
+    20,
+    21,
+    23,
+    26,
+    28,
+    30,
+    36,
+    44,
+    45,
+    47,
+    48,
+    49,
+    50
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "ecb9003c7587a86adfabf7c3e13e02264f8685e9c5db12ec1888d9767066afdf",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf",
+  "canonicalDisplayFieldsComplete": true
+}

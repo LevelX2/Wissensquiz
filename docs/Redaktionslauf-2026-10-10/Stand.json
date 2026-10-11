@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 3650,
-  "totalReviewed": 3800,
-  "remainingFilmQuestions": 6933,
+  "completedInThisRun": 3700,
+  "totalReviewed": 3850,
+  "remainingFilmQuestions": 6883,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 8973,
+  "remainingAllQuestions": 8923,
   "blocks": [
     {
       "block": 1,
@@ -373,6 +373,11 @@
     {
       "block": 73,
       "path": "Block-73.json",
+      "count": 50
+    },
+    {
+      "block": 74,
+      "path": "Block-74.json",
       "count": 50
     }
   ],
@@ -4176,209 +4181,59 @@
     "FAN-S-028",
     "FF-114-YEAR",
     "FF-114-DIRECTOR",
-    "FAN-L-023"
+    "FAN-L-023",
+    "FAN-L-024",
+    "FAN-M-023",
+    "FAN-M-024",
+    "FAN-S-023",
+    "FAN-S-024",
+    "FF-112-YEAR",
+    "FF-112-DIRECTOR",
+    "FAN-L-013",
+    "FAN-L-014",
+    "FAN-M-013",
+    "FAN-M-014",
+    "FAN-S-013",
+    "FAN-S-014",
+    "FAN-L-013-V1",
+    "FAN-L-014-V1",
+    "FAN-M-013-V1",
+    "FAN-M-014-V1",
+    "FAN-S-013-V1",
+    "FAN-S-014-V1",
+    "FF-107-YEAR",
+    "FF-107-DIRECTOR",
+    "FAN-L-017",
+    "FAN-L-018",
+    "FAN-M-017",
+    "FAN-M-018",
+    "FAN-S-017",
+    "FAN-S-018",
+    "FF-109-YEAR",
+    "FF-109-DIRECTOR",
+    "ADV-202610-P01-L-013",
+    "ADV-202610-P01-L-014",
+    "ADV-202610-P01-M-019",
+    "ADV-202610-P01-M-020",
+    "ADV-202610-P01-S-019",
+    "ADV-202610-P01-S-020",
+    "ADV-202610-P01-M-021",
+    "ADV-202610-P01-S-021",
+    "F240-20261006-064-L1",
+    "F240-20261006-064-L2",
+    "F240-20261006-064-M1",
+    "F240-20261006-064-M2",
+    "F240-20261006-064-S1",
+    "F240-20261006-064-S2",
+    "F240-20261006-064-Y",
+    "F240-20261006-064-D",
+    "F240-20261006-039-L1",
+    "F240-20261006-039-L2",
+    "F240-20261006-039-M1",
+    "F240-20261006-039-M2",
+    "F240-20261006-039-S1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "FAN-L-024",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FAN-M-023",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FAN-M-024",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FAN-S-023",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FAN-S-024",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FF-112-YEAR",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FF-112-DIRECTOR",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FAN-L-013",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-L-014",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-M-013",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-M-014",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-S-013",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-S-014",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-L-013-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-L-014-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-M-013-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-M-014-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-S-013-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-S-014-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FF-107-YEAR",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FF-107-DIRECTOR",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-L-017",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FAN-L-018",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FAN-M-017",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FAN-M-018",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FAN-S-017",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FAN-S-018",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FF-109-YEAR",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FF-109-DIRECTOR",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "ADV-202610-P01-L-013",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-L-014",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-M-019",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-M-020",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-S-019",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-S-020",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-M-021",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-S-021",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "F240-20261006-064-L1",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-L2",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-M1",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-M2",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-S1",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-S2",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-Y",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-D",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-039-L1",
-      "filmKey": "Haywire|2011"
-    },
-    {
-      "id": "F240-20261006-039-L2",
-      "filmKey": "Haywire|2011"
-    },
-    {
-      "id": "F240-20261006-039-M1",
-      "filmKey": "Haywire|2011"
-    },
-    {
-      "id": "F240-20261006-039-M2",
-      "filmKey": "Haywire|2011"
-    },
-    {
-      "id": "F240-20261006-039-S1",
-      "filmKey": "Haywire|2011"
-    },
     {
       "id": "F240-20261006-039-S2",
       "filmKey": "Haywire|2011"
@@ -31914,204 +31769,204 @@
   ],
   "next": [
     {
-      "id": "FAN-L-024",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FAN-M-023",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FAN-M-024",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FAN-S-023",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FAN-S-024",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FF-112-YEAR",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FF-112-DIRECTOR",
-      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
-    },
-    {
-      "id": "FAN-L-013",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-L-014",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-M-013",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-M-014",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-S-013",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-S-014",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-L-013-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-L-014-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-M-013-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-M-014-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-S-013-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-S-014-V1",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FF-107-YEAR",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FF-107-DIRECTOR",
-      "filmKey": "Harry Potter and the Philosopher's Stone|2001"
-    },
-    {
-      "id": "FAN-L-017",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FAN-L-018",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FAN-M-017",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FAN-M-018",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FAN-S-017",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FAN-S-018",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FF-109-YEAR",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "FF-109-DIRECTOR",
-      "filmKey": "Harry Potter and the Prisoner of Azkaban|2004"
-    },
-    {
-      "id": "ADV-202610-P01-L-013",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-L-014",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-M-019",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-M-020",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-S-019",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-S-020",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-M-021",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "ADV-202610-P01-S-021",
-      "filmKey": "Hatari!|1962"
-    },
-    {
-      "id": "F240-20261006-064-L1",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-L2",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-M1",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-M2",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-S1",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-S2",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-Y",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-064-D",
-      "filmKey": "Hauru no Ugoku Shiro|2004"
-    },
-    {
-      "id": "F240-20261006-039-L1",
+      "id": "F240-20261006-039-S2",
       "filmKey": "Haywire|2011"
     },
     {
-      "id": "F240-20261006-039-L2",
+      "id": "F240-20261006-039-Y",
       "filmKey": "Haywire|2011"
     },
     {
-      "id": "F240-20261006-039-M1",
+      "id": "F240-20261006-039-D",
       "filmKey": "Haywire|2011"
     },
     {
-      "id": "F240-20261006-039-M2",
-      "filmKey": "Haywire|2011"
+      "id": "ACT-L-019",
+      "filmKey": "Heat|1995"
     },
     {
-      "id": "F240-20261006-039-S1",
-      "filmKey": "Haywire|2011"
+      "id": "ACT-L-020",
+      "filmKey": "Heat|1995"
+    },
+    {
+      "id": "ACT-M-019",
+      "filmKey": "Heat|1995"
+    },
+    {
+      "id": "ACT-M-020",
+      "filmKey": "Heat|1995"
+    },
+    {
+      "id": "ACT-S-019",
+      "filmKey": "Heat|1995"
+    },
+    {
+      "id": "ACT-S-020",
+      "filmKey": "Heat|1995"
+    },
+    {
+      "id": "FF-010-YEAR",
+      "filmKey": "Heat|1995"
+    },
+    {
+      "id": "FF-010-DIRECTOR",
+      "filmKey": "Heat|1995"
+    },
+    {
+      "id": "E20261007-F-104-L1",
+      "filmKey": "Heaven's Gate|1980"
+    },
+    {
+      "id": "E20261007-F-104-L2",
+      "filmKey": "Heaven's Gate|1980"
+    },
+    {
+      "id": "E20261007-F-104-M1",
+      "filmKey": "Heaven's Gate|1980"
+    },
+    {
+      "id": "E20261007-F-104-M2",
+      "filmKey": "Heaven's Gate|1980"
+    },
+    {
+      "id": "E20261007-F-104-S1",
+      "filmKey": "Heaven's Gate|1980"
+    },
+    {
+      "id": "E20261007-F-104-S2",
+      "filmKey": "Heaven's Gate|1980"
+    },
+    {
+      "id": "E20261007-F-104-Y",
+      "filmKey": "Heaven's Gate|1980"
+    },
+    {
+      "id": "E20261007-F-104-D",
+      "filmKey": "Heaven's Gate|1980"
+    },
+    {
+      "id": "F240-20261006-156-L1",
+      "filmKey": "Hedwig and the Angry Inch|2001"
+    },
+    {
+      "id": "F240-20261006-156-L2",
+      "filmKey": "Hedwig and the Angry Inch|2001"
+    },
+    {
+      "id": "F240-20261006-156-M1",
+      "filmKey": "Hedwig and the Angry Inch|2001"
+    },
+    {
+      "id": "F240-20261006-156-M2",
+      "filmKey": "Hedwig and the Angry Inch|2001"
+    },
+    {
+      "id": "F240-20261006-156-S1",
+      "filmKey": "Hedwig and the Angry Inch|2001"
+    },
+    {
+      "id": "F240-20261006-156-S2",
+      "filmKey": "Hedwig and the Angry Inch|2001"
+    },
+    {
+      "id": "F240-20261006-156-Y",
+      "filmKey": "Hedwig and the Angry Inch|2001"
+    },
+    {
+      "id": "F240-20261006-156-D",
+      "filmKey": "Hedwig and the Angry Inch|2001"
+    },
+    {
+      "id": "F240-20261006-219-L1",
+      "filmKey": "Heeojil gyeolsim|2022"
+    },
+    {
+      "id": "F240-20261006-219-L2",
+      "filmKey": "Heeojil gyeolsim|2022"
+    },
+    {
+      "id": "F240-20261006-219-M1",
+      "filmKey": "Heeojil gyeolsim|2022"
+    },
+    {
+      "id": "F240-20261006-219-M2",
+      "filmKey": "Heeojil gyeolsim|2022"
+    },
+    {
+      "id": "F240-20261006-219-S1",
+      "filmKey": "Heeojil gyeolsim|2022"
+    },
+    {
+      "id": "F240-20261006-219-S2",
+      "filmKey": "Heeojil gyeolsim|2022"
+    },
+    {
+      "id": "F240-20261006-219-Y",
+      "filmKey": "Heeojil gyeolsim|2022"
+    },
+    {
+      "id": "F240-20261006-219-D",
+      "filmKey": "Heeojil gyeolsim|2022"
+    },
+    {
+      "id": "E20261007-F-088-L1",
+      "filmKey": "Hellraiser|1987"
+    },
+    {
+      "id": "E20261007-F-088-L2",
+      "filmKey": "Hellraiser|1987"
+    },
+    {
+      "id": "E20261007-F-088-M1",
+      "filmKey": "Hellraiser|1987"
+    },
+    {
+      "id": "E20261007-F-088-M2",
+      "filmKey": "Hellraiser|1987"
+    },
+    {
+      "id": "E20261007-F-088-S1",
+      "filmKey": "Hellraiser|1987"
+    },
+    {
+      "id": "E20261007-F-088-S2",
+      "filmKey": "Hellraiser|1987"
+    },
+    {
+      "id": "E20261007-F-088-Y",
+      "filmKey": "Hellraiser|1987"
+    },
+    {
+      "id": "E20261007-F-088-D",
+      "filmKey": "Hellraiser|1987"
+    },
+    {
+      "id": "SFI-202610-P01-L-005",
+      "filmKey": "Her|2013"
+    },
+    {
+      "id": "SFI-202610-P01-L-006",
+      "filmKey": "Her|2013"
+    },
+    {
+      "id": "SFI-202610-P01-M-007",
+      "filmKey": "Her|2013"
+    },
+    {
+      "id": "SFI-202610-P01-M-008",
+      "filmKey": "Her|2013"
+    },
+    {
+      "id": "SFI-202610-P01-S-007",
+      "filmKey": "Her|2013"
+    },
+    {
+      "id": "SFI-202610-P01-S-008",
+      "filmKey": "Her|2013"
+    },
+    {
+      "id": "SFI-202610-P01-M-009",
+      "filmKey": "Her|2013"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."

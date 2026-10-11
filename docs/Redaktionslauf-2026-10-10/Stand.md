@@ -77,9 +77,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 71: vollständiger Alt/Neu-Vergleich](Block-71.md) und [strukturierter Nachweis](Block-71.json): 50 Fragen, 27 Vertiefungen geändert, 23 erhalten, 0 Fragen vollständig unverändert; 5 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 72: vollständiger Alt/Neu-Vergleich](Block-72.md) und [strukturierter Nachweis](Block-72.json): 50 Fragen, 26 Vertiefungen geändert, 24 erhalten, 0 Fragen vollständig unverändert; 5 von 6 betroffenen Filmgruppen abgeschlossen.
 - [Block 73: vollständiger Alt/Neu-Vergleich](Block-73.md) und [strukturierter Nachweis](Block-73.json): 50 Fragen, 36 Vertiefungen geändert, 14 erhalten, 0 Fragen vollständig unverändert; 7 von 8 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 3800 von 12.773 IDs redaktionell erfasst.
-- Offen: 6933 Filmfragen und 2040 weitere Fragen; zusammen 8973. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 73 schließt Happy Gilmore ab und prüft Hard Boiled, Harte Ziele, Harold und Maude, Kammer des Schreckens und beide Heiligtümer-des-Todes-Filme gemeinsam. Vom Halbblutprinz ist das erste Original entschieden; die übrigen sieben Originale folgen im nächsten Block. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Keine App-Integration durch diesen Block.
+- [Block 74: vollständiger Alt/Neu-Vergleich](Block-74.md) und [strukturierter Nachweis](Block-74.json): 50 Fragen, 30 Vertiefungen geändert, 20 erhalten, 0 Fragen vollständig unverändert; 4 von 6 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 3850 von 12.773 IDs redaktionell erfasst.
+- Offen: 6883 Filmfragen und 2040 weitere Fragen; zusammen 8923. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 74 schließt den Halbblutprinz ab und prüft Stein der Weisen einschließlich sechs Varianten, Gefangener von Askaban, Hatari! und Das wandelnde Schloss gemeinsam. Von Haywire sind fünf Originale entschieden; drei verbleiben für den nächsten Block. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Keine App-Integration durch diesen Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 
