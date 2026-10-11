@@ -1,0 +1,66 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 2,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 7,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Hair|1979",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    },
+    {
+      "filmKey": "Guest House Paradiso|1999",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 4,
+        "schwer": 1
+      },
+      "yearReviewed": true,
+      "directorReviewed": true,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    10,
+    11,
+    12,
+    16,
+    20,
+    26,
+    27,
+    28,
+    29,
+    30,
+    32,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "eee43f18e61a4d19f82065a6b5937e5a1c1b1dd7d293c78942a56c3e5818ec3d",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf",
+  "canonicalDisplayFieldsComplete": true
+}

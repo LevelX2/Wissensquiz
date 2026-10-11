@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 3500,
-  "totalReviewed": 3650,
-  "remainingFilmQuestions": 7083,
+  "completedInThisRun": 3550,
+  "totalReviewed": 3700,
+  "remainingFilmQuestions": 7033,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 9123,
+  "remainingAllQuestions": 9073,
   "blocks": [
     {
       "block": 1,
@@ -358,6 +358,11 @@
     {
       "block": 70,
       "path": "Block-70.json",
+      "count": 50
+    },
+    {
+      "block": 71,
+      "path": "Block-71.json",
       "count": 50
     }
   ],
@@ -4011,209 +4016,59 @@
     "G100-20261008-ABENTEUER-037-L1",
     "G100-20261008-ABENTEUER-037-L2",
     "G100-20261008-ABENTEUER-037-M1",
-    "G100-20261008-ABENTEUER-037-M2"
+    "G100-20261008-ABENTEUER-037-M2",
+    "G100-20261008-ABENTEUER-037-S1",
+    "G100-20261008-ABENTEUER-037-S2",
+    "G100-20261008-ABENTEUER-037-Y",
+    "G100-20261008-ABENTEUER-037-D",
+    "KOM-L-033",
+    "KOM-L-034",
+    "KOM-M-033",
+    "KOM-M-034",
+    "KOM-S-033",
+    "KOM-S-034",
+    "FF-217-YEAR",
+    "FF-217-DIRECTOR",
+    "KOM-202609-P02-L-049",
+    "KOM-202609-P02-L-050",
+    "KOM-202609-P02-M-049",
+    "KOM-202609-P02-M-050",
+    "KOM-202609-P02-S-049",
+    "KOM-202609-P02-S-050",
+    "KOM-202609-P02-M-049-V1",
+    "FF-400-YEAR",
+    "FF-400-DIRECTOR",
+    "E20261007-F-151-L1",
+    "E20261007-F-151-L2",
+    "E20261007-F-151-M1",
+    "E20261007-F-151-M2",
+    "E20261007-F-151-S1",
+    "E20261007-F-151-S2",
+    "E20261007-F-151-Y",
+    "E20261007-F-151-D",
+    "KOM-202609-P02-L-099",
+    "KOM-202609-P02-L-100",
+    "KOM-202609-P02-M-099",
+    "KOM-202609-P02-M-100",
+    "KOM-202609-P02-S-099",
+    "KOM-202609-P02-S-100",
+    "KOM-202609-P02-S-099-V1",
+    "FF-425-YEAR",
+    "FF-425-DIRECTOR",
+    "G100-20261008-WESTERN-010-L1",
+    "G100-20261008-WESTERN-010-L2",
+    "G100-20261008-WESTERN-010-M1",
+    "G100-20261008-WESTERN-010-M2",
+    "G100-20261008-WESTERN-010-S1",
+    "G100-20261008-WESTERN-010-S2",
+    "G100-20261008-WESTERN-010-Y",
+    "G100-20261008-WESTERN-010-D",
+    "MUS-202610-P01-L-005",
+    "MUS-202610-P01-L-006",
+    "MUS-202610-P01-M-007",
+    "MUS-202610-P01-M-008"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "G100-20261008-ABENTEUER-037-S1",
-      "filmKey": "Greystoke: The Legend of Tarzan, Lord of the Apes|1984"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-037-S2",
-      "filmKey": "Greystoke: The Legend of Tarzan, Lord of the Apes|1984"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-037-Y",
-      "filmKey": "Greystoke: The Legend of Tarzan, Lord of the Apes|1984"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-037-D",
-      "filmKey": "Greystoke: The Legend of Tarzan, Lord of the Apes|1984"
-    },
-    {
-      "id": "KOM-L-033",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-L-034",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-M-033",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-M-034",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-S-033",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-S-034",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "FF-217-YEAR",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "FF-217-DIRECTOR",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-202609-P02-L-049",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-L-050",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-049",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-050",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-S-049",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-S-050",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-049-V1",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "FF-400-YEAR",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "FF-400-DIRECTOR",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "E20261007-F-151-L1",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-L2",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-M1",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-M2",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-S1",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-S2",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-Y",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-D",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "KOM-202609-P02-L-099",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-L-100",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-M-099",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-M-100",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-S-099",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-S-100",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-S-099-V1",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "FF-425-YEAR",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "FF-425-DIRECTOR",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-L1",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-L2",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-M1",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-M2",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-S1",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-S2",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-Y",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-D",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "MUS-202610-P01-L-005",
-      "filmKey": "Hair|1979"
-    },
-    {
-      "id": "MUS-202610-P01-L-006",
-      "filmKey": "Hair|1979"
-    },
-    {
-      "id": "MUS-202610-P01-M-007",
-      "filmKey": "Hair|1979"
-    },
-    {
-      "id": "MUS-202610-P01-M-008",
-      "filmKey": "Hair|1979"
-    },
     {
       "id": "MUS-202610-P01-S-007",
       "filmKey": "Hair|1979"
@@ -32349,204 +32204,204 @@
   ],
   "next": [
     {
-      "id": "G100-20261008-ABENTEUER-037-S1",
-      "filmKey": "Greystoke: The Legend of Tarzan, Lord of the Apes|1984"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-037-S2",
-      "filmKey": "Greystoke: The Legend of Tarzan, Lord of the Apes|1984"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-037-Y",
-      "filmKey": "Greystoke: The Legend of Tarzan, Lord of the Apes|1984"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-037-D",
-      "filmKey": "Greystoke: The Legend of Tarzan, Lord of the Apes|1984"
-    },
-    {
-      "id": "KOM-L-033",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-L-034",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-M-033",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-M-034",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-S-033",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-S-034",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "FF-217-YEAR",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "FF-217-DIRECTOR",
-      "filmKey": "Groundhog Day|1993"
-    },
-    {
-      "id": "KOM-202609-P02-L-049",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-L-050",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-049",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-050",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-S-049",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-S-050",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "KOM-202609-P02-M-049-V1",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "FF-400-YEAR",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "FF-400-DIRECTOR",
-      "filmKey": "Grown Ups|2010"
-    },
-    {
-      "id": "E20261007-F-151-L1",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-L2",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-M1",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-M2",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-S1",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-S2",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-Y",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "E20261007-F-151-D",
-      "filmKey": "Guan Yun Chang|2011"
-    },
-    {
-      "id": "KOM-202609-P02-L-099",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-L-100",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-M-099",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-M-100",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-S-099",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-S-100",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "KOM-202609-P02-S-099-V1",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "FF-425-YEAR",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "FF-425-DIRECTOR",
-      "filmKey": "Guest House Paradiso|1999"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-L1",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-L2",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-M1",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-M2",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-S1",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-S2",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-Y",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "G100-20261008-WESTERN-010-D",
-      "filmKey": "Gunfight at the O.K. Corral|1957"
-    },
-    {
-      "id": "MUS-202610-P01-L-005",
+      "id": "MUS-202610-P01-S-007",
       "filmKey": "Hair|1979"
     },
     {
-      "id": "MUS-202610-P01-L-006",
+      "id": "MUS-202610-P01-S-008",
       "filmKey": "Hair|1979"
     },
     {
-      "id": "MUS-202610-P01-M-007",
+      "id": "MUS-202610-P01-M-009",
       "filmKey": "Hair|1979"
     },
     {
-      "id": "MUS-202610-P01-M-008",
+      "id": "MUS-202610-P01-S-009",
       "filmKey": "Hair|1979"
+    },
+    {
+      "id": "HOR-L-003",
+      "filmKey": "Halloween II|1981"
+    },
+    {
+      "id": "HOR-L-004",
+      "filmKey": "Halloween II|1981"
+    },
+    {
+      "id": "HOR-M-003",
+      "filmKey": "Halloween II|1981"
+    },
+    {
+      "id": "HOR-M-004",
+      "filmKey": "Halloween II|1981"
+    },
+    {
+      "id": "HOR-S-003",
+      "filmKey": "Halloween II|1981"
+    },
+    {
+      "id": "HOR-S-004",
+      "filmKey": "Halloween II|1981"
+    },
+    {
+      "id": "FF-177-YEAR",
+      "filmKey": "Halloween II|1981"
+    },
+    {
+      "id": "FF-177-DIRECTOR",
+      "filmKey": "Halloween II|1981"
+    },
+    {
+      "id": "G100-20261008-HORROR-023-L1",
+      "filmKey": "Halloween III: Season of the Witch|1982"
+    },
+    {
+      "id": "G100-20261008-HORROR-023-L2",
+      "filmKey": "Halloween III: Season of the Witch|1982"
+    },
+    {
+      "id": "G100-20261008-HORROR-023-M1",
+      "filmKey": "Halloween III: Season of the Witch|1982"
+    },
+    {
+      "id": "G100-20261008-HORROR-023-M2",
+      "filmKey": "Halloween III: Season of the Witch|1982"
+    },
+    {
+      "id": "G100-20261008-HORROR-023-S1",
+      "filmKey": "Halloween III: Season of the Witch|1982"
+    },
+    {
+      "id": "G100-20261008-HORROR-023-S2",
+      "filmKey": "Halloween III: Season of the Witch|1982"
+    },
+    {
+      "id": "G100-20261008-HORROR-023-Y",
+      "filmKey": "Halloween III: Season of the Witch|1982"
+    },
+    {
+      "id": "G100-20261008-HORROR-023-D",
+      "filmKey": "Halloween III: Season of the Witch|1982"
+    },
+    {
+      "id": "HOR-L-001",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "HOR-L-002",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "HOR-M-001",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "HOR-M-002",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "HOR-S-001",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "HOR-S-002",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "HOR-L-001-V1",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "HOR-L-002-V1",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "HOR-M-001-V1",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "HOR-M-002-V1",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "HOR-S-001-V1",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "HOR-S-002-V1",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "FF-176-YEAR",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "FF-176-DIRECTOR",
+      "filmKey": "Halloween|1978"
+    },
+    {
+      "id": "F240-20261006-040-L1",
+      "filmKey": "Hanna|2011"
+    },
+    {
+      "id": "F240-20261006-040-L2",
+      "filmKey": "Hanna|2011"
+    },
+    {
+      "id": "F240-20261006-040-M1",
+      "filmKey": "Hanna|2011"
+    },
+    {
+      "id": "F240-20261006-040-M2",
+      "filmKey": "Hanna|2011"
+    },
+    {
+      "id": "F240-20261006-040-S1",
+      "filmKey": "Hanna|2011"
+    },
+    {
+      "id": "F240-20261006-040-S2",
+      "filmKey": "Hanna|2011"
+    },
+    {
+      "id": "F240-20261006-040-Y",
+      "filmKey": "Hanna|2011"
+    },
+    {
+      "id": "F240-20261006-040-D",
+      "filmKey": "Hanna|2011"
+    },
+    {
+      "id": "KOM-202609-P02-L-047",
+      "filmKey": "Happy Gilmore|1996"
+    },
+    {
+      "id": "KOM-202609-P02-L-048",
+      "filmKey": "Happy Gilmore|1996"
+    },
+    {
+      "id": "KOM-202609-P02-M-047",
+      "filmKey": "Happy Gilmore|1996"
+    },
+    {
+      "id": "KOM-202609-P02-M-048",
+      "filmKey": "Happy Gilmore|1996"
+    },
+    {
+      "id": "KOM-202609-P02-S-047",
+      "filmKey": "Happy Gilmore|1996"
+    },
+    {
+      "id": "KOM-202609-P02-S-048",
+      "filmKey": "Happy Gilmore|1996"
+    },
+    {
+      "id": "KOM-202609-P02-M-047-V1",
+      "filmKey": "Happy Gilmore|1996"
+    },
+    {
+      "id": "FF-399-YEAR",
+      "filmKey": "Happy Gilmore|1996"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
