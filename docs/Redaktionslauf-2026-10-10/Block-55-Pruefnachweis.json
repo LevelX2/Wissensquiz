@@ -1,0 +1,54 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 0,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 7,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Dune|2021",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 3,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    2,
+    4,
+    7,
+    8,
+    11,
+    12,
+    13,
+    15,
+    18,
+    20,
+    22,
+    26,
+    28,
+    35,
+    36,
+    37,
+    39,
+    43,
+    45,
+    46,
+    48,
+    50
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "dce30a9d321d50bf06dc071a75d8b0834bb399133e059ae896e55a32c1030e78",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf",
+  "canonicalDisplayFieldsComplete": true
+}
