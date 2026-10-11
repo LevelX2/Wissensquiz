@@ -35,6 +35,17 @@
 - Tests nur mit isolierten Browserprofilen und kontrollierter Testzeit durchführen. Echte Nutzerdaten nicht für Testfortschritte verändern.
 - Roh-CSV unverändert erhalten. Bestehende Frage-IDs nicht still überschreiben; Varianten teilen Wissensziel-IDs. Lernpunkte und Rekordzeit getrennt behandeln.
 
+## Temporäre Dateien und Bereinigung
+
+- Eigene temporäre Artefakte einem Auftrag eindeutig zuordnen und nach Abschluss des jeweiligen Arbeitsblocks selbstständig entfernen, sobald sie nicht mehr benötigt werden. Nicht erst auf `Finito` warten.
+- Wiederholte Prüfungen desselben Auftrags verwenden denselben Ausgabebereich. Parallel laufende Arbeiten bleiben getrennt; aktive Browserprofile, Server und deren Builds erhalten.
+- Serienläufe speichern wechselnde Laufparameter und Ergebnisse getrennt vom ausführbaren Code. Keine vollständige Bundleversion für jeden Redaktionsblock erzeugen; vorhandene Builds wiederverwenden, solange ihr Quellstand passt.
+- Nach erfolgreicher Veröffentlichung und dokumentierter Abnahme eigene temporäre Quellkopien, entpackte Builds und Transportarchive entfernen. Erforderliche dauerhafte Veröffentlichungsnachweise erhalten; Ausnahmen brauchen einen konkreten Aufbewahrungsgrund und einen Löschzeitpunkt oder eine überprüfbare Löschbedingung.
+- Nach beendeten Browserprüfungen entbehrliche eigene Builds und Ergebnisse entfernen. Benötigte Fehlernachweise bis zur Klärung behalten und dauerhafte Prüfergebnisse zusammengefasst dokumentieren.
+- Originalquellen, private Sicherungen und notwendige Arbeitsdaten getrennt von reproduzierbaren Artefakten ablegen. `.gitignore` bedeutet weder „entbehrlich“ noch „dauerhaft aufbewahren“; generierte Ausgabebereiche nicht als Ablage für unersetzliche Daten verwenden.
+- Nur nachweislich eigene, abgeschlossene Artefakte gezielt löschen. Vor rekursiver Löschung aufgelöste Zielpfade innerhalb des vorgesehenen Arbeitsbereichs prüfen und Verknüpfungsziele nicht verfolgen. Fremde oder unfertige Arbeitsstände sowie Schutzbestände erhalten; bei unklarer Zuordnung nachfragen. Alter oder Dateiname allein reichen als Löschgrund nicht.
+- Beim Abschluss verbleibende größere eigene Artefakte mit Zweck und Löschzeitpunkt oder Löschbedingung nennen. Fehlgeschlagene oder blockierte Löschungen ausdrücklich als offen melden; vorbereitete Löschbefehle gelten nicht als ausgeführte Bereinigung.
+
 ## Abschlusskommandos
 
 Für `Finito`, `Ende`, `Finale`, `Endfinale` und sinngleiche ausdrückliche Abschlusswünsche den persönlichen Skill `abschlusskommandos` verwenden.
