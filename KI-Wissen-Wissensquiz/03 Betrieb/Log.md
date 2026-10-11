@@ -1966,3 +1966,7 @@ Auf ausdrücklichen Auftrag die vorübergehende Sperre durch tatsächliche Entfe
 
 **Veröffentlichungsabschluss:** Version 68 am 11.10.2026 um 15:27:03 Uhr Europe/Berlin aus Main erfolgreich öffentlich veröffentlicht. 41 gezielte Browserfälle nach Korrektur der Testisolierung erfolgreich; Archiv und zwölf Live-Dateien bytegleich. Veröffentlichungszeit separat anonym bestätigt. [Nachweis](../../docs/Veroeffentlichung-2026-10-11-Version-68.json).
 Eigener Worktree nach Main-Integration und Veröffentlichung archiviert und entfernt; eigene temporäre Builds, Browserprüfdateien und Veröffentlichungskopie bereinigt, fremde Worktrees erhalten.
+
+## 11.10.2026 – Filmreise mit 50-Prozent-Regel als Version 69 veröffentlicht
+
+Auf Nutzerauftrag Schwierigkeiten je Bereich aus mindestens der Hälfte der aktuellen Ziele der vorherigen Stufe berechnet; alte Kurzfreigaben neu projiziert, Antworten/Lernstand erhalten. Neue Ziele gleichwahrscheinlich nach Schwierigkeit, Ziel und Variante; keine doppelte Ziehung gemeinsamer Ziele, vier fällige Plätze weiter reserviert. 414 Tests, Build und elf Browserfälle erfolgreich; Fanfare und Tastaturfokus beim Serverabschluss korrigiert. Native Migration einschließlich atomarem Datenvergleich und zehn vollständig zurückgerollten synthetischen Warteschlangen geprüft. Aus Main e842d0b als Version 69 um 16:18:29 Uhr Europe/Berlin öffentlich veröffentlicht; Archiv und Live-Dateien bestätigt. Kein GitHub-Push oder neuer Worktree. [Nachweis](../../docs/Veroeffentlichung-2026-10-11-Version-69.json).

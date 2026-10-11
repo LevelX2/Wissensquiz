@@ -1,5 +1,11 @@
 # Sites-Veröffentlichung
 
+## Version 69: 50-Prozent-Freischaltung und gleichwahrscheinliche Stufen
+
+Am 11.10.2026 um **16:18:29 Uhr Europe/Berlin** aus Main-Commit `e842d0bb3103a0c17cdcf2719691705f5c2e024b` veröffentlicht, native Bestätigung `succeeded`. Bestehende Projekt-ID, URL und öffentlicher Besucherzugriff erhalten; kein GitHub-Push. 414 Tests, TypeScript/Versionsbuild und elf gezielte Browserfälle erfolgreich. Die private Backendmigration ist aktiv; Antworten und Lernstand atomar unverändert bestätigt, frühere Kurzfreigaben neu berechnet. Abenteuer 102 leichte Ziele für Mittel, 194 mittlere für Schwer. Neue Ziele gleichwahrscheinlich nach verfügbarer Schwierigkeit, dann Ziel und Variante; vier fällige Plätze erhalten. Fanfare und Fokus der Freischaltfeier beim Serverabschluss korrigiert.
+
+Archiv: 489 Builddateien plus Hostingmanifest bytegleich, nur öffentliche Produktionsdateien. Anonyme Live-Prüfung von HTML, Haupt-JavaScript, Hilfetext, CSS, Kontokonfiguration und Stilllegungs-Worker erfolgreich; ausschließlich der bekannte Cloudflare-JSD-Schnipsel zusätzlich im HTML. Versionszeit dauerhaft gespeichert und über die öffentliche RPC bestätigt. Zehn synthetische native Warteschlangen vollständig zurückgerollt. Temporäre Veröffentlichungskopie wird nach Dokumentation entfernt; kein neuer Worktree angelegt. [Vertrag](Filmreise-Freischaltung-2026-10-11.md), [Nachweis mit IDs und Hashes](Veroeffentlichung-2026-10-11-Version-69.json).
+
 ## Version 68: alte Speicher- und Vollkatalogwege vollständig entfernt
 
 Am **11.10.2026 um 15:27:03 Uhr Europe/Berlin** aus Main als **Version 68 öffentlich veröffentlicht**, nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Quellcommit **6dbf6f8c3c940205fc5203f5fb0a4226f50f9027**, Version **appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_daec983cda90819192bdc57bdd195c82**, Deployment **appgdep_6acb8e9549a48191b14ea55808dca585**. Adresse, Projekt-ID und öffentlicher Zugriff **public, Revision 2** erhalten. [Maschinenlesbarer Nachweis](Veroeffentlichung-2026-10-11-Version-68.json).

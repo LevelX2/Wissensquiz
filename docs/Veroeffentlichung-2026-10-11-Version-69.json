@@ -1,0 +1,100 @@
+{
+  "version": 69,
+  "sourceBranch": "main",
+  "sourceCommit": "e842d0bb3103a0c17cdcf2719691705f5c2e024b",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "versionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_56827fe82750819182ed1b56c730f19a",
+  "deploymentId": "appgdep_6acb9aa3e30c8191af25ef66b22e9869",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-10-11T14:18:29.966383+00:00",
+  "publicAccessPreserved": true,
+  "archiveNative": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_000000002a74820aaa9b36d2d7538730",
+    "content_hash": "sha256:3326c79bc999b11209a1e4031af1ffffe0c24f0dd8fd5cdc50826fe1522e88b1",
+    "size_bytes": 77035520,
+    "file_count": 490
+  },
+  "migration": "20261011135954_journey_half_progress_and_balanced_new_questions.sql",
+  "checks": {
+    "unitTests": 414,
+    "unitFiles": 68,
+    "sqlTests": 18,
+    "browserCases": 11,
+    "browsers": [
+      "chromium",
+      "firefox",
+      "webkit-mobile"
+    ],
+    "typeScript": true,
+    "buildVersion": 69,
+    "diffCheck": true
+  },
+  "data": {
+    "reset": false,
+    "answerAndLearningEntriesUnchangedAtomicFingerprint": true,
+    "journeyDifficultyRightsRecomputed": true,
+    "historicalCatalogRequired": false
+  },
+  "thresholds": {
+    "Abenteuer": {
+      "easy": 203,
+      "toMedium": 102,
+      "medium": 387,
+      "toHard": 194
+    }
+  },
+  "syntheticNativeProbe": {
+    "rolledBack": true,
+    "queues": 10,
+    "uniqueGoalsPerQueue": 10,
+    "minimumMs": 30.94,
+    "averageMs": 34.89,
+    "maximumMs": 63.47
+  },
+  "limits": [
+    "Keine Mehrspielerlastmessung",
+    "Keine physische Geräteabnahme",
+    "Bestehende Advisor-Hinweise unverändert im Umfang"
+  ],
+  "archiveLocal": {
+    "fileCount": 490,
+    "buildFiles": 489,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 62644769,
+    "sha256": "6da3f27febf6f333f1f03aa07d81272745d742dea03c8fee4c3d8a5165b284e5"
+  },
+  "live": {
+    "htmlStatus": 200,
+    "htmlMatchesApartFromCloudflareJsd": true,
+    "files": [
+      {
+        "path": "/assets/Help-BkPUDb-T.js",
+        "status": 200,
+        "sha256": "f5706a5c1eea3d0115e95f81581f5b452e396cd18c8fd601c3ffdff5369d6f91"
+      },
+      {
+        "path": "/assets/index-BPr2pq_a.css",
+        "status": 200,
+        "sha256": "9b0f2c44ccc43ffcc45b605efd0dc873c217b83a21d6f7e47cd9db519177d570"
+      },
+      {
+        "path": "/assets/index-D0vkXCf-.js",
+        "status": 200,
+        "sha256": "d62190d16f5a0a53bf1cc25fa327d2eecd6b82e60b7a58253646a0091e7969d6"
+      },
+      {
+        "path": "/account-config.json",
+        "status": 200,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      },
+      {
+        "path": "/sw.js",
+        "status": 200,
+        "sha256": "0c3f9919e46aacbadf04f0a2ccf87bcd2296697179a907f787e74857a46f47ec"
+      }
+    ]
+  }
+}

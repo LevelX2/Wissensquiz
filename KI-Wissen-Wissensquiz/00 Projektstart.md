@@ -1,6 +1,6 @@
 # Projektstart Wissensquiz
 
-**11.10.2026 – Filmreise neu berechnet:** 50 Prozent der aktuellen Ziele der vorherigen Schwierigkeit, aufgerundet; alte Kurzfreigaben entfernt. Neue Ziele gleichwahrscheinlich nach verfügbarer Schwierigkeit, dann Ziel und Variante. Antworten/Lernstand erhalten. 414 Tests, Build und elf Browserfälle erfolgreich; Serverregel aktiv, Frontend-Veröffentlichung vorbereitet. [Vertrag](../docs/Filmreise-Freischaltung-2026-10-11.md).
+**11.10.2026 – Filmreise neu berechnet:** 50 Prozent der aktuellen Ziele der vorherigen Schwierigkeit, aufgerundet; alte Kurzfreigaben entfernt. Neue Ziele gleichwahrscheinlich nach verfügbarer Schwierigkeit, dann Ziel und Variante. Antworten/Lernstand erhalten. 414 Tests, Build und elf Browserfälle erfolgreich; Serverregel aktiv und aus Main als **Version 69 am 11.10.2026 um 16:18:29 Uhr Europe/Berlin veröffentlicht**. [Veröffentlichungsnachweis](../docs/Veroeffentlichung-2026-10-11-Version-69.json). [Vertrag](../docs/Filmreise-Freischaltung-2026-10-11.md).
 
 **11.10.2026 – Version 68 veröffentlicht, alte Speicherwege entfernt:** Zehn ungenutzte Vollkatalogarchive, alte Tabellen/RPCs und alternative Client-Speicherpfade vollständig entfernt. Spielstand und Revisionen unverändert; echter Kontoabruf lesend ohne Katalogabruf bestätigt. 413 Tests und 41 gezielte Browserfälle einschließlich aller Nachprüfungen erfolgreich. Aus Main veröffentlicht; [Veröffentlichungsnachweis](../docs/Veroeffentlichung-2026-10-11-Version-68.json), [Bereinigung](../docs/Alte-Speicherwege-entfernt-2026-10-11.md).
 

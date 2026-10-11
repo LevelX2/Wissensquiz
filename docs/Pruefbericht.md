@@ -8,7 +8,7 @@ Backendmigration erfolgreich. Atomarer Fingerabdruck aller privaten Fortschritts
 
 Zehn synthetische native Warteschlangen mit jeweils zehn verschiedenen Zielen erfolgreich, vollständig zurückgerollt; sichere Schwellenüberschreitung ebenfalls geprüft. SQL-Laufzeit dieser Einzelprüfung: 30,94–63,47 ms, Durchschnitt 34,89 ms einschließlich erster Cachefüllung; keine Mehrspielerlastmessung oder Aussage über Netzwerklatenz. Native Advisors ausgeführt: bestehende Hinweise zu [RPC-Ausführungsrechten](https://supabase.com/docs/guides/database/database-linter?lint=0028_anon_security_definer_function_executable), [fehlenden Richtlinien an intern gesperrten Tabellen](https://supabase.com/docs/guides/database/database-linter?lint=0008_rls_enabled_no_policy), [FK-Indizes](https://supabase.com/docs/guides/database/database-linter?lint=0001_unindexed_foreign_keys), ungenutzten Indizes und zuvor deaktiviertem Passwortschutz bleiben außerhalb dieses Änderungsumfangs. Keine neue öffentliche Funktion oder Rechtefreigabe.
 
-[Vertrag und Grenzen](Filmreise-Freischaltung-2026-10-11.md). Frontend-Veröffentlichung separat im Sites-Nachweis.
+[Vertrag und Grenzen](Filmreise-Freischaltung-2026-10-11.md). Als Version 69 um 16:18:29 Uhr Europe/Berlin aus Main veröffentlicht; [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-69.json).
 
 
 ## 11.10.2026 – Alte Speicherwege vollständig entfernt
