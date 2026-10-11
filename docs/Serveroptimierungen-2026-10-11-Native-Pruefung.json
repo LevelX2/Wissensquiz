@@ -1,0 +1,284 @@
+{
+  "passed": true,
+  "environment": "isolated local native PostgreSQL; synthetic users; no internet latency; not a production capacity estimate",
+  "checks": {
+    "version": "17.11",
+    "content": {
+      "sets": 1,
+      "pending": 0,
+      "archives": 0,
+      "questions": 12787
+    },
+    "parallelLearning": {
+      "players": 16,
+      "completed": 16,
+      "answers": 160
+    },
+    "independentLocks": true,
+    "duplicateAnswer": {
+      "connections": 8,
+      "answers": 1
+    },
+    "invitationRace": {
+      "connections": 12,
+      "winners": 1
+    },
+    "slotRace": {
+      "connections": 12,
+      "created": 1,
+      "open": 5
+    },
+    "unchangedBytes": {
+      "full": 586,
+      "unchanged": 82
+    },
+    "history": {
+      "rounds": 101,
+      "events": 1010,
+      "bootRounds": 1,
+      "bootEvents": 10,
+      "bootResponseBytes": 14837,
+      "fullDocumentBytes": 876215,
+      "oldContributions": 2020,
+      "deletedOldContributions": 0
+    },
+    "preparedPlan": [
+      {
+        "Plan": {
+          "Node Type": "Limit",
+          "Parallel Aware": false,
+          "Async Capable": false,
+          "Startup Cost": 0.28,
+          "Total Cost": 69.61,
+          "Plan Rows": 40,
+          "Plan Width": 296,
+          "Actual Startup Time": 0.021,
+          "Actual Total Time": 0.032,
+          "Actual Rows": 40,
+          "Actual Loops": 1,
+          "Shared Hit Blocks": 6,
+          "Shared Read Blocks": 0,
+          "Shared Dirtied Blocks": 0,
+          "Shared Written Blocks": 0,
+          "Local Hit Blocks": 0,
+          "Local Read Blocks": 0,
+          "Local Dirtied Blocks": 0,
+          "Local Written Blocks": 0,
+          "Temp Read Blocks": 0,
+          "Temp Written Blocks": 0,
+          "Plans": [
+            {
+              "Node Type": "Index Scan",
+              "Parent Relationship": "Outer",
+              "Parallel Aware": false,
+              "Async Capable": false,
+              "Scan Direction": "Forward",
+              "Index Name": "topic_groups_pkey",
+              "Relation Name": "topic_groups",
+              "Alias": "topic_groups",
+              "Startup Cost": 0.28,
+              "Total Cost": 74.81,
+              "Plan Rows": 43,
+              "Plan Width": 296,
+              "Actual Startup Time": 0.02,
+              "Actual Total Time": 0.031,
+              "Actual Rows": 40,
+              "Actual Loops": 1,
+              "Index Cond": "((scope_kind = 'genre'::text) AND (scope = 'Drama'::text))",
+              "Rows Removed by Index Recheck": 0,
+              "Shared Hit Blocks": 6,
+              "Shared Read Blocks": 0,
+              "Shared Dirtied Blocks": 0,
+              "Shared Written Blocks": 0,
+              "Local Hit Blocks": 0,
+              "Local Read Blocks": 0,
+              "Local Dirtied Blocks": 0,
+              "Local Written Blocks": 0,
+              "Temp Read Blocks": 0,
+              "Temp Written Blocks": 0
+            }
+          ]
+        },
+        "Planning": {
+          "Shared Hit Blocks": 48,
+          "Shared Read Blocks": 0,
+          "Shared Dirtied Blocks": 0,
+          "Shared Written Blocks": 0,
+          "Local Hit Blocks": 0,
+          "Local Read Blocks": 0,
+          "Local Dirtied Blocks": 0,
+          "Local Written Blocks": 0,
+          "Temp Read Blocks": 0,
+          "Temp Written Blocks": 0
+        },
+        "Planning Time": 1.222,
+        "Triggers": [],
+        "Execution Time": 0.047
+      }
+    ],
+    "bootPlan": [
+      {
+        "Plan": {
+          "Node Type": "Limit",
+          "Parallel Aware": false,
+          "Async Capable": false,
+          "Startup Cost": 0.14,
+          "Total Cost": 8.16,
+          "Plan Rows": 1,
+          "Plan Width": 63,
+          "Actual Startup Time": 0.024,
+          "Actual Total Time": 0.025,
+          "Actual Rows": 1,
+          "Actual Loops": 1,
+          "Shared Hit Blocks": 2,
+          "Shared Read Blocks": 0,
+          "Shared Dirtied Blocks": 0,
+          "Shared Written Blocks": 0,
+          "Local Hit Blocks": 0,
+          "Local Read Blocks": 0,
+          "Local Dirtied Blocks": 0,
+          "Local Written Blocks": 0,
+          "Temp Read Blocks": 0,
+          "Temp Written Blocks": 0,
+          "Plans": [
+            {
+              "Node Type": "Index Scan",
+              "Parent Relationship": "Outer",
+              "Parallel Aware": false,
+              "Async Capable": false,
+              "Scan Direction": "Forward",
+              "Index Name": "game_boot_round",
+              "Relation Name": "quiz_sync_entries",
+              "Alias": "quiz_sync_entries",
+              "Startup Cost": 0.14,
+              "Total Cost": 8.16,
+              "Plan Rows": 1,
+              "Plan Width": 63,
+              "Actual Startup Time": 0.024,
+              "Actual Total Time": 0.024,
+              "Actual Rows": 1,
+              "Actual Loops": 1,
+              "Index Cond": "((owner_id = '0abc01fb-7dfb-43b0-8b97-04c9ad2bebd9'::uuid) AND (generation = '7d56ee0e-500b-4b54-9eea-a5971a7cfa67'::uuid))",
+              "Rows Removed by Index Recheck": 0,
+              "Shared Hit Blocks": 2,
+              "Shared Read Blocks": 0,
+              "Shared Dirtied Blocks": 0,
+              "Shared Written Blocks": 0,
+              "Local Hit Blocks": 0,
+              "Local Read Blocks": 0,
+              "Local Dirtied Blocks": 0,
+              "Local Written Blocks": 0,
+              "Temp Read Blocks": 0,
+              "Temp Written Blocks": 0
+            }
+          ]
+        },
+        "Planning": {
+          "Shared Hit Blocks": 4,
+          "Shared Read Blocks": 0,
+          "Shared Dirtied Blocks": 0,
+          "Shared Written Blocks": 0,
+          "Local Hit Blocks": 0,
+          "Local Read Blocks": 0,
+          "Local Dirtied Blocks": 0,
+          "Local Written Blocks": 0,
+          "Temp Read Blocks": 0,
+          "Temp Written Blocks": 0
+        },
+        "Planning Time": 0.207,
+        "Triggers": [],
+        "Execution Time": 0.037
+      }
+    ],
+    "noDeadlock": true,
+    "permissions": {
+      "anonymous_private_rpc": false,
+      "authenticated_private_table": false
+    }
+  },
+  "stats": {
+    "overview-16": {
+      "calls": 16,
+      "minMs": 10.22,
+      "medianMs": 16.06,
+      "p95Ms": 21.35,
+      "maxMs": 21.35,
+      "totalBytes": 1504
+    },
+    "learning-start-16": {
+      "calls": 16,
+      "minMs": 877.88,
+      "medianMs": 909.29,
+      "p95Ms": 909.46,
+      "maxMs": 909.46,
+      "totalBytes": 21285
+    },
+    "learning-answer-16": {
+      "calls": 160,
+      "minMs": 2.01,
+      "medianMs": 4.41,
+      "p95Ms": 49.58,
+      "maxMs": 49.95,
+      "totalBytes": 952126
+    },
+    "learning-next-16": {
+      "calls": 144,
+      "minMs": 2.12,
+      "medianMs": 2.61,
+      "p95Ms": 32.72,
+      "maxMs": 40.24,
+      "totalBytes": 196110
+    },
+    "learning-finish-16": {
+      "calls": 16,
+      "minMs": 69.52,
+      "medianMs": 101.34,
+      "p95Ms": 101.53,
+      "maxMs": 101.53,
+      "totalBytes": 7552
+    },
+    "locked-other-player-write": {
+      "calls": 1,
+      "minMs": 4.63,
+      "medianMs": 4.63,
+      "p95Ms": 4.63,
+      "maxMs": 4.63,
+      "totalBytes": 1298
+    },
+    "locked-own-overview-read": {
+      "calls": 1,
+      "minMs": 19.73,
+      "medianMs": 19.73,
+      "p95Ms": 19.73,
+      "maxMs": 19.73,
+      "totalBytes": 594
+    },
+    "history-101-boot": {
+      "calls": 1,
+      "minMs": 9.81,
+      "medianMs": 9.81,
+      "p95Ms": 9.81,
+      "maxMs": 9.81,
+      "bytesNote": "open() returns void; scoped page bytes are recorded in checks.history.bootResponseBytes"
+    },
+    "history-101-full-export": {
+      "calls": 1,
+      "minMs": 47.41,
+      "medianMs": 47.41,
+      "p95Ms": 47.41,
+      "maxMs": 47.41,
+      "totalBytes": 876215
+    },
+    "history-101-next-finish": {
+      "calls": 1,
+      "minMs": 30.16,
+      "medianMs": 30.16,
+      "p95Ms": 30.16,
+      "maxMs": 30.16,
+      "totalBytes": 472
+    }
+  },
+  "date": "2026-10-11",
+  "testedSourceCommit": "243f63504c6d055aa27185d03779facdb23d9c5b",
+  "measurementDefinition": "Local wall time per completed call, including PostgreSQL waits and psql IPC; no WAN, PostgREST or HTTP compression. Bytes are serialized returned JSON, not HTTP wire bytes. Browser checks ran concurrently on the same host."
+}

@@ -38,8 +38,7 @@
     "mainGzipKB": 281.07
   },
   "limits": [
-    "Kein nativer PostgreSQL-Parallelitäts-/Sperrwartezeittest",
-    "Keine Mehrspieler-Lastabnahme",
+    "Keine produktive Kapazitätszusage; lokale native Messung ohne WAN/PostgREST",
     "Noch nicht nach Supabase oder Sites ausgerollt"
   ],
   "typescript": {
@@ -109,5 +108,12 @@
       "Doppelte Inhaltsvorbereitung im Testbackend entfernt.",
       "Laufende Test-Routen vor Browserkontextabschluss abgewartet; Fristen unverändert."
     ]
+  },
+  "native": {
+    "passed": true,
+    "file": "Serveroptimierungen-2026-10-11-Native-Pruefung.json",
+    "postgres": "17.11",
+    "parallelPlayers": 16,
+    "historyRounds": 101
   }
 }
