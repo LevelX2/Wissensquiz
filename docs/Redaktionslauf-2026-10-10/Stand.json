@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 4450,
-  "totalReviewed": 4600,
-  "remainingFilmQuestions": 6133,
+  "completedInThisRun": 4500,
+  "totalReviewed": 4650,
+  "remainingFilmQuestions": 6083,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 8173,
+  "remainingAllQuestions": 8123,
   "blocks": [
     {
       "block": 1,
@@ -453,6 +453,11 @@
     {
       "block": 89,
       "path": "Block-89.json",
+      "count": 50
+    },
+    {
+      "block": 90,
+      "path": "Block-90.json",
       "count": 50
     }
   ],
@@ -5056,209 +5061,59 @@
     "KOM-202610-P01-M-029",
     "KOM-202610-P01-S-028",
     "KOM-202610-P01-S-029",
-    "KOM-202610-P01-M-030"
+    "KOM-202610-P01-M-030",
+    "KOM-202610-P01-S-030",
+    "G100-20261008-ROMCOM-023-L1",
+    "G100-20261008-ROMCOM-023-L2",
+    "G100-20261008-ROMCOM-023-M1",
+    "G100-20261008-ROMCOM-023-M2",
+    "G100-20261008-ROMCOM-023-S1",
+    "G100-20261008-ROMCOM-023-S2",
+    "G100-20261008-ROMCOM-023-Y",
+    "G100-20261008-ROMCOM-023-D",
+    "E20261007-F-043-L1",
+    "E20261007-F-043-L2",
+    "E20261007-F-043-M1",
+    "E20261007-F-043-M2",
+    "E20261007-F-043-S1",
+    "E20261007-F-043-S2",
+    "E20261007-F-043-Y",
+    "E20261007-F-043-D",
+    "E20261007-F-245-L1",
+    "E20261007-F-245-L2",
+    "E20261007-F-245-M1",
+    "E20261007-F-245-M2",
+    "E20261007-F-245-S1",
+    "E20261007-F-245-S2",
+    "E20261007-F-245-Y",
+    "E20261007-F-245-D",
+    "E20261007-F-033-L1",
+    "E20261007-F-033-L2",
+    "E20261007-F-033-M1",
+    "E20261007-F-033-M2",
+    "E20261007-F-033-S1",
+    "E20261007-F-033-S2",
+    "E20261007-F-033-Y",
+    "E20261007-F-033-D",
+    "F240-20261006-129-L1",
+    "F240-20261006-129-L2",
+    "F240-20261006-129-M1",
+    "F240-20261006-129-M2",
+    "F240-20261006-129-S1",
+    "F240-20261006-129-S2",
+    "F240-20261006-129-Y",
+    "F240-20261006-129-D",
+    "F240-20261006-130-L1",
+    "F240-20261006-130-L2",
+    "F240-20261006-130-M1",
+    "F240-20261006-130-M2",
+    "F240-20261006-130-S1",
+    "F240-20261006-130-S2",
+    "F240-20261006-130-Y",
+    "F240-20261006-130-D",
+    "F240-20261006-120-L1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "KOM-202610-P01-S-030",
-      "filmKey": "Kehraus|1983"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-L1",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-L2",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-M1",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-M2",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-S1",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-S2",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-Y",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-D",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "E20261007-F-043-L1",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-L2",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-M1",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-M2",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-S1",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-S2",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-Y",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-D",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-245-L1",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-L2",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-M1",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-M2",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-S1",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-S2",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-Y",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-D",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-033-L1",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-L2",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-M1",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-M2",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-S1",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-S2",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-Y",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-D",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "F240-20261006-129-L1",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-L2",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-M1",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-M2",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-S1",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-S2",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-Y",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-D",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-130-L1",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-L2",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-M1",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-M2",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-S1",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-S2",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-Y",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-D",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-120-L1",
-      "filmKey": "Kind Hearts and Coronets|1949"
-    },
     {
       "id": "F240-20261006-120-L2",
       "filmKey": "Kind Hearts and Coronets|1949"
@@ -29594,204 +29449,204 @@
   ],
   "next": [
     {
-      "id": "KOM-202610-P01-S-030",
-      "filmKey": "Kehraus|1983"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-L1",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-L2",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-M1",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-M2",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-S1",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-S2",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-Y",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-023-D",
-      "filmKey": "Keinohrhasen|2007"
-    },
-    {
-      "id": "E20261007-F-043-L1",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-L2",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-M1",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-M2",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-S1",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-S2",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-Y",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-043-D",
-      "filmKey": "Kes|1969"
-    },
-    {
-      "id": "E20261007-F-245-L1",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-L2",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-M1",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-M2",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-S1",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-S2",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-Y",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-245-D",
-      "filmKey": "Key Largo|1948"
-    },
-    {
-      "id": "E20261007-F-033-L1",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-L2",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-M1",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-M2",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-S1",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-S2",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-Y",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "E20261007-F-033-D",
-      "filmKey": "Kick-Ass|2010"
-    },
-    {
-      "id": "F240-20261006-129-L1",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-L2",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-M1",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-M2",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-S1",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-S2",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-Y",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-129-D",
-      "filmKey": "Kill Bill: Volume 1|2003"
-    },
-    {
-      "id": "F240-20261006-130-L1",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-L2",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-M1",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-M2",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-S1",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-S2",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-Y",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-130-D",
-      "filmKey": "Kill Bill: Volume 2|2004"
-    },
-    {
-      "id": "F240-20261006-120-L1",
+      "id": "F240-20261006-120-L2",
       "filmKey": "Kind Hearts and Coronets|1949"
+    },
+    {
+      "id": "F240-20261006-120-M1",
+      "filmKey": "Kind Hearts and Coronets|1949"
+    },
+    {
+      "id": "F240-20261006-120-M2",
+      "filmKey": "Kind Hearts and Coronets|1949"
+    },
+    {
+      "id": "F240-20261006-120-S1",
+      "filmKey": "Kind Hearts and Coronets|1949"
+    },
+    {
+      "id": "F240-20261006-120-S2",
+      "filmKey": "Kind Hearts and Coronets|1949"
+    },
+    {
+      "id": "F240-20261006-120-Y",
+      "filmKey": "Kind Hearts and Coronets|1949"
+    },
+    {
+      "id": "F240-20261006-120-D",
+      "filmKey": "Kind Hearts and Coronets|1949"
+    },
+    {
+      "id": "KOM-202610-P01-L-013",
+      "filmKey": "Kindergarten Cop|1990"
+    },
+    {
+      "id": "KOM-202610-P01-L-014",
+      "filmKey": "Kindergarten Cop|1990"
+    },
+    {
+      "id": "KOM-202610-P01-M-019",
+      "filmKey": "Kindergarten Cop|1990"
+    },
+    {
+      "id": "KOM-202610-P01-M-020",
+      "filmKey": "Kindergarten Cop|1990"
+    },
+    {
+      "id": "KOM-202610-P01-S-019",
+      "filmKey": "Kindergarten Cop|1990"
+    },
+    {
+      "id": "KOM-202610-P01-S-020",
+      "filmKey": "Kindergarten Cop|1990"
+    },
+    {
+      "id": "KOM-202610-P01-M-021",
+      "filmKey": "Kindergarten Cop|1990"
+    },
+    {
+      "id": "KOM-202610-P01-S-021",
+      "filmKey": "Kindergarten Cop|1990"
+    },
+    {
+      "id": "F240-20261006-002-L1",
+      "filmKey": "King Kong|1933"
+    },
+    {
+      "id": "F240-20261006-002-L2",
+      "filmKey": "King Kong|1933"
+    },
+    {
+      "id": "F240-20261006-002-M1",
+      "filmKey": "King Kong|1933"
+    },
+    {
+      "id": "F240-20261006-002-M2",
+      "filmKey": "King Kong|1933"
+    },
+    {
+      "id": "F240-20261006-002-S1",
+      "filmKey": "King Kong|1933"
+    },
+    {
+      "id": "F240-20261006-002-S2",
+      "filmKey": "King Kong|1933"
+    },
+    {
+      "id": "F240-20261006-002-Y",
+      "filmKey": "King Kong|1933"
+    },
+    {
+      "id": "F240-20261006-002-D",
+      "filmKey": "King Kong|1933"
+    },
+    {
+      "id": "F240-20261006-003-L1",
+      "filmKey": "King Kong|2005"
+    },
+    {
+      "id": "F240-20261006-003-L2",
+      "filmKey": "King Kong|2005"
+    },
+    {
+      "id": "F240-20261006-003-M1",
+      "filmKey": "King Kong|2005"
+    },
+    {
+      "id": "F240-20261006-003-M2",
+      "filmKey": "King Kong|2005"
+    },
+    {
+      "id": "F240-20261006-003-S1",
+      "filmKey": "King Kong|2005"
+    },
+    {
+      "id": "F240-20261006-003-S2",
+      "filmKey": "King Kong|2005"
+    },
+    {
+      "id": "F240-20261006-003-Y",
+      "filmKey": "King Kong|2005"
+    },
+    {
+      "id": "F240-20261006-003-D",
+      "filmKey": "King Kong|2005"
+    },
+    {
+      "id": "E20261007-F-019-L1",
+      "filmKey": "King Solomon’s Mines|1985"
+    },
+    {
+      "id": "E20261007-F-019-L2",
+      "filmKey": "King Solomon’s Mines|1985"
+    },
+    {
+      "id": "E20261007-F-019-M1",
+      "filmKey": "King Solomon’s Mines|1985"
+    },
+    {
+      "id": "E20261007-F-019-M2",
+      "filmKey": "King Solomon’s Mines|1985"
+    },
+    {
+      "id": "E20261007-F-019-S1",
+      "filmKey": "King Solomon’s Mines|1985"
+    },
+    {
+      "id": "E20261007-F-019-S2",
+      "filmKey": "King Solomon’s Mines|1985"
+    },
+    {
+      "id": "E20261007-F-019-Y",
+      "filmKey": "King Solomon’s Mines|1985"
+    },
+    {
+      "id": "E20261007-F-019-D",
+      "filmKey": "King Solomon’s Mines|1985"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-L1",
+      "filmKey": "Kingdom of Heaven|2005"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-L2",
+      "filmKey": "Kingdom of Heaven|2005"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-M1",
+      "filmKey": "Kingdom of Heaven|2005"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-M2",
+      "filmKey": "Kingdom of Heaven|2005"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-S1",
+      "filmKey": "Kingdom of Heaven|2005"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-S2",
+      "filmKey": "Kingdom of Heaven|2005"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-Y",
+      "filmKey": "Kingdom of Heaven|2005"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-043-D",
+      "filmKey": "Kingdom of Heaven|2005"
+    },
+    {
+      "id": "ACT-202610-P01-L-009",
+      "filmKey": "Kingsman: The Secret Service|2014"
+    },
+    {
+      "id": "ACT-202610-P01-L-010",
+      "filmKey": "Kingsman: The Secret Service|2014"
+    },
+    {
+      "id": "ACT-202610-P01-M-013",
+      "filmKey": "Kingsman: The Secret Service|2014"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
