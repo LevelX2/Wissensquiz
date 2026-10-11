@@ -65,9 +65,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 59: vollständiger Alt/Neu-Vergleich](Block-59.md) und [strukturierter Nachweis](Block-59.json): 50 Fragen, 28 Vertiefungen geändert, 22 erhalten, 0 Fragen vollständig unverändert; 7 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 60: vollständiger Alt/Neu-Vergleich](Block-60.md) und [strukturierter Nachweis](Block-60.json): 50 Fragen, 25 Vertiefungen geändert, 25 erhalten, 0 Fragen vollständig unverändert; 5 von 6 betroffenen Filmgruppen abgeschlossen.
 - [Block 61: vollständiger Alt/Neu-Vergleich](Block-61.md) und [strukturierter Nachweis](Block-61.json): 50 Fragen, 29 Vertiefungen geändert, 21 erhalten, 0 Fragen vollständig unverändert; 7 von 7 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 3200 von 12.773 IDs redaktionell erfasst.
-- Offen: 7533 Filmfragen und 2040 weitere Fragen; zusammen 9573. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 61 schließt Fantômas contre Scotland Yard mit sieben Vorblocktexten ab und prüft Fantômas se déchaîne, Fantômas1964, Far and Away, Fargo, Fast Five und Fatal Attraction vollständig. Drei bestehende Subagenten recherchieren und prüfen andere Filmgruppen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Gute Vertiefungen bleiben erhalten; Einzelabrufe erhalten ehrliche Schwierigkeiten. Keine App-Integration durch diesen Block.
+- [Block 62: vollständiger Alt/Neu-Vergleich](Block-62.md) und [strukturierter Nachweis](Block-62.json): 50 Fragen, 24 Vertiefungen geändert, 26 erhalten, 0 Fragen vollständig unverändert; 5 von 6 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 3250 von 12.773 IDs redaktionell erfasst.
+- Offen: 7483 Filmfragen und 2040 weitere Fragen; zusammen 9523. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 62 prüft Fearless, Ferris Bueller, Festen, Fiddler on the Roof und Final Destination vollständig. First Knight beginnt mit sieben Originalen; die Regiefrage bleibt für Block 63 offen. Drei bestehende Subagenten recherchieren und prüfen andere Filmgruppen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Gute Vertiefungen bleiben erhalten; Einzelabrufe erhalten ehrliche Schwierigkeiten. Keine App-Integration durch diesen Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 
