@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 3550,
-  "totalReviewed": 3700,
-  "remainingFilmQuestions": 7033,
+  "completedInThisRun": 3600,
+  "totalReviewed": 3750,
+  "remainingFilmQuestions": 6983,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 9073,
+  "remainingAllQuestions": 9023,
   "blocks": [
     {
       "block": 1,
@@ -363,6 +363,11 @@
     {
       "block": 71,
       "path": "Block-71.json",
+      "count": 50
+    },
+    {
+      "block": 72,
+      "path": "Block-72.json",
       "count": 50
     }
   ],
@@ -4066,209 +4071,59 @@
     "MUS-202610-P01-L-005",
     "MUS-202610-P01-L-006",
     "MUS-202610-P01-M-007",
-    "MUS-202610-P01-M-008"
+    "MUS-202610-P01-M-008",
+    "MUS-202610-P01-S-007",
+    "MUS-202610-P01-S-008",
+    "MUS-202610-P01-M-009",
+    "MUS-202610-P01-S-009",
+    "HOR-L-003",
+    "HOR-L-004",
+    "HOR-M-003",
+    "HOR-M-004",
+    "HOR-S-003",
+    "HOR-S-004",
+    "FF-177-YEAR",
+    "FF-177-DIRECTOR",
+    "G100-20261008-HORROR-023-L1",
+    "G100-20261008-HORROR-023-L2",
+    "G100-20261008-HORROR-023-M1",
+    "G100-20261008-HORROR-023-M2",
+    "G100-20261008-HORROR-023-S1",
+    "G100-20261008-HORROR-023-S2",
+    "G100-20261008-HORROR-023-Y",
+    "G100-20261008-HORROR-023-D",
+    "HOR-L-001",
+    "HOR-L-002",
+    "HOR-M-001",
+    "HOR-M-002",
+    "HOR-S-001",
+    "HOR-S-002",
+    "HOR-L-001-V1",
+    "HOR-L-002-V1",
+    "HOR-M-001-V1",
+    "HOR-M-002-V1",
+    "HOR-S-001-V1",
+    "HOR-S-002-V1",
+    "FF-176-YEAR",
+    "FF-176-DIRECTOR",
+    "F240-20261006-040-L1",
+    "F240-20261006-040-L2",
+    "F240-20261006-040-M1",
+    "F240-20261006-040-M2",
+    "F240-20261006-040-S1",
+    "F240-20261006-040-S2",
+    "F240-20261006-040-Y",
+    "F240-20261006-040-D",
+    "KOM-202609-P02-L-047",
+    "KOM-202609-P02-L-048",
+    "KOM-202609-P02-M-047",
+    "KOM-202609-P02-M-048",
+    "KOM-202609-P02-S-047",
+    "KOM-202609-P02-S-048",
+    "KOM-202609-P02-M-047-V1",
+    "FF-399-YEAR"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "MUS-202610-P01-S-007",
-      "filmKey": "Hair|1979"
-    },
-    {
-      "id": "MUS-202610-P01-S-008",
-      "filmKey": "Hair|1979"
-    },
-    {
-      "id": "MUS-202610-P01-M-009",
-      "filmKey": "Hair|1979"
-    },
-    {
-      "id": "MUS-202610-P01-S-009",
-      "filmKey": "Hair|1979"
-    },
-    {
-      "id": "HOR-L-003",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "HOR-L-004",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "HOR-M-003",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "HOR-M-004",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "HOR-S-003",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "HOR-S-004",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "FF-177-YEAR",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "FF-177-DIRECTOR",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-L1",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-L2",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-M1",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-M2",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-S1",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-S2",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-Y",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-D",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "HOR-L-001",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-L-002",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-M-001",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-M-002",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-S-001",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-S-002",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-L-001-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-L-002-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-M-001-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-M-002-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-S-001-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-S-002-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "FF-176-YEAR",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "FF-176-DIRECTOR",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "F240-20261006-040-L1",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-L2",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-M1",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-M2",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-S1",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-S2",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-Y",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-D",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "KOM-202609-P02-L-047",
-      "filmKey": "Happy Gilmore|1996"
-    },
-    {
-      "id": "KOM-202609-P02-L-048",
-      "filmKey": "Happy Gilmore|1996"
-    },
-    {
-      "id": "KOM-202609-P02-M-047",
-      "filmKey": "Happy Gilmore|1996"
-    },
-    {
-      "id": "KOM-202609-P02-M-048",
-      "filmKey": "Happy Gilmore|1996"
-    },
-    {
-      "id": "KOM-202609-P02-S-047",
-      "filmKey": "Happy Gilmore|1996"
-    },
-    {
-      "id": "KOM-202609-P02-S-048",
-      "filmKey": "Happy Gilmore|1996"
-    },
-    {
-      "id": "KOM-202609-P02-M-047-V1",
-      "filmKey": "Happy Gilmore|1996"
-    },
-    {
-      "id": "FF-399-YEAR",
-      "filmKey": "Happy Gilmore|1996"
-    },
     {
       "id": "FF-399-DIRECTOR",
       "filmKey": "Happy Gilmore|1996"
@@ -32204,204 +32059,204 @@
   ],
   "next": [
     {
-      "id": "MUS-202610-P01-S-007",
-      "filmKey": "Hair|1979"
-    },
-    {
-      "id": "MUS-202610-P01-S-008",
-      "filmKey": "Hair|1979"
-    },
-    {
-      "id": "MUS-202610-P01-M-009",
-      "filmKey": "Hair|1979"
-    },
-    {
-      "id": "MUS-202610-P01-S-009",
-      "filmKey": "Hair|1979"
-    },
-    {
-      "id": "HOR-L-003",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "HOR-L-004",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "HOR-M-003",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "HOR-M-004",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "HOR-S-003",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "HOR-S-004",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "FF-177-YEAR",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "FF-177-DIRECTOR",
-      "filmKey": "Halloween II|1981"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-L1",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-L2",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-M1",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-M2",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-S1",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-S2",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-Y",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "G100-20261008-HORROR-023-D",
-      "filmKey": "Halloween III: Season of the Witch|1982"
-    },
-    {
-      "id": "HOR-L-001",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-L-002",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-M-001",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-M-002",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-S-001",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-S-002",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-L-001-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-L-002-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-M-001-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-M-002-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-S-001-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "HOR-S-002-V1",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "FF-176-YEAR",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "FF-176-DIRECTOR",
-      "filmKey": "Halloween|1978"
-    },
-    {
-      "id": "F240-20261006-040-L1",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-L2",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-M1",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-M2",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-S1",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-S2",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-Y",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "F240-20261006-040-D",
-      "filmKey": "Hanna|2011"
-    },
-    {
-      "id": "KOM-202609-P02-L-047",
+      "id": "FF-399-DIRECTOR",
       "filmKey": "Happy Gilmore|1996"
     },
     {
-      "id": "KOM-202609-P02-L-048",
-      "filmKey": "Happy Gilmore|1996"
+      "id": "MAR-L-049",
+      "filmKey": "Hard Boiled|1992"
     },
     {
-      "id": "KOM-202609-P02-M-047",
-      "filmKey": "Happy Gilmore|1996"
+      "id": "MAR-L-050",
+      "filmKey": "Hard Boiled|1992"
     },
     {
-      "id": "KOM-202609-P02-M-048",
-      "filmKey": "Happy Gilmore|1996"
+      "id": "MAR-M-049",
+      "filmKey": "Hard Boiled|1992"
     },
     {
-      "id": "KOM-202609-P02-S-047",
-      "filmKey": "Happy Gilmore|1996"
+      "id": "MAR-M-050",
+      "filmKey": "Hard Boiled|1992"
     },
     {
-      "id": "KOM-202609-P02-S-048",
-      "filmKey": "Happy Gilmore|1996"
+      "id": "MAR-S-049",
+      "filmKey": "Hard Boiled|1992"
     },
     {
-      "id": "KOM-202609-P02-M-047-V1",
-      "filmKey": "Happy Gilmore|1996"
+      "id": "MAR-S-050",
+      "filmKey": "Hard Boiled|1992"
     },
     {
-      "id": "FF-399-YEAR",
-      "filmKey": "Happy Gilmore|1996"
+      "id": "FF-250-YEAR",
+      "filmKey": "Hard Boiled|1992"
+    },
+    {
+      "id": "FF-250-DIRECTOR",
+      "filmKey": "Hard Boiled|1992"
+    },
+    {
+      "id": "E20261007-F-027-L1",
+      "filmKey": "Hard Target|1993"
+    },
+    {
+      "id": "E20261007-F-027-L2",
+      "filmKey": "Hard Target|1993"
+    },
+    {
+      "id": "E20261007-F-027-M1",
+      "filmKey": "Hard Target|1993"
+    },
+    {
+      "id": "E20261007-F-027-M2",
+      "filmKey": "Hard Target|1993"
+    },
+    {
+      "id": "E20261007-F-027-S1",
+      "filmKey": "Hard Target|1993"
+    },
+    {
+      "id": "E20261007-F-027-S2",
+      "filmKey": "Hard Target|1993"
+    },
+    {
+      "id": "E20261007-F-027-Y",
+      "filmKey": "Hard Target|1993"
+    },
+    {
+      "id": "E20261007-F-027-D",
+      "filmKey": "Hard Target|1993"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-007-L1",
+      "filmKey": "Harold and Maude|1971"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-007-L2",
+      "filmKey": "Harold and Maude|1971"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-007-M1",
+      "filmKey": "Harold and Maude|1971"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-007-M2",
+      "filmKey": "Harold and Maude|1971"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-007-S1",
+      "filmKey": "Harold and Maude|1971"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-007-S2",
+      "filmKey": "Harold and Maude|1971"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-007-Y",
+      "filmKey": "Harold and Maude|1971"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-007-D",
+      "filmKey": "Harold and Maude|1971"
+    },
+    {
+      "id": "FAN-L-015",
+      "filmKey": "Harry Potter and the Chamber of Secrets|2002"
+    },
+    {
+      "id": "FAN-L-016",
+      "filmKey": "Harry Potter and the Chamber of Secrets|2002"
+    },
+    {
+      "id": "FAN-M-015",
+      "filmKey": "Harry Potter and the Chamber of Secrets|2002"
+    },
+    {
+      "id": "FAN-M-016",
+      "filmKey": "Harry Potter and the Chamber of Secrets|2002"
+    },
+    {
+      "id": "FAN-S-015",
+      "filmKey": "Harry Potter and the Chamber of Secrets|2002"
+    },
+    {
+      "id": "FAN-S-016",
+      "filmKey": "Harry Potter and the Chamber of Secrets|2002"
+    },
+    {
+      "id": "FF-108-YEAR",
+      "filmKey": "Harry Potter and the Chamber of Secrets|2002"
+    },
+    {
+      "id": "FF-108-DIRECTOR",
+      "filmKey": "Harry Potter and the Chamber of Secrets|2002"
+    },
+    {
+      "id": "FAN-L-025",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 1|2010"
+    },
+    {
+      "id": "FAN-L-026",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 1|2010"
+    },
+    {
+      "id": "FAN-M-025",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 1|2010"
+    },
+    {
+      "id": "FAN-M-026",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 1|2010"
+    },
+    {
+      "id": "FAN-S-025",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 1|2010"
+    },
+    {
+      "id": "FAN-S-026",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 1|2010"
+    },
+    {
+      "id": "FF-113-YEAR",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 1|2010"
+    },
+    {
+      "id": "FF-113-DIRECTOR",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 1|2010"
+    },
+    {
+      "id": "FAN-L-027",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 2|2011"
+    },
+    {
+      "id": "FAN-L-028",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 2|2011"
+    },
+    {
+      "id": "FAN-M-027",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 2|2011"
+    },
+    {
+      "id": "FAN-M-028",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 2|2011"
+    },
+    {
+      "id": "FAN-S-027",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 2|2011"
+    },
+    {
+      "id": "FAN-S-028",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 2|2011"
+    },
+    {
+      "id": "FF-114-YEAR",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 2|2011"
+    },
+    {
+      "id": "FF-114-DIRECTOR",
+      "filmKey": "Harry Potter and the Deathly Hallows – Part 2|2011"
+    },
+    {
+      "id": "FAN-L-023",
+      "filmKey": "Harry Potter and the Half-Blood Prince|2009"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
