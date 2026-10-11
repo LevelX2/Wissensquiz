@@ -259415,6 +259415,2362 @@
         "https://www.sonyclassics.com/theredturtle/theredturtle_presskit.pdf"
       ],
       "originalId": "Q-RED95-TORTUE-S-001"
+    },
+    {
+      "id": "E20261007-F-119-S1",
+      "originalId": "E20261007-F-119-S1",
+      "knowledgeId": "K-E20261007-F-119-S1",
+      "filmKey": "Last Train from Gun Hill|1959",
+      "filmTitle": "Der letzte Zug von Gun Hill",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Den versehentlichen Tod Ricks und Beldens letzte Konfrontation verbinden",
+      "question": "Wer trifft Rick (Earl Holliman) in „Der letzte Zug von Gun Hill“ tödlich, als Morgan (Kirk Douglas) ihn am Bahnhof unter Kontrolle hält?",
+      "answers": [
+        {
+          "id": "E20261007-F-119-S1:a",
+          "text": "Morgan trifft ihn bei einem Fluchtversuch.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-S1:b",
+          "text": "Belden trifft ihn im Schusswechsel mit Morgan.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-S1:c",
+          "text": "Linda trifft ihn beim Abwehren eines Angreifers.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-S1:d",
+          "text": "Sein Komplize Lee schießt versehentlich auf ihn.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Lees Angriff auf Morgan trifft Rick.",
+      "context": "Am Bahnhof schießt Lee (Brian G. Hutton) auf Morgan (Kirk Douglas), trifft aber Rick (Earl Holliman). Dessen Vater Belden (Anthony Quinn) fordert daraufhin Morgan zum Duell. Auch er wird erschossen, bevor der Marshal allein in den Zug steigt.",
+      "anchor": "Ricks versehentlicher Tod führt zum letzten Duell der alten Freunde.",
+      "spoilerLevel": "Auflösung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Last_Train_from_Gun_Hill",
+        "https://catalog.afi.com/Film/53642-LAST-TRAIN-FROM-GUN-HILL"
+      ]
+    },
+    {
+      "id": "E20261007-F-119-S2",
+      "originalId": "E20261007-F-119-S2",
+      "knowledgeId": "K-E20261007-F-119-S2",
+      "filmKey": "Last Train from Gun Hill|1959",
+      "filmTitle": "Der letzte Zug von Gun Hill",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Das Feuer und Morgans Absicherung auf dem Weg zum Zug verstehen",
+      "question": "Warum kann Morgan (Kirk Douglas) in „Der letzte Zug von Gun Hill“ Rick (Earl Holliman) aus dem brennenden Hotel Richtung Bahnhof führen?",
+      "answers": [
+        {
+          "id": "E20261007-F-119-S2:a",
+          "text": "Er hält ihn mit der Waffe als Schutz gegen einen Angriff fest.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-S2:b",
+          "text": "Er erreicht mit Belden einen Waffenstillstand bis zur Abfahrt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-S2:c",
+          "text": "Er lässt das Hotelpersonal die bewaffneten Männer ablenken.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-S2:d",
+          "text": "Er gewinnt Rick als Helfer gegen dessen Vater.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die unmittelbare Bedrohung Ricks hält die Angreifer zurück.",
+      "context": "Lee (Brian G. Hutton) setzt das Hotel in Brand und zwingt Morgan (Kirk Douglas) hinaus. Dieser kettet sich an Rick (Earl Holliman) und hält ihm die Schrotflinte unters Kinn. Belden (Anthony Quinn) befiehlt seinen Männern, nicht zu schießen. So erreicht Morgan mit dem Gefangenen den Bahnhof.",
+      "anchor": "Das Feuer erzwingt den Aufbruch; Ricks Leben hält die Angreifer zurück.",
+      "spoilerLevel": "Auflösung",
+      "sources": [
+        "https://catalog.afi.com/Film/53642-LAST-TRAIN-FROM-GUN-HILL",
+        "https://en.wikipedia.org/wiki/Last_Train_from_Gun_Hill"
+      ]
+    },
+    {
+      "id": "E20261007-F-119-Y",
+      "originalId": "E20261007-F-119-Y",
+      "knowledgeId": "K-E20261007-F-119-Y",
+      "filmKey": "Last Train from Gun Hill|1959",
+      "filmTitle": "Der letzte Zug von Gun Hill",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Die erneute Westernzusammenarbeit nach O.K. Corral zeitlich verankern",
+      "question": "In welchem Jahr erschien „Der letzte Zug von Gun Hill“ erstmals?",
+      "answers": [
+        {
+          "id": "E20261007-F-119-Y:a",
+          "text": "1958",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-Y:b",
+          "text": "1959",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-Y:c",
+          "text": "1960",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-Y:d",
+          "text": "1961",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Film erschien 1959.",
+      "context": "Gunfight at the O.K. Corral erschien 1957. Last Train from Gun Hill folgte 1959, zwei Jahre später, erneut mit John Sturges, Kirk Douglas und Produzent Hal Wallis. AFI benennt diese Verbindung ausdrücklich. Der Zeitanker verbindet zwei Western, die aus einer wiederholten Zusammenarbeit mehrerer Beteiligter hervorgingen.",
+      "anchor": "1957 O.K. Corral, 1959 Gun Hill: dasselbe Regie-Hauptdarsteller-Produzenten-Team.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Film/53642-LAST-TRAIN-FROM-GUN-HILL"
+      ]
+    },
+    {
+      "id": "E20261007-F-119-D",
+      "originalId": "E20261007-F-119-D",
+      "knowledgeId": "K-E20261007-F-119-D",
+      "filmKey": "Last Train from Gun Hill|1959",
+      "filmTitle": "Der letzte Zug von Gun Hill",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Sturges’ Regie und die Herstellung der Westernstadt einordnen",
+      "question": "Wer führte bei „Der letzte Zug von Gun Hill“ Regie?",
+      "answers": [
+        {
+          "id": "E20261007-F-119-D:a",
+          "text": "Henry Hathaway",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-D:b",
+          "text": "Delmer Daves",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-D:c",
+          "text": "John Sturges",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-119-D:d",
+          "text": "Richard Brooks",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sturges inszenierte den Film.",
+      "context": "Gun Hill entstand als Kulissenstadt auf dem Paramount-Gelände. Für weitere Aufnahmen fuhr das Team nach Tucson in Arizona und zur Monogram Ranch im kalifornischen Placerita Canyon. John Sturges verbindet im fertigen Western diese unterschiedlichen Drehorte zu Morgans Weg durch die Stadt.",
+      "anchor": "Sturges’ Gun Hill: Paramount-Kulissen und Außenaufnahmen in Arizona und Kalifornien.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Film/53642-LAST-TRAIN-FROM-GUN-HILL"
+      ]
+    },
+    {
+      "id": "F240-20261006-091-L1",
+      "originalId": "F240-20261006-091-L1",
+      "knowledgeId": "K-F240-20261006-091-L1",
+      "filmKey": "Låt den rätte komma in|2008",
+      "filmTitle": "So finster die Nacht",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Freundschaft beginnt bei einem bedrohten Außenseiter.",
+      "question": "Welche Erfahrung prägt Oskars (Kåre Hedebrant) Schulalltag in „So finster die Nacht“?",
+      "answers": [
+        {
+          "id": "F240-20261006-091-L1:a",
+          "text": "Er wird von Mitschülern schikaniert.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-L1:b",
+          "text": "Er scheitert regelmäßig an den Leistungsanforderungen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-L1:c",
+          "text": "Er gerät als neuer Klassensprecher unter Druck.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-L1:d",
+          "text": "Er streitet mit Freunden um die Leitung einer Schülergruppe.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Oskar (Kåre Hedebrant) wird schikaniert.",
+      "context": "Eli (Lina Leandersson) ermutigt Oskar (Kåre Hedebrant), sich zu wehren. Bei einem Ausflug schlägt er den Anführer seiner Peiniger mit einer Stange am Kopf.",
+      "anchor": "Die Freundschaft beginnt bei einem bedrohten Außenseiter.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-091-L2",
+      "originalId": "F240-20261006-091-L2",
+      "knowledgeId": "K-F240-20261006-091-L2",
+      "filmKey": "Låt den rätte komma in|2008",
+      "filmTitle": "So finster die Nacht",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Kindliche Nähe und blutiger Lebensbedarf bleiben gleichzeitig bestehen.",
+      "question": "Was braucht Eli (Lina Leandersson) in „So finster die Nacht“ zum Überleben?",
+      "answers": [
+        {
+          "id": "F240-20261006-091-L2:a",
+          "text": "Tierblut als vollständigen Ersatz",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-L2:b",
+          "text": "Menschliches Blut",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-L2:c",
+          "text": "Das Blut bereits verstorbener Tiere",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-L2:d",
+          "text": "Gewöhnliche Nahrung ergänzt um Eisenpräparate",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eli braucht menschliches Blut.",
+      "context": "Als Håkans (Per Ragnar) erster Versuch der Blutbeschaffung scheitert, greift Eli (Lina Leandersson) selbst Jocke (Mikael Rahm) an. Håkan versteckt dessen Leiche im See.",
+      "anchor": "Kindliche Nähe und blutiger Lebensbedarf bleiben gleichzeitig bestehen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-091-M1",
+      "originalId": "F240-20261006-091-M1",
+      "knowledgeId": "K-F240-20261006-091-M1",
+      "filmKey": "Låt den rätte komma in|2008",
+      "filmTitle": "So finster die Nacht",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Code schafft Nähe durch eine trennende Wand.",
+      "question": "Welche private Verständigungsform nutzen Oskar (Kåre Hedebrant) und Eli (Lina Leandersson) in „So finster die Nacht“?",
+      "answers": [
+        {
+          "id": "F240-20261006-091-M1:a",
+          "text": "Zettel in einem gemeinsamen Briefkasten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-M1:b",
+          "text": "Lichtzeichen zwischen ihren Fenstern",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-M1:c",
+          "text": "Klopfzeichen nach einem Code",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-M1:d",
+          "text": "Zeichnungen an einem verabredeten Treffpunkt",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die beiden tauschen codierte Klopfzeichen aus.",
+      "context": "Oskar (Kåre Hedebrant) will die Verbindung zu Eli (Lina Leandersson) durch einen Blutbund bekräftigen und schneidet sich in die Hand. Eli leckt das Blut auf und läuft davon. Was für Oskar ein Freundschaftsritual ist, weckt bei Eli den Hunger.",
+      "anchor": "Der Code schafft Nähe durch eine trennende Wand.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-091-M2",
+      "originalId": "F240-20261006-091-M2",
+      "knowledgeId": "K-F240-20261006-091-M2",
+      "filmKey": "Låt den rätte komma in|2008",
+      "filmTitle": "So finster die Nacht",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Das unkenntliche Gesicht soll Eli nach dem Fehlschlag schützen.",
+      "question": "Warum verätzt Håkan (Per Ragnar) in „So finster die Nacht“ sein eigenes Gesicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-091-M2:a",
+          "text": "Er will seinen Tod für einen Unfall ausgeben.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-M2:b",
+          "text": "Er will sich für eine frühere Tat bestrafen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-M2:c",
+          "text": "Er will die Wirkung eines Vampirbisses aufhalten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-M2:d",
+          "text": "Er will nach dem gescheiterten Blutbeschaffen nicht erkannt werden.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Håkan (Per Ragnar) verhindert mit Säure seine Identifizierung.",
+      "context": "Im Krankenhaus bietet Håkan (Per Ragnar) Eli (Lina Leandersson) seinen Hals an. Nachdem Eli sein Blut getrunken hat, stürzt Håkan aus dem Fenster.",
+      "anchor": "Das unkenntliche Gesicht soll Eli nach dem Fehlschlag schützen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-091-S1",
+      "originalId": "F240-20261006-091-S1",
+      "knowledgeId": "K-F240-20261006-091-S1",
+      "filmKey": "Låt den rätte komma in|2008",
+      "filmTitle": "So finster die Nacht",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Oskars Zustimmung beendet den selbstgefährdenden Eintritt.",
+      "question": "Was geschieht mit Eli (Lina Leandersson), als Eli in „So finster die Nacht“ ohne Einladung Oskars (Kåre Hedebrant) Wohnung betritt?",
+      "answers": [
+        {
+          "id": "F240-20261006-091-S1:a",
+          "text": "Eli beginnt stark zu bluten.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-S1:b",
+          "text": "Eli kann die Schwelle körperlich überhaupt nicht überschreiten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-S1:c",
+          "text": "Eli verliert nach dem Eintritt die Vampirkräfte.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-S1:d",
+          "text": "Eli wird sofort wieder aus dem Zimmer gedrängt.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eli blutet nach dem unerlaubten Eintritt.",
+      "context": "Eli (Lina Leandersson; schwedische Stimme: Elif Ceylan) blutet nach dem unerlaubten Eintritt. Oskar (Kåre Hedebrant) gibt daraufhin seine Zustimmung; die Szene macht eine Vampirregel zum gefährlichen Test innerhalb ihrer Beziehung.",
+      "anchor": "Oskars Zustimmung beendet den selbstgefährdenden Eintritt.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-091-S2",
+      "originalId": "F240-20261006-091-S2",
+      "knowledgeId": "K-F240-20261006-091-S2",
+      "filmKey": "Låt den rätte komma in|2008",
+      "filmTitle": "So finster die Nacht",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die gemeinsame Reise setzt die private Codesprache fort.",
+      "question": "Wie reist Oskar (Kåre Hedebrant) am Ende von „So finster die Nacht“ mit Eli weiter?",
+      "answers": [
+        {
+          "id": "F240-20261006-091-S2:a",
+          "text": "Er fährt mit Eli in einem Wohnwagen fort.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-S2:b",
+          "text": "Er fährt im Zug und hat Elis Kiste bei sich.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-S2:c",
+          "text": "Er bringt Eli auf einem Boot in Sicherheit.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-S2:d",
+          "text": "Er fährt mit dem Bus und Eli folgt später.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Oskar (Kåre Hedebrant) fährt mit Elis Kiste im Zug.",
+      "context": "Oskar (Kåre Hedebrant) fährt mit der Kiste von Eli (Lina Leandersson; schwedische Stimme: Elif Ceylan) im Zug. Die Klopfzeichen führen ihre Verbindung fort; das Bild zeigt zugleich, dass Nähe auch die praktische Begleitung des Vampirs einschließt.",
+      "anchor": "Die gemeinsame Reise setzt die private Codesprache fort.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-091-Y",
+      "originalId": "F240-20261006-091-Y",
+      "knowledgeId": "K-F240-20261006-091-Y",
+      "filmKey": "Låt den rätte komma in|2008",
+      "filmTitle": "So finster die Nacht",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Lindqvists Roman von 2004 wurde vier Jahre später, 2008, erstmals verfilmt.",
+      "question": "In welchem Jahr wurde „So finster die Nacht“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-091-Y:a",
+          "text": "2006",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-Y:b",
+          "text": "2007",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-Y:c",
+          "text": "2008",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-Y:d",
+          "text": "2009",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Film wurde 2008 erstmals veröffentlicht.",
+      "context": "2008 erschien die Adaption von Lindqvists Roman aus dem Jahr 2004, vier Jahre nach der Vorlage. Die amerikanische Neuverfilmung Let Me In folgte 2010, zwei Jahre nach dem schwedischen Original.",
+      "anchor": "Lindqvists Roman von 2004 wurde vier Jahre später, 2008, erstmals verfilmt.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-091-D",
+      "originalId": "F240-20261006-091-D",
+      "knowledgeId": "K-F240-20261006-091-D",
+      "filmKey": "Låt den rätte komma in|2008",
+      "filmTitle": "So finster die Nacht",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Alfredson konzentrierte die Adaption auf die Beziehung der beiden Außenseiter.",
+      "question": "Wer führte bei „So finster die Nacht“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-091-D:a",
+          "text": "Matt Reeves",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-D:b",
+          "text": "Kiyoshi Kurosawa",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-D:c",
+          "text": "Guillermo del Toro",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-091-D:d",
+          "text": "Tomas Alfredson",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Regie: Tomas Alfredson.",
+      "context": "Alfredson konzentrierte die Adaption auf die Beziehung der beiden Außenseiter. Viele Erklärungen des Romans wurden reduziert; die ruhige Kamera und das winterliche Umfeld geben ihrer Annäherung mehr Raum als einer bloßen Folge von Vampirangriffen.",
+      "anchor": "Alfredson konzentrierte die Adaption auf die Beziehung der beiden Außenseiter.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)"
+      ]
+    },
+    {
+      "id": "E20261007-F-040-L1",
+      "originalId": "E20261007-F-040-L1",
+      "knowledgeId": "K-E20261007-F-040-L1",
+      "filmKey": "Law Abiding Citizen|2009",
+      "filmTitle": "Gesetz der Rache",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Den familiären Verlust als Ausgangspunkt von Clydes Rache erkennen",
+      "question": "Welcher Verlust bringt Clyde Shelton (Gerard Butler) in „Gesetz der Rache“ in einen Konflikt mit der Justiz?",
+      "answers": [
+        {
+          "id": "E20261007-F-040-L1:a",
+          "text": "Seine Frau und seine Tochter werden bei einem Einbruch getötet.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-L1:b",
+          "text": "Sein Sohn stirbt bei einer polizeilichen Verfolgungsjagd.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-L1:c",
+          "text": "Sein Bruder wird von einer Straßengang erschossen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-L1:d",
+          "text": "Sein Vater kommt bei einem Gefängnisaufstand ums Leben.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Mord an seiner Familie ist der Ausgangspunkt.",
+      "context": "Clyde Shelton (Gerard Butler) überlebt einen Einbruch, bei dem seine Frau und Tochter getötet werden. Der spätere Umgang der Justiz mit den Tätern verstärkt seinen Verlust zu einem eigenen Feldzug. Die Geschichte verbindet damit zwei Ereignisse, die auseinanderzuhalten sind: Die Tat begründet die Trauer, die anschließende juristische Entscheidung richtet seinen Zorn auch gegen das System.",
+      "anchor": "Der Mord zerstört die Familie; das Verfahren erweitert Clydes Zorn.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Law_Abiding_Citizen"
+      ]
+    },
+    {
+      "id": "E20261007-F-040-L2",
+      "originalId": "E20261007-F-040-L2",
+      "knowledgeId": "K-E20261007-F-040-L2",
+      "filmKey": "Law Abiding Citizen|2009",
+      "filmTitle": "Gesetz der Rache",
+      "difficulty": "leicht",
+      "questionType": "Figuren",
+      "learningObjective": "Nicks Beruf und Foxx’ Sicht auf dessen Entscheidung einordnen",
+      "question": "Welche Aufgabe hat Nick Rice (Jamie Foxx) im ursprünglichen Fall von Clyde Shelton (Gerard Butler) in „Gesetz der Rache“?",
+      "answers": [
+        {
+          "id": "E20261007-F-040-L2:a",
+          "text": "Er ist Clydes privater Strafverteidiger.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-L2:b",
+          "text": "Er ist der zuständige Staatsanwalt.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-L2:c",
+          "text": "Er ist der leitende Ermittler der Mordkommission.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-L2:d",
+          "text": "Er ist der verantwortliche Richter im Strafprozess.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Nick Rice ist der Staatsanwalt des ursprünglichen Falls.",
+      "context": "Jamie Foxx verteidigte Nicks Entscheidung im Interview ausdrücklich aus Sicht seiner Figur. Das Justizsystem erscheine einem Beobachter hinnehmbar; als Betroffener könne man dasselbe Ergebnis unerträglich finden. So beschrieb er den Gegensatz zwischen Staatsanwalt Nick Rice und dem Hinterbliebenen Clyde Shelton (Gerard Butler), ohne deren Perspektiven gleichzusetzen.",
+      "anchor": "Foxx spielt den Staatsanwalt, dessen Verfahrensentscheidung den Betroffenen nicht versöhnt.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://www.blackfilm.com/20091015/features/jamiefoxx.shtml",
+        "https://en.wikipedia.org/wiki/Law_Abiding_Citizen"
+      ]
+    },
+    {
+      "id": "E20261007-F-040-M1",
+      "originalId": "E20261007-F-040-M1",
+      "knowledgeId": "K-E20261007-F-040-M1",
+      "filmKey": "Law Abiding Citizen|2009",
+      "filmTitle": "Gesetz der Rache",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Darbys Aussage gegen Ames und die ungleiche Bestrafung verstehen",
+      "question": "Was erhält Clarence Darby (Christian Stolte) durch die Absprache mit Nick Rice (Jamie Foxx) in „Gesetz der Rache“?",
+      "answers": [
+        {
+          "id": "E20261007-F-040-M1:a",
+          "text": "Straffreiheit im Austausch gegen die Namen weiterer Täter",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-M1:b",
+          "text": "Eine lebenslange Haftstrafe ohne Möglichkeit der Entlassung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-M1:c",
+          "text": "Eine geringe Haftstrafe gegen seine Aussage gegen den Mittäter",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-M1:d",
+          "text": "Eine verkürzte Haftstrafe gegen die Rückgabe der Beute",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Darby tauscht eine belastende Aussage gegen eine milde Strafe.",
+      "context": "Clarence Darby (Christian Stolte) erhält für seine Aussage gegen Rupert Ames (Josh Stewart) eine wesentlich mildere Strafe. Clyde Shelton (Gerard Butler) sieht ausgerechnet den unmittelbar mörderischen Täter vom Handel profitieren. Die Absprache wird zum zentralen Bruch zwischen ihm und Nick Rice (Jamie Foxx). Der Film stellt damit erreichbare Verurteilung und empfundene Gerechtigkeit als unterschiedliche Maßstäbe eines Falls gegenüber.",
+      "anchor": "Der juristische Handel trifft Clydes Vorstellung von gerechter Verantwortung.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Law_Abiding_Citizen"
+      ]
+    },
+    {
+      "id": "E20261007-F-040-M2",
+      "originalId": "E20261007-F-040-M2",
+      "knowledgeId": "K-E20261007-F-040-M2",
+      "filmKey": "Law Abiding Citizen|2009",
+      "filmTitle": "Gesetz der Rache",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Die absichtlich herbeigeführte Einzelhaft mit dem Tunnelzugang verbinden",
+      "question": "Wie kann Clyde Shelton (Gerard Butler) in „Gesetz der Rache“ trotz seiner scheinbar sicheren Einzelhaft weitere Aktionen vorbereiten?",
+      "answers": [
+        {
+          "id": "E20261007-F-040-M2:a",
+          "text": "Ein korrupter Wärter bringt ihn vor jedem Anschlag hinaus.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-M2:b",
+          "text": "Er hat mehrere Wachleute als ausführende Helfer angeworben.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-M2:c",
+          "text": "Er benutzt regelmäßige Krankenhaustermine als unbewachten Ausgang.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-M2:d",
+          "text": "Er hat Zugang zu einem vorher angelegten Tunnelsystem.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ein vorbereitetes Tunnelsystem macht die Einzelhaft zur Tarnung.",
+      "context": "Clyde Shelton (Gerard Butler) tötet seinen Zellengenossen und wird in Einzelhaft verlegt – genau dorthin wollte er gelangen. Nick Rice (Jamie Foxx) entdeckt später unter den Zellen einen Zugang mit Waffen, Verkleidungen und Überwachungstechnik. Das Tunnelnetz führt zu einem Gebäude, das Clyde gehört; die Isolation ermöglicht ihm unbemerkte Ausgänge.",
+      "anchor": "Der Mord am Zellengenossen bringt Clyde zu seinem vorbereiteten Tunnelzugang.",
+      "spoilerLevel": "Auflösung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Law_Abiding_Citizen"
+      ]
+    },
+    {
+      "id": "E20261007-F-040-S1",
+      "originalId": "E20261007-F-040-S1",
+      "knowledgeId": "K-E20261007-F-040-S1",
+      "filmKey": "Law Abiding Citizen|2009",
+      "filmTitle": "Gesetz der Rache",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Clydes Anschlagswissen seiner früheren Geheimdienstarbeit zuordnen",
+      "question": "Welche frühere Tätigkeit Clydes (Gerard Butler) erklärt in „Gesetz der Rache“ seine präzisen und ungewöhnlichen Anschlagsmethoden?",
+      "answers": [
+        {
+          "id": "E20261007-F-040-S1:a",
+          "text": "Er entwickelte für die CIA unkonventionelle Tötungsverfahren.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-S1:b",
+          "text": "Er entwickelte Sprengtechnik für zivile Großbaustellen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-S1:c",
+          "text": "Er arbeitete als militärischer Bombenentschärfer.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-S1:d",
+          "text": "Er leitete ein privates Sicherheitslabor für Fahrzeuge.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Clyde besaß schon zuvor Fachwissen für verdeckte Tötungen.",
+      "context": "Nick Rice (Jamie Foxx) und Jonas Cantrell (Bruce McGill) sprechen mit einem CIA-Kontakt. Dieser erklärt, dass Clyde Shelton (Gerard Butler) ungewöhnliche Tötungsverfahren entwickelte. Der Film gibt den späteren Anschlägen so eine berufliche Vorgeschichte. Seine Fähigkeiten entstehen nicht erst plötzlich aus der Trauer; ein schon vorhandenes Wissen wird nun für den persönlichen Feldzug eingesetzt.",
+      "anchor": "Clydes Rache verwendet Fähigkeiten, die vor seinem Verlust entstanden waren.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Law_Abiding_Citizen"
+      ]
+    },
+    {
+      "id": "E20261007-F-040-S2",
+      "originalId": "E20261007-F-040-S2",
+      "knowledgeId": "K-E20261007-F-040-S2",
+      "filmKey": "Law Abiding Citizen|2009",
+      "filmTitle": "Gesetz der Rache",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Nicks Umkehrung des letzten Bombenplans nachvollziehen",
+      "question": "Wie beendet Nick Rice (Jamie Foxx) den letzten Bombenplan Clydes (Gerard Butler) in „Gesetz der Rache“?",
+      "answers": [
+        {
+          "id": "E20261007-F-040-S2:a",
+          "text": "Er ersetzt den Zünder durch einen funktionslosen Nachbau.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-S2:b",
+          "text": "Er verlegt den Sprengsatz aus dem Rathaus unter Clydes Zellenbett.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-S2:c",
+          "text": "Er unterbricht die Mobilfunkverbindung zum versteckten Sprengsatz.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-S2:d",
+          "text": "Er sprengt das leere Rathaus vor dem geplanten Treffen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Clyde zündet die in seine eigene Zelle verlegte Bombe.",
+      "context": "Nick Rice (Jamie Foxx) entdeckt den für eine Rathausbesprechung vorgesehenen Sprengsatz und bringt ihn in Clydes (Gerard Butler) Zelle. Clyde glaubt weiterhin, die ursprüngliche Zielposition zu kontrollieren, und löst die Bombe aus. Der Schluss macht die letzte Falle zur Gegenfalle. Nick beendet den Feldzug durch ein eigenes gewaltsames Handeln, dessen moralische Einordnung der Film dem Publikum nicht einfach abnimmt.",
+      "anchor": "Der letzte Sprengsatz trifft durch die geänderte Position seinen eigenen Planer.",
+      "spoilerLevel": "Auflösung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Law_Abiding_Citizen"
+      ]
+    },
+    {
+      "id": "E20261007-F-040-Y",
+      "originalId": "E20261007-F-040-Y",
+      "knowledgeId": "K-E20261007-F-040-Y",
+      "filmKey": "Law Abiding Citizen|2009",
+      "filmTitle": "Gesetz der Rache",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Foxx’ zwei unterschiedliche Filmrollen im selben Kinojahr verbinden",
+      "question": "In welchem Jahr erschien „Gesetz der Rache“ mit Gerard Butler und Jamie Foxx erstmals?",
+      "answers": [
+        {
+          "id": "E20261007-F-040-Y:a",
+          "text": "2007",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-Y:b",
+          "text": "2010",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-Y:c",
+          "text": "2009",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-Y:d",
+          "text": "2011",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Film erschien 2009.",
+      "context": "2009 spielte Jamie Foxx in zwei sehr unterschiedlichen Filmen: In „Der Solist“ verkörpert er einen obdachlosen Musiker mit Schizophrenie, in „Gesetz der Rache“ den ehrgeizigen Staatsanwalt Nick Rice. Blackfilm stellte diesen Rollenwechsel bereits im Interview zum Kinostart heraus.",
+      "anchor": "2009: Foxx als Musiker in „Der Solist“ und als Staatsanwalt in „Gesetz der Rache“.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.blackfilm.com/20091015/features/jamiefoxx.shtml",
+        "https://en.wikipedia.org/wiki/Law_Abiding_Citizen"
+      ]
+    },
+    {
+      "id": "E20261007-F-040-D",
+      "originalId": "E20261007-F-040-D",
+      "knowledgeId": "K-E20261007-F-040-D",
+      "filmKey": "Law Abiding Citizen|2009",
+      "filmTitle": "Gesetz der Rache",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Grays späten Einstieg und seine Probenarbeit mit den Hauptdarstellern einordnen",
+      "question": "Wer inszenierte „Gesetz der Rache“ mit Gerard Butler und Jamie Foxx?",
+      "answers": [
+        {
+          "id": "E20261007-F-040-D:a",
+          "text": "Kurt Wimmer",
+          "correct": false,
+          "feedback": "Kurt Wimmer schrieb das Drehbuch."
+        },
+        {
+          "id": "E20261007-F-040-D:b",
+          "text": "Gerard Butler",
+          "correct": false,
+          "feedback": "Gerard Butler spielt Clyde Shelton und gehört zu den Produzenten."
+        },
+        {
+          "id": "E20261007-F-040-D:c",
+          "text": "Antoine Fuqua",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-040-D:d",
+          "text": "F. Gary Gray",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "F. Gary Gray führte Regie.",
+      "context": "Jamie Foxx schlug F. Gary Gray den Film vor. Für die Vorbereitung blieben dem spät hinzugekommenen Regisseur nur wenige Wochen. Für das Zusammenspiel mit Gerard Butler setzte er auf Proben: Gemeinsam klärten sie, was jede Figur in den einzelnen Momenten erreichen will.",
+      "anchor": "Foxx holt Gray hinzu; die Proben klären die Ziele der beiden Gegenspieler.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.comingsoon.net/movies/features/59689-exclusive-f-gary-gray-on-law-abiding-citizen",
+        "https://en.wikipedia.org/wiki/Law_Abiding_Citizen"
+      ]
+    },
+    {
+      "id": "CLA-L-013",
+      "originalId": "CLA-L-013",
+      "knowledgeId": "K-CLA-07-01",
+      "filmKey": "Lawrence of Arabia|1962",
+      "filmTitle": "Lawrence von Arabien",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Den Darsteller des britischen Offiziers Lawrence erkennen.",
+      "question": "„Lawrence von Arabien“ (1962): Wer spielt den britischen Offizier, der sich der arabischen Revolte anschließt?",
+      "answers": [
+        {
+          "id": "CLA-L-013:a",
+          "text": "Peter O’Toole",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-L-013:b",
+          "text": "Alec Guinness",
+          "correct": false,
+          "feedback": "Alec Guinness spielt Feisal."
+        },
+        {
+          "id": "CLA-L-013:c",
+          "text": "Richard Harris",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-L-013:d",
+          "text": "Omar Sharif",
+          "correct": false,
+          "feedback": "Omar Sharif spielt Ali."
+        }
+      ],
+      "explanation": "Peter O’Toole spielt Lawrence.",
+      "context": "Peter O’Toole bereitete sich in Jordanien einen Monat lang auf die Rolle vor: Er lernte Wüstenkriegführung und Kamelreiten. Ursprünglich war Marlon Brando vorgesehen; nach dessen Absage wurde auch Albert Finney getestet, bevor O’Toole die Hauptrolle erhielt.",
+      "anchor": "O’Toole trainierte für Lawrence in der Wüste.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://catalog.afi.com/Catalog/MovieDetails/23993",
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)"
+      ]
+    },
+    {
+      "id": "CLA-L-014",
+      "originalId": "CLA-L-014",
+      "knowledgeId": "K-CLA-07-02",
+      "filmKey": "Lawrence of Arabia|1962",
+      "filmTitle": "Lawrence von Arabien",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Akaba als Ziel des Angriffs über die Wüste erkennen.",
+      "question": "„Lawrence von Arabien“ (1962): Welche Hafenstadt will Lawrence überraschend von der Landseite angreifen?",
+      "answers": [
+        {
+          "id": "CLA-L-014:a",
+          "text": "Beirut",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-L-014:b",
+          "text": "Akaba",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-L-014:c",
+          "text": "Port Said",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-L-014:d",
+          "text": "Alexandria",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Lawrence (Peter O’Toole) plant den Angriff auf Akaba über die Wüste.",
+      "context": "Lawrence (Peter O’Toole) gewinnt Auda Abu Tayi (Anthony Quinn) mit der Aussicht auf türkisches Gold. Doch nach Akabas Einnahme ist kein Gold vorhanden. Lawrence muss nach Kairo, um Bezahlung zu beschaffen.",
+      "anchor": "Akaba wird von der unerwarteten Landseite bedroht.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)"
+      ]
+    },
+    {
+      "id": "CLA-M-013",
+      "originalId": "CLA-M-013",
+      "knowledgeId": "K-CLA-07-03",
+      "filmKey": "Lawrence of Arabia|1962",
+      "filmTitle": "Lawrence von Arabien",
+      "difficulty": "mittel",
+      "questionType": "Figuren",
+      "learningObjective": "Ali als Lawrences Begleiter und Gegenüber erkennen.",
+      "question": "„Lawrence von Arabien“ (1962): Welcher von Omar Sharif gespielte Anführer wird zu Lawrences wichtigem Begleiter?",
+      "answers": [
+        {
+          "id": "CLA-M-013:a",
+          "text": "Sherif Ali",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-M-013:b",
+          "text": "Auda Abu Tayi",
+          "correct": false,
+          "feedback": "Auda wird von Anthony Quinn gespielt."
+        },
+        {
+          "id": "CLA-M-013:c",
+          "text": "Prinz Feisal",
+          "correct": false,
+          "feedback": "Feisal wird von Alec Guinness gespielt."
+        },
+        {
+          "id": "CLA-M-013:d",
+          "text": "General Allenby",
+          "correct": false,
+          "feedback": "Allenby wird von Jack Hawkins gespielt."
+        }
+      ],
+      "explanation": "Omar Sharif spielt Sherif Ali, einen wichtigen Begleiter von Lawrence (Peter O’Toole).",
+      "context": "Vor Damaskus drängt Ali (Omar Sharif) zum Weiterziehen, als die Männer auf eine türkische Kolonne treffen, die zuvor ein Dorf massakriert hat. Lawrence (Peter O’Toole) beteiligt sich dagegen am Vergeltungsmassaker. Ali widerspricht damit dessen wachsender Gewaltbereitschaft.",
+      "anchor": "Ali widerspricht Lawrences Vergeltungsdrang.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)"
+      ]
+    },
+    {
+      "id": "CLA-M-014",
+      "originalId": "CLA-M-014",
+      "knowledgeId": "K-CLA-07-04",
+      "filmKey": "Lawrence of Arabia|1962",
+      "filmTitle": "Lawrence von Arabien",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Lawrences Rückkehr für Gasim einordnen.",
+      "question": "„Lawrence von Arabien“ (1962): Wodurch gewinnt Lawrence während des Wüstenmarschs besonderes Ansehen?",
+      "answers": [
+        {
+          "id": "CLA-M-014:a",
+          "text": "Er überlässt den erschöpften Männern seinen Wasservorrat.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-M-014:b",
+          "text": "Er kehrt um und rettet den zurückgebliebenen Gasim.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-M-014:c",
+          "text": "Er führt den Trupp durch einen aufziehenden Sandsturm.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-M-014:d",
+          "text": "Er entdeckt eine Wasserstelle abseits des bekannten Weges.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Lawrence (Peter O’Toole) holt Gasim (I. S. Johar) aus der Wüste zurück, obwohl die anderen ihn bereits verloren glauben.",
+      "context": "Ali (Omar Sharif) hält Gasims (I. S. Johar) Schicksal für unabänderlich. Nach der erfolgreichen Rettung schenkt er Lawrence (Peter O’Toole) Beduinenkleidung. Dieser wirft seinen Uniformrock weg: Die Anerkennung durch die Männer verändert auch sein äußeres Auftreten.",
+      "anchor": "Lawrence (Peter O’Toole) kehrt für Gasim (I. S. Johar) zurück.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)"
+      ]
+    },
+    {
+      "id": "CLA-S-013",
+      "originalId": "CLA-S-013",
+      "knowledgeId": "K-CLA-07-05",
+      "filmKey": "Lawrence of Arabia|1962",
+      "filmTitle": "Lawrence von Arabien",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Gasims Rettung mit seiner späteren Hinrichtung verbinden.",
+      "question": "„Lawrence von Arabien“ (1962): Welche bittere Wendung betrifft den zuvor geretteten Gasim (I. S. Johar) später?",
+      "answers": [
+        {
+          "id": "CLA-S-013:a",
+          "text": "Lawrence muss ihn zur Verhinderung einer Stammesfehde erschießen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-S-013:b",
+          "text": "Lawrence übergibt ihn nach einem Mord der britischen Militärjustiz.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-S-013:c",
+          "text": "Lawrence versteckt ihn nach einem Mord bei einem anderen Stamm.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-S-013:d",
+          "text": "Lawrence schließt ihn nach einem Mord aus dem gemeinsamen Trupp aus.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Lawrence (Peter O’Toole) tötet Gasim (I. S. Johar) nach einem Mord, um eine Fehde zwischen den verbündeten Gruppen zu verhindern.",
+      "context": "Die Rettung von Gasim (I. S. Johar) hatte Lawrence (Peter O’Toole) als Beweis eigener Freiheit erlebt. Seine spätere Hinrichtung widerspricht diesem Gefühl auf verstörende Weise. Derselbe Mann entscheidet nun über das Ende des Lebens, das er gegen alle Erwartungen bewahrt hatte. Führung erscheint dadurch nicht nur als Überwindung von Grenzen, sondern auch als Verstrickung in fremde Konflikte und Gewalt.",
+      "anchor": "Gerettet und später von Lawrence (Peter O’Toole) getötet: Gasim (I. S. Johar).",
+      "spoilerLevel": "Auflösung",
+      "sources": [
+        "https://catalog.afi.com/Catalog/MovieDetails/23993",
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)"
+      ]
+    },
+    {
+      "id": "CLA-S-014",
+      "originalId": "CLA-S-014",
+      "knowledgeId": "K-CLA-07-06",
+      "filmKey": "Lawrence of Arabia|1962",
+      "filmTitle": "Lawrence von Arabien",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Den Zusammenbruch des arabischen Rats in Damaskus erklären.",
+      "question": "„Lawrence von Arabien“ (1962): Welches Problem untergräbt nach der Einnahme von Damaskus die gemeinsame arabische Verwaltung?",
+      "answers": [
+        {
+          "id": "CLA-S-014:a",
+          "text": "Ein gemeinsamer Rückzugsbefehl räumt die Stadt vor britischer Ankunft.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-S-014:b",
+          "text": "Streit zwischen den Gruppen und der Zusammenbruch städtischer Versorgung",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-S-014:c",
+          "text": "Die sofortige Auflösung des Rats zugunsten einer osmanischen Verwaltung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "CLA-S-014:d",
+          "text": "Ein britisches Ultimatum erzwingt die Räumung sämtlicher öffentlicher Gebäude",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In Damaskus scheitert die Zusammenarbeit unter anderem an Streit und zusammenbrechenden Diensten.",
+      "context": "Der arabische Rat kann Strom- und Wasserversorgung nicht aufrechterhalten; Krankenhäusern fehlt Personal. Während die verbündeten Gruppen auseinandergehen, verhandelt Feisal (Alec Guinness) mit den Briten. Lawrence (Peter O’Toole) wird zum Oberst befördert und nach Großbritannien zurückgeschickt.",
+      "anchor": "Damaskus verlangt Verwaltung statt nur Eroberung.",
+      "spoilerLevel": "Auflösung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)"
+      ]
+    },
+    {
+      "id": "FF-057-YEAR",
+      "originalId": "FF-057-YEAR",
+      "knowledgeId": "K-FF-057-YEAR",
+      "filmKey": "Lawrence of Arabia|1962",
+      "filmTitle": "Lawrence von Arabien",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "question": "„Lawrence von Arabien“: In welchem Jahr erschien der Film von David Lean erstmals?",
+      "answers": [
+        {
+          "id": "FF-057-YEAR:y1962",
+          "text": "1962",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-057-YEAR:y1952",
+          "text": "1961",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-057-YEAR:y1954",
+          "text": "1963",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-057-YEAR:y1956",
+          "text": "1964",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Lawrence von Arabien“ wurde erstmals 1962 veröffentlicht.",
+      "context": "Die Dreharbeiten begannen 1961 und reichten bis 1962. Akaba entstand dafür auch fern des historischen Schauplatzes: In Carboneras an der spanischen Küste wurde eine Nachbildung der Hafenstadt samt türkischem Militärlager aufgebaut.",
+      "anchor": "1962 im Kino: Akaba wurde auch in Spanien nachgebaut.",
+      "sources": [
+        "https://catalog.afi.com/Catalog/MovieDetails/23993"
+      ],
+      "learningObjective": "Die erste Veröffentlichung auf 1962 datieren.",
+      "spoilerLevel": "keine"
+    },
+    {
+      "id": "FF-057-DIRECTOR",
+      "originalId": "FF-057-DIRECTOR",
+      "knowledgeId": "K-FF-057-DIRECTOR",
+      "filmKey": "Lawrence of Arabia|1962",
+      "filmTitle": "Lawrence von Arabien",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "question": "Wer führte bei „Lawrence von Arabien“ (1962) Regie?",
+      "answers": [
+        {
+          "id": "FF-057-DIRECTOR:a",
+          "text": "David Lean",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-057-DIRECTOR:b",
+          "text": "Lewis Milestone",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-057-DIRECTOR:c",
+          "text": "William Wyler",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-057-DIRECTOR:d",
+          "text": "Fred Zinnemann",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "David Lean führte Regie.",
+      "context": "David Lean ließ Robert Bolt das frühere Drehbuch von Michael Wilson überarbeiten. Statt die arabische Revolte vor allem historisch und politisch auszubreiten, sollte die Persönlichkeit von T. E. Lawrence (Peter O’Toole) ins Zentrum rücken. Viele Szenen und Figuren aus Wilsons Fassung blieben erhalten, doch der Großteil des fertigen Dialogs stammte von Bolt. Der Film verbindet damit zwei unterschiedlich ausgerichtete Drehbuchphasen.",
+      "anchor": "Wilson entwarf die Revolte; Bolt konzentrierte sich auf Lawrence.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)",
+        "https://catalog.afi.com/Catalog/MovieDetails/23993"
+      ],
+      "learningObjective": "David Lean als Regisseur des Films zuordnen.",
+      "spoilerLevel": "keine"
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-030-L1",
+      "originalId": "G100-20261008-ABENTEUER-030-L1",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-030-L1",
+      "filmKey": "Le Comte de Monte-Cristo|1954",
+      "filmTitle": "Der Graf von Monte Christo",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Dantès verliert eine gerade beginnende Zukunft.",
+      "question": "Welche Stellung hat Edmond Dantès (Jean Marais) zu Beginn von „Der Graf von Monte Christo“?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-030-L1:a",
+          "text": "Er ist der königliche Staatsanwalt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-L1:b",
+          "text": "Er ist ein verurteilter Pirat.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-L1:c",
+          "text": "Er ist Kapitän eines Handelsschiffs.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-L1:d",
+          "text": "Er ist der Gouverneur von Elba.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Er ist Kapitän des Handelsschiffs Pharao.",
+      "context": "Dantès (Jean Marais) kehrt als neuer Kapitän nach Marseille zurück und möchte Mercédès (Lia Amanda) heiraten. Die Intrige zerstört deshalb mehrere Zukunftsaussichten zugleich. Sein späterer Reichtum beantwortet zunächst einen Verlust von Freiheit, Beruf und persönlichem Glück.",
+      "anchor": "Dantès verliert eine gerade beginnende Zukunft.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.br.de/br-fernsehen/programmkalender/sendung-4128666.html",
+        "https://2017.festival-lumiere.org/manifestations/le-comte-de-monte-cristo.html"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-030-L2",
+      "originalId": "G100-20261008-ABENTEUER-030-L2",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-030-L2",
+      "filmKey": "Le Comte de Monte-Cristo|1954",
+      "filmTitle": "Der Graf von Monte Christo",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Schatz finanziert Dantès’ neue Identität.",
+      "question": "Was ermöglicht Dantès (Jean Marais) in „Der Graf von Monte Christo“ nach seiner Flucht den Auftritt als mächtiger Graf?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-030-L2:a",
+          "text": "Eine Erbschaft von seinem Vater",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-L2:b",
+          "text": "Ein gewinnbringender Verkauf der Pharao",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-L2:c",
+          "text": "Eine regelmäßige Zahlung der französischen Krone",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-L2:d",
+          "text": "Ein verborgener Schatz",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der gefundene Schatz verschafft ihm großen Reichtum.",
+      "context": "Nach der Flucht findet Dantès (Jean Marais) den Schatz. Bevor er seine Gegner verfolgt, setzt er den Reichtum für einen Freund ein: Er rettet den Reeder Morel (André Brunot) vor der Zwangsversteigerung und schenkt ihm anonym ein Schiff namens „Pharao“. Erst danach beginnt die Vergeltung.",
+      "anchor": "Der Schatz ermöglicht Hilfe für Morel und Rache an den Verrätern.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Der_Graf_von_Monte_Christo_(1954)",
+        "https://2017.festival-lumiere.org/manifestations/le-comte-de-monte-cristo.html"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-030-M1",
+      "originalId": "G100-20261008-ABENTEUER-030-M1",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-030-M1",
+      "filmKey": "Le Comte de Monte-Cristo|1954",
+      "filmTitle": "Der Graf von Monte Christo",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Farias Hilfe reicht über seinen Tod hinaus.",
+      "question": "Welche Rolle spielt Abbé Faria (Gualtiero Tumiati) für Dantès (Jean Marais) in „Der Graf von Monte Christo“?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-030-M1:a",
+          "text": "Er wird zum Mitgefangenen und weist den Weg zum Schatz.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-M1:b",
+          "text": "Er organisiert als Geistlicher Dantès’ Begnadigung durch den König.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-M1:c",
+          "text": "Er bringt als Vermittler Lösegeld für Dantès’ Freilassung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-M1:d",
+          "text": "Er verschafft Dantès einen falschen Namen für die Flucht.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Faria hilft ihm in der Gefangenschaft und verrät das Schatzgeheimnis.",
+      "context": "Abbé Faria (Gualtiero Tumiati) hilft Dantès (Jean Marais), die Gefangenschaft zu überstehen, und verrät vor seinem Tod das Schatzgeheimnis. Dantès nutzt anschließend den Leichensack des Mitgefangenen zur Flucht. Farias Wissen eröffnet ihm danach die Möglichkeit, als reicher Graf zurückzukehren.",
+      "anchor": "Farias Hilfe reicht über seinen Tod hinaus.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Der_Graf_von_Monte_Christo_(1954)",
+        "https://2017.festival-lumiere.org/manifestations/le-comte-de-monte-cristo.html"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-030-M2",
+      "originalId": "G100-20261008-ABENTEUER-030-M2",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-030-M2",
+      "filmKey": "Le Comte de Monte-Cristo|1954",
+      "filmTitle": "Der Graf von Monte Christo",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Ein Zwischenstopp wird zur politischen Falle.",
+      "question": "Welchen politischen Vorwurf nutzen Dantès’ (Jean Marais) Gegner in „Der Graf von Monte Christo“ für seine Verhaftung?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-030-M2:a",
+          "text": "Er habe Waffen an englische Kriegsschiffe verkauft.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-M2:b",
+          "text": "Er sei ein Agent Napoleons.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-M2:c",
+          "text": "Er habe Steuergelder der französischen Krone unterschlagen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-M2:d",
+          "text": "Er habe die Mannschaft der Pharao zur Meuterei angestiftet.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Denunziation stellt ihn als bonapartistischen Agenten dar.",
+      "context": "Dantès (Jean Marais) hatte auf der Rückreise einen letzten Auftrag seines Vorgängers auf Elba erfüllt. Die Gegner verwandeln diesen Zwischenstopp in eine politische Anklage. Der Film zeigt so, wie private Neid- und Liebesmotive mithilfe staatlicher Verdächtigung wirksam werden.",
+      "anchor": "Ein Zwischenstopp wird zur politischen Falle.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.br.de/br-fernsehen/programmkalender/sendung-4128666.html",
+        "https://2017.festival-lumiere.org/manifestations/le-comte-de-monte-cristo.html"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-030-S1",
+      "originalId": "G100-20261008-ABENTEUER-030-S1",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-030-S1",
+      "filmKey": "Le Comte de Monte-Cristo|1954",
+      "filmTitle": "Der Graf von Monte Christo",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Rache holt das frühere Glück nicht zurück.",
+      "question": "Welche Grenze zeigt „Der Graf von Monte Christo“ trotz der erfolgreichen Rache Dantès’ (Jean Marais)?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-030-S1:a",
+          "text": "Er kann Villeforts frühere Machenschaften nicht offenlegen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-S1:b",
+          "text": "Er findet keinen Beweis für Fernands Verbrechen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-S1:c",
+          "text": "Er kann Mercédès nicht für sich zurückgewinnen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-S1:d",
+          "text": "Er muss sich wieder dauerhaft auf der Insel Monte Christo verstecken.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die frühere Liebe lässt sich nicht einfach wiederherstellen.",
+      "context": "Dantès (Jean Marais) kann den sozialen Aufstieg seiner Gegner zerstören. Mercédès (Lia Amanda) bleibt jedoch nicht als wiedergewonnene Zukunft bei ihm. Die Filmfassung trennt den Erfolg der Vergeltung damit von der Wiederherstellung des früheren Glücks: Gewonnene Macht macht die verlorenen Jahre nicht ungeschehen.",
+      "anchor": "Rache holt das frühere Glück nicht zurück.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://www.br.de/br-fernsehen/programmkalender/sendung-4128666.html",
+        "https://2017.festival-lumiere.org/manifestations/le-comte-de-monte-cristo.html"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-030-S2",
+      "originalId": "G100-20261008-ABENTEUER-030-S2",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-030-S2",
+      "filmKey": "Le Comte de Monte-Cristo|1954",
+      "filmTitle": "Der Graf von Monte Christo",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Vernay verfilmt den eigenen früheren Stoff neu.",
+      "question": "Welche Besonderheit hat Robert Vernays Fassung von „Der Graf von Monte Christo“ innerhalb seiner eigenen Arbeit?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-030-S2:a",
+          "text": "Er verfilmte den Stoff zum ersten Mal nach mehreren Bühnenerfolgen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-S2:b",
+          "text": "Er setzte seine frühere Fassung mit Jean Marais fort.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-S2:c",
+          "text": "Er montierte seine alte Fassung neu und ergänzte nur einen farbigen Schluss.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-S2:d",
+          "text": "Er verfilmte den Stoff nach einer früheren eigenen Schwarzweißfassung erneut.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Vernay kehrte zum bereits von ihm verfilmten Stoff als Farbfilm zurück.",
+      "context": "Vernay kehrte zu seinem früheren Schwarzweiß-Zweiteiler zurück. Für die neue Farbverfilmung schrieb er mit Georges Neveux das Drehbuch. Die Studioaufnahmen entstanden in Billancourt, die Außenaufnahmen in Antibes an der Côte d’Azur; gedreht wurde im Gevacolor-Verfahren.",
+      "anchor": "Vernay verfilmt den eigenen früheren Stoff neu.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Der_Graf_von_Monte_Christo_(1954)",
+        "https://2017.festival-lumiere.org/manifestations/le-comte-de-monte-cristo.html"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-030-Y",
+      "originalId": "G100-20261008-ABENTEUER-030-Y",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-030-Y",
+      "filmKey": "Le Comte de Monte-Cristo|1954",
+      "filmTitle": "Der Graf von Monte Christo",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "1943 Vernay mit Richard-Willm – 1954 mit Marais: elf Jahre Abstand.",
+      "question": "Wann erschien „Der Graf von Monte Christo“ mit Jean Marais erstmals im Kino?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-030-Y:a",
+          "text": "1954",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-Y:b",
+          "text": "1953",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-Y:c",
+          "text": "1955",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-Y:d",
+          "text": "1956",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die beiden Teile erschienen 1954.",
+      "context": "Robert Vernays frühere Monte-Christo-Verfilmung mit Pierre Richard-Willm kam 1943 ins Kino. Seine neue Fassung mit Jean Marais erschien 1954, elf Jahre später. Beide Bearbeitungen wurden als Zweiteiler angelegt.",
+      "anchor": "1943 Vernay mit Richard-Willm – 1954 mit Marais: elf Jahre Abstand.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://2017.festival-lumiere.org/manifestations/le-comte-de-monte-cristo.html",
+        "https://catalogue.bnf.fr/ark:/12148/cb16732311s"
+      ]
+    },
+    {
+      "id": "G100-20261008-ABENTEUER-030-D",
+      "originalId": "G100-20261008-ABENTEUER-030-D",
+      "knowledgeId": "K-G100-20261008-ABENTEUER-030-D",
+      "filmKey": "Le Comte de Monte-Cristo|1954",
+      "filmTitle": "Der Graf von Monte Christo",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Vernay führt Marais vom Kapitän zum Grafen.",
+      "question": "Wer inszenierte „Der Graf von Monte Christo“ mit Jean Marais als Edmond Dantès?",
+      "answers": [
+        {
+          "id": "G100-20261008-ABENTEUER-030-D:a",
+          "text": "André Hunebelle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-D:b",
+          "text": "Robert Vernay",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-D:c",
+          "text": "Jean Delannoy",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-ABENTEUER-030-D:d",
+          "text": "Christian-Jaque",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Robert Vernay führte Regie.",
+      "context": "Unter Vernays Regie führt Dantès’ (Jean Marais) Rückkehr über mehrere Schritte: Zunächst bringt er Caderousse (Daniel Ivernel) ins Gefängnis. In Paris deckt er die früheren Verbrechen Villeforts (Jacques Castelot) auf, der den Verstand verliert. Fernands (Roger Pigaut) Verbrechen spielt er der Presse zu; dessen Familie verlässt ihn.",
+      "anchor": "Vernay führt Marais vom Kapitän zum Grafen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://www.br.de/br-fernsehen/programmkalender/sendung-4128666.html",
+        "https://2017.festival-lumiere.org/manifestations/le-comte-de-monte-cristo.html"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-L-067",
+      "originalId": "KOM-202609-P02-L-067",
+      "knowledgeId": "K-KOM-202609-P02-L-067",
+      "filmKey": "Le Corniaud|1965",
+      "filmTitle": "Louis, das Schlitzohr",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Bourvil spielt Antoine Maréchal.",
+      "question": "„Louis, das Schlitzohr“ (1965): Wer spielt den ahnungslosen Urlauber Antoine Maréchal?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-L-067:a",
+          "text": "Pierre Richard",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-L-067:b",
+          "text": "Jean Lefebvre",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-L-067:c",
+          "text": "Bourvil",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-L-067:d",
+          "text": "Louis de Funès",
+          "correct": false,
+          "feedback": "Louis de Funès spielt Léopold Saroyan."
+        }
+      ],
+      "explanation": "Bourvil spielt Antoine Maréchal.",
+      "context": "Antoine Maréchal (Bourvil) begegnet dem überraschend großzügigen Angebot mit alltäglicher Freundlichkeit. Léopold Saroyan (Louis de Funès) verfolgt dagegen ständig einen verborgenen Zweck. Bourvils ruhigeres Auftreten ist für diese Paarung entscheidend: Sein scheinbar ungestörter Urlaub bildet die Oberfläche, unter der Saroyans nervöse kriminelle Planung immer wieder durch zufällige Zwischenfälle beschädigt wird.",
+      "anchor": "Maréchal = Bourvil.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Sucker",
+        "https://www.cnc.fr/cinema/actualites/gerard-oury-le-roi-du-rire-a-la-francaise_1001363"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-L-068",
+      "originalId": "KOM-202609-P02-L-068",
+      "knowledgeId": "K-KOM-202609-P02-L-068",
+      "filmKey": "Le Corniaud|1965",
+      "filmTitle": "Louis, das Schlitzohr",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Maréchal übernimmt einen Cadillac.",
+      "question": "„Louis, das Schlitzohr“ (1965): Welches Fahrzeug soll Maréchal (Bourvil) für Saroyan (Louis de Funès) durch Europa fahren?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-L-068:a",
+          "text": "Einen Citroën 2CV",
+          "correct": false,
+          "feedback": "Maréchals Citroën 2CV wird zu Reisebeginn zerstört."
+        },
+        {
+          "id": "KOM-202609-P02-L-068:b",
+          "text": "Einen Fiat 500",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-L-068:c",
+          "text": "Einen Rolls-Royce",
+          "correct": false,
+          "feedback": "Saroyan verursacht den Unfall mit seinem Rolls-Royce."
+        },
+        {
+          "id": "KOM-202609-P02-L-068:d",
+          "text": "Einen Cadillac",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Maréchal übernimmt einen Cadillac.",
+      "context": "Antoine Maréchal (Bourvil) erhält den Cadillac als ungewöhnliche Entschädigung nach einem Unfall. Das große amerikanische Cabriolet verspricht einen komfortablen Urlaub, dient Léopold Saroyan (Louis de Funès) aber als Schmuggelversteck. Die sichtbare Attraktivität des Wagens erklärt, warum Maréchal das Angebot annimmt. Die späteren Pannen haben deshalb für beide Männer vollkommen unterschiedliche Bedeutungen.",
+      "anchor": "Cadillac: Urlaubswagen und Schmuggelversteck.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Sucker",
+        "https://fr.wikipedia.org/wiki/Le_Corniaud"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-M-067",
+      "originalId": "KOM-202609-P02-M-067",
+      "knowledgeId": "K-KOM-202609-P02-M-067",
+      "filmKey": "Le Corniaud|1965",
+      "filmTitle": "Louis, das Schlitzohr",
+      "difficulty": "mittel",
+      "questionType": "Schauplatz",
+      "learningObjective": "Maréchal übernimmt den Wagen in Neapel.",
+      "question": "„Louis, das Schlitzohr“ (1965): In welcher italienischen Stadt beginnt Maréchals (Bourvil) Cadillac-Fahrt?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-M-067:a",
+          "text": "Turin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-067:b",
+          "text": "Mailand",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-067:c",
+          "text": "Neapel",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-067:d",
+          "text": "Venedig",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Maréchal übernimmt den Wagen in Neapel.",
+      "context": "Ein Unfall in Paris zerstört Maréchals (Bourvil) Citroën 2CV. Saroyan (Louis de Funès) bietet ihm als Entschädigung eine bezahlte Reise an. Maréchal soll einen Cadillac in Neapel abholen und nach Bordeaux bringen. Der Urlauber ahnt nicht, dass Saroyan und eine konkurrierende Bande den Wagen wegen seiner versteckten Ladung verfolgen.",
+      "anchor": "Von Neapel Richtung Bordeaux.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Sucker",
+        "https://fr.wikipedia.org/wiki/Le_Corniaud"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-M-068",
+      "originalId": "KOM-202609-P02-M-068",
+      "knowledgeId": "K-KOM-202609-P02-M-068",
+      "filmKey": "Le Corniaud|1965",
+      "filmTitle": "Louis, das Schlitzohr",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Diamant heißt Youkounkoun.",
+      "question": "„Louis, das Schlitzohr“ (1965): Wie heißt der besonders wertvolle geschmuggelte Diamant?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-M-068:a",
+          "text": "Pink Panther",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-068:b",
+          "text": "Koh-i-Noor",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-068:c",
+          "text": "Hope-Diamant",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-068:d",
+          "text": "Youkounkoun",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Diamant heißt Youkounkoun.",
+      "context": "Der Youkounkoun bleibt im Wagen, obwohl unterwegs andere Schmuggelware verloren geht. Erst ein weiterer Unfall in Bordeaux legt das Versteck im Hupenknopf am Lenkrad frei. Maréchal (Bourvil) findet den Stein und erfährt von Saroyan (Louis de Funès), dass ihm dafür eine hohe Belohnung zusteht.",
+      "anchor": "Der Youkounkoun bleibt bis zum Unfall im Hupenknopf verborgen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Le_Corniaud"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-S-067",
+      "originalId": "KOM-202609-P02-S-067",
+      "knowledgeId": "K-KOM-202609-P02-S-067",
+      "filmKey": "Le Corniaud|1965",
+      "filmTitle": "Louis, das Schlitzohr",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Maréchal entsorgt eine mit Diamanten gefüllte Batterie.",
+      "question": "„Louis, das Schlitzohr“ (1965): Welches Autoteil mit versteckten Diamanten wirft Maréchal (Bourvil) ins Meer?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-S-067:a",
+          "text": "Das Ersatzrad",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-067:b",
+          "text": "Die abgebrochene Stoßstange",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-067:c",
+          "text": "Die defekte Batterie",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-067:d",
+          "text": "Den alten Auspuff",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Maréchal entsorgt eine mit Diamanten gefüllte Batterie.",
+      "context": "Antoine Maréchal (Bourvil) beurteilt das beschädigte Autoteil allein nach seinem praktischen Nutzen. Für Léopold Saroyan (Louis de Funès) ist dieselbe Batterie ein wertvolles Versteck. Die Pointe entsteht vollständig aus ungleichem Wissen: Eine vernünftige Reparaturentscheidung wird für den heimlichen Besitzer der Schmuggelware zum Verlust, den er nicht offen erklären oder verhindern kann.",
+      "anchor": "Defekte Batterie, wertvoller Inhalt.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Sucker",
+        "https://fr.wikipedia.org/wiki/Le_Corniaud"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-S-068",
+      "originalId": "KOM-202609-P02-S-068",
+      "knowledgeId": "K-KOM-202609-P02-S-068",
+      "filmKey": "Le Corniaud|1965",
+      "filmTitle": "Louis, das Schlitzohr",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Maréchal führt die Verfolger zur Polizei.",
+      "question": "„Louis, das Schlitzohr“ (1965): Wohin lockt Maréchal (Bourvil) schließlich die Verfolger?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-S-068:a",
+          "text": "In ein leeres Theater",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-068:b",
+          "text": "Auf eine Autofähre",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-068:c",
+          "text": "In eine geschlossene Garage",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-S-068:d",
+          "text": "In eine Polizeidienststelle",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Maréchal führt die Verfolger zur Polizei.",
+      "context": "An der Grenze bei Menton wird auch Maréchals (Bourvil) Wagen durchsucht. Aus den Fragen der Zollbeamten versteht er, was Saroyan (Louis de Funès) ihm verschwiegen hat. In Carcassonne verständigt er einen Freund bei der Polizei und lockt die Verfolger zum unauffälligen Eingang der Dienststelle.",
+      "anchor": "Nach der Zollkontrolle durchschaut Maréchal den Schmuggelplan und stellt den Verfolgern eine Falle.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Le_Corniaud"
+      ]
+    },
+    {
+      "id": "KOM-202609-P02-M-067-V1",
+      "originalId": "KOM-202609-P02-M-067-V1",
+      "knowledgeId": "K-KOM-202609-P02-M-067",
+      "filmKey": "Le Corniaud|1965",
+      "filmTitle": "Louis, das Schlitzohr",
+      "difficulty": "mittel",
+      "questionType": "Schauplatz",
+      "learningObjective": "Maréchal übernimmt den Wagen in Neapel.",
+      "question": "„Louis, das Schlitzohr“ (1965): Wo übernimmt Maréchal (Bourvil) den Wagen für seine Reise?",
+      "answers": [
+        {
+          "id": "KOM-202609-P02-M-067-V1:a",
+          "text": "Turin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-067-V1:b",
+          "text": "Neapel",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-067-V1:c",
+          "text": "Mailand",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-202609-P02-M-067-V1:d",
+          "text": "Venedig",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Maréchal übernimmt den Wagen in Neapel.",
+      "context": "Ein Unfall in Paris zerstört Maréchals (Bourvil) Citroën 2CV. Saroyan (Louis de Funès) bietet ihm als Entschädigung eine bezahlte Reise an. Maréchal soll einen Cadillac in Neapel abholen und nach Bordeaux bringen. Der Urlauber ahnt nicht, dass Saroyan und eine konkurrierende Bande den Wagen wegen seiner versteckten Ladung verfolgen.",
+      "anchor": "Von Neapel Richtung Bordeaux.",
+      "spoilerLevel": "Handlung",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Sucker",
+        "https://fr.wikipedia.org/wiki/Le_Corniaud"
+      ],
+      "variantOf": "KOM-202609-P02-M-067"
+    },
+    {
+      "id": "FF-409-YEAR",
+      "originalId": "FF-409-YEAR",
+      "knowledgeId": "K-FF-409-YEAR",
+      "filmKey": "Le Corniaud|1965",
+      "filmTitle": "Louis, das Schlitzohr",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Louis, das Schlitzohr → 1965",
+      "question": "„Louis, das Schlitzohr“: In welchem Jahr erschien der Film von Gérard Oury erstmals?",
+      "answers": [
+        {
+          "id": "FF-409-YEAR:y1965",
+          "text": "1965",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-409-YEAR:y1955",
+          "text": "1964",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-409-YEAR:y1957",
+          "text": "1966",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-409-YEAR:y1959",
+          "text": "1963",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Louis, das Schlitzohr“ wurde erstmals 1965 veröffentlicht.",
+      "context": "1965 kommen „Scharfe Sachen für Monsieur“ und „Für ein paar Dollar mehr“ ins Kino. Louis de Funès und Bourvil reisen komisch durch Südeuropa, Clint Eastwood jagt im Italowestern. Zwei sehr verschiedene europäische Filmabenteuer lassen sich gemeinsam datieren.",
+      "anchor": "1965: Bourvil und de Funès auf Reisen, Eastwood auf Kopfgeldjagd.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Sucker",
+        "https://www.raicultura.it/cinema/articoli/2022/04/Per-qualche-dollaro-in-piu-1965-5405ad2e-b5c1-426e-a0c3-806fb90a722e.html"
+      ]
+    },
+    {
+      "id": "FF-409-DIRECTOR",
+      "originalId": "FF-409-DIRECTOR",
+      "knowledgeId": "K-FF-409-DIRECTOR",
+      "filmKey": "Le Corniaud|1965",
+      "filmTitle": "Louis, das Schlitzohr",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Louis, das Schlitzohr → Gérard Oury",
+      "question": "Wer führte bei „Louis, das Schlitzohr“ Regie?",
+      "answers": [
+        {
+          "id": "FF-409-DIRECTOR:a",
+          "text": "Gérard Oury",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-409-DIRECTOR:b",
+          "text": "André Hunebelle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-409-DIRECTOR:c",
+          "text": "Jean Girault",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-409-DIRECTOR:d",
+          "text": "Blake Edwards",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Gérard Oury führte Regie.",
+      "context": "Gérard Oury hatte Louis de Funès bereits im Episodenfilm „Le Crime ne paie pas“ inszeniert. Drei Jahre später stellte er ihn in „Le Corniaud“ Bourvil gegenüber. Nach diesem Erfolg arbeiteten die drei für „La Grande Vadrouille“ erneut zusammen; diesmal verbringen die beiden komischen Helden viel mehr Zeit miteinander.",
+      "anchor": "Oury entwickelt mit Bourvil und de Funès eine wiederkehrende Komödienpartnerschaft.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.cnc.fr/cinema/actualites/gerard-oury-le-roi-du-rire-a-la-francaise_1001363",
+        "https://www.cnc.fr/cinema/focus/gerard-oury-en-cinq-films-marquants_980546"
+      ]
+    },
+    {
+      "id": "F240-20261006-110-L1",
+      "originalId": "F240-20261006-110-L1",
+      "knowledgeId": "K-F240-20261006-110-L1",
+      "filmKey": "Le Dîner de Cons|1998",
+      "filmTitle": "Dinner für Spinner",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Pignons Streichholzkunst dient Brochant als Vorwand zum Spott.",
+      "question": "Welches Hobby macht François Pignon (Jacques Villeret) für Brochant in „Dinner für Spinner“ zur scheinbar idealen Zielscheibe?",
+      "answers": [
+        {
+          "id": "F240-20261006-110-L1:a",
+          "text": "Er baut berühmte Bauwerke aus Streichhölzern.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-L1:b",
+          "text": "Er baut historische Schiffe aus Papier.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-L1:c",
+          "text": "Er schnitzt Miniaturen berühmter Persönlichkeiten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-L1:d",
+          "text": "Er malt alte Stadtansichten auf Porzellan.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Pignon baut detailreiche Streichholzmodelle.",
+      "context": "François Pignon (Jacques Villeret) beschäftigt sich begeistert mit Modellen bekannter Bauwerke. Pierre Brochant (Thierry Lhermitte) sieht darin vor allem eine Gelegenheit, den Mann vor anderen lächerlich zu machen. Das Hobby ist kein Anzeichen von Bosheit; der Film richtet den Blick auf die Arroganz desjenigen, der sich überlegen glaubt.",
+      "anchor": "Pignons Streichholzkunst dient Brochant als Vorwand zum Spott.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Dinner_Game"
+      ]
+    },
+    {
+      "id": "F240-20261006-110-L2",
+      "originalId": "F240-20261006-110-L2",
+      "knowledgeId": "K-F240-20261006-110-L2",
+      "filmKey": "Le Dîner de Cons|1998",
+      "filmTitle": "Dinner für Spinner",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der verletzte Rücken macht den Spötter von seinem Gast abhängig.",
+      "question": "Was hindert Pierre Brochant (Thierry Lhermitte) in „Dinner für Spinner“ daran, wie geplant mit Pignon (Jacques Villeret) auszugehen?",
+      "answers": [
+        {
+          "id": "F240-20261006-110-L2:a",
+          "text": "Eine starke Migräne",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-L2:b",
+          "text": "Eine heftige Rückenverletzung",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-L2:c",
+          "text": "Eine Magenverstimmung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-L2:d",
+          "text": "Ein verletztes Knie",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Brochants Rückenprobleme halten ihn in der Wohnung fest.",
+      "context": "Pierre Brochant (Thierry Lhermitte) verletzt sich beim Golf und ist auf Hilfe angewiesen. So muss er ausgerechnet François Pignon (Jacques Villeret) in seiner Nähe behalten. Die geplante Überlegenheit wird räumlich umgedreht: Der Gastgeber kann nicht weg, während jeder gut gemeinte Eingriff seines Gastes neue Folgen auslöst.",
+      "anchor": "Der verletzte Rücken macht den Spötter von seinem Gast abhängig.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Dinner_Game"
+      ]
+    },
+    {
+      "id": "F240-20261006-110-M1",
+      "originalId": "F240-20261006-110-M1",
+      "knowledgeId": "K-F240-20261006-110-M1",
+      "filmKey": "Le Dîner de Cons|1998",
+      "filmTitle": "Dinner für Spinner",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Gastgeberwettbewerb beruht auf dem unwissenden Gast.",
+      "question": "Warum lädt Pierre Brochant (Thierry Lhermitte) in „Dinner für Spinner“ überhaupt einen ihm fremden Mann ein?",
+      "answers": [
+        {
+          "id": "F240-20261006-110-M1:a",
+          "text": "Er will den Mann einem Verlag als Autor empfehlen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-M1:b",
+          "text": "Er hofft, dessen Sammlerkontakte für ein Geschäft zu nutzen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-M1:c",
+          "text": "Er möchte ihn bei einem privaten Wettbewerb der Gastgeber verspotten.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-M1:d",
+          "text": "Er sucht einen Gesprächspartner für einen Rundfunkauftritt.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Gastgeber bringen ahnungslose Gäste mit, um über sie zu lachen.",
+      "context": "Ausgerechnet den zum Spott eingeladenen Pignon (Jacques Villeret) lässt Brochant (Thierry Lhermitte) bei Juste Leblanc (Francis Huster) anrufen: Als angeblicher Filmproduzent soll er herausfinden, ob Christine (Alexandra Vandernoot) dort ist. Doch Pignon gibt Brochants Telefonnummer an. Leblanc erkennt sie und durchschaut den Vorwand.",
+      "anchor": "Der Gastgeberwettbewerb beruht auf dem unwissenden Gast.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Dinner_Game"
+      ]
+    },
+    {
+      "id": "F240-20261006-110-M2",
+      "originalId": "F240-20261006-110-M2",
+      "knowledgeId": "K-F240-20261006-110-M2",
+      "filmKey": "Le Dîner de Cons|1998",
+      "filmTitle": "Dinner für Spinner",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der hilfreiche Adressenkontakt kann zur Steuerprüfung werden.",
+      "question": "Welche gefährliche Zusatzkompetenz bringt Lucien Cheval (Daniel Prévost) in „Dinner für Spinner“ in Brochants Wohnung mit?",
+      "answers": [
+        {
+          "id": "F240-20261006-110-M2:a",
+          "text": "Er ist Kriminalbeamter.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-M2:b",
+          "text": "Er ist Versicherungsprüfer.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-M2:c",
+          "text": "Er ist Gerichtsvollzieher.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-M2:d",
+          "text": "Er ist Steuerprüfer.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Cheval kann Brochants verschwiegene Vermögenswerte überprüfen.",
+      "context": "François Pignon (Jacques Villeret) holt Lucien Cheval (Daniel Prévost), weil er bei der Suche nach einer Adresse helfen kann. Pierre Brochant (Thierry Lhermitte) erkennt dabei eine neue Gefahr: Der Besucher ist Steuerprüfer und könnte die kostbaren Gegenstände in seiner Wohnung mit nicht versteuerten Einkünften verbinden. Hilfe bei einem Problem öffnet ein anderes.",
+      "anchor": "Der hilfreiche Adressenkontakt kann zur Steuerprüfung werden.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Dinner_Game"
+      ]
+    },
+    {
+      "id": "F240-20261006-110-S1",
+      "originalId": "F240-20261006-110-S1",
+      "knowledgeId": "K-F240-20261006-110-S1",
+      "filmKey": "Le Dîner de Cons|1998",
+      "filmTitle": "Dinner für Spinner",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Sasseur wird als sa sœur gehört: ein Name stört die Ehe.",
+      "question": "Welches Missverständnis löst François Pignon (Jacques Villeret) in „Dinner für Spinner“ um Marlène Sasseur (Catherine Frot) aus?",
+      "answers": [
+        {
+          "id": "F240-20261006-110-S1:a",
+          "text": "Er hält sie für Brochants Schwester.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-S1:b",
+          "text": "Er hält sie für Brochants Ehefrau.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-S1:c",
+          "text": "Er hält sie für Brochants frühere Kollegin.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-110-S1:d",
+          "text": "Er hält sie für Brochants Nachbarin.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sasseur klingt für Pignon wie das französische sa sœur, also seine Schwester.",
+      "context": "Pignon (Jacques Villeret) ruft Marlène Sasseur (Catherine Frot), die frühere Geliebte Brochants (Thierry Lhermitte), an. Anschließend verwechselt er Christine (Alexandra Vandernoot) mit ihr. Seine Ratschläge zum Umgang mit Brochant verraten der Ehefrau dessen Untreue.",
+      "anchor": "Sasseur wird als sa sœur gehört: ein Name stört die Ehe.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Dinner_Game"
+      ]
+    },
+    {
+      "filmKey": "Låt den rätte komma in|2008",
+      "filmTitle": "So finster die Nacht",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://anthemmagazine.com/tomas-alfredsons-let-the-right-one-in/"
+      ],
+      "id": "Q-RED96-LAT-S-001",
+      "knowledgeId": "K-RED96-LAT-S-001",
+      "question": "Welche Absicht beschrieb Tomas Alfredson für die Ton- und Bildgestaltung von „So finster die Nacht“?",
+      "answers": [
+        {
+          "id": "Q-RED96-LAT-S-001:a",
+          "text": "Einzelne Geräusche sollten reale Bedrohungen von den Fantasien der Kinder abgrenzen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED96-LAT-S-001:b",
+          "text": "Isolierte Geräusche sollten Angriffe ankündigen und dadurch Erwartungsangst erzeugen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED96-LAT-S-001:c",
+          "text": "Einzelne Geräusche sollten den Blick suchen lassen und die Vorstellung aktivieren.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED96-LAT-S-001:d",
+          "text": "Isolierte Geräusche sollten Erinnerungen aufrufen und Elis Wahrnehmung vermitteln.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Reduzierter Ton lenkt die Suche im Bild; Auslassungen regen eigene Vorstellungen an.",
+      "context": "Alfredson erklärt das am einzelnen Vogelruf über einer Stadtansicht: Das Publikum sucht den Vogel im Bild. Statt alles zu zeigen oder die Tonspur zu füllen, wollte er die Zuschauer zu aktiven Mitgestaltern ihrer Angst machen.",
+      "anchor": "Ein Vogelruf lässt den Blick suchen.",
+      "learningObjective": "Den Zusammenhang zwischen Auslassung, Aufmerksamkeit und Zuschauerbeteiligung erklären.",
+      "originalId": "Q-RED96-LAT-S-001"
+    },
+    {
+      "filmKey": "Låt den rätte komma in|2008",
+      "filmTitle": "So finster die Nacht",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://anthemmagazine.com/tomas-alfredsons-let-the-right-one-in/"
+      ],
+      "id": "Q-RED96-LAT-S-002",
+      "knowledgeId": "K-RED96-LAT-S-002",
+      "question": "Wie verband Tomas Alfredson die Farbgestaltung der Abteilungen bei „So finster die Nacht“?",
+      "answers": [
+        {
+          "id": "Q-RED96-LAT-S-002:a",
+          "text": "Ein Raffael-Gemälde gab allen Abteilungen dieselbe Farbvorlage.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED96-LAT-S-002:b",
+          "text": "Getrennte Gemälde bestimmten gegensätzliche Paletten für Kostüm und Ausstattung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED96-LAT-S-002:c",
+          "text": "Ein Raffael-Gemälde bestimmte die Beleuchtung; Kostüme folgten historischen Fotografien.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "Q-RED96-LAT-S-002:d",
+          "text": "Die Abteilungen verglichen Materialproben am Set, um getrennte Paletten aneinander anzupassen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ein gemeinsames Gemälde koordinierte Ausstattung, Kostüme und Kamera.",
+      "context": "Alfredson und Hoyte van Hoytema suchten eine schöne Farbskala für das ungeliebte Achtzigerjahre-Design. Ein Raffael-Gemälde wurde zur gemeinsamen Referenz: Requisiten und Kleidung sollten zu dieser Vorlage passen.",
+      "anchor": "Ein Gemälde hält die Filmfarben zusammen.",
+      "learningObjective": "Eine gemeinsame Bildreferenz als Abstimmung zwischen Filmabteilungen verstehen.",
+      "originalId": "Q-RED96-LAT-S-002"
+    },
+    {
+      "id": "FILM-20261011-LAWRENCE-S001",
+      "knowledgeId": "K-FILM-20261011-LAWRENCE-S001",
+      "filmKey": "Lawrence of Arabia|1962",
+      "filmTitle": "Lawrence von Arabien",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Entdeckung und Präzisierung des Streichholzschnitts verbinden.",
+      "question": "Wie entstand laut Anne V. Coates der harte Streichholz-Wüsten-Übergang in „Lawrence von Arabien“?",
+      "answers": [
+        {
+          "id": "FILM-20261011-LAWRENCE-S001:a",
+          "text": "Eine fertige Überblendung wurde entfernt; der Wüstenbeginn wurde verlängert.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FILM-20261011-LAWRENCE-S001:b",
+          "text": "Der noch überblendungsfreie Anschluss fiel auf; Coates kürzte das ausgehende Bild.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FILM-20261011-LAWRENCE-S001:c",
+          "text": "Ein Flammenzwischenschnitt entfiel; Coates zog den Wüstenbeginn vor.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FILM-20261011-LAWRENCE-S001:d",
+          "text": "Ein Musikakzent bestimmte den Anschluss; Coates verlängerte das Streichholzbild.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Vor der geplanten Überblendung entdeckten sie den direkten Schnitt; Coates entfernte zwei Einzelbilder.",
+      "context": "Im Drehbuch war eine Überblendung vorgesehen. Zur Vorbereitung waren beide Filmstücke direkt verbunden. Erst bei der Vorführung erkannten Coates und David Lean die Wirkung dieses Anschlusses. Nach Leans Überarbeitung nahm Coates zwei Bilder am Ende der Streichholzeinstellung weg.",
+      "anchor": "Die noch unfertige Überblendung eröffnete eine andere Schnittlösung.",
+      "spoilerLevel": "niedrig",
+      "sources": [
+        "https://cinemontage.org/anne-coates-quotes/"
+      ],
+      "originalId": "FILM-20261011-LAWRENCE-S001"
     }
   ]
 }

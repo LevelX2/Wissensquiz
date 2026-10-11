@@ -1,11 +1,11 @@
 {
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
-  "totalReviewed": 4900,
-  "remainingFilmQuestions": 5833,
+  "totalReviewed": 4950,
+  "remainingFilmQuestions": 5783,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 7873,
-  "lastCompletedBlock": 95,
+  "remainingAllQuestions": 7823,
+  "lastCompletedBlock": 96,
   "reviewedIds": [
     "ART-L-017",
     "ACT-M-025",
@@ -4906,209 +4906,59 @@
     "E20261007-F-119-L1",
     "E20261007-F-119-L2",
     "E20261007-F-119-M1",
-    "E20261007-F-119-M2"
+    "E20261007-F-119-M2",
+    "E20261007-F-119-S1",
+    "E20261007-F-119-S2",
+    "E20261007-F-119-Y",
+    "E20261007-F-119-D",
+    "F240-20261006-091-L1",
+    "F240-20261006-091-L2",
+    "F240-20261006-091-M1",
+    "F240-20261006-091-M2",
+    "F240-20261006-091-S1",
+    "F240-20261006-091-S2",
+    "F240-20261006-091-Y",
+    "F240-20261006-091-D",
+    "E20261007-F-040-L1",
+    "E20261007-F-040-L2",
+    "E20261007-F-040-M1",
+    "E20261007-F-040-M2",
+    "E20261007-F-040-S1",
+    "E20261007-F-040-S2",
+    "E20261007-F-040-Y",
+    "E20261007-F-040-D",
+    "CLA-L-013",
+    "CLA-L-014",
+    "CLA-M-013",
+    "CLA-M-014",
+    "CLA-S-013",
+    "CLA-S-014",
+    "FF-057-YEAR",
+    "FF-057-DIRECTOR",
+    "G100-20261008-ABENTEUER-030-L1",
+    "G100-20261008-ABENTEUER-030-L2",
+    "G100-20261008-ABENTEUER-030-M1",
+    "G100-20261008-ABENTEUER-030-M2",
+    "G100-20261008-ABENTEUER-030-S1",
+    "G100-20261008-ABENTEUER-030-S2",
+    "G100-20261008-ABENTEUER-030-Y",
+    "G100-20261008-ABENTEUER-030-D",
+    "KOM-202609-P02-L-067",
+    "KOM-202609-P02-L-068",
+    "KOM-202609-P02-M-067",
+    "KOM-202609-P02-M-068",
+    "KOM-202609-P02-S-067",
+    "KOM-202609-P02-S-068",
+    "KOM-202609-P02-M-067-V1",
+    "FF-409-YEAR",
+    "FF-409-DIRECTOR",
+    "F240-20261006-110-L1",
+    "F240-20261006-110-L2",
+    "F240-20261006-110-M1",
+    "F240-20261006-110-M2",
+    "F240-20261006-110-S1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "E20261007-F-119-S1",
-      "filmKey": "Last Train from Gun Hill|1959"
-    },
-    {
-      "id": "E20261007-F-119-S2",
-      "filmKey": "Last Train from Gun Hill|1959"
-    },
-    {
-      "id": "E20261007-F-119-Y",
-      "filmKey": "Last Train from Gun Hill|1959"
-    },
-    {
-      "id": "E20261007-F-119-D",
-      "filmKey": "Last Train from Gun Hill|1959"
-    },
-    {
-      "id": "F240-20261006-091-L1",
-      "filmKey": "Låt den rätte komma in|2008"
-    },
-    {
-      "id": "F240-20261006-091-L2",
-      "filmKey": "Låt den rätte komma in|2008"
-    },
-    {
-      "id": "F240-20261006-091-M1",
-      "filmKey": "Låt den rätte komma in|2008"
-    },
-    {
-      "id": "F240-20261006-091-M2",
-      "filmKey": "Låt den rätte komma in|2008"
-    },
-    {
-      "id": "F240-20261006-091-S1",
-      "filmKey": "Låt den rätte komma in|2008"
-    },
-    {
-      "id": "F240-20261006-091-S2",
-      "filmKey": "Låt den rätte komma in|2008"
-    },
-    {
-      "id": "F240-20261006-091-Y",
-      "filmKey": "Låt den rätte komma in|2008"
-    },
-    {
-      "id": "F240-20261006-091-D",
-      "filmKey": "Låt den rätte komma in|2008"
-    },
-    {
-      "id": "E20261007-F-040-L1",
-      "filmKey": "Law Abiding Citizen|2009"
-    },
-    {
-      "id": "E20261007-F-040-L2",
-      "filmKey": "Law Abiding Citizen|2009"
-    },
-    {
-      "id": "E20261007-F-040-M1",
-      "filmKey": "Law Abiding Citizen|2009"
-    },
-    {
-      "id": "E20261007-F-040-M2",
-      "filmKey": "Law Abiding Citizen|2009"
-    },
-    {
-      "id": "E20261007-F-040-S1",
-      "filmKey": "Law Abiding Citizen|2009"
-    },
-    {
-      "id": "E20261007-F-040-S2",
-      "filmKey": "Law Abiding Citizen|2009"
-    },
-    {
-      "id": "E20261007-F-040-Y",
-      "filmKey": "Law Abiding Citizen|2009"
-    },
-    {
-      "id": "E20261007-F-040-D",
-      "filmKey": "Law Abiding Citizen|2009"
-    },
-    {
-      "id": "CLA-L-013",
-      "filmKey": "Lawrence of Arabia|1962"
-    },
-    {
-      "id": "CLA-L-014",
-      "filmKey": "Lawrence of Arabia|1962"
-    },
-    {
-      "id": "CLA-M-013",
-      "filmKey": "Lawrence of Arabia|1962"
-    },
-    {
-      "id": "CLA-M-014",
-      "filmKey": "Lawrence of Arabia|1962"
-    },
-    {
-      "id": "CLA-S-013",
-      "filmKey": "Lawrence of Arabia|1962"
-    },
-    {
-      "id": "CLA-S-014",
-      "filmKey": "Lawrence of Arabia|1962"
-    },
-    {
-      "id": "FF-057-YEAR",
-      "filmKey": "Lawrence of Arabia|1962"
-    },
-    {
-      "id": "FF-057-DIRECTOR",
-      "filmKey": "Lawrence of Arabia|1962"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-030-L1",
-      "filmKey": "Le Comte de Monte-Cristo|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-030-L2",
-      "filmKey": "Le Comte de Monte-Cristo|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-030-M1",
-      "filmKey": "Le Comte de Monte-Cristo|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-030-M2",
-      "filmKey": "Le Comte de Monte-Cristo|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-030-S1",
-      "filmKey": "Le Comte de Monte-Cristo|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-030-S2",
-      "filmKey": "Le Comte de Monte-Cristo|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-030-Y",
-      "filmKey": "Le Comte de Monte-Cristo|1954"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-030-D",
-      "filmKey": "Le Comte de Monte-Cristo|1954"
-    },
-    {
-      "id": "KOM-202609-P02-L-067",
-      "filmKey": "Le Corniaud|1965"
-    },
-    {
-      "id": "KOM-202609-P02-L-068",
-      "filmKey": "Le Corniaud|1965"
-    },
-    {
-      "id": "KOM-202609-P02-M-067",
-      "filmKey": "Le Corniaud|1965"
-    },
-    {
-      "id": "KOM-202609-P02-M-068",
-      "filmKey": "Le Corniaud|1965"
-    },
-    {
-      "id": "KOM-202609-P02-S-067",
-      "filmKey": "Le Corniaud|1965"
-    },
-    {
-      "id": "KOM-202609-P02-S-068",
-      "filmKey": "Le Corniaud|1965"
-    },
-    {
-      "id": "KOM-202609-P02-M-067-V1",
-      "filmKey": "Le Corniaud|1965"
-    },
-    {
-      "id": "FF-409-YEAR",
-      "filmKey": "Le Corniaud|1965"
-    },
-    {
-      "id": "FF-409-DIRECTOR",
-      "filmKey": "Le Corniaud|1965"
-    },
-    {
-      "id": "F240-20261006-110-L1",
-      "filmKey": "Le Dîner de Cons|1998"
-    },
-    {
-      "id": "F240-20261006-110-L2",
-      "filmKey": "Le Dîner de Cons|1998"
-    },
-    {
-      "id": "F240-20261006-110-M1",
-      "filmKey": "Le Dîner de Cons|1998"
-    },
-    {
-      "id": "F240-20261006-110-M2",
-      "filmKey": "Le Dîner de Cons|1998"
-    },
-    {
-      "id": "F240-20261006-110-S1",
-      "filmKey": "Le Dîner de Cons|1998"
-    },
     {
       "id": "F240-20261006-110-S2",
       "filmKey": "Le Dîner de Cons|1998"
