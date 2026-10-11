@@ -1,0 +1,222 @@
+{
+  "asOf": "2026-10-11",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 68,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_daec983cda90819192bdc57bdd195c82",
+  "source_commit": "6dbf6f8c3c940205fc5203f5fb0a4226f50f9027",
+  "deployment_id": "appgdep_6acb8e9549a48191b14ea55808dca585",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-11T13:27:03.032286+00:00",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000c94c820a966ac9a04bf71a92",
+    "content_hash": "sha256:29b728f87c585751187c34a8981d8dff7946f700f2a4700182e0e96683bf66c5",
+    "size_bytes": 76472320,
+    "file_count": 489
+  },
+  "localArchive": {
+    "buildFiles": 488,
+    "fileCount": 489,
+    "bytes": 62523095,
+    "sha256": "1417f267ef4359064d6a9f904451d0faaee78271519569a99401f20933e124be",
+    "byteIdentical": true,
+    "onlyHostingAndDist": true
+  },
+  "access": {
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "checks": {
+    "tests": 413,
+    "testFiles": 68,
+    "uniqueBrowserCases": 41,
+    "initialBrowserPassed": 33,
+    "initialBrowserFailed": 5,
+    "versionBuildFollowUpPassed": 18,
+    "versionBuildFollowUpFailed": 2,
+    "freshDeviceAndAccountFollowUpPassed": 6,
+    "mobileTrialFollowUpPassed": 1,
+    "allPriorFailuresSuccessfullyRetested": true,
+    "fullBrowserSuite": false,
+    "typeScript": true,
+    "productionBuild": true,
+    "buildVersion": 68,
+    "diffCheck": true,
+    "githubPush": false,
+    "realAccountsReset": 0,
+    "oldSaveCompatibilityAdded": false,
+    "syntheticWritesRolledBack": true,
+    "releaseMetadataSeparatelyReadWithAnonRole": true,
+    "physicalDeviceTest": false,
+    "multiplayerLoadTest": false
+  },
+  "backend": {
+    "migration": "20261011135001_remove_legacy_catalog_storage.sql",
+    "oldCatalogArchivesRemoved": 10,
+    "oldTablesAndRpcsRemoved": true,
+    "remainingLegacyFunctionDependencies": 0,
+    "directPrivateWriteGrants": 0,
+    "progressAndRevisionAtomicFingerprintUnchanged": true,
+    "currentQuestions": 12787,
+    "syntheticAccountsRemaining": 0
+  },
+  "advisors": [
+    {
+      "type": "security",
+      "lints": [
+        {
+          "name": "rls_enabled_no_policy",
+          "level": "INFO",
+          "count": 42,
+          "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0008_rls_enabled_no_policy"
+        },
+        {
+          "name": "anon_security_definer_function_executable",
+          "level": "WARN",
+          "count": 10,
+          "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0028_anon_security_definer_function_executable"
+        },
+        {
+          "name": "authenticated_security_definer_function_executable",
+          "level": "WARN",
+          "count": 32,
+          "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0029_authenticated_security_definer_function_executable"
+        },
+        {
+          "name": "auth_leaked_password_protection",
+          "level": "WARN",
+          "count": 1,
+          "remediation": "https://supabase.com/docs/guides/auth/password-security#password-strength-and-leaked-password-protection"
+        }
+      ]
+    },
+    {
+      "type": "performance",
+      "lints": [
+        {
+          "name": "unindexed_foreign_keys",
+          "level": "INFO",
+          "count": 5,
+          "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0001_unindexed_foreign_keys"
+        },
+        {
+          "name": "unused_index",
+          "level": "INFO",
+          "count": 16,
+          "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0005_unused_index"
+        }
+      ]
+    }
+  ],
+  "actualReadOnlyAccountProof": {
+    "revision": 20,
+    "rounds": 1,
+    "answers": 10,
+    "catalogRequests": 0,
+    "requests": [
+      "quiz_sync_metadata",
+      "quiz_game_view",
+      "quiz_sync_scope_page",
+      "quiz_sync_objects",
+      "quiz_ranked_call"
+    ],
+    "responseBytes": 35188
+  },
+  "liveFiles": [
+    {
+      "path": "assets/CollectionPage-VAi2F4Y6.js",
+      "status": 200,
+      "bytes": 4255,
+      "sha256": "a201b7afdd70ccdd5607aec0c715a4a2ae5ceea8aa12d115b5f05842dd3d0ccb",
+      "identical": true
+    },
+    {
+      "path": "assets/DuelCenter-DOiCJ_Zb.js",
+      "status": 200,
+      "bytes": 13152,
+      "sha256": "8455ab0288690534fcfad584b43cd4d1d0c87fa258b4b561bd05a0c4c2ac7417",
+      "identical": true
+    },
+    {
+      "path": "assets/Help-DSoEyK6r.js",
+      "status": 200,
+      "bytes": 22147,
+      "sha256": "a3acb4af628be4eca77fb945fb1e210936aa59a889aaa75bbb7963cd090ac443",
+      "identical": true
+    },
+    {
+      "path": "assets/RecordLeaderboard-5AUK9HZv.js",
+      "status": 200,
+      "bytes": 22902,
+      "sha256": "d417d292bdf478d939de1bcdb0bf41e1f594e27b4e5c7e45634e59c4f95b32df",
+      "identical": true
+    },
+    {
+      "path": "assets/ServerTopicList-NT0VG6FP.js",
+      "status": 200,
+      "bytes": 2624,
+      "sha256": "7b4039523621d258c254cb6770a1a9f008d3b7307d4799d9f5742e148ea4ce70",
+      "identical": true
+    },
+    {
+      "path": "assets/Settings-D5ijz49R.js",
+      "status": 200,
+      "bytes": 8363,
+      "sha256": "9ef51f792ade38aa02e5df0284d1c4ef42835b7ee33f93dad576859a196e2c02",
+      "identical": true
+    },
+    {
+      "path": "assets/TopicsPage-f0aGqfzO.js",
+      "status": 200,
+      "bytes": 1668,
+      "sha256": "09046ca5865b9d154b735f8d913b70c1370bfb8b0e08f3cd90a164d26e59e942",
+      "identical": true
+    },
+    {
+      "path": "assets/duels-BETAW6mF.js",
+      "status": 200,
+      "bytes": 7140,
+      "sha256": "2a3a3dbac60053e3e33adf9efac83166198d67394bc38eaa297d403a6a1347b4",
+      "identical": true
+    },
+    {
+      "path": "assets/index-BPr2pq_a.css",
+      "status": 200,
+      "bytes": 62183,
+      "sha256": "9b0f2c44ccc43ffcc45b605efd0dc873c217b83a21d6f7e47cd9db519177d570",
+      "identical": true
+    },
+    {
+      "path": "assets/index-HGUFAgqY.js",
+      "status": 200,
+      "bytes": 1041751,
+      "sha256": "0491344ffd91ddfaabb82bfb6fb1b4e72d0cd1926387312aac82408976ad108b",
+      "identical": true
+    },
+    {
+      "path": "account-config.json",
+      "status": 200,
+      "bytes": 158,
+      "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b",
+      "identical": true
+    },
+    {
+      "path": "sw.js",
+      "status": 200,
+      "bytes": 726,
+      "sha256": "f005a22fcf4146fe6724f0e9b52eea6dd2a314677c69d08a8bbc14db9543b34b",
+      "identical": true
+    }
+  ],
+  "liveHtml": {
+    "status": 200,
+    "sourceMatchesAfterCloudflareInjectionRemoval": true
+  },
+  "cleanup": {
+    "integratedIntoMain": true,
+    "worktreeArchivedAndRemoved": true,
+    "ownTemporaryArtifactsRemoved": true,
+    "foreignWorktreesPreserved": true
+  }
+}

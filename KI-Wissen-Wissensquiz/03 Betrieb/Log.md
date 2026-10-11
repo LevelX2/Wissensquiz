@@ -1963,3 +1963,6 @@ Ergänzende Abnahme: drei isolierte Browserfälle in Chromium, Firefox und mobil
 ## 11.10.2026 – Alte Speicherwege vollständig entfernt
 
 Auf ausdrücklichen Auftrag die vorübergehende Sperre durch tatsächliche Entfernung der alten RPCs, Katalogarchive und alternativen Client-Speicherpfade ersetzt. Zehn ungenutzte Archive gelöscht, ohne Spielstandreset oder neue Altstandkompatibilität. Produktive Transaktion bewahrt sämtliche Fortschrittseinträge und Revisionen; lesende Clientprüfung des echten Kontos und zurückgerollte synthetische Zehnerrunde erfolgreich. 413 Tests, TypeScript, Versionsbuild und gezielte Browserabnahme. [Nachweis](../../docs/Alte-Speicherwege-entfernt-2026-10-11.md).
+
+**Veröffentlichungsabschluss:** Version 68 am 11.10.2026 um 15:27:03 Uhr Europe/Berlin aus Main erfolgreich öffentlich veröffentlicht. 41 gezielte Browserfälle nach Korrektur der Testisolierung erfolgreich; Archiv und zwölf Live-Dateien bytegleich. Veröffentlichungszeit separat anonym bestätigt. [Nachweis](../../docs/Veroeffentlichung-2026-10-11-Version-68.json).
+Eigener Worktree nach Main-Integration und Veröffentlichung archiviert und entfernt; eigene temporäre Builds, Browserprüfdateien und Veröffentlichungskopie bereinigt, fremde Worktrees erhalten.

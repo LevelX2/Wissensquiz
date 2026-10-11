@@ -1,5 +1,16 @@
 # Sites-Veröffentlichung
 
+## Version 68: alte Speicher- und Vollkatalogwege vollständig entfernt
+
+Am **11.10.2026 um 15:27:03 Uhr Europe/Berlin** aus Main als **Version 68 öffentlich veröffentlicht**, nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Quellcommit **6dbf6f8c3c940205fc5203f5fb0a4226f50f9027**, Version **appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_daec983cda90819192bdc57bdd195c82**, Deployment **appgdep_6acb8e9549a48191b14ea55808dca585**. Adresse, Projekt-ID und öffentlicher Zugriff **public, Revision 2** erhalten. [Maschinenlesbarer Nachweis](Veroeffentlichung-2026-10-11-Version-68.json).
+
+Die vorübergehende Sperre ist durch tatsächliche Entfernung ersetzt: zehn ungenutzte Vollkatalogarchive, alte Tabellen und öffentliche RPCs, alternative Client-Speicherung und Katalogabruf entfernt. Genau ein aktueller serverseitiger Fragenbestand bleibt; eigene einzelne Rundenbelege ermöglichen Wiederaufnahme. Keine neue Altstandkompatibilität und kein Spielstandreset. Die produktive Transaktion bestätigt unveränderte Fortschrittseinträge und Revisionen. Aktueller Client öffnet den tatsächlichen Kontostand lesend: Revision 20, eine Runde, zehn Antworten, kein Katalogabruf. [Fachlicher Nachweis](Alte-Speicherwege-entfernt-2026-10-11.md).
+
+**413 Tests in 68 Dateien**, TypeScript, Build 68, Fragenorganisation und **41 unterschiedliche gezielte Browserfälle** einschließlich aller Nachprüfungen erfolgreich. Anfängliche Testannahmen, Versionsbuild und isolierte Prüfports berichtigt; keine offene fachliche Regression. Synthetische native Zehnerrunde vollständig zurückgerollt. Native Rollen-/Abhängigkeitsprüfung und Advisors ausgeführt; bestehende Hinweise unverändert. Keine physische Geräteabnahme oder Mehrspielerlastmessung.
+
+Saubere Main-Veröffentlichungskopie und regulärer Sites-Workflow, kein GitHub-Push. Alle **488 Build-Dateien** bytegleich zum Browserbuild und im lokalen Archiv; nur Build und Hostingmanifest verpackt. Native Archivmetadaten: 489 Dateien / 76.472.320 Bytes / **sha256:29b728f87c585751187c34a8981d8dff7946f700f2a4700182e0e96683bf66c5**. Lokales TAR: 62.523.095 Bytes / **sha256:1417f267ef4359064d6a9f904451d0faaee78271519569a99401f20933e124be**. Öffentlich zwölf Dateien HTTP 200 und bytegleich; HTML nach Entfernung ausschließlich der Cloudflare-JavaScript-Detection bytegleich. Tatsächliche Veröffentlichungszeit und Quellcommit gespeichert und separat mit Rolle anon über quiz_app_release(68) bestätigt. Native Browserübergabe angefordert.
+
+
 ## Version 66: einzelne Fragen und serverseitiger Lernablauf
 
 Am **11.10.2026 um 10:06:12 Uhr Europe/Berlin** als **Version 66 öffentlich veröffentlicht**, nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Quellcommit **6321b2029cec3cbfd07319a86b4a977ba60949f7**, Version **appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_9130a55b0cd8819188b19c03be006800**, Deployment **appgdep_6acb4360ee048191a54c7d8eaa5b904b**. Projekt-ID, Adresse und öffentlicher Zugriff **public, Revision 2** erhalten. [Maschinenlesbarer Nachweis](Veroeffentlichung-2026-10-11-Version-66.json).

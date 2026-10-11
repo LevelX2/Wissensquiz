@@ -1,6 +1,6 @@
 # Projektstart Wissensquiz
 
-**11.10.2026 – Alte Speicherwege vollständig entfernt:** Zehn ungenutzte Vollkatalogarchive, alte Tabellen/RPCs und alternative Client-Speicherpfade entfernt. Produktive Transaktion bestätigt unveränderte Fortschrittseinträge und Revisionen. Aktueller Client öffnet den tatsächlichen Serverstand lesend: eine Runde, zehn Antworten, kein Katalogabruf. 413 Tests und TypeScript erfolgreich; Veröffentlichungsprüfung läuft. [Bereinigung und Abnahme](../docs/Alte-Speicherwege-entfernt-2026-10-11.md).
+**11.10.2026 – Version 68 veröffentlicht, alte Speicherwege entfernt:** Zehn ungenutzte Vollkatalogarchive, alte Tabellen/RPCs und alternative Client-Speicherpfade vollständig entfernt. Spielstand und Revisionen unverändert; echter Kontoabruf lesend ohne Katalogabruf bestätigt. 413 Tests und 41 gezielte Browserfälle einschließlich aller Nachprüfungen erfolgreich. Aus Main veröffentlicht; [Veröffentlichungsnachweis](../docs/Veroeffentlichung-2026-10-11-Version-68.json), [Bereinigung](../docs/Alte-Speicherwege-entfernt-2026-10-11.md).
 
 **11.10.2026 – Erneuter Konto-Ladefehler behoben:** Alter Schreibweg für Server-Spielstände gesperrt, beschädigten Formatverweis ohne Zurücksetzen korrigiert. Zehn Antworten erhalten; aktueller Client öffnet produktive Serverantworten ohne Katalogabruf. 492 Tests, Build und drei isolierte Browserfälle erfolgreich. [Befund und Abnahme](../docs/Online-Spielstand-Ladefehler-2026-10-11.md#erneuter-ladefehler-nach-version-67-alter-schreibweg-gesperrt).
 

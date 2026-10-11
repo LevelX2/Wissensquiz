@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Version 68: alte Speicherwege entfernt und Main-Veröffentlichung geprüft](../../../docs/Veroeffentlichung-2026-10-11-Version-68.json)
+
 - [Alte Speicherwege vollständig entfernen: RPCs, Vollkatalogarchive und lokale Rückfallpfade – 11.10.2026](../../../docs/Alte-Speicherwege-entfernt-2026-10-11.md)
 
 - [Erneuter Konto-Ladefehler nach Version 67: alter Schreibweg gesperrt, Spielstand ohne Reset repariert](../../../docs/Online-Spielstand-Ladefehler-2026-10-11.md#erneuter-ladefehler-nach-version-67-alter-schreibweg-gesperrt)
