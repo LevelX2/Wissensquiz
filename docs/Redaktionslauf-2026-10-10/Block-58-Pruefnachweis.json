@@ -1,0 +1,52 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 0,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 7,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Event Horizon|1997",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    3,
+    4,
+    5,
+    6,
+    13,
+    18,
+    19,
+    20,
+    21,
+    24,
+    26,
+    27,
+    28,
+    32,
+    39,
+    40,
+    41,
+    44,
+    45,
+    47
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "ec54b7b22fe80281f9b842375cfd1c82f07610a02bcdbd092f7cc06185cd7ff6",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf",
+  "canonicalDisplayFieldsComplete": true
+}
