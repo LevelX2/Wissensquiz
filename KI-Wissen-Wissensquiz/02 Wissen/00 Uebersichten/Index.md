@@ -6,11 +6,12 @@
 
 - [Besetzungsfragen: Rollenhinweis statt bloßem Figurennamen; Green-Mile-Beispiel – 11.10.2026](../../../docs/Fragenkorrekturen.md#rollenhinweise-bei-besetzungsfragen--11102026)
 
-- [Fragenredaktion bis Block 17 seit Version 65 veröffentlicht: Texte, Ersatzidentitäten, Ergänzungen und Lernreise-Verweise](../../../docs/Redaktionslauf-2026-10-10/Integration.md)
+- [Fragenredaktion bis Block 17 seit Version 65 veröffentlicht](../../../docs/Sites-Betrieb.md#version-65-integrierte-fragenredaktion-und-eingerichteter-meldungsdienst)
 
 - [GitHub-Meldungsdienst: fehlenden Schlüssel eingerichtet, Live-Abnahme und Betrieb – 10.10.2026](../../../docs/GitHub-Meldungen.md)
 
-- [Filmweiser Redaktionslauf: ergänzende Handlungsstränge, 50er-Blöcke mit lokalen Commits und offene Warteschlange – 10.10.2026](../../../docs/Redaktionslauf-2026-10-10/Stand.md)
+- [Aktuelle Fragetexte und Quellen](../../../docs/Fragenredaktion/Fragen.json)
+- [Redaktionsfortschritt: 4.700 Originalfragen geprüft, 8.073 offen; Block 91 abgeschlossen](../../../docs/Fragenredaktion/Fortschritt.json)
 
 - [Version 64: gesamter Main-Stand einschließlich Proberunde, Serverzeit, Wettbewerbs-XP und Menüicons veröffentlicht](../../../docs/Sites-Betrieb.md)
 - [Version 64: Quellen-, Backend-, Archiv- und Live-Nachweis](../../../docs/Veroeffentlichung-2026-10-10-Version-64.json)
@@ -19,23 +20,9 @@
 
 - [Einheitliche Startklappen, Spoilerhinweis entfernt und fünf plastische Menüicons – 10.10.2026](../../../docs/Navigationssymbole-2026-10-10.md)
 
-- [Vierte Qualitätsrunde: 100 weitere Fragen zu 25 Filmen, 98 Vertiefungen überarbeitet und zwei schwache Wissensziele ersetzt – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-04.md)
-
 - [Testspeicher: Datenbankfälle isoliert, zwei Worker und getrennte temporäre Testberichte – 10.10.2026](../../../docs/Pruefbericht.md#10102026--speicherverbrauch-des-vollständigen-testlaufs)
 
-- [Nightmare: anderes Wissensziel statt verratener Traumfrage; quellengeprüfter Ersatz zum Mordverdacht gegen Rod – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Nightmare-Ersatz.md)
-
-- [Dritte Qualitätsrunde: 30 weitere Fragen, 23 Vertiefungen überarbeitet, sechs erhalten und ein Wissensziel offen – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-03.md)
-
-- [Zweite Qualitätsrunde: Richtung bestätigt; passende Vertiefungen sollen die Handlungsentwicklung verankern – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-02-Rueckmeldung.md)
-
-- [Zweite Qualitätsrunde: zehn neue Fragen mit allen Antworten und vollständigem Alt/Neu-Vergleich – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-02.md)
-
-- [Erste Qualitätsrunde freigegeben: Textfassung und präzisierte Skillregeln – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Freigabe.md)
-
 - [Erste Fünferrunde entfernt: Lernrunden ab Beginn bis zehn Fragen – 10.10.2026](../../../docs/Lernregeln.md#auswahl-und-runden)
-
-- [Zehn Fragen geprüft: Originaltexte, Einzelbewertungen und individuelle Vertiefungsvorschläge – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Pruefung.md)
 
 - [Einmalige Zehnerrunde ohne Konto, E-Mail-Bestätigung und Übernahme; Weiterspielen auf PC, Handy und Tablet – 10.10.2026](../../../docs/Anmeldung-und-Online-Spielstand.md#einmalige-proberunde)
 

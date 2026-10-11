@@ -6,7 +6,7 @@ import { emptyState } from "../src/model";
 import { prepareFactQuestion } from "../src/filmFacts";
 import { yearPresentation } from "../src/yearEditorial";
 import editorial from "../src/yearEditorial.json";
-import integration from "../docs/Redaktionslauf-2026-10-10/Integration.json";
+import integration from "./fixtures/appliedEditorial.json";
 
 const state = emptyState();
 addPackages(

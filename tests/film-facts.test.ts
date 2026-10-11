@@ -15,7 +15,7 @@ import {
 import facts from "../src/filmFacts.json";
 import directorContexts from "../src/directorContexts.json";
 import reviewedFacts from "../src/reviewedFilmFacts.json";
-import integrated from "../docs/Redaktionslauf-2026-10-10/Integration.json";
+import integrated from "./fixtures/appliedEditorial.json";
 import {
   applyCategoryTags,
   categories,

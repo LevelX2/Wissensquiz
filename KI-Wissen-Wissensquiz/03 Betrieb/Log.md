@@ -1891,6 +1891,10 @@ Alle 50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtlich
 
 Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand: 4.650 von 12.773 Original-IDs geprüft, 8.123 offen (6.083 Filmfragen und 2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-90.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-90-Pruefnachweis.json).
 
+## 11.10.2026 – Fragenredaktion ohne Umstellungsprotokolle
+
+Auf ausdrücklichen Nutzerwunsch die Alt/Neu-Berichte und separaten Prüfprotokolle entfernt. Aktuelle Fragetexte mit Quellen und der Bearbeitungsstand bleiben in `docs/Fragenredaktion/` erhalten; weitere Redaktion ohne solche Protokolle. Historische Logeinträge bleiben unverändert und können auf die inzwischen entfernten Dateien verweisen.
+
 ## 11.10.2026 – Server-Lernablauf lokal umgesetzt, Abnahme läuft
 
 Im ausdrücklich beauftragten eigenen Worktree normale Lernrunden auf einzelne serverseitige Fragen und Auswertung umgestellt. Kontostart ohne Vollkatalog; kleine Auswahl-/Lernübersichten und paginierte Themen. Redaktionelle Film-/Personen-/Jahresdarstellung vom JavaScript in vorbereitete Fragendaten verlagert. Serverprojektion je betroffenem Wissensziel, Filmreise-Cache, kleine wiederholbare Anfragen und aktuelle Sicherungsfassung. 478 Tests sowie komplette Zehnerrunde inklusive Neuladen in Chromium, Firefox und mobilem WebKit erfolgreich. Weitere Browserabnahme läuft; kein produktiver Reset, keine Backendbereitstellung und keine Veröffentlichung vorgenommen. [Konzept](../../docs/Server-Lernablauf-2026-10-11.md).

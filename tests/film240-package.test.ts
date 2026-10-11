@@ -12,7 +12,7 @@ import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { read, update, validateBackup } from "../src/storage";
 import source from "../docs/Filmfragen-Ergaenzung-2026-10-06/Filmdaten.json";
 import { assertEditorialSource, originalQuestionId } from "./editorialSource";
-import integration from "../docs/Redaktionslauf-2026-10-10/Integration.json";
+import integration from "./fixtures/appliedEditorial.json";
 
 const latest = packages.find(
   (p) => p.path === "/film-ergaenzung-240-fragen.csv",
