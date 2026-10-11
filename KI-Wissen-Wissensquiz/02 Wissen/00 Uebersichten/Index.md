@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Fragenauswahl geprüft: Regeln je Modus, 33 stufenübergreifende Ziele und Grenzen beim Wiederholen – 11.10.2026](../../../docs/Filmreise-Freischaltung-2026-10-11.md#prüfung-der-fragenauswahl-am-11102026)
+
 - [Version 69: Filmreise-Freischaltung, gleichwahrscheinliche Stufen und geprüfte Main-Veröffentlichung](../../../docs/Veroeffentlichung-2026-10-11-Version-69.json)
 
 - [Filmreise: aktuelle 50-Prozent-Schwellen und gleichwahrscheinliche neue Schwierigkeiten – 11.10.2026](../../../docs/Filmreise-Freischaltung-2026-10-11.md)
