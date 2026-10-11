@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 3200,
-  "totalReviewed": 3350,
-  "remainingFilmQuestions": 7383,
+  "completedInThisRun": 3250,
+  "totalReviewed": 3400,
+  "remainingFilmQuestions": 7333,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 9423,
+  "remainingAllQuestions": 9373,
   "blocks": [
     {
       "block": 1,
@@ -328,6 +328,11 @@
     {
       "block": 64,
       "path": "Block-64.json",
+      "count": 50
+    },
+    {
+      "block": 65,
+      "path": "Block-65.json",
       "count": 50
     }
   ],
@@ -3681,209 +3686,59 @@
     "ROM-L-011",
     "ROM-L-012",
     "ROM-M-011",
-    "ROM-M-012"
+    "ROM-M-012",
+    "ROM-S-011",
+    "ROM-S-012",
+    "FF-256-YEAR",
+    "FF-256-DIRECTOR",
+    "E20261007-F-225-L1",
+    "E20261007-F-225-L2",
+    "E20261007-F-225-M1",
+    "E20261007-F-225-M2",
+    "E20261007-F-225-S1",
+    "E20261007-F-225-S2",
+    "E20261007-F-225-Y",
+    "E20261007-F-225-D",
+    "G100-20261008-HORROR-003-L1",
+    "G100-20261008-HORROR-003-L2",
+    "G100-20261008-HORROR-003-M1",
+    "G100-20261008-HORROR-003-M2",
+    "G100-20261008-HORROR-003-S1",
+    "G100-20261008-HORROR-003-S2",
+    "G100-20261008-HORROR-003-Y",
+    "G100-20261008-HORROR-003-D",
+    "E20261007-F-233-L1",
+    "E20261007-F-233-L2",
+    "E20261007-F-233-M1",
+    "E20261007-F-233-M2",
+    "E20261007-F-233-S1",
+    "E20261007-F-233-S2",
+    "E20261007-F-233-Y",
+    "E20261007-F-233-D",
+    "ROM-L-047",
+    "ROM-L-048",
+    "ROM-M-047",
+    "ROM-M-048",
+    "ROM-S-047",
+    "ROM-S-048",
+    "FF-274-YEAR",
+    "FF-274-DIRECTOR",
+    "E20261007-F-205-L1",
+    "E20261007-F-205-L2",
+    "E20261007-F-205-M1",
+    "E20261007-F-205-M2",
+    "E20261007-F-205-S1",
+    "E20261007-F-205-S2",
+    "E20261007-F-205-Y",
+    "E20261007-F-205-D",
+    "HOR-L-011",
+    "HOR-L-012",
+    "HOR-M-011",
+    "HOR-M-012",
+    "HOR-S-011",
+    "HOR-S-012"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "ROM-S-011",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
-    {
-      "id": "ROM-S-012",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
-    {
-      "id": "FF-256-YEAR",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
-    {
-      "id": "FF-256-DIRECTOR",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
-    {
-      "id": "E20261007-F-225-L1",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-L2",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-M1",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-M2",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-S1",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-S2",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-Y",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-D",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-L1",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-L2",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-M1",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-M2",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-S1",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-S2",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-Y",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-D",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "E20261007-F-233-L1",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-L2",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-M1",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-M2",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-S1",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-S2",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-Y",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-D",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "ROM-L-047",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "ROM-L-048",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "ROM-M-047",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "ROM-M-048",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "ROM-S-047",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "ROM-S-048",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "FF-274-YEAR",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "FF-274-DIRECTOR",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "E20261007-F-205-L1",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-L2",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-M1",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-M2",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-S1",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-S2",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-Y",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-D",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "HOR-L-011",
-      "filmKey": "Friday the 13th Part 2|1981"
-    },
-    {
-      "id": "HOR-L-012",
-      "filmKey": "Friday the 13th Part 2|1981"
-    },
-    {
-      "id": "HOR-M-011",
-      "filmKey": "Friday the 13th Part 2|1981"
-    },
-    {
-      "id": "HOR-M-012",
-      "filmKey": "Friday the 13th Part 2|1981"
-    },
-    {
-      "id": "HOR-S-011",
-      "filmKey": "Friday the 13th Part 2|1981"
-    },
-    {
-      "id": "HOR-S-012",
-      "filmKey": "Friday the 13th Part 2|1981"
-    },
     {
       "id": "FF-181-YEAR",
       "filmKey": "Friday the 13th Part 2|1981"
@@ -33219,204 +33074,204 @@
   ],
   "next": [
     {
-      "id": "ROM-S-011",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
-    {
-      "id": "ROM-S-012",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
-    {
-      "id": "FF-256-YEAR",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
-    {
-      "id": "FF-256-DIRECTOR",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
-    {
-      "id": "E20261007-F-225-L1",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-L2",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-M1",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-M2",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-S1",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-S2",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-Y",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "E20261007-F-225-D",
-      "filmKey": "Frailty|2001"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-L1",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-L2",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-M1",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-M2",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-S1",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-S2",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-Y",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "G100-20261008-HORROR-003-D",
-      "filmKey": "Frankenstein|1931"
-    },
-    {
-      "id": "E20261007-F-233-L1",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-L2",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-M1",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-M2",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-S1",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-S2",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-Y",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "E20261007-F-233-D",
-      "filmKey": "Frantic|1988"
-    },
-    {
-      "id": "ROM-L-047",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "ROM-L-048",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "ROM-M-047",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "ROM-M-048",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "ROM-S-047",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "ROM-S-048",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "FF-274-YEAR",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "FF-274-DIRECTOR",
-      "filmKey": "French Kiss|1995"
-    },
-    {
-      "id": "E20261007-F-205-L1",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-L2",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-M1",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-M2",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-S1",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-S2",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-Y",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "E20261007-F-205-D",
-      "filmKey": "Frequency|2000"
-    },
-    {
-      "id": "HOR-L-011",
+      "id": "FF-181-YEAR",
       "filmKey": "Friday the 13th Part 2|1981"
     },
     {
-      "id": "HOR-L-012",
+      "id": "FF-181-DIRECTOR",
       "filmKey": "Friday the 13th Part 2|1981"
     },
     {
-      "id": "HOR-M-011",
-      "filmKey": "Friday the 13th Part 2|1981"
+      "id": "HOR-L-009",
+      "filmKey": "Friday the 13th|1980"
     },
     {
-      "id": "HOR-M-012",
-      "filmKey": "Friday the 13th Part 2|1981"
+      "id": "HOR-L-010",
+      "filmKey": "Friday the 13th|1980"
     },
     {
-      "id": "HOR-S-011",
-      "filmKey": "Friday the 13th Part 2|1981"
+      "id": "HOR-M-009",
+      "filmKey": "Friday the 13th|1980"
     },
     {
-      "id": "HOR-S-012",
-      "filmKey": "Friday the 13th Part 2|1981"
+      "id": "HOR-M-010",
+      "filmKey": "Friday the 13th|1980"
+    },
+    {
+      "id": "HOR-S-009",
+      "filmKey": "Friday the 13th|1980"
+    },
+    {
+      "id": "HOR-S-010",
+      "filmKey": "Friday the 13th|1980"
+    },
+    {
+      "id": "FF-180-YEAR",
+      "filmKey": "Friday the 13th|1980"
+    },
+    {
+      "id": "FF-180-DIRECTOR",
+      "filmKey": "Friday the 13th|1980"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-016-L1",
+      "filmKey": "Friends with Benefits|2011"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-016-L2",
+      "filmKey": "Friends with Benefits|2011"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-016-M1",
+      "filmKey": "Friends with Benefits|2011"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-016-M2",
+      "filmKey": "Friends with Benefits|2011"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-016-S1",
+      "filmKey": "Friends with Benefits|2011"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-016-S2",
+      "filmKey": "Friends with Benefits|2011"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-016-Y",
+      "filmKey": "Friends with Benefits|2011"
+    },
+    {
+      "id": "G100-20261008-ROMCOM-016-D",
+      "filmKey": "Friends with Benefits|2011"
+    },
+    {
+      "id": "G100-20261008-HORROR-010-L1",
+      "filmKey": "Fright Night|1985"
+    },
+    {
+      "id": "G100-20261008-HORROR-010-L2",
+      "filmKey": "Fright Night|1985"
+    },
+    {
+      "id": "G100-20261008-HORROR-010-M1",
+      "filmKey": "Fright Night|1985"
+    },
+    {
+      "id": "G100-20261008-HORROR-010-M2",
+      "filmKey": "Fright Night|1985"
+    },
+    {
+      "id": "G100-20261008-HORROR-010-S1",
+      "filmKey": "Fright Night|1985"
+    },
+    {
+      "id": "G100-20261008-HORROR-010-S2",
+      "filmKey": "Fright Night|1985"
+    },
+    {
+      "id": "G100-20261008-HORROR-010-Y",
+      "filmKey": "Fright Night|1985"
+    },
+    {
+      "id": "G100-20261008-HORROR-010-D",
+      "filmKey": "Fright Night|1985"
+    },
+    {
+      "id": "E20261007-F-254-L1",
+      "filmKey": "From Here to Eternity|1953"
+    },
+    {
+      "id": "E20261007-F-254-L2",
+      "filmKey": "From Here to Eternity|1953"
+    },
+    {
+      "id": "E20261007-F-254-M1",
+      "filmKey": "From Here to Eternity|1953"
+    },
+    {
+      "id": "E20261007-F-254-M2",
+      "filmKey": "From Here to Eternity|1953"
+    },
+    {
+      "id": "E20261007-F-254-S1",
+      "filmKey": "From Here to Eternity|1953"
+    },
+    {
+      "id": "E20261007-F-254-S2",
+      "filmKey": "From Here to Eternity|1953"
+    },
+    {
+      "id": "E20261007-F-254-Y",
+      "filmKey": "From Here to Eternity|1953"
+    },
+    {
+      "id": "E20261007-F-254-D",
+      "filmKey": "From Here to Eternity|1953"
+    },
+    {
+      "id": "G100-20261008-ACTION-008-L1",
+      "filmKey": "From Russia with Love|1963"
+    },
+    {
+      "id": "G100-20261008-ACTION-008-L2",
+      "filmKey": "From Russia with Love|1963"
+    },
+    {
+      "id": "G100-20261008-ACTION-008-M1",
+      "filmKey": "From Russia with Love|1963"
+    },
+    {
+      "id": "G100-20261008-ACTION-008-M2",
+      "filmKey": "From Russia with Love|1963"
+    },
+    {
+      "id": "G100-20261008-ACTION-008-S1",
+      "filmKey": "From Russia with Love|1963"
+    },
+    {
+      "id": "G100-20261008-ACTION-008-S2",
+      "filmKey": "From Russia with Love|1963"
+    },
+    {
+      "id": "G100-20261008-ACTION-008-Y",
+      "filmKey": "From Russia with Love|1963"
+    },
+    {
+      "id": "G100-20261008-ACTION-008-D",
+      "filmKey": "From Russia with Love|1963"
+    },
+    {
+      "id": "F240-20261006-144-L1",
+      "filmKey": "Funny Girl|1968"
+    },
+    {
+      "id": "F240-20261006-144-L2",
+      "filmKey": "Funny Girl|1968"
+    },
+    {
+      "id": "F240-20261006-144-M1",
+      "filmKey": "Funny Girl|1968"
+    },
+    {
+      "id": "F240-20261006-144-M2",
+      "filmKey": "Funny Girl|1968"
+    },
+    {
+      "id": "F240-20261006-144-S1",
+      "filmKey": "Funny Girl|1968"
+    },
+    {
+      "id": "F240-20261006-144-S2",
+      "filmKey": "Funny Girl|1968"
+    },
+    {
+      "id": "F240-20261006-144-Y",
+      "filmKey": "Funny Girl|1968"
+    },
+    {
+      "id": "F240-20261006-144-D",
+      "filmKey": "Funny Girl|1968"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."

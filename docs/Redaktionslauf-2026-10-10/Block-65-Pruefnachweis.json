@@ -1,0 +1,82 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 1,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 7,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Friday the 13th Part 2|1981",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 4,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    },
+    {
+      "filmKey": "Frankenstein|1931",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 5,
+        "schwer": 1
+      },
+      "yearReviewed": true,
+      "directorReviewed": true,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    },
+    {
+      "filmKey": "French Kiss|1995",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 4,
+        "schwer": 0
+      },
+      "yearReviewed": true,
+      "directorReviewed": true,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    2,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19,
+    22,
+    23,
+    24,
+    25,
+    28,
+    36,
+    38,
+    41,
+    42,
+    43,
+    44,
+    48,
+    50
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "93b807651f5757a95489fe8d81be57acbd23db1c670fa2bd80221c3081bf9c53",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf",
+  "canonicalDisplayFieldsComplete": true
+}
