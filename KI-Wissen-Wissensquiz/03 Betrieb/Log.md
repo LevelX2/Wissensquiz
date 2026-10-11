@@ -1831,3 +1831,12 @@ Nutzerpräzisierung unverändert gesichert und im führenden Redaktionsvertrag s
 Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche Ergänzungen und sieben Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Mind→Ghost→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
 
 Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.350 von12.773 Original-IDs geprüft,8.423 offen (6.383 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-84.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-84-Pruefnachweis.json).
+
+
+### 11.10.2026 – Redaktionslauf Block 85
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 21 Vertiefungen geändert, 29 wortgleich bewahrt; 29 Antwortauswahlen und 14 Schwierigkeiten angepasst. 0 Wissensziele ausdrücklich durch neue Frage-/Wissensziel-IDs ersetzt. 4 ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. It Follows, Es erfüllen die dokumentierten Mindestziele. Offene Gruppen/Entwürfe: Es geschah in einer Nacht, Ivanhoe – Der schwarze Ritter, Ip Man, Jack Reacher, Wenn Liebe so einfach wäre.
+
+Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche Ergänzungen und sieben Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Mind→Ghost→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.400 von12.773 Original-IDs geprüft,8.373 offen (6.333 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-85.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-85-Pruefnachweis.json).

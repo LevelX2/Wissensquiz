@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 4200,
-  "totalReviewed": 4350,
-  "remainingFilmQuestions": 6383,
+  "completedInThisRun": 4250,
+  "totalReviewed": 4400,
+  "remainingFilmQuestions": 6333,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 8423,
+  "remainingAllQuestions": 8373,
   "blocks": [
     {
       "block": 1,
@@ -428,6 +428,11 @@
     {
       "block": 84,
       "path": "Block-84.json",
+      "count": 50
+    },
+    {
+      "block": 85,
+      "path": "Block-85.json",
       "count": 50
     }
   ],
@@ -4781,209 +4786,59 @@
     "MAR-M-037",
     "MAR-M-038",
     "MAR-S-037",
-    "MAR-S-038"
+    "MAR-S-038",
+    "FF-244-YEAR",
+    "FF-244-DIRECTOR",
+    "F240-20261006-085-L1",
+    "F240-20261006-085-L2",
+    "F240-20261006-085-M1",
+    "F240-20261006-085-M2",
+    "F240-20261006-085-S1",
+    "F240-20261006-085-S2",
+    "F240-20261006-085-Y",
+    "F240-20261006-085-D",
+    "F240-20261006-164-L1",
+    "F240-20261006-164-L2",
+    "F240-20261006-164-M1",
+    "F240-20261006-164-M2",
+    "F240-20261006-164-S1",
+    "F240-20261006-164-S2",
+    "F240-20261006-164-Y",
+    "F240-20261006-164-D",
+    "G100-20261008-ROMCOM-019-L1",
+    "G100-20261008-ROMCOM-019-L2",
+    "G100-20261008-ROMCOM-019-M1",
+    "G100-20261008-ROMCOM-019-M2",
+    "G100-20261008-ROMCOM-019-S1",
+    "G100-20261008-ROMCOM-019-S2",
+    "G100-20261008-ROMCOM-019-Y",
+    "G100-20261008-ROMCOM-019-D",
+    "HOR-L-025",
+    "HOR-L-026",
+    "HOR-M-025",
+    "HOR-M-026",
+    "HOR-S-025",
+    "HOR-S-026",
+    "FF-188-YEAR",
+    "FF-188-DIRECTOR",
+    "G100-20261008-ABENTEUER-007-L1",
+    "G100-20261008-ABENTEUER-007-L2",
+    "G100-20261008-ABENTEUER-007-M1",
+    "G100-20261008-ABENTEUER-007-M2",
+    "G100-20261008-ABENTEUER-007-S1",
+    "G100-20261008-ABENTEUER-007-S2",
+    "G100-20261008-ABENTEUER-007-Y",
+    "G100-20261008-ABENTEUER-007-D",
+    "G100-20261008-ACTION-025-L1",
+    "G100-20261008-ACTION-025-L2",
+    "G100-20261008-ACTION-025-M1",
+    "G100-20261008-ACTION-025-M2",
+    "G100-20261008-ACTION-025-S1",
+    "G100-20261008-ACTION-025-S2",
+    "G100-20261008-ACTION-025-Y",
+    "G100-20261008-ACTION-025-D"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "FF-244-YEAR",
-      "filmKey": "Ip Man|2008"
-    },
-    {
-      "id": "FF-244-DIRECTOR",
-      "filmKey": "Ip Man|2008"
-    },
-    {
-      "id": "F240-20261006-085-L1",
-      "filmKey": "It Follows|2014"
-    },
-    {
-      "id": "F240-20261006-085-L2",
-      "filmKey": "It Follows|2014"
-    },
-    {
-      "id": "F240-20261006-085-M1",
-      "filmKey": "It Follows|2014"
-    },
-    {
-      "id": "F240-20261006-085-M2",
-      "filmKey": "It Follows|2014"
-    },
-    {
-      "id": "F240-20261006-085-S1",
-      "filmKey": "It Follows|2014"
-    },
-    {
-      "id": "F240-20261006-085-S2",
-      "filmKey": "It Follows|2014"
-    },
-    {
-      "id": "F240-20261006-085-Y",
-      "filmKey": "It Follows|2014"
-    },
-    {
-      "id": "F240-20261006-085-D",
-      "filmKey": "It Follows|2014"
-    },
-    {
-      "id": "F240-20261006-164-L1",
-      "filmKey": "It Happened One Night|1934"
-    },
-    {
-      "id": "F240-20261006-164-L2",
-      "filmKey": "It Happened One Night|1934"
-    },
-    {
-      "id": "F240-20261006-164-M1",
-      "filmKey": "It Happened One Night|1934"
-    },
-    {
-      "id": "F240-20261006-164-M2",
-      "filmKey": "It Happened One Night|1934"
-    },
-    {
-      "id": "F240-20261006-164-S1",
-      "filmKey": "It Happened One Night|1934"
-    },
-    {
-      "id": "F240-20261006-164-S2",
-      "filmKey": "It Happened One Night|1934"
-    },
-    {
-      "id": "F240-20261006-164-Y",
-      "filmKey": "It Happened One Night|1934"
-    },
-    {
-      "id": "F240-20261006-164-D",
-      "filmKey": "It Happened One Night|1934"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-019-L1",
-      "filmKey": "It's Complicated|2009"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-019-L2",
-      "filmKey": "It's Complicated|2009"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-019-M1",
-      "filmKey": "It's Complicated|2009"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-019-M2",
-      "filmKey": "It's Complicated|2009"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-019-S1",
-      "filmKey": "It's Complicated|2009"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-019-S2",
-      "filmKey": "It's Complicated|2009"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-019-Y",
-      "filmKey": "It's Complicated|2009"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-019-D",
-      "filmKey": "It's Complicated|2009"
-    },
-    {
-      "id": "HOR-L-025",
-      "filmKey": "It|2017"
-    },
-    {
-      "id": "HOR-L-026",
-      "filmKey": "It|2017"
-    },
-    {
-      "id": "HOR-M-025",
-      "filmKey": "It|2017"
-    },
-    {
-      "id": "HOR-M-026",
-      "filmKey": "It|2017"
-    },
-    {
-      "id": "HOR-S-025",
-      "filmKey": "It|2017"
-    },
-    {
-      "id": "HOR-S-026",
-      "filmKey": "It|2017"
-    },
-    {
-      "id": "FF-188-YEAR",
-      "filmKey": "It|2017"
-    },
-    {
-      "id": "FF-188-DIRECTOR",
-      "filmKey": "It|2017"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-007-L1",
-      "filmKey": "Ivanhoe|1952"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-007-L2",
-      "filmKey": "Ivanhoe|1952"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-007-M1",
-      "filmKey": "Ivanhoe|1952"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-007-M2",
-      "filmKey": "Ivanhoe|1952"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-007-S1",
-      "filmKey": "Ivanhoe|1952"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-007-S2",
-      "filmKey": "Ivanhoe|1952"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-007-Y",
-      "filmKey": "Ivanhoe|1952"
-    },
-    {
-      "id": "G100-20261008-ABENTEUER-007-D",
-      "filmKey": "Ivanhoe|1952"
-    },
-    {
-      "id": "G100-20261008-ACTION-025-L1",
-      "filmKey": "Jack Reacher|2012"
-    },
-    {
-      "id": "G100-20261008-ACTION-025-L2",
-      "filmKey": "Jack Reacher|2012"
-    },
-    {
-      "id": "G100-20261008-ACTION-025-M1",
-      "filmKey": "Jack Reacher|2012"
-    },
-    {
-      "id": "G100-20261008-ACTION-025-M2",
-      "filmKey": "Jack Reacher|2012"
-    },
-    {
-      "id": "G100-20261008-ACTION-025-S1",
-      "filmKey": "Jack Reacher|2012"
-    },
-    {
-      "id": "G100-20261008-ACTION-025-S2",
-      "filmKey": "Jack Reacher|2012"
-    },
-    {
-      "id": "G100-20261008-ACTION-025-Y",
-      "filmKey": "Jack Reacher|2012"
-    },
-    {
-      "id": "G100-20261008-ACTION-025-D",
-      "filmKey": "Jack Reacher|2012"
-    },
     {
       "id": "F240-20261006-057-L1",
       "filmKey": "Jagten|2012"
@@ -30319,204 +30174,204 @@
   ],
   "next": [
     {
-      "id": "FF-244-YEAR",
-      "filmKey": "Ip Man|2008"
+      "id": "F240-20261006-057-L1",
+      "filmKey": "Jagten|2012"
     },
     {
-      "id": "FF-244-DIRECTOR",
-      "filmKey": "Ip Man|2008"
+      "id": "F240-20261006-057-L2",
+      "filmKey": "Jagten|2012"
     },
     {
-      "id": "F240-20261006-085-L1",
-      "filmKey": "It Follows|2014"
+      "id": "F240-20261006-057-M1",
+      "filmKey": "Jagten|2012"
     },
     {
-      "id": "F240-20261006-085-L2",
-      "filmKey": "It Follows|2014"
+      "id": "F240-20261006-057-M2",
+      "filmKey": "Jagten|2012"
     },
     {
-      "id": "F240-20261006-085-M1",
-      "filmKey": "It Follows|2014"
+      "id": "F240-20261006-057-S1",
+      "filmKey": "Jagten|2012"
     },
     {
-      "id": "F240-20261006-085-M2",
-      "filmKey": "It Follows|2014"
+      "id": "F240-20261006-057-S2",
+      "filmKey": "Jagten|2012"
     },
     {
-      "id": "F240-20261006-085-S1",
-      "filmKey": "It Follows|2014"
+      "id": "F240-20261006-057-Y",
+      "filmKey": "Jagten|2012"
     },
     {
-      "id": "F240-20261006-085-S2",
-      "filmKey": "It Follows|2014"
+      "id": "F240-20261006-057-D",
+      "filmKey": "Jagten|2012"
     },
     {
-      "id": "F240-20261006-085-Y",
-      "filmKey": "It Follows|2014"
+      "id": "F240-20261006-094-L1",
+      "filmKey": "Janghwa, Hongryeon|2003"
     },
     {
-      "id": "F240-20261006-085-D",
-      "filmKey": "It Follows|2014"
+      "id": "F240-20261006-094-L2",
+      "filmKey": "Janghwa, Hongryeon|2003"
     },
     {
-      "id": "F240-20261006-164-L1",
-      "filmKey": "It Happened One Night|1934"
+      "id": "F240-20261006-094-M1",
+      "filmKey": "Janghwa, Hongryeon|2003"
     },
     {
-      "id": "F240-20261006-164-L2",
-      "filmKey": "It Happened One Night|1934"
+      "id": "F240-20261006-094-M2",
+      "filmKey": "Janghwa, Hongryeon|2003"
     },
     {
-      "id": "F240-20261006-164-M1",
-      "filmKey": "It Happened One Night|1934"
+      "id": "F240-20261006-094-S1",
+      "filmKey": "Janghwa, Hongryeon|2003"
     },
     {
-      "id": "F240-20261006-164-M2",
-      "filmKey": "It Happened One Night|1934"
+      "id": "F240-20261006-094-S2",
+      "filmKey": "Janghwa, Hongryeon|2003"
     },
     {
-      "id": "F240-20261006-164-S1",
-      "filmKey": "It Happened One Night|1934"
+      "id": "F240-20261006-094-Y",
+      "filmKey": "Janghwa, Hongryeon|2003"
     },
     {
-      "id": "F240-20261006-164-S2",
-      "filmKey": "It Happened One Night|1934"
+      "id": "F240-20261006-094-D",
+      "filmKey": "Janghwa, Hongryeon|2003"
     },
     {
-      "id": "F240-20261006-164-Y",
-      "filmKey": "It Happened One Night|1934"
+      "id": "G100-20261008-HORROR-015-L1",
+      "filmKey": "Jeepers Creepers|2001"
     },
     {
-      "id": "F240-20261006-164-D",
-      "filmKey": "It Happened One Night|1934"
+      "id": "G100-20261008-HORROR-015-L2",
+      "filmKey": "Jeepers Creepers|2001"
     },
     {
-      "id": "G100-20261008-ROMCOM-019-L1",
-      "filmKey": "It's Complicated|2009"
+      "id": "G100-20261008-HORROR-015-M1",
+      "filmKey": "Jeepers Creepers|2001"
     },
     {
-      "id": "G100-20261008-ROMCOM-019-L2",
-      "filmKey": "It's Complicated|2009"
+      "id": "G100-20261008-HORROR-015-M2",
+      "filmKey": "Jeepers Creepers|2001"
     },
     {
-      "id": "G100-20261008-ROMCOM-019-M1",
-      "filmKey": "It's Complicated|2009"
+      "id": "G100-20261008-HORROR-015-S1",
+      "filmKey": "Jeepers Creepers|2001"
     },
     {
-      "id": "G100-20261008-ROMCOM-019-M2",
-      "filmKey": "It's Complicated|2009"
+      "id": "G100-20261008-HORROR-015-S2",
+      "filmKey": "Jeepers Creepers|2001"
     },
     {
-      "id": "G100-20261008-ROMCOM-019-S1",
-      "filmKey": "It's Complicated|2009"
+      "id": "G100-20261008-HORROR-015-Y",
+      "filmKey": "Jeepers Creepers|2001"
     },
     {
-      "id": "G100-20261008-ROMCOM-019-S2",
-      "filmKey": "It's Complicated|2009"
+      "id": "G100-20261008-HORROR-015-D",
+      "filmKey": "Jeepers Creepers|2001"
     },
     {
-      "id": "G100-20261008-ROMCOM-019-Y",
-      "filmKey": "It's Complicated|2009"
+      "id": "WES-L-043",
+      "filmKey": "Jeremiah Johnson|1972"
     },
     {
-      "id": "G100-20261008-ROMCOM-019-D",
-      "filmKey": "It's Complicated|2009"
+      "id": "WES-L-044",
+      "filmKey": "Jeremiah Johnson|1972"
     },
     {
-      "id": "HOR-L-025",
-      "filmKey": "It|2017"
+      "id": "WES-M-043",
+      "filmKey": "Jeremiah Johnson|1972"
     },
     {
-      "id": "HOR-L-026",
-      "filmKey": "It|2017"
+      "id": "WES-M-044",
+      "filmKey": "Jeremiah Johnson|1972"
     },
     {
-      "id": "HOR-M-025",
-      "filmKey": "It|2017"
+      "id": "WES-S-043",
+      "filmKey": "Jeremiah Johnson|1972"
     },
     {
-      "id": "HOR-M-026",
-      "filmKey": "It|2017"
+      "id": "WES-S-044",
+      "filmKey": "Jeremiah Johnson|1972"
     },
     {
-      "id": "HOR-S-025",
-      "filmKey": "It|2017"
+      "id": "FF-297-YEAR",
+      "filmKey": "Jeremiah Johnson|1972"
     },
     {
-      "id": "HOR-S-026",
-      "filmKey": "It|2017"
+      "id": "FF-297-DIRECTOR",
+      "filmKey": "Jeremiah Johnson|1972"
     },
     {
-      "id": "FF-188-YEAR",
-      "filmKey": "It|2017"
+      "id": "MUS-202610-P01-L-017",
+      "filmKey": "Jesus Christ Superstar|1973"
     },
     {
-      "id": "FF-188-DIRECTOR",
-      "filmKey": "It|2017"
+      "id": "MUS-202610-P01-L-018",
+      "filmKey": "Jesus Christ Superstar|1973"
     },
     {
-      "id": "G100-20261008-ABENTEUER-007-L1",
-      "filmKey": "Ivanhoe|1952"
+      "id": "MUS-202610-P01-M-025",
+      "filmKey": "Jesus Christ Superstar|1973"
     },
     {
-      "id": "G100-20261008-ABENTEUER-007-L2",
-      "filmKey": "Ivanhoe|1952"
+      "id": "MUS-202610-P01-M-026",
+      "filmKey": "Jesus Christ Superstar|1973"
     },
     {
-      "id": "G100-20261008-ABENTEUER-007-M1",
-      "filmKey": "Ivanhoe|1952"
+      "id": "MUS-202610-P01-S-025",
+      "filmKey": "Jesus Christ Superstar|1973"
     },
     {
-      "id": "G100-20261008-ABENTEUER-007-M2",
-      "filmKey": "Ivanhoe|1952"
+      "id": "MUS-202610-P01-S-026",
+      "filmKey": "Jesus Christ Superstar|1973"
     },
     {
-      "id": "G100-20261008-ABENTEUER-007-S1",
-      "filmKey": "Ivanhoe|1952"
+      "id": "MUS-202610-P01-M-027",
+      "filmKey": "Jesus Christ Superstar|1973"
     },
     {
-      "id": "G100-20261008-ABENTEUER-007-S2",
-      "filmKey": "Ivanhoe|1952"
+      "id": "MUS-202610-P01-S-027",
+      "filmKey": "Jesus Christ Superstar|1973"
     },
     {
-      "id": "G100-20261008-ABENTEUER-007-Y",
-      "filmKey": "Ivanhoe|1952"
+      "id": "F240-20261006-055-L1",
+      "filmKey": "Jodāyi-e Nāder az Simin|2011"
     },
     {
-      "id": "G100-20261008-ABENTEUER-007-D",
-      "filmKey": "Ivanhoe|1952"
+      "id": "F240-20261006-055-L2",
+      "filmKey": "Jodāyi-e Nāder az Simin|2011"
     },
     {
-      "id": "G100-20261008-ACTION-025-L1",
-      "filmKey": "Jack Reacher|2012"
+      "id": "F240-20261006-055-M1",
+      "filmKey": "Jodāyi-e Nāder az Simin|2011"
     },
     {
-      "id": "G100-20261008-ACTION-025-L2",
-      "filmKey": "Jack Reacher|2012"
+      "id": "F240-20261006-055-M2",
+      "filmKey": "Jodāyi-e Nāder az Simin|2011"
     },
     {
-      "id": "G100-20261008-ACTION-025-M1",
-      "filmKey": "Jack Reacher|2012"
+      "id": "F240-20261006-055-S1",
+      "filmKey": "Jodāyi-e Nāder az Simin|2011"
     },
     {
-      "id": "G100-20261008-ACTION-025-M2",
-      "filmKey": "Jack Reacher|2012"
+      "id": "F240-20261006-055-S2",
+      "filmKey": "Jodāyi-e Nāder az Simin|2011"
     },
     {
-      "id": "G100-20261008-ACTION-025-S1",
-      "filmKey": "Jack Reacher|2012"
+      "id": "F240-20261006-055-Y",
+      "filmKey": "Jodāyi-e Nāder az Simin|2011"
     },
     {
-      "id": "G100-20261008-ACTION-025-S2",
-      "filmKey": "Jack Reacher|2012"
+      "id": "F240-20261006-055-D",
+      "filmKey": "Jodāyi-e Nāder az Simin|2011"
     },
     {
-      "id": "G100-20261008-ACTION-025-Y",
-      "filmKey": "Jack Reacher|2012"
+      "id": "SF-202609-P02-L-077",
+      "filmKey": "John Carter|2012"
     },
     {
-      "id": "G100-20261008-ACTION-025-D",
-      "filmKey": "Jack Reacher|2012"
+      "id": "SF-202609-P02-L-078",
+      "filmKey": "John Carter|2012"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
