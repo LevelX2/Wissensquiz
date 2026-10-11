@@ -4,8 +4,6 @@ import { familiarityOf, type Familiarity } from "./familiarity";
 import curriculum from "./journeyCurriculum.json" with { type: "json" };
 import { roundFacts } from "./roundArchive";
 
-export const PATH_TARGET = 20; // Historical rule, retained only for earned legacy unlocks.
-export const AREA_TARGET = 20;
 export const pathAreaOf = (
   q: Pick<Question, "metadata" | "tags" | "domain">,
 ) => {
@@ -17,39 +15,42 @@ export type PathUnlock =
   | { genre: string; familiarity: Familiarity };
 type Plan = (typeof curriculum.genres)[keyof typeof curriculum.genres];
 const plans = curriculum.genres as Record<string, Plan>;
-export function learningPathProgress(state: State, legacyFilmAwards = false) {
+export function learningPathProgress(state: State) {
   const retained = structuredClone(state.journey?.earned ?? {});
   const snapshots = new Map<string, ReturnType<typeof roundFacts>[number]>();
-  const legacyRounds = new Set<string>();
   for (const round of state.rounds) {
     if (round.status !== "completed") continue;
-    if (round.ruleVersion === "1") legacyRounds.add(round.id);
     for (const q of roundFacts(round)) snapshots.set(`${round.id}:${q.id}`, q);
   }
+  const currentGoals = new Set(
+    state.questions.map((q) =>
+      JSON.stringify([pathAreaOf(q), q.difficulty, q.knowledgeId]),
+    ),
+  );
   const goals = new Map<string, Record<Difficulty, Set<string>>>();
-  const legacy = new Map<string, Record<Difficulty, Set<string>>>();
   for (const e of state.events) {
     if (!e.correct || e.guessed || e.answerId === null) continue;
     const q = snapshots.get(`${e.roundId}:${e.questionId}`);
-    if (!q || (legacyFilmAwards && q.metadata.person_id)) continue;
-    const genre = legacyFilmAwards ? genreOf(q) : pathAreaOf(q);
-    for (const target of legacyRounds.has(e.roundId)
-      ? [goals, legacy]
-      : [goals]) {
-      if (!target.has(genre))
-        target.set(genre, {
-          leicht: new Set(),
-          mittel: new Set(),
-          schwer: new Set(),
-          experte: new Set(),
-        });
-      target.get(genre)![q.difficulty].add(q.knowledgeId);
-    }
+    if (
+      !q ||
+      !currentGoals.has(
+        JSON.stringify([pathAreaOf(q), q.difficulty, q.knowledgeId]),
+      )
+    )
+      continue;
+    const genre = pathAreaOf(q);
+    if (!goals.has(genre))
+      goals.set(genre, {
+        leicht: new Set(),
+        mittel: new Set(),
+        schwer: new Set(),
+        experte: new Set(),
+      });
+    goals.get(genre)![q.difficulty].add(q.knowledgeId);
   }
   const available = new Map<string, Question[]>();
   for (const q of state.questions) {
-    if (legacyFilmAwards && q.metadata.person_id) continue;
-    const g = legacyFilmAwards ? genreOf(q) : pathAreaOf(q);
+    const g = pathAreaOf(q);
     if (!available.has(g)) available.set(g, []);
     available.get(g)!.push(q);
   }
@@ -58,8 +59,7 @@ export function learningPathProgress(state: State, legacyFilmAwards = false) {
     const qs = available.get(genre) ?? [];
     const plan = plans[genre];
     const independent =
-      !legacyFilmAwards &&
-      (genre === sourceLabels.actors || genre === sourceLabels.awards);
+      genre === sourceLabels.actors || genre === sourceLabels.awards;
     const levels = independent
       ? []
       : [
@@ -72,35 +72,20 @@ export function learningPathProgress(state: State, legacyFilmAwards = false) {
     const medium = goals.get(genre)?.mittel.size ?? 0;
     const hard = goals.get(genre)?.schwer.size ?? 0;
     const earned = retained[genre];
-    const target = (d: Difficulty, index: number) => {
+    const target = (d: Difficulty) => {
       const present = new Set(
         qs.filter((q) => q.difficulty === d).map((q) => q.knowledgeId),
       ).size;
-      return Math.min(
-        independent
-          ? AREA_TARGET
-          : (plan?.difficultyTargets[index] ??
-              Math.max(1, Math.ceil(present * 0.6))),
-        present,
-      );
+      return Math.ceil(present / 2);
     };
-    const easyTarget = target("leicht", 0),
-      mediumTarget = target("mittel", 1),
-      hardTarget = independent ? target("schwer", 2) : 0;
-    const legacyEasy = legacy.get(genre)?.leicht.size ?? 0,
-      legacyMedium = legacy.get(genre)?.mittel.size ?? 0;
-    const mediumUnlocked =
-      (earned?.difficulty ?? 0) >= 1 ||
-      legacyEasy >= PATH_TARGET ||
-      (easyTarget > 0 && easy >= easyTarget);
+    const easyTarget = target("leicht"),
+      mediumTarget = target("mittel"),
+      hardTarget = independent ? target("schwer") : 0;
+    const mediumUnlocked = easyTarget > 0 && easy >= easyTarget;
     const hardUnlocked =
-      (earned?.difficulty ?? 0) >= 2 ||
-      (legacyEasy >= PATH_TARGET && legacyMedium >= PATH_TARGET) ||
-      (mediumUnlocked && mediumTarget > 0 && medium >= mediumTarget);
+      mediumUnlocked && mediumTarget > 0 && medium >= mediumTarget;
     const expertUnlocked =
-      independent &&
-      ((earned?.difficulty ?? 0) >= 3 ||
-        (hardUnlocked && hardTarget > 0 && hard >= hardTarget));
+      independent && hardUnlocked && hardTarget > 0 && hard >= hardTarget;
     let max = Math.max(first, earned?.familiarity ?? 0);
     const groups = levels.map((level, index) => {
       const defined = plan?.groups.find((g) => g.level === level);
@@ -216,26 +201,7 @@ export function nextJourneyStep(
 
 export function retainJourneyUnlocks(state: State) {
   const earned = { ...state.journey?.earned };
-  // Older releases counted award answers towards film genres. Preserve those
-  // earned rights once before separating the areas; future award answers do not.
   const hasAreas = state.questions.some((q) => questionSourceOf(q) !== "film");
-  if (hasAreas && !state.journey?.independentAreas) {
-    const previous = learningPathProgress(state, true);
-    for (const genre of new Set(
-      state.questions.filter((q) => !q.metadata.person_id).map(genreOf),
-    )) {
-      const p = previous(genre);
-      if (p.mediumUnlocked || p.familiarity > p.first || earned[genre])
-        earned[genre] = {
-          difficulty: Math.max(
-            earned[genre]?.difficulty ?? 0,
-            p.hardUnlocked ? 2 : p.mediumUnlocked ? 1 : 0,
-          ),
-          familiarity: Math.max(earned[genre]?.familiarity ?? 0, p.familiarity),
-        };
-    }
-    state.journey = { version: 1, earned, independentAreas: true };
-  }
   const progress = learningPathProgress(state);
   for (const genre of new Set(state.questions.map(pathAreaOf))) {
     const p = progress(genre);

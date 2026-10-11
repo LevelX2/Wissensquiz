@@ -60,7 +60,7 @@ it("ordnet alle bekannten Filmfassungen genau einmal redaktionell ein und erhäl
       familiarityOf(questions.find((p) => p.id === q.metadata.variant_of)!),
     );
 });
-it("startet bei Film-Ikonen, öffnet unabhängig Filmgruppen und bewahrt verdiente Stufen bei Katalogzuwachs", async () => {
+it("startet bei Film-Ikonen, öffnet Filmgruppen unabhängig und berechnet Schwellen bei Katalogzuwachs neu", async () => {
   const s = emptyState(questions);
   expect(
     pathQuestions(s).every(
@@ -82,10 +82,14 @@ it("startet bei Film-Ikonen, öffnet unabhängig Filmgruppen und bewahrt verdien
     familiarity: 2,
   });
   expect(pathQuestions(s).some((q) => familiarityOf(q) === 2)).toBe(true);
-  const target = learningPathProgress(s)("Horror").easyTarget;
   const old = structuredClone(s);
   s.questions.push({ ...questions[0], id: "extra", knowledgeId: "extra" });
-  expect(learningPathProgress(s)("Horror").easyTarget).toBe(target);
+  expect(learningPathProgress(s)("Horror").easyTarget).toBe(
+    Math.ceil(
+      (unique(questions.filter((q) => q.difficulty === "leicht")).length + 1) /
+        2,
+    ),
+  );
   expect(learningPathProgress(s)("Horror").familiarity).toBeGreaterThanOrEqual(
     2,
   );
@@ -185,8 +189,32 @@ it("prüft Erreichbarkeit aller festen Ziele im vollständigen Katalog und leere
   for (const [genre, plan] of Object.entries(curriculum.genres)) {
     const p = progress(genre);
     expect(p.first).toBe(plan.first);
-    expect(p.easyTarget).toBe(plan.difficultyTargets[0]);
-    expect(p.mediumTarget).toBe(plan.difficultyTargets[1]);
+    expect(p.easyTarget).toBe(
+      Math.ceil(
+        unique(
+          s.questions.filter(
+            (q) =>
+              genreOf(q) === genre &&
+              !q.tags.includes("Preisträger") &&
+              !q.metadata.person_id &&
+              q.difficulty === "leicht",
+          ),
+        ).length / 2,
+      ),
+    );
+    expect(p.mediumTarget).toBe(
+      Math.ceil(
+        unique(
+          s.questions.filter(
+            (q) =>
+              genreOf(q) === genre &&
+              !q.tags.includes("Preisträger") &&
+              !q.metadata.person_id &&
+              q.difficulty === "mittel",
+          ),
+        ).length / 2,
+      ),
+    );
     for (const group of plan.groups) {
       const actual = new Set(
         s.questions
@@ -205,7 +233,7 @@ it("prüft Erreichbarkeit aller festen Ziele im vollständigen Katalog und leere
     expect(pathQuestions(s).some((q) => genreOf(q) === genre)).toBe(true);
   }
 });
-it("behält historische 20-Ziele-Rechte auch wenn die neue Sci-Fi-Schwelle höher ist", () => {
+it("berechnet alte Kurzfreigaben aus aktuellen sicheren Zielen neu", () => {
   const qs = importCsv(readFileSync("public/fragen.csv", "utf8")).questions;
   const s = emptyState(qs);
   const goals = unique(qs.filter((q) => q.difficulty === "leicht")).slice(
@@ -215,11 +243,11 @@ it("behält historische 20-Ziele-Rechte auch wenn die neue Sci-Fi-Schwelle höhe
   play(s, goals);
   for (const r of s.rounds) r.ruleVersion = "1";
   delete s.journey;
-  expect(learningPathProgress(s)("Science-Fiction").mediumUnlocked).toBe(true);
+  expect(learningPathProgress(s)("Science-Fiction").mediumUnlocked).toBe(false);
   retainJourneyUnlocks(s);
-  expect(validateBackup(s).journey?.earned["Science-Fiction"].difficulty).toBe(
-    1,
-  );
+  expect(
+    validateBackup(s).journey?.earned["Science-Fiction"]?.difficulty ?? 0,
+  ).toBe(0);
 });
 it("validiert historische Bekanntheit gegen den Rundensnapshot statt spätere redaktionelle Zuordnung", () => {
   const s = emptyState(questions);

@@ -1,5 +1,7 @@
 # Spielmodi und Filmbekanntheit
 
+**Aktuell seit 11.10.2026:** [50-Prozent-Freischaltung und gleichwahrscheinliche neue Schwierigkeiten](Filmreise-Freischaltung-2026-10-11.md) ersetzen die unten dokumentierten eingefrorenen Schwierigkeitsschwellen und historischen Bestandsrechte. Die Filmgruppenregeln bleiben bestehen.
+
 ## Aktuelle Abdeckung und Kurvenprüfung – 04.10.2026
 
 Der aktuelle Genrepool umfasst **545 Filme, 4.677 Filmfragen und 4.197 eindeutige Filmziele**, verteilt auf 84 Film-Ikonen, 254 bekannte Filme, 166 Kennerfilme und 41 Entdeckungen. Alle 545 Werke besitzen Inhalte auf Leicht, Mittel und Schwer. Abenteuer (16 Filme) und Thriller (22) haben den kleinsten Bestand; Action und Rom-Com haben keine Entdeckungen, Fantasy eine und Komödie zwei. Feste Freischaltanker sind erreichbar, bleiben aber teilweise auf sehr kleine frühere Bestände begrenzt. Mengen, Grenzen und Vorschläge: [Filmabdeckung und Lernkurven](Filmabdeckung-2026-10-04.md), [vollständiger Nachweis](Filmabdeckung-2026-10-04.json). Keine Inhalts- oder Regeländerung durch diese Prüfung.
@@ -55,7 +57,7 @@ Vier Gruppen: **1 Film-Ikonen**, **2 Bekannte Filme**, **3 Kennerfilme**, **4 En
 | Zeitkonto (`zeitkonto`) | Standardmix oder eigene Auswahl; 120 Sekunden, +15/−45 und Antwortzeit | Wiederholung erst nach vollständigem Pooldurchgang |
 | Wiederholen (`fehler`) | Filmfilter frei, ohne Uhr | Ausschließlich fällige Filmziele, älteste Termine zuerst; einschließlich früher sicher gelöster Ziele |
 
-In Filmreise, Freiem Spiel und Rekordrunde zuerst Wissensziele zufällig mischen, dann eine passende Fragevariante wählen. Zusätzliche Varianten bringen keine zusätzlichen Lose. Pro Runde jedes Ziel höchstens einmal; unabhängige freie Runden können sich wiederholen. Lernmodi: ab der ersten Runde bis zehn Fragen, bei kleinerer passender Auswahl entsprechend weniger. Die frühere erste Fünferrunde entfällt auf Nutzerauftrag vom 10.10.2026. Neue feste Rekordrunden: bis zehn; Endlosmodi ohne feste Fragenzahl. Die Filmreise reserviert 40 Prozent für fällige Ziele; fehlende Plätze bleiben durch neue und bekannte Ziele spielbar. Frisch geöffnete Etappen erhalten einen bevorzugten Einstieg. Mehrere Genres teilen dieses Kontingent.
+In Filmreise, Freiem Spiel und Rekordrunde zuerst Wissensziele zufällig mischen, dann eine passende Fragevariante wählen. Zusätzliche Varianten bringen keine zusätzlichen Lose. Pro Runde jedes Ziel höchstens einmal; unabhängige freie Runden können sich wiederholen. Lernmodi: ab der ersten Runde bis zehn Fragen, bei kleinerer passender Auswahl entsprechend weniger. Die frühere erste Fünferrunde entfällt auf Nutzerauftrag vom 10.10.2026. Neue feste Rekordrunden: bis zehn; Endlosmodi ohne feste Fragenzahl. Die Filmreise reserviert 40 Prozent für fällige Ziele; fehlende Plätze bleiben durch neue und bekannte Ziele spielbar. Neue Ziele werden zuerst gleichwahrscheinlich nach verfügbarer Schwierigkeit, dann nach Ziel und Variante gezogen. Mehrere Genres teilen dieses Kontingent.
 
 Wiederholen ersetzt seit 10.10.2026 das frühere Fehlertraining mit der bestehenden Modus-ID `fehler`. Neue oder noch nicht fällige Ziele werden nicht ergänzt. Offene Fehler bleiben als Ergebnis-/Karrierekennzahl erhalten. Die Moduskarte zeigt ausschließlich hier den fälligen Gesamtbestand; Filmreise zeigt stattdessen die nächste erreichbare Etappe. [Führender Vertrag](Wiederholungen-und-Lernstufen-2026-10-10.md), [Ergebnisvertrag](Lernregeln.md#wiederholen-und-rundenauswertung).
 
@@ -65,16 +67,9 @@ Die neue Modus-ID wird in Rundensnapshots und der gespeicherten Auswahl validier
 
 Der Hinweis unter Losspielen erklärt den gewählten Modus in zwei kurzen Sätzen. „Mehr zu Auswahl und Ablauf“ öffnet die Erläuterung der Filterzusammenfassung, Rundengröße, Fragenauswahl und gemeinsamen Fortschrittswertung; bei Rekord zusätzlich Timer, Tabwechsel und Neuladen. Beim Moduswechsel ist die Erklärung wieder geschlossen. Der Spoilerhinweis bleibt sichtbar. Doppelte Moduserklärungen unter den Filtern entfallen; Auswahlalgorithmus und Speicherung bleiben unverändert.
 
-`src/journeyCurriculum.json` ist der eingefrorene Startplan aus dem vollständigen Katalog einschließlich Filmwissen-Fragen. Neue Pakete ändern diese Ziele nicht automatisch.
+Der aktuelle [Freischaltvertrag](Filmreise-Freischaltung-2026-10-11.md) gilt für Filmgenres, Schauspieler und Preisträger. 50 Prozent der aktuellen Ziele der vorherigen Schwierigkeit, aufgerundet, öffnen die nächste Schwierigkeit; die vorherige Stufe muss bereits offen sein. Sichere unterschiedliche Ziele abgeschlossener Runden aller Modi zählen. Alte Kurzfreigaben sind keine Ausnahme.
 
-- Einstieg je Genre bei Leicht und der niedrigsten vorhandenen Filmgruppe. Leere Gruppen überspringen; Thriller und Musik beginnen bei Gruppe 2.
-- Schwierigkeit: Ziel für Mittel = aufgerundet 60 Prozent der leichten Ziele der Einstiegsgruppe; Ziel für Schwer entsprechend den mittleren. **Der Zähler umfasst sichere Ziele dieser Schwierigkeit aus allen Filmgruppen des Genres.** Schwer setzt Mittel voraus. Nenner wachsen beim Öffnen weiterer Gruppen nicht.
-- Filmgruppen: 60 Prozent der festen leichten Wissensziel-IDs einer Gruppe öffnen die nächste vorhandene Gruppe. Fehlen leichte Fragen, zählt die niedrigste vorhandene Schwierigkeit. Schwer ist keine Voraussetzung.
-- Nur sichere richtige Antworten abgeschlossener Runden zählen, in allen Modi einschließlich bisheriger Historie. Varianten, Wiederholungen, geratene und abgebrochene Antworten erhöhen die Zähler nicht.
-- Bei Teilkatalogen Ziele auf vorhandene geeignete Inhalte begrenzen. Erworbene Rechte stehen in `journey.earned` und bleiben erhalten. Historisch mit Regel 1 erreichte 20/20-Freischaltungen gelten weiter.
-- Neue Schwierigkeiten und Filmgruppen feiern beim Abschluss mit der vorhandenen Animation, Fanfare und optionalen Vibration. Reduzierte Bewegung wird beachtet. `round.unlocks` hält den damaligen Erfolg für den Rückblick fest.
-
-Bei Umstufungen und neuen Genres Plan und Erreichbarkeit ausdrücklich prüfen, erworbene Rechte erhalten. Die mehrtägige Festigung bleibt eine unabhängige Lernkennzahl.
+`src/journeyCurriculum.json` enthält ausschließlich den Plan für Bekanntheitsgruppen: 60 Prozent der festgelegten leichten Ziele öffnen die nächste vorhandene Filmgruppe. Leere Gruppen werden übersprungen; fehlende leichte Ziele verwenden die niedrigste vorhandene Schwierigkeit. Diese Gruppenrechte bleiben erhalten. Die Erreichbarkeit wird bei Inhaltsänderungen geprüft.
 
 ## Speicherung und Rekorde
 
@@ -84,7 +79,7 @@ Interne Modus-IDs bleiben erhalten. Neue Filter speichern `familiarities` kanoni
 
 Rekordkennung: `2.B<gewählte Gruppen>.M<Schwierigkeit/Gruppe:Anzahl,...>`. Tatsächliche Mischung und gewählte Gruppen sind Teil der Vergleichskategorie; verbleibende Plätze oder kleine Pools führen daher nicht zu unfair vermischten Listen. Oberfläche zeigt lesbare Angaben. Die vorhandene SQL-Rangliste verwendet bereits die vollständige Regelkennung (maximal 100 Zeichen); **keine SQL-Migration** nötig. Regel 1 bleibt separat. Gemeinsame Highscores bleiben kleine Ergebnisobjekte ohne neue Fragenkopien.
 
-## Verteilung und Schwellen
+## Historische Verteilung und Schwellen (ersetzt am 11.10.2026)
 
 Filmzahlen, keine Fragezahlen; Schwellen aus dem vollständigen Startplan. Teilimporte können niedrigere erreichbare Ziele haben.
 

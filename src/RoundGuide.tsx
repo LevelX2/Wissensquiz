@@ -15,7 +15,7 @@ const guides: Record<
     introduction:
       "Du entdeckst Filmwissen ohne Zeitdruck und schaltest Schritt für Schritt neue Stufen frei. Filmgenres, Schauspieler und Preisträger haben jeweils ihren eigenen Fortschritt.",
     selection:
-      "Du kombinierst Fragenbereiche und Filmgenres aus Deinen freigeschalteten Etappen. Bei genügend passenden Fragen enthält eine Zehnerrunde sechs neue Ziele und vier fällige Wiederholungen. Fehlen neue oder fällige Ziele, ergänzen bekannte Fragen die Runde. Die nächste Etappe zeigt Dir das nächste Freischaltziel.",
+      "Du kombinierst Fragenbereiche und Filmgenres aus Deinen freigeschalteten Etappen. Bei genügend passenden Fragen enthält eine Zehnerrunde sechs neue Ziele und vier fällige Wiederholungen. Bei neuen Fragen sind alle offenen Schwierigkeiten mit noch ungesehenen Zielen gleich wahrscheinlich; danach wird ein Ziel und eine passende Variante zufällig gewählt. Fehlen neue oder fällige Ziele, ergänzen bekannte Fragen die Runde. Die nächste Etappe zeigt Dir das nächste Freischaltziel.",
     flow: "Jede Runde umfasst bis zu zehn Fragen. Nach jeder Antwort siehst Du Lösung und Erklärung. Sichere Treffer bringen Dich beim Rundenabschluss weiter; geratene Treffer zählen dafür nicht. Pro Runde kommt jedes Wissensziel höchstens einmal vor. Deine Stufenfortschritte zeigen die nächste Freischaltung.",
   },
   ueben: {

@@ -109,7 +109,7 @@ it("beginnt Musik für neue Spieler bei Gruppe 1 und bewahrt den bisherigen Grup
   ).toBe(5);
 });
 
-it("bewahrt Musik-Freischaltungen, Lernereignisse, aktive Runde und Wiederholungsplanung beim Nachladen", () => {
+it("bewahrt Musik-Lernereignisse und Wiederholungsplanung, berechnet Schwierigkeiten beim Nachladen neu", () => {
   const old = emptyState();
   addPackages(old, contents.slice(0, 11));
   const goals = old.questions.filter(
@@ -147,10 +147,11 @@ it("bewahrt Musik-Freischaltungen, Lernereignisse, aktive Runde und Wiederholung
     learning: old.learning,
     settings: old.settings,
   }).toEqual(before);
-  expect(learningPathProgress(old)("Musik")).toMatchObject({
-    hardUnlocked: true,
-    easyTarget: progress.easyTarget,
-    mediumTarget: progress.mediumTarget,
-  });
+  const after = learningPathProgress(old)("Musik");
+  expect(after.hardUnlocked).toBe(false);
+  expect(after.easyTarget).toBeGreaterThan(progress.easyTarget);
+  expect(after.mediumTarget).toBeGreaterThan(progress.mediumTarget);
+  expect(after.easy).toBe(progress.easy);
+  expect(after.medium).toBe(progress.medium);
   expect(() => validateBackup(structuredClone(old))).not.toThrow();
 });

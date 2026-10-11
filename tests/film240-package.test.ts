@@ -151,7 +151,7 @@ it("ergänzt den echten Gesamtkatalog ohne weitere Jahres-/Regiefragen und über
   expect(pathQuestions(fresh).some((q) => q.id.startsWith(prefix))).toBe(true);
 }, 20000);
 
-it("erhält Lerntermine, aktive Runden und erworbene Rechte beim wiederholten Ergänzen des Fragenbestands", async () => {
+it("erhält Lerntermine und aktive Runden, berechnet Schwierigkeiten beim Ergänzen neu", async () => {
   const state = structuredClone(before);
   state.settings.sound = false;
   state.favorites = ["Alien"];
@@ -195,8 +195,10 @@ it("erhält Lerntermine, aktive Runden und erworbene Rechte beim wiederholten Er
   addPackages(saved, [incoming]);
   addPackages(saved, [incoming]);
   expect(savedProgress(saved)).toEqual(snapshot);
-  expect(saved.journey?.earned).toEqual(oldRights);
-  expect(learningPathProgress(saved)("Western").hardUnlocked).toBe(true);
+  expect(saved.journey?.earned.Western.familiarity).toEqual(
+    oldRights?.Western.familiarity,
+  );
+  expect(learningPathProgress(saved)("Western").hardUnlocked).toBe(false);
   expect(saved.questions).toHaveLength(8209);
   expect(
     saved.imports.filter((r) => r.filename === latest.filename),

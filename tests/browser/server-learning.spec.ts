@@ -1,4 +1,40 @@
-import { test, expect, accountBackend, fixCalendarTime } from "./fixtures";
+import {
+  test,
+  expect,
+  accountBackend,
+  fixCalendarTime,
+  openRoundSetup,
+} from "./fixtures";
+test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
+  page,
+}) => {
+  await fixCalendarTime(page, new Date("2026-10-11T12:00:00+02:00"));
+  await page.goto("/");
+  await openRoundSetup(page);
+  await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
+  await expect(
+    page.getByRole("progressbar", {
+      name: "Abenteuer: Fortschritt zu Mittel",
+      exact: true,
+    }),
+  ).toHaveAttribute("max", "102");
+  await expect(
+    page.getByRole("progressbar", {
+      name: "Abenteuer: Fortschritt zu Schwer",
+      exact: true,
+    }),
+  ).toHaveAttribute("max", "194");
+  expect(
+    (
+      await accountBackend(page).admin(() =>
+        accountBackend(page).db.query<{ n: number }>(
+          "select count(*)::int n from quiz_game_internal.catalog_meta",
+        ),
+      )
+    ).rows[0].n,
+  ).toBeGreaterThan(12000);
+});
+
 test("lädt keinen Katalog, setzt eine Serverrunde fort und speichert zehn Antworten", async ({
   page,
 }) => {

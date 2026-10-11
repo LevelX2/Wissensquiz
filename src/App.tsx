@@ -207,6 +207,9 @@ export function App({
       immediateResult.current = undefined;
     }
   }, [page, index, topicScope]);
+  useEffect(() => {
+    if (!celebration && page === "result") heading.current?.focus();
+  }, [celebration, page]);
   const mutate: Mutate = async (fn, options = { progressOnly: true }) => {
     if (inFlight.current) return null;
     inFlight.current = true;
@@ -740,7 +743,10 @@ export function App({
                     setJustCompleted(review.id);
                     immediateResult.current = review;
                     setRanked(null);
-                    playFeedback("complete", saved.settings);
+                    playFeedback(
+                      unlocks.length ? "unlock" : "complete",
+                      saved.settings,
+                    );
                     setPage("result");
                   }}
                 />
@@ -766,7 +772,10 @@ export function App({
                     setJustCompleted(review.id);
                     immediateResult.current = review;
                     setLearning(null);
-                    playFeedback("complete", saved.settings);
+                    playFeedback(
+                      unlocks.length ? "unlock" : "complete",
+                      saved.settings,
+                    );
                     setPage("result");
                   }}
                 />

@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Filmreise: aktuelle 50-Prozent-Schwellen und gleichwahrscheinliche neue Schwierigkeiten – 11.10.2026](../../../docs/Filmreise-Freischaltung-2026-10-11.md)
+
 - [Version 68: alte Speicherwege entfernt und Main-Veröffentlichung geprüft](../../../docs/Veroeffentlichung-2026-10-11-Version-68.json)
 
 - [Alte Speicherwege vollständig entfernen: RPCs, Vollkatalogarchive und lokale Rückfallpfade – 11.10.2026](../../../docs/Alte-Speicherwege-entfernt-2026-10-11.md)

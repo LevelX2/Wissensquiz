@@ -1,5 +1,7 @@
 # Lern-, Runden- und Speichervertrag
 
+**Aktueller Filmreise-Vertrag (11.10.2026):** [50 Prozent der aktuellen Ziele der vorherigen Schwierigkeit und gleichwahrscheinliche Stufenauswahl](Filmreise-Freischaltung-2026-10-11.md). Ersetzt die früheren festen 60-Prozent-/20-Ziele-Schwellen und historischen Schwierigkeitsrechte; Filmgruppen bleiben unabhängig.
+
 ## Serverzeit für gewertete Solo-Zeitspiele – 10.10.2026
 
 Seit Sites-Version 64 veröffentlicht: Neue 10-Fragen-, Fehlerfrei- und Zeitkonto-Läufe verwenden `solo-server-v1` und ausschließlich serverbestimmte Fragenausgabe, Antwortzeit, Punkte und Ende. Übertragung und Darstellung zwischen Serverausgabe und Antwortannahme zählen zur Zeit; der angezeigte Countdown ist nur eine Näherung. Zwischen bestätigter Antwort und Ausgabe der nächsten Frage läuft keine Fragezeit. Neuladen setzt keine Frist zurück und öffnet keine neue Sitzung desselben aktiven Laufs. Ein zweites Gerät kann nur ausdrücklich abbrechen und neu starten. Normale Lernregeln, Ratekennzeichnung, Antwortanzeige und XP-Grenzen bleiben erhalten. Diese Zeitregel ersetzt für die neuen Zeitläufe die unten historisch beschriebene clientseitige Messung ab Darstellung beziehungsweise bis zum Klick. [Führender Vertrag und Grenzen](Servergepruefte-Zeitrunden-2026-10-10.md).

@@ -18,6 +18,151 @@ beforeAll(async () => {
   await fixture.seedRanked(release);
 }, 30000);
 afterAll(() => fixture?.db.close());
+it("berechnet 50-%-Grenzen aufgerundet aus aktuellen Zielen und ignoriert alte Freigaben", async () => {
+  const { api, owner } = await fixture.client();
+  const store = new OnlineGameStore(api, owner);
+  await store.open();
+  const target = (
+    await fixture.db.query<{ generation: string }>(
+      "select generation from public.quiz_account_heads where owner_id=$1",
+      [owner],
+    )
+  ).rows[0].generation;
+  await fixture.db.exec("begin");
+  try {
+    await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
+      insert into quiz_game_internal.catalog_meta
+      select d||i,d||i,'Test','Abenteuer','film',d,1,'[]' from (values ('leicht',5),('mittel',3),('schwer',3)) v(d,n) cross join lateral generate_series(1,n) i;
+      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+    await fixture.db.query(
+      `update public.quiz_sync_entries set value='{"version":1,"earned":{"Abenteuer":{"difficulty":2,"familiarity":1}}}' where owner_id=$1 and kind='field' and id='journey'`,
+      [owner],
+    );
+    const progress = async () =>
+      (
+        await fixture.db.query<{ p: any }>(
+          "select quiz_game_internal.journey($1,$2)->'Abenteuer' p",
+          [owner, target],
+        )
+      ).rows[0].p;
+    expect(await progress()).toMatchObject({
+      easyTarget: 3,
+      mediumTarget: 2,
+      mediumUnlocked: false,
+      hardUnlocked: false,
+    });
+    const secure = async (difficulty: string, n: number) =>
+      fixture.db.query(
+        `insert into quiz_game_internal.secure_goals select $1,$2,$3||i,'Abenteuer',$3 from generate_series(1,$4::int) i on conflict do nothing`,
+        [owner, target, difficulty, n],
+      );
+    await secure("mittel", 2);
+    await secure("leicht", 2);
+    expect(await progress()).toMatchObject({
+      easy: 2,
+      medium: 2,
+      mediumUnlocked: false,
+      hardUnlocked: false,
+    });
+    await secure("leicht", 3);
+    expect(await progress()).toMatchObject({
+      easy: 3,
+      mediumUnlocked: true,
+      hardUnlocked: true,
+    });
+    await secure("leicht", 5); // Extra evidence for removed content never counts.
+    await fixture.db.exec(
+      "delete from quiz_game_internal.catalog_meta where id in ('leicht4','leicht5');select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;",
+    );
+    expect(await progress()).toMatchObject({ easy: 3, easyTarget: 2 });
+  } finally {
+    await fixture.db.exec("rollback");
+  }
+});
+
+it("mischt neue Serverfragen gleichwahrscheinlich nach Stufe und erhält vier fällige Plätze", async () => {
+  const { api, owner } = await fixture.client();
+  await new OnlineGameStore(api, owner).open();
+  const target = (
+    await fixture.db.query<{ generation: string }>(
+      "select generation from public.quiz_account_heads where owner_id=$1",
+      [owner],
+    )
+  ).rows[0].generation;
+  await fixture.db.exec("begin");
+  try {
+    await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
+      insert into quiz_game_internal.catalog_meta
+      select d||i,d||i,'Test','Abenteuer','film',d,1,'[]' from (values ('leicht',100),('mittel',20),('schwer',10)) v(d,n) cross join lateral generate_series(1,n) i;
+      insert into quiz_game_internal.catalog_meta select 'variant'||i,'leicht1','Test','Abenteuer','film','leicht',1,'[]' from generate_series(1,20) i;
+      insert into quiz_game_internal.catalog_meta values('cross-medium','leicht1','Test','Abenteuer','film','mittel',1,'[]'),('cross-hard','leicht1','Test','Abenteuer','film','schwer',1,'[]');
+      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+    await fixture.db.query(
+      `insert into quiz_game_internal.secure_goals select $1,$2,d||i,'Abenteuer',d from (values ('leicht',50),('mittel',11)) v(d,n) cross join lateral generate_series(1,n) i`,
+      [owner, target],
+    );
+    const setup = {
+      mode: "entdecken",
+      topic: "Alle Themen",
+      filters: {
+        sources: ["film"],
+        genres: ["Abenteuer"],
+        difficulties: ["leicht", "mittel", "schwer"],
+        familiarities: [1, 2, 3, 4],
+      },
+    };
+    const queue = async () =>
+      (
+        await fixture.db.query<{ ids: string[] }>(
+          "select quiz_game_internal.select_queue($1,$2,$3,'Europe/Berlin') ids",
+          [owner, target, JSON.stringify(setup)],
+        )
+      ).rows[0].ids;
+    const counts = { leicht: 0, mittel: 0, schwer: 0 };
+    for (let i = 0; i < 60; i++) {
+      const ids = await queue();
+      expect(ids).toHaveLength(10);
+      const rows = (
+        await fixture.db.query<{
+          knowledge_id: string;
+          difficulty: keyof typeof counts;
+        }>(
+          "select knowledge_id,difficulty from quiz_game_internal.catalog_meta where id=any($1::text[])",
+          [ids],
+        )
+      ).rows;
+      expect(new Set(rows.map((q) => q.knowledge_id)).size).toBe(10);
+      for (const q of rows) counts[q.difficulty]++;
+    }
+    for (const count of Object.values(counts)) {
+      expect(count).toBeGreaterThan(120);
+      expect(count).toBeLessThan(270);
+    }
+    await fixture.db.query(
+      `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
+      select $1,$2,'learning','leicht'||i,i,'{"stage":0,"due":0,"seen":1,"lastSecure":0}',0 from generate_series(1,4) i`,
+      [owner, target],
+    );
+    const ids = await queue();
+    expect(
+      ids.filter(
+        (id) =>
+          /^leicht[1-4]$/.test(id) ||
+          id.startsWith("variant") ||
+          id.startsWith("cross-"),
+      ),
+    ).toHaveLength(4);
+    await fixture.db.query(
+      `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
+      select $1,$2,'learning','schwer'||i,4+i,'{"stage":0,"due":9999999999999,"seen":1,"lastSecure":0}',0 from generate_series(1,10) i`,
+      [owner, target],
+    );
+    expect((await queue()).some((id) => id.startsWith("schwer"))).toBe(false);
+  } finally {
+    await fixture.db.exec("rollback");
+  }
+});
+
 it("begrenzt öffentliche Proberunden auf zehn verschiedene Ziele", async () => {
   const { api } = await fixture.client();
   const qs = await api.call<any[]>("quiz_trial_questions", { genre: null });

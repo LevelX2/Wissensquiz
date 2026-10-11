@@ -1,20 +1,32 @@
-import { writeStoredState } from "./fixtures";
 import { familiarityOf } from "../../src/familiarity";
+import { writeStoredState, fixCalendarTime } from "./fixtures";
 import { learningPathProgress } from "../../src/learningPath";
 import { test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { emptyState } from "../../src/model";
-import { importCsv } from "../../src/importer";
+import { addPackages, packages } from "../../src/packages";
+import curriculum from "../../src/journeyCurriculum.json" with { type: "json" };
 import { answer, complete, startRound } from "../../src/engine";
 
-const questions = importCsv(
-  readFileSync("public/horror-fragen.csv", "utf8"),
-).questions;
+const full = emptyState();
+addPackages(
+  full,
+  packages.map((pkg) => ({
+    filename: pkg.filename,
+    text: readFileSync("public" + pkg.path, "utf8"),
+  })),
+);
+const questions = full.questions;
 const goals = (difficulty: string) => [
   ...new Map(
     questions
-      .filter((q) => q.difficulty === difficulty)
+      .filter(
+        (q) =>
+          q.metadata.subdomain === "Horror" &&
+          !q.tags.includes("Preisträger") &&
+          q.difficulty === difficulty,
+      )
       .map((q) => [q.knowledgeId, q]),
   ).values(),
 ];
@@ -30,6 +42,7 @@ for (const scenario of [
     page,
     context,
   }) => {
+    await fixCalendarTime(page, new Date("2026-10-11T12:00:00+02:00"));
     const quiet = scenario === "beide";
     await page.setViewportSize({ width: 320, height: 800 });
     await page.emulateMedia({
@@ -53,7 +66,9 @@ for (const scenario of [
     });
     const stageGoals = (d: string) =>
       goals(d).filter(
-        (q) => scenario !== "filmgruppe" || familiarityOf(q) === 1,
+        (q) =>
+          scenario !== "filmgruppe" ||
+          curriculum.genres.Horror.groups[0].goals.includes(q.knowledgeId),
       );
     const state = emptyState(questions);
     state.settings = {
@@ -63,6 +78,8 @@ for (const scenario of [
       haptics: !quiet,
     };
     const target = learningPathProgress(state)("Horror");
+    const easyTarget =
+      scenario === "filmgruppe" ? target.groups[0].target : target.easyTarget;
     state.journey = {
       version: 1,
       earned: {
@@ -72,15 +89,10 @@ for (const scenario of [
         },
       },
     };
-    const history = startRound(
-      state,
-      { mode: "entdecken", topic: "Alle Themen", difficulty: "Alle Stufen" },
-      1700000000000,
-    );
-    history.questions = [
+    const historyQuestions = [
       ...stageGoals("leicht").slice(
         0,
-        scenario === "schwer" ? target.easyTarget : target.easyTarget - 1,
+        scenario === "schwer" ? easyTarget : easyTarget - 1,
       ),
       ...stageGoals("mittel").slice(
         0,
@@ -91,20 +103,40 @@ for (const scenario of [
             : 0,
       ),
     ];
-    history.order = history.questions.map((q) => q.answers.map((a) => a.id));
-    for (const q of history.questions)
-      answer(state, history.id, q.id, q.correctId, 1000, 1700000001000);
-    complete(state, history.id, 1700000002000);
+
+    for (let i = 0; i < historyQuestions.length; i += 10) {
+      const history = startRound(
+        state,
+        { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+        1700000000000 + i * 100,
+      );
+      history.questions = historyQuestions.slice(i, i + 10);
+      history.order = history.questions.map((q) => q.answers.map((a) => a.id));
+      history.familiaritySnapshot = Object.fromEntries(
+        history.questions.map((q) => [q.id, familiarityOf(q)!]),
+      );
+      for (const q of history.questions)
+        answer(
+          state,
+          history.id,
+          q.id,
+          q.correctId,
+          1000,
+          1700000001000 + i * 100,
+        );
+      complete(state, history.id, 1700000002000 + i * 100);
+    }
     const current = startRound(
       state,
       { mode: "entdecken", topic: "Alle Themen", difficulty: "Alle Stufen" },
       1700000100000,
     );
     const q = stageGoals(scenario === "schwer" ? "mittel" : "leicht")[
-      (scenario === "schwer" ? target.mediumTarget : target.easyTarget) - 1
+      (scenario === "schwer" ? target.mediumTarget : easyTarget) - 1
     ];
     current.questions = [q];
     current.order = [q.answers.map((a) => a.id)];
+    current.familiaritySnapshot = { [q.id]: familiarityOf(q)! };
     await page.goto("/");
     await expect(
       page.getByRole("button", { name: "Losspielen" }),
@@ -138,7 +170,7 @@ for (const scenario of [
     }
     await expect(dialog).toBeVisible();
     await expect(dialog.locator(".unlock-levels li")).toHaveCount(
-      quiet || scenario === "filmgruppe" ? 2 : 1,
+      quiet ? 2 : 1,
     );
     await expect(dialog).toContainText("Horror");
     if (scenario === "filmgruppe")
@@ -147,11 +179,25 @@ for (const scenario of [
       "geöffnet. Diese",
     );
     await expect(dialog.locator(".unlock-levels")).toContainText(
-      scenario === "schwer" ? "Schwer" : "Mittel",
+      scenario === "filmgruppe"
+        ? "2 · Bekannte Filme"
+        : scenario === "schwer"
+          ? "Schwer"
+          : "Mittel",
     );
     await expect(
       dialog.getByRole("button", { name: "Weiter zum Ergebnis" }),
     ).toBeFocused();
+    await expect
+      .poll(() =>
+        page.evaluate(
+          (initial) =>
+            (window as unknown as { unlockTest: { tones: number } }).unlockTest
+              .tones - initial,
+          beforeAnswer,
+        ),
+      )
+      .toBe(quiet ? 0 : 10);
     const counters = await page.evaluate(
       () =>
         (

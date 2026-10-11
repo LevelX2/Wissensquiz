@@ -4,9 +4,7 @@ Stand 03.10.2026, als Sites-Version 41 erfolgreich veröffentlicht. Die drei Fra
 
 ## Fortschritt
 
-Schauspieler und Preisträger beginnen jeweils mit Leicht. 20 sichere leichte Ziele öffnen Mittel; anschließend 20 mittlere Schwer und 20 schwere Experte. Bei einem kleineren eigenen Bestand ist die Schwelle auf die vorhandenen eindeutigen Ziele begrenzt. Sichere Antworten aus abgeschlossenen Runden aller Modi zählen einmal je Wissensziel, Bereich und Schwierigkeit. Varianten, geratene Treffer, Zeitabläufe sowie aktive oder abgebrochene Runden erhöhen den Zähler nicht. Diese Bereiche haben keine Filmgruppen.
-
-Filmgenres behalten den eingefrorenen Lehrplan und ihre Bekanntheitsgruppen. Preis-/Personenantworten erhöhen deren Zähler nicht. Beim ersten Umstieg werden Filmrechte, die frühere Versionen aus Preisantworten abgeleitet haben, einmalig erhalten; `journey.independentAreas` markiert diesen Schritt. Bereits erreichte Rechte bleiben erhalten. Die Einführung einer neuen höchsten Schwierigkeit verwendet das gemeinsame bestehende Einführungskontingent, einschließlich Experte in diesen beiden Bereichen. Kurze gemischte Runden garantieren keinen festen Anteil pro Bereich.
+Seit 11.10.2026 gilt der [gemeinsame 50-Prozent-Vertrag](Filmreise-Freischaltung-2026-10-11.md): Schauspieler und Preisträger beginnen mit Leicht; mindestens die Hälfte der aktuellen eindeutigen Ziele der vorherigen Schwierigkeit, aufgerundet, öffnet Mittel, Schwer und Experte. Nur sichere Antworten abgeschlossener Runden zählen; jeder Bereich separat, keine Filmgruppen. Alte 20-Ziele-Freigaben werden neu berechnet. Filmgenres verwenden ebenfalls 50 Prozent; Preis-/Personenantworten erhöhen deren Zähler nicht. Neue Fragen werden gleichwahrscheinlich über verfügbare offene Schwierigkeiten gezogen, ohne Einführungsvorrang. Keine feste Quote je Fragenbereich.
 
 ## Namen und Vertiefungen
 

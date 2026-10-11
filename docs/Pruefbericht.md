@@ -1,5 +1,16 @@
 # Prüfnachweis
 
+## 11.10.2026 – Filmreise mit 50-Prozent-Schwellen
+
+414 Tests in 68 Dateien, TypeScript/Versionsbuild 69 und elf gezielte Browserfälle erfolgreich. Neue SQL-Prüfungen: aufgerundete Grenzwerte, vollständige Vorstufenkette, entfernte Ziele, alte Kurzfreigaben, stark ungleiche Poolgrößen, Varianten einschließlich gemeinsamer Ziele über Schwierigkeiten, erschöpfte Stufen und vier fällige Plätze. Browser: aktuelle Abenteuer-Schwellen und vollständige katalogfreie Serverrunde in Chromium, Firefox und mobilem WebKit; fünf Feierfälle in Chromium einschließlich beider Schwierigkeiten zugleich, geratener Antwort, Filmgruppe, reduzierter Bewegung, Fanfare, Tastaturfokus und einmaliger Anzeige. Alte Testannahmen zu festen Schwellen/übergroßen Runden ersetzt. Beim Serverabschluss fehlende Freischaltfanfare und Fokus nach dem Dialog korrigiert.
+
+Backendmigration erfolgreich. Atomarer Fingerabdruck aller privaten Fortschrittseinträge außer der ausdrücklich neu berechneten Journey-Projektion unverändert; Konto-/Lernstand nicht zurückgesetzt. Produktive Schwellen 102/194 bestätigt, beide höheren Abenteuer-Schwierigkeiten im bestehenden Entwicklungsstand jetzt wieder gesperrt. Keine verbleibenden alten Schwierigkeitsschwellen im Serverplan und keine direkten Clientrechte an den privaten Funktionen. Alle Gruppen-Ziel-IDs sind im aktuellen Bestand vorhanden.
+
+Zehn synthetische native Warteschlangen mit jeweils zehn verschiedenen Zielen erfolgreich, vollständig zurückgerollt; sichere Schwellenüberschreitung ebenfalls geprüft. SQL-Laufzeit dieser Einzelprüfung: 30,94–63,47 ms, Durchschnitt 34,89 ms einschließlich erster Cachefüllung; keine Mehrspielerlastmessung oder Aussage über Netzwerklatenz. Native Advisors ausgeführt: bestehende Hinweise zu [RPC-Ausführungsrechten](https://supabase.com/docs/guides/database/database-linter?lint=0028_anon_security_definer_function_executable), [fehlenden Richtlinien an intern gesperrten Tabellen](https://supabase.com/docs/guides/database/database-linter?lint=0008_rls_enabled_no_policy), [FK-Indizes](https://supabase.com/docs/guides/database/database-linter?lint=0001_unindexed_foreign_keys), ungenutzten Indizes und zuvor deaktiviertem Passwortschutz bleiben außerhalb dieses Änderungsumfangs. Keine neue öffentliche Funktion oder Rechtefreigabe.
+
+[Vertrag und Grenzen](Filmreise-Freischaltung-2026-10-11.md). Frontend-Veröffentlichung separat im Sites-Nachweis.
+
+
 ## 11.10.2026 – Alte Speicherwege vollständig entfernt
 
 413 Tests in 68 Dateien, TypeScript, Versionsbuild 68, Fragenorganisation und 41 unterschiedliche gezielte Browserfälle erfolgreich einschließlich aller Nachprüfungen. Drei Browser: Kontoöffnung, kleine Pakete, Ausfall/Wiederholung, zweites Gerät, Wiederaufnahme und vollständige Lernrunde; zusätzlich Proberunde/Kontoübernahme, Zeitlauf und Konto-/Meldungsaktionen. Erste Testläufe enthielten veraltete Abfrageerwartungen, Buildversion 0 und konkurrierende Prüfartefakte beziehungsweise einen falschen Zweitgeräte-Testport; gezielte Nachprüfungen am Versionsbuild bestehen. Keine vollständige neue Browser-Suite, physische Geräteabnahme oder Mehrspielerlastmessung.

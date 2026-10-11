@@ -10,7 +10,6 @@ import {
   retainJourneyUnlocks,
 } from "../src/learningPath";
 import { questionSourceOf, sourceLabels } from "../src/filters";
-import { discoveryContext } from "../src/discovery";
 import { validateBackup } from "../src/backupValidation";
 const base = emptyState();
 addPackages(
@@ -67,15 +66,16 @@ it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und
       ["schwer", "experte"],
     ] as const) {
       const goals = unique(qs.filter((q) => q.difficulty === difficulty));
-      play(s, goals.slice(0, 10));
-      play(s, goals.slice(10, 19));
+      const target = Math.ceil(goals.length / 2);
+      for (let i = 0; i < target - 1; i += 10)
+        play(s, goals.slice(i, Math.min(i + 10, target - 1)));
       expect(
         pathQuestions(s)
           .filter((q) => questionSourceOf(q) === source)
           .some((q) => q.difficulty === next),
       ).toBe(false);
-      play(s, [goals[19]], true);
-      const unfinished = play(s, [goals[19]], false, false);
+      play(s, [goals[target - 1]], true);
+      const unfinished = play(s, [goals[target - 1]], false, false);
       expect(
         pathQuestions(s)
           .filter((q) => questionSourceOf(q) === source)
@@ -84,7 +84,7 @@ it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und
       unfinished.status = "aborted";
       unfinished.finishedAt = 3500;
       const before = learningPathProgress(s);
-      const round = play(s, [goals[19]]);
+      const round = play(s, [goals[target - 1]]);
       expect(newlyUnlocked(before, s)).toContainEqual({
         genre: area,
         difficulty: next,
@@ -95,9 +95,6 @@ it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und
           .filter((q) => questionSourceOf(q) === source)
           .some((q) => q.difficulty === next),
       ).toBe(true);
-      expect(discoveryContext(s).introductoryQuestionIds.size).toBeGreaterThan(
-        0,
-      );
     }
     expect(s.journey?.earned[area].difficulty).toBe(3);
   }
@@ -111,25 +108,13 @@ it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und
   expect(validateBackup(JSON.parse(JSON.stringify(s)))).toEqual(s);
   expect(JSON.parse(JSON.stringify(s))).toEqual(s);
 }, 15000);
-it("bewahrt historisch durch Preisantworten erworbene Filmrechte einmalig", () => {
+it("Preisantworten erteilen keine Filmrechte aus alten Kurzschwellen", () => {
   const s = structuredClone(base);
-  const awards = unique(
-    s.questions.filter(
-      (q) =>
-        questionSourceOf(q) === "awards" &&
-        q.difficulty === "leicht" &&
-        q.metadata.subdomain === "Drama",
-    ),
-  );
-  for (let i = 0; i < awards.length; i += 10) play(s, awards.slice(i, i + 10));
-  // Simulate the pre-feature format and derive its legacy rights before migration.
-  delete s.journey;
-  const previous = learningPathProgress(s, true)("Drama");
-  expect(previous.mediumUnlocked).toBe(true);
+  s.journey = {
+    version: 1,
+    earned: { Drama: { difficulty: 2, familiarity: 2 } },
+  };
   retainJourneyUnlocks(s);
-  expect((s as State).journey?.independentAreas).toBe(true);
-  expect(learningPathProgress(s)("Drama").mediumUnlocked).toBe(true);
-  const earned = structuredClone(s.journey);
-  retainJourneyUnlocks(s);
-  expect(s.journey).toEqual(earned);
+  expect(learningPathProgress(s)("Drama").mediumUnlocked).toBe(false);
+  expect(s.journey?.earned.Drama.difficulty).toBe(0);
 });

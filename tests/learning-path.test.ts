@@ -31,7 +31,9 @@ it("zeigt die nächste erreichbare Etappe nur in gewählten Bereichen und zählt
     independentAreas: true,
     earned: { Horror: { difficulty: 2, familiarity: 4 } },
   };
-  expect(nextJourneyStep(state, ["Horror"])).toBeUndefined();
+  expect(nextJourneyStep(state, ["Horror"])?.label).toBe(
+    "Schwierigkeit Mittel",
+  );
 });
 function play(
   state: State,
@@ -77,7 +79,7 @@ it("zählt unterschiedliche historische Ziele pro Genre; Varianten, Wiederholung
   s.settings.allDifficulties = false;
   expect(pathQuestions(s).every((q) => q.difficulty === "leicht")).toBe(true);
   s.settings.allDifficulties = true;
-  play(s, "leicht", 20);
+  play(s, "leicht", learningPathProgress(s)("Horror").easyTarget);
   expect(learningPathProgress(s)("Horror").mediumUnlocked).toBe(true);
   expect(learningPathProgress(s)("Action").mediumUnlocked).toBe(false);
   s.settings.allDifficulties = false;
@@ -95,9 +97,9 @@ it("zählt unterschiedliche historische Ziele pro Genre; Varianten, Wiederholung
 it("öffnet Schwer erst nach beiden Stufen und respektiert Lernpfad beim Start sowie Sicherungsimport", () => {
   const s = emptyState(questions);
   s.settings.allDifficulties = true;
-  play(s, "mittel", 20);
+  play(s, "mittel", learningPathProgress(s)("Horror").mediumTarget);
   expect(learningPathProgress(s)("Horror").hardUnlocked).toBe(false);
-  play(s, "leicht", 20);
+  play(s, "leicht", learningPathProgress(s)("Horror").easyTarget);
   expect(learningPathProgress(s)("Horror").hardUnlocked).toBe(true);
   s.settings.allDifficulties = false;
   expect(validateBackup(s).settings.allDifficulties).toBe(false);
@@ -131,8 +133,8 @@ it("verwendet Lernpfad standardmäßig auch für alte Sicherungen und erhält au
   expect(pathQuestions(validateBackup(s), "ueben")).toHaveLength(
     questions.length,
   );
-  play(s, "mittel", 20);
-  play(s, "leicht", 20);
+  play(s, "mittel", learningPathProgress(s)("Horror").mediumTarget);
+  play(s, "leicht", learningPathProgress(s)("Horror").easyTarget);
   s.settings.allDifficulties = false;
   expect(learningPathProgress(s)("Horror").hardUnlocked).toBe(true);
   expect(

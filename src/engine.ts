@@ -1,6 +1,7 @@
 import type {
   AnswerEvent,
   AnswerChoice,
+  Difficulty,
   Mode,
   Question,
   Round,
@@ -75,7 +76,6 @@ export function selectQuestions(
     size: number;
     now: number;
     recentKnowledgeIds?: Set<string>;
-    introductoryQuestionIds?: Set<string>;
     knowledgeIds?: Set<string>;
     recordPreset?: "standard" | "genre";
   },
@@ -167,13 +167,24 @@ export function selectQuestions(
   if (options.mode === "entdecken") {
     // Reserve room for consolidation even while new goals remain available.
     take(due, Math.floor(options.size * 0.4));
-    const unseen = unique.filter((q) => !learning[q.knowledgeId]);
-    // Introduce a newly unlocked stage without overriding the user's filters.
-    take(
-      unseen.filter((q) => options.introductoryQuestionIds?.has(q.id)),
-      Math.ceil(options.size * 0.6),
-    );
-    take(unseen, options.size);
+    const buckets = new Map<Difficulty, Map<string, Question[]>>();
+    for (const q of pool.filter((q) => !learning[q.knowledgeId])) {
+      if (!buckets.has(q.difficulty)) buckets.set(q.difficulty, new Map());
+      const goals = buckets.get(q.difficulty)!;
+      if (!goals.has(q.knowledgeId)) goals.set(q.knowledgeId, []);
+      goals.get(q.knowledgeId)!.push(q);
+    }
+    const draw = <T>(items: T[]) =>
+      items[Math.min(items.length - 1, Math.floor(random() * items.length))];
+    while (result.length < options.size && buckets.size) {
+      const level = draw([...buckets.keys()]);
+      const [goal, variants] = draw([...buckets.get(level)!.entries()]);
+      result.push(draw(variants));
+      for (const [difficulty, goals] of buckets) {
+        goals.delete(goal);
+        if (!goals.size) buckets.delete(difficulty);
+      }
+    }
     // A small remaining pool must not artificially shorten the round.
     take(due, options.size);
     const repeats = unique

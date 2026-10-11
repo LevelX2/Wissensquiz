@@ -63,7 +63,9 @@ it("drei direkt aufeinanderfolgende Zehnerrunden wiederholen bei genügend neuen
     expect(
       new Set(
         pathQuestions(s)
-          .filter((q) => q.difficulty === "leicht" && !s.learning[q.knowledgeId])
+          .filter(
+            (q) => q.difficulty === "leicht" && !s.learning[q.knowledgeId],
+          )
           .map((q) => q.knowledgeId),
       ).size,
     ).toBeGreaterThanOrEqual(10);
@@ -108,58 +110,52 @@ it("stellt die letzten drei Runden zurück und verwendet sie nur bei kleinem Res
   expect(new Set(small.map((q) => q.knowledgeId)).size).toBe(5);
 });
 
-it("führt in freigeschaltetes Mittel ein, erhält Filter und beendet den Vorrang nach fünf gesehenen Zielen", () => {
-  const s = emptyState(questions);
-  play(s, goals.filter((q) => q.difficulty === "leicht").slice(0, 22));
-  const context = discoveryContext(s);
-  const picked = selectQuestions(
-    questions,
-    s.learning,
-    { ...options, ...context },
-    () => 0.5,
+it("zieht neue Schwierigkeiten gleichwahrscheinlich trotz ungleicher Ziel- und Variantenzahlen", () => {
+  const base = questions[0];
+  const pool = (["leicht", "mittel", "schwer"] as const).flatMap(
+    (difficulty, index) =>
+      Array.from({ length: [100, 20, 10][index] }, (_, i) => ({
+        ...base,
+        id: difficulty + i,
+        knowledgeId: difficulty + i,
+        difficulty,
+      })),
   );
-  expect(
-    picked.filter((q) => q.difficulty === "mittel").length,
-  ).toBeGreaterThanOrEqual(5);
-  expect(picked.every((q) => !s.learning[q.knowledgeId])).toBe(true);
-  const mixed = startRound(s, options, options.now);
-  expect(
-    mixed.questions.filter((q) => q.difficulty === "mittel").length,
-  ).toBeGreaterThanOrEqual(5);
-  expect(mixed.questions.some((q) => q.difficulty === "schwer")).toBe(false);
-  mixed.status = "aborted";
-  const easy = startRound(s, { ...options, difficulty: "leicht" }, options.now);
-  expect(easy.questions.every((q) => q.difficulty === "leicht")).toBe(true);
-  easy.status = "aborted";
-  play(s, goals.filter((q) => q.difficulty === "mittel").slice(0, 5), 3000);
-  expect(
-    [...discoveryContext(s).introductoryQuestionIds].some(
-      (id) => questions.find((q) => q.id === id)?.difficulty === "mittel",
-    ),
-  ).toBe(false);
-  const filtered = selectQuestions(questions, s.learning, {
-    ...options,
-    ...context,
-    filters: { genres: [genreOf(questions[0])], difficulties: ["leicht"] },
-  });
+  pool.push(
+    ...Array.from({ length: 20 }, (_, i) => ({
+      ...pool[0],
+      id: "variant" + i,
+    })),
+  );
+  let seed = 91;
+  const random = () =>
+    (seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296;
+  const counts = { leicht: 0, mittel: 0, schwer: 0, experte: 0 };
+  for (let i = 0; i < 300; i++) {
+    const selected = selectQuestions(pool, {}, options, random);
+    expect(new Set(selected.map((q) => q.knowledgeId)).size).toBe(10);
+    for (const q of selected) counts[q.difficulty]++;
+  }
+  for (const count of [counts.leicht, counts.mittel, counts.schwer]) {
+    expect(count).toBeGreaterThan(900);
+    expect(count).toBeLessThan(1100);
+  }
+  const small = selectQuestions(
+    [pool[0], ...pool.filter((q) => q.difficulty === "mittel").slice(0, 2)],
+    {},
+    options,
+    () => 0,
+  );
+  expect(small).toHaveLength(3);
+  const filtered = selectQuestions(
+    pool,
+    {},
+    {
+      ...options,
+      filters: { genres: [genreOf(base)], difficulties: ["leicht"] },
+    },
+  );
   expect(filtered.every((q) => q.difficulty === "leicht")).toBe(true);
-});
-
-it("führt Schwer nur bei echter Freischaltung ein und behält historische Runden unverändert", () => {
-  const s = emptyState(questions);
-  s.settings.allDifficulties = true;
-  expect(discoveryContext(s).introductoryQuestionIds.size).toBe(0);
-  play(s, goals.filter((q) => q.difficulty === "leicht").slice(0, 22), 1000);
-  play(s, goals.filter((q) => q.difficulty === "mittel").slice(0, 22), 2000);
-  s.settings.allDifficulties = false;
-  const oldRounds = structuredClone(s.rounds);
-  const oldEvents = structuredClone(s.events);
-  const r = startRound(s, options, 3000);
-  expect(
-    r.questions.filter((q) => q.difficulty === "schwer").length,
-  ).toBeGreaterThanOrEqual(5);
-  expect(s.rounds.slice(0, -1)).toEqual(oldRounds);
-  expect(s.events).toEqual(oldEvents);
 });
 
 it("füllt die Filmreise mit fälligen Zielen, wenn keine neuen verfügbar sind", () => {

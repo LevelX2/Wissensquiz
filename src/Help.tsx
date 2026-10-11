@@ -261,10 +261,11 @@ export function Help() {
       <details>
         <summary>Wie öffne ich neue Schwierigkeiten und Filmgruppen?</summary>
         <p>
-          Schauspieler und Preisträger beginnen jeweils mit Leicht. Je 20 sicher
-          beantwortete Wissensziele aus abgeschlossenen Runden öffnen Mittel,
-          danach Schwer und schließlich Experte. Jeder Bereich zählt getrennt;
-          diese Fragen sind unabhängig von Filmgruppen.
+          Schauspieler und Preisträger beginnen jeweils mit Leicht. Mindestens
+          50 Prozent der Wissensziele der vorherigen Schwierigkeit müssen sicher
+          beantwortet sein, um Mittel, Schwer und schließlich Experte zu öffnen.
+          Jeder Bereich zählt getrennt; diese Fragen sind unabhängig von
+          Filmgruppen.
         </p>
         <p>
           Die Filmreise beginnt je Genre mit Leicht und der bekanntesten
@@ -276,11 +277,10 @@ export function Help() {
         </p>
         <p>
           Die Schwierigkeit und die Filmgruppen entwickeln sich getrennt. Die
-          Ziele für Mittel und Schwer entsprechen aufgerundet 60 Prozent der
-          leichten beziehungsweise mittleren Wissensziele in der
-          Einstiegsgruppe. Für diese Zähler gelten sichere Antworten der
-          jeweiligen Schwierigkeit aus allen Filmgruppen desselben Genres.
-          Schwer öffnet erst nach Mittel.
+          Ziele für Mittel und Schwer entsprechen aufgerundet 50 Prozent der
+          leichten beziehungsweise mittleren Wissensziele im aktuellen
+          Fragenbestand des Genres, über alle Filmgruppen hinweg. Schwer öffnet
+          erst nach Mittel.
         </p>
         <p>
           Die nächste vorhandene Filmgruppe öffnet, wenn Du 60 Prozent der
@@ -293,10 +293,11 @@ export function Help() {
         <p>
           Es zählen abgeschlossene Runden aus allen Modi und Dein bisheriger
           Fortschritt. Wiederholungen, Varianten und geratene Treffer zählen
-          nicht zusätzlich. Die Zielmengen sind festgelegt und wachsen bei neuen
-          Paketen nicht automatisch. Erreichte Freischaltungen bleiben erhalten,
-          auch bei späteren Fehlern. Im Freien Spiel und in der Rekordrunde
-          stehen Dir sofort alle Stufen zur Wahl.
+          nicht zusätzlich. Neue Fragen können die Schwierigkeitsschwellen
+          erhöhen; die Freigaben werden aus Deinem bisherigen Fortschritt neu
+          berechnet. Spätere Fehler löschen frühere sichere Treffer nicht. Im
+          Freien Spiel und in der Rekordrunde stehen Dir sofort alle Stufen zur
+          Wahl.
         </p>
       </details>
       <details>

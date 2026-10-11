@@ -117,7 +117,7 @@ it("erhält alle 2.797 bisherigen Fragen einschließlich Regiealternativen und e
   expect(() => validateBackup(structuredClone(old))).not.toThrow();
 });
 
-it("bewahrt Sci-Fi-Lernereignisse, aktive Runden und bereits erreichte Freischaltungen beim Nachladen", () => {
+it("bewahrt Sci-Fi-Lernereignisse und aktive Runden, berechnet Schwellen beim Nachladen neu", () => {
   const old = emptyState();
   addPackages(old, contents.slice(0, 12));
   const goals = old.questions.filter(
@@ -156,10 +156,10 @@ it("bewahrt Sci-Fi-Lernereignisse, aktive Runden und bereits erreichte Freischal
   addPackages(old, contents);
   expect(snapshot()).toEqual(before);
   const after = learningPathProgress(old)("Science-Fiction");
-  expect(after.hardUnlocked).toBe(true);
+  expect(after.hardUnlocked).toBe(false);
   expect(after.familiarity).toBeGreaterThanOrEqual(progress.familiarity);
-  expect(after.easyTarget).toBe(progress.easyTarget);
-  expect(after.mediumTarget).toBe(progress.mediumTarget);
+  expect(after.easyTarget).toBeGreaterThan(progress.easyTarget);
+  expect(after.mediumTarget).toBeGreaterThan(progress.mediumTarget);
   expect(() => validateBackup(structuredClone(old))).not.toThrow();
   const fresh = emptyState();
   addPackages(fresh, contents);
