@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 3150,
-  "totalReviewed": 3300,
-  "remainingFilmQuestions": 7433,
+  "completedInThisRun": 3200,
+  "totalReviewed": 3350,
+  "remainingFilmQuestions": 7383,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 9473,
+  "remainingAllQuestions": 9423,
   "blocks": [
     {
       "block": 1,
@@ -323,6 +323,11 @@
     {
       "block": 63,
       "path": "Block-63.json",
+      "count": 50
+    },
+    {
+      "block": 64,
+      "path": "Block-64.json",
       "count": 50
     }
   ],
@@ -3626,209 +3631,59 @@
     "DRA-202610-P01-S-016",
     "DRA-202610-P01-S-017",
     "DRA-202610-P01-M-018",
-    "DRA-202610-P01-S-018"
+    "DRA-202610-P01-S-018",
+    "F240-20261006-133-L1",
+    "F240-20261006-133-L2",
+    "F240-20261006-133-M1",
+    "F240-20261006-133-M2",
+    "F240-20261006-133-S1",
+    "F240-20261006-133-S2",
+    "F240-20261006-133-Y",
+    "F240-20261006-133-D",
+    "SF-202609-P02-L-005",
+    "SF-202609-P02-L-006",
+    "SF-202609-P02-M-005",
+    "SF-202609-P02-M-006",
+    "SF-202609-P02-S-005",
+    "SF-202609-P02-S-006",
+    "SF-202609-P02-L-005-V1",
+    "SF-202609-P02-S-006-V1",
+    "FF-328-YEAR",
+    "FF-328-DIRECTOR",
+    "ROM-202610-P01-L-015",
+    "ROM-202610-P01-L-016",
+    "ROM-202610-P01-M-022",
+    "ROM-202610-P01-M-023",
+    "ROM-202610-P01-S-022",
+    "ROM-202610-P01-S-023",
+    "ROM-202610-P01-M-024",
+    "ROM-202610-P01-S-024",
+    "DRA-L-005",
+    "DRA-L-006",
+    "DRA-M-005",
+    "DRA-M-006",
+    "DRA-S-005",
+    "DRA-S-006",
+    "DRA-L-006-V1",
+    "DRA-M-006-V1",
+    "DRA-S-006-V1",
+    "FF-078-YEAR",
+    "FF-078-DIRECTOR",
+    "SF-202609-P02-L-069",
+    "SF-202609-P02-L-070",
+    "SF-202609-P02-M-069",
+    "SF-202609-P02-M-070",
+    "SF-202609-P02-S-069",
+    "SF-202609-P02-S-070",
+    "SF-202609-P02-M-069-V1",
+    "FF-360-YEAR",
+    "FF-360-DIRECTOR",
+    "ROM-L-011",
+    "ROM-L-012",
+    "ROM-M-011",
+    "ROM-M-012"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-133-L1",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-L2",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-M1",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-M2",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-S1",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-S2",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-Y",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-D",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "SF-202609-P02-L-005",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-L-006",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-M-005",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-M-006",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-S-005",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-S-006",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-L-005-V1",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-S-006-V1",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "FF-328-YEAR",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "FF-328-DIRECTOR",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "ROM-202610-P01-L-015",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-L-016",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-M-022",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-M-023",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-S-022",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-S-023",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-M-024",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-S-024",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "DRA-L-005",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-L-006",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-M-005",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-M-006",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-S-005",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-S-006",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-L-006-V1",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-M-006-V1",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-S-006-V1",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "FF-078-YEAR",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "FF-078-DIRECTOR",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "SF-202609-P02-L-069",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-L-070",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-M-069",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-M-070",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-S-069",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-S-070",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-M-069-V1",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "FF-360-YEAR",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "FF-360-DIRECTOR",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "ROM-L-011",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
-    {
-      "id": "ROM-L-012",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
-    {
-      "id": "ROM-M-011",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
-    {
-      "id": "ROM-M-012",
-      "filmKey": "Four Weddings and a Funeral|1994"
-    },
     {
       "id": "ROM-S-011",
       "filmKey": "Four Weddings and a Funeral|1994"
@@ -33364,204 +33219,204 @@
   ],
   "next": [
     {
-      "id": "F240-20261006-133-L1",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-L2",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-M1",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-M2",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-S1",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-S2",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-Y",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "F240-20261006-133-D",
-      "filmKey": "Fong Sai-yuk|1993"
-    },
-    {
-      "id": "SF-202609-P02-L-005",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-L-006",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-M-005",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-M-006",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-S-005",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-S-006",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-L-005-V1",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "SF-202609-P02-S-006-V1",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "FF-328-YEAR",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "FF-328-DIRECTOR",
-      "filmKey": "Forbidden Planet|1956"
-    },
-    {
-      "id": "ROM-202610-P01-L-015",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-L-016",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-M-022",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-M-023",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-S-022",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-S-023",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-M-024",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "ROM-202610-P01-S-024",
-      "filmKey": "Forgetting Sarah Marshall|2008"
-    },
-    {
-      "id": "DRA-L-005",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-L-006",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-M-005",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-M-006",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-S-005",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-S-006",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-L-006-V1",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-M-006-V1",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "DRA-S-006-V1",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "FF-078-YEAR",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "FF-078-DIRECTOR",
-      "filmKey": "Forrest Gump|1994"
-    },
-    {
-      "id": "SF-202609-P02-L-069",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-L-070",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-M-069",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-M-070",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-S-069",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-S-070",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "SF-202609-P02-M-069-V1",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "FF-360-YEAR",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "FF-360-DIRECTOR",
-      "filmKey": "Fortress|1992"
-    },
-    {
-      "id": "ROM-L-011",
+      "id": "ROM-S-011",
       "filmKey": "Four Weddings and a Funeral|1994"
     },
     {
-      "id": "ROM-L-012",
+      "id": "ROM-S-012",
       "filmKey": "Four Weddings and a Funeral|1994"
     },
     {
-      "id": "ROM-M-011",
+      "id": "FF-256-YEAR",
       "filmKey": "Four Weddings and a Funeral|1994"
     },
     {
-      "id": "ROM-M-012",
+      "id": "FF-256-DIRECTOR",
       "filmKey": "Four Weddings and a Funeral|1994"
+    },
+    {
+      "id": "E20261007-F-225-L1",
+      "filmKey": "Frailty|2001"
+    },
+    {
+      "id": "E20261007-F-225-L2",
+      "filmKey": "Frailty|2001"
+    },
+    {
+      "id": "E20261007-F-225-M1",
+      "filmKey": "Frailty|2001"
+    },
+    {
+      "id": "E20261007-F-225-M2",
+      "filmKey": "Frailty|2001"
+    },
+    {
+      "id": "E20261007-F-225-S1",
+      "filmKey": "Frailty|2001"
+    },
+    {
+      "id": "E20261007-F-225-S2",
+      "filmKey": "Frailty|2001"
+    },
+    {
+      "id": "E20261007-F-225-Y",
+      "filmKey": "Frailty|2001"
+    },
+    {
+      "id": "E20261007-F-225-D",
+      "filmKey": "Frailty|2001"
+    },
+    {
+      "id": "G100-20261008-HORROR-003-L1",
+      "filmKey": "Frankenstein|1931"
+    },
+    {
+      "id": "G100-20261008-HORROR-003-L2",
+      "filmKey": "Frankenstein|1931"
+    },
+    {
+      "id": "G100-20261008-HORROR-003-M1",
+      "filmKey": "Frankenstein|1931"
+    },
+    {
+      "id": "G100-20261008-HORROR-003-M2",
+      "filmKey": "Frankenstein|1931"
+    },
+    {
+      "id": "G100-20261008-HORROR-003-S1",
+      "filmKey": "Frankenstein|1931"
+    },
+    {
+      "id": "G100-20261008-HORROR-003-S2",
+      "filmKey": "Frankenstein|1931"
+    },
+    {
+      "id": "G100-20261008-HORROR-003-Y",
+      "filmKey": "Frankenstein|1931"
+    },
+    {
+      "id": "G100-20261008-HORROR-003-D",
+      "filmKey": "Frankenstein|1931"
+    },
+    {
+      "id": "E20261007-F-233-L1",
+      "filmKey": "Frantic|1988"
+    },
+    {
+      "id": "E20261007-F-233-L2",
+      "filmKey": "Frantic|1988"
+    },
+    {
+      "id": "E20261007-F-233-M1",
+      "filmKey": "Frantic|1988"
+    },
+    {
+      "id": "E20261007-F-233-M2",
+      "filmKey": "Frantic|1988"
+    },
+    {
+      "id": "E20261007-F-233-S1",
+      "filmKey": "Frantic|1988"
+    },
+    {
+      "id": "E20261007-F-233-S2",
+      "filmKey": "Frantic|1988"
+    },
+    {
+      "id": "E20261007-F-233-Y",
+      "filmKey": "Frantic|1988"
+    },
+    {
+      "id": "E20261007-F-233-D",
+      "filmKey": "Frantic|1988"
+    },
+    {
+      "id": "ROM-L-047",
+      "filmKey": "French Kiss|1995"
+    },
+    {
+      "id": "ROM-L-048",
+      "filmKey": "French Kiss|1995"
+    },
+    {
+      "id": "ROM-M-047",
+      "filmKey": "French Kiss|1995"
+    },
+    {
+      "id": "ROM-M-048",
+      "filmKey": "French Kiss|1995"
+    },
+    {
+      "id": "ROM-S-047",
+      "filmKey": "French Kiss|1995"
+    },
+    {
+      "id": "ROM-S-048",
+      "filmKey": "French Kiss|1995"
+    },
+    {
+      "id": "FF-274-YEAR",
+      "filmKey": "French Kiss|1995"
+    },
+    {
+      "id": "FF-274-DIRECTOR",
+      "filmKey": "French Kiss|1995"
+    },
+    {
+      "id": "E20261007-F-205-L1",
+      "filmKey": "Frequency|2000"
+    },
+    {
+      "id": "E20261007-F-205-L2",
+      "filmKey": "Frequency|2000"
+    },
+    {
+      "id": "E20261007-F-205-M1",
+      "filmKey": "Frequency|2000"
+    },
+    {
+      "id": "E20261007-F-205-M2",
+      "filmKey": "Frequency|2000"
+    },
+    {
+      "id": "E20261007-F-205-S1",
+      "filmKey": "Frequency|2000"
+    },
+    {
+      "id": "E20261007-F-205-S2",
+      "filmKey": "Frequency|2000"
+    },
+    {
+      "id": "E20261007-F-205-Y",
+      "filmKey": "Frequency|2000"
+    },
+    {
+      "id": "E20261007-F-205-D",
+      "filmKey": "Frequency|2000"
+    },
+    {
+      "id": "HOR-L-011",
+      "filmKey": "Friday the 13th Part 2|1981"
+    },
+    {
+      "id": "HOR-L-012",
+      "filmKey": "Friday the 13th Part 2|1981"
+    },
+    {
+      "id": "HOR-M-011",
+      "filmKey": "Friday the 13th Part 2|1981"
+    },
+    {
+      "id": "HOR-M-012",
+      "filmKey": "Friday the 13th Part 2|1981"
+    },
+    {
+      "id": "HOR-S-011",
+      "filmKey": "Friday the 13th Part 2|1981"
+    },
+    {
+      "id": "HOR-S-012",
+      "filmKey": "Friday the 13th Part 2|1981"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."

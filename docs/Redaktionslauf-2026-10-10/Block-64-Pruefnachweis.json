@@ -1,0 +1,74 @@
+{
+  "count": 50,
+  "uniqueIds": 50,
+  "noPreviouslyReviewedIds": true,
+  "fourDifferentOptions": true,
+  "oneCorrect": true,
+  "originalsPreserved": true,
+  "stableIdentitiesExceptExplicitNewGoal": true,
+  "newGoalCount": 0,
+  "alreadyReviewedFollowups": 0,
+  "filmMaps": 6,
+  "minimumGoalsAndYearDirector": false,
+  "pendingMinimumGoals": [
+    {
+      "filmKey": "Fong Sai-yuk|1993",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 5,
+        "schwer": 1
+      },
+      "yearReviewed": true,
+      "directorReviewed": true,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    },
+    {
+      "filmKey": "Four Weddings and a Funeral|1994",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 0
+      },
+      "yearReviewed": false,
+      "directorReviewed": false,
+      "reason": "Jahr/Regie oder eigenständige Mindestinhaltsziele noch nicht vollständig redaktionell geprüft."
+    }
+  ],
+  "retainedDeepNumbers": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    8,
+    9,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    19,
+    21,
+    24,
+    26,
+    27,
+    28,
+    32,
+    33,
+    35,
+    36,
+    37,
+    38,
+    40,
+    41,
+    44,
+    45,
+    47,
+    50
+  ],
+  "fullyRetainedNumbers": [],
+  "checksum": "e1eb0ac1d9a8f94db2e6c40f9c999e2874df728337d873e48db019156b192477",
+  "scope": "Datei- und Inhaltsprüfung; kein App-Import, kein neuer technischer Testlauf",
+  "canonicalDisplayFieldsComplete": true
+}
