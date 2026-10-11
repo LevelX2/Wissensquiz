@@ -83,9 +83,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 77: vollständiger Alt/Neu-Vergleich](Block-77.md) und [strukturierter Nachweis](Block-77.json): 50 Fragen, 19 Vertiefungen geändert, 31 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 78: vollständiger Alt/Neu-Vergleich](Block-78.md) und [strukturierter Nachweis](Block-78.json): 50 Fragen, 23 Vertiefungen geändert, 27 erhalten, 0 Fragen vollständig unverändert; 3 von 6 betroffenen Filmgruppen abgeschlossen.
 - [Block 79: vollständiger Alt/Neu-Vergleich](Block-79.md) und [strukturierter Nachweis](Block-79.json): 50 Fragen, 28 Vertiefungen geändert, 22 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 4100 von 12.773 IDs redaktionell erfasst.
-- Offen: 6633 Filmfragen und 2040 weitere Fragen; zusammen 8673. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 79 schließt Horrible Bosses ab und prüft Hors de prix, Hostel, Hostiles, Hot Fuzz, Hot Shots! und House of Flying Daggers gemeinsam. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Keine App-Integration durch diesen Block.
+- [Block 80: vollständiger Alt/Neu-Vergleich](Block-80.md) und [strukturierter Nachweis](Block-80.json): 50 Fragen, 23 Vertiefungen geändert, 27 erhalten, 0 Fragen vollständig unverändert; 5 von 8 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 4150 von 12.773 IDs redaktionell erfasst.
+- Offen: 6583 Filmfragen und 2040 weitere Fragen; zusammen 8623. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 80 schließt House of Flying Daggers ab und prüft How the West Was Won, How to Lose a Guy in 10 Days, I Am Legend, I Am Mother, I Can Only Imagine, I Was a Male War Bride sowie die I-Robot-Teilgruppe gemeinsam. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Keine App-Integration durch diesen Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 
