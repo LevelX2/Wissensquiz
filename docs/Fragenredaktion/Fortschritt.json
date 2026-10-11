@@ -1,11 +1,11 @@
 {
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
-  "totalReviewed": 5950,
-  "remainingFilmQuestions": 4783,
+  "totalReviewed": 6000,
+  "remainingFilmQuestions": 4733,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 6823,
-  "lastCompletedBlock": 116,
+  "remainingAllQuestions": 6773,
+  "lastCompletedBlock": 117,
   "reviewedIds": [
     "ART-L-017",
     "ACT-M-025",
@@ -5956,209 +5956,59 @@
     "F240-20261006-204-L1",
     "F240-20261006-204-L2",
     "F240-20261006-204-M1",
-    "F240-20261006-204-M2"
+    "F240-20261006-204-M2",
+    "F240-20261006-204-S1",
+    "F240-20261006-204-S2",
+    "F240-20261006-204-Y",
+    "F240-20261006-204-D",
+    "F240-20261006-028-L1",
+    "F240-20261006-028-L2",
+    "F240-20261006-028-M1",
+    "F240-20261006-028-M2",
+    "F240-20261006-028-S1",
+    "F240-20261006-028-S2",
+    "F240-20261006-028-Y",
+    "F240-20261006-028-D",
+    "F240-20261006-043-L1",
+    "F240-20261006-043-L2",
+    "F240-20261006-043-M1",
+    "F240-20261006-043-M2",
+    "F240-20261006-043-S1",
+    "F240-20261006-043-S2",
+    "F240-20261006-043-Y",
+    "F240-20261006-043-D",
+    "KOM-202609-P02-L-097",
+    "KOM-202609-P02-L-098",
+    "KOM-202609-P02-M-097",
+    "KOM-202609-P02-M-098",
+    "KOM-202609-P02-S-097",
+    "KOM-202609-P02-S-098",
+    "KOM-202609-P02-S-097-V1",
+    "FF-424-YEAR",
+    "FF-424-DIRECTOR",
+    "CLA-L-025",
+    "CLA-L-026",
+    "CLA-M-025",
+    "CLA-M-026",
+    "CLA-S-025",
+    "CLA-S-026",
+    "FF-063-YEAR",
+    "FF-063-DIRECTOR",
+    "CLA-L-037",
+    "CLA-L-038",
+    "CLA-M-037",
+    "CLA-M-038",
+    "CLA-S-037",
+    "CLA-S-038",
+    "FF-069-YEAR",
+    "FF-069-DIRECTOR",
+    "G100-20261008-THRILLER-001-L1",
+    "G100-20261008-THRILLER-001-L2",
+    "G100-20261008-THRILLER-001-M1",
+    "G100-20261008-THRILLER-001-M2",
+    "G100-20261008-THRILLER-001-S1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-204-S1",
-      "filmKey": "No Country for Old Men|2007"
-    },
-    {
-      "id": "F240-20261006-204-S2",
-      "filmKey": "No Country for Old Men|2007"
-    },
-    {
-      "id": "F240-20261006-204-Y",
-      "filmKey": "No Country for Old Men|2007"
-    },
-    {
-      "id": "F240-20261006-204-D",
-      "filmKey": "No Country for Old Men|2007"
-    },
-    {
-      "id": "F240-20261006-028-L1",
-      "filmKey": "Nobody|2021"
-    },
-    {
-      "id": "F240-20261006-028-L2",
-      "filmKey": "Nobody|2021"
-    },
-    {
-      "id": "F240-20261006-028-M1",
-      "filmKey": "Nobody|2021"
-    },
-    {
-      "id": "F240-20261006-028-M2",
-      "filmKey": "Nobody|2021"
-    },
-    {
-      "id": "F240-20261006-028-S1",
-      "filmKey": "Nobody|2021"
-    },
-    {
-      "id": "F240-20261006-028-S2",
-      "filmKey": "Nobody|2021"
-    },
-    {
-      "id": "F240-20261006-028-Y",
-      "filmKey": "Nobody|2021"
-    },
-    {
-      "id": "F240-20261006-028-D",
-      "filmKey": "Nobody|2021"
-    },
-    {
-      "id": "F240-20261006-043-L1",
-      "filmKey": "Nomadland|2020"
-    },
-    {
-      "id": "F240-20261006-043-L2",
-      "filmKey": "Nomadland|2020"
-    },
-    {
-      "id": "F240-20261006-043-M1",
-      "filmKey": "Nomadland|2020"
-    },
-    {
-      "id": "F240-20261006-043-M2",
-      "filmKey": "Nomadland|2020"
-    },
-    {
-      "id": "F240-20261006-043-S1",
-      "filmKey": "Nomadland|2020"
-    },
-    {
-      "id": "F240-20261006-043-S2",
-      "filmKey": "Nomadland|2020"
-    },
-    {
-      "id": "F240-20261006-043-Y",
-      "filmKey": "Nomadland|2020"
-    },
-    {
-      "id": "F240-20261006-043-D",
-      "filmKey": "Nomadland|2020"
-    },
-    {
-      "id": "KOM-202609-P02-L-097",
-      "filmKey": "Non c'è due senza quattro|1984"
-    },
-    {
-      "id": "KOM-202609-P02-L-098",
-      "filmKey": "Non c'è due senza quattro|1984"
-    },
-    {
-      "id": "KOM-202609-P02-M-097",
-      "filmKey": "Non c'è due senza quattro|1984"
-    },
-    {
-      "id": "KOM-202609-P02-M-098",
-      "filmKey": "Non c'è due senza quattro|1984"
-    },
-    {
-      "id": "KOM-202609-P02-S-097",
-      "filmKey": "Non c'è due senza quattro|1984"
-    },
-    {
-      "id": "KOM-202609-P02-S-098",
-      "filmKey": "Non c'è due senza quattro|1984"
-    },
-    {
-      "id": "KOM-202609-P02-S-097-V1",
-      "filmKey": "Non c'è due senza quattro|1984"
-    },
-    {
-      "id": "FF-424-YEAR",
-      "filmKey": "Non c'è due senza quattro|1984"
-    },
-    {
-      "id": "FF-424-DIRECTOR",
-      "filmKey": "Non c'è due senza quattro|1984"
-    },
-    {
-      "id": "CLA-L-025",
-      "filmKey": "North by Northwest|1959"
-    },
-    {
-      "id": "CLA-L-026",
-      "filmKey": "North by Northwest|1959"
-    },
-    {
-      "id": "CLA-M-025",
-      "filmKey": "North by Northwest|1959"
-    },
-    {
-      "id": "CLA-M-026",
-      "filmKey": "North by Northwest|1959"
-    },
-    {
-      "id": "CLA-S-025",
-      "filmKey": "North by Northwest|1959"
-    },
-    {
-      "id": "CLA-S-026",
-      "filmKey": "North by Northwest|1959"
-    },
-    {
-      "id": "FF-063-YEAR",
-      "filmKey": "North by Northwest|1959"
-    },
-    {
-      "id": "FF-063-DIRECTOR",
-      "filmKey": "North by Northwest|1959"
-    },
-    {
-      "id": "CLA-L-037",
-      "filmKey": "Nosferatu, eine Symphonie des Grauens|1922"
-    },
-    {
-      "id": "CLA-L-038",
-      "filmKey": "Nosferatu, eine Symphonie des Grauens|1922"
-    },
-    {
-      "id": "CLA-M-037",
-      "filmKey": "Nosferatu, eine Symphonie des Grauens|1922"
-    },
-    {
-      "id": "CLA-M-038",
-      "filmKey": "Nosferatu, eine Symphonie des Grauens|1922"
-    },
-    {
-      "id": "CLA-S-037",
-      "filmKey": "Nosferatu, eine Symphonie des Grauens|1922"
-    },
-    {
-      "id": "CLA-S-038",
-      "filmKey": "Nosferatu, eine Symphonie des Grauens|1922"
-    },
-    {
-      "id": "FF-069-YEAR",
-      "filmKey": "Nosferatu, eine Symphonie des Grauens|1922"
-    },
-    {
-      "id": "FF-069-DIRECTOR",
-      "filmKey": "Nosferatu, eine Symphonie des Grauens|1922"
-    },
-    {
-      "id": "G100-20261008-THRILLER-001-L1",
-      "filmKey": "Notorious|1946"
-    },
-    {
-      "id": "G100-20261008-THRILLER-001-L2",
-      "filmKey": "Notorious|1946"
-    },
-    {
-      "id": "G100-20261008-THRILLER-001-M1",
-      "filmKey": "Notorious|1946"
-    },
-    {
-      "id": "G100-20261008-THRILLER-001-M2",
-      "filmKey": "Notorious|1946"
-    },
-    {
-      "id": "G100-20261008-THRILLER-001-S1",
-      "filmKey": "Notorious|1946"
-    },
     {
       "id": "G100-20261008-THRILLER-001-S2",
       "filmKey": "Notorious|1946"
