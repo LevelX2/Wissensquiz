@@ -1,11 +1,11 @@
 {
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
-  "totalReviewed": 6000,
-  "remainingFilmQuestions": 4733,
+  "totalReviewed": 6050,
+  "remainingFilmQuestions": 4683,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 6773,
-  "lastCompletedBlock": 117,
+  "remainingAllQuestions": 6723,
+  "lastCompletedBlock": 118,
   "reviewedIds": [
     "ART-L-017",
     "ACT-M-025",
@@ -6006,209 +6006,59 @@
     "G100-20261008-THRILLER-001-L2",
     "G100-20261008-THRILLER-001-M1",
     "G100-20261008-THRILLER-001-M2",
-    "G100-20261008-THRILLER-001-S1"
+    "G100-20261008-THRILLER-001-S1",
+    "G100-20261008-THRILLER-001-S2",
+    "G100-20261008-THRILLER-001-Y",
+    "G100-20261008-THRILLER-001-D",
+    "E20261007-F-176-L1",
+    "E20261007-F-176-L2",
+    "E20261007-F-176-M1",
+    "E20261007-F-176-M2",
+    "E20261007-F-176-S1",
+    "E20261007-F-176-S2",
+    "E20261007-F-176-Y",
+    "E20261007-F-176-D",
+    "ROM-L-005",
+    "ROM-L-006",
+    "ROM-M-005",
+    "ROM-M-006",
+    "ROM-S-005",
+    "ROM-S-006",
+    "ROM-L-005-V1",
+    "ROM-L-006-V1",
+    "ROM-M-005-V1",
+    "ROM-M-006-V1",
+    "ROM-S-005-V1",
+    "ROM-S-006-V1",
+    "FF-253-YEAR",
+    "FF-253-DIRECTOR",
+    "F240-20261006-151-L1",
+    "F240-20261006-151-L2",
+    "F240-20261006-151-M1",
+    "F240-20261006-151-M2",
+    "F240-20261006-151-S1",
+    "F240-20261006-151-S2",
+    "F240-20261006-151-Y",
+    "F240-20261006-151-D",
+    "SF-L-049",
+    "SF-M-049",
+    "SF-S-049",
+    "FF-174-YEAR",
+    "FF-174-DIRECTOR",
+    "F240-20261006-179-L1",
+    "F240-20261006-179-L2",
+    "F240-20261006-179-M1",
+    "F240-20261006-179-M2",
+    "F240-20261006-179-S1",
+    "F240-20261006-179-S2",
+    "F240-20261006-179-Y",
+    "F240-20261006-179-D",
+    "KOM-L-043",
+    "KOM-L-044",
+    "KOM-M-043",
+    "KOM-M-044"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "G100-20261008-THRILLER-001-S2",
-      "filmKey": "Notorious|1946"
-    },
-    {
-      "id": "G100-20261008-THRILLER-001-Y",
-      "filmKey": "Notorious|1946"
-    },
-    {
-      "id": "G100-20261008-THRILLER-001-D",
-      "filmKey": "Notorious|1946"
-    },
-    {
-      "id": "E20261007-F-176-L1",
-      "filmKey": "Notorious|2009"
-    },
-    {
-      "id": "E20261007-F-176-L2",
-      "filmKey": "Notorious|2009"
-    },
-    {
-      "id": "E20261007-F-176-M1",
-      "filmKey": "Notorious|2009"
-    },
-    {
-      "id": "E20261007-F-176-M2",
-      "filmKey": "Notorious|2009"
-    },
-    {
-      "id": "E20261007-F-176-S1",
-      "filmKey": "Notorious|2009"
-    },
-    {
-      "id": "E20261007-F-176-S2",
-      "filmKey": "Notorious|2009"
-    },
-    {
-      "id": "E20261007-F-176-Y",
-      "filmKey": "Notorious|2009"
-    },
-    {
-      "id": "E20261007-F-176-D",
-      "filmKey": "Notorious|2009"
-    },
-    {
-      "id": "ROM-L-005",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "ROM-L-006",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "ROM-M-005",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "ROM-M-006",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "ROM-S-005",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "ROM-S-006",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "ROM-L-005-V1",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "ROM-L-006-V1",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "ROM-M-005-V1",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "ROM-M-006-V1",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "ROM-S-005-V1",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "ROM-S-006-V1",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "FF-253-YEAR",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "FF-253-DIRECTOR",
-      "filmKey": "Notting Hill|1999"
-    },
-    {
-      "id": "F240-20261006-151-L1",
-      "filmKey": "O Brother, Where Art Thou?|2000"
-    },
-    {
-      "id": "F240-20261006-151-L2",
-      "filmKey": "O Brother, Where Art Thou?|2000"
-    },
-    {
-      "id": "F240-20261006-151-M1",
-      "filmKey": "O Brother, Where Art Thou?|2000"
-    },
-    {
-      "id": "F240-20261006-151-M2",
-      "filmKey": "O Brother, Where Art Thou?|2000"
-    },
-    {
-      "id": "F240-20261006-151-S1",
-      "filmKey": "O Brother, Where Art Thou?|2000"
-    },
-    {
-      "id": "F240-20261006-151-S2",
-      "filmKey": "O Brother, Where Art Thou?|2000"
-    },
-    {
-      "id": "F240-20261006-151-Y",
-      "filmKey": "O Brother, Where Art Thou?|2000"
-    },
-    {
-      "id": "F240-20261006-151-D",
-      "filmKey": "O Brother, Where Art Thou?|2000"
-    },
-    {
-      "id": "SF-L-049",
-      "filmKey": "Oblivion|2013"
-    },
-    {
-      "id": "SF-M-049",
-      "filmKey": "Oblivion|2013"
-    },
-    {
-      "id": "SF-S-049",
-      "filmKey": "Oblivion|2013"
-    },
-    {
-      "id": "FF-174-YEAR",
-      "filmKey": "Oblivion|2013"
-    },
-    {
-      "id": "FF-174-DIRECTOR",
-      "filmKey": "Oblivion|2013"
-    },
-    {
-      "id": "F240-20261006-179-L1",
-      "filmKey": "Obvious Child|2014"
-    },
-    {
-      "id": "F240-20261006-179-L2",
-      "filmKey": "Obvious Child|2014"
-    },
-    {
-      "id": "F240-20261006-179-M1",
-      "filmKey": "Obvious Child|2014"
-    },
-    {
-      "id": "F240-20261006-179-M2",
-      "filmKey": "Obvious Child|2014"
-    },
-    {
-      "id": "F240-20261006-179-S1",
-      "filmKey": "Obvious Child|2014"
-    },
-    {
-      "id": "F240-20261006-179-S2",
-      "filmKey": "Obvious Child|2014"
-    },
-    {
-      "id": "F240-20261006-179-Y",
-      "filmKey": "Obvious Child|2014"
-    },
-    {
-      "id": "F240-20261006-179-D",
-      "filmKey": "Obvious Child|2014"
-    },
-    {
-      "id": "KOM-L-043",
-      "filmKey": "Ödipussi|1988"
-    },
-    {
-      "id": "KOM-L-044",
-      "filmKey": "Ödipussi|1988"
-    },
-    {
-      "id": "KOM-M-043",
-      "filmKey": "Ödipussi|1988"
-    },
-    {
-      "id": "KOM-M-044",
-      "filmKey": "Ödipussi|1988"
-    },
     {
       "id": "KOM-S-043",
       "filmKey": "Ödipussi|1988"
