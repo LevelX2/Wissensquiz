@@ -1,11 +1,11 @@
 {
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
-  "totalReviewed": 5100,
-  "remainingFilmQuestions": 5633,
+  "totalReviewed": 5150,
+  "remainingFilmQuestions": 5583,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 7673,
-  "lastCompletedBlock": 99,
+  "remainingAllQuestions": 7623,
+  "lastCompletedBlock": 100,
   "reviewedIds": [
     "ART-L-017",
     "ACT-M-025",
@@ -5106,209 +5106,59 @@
     "G100-20261008-ACTION-017-S1",
     "G100-20261008-ACTION-017-S2",
     "G100-20261008-ACTION-017-Y",
-    "G100-20261008-ACTION-017-D"
+    "G100-20261008-ACTION-017-D",
+    "G100-20261008-ACTION-018-L1",
+    "G100-20261008-ACTION-018-L2",
+    "G100-20261008-ACTION-018-M1",
+    "G100-20261008-ACTION-018-M2",
+    "G100-20261008-ACTION-018-S1",
+    "G100-20261008-ACTION-018-S2",
+    "G100-20261008-ACTION-018-Y",
+    "G100-20261008-ACTION-018-D",
+    "ACT-L-007",
+    "ACT-L-008",
+    "ACT-M-007",
+    "ACT-M-008",
+    "ACT-S-007",
+    "ACT-S-008",
+    "FF-004-YEAR",
+    "FF-004-DIRECTOR",
+    "G100-20261008-ACTION-011-L1",
+    "G100-20261008-ACTION-011-L2",
+    "G100-20261008-ACTION-011-M1",
+    "G100-20261008-ACTION-011-M2",
+    "G100-20261008-ACTION-011-S1",
+    "G100-20261008-ACTION-011-S2",
+    "G100-20261008-ACTION-011-Y",
+    "G100-20261008-ACTION-011-D",
+    "SF-202609-P02-L-039",
+    "SF-202609-P02-L-040",
+    "SF-202609-P02-M-039",
+    "SF-202609-P02-M-040",
+    "SF-202609-P02-S-039",
+    "SF-202609-P02-S-040",
+    "SF-202609-P02-L-039-V1",
+    "FF-345-YEAR",
+    "FF-345-DIRECTOR",
+    "WES-202610-P01-L-011",
+    "WES-202610-P01-L-012",
+    "WES-202610-P01-M-016",
+    "WES-202610-P01-M-017",
+    "WES-202610-P01-S-016",
+    "WES-202610-P01-S-017",
+    "WES-202610-P01-M-018",
+    "WES-202610-P01-S-018",
+    "MUS-202610-P01-L-001",
+    "MUS-202610-P01-L-002",
+    "MUS-202610-P01-M-001",
+    "MUS-202610-P01-M-002",
+    "MUS-202610-P01-S-001",
+    "MUS-202610-P01-S-002",
+    "MUS-202610-P01-M-003",
+    "MUS-202610-P01-S-003",
+    "E20261007-F-155-L1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "G100-20261008-ACTION-018-L1",
-      "filmKey": "Lethal Weapon 4|1998"
-    },
-    {
-      "id": "G100-20261008-ACTION-018-L2",
-      "filmKey": "Lethal Weapon 4|1998"
-    },
-    {
-      "id": "G100-20261008-ACTION-018-M1",
-      "filmKey": "Lethal Weapon 4|1998"
-    },
-    {
-      "id": "G100-20261008-ACTION-018-M2",
-      "filmKey": "Lethal Weapon 4|1998"
-    },
-    {
-      "id": "G100-20261008-ACTION-018-S1",
-      "filmKey": "Lethal Weapon 4|1998"
-    },
-    {
-      "id": "G100-20261008-ACTION-018-S2",
-      "filmKey": "Lethal Weapon 4|1998"
-    },
-    {
-      "id": "G100-20261008-ACTION-018-Y",
-      "filmKey": "Lethal Weapon 4|1998"
-    },
-    {
-      "id": "G100-20261008-ACTION-018-D",
-      "filmKey": "Lethal Weapon 4|1998"
-    },
-    {
-      "id": "ACT-L-007",
-      "filmKey": "Lethal Weapon|1987"
-    },
-    {
-      "id": "ACT-L-008",
-      "filmKey": "Lethal Weapon|1987"
-    },
-    {
-      "id": "ACT-M-007",
-      "filmKey": "Lethal Weapon|1987"
-    },
-    {
-      "id": "ACT-M-008",
-      "filmKey": "Lethal Weapon|1987"
-    },
-    {
-      "id": "ACT-S-007",
-      "filmKey": "Lethal Weapon|1987"
-    },
-    {
-      "id": "ACT-S-008",
-      "filmKey": "Lethal Weapon|1987"
-    },
-    {
-      "id": "FF-004-YEAR",
-      "filmKey": "Lethal Weapon|1987"
-    },
-    {
-      "id": "FF-004-DIRECTOR",
-      "filmKey": "Lethal Weapon|1987"
-    },
-    {
-      "id": "G100-20261008-ACTION-011-L1",
-      "filmKey": "Licence to Kill|1989"
-    },
-    {
-      "id": "G100-20261008-ACTION-011-L2",
-      "filmKey": "Licence to Kill|1989"
-    },
-    {
-      "id": "G100-20261008-ACTION-011-M1",
-      "filmKey": "Licence to Kill|1989"
-    },
-    {
-      "id": "G100-20261008-ACTION-011-M2",
-      "filmKey": "Licence to Kill|1989"
-    },
-    {
-      "id": "G100-20261008-ACTION-011-S1",
-      "filmKey": "Licence to Kill|1989"
-    },
-    {
-      "id": "G100-20261008-ACTION-011-S2",
-      "filmKey": "Licence to Kill|1989"
-    },
-    {
-      "id": "G100-20261008-ACTION-011-Y",
-      "filmKey": "Licence to Kill|1989"
-    },
-    {
-      "id": "G100-20261008-ACTION-011-D",
-      "filmKey": "Licence to Kill|1989"
-    },
-    {
-      "id": "SF-202609-P02-L-039",
-      "filmKey": "Life|2017"
-    },
-    {
-      "id": "SF-202609-P02-L-040",
-      "filmKey": "Life|2017"
-    },
-    {
-      "id": "SF-202609-P02-M-039",
-      "filmKey": "Life|2017"
-    },
-    {
-      "id": "SF-202609-P02-M-040",
-      "filmKey": "Life|2017"
-    },
-    {
-      "id": "SF-202609-P02-S-039",
-      "filmKey": "Life|2017"
-    },
-    {
-      "id": "SF-202609-P02-S-040",
-      "filmKey": "Life|2017"
-    },
-    {
-      "id": "SF-202609-P02-L-039-V1",
-      "filmKey": "Life|2017"
-    },
-    {
-      "id": "FF-345-YEAR",
-      "filmKey": "Life|2017"
-    },
-    {
-      "id": "FF-345-DIRECTOR",
-      "filmKey": "Life|2017"
-    },
-    {
-      "id": "WES-202610-P01-L-011",
-      "filmKey": "Little Big Man|1970"
-    },
-    {
-      "id": "WES-202610-P01-L-012",
-      "filmKey": "Little Big Man|1970"
-    },
-    {
-      "id": "WES-202610-P01-M-016",
-      "filmKey": "Little Big Man|1970"
-    },
-    {
-      "id": "WES-202610-P01-M-017",
-      "filmKey": "Little Big Man|1970"
-    },
-    {
-      "id": "WES-202610-P01-S-016",
-      "filmKey": "Little Big Man|1970"
-    },
-    {
-      "id": "WES-202610-P01-S-017",
-      "filmKey": "Little Big Man|1970"
-    },
-    {
-      "id": "WES-202610-P01-M-018",
-      "filmKey": "Little Big Man|1970"
-    },
-    {
-      "id": "WES-202610-P01-S-018",
-      "filmKey": "Little Big Man|1970"
-    },
-    {
-      "id": "MUS-202610-P01-L-001",
-      "filmKey": "Little Shop of Horrors|1986"
-    },
-    {
-      "id": "MUS-202610-P01-L-002",
-      "filmKey": "Little Shop of Horrors|1986"
-    },
-    {
-      "id": "MUS-202610-P01-M-001",
-      "filmKey": "Little Shop of Horrors|1986"
-    },
-    {
-      "id": "MUS-202610-P01-M-002",
-      "filmKey": "Little Shop of Horrors|1986"
-    },
-    {
-      "id": "MUS-202610-P01-S-001",
-      "filmKey": "Little Shop of Horrors|1986"
-    },
-    {
-      "id": "MUS-202610-P01-S-002",
-      "filmKey": "Little Shop of Horrors|1986"
-    },
-    {
-      "id": "MUS-202610-P01-M-003",
-      "filmKey": "Little Shop of Horrors|1986"
-    },
-    {
-      "id": "MUS-202610-P01-S-003",
-      "filmKey": "Little Shop of Horrors|1986"
-    },
-    {
-      "id": "E20261007-F-155-L1",
-      "filmKey": "Liu xing hu die jian|1976"
-    },
     {
       "id": "E20261007-F-155-L2",
       "filmKey": "Liu xing hu die jian|1976"
