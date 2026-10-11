@@ -4,11 +4,11 @@
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
   "priorReviewed": 150,
-  "completedInThisRun": 3250,
-  "totalReviewed": 3400,
-  "remainingFilmQuestions": 7333,
+  "completedInThisRun": 3300,
+  "totalReviewed": 3450,
+  "remainingFilmQuestions": 7283,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 9373,
+  "remainingAllQuestions": 9323,
   "blocks": [
     {
       "block": 1,
@@ -333,6 +333,11 @@
     {
       "block": 65,
       "path": "Block-65.json",
+      "count": 50
+    },
+    {
+      "block": 66,
+      "path": "Block-66.json",
       "count": 50
     }
   ],
@@ -3736,209 +3741,59 @@
     "HOR-M-011",
     "HOR-M-012",
     "HOR-S-011",
-    "HOR-S-012"
+    "HOR-S-012",
+    "FF-181-YEAR",
+    "FF-181-DIRECTOR",
+    "HOR-L-009",
+    "HOR-L-010",
+    "HOR-M-009",
+    "HOR-M-010",
+    "HOR-S-009",
+    "HOR-S-010",
+    "FF-180-YEAR",
+    "FF-180-DIRECTOR",
+    "G100-20261008-ROMCOM-016-L1",
+    "G100-20261008-ROMCOM-016-L2",
+    "G100-20261008-ROMCOM-016-M1",
+    "G100-20261008-ROMCOM-016-M2",
+    "G100-20261008-ROMCOM-016-S1",
+    "G100-20261008-ROMCOM-016-S2",
+    "G100-20261008-ROMCOM-016-Y",
+    "G100-20261008-ROMCOM-016-D",
+    "G100-20261008-HORROR-010-L1",
+    "G100-20261008-HORROR-010-L2",
+    "G100-20261008-HORROR-010-M1",
+    "G100-20261008-HORROR-010-M2",
+    "G100-20261008-HORROR-010-S1",
+    "G100-20261008-HORROR-010-S2",
+    "G100-20261008-HORROR-010-Y",
+    "G100-20261008-HORROR-010-D",
+    "E20261007-F-254-L1",
+    "E20261007-F-254-L2",
+    "E20261007-F-254-M1",
+    "E20261007-F-254-M2",
+    "E20261007-F-254-S1",
+    "E20261007-F-254-S2",
+    "E20261007-F-254-Y",
+    "E20261007-F-254-D",
+    "G100-20261008-ACTION-008-L1",
+    "G100-20261008-ACTION-008-L2",
+    "G100-20261008-ACTION-008-M1",
+    "G100-20261008-ACTION-008-M2",
+    "G100-20261008-ACTION-008-S1",
+    "G100-20261008-ACTION-008-S2",
+    "G100-20261008-ACTION-008-Y",
+    "G100-20261008-ACTION-008-D",
+    "F240-20261006-144-L1",
+    "F240-20261006-144-L2",
+    "F240-20261006-144-M1",
+    "F240-20261006-144-M2",
+    "F240-20261006-144-S1",
+    "F240-20261006-144-S2",
+    "F240-20261006-144-Y",
+    "F240-20261006-144-D"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "FF-181-YEAR",
-      "filmKey": "Friday the 13th Part 2|1981"
-    },
-    {
-      "id": "FF-181-DIRECTOR",
-      "filmKey": "Friday the 13th Part 2|1981"
-    },
-    {
-      "id": "HOR-L-009",
-      "filmKey": "Friday the 13th|1980"
-    },
-    {
-      "id": "HOR-L-010",
-      "filmKey": "Friday the 13th|1980"
-    },
-    {
-      "id": "HOR-M-009",
-      "filmKey": "Friday the 13th|1980"
-    },
-    {
-      "id": "HOR-M-010",
-      "filmKey": "Friday the 13th|1980"
-    },
-    {
-      "id": "HOR-S-009",
-      "filmKey": "Friday the 13th|1980"
-    },
-    {
-      "id": "HOR-S-010",
-      "filmKey": "Friday the 13th|1980"
-    },
-    {
-      "id": "FF-180-YEAR",
-      "filmKey": "Friday the 13th|1980"
-    },
-    {
-      "id": "FF-180-DIRECTOR",
-      "filmKey": "Friday the 13th|1980"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-016-L1",
-      "filmKey": "Friends with Benefits|2011"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-016-L2",
-      "filmKey": "Friends with Benefits|2011"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-016-M1",
-      "filmKey": "Friends with Benefits|2011"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-016-M2",
-      "filmKey": "Friends with Benefits|2011"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-016-S1",
-      "filmKey": "Friends with Benefits|2011"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-016-S2",
-      "filmKey": "Friends with Benefits|2011"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-016-Y",
-      "filmKey": "Friends with Benefits|2011"
-    },
-    {
-      "id": "G100-20261008-ROMCOM-016-D",
-      "filmKey": "Friends with Benefits|2011"
-    },
-    {
-      "id": "G100-20261008-HORROR-010-L1",
-      "filmKey": "Fright Night|1985"
-    },
-    {
-      "id": "G100-20261008-HORROR-010-L2",
-      "filmKey": "Fright Night|1985"
-    },
-    {
-      "id": "G100-20261008-HORROR-010-M1",
-      "filmKey": "Fright Night|1985"
-    },
-    {
-      "id": "G100-20261008-HORROR-010-M2",
-      "filmKey": "Fright Night|1985"
-    },
-    {
-      "id": "G100-20261008-HORROR-010-S1",
-      "filmKey": "Fright Night|1985"
-    },
-    {
-      "id": "G100-20261008-HORROR-010-S2",
-      "filmKey": "Fright Night|1985"
-    },
-    {
-      "id": "G100-20261008-HORROR-010-Y",
-      "filmKey": "Fright Night|1985"
-    },
-    {
-      "id": "G100-20261008-HORROR-010-D",
-      "filmKey": "Fright Night|1985"
-    },
-    {
-      "id": "E20261007-F-254-L1",
-      "filmKey": "From Here to Eternity|1953"
-    },
-    {
-      "id": "E20261007-F-254-L2",
-      "filmKey": "From Here to Eternity|1953"
-    },
-    {
-      "id": "E20261007-F-254-M1",
-      "filmKey": "From Here to Eternity|1953"
-    },
-    {
-      "id": "E20261007-F-254-M2",
-      "filmKey": "From Here to Eternity|1953"
-    },
-    {
-      "id": "E20261007-F-254-S1",
-      "filmKey": "From Here to Eternity|1953"
-    },
-    {
-      "id": "E20261007-F-254-S2",
-      "filmKey": "From Here to Eternity|1953"
-    },
-    {
-      "id": "E20261007-F-254-Y",
-      "filmKey": "From Here to Eternity|1953"
-    },
-    {
-      "id": "E20261007-F-254-D",
-      "filmKey": "From Here to Eternity|1953"
-    },
-    {
-      "id": "G100-20261008-ACTION-008-L1",
-      "filmKey": "From Russia with Love|1963"
-    },
-    {
-      "id": "G100-20261008-ACTION-008-L2",
-      "filmKey": "From Russia with Love|1963"
-    },
-    {
-      "id": "G100-20261008-ACTION-008-M1",
-      "filmKey": "From Russia with Love|1963"
-    },
-    {
-      "id": "G100-20261008-ACTION-008-M2",
-      "filmKey": "From Russia with Love|1963"
-    },
-    {
-      "id": "G100-20261008-ACTION-008-S1",
-      "filmKey": "From Russia with Love|1963"
-    },
-    {
-      "id": "G100-20261008-ACTION-008-S2",
-      "filmKey": "From Russia with Love|1963"
-    },
-    {
-      "id": "G100-20261008-ACTION-008-Y",
-      "filmKey": "From Russia with Love|1963"
-    },
-    {
-      "id": "G100-20261008-ACTION-008-D",
-      "filmKey": "From Russia with Love|1963"
-    },
-    {
-      "id": "F240-20261006-144-L1",
-      "filmKey": "Funny Girl|1968"
-    },
-    {
-      "id": "F240-20261006-144-L2",
-      "filmKey": "Funny Girl|1968"
-    },
-    {
-      "id": "F240-20261006-144-M1",
-      "filmKey": "Funny Girl|1968"
-    },
-    {
-      "id": "F240-20261006-144-M2",
-      "filmKey": "Funny Girl|1968"
-    },
-    {
-      "id": "F240-20261006-144-S1",
-      "filmKey": "Funny Girl|1968"
-    },
-    {
-      "id": "F240-20261006-144-S2",
-      "filmKey": "Funny Girl|1968"
-    },
-    {
-      "id": "F240-20261006-144-Y",
-      "filmKey": "Funny Girl|1968"
-    },
-    {
-      "id": "F240-20261006-144-D",
-      "filmKey": "Funny Girl|1968"
-    },
     {
       "id": "G100-20261008-FANTASY-010-L1",
       "filmKey": "Gake no Ue no Ponyo|2008"
@@ -33074,204 +32929,204 @@
   ],
   "next": [
     {
-      "id": "FF-181-YEAR",
-      "filmKey": "Friday the 13th Part 2|1981"
+      "id": "G100-20261008-FANTASY-010-L1",
+      "filmKey": "Gake no Ue no Ponyo|2008"
     },
     {
-      "id": "FF-181-DIRECTOR",
-      "filmKey": "Friday the 13th Part 2|1981"
+      "id": "G100-20261008-FANTASY-010-L2",
+      "filmKey": "Gake no Ue no Ponyo|2008"
     },
     {
-      "id": "HOR-L-009",
-      "filmKey": "Friday the 13th|1980"
+      "id": "G100-20261008-FANTASY-010-M1",
+      "filmKey": "Gake no Ue no Ponyo|2008"
     },
     {
-      "id": "HOR-L-010",
-      "filmKey": "Friday the 13th|1980"
+      "id": "G100-20261008-FANTASY-010-M2",
+      "filmKey": "Gake no Ue no Ponyo|2008"
     },
     {
-      "id": "HOR-M-009",
-      "filmKey": "Friday the 13th|1980"
+      "id": "G100-20261008-FANTASY-010-S1",
+      "filmKey": "Gake no Ue no Ponyo|2008"
     },
     {
-      "id": "HOR-M-010",
-      "filmKey": "Friday the 13th|1980"
+      "id": "G100-20261008-FANTASY-010-S2",
+      "filmKey": "Gake no Ue no Ponyo|2008"
     },
     {
-      "id": "HOR-S-009",
-      "filmKey": "Friday the 13th|1980"
+      "id": "G100-20261008-FANTASY-010-Y",
+      "filmKey": "Gake no Ue no Ponyo|2008"
     },
     {
-      "id": "HOR-S-010",
-      "filmKey": "Friday the 13th|1980"
+      "id": "G100-20261008-FANTASY-010-D",
+      "filmKey": "Gake no Ue no Ponyo|2008"
     },
     {
-      "id": "FF-180-YEAR",
-      "filmKey": "Friday the 13th|1980"
+      "id": "KOM-L-019",
+      "filmKey": "Galaxy Quest|1999"
     },
     {
-      "id": "FF-180-DIRECTOR",
-      "filmKey": "Friday the 13th|1980"
+      "id": "KOM-L-020",
+      "filmKey": "Galaxy Quest|1999"
     },
     {
-      "id": "G100-20261008-ROMCOM-016-L1",
-      "filmKey": "Friends with Benefits|2011"
+      "id": "KOM-M-019",
+      "filmKey": "Galaxy Quest|1999"
     },
     {
-      "id": "G100-20261008-ROMCOM-016-L2",
-      "filmKey": "Friends with Benefits|2011"
+      "id": "KOM-M-020",
+      "filmKey": "Galaxy Quest|1999"
     },
     {
-      "id": "G100-20261008-ROMCOM-016-M1",
-      "filmKey": "Friends with Benefits|2011"
+      "id": "KOM-S-019",
+      "filmKey": "Galaxy Quest|1999"
     },
     {
-      "id": "G100-20261008-ROMCOM-016-M2",
-      "filmKey": "Friends with Benefits|2011"
+      "id": "KOM-S-020",
+      "filmKey": "Galaxy Quest|1999"
     },
     {
-      "id": "G100-20261008-ROMCOM-016-S1",
-      "filmKey": "Friends with Benefits|2011"
+      "id": "KOM-L-020-V1",
+      "filmKey": "Galaxy Quest|1999"
     },
     {
-      "id": "G100-20261008-ROMCOM-016-S2",
-      "filmKey": "Friends with Benefits|2011"
+      "id": "KOM-M-020-V1",
+      "filmKey": "Galaxy Quest|1999"
     },
     {
-      "id": "G100-20261008-ROMCOM-016-Y",
-      "filmKey": "Friends with Benefits|2011"
+      "id": "KOM-S-020-V1",
+      "filmKey": "Galaxy Quest|1999"
     },
     {
-      "id": "G100-20261008-ROMCOM-016-D",
-      "filmKey": "Friends with Benefits|2011"
+      "id": "FF-210-YEAR",
+      "filmKey": "Galaxy Quest|1999"
     },
     {
-      "id": "G100-20261008-HORROR-010-L1",
-      "filmKey": "Fright Night|1985"
+      "id": "FF-210-DIRECTOR",
+      "filmKey": "Galaxy Quest|1999"
     },
     {
-      "id": "G100-20261008-HORROR-010-L2",
-      "filmKey": "Fright Night|1985"
+      "id": "SF-L-025",
+      "filmKey": "Gattaca|1997"
     },
     {
-      "id": "G100-20261008-HORROR-010-M1",
-      "filmKey": "Fright Night|1985"
+      "id": "SF-M-025",
+      "filmKey": "Gattaca|1997"
     },
     {
-      "id": "G100-20261008-HORROR-010-M2",
-      "filmKey": "Fright Night|1985"
+      "id": "SF-S-025",
+      "filmKey": "Gattaca|1997"
     },
     {
-      "id": "G100-20261008-HORROR-010-S1",
-      "filmKey": "Fright Night|1985"
+      "id": "FF-150-YEAR",
+      "filmKey": "Gattaca|1997"
     },
     {
-      "id": "G100-20261008-HORROR-010-S2",
-      "filmKey": "Fright Night|1985"
+      "id": "FF-150-DIRECTOR",
+      "filmKey": "Gattaca|1997"
     },
     {
-      "id": "G100-20261008-HORROR-010-Y",
-      "filmKey": "Fright Night|1985"
+      "id": "E20261007-F-144-L1",
+      "filmKey": "Gau yat san diu hap|1991"
     },
     {
-      "id": "G100-20261008-HORROR-010-D",
-      "filmKey": "Fright Night|1985"
+      "id": "E20261007-F-144-L2",
+      "filmKey": "Gau yat san diu hap|1991"
     },
     {
-      "id": "E20261007-F-254-L1",
-      "filmKey": "From Here to Eternity|1953"
+      "id": "E20261007-F-144-M1",
+      "filmKey": "Gau yat san diu hap|1991"
     },
     {
-      "id": "E20261007-F-254-L2",
-      "filmKey": "From Here to Eternity|1953"
+      "id": "E20261007-F-144-M2",
+      "filmKey": "Gau yat san diu hap|1991"
     },
     {
-      "id": "E20261007-F-254-M1",
-      "filmKey": "From Here to Eternity|1953"
+      "id": "E20261007-F-144-S1",
+      "filmKey": "Gau yat san diu hap|1991"
     },
     {
-      "id": "E20261007-F-254-M2",
-      "filmKey": "From Here to Eternity|1953"
+      "id": "E20261007-F-144-S2",
+      "filmKey": "Gau yat san diu hap|1991"
     },
     {
-      "id": "E20261007-F-254-S1",
-      "filmKey": "From Here to Eternity|1953"
+      "id": "E20261007-F-144-Y",
+      "filmKey": "Gau yat san diu hap|1991"
     },
     {
-      "id": "E20261007-F-254-S2",
-      "filmKey": "From Here to Eternity|1953"
+      "id": "E20261007-F-144-D",
+      "filmKey": "Gau yat san diu hap|1991"
     },
     {
-      "id": "E20261007-F-254-Y",
-      "filmKey": "From Here to Eternity|1953"
+      "id": "HOR-L-049",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "E20261007-F-254-D",
-      "filmKey": "From Here to Eternity|1953"
+      "id": "HOR-L-050",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "G100-20261008-ACTION-008-L1",
-      "filmKey": "From Russia with Love|1963"
+      "id": "HOR-M-049",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "G100-20261008-ACTION-008-L2",
-      "filmKey": "From Russia with Love|1963"
+      "id": "HOR-M-050",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "G100-20261008-ACTION-008-M1",
-      "filmKey": "From Russia with Love|1963"
+      "id": "HOR-S-049",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "G100-20261008-ACTION-008-M2",
-      "filmKey": "From Russia with Love|1963"
+      "id": "HOR-S-050",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "G100-20261008-ACTION-008-S1",
-      "filmKey": "From Russia with Love|1963"
+      "id": "HOR-L-049-V1",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "G100-20261008-ACTION-008-S2",
-      "filmKey": "From Russia with Love|1963"
+      "id": "HOR-L-050-V1",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "G100-20261008-ACTION-008-Y",
-      "filmKey": "From Russia with Love|1963"
+      "id": "HOR-M-049-V1",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "G100-20261008-ACTION-008-D",
-      "filmKey": "From Russia with Love|1963"
+      "id": "HOR-M-050-V1",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "F240-20261006-144-L1",
-      "filmKey": "Funny Girl|1968"
+      "id": "HOR-S-049-V1",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "F240-20261006-144-L2",
-      "filmKey": "Funny Girl|1968"
+      "id": "HOR-S-050-V1",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "F240-20261006-144-M1",
-      "filmKey": "Funny Girl|1968"
+      "id": "FF-200-YEAR",
+      "filmKey": "Get Out|2017"
     },
     {
-      "id": "F240-20261006-144-M2",
-      "filmKey": "Funny Girl|1968"
+      "id": "FAN-202610-P01-L-001",
+      "filmKey": "Ghostbusters|1984"
     },
     {
-      "id": "F240-20261006-144-S1",
-      "filmKey": "Funny Girl|1968"
+      "id": "FAN-202610-P01-L-002",
+      "filmKey": "Ghostbusters|1984"
     },
     {
-      "id": "F240-20261006-144-S2",
-      "filmKey": "Funny Girl|1968"
+      "id": "FAN-202610-P01-M-001",
+      "filmKey": "Ghostbusters|1984"
     },
     {
-      "id": "F240-20261006-144-Y",
-      "filmKey": "Funny Girl|1968"
+      "id": "FAN-202610-P01-M-002",
+      "filmKey": "Ghostbusters|1984"
     },
     {
-      "id": "F240-20261006-144-D",
-      "filmKey": "Funny Girl|1968"
+      "id": "FAN-202610-P01-S-001",
+      "filmKey": "Ghostbusters|1984"
     }
   ],
   "note": "Bei geändertem Katalog vor Fortsetzung neu abgleichen. Frühere Vorschläge für den Gruppenvergleich heranziehen; App-Original und redaktionellen Vorschlag getrennt erhalten. Nach Filmen folgen Personen-/Preisfragen nach ihren Verträgen. Noch offene Quellenpräzisierungen nicht als vollständige Klärung ausgeben."
