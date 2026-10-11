@@ -157,8 +157,12 @@ export function learningPathProgress(state: State, legacyFilmAwards = false) {
   };
 }
 
-export function nextJourneyStep(state: State, areas: string[]) {
-  const progress = learningPathProgress(state);
+export function nextJourneyStep(
+  state: State,
+  areas: string[],
+  supplied?: ReturnType<typeof learningPathProgress>,
+) {
+  const progress = supplied ?? learningPathProgress(state);
   const candidates: {
     area: string;
     label: string;
@@ -308,4 +312,26 @@ export function pathQuestions(
         (q.difficulty === "mittel" ? p.mediumUnlocked : p.hardUnlocked))
     );
   });
+}
+
+// Compare server-awarded rights; no catalog or client unlock calculation.
+export function serverUnlocks(before: State, after: State): PathUnlock[] {
+  return Object.entries(after.journey?.earned ?? {}).flatMap(
+    ([genre, current]) => {
+      const old = before.journey?.earned[genre];
+      if (!old) return [];
+      const result: PathUnlock[] = [];
+      for (const [level, difficulty] of [
+        [1, "mittel"],
+        [2, "schwer"],
+        [3, "experte"],
+      ] as const)
+        if (old.difficulty < level && current.difficulty >= level)
+          result.push({ genre, difficulty });
+      for (const familiarity of [1, 2, 3, 4] as const)
+        if (familiarity > old.familiarity && familiarity <= current.familiarity)
+          result.push({ genre, familiarity });
+      return result;
+    },
+  );
 }

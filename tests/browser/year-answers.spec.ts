@@ -87,9 +87,9 @@ for (const kind of ["generated", "csv"] as const) {
       await page.getByRole("button", { name: "Fortsetzen" }).click();
       await expect(page.locator(".feedback")).toBeVisible();
       const saved = validateBackup(await readStoredState(page));
-      expect(saved.rounds.find((r) => r.id === round.id)!.questions[0]).toEqual(
-        variant,
-      );
+      expect(
+        saved.rounds.find((r) => r.id === round.id)!.questions[0],
+      ).toMatchObject(variant);
       expect(saved.events).toHaveLength(1);
       expect(saved.events[0].correct).toBe(true);
       expect(saved.learning[q.knowledgeId].seen).toBe(1);

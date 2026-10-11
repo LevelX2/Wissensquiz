@@ -22,7 +22,6 @@ import { questionTitleParts } from "./questionTitle";
 import { playFeedback, stopFeedback, unlockSound } from "./feedback";
 import type { Mutate } from "./uiTypes";
 import { historicalModeName, Pill } from "./gameUi";
-import { presentedQuestion } from "./actorEditorial";
 import { Explanation } from "./Explanation";
 import { LearningProgress } from "./LearningProgressPanel";
 import { IssueReportForm } from "./IssueReportForm";
@@ -472,7 +471,7 @@ export function QuestionScreen({
                 {parts.after}
               </>
             ) : (
-              presentedQuestion(displayQ)
+              (displayQ.presentation?.questionText ?? displayQ.question)
             );
           })()}
         </h1>

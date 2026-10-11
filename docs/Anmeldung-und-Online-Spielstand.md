@@ -1,4 +1,8 @@
-# Anmeldung und Online-Spielstand – 10.10.2026
+# Anmeldung und Online-Spielstand – 11.10.2026
+
+## Serverablauf ohne Clientkatalog
+
+Am 11.10.2026 im beauftragten Worktree umgesetzt und im Backend eingerichtet; Veröffentlichung noch offen: [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Normale Lernrunden werden ebenfalls serverseitig ausgewählt und ausgewertet; Kontostart und Navigation benötigen keinen Vollkatalog. Wiederaufnahme erhält die zuletzt ausgegebene Frage und bestätigte Auflösung. Aktuelle manuelle Sicherungen tragen eine eigene Formatkennung; keine Übernahme alter Spielstände. Entwicklungs-Teststand darf ausdrücklich zurückgesetzt werden.
 
 ## Verbindlicher Nutzerauftrag
 
@@ -18,7 +22,7 @@ Ergänzung für Kontospiele: [Servergeprüfte Zeitrunden](Servergepruefte-Zeitru
 - Kontovorteile: Lernfortschritt/Punkte/Rekorde behalten, gezielt wiederholen und Filmreise fortsetzen, Bestenlisten/Duelle sowie auf PC, Handy und Tablet mit demselben Konto weiterspielen. Registrierung erklärt E-Mail-Bestätigung und Passwort-Reset.
 - „Konto erstellen & Runde übernehmen“ beziehungsweise „Anmelden & Runde übernehmen“ bindet die beendete Runde an die eingegebene E-Mail-Adresse. Nur das danach serverseitig bestätigte Konto mit derselben Adresse übernimmt sie automatisch. Bestehende Antworten, Einstellungen, aktive Kontorunden und Fragefassungen bleiben erhalten; dieselbe Runden-ID wird nicht doppelt importiert.
 - Erst nach bestätigter Online-Speicherung verschwindet der Übernahmeentwurf. Bei fehlgeschlagener oder verlorener Bestätigung bleibt er für einen erneuten Versuch erhalten; auch nach Neuladen zählt die Runde höchstens einmal. Eine sichtbare Bestätigung erklärt die erfolgreiche Übernahme.
-- Die E-Mail-Bestätigung darf ein neues Fenster desselben Browsers öffnen. Kontoaktivierung, Übernahme und initiale Katalogvorbereitung werden je Konto mit einem Web Lock nacheinander geöffnet; parallele Fenster starten nicht gegeneinander die erste Kontoaktivierung. Laufende Spiele behalten den bisherigen serverseitigen Revisionsschutz.
+- Die E-Mail-Bestätigung darf ein neues Fenster desselben Browsers öffnen. Kontoaktivierung und Übernahme werden je Konto mit einem Web Lock nacheinander geöffnet; parallele Fenster starten nicht gegeneinander die erste Kontoaktivierung. Laufende Spiele behalten den bisherigen serverseitigen Revisionsschutz.
 
 ### Befristete Ausnahme für die Übernahme
 
@@ -52,4 +56,4 @@ Offline-Cache und lokaler Spielstand sind bereits im ersten Repository-Commit `8
 
 Die [Nachprüfung der Datenübertragung vom 10.10.2026](Online-Datenuebertragung-2026-10-10.md) bestätigt kleine Änderungspakete für normale Runden und dokumentiert noch große Pakete bei Fehlerfrei/Zeitkonto. Lokal werden kleine neue Inhalte mit derselben atomaren Änderungsanfrage übertragen; Katalog und Metadaten laden parallel. Keine Änderung der Serverbestätigung oder der ausschließlich privaten Online-Speicherung; noch nicht veröffentlicht.
 
-Isolierte Browserkonten verwenden ausschließlich synthetische Daten und das echte SQL-Speicherprotokoll in PGlite. Prüfergebnisse stehen im [Prüfbericht](Pruefbericht.md). Keine echten Nutzerdaten für Tests, keine Änderung der Produktionsdatenbank, kein Push und keine Veröffentlichung im Rahmen dieses Auftrags.
+Isolierte Browserkonten verwenden ausschließlich synthetische Daten und das echte SQL-Speicherprotokoll in PGlite. Prüfergebnisse stehen im [Prüfbericht](Pruefbericht.md). Keine echten Nutzerdaten für Testspiele. Beim Serverumbau vom 11.10.2026 sieben Backendmigrationen und vorbereitete Inhalte eingerichtet; native synthetische Prüfungen vollständig zurückgerollt. Die ausdrückliche Rücksetzung des Entwicklungs-Teststands und Veröffentlichung sind getrennte, freigegebene Betriebsschritte. [Aktueller Ablauf und Nachweise](Server-Lernablauf-2026-10-11.md).

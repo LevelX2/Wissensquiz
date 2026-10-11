@@ -5,13 +5,7 @@ import {
   type PlayGroup,
 } from "./ModePicker";
 import { isRecordMode, isEndlessMode } from "./recordModes";
-import { hasPackage, packages } from "./packages";
-import { matchesTopic } from "./categories";
-import { matchesFilters } from "./filters";
-import { selectQuestions } from "./engine";
-import { pathAreaOf, pathQuestions } from "./learningPath";
-import { discoveryContext } from "./discovery";
-import { learningDueText, repetitionOverview } from "./learningProgress";
+import { learningDueText } from "./learningProgress";
 import { useForegroundTime } from "./useForegroundTime";
 import { familiarities, familiarityLabel } from "./familiarity";
 import { type Mode, type Round, type State, type RoundSetup } from "./model";
@@ -21,7 +15,6 @@ import {
   genreLabel,
   questionSources,
   sourceLabels,
-  questionSourceOf,
 } from "./filters";
 import { GenreArtwork } from "./Icons";
 import { SetupSection } from "./SetupSection";
@@ -32,7 +25,8 @@ import { LearningPath, JourneyNextStep } from "./LearningPathPanel";
 import type { QuestionSource } from "./model";
 import type { Page, DuelPage, Mutate } from "./uiTypes";
 import { modeNames } from "./gameUi";
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
+import { useServer, useServerView, type SelectionView } from "./serverViews";
 
 export function PlaySetup({
   mode,
@@ -56,6 +50,7 @@ export function PlaySetup({
   resume,
   toggleGenre,
   selectedCategories,
+  onAbortActive,
 }: {
   mode: Mode;
   playGroup: PlayGroup;
@@ -85,6 +80,7 @@ export function PlaySetup({
   selectedCategories: (
     "Classics" | "Arthouse" | "Preisträger" | "Schauspieler"
   )[];
+  onAbortActive: () => void;
 }) {
   const modePanel = useRef<HTMLDetailsElement>(null);
   const [selectionOpen, setSelectionOpen] = useState(false);
@@ -98,48 +94,31 @@ export function PlaySetup({
   };
   const completed = state.rounds.filter((r) => r.status === "completed");
   const targetSize = 10;
-  const officialIds =
-    state.bundledQuestionIds && new Set(state.bundledQuestionIds);
-  const standardReady =
-    !!state.bundledQuestionIds?.length &&
-    packages.every((p) => hasPackage(state, p.filename));
-  const selectable = pathQuestions(state, mode).filter(
-    (q) => !standard || (standardReady && officialIds?.has(q.id)),
-  );
-  const runPoolSize = new Set(
-    selectable
-      .filter((q) => matchesTopic(q, roundTopic) && matchesFilters(q, filters))
-      .map((q) => q.knowledgeId),
-  ).size;
-  const areaCount = new Set(state.questions.map(pathAreaOf)).size;
   const now = useForegroundTime();
-  const repetitions = repetitionOverview(
-    selectable
-      .filter(
-        (q) =>
-          matchesTopic(q, roundTopic) &&
-          matchesFilters(q, filters) &&
-          questionSourceOf(q) === "film",
-      )
-      .map((q) => q.knowledgeId),
-    state.learning,
-    now,
-  );
-  const selection = selectQuestions(
-    selectable,
-    state.learning,
-    {
-      mode,
-      topic: roundTopic,
-      difficulty: "Alle Stufen",
-      filters,
-      ...(isRecordMode(mode) ? { recordPreset } : {}),
-      size: targetSize,
-      now,
-      ...(mode === "entdecken" ? discoveryContext(state) : {}),
-    },
-    () => 0.5,
-  );
+  const server = useServer()!;
+  const view = useServerView<SelectionView>({
+    action: "selection",
+    mode,
+    topic: roundTopic,
+    filters,
+    timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+  });
+  useEffect(() => {
+    if (
+      view.value?.repetitions.nextAt != null &&
+      view.value.repetitions.nextAt <= now
+    )
+      view.retry();
+  }, [now, view.value?.repetitions.nextAt]);
+  const selection = { length: view.value?.selectionSize ?? 0 };
+  const standardReady = !!view.value;
+  const runPoolSize = view.value?.poolSize ?? 0;
+  const areaCount = server.info.areas;
+  const repetitions = view.value?.repetitions ?? {
+    due: 0,
+    later: 0,
+    nextAt: null,
+  };
   const genreSummary =
     filters.genres.length === genres.length
       ? "Alle Genres"
@@ -208,17 +187,20 @@ export function PlaySetup({
                 )}
               {playGroup === "learn" && mode === "entdecken" && (
                 <JourneyNextStep
+                  journey={view.value?.journey}
                   state={state}
                   areas={[
-                    ...new Set(
-                      state.questions
-                        .filter(
-                          (q) =>
-                            matchesTopic(q, roundTopic) &&
-                            matchesFilters(q, filters),
-                        )
-                        .map(pathAreaOf),
-                    ),
+                    ...new Set([
+                      ...(filters.sources.includes("film")
+                        ? filters.genres
+                        : []),
+                      ...(filters.sources.includes("actors")
+                        ? ["Schauspieler"]
+                        : []),
+                      ...(filters.sources.includes("awards")
+                        ? ["Preisträger"]
+                        : []),
+                    ]),
                   ]}
                 />
               )}
@@ -260,16 +242,7 @@ export function PlaySetup({
           <div className="resume notice">
             <span>Deine begonnene Runde wartet auf Dich.</span>
             <button onClick={resume}>Fortsetzen →</button>
-            <button
-              className="text-button"
-              onClick={() =>
-                void mutate((s) => {
-                  const r = s.rounds.find((r) => r.id === active.id)!;
-                  r.status = "aborted";
-                  r.finishedAt = Date.now();
-                })
-              }
-            >
+            <button className="text-button" onClick={onAbortActive}>
               Runde beenden
             </button>
           </div>
@@ -324,7 +297,14 @@ export function PlaySetup({
             </div>
 
             <RoundGuide mode={mode} />
-            {!selection.length ? (
+            {view.error ? (
+              <p role="alert" className="notice">
+                {view.error}
+                <button onClick={view.retry}>Erneut versuchen</button>
+              </p>
+            ) : !view.value ? (
+              <p role="status">Deine Auswahl wird geprüft …</p>
+            ) : !selection.length ? (
               <p role="status" className="notice">
                 {standard && !standardReady
                   ? "Der vollständige Standardmix wird geladen. Bitte warte, bis alle Fragenpakete bereit sind."
@@ -626,6 +606,7 @@ export function PlaySetup({
                   </SetupSection>
                 ) : null}
                 <LearningPath
+                  journey={view.value?.journey}
                   state={state}
                   genres={
                     selectedSources.includes("film") ? filters.genres : []
@@ -638,8 +619,8 @@ export function PlaySetup({
         )}
       </section>
       <p className="question-stock">
-        {state.questions.length.toLocaleString("de-DE")}{" "}
-        {state.questions.length === 1 ? "Frage" : "Fragen"} in {areaCount}{" "}
+        {server.info.questions.toLocaleString("de-DE")}{" "}
+        {server.info.questions === 1 ? "Frage" : "Fragen"} in {areaCount}{" "}
         {areaCount === 1 ? "Gebiet" : "Gebieten"}
       </p>
     </>

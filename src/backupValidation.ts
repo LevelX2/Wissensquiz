@@ -3,7 +3,7 @@ import { stateSchema } from "./backupSchema";
 import { rebuild } from "./engine";
 import { matchesFilters, usesFilmFilters } from "./filters";
 import { matchesTopic } from "./categories";
-import { questionSnapshotMatches } from "./filmFacts";
+import { questionSnapshotMatches } from "./yearQuestions";
 import { roundFacts } from "./roundArchive";
 import {
   isRecordMode,
@@ -14,7 +14,7 @@ import {
   runRule,
   isServerRun,
 } from "./recordModes";
-export function validateBackup(value: unknown): State {
+export function validateBackup(value: unknown, rebuildProgress = true): State {
   const s = stateSchema.parse(value) as State;
   const unique = (ids: string[]) => new Set(ids).size === ids.length;
   if (
@@ -270,6 +270,6 @@ export function validateBackup(value: unknown): State {
     )
       throw new Error("Inkonsistente Antwortwertung.");
   }
-  rebuild(s);
+  if (rebuildProgress) rebuild(s);
   return s;
 }

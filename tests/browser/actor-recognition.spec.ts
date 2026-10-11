@@ -7,7 +7,7 @@ import { emptyState, type State } from "../../src/model";
 import { startRound } from "../../src/engine";
 import portraits from "../../src/actorRecognitionPortraits.json" with { type: "json" };
 import alternates from "../../src/actorRecognitionAlternatePortraits.json" with { type: "json" };
-import { recognitionPortrait } from "../../src/ActorPortrait";
+import { recognitionPortrait } from "../../src/portraitCatalog";
 import { eventIdFor } from "../../src/recordModes";
 
 async function writeState(page: Page, state: State) {
@@ -155,9 +155,8 @@ for (const [number, choice, variant] of [
         .toBe(portrait.width);
     await page.getByRole("button", { name: "Runde abschließen" }).click();
     await page.locator(".review > details > summary").click();
-    await expect(page.locator(".review .actor-portrait img")).toHaveAttribute(
-      "src",
-      portrait.src,
-    );
+    await expect(
+      page.locator(".review .actor-portrait img:not(.disclosure-artwork)"),
+    ).toHaveAttribute("src", portrait.src);
   });
 }

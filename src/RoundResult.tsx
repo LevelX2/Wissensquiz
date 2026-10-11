@@ -16,9 +16,9 @@ import { roundSummary } from "./roundSummary";
 import { careerSummary } from "./career";
 import { RoundExperience } from "./CareerProgress";
 import { historicalModeName, formatDate } from "./gameUi";
-import { presentedQuestion } from "./actorEditorial";
 import { Explanation } from "./Explanation";
 import { LearningProgress } from "./LearningProgressPanel";
+import { useServer, useServerView } from "./serverViews";
 
 export function Result({
   round,
@@ -50,22 +50,38 @@ export function Result({
   const roundXp = career.rounds.get(round.id)!;
   const roundProgress = career.progress.get(round.id)!;
   const { events, correct, improved, secured: secure } = summary;
-  const retryContext = repetitionContext(state, round.id);
+  const server = useServer();
   const now = useForegroundTime();
-  const retryCount = selectQuestions(
-    state.questions,
-    state.learning,
-    {
-      mode: "fehler",
-      topic: round.topic,
-      difficulty: round.difficulty,
-      filters: round.filters,
-      size: 10,
-      now,
-      ...retryContext,
-    },
-    () => 0.5,
-  ).length;
+  const repetitions = useServerView<{ due: number; nextAt: number | null }>(
+    server && !trialActions
+      ? {
+          action: "round-repetitions",
+          scope: round.id,
+          timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+        }
+      : null,
+  );
+  useEffect(() => {
+    if (repetitions.value?.nextAt != null && repetitions.value.nextAt <= now)
+      repetitions.retry();
+  }, [now, repetitions.value?.nextAt]);
+  const retryContext = server ? {} : repetitionContext(state, round.id);
+  const retryCount = server
+    ? (repetitions.value?.due ?? 0)
+    : selectQuestions(
+        state.questions,
+        state.learning,
+        {
+          mode: "fehler",
+          topic: round.topic,
+          difficulty: round.difficulty,
+          filters: round.filters,
+          size: 10,
+          now,
+          ...retryContext,
+        },
+        () => 0.5,
+      ).length;
   const active = state.rounds.some((r) => r.status === "active");
   const headline =
     summary.recovered > 0
@@ -316,7 +332,7 @@ export function Result({
                   >
                     {e.guessed ? "?" : e.correct ? "✓" : "×"}
                   </span>{" "}
-                  {presentedQuestion(q)}
+                  {q.presentation?.questionText ?? q.question}
                 </summary>
                 {!e.correct && (
                   <p>

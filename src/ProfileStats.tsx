@@ -2,6 +2,7 @@ import { hasAnswer, type State } from "./model";
 import { careerProgress } from "./career";
 import { isRecordMode } from "./recordModes";
 import { learningOverview } from "./learningProgress";
+import { useServerView, type LearningOverview } from "./serverViews";
 
 export function profileStats(state: State) {
   const answered = state.events.filter(hasAnswer);
@@ -32,7 +33,9 @@ export function profileStats(state: State) {
 
 export function ProfileStats({ state }: { state: State }) {
   const stats = profileStats(state);
-  const learning = stats.learning;
+  const summary = useServerView<LearningOverview>({ action: "summary" });
+  const learning = summary.value ?? stats.learning;
+  if (summary.value) stats.totalGoals = summary.value.maximum / 4;
   return (
     <>
       <section aria-label="Dein Lernstand">

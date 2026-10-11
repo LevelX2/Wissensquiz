@@ -21,12 +21,17 @@ export default defineConfig({
     { name: "chromium", use: { ...devices["Desktop Chrome"] } },
     {
       name: "firefox",
-      testMatch: ["updates.spec.ts", "entry-sync.spec.ts"],
+      testMatch: [
+        "updates.spec.ts",
+        "entry-sync.spec.ts",
+        "server-learning.spec.ts",
+      ],
       use: { ...devices["Desktop Firefox"] },
     },
     {
       name: "webkit-mobile",
       testMatch: [
+        "server-learning.spec.ts",
         "film-posters.spec.ts",
         "question-status.spec.ts",
         "updates.spec.ts",

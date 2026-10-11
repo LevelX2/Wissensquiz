@@ -1,3 +1,5 @@
+import { preparePresentation } from "../../src/questionPresentation";
+import { recognitionPortrait } from "../../src/portraitCatalog";
 import { test as base, type BrowserContext, type Page } from "@playwright/test";
 import { readFileSync } from "node:fs";
 import type { State } from "../../src/model";
@@ -14,6 +16,7 @@ import {
 } from "../../src/rankedRuns";
 import { rebuild } from "../../src/engine";
 import { OnlineGameStore } from "../../src/onlineGameStore";
+import { LearningSession, type LearningRun } from "../../src/learningRuns";
 import { syncFixture } from "../helpers/sync-fixture";
 export { expect, chromium, type Page } from "@playwright/test";
 export const testBaseUrl = `http://localhost:${process.env.WISSENSQUIZ_BROWSER_PORT ?? 4173}`;
@@ -113,6 +116,7 @@ export async function createAccountBackend() {
     JSON.parse(readFileSync("tmp-sync/catalog/release.json", "utf8")),
   ));
   await fixture.seed(release);
+  await fixture.seedRanked(release);
   let rankedReady: Promise<void> | undefined;
   const ensureRanked = () => (rankedReady ??= fixture.seedRanked(release));
   return {
@@ -154,10 +158,15 @@ export async function isolateAccountService(
     if (path.endsWith("/logout")) return route.fulfill({ json: {} });
     if (path.endsWith("/quiz_saves")) return route.fulfill({ json: [] });
     const name = path.split("/").at(-1)!;
-    if (!name.startsWith("quiz_sync_") && name !== "quiz_ranked_call")
+    if (
+      !name.startsWith("quiz_sync_") &&
+      !name.startsWith("quiz_game_") &&
+      !name.startsWith("quiz_trial_") &&
+      name !== "quiz_ranked_call"
+    )
       return route.fulfill({ json: [] });
     try {
-      if (name === "quiz_ranked_call") {
+      if (name === "quiz_ranked_call" || name.startsWith("quiz_game_")) {
         await backend.ensureRanked();
         backend.api.clockAt(
           backend.serverTime ??
@@ -207,13 +216,44 @@ export async function readStoredState(
     metadata.generation!,
     metadata.revision,
   );
-  const state = reconstructState(downloaded.document, [
-    release,
-    ...downloaded.catalogs,
-  ]);
+  const state = reconstructState(
+    downloaded.document,
+    [release, ...downloaded.catalogs],
+    true,
+  );
+  // Test authoring may inspect the operator catalog. It is never sent to the UI.
+  state.questions = structuredClone(release.questions);
   // Read authoritative server histories without triggering any recovery write.
   // This admin visibility exists only in the synthetic test server.
   await admin(async () => {
+    const learning = await db.query<{
+      run: LearningRun;
+      queue: string[];
+      release_hash: string;
+    }>(
+      `select quiz_game_internal.summary(r) run,queue,release_hash from quiz_game_internal.runs r where owner_id=$1 and status='active' order by started_at`,
+      [testOwner],
+    );
+    for (const { run, queue, release_hash } of learning.rows) {
+      const rows = await db.query<{
+        question: RankedItem["question"];
+        order: string[];
+        event: RankedItem["event"] | null;
+      }>(
+        `select coalesce(q.question,c.question)||jsonb_build_object('tags',c.question->'tags','metadata',c.question->'metadata') question,q.answer_order as "order",q.event from unnest($2::text[]) with ordinality selected(id,n) join quiz_ranked_internal.catalog c on c.release_hash=$3 and c.id=selected.id left join quiz_game_internal.questions q on q.run_id=$1 and q.index=selected.n-1 order by selected.n`,
+        [run.id, queue, release_hash],
+      );
+      const session = new LearningSession(api);
+      session.run = run;
+      session.items = rows.rows.filter((x): x is RankedItem => !!x.event);
+      const round = session.round();
+      round.questions = rows.rows.map((x) => x.question);
+      round.order = rows.rows.map(
+        (x) => x.order ?? x.question.answers.map((a) => a.id),
+      );
+      state.rounds.push(round);
+      state.events.push(...session.items.map((x) => x.event));
+    }
     const runs = await db.query<{ run: RankedSummary }>(
       "select quiz_ranked_internal.summary(r) as run from quiz_ranked_internal.runs r where owner_id=$1 order by created_at",
       [testOwner],
@@ -238,19 +278,111 @@ export async function readStoredState(
       state.events.push(...answered.map((i) => i.event));
     }
   });
+  const actual = new Map(
+    state.rounds.flatMap((r) => r.questions).map((q) => [q.id, q]),
+  );
+  state.questions = state.questions.map((q) => actual.get(q.id) ?? q);
   rebuild(state);
   return state;
 }
 export async function writeStoredState(page: Page, state: State) {
-  const { api, release } = accountBackend(page);
-  const store = new OnlineGameStore(
-    api,
-    testOwner,
-    async () => release,
-    async () => null,
+  const backend = accountBackend(page);
+  const { api, release } = backend;
+  const active = state.rounds.find(
+    (r) =>
+      r.status === "active" &&
+      ["entdecken", "ueben", "fehler"].includes(r.mode),
   );
+  const activeEvents = active
+    ? state.events.filter((e) => e.roundId === active.id)
+    : [];
+  const savedState = active
+    ? {
+        ...state,
+        rounds: state.rounds.filter((r) => r !== active),
+        events: state.events.filter((e) => e.roundId !== active.id),
+      }
+    : state;
+  const store = new OnlineGameStore(api, testOwner, undefined, undefined);
   await store.open();
-  await store.update((s) => Object.assign(s, state), { replace: true });
+  await store.update((s) => Object.assign(s, savedState), { replace: true });
+  // Test administration authors native private runs, never a client fallback.
+  if (active) {
+    const id = crypto.randomUUID(),
+      oldId = active.id;
+    active.id = "learn-" + id;
+    const questions = active.questions.map((q) => {
+      const p = recognitionPortrait(q, oldId + ":" + q.knowledgeId);
+      return {
+        ...q,
+        presentation: preparePresentation(q),
+        ...(p
+          ? {
+              image: {
+                src: p.src,
+                width: p.width,
+                height: p.height,
+                ...(p.crop ? { crop: p.crop } : {}),
+              },
+            }
+          : {}),
+      };
+    });
+    for (const event of activeEvents) {
+      event.roundId = active.id;
+      event.id = active.id + ":" + event.knowledgeId;
+    }
+    active.events = activeEvents.map((e) => e.id);
+    await backend.admin(async () => {
+      const head = (
+        await backend.db.query<{ generation: string; revision: number }>(
+          "select generation,revision from public.quiz_account_heads where owner_id=$1",
+          [testOwner],
+        )
+      ).rows[0];
+      await backend.db.query(
+        "insert into quiz_game_internal.runs(id,owner_id,generation,release_hash,setup,timezone,queue,answered,started_at) values($1,$2,$3,$4,$5::jsonb,'Europe/Berlin',$6,$7,to_timestamp($8/1000.0))",
+        [
+          id,
+          testOwner,
+          head.generation,
+          release.hash,
+          JSON.stringify({
+            mode: active.mode,
+            topic: active.topic,
+            filters: active.filters ?? {
+              genres: store.info!.genres,
+              sources: ["film", "actors", "awards"],
+              difficulties: ["leicht", "mittel", "schwer", "experte"],
+              familiarities: [1, 2, 3, 4],
+            },
+            solutionDisplay: active.solutionDisplay ?? "question",
+          }),
+          questions.map((q) => q.id),
+          activeEvents.length,
+          active.startedAt,
+        ],
+      );
+      for (let i = 0; i < Math.max(1, activeEvents.length); i++)
+        await backend.db.query(
+          "insert into quiz_game_internal.questions(run_id,index,question,answer_order,event,issued_at,learning_before) values($1,$2,$3::jsonb,$4::jsonb,$5::jsonb,to_timestamp($6/1000.0),$7::jsonb)",
+          [
+            id,
+            i,
+            JSON.stringify(questions[i]),
+            JSON.stringify(active.order[i]),
+            activeEvents[i] ? JSON.stringify(activeEvents[i]) : null,
+            active.startedAt,
+            JSON.stringify(active.before[questions[i].knowledgeId] ?? null),
+          ],
+        );
+      for (const event of activeEvents)
+        await backend.db.query(
+          "select quiz_game_internal.project_goal($1,$2,$3,$4,'Europe/Berlin')",
+          [testOwner, head.generation, event.knowledgeId, head.revision],
+        );
+    });
+  }
   store.stop();
 }
 export const test = base.extend<{ autoLogin: boolean }>({

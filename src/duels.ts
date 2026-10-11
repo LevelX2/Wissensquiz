@@ -8,7 +8,7 @@ import {
   type AnswerEvent,
 } from "./model";
 import { rebuild, learnPending } from "./engine";
-import { questionSnapshotMatches } from "./filmFacts";
+import { questionSnapshotMatches } from "./yearQuestions";
 import { learningPathProgress, newlyUnlocked } from "./learningPath";
 import { rankingRequest } from "./rankingRequest";
 import { roundFact } from "./roundArchive";

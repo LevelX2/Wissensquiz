@@ -1,27 +1,16 @@
 import type { Question } from "./model";
 import { DisclosureArtwork } from "./DisclosureArtwork";
-import images from "./actorPortraits.json" with { type: "json" };
-import recognitionImages from "./actorRecognitionPortraits.json" with { type: "json" };
-import alternateImages from "./actorRecognitionAlternatePortraits.json" with { type: "json" };
-
-type Portrait = (typeof images)[keyof typeof images] & {
-  crop?: { x: number; y: number; width: number; height: number };
-};
-const portraits: Record<string, Portrait> = images;
-const recognitionPortraits: Record<string, Portrait> = recognitionImages;
-const alternatePortraits: Record<string, Portrait> = alternateImages;
-
+import type { z } from "zod";
+import type { portraitSchema } from "./questionSchema";
+type Portrait = z.infer<typeof portraitSchema>;
 export function recognitionVariants(q: Question): Portrait[] {
-  if (q.metadata.question_image_id !== q.metadata.person_id) return [];
-  return [
-    recognitionPortraits[q.metadata.question_image_id],
-    alternatePortraits[q.metadata.question_image_id],
-  ].filter((portrait) => portrait && portrait.name === q.metadata.person_name);
+  return q.metadata.question_image_id ? (q.presentation?.portraits ?? []) : [];
 }
-
 export function recognitionPortrait(q: Question, selectionKey = "") {
   const variants = recognitionVariants(q);
   if (!variants.length) return undefined;
+  if (q.image)
+    return variants.find((p) => p.src === q.image!.src) ?? variants[0];
   // The saved answer-event ID is known before answering. It varies between
   // rounds, but survives renders, reloads, offline play and solution review.
   let hash = 0;
@@ -39,10 +28,13 @@ export function ActorPortrait({
   beforeAnswer?: boolean;
   selectionKey?: string;
 }) {
-  const portrait = beforeAnswer
-    ? recognitionPortrait(q, selectionKey)
-    : (recognitionPortrait(q, selectionKey) ?? portraits[q.metadata.person_id]);
-  if (!portrait || portrait.name !== q.metadata.person_name) return null;
+  const portrait:
+    | (Partial<Portrait> & { src: string; width: number; height: number })
+    | undefined = beforeAnswer
+    ? q.image
+    : (recognitionPortrait(q, selectionKey) ?? q.presentation?.portraits[0]);
+  if (!portrait || (!beforeAnswer && portrait.name !== q.metadata.person_name))
+    return null;
   const crop = portrait.crop;
   const scale = crop
     ? Math.min(

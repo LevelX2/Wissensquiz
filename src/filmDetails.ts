@@ -1,6 +1,6 @@
 import type { Question } from "./model";
 import { fingerprint } from "./importer";
-import editorial from "./castEditorial.json";
+import editorial from "./castEditorial.json" with { type: "json" };
 
 // Editorial text never mutates imported questions or historical round snapshots.
 // ID, original version, film/year and displayed content must all match the review.

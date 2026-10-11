@@ -7,6 +7,64 @@ const id = z
     (value) => !["__proto__", "constructor", "prototype"].includes(value),
     "Reservierte ID",
   );
+export const filmDisplaySchema = z.object({
+  originalTitle: z.string(),
+  year: z.number(),
+  directors: z.string(),
+  countries: z.array(z.string()),
+  countryNote: z.string(),
+  series: z
+    .object({
+      name: z.string(),
+      position: z.number().nullable().optional(),
+      note: z.string().optional(),
+    })
+    .nullable()
+    .optional(),
+  releaseNote: z.string().optional(),
+  directorNote: z.string().optional(),
+  directorContext: z.string().optional(),
+  directorSources: z.array(z.string()),
+  sources: z.array(z.string()),
+});
+export const questionImageSchema = z.object({
+  src: z.string(),
+  width: z.number(),
+  height: z.number(),
+  crop: z
+    .object({
+      x: z.number(),
+      y: z.number(),
+      width: z.number(),
+      height: z.number(),
+    })
+    .optional(),
+});
+export const portraitSchema = questionImageSchema.extend({
+  name: z.string(),
+  photographer: z.string(),
+  photographerUrl: z.string(),
+  license: z.string(),
+  licenseUrl: z.string(),
+  sourceUrl: z.string(),
+  title: z.string(),
+  changes: z.string(),
+});
+export const presentationSchema = z.object({
+  questionText: z.string(),
+  deepContext: z.string(),
+  anchor: z.string(),
+  sources: z.array(z.string()),
+  familiarity: z.number().int().min(0).max(4),
+  film: z.object({ text: z.string(), sources: z.array(z.string()) }).optional(),
+  director: z
+    .object({ text: z.string(), sources: z.array(z.string()) })
+    .optional(),
+  films: z.array(
+    z.object({ reference: z.string().optional(), data: filmDisplaySchema }),
+  ),
+  portraits: z.array(portraitSchema),
+});
 export const questionSchema = z
   .object({
     id,
@@ -42,6 +100,8 @@ export const questionSchema = z
     badgeTags: z.array(z.string()),
     metadata: z.record(z.string(), z.string()),
     demo: z.boolean(),
+    presentation: presentationSchema.optional(),
+    image: questionImageSchema.optional(),
   })
   .refine(
     (q) =>

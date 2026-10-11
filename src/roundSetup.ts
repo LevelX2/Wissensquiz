@@ -8,7 +8,10 @@ import {
 import { ACTORS, AWARD_WINNERS, filmCategories } from "./categories";
 import { familiarities } from "./familiarity";
 
-export function readRoundSetup(state: State): RoundSetup {
+export function readRoundSetup(
+  state: State,
+  availableGenres?: string[],
+): RoundSetup {
   const saved = state.settings.roundSetup;
   if (!saved)
     return {
@@ -20,7 +23,10 @@ export function readRoundSetup(state: State): RoundSetup {
       sources: ["film"],
     };
   const available = new Set(
-    state.questions.filter((q) => questionSourceOf(q) === "film").map(genreOf),
+    availableGenres ??
+      state.questions
+        .filter((q) => questionSourceOf(q) === "film")
+        .map(genreOf),
   );
   const genres =
     saved.genres === null

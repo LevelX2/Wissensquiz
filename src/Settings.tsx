@@ -1,3 +1,4 @@
+import { useServer } from "./serverViews";
 import { validateBackup } from "./backupValidation";
 import { useEffect, useState } from "react";
 import { SolutionChoice } from "./SolutionChoice";
@@ -26,6 +27,14 @@ export function Settings({
   busy: boolean;
   onHome: () => void;
 }) {
+  const server = useServer();
+  const readSave = (value: any): State => {
+    if (server && value?.format !== "wissensquiz-server-save-v1")
+      throw new Error(
+        "Bitte wähle eine Sicherung aus der aktuellen Serverversion.",
+      );
+    return validateBackup(server ? value.state : value, !server);
+  };
   const [message, setMessage] = useState("");
   const [pendingSolutions, setPendingSolutions] =
     useState<State["settings"]["solutionDisplay"]>();
@@ -87,7 +96,7 @@ export function Settings({
     }
     try {
       const text = await file.text();
-      setBackup(validateBackup(JSON.parse(text)));
+      setBackup(readSave(JSON.parse(text)));
     } catch (e) {
       setMessage(
         `Datei abgelehnt: ${e instanceof Error ? e.message : String(e)}`,
@@ -111,9 +120,9 @@ export function Settings({
         <p>
           Sieh Erklärung und Zusatzinformationen nach jeder Antwort oder
           gesammelt nach Deiner Runde. Gilt für 10 Fragen, Fehlerfrei, Zeitkonto
-          und das Freie Spiel. Filmreise und Wiederholen zeigen Lösungen
-          immer direkt. Duelle zeigen sie immer nach der eigenen Zehnerrunde.
-          Eine begonnene Runde behält ihre Einstellung.
+          und das Freie Spiel. Filmreise und Wiederholen zeigen Lösungen immer
+          direkt. Duelle zeigen sie immer nach der eigenen Zehnerrunde. Eine
+          begonnene Runde behält ihre Einstellung.
         </p>
         <SolutionChoice
           value={
@@ -306,9 +315,10 @@ export function Settings({
       <section className="settings-panel">
         <h2>Dein Lernpaket</h2>
         <p>
-          {state.questions.length} Fragen ·{" "}
-          {new Set(state.questions.map((q) => q.knowledgeId)).size} Wissensziele
-          · {state.questions.filter((q) => q.demo).length} Demo-Fragen
+          {server?.info.questions ?? state.questions.length} Fragen ·{" "}
+          {server?.info.goals ??
+            new Set(state.questions.map((q) => q.knowledgeId)).size}{" "}
+          Wissensziele
         </p>
         <p className="muted">
           Zum Öffnen des Quiz und Laden der Bilder brauchst Du eine
@@ -319,8 +329,9 @@ export function Settings({
       <section className="settings-panel">
         <h2>Fortschritt sichern & wiederherstellen</h2>
         <p>
-          Der Export enthält auch Fragen, Inhaltsversionen, Runden und lokale
-          Meldungen. Ein Wiederimport ersetzt nach Deiner Bestätigung den
+          Der Export enthält Deinen Fortschritt, abgeschlossene Runden,
+          Einstellungen und Meldungen. Laufende Serverrunden werden nicht
+          exportiert. Ein Wiederimport ersetzt nach Deiner Bestätigung den
           gesamten Online-Spielstand.
         </p>
         <button
@@ -328,7 +339,7 @@ export function Settings({
           onClick={() =>
             download(
               `wissensquiz-${new Date().toISOString().slice(0, 10)}.json`,
-              state,
+              server ? { format: "wissensquiz-server-save-v1", state } : state,
             )
           }
         >
@@ -354,7 +365,7 @@ export function Settings({
               disabled={busy}
               onClick={async () => {
                 try {
-                  const restored = validateBackup(backup);
+                  const restored = validateBackup(backup, !server);
                   for (const round of restored.rounds)
                     if (round.status === "active" && isRecordMode(round.mode)) {
                       round.status = "aborted";
@@ -424,7 +435,8 @@ export function Settings({
         <h2>Lernfortschritt zurücksetzen</h2>
         <p>
           Runden, Antworten, Erfahrung, Rekorde, Abzeichen, Einstellungen und
-          Meldungen werden gelöscht. Fragen und Importberichte bleiben erhalten.
+          Meldungen werden gelöscht. Der aktuelle Fragenbestand bleibt auf dem
+          Server erhalten.
         </p>
         <label>
           Zum Bestätigen LÖSCHEN eingeben
@@ -440,7 +452,7 @@ export function Settings({
           onClick={async () => {
             const saved = await mutate(
               (s) => {
-                const questions = s.questions,
+                const questions = server ? [] : s.questions,
                   imports = s.imports;
                 for (const key of Object.keys(s))
                   delete (s as unknown as Record<string, unknown>)[key];

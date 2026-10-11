@@ -1,5 +1,14 @@
 # Prüfnachweis
 
+## 11.10.2026 – Lernablauf ohne Clientkatalog
+
+Normale Lernrunden, Auswahl und Lernübersichten auf private Serverabläufe umgestellt. Kontostart ohne CSV- oder historischen Vollkatalogabruf; aktuelle Frage einzeln, Auswertung und Lernprojektion auf dem Server, kurze Antwortbelege und inkrementeller Fortschrittsabruf. Vorbereitete Inhalte, Filmreise-Cache, zusammengeführte Übersichtsabfragen und begrenzte Themenseiten senken laufende Last und Traffic. Keine Altstandmigration.
+
+Sieben Backendmigrationen und 12.787 exakt passende Fragendarstellungen installiert. Native PostgreSQL-Abnahme mit zehn Antworten, Wiederholungsbelegen, Wiederaufnahme, Abschluss, Lernwerten, Rückblick, Rollenprüfung und gezieltem Classics-Filter bestanden; alle synthetischen Änderungen zurückgerollt. Die freigegebene Rücksetzung des Entwicklungs-Spielstands separat atomar geprobt und zurückgerollt. TypeScript, Produktionsbuild für Version 66 und Diff-Prüfung erfolgreich. 480/480 Tests in 77 Dateien im abschließenden vollständigen Lauf mit einem Worker erfolgreich (203,70 s). Vollständige Lernrunde mit Neuladen sowie Export, Rücksetzung und Wiederherstellung des aktuellen Serverformats in Chromium, Firefox und mobilem WebKit erfolgreich; weder CSV-/Vollkatalogabrufe noch automatische lokale Kontoablage. 22 weitere Chromiumfälle für Auswahl, Themen, Sammlung, Lernstufen, Rückblicke und Fehlertraining bestanden nach der letzten SQL-Filterkorrektur. Zusammen mit 25 zuvor bestandenen unveränderten Browserfällen für Schauspieler, Jahresfragen, Kontoabgleich, Zeitläufe und Proberunde sind 50 unterschiedliche gezielte Browserfälle abgedeckt. Keine vollständige neue Browser-Suite und keine physische iPhone- oder Mehrspieler-Lastabnahme. Veröffentlichung noch offen. Ein paralleler zusätzlicher Lauf wurde wegen lokaler Speichererschöpfung abgebrochen; der isolierte Lauf bestand ohne veränderte Prüfgrenzen.
+
+Haupt-JavaScript 1.042,60 kB / 280,59 kB gzip gegenüber zuvor 5.884,45 kB / 1.340,19 kB gzip. Interne PostgreSQL-Messprobe: durchschnittlich 2,44 ms je Antwort; keine zugesicherte Netzlaufzeit oder Mehrspieler-Lastabnahme. [Architektur, Datenfluss, Advisors und Grenzen](Server-Lernablauf-2026-10-11.md).
+
+
 ## 10.10.2026 – Fragenredaktion bis Block 17 für Version 65 integriert
 
 Die beim Veröffentlichungsstart abgeschlossenen Redaktionsfassungen bis Block 17 sind tatsächlich in den App-Katalog übernommen: 999 von 1.000 geprüften Original-IDs, 41 ausdrücklich beschlossene Ersatzfragen mit neuen Identitäten, 14 Ergänzungen und 78 redigierte Jahres-/Regievorlagen. Die ungesicherte Stativszene aus „Vier im roten Kreis“ bleibt ausgenommen. Später parallel entstehende Blöcke ab 18 bleiben außerhalb dieses eingefrorenen Veröffentlichungsstands. Rohquellen unverändert; sechs feste Lernreise-Ziele angepasst, Gruppengrößen und Schwellen erhalten. [Integration und Grenzen](Redaktionslauf-2026-10-10/Integration.md).

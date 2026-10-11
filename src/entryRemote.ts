@@ -3,12 +3,14 @@ import { z } from "zod";
 import { requestWithin } from "./request";
 import { CloudConflict, CloudSaveError } from "./accounts";
 import { RankedRunError, rankedMessages } from "./rankedErrors";
+import { LearningRunError, learningMessages } from "./learningErrors";
 import { objectHashes, releaseHashes } from "./syncReferences";
 const releaseCache = new WeakMap<SyncRemote, Map<string, PreparedRelease>>();
 import {
   verifyRelease,
   verifyObject,
   rowKey,
+  jsonEqual,
   type PreparedRelease,
   type SyncDocument,
   type SyncObject,
@@ -65,6 +67,12 @@ export class SupabaseEntryRemote implements SyncRemote {
             .rpc(name, args)
             .abortSignal(signal);
           if (error) {
+            if (name === "quiz_game_call") {
+              const code = Object.keys(learningMessages).find((key) =>
+                error.message.includes(key),
+              );
+              if (code) throw new LearningRunError(code);
+            }
             const rankedCode = Object.keys(rankedMessages).find((key) =>
               error.message.includes(key),
             );
@@ -143,6 +151,7 @@ export async function downloadDocument(
   revision: number,
   afterRevision = -1,
   previous?: SyncDocument,
+  serverOnly = false,
 ) {
   const document: SyncDocument = {
     rows: new Map(previous?.rows),
@@ -181,9 +190,22 @@ export async function downloadDocument(
       throw new Error("Der Abrufcursor ist ungültig.");
     cursor = page.nextCursor;
   }
-  const catalogs = await Promise.all(
-    [...releaseHashes(document)].map((hash) => getRelease(api, hash)),
-  );
+  if (
+    serverOnly &&
+    (!jsonEqual(document.rows.get(rowKey("field", "catalog"))?.value, {
+      source: "server",
+      parts: [],
+    }) ||
+      releaseHashes(document).size)
+  )
+    throw new Error(
+      "Dieser Entwicklungs-Spielstand gehört zum früheren Speicherformat und muss zurückgesetzt werden.",
+    );
+  const catalogs = serverOnly
+    ? []
+    : await Promise.all(
+        [...releaseHashes(document)].map((hash) => getRelease(api, hash)),
+      );
   const missing = [...objectHashes(document)].filter(
     (hash) => !document.objects.has(hash),
   );

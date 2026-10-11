@@ -70,7 +70,10 @@ test("zehn echte Fragen, Ergebnis vor Anmeldung und Übernahme in ein Konto gena
   await finish(page);
   const before = await draft(page);
   expect(before.state.events).toHaveLength(10);
-  expect(accountBackend(page).api.calls).toHaveLength(0);
+  expect(accountBackend(page).api.calls.map((call) => call.name)).toEqual([
+    "quiz_trial_options",
+    "quiz_trial_questions",
+  ]);
   await expect(
     page.getByRole("heading", { name: "Dein Rundenrückblick" }),
   ).toBeVisible();
@@ -163,7 +166,10 @@ test("E-Mail-Bestätigung in neuem Fenster übernimmt die vorgemerkte Runde", as
   await expect(
     page.getByText(/erhältst Du eine Bestätigungsmail/),
   ).toBeVisible();
-  expect(accountBackend(page).api.calls).toHaveLength(0);
+  expect(accountBackend(page).api.calls.map((call) => call.name)).toEqual([
+    "quiz_trial_options",
+    "quiz_trial_questions",
+  ]);
   // Existing mail template uses an explicit signup token, never a production mail.
   const session = await page.evaluate(async () => {
     const response = await fetch(
@@ -200,7 +206,7 @@ for (const failure of ["unavailable", "lost"] as const) {
     await start(page);
     await finish(page);
     const before = await draft(page);
-    accountBackend(page).api[failure]("quiz_sync_apply");
+    accountBackend(page).api[failure]("quiz_game_apply");
     await page
       .getByRole("button", { name: "Ich habe schon ein Konto" })
       .click();
@@ -253,5 +259,8 @@ test("abgelaufene Proberunde gibt keine zweite Runde frei", async ({
   expect(
     await page.evaluate((key) => localStorage.getItem(key), TRIAL_KEY),
   ).toBeNull();
-  expect(accountBackend(page).api.calls).toHaveLength(0);
+  expect(accountBackend(page).api.calls.map((call) => call.name)).toEqual([
+    "quiz_trial_options",
+    "quiz_trial_questions",
+  ]);
 });

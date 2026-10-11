@@ -1,3 +1,5 @@
+import { UnlockCelebration } from "./UnlockCelebration";
+import { serverUnlocks, type PathUnlock } from "./learningPath";
 import { isRecordMode, isEndlessMode } from "./recordModes";
 import type { PlayGroup } from "./ModePicker";
 import type { LeaderboardTarget } from "./leaderboard";
@@ -11,7 +13,7 @@ import {
   useState,
   type ReactNode,
 } from "react";
-import { complete, rebuild, startRound } from "./engine";
+
 import {
   emptyState,
   type Round,
@@ -31,13 +33,7 @@ import { readRoundSetup } from "./roundSetup";
 import { careerProgress } from "./career";
 import { CareerProgress } from "./CareerProgress";
 import { type Category, selectionTopic, ACTORS } from "./categories";
-import { UnlockCelebration } from "./UnlockCelebration";
-import {
-  learningPathProgress,
-  retainJourneyUnlocks,
-  newlyUnlocked,
-  type PathUnlock,
-} from "./learningPath";
+
 import { SyncSymbol, type SyncDisplay } from "./SyncIndicator";
 import {
   playClickFeedback,
@@ -45,12 +41,6 @@ import {
   stopFeedback,
   unlockSound,
 } from "./feedback";
-import {
-  addPackages,
-  hasPackage,
-  packages,
-  type PackageContent,
-} from "./packages";
 import type { Page, DuelPage, Mutate } from "./uiTypes";
 import { QuestionScreen } from "./QuestionScreen";
 import { Result } from "./RoundResult";
@@ -60,6 +50,12 @@ import type { WriteOptions } from "./syncTypes";
 import { PageBoundary } from "./PageBoundary";
 import { ReleaseInfo } from "./ReleaseInfo";
 import { IssueReportForm } from "./IssueReportForm";
+import { LearningGame } from "./LearningGame";
+import {
+  LearningSession,
+  learningRunSchema,
+  type LearningSetup,
+} from "./learningRuns";
 import { archiveClosedRounds } from "./roundArchive";
 import { RankedGame } from "./RankedGame";
 import {
@@ -120,6 +116,10 @@ export function App({
   const [busy, setBusy] = useState(false);
   const [pendingSetup, setPendingSetup] = useState<RoundSetup | null>(null);
   const [roundId, setRoundId] = useState("");
+  const [celebration, setCelebration] = useState<{
+    roundId: string;
+    unlocks: PathUnlock[];
+  } | null>(null);
   const [justCompleted, setJustCompleted] = useState("");
   const immediateResult = useRef<Round | undefined>(undefined);
   const [leaderboardTarget, setLeaderboardTarget] =
@@ -130,10 +130,12 @@ export function App({
     session: RankedSession;
     setup: RankedSetup;
   } | null>(null);
-  const [celebration, setCelebration] = useState<{
-    roundId: string;
-    unlocks: PathUnlock[];
+  const [learning, setLearning] = useState<{
+    session: LearningSession;
+    setup?: LearningSetup;
+    resumeId?: string;
   } | null>(null);
+  const [activeLearning, setActiveLearning] = useState<Round>();
   const heading = useRef<HTMLElement>(null);
   const booted = useRef(false);
   const inFlight = useRef(false);
@@ -145,23 +147,9 @@ export function App({
       }),
     [store],
   );
-  const catalogNavigation = useMemo(
-    () => ({
-      topics: [...new Set(state?.questions.map((q) => q.topic) ?? [])].sort(),
-      genres: [
-        ...new Set(
-          state?.questions
-            .filter((q) => questionSourceOf(q) === "film")
-            .map(genreOf) ?? [],
-        ),
-      ]
-        .filter((genre) => genre !== ACTORS)
-        .sort(),
-    }),
-    [state?.questions],
-  );
+  const availableGenres = store.info!.genres;
   const roundSetup = useMemo(
-    () => (state ? readRoundSetup(state) : null),
+    () => (state ? readRoundSetup(state, availableGenres) : null),
     [state?.questions, state?.settings],
   );
   useEffect(() => {
@@ -182,40 +170,25 @@ export function App({
     booted.current = true;
     (async () => {
       const initial = (await read()) ?? emptyState();
-      const incoming: PackageContent[] = [];
-      // Revalidate all bundled IDs once on a catalog upgrade, so variants
-      // referring across packages are also included in the official pool.
-      const completeCatalog =
-        initial.bundledQuestionIds &&
-        packages.every((pkg) => hasPackage(initial, pkg.filename));
-      for (const pkg of packages) {
-        if (completeCatalog) continue;
-        try {
-          const response = await fetch(pkg.path);
-          if (!response.ok) throw new Error("Download fehlgeschlagen");
-          incoming.push({
-            filename: pkg.filename,
-            text: await response.text(),
-          });
-        } catch {
-          if (!initial.questions.length)
-            throw new Error("Fragenpaket konnte nicht geladen werden.");
-          setError(
-            "Ein neues Fragenpaket ist noch nicht verfügbar. Dein gespeicherter Bestand bleibt spielbar. Lade die App später mit Internetverbindung neu.",
-          );
-        }
+      const status = await store
+        .rankedRemote()
+        .call<{ active: unknown }>("quiz_game_call", {
+          request_text: '{"action":"status"}',
+        });
+      if (status.active) {
+        const r = learningRunSchema.parse(status.active);
+        setActiveLearning({
+          ...r,
+          id: "learn-" + r.id,
+          difficulty: "Alle Stufen",
+          ruleVersion: "learn-server-v1",
+          questions: [],
+          order: [],
+          events: [],
+          before: {},
+        });
       }
-      const loaded = await update((s) => {
-        addPackages(s, incoming);
-        retainJourneyUnlocks(s);
-        for (const r of s.rounds)
-          if (r.status === "active" && isRecordMode(r.mode)) {
-            r.status = "aborted";
-            r.finishedAt = Date.now();
-          }
-        rebuild(s);
-        archiveClosedRounds(s);
-      }, initial);
+      const loaded = initial;
       setState(loaded);
     })()
       .catch((e) =>
@@ -257,6 +230,21 @@ export function App({
   };
   const nav = async (next: Page | DuelPage, target?: LeaderboardTarget) => {
     if (busy) return;
+    if (learning) {
+      if (learning.session.hasPending) {
+        setError("Bestätige zuerst die ausstehende Anfrage.");
+        return;
+      }
+      try {
+        setState(await store.refresh());
+      } catch (e) {
+        setError(e instanceof Error ? e.message : String(e));
+        return;
+      }
+      const r = learning.session.run;
+      if (r?.status === "active") setActiveLearning(learning.session.round());
+      setLearning(null);
+    }
     if (ranked) {
       if (ranked.session.isWriting) return;
       try {
@@ -289,7 +277,7 @@ export function App({
       if (!saved) return;
     }
     if (next === "topics") setTopicScope(null);
-    setCelebration(null);
+
     if (
       page === "round" &&
       state?.rounds.some((r) => r.id === roundId && isRecordMode(r.mode))
@@ -314,21 +302,7 @@ export function App({
     window.addEventListener("hashchange", invitation);
     return () => window.removeEventListener("hashchange", invitation);
   }, [page]);
-  const genres = useMemo(
-    () =>
-      state
-        ? [
-            ...new Set(
-              state.questions
-                .filter((q) => questionSourceOf(q) === "film")
-                .map(genreOf),
-            ),
-          ]
-            .filter((genre) => genre !== ACTORS)
-            .sort()
-        : [],
-    [state?.questions],
-  );
+  const genres = availableGenres;
   if (!state)
     return (
       <main className="loading">
@@ -360,24 +334,30 @@ export function App({
     if (
       patch.mode &&
       isRecordMode(patch.mode) &&
-      !readRoundSetup(state).recordPreset &&
+      !readRoundSetup(state, availableGenres).recordPreset &&
       !patch.recordPreset
     )
       patch = { ...patch, recordPreset: "standard" };
     // Reflect the click immediately; only committed state reaches account sync.
     setPendingSetup(
-      readRoundSetup({
-        ...state,
-        settings: {
-          ...state.settings,
-          roundSetup: { ...readRoundSetup(state), ...patch },
+      readRoundSetup(
+        {
+          ...state,
+          settings: {
+            ...state.settings,
+            roundSetup: { ...readRoundSetup(state, availableGenres), ...patch },
+          },
         },
-      }),
+        availableGenres,
+      ),
     );
     try {
       return await mutate((s) => {
-        s.settings.roundSetup = { ...readRoundSetup(s), ...patch };
-        s.settings.roundSetup = readRoundSetup(s);
+        s.settings.roundSetup = {
+          ...readRoundSetup(s, availableGenres),
+          ...patch,
+        };
+        s.settings.roundSetup = readRoundSetup(s, availableGenres);
         if (patch.mode) {
           s.settings.playGroup = isRecordMode(patch.mode) ? "timed" : "learn";
           if (isRecordMode(patch.mode)) s.settings.lastTimedMode = patch.mode;
@@ -388,14 +368,7 @@ export function App({
       setPendingSetup(null);
     }
   };
-  const bundledIds = new Set(state.bundledQuestionIds ?? []);
-  const recordGenres = [
-    ...new Set(
-      state.questions
-        .filter((q) => bundledIds.has(q.id) && questionSourceOf(q) === "film")
-        .map(genreOf),
-    ),
-  ].sort();
+  const recordGenres = availableGenres;
   const recordGenre =
     savedRecordGenre && recordGenres.includes(savedRecordGenre)
       ? savedRecordGenre
@@ -433,7 +406,8 @@ export function App({
     )
       setPage("home");
   };
-  const active = state.rounds.find((r) => r.status === "active");
+  const active =
+    activeLearning ?? state.rounds.find((r) => r.status === "active");
   const current = state.rounds.find((r) => r.id === roundId);
   const roundTopic = standard
     ? "Alle Themen"
@@ -443,7 +417,6 @@ export function App({
       );
   const begin = async (requestedMode: Mode = mode) => {
     unlockSound(state.settings);
-    let id = "";
     const next = await mutate((s) => {
       if (s.rounds.some((r) => r.status === "active"))
         throw new Error(
@@ -451,37 +424,25 @@ export function App({
         );
       // Select and start in one transaction: the clicked tile must not use the
       // previously rendered mode, and a failed save must not change the setup.
-      s.settings.roundSetup = readRoundSetup({
-        ...s,
-        settings: {
-          ...s.settings,
-          roundSetup: { ...readRoundSetup(s), mode: requestedMode },
+      s.settings.roundSetup = readRoundSetup(
+        {
+          ...s,
+          settings: {
+            ...s.settings,
+            roundSetup: {
+              ...readRoundSetup(s, availableGenres),
+              mode: requestedMode,
+            },
+          },
         },
-      });
+        availableGenres,
+      );
       s.settings.playGroup = isRecordMode(requestedMode) ? "timed" : "learn";
       if (isRecordMode(requestedMode)) s.settings.lastTimedMode = requestedMode;
       else s.settings.lastLearningMode = requestedMode;
       s.settings.spoilers = true;
       if (isRecordMode(requestedMode)) return;
-      id = startRound(s, {
-        mode: requestedMode,
-        topic: roundTopic,
-        difficulty: "Alle Stufen",
-        filters: {
-          ...filters,
-          difficulties: standard
-            ? filters.difficulties
-            : requestedMode === "entdecken"
-              ? [...difficulties]
-              : selectedDifficulties,
-          familiarities: standard
-            ? filters.familiarities
-            : requestedMode === "entdecken"
-              ? [...familiarities]
-              : selectedFamiliarities,
-        },
-        ...(isRecordMode(requestedMode) ? { recordPreset } : {}),
-      }).id;
+      return;
     });
     if (next) {
       playFeedback("start", next.settings);
@@ -501,36 +462,59 @@ export function App({
         setPage("round");
         return;
       }
-      setRoundId(id);
-      setIndex(0);
+      setLearning({
+        session: new LearningSession(store.rankedRemote()),
+        setup: {
+          mode: requestedMode as LearningSetup["mode"],
+          topic: roundTopic,
+          filters,
+          solutionDisplay: next.settings.solutionDisplay ?? "question",
+        },
+      });
       setPage("round");
     }
   };
   const resume = () => {
-    if (active) {
-      unlockSound(state.settings);
-      setRoundId(active.id);
-      setIndex(Math.max(0, active.events.length - 1));
+    if (activeLearning) {
+      setLearning({
+        session: new LearningSession(store.rankedRemote()),
+        resumeId: activeLearning.id.slice(6),
+      });
       setPage("round");
     }
   };
   const retryErrors = async (source: Round) => {
-    unlockSound(state.settings);
-    let id = "";
-    const next = await mutate((s) => {
-      id = startRound(s, {
+    setLearning({
+      session: new LearningSession(store.rankedRemote()),
+      setup: {
         mode: "fehler",
-        topic: source.topic,
-        difficulty: source.difficulty,
-        filters: source.filters,
+        topic: source.filters ? source.topic : "Alle Themen",
+        filters: source.filters ?? {
+          genres,
+          sources: ["film"],
+          difficulties: [...difficulties],
+          familiarities: [...familiarities],
+        },
+        solutionDisplay: state.settings.solutionDisplay ?? "question",
         sourceRoundId: source.id,
-      }).id;
+      },
     });
-    if (next) {
-      playFeedback("start", next.settings);
-      setRoundId(id);
-      setIndex(0);
-      setPage("round");
+    setPage("round");
+  };
+  const abortActive = async () => {
+    if (!activeLearning) return;
+    setBusy(true);
+    setError("");
+    try {
+      const session = new LearningSession(store.rankedRemote());
+      await session.resume(activeLearning.id.slice(6));
+      if (session.run!.status === "active") await session.abort();
+      setState(await store.refresh());
+      setActiveLearning(undefined);
+    } catch (e) {
+      setError(e instanceof Error ? e.message : String(e));
+    } finally {
+      setBusy(false);
     }
   };
   return (
@@ -662,6 +646,9 @@ export function App({
                   busy={busy}
                   changeSetup={changeSetup}
                   active={active}
+                  onAbortActive={() =>
+                    void abortActive().catch((e) => setError(String(e)))
+                  }
                   begin={begin}
                   roundTopic={roundTopic}
                   selectedSources={
@@ -740,6 +727,9 @@ export function App({
                         }),
                       { progressOnly: false, reuseCatalog: true },
                     );
+                    const unlocks = serverUnlocks(state, saved);
+                    if (unlocks.length)
+                      setCelebration({ roundId: review.id, unlocks });
                     setState(saved);
                     setRoundId(review.id);
                     setJustCompleted(review.id);
@@ -750,51 +740,29 @@ export function App({
                   }}
                 />
               )}
-              {page === "round" && !ranked && current && (
-                <QuestionScreen
-                  key={`${current.id}:${index}`}
-                  round={current}
-                  index={index}
+              {page === "round" && learning && (
+                <LearningGame
+                  session={learning.session}
+                  setup={learning.setup}
+                  resumeId={learning.resumeId}
                   state={state}
                   mutate={mutate}
-                  busy={busy}
-                  sync={sync}
+                  onBusy={setBusy}
                   onExit={() => void nav("home")}
-                  onNext={async () => {
-                    unlockSound(state.settings);
-                    if (index === current.questions.length - 1) {
-                      let unlocks: PathUnlock[] = [];
-                      const next = await mutate((s) => {
-                        const before = learningPathProgress(s);
-                        complete(s, current.id);
-                        unlocks = current.run?.ended
-                          ? (current.unlocks ?? [])
-                          : newlyUnlocked(before, s);
-                      });
-                      if (next) {
-                        setJustCompleted(current.id);
-                        immediateResult.current = next.rounds.find(
-                          (r) => r.id === current.id,
-                        );
-                        if (unlocks.length)
-                          setCelebration({ roundId: current.id, unlocks });
-                        playFeedback(
-                          unlocks.length
-                            ? "unlock"
-                            : next.badges.length > state.badges.length
-                              ? "badge"
-                              : careerProgress(next.experience).level >
-                                  careerProgress(state.experience).level
-                                ? "level"
-                                : "complete",
-                          next.settings,
-                        );
-                        setPage("result");
-                      }
-                    } else {
-                      playFeedback("next", state.settings);
-                      setIndex(index + 1);
-                    }
+                  onFinish={async () => {
+                    const review = learning.session.round();
+                    const saved = await store.refresh();
+                    const unlocks = serverUnlocks(state, saved);
+                    if (unlocks.length)
+                      setCelebration({ roundId: review.id, unlocks });
+                    setState(saved);
+                    setActiveLearning(undefined);
+                    setRoundId(review.id);
+                    setJustCompleted(review.id);
+                    immediateResult.current = review;
+                    setLearning(null);
+                    playFeedback("complete", saved.settings);
+                    setPage("result");
                   }}
                 />
               )}
@@ -870,25 +838,22 @@ export function App({
                     mutate={mutate}
                     setState={setState}
                     busy={busy}
-                    onHome={() => setPage("home")}
+                    onHome={() => {
+                      setActiveLearning(undefined);
+                      setPage("home");
+                    }}
                   />
                 </>
               )}
             </Suspense>
           </PageBoundary>
         </main>
-        {page === "result" &&
-          celebration &&
-          celebration.roundId === current?.id && (
-            <UnlockCelebration
-              unlocks={celebration.unlocks}
-              onClose={() => {
-                setCelebration(null);
-                stopFeedback();
-                requestAnimationFrame(() => heading.current?.focus());
-              }}
-            />
-          )}
+        {page === "result" && celebration?.roundId === current?.id && (
+          <UnlockCelebration
+            unlocks={celebration!.unlocks}
+            onClose={() => setCelebration(null)}
+          />
+        )}
         <footer hidden={page === "round" || duelPlaying}>
           <span>
             WISSENSQUIZ <span className="footer-star">✦</span> BLEIB NEUGIERIG.

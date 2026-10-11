@@ -1,8 +1,10 @@
-import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
 import { AccountBenefits } from "./AccountBenefits";
-import { loadOfficialCatalog } from "./officialCatalog";
-import { emptyState, type Question, type State } from "./model";
-import { genreLabel, genreOf, questionSourceOf } from "./filters";
+import { emptyState, questionSchema, type State } from "./model";
+import { genreLabel } from "./filters";
+import type { SupabaseClient } from "@supabase/supabase-js";
+import { SupabaseEntryRemote } from "./entryRemote";
+import { z } from "zod";
 import { complete } from "./engine";
 import { QuestionScreen } from "./QuestionScreen";
 import { Result } from "./RoundResult";
@@ -29,9 +31,11 @@ function currentTrial() {
 export function TrialEntry({
   account,
   initialAccount = false,
+  client,
 }: {
   account: (mode: "login" | "register", trialAvailable: boolean) => ReactNode;
   initialAccount?: boolean;
+  client: SupabaseClient | null;
 }) {
   const [trial, setTrial] = useState<Trial | null>(currentTrial);
   const [used, setUsed] = useState(trialUsed);
@@ -42,7 +46,8 @@ export function TrialEntry({
         ? "result"
         : "welcome",
   );
-  const [catalog, setCatalog] = useState<Question[] | null>(null);
+  const [genres, setGenres] = useState<string[] | null>(null);
+  const catalog = genres;
   const [genre, setGenre] = useState("");
   const [index, setIndex] = useState(() =>
     Math.min(currentTrial()?.state.rounds[0].events.length ?? 0, 9),
@@ -52,16 +57,6 @@ export function TrialEntry({
   const inFlight = useRef(false);
   const round = trial?.state.rounds[0];
   const finished = round?.status === "completed";
-  const genres = useMemo(
-    () =>
-      [
-        ...new Set(
-          catalog?.filter((q) => questionSourceOf(q) === "film").map(genreOf) ??
-            [],
-        ),
-      ].sort(),
-    [catalog],
-  );
 
   useEffect(() => {
     if (initialAccount) setScreen("login");
@@ -88,9 +83,16 @@ export function TrialEntry({
   useEffect(() => {
     if (screen !== "prepare" || catalog) return;
     let alive = true;
-    loadOfficialCatalog()
-      .then((release) => {
-        if (alive) setCatalog(release.questions);
+    const api = client ? new SupabaseEntryRemote(client) : null;
+    (api
+      ? api.call("quiz_trial_options", {})
+      : Promise.reject(new Error("Der Kontodienst ist nicht verfügbar."))
+    )
+      .then((value) => {
+        if (alive)
+          setGenres(
+            z.object({ genres: z.array(z.string()) }).parse(value).genres,
+          );
       })
       .catch(() => {
         if (alive)
@@ -249,7 +251,7 @@ export function TrialEntry({
               disabled={!catalog || busy}
             >
               <option value="">Alle Genres</option>
-              {genres.map((g) => (
+              {genres?.map((g) => (
                 <option key={g} value={g}>
                   {genreLabel(g)}
                 </option>
@@ -270,12 +272,23 @@ export function TrialEntry({
               setBusy(true);
               setError("");
               try {
-                await trialLock(() => {
+                await trialLock(async () => {
                   if (trialUsed())
                     throw new Error(
                       "In diesem Browser wurde bereits eine Proberunde gestartet. Melde Dich an, um weiterzuspielen.",
                     );
-                  const next = createTrial(emptyState(catalog), genre);
+                  if (!client)
+                    throw new Error("Die Fragen sind gerade nicht verfügbar.");
+                  const api = new SupabaseEntryRemote(client);
+                  const questions = z
+                    .array(questionSchema)
+                    .length(10)
+                    .parse(
+                      await api.call("quiz_trial_questions", {
+                        genre: genre || null,
+                      }),
+                    );
+                  const next = createTrial(emptyState(questions), genre);
                   writeTrial(localStorage, next);
                   notifyTrial();
                 });

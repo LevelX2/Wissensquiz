@@ -1,13 +1,11 @@
-import { familiarityLabel, familiarityOf } from "./familiarity";
+import { familiarityLabel } from "./familiarity";
 import type { Question } from "./model";
-import { filmData } from "./filmFacts";
-import { actorPresentation } from "./actorEditorial";
 import { DisclosureArtwork } from "./DisclosureArtwork";
 
 export function FilmDataPanel({ q }: { q: Question }) {
-  const references = q.metadata.question_image_id
-    ? q.metadata.film_refs?.split(";").filter(Boolean)
-    : actorPresentation(q)?.films;
+  const references = q.presentation?.films
+    .map((f) => f.reference)
+    .filter((r): r is string => !!r);
   if (references?.length)
     return (
       <details className="film-data">
@@ -20,7 +18,7 @@ export function FilmDataPanel({ q }: { q: Question }) {
         ))}
       </details>
     );
-  const data = filmData(q);
+  const data = q.presentation?.films.find((f) => !f.reference)?.data;
   if (!data) return null;
   return (
     <details className="film-data">
@@ -39,7 +37,9 @@ function FilmDataContent({
   q: Question;
   reference?: string;
 }) {
-  const data = filmData(q, reference);
+  const data = q.presentation?.films.find(
+    (f) => f.reference === reference,
+  )?.data;
   if (!data) return null;
   return (
     <>
@@ -53,7 +53,7 @@ function FilmDataContent({
           <div>
             <dt>Bekanntheit</dt>
             <dd>
-              {familiarityLabel(familiarityOf(q))}
+              {familiarityLabel(q.presentation?.familiarity)}
               <small>Redaktionelle Einordnung</small>
             </dd>
           </div>

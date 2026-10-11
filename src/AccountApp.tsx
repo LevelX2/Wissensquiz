@@ -235,6 +235,7 @@ export function AccountApp() {
     );
   return (
     <TrialEntry
+      client={connection.publicClient}
       initialAccount={showAccount || !!message || !!connection.error}
       account={(initialMode, trialAvailable) => (
         <AccountPanel

@@ -1845,3 +1845,12 @@ Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowi
 ### 11.10.2026 – Konto-Ladefehler diagnostiziert; Serverumbau beauftragt
 
 Ausschließlich lesende Produktionsdiagnose belegt Datenbankzeitüberschreitungen bei parallelen Vollabrufen früherer öffentlicher Fragenkataloge. Nutzer verlangt keine Altstandkompatibilität, erlaubt die Rücksetzung seines Entwicklungs-Spielstands nach Abnahme und beauftragt normale Lernrunden samt Auswahl/Übersichten ohne Clientvollkatalog im eigenen Worktree. Vorläufige Vollkatalog-Optimierungen verworfen; keine Fassung veröffentlicht und noch kein Nutzerspielstand zurückgesetzt. [Befund, Architektur und Abnahmeauftrag](../../docs/Online-Spielstand-Ladefehler-2026-10-11.md).
+
+## 11.10.2026 – Server-Lernablauf lokal umgesetzt, Abnahme läuft
+
+Im ausdrücklich beauftragten eigenen Worktree normale Lernrunden auf einzelne serverseitige Fragen und Auswertung umgestellt. Kontostart ohne Vollkatalog; kleine Auswahl-/Lernübersichten und paginierte Themen. Redaktionelle Film-/Personen-/Jahresdarstellung vom JavaScript in vorbereitete Fragendaten verlagert. Serverprojektion je betroffenem Wissensziel, Filmreise-Cache, kleine wiederholbare Anfragen und aktuelle Sicherungsfassung. 478 Tests sowie komplette Zehnerrunde inklusive Neuladen in Chromium, Firefox und mobilem WebKit erfolgreich. Weitere Browserabnahme läuft; kein produktiver Reset, keine Backendbereitstellung und keine Veröffentlichung vorgenommen. [Konzept](../../docs/Server-Lernablauf-2026-10-11.md).
+
+
+## 11.10.2026 – Serverlernablauf nativ eingerichtet und geprüft
+
+Sieben Migrationen, aktuelle Metadaten und 12.787 vorbereitete Fragendarstellungen in Supabase installiert. Native Zehnerrunde mit Wiederaufnahme, exakten Antwortbelegen, Lernprojektion und Rückblick erfolgreich; synthetische Daten vollständig zurückgerollt. SQL-Themenbindung gegen gleichnamiges Katalogfeld korrigiert und Classics-Auswahl produktiv lesend geprüft. Gezielte freigegebene Entwicklungs-Rücksetzung atomar geprobt und zurückgerollt; tatsächlicher Stand noch erhalten. Versionsbuild 66 und TypeScript erfolgreich, letzte lokale Abnahme läuft. [Konzept und Messgrenzen](../../docs/Server-Lernablauf-2026-10-11.md).

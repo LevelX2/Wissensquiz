@@ -7,6 +7,9 @@ import {
   type SyncRemote,
 } from "../../src/entryRemote";
 import type { PreparedRelease } from "../../src/syncCodec";
+import curriculum from "../../src/journeyCurriculum.json" with { type: "json" };
+import familiarity from "../../src/filmFamiliarity.json" with { type: "json" };
+import { preparePresentation } from "../../src/questionPresentation";
 
 export async function syncFixture(stopBefore?: string) {
   const db = new PGlite();
@@ -26,11 +29,13 @@ export async function syncFixture(stopBefore?: string) {
     await db.exec(`create function quiz_ranked_internal.test_clock() returns timestamptz language sql volatile as $$
       select coalesce(to_timestamp(nullif(current_setting('quiz.test_now',true),'')::double precision/1000),clock_timestamp())$$;
       do $patch$declare f record;begin
-        for f in select p.oid::regprocedure as name from pg_proc p join pg_namespace n on n.oid=p.pronamespace where n.nspname='quiz_ranked_internal' and p.proname<>'test_clock'
+        for f in select p.oid::regprocedure as name from pg_proc p join pg_namespace n on n.oid=p.pronamespace where n.nspname in ('quiz_ranked_internal','quiz_game_internal') and p.proname<>'test_clock'
         loop execute replace(pg_get_functiondef(f.name),'clock_timestamp()','quiz_ranked_internal.test_clock()');end loop;
       end$patch$;
       alter table quiz_ranked_internal.runs alter column created_at set default quiz_ranked_internal.test_clock();
       alter table quiz_ranked_internal.runs alter column touched_at set default quiz_ranked_internal.test_clock();
+      alter table quiz_game_internal.runs alter column started_at set default quiz_ranked_internal.test_clock();
+      alter table quiz_game_internal.questions alter column issued_at set default quiz_ranked_internal.test_clock();
       revoke all on function quiz_ranked_internal.test_clock() from public,anon,authenticated;`);
   }
   const argumentsByName: Record<string, string[]> = {};
@@ -40,6 +45,16 @@ export async function syncFixture(stopBefore?: string) {
     "expected_owner",
   ];
   argumentsByName.quiz_ranked_call = ["request_text"];
+  argumentsByName.quiz_game_call = ["request_text"];
+  argumentsByName.quiz_game_view = ["request_text"];
+  argumentsByName.quiz_game_activate = [
+    "expected_owner",
+    "target_generation",
+    "timezone",
+  ];
+  argumentsByName.quiz_game_apply = ["packet_text", "timezone"];
+  argumentsByName.quiz_trial_options = [];
+  argumentsByName.quiz_trial_questions = ["genre"];
   for (const file of readdirSync("supabase/migrations")
     .filter((f) => f.endsWith(".sql"))
     .sort()) {
@@ -96,6 +111,28 @@ export async function syncFixture(stopBefore?: string) {
       "insert into quiz_ranked_internal.config values(true,$1) on conflict(id) do update set release_hash=excluded.release_hash",
       [release.hash],
     );
+    if (!stopBefore) {
+      await db.query(
+        `insert into quiz_game_internal.curriculum select key,value from jsonb_each($1::jsonb) on conflict(area) do update set plan=excluded.plan`,
+        [JSON.stringify(curriculum.genres)],
+      );
+      await db.query(
+        `insert into quiz_game_internal.familiarity select value->>'film',(value->>'level')::integer from jsonb_array_elements($1::jsonb) on conflict(film) do update set level=excluded.level`,
+        [JSON.stringify(familiarity.films)],
+      );
+      await db.exec("select quiz_game_internal.refresh_content()");
+      await db.query(
+        `insert into quiz_game_internal.presentations select value->>'id',value->>'version',value->>'question',value->>'context',value->'presentation' from jsonb_array_elements($1::jsonb) on conflict(id) do update set version=excluded.version,question=excluded.question,context=excluded.context,value=excluded.value`,
+        [
+          JSON.stringify(
+            release.questions.map((q) => ({
+              ...q,
+              presentation: preparePresentation(q),
+            })),
+          ),
+        ],
+      );
+    }
   }
   async function client(owner = crypto.randomUUID()) {
     await db.query(

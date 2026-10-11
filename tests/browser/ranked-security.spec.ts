@@ -95,7 +95,7 @@ test("verlorene Antwort- und Lernstandbestätigungen lassen sich ohne Doppelzäh
     .getByRole("button", { name: "Erneut versuchen", exact: true })
     .click();
   await expect(page.locator(".feedback")).toBeVisible();
-  backend.api.lost("quiz_sync_apply");
+  backend.api.lost("quiz_game_apply");
   await page.getByRole("button", { name: /^Runde abschließen/ }).click();
   await expect(
     page.getByRole("button", { name: "Erneut versuchen", exact: true }),
@@ -110,7 +110,7 @@ test("verlorene Antwort- und Lernstandbestätigungen lassen sich ohne Doppelzäh
   expect(saved.events).toHaveLength(1);
   expect(saved.rounds.at(-1)!.archive!.questions).toHaveLength(1);
   const packets = backend.api.calls
-    .filter((c) => c.name === "quiz_sync_apply")
+    .filter((c) => c.name === "quiz_game_apply")
     .slice(-2);
   expect(packets).toHaveLength(2);
   expect(packets[1].args).toEqual(packets[0].args);

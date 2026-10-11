@@ -8,10 +8,26 @@ import { importCsv } from "../src/importer";
 import { addPackages, packages } from "../src/packages";
 import { emptyState } from "../src/model";
 import {
-  ActorPortrait,
   recognitionPortrait,
   recognitionVariants,
-} from "../src/ActorPortrait";
+} from "../src/portraitCatalog";
+import { ActorPortrait } from "../src/ActorPortrait";
+import { preparePresentation } from "../src/questionPresentation";
+function presented(q: import("../src/model").Question, key = "") {
+  const p = recognitionPortrait(q, key);
+  return {
+    ...q,
+    presentation: preparePresentation(q),
+    image: p
+      ? {
+          src: p.src,
+          width: p.width,
+          height: p.height,
+          ...(p.crop ? { crop: p.crop } : {}),
+        }
+      : undefined,
+  };
+}
 import { filmData } from "../src/filmFacts";
 import portraits from "../src/actorRecognitionPortraits.json";
 import source from "../docs/Schauspieler-Bilderkennung-2026-10-07/Schauspieler_Bilderkennung_200_Fragen.json";
@@ -116,13 +132,15 @@ it("schützt die Lösung im Bild, nennt Bildrechte danach und prüft sämtliche 
       /^CC BY(?:-SA)? (?:2\.0|3\.0|4\.0)$|^CC0$|^Public domain$/,
     );
     const hidden = renderToStaticMarkup(
-      createElement(ActorPortrait, { q, beforeAnswer: true }),
+      createElement(ActorPortrait, { q: presented(q), beforeAnswer: true }),
     );
     expect(hidden).not.toContain(portrait.name);
     expect(hidden).not.toContain(portrait.title);
     expect(hidden).not.toContain(portrait.sourceUrl);
     expect(hidden).toContain('alt="Schauspielerporträt für die Namensfrage"');
-    const revealed = renderToStaticMarkup(createElement(ActorPortrait, { q }));
+    const revealed = renderToStaticMarkup(
+      createElement(ActorPortrait, { q: presented(q) }),
+    );
     expect(revealed).toContain(portrait.photographer.replaceAll("&", "&amp;"));
     expect(revealed).toContain(portrait.licenseUrl.replaceAll("&", "&amp;"));
     expect(
@@ -144,13 +162,16 @@ it("wechselt zwischen Runden und behält dasselbe Bild und denselben Nachweis in
       expect(recognitionPortrait(structuredClone(q), key)).toEqual(portrait);
       const hidden = renderToStaticMarkup(
         createElement(ActorPortrait, {
-          q,
+          q: presented(q, key),
           beforeAnswer: true,
           selectionKey: key,
         }),
       );
       const revealed = renderToStaticMarkup(
-        createElement(ActorPortrait, { q, selectionKey: key }),
+        createElement(ActorPortrait, {
+          q: presented(q, key),
+          selectionKey: key,
+        }),
       );
       expect(hidden).toContain(`src="${portrait.src}"`);
       expect(revealed).toContain(`src="${portrait.src}"`);

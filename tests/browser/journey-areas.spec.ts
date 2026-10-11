@@ -51,6 +51,7 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
     }),
   ).toHaveAttribute("max", "20");
   await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(page.locator(".question-card")).toBeVisible();
   let state = await readStoredState(page);
   const mixed = state.rounds.find((r) => r.status === "active")!;
   expect(mixed.mode).toBe("entdecken");
@@ -105,6 +106,7 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
     path: "test-results/filmreise-schauspieler-320.png",
   });
   await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(page.locator(".question-card")).toBeVisible();
   state = await readStoredState(page);
   const people = state.rounds.find((r) => r.status === "active")!;
   expect(people.filters?.sources).toEqual(["actors"]);
@@ -116,7 +118,7 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
   ).toBe(true);
 });
 for (const suffix of ["001-M-2", "001-S-2", "001-M-1"]) {
-  test(`${suffix}: vollständiger Name, individuelle Vertiefung und passende Filmdaten im alten Snapshot`, async ({
+  test(`${suffix}: vollständiger Name, individuelle Vertiefung und passende Filmdaten in der gespeicherten Serverfrage`, async ({
     page,
   }) => {
     await page.clock.install({ time: now });
@@ -171,7 +173,7 @@ for (const suffix of ["001-M-2", "001-S-2", "001-M-1"]) {
     expect(
       (await readStoredState(page)).rounds.find((r) => r.id === round.id)!
         .questions[0],
-    ).toEqual(q);
+    ).toMatchObject(q);
     expect(
       await page.evaluate(
         () => document.documentElement.scrollWidth <= innerWidth,

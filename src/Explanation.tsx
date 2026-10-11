@@ -1,8 +1,4 @@
 import { type AnswerEvent, type Question } from "./model";
-import { filmDetails } from "./filmDetails";
-import { directorExplanation } from "./filmFacts";
-import { actorPresentation } from "./actorEditorial";
-import { yearPresentation } from "./yearEditorial";
 import { FilmDataPanel } from "./FilmDataPanel";
 import { ActorPortrait, recognitionVariants } from "./ActorPortrait";
 import { FilmPoster } from "./FilmPoster";
@@ -12,18 +8,15 @@ import { DisclosureArtwork } from "./DisclosureArtwork";
 export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const selected = q.answers.find((a) => a.id === event.answerId);
   const feedback = additionalAnswerFeedback(q, selected?.feedback);
-  const film = filmDetails(q);
-  const director = directorExplanation(q);
-  const actor = actorPresentation(q);
-  const year = yearPresentation(q);
-  const deepContext = year?.text ?? actor?.text ?? director?.text ?? q.context;
-  const anchor = year?.anchor ?? q.anchor;
+  const film = q.presentation?.film;
+  const director = q.presentation?.director;
+  const deepContext = q.presentation?.deepContext ?? q.context;
+  const anchor = q.presentation?.anchor ?? q.anchor;
   const sources = [
     ...new Set([
       ...q.sources,
       ...recognitionVariants(q).map((portrait) => portrait.sourceUrl),
-      ...(year?.sources ?? []),
-      ...(actor?.sources ?? []),
+      ...(q.presentation?.sources ?? []),
     ]),
   ];
   return (

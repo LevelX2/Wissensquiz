@@ -221,7 +221,8 @@ test("kompakte Lernanzeige zählt den fälligen Pool nur beim Wiederholen und ak
   await openRoundSetup(page);
   await modePreparation(page, /Wiederholen Fällige Filmfragen/).click();
   await expect(overview).toContainText("12 Wiederholungen fällig");
-  await page.clock.fastForward(10 * 60_000 + 1000);
+  await page.clock.setFixedTime(new Date(now.getTime() + 10 * 60_000 + 1000));
+  await page.evaluate(() => window.dispatchEvent(new Event("focus")));
   await expect(overview).toContainText("13 Wiederholungen fällig");
   await page.screenshot({
     path: `test-results/wiederholungsuebersicht-${browserName}.png`,
@@ -713,7 +714,8 @@ for (const width of [320, 1280]) {
         name: /Fällige Filmfragen dieser Runde wiederholen/,
       }),
     ).toHaveCount(0);
-    await page.clock.fastForward(10 * 60_000 + 1000);
+    await page.clock.setFixedTime(new Date(now.getTime() + 10 * 60_000 + 1000));
+    await page.evaluate(() => window.dispatchEvent(new Event("focus")));
     await expect(
       page.getByRole("button", {
         name: /Fällige Filmfragen dieser Runde wiederholen \(2\)/,

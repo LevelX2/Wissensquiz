@@ -3,29 +3,35 @@ import { genreOf, genreLabel } from "./filters";
 import { GenreArtwork } from "./Icons";
 import { categories, type Category, ACTORS } from "./categories";
 import { learningOverview } from "./learningProgress";
+import type { TopicSummary } from "./serverViews";
 
 export function TopicCard({
   topic,
   state,
   onPlay,
   onBrowse,
-  questions,
+  questions = [],
+  summary,
   genre = false,
 }: {
   topic: string;
   state: State;
   onPlay?: () => void;
   onBrowse?: () => void;
-  questions: Question[];
+  questions?: Question[];
+  summary?: TopicSummary;
   genre?: boolean;
 }) {
-  const cardGenres = categories.includes(topic as Category)
-    ? [topic]
-    : genre
+  const cardGenres =
+    summary?.genres ??
+    (categories.includes(topic as Category)
       ? [topic]
-      : [...new Set(questions.map(genreOf))].sort();
+      : genre
+        ? [topic]
+        : [...new Set(questions.map(genreOf))].sort());
   const ids = [...new Set(questions.map((q) => q.knowledgeId))];
-  const progress = learningOverview(ids, state.learning);
+  const count = summary?.goals ?? ids.length;
+  const progress = summary?.learning ?? learningOverview(ids, state.learning);
   const counts = [progress.unseen, progress.discovered, ...progress.stages];
   const labels = [
     "Ungesehen",
@@ -50,7 +56,7 @@ export function TopicCard({
         <div className="art-lines" />
       </div>
       <div className="topic-body">
-        <span className="eyebrow">{ids.length} Wissensziele</span>
+        <span className="eyebrow">{count} Wissensziele</span>
         <h3>{genre ? genreLabel(topic) : topic}</h3>
         <div
           className="mini-stats learning-stage-counts"
@@ -69,7 +75,7 @@ export function TopicCard({
         />
         <p className="muted tiny">
           {progress.percent.toLocaleString("de-DE")} % Lernfortschritt ·{" "}
-          {progress.mastered} von {ids.length} gefestigt
+          {progress.mastered} von {count} gefestigt
         </p>
         {onPlay && (
           <button className="text-button" onClick={onPlay}>

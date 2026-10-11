@@ -87,6 +87,7 @@ for (const width of [1440, 320]) {
     await genres.getByLabel("Sci-Fi", { exact: true }).check();
     await page.getByLabel("Nur Classics", { exact: true }).check();
     await page.getByRole("button", { name: "Losspielen" }).click();
+    await expect(page.locator(".question-card")).toBeVisible();
     let state = await readStoredState(page);
     const mixed = state.rounds.find((r) => r.status === "active")!;
     expect(mixed.filters?.sources).toEqual(["film", "awards", "actors"]);
@@ -132,10 +133,12 @@ for (const width of [1440, 320]) {
       page.getByRole("button", { name: "Losspielen" }),
     ).toBeEnabled();
     await page.getByRole("button", { name: "Losspielen" }).click();
+    await expect(page.locator(".question-card")).toBeVisible();
     state = await readStoredState(page);
     const extra = state.rounds.find((r) => r.status === "active")!;
     expect(extra.filters?.sources).toEqual(["awards", "actors"]);
-    expect(extra.filters?.genres).toEqual([]);
+    // The remembered film genre does not restrict the actor/award branches.
+    expect(extra.filters?.genres).toEqual(["Science-Fiction"]);
     expect(
       extra.questions.every(
         (q) => q.metadata.person_id || q.tags.includes("Preisträger"),

@@ -1,5 +1,6 @@
-import { useMemo } from "react";
-import { catalogIndex } from "./catalogIndex";
+import { useServerView, type TopicSummary } from "./serverViews";
+import { ServerTopicList } from "./ServerTopicList";
+
 import { type State, type RoundSetup } from "./model";
 import { genreLabel } from "./filters";
 import { categories, type Category, ACTORS } from "./categories";
@@ -33,20 +34,8 @@ export function TopicsPage({
   genres: string[];
   playGenre: (genre: string) => Promise<void>;
 }) {
-  const catalog = useMemo(
-    () => catalogIndex(state.questions),
-    [state.questions],
-  );
-  const browseQuestions = topicScope
-    ? ((topicScope.kind === "genre" ? catalog.genres : catalog.curated).get(
-        topicScope.name,
-      ) ?? [])
-    : [];
-  const scoped = useMemo(
-    () => catalogIndex(browseQuestions),
-    [browseQuestions],
-  );
-  const browseTopics = scoped.topics;
+  const areas = useServerView<TopicSummary[]>({ action: "areas" });
+  const summaries = new Map(areas.value?.map((a) => [a.topic, a]));
   return (
     <>
       {topicScope ? (
@@ -60,23 +49,11 @@ export function TopicsPage({
               : topicScope.name}
             : {topicScope.name === ACTORS ? "Personen" : "Filme & Reihen"}
           </h1>
-          <p className="lead">
-            {browseTopics.length}{" "}
-            {topicScope.name === ACTORS
-              ? "Schauspielerinnen und Schauspieler"
-              : "Film- und Reihenblöcke"}{" "}
-            mit Deinem Lernfortschritt.
-          </p>
-          <div className="topic-grid">
-            {browseTopics.map((t) => (
-              <TopicCard
-                key={t}
-                topic={t}
-                state={state}
-                questions={scoped.forTopic(t)}
-              />
-            ))}
-          </div>
+          <ServerTopicList
+            key={topicScope.kind + topicScope.name}
+            state={state}
+            scope={topicScope}
+          />
         </>
       ) : (
         <>
@@ -89,47 +66,56 @@ export function TopicsPage({
             Auf der Startseite kannst Du mehrere Genres und Schwierigkeitsstufen
             kombinieren.
           </p>
+          {areas.error && (
+            <p role="alert">
+              {areas.error}
+              <button onClick={areas.retry}>Erneut versuchen</button>
+            </p>
+          )}
+          {!areas.value && <p role="status">Die Übersicht wird geladen …</p>}
           <div className="topic-grid">
-            {categories.map((category) => (
-              <TopicCard
-                key={category}
-                topic={category}
-                state={state}
-                questions={catalog.curated.get(category) ?? []}
-                onBrowse={() =>
-                  setTopicScope({ kind: "category", name: category })
-                }
-                onPlay={async () => {
-                  if (
-                    await changeSetup({
-                      categories: [category],
-                      genres: null,
-                      sources:
-                        category === ACTORS
-                          ? ["actors"]
-                          : category === "Preisträger"
-                            ? ["awards"]
-                            : ["film"],
-                      ...(category === ACTORS || category === "Preisträger"
-                        ? { mode: "ueben", categories: [] }
-                        : {}),
-                    })
-                  )
-                    setPage("home");
-                }}
-              />
-            ))}
-            {genres.map((t) => (
-              <TopicCard
-                key={t}
-                topic={t}
-                genre
-                state={state}
-                questions={catalog.genres.get(t) ?? []}
-                onPlay={() => playGenre(t)}
-                onBrowse={() => setTopicScope({ kind: "genre", name: t })}
-              />
-            ))}
+            {areas.value &&
+              categories.map((category) => (
+                <TopicCard
+                  key={category}
+                  topic={category}
+                  state={state}
+                  summary={summaries.get(category)}
+                  onBrowse={() =>
+                    setTopicScope({ kind: "category", name: category })
+                  }
+                  onPlay={async () => {
+                    if (
+                      await changeSetup({
+                        categories: [category],
+                        genres: null,
+                        sources:
+                          category === ACTORS
+                            ? ["actors"]
+                            : category === "Preisträger"
+                              ? ["awards"]
+                              : ["film"],
+                        ...(category === ACTORS || category === "Preisträger"
+                          ? { mode: "ueben", categories: [] }
+                          : {}),
+                      })
+                    )
+                      setPage("home");
+                  }}
+                />
+              ))}
+            {areas.value &&
+              genres.map((t) => (
+                <TopicCard
+                  key={t}
+                  topic={t}
+                  genre
+                  state={state}
+                  summary={summaries.get(t)}
+                  onPlay={() => playGenre(t)}
+                  onBrowse={() => setTopicScope({ kind: "genre", name: t })}
+                />
+              ))}
           </div>
         </>
       )}

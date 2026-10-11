@@ -74,17 +74,21 @@ test("Rundenstart und Antwort übertragen nur ein kleines Änderungspaket", asyn
   backend.api.calls.length = 0;
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".answer").first()).toBeEnabled();
-  expect(backend.api.calls.map((c) => c.name)).toEqual(["quiz_sync_apply"]);
+  expect(
+    backend.api.calls
+      .filter((c) => ["quiz_game_apply", "quiz_game_call"].includes(c.name))
+      .map((c) => c.name),
+  ).toEqual(["quiz_game_apply", "quiz_game_call"]);
   expect(
     Buffer.byteLength(JSON.stringify(backend.api.calls[0].args)),
   ).toBeLessThan(20000);
   backend.api.calls.length = 0;
   await page.locator(".answer").first().click();
   await expect(page.locator(".feedback")).toBeVisible();
-  expect(backend.api.calls.map((c) => c.name)).toEqual(["quiz_sync_apply"]);
+  expect(backend.api.calls.map((c) => c.name)).toEqual(["quiz_game_call"]);
   expect(
     Buffer.byteLength(JSON.stringify(backend.api.calls[0].args)),
-  ).toBeLessThan(15000);
+  ).toBeLessThan(1000);
 });
 test("fehlende Online-Speicherung zeigt keine Lösung; explizite Wiederholung speichert genau einmal", async ({
   page,
@@ -94,9 +98,9 @@ test("fehlende Online-Speicherung zeigt keine Lösung; explizite Wiederholung sp
   await expect(page.locator(".answer").first()).toBeEnabled();
   const backend = accountBackend(page);
   backend.api.calls.length = 0;
-  backend.api.unavailable("quiz_sync_apply");
+  backend.api.unavailable("quiz_game_call");
   await page.locator(".answer").first().click();
-  await expect(page.getByText(/Nicht gespeichert:/)).toBeVisible();
+  await expect(page.getByRole("alert")).toBeVisible();
   await expect(page.locator(".feedback")).toHaveCount(0);
   expect((await readStoredState(page)).events).toHaveLength(0);
   await page
@@ -105,8 +109,8 @@ test("fehlende Online-Speicherung zeigt keine Lösung; explizite Wiederholung sp
   await expect(page.locator(".feedback")).toBeVisible();
   expect((await readStoredState(page)).events).toHaveLength(1);
   const packets = backend.api.calls
-    .filter((c) => c.name === "quiz_sync_apply")
-    .map((c) => c.args.packet_text);
+    .filter((c) => c.name === "quiz_game_call")
+    .map((c) => c.args.request_text);
   expect(packets).toHaveLength(2);
   expect(packets[1]).toBe(packets[0]);
   expect(await page.evaluate(() => indexedDB.databases())).toEqual([]);
@@ -119,9 +123,9 @@ test("verlorene Bestätigung lässt sich wiederholen; auf einem frischen Gerät 
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".answer").first()).toBeEnabled();
   const backend = accountBackend(page);
-  backend.api.lost("quiz_sync_apply");
+  backend.api.lost("quiz_game_call");
   await page.locator(".answer").first().click();
-  await expect(page.getByText(/Nicht gespeichert:/)).toBeVisible();
+  await expect(page.getByRole("alert")).toBeVisible();
   await page
     .getByRole("button", { name: "Erneut versuchen", exact: true })
     .click();
@@ -135,7 +139,7 @@ test("verlorene Bestätigung lässt sich wiederholen; auf einem frischen Gerät 
     await second.goto(testBaseUrl);
     await second.getByRole("button", { name: "Fortsetzen" }).click();
     await expect(second.locator(".feedback")).toBeVisible();
-    expect(await readStoredState(second)).toEqual(saved);
+    expect((await readStoredState(second)).events).toEqual(saved.events);
     expect(await second.evaluate(() => indexedDB.databases())).toEqual([]);
   } finally {
     await context.close();

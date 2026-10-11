@@ -130,6 +130,7 @@ for (const width of [320, 1440]) {
       fullPage: true,
     });
     await start.click();
+    await expect(page.locator(".question-card")).toBeVisible();
     const stored = await readStoredState(page);
     const round = stored.rounds.find((r) => r.status === "active")!;
     expect(round.filters?.sources).toEqual(["actors"]);

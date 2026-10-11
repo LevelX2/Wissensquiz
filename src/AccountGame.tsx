@@ -4,14 +4,12 @@ import { App } from "./App";
 import { RankingContext } from "./SharedLeaderboard";
 import type { SyncStatus } from "./syncTypes";
 import { OnlineGameStore } from "./onlineGameStore";
-import { SupabaseEntryRemote, getRelease } from "./entryRemote";
-import { loadOfficialCatalog } from "./officialCatalog";
-import { cloudRead } from "./accounts";
+import { SupabaseEntryRemote } from "./entryRemote";
 import type { State } from "./model";
 import { ActivityContext } from "./GuestActivity";
-import { requestWithin } from "./request";
 import { ReportContext } from "./issueReports";
 import { transferTrial } from "./trial";
+import { ServerContext } from "./serverViews";
 
 export const syncText: Record<SyncStatus, string> = {
   loading: "Dein Online-Spielstand wird geladen …",
@@ -60,8 +58,8 @@ export function AccountGame({
     const current = new OnlineGameStore(
       api,
       owner,
-      () => loadOfficialCatalog((hash) => getRelease(api, hash)),
-      () => requestWithin((signal) => cloudRead(client, owner, signal)),
+      undefined,
+      undefined,
       (next, at) => {
         if (alive) {
           setStatus(next);
@@ -78,7 +76,7 @@ export function AccountGame({
     });
     setOnInitialized(() => finishInitialization);
     // Confirmation in another tab also signs in the original tab. Serialize
-    // activation, trial takeover and initial catalog setup before its first read.
+    // activation, trial takeover and initial metadata before its first read.
     navigator.locks
       .request("wissensquiz-account-open:" + storageKey, async () => {
         if (!alive) return;
@@ -101,10 +99,10 @@ export function AccountGame({
           await initialized;
         }
       })
-      .catch(() => {
+      .catch((cause) => {
         if (alive)
           setError(
-            "Dein Online-Spielstand konnte nicht geöffnet werden. Prüfe Deine Internetverbindung und versuche es erneut.",
+            `Dein Online-Spielstand konnte nicht geöffnet werden. ${cause instanceof Error ? cause.message : "Versuche es erneut."}`,
           );
       });
     return () => {
@@ -136,27 +134,35 @@ export function AccountGame({
     <ReportContext.Provider value={{ client, storageKey }}>
       <RankingContext.Provider value={ranking}>
         <ActivityContext.Provider value={publicClient}>
-          <App
-            key={attempt}
-            store={store}
-            initialNotice={
-              trialImported
-                ? "Deine erste Runde wurde übernommen. Dein Ergebnis und Dein Lernfortschritt sind jetzt online gespeichert."
-                : ""
-            }
-            onInitialized={onInitialized}
-            sync={{
-              status,
-              confirmedAt,
-              text: syncText[status],
-              retry: () => {
-                void store.retry().catch(() => {});
-              },
+          <ServerContext.Provider
+            value={{
+              api: store.rankedRemote(),
+              info: store.info!,
+              revision: store.revision,
             }}
-            accountPanel={(state) =>
-              panel(state, status, syncText[status], confirmedAt)
-            }
-          />
+          >
+            <App
+              key={attempt}
+              store={store}
+              initialNotice={
+                trialImported
+                  ? "Deine erste Runde wurde übernommen. Dein Ergebnis und Dein Lernfortschritt sind jetzt online gespeichert."
+                  : ""
+              }
+              onInitialized={onInitialized}
+              sync={{
+                status,
+                confirmedAt,
+                text: syncText[status],
+                retry: () => {
+                  void store.retry().catch(() => {});
+                },
+              }}
+              accountPanel={(state) =>
+                panel(state, status, syncText[status], confirmedAt)
+              }
+            />
+          </ServerContext.Provider>
         </ActivityContext.Provider>
       </RankingContext.Provider>
     </ReportContext.Provider>

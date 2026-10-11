@@ -1,6 +1,6 @@
 # Online-Spielstand: Vollkatalogabrufe entfernen
 
-Stand: 11.10.2026. Diagnose abgeschlossen; Serverumbau im eigenen Worktree ausdrücklich beauftragt. Noch keine Veröffentlichung oder Rücksetzung vorgenommen.
+Stand: 11.10.2026. Diagnose abgeschlossen; Serverumbau im eigenen Worktree lokal umgesetzt, erweiterte Abnahme läuft. Noch keine Veröffentlichung oder Rücksetzung vorgenommen.
 
 ## Befund
 
@@ -30,3 +30,7 @@ Die bereits produktiven servergeprüften Zeitrunden zeigen den geeigneten Datenf
 Der vorläufige Ansatz mit seriellen historischen Vollabrufen und statischen Kopien aller früheren Ausgaben wurde nach der Nutzerpräzisierung verworfen und aus dem Arbeitsstand entfernt. Auch der Zwischenansatz mit nur einem aktuellen Vollkatalog genügt dem neuen Auftrag nicht. Keine dieser Fassungen wurde veröffentlicht.
 
 Abnahme des neuen Ablaufs: isolierte Konten und kontrollierte Testzeit, vollständige Fach-/SQL-Tests und Build, Desktop-/Mobilbrowser einschließlich Kontoöffnung, Lernrunden, Wiederaufnahme, Konflikt-/Wiederholungsverhalten, Filmreise, Sammlung, Zeitrunde und Proberunde. Netzwerkprüfung muss null Vollkatalogabrufe beim Kontostart und begrenzte Fragenantworten belegen. Produktionsdaten nicht für Testspiele verändern. Freigegebene Teststandrücksetzung, Backendbereitstellung und Sites-Veröffentlichung erst nach erfolgreicher lokaler Abnahme dokumentieren.
+
+## Aktuelle Umsetzung
+
+[Server-Lernablauf und Optimierung](Server-Lernablauf-2026-10-11.md): einzelne Fragenausgabe, serverseitige Auswertung und Freischaltung, vorbereitete Redaktion, paginierte Themen, begrenzte Belege und inkrementeller privater Fortschritt. Vollständige Lernrunde in Chromium, Firefox und mobilem WebKit ohne Katalogabruf erfolgreich; erweiterte Abnahme und produktiver Rollout noch offen.

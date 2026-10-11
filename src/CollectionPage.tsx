@@ -1,5 +1,6 @@
-import { useMemo } from "react";
-import { catalogIndex } from "./catalogIndex";
+import { useServerView, type LearningOverview } from "./serverViews";
+import { ServerTopicList } from "./ServerTopicList";
+
 import { answeredTopics } from "./collection";
 import { badgeEligible } from "./engine";
 import { type State, type RoundSetup } from "./model";
@@ -30,22 +31,19 @@ export function CollectionPage({
   nav: (next: Page | DuelPage) => Promise<void>;
   changeSetup: (patch: Partial<RoundSetup>) => Promise<State | null>;
 }) {
-  const catalog = useMemo(
-    () => catalogIndex(state.questions),
-    [state.questions],
-  );
-  const topics = catalog.topics;
-  const startedTopics = answeredOnly
-    ? answeredTopics(state)
-    : new Set<string>();
-  const albumTopics = topics.filter(
-    (t) => !answeredOnly || startedTopics.has(t),
-  );
   const completed = state.rounds.filter((r) => r.status === "completed");
-  const learning = learningOverview(
-    state.questions.map((q) => q.knowledgeId),
-    state.learning,
-  );
+  const summary = useServerView<
+    LearningOverview & { badge: { available: number; mastered: number } }
+  >({ action: "summary" });
+  const learning = summary.value ?? {
+    unseen: 0,
+    discovered: 0,
+    stages: [0, 0, 0, 0],
+    steps: 0,
+    maximum: 0,
+    percent: 0,
+    mastered: 0,
+  };
   return (
     <>
       <span className="eyebrow">DAS BLEIBT BEI DIR</span>
@@ -121,33 +119,12 @@ export function CollectionPage({
           Mit beantworteten Fragen
         </button>
       </div>
-      <p className="tiny muted" role="status">
-        {albumTopics.length} von {topics.length} Einträgen
-      </p>
-      {answeredOnly && albumTopics.length === 0 && (
-        <div className="notice">
-          <p>
-            Noch keine Einträge mit beantworteten Fragen. Sobald Du in einem
-            Thema eine Antwort auswählst, erscheint es hier – richtig oder
-            falsch.
-          </p>
-          <button className="secondary" onClick={() => setAnsweredOnly(false)}>
-            Alle Einträge anzeigen
-          </button>
-        </div>
-      )}
-      <div className="topic-grid">
-        {albumTopics.map((t) => (
-          <TopicCard
-            key={t}
-            topic={t}
-            state={state}
-            questions={catalog.forTopic(t)}
-          />
-        ))}
-      </div>
-      {(new Set(state.questions.filter(badgeEligible).map((q) => q.knowledgeId))
-        .size >= 10 ||
+      <ServerTopicList
+        key={String(answeredOnly)}
+        state={state}
+        answeredOnly={answeredOnly}
+      />
+      {((summary.value?.badge.available ?? 0) >= 10 ||
         state.badges.length > 0) && (
         <section className="badge-panel">
           <span
@@ -168,18 +145,8 @@ export function CollectionPage({
                 : "Festige zehn Wissensziele der Stufe „leicht“ aus Film / Science-Fiction. Erfahrungspunkte zählen dafür nicht."}
             </p>
             <p>
-              {
-                new Set(
-                  state.questions
-                    .filter(
-                      (q) =>
-                        badgeEligible(q) &&
-                        state.learning[q.knowledgeId]?.status === "gefestigt",
-                    )
-                    .map((q) => q.knowledgeId),
-                ).size
-              }{" "}
-              von 10 Wissenszielen gefestigt
+              {summary.value?.badge.mastered ?? 0} von 10 Wissenszielen
+              gefestigt
             </p>
             <small className="muted">
               Begrenzte Auszeichnung für diesen Bestand, kein umfassender

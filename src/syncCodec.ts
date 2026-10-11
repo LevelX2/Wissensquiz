@@ -383,6 +383,7 @@ export function applyDifference(
 export function reconstructState(
   document: SyncDocument,
   releases: PreparedRelease[] = [],
+  serverProgress = false,
 ): State {
   const known = new Map(releases.map((r) => [r.hash, r]));
   function object(hash: string, encoding: ObjectEncoding) {
@@ -460,14 +461,25 @@ export function reconstructState(
     };
   });
   delete fields.catalog;
-  return validateBackup({
-    ...fields,
-    questions,
-    rounds,
-    events: ordered("event").map((r) => r.value),
-    learning: Object.fromEntries(
-      ordered("learning").map((r) => [r.id, r.value]),
-    ),
-    records: Object.fromEntries(ordered("record").map((r) => [r.id, r.value])),
-  });
+  return validateBackup(
+    {
+      ...fields,
+      questions: serverProgress
+        ? [
+            ...new Map(
+              rounds.flatMap((r) => r.questions).map((q) => [q.id, q]),
+            ).values(),
+          ]
+        : questions,
+      rounds,
+      events: ordered("event").map((r) => r.value),
+      learning: Object.fromEntries(
+        ordered("learning").map((r) => [r.id, r.value]),
+      ),
+      records: Object.fromEntries(
+        ordered("record").map((r) => [r.id, r.value]),
+      ),
+    },
+    !serverProgress,
+  );
 }

@@ -24,7 +24,7 @@ import {
 import { familiarityOf, familiarities, selectionRule } from "./familiarity";
 import { discoveryContext } from "./discovery";
 import { matchesTopic } from "./categories";
-import { prepareFactQuestion } from "./filmFacts";
+import { prepareFactQuestion } from "./yearQuestions";
 import { repetitionContext } from "./errorTraining";
 import { RULES, learn } from "./learning";
 import { nextLearningAt } from "./learningProgress";

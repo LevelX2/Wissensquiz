@@ -14,7 +14,9 @@
     "prepare:posters": "node scripts/prepare-film-posters.mjs",
     "check:questions": "node scripts/check-question-organization.mjs",
     "prepare:sync-catalog": "node scripts/prepare-sync-catalog.mjs",
-    "prepare:ranked-catalog": "node scripts/prepare-ranked-catalog.mjs"
+    "prepare:ranked-catalog": "node scripts/prepare-ranked-catalog.mjs",
+    "prepare:game-content": "node scripts/prepare-game-content.mjs",
+    "prepare:question-presentations": "node scripts/prepare-question-presentations.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.117.2",
