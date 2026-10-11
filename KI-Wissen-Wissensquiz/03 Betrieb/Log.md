@@ -1915,3 +1915,8 @@ Serverlernablauf mit einzelnen Fragen, autoritativer Auswahl/Auswertung, vorbere
 ## 11.10.2026 – Serverumbau mit aktueller Main-Dokumentpflege abgeglichen
 
 Abgeschlossene Entfernung der Redaktions-Umstellungsprotokolle und Block 91 aus Main übernommen; aktuelle Fragetexte, Quellen, Testfixtures und beide Logfortschreibungen erhalten. Anschließend 480 Tests in 77 Dateien erneut erfolgreich (200,46 s). Anwendung und SQL sind identisch zur veröffentlichten Version 66; Build- und Browsernachweise gelten für denselben Laufzeitstand. Veröffentlichungsquelle bleibt der eingefrorene Commit 6321b2029cec3cbfd07319a86b4a977ba60949f7, kein zusätzlicher Hosting- oder GitHub-Push.
+
+
+## 11.10.2026 – Weitere Serveroptimierungen geprüft und priorisiert
+
+Auf Nachfrage Code und produktive SQL-Definitionen ausschließlich lesend nachgeprüft. Vollständigen Statistikneuaufbau beim Rundenabschluss sowie kontenübergreifende Duell-Mutexsperre auch bei Listen-/Ansichtsabrufen als wichtigste Restpunkte bestätigt. Danach privaten Erstabruf, Duellaktualisierung, vorbereitete Inhaltsgruppen und Ranglisten-Cache priorisiert. Keine Laufzeitänderung, Spielstandänderung, Veröffentlichung oder neue Lastmessung. [Befunde und Abnahmekriterien](../../docs/Server-Lernablauf-2026-10-11.md#nachprüfung-weitere-optimierungen--11102026).

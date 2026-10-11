@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Weitere Serveroptimierungen: Statistikabschluss, Duellsperre, Kontostart und bedarfsgerechte Abrufe – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md#nachprüfung-weitere-optimierungen--11102026)
+
 - [Server-Lernablauf seit Version 66: einzelne Fragen, vorbereitete Inhalte und begrenzte Abfragen – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md)
 
 - [Konto-Ladefehler: Vollkatalogabrufe entfernt, freigegebener Teststand zurückgesetzt und Version 66 veröffentlicht – 11.10.2026](../../../docs/Online-Spielstand-Ladefehler-2026-10-11.md)
