@@ -1846,6 +1846,51 @@ Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowi
 
 Ausschließlich lesende Produktionsdiagnose belegt Datenbankzeitüberschreitungen bei parallelen Vollabrufen früherer öffentlicher Fragenkataloge. Nutzer verlangt keine Altstandkompatibilität, erlaubt die Rücksetzung seines Entwicklungs-Spielstands nach Abnahme und beauftragt normale Lernrunden samt Auswahl/Übersichten ohne Clientvollkatalog im eigenen Worktree. Vorläufige Vollkatalog-Optimierungen verworfen; keine Fassung veröffentlicht und noch kein Nutzerspielstand zurückgesetzt. [Befund, Architektur und Abnahmeauftrag](../../docs/Online-Spielstand-Ladefehler-2026-10-11.md).
 
+
+### 11.10.2026 – Redaktionslauf Block 86
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 27 Vertiefungen geändert, 23 wortgleich bewahrt; 22 Antwortauswahlen und 14 Schwierigkeiten angepasst. 0 Wissensziele ausdrücklich durch neue Frage-/Wissensziel-IDs ersetzt. 8 ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. Keine der sieben Gruppen erhält eine vollständige Mindestzielabnahme. Offene Gruppen/Entwürfe: Jeremiah Johnson, Jesus Christ Superstar, A Tale of Two Sisters, Jeepers Creepers, Die Jagd, John Carter – Zwischen zwei Welten, Nader und Simin – Eine Trennung.
+
+Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche Ergänzungen und sieben Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Mind→Ghost→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.450 von12.773 Original-IDs geprüft,8.323 offen (6.283 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-86.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-86-Pruefnachweis.json).
+
+
+### 11.10.2026 – Redaktionslauf Block 87
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 26 Vertiefungen geändert, 24 wortgleich bewahrt; 21 Antwortauswahlen und 18 Schwierigkeiten angepasst. 0 Wissensziele ausdrücklich durch neue Frage-/Wissensziel-IDs ersetzt. 5 ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. John Wick: Kapitel 2, John Wick erfüllen die dokumentierten Mindestziele. Offene Gruppen/Entwürfe: John Carter – Zwischen zwei Welten, Tatis Schützenfest, Johnny Guitar – Gejagt, gehaßt, gefürchtet, Jojo Rabbit.
+
+Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche fünf Ergänzungen und sechs Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Ghost→Mind→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.500 von12.773 Original-IDs geprüft,8.273 offen (6.233 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-87.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-87-Pruefnachweis.json).
+
+
+### 11.10.2026 – Redaktionslauf Block 88
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 28 Vertiefungen geändert, 22 wortgleich bewahrt; 29 Antwortauswahlen und 13 Schwierigkeiten angepasst. 0 Wissensziele ausdrücklich durch neue Frage-/Wissensziel-IDs ersetzt. 2 ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. Keine der sieben Gruppen erhält eine vollständige Mindestzielabnahme. Offene Gruppen/Entwürfe: Die Reise zum Mittelpunkt der Erde, Judy, Die Reise zum Mittelpunkt der Erde, Ju-on: The Grudge, Tatis Schützenfest, Die Reise zur geheimnisvollen Insel, Das Urteil von Nürnberg.
+
+Alle50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche zwei Ergänzungen und sieben Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Ghost→Mind→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Deeps werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand:4.550 von12.773 Original-IDs geprüft,8.223 offen (6.183 Filmfragen und2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-88.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-88-Pruefnachweis.json).
+
+
+### 11.10.2026 – Redaktionslauf Block 89
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 24 Vertiefungen geändert, 26 wortgleich bewahrt; 22 Antwortauswahlen und 13 Schwierigkeiten angepasst. Keine Wissensziele ersetzt. Fünf ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. Dokumentierte Mindestziele erfüllt: „Jurassic World“. Offene Gruppen/Entwürfe: „Jurassic Park“, „Die Jungfrauenquelle“, „13 Assassins“, „Judy“, „Juliet, Naked“, „One Cut of the Dead“, „Kehraus“.
+
+Alle 50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche fünf Ergänzungen und acht Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Ghost→Mind→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Vertiefungen werden nicht allein zur Vereinheitlichung ersetzt.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand: 4.600 von 12.773 Original-IDs geprüft, 8.173 offen (6.133 Filmfragen und 2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-89.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-89-Pruefnachweis.json).
+
+
+### 11.10.2026 – Redaktionslauf Block 90
+
+50 weitere bisher ungeprüfte Original-IDs filmweise vollständig gelesen, quellenbasiert redigiert oder begründet erhalten. 22 Vertiefungen geändert, 28 wortgleich bewahrt; 26 Antwortauswahlen und 13 Schwierigkeiten angepasst. 0 Wissensziele ausdrücklich durch neue Frage-/Wissensziel-IDs ersetzt. 2 ergänzende Fragen separat geführt; keine doppelte Zählung als neue Originale. Keine der acht Gruppen erhält eine vollständige Mindestzielabnahme. Offene Gruppen/Entwürfe: Kick-Ass, Adel verpflichtet, Kes, Gangster in Key Largo, Kehraus, Keinohrhasen, Kill Bill – Volume 1, Kill Bill – Volume 2.
+
+Alle 50 vollständigen Alt-/Neukompositionen samt Roh-/Displayfeldern, sämtliche zwei Ergänzungen und acht Filmnotizen von Root gelesen. Unabhängiger Quellenring Wanda→Root→Ghost→Mind→Wanda abgeschlossen. Unterschiedliche Filmfassungen, konkrete Handlungsketten und mögliche Überschneidungen im Filmgruppenbild geprüft. Gute Vertiefungen werden nicht allein zur Vereinheitlichung ersetzt. Die sachlich falsche Kündigungsursache in Keinohrhasen wurde in Antwort und Vertiefung gemeinsam korrigiert; bestehende Frage- und Wissensziel-ID bleiben erhalten.
+
+Datei-/Identitäts-/Vollständigkeits-/Wortlängen-/Quellen-/Linkprüfungen sowie git diff --check erfolgreich. Reine redaktionelle Dokumentänderung, keine App-Integration oder Veröffentlichung. Gesamtstand: 4.650 von 12.773 Original-IDs geprüft, 8.123 offen (6.083 Filmfragen und 2.040 weitere). [Vollständiger Alt/Neu-Nachweis](../../docs/Redaktionslauf-2026-10-10/Block-90.md), [Prüfnachweis](../../docs/Redaktionslauf-2026-10-10/Block-90-Pruefnachweis.json).
+
 ## 11.10.2026 – Server-Lernablauf lokal umgesetzt, Abnahme läuft
 
 Im ausdrücklich beauftragten eigenen Worktree normale Lernrunden auf einzelne serverseitige Fragen und Auswertung umgestellt. Kontostart ohne Vollkatalog; kleine Auswahl-/Lernübersichten und paginierte Themen. Redaktionelle Film-/Personen-/Jahresdarstellung vom JavaScript in vorbereitete Fragendaten verlagert. Serverprojektion je betroffenem Wissensziel, Filmreise-Cache, kleine wiederholbare Anfragen und aktuelle Sicherungsfassung. 478 Tests sowie komplette Zehnerrunde inklusive Neuladen in Chromium, Firefox und mobilem WebKit erfolgreich. Weitere Browserabnahme läuft; kein produktiver Reset, keine Backendbereitstellung und keine Veröffentlichung vorgenommen. [Konzept](../../docs/Server-Lernablauf-2026-10-11.md).
