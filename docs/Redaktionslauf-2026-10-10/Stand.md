@@ -80,9 +80,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 74: vollständiger Alt/Neu-Vergleich](Block-74.md) und [strukturierter Nachweis](Block-74.json): 50 Fragen, 30 Vertiefungen geändert, 20 erhalten, 0 Fragen vollständig unverändert; 4 von 6 betroffenen Filmgruppen abgeschlossen.
 - [Block 75: vollständiger Alt/Neu-Vergleich](Block-75.md) und [strukturierter Nachweis](Block-75.json): 50 Fragen, 26 Vertiefungen geändert, 24 erhalten, 1 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 76: vollständiger Alt/Neu-Vergleich](Block-76.md) und [strukturierter Nachweis](Block-76.json): 50 Fragen, 24 Vertiefungen geändert, 26 erhalten, 0 Fragen vollständig unverändert; 5 von 7 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 3950 von 12.773 IDs redaktionell erfasst.
-- Offen: 6783 Filmfragen und 2040 weitere Fragen; zusammen 8823. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 76 prüft die letzte Her-Frage sowie Hereditary, Hero mit drei Varianten, Herr Lehmann, Hidalgo und High Fidelity gemeinsam. Von High Noon sind sechs Originale entschieden; Jahr und Regie folgen im nächsten Block. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Keine App-Integration durch diesen Block.
+- [Block 77: vollständiger Alt/Neu-Vergleich](Block-77.md) und [strukturierter Nachweis](Block-77.json): 50 Fragen, 19 Vertiefungen geändert, 31 erhalten, 0 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 4000 von 12.773 IDs redaktionell erfasst.
+- Offen: 6733 Filmfragen und 2040 weitere Fragen; zusammen 8773. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 77 schließt High Noon ab und prüft High Plains Drifter, High School Musical 2 und 3, High Society, Highlander und His Girl Friday gemeinsam. Drei bestehende Subagenten recherchieren und prüfen unabhängig; Root übernimmt Gesamtlektüre, Abnahme und seriellen lokalen Commit. Keine App-Integration durch diesen Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 
