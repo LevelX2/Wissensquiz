@@ -1,5 +1,13 @@
 # Sites-Veröffentlichung
 
+## Version 73: Gesamtbalken und Entdecker-Medaillen
+
+Am **12.10.2026 um 15:13:55 Uhr Europe/Berlin** aus Main-Commit `1a131fc85bc4908d69c359442784eb741895e756` als **Version 73** veröffentlicht, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Projekt-ID, öffentliche Adresse und Zugriff `public`, Revision 2, erhalten. Gesamtfortschritt als Prozentbalken; darunter das nächste Entdecker-Medaillenziel. Sammlung zeigt Medaillen für 50 bis 10.000 unterschiedliche kennengelernte Ziele insgesamt über alle Genres und Fragenbereiche. Vorhandene globale Serverzusammenfassung genutzt, keine zusätzlichen Abfragen oder gesonderte Speicherung, kein Katalog und keine Backendmigration.
+
+429 Tests in 70 Dateien, TypeScript/Build 73 und acht gezielte Browserfälle in Chromium, Firefox und mobilem WebKit bestanden. Vorschau bei 320/390 Pixeln visuell geprüft. Alle 489 Builddateien im Archiv bytegleich; nur öffentliche Produktionsdateien und Hostingmanifest verpackt. Live-HTML bis auf Cloudflare-JSD sowie JavaScript, CSS, Kontokonfiguration und Stilllegungs-Worker anonym 200 und bytegleich. Versionszeit und Quellcommit separat gespeichert/gelesen, öffentliche Versions-RPC bestätigt. Keine echten Spielstände verändert, kein GitHub-Push. [IDs, Hashes und Prüfgrenzen](Veroeffentlichung-2026-10-12-Version-73.json).
+
+Bereinigung offen: Die automatische Freigabeprüfung lehnt die geprüfte gezielte Entfernung mit „blocked by policy“ ab. `tmp-runtime/journey-bar73` mit Veröffentlichungskopie und Archiv (482.376.678 Bytes), Browserausgaben `test-results/port-4300` (1.295.752 Bytes) sowie der bereits zuvor blockierte aktuelle Build `dist` (76.633.785 Bytes) bleiben unversioniert liegen, zusammen rund 560 MB. Dauerhafter Nachweis gesichert; nach Aufhebung der Sperre gezielt entfernen.
+
 ## Version 72: grafischer Gesamtfortschritt der Filmreise
 
 Am **12.10.2026 um 14:14:11 Uhr Europe/Berlin** aus Main-Commit `8fea599a198a0e68ac6eca5d1eb5987bddead0d4` als **Version 72** veröffentlicht, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Öffentliche Adresse, Projekt-ID und Zugriff `public`, Revision 2, erhalten. Die Filmreise-Startkarte zeigt ausschließlich einen Prozentkreis für den Anteil kennengelernter Wissensziele im gesamten aktuellen Fragenbestand; keine einzelne Genre-Etappe und keine zweite Zahlenzeile. Freischaltregeln unverändert. Vorhandene Serverzusammenfassung und Cache genutzt, kein Clientkatalog und keine Backendmigration.

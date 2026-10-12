@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Version 73: Gesamtbalken und genreübergreifende Entdecker-Medaillen veröffentlicht](../../../docs/Veroeffentlichung-2026-10-12-Version-73.json)
+
 - [Version 72: grafischer Gesamtfortschritt, geprüfte Main-Veröffentlichung und offene Bereinigung](../../../docs/Veroeffentlichung-2026-10-12-Version-72.json)
 
 - [Filmreise: Gesamtbalken und genreübergreifende Entdecker-Medaillen – 12.10.2026](../../../docs/Filmreise-Freischaltung-2026-10-11.md#gesamtanzeige-auf-der-startkarte--12102026)

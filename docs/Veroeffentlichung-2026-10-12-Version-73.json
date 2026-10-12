@@ -1,0 +1,137 @@
+{
+  "version": 73,
+  "sourceBranch": "main",
+  "sourceCommit": "1a131fc85bc4908d69c359442784eb741895e756",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "archiveLocal": {
+    "fileCount": 490,
+    "buildFiles": 489,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 62639332,
+    "sha256": "5864440c69c19a586dc0b386b3fb48dc4620c2c37f6a73ff3afc89983938cead"
+  },
+  "checks": {
+    "unitTests": 429,
+    "unitFiles": 70,
+    "browserCases": 8,
+    "browsers": [
+      "chromium",
+      "firefox",
+      "webkit-mobile"
+    ],
+    "typeScript": true,
+    "buildVersion": 73,
+    "formatAndDiff": true,
+    "mobileWidths": [
+      320,
+      390
+    ]
+  },
+  "data": {
+    "reset": false,
+    "questionContentChanged": false,
+    "migrationRequired": false,
+    "privatePlayerDataUsedForTests": false
+  },
+  "display": {
+    "metric": "encountered distinct knowledge goals / all current knowledge goals",
+    "format": "percent bar, up to two decimal digits",
+    "scope": "all film genres, actors and awards; independent of selection",
+    "medals": [
+      50,
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000
+    ],
+    "nextMedal": true,
+    "medalCollection": true,
+    "derivedFromCurrentOnlineSummary": true,
+    "additionalRpc": false,
+    "separateMedalPersistence": false,
+    "xpBonus": false,
+    "unlockRulesChanged": false
+  },
+  "githubPush": false,
+  "versionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_120cb92f33c88191b095aefd45616cd3",
+  "deploymentId": "appgdep_6accdcfbfa60819186c5be87811addf9",
+  "status": "succeeded",
+  "publishedAt": "2026-10-12T13:13:55.743139+00:00",
+  "archiveNative": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000eef4821190e917916d4b4e25",
+    "content_hash": "sha256:8904c3b9ea44196ed68cb423b31d9d53ec8fd3ab78732a2a14201936e3c27820",
+    "size_bytes": 77015040,
+    "file_count": 490
+  },
+  "live": {
+    "checks": [
+      {
+        "path": "index.html",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "ef2086e2ea4e3041fa222a54b5a11d76d243617564fab635c898abf28f61c495"
+      },
+      {
+        "path": "account-config.json",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      },
+      {
+        "path": "sw.js",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "0c3f9919e46aacbadf04f0a2ccf87bcd2296697179a907f787e74857a46f47ec"
+      },
+      {
+        "path": "assets/index-BlXxBnK1.js",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "c60195db74fb875952a6b36a8f74c1c2428dd6f8fe888e872cb24d39fc900ec0"
+      },
+      {
+        "path": "assets/index-aHIB0v3W.css",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "1d82e79ffcf178e584b289bbded88ed0a12f05f049c72fcda16a8a8db0d8b5e2"
+      }
+    ],
+    "releaseStatus": 200,
+    "release": [
+      {
+        "version": 73,
+        "published_at": "2026-10-12T13:13:55.743139+00:00"
+      }
+    ]
+  },
+  "liveNote": "HTML comparison ignores only the known Cloudflare JSD injection.",
+  "releaseMetadataVerified": true,
+  "cleanup": {
+    "status": "blocked",
+    "reason": "automatic approval review: blocked by policy",
+    "retained": [
+      {
+        "path": "tmp-runtime/journey-bar73",
+        "bytes": 482376678
+      },
+      {
+        "path": "test-results/port-4300",
+        "bytes": 1295752
+      },
+      {
+        "path": "dist",
+        "bytes": 76633785
+      }
+    ],
+    "purpose": "Reproducible publication copy, transport archive, browser evidence and current build; permanent release evidence is saved.",
+    "deleteCondition": "Remove the completed task artifacts after automatic approval review permits their guarded deletion; dist was already blocked in the previous task."
+  }
+}
