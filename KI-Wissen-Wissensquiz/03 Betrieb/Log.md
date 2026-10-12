@@ -2091,3 +2091,7 @@ Auch der veraltete eigene Entwicklungsbuild `dist` nach Prüfung auf fehlende ak
 ## 12.10.2026 – Die-Maske-Rollenfrage als Version 76 veröffentlicht
 
 Jim Carreys grüne Comicfigur mit natürlicher Antwort „Die Maske“ und Frage ohne verratenden Filmtitel korrigiert. AFI und Filmbankmedia gelesen; Frage-/Filmfakt-Identität und Rohlieferung erhalten. 16 gezielte Redaktionsprüfungen, danach 435 Tests und Build auf sauberem Main-Stand erfolgreich. Genau eine Frage und ihre Darstellung im aktuellen Serverbestand geändert; private Fortschrittseinträge und Revisionen atomar unverändert. Version 76 um 22:00:55 Uhr öffentlich veröffentlicht, acht öffentliche Dateien und Versions-RPC bestätigt. Kein GitHub-Push. Eigene temporäre Kopie, Archiv und Betreiber-SQL vollständig entfernt (422.009.520 Bytes); fremde laufende Erfolgsarbeiten erhalten. [Nachweis](../../docs/Veroeffentlichung-2026-10-12-Version-76.json).
+
+## 12.10.2026 – Veröffentlichung nur nach aktueller Freigabe
+
+Lui präzisiert: erst nach seiner Freigabe veröffentlichen. Frühere Veröffentlichungsaufträge gelten nicht als Dauerfreigabe für spätere Änderungen. Die Regel umfasst Sites-Deployment sowie produktive Inhalts- und Datenbankaktivierung; lokale Umsetzung, Prüfung und Commits bleiben möglich. In AGENTS.md und Sites-Betrieb festgehalten. Keine Veröffentlichung für diese Regelpflege ausgeführt.

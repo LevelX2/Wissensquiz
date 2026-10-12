@@ -1,5 +1,9 @@
 # Sites-Veröffentlichung
 
+## Freigabe vor jeder Veröffentlichung – 12.10.2026
+
+Jede Veröffentlichung benötigt Luis ausdrückliche Freigabe für den konkreten aktuellen Stand. Frühere Veröffentlichungsaufträge gelten nicht als Dauerfreigabe. Änderungen bis dahin lokal umsetzen, prüfen und committen; weder Sites deployen noch produktive Serverinhalte oder Datenbankänderungen aktivieren. Diese Nutzeranweisung hat Vorrang vor automatischen Veröffentlichungsdefaults aus Skills.
+
 ## Version 76: Die-Maske-Rollenfrage korrigiert
 
 Am **12.10.2026 um 22:00:55 Uhr Europe/Berlin** aus Main (`9fe401f104ab4f655666a563112779987adde64b`) als **Version 76 öffentlich veröffentlicht**, nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Projekt-ID und Besucherzugriff **public, Revision 2** erhalten. [Nachweis mit Versions-/Deployment-ID und Hashes](Veroeffentlichung-2026-10-12-Version-76.json).
