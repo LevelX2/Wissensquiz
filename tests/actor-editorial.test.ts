@@ -6,6 +6,7 @@ import { actorPresentation, presentedQuestion } from "../src/actorEditorial";
 import { filmData } from "../src/filmFacts";
 import original from "../docs/Schauspieler-Fragenpaket/Schauspieler_100_Personen_800_Fragen.json";
 import editorial from "../src/actorEditorial.json";
+import { latestCsvRevision } from "./editorialSource";
 
 const state = emptyState();
 addPackages(
@@ -38,7 +39,8 @@ it("nennt bei allen vorgegebenen Personen den vollen Namen und schützt die Erke
     } else expect(presentedQuestion(q)).toBe(q.question);
     expect(presentation.text.length).toBeGreaterThan(q.context!.length);
     expect(new Set(presentation.films).size).toBe(presentation.films.length);
-    expect(q.question).toBe(source.question);
+    const current = latestCsvRevision("public/schauspieler-fragen.csv", q.id);
+    expect(q.question).toBe(current ? current.after.question : source.question);
     expect(q.context).toBe(source.additional_info);
   }
 });

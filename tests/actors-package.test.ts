@@ -86,9 +86,10 @@ it("übernimmt alle 800 Fragen mit genau dokumentierter Redaktion, 100 Personen 
   }
   for (const original of source.questions) {
     const q = imported.questions.find((q) => q.id === original.question_id)!;
-    expect(q.question).toBe(original.question);
-    expect(q.context).toBe(original.additional_info);
     const edited = latestCsvRevision("public/schauspieler-fragen.csv", q.id);
+    expect(q.question).toBe(edited ? edited.after.question : original.question);
+    expect(q.context).toBe(original.additional_info);
+
     expect(q.sources).toEqual(
       edited ? edited.after.source_urls.split("|") : original.source_urls,
     );
@@ -98,7 +99,9 @@ it("übernimmt alle 800 Fragen mit genau dokumentierter Redaktion, 100 Personen 
         : original.answers.map((a) => a.text),
     );
     expect(q.answers.find((a) => a.id === q.correctId)!.text).toBe(
-      original.answers.find((a) => a.id === original.correct_answer)!.text,
+      edited
+        ? edited.after[`answer_${edited.after.correct_answer.toLowerCase()}`]
+        : original.answers.find((a) => a.id === original.correct_answer)!.text,
     );
     expect(q.topic).toBe(q.metadata.person_name);
     expect(q.tags).toContain(ACTORS);

@@ -40,3 +40,7 @@ Die Redaktion wird anhand Frage-ID, Personen-ID sowie ursprünglichem Frage- und
 - [Veröffentlichungsnachweis](Sites-Betrieb.md)
 
 `node scripts/prepare-actor-editorial.mjs` erzeugt Anzeige, Lesefassung und Bericht aus dem erhaltenen Originalpaket und den individuellen Ergänzungen. `scripts/research-actor-films.py` ergänzt fehlende Film-Eckdaten mit requests/BeautifulSoup im Recherchewerkzeug; diese Python-Bibliotheken sind keine App-Abhängigkeiten. Ganze Webseiten und temporäre Recherchetexte bleiben außerhalb der Veröffentlichung und der Versionierung.
+
+## Die Maske: natürliche Figurenbezeichnung – 12.10.2026
+
+Die leichte Rollenfrage `SCHAUSPIELER-202610-P01-025-L-2` fragt nach Jim Carreys grünem Alter Ego des Bankangestellten Stanley Ipkiss. Die richtige Antwort lautet „Die Maske“. Der Fragetext nennt den lösungsverratenden Filmtitel nicht. Frage-ID, Filmfakt, Schwierigkeit und Lösungsschlüssel B bleiben erhalten. Kurzantwort und Vertiefung erläutern die Verwandlung sowie den Konflikt um Tina Carlyle. AFI-Credits, AFI Silver und Filmbankmedia am 12.10.2026 gelesen; Quellen in App-CSV und Anzeige hinterlegt. Rohlieferung unverändert. [Aktuelle vollständige Frage](Schauspieler-Fragenpaket/Schauspieler_800_Fragen_Lesefassung_2026-10-03.md#leicht--schauspieler-202610-p01-025-l-2).

@@ -3249,20 +3249,22 @@ Wer spielte den chaotischen Tierdetektiv Ace Ventura?
 
 ### leicht · SCHAUSPIELER-202610-P01-025-L-2
 
-Welche grüne Comicfigur wird von Jim Carrey in „Die Maske“ gespielt?
+Welche grüne Comicfigur verkörpert Jim Carrey als überdrehtes Alter Ego des Bankangestellten Stanley Ipkiss?
 
 - A: Green Lantern
-- B: Stanley Ipkiss' Maskenfigur
+- B: Die Maske
 - C: Hulk
 - D: Green Goblin
 
-**Lösung: B.** Stanley Ipkiss' Maskenfigur
+**Lösung: B.** Die Maske
 
-**Vertiefung:** Die Maske verstärkt Wünsche und Impulse der schüchternen Hauptfigur in cartoonhaften Bildern. Stanleys zurückhaltender Alltag steht der grenzenlosen Maskenpersona gegenüber. Digitale Effekte erweitern Jim Carreys körperliche Komik über real mögliche Bewegungen hinaus.
+**Kurzantwort:** Jim Carrey spielt die grüne Comicfigur „Die Maske“.
+
+**Vertiefung:** Stanley Ipkiss (Jim Carrey) ist im Alltag ein schüchterner Bankangestellter. Eine geheimnisvolle Holzmaske verwandelt ihn in eine grüne Gestalt mit übernatürlichen Kräften. Als „Die Maske“ tritt er ungehemmt auf und wirbt um die Nachtclubsängerin Tina Carlyle (Cameron Diaz), deren Freund Dorian Tyrell (Peter Greene) ein Gangster ist.
 
 **Filmdaten-Verknüpfungen:** The Mask|1994
 
-**Quellen:** [1](https://en.wikipedia.org/wiki/Jim_Carrey), [2](https://de.wikipedia.org/wiki/Jim_Carrey), [3](https://en.wikipedia.org/wiki/The_Mask_(1994_film))
+**Quellen:** [1](https://catalog.afi.com/Film/60388-THE-MASK), [2](https://silver.afi.com/movies/detail/0100004557/), [3](https://www.filmbankmedia.com/films/archive/details/12622-the-mask/)
 
 ### mittel · SCHAUSPIELER-202610-P01-025-M-1
 

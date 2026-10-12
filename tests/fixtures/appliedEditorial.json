@@ -37076,6 +37076,38 @@
         "source_urls": "https://en.wikipedia.org/wiki/Airplane!|https://www.paramountpictures.com/movies/airplane",
         "verification_status": "redaktionell_geprueft"
       }
+    },
+    {
+      "file": "public/schauspieler-fragen.csv",
+      "id": "SCHAUSPIELER-202610-P01-025-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-025-L-2",
+      "after": {
+        "question_id": "SCHAUSPIELER-202610-P01-025-L-2",
+        "knowledge_id": "K-SCHAUSPIELER-202610-P01-025-L-2",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Personen",
+        "subdomain": "Schauspieler",
+        "person_id": "ACTOR-025",
+        "person_name": "Jim Carrey",
+        "person_name_before_answer": "true",
+        "difficulty": "leicht",
+        "source_difficulty": "leicht",
+        "question_type": "Rollen und Werke",
+        "question": "Welche grüne Comicfigur verkörpert Jim Carrey als überdrehtes Alter Ego des Bankangestellten Stanley Ipkiss?",
+        "answer_a": "Green Lantern",
+        "answer_b": "Die Maske",
+        "answer_c": "Hulk",
+        "answer_d": "Green Goblin",
+        "correct_answer": "B",
+        "explanation_short": "Jim Carrey spielt die grüne Comicfigur „Die Maske“.",
+        "explanation_context": "Die Maske verstärkt Wünsche und Impulse der schüchternen Hauptfigur in cartoonhaften Bildern.",
+        "memory_anchor": "",
+        "topic_tags": "Schauspieler;Rollen und Werke",
+        "badge_tags": "Schauspieler",
+        "source_urls": "https://catalog.afi.com/Film/60388-THE-MASK|https://silver.afi.com/movies/detail/0100004557/|https://www.filmbankmedia.com/films/archive/details/12622-the-mask/",
+        "verification_status": "redaktionell_recherchiert"
+      }
     }
   ],
   "publishedVersion": 65,

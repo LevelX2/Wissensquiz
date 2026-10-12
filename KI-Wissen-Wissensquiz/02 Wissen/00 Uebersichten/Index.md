@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Die Maske: klare Rollenfrage und natürliche Antwort – 12.10.2026](../../../docs/Filmreise-Personen-und-Vertiefungen.md#die-maske-natürliche-figurenbezeichnung--12102026)
+
 - [Antwortansicht: gemeinsame Lernklappe, Quellen darunter und „Verbesserung vorschlagen“ – 12.10.2026](../../../docs/Lernregeln.md#antwortansicht-und-gemeinsame-lernklappe--12102026)
 
 - [Bedienungstöne: erneute Freigabe trotz wartender Audioaktivierung – 12.10.2026](../../../docs/Lernregeln.md#erneute-tonfreigabe-bei-wartender-aktivierung--12102026)
