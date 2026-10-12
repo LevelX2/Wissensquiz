@@ -21,7 +21,7 @@ import { SetupSection } from "./SetupSection";
 import { DisclosureArtwork } from "./DisclosureArtwork";
 import { RoundGuide } from "./RoundGuide";
 import { filmCategories } from "./categories";
-import { LearningPath, JourneyNextStep } from "./LearningPathPanel";
+import { LearningPath, JourneyOverview } from "./LearningPathPanel";
 import type { QuestionSource } from "./model";
 import type { Page, DuelPage, Mutate } from "./uiTypes";
 import { modeNames } from "./gameUi";
@@ -186,23 +186,7 @@ export function PlaySetup({
                   </small>
                 )}
               {playGroup === "learn" && mode === "entdecken" && (
-                <JourneyNextStep
-                  journey={view.value?.journey}
-                  state={state}
-                  areas={[
-                    ...new Set([
-                      ...(filters.sources.includes("film")
-                        ? filters.genres
-                        : []),
-                      ...(filters.sources.includes("actors")
-                        ? ["Schauspieler"]
-                        : []),
-                      ...(filters.sources.includes("awards")
-                        ? ["Preisträger"]
-                        : []),
-                    ]),
-                  ]}
-                />
+                <JourneyOverview />
               )}
             </>
           }

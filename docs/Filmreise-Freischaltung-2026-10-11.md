@@ -1,6 +1,6 @@
 # Filmreise: 50-Prozent-Freischaltung und Fragenauswahl
 
-Stand: 11.10.2026, Umsetzung auf Nutzerauftrag. Ersetzt die eingefrorenen Schwierigkeitsschwellen und ihren Bestandsschutz.
+Stand: 12.10.2026, Umsetzung auf Nutzerauftrag. Ersetzt die eingefrorenen Schwierigkeitsschwellen und ihren Bestandsschutz.
 
 ## Freischaltung
 
@@ -11,6 +11,16 @@ Gezählt wird jedes aktuelle Ziel einmal je Bereich und Schwierigkeit aus abgesc
 Abenteuer: aktuell 203 leichte Ziele → Mittel ab **102**; 387 mittlere Ziele → Schwer ab **194**, zusätzlich muss Mittel geöffnet sein. Die bisherige 2/2-Regel war für den stark gewachsenen Bestand ungeeignet.
 
 Filmgruppen folgen ebenfalls 50 Prozent: Die nächste vorhandene Gruppe eines Genres öffnet ab der aufgerundeten Hälfte **aller aktuellen leichten Wissensziele der vorherigen Gruppe**. Varianten zählen einmal. Die Gruppen öffnen nacheinander; leere Gruppen werden übersprungen. Höhere Schwierigkeiten sind dafür keine Voraussetzung. Abenteuer Gruppe 1: 15 leichte Ziele → Gruppe 2 ab **8** sicheren Zielen. Feste Anker-IDs und gespeicherte frühere Gruppenrechte sind keine Berechnungsgrundlage mehr. Ergänzungen und entfernte Ziele wirken auf Nenner und Zähler; Antworten und Lernstände bleiben erhalten. `src/journeyCurriculum.json` und die private Curriculumtabelle sind entfernt.
+
+## Gesamtanzeige auf der Startkarte – 12.10.2026
+
+Auf Nutzerauftrag zeigt die Filmreise-Karte den **gesamten aktuellen Fragenbestand** über alle Filmgenres, Schauspieler und Preisträger: den Anteil kennengelernter Wissensziele als Prozentkreis. Die zunächst vorgeschlagene zweite Zeile für gefestigte und unentdeckte Ziele entfällt auf ausdrücklichen Nutzerwunsch. Die Auswahl eines Genres oder Fragenbereichs verändert diesen Überblick nicht. Varianten zählen einmal. Kennengelernt bedeutet mindestens eine Lernbegegnung, auch bei einer falschen Antwort; es bedeutet weder sicher gewusst noch gefestigt. Der Kreis bildet den Anteil kennengelernter Ziele am gesamten aktuellen Bestand ab, nicht die gewichteten Lernstufen und nicht eine Freischaltschwelle. Prozentzahl mit bis zu zwei Nachkommastellen; beispielsweise 19 von 12.222 → 0,16 %. Die Darstellung ist auch bei 320 Pixeln Breite geprüft.
+
+Die bisherige Auswahl der nächstliegenden einzelnen Genre-Etappe ist aus der Startkarte entfernt; die zugehörige Auswahlfunktion entfällt. Genaue Freischaltungen stehen weiterhin unter „Deine Stufenfortschritte“. Dort werden bei Filmgruppen der vollständige leichte Zielbestand und die benötigte Hälfte getrennt genannt. Beispiel: Martial Arts & Asia-Film besitzt in Gruppe 1 sechs leichte Ziele, Gruppe 2 benötigt drei; Abenteuer 15/8. Schwierigkeitsschwellen werden als benötigte Ziele beschriftet. Die Freischaltregeln bleiben unverändert.
+
+Der Client verwendet die vorhandene globale Serveransicht `summary`, dieselbe wie das Profil. Sie liefert nur aggregierte Zähler und verwendet den bestehenden Cache im Arbeitsspeicher je Konto und Revision. Kein Fragenkatalog, keine Speicherung im Browser, keine neue Backendmigration. Lade- und Fehlerzustände zeigen keine erfundenen Nullstände.
+
+[Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-12%20Nutzerauftrag%20Filmreise%20Gesamtanzeige.txt).
 
 ## Auswahl neuer Ziele
 

@@ -3,61 +3,67 @@ import type { State, QuestionSource } from "./model";
 import { genreLabel } from "./filters";
 import { GenreArtwork } from "./Icons";
 import { DisclosureArtwork } from "./DisclosureArtwork";
+import { learningPathProgress } from "./learningPath";
 import {
-  learningPathProgress,
-  nextJourneyStep,
-  pathAreaOf,
-} from "./learningPath";
-import { learningOverview } from "./learningProgress";
-import type { Journey } from "./serverViews";
+  useServerView,
+  type LearningOverview,
+  type Journey,
+} from "./serverViews";
 
-export function JourneyNextStep({
-  state,
-  areas,
-  journey,
-}: {
-  state: State;
-  areas: string[];
-  journey?: Journey;
-}) {
-  const step = nextJourneyStep(
-    state,
-    journey ? areas.filter((a) => journey[a]) : areas,
-    journey ? (a) => journey[a] : undefined,
-  );
-  if (step)
+export function JourneyOverview() {
+  const { value, error, retry } = useServerView<LearningOverview>({
+    action: "summary",
+  });
+  if (!value)
     return (
-      <div className="journey-next-step" aria-label="Nächste Etappe">
-        <small>{genreLabel(step.area)} · Nächste Etappe</small>
-        <strong>
-          Noch {step.target - step.answered}{" "}
-          {step.target - step.answered === 1
-            ? "sicheres Ziel"
-            : "sichere Ziele"}{" "}
-          bis {step.label}
-        </strong>
-        <progress
-          aria-label={`${genreLabel(step.area)}: Fortschritt zu ${step.label}`}
-          max={step.target}
-          value={Math.min(step.answered, step.target)}
-        />
+      <div className="journey-overview" role={error ? "alert" : "status"}>
         <small>
-          {Math.min(step.answered, step.target)} von {step.target}{" "}
-          {step.target === 1 ? "Wissensziel" : "Wissenszielen"} geschafft
+          {error
+            ? "Dein Gesamtfortschritt konnte nicht geladen werden."
+            : "Dein Gesamtfortschritt wird geladen …"}
         </small>
+        {error && (
+          <button className="text-button" onClick={retry}>
+            Erneut versuchen
+          </button>
+        )}
       </div>
     );
-  const questions = state.questions.filter((q) =>
-    areas.includes(pathAreaOf(q)),
-  );
-  if (!questions.length) return null;
-  const ids = [...new Set(questions.map((q) => q.knowledgeId))];
-  const overview = learningOverview(ids, state.learning);
+  const total = value.maximum / 4;
+  const encountered = total - value.unseen;
+  const percent = total ? Math.round((10000 * encountered) / total) / 100 : 0;
+  const label =
+    percent.toLocaleString("de-DE", { maximumFractionDigits: 2 }) + " %";
   return (
-    <small className="journey-next-step">
-      Alle Etappen geöffnet · {overview.mastered} von {ids.length} Wissenszielen
-      gefestigt
-    </small>
+    <div
+      className="journey-overview"
+      aria-label="Gesamtfortschritt der Filmreise"
+    >
+      <div
+        className="journey-percent-chart"
+        role="progressbar"
+        aria-label="Kennengelernte Wissensziele insgesamt"
+        aria-valuemin={0}
+        aria-valuemax={100}
+        aria-valuenow={percent}
+        aria-valuetext={`${label} des gesamten Fragenbestands kennengelernt`}
+      >
+        <svg viewBox="0 0 100 100" aria-hidden="true" focusable="false">
+          <circle className="journey-percent-track" cx="50" cy="50" r="44" />
+          <circle
+            className="journey-percent-fill"
+            cx="50"
+            cy="50"
+            r="44"
+            pathLength="100"
+            strokeDasharray={`${percent} 100`}
+            transform="rotate(-90 50 50)"
+          />
+        </svg>
+        <strong>{label}</strong>
+      </div>
+      <small>des gesamten Fragenbestands kennengelernt</small>
+    </div>
   );
 }
 
@@ -84,8 +90,9 @@ export function LearningPath({
       <p className="tiny">
         Sichere richtige Antworten aus abgeschlossenen Runden zählen einmal pro
         Wissensziel – in allen Modi. Geratene Treffer und Varianten erhöhen den
-        Zähler nicht. Für die nächste Filmgruppe zählen aufgerundet 50 Prozent
-        der aktuellen leichten Ziele der vorherigen Gruppe.
+        Zähler nicht. Die Balken zeigen den Fortschritt bis zur Freischaltung.
+        Für die nächste Filmgruppe zählen aufgerundet 50 Prozent der aktuellen
+        leichten Ziele der vorherigen Gruppe.
       </p>
       <div className="path-progress">
         {[
@@ -107,7 +114,7 @@ export function LearningPath({
                 <span>
                   {p.mediumUnlocked
                     ? "✓ Mittel freigeschaltet"
-                    : `Mittel gesperrt · ${Math.min(p.easy, p.easyTarget)} / ${p.easyTarget} leichte Ziele`}
+                    : `Mittel gesperrt · ${Math.min(p.easy, p.easyTarget)} / ${p.easyTarget} benötigte leichte Ziele`}
                 </span>
                 <progress
                   aria-label={`${genreLabel(genre)}: Fortschritt zu Mittel`}
@@ -117,7 +124,7 @@ export function LearningPath({
                 <span>
                   {p.hardUnlocked
                     ? "✓ Schwer freigeschaltet"
-                    : `Schwer gesperrt · ${Math.min(p.medium, p.mediumTarget)} / ${p.mediumTarget} mittlere Ziele${p.mediumUnlocked ? "" : " · zuerst Mittel freischalten"}`}
+                    : `Schwer gesperrt · ${Math.min(p.medium, p.mediumTarget)} / ${p.mediumTarget} benötigte mittlere Ziele${p.mediumUnlocked ? "" : " · zuerst Mittel freischalten"}`}
                 </span>
                 <progress
                   aria-label={`${genreLabel(genre)}: Fortschritt zu Schwer`}
@@ -129,7 +136,7 @@ export function LearningPath({
                     <span>
                       {p.expertUnlocked
                         ? "✓ Experte freigeschaltet"
-                        : `Experte gesperrt · ${Math.min(p.hard, p.hardTarget)} / ${p.hardTarget} schwere Ziele${p.hardUnlocked ? "" : " · zuerst Schwer freischalten"}`}
+                        : `Experte gesperrt · ${Math.min(p.hard, p.hardTarget)} / ${p.hardTarget} benötigte schwere Ziele${p.hardUnlocked ? "" : " · zuerst Schwer freischalten"}`}
                     </span>
                     <progress
                       aria-label={`${genre}: Fortschritt zu Experte`}
@@ -152,15 +159,13 @@ export function LearningPath({
                     {next && current ? (
                       <>
                         <span>
-                          Nächste Gruppe: {familiarityLabel(next.level)} ·{" "}
-                          {Math.min(current.answered, current.target)} /{" "}
-                          {current.target} sichere{" "}
-                          {current.difficulty === "leicht"
-                            ? "leichte"
-                            : current.difficulty === "mittel"
-                              ? "mittlere"
-                              : "schwere"}{" "}
-                          Ziele in Gruppe {current.level}
+                          Filmgruppe {current.level}: {current.answered} von{" "}
+                          {current.total} leichten Wissenszielen sicher
+                          beantwortet
+                        </span>
+                        <span>
+                          {familiarityLabel(next.level)} freischalten:{" "}
+                          {current.target} sichere Ziele nötig (50 %)
                         </span>
                         <progress
                           aria-label={`${genreLabel(genre)}: Fortschritt zur nächsten Filmgruppe`}

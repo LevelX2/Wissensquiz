@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Filmreise: grafischer Gesamtfortschritt als Prozentkreis statt einzelner Genre-Etappe – 12.10.2026](../../../docs/Filmreise-Freischaltung-2026-10-11.md#gesamtanzeige-auf-der-startkarte--12102026)
+
 - [Wiederholen für alle gewählten Bereiche und 24-Stunden-Abstand richtiger Ziele – lokal umgesetzt am 11.10.2026](../../../docs/Wiederholungen-und-Lernstufen-2026-10-10.md#alle-fragenbereiche-und-24-stunden-abstand--11102026)
 
 - [Version 70: dynamische Filmgruppen, aktuelle 50-Prozent-Schwellen und geprüfte Veröffentlichung](../../../docs/Veroeffentlichung-2026-10-11-Version-70.json)

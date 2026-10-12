@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 12.10.2026 – Filmreise als grafischer Gesamtfortschritt
+
+**423 Tests in 69 Dateien**, TypeScript und Produktionsbuild 72 erfolgreich. Die nicht mehr verwendete Auswahl einer einzelnen nächsten Genre-Etappe samt eigenem Test ist entfernt; Freischaltberechnung unverändert. **18 unterschiedliche gezielte Browserfälle einschließlich erfolgreicher Nachprüfungen** in Chromium, Firefox und mobilem WebKit: globaler Anteil kennengelernter Ziele, alle drei Fragenbereiche, einmalige Zielzählung bei wiederholter Antwort, leere Anzeige, Neuladen und unveränderter Gesamtwert nach Genre-/Bereichswechsel. Prozentkreis bei 320 Pixeln ohne horizontalen Überlauf visuell geprüft. Keine zweite Zeile mit gefestigten oder unentdeckten Zahlen. Wiederholen bis Stufe 2, additive Bereichsauswahl und aktuelle 50-Prozent-Grenzen ebenfalls erfolgreich. Keine vollständige neue Browser-Suite.
+
+Prüfannahmen korrigiert: Der native 24-Stunden-SQL-Test setzt seine kontrollierte Zeit auch für direkte Datenbankaufrufe, die Bereichsprüfung leitet die aktuelle Schwelle aus dem synthetischen Serverbestand ab. Umgestellte Selektoren und DOM-Textvergleiche abschließend erfolgreich. Isolierte Browserprofile, synthetische Konten und kontrollierte Zeit; keine echten Spielstände verändert. Format- und Diff-Prüfung erfolgreich. Keine Backendmigration, keine neuen Inhalte, kein Spielstandreset. Vorhandene globale Serverzusammenfassung und Cache wiederverwendet; kein Katalogabruf für die Anzeige. [Anzeigevertrag](Filmreise-Freischaltung-2026-10-11.md#gesamtanzeige-auf-der-startkarte--12102026).
+
 ## 11.10.2026 – Alle Wiederholungsbereiche und 24-Stunden-Abstand
 
 **424 Tests in 69 Dateien**, TypeScript und Produktionsbuild erfolgreich. Neue lokale und native SQL-Prüfungen bestätigen fällige Film-, Schauspieler- und Preisziele einschließlich Filtern, nächstem Termin und gezielter Wiederholung aus dem Rundenergebnis. Der 24-Stunden-Abstand in Filmreise und Freiem Spiel berücksichtigt richtige Antwortereignisse einschließlich geratener und früher Antworten sowie alle Varianten eines Wissensziels. Exakte Zeitgrenze, fällige Ausnahmen, Vorrang vor dem bisherigen Rundenausschluss und Auffüllen bei zu wenigen Alternativen geprüft.

@@ -130,63 +130,6 @@ export function learningPathProgress(state: State) {
   };
 }
 
-export function nextJourneyStep(
-  state: State,
-  areas: string[],
-  supplied?: ReturnType<typeof learningPathProgress>,
-) {
-  const progress = supplied ?? learningPathProgress(state);
-  const candidates: {
-    area: string;
-    label: string;
-    answered: number;
-    target: number;
-  }[] = [];
-  for (const area of new Set(areas)) {
-    const p = progress(area);
-    if (!p.mediumUnlocked && p.easyTarget > 0)
-      candidates.push({
-        area,
-        label: "Schwierigkeit Mittel",
-        answered: p.easy,
-        target: p.easyTarget,
-      });
-    else if (!p.hardUnlocked && p.mediumTarget > 0)
-      candidates.push({
-        area,
-        label: "Schwierigkeit Schwer",
-        answered: p.medium,
-        target: p.mediumTarget,
-      });
-    else if (p.independent && !p.expertUnlocked && p.hardTarget > 0)
-      candidates.push({
-        area,
-        label: "Schwierigkeit Experte",
-        answered: p.hard,
-        target: p.hardTarget,
-      });
-    const current = p.groups.find((g) => g.level === p.familiarity);
-    const next = p.groups.find((g) => g.level > p.familiarity);
-    if (
-      current &&
-      next &&
-      current.target > current.answered &&
-      (current.difficulty === "leicht" ||
-        (current.difficulty === "mittel" && p.mediumUnlocked) ||
-        (current.difficulty === "schwer" && p.hardUnlocked))
-    )
-      candidates.push({
-        area,
-        label: `Filmgruppe ${next.level}`,
-        answered: current.answered,
-        target: current.target,
-      });
-  }
-  return candidates.sort(
-    (a, b) => a.target - a.answered - (b.target - b.answered),
-  )[0];
-}
-
 export function retainJourneyUnlocks(state: State) {
   const earned = { ...state.journey?.earned };
   const hasAreas = state.questions.some((q) => questionSourceOf(q) !== "film");

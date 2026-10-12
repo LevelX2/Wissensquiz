@@ -1,4 +1,4 @@
-import { writeStoredState } from "./fixtures";
+import { accountBackend, writeStoredState } from "./fixtures";
 import {
   modePreparation,
   test,
@@ -38,6 +38,16 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
   );
   await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
   const panel = page.locator(".learning-path");
+  const backend = accountBackend(page);
+  const awardTarget = Math.ceil(
+    (
+      await backend.admin(() =>
+        backend.db.query<{ n: number }>(
+          "select count(distinct knowledge_id)::int n from quiz_game_internal.catalog_meta where source='awards' and difficulty='leicht'",
+        ),
+      )
+    ).rows[0].n / 2,
+  );
   await expect(
     panel.getByRole("progressbar", {
       name: "Schauspieler: Fortschritt zu Experte",
@@ -49,7 +59,7 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
       name: "Preisträger: Fortschritt zu Mittel",
       exact: true,
     }),
-  ).toHaveAttribute("max", "20");
+  ).toHaveAttribute("max", String(awardTarget));
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".question-card")).toBeVisible();
   let state = await readStoredState(page);

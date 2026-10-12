@@ -197,6 +197,12 @@ test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
       exact: true,
     }),
   ).toHaveAttribute("max", "8");
+  await expect(page.locator(".learning-path")).toContainText(
+    "Filmgruppe 1: 0 von 15 leichten Wissenszielen sicher beantwortet",
+  );
+  await expect(page.locator(".learning-path")).toContainText(
+    "2 · Bekannte Filme freischalten: 8 sichere Ziele nötig (50 %)",
+  );
   expect(
     (
       await accountBackend(page).admin(() =>
@@ -206,6 +212,83 @@ test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
       )
     ).rows[0].n,
   ).toBeGreaterThan(12000);
+});
+
+test("zeigt den Gesamtbestand unabhängig von Genre und Bereich und zählt Varianten nur einmal", async ({
+  page,
+}, testInfo) => {
+  const now = new Date("2026-10-12T12:00:00+02:00").getTime();
+  await fixCalendarTime(page, new Date(now));
+  await page.setViewportSize({ width: 320, height: 800 });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const state = await readStoredState(page);
+  const total = new Set(state.questions.map((q) => q.knowledgeId)).size;
+  const percent = Math.round((10000 * 3) / total) / 100;
+  const label = percent.toLocaleString("de-DE") + " %";
+  const overview = page.getByLabel("Gesamtfortschritt der Filmreise", {
+    exact: true,
+  });
+  await expect(overview.getByRole("progressbar")).toHaveAttribute(
+    "aria-valuenow",
+    "0",
+  );
+  const goals = (["film", "actors", "awards"] as const).map((source) =>
+    state.questions.find(
+      (q) => questionSourceOf(q) === source && q.difficulty === "leicht",
+    )!,
+  );
+  for (const [i, q] of [...goals, goals[0]].entries()) {
+    const round = startRound(
+      state,
+      { mode: "ueben", topic: "Alle Themen", difficulty: "leicht" },
+      now - 2000,
+    );
+    round.questions = [q];
+    round.order = [q.answers.map((a) => a.id)];
+    answer(
+      state,
+      round.id,
+      q.id,
+      i === 2 ? { dontKnow: true } : q.correctId,
+      1000,
+      now - 1000,
+    );
+    complete(state, round.id, now);
+  }
+  state.settings.roundSetup = {
+    mode: "entdecken",
+    sources: ["film"],
+    genres: ["Martial Arts & Asia-Film"],
+    categories: [],
+    difficulties: ["leicht", "mittel", "schwer"],
+    familiarities: [1, 2, 3, 4],
+  };
+  await writeStoredState(page, state);
+  await page.reload();
+  await expect(overview).toContainText(label);
+  await expect(overview).not.toContainText(/gefestigt|unentdeckt|von 12/);
+  await expect(overview).not.toContainText(
+    /Filmgruppe|Martial Arts|Nächste Etappe/,
+  );
+  await expect(overview.getByRole("progressbar")).toHaveAttribute(
+    "aria-valuemax",
+    "100",
+  );
+  await expect(overview.getByRole("progressbar")).toHaveAttribute(
+    "aria-valuenow",
+    String(percent),
+  );
+  await page.screenshot({ path: testInfo.outputPath("journey-320.png") });
+  expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBe(
+    320,
+  );
+  const text = await overview.textContent();
+  state.settings.roundSetup.sources = ["actors"];
+  state.settings.roundSetup.genres = [];
+  await writeStoredState(page, state);
+  await page.reload();
+  await expect(overview).toHaveText(text!);
 });
 
 test("lädt keinen Katalog, setzt eine Serverrunde fort und speichert zehn Antworten", async ({

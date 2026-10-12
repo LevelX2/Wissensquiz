@@ -113,6 +113,10 @@ it("stellt kürzlich richtige nicht fällige Serverziele 24 Stunden zurück, mit
   await new OnlineGameStore(api, owner).open();
   const stamp = new Date("2026-10-11T12:00:00+02:00").getTime();
   api.clockAt(stamp);
+  // Direct SQL calls also need the controlled clock; clockAt applies on API calls.
+  await fixture.db.query("select set_config('quiz.test_now',$1,false)", [
+    String(stamp),
+  ]);
   const target = (
     await fixture.db.query<{ generation: string }>(
       "select generation from public.quiz_account_heads where owner_id=$1",

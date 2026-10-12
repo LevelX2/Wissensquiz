@@ -20,7 +20,7 @@ async function writeState(page: Page, state: State) {
   await writeStoredState(page, state);
 }
 
-test("Filmreise zeigt die nächste Etappe; Wiederholen festigt fällige Filmfragen bis Stufe 2", async ({
+test("Filmreise zeigt den Gesamtstand; Wiederholen festigt fällige Filmfragen bis Stufe 2", async ({
   page,
 }) => {
   await page.clock.install({ time: now });
@@ -80,10 +80,12 @@ test("Filmreise zeigt die nächste Etappe; Wiederholen festigt fällige Filmfrag
   const overview = page.getByLabel("Fällige Wiederholungen", { exact: true });
   await expect(overview).toHaveCount(0);
   await expect(page.locator(".repetition-overview")).toHaveCount(0);
-  await expect(page.getByLabel("Nächste Etappe")).toBeVisible();
-  await expect(page.getByLabel("Nächste Etappe")).toContainText(
-    "sichere Ziele",
-  );
+  await expect(
+    page.getByLabel("Gesamtfortschritt der Filmreise"),
+  ).toBeVisible();
+  await expect(
+    page.getByLabel("Gesamtfortschritt der Filmreise"),
+  ).toContainText("des gesamten Fragenbestands kennengelernt");
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   const profile = page.getByRole("region", { name: "Dein Lernstand" });
   await profile.locator("summary").click();

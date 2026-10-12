@@ -36,7 +36,7 @@ Profil → Optionen → Hinweise an der Frage → „Neu / Wiederholung anzeigen
 
 **Aktuelle Regel 10.10.2026:** Die großen Übersichtskästen entfallen. Nur **Wiederholen** zeigt die Gesamtzahl fälliger Filmziele in der Moduskarte; neue und noch nicht fällige Ziele zählen nicht. Varianten zählen einmal, sämtliche manuellen Filmfilter gelten. Anzeige und Auswahl verwenden denselben Lerntermin aus `nextLearningAt` einschließlich Tagesgrenze. Aktualisierung minütlich im sichtbaren Fenster und bei Rückkehr sowie Auswahländerungen.
 
-**Filmreise** zeigt die nächste erreichbare Freischaltung mit Bereich, verbleibenden sicheren unterschiedlichen Zielen und Balken, nach vollständiger Öffnung die Zahl gefestigter Ziele. **Freies Spiel** zieht zufällig ohne Lernstandsgewichtung. Die frühere Filmreise-Zahl und Auswahl „Gemischt / Nur fällige Wiederholungen“ sind abgelöst. [Führender Auswahl- und Anzeigevertrag](Wiederholungen-und-Lernstufen-2026-10-10.md).
+**Filmreise** zeigt seit 12.10.2026 den gesamten aktuellen Fragenbestand: einen Prozentkreis für den Anteil kennengelernter Wissensziele; Genre- und Bereichsfilter ändern diese Gesamtanzeige nicht. Einzelne Freischaltungen stehen in den Stufenfortschritten. [Anzeigevertrag](Filmreise-Freischaltung-2026-10-11.md#gesamtanzeige-auf-der-startkarte--12102026). **Freies Spiel** zieht zufällig ohne Lernstandsgewichtung. Die frühere Filmreise-Zahl und Auswahl „Gemischt / Nur fällige Wiederholungen“ sind abgelöst. [Führender Auswahl- und Anzeigevertrag](Wiederholungen-und-Lernstufen-2026-10-10.md).
 
 ## Aktuelle Auswahl und Ergebnisarchive – Version 46
 
