@@ -4,7 +4,7 @@ import { readFileSync } from "node:fs";
 import { emptyState } from "../../src/model";
 import { packages, addPackages } from "../../src/packages";
 import { startRound } from "../../src/engine";
-import facts from "../../src/filmFacts.json" with { type: "json" };
+import reviewedFacts from "../../src/reviewedFilmFacts.json" with { type: "json" };
 
 test("Sci-Fi-Ergänzung: Regiehintergrund erst nach Antwort und nach Neuladen verfügbar", async ({
   page,
@@ -47,7 +47,7 @@ test("Sci-Fi-Ergänzung: Regiehintergrund erst nach Antwort und nach Neuladen ve
     has: page.getByText("Etwas tiefer eintauchen", { exact: true }),
   });
   await expect(deepContext.locator(":scope > p").first()).toHaveText(
-    facts.find((f) => f.id === "FF-326")!.directorContext!,
+    reviewedFacts["FF-326-DIRECTOR"].context,
   );
   await expect(deepContext).not.toContainText("Gefragt ist die Regie");
   await expect(deepContext).not.toContainText("Originaltitel:");

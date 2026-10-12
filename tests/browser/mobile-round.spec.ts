@@ -6,6 +6,8 @@ import { emptyState } from "../../src/model";
 import { importCsv } from "../../src/importer";
 import { startRound } from "../../src/engine";
 
+test.use({ acknowledgeIncidentalSuccess: true });
+
 async function visibleAction(page: Page) {
   await expect(page.locator(".feedback-actions button")).toHaveCount(1);
   const button = page.locator(".feedback-actions .primary");

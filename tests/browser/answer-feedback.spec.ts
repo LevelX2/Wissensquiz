@@ -8,8 +8,11 @@ import {
 import { emptyState } from "../../src/model";
 import { startRound } from "../../src/engine";
 
+test.use({ acknowledgeIncidentalSuccess: true });
+
 async function prepare(page: Page, questionId: string) {
-  await page.clock.install({ time: new Date("2026-10-10T12:00:00Z") });
+  const now = new Date("2026-10-10T12:00:00Z");
+  await page.clock.install({ time: now });
   await page.route("**/film-posters.json", (route) =>
     route.fulfill({ json: {} }),
   );
@@ -22,11 +25,11 @@ async function prepare(page: Page, questionId: string) {
   state.settings.sound = false;
   state.settings.solutionDisplay = "question";
   state.settings.answerRevealMs = 500;
-  startRound(state, {
-    mode: "ueben",
-    topic: q.topic,
-    difficulty: "Alle Stufen",
-  });
+  startRound(
+    state,
+    { mode: "ueben", topic: q.topic, difficulty: "Alle Stufen" },
+    now.getTime(),
+  );
   state.questions = pool;
   await writeStoredState(page, state);
   await page.reload();
@@ -45,7 +48,9 @@ test("Tron: leerer Zusatz zum Motorradhelm entfällt direkt, nach Neuladen und i
     .click();
   await expect(page.locator(".explanation")).toBeVisible();
   await expect(page.locator(".specific-feedback")).toHaveCount(0);
-  await expect(page.locator(".explanation > p")).toHaveText([q.explanation]);
+  await expect(
+    page.locator(".explanation > p:not(.explanation-subject)"),
+  ).toHaveText([q.explanation]);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".explanation")).toBeVisible();

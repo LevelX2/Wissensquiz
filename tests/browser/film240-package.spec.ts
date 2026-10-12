@@ -7,7 +7,7 @@ import { startRound } from "../../src/engine";
 const packagePath = "/film-ergaenzung-240-fragen.csv";
 const expectedCsv = readFileSync(`public${packagePath}`, "utf8");
 
-test("240-Film-Paket lädt einmal, zeigt das vollständige Hondo-Regieteam erst zur Lösung und bleibt nach Neuladen verfügbar", async ({
+test("240-Film-Paket bleibt serverseitig verfügbar und zeigt das vollständige Hondo-Regieteam erst zur Lösung", async ({
   page,
   context,
 }) => {
@@ -18,7 +18,7 @@ test("240-Film-Paket lädt einmal, zeigt das vollständige Hondo-Regieteam erst 
   expect(state.questions).toHaveLength(catalogCounts.questions);
   expect(
     state.questions.filter((q) => q.id.startsWith("F240-20261006-")),
-  ).toHaveLength(1920);
+  ).toHaveLength(1916);
   const q = state.questions.find((q) => q.id === "F240-20261006-230-L1")!;
   const catalog = state.questions;
   state.questions = [q];
@@ -62,7 +62,7 @@ test("240-Film-Paket lädt einmal, zeigt das vollständige Hondo-Regieteam erst 
   expect(saved.questions).toHaveLength(catalogCounts.questions);
   expect(
     saved.questions.filter((q) => q.id.startsWith("F240-20261006-")),
-  ).toHaveLength(1920);
+  ).toHaveLength(1916);
   expect(saved.events.filter((e) => e.questionId === q.id)).toHaveLength(1);
   expect(saved.events.find((e) => e.questionId === q.id)?.dontKnow).toBe(true);
 });

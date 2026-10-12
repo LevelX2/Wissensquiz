@@ -1,13 +1,16 @@
-import { writeStoredState } from "./fixtures";
-import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
-import { readFileSync } from "node:fs";
-import { importCsv } from "../../src/importer";
-import { packages } from "../../src/packages";
-import { emptyState } from "../../src/model";
-import { answer, complete, startRound } from "../../src/engine";
+import {
+  modePreparation,
+  openRoundSetup,
+  test,
+  expect,
+  accountBackend,
+  readStoredState,
+} from "./fixtures";
+import { RankedSession } from "../../src/rankedRuns";
+import type { Question } from "../../src/model";
 import AxeBuilder from "@axe-core/playwright";
 
-test("Leere Highscores führen zur Rekordauswahl; angemeldete Konten sehen die Duellliste", async ({
+test("Leere Online-Highscores und Rekordauswahl bleiben erreichbar; angemeldete Konten sehen die Duellliste", async ({
   page,
 }) => {
   await page.clock.install({ time: new Date("2026-10-02T12:00:00+02:00") });
@@ -20,11 +23,16 @@ test("Leere Highscores führen zur Rekordauswahl; angemeldete Konten sehen die D
       .getByRole("group", { name: "Highscore-Bereiche", exact: true })
       .getByRole("button"),
   ).toHaveCount(3);
+  await expect(
+    page.getByText("Noch keine abgeschlossenen Läufe in dieser Auswahl."),
+  ).toBeVisible();
   await page
-    .getByRole("button", { name: "Rekordspiel vorbereiten" })
+    .getByRole("button", { name: "Spielen", exact: true })
     .press("Enter");
   await expect(page.locator(".round-setup")).toBeVisible();
   await openRoundSetup(page);
+  await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+  await modePreparation(page, /^10 Fragen 30 Sekunden/).click();
   await expect(modePreparation(page, /^10 Fragen 30 Sekunden/)).toHaveAttribute(
     "aria-pressed",
     "true",
@@ -95,77 +103,56 @@ test("Genre und Schwierigkeit bleiben unabhängig einstellbar und über Neuladen
 
 test("Alle abgeschlossenen Ergebnisse sind filterbar und nach Neuladen erhalten, ohne späteren Fragenrückblick", async ({
   page,
-  context,
 }) => {
-  await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
-  const questions = packages.flatMap(
-    (p) => importCsv(readFileSync("public" + p.path, "utf8")).questions,
-  );
-  const state = emptyState(questions);
-  for (const [i, genres] of [
-    ["Horror"],
-    ["Horror"],
-    ["Horror", "Science-Fiction"],
-    ["Fantasy"],
-  ].entries()) {
-    const run = emptyState(questions),
-      r = startRound(
-        run,
-        {
-          mode: "rekord",
-          topic: "Alle Themen",
-          difficulty: "Alle Stufen",
-          recordPreset: "genre",
-          filters: {
-            genres: [genres[0]],
-            sources: ["film"],
-            difficulties: ["leicht", "mittel", "schwer"],
-            familiarities: [1, 2, 3, 4],
-          },
-        },
-        1790416800000 + i * 100000,
-      );
-    r.questions.forEach((q, j) =>
-      answer(
-        run,
-        r.id,
-        q.id,
-        i === 0 ? null : q.correctId,
-        1000,
-        r.startedAt + 2000 + j * 2000,
-      ),
-    );
-    complete(run, r.id, r.startedAt + 20000);
-    if (genres.length > 1) {
-      r.recordPreset = "custom";
-      r.ruleVersion = "solo-v1.rekord.custom";
-      r.filters!.genres = genres;
-    }
-    state.rounds.push(r);
-    state.events.push(...run.events);
-  }
+  const now = new Date("2026-10-12T12:00:00+02:00");
+  await page.clock.install({ time: now });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
-  await page.getByRole("button", { name: "Profil", exact: true }).click();
-  await page.getByRole("button", { name: "Optionen" }).click();
-  await writeStoredState(page, state);
+  const backend = accountBackend(page);
+  await backend.ensureRanked();
+  for (const [i, genre] of ["Horror", "Horror", "Fantasy"].entries()) {
+    const at = now.getTime() - 3600_000 + i * 100_000;
+    backend.api.clockAt(at);
+    const session = new RankedSession(backend.api, backend.release.hash);
+    await session.start({
+      mode: "rekord",
+      preset: "genre",
+      genre,
+      solutionDisplay: "round",
+    });
+    for (let j = 0; j < 10; j++) {
+      const q = (
+        await backend.admin(() =>
+          backend.db.query<{ question: Question }>(
+            "select question from quiz_ranked_internal.questions where run_id=$1 and index=$2",
+            [session.run!.id, session.current!.index],
+          ),
+        )
+      ).rows[0].question;
+      backend.api.clockAt(at + 3000 + j * 3000);
+      await session.answer(
+        i === 0 ? q.answers.find((a) => a.id !== q.correctId)!.id : q.correctId,
+      );
+      if (j < 9) await session.next();
+    }
+    expect(session.run!.status).toBe("completed");
+  }
   await page.reload();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
-  await expect(page.locator(".leaderboard-category")).toHaveCount(2);
-  await expect(page.locator(".leaderboard-entry")).toHaveCount(3);
   const category = page.getByLabel("Vergleichskategorie", { exact: true });
-  const options = await category.locator("option").allTextContents();
+  await expect(category.locator("option")).toHaveCount(2);
   await category.selectOption({
-    label: options.find((o) => o.includes("Horror") && !o.includes("Sci-Fi"))!,
+    label: (await category.locator("option").allTextContents()).find((o) =>
+      o.includes("Horror"),
+    )!,
   });
   await expect(page.locator(".leaderboard-entry")).toHaveCount(2);
   await expect(page.locator(".leaderboard-entry").first()).toContainText(
-    "Platz 1 · 1.580 Punkte",
+    "10/10 richtig",
   );
   await expect(page.locator(".leaderboard-entry").last()).toContainText(
-    "Platz 2 · 0 Punkte",
+    "0 Punkte · 0/10 richtig",
   );
-  await expect(page.locator(".leaderboard-entry").last()).toBeVisible();
   await page.setViewportSize({ width: 320, height: 740 });
   expect(
     await page.evaluate(
@@ -181,5 +168,16 @@ test("Alle abgeschlossenen Ergebnisse sind filterbar und nach Neuladen erhalten,
   );
   await page.reload();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
-  await expect(page.locator(".leaderboard-entry")).toHaveCount(3);
+  await expect(category.locator("option")).toHaveCount(2);
+  await category.selectOption({
+    label: (await category.locator("option").allTextContents()).find((o) =>
+      o.includes("Fantasy"),
+    )!,
+  });
+  await expect(page.locator(".leaderboard-entry")).toHaveCount(1);
+  expect(
+    (await readStoredState(page)).rounds.filter(
+      (r) => r.status === "completed",
+    ),
+  ).toHaveLength(3);
 });

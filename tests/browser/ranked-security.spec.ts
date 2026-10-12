@@ -7,6 +7,9 @@ import {
   isolateAccountService,
   readStoredState,
 } from "./fixtures";
+
+test.use({ acknowledgeIncidentalSuccess: true });
+
 test.use({ serviceWorkers: "block" });
 async function begin(page: import("@playwright/test").Page) {
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();

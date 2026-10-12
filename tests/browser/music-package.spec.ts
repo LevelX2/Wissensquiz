@@ -1,4 +1,5 @@
 import { openRoundSetup, test, expect, readStoredState } from "./fixtures";
+import { familiarityOf } from "../../src/familiarity";
 
 test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben nach Neuladen erhalten", async ({
   page,
@@ -30,14 +31,10 @@ test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben nac
   expect(
     saved.questions.filter((q: any) => q.metadata.subdomain === "Musik"),
   ).toHaveLength(853);
-  expect(
-    saved.imports.find(
-      (r: any) => r.filename === "Musik_Ergaenzung_180_Fragen.csv",
-    )!.accepted,
-  ).toBe(180);
+  expect(saved.imports).toHaveLength(0);
   const round = saved.rounds.at(-1)!,
     q = round.questions[0];
-  expect(Object.values(round.familiaritySnapshot!)).toEqual(
+  expect(round.questions.map(familiarityOf)).toEqual(
     Array(round.questions.length).fill(1),
   );
   const correct = q.answers.find((a: any) => a.id === q.correctId)!.text;

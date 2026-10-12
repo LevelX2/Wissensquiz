@@ -8,6 +8,8 @@ import {
 } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
+test.use({ acknowledgeIncidentalSuccess: true });
+
 // Keep all synthetic account requests inside Playwright's route handlers.
 test.use({ serviceWorkers: "block" });
 

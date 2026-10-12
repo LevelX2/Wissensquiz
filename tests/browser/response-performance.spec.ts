@@ -98,6 +98,8 @@ for (const history of [0, 100, 500])
     page,
     browserName,
   }, testInfo) => {
+    // Large synthetic histories are authored before the timed browser interaction.
+    if (history === 500) test.setTimeout(180_000);
     await fixCalendarTime(page, new Date("2026-10-03T12:00:00+02:00"));
     await page.goto("/");
     expect(
@@ -106,7 +108,9 @@ for (const history of [0, 100, 500])
     await expect(
       page.getByRole("button", { name: /^Losspielen/ }),
     ).toBeEnabled();
-    await writeStoredState(page, fixture(history));
+    const seeded = fixture(history);
+    await writeStoredState(page, seeded);
+    const activeId = seeded.rounds.find((r) => r.status === "active")!.id;
     await page.reload();
     await page.getByRole("button", { name: /^Fortsetzen/ }).click();
     const cdp =
@@ -124,17 +128,24 @@ for (const history of [0, 100, 500])
       const metrics = {
         start: 0,
         latency: 0,
+        feedbackLatency: 0,
         sending: 0,
         confirmed: 0,
         get: 0,
         put: 0,
         write: 0,
+        requests: 0,
+        getCalls: 0,
+        putCalls: 0,
       };
       const fetch = window.fetch;
       window.fetch = async (...args) => {
         const tracked =
-          metrics.start > 0 && String(args[0]).endsWith("/quiz_sync_apply");
-        if (tracked) metrics.sending = performance.now();
+          metrics.start > 0 && String(args[0]).endsWith("/quiz_game_call");
+        if (tracked) {
+          metrics.sending = performance.now();
+          metrics.requests++;
+        }
         const response = await fetch(...args);
         if (tracked) metrics.confirmed = performance.now();
         return response;
@@ -143,6 +154,7 @@ for (const history of [0, 100, 500])
       const get = IDBObjectStore.prototype.get,
         put = IDBObjectStore.prototype.put;
       IDBObjectStore.prototype.get = function (key) {
+        if (metrics.start > 0) metrics.getCalls++;
         const start = performance.now();
         const req = get.call(this, key);
         if (key === "current")
@@ -153,6 +165,7 @@ for (const history of [0, 100, 500])
         return req;
       };
       IDBObjectStore.prototype.put = function (...args: any[]) {
+        if (metrics.start > 0) metrics.putCalls++;
         const start = performance.now();
         const req = put.apply(this, args as any);
         if (args[1] === "current") {
@@ -175,18 +188,34 @@ for (const history of [0, 100, 500])
         },
         true,
       );
+      let selectionScheduled = false;
+      let feedbackScheduled = false;
       const observer = new MutationObserver(() => {
+        if (!metrics.start) return;
+        // Selection paints before confirmation; correctness arrives from the server.
         if (
-          metrics.start &&
-          document.querySelector(".question-wrap.is-answered")
+          !selectionScheduled &&
+          document.querySelector(".answer.is-submitting")
         ) {
-          observer.disconnect();
+          selectionScheduled = true;
           requestAnimationFrame(() =>
             requestAnimationFrame(
               () => (metrics.latency = performance.now() - metrics.start),
             ),
           );
         }
+        if (
+          !feedbackScheduled &&
+          document.querySelector(".question-wrap.is-answered")
+        ) {
+          feedbackScheduled = true;
+          requestAnimationFrame(() =>
+            requestAnimationFrame(() => {
+              metrics.feedbackLatency = performance.now() - metrics.start;
+            }),
+          );
+        }
+        if (selectionScheduled && feedbackScheduled) observer.disconnect();
       });
       observer.observe(document.body, {
         childList: true,
@@ -199,6 +228,11 @@ for (const history of [0, 100, 500])
     await expect
       .poll(() =>
         page.evaluate(() => (window as any).__responseMetrics.latency),
+      )
+      .toBeGreaterThan(0);
+    await expect
+      .poll(() =>
+        page.evaluate(() => (window as any).__responseMetrics.feedbackLatency),
       )
       .toBeGreaterThan(0);
     const metrics = await page.evaluate(
@@ -219,8 +253,12 @@ for (const history of [0, 100, 500])
     const persisted = await readSavedState(page);
     expect(persisted.events).toHaveLength(history * 10 + 1);
     expect(
-      persisted.rounds.find((r) => r.id === "performance-active")?.events,
+      persisted.rounds.find((r) => r.id === activeId)?.events,
     ).toHaveLength(1);
+    expect(metrics.requests).toBe(1);
+    expect(metrics.sending).toBeGreaterThan(metrics.start);
+    expect(metrics.confirmed).toBeGreaterThanOrEqual(metrics.sending);
+    expect([metrics.getCalls, metrics.putCalls]).toEqual([0, 0]);
     if (!process.env.PERF_BASELINE) {
       expect(metrics.latency).toBeLessThan(450);
       expect(metrics.put).toBeLessThan(100);

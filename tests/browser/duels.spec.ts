@@ -7,7 +7,7 @@ import {
 } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { server, alice, bob, qs } from "./duel-service";
-test.use({ serviceWorkers: "block" });
+test.use({ serviceWorkers: "block", acknowledgeIncidentalSuccess: true });
 async function play(page: Page, count = 10, guessLast = false) {
   for (let i = 0; i < count; i++) {
     const heading = page.locator("h1[data-question-id]");

@@ -12,6 +12,8 @@ import { answer, complete, DAY, guess, startRound } from "../../src/engine";
 import { familiarityOf } from "../../src/familiarity";
 import type { State } from "../../src/model";
 
+test.use({ acknowledgeIncidentalSuccess: true });
+
 const now = new Date("2026-10-02T12:00:00+02:00");
 async function readState(page: Page): Promise<State> {
   return readStoredState(page);

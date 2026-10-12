@@ -10,6 +10,9 @@ import {
 import AxeBuilder from "@axe-core/playwright";
 import type { Trial } from "../../src/trial";
 import { TRIAL_KEY, TRIAL_USED_KEY } from "../../src/trial";
+
+test.use({ acknowledgeIncidentalSuccess: true });
+
 test.use({ autoLogin: false });
 const testTime = new Date("2026-10-10T10:00:00Z");
 test.beforeEach(async ({ page }) => {

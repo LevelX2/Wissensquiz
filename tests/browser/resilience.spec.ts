@@ -88,10 +88,17 @@ test("Hintergrundzeit und doppelte Klicks vergeben keine zweite Antwort", async 
     document.dispatchEvent(new Event("visibilitychange")),
   );
   await expect(
-    page.locator(".feedback-outcome").getByText("Zeit abgelaufen", { exact: true }),
+    page
+      .locator(".feedback-outcome")
+      .getByText("Zeit abgelaufen", { exact: true }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Nächste Frage" }).click();
-  await page.clock.runFor(100);
+  await expect
+    .poll(async () => {
+      await page.clock.runFor(50);
+      return page.locator(".answer").first().isEnabled();
+    })
+    .toBe(true);
   await page
     .locator(".answer")
     .first()

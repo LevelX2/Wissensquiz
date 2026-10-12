@@ -51,11 +51,10 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   ).toBeVisible();
   await page.screenshot({ path: "test-results/highscores-navigation-320.png" });
   await page.getByRole("button", { name: "Duelle", exact: true }).click();
-  await expect(page.getByText(/Melde Dich/)).toBeVisible();
-  await page.getByRole("button", { name: "Im Profil anmelden" }).click();
   await expect(
-    page.getByRole("heading", { name: "Anmelden", exact: true }),
+    page.getByText("Noch keine abgeschlossenen Duelle in dieser Auswahl."),
   ).toBeVisible();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(page.getByLabel("Soundeffekte", { exact: true })).toBeVisible();
   await page.getByRole("button", { name: "Zurück zum Profil" }).click();

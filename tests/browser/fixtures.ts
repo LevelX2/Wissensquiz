@@ -149,7 +149,11 @@ export function accountBackend(page: Page) {
 }
 export async function isolateAccountService(
   context: BrowserContext,
-  options: { autoLogin?: boolean; backend?: AccountBackend } = {},
+  options: {
+    autoLogin?: boolean;
+    backend?: AccountBackend;
+    appOrigin?: string;
+  } = {},
 ) {
   const backend = options.backend ?? (await createAccountBackend());
   backends.set(context, backend);
@@ -216,7 +220,7 @@ export async function isolateAccountService(
           sessionStorage.setItem("test-auth-initialized", "yes");
         }
       },
-      { session, origin: new URL(testBaseUrl).origin },
+      { session, origin: new URL(options.appOrigin ?? testBaseUrl).origin },
     );
   return backend;
 }
@@ -437,8 +441,26 @@ export async function writeStoredState(page: Page, state: State) {
   }
   store.stop();
 }
-export const test = base.extend<{ autoLogin: boolean }>({
+export const test = base.extend<{
+  autoLogin: boolean;
+  acknowledgeIncidentalSuccess: boolean;
+}>({
   autoLogin: [true, { option: true }],
+  acknowledgeIncidentalSuccess: [false, { option: true }],
+  page: async ({ page, acknowledgeIncidentalSuccess }, use) => {
+    // Flow checks can acknowledge an incidental milestone before their next
+    // action. Celebration checks keep the default and inspect the dialog.
+    if (acknowledgeIncidentalSuccess)
+      await page.addLocatorHandler(
+        page.locator("dialog.unlock-celebration"),
+        async (dialog) => {
+          await dialog
+            .getByRole("button", { name: "Weiter zum Ergebnis" })
+            .click();
+        },
+      );
+    await use(page);
+  },
   context: async ({ context, autoLogin }, use) => {
     const backend = await isolateAccountService(context, { autoLogin });
     try {

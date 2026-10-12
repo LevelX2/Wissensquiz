@@ -195,7 +195,7 @@ for (const scenario of [
           beforeAnswer,
         ),
       )
-      .toBe(quiet ? 0 : 10);
+      .toBe(quiet ? 0 : 5);
     const counters = await page.evaluate(
       () =>
         (
@@ -204,11 +204,11 @@ for (const scenario of [
           }
         ).unlockTest,
     );
-    expect(counters.tones - beforeAnswer).toBe(quiet ? 0 : 10); // Two answer notes plus eight fanfare notes; no duplicate completion sound.
+    expect(counters.tones - beforeAnswer).toBe(quiet ? 0 : 5); // Two answer notes plus three bronze notes; one combined success signal.
     if (quiet) {
       expect(counters.vibrations.filter((p) => p !== 0)).toEqual([]);
       await expect(dialog.locator(".firework").first()).not.toBeVisible();
-    } else expect(counters.vibrations).toContainEqual([35, 50, 35, 70, 75]);
+    } else expect(counters.vibrations).toContainEqual([25, 50, 35]);
     expect(
       await dialog.evaluate((el) => el.scrollWidth <= el.clientWidth),
     ).toBe(true);
@@ -243,7 +243,9 @@ for (const scenario of [
     else
       await dialog.getByRole("button", { name: "Weiter zum Ergebnis" }).click();
     await expect(dialog).toHaveCount(0);
-    await expect(page.locator("main")).toBeFocused();
+    await expect(
+      page.getByRole("heading", { name: "Eine Runde weiter." }),
+    ).toBeFocused();
     await page.getByRole("button", { name: "Sammlung", exact: true }).click();
     await expect(page.locator(".history article").first()).toBeVisible();
     await expect(page.locator(".history button")).toHaveCount(0);

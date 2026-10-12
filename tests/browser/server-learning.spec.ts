@@ -11,11 +11,14 @@ import {
 import { answer, complete, startRound } from "../../src/engine";
 import { questionSourceOf, genreOf } from "../../src/filters";
 
+test.use({ acknowledgeIncidentalSuccess: true });
+
 test("Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- und Preisfragen", async ({
   page,
 }) => {
   const now = new Date("2026-10-11T12:00:00+02:00");
   await page.clock.install({ time: now });
+  await page.removeLocatorHandler(page.locator("dialog.unlock-celebration"));
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const state = await readStoredState(page);
@@ -80,6 +83,18 @@ test("Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- 
   expect(new Set(round.questions.map(questionSourceOf))).toEqual(
     new Set(["actors", "awards"]),
   );
+  const rewardReady = page.waitForResponse(
+    (response) =>
+      response.url().endsWith("/rpc/quiz_game_view") &&
+      JSON.parse(response.request().postDataJSON().request_text).action ===
+        "round-experience",
+  );
+  const repetitionsReady = page.waitForResponse(
+    (response) =>
+      response.url().endsWith("/rpc/quiz_game_view") &&
+      JSON.parse(response.request().postDataJSON().request_text).action ===
+        "round-repetitions",
+  );
   for (let i = 0; i < 2; i++) {
     await page
       .getByRole("button", { name: "Keine Ahnung", exact: true })
@@ -91,9 +106,42 @@ test("Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- 
       .click();
   }
   await expect(page.locator(".result")).toBeVisible();
-  // Move the calendar without firing request timeouts of still loading result views.
-  await page.clock.setSystemTime(new Date(now.getTime() + 11 * 60_000));
-  await page.evaluate(() => window.dispatchEvent(new Event("focus")));
+  await (await rewardReady).finished();
+  await (await repetitionsReady).finished();
+  await page.clock.runFor(100);
+  const celebration = page.locator("dialog.unlock-celebration");
+  if (await celebration.isVisible())
+    await celebration
+      .getByRole("button", { name: "Weiter zum Ergebnis" })
+      .click();
+  // A due-date refresh must not restart while the server response is pending.
+  let refreshRequests = 0;
+  let releaseRefresh!: () => void;
+  const refreshGate = new Promise<void>((resolve) => {
+    releaseRefresh = resolve;
+  });
+  await page.route("**/rpc/quiz_game_view", async (route) => {
+    if (
+      JSON.parse(route.request().postDataJSON().request_text).action ===
+      "round-repetitions"
+    ) {
+      refreshRequests++;
+      await refreshGate;
+    }
+    await route.fallback();
+  });
+  try {
+    await page.clock.setSystemTime(new Date(now.getTime() + 11 * 60_000));
+    await page.evaluate(() => window.dispatchEvent(new Event("focus")));
+    await expect.poll(() => refreshRequests).toBe(1);
+    for (let i = 0; i < 4; i++) {
+      await page.clock.runFor(50);
+      await page.evaluate(() => window.dispatchEvent(new Event("focus")));
+    }
+    expect(refreshRequests).toBe(1);
+  } finally {
+    releaseRefresh();
+  }
   await expect(
     page.getByRole("button", {
       name: /Fällige Fragen dieser Runde wiederholen \(2\)/,

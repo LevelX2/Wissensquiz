@@ -8,6 +8,8 @@ import { answer, startRound } from "../../src/engine";
 import { validateBackup } from "../../src/backupValidation";
 import { roundFact } from "../../src/roundArchive";
 
+test.use({ acknowledgeIncidentalSuccess: true });
+
 for (const kind of ["year", "csv-year", "director", "original"] as const) {
   test(`${kind}: Filmfrage ohne Lösungshinweis, gespeicherte Antworten und Online-Fortsetzen`, async ({
     page,

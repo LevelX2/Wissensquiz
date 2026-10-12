@@ -10,6 +10,8 @@ import alternates from "../../src/actorRecognitionAlternatePortraits.json" with 
 import { recognitionPortrait } from "../../src/portraitCatalog";
 import { eventIdFor } from "../../src/recordModes";
 
+test.use({ acknowledgeIncidentalSuccess: true });
+
 async function writeState(page: Page, state: State) {
   await writeStoredState(page, state);
 }
@@ -119,7 +121,10 @@ for (const [number, choice, variant] of [
         })
         .click();
     }
-    await expect(page.locator(".actor-name")).toHaveText(portrait.name);
+    await expect(page.locator(".actor-name > span")).toHaveText("Schauspiel");
+    await expect(page.locator(".actor-name > strong")).toHaveText(
+      portrait.name,
+    );
     await expect(
       page.getByRole("img", { name: `Porträt von ${portrait.name}` }),
     ).toHaveAttribute("src", portrait.src);
@@ -144,7 +149,9 @@ for (const [number, choice, variant] of [
       await page.reload();
     }
     await page.getByRole("button", { name: "Fortsetzen" }).click();
-    await expect(page.locator(".actor-name")).toHaveText(portrait.name);
+    await expect(page.locator(".actor-name > strong")).toHaveText(
+      portrait.name,
+    );
     if (browserName === "chromium")
       await expect
         .poll(() =>

@@ -1,7 +1,14 @@
 import { createServer } from "node:http";
 import { readFile } from "node:fs/promises";
 import { resolve, extname } from "node:path";
-import { test, expect, readStoredState, fixCalendarTime } from "./fixtures";
+import {
+  test,
+  expect,
+  readStoredState,
+  fixCalendarTime,
+  accountBackend,
+  isolateAccountService,
+} from "./fixtures";
 
 test.setTimeout(90_000);
 
@@ -89,7 +96,12 @@ test("neuer Besuch lädt kein Offline-Paket und erhält Fortschritt nach Neulade
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(page.getByText(/Zum Öffnen des Quiz/)).toBeVisible();
+  await expect(
+    page.getByText(
+      "Dein Fortschritt wird automatisch in Deinem Konto online gespeichert.",
+      { exact: false },
+    ),
+  ).toBeVisible();
   await expect(
     page.getByRole("button", { name: /Nach Update suchen|Quiz aktualisieren/ }),
   ).toHaveCount(0);
@@ -111,6 +123,10 @@ test("vorhandenes Offline-Paket wird entfernt; laufende Runde und fremder Cache 
 }) => {
   const server = await retirementServer();
   try {
+    await isolateAccountService(page.context(), {
+      backend: accountBackend(page),
+      appOrigin: server.url,
+    });
     await fixCalendarTime(page, new Date("2026-10-10T12:00:00+02:00"));
     await page.goto(server.url);
     await page.getByRole("button", { name: "Losspielen" }).click();

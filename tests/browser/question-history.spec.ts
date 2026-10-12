@@ -4,6 +4,8 @@ import AxeBuilder from "@axe-core/playwright";
 import { emptyState, type Mode, type Question } from "../../src/model";
 import { answer, complete, guess, startRound } from "../../src/engine";
 
+test.use({ acknowledgeIncidentalSuccess: true });
+
 for (const mode of ["entdecken", "ueben"] as Mode[]) {
   test(`${mode}: Fragenstatistik zählt Antworten und Varianten, bleibt nach Neuladen korrekt`, async ({
     page,

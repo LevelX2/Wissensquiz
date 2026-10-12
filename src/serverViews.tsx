@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useState } from "react";
+import { createContext, useContext, useEffect, useRef, useState } from "react";
 import { z } from "zod";
 import type { SyncRemote } from "./entryRemote";
 import type { learningOverview } from "./learningProgress";
@@ -67,6 +67,7 @@ function readView<T>(
 export function useServerView<T>(request: object | null) {
   const server = useServer(),
     key = JSON.stringify(request);
+  const pending = useRef(false);
   const [result, setResult] = useState<{
       key: string;
       revision: number;
@@ -77,6 +78,7 @@ export function useServerView<T>(request: object | null) {
   useEffect(() => {
     if (!server || !request) return;
     let alive = true;
+    pending.current = true;
     setError("");
     readView<T>(server.api, key, server.revision, attempt > 0)
       .then((value) => {
@@ -84,6 +86,9 @@ export function useServerView<T>(request: object | null) {
       })
       .catch((e) => {
         if (alive) setError(e instanceof Error ? e.message : String(e));
+      })
+      .finally(() => {
+        if (alive) pending.current = false;
       });
     return () => {
       alive = false;
@@ -95,6 +100,10 @@ export function useServerView<T>(request: object | null) {
         ? result.value
         : undefined,
     error,
-    retry: () => retry((n) => n + 1),
+    retry: () => {
+      if (pending.current) return;
+      pending.current = true;
+      retry((n) => n + 1);
+    },
   };
 }

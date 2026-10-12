@@ -40,10 +40,27 @@ test("Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig vo
   await expect(page.getByRole("heading", { level: 1 })).toHaveText(
     "Schauspieler: Personen",
   );
-  await expect(page.locator(".topic-card")).toHaveCount(220);
-  await expect(
-    page.getByRole("heading", { name: "Tom Hanks", exact: true }),
-  ).toBeVisible();
+  // The server serves at most 40 topics per page. Check the entire list
+  // through its public pagination instead of requiring a catalogue download.
+  const people = new Set<string>();
+  for (let currentPage = 0; currentPage < 6; currentPage++) {
+    await expect(page.locator(".topic-card")).toHaveCount(
+      currentPage < 5 ? 40 : 20,
+    );
+    const headings = page.locator(".topic-card h3");
+    for (const name of await headings.allTextContents()) people.add(name);
+    const next = page.getByRole("button", {
+      name: "Weitere Themen →",
+      exact: true,
+    });
+    if (currentPage < 5) {
+      const first = await headings.first().textContent();
+      await next.click();
+      await expect(headings.first()).not.toHaveText(first!);
+    } else await expect(next).toHaveCount(0);
+  }
+  expect(people.size).toBe(220);
+  expect(people.has("Tom Hanks")).toBe(true);
   await page.getByRole("button", { name: "Zur Themenübersicht" }).click();
   await page.getByRole("button", { name: "Schauspieler spielen" }).click();
   await expect(page.locator(".round-setup")).toBeVisible();
@@ -147,7 +164,8 @@ for (const [questionId, person, film] of [
     await expect(page.locator(".actor-portrait")).toHaveCount(0);
     await expect(page.locator(".explanation")).toHaveCount(0);
     await page.locator(".answer").filter({ hasText: person }).click();
-    await expect(page.locator(".actor-name")).toHaveText(person);
+    await expect(page.locator(".actor-name > span")).toHaveText("Schauspiel");
+    await expect(page.locator(".actor-name > strong")).toHaveText(person);
     if (person === "Tom Hanks") {
       await expect(
         page.getByRole("img", { name: `Porträt von ${person}` }),

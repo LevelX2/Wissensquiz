@@ -4,9 +4,21 @@ import AxeBuilder from "@axe-core/playwright";
 import { answer, complete, startRound } from "../../src/engine";
 import { emptyState, type Mode, type State } from "../../src/model";
 
+test.use({ acknowledgeIncidentalSuccess: true });
+
 const now = new Date("2026-10-02T12:00:00+02:00");
 async function readState(page: Page): Promise<State> {
   return readStoredState(page);
+}
+async function waitForAnswers(page: Page) {
+  await expect
+    .poll(async () => {
+      await page.clock.runFor(50);
+      return page
+        .getByRole("button", { name: "Keine Ahnung", exact: true })
+        .isEnabled();
+    })
+    .toBe(true);
 }
 async function prepare(page: Page, mode: Mode = "ueben") {
   await page.clock.install({ time: now });
@@ -18,7 +30,8 @@ async function prepare(page: Page, mode: Mode = "ueben") {
     ...new Map(
       catalog
         .filter(
-          (q) => q.difficulty === "leicht" && q.metadata.subdomain === "Western",
+          (q) =>
+            q.difficulty === "leicht" && q.metadata.subdomain === "Western",
         )
         .map((q) => [q.knowledgeId, q]),
     ).values(),
@@ -29,7 +42,7 @@ async function prepare(page: Page, mode: Mode = "ueben") {
     const previous = startRound(
       state,
       { mode: "ueben", topic: "Alle Themen", difficulty: "leicht" },
-      now.getTime() - 2000,
+      now.getTime() - 20 * 60_000,
     );
     previous.questions = qs;
     previous.order = qs.map((q) => q.answers.map((a) => a.id));
@@ -41,9 +54,9 @@ async function prepare(page: Page, mode: Mode = "ueben") {
         q.id,
         q.answers.find((a) => a.id !== q.correctId)!.id,
         100,
-        now.getTime() - 1000,
+        now.getTime() - 19 * 60_000,
       );
-    complete(state, previous.id, now.getTime() - 500);
+    complete(state, previous.id, now.getTime() - 18 * 60_000);
   }
   let round = startRound(
     state,
@@ -68,12 +81,9 @@ async function prepare(page: Page, mode: Mode = "ueben") {
   await page.reload();
   if (mode === "rekord") {
     await page.getByRole("button", { name: "Losspielen" }).click();
-    round = (await readState(page)).rounds.at(-1)!;
   } else await page.getByRole("button", { name: "Fortsetzen" }).click();
-  await page.clock.runFor(50);
-  await expect(
-    page.getByRole("button", { name: "Keine Ahnung", exact: true }),
-  ).toBeEnabled();
+  await waitForAnswers(page);
+  if (mode === "rekord") round = (await readState(page)).rounds.at(-1)!;
   return round;
 }
 
@@ -136,7 +146,7 @@ for (const mode of ["entdecken", "ueben", "rekord", "fehler"] as const) {
     await expect(page.locator(".feedback-outcome")).toContainText(
       "Nicht gewusst",
     );
-    await expect(page.locator(".feedback")).not.toContainText(
+    await expect(page.locator(".feedback-outcome")).not.toContainText(
       "Zeit abgelaufen",
     );
     await expect(page.locator(".explanation")).toBeVisible();
@@ -163,8 +173,11 @@ for (const mode of ["entdecken", "ueben", "rekord", "fehler"] as const) {
       path: `test-results/keine-ahnung-normal-${mode}-${info.project.name}.png`,
     });
     await page.getByRole("button", { name: "Nächste Frage" }).click();
-    for (const [i, q] of round.questions.slice(1).entries()) {
-      await page.clock.runFor(50);
+    const questionCount = mode === "rekord" ? 10 : round.questions.length;
+    for (let index = 1; index < questionCount; index++) {
+      await waitForAnswers(page);
+      const q = (await readState(page)).rounds.find((r) => r.id === round.id)!
+        .questions[index];
       await page
         .locator(".answer")
         .filter({
@@ -179,26 +192,13 @@ for (const mode of ["entdecken", "ueben", "rekord", "fehler"] as const) {
       await page
         .getByRole("button", {
           name:
-            i === round.questions.length - 2
-              ? "Runde abschließen"
-              : "Nächste Frage",
+            index === questionCount - 1 ? "Runde abschließen" : "Nächste Frage",
         })
         .click();
     }
     await expect(page.locator(".result-metrics")).toContainText(
       "davon 1 × Keine Ahnung",
     );
-    const completed = (await readState(page)).rounds.find(
-      (r) => r.id === round.id,
-    )!;
-    if (completed.unlocks?.length) {
-      const celebration = page.getByRole("button", {
-        name: "Weiter zum Ergebnis",
-        exact: true,
-      });
-      await expect(celebration).toBeVisible();
-      await celebration.click();
-    }
     await expect(
       page
         .locator(".result-answer-strip")
@@ -212,9 +212,9 @@ for (const mode of ["entdecken", "ueben", "rekord", "fehler"] as const) {
     await expect(page.locator(".review > details").first()).toContainText(
       "Keine Ahnung",
     );
-    await expect(page.locator(".review > details").first()).not.toContainText(
-      "Zeit abgelaufen",
-    );
+    expect(
+      (await readState(page)).events.find((e) => e.roundId === round.id),
+    ).toMatchObject({ dontKnow: true, answerId: null, correct: false });
   });
 }
 
@@ -252,7 +252,7 @@ test("Neuladen während der Lösungsanzeige bewahrt die Wahl; Fortsetzen speiche
     (await readState(page)).events.filter((e) => e.roundId === round.id),
   ).toHaveLength(1);
   await page.getByRole("button", { name: "Nächste Frage" }).click();
-  await page.clock.runFor(50);
+  await waitForAnswers(page);
   await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
   await expect(page.locator(".solution-reveal")).toBeVisible();
   await page.clock.runFor(1100);

@@ -105,12 +105,22 @@ for (const width of [320, 1440]) {
     });
     await sources.locator("summary").click();
     await sources.getByLabel("Filmfragen", { exact: true }).uncheck();
-    await sources.locator("summary").click();
+    await expect(page.locator(".round-setup")).toHaveAttribute(
+      "aria-busy",
+      "false",
+    );
+    if (await sources.evaluate((node) => (node as HTMLDetailsElement).open))
+      await sources.locator("summary").click();
     await expect(start).toBeDisabled();
     await expect(sources.locator("summary")).toContainText("Keine Bereiche");
     await sources.locator("summary").click();
     await sources.getByLabel("Schauspieler", { exact: true }).check();
-    await sources.locator("summary").click();
+    await expect(page.locator(".round-setup")).toHaveAttribute(
+      "aria-busy",
+      "false",
+    );
+    if (await sources.evaluate((node) => (node as HTMLDetailsElement).open))
+      await sources.locator("summary").click();
     await expect(start).toBeEnabled();
     await expect(sources.locator("summary")).toContainText("Schauspieler");
     await expect(films.locator("summary")).toContainText("derzeit abgewählt");

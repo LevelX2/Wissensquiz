@@ -1,4 +1,4 @@
-import { readStoredState, writeStoredState } from "./fixtures";
+import { readStoredState, writeStoredState, fixCalendarTime } from "./fixtures";
 import { test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -9,6 +9,8 @@ import { answer, complete, startRound } from "../../src/engine";
 test("Sammlung filtert gewählte Antworten einschließlich Fehlern, bietet leeren Zustand und erhält Fortschritt", async ({
   page,
 }) => {
+  const now = Date.parse("2026-10-10T12:00:00Z");
+  await fixCalendarTime(page, new Date(now + 60000));
   await page.setViewportSize({ width: 320, height: 800 });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
@@ -19,10 +21,15 @@ test("Sammlung filtert gewählte Antworten einschließlich Fehlern, bietet leere
     .click();
   await expect(page.locator(".topic-card")).toHaveCount(0);
   await expect(
-    page.getByText(/Noch keine Einträge mit beantworteten Fragen/),
+    page.getByText("Für diese Auswahl gibt es noch keine Einträge.", {
+      exact: true,
+    }),
   ).toBeVisible();
-  await page.getByRole("button", { name: "Alle Einträge anzeigen" }).click();
-  await expect(page.locator(".topic-card")).toHaveCount(779);
+  await filter.getByRole("button", { name: "Alle", exact: true }).click();
+  await expect(page.locator(".topic-card")).toHaveCount(40);
+  await expect(
+    page.getByRole("button", { name: "Weitere Themen →", exact: true }),
+  ).toBeVisible();
 
   const questions = importCsv(
     readFileSync("public/horror-fragen.csv", "utf8"),
@@ -35,23 +42,28 @@ test("Sammlung filtert gewählte Antworten einschließlich Fehlern, bietet leere
     ).values(),
   ].slice(0, 3);
   const state = emptyState(questions);
-  const round = startRound(state, {
-    mode: "entdecken",
-    topic: "Alle Themen",
-    difficulty: "leicht",
-  });
+  const round = startRound(
+    state,
+    {
+      mode: "entdecken",
+      topic: "Alle Themen",
+      difficulty: "leicht",
+    },
+    now,
+  );
   round.questions = qs;
   round.order = qs.map((q) => q.answers.map((a) => a.id));
-  answer(state, round.id, qs[0].id, qs[0].correctId, 1000);
+  answer(state, round.id, qs[0].id, qs[0].correctId, 1000, now + 1000);
   answer(
     state,
     round.id,
     qs[1].id,
     qs[1].answers.find((a) => a.id !== qs[1].correctId)!.id,
     1000,
+    now + 2000,
   );
-  answer(state, round.id, qs[2].id, null, 30000);
-  complete(state, round.id);
+  answer(state, round.id, qs[2].id, null, 30000, now + 32000);
+  complete(state, round.id, now + 33000);
   state.favorites = [qs[2].topic];
   await writeStoredState(page, state);
   await page.reload();
@@ -84,7 +96,10 @@ test("Sammlung filtert gewählte Antworten einschließlich Fehlern, bietet leere
   ).toEqual([]);
   await page.screenshot({ path: "test-results/sammlung-filter-320.png" });
   await filter.getByRole("button", { name: "Alle", exact: true }).click();
-  await expect(page.locator(".topic-card")).toHaveCount(779);
+  await expect(page.locator(".topic-card")).toHaveCount(40);
+  await expect(
+    page.getByRole("button", { name: "Weitere Themen →", exact: true }),
+  ).toBeVisible();
   expect(await readState()).toBe(before);
 });
 

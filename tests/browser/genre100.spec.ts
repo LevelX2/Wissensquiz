@@ -2,9 +2,18 @@ import { writeStoredState } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { test, expect, readStoredState, type Page } from "./fixtures";
 import { startRound } from "../../src/engine";
+import type { Question } from "../../src/model";
 import { questionSourceOf, genreOf } from "../../src/filters";
 import { filmIdentity } from "../../src/familiarity";
 import { catalogCounts } from "../catalog-counts";
+
+// Server questions add presentation snapshots and generate year distractors.
+// Compare catalog content and the correct answer independently of those fields.
+const catalogSnapshot = (questions: Question[]) =>
+  questions.map(({ answers, presentation: _presentation, ...question }) => ({
+    ...question,
+    correctAnswer: answers.find((a) => a.id === question.correctId)!.text,
+  }));
 
 test("enthält 100 Horrorfilme, erhält die früheren Festivaljahre und lädt das Paket nach Neuladen", async ({
   page,
@@ -58,7 +67,9 @@ test("enthält 100 Horrorfilme, erhält die früheren Festivaljahre und lädt da
       (await fetch("/genre100-horror-fragen.csv")).text(),
     ),
   ).toBe(readFileSync("public/genre100-horror-fragen.csv", "utf8"));
-  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+  expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
+    catalogSnapshot(initial.questions),
+  );
 });
 
 test("enthält 100 Fantasyfilme, erhält die vollständige Haupt- und Co-Regie und lädt das Paket nach Neuladen", async ({
@@ -73,7 +84,7 @@ test("enthält 100 Fantasyfilme, erhält die vollständige Haupt- und Co-Regie u
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Fantasy",
   );
   expect(new Set(fantasy.map(filmIdentity)).size).toBe(100);
-  expect(fantasy).toHaveLength(832);
+  expect(fantasy).toHaveLength(834);
   await prepareQuestion(page, "G100-20261008-FANTASY-012-D");
   for (const director of ["Mark Andrews", "Brenda Chapman", "Steve Purcell"]) {
     await expect(page.locator(".question-card h1")).not.toContainText(director);
@@ -97,7 +108,9 @@ test("enthält 100 Fantasyfilme, erhält die vollständige Haupt- und Co-Regie u
       (await fetch("/genre100-fantasy-fragen.csv")).text(),
     ),
   ).toBe(readFileSync("public/genre100-fantasy-fragen.csv", "utf8"));
-  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+  expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
+    catalogSnapshot(initial.questions),
+  );
 });
 
 test("enthält 100 Westernfilme, trennt Hauptregie und zweite Einheit und erhält die Koproduktionsangaben nach Neuladen", async ({
@@ -112,7 +125,7 @@ test("enthält 100 Westernfilme, trennt Hauptregie und zweite Einheit und erhäl
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Western",
   );
   expect(new Set(western.map(filmIdentity)).size).toBe(100);
-  expect(western).toHaveLength(832);
+  expect(western).toHaveLength(833);
   await prepareQuestion(page, "G100-20261008-WESTERN-018-D");
   await expect(page.locator(".question-card h1")).not.toContainText(
     "Don Siegel",
@@ -132,7 +145,9 @@ test("enthält 100 Westernfilme, trennt Hauptregie und zweite Einheit und erhäl
       (await fetch("/genre100-western-fragen.csv")).text(),
     ),
   ).toBe(readFileSync("public/genre100-western-fragen.csv", "utf8"));
-  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+  expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
+    catalogSnapshot(initial.questions),
+  );
 });
 
 test("enthält 100 Rom-Com-Filme, erhält beide bestehenden Regieziele und lädt das Paket nach Neuladen", async ({
@@ -174,7 +189,9 @@ test("enthält 100 Rom-Com-Filme, erhält beide bestehenden Regieziele und lädt
       (await fetch("/genre100-romcom-fragen.csv")).text(),
     ),
   ).toBe(readFileSync("public/genre100-romcom-fragen.csv", "utf8"));
-  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+  expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
+    catalogSnapshot(initial.questions),
+  );
 });
 
 test("enthält 100 Musikfilme, teilt das bestehende Regieziel und erhält den Festival-Erststart nach Neuladen", async ({
@@ -217,7 +234,9 @@ test("enthält 100 Musikfilme, teilt das bestehende Regieziel und erhält den Fe
       (await fetch("/genre100-musik-fragen.csv")).text(),
     ),
   ).toBe(readFileSync("public/genre100-musik-fragen.csv", "utf8"));
-  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+  expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
+    catalogSnapshot(initial.questions),
+  );
 });
 
 async function prepareQuestion(page: Page, id: string) {
@@ -248,7 +267,7 @@ test("enthält 100 Abenteuerfilme, schützt beide Regienamen und lädt das neue 
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Abenteuer",
   );
   expect(new Set(adventure.map(filmIdentity)).size).toBe(100);
-  expect(adventure).toHaveLength(802);
+  expect(adventure).toHaveLength(805);
   await prepareQuestion(page, "G100-20261008-ABENTEUER-038-D");
   await expect(page.locator(".question-card h1")).not.toContainText(
     "Kevin Lima",
@@ -274,8 +293,10 @@ test("enthält 100 Abenteuerfilme, schützt beide Regienamen und lädt das neue 
     ),
   ).toBe(readFileSync("public/genre100-abenteuer-fragen.csv", "utf8"));
   const saved = await readStoredState(page);
-  expect(saved.questions).toEqual(initial.questions);
-  expect(saved.imports).toHaveLength(catalogCounts.packages);
+  expect(catalogSnapshot(saved.questions)).toEqual(
+    catalogSnapshot(initial.questions),
+  );
+  expect(saved.imports).toHaveLength(0);
 });
 
 test("unterscheidet den frühen Erststart von einem späteren Länderstart und zeigt Jahresdaten erst nach der Antwort", async ({
@@ -329,7 +350,9 @@ test("enthält 100 Thrillerfilme, erhält die bestehende Wissenszielidentität u
       (await fetch("/genre100-thriller-fragen.csv")).text(),
     ),
   ).toBe(readFileSync("public/genre100-thriller-fragen.csv", "utf8"));
-  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+  expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
+    catalogSnapshot(initial.questions),
+  );
 });
 
 test("enthält 100 Martial-Arts-Filme, unterscheidet die zweiteilige Erstveröffentlichung und lädt das Paket nach Neuladen", async ({
@@ -346,7 +369,7 @@ test("enthält 100 Martial-Arts-Filme, unterscheidet die zweiteilige Erstveröff
       genreOf(q) === "Martial Arts & Asia-Film",
   );
   expect(new Set(martial.map(filmIdentity)).size).toBe(100);
-  expect(martial).toHaveLength(830);
+  expect(martial).toHaveLength(831);
   const year = initial.questions.find(
     (q) => q.id === "G100-20261008-MARTIALARTS-003-Y",
   )!;
@@ -367,7 +390,9 @@ test("enthält 100 Martial-Arts-Filme, unterscheidet die zweiteilige Erstveröff
       (await fetch("/genre100-martialarts-fragen.csv")).text(),
     ),
   ).toBe(readFileSync("public/genre100-martialarts-fragen.csv", "utf8"));
-  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+  expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
+    catalogSnapshot(initial.questions),
+  );
 });
 
 test("enthält 100 Actionfilme, trennt Hauptregie und zweite Einheit und lädt das Paket nach Neuladen", async ({
@@ -382,7 +407,7 @@ test("enthält 100 Actionfilme, trennt Hauptregie und zweite Einheit und lädt d
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Action",
   );
   expect(new Set(action.map(filmIdentity)).size).toBe(100);
-  expect(action).toHaveLength(828);
+  expect(action).toHaveLength(829);
   await prepareQuestion(page, "G100-20261008-ACTION-009-D");
   await expect(page.locator(".question-card h1")).not.toContainText("Hunt");
   await expect(page.locator(".film-data")).toHaveCount(0);
@@ -405,5 +430,7 @@ test("enthält 100 Actionfilme, trennt Hauptregie und zweite Einheit und lädt d
       (await fetch("/genre100-action-fragen.csv")).text(),
     ),
   ).toBe(readFileSync("public/genre100-action-fragen.csv", "utf8"));
-  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+  expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
+    catalogSnapshot(initial.questions),
+  );
 });

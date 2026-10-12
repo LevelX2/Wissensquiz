@@ -3,6 +3,7 @@ import {
   expect,
   readStoredState,
   accountBackend,
+  testOwner,
   type Page,
 } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
@@ -87,7 +88,18 @@ for (const duration of [500, 4000]) {
       const question = before.rounds
         .find((round) => round.status === "active")!
         .questions.find((q) => q.id === id)!;
+      const backend = accountBackend(page);
+      const issuedAt = await backend.admin(async () => {
+        const result = await backend.db.query<{ issued: number }>(
+          `select floor(extract(epoch from q.issued_at)*1000)::double precision issued
+           from quiz_game_internal.questions q join quiz_game_internal.runs r on r.id=q.run_id
+           where r.owner_id=$1 and r.status='active' and q.question->>'id'=$2`,
+          [testOwner, id],
+        );
+        return result.rows[0].issued;
+      });
       await page.clock.runFor(1000);
+      const answeredAt = await page.evaluate(() => Date.now());
       if (choice === "unknown")
         await page
           .getByRole("button", { name: "Keine Ahnung", exact: true })
@@ -118,7 +130,9 @@ for (const duration of [500, 4000]) {
       const saved = await readStoredState(page);
       expect(saved.events).toHaveLength(before.events.length + 1);
       expect(saved.events.at(-1)?.elapsedMs).toBeGreaterThanOrEqual(1000);
-      expect(saved.events.at(-1)?.elapsedMs).toBeLessThan(1100);
+      // Polling readiness advances the controlled clock too. The reveal
+      // duration must never enter the server's response-time measurement.
+      expect(saved.events.at(-1)?.elapsedMs).toBe(answeredAt - issuedAt);
       if (choice !== "unknown")
         await page.getByRole("button", { name: "Nächste Frage" }).click();
     }
@@ -147,7 +161,7 @@ for (const fail of [false, true]) {
       release = resolve;
     });
     const packets: string[] = [];
-    await page.route("**/rest/v1/rpc/quiz_sync_apply", async (route) => {
+    await page.route("**/rest/v1/rpc/quiz_game_call", async (route) => {
       packets.push(route.request().postData()!);
       if (packets.length === 1) {
         await gate;
@@ -259,7 +273,9 @@ for (const fail of [false, true]) {
       expect(packets).toHaveLength(1);
       release();
       if (fail) {
-        await expect(page.getByText(/Nicht gespeichert:/)).toBeVisible();
+        await expect(page.getByRole("alert")).toContainText(
+          "Die Online-Speicherung konnte nicht bestätigt werden.",
+        );
         await expect(page.locator(".answer.is-submitting")).toHaveCount(0);
         await expect(confirmation).toHaveCount(0);
         await expect(page.locator(".feedback")).toHaveCount(0);
@@ -276,8 +292,11 @@ for (const fail of [false, true]) {
         before.events.length + 1,
       );
       expect(
-        backend.api.calls.filter((call) => call.name === "quiz_sync_apply")
-          .length,
+        backend.api.calls.filter(
+          (call) =>
+            call.name === "quiz_game_call" &&
+            JSON.parse(call.args.request_text as string).action === "answer",
+        ).length,
       ).toBeGreaterThan(0);
     } finally {
       release();

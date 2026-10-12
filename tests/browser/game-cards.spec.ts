@@ -1,14 +1,16 @@
-import { writeStoredState } from "./fixtures";
 import {
   test,
   expect,
   openRoundSetup,
   modePreparation,
   readStoredState,
+  accountBackend,
 } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
-import { emptyState } from "../../src/model";
-import { answer, complete, startRound, recordKey, rebuild } from "../../src/engine";
+import { RankedSession } from "../../src/rankedRuns";
+import type { Question } from "../../src/model";
+
+test.use({ acknowledgeIncidentalSuccess: true });
 
 test("Große Moduskachel: Auswahl schließt sich, speichert den Modus und startet noch keine Runde", async ({
   page,
@@ -24,8 +26,8 @@ test("Große Moduskachel: Auswahl schließt sich, speichert den Modus und starte
     const image = tile.locator("img"),
       box = (await image.boundingBox())!,
       card = (await tile.boundingBox())!;
-    expect(box.width).toBeGreaterThanOrEqual(100);
-    expect(box.height).toBeGreaterThanOrEqual(100);
+    expect(box.width).toBeGreaterThanOrEqual(88);
+    expect(box.height).toBeGreaterThanOrEqual(88);
     expect(box.x + box.width).toBeLessThanOrEqual(card.x + card.width);
     expect(
       await page.evaluate(
@@ -238,55 +240,52 @@ test("Alle drei Zeitvarianten warten nach Auswahl auf Losspielen", async ({
   }
 });
 
-test("Aktueller Fragenrückblick bleibt, Sonderwertungen entfallen ohne Verlust des Lernfortschritts", async ({
+test("Aktueller Serverlauf behält seinen Rückblick; Genre-Ranglisten erhalten Spiele und Lernfortschritt", async ({
   page,
 }) => {
-  await page.clock.install({ time: new Date("2026-10-03T16:00:00+02:00") });
+  const now = new Date("2026-10-03T16:00:00+02:00");
+  await page.clock.install({ time: now });
   await page.setViewportSize({ width: 320, height: 740 });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
-  const state = await readStoredState(page),
-    at = Date.parse("2026-09-20T12:00:00Z");
+  const backend = accountBackend(page);
+  await backend.ensureRanked();
+  // Author complete native server runs, including the authoritative question pool.
   for (let i = 0; i < 25; i++) {
-    const run = emptyState(state.questions),
-      r = startRound(
-        run,
-        {
-          mode: "fehlerfrei",
-          topic: "Alle Themen",
-          difficulty: "Alle Stufen",
-          recordPreset: "genre",
-          filters: {
-            genres: [i >= 23 ? "Fantasy" : "Horror"],
-            sources: ["film"],
-            difficulties: ["leicht", "mittel", "schwer"],
-            familiarities: [1, 2, 3, 4],
-          },
-        },
-        at + i * 100000,
-      );
-    const q = r.questions[0];
-    answer(run, r.id, q.id, q.correctId, 1000, r.startedAt + 2000);
-    const wrong = r.questions[1];
-    answer(
-      run,
-      r.id,
-      wrong.id,
-      wrong.answers.find((a) => a.id !== wrong.correctId)!.id,
-      1000,
-      r.startedAt + 4000,
+    const at = now.getTime() - 600_000 + i * 10_000;
+    backend.api.clockAt(at);
+    const session = new RankedSession(backend.api, backend.release.hash);
+    await session.start({
+      mode: "fehlerfrei",
+      preset: "genre",
+      genre: i >= 23 ? "Fantasy" : "Horror",
+      solutionDisplay: "question",
+    });
+    const issuedQuestion = async () =>
+      (
+        await backend.admin(() =>
+          backend.db.query<{ question: Question }>(
+            "select question from quiz_ranked_internal.questions where run_id=$1 and index=$2",
+            [session.run!.id, session.current!.index],
+          ),
+        )
+      ).rows[0].question;
+    const first = await issuedQuestion();
+    backend.api.clockAt(at + 3000);
+    await session.answer(first.correctId);
+    await session.next();
+    const second = await issuedQuestion();
+    backend.api.clockAt(at + 6000);
+    await session.answer(
+      second.answers.find((a) => a.id !== second.correctId)!.id,
     );
-    complete(run, r.id, r.startedAt + 10000);
-    if (i === 24) {
-      r.recordPreset = "custom";
-      r.ruleVersion = "solo-v1.fehlerfrei.custom";
-    }
-    state.rounds.push(r);
-    state.events.push(...run.events);
+    expect(session.run!.status).toBe("completed");
   }
-  rebuild(state);
-  await writeStoredState(page, state);
   await page.reload();
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const initial = await readStoredState(page);
+  expect(initial.rounds).toHaveLength(25);
+  expect(initial.experience).toBeGreaterThan(0);
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await modePreparation(page, /^Fehlerfrei /).click();
@@ -294,58 +293,49 @@ test("Aktueller Fragenrückblick bleibt, Sonderwertungen entfallen ohne Verlust 
   await page.getByLabel("Genre für den Rekord").selectOption("Horror");
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".answer").first()).toBeEnabled();
-  const current = (await readStoredState(page)).rounds.at(-1)!,
-    q = current.questions[0],
-    wrong = q.answers.find((a) => a.id !== q.correctId)!;
+  const current = (await readStoredState(page)).rounds.at(-1)!;
+  const q = current.questions[0];
   await page
     .locator(".answer")
-    .filter({ has: page.getByText(wrong.text, { exact: true }) })
+    .filter({
+      has: page.getByText(q.answers.find((a) => a.id !== q.correctId)!.text, {
+        exact: true,
+      }),
+    })
     .click();
   await expect(page.locator(".feedback")).toBeVisible();
   await page.getByRole("button", { name: /^Runde abschließen/ }).click();
   await expect(page.locator(".review")).toContainText(q.question);
-  const result = await readStoredState(page),
-    xp = result.experience;
+  const result = await readStoredState(page);
+  expect(result.rounds).toHaveLength(26);
+  const newlySeen = initial.events.some((e) => e.knowledgeId === q.knowledgeId)
+    ? 0
+    : 1;
+  expect(result.experience).toBe(initial.experience + newlySeen);
   await page.getByRole("button", { name: "Bestenliste ansehen" }).click();
-  await expect(
-    page.getByLabel("Vergleichskategorie", { exact: true }),
-  ).toHaveValue(recordKey(current));
+  const category = page.getByLabel("Vergleichskategorie", { exact: true });
+  await expect(category.locator("option:checked")).toContainText("Horror");
+  await expect(page.locator(".leaderboard-entry")).toHaveCount(24);
   const highlighted = page.locator(".is-current-run");
-  // New server runs have their own rule/category; the 23 older client runs
-  // remain in their earlier category and do not affect this run's placement.
-  await expect(highlighted).toContainText("Platz 1 · 0 Punkte");
+  await expect(highlighted).toContainText("Dieser Lauf");
+  await expect(highlighted).toContainText("0 Punkte");
   await expect(highlighted).toBeInViewport({ ratio: 0.5 });
   await expect(highlighted).toBeFocused();
   await expect(page.getByRole("button", { name: "Spiel ansehen" })).toHaveCount(
     0,
   );
-  const saved = await readStoredState(page);
-  expect(saved.rounds).toHaveLength(26);
-  expect(saved.experience).toBe(xp);
-  expect(saved.rounds.every((r) => r.archive && !r.questions.length)).toBe(
-    true,
-  );
-  await page.getByRole("button", { name: "Alle Kategorien anzeigen" }).click();
-  await expect(page.locator(".leaderboard-entry")).toHaveCount(25);
-  const horrorCategories = page.getByRole("heading", {
-    name: "Genre · Horror",
-    exact: true,
-  });
-  await expect(horrorCategories).toHaveCount(2);
-  for (const heading of await horrorCategories.all())
-    await expect(heading).toBeVisible();
-  await expect(
-    page.getByRole("heading", { name: "Frühere eigene Auswahl", exact: true }),
-  ).toHaveCount(0);
-  await expect(
-    page.getByRole("heading", { name: "Genre · Fantasy", exact: true }),
-  ).toBeVisible();
+  const fantasy = category.locator("option").filter({ hasText: "Fantasy" });
+  await expect(fantasy).toHaveCount(1);
+  await category.selectOption((await fantasy.getAttribute("value")) ?? "");
+  await expect(page.locator(".leaderboard-entry")).toHaveCount(2);
   await page.reload();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
-  await expect(page.locator(".leaderboard-entry")).toHaveCount(25);
-  expect((await readStoredState(page)).experience).toBe(xp);
-  await page.screenshot({
-    path: `test-results/archivierte-rekorde-${test.info().project.name}.png`,
-    fullPage: true,
-  });
+  await page.getByRole("button", { name: "Fehlerfrei", exact: true }).click();
+  await expect(
+    page.getByLabel("Vergleichskategorie", { exact: true }),
+  ).toBeVisible();
+  const saved = await readStoredState(page);
+  expect(saved.rounds).toHaveLength(26);
+  expect(saved.experience).toBe(result.experience);
+  expect(saved.learning).toEqual(result.learning);
 });

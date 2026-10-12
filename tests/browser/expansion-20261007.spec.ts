@@ -4,6 +4,8 @@ import { readFileSync } from "node:fs";
 import { test, expect, readStoredState, type Page } from "./fixtures";
 import { startRound } from "../../src/engine";
 
+test.use({ acknowledgeIncidentalSuccess: true });
+
 async function prepareQuestion(page: Page, id: string) {
   const state = await readStoredState(page),
     catalog = state.questions;
@@ -19,7 +21,7 @@ async function prepareQuestion(page: Page, id: string) {
   await page.getByRole("button", { name: "Fortsetzen" }).click();
 }
 
-test("lädt drei neue Pakete einmal, schützt das Regieteam und erhält alle Fragen und Antworten nach Neuladen", async ({
+test("hält die drei Erweiterungspakete serverseitig bereit, schützt das Regieteam und erhält Antworten nach Neuladen", async ({
   page,
   context,
 }) => {
@@ -28,10 +30,10 @@ test("lädt drei neue Pakete einmal, schützt das Regieteam und erhält alle Fra
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const initial = await readStoredState(page);
   expect(initial.questions).toHaveLength(catalogCounts.questions);
-  expect(initial.imports).toHaveLength(catalogCounts.packages);
+  expect(initial.imports).toHaveLength(0);
   expect(
     initial.questions.filter((q) => q.id.startsWith("E20261007-")),
-  ).toHaveLength(2480);
+  ).toHaveLength(2476);
   await prepareQuestion(page, "E20261007-F-180-D");
   await expect(page.locator(".question-card h1")).not.toContainText(
     "Roger Waters",
@@ -62,8 +64,23 @@ test("lädt drei neue Pakete einmal, schützt das Regieteam und erhält alle Fra
       await page.evaluate(async (url) => (await fetch(url)).text(), path),
     ).toBe(readFileSync(`public${path}`, "utf8"));
   const final = await readStoredState(page);
-  expect(final.questions).toEqual(initial.questions);
-  expect(final.imports).toHaveLength(catalogCounts.packages);
+  // Issued questions acquire server presentation snapshots and year options.
+  expect(
+    final.questions.map(({ id, knowledgeId, version, metadata }) => ({
+      id,
+      knowledgeId,
+      version,
+      metadata,
+    })),
+  ).toEqual(
+    initial.questions.map(({ id, knowledgeId, version, metadata }) => ({
+      id,
+      knowledgeId,
+      version,
+      metadata,
+    })),
+  );
+  expect(final.imports).toHaveLength(0);
   expect(
     final.events.filter((e) => e.questionId === "E20261007-F-180-D"),
   ).toHaveLength(1);

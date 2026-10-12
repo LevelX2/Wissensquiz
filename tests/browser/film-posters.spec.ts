@@ -9,6 +9,8 @@ import { emptyState } from "../../src/model";
 import { startRound } from "../../src/engine";
 import AxeBuilder from "@axe-core/playwright";
 
+test.use({ acknowledgeIncidentalSuccess: true });
+
 test("Bildquellen zeigen offizielles TMDB-Logo und Anbieterhinweis", async ({
   page,
 }) => {
