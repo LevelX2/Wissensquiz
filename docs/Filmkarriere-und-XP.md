@@ -1,6 +1,10 @@
 # Filmkarriere und Erfahrungspunkte
 
-## Erhaltener XP-Vertrag bei Eintragssynchronisierung
+## Aktueller Betriebsvertrag – 12.10.2026
+
+Kontorunden werden serverseitig ausgewählt und ausgewertet; der Server leitet XP und Lernstände aus privaten Antwortbelegen ab. Ergebnis und Sammlung erhalten kleine vorbereitete Ansichten. Der Client lädt weder einen Vollkatalog noch eine vollständige Karrierehistorie. Führend ist [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Die folgenden XP-Regeln und Levelhürden gelten weiter; die ausdrücklich historischen Abschnitte zur früheren Speicherung und Übernahme beschreiben keinen aktuellen Speicherweg.
+
+## Historischer Stand vom 03.10.2026: XP bei Eintragssynchronisierung
 
 03.10.2026 lokal umgesetzt, noch nicht veröffentlicht: Karriere-XP werden weiterhin durch den bestehenden App-Replay berechnet. Die Speicher-/Ranglistenoptimierung vereinfacht sie nicht zu einem Zähler je Antwort. Tagesgrenzen, Varianten desselben Wissensziels, Erstlösung, Fehlerkorrektur, Festigung, ursprüngliche Lernstände und `career.legacyBonus` bleiben vollständig erhalten. Die kleine SQL-Projektion übernimmt bestätigte Karrierewerte nach dem bestehenden v1-Karrierevertrag; der frühere Legacy-Rückfall bleibt in der SQL-Ableitung berücksichtigt.
 
@@ -58,7 +62,7 @@ Nach Abschluss zeigt die Runde ihre tatsächlichen XP mit aufklappbarer Aufschl�
 
 Historische XP verwenden ursprüngliche Rundenfragen und die chronologische Ereignisfolge. Spätere Antworten oder Änderungen am aktuellen Fragenkatalog verändern die Belohnung einer früheren Runde nicht. Neue Runden erhalten auch im laufenden Objekt einen eigenen geklonten Inhaltssnapshot.
 
-## Umstellung bestehender Spielstände
+## Historische Umstellung bestehender Spielstände (02.10.2026)
 
 Ohne Karrierekennung wird zunächst die ursprüngliche Erfahrung aus `10 × abgeschlossene Runden` rekonstruiert. Ein übermittelter alter XP-Zähler gilt nicht als Nachweis. Das bisherige Level und sein anteiliger Fortschritt werden in die neue Kurve übertragen; die Historie wird zusätzlich nach den neuen XP-Regeln ausgewertet.
 
@@ -74,7 +78,7 @@ Die zusätzliche Spielerwertung **Level & XP** sortiert absteigend nach Gesamt-X
 
 Noch nicht umgestellte Online-Stände liefern zunächst den übertragenen alten Mindeststand. Die erste neue App-Sitzung berechnet die Historie vollständig und sichert den resultierenden Karrierewert automatisch. Bestätigte Konten ohne Spielstand erscheinen ungefiltert mit 0 XP und Level 1. Die Ranglisten teilen ausschließlich Spielername und Ergebniswerte; private Spielstände, E-Mails und Konto-IDs bleiben geschützt. XP sind gespeicherte browserbasierte Trainingswerte, kein unabhängig geprüfter Wettbewerb.
 
-## Implementierung und Nachweis
+## Historische Implementierung und Nachweis (03.10.2026)
 
 Lokale Optimierung vom 03.10.2026: Eine neue Antwort in einer noch offenen Runde aktualisiert das betreffende Wissensziel, ohne die gesamte Karrierehistorie erneut abzuspielen. XP, Rekorde und Freischaltungen bleiben bis zum Abschluss unverändert. Bei rückdatierten Antworten oder einer Rate-Korrektur vor späteren Ereignissen erfolgt weiterhin der vollständige Replay. Abschluss und Sicherungsprüfung verwenden ebenfalls die vollständige Berechnung; Rekordpunkte werden dabei einmal je Runde aufsummiert. Vergleichstests prüfen identische Zustände nach beiden Wegen. Der lokale Katalog wird getrennt gespeichert; [Speichervertrag](Lernregeln.md#datenintegrität-und-sicherung).
 
@@ -89,6 +93,6 @@ Lokale Optimierung vom 03.10.2026: Eine neue Antwort in einer noch offenen Runde
 
 Abzeichen nach 1, 10, 50 und 100 perfekten abgeschlossenen Zehnerrunden, insgesamt über alle Genres, Film-, Schauspieler- und Preisfragen sowie Spielmodi. Die Runden müssen nicht aufeinander folgen. Jede Runde zählt höchstens einmal und muss genau zehn verschiedene Filmfakten mit zehn gewählten, sicher richtigen Antworten enthalten. Fehler, Zeitablauf, „Keine Ahnung“, geratene Treffer, verkürzte oder abgebrochene Runden zählen nicht. Die UI bezeichnet die Stufen als „Erste perfekte Zehnerrunde“ und „10/50/100 perfekte Zehnerrunden“. Keine zusätzlichen XP-Boni und keine Änderung der Levelkurve.
 
-Der Server führt eine private vorbereitete Zeile je qualifizierter Runde und einen Gesamtzähler. Bei Änderungen wird nur die betroffene Zehnerrunde anhand ihrer eigenen indizierten Antwortbelege geprüft; Ergebnis und Sammlung verwenden bestehende Abfragen. Keine neue RPC, kein Clientkatalog und keine vollständige Historienabfrage im normalen Abruf. Bestehende aktuelle Runden werden einmal aus demselben Format abgeleitet, ohne historische Adapter oder Änderungen an Antworten, Lernständen und XP. Die Sammlung zeigt erreichte und noch gesperrte Abzeichen. Erst der aktuelle erfolgreiche Rundenabschluss darf den Dialog und den Ton auslösen; Neuladen und historischer Rückblick feiern nicht erneut. Reset/Import erneuern die Ableitung aus dem aktuellen Stand.
+Der Server führt eine private vorbereitete Zeile je qualifizierter Runde und einen Gesamtzähler. Bei Änderungen wird nur die betroffene Zehnerrunde anhand ihrer eigenen indizierten Antwortbelege geprüft; Ergebnis und Sammlung verwenden bestehende Abfragen. Keine neue RPC, kein Clientkatalog und keine vollständige Historienabfrage im normalen Abruf. Ein reiner Abzeichenbeleg (etwa bei Zeitrunden) enthält keine Lern-/XP-Aufschlüsselung; die Ergebnisansicht behandelt beide aktuellen Belegarten ausdrücklich. Bestehende aktuelle Runden werden einmal aus demselben Format abgeleitet, ohne historische Adapter oder Änderungen an Antworten, Lernständen und XP. Die Sammlung zeigt erreichte und noch gesperrte Abzeichen. Erst der aktuelle erfolgreiche Rundenabschluss darf den Dialog und den Ton auslösen; Neuladen und historischer Rückblick feiern nicht erneut. Reset/Import erneuern die Ableitung aus dem aktuellen Stand.
 
 Die Serveransichten invalidieren ihren RAM-Cache ausdrücklich über die bestätigte Serverrevision. Der Wechsel hängt nicht davon ab, ob sich die Uhrzeit der letzten Bestätigung geändert hat; so erscheint ein neues Abzeichen sofort auch in der Sammlung.

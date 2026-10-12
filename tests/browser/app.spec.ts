@@ -8,14 +8,7 @@ import {
   readStoredState,
   type Page,
 } from "./fixtures";
-import { readFileSync } from "node:fs";
-import { importCsv } from "../../src/importer";
-import { packages } from "../../src/packages";
 import { startRound } from "../../src/engine";
-import type { Question, State } from "../../src/model";
-const imported = packages.flatMap(
-  (p) => importCsv(readFileSync(`public${p.path}`, "utf8")).questions,
-);
 async function launch(page: Page) {
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
@@ -41,6 +34,7 @@ async function resumeFilmFixture(page: Page, topic: string) {
   await page.getByRole("button", { name: "Fortsetzen" }).click();
 }
 async function answerCurrent(page: Page, correct = true) {
+  await expect(page.locator(".question-card .answer").first()).toBeEnabled();
   const questionId = await page
     .locator(".question-card h1")
     .getAttribute("data-question-id");
@@ -393,7 +387,7 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
   const negative = (await counters()).notes.slice(-2);
   expect(negative[1].frequency).toBeLessThan(negative[0].frequency);
   expect(negative[0].frequency).toBeLessThan(positive[0].frequency);
-  expect(negative.every((n) => n.type === "triangle")).toBe(true);
+  expect(negative.every((n) => n.type === "sine")).toBe(true);
   expect(negative[1].end - negative[0].start).toBeLessThanOrEqual(0.3);
   expect((await counters()).vibrations).toContain(45);
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
@@ -448,20 +442,34 @@ test("Rekordübersicht zeigt Einzelgenre und festen Stufenmix ohne Darstellungsf
   await page.getByLabel("Genre für den Rekord").selectOption("Horror");
   await page.getByRole("button", { name: "Losspielen" }).click();
   for (let i = 0; i < 10; i++) {
-    await answerCurrent(page);
+    const question = await answerCurrent(page);
     await page
       .getByRole("button", {
         name: i === 9 ? "Runde abschließen" : "Nächste Frage",
       })
       .click();
+    if (i < 9)
+      await expect(page.locator(".question-card h1")).not.toHaveAttribute(
+        "data-question-id",
+        question.id,
+      );
   }
+  const success = page.getByRole("dialog");
+  await expect(success).toBeVisible();
+  await expect(success).toContainText("Erste perfekte Zehnerrunde");
+  await success.getByRole("button", { name: "Weiter zum Ergebnis" }).click();
   await expect(
     page.getByRole("heading", { name: "Eine Runde weiter." }),
   ).toBeVisible();
-  await page.getByRole("button", { name: "Sammlung", exact: true }).click();
-  await expect(page.locator(".leaderboard-category")).toContainText(
-    "Horror · Leicht + Mittel + Schwer · Filmgruppen 1 + 2 + 3 + 4 · 10 Fragen",
+  await expect(page.locator(".result-genres")).toContainText("Horror");
+  await expect(page.locator(".result-genres")).toContainText("10 / 10 richtig");
+  await expect(page.locator(".score-breakdown")).toContainText(
+    "Leicht + Mittel + Schwer",
   );
+  await page.getByRole("button", { name: "Sammlung", exact: true }).click();
+  await expect(
+    page.getByRole("region", { name: "Perfekte Zehnerrunden" }),
+  ).toContainText("1 geschafft");
   await expect(page.locator(".badge-art.locked svg")).toBeVisible();
   await page
     .locator(".badge-panel")
@@ -474,19 +482,7 @@ test("Conjuring zeigt passende Darsteller und Quellen erst in der Vertiefung, au
 }) => {
   await launch(page);
 
-  await page.getByRole("button", { name: "Losspielen" }).click();
-  // Dieser Test prüft die Besetzungsergänzung der ursprünglichen CSV-Fragen.
-  // Die ergänzenden Filmfragen haben eigene, gezielt getestete Zusatztexte.
-  await (async () => {
-    const s = await readStoredState(page),
-      q = imported.find((q) => q.topic === "Conjuring")!,
-      r = s.rounds.find((r) => r.status === "active")!;
-    r.questions = [q];
-    r.order = [q.answers.map((a) => a.id)];
-    await writeStoredState(page, s);
-  })();
-  await page.reload();
-  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  await resumeFilmFixture(page, "Conjuring");
   await expect(page.locator(".cast-context")).toHaveCount(0);
   await answerCurrent(page);
   await expect(page.locator(".cast-context")).not.toBeVisible();
@@ -583,7 +579,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   );
   const secondQuestion = await answerCurrent(page, false);
   await expect(
-    page.getByText("Die richtige Antwort:", { exact: false }),
+    page.getByText("Richtige Antwort:", { exact: false }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Nächste Frage" }).click();
   await expect(page.locator(".question-card h1")).not.toHaveAttribute(

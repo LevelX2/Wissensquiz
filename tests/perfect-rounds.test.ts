@@ -97,7 +97,7 @@ it("zählt perfekte abgeschlossene Zehnerrunden inkrementell, privat und ohne do
             scope: `perfect-${i}`,
           }),
         }),
-      ).toMatchObject({ perfectTens: i });
+      ).toEqual({ perfectTens: i });
     await insert("short", 9);
     await insert("guessed", 10, true);
     await insert("wrong", 10, false, false);

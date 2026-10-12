@@ -64,10 +64,10 @@ export function Result({
     [state, remoteReward],
   );
   const serverReward = useServerView<{
-    xp: XpBreakdown;
-    learning: (LearningEvidence & { eventId: string })[];
-    before: number;
-    after: number;
+    xp?: XpBreakdown;
+    learning?: (LearningEvidence & { eventId: string })[];
+    before?: number;
+    after?: number;
     perfectTens: number;
   } | null>(
     remoteReward ? { action: "round-experience", scope: round.id } : null,
@@ -262,15 +262,18 @@ export function Result({
         </div>
       )}
       <div className="result-progress">
-        {roundXp && roundProgress && (
-          <RoundExperience
-            key={round.id}
-            xp={roundXp}
-            before={roundProgress.before}
-            after={roundProgress.after}
-            celebrate={celebrate}
-          />
-        )}
+        {roundXp &&
+          roundProgress &&
+          roundProgress.before !== undefined &&
+          roundProgress.after !== undefined && (
+            <RoundExperience
+              key={round.id}
+              xp={roundXp}
+              before={roundProgress.before}
+              after={roundProgress.after}
+              celebrate={celebrate}
+            />
+          )}
         {serverReward.error && (
           <p role="alert">
             Deine Rundenerfahrung konnte nicht geladen werden.{" "}
@@ -439,7 +442,7 @@ export function Result({
                   {e.guessed && <p className="muted">Als geraten markiert.</p>}
                   <LearningProgress
                     events={state.events}
-                    evidence={serverReward.value?.learning.find(
+                    evidence={serverReward.value?.learning?.find(
                       (x) => x.eventId === e.id,
                     )}
                     event={e}

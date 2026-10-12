@@ -2075,3 +2075,8 @@ Separate Abnahme des abgegrenzten Commitstands: Build, neun fokussierte Logiktes
 ## 12.10.2026 – Zentrale Main-Abnahme vor Version 75
 
 Gemeinsamer Stand mit Antwortleiste, gebündeltem Lernfortschritt, Tonkorrekturen, Mifune-Redaktion sowie Level-/Zehner-Erfolgen: 435/435 Tests in 72 Dateien bestanden. Drei umfassende funktionale Bestandsprüfungen benötigen auch isoliert mehr als ihre bisherigen 5/15 Sekunden; ausschließlich diese auf 30 Sekunden begrenzt, keine fachliche Erwartung geändert. Browserprüfung korrigiert veraltete Erwartungen und prüft den aktuellen Serverbestand statt sieben alten Client-Paketständen. Versionsbuild und gemeinsame Browserabnahme folgen; Freigabe erst nach erfolgreicher Abnahme.
+
+
+## 12.10.2026 – Zentrale Abnahme Version 75 abgeschlossen
+
+435 zentrale Tests in 72 Dateien, abschließender TypeScript-/Versionsbuild und 93 unterschiedliche Browserfälle einschließlich erfolgreicher Nachprüfungen bestanden. Alte Einstiegsprüfungen auf aktuelle Server-/Oberflächenverträge und asynchrone Fragenwechsel ausgerichtet. Echter Absturz bei perfekten Zeitrunden behoben: reiner Abzeichenbeleg enthält keine Lern-/XP-Aufschlüsselung. Ein aktueller Belegtyp, keine Altstandkompatibilität. Drei Abzeichentests und 15 Karriere-/Erfolgsfälle nach der Korrektur erneut erfolgreich; gezielte perfekte Zeitrunde mit Dialog, Ergebnis und Sammlung bestanden. Veröffentlichung des gemeinsamen Main-Stands folgt.

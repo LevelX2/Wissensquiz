@@ -205,15 +205,19 @@ export async function isolateAccountService(
     }
   });
   if (options.autoLogin !== false)
-    await context.addInitScript((value) => {
-      if (!sessionStorage.getItem("test-auth-initialized")) {
-        localStorage.setItem(
-          "wissensquiz-auth:quiz-test.supabase.co",
-          JSON.stringify(value),
-        );
-        sessionStorage.setItem("test-auth-initialized", "yes");
-      }
-    }, session);
+    await context.addInitScript(
+      (value) => {
+        if (location.origin !== value.origin) return;
+        if (!sessionStorage.getItem("test-auth-initialized")) {
+          localStorage.setItem(
+            "wissensquiz-auth:quiz-test.supabase.co",
+            JSON.stringify(value.session),
+          );
+          sessionStorage.setItem("test-auth-initialized", "yes");
+        }
+      },
+      { session, origin: new URL(testBaseUrl).origin },
+    );
   return backend;
 }
 export async function readStoredState(

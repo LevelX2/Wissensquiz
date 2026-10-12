@@ -256,7 +256,7 @@
 - [Erklärungstiefe und geprüfte Darstellerergänzungen](../../../docs/Erklaerungstiefe.md)
 - [Fragenweiser Nachweis der Darstellerprüfung](../../../docs/Darstellerpruefung.json)
 - [Lernregeln, Fehlertraining, Rundenauswertung, Speicher- und Offlinevertrag](../../../docs/Lernregeln.md)
-- [Filmkarriere, steigende Level, Leistungs-XP und erhaltene Altstände](../../../docs/Filmkarriere-und-XP.md)
+- [Filmkarriere, steigende Level, serverseitige Leistungs-XP und Zehner-Abzeichen](../../../docs/Filmkarriere-und-XP.md)
 - [Modusvorschlag und Zeitkonto: alle abgeschlossenen Läufe einzeln in den Rekordlisten](../../../docs/Endlos-Rekord-Konzept.md)
 - [Keine Ahnung: bewusste Antwortwahl und Hervorhebung der Lösung](../../../docs/Lernregeln.md#keine-ahnung-als-antwortoption)
 - [Einheitliche Antwortauflösung: vier Antworten für einstellbare 0,5–4 Sekunden, richtige Lösung grün und falsche Auswahl rot](../../../docs/Lernregeln.md#direkt-sichtbare-antwortfarben)
