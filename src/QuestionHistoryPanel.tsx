@@ -65,9 +65,9 @@ export function QuestionHistory({
           Antworten: {stats.goal.guessedCorrect}.
         </p>
         <p>
-          Die Varianten teilen dasselbe Wissensziel und denselben
-          Lernfortschritt. Geratene Treffer zählen hier als richtig, helfen aber
-          nicht beim Festigen.
+          Die Varianten teilen denselben Filmfakt und denselben Lernfortschritt.
+          Geratene Treffer zählen hier als richtig, helfen aber nicht beim
+          Festigen.
         </p>
       </div>
     </details>

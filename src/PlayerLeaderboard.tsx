@@ -175,9 +175,8 @@ export function PlayerLeaderboard({
       </p>
       {sort === "experience" && (
         <p className="tiny muted">
-          Je Wissensziel und UTC-Tag: 1 XP für eine gewählte Antwort und
-          zusätzlich 2 / 3 / 5 XP für eine richtige leichte / mittlere / schwere
-          Antwort.
+          Je Filmfakt und UTC-Tag: 1 XP für eine gewählte Antwort und zusätzlich
+          2 / 3 / 5 XP für eine richtige leichte / mittlere / schwere Antwort.
         </p>
       )}
       {!publicList && sort !== "experience" && (

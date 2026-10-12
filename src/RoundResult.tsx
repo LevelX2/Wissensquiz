@@ -233,7 +233,7 @@ export function Result({
           </div>
           <div>
             <strong>{summary.newGoals}</strong>
-            <span>Neue Wissensziele entdeckt</span>
+            <span>Neue Filmfakten entdeckt</span>
           </div>
           <div>
             <strong>{summary.recovered}</strong>
@@ -248,13 +248,13 @@ export function Result({
         )}
         {improved > 0 && (
           <p>
-            ✧ {improved} Wissensziel{improved === 1 ? "" : "e"} in dieser Runde
+            ✧ {improved} Filmfakt{improved === 1 ? "" : "en"} in dieser Runde
             neu geübt.
           </p>
         )}
         {secure > 0 && (
           <p>
-            ✦ {secure} Wissensziel{secure === 1 ? "" : "e"} nach Abstand
+            ✦ {secure} Filmfakt{secure === 1 ? "" : "en"} nach Abstand
             gefestigt.
           </p>
         )}

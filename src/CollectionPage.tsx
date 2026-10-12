@@ -75,7 +75,7 @@ export function CollectionPage({
           </strong>
           <p>
             {learning.steps} von {learning.maximum} Lernstufen erreicht ·{" "}
-            {learning.mastered} Wissensziele gefestigt
+            {learning.mastered} Filmfakten gefestigt
           </p>
           <progress
             value={learning.steps}
@@ -144,15 +144,14 @@ export function CollectionPage({
                 ? "AUSZEICHNUNG ERWORBEN"
                 : "DEIN NÄCHSTES WISSENSZIEL"}
             </span>
-            <h2>Sci-Fi – 10 leichte Wissensziele gefestigt</h2>
+            <h2>Sci-Fi – 10 leichte Filmfakten gefestigt</h2>
             <p>
               {state.badges.length
                 ? "Deine Auszeichnung bleibt erhalten, auch wenn der Bestand wächst."
-                : "Festige zehn Wissensziele der Stufe „leicht“ aus Film / Science-Fiction. Erfahrungspunkte zählen dafür nicht."}
+                : "Festige zehn Filmfakten der Stufe „leicht“ aus Film / Science-Fiction. Erfahrungspunkte zählen dafür nicht."}
             </p>
             <p>
-              {summary.value?.badge.mastered ?? 0} von 10 Wissenszielen
-              gefestigt
+              {summary.value?.badge.mastered ?? 0} von 10 Filmfakten gefestigt
             </p>
             <small className="muted">
               Begrenzte Auszeichnung für diesen Bestand, kein umfassender

@@ -267,7 +267,7 @@ export function PlaySetup({
                   }`}
                 {" · "}
                 {isEndlessMode(mode)
-                  ? `Endlos · ${runPoolSize} Wissensziele im Pool`
+                  ? `Endlos · ${runPoolSize} Filmfakten im Pool`
                   : `${selection.length} Fragen`}
                 {" · "}
                 {standard
@@ -498,7 +498,7 @@ export function PlaySetup({
                       Genres infrage. Classics und Arthouse begrenzen nur diesen
                       Bereich; zusammen bilden sie eine Vereinigung.
                       Schauspieler und Preisträger bleiben zusätzlich im Pool,
-                      wenn Du sie oben auswählst. Gemeinsame Wissensziele zählen
+                      wenn Du sie oben auswählst. Gemeinsame Filmfakten zählen
                       pro Runde einmal.
                     </p>
                   </fieldset>

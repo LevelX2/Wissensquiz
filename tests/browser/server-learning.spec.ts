@@ -198,7 +198,7 @@ test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
     }),
   ).toHaveAttribute("max", "8");
   await expect(page.locator(".learning-path")).toContainText(
-    "Filmgruppe 1: 0 von 15 leichten Wissenszielen sicher beantwortet",
+    "Filmgruppe 1: 0 von 15 leichten Filmfakten sicher beantwortet",
   );
   await expect(page.locator(".learning-path")).toContainText(
     "2 · Bekannte Filme freischalten: 8 sichere Ziele nötig (50 %)",
@@ -233,7 +233,7 @@ test("zeigt den Gesamtbestand unabhängig von Genre und Bereich und zählt Varia
     "aria-valuenow",
     "0",
   );
-  await expect(overview).toContainText("50er-Medaille · noch 50 Ziele");
+  await expect(overview).toContainText("50er-Medaille · noch 50 Filmfakten");
   const goals = (["film", "actors", "awards"] as const).map((source) =>
     state.questions.find(
       (q) => questionSourceOf(q) === source && q.difficulty === "leicht",
@@ -268,7 +268,7 @@ test("zeigt den Gesamtbestand unabhängig von Genre und Bereich und zählt Varia
   await writeStoredState(page, state);
   await page.reload();
   await expect(overview).toContainText(label);
-  await expect(overview).toContainText("50er-Medaille · noch 47 Ziele");
+  await expect(overview).toContainText("50er-Medaille · noch 47 Filmfakten");
   await expect(overview).not.toContainText(/gefestigt|unentdeckt|von 12/);
   await expect(overview).not.toContainText(
     /Filmgruppe|Martial Arts|Nächste Etappe/,
@@ -328,32 +328,32 @@ test("zeigt genreübergreifende Entdecker-Medaillen ab 50 und 100 Zielen auch na
   const overview = page.getByLabel("Gesamtfortschritt der Filmreise", {
     exact: true,
   });
-  await expect(overview).toContainText("50er-Medaille · noch 1 Ziel");
+  await expect(overview).toContainText("50er-Medaille · noch 1 Filmfakt");
   await seed(50);
-  await expect(overview).toContainText("100er-Medaille · noch 50 Ziele");
+  await expect(overview).toContainText("100er-Medaille · noch 50 Filmfakten");
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   const medals = page.getByRole("region", {
     name: "Entdecker-Medaillen",
     exact: true,
   });
   await expect(
-    medals.getByLabel("Entdecker-Medaille: 50 Wissensziele", { exact: true }),
+    medals.getByLabel("Entdecker-Medaille: 50 Filmfakten", { exact: true }),
   ).toContainText("Erreicht");
   await expect(
-    medals.getByLabel("Entdecker-Medaille: 100 Wissensziele", { exact: true }),
+    medals.getByLabel("Entdecker-Medaille: 100 Filmfakten", { exact: true }),
   ).toContainText("Noch 50");
   await medals.scrollIntoViewIfNeeded();
   await page.screenshot({
     path: testInfo.outputPath("discovery-medals-390.png"),
   });
   await seed(100);
-  await expect(overview).toContainText("250er-Medaille · noch 150 Ziele");
+  await expect(overview).toContainText("250er-Medaille · noch 150 Filmfakten");
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   await expect(
-    medals.getByLabel("Entdecker-Medaille: 50 Wissensziele", { exact: true }),
+    medals.getByLabel("Entdecker-Medaille: 50 Filmfakten", { exact: true }),
   ).toContainText("Erreicht");
   await expect(
-    medals.getByLabel("Entdecker-Medaille: 100 Wissensziele", { exact: true }),
+    medals.getByLabel("Entdecker-Medaille: 100 Filmfakten", { exact: true }),
   ).toContainText("Erreicht");
 });
 

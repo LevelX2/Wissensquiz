@@ -25,7 +25,7 @@ export function LearningProgress({
     <details
       key={event.id}
       className="learning-progress"
-      aria-label="Lernfortschritt dieses Wissensziels"
+      aria-label="Lernfortschritt dieses Filmfakts"
     >
       <summary className="illustrated-summary">
         <DisclosureArtwork subject="learning" />

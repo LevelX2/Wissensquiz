@@ -10,7 +10,7 @@ export function Help() {
         <summary>Wie komme ich von „geübt“ zu „gefestigt“?</summary>
         <ol className="learning-steps">
           <li>
-            <strong>Entdeckt:</strong> Du hast Dich mit dem Wissensziel
+            <strong>Entdeckt:</strong> Du hast Dich mit dem Filmfakt
             beschäftigt, aber noch falsch geantwortet oder geraten.
           </li>
           <li>
@@ -41,10 +41,10 @@ export function Help() {
           richtige Antworten verschieben Deinen Wiederholungstermin und die
           Festigung nicht nach hinten. Der Abstand zählt ab Deiner letzten
           erreichten Lernstufe. Nach der Antwort siehst Du den nächsten Termin.
-          Der Modus „Wiederholen“ enthält ausschließlich fällige Wissensziele
-          aus Deinen gewählten Fragenbereichen. Die Filmreise mischt bei
-          genügend passenden Fragen sechs neue Ziele mit vier fälligen
-          Wiederholungen je Zehnerrunde.
+          Der Modus „Wiederholen“ enthält ausschließlich fällige Filmfakten aus
+          Deinen gewählten Fragenbereichen. Die Filmreise mischt bei genügend
+          passenden Fragen sechs neue Ziele mit vier fälligen Wiederholungen je
+          Zehnerrunde.
         </p>
         <ol>
           <li>Stufe 1: erste sichere Antwort → Wiederholung nach 1 Tag.</li>
@@ -59,8 +59,8 @@ export function Help() {
         </p>
         <p>
           Nach jeder Antwort gilt der nächste Wiederholungstermin. Früher
-          richtig beantwortete Wissensziele kommen ebenso in „Wiederholen“ vor
-          wie falsch beantwortete oder geratene Ziele, sobald sie fällig sind.
+          richtig beantwortete Filmfakten kommen ebenso in „Wiederholen“ vor wie
+          falsch beantwortete oder geratene Ziele, sobald sie fällig sind.
           Fragenvarianten teilen denselben Lernstand. Gefestigte Ziele können
           weiterhin vorkommen.
         </p>
@@ -73,12 +73,13 @@ export function Help() {
         </p>
       </details>
       <details>
-        <summary>Was ist ein Wissensziel?</summary>
+        <summary>Was ist ein Filmfakt?</summary>
         <p>
-          Ein Wissensziel steht für einen bestimmten Zusammenhang, den Du lernen
-          kannst. Mehrere unterschiedlich formulierte Fragen können dasselbe
-          Ziel prüfen. Sie teilen sich den Lernfortschritt und zählen beim
-          Freischalten nur einmal. Daher gibt es mehr Fragen als Wissensziele.
+          Ein Filmfakt ist ein Wissensbaustein über Filme, Schauspieler oder
+          Preise – zum Beispiel, wer bei einem Film Regie führte.
+          Unterschiedlich formulierte Fragen können denselben Fakt prüfen. Sie
+          teilen sich den Lernfortschritt und zählen beim Entdecken und
+          Freischalten nur einmal. Daher gibt es mehr Fragen als Filmfakten.
         </p>
       </details>
       <details>
@@ -102,18 +103,18 @@ export function Help() {
           zufällig aus dem gemeinsamen Pool; feste Anteile je Bereich gibt es
           nicht. „Wiederholen“ enthält ausschließlich fällige Fragen aus den
           gewählten Bereichen. Die Filmreise unterstützt ebenfalls alle drei
-          Bereiche. Schauspieler und Preisträger öffnen ihre Stufen separat: je
-          20 sicher beantwortete Ziele aus der vorherigen Stufe bis zu Experte.
-          Bei Filmfragen bleiben Genre- und Filmgruppenfortschritte erhalten.
+          Bereiche. Schauspieler und Preisträger öffnen ihre Stufen separat:
+          Mindestens 50 Prozent der aktuellen Filmfakten der vorherigen Stufe
+          müssen sicher beantwortet sein, bis hin zu Experte. Bei Filmfragen
+          bleiben Genre- und Filmgruppenfortschritte erhalten.
         </p>
         <p>
           Classics und Arthouse sind kuratierte Filmauswahlen innerhalb Deiner
           Genres: ausgewählte Klassiker sowie Autoren- und Programmkino. Sie
           begrenzen nur den Bereich Filmfragen, zusammen als Vereinigung.
           Zusätzlich ausgewählte Schauspieler- und Preisfragen bleiben im Pool.
-          Jede Frage behält ihren Lernstand; ein Wissensziel wird innerhalb
-          einer Runde einmal ausgewählt, auch wenn mehrere Varianten vorhanden
-          sind.
+          Jede Frage behält ihren Lernstand; ein Filmfakt wird innerhalb einer
+          Runde einmal ausgewählt, auch wenn mehrere Varianten vorhanden sind.
         </p>
       </details>
       <details>
@@ -122,7 +123,7 @@ export function Help() {
           Expertenfragen verlangen vertieftes Film- und Preiswissen, etwa über
           Filmhandwerk, geteilte Auszeichnungen und ungewöhnliche Preisverläufe.
           Du kannst sie im Freien Spiel und in Rekordrunden auswählen; im
-          Wiederholungsmodus wiederholst Du fällige Wissensziele aller gewählten
+          Wiederholungsmodus wiederholst Du fällige Filmfakten aller gewählten
           Bereiche. Die Filmreise führt weiterhin durch leicht, mittel und
           schwer. Eine sichere richtige Expertenantwort bringt wie eine schwere
           Antwort 5 zusätzliche XP.
@@ -147,7 +148,7 @@ export function Help() {
         </p>
         <p>
           Die Auswahl zählt in allen Modi als falsch, in der Rekordrunde gibt es
-          keine Punkte. Das Wissensziel wird nach zehn Minuten wieder fällig. Im
+          keine Punkte. Der Filmfakt wird nach zehn Minuten wieder fällig. Im
           Rückblick steht „Keine Ahnung“. Ein Zeitablauf bleibt davon getrennt.
           Ton und Vibration verwenden Deine bestehenden Optionen; reduzierte
           Animationen werden beachtet.
@@ -163,7 +164,7 @@ export function Help() {
         </p>
         <ul>
           <li>
-            <strong>Filmreise:</strong> Neue Wissensziele entdecken und fällige
+            <strong>Filmreise:</strong> Neue Filmfakten entdecken und fällige
             Ziele wiederholen – ohne Zeitdruck. Bei genügend Auswahl sind es
             sechs neue und vier fällige Ziele je Zehnerrunde. Bekannte Fragen
             ergänzen fehlende Plätze, damit Du weiterreisen kannst. Fragen aus
@@ -173,15 +174,14 @@ export function Help() {
           </li>
           <li>
             <strong>Freies Spiel:</strong> Genres, Schwierigkeit und Bekanntheit
-            frei kombinieren. Zufällige Wissensziele ohne Zeitdruck. In
-            Filmreise und Freiem Spiel werden richtig beantwortete, noch nicht
-            fällige Ziele für 24 Stunden zurückgestellt, solange passende
-            Alternativen vorhanden sind. Das gilt auch für andere Varianten
-            desselben Ziels.
+            frei kombinieren. Zufällige Filmfakten ohne Zeitdruck. In Filmreise
+            und Freiem Spiel werden richtig beantwortete, noch nicht fällige
+            Ziele für 24 Stunden zurückgestellt, solange passende Alternativen
+            vorhanden sind. Das gilt auch für andere Varianten desselben Ziels.
           </li>
           <li>
-            <strong>Wiederholen:</strong> Ausschließlich fällige Wissensziele
-            aus Filmfragen, Schauspieler- und Preisfragen festigen – auch früher
+            <strong>Wiederholen:</strong> Ausschließlich fällige Filmfakten aus
+            Filmfragen, Schauspieler- und Preisfragen festigen – auch früher
             richtig beantwortete. Am längsten fällige Ziele kommen zuerst. Deine
             Filter gelten weiter. Neue und noch nicht fällige Fragen werden
             nicht ergänzt. Im Ergebnis kannst Du fällige Fragen der
@@ -268,7 +268,7 @@ export function Help() {
         <summary>Wie öffne ich neue Schwierigkeiten und Filmgruppen?</summary>
         <p>
           Schauspieler und Preisträger beginnen jeweils mit Leicht. Mindestens
-          50 Prozent der Wissensziele der vorherigen Schwierigkeit müssen sicher
+          50 Prozent der Filmfakten der vorherigen Schwierigkeit müssen sicher
           beantwortet sein, um Mittel, Schwer und schließlich Experte zu öffnen.
           Jeder Bereich zählt getrennt; diese Fragen sind unabhängig von
           Filmgruppen.
@@ -284,13 +284,13 @@ export function Help() {
         <p>
           Die Schwierigkeit und die Filmgruppen entwickeln sich getrennt. Die
           Ziele für Mittel und Schwer entsprechen aufgerundet 50 Prozent der
-          leichten beziehungsweise mittleren Wissensziele im aktuellen
+          leichten beziehungsweise mittleren Filmfakten im aktuellen
           Fragenbestand des Genres, über alle Filmgruppen hinweg. Schwer öffnet
           erst nach Mittel.
         </p>
         <p>
           Die nächste vorhandene Filmgruppe öffnet, wenn Du aufgerundet 50
-          Prozent aller aktuellen leichten Wissensziele der vorherigen Gruppe in
+          Prozent aller aktuellen leichten Filmfakten der vorherigen Gruppe in
           diesem Genre sicher beantwortet hast. Leere Gruppen werden
           übersprungen. Deine konkreten Zähler stehen unter „Deine
           Stufenfortschritte“.
@@ -316,7 +316,7 @@ export function Help() {
         <p>
           Erstmals sicher gelöst: +2 XP. Einen früheren Fehler erstmals sicher
           korrigiert: +4 XP. Erstmals langfristig gefestigt: +8 XP. Diese Boni
-          gibt es jeweils einmal je Wissensziel; Varianten teilen das Ziel.
+          gibt es jeweils einmal je Filmfakt; Varianten teilen denselben Fakt.
           Antwort- und Treffer-XP zählen je Ziel einmal am Tag. Wiederholungen
           am selben Tag können deshalb auch 0 XP bringen.
         </p>
@@ -331,9 +331,9 @@ export function Help() {
         </p>
         <p>
           Das derzeitige Sci-Fi-Abzeichen erhältst Du beim Rundenabschluss,
-          sobald zehn leichte Sci-Fi-Wissensziele gefestigt sind. Einmal
-          erworben bleibt es erhalten. Die Bilder der Genres sind
-          Orientierungshilfen, keine erspielten Abzeichen.
+          sobald zehn leichte Sci-Fi-Filmfakten gefestigt sind. Einmal erworben
+          bleibt es erhalten. Die Bilder der Genres sind Orientierungshilfen,
+          keine erspielten Abzeichen.
         </p>
       </details>
       <details>
@@ -375,9 +375,9 @@ export function Help() {
           Bestätigte Quiz-Konten nehmen automatisch teil. Spielername, Level, XP
           und zusammengefasste Leistungsstatistik sind in der öffentlichen
           Bestenliste sichtbar. Diese Wettbewerbs-XP sind von Deinen privaten
-          Karriere-XP getrennt. Je Wissensziel und UTC-Tag gibt es einmal 1 XP
-          für eine Antwort einschließlich „Keine Ahnung“ und zusätzlich 2 / 3 /
-          5 XP für einen richtigen leichten / mittleren / schweren Treffer.
+          Karriere-XP getrennt. Je Filmfakt und UTC-Tag gibt es einmal 1 XP für
+          eine Antwort einschließlich „Keine Ahnung“ und zusätzlich 2 / 3 / 5 XP
+          für einen richtigen leichten / mittleren / schweren Treffer.
           Gemeinsame Rekordläufe zeigen Spielernamen und Ergebniswerte; Deine
           einzelnen Antworten und persönlichen Duellergebnisse bleiben privat.
           Auch bisherige gesicherte Runden bleiben privat erhalten, zählen aber

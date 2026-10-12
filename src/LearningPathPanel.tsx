@@ -47,7 +47,7 @@ export function JourneyOverview() {
       <div
         className="journey-percent-bar"
         role="progressbar"
-        aria-label="Kennengelernte Wissensziele insgesamt"
+        aria-label="Kennengelernte Filmfakten insgesamt"
         aria-valuemin={0}
         aria-valuemax={100}
         aria-valuenow={percent}
@@ -55,14 +55,14 @@ export function JourneyOverview() {
       >
         <span style={{ width: `${percent}%` }} />
       </div>
-      <strong>{label} insgesamt entdeckt</strong>
+      <strong>{label} des Filmwissens entdeckt</strong>
       {nextMedal ? (
         <small className="journey-discovery-goal">
           <BadgeIcon earned={false} />
           <span>
             {nextMedal.target.toLocaleString("de-DE")}er-Medaille · noch{" "}
             {nextMedal.remaining.toLocaleString("de-DE")}{" "}
-            {nextMedal.remaining === 1 ? "Ziel" : "Ziele"}
+            {nextMedal.remaining === 1 ? "Filmfakt" : "Filmfakten"}
           </span>
         </small>
       ) : medals.every((medal) => medal.earned) ? (
@@ -97,10 +97,10 @@ export function LearningPath({
       </summary>
       <p className="tiny">
         Sichere richtige Antworten aus abgeschlossenen Runden zählen einmal pro
-        Wissensziel – in allen Modi. Geratene Treffer und Varianten erhöhen den
+        Filmfakt – in allen Modi. Geratene Treffer und Varianten erhöhen den
         Zähler nicht. Die Balken zeigen den Fortschritt bis zur Freischaltung.
         Für die nächste Filmgruppe zählen aufgerundet 50 Prozent der aktuellen
-        leichten Ziele der vorherigen Gruppe.
+        leichten Filmfakten der vorherigen Gruppe.
       </p>
       <div className="path-progress">
         {[
@@ -168,8 +168,7 @@ export function LearningPath({
                       <>
                         <span>
                           Filmgruppe {current.level}: {current.answered} von{" "}
-                          {current.total} leichten Wissenszielen sicher
-                          beantwortet
+                          {current.total} leichten Filmfakten sicher beantwortet
                         </span>
                         <span>
                           {familiarityLabel(next.level)} freischalten:{" "}

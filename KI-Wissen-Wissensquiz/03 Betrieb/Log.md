@@ -2031,3 +2031,16 @@ Bereinigung offen: Die automatische Freigabeprüfung lehnt die geprüfte gezielt
 Auf Nutzerwunsch die redundante Überschrift „Spielmodus“ entfernt und die Beschreibung auf „Neues lernen & wiederholen“ gekürzt. Gesamtbalken und Medaillenziel nutzen unter dem Motivkopf die volle Kachelbreite; kurze Texte „0,32 % insgesamt entdeckt“ und „50er-Medaille · noch 47 Ziele“. Motiv mobil auf 88 Pixel verkleinert, Medaillensymbol neben den Text gestellt. Metrik, Freischaltregeln und Medaillenschwellen unverändert, keine zusätzlichen Datenabfragen.
 
 429 Tests in 70 Dateien, TypeScript/Build 74 und zehn gezielte Browserfälle in Chromium, Firefox und mobilem WebKit erfolgreich. 320-/1440-Pixel-Ansicht visuell geprüft, Tastaturbedienung und WCAG-Prüfung erfolgreich. Keine echten Spielstände verändert. [Vertrag](../../docs/Filmreise-Freischaltung-2026-10-11.md#gesamtanzeige-auf-der-startkarte--12102026), [Nutzerauftrag](../01%20Rohquellen/2026-10-12%20Nutzerauftrag%20kompakte%20Filmreisekachel.txt).
+
+## 12.10.2026 – Sichtbarer Begriff Filmfakten
+
+Nutzerwahl „Filmfakten“ statt „Wissensziele“: Startkarte, Sammlung, Profil, Lernanzeige, Rundenergebnis, Ranglisten- und Karrieretexte sowie Hilfe einheitlich angepasst. Gesamtanzeige als „Filmwissen“. Hilfe erklärt Filmfakten als Wissen über Filme, Schauspieler und Preise und gemeinsame Lernstände von Varianten. Interne Wissensziel-IDs, Serverberechnung, Medaillenschwellen und Speicherung unverändert. Prüfung der betroffenen Ansichten läuft vor Veröffentlichung 74.
+
+Begriffsumstellung mit erneut 429 Tests und 14 gezielten Browserfällen einschließlich Medaillengrenzen, Lernstufen und Rundenergebnis erfolgreich. Hilfe zusätzlich an die bereits geltende 50-Prozent-Regel und die Detailansicht für Freischaltungen angeglichen; keine Regeländerung.
+
+
+## 12.10.2026 – Preisfragen korrekt zugeordnet
+
+Die ergänzende Themenprüfung deckt 80 produktive Preisfragen auf, die wegen leerer CSV-Personen-IDs als Schauspielerfragen eingeordnet wurden. Eng begrenzte Korrektur der vier betroffenen SQL-Funktionen, einmalige Neuberechnung der vorbereiteten Übersichten und atomarer Erhalt der privaten Antworten und Lernbelege. Regressionstest für Reparatur und künftige Aktivierung erfolgreich; vollständige Prüfung vor Veröffentlichung läuft. [Vertrag](../../docs/Server-Lernablauf-2026-10-11.md#quellenzuordnung-ohne-leere-schauspieler-identitäten--12102026).
+
+Abschlussprüfung: 430 Tests in 71 Dateien, TypeScript/Build 74, Format-/Diff-Prüfung und 17 gezielte Browserfälle in Chromium, Firefox und mobilem WebKit erfolgreich. Produktive Quellenkorrektur angewendet und separat bestätigt; alle 93 privaten Quelleinträge außer der neu berechneten Filmreise-Projektion mit identischem Fingerabdruck. Keine neuen öffentlichen Funktionsrechte. Kompakte 320-/1440-Pixel-Kachel und Medaillenansicht bei 390 Pixeln visuell geprüft.

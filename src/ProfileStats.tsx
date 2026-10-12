@@ -88,7 +88,7 @@ export function ProfileStats({ state }: { state: State }) {
           Jede Frage zählt einmal, sobald Du geantwortet hast oder die Zeit
           abgelaufen ist.
         </p>
-        <h3>Lernstufen Deiner Wissensziele</h3>
+        <h3>Lernstufen Deiner Filmfakten</h3>
         <dl className="profile-learning-stages">
           {[
             ["Noch nicht gelernt", learning.unseen],
@@ -106,10 +106,10 @@ export function ProfileStats({ state }: { state: State }) {
         </dl>
         <p className="tiny muted">
           {(stats.totalGoals - learning.unseen).toLocaleString("de-DE")} von{" "}
-          {stats.totalGoals.toLocaleString("de-DE")} Wissenszielen im
-          Fragenbestand gelernt. Fragevarianten teilen eine Lernstufe. Sichere
-          Antworten nach dem Wiederholungstermin erhöhen die Stufe; die Abstände
-          wachsen auf 1, 3, 7 und 21 Tage.
+          {stats.totalGoals.toLocaleString("de-DE")} Filmfakten im Fragenbestand
+          gelernt. Fragevarianten teilen eine Lernstufe. Sichere Antworten nach
+          dem Wiederholungstermin erhöhen die Stufe; die Abstände wachsen auf 1,
+          3, 7 und 21 Tage.
         </p>
       </ProfileSection>
       <ProfileSection title="Deine Spielstatistik" subject="statistics">
@@ -123,7 +123,7 @@ export function ProfileStats({ state }: { state: State }) {
               stats.accuracy === null ? "–" : `${stats.accuracy} %`,
             ],
             ["Rekordrunden abgeschlossen", stats.recordRounds],
-            ["Wissensziele gefestigt", stats.mastered],
+            ["Filmfakten gefestigt", stats.mastered],
           ].map(([label, value]) => (
             <div key={label}>
               <dt>{label}</dt>

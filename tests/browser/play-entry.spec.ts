@@ -100,7 +100,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     guide.getByText("Deine Auswahl:", { exact: true }),
   ).toBeVisible();
   await expect(guide).toContainText("geratene Treffer zählen dafür nicht");
-  await expect(guide).toContainText("jedes Wissensziel höchstens einmal");
+  await expect(guide).toContainText("jeder Filmfakt höchstens einmal");
   await page.screenshot({ path: "test-results/rundenhinweis-320.png" });
   expect(
     await page.evaluate(

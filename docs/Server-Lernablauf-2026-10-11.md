@@ -110,3 +110,14 @@ Seit der Backendkorrektur am 11.10.2026 lehnt der ältere Eintragsschreibendpunk
 ## Vollständige Entfernung der Altwege
 
 Der Nutzer verlangt nach der Sofortkorrektur die tatsächliche Entfernung. [Umsetzung, Datenerhalt und Abnahme](Alte-Speicherwege-entfernt-2026-10-11.md). Der Client besitzt danach keinen alternativen Vollkatalogmodus; die alten Endpunkte und Archivtabellen entfallen.
+
+
+## Quellenzuordnung ohne leere Schauspieler-Identitäten – 12.10.2026
+
+Die serverseitige Zuordnung verwendet wie der Client nur eine nicht leere `person_id` als Schauspielermerkmal. Ein vorhandenes CSV-Feld mit leerem Inhalt genügt nicht. Danach entscheidet das Tag `Preisträger`, andernfalls gehört die Frage zum Filmbereich. Dies gilt für Inhaltsaktivierung, sichtbare Frage, Antwortbeleg und die abgeleitete sichere Zielmenge.
+
+Bei der Browserprüfung wurden 80 aktuelle Preisfragen mit leerer Personen-ID im Schauspielerbereich gefunden. Migration `20261012142833_nonempty_actor_source.sql` korrigiert die aktuelle Zuordnung und baut vorbereitete Bereichsmengen und Freischaltübersichten einmal neu auf. Keine zusätzlichen Abfragen im Spielablauf; Frageninhalt, IDs, Antworten und Lernstände bleiben erhalten. Eine atomare Fingerabdruckprüfung der privaten Quelleinträge (ausgenommen die neu berechnete Filmreise-Projektion) bricht bei Abweichung die gesamte Transaktion ab. Inhaltsaktivierung und Kontoschreibzugriffe werden während der Korrektur serialisiert. Bereits ausgegebene Fragenfolgen bleiben bestehen. Kein Altbestandsadapter oder historischer Katalog.
+
+Ein isolierter Datenbanktest prüft Reparatur und folgende Inhaltsaktivierung mit leeren, fehlenden und gesetzten Personen-IDs, korrekte Preiszuordnung, Frage-/Antwortbelege, Duellbestand und unveränderte private Lernbelege.
+
+Produktiv angewendet und separat geprüft: 1.760 Schauspielerfragen, 280 Preisfragen und 10.747 Filmfragen; keine leeren Schauspieleridentitäten. Alle 93 privaten Quelleinträge außer der neu berechneten Filmreise-Projektion mit unverändertem Fingerabdruck. Keine öffentlichen Ausführungsrechte auf den vier internen Funktionen.

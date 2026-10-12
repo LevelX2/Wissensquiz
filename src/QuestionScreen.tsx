@@ -593,8 +593,7 @@ export function QuestionScreen({
                 <Explanation q={q} event={event} />
                 {event.guessed && (
                   <p className="tiny muted">
-                    Deine Punkte bleiben. Dieses Wissensziel kommt früher
-                    wieder.
+                    Deine Punkte bleiben. Dieser Filmfakt kommt früher wieder.
                   </p>
                 )}
                 <LearningProgress

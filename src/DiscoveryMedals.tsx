@@ -6,7 +6,7 @@ export function DiscoveryMedals({ encountered }: { encountered: number }) {
     <section className="discovery-medals" aria-label="Entdecker-Medaillen">
       <h2>Deine Entdecker-Medaillen</h2>
       <p className="muted">
-        Für unterschiedliche kennengelernte Wissensziele – über alle Genres und
+        Für unterschiedliche kennengelernte Filmfakten – über alle Genres und
         Fragenbereiche. Varianten zählen einmal.
       </p>
       <ul>
@@ -14,11 +14,11 @@ export function DiscoveryMedals({ encountered }: { encountered: number }) {
           <li
             key={medal.target}
             className={medal.earned ? "earned" : "locked"}
-            aria-label={`Entdecker-Medaille: ${medal.target.toLocaleString("de-DE")} Wissensziele`}
+            aria-label={`Entdecker-Medaille: ${medal.target.toLocaleString("de-DE")} Filmfakten`}
           >
             <BadgeIcon earned={medal.earned} />
             <strong>{medal.target.toLocaleString("de-DE")}</strong>
-            <span>Wissensziele entdeckt</span>
+            <span>Filmfakten entdeckt</span>
             <small>
               {medal.earned
                 ? "✓ Erreicht"

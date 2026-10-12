@@ -79,7 +79,7 @@ export async function syncFixture(stopBefore?: string) {
     await db.query(
       `insert into quiz_ranked_internal.catalog(release_hash,id,knowledge_id,difficulty,genre,source,question)
       select $1,q->>'id',q->>'knowledgeId',q->>'difficulty',coalesce(nullif(q->'metadata'->>'subdomain',''),q->>'domain'),
-        case when q->'metadata' ? 'person_id' then 'actors' when q->'tags' ? 'Preisträger' then 'awards' else 'film' end,q
+        case when coalesce(q->'metadata'->>'person_id','')<>'' then 'actors' when q->'tags' ? 'Preisträger' then 'awards' else 'film' end,q
       from jsonb_array_elements($2::jsonb) q on conflict do nothing`,
       [release.hash, JSON.stringify(release.questions)],
     );

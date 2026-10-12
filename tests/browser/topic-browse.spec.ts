@@ -4,7 +4,7 @@ import { readFileSync } from "node:fs";
 import { addPackages, packages } from "../../src/packages";
 import { emptyState, type State } from "../../src/model";
 import { genreOf, questionSourceOf } from "../../src/filters";
-import { isCategory, type Category } from "../../src/categories";
+import { categories, isCategory, type Category } from "../../src/categories";
 
 test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzelne Filmauswahl", async ({
   page,
@@ -44,17 +44,25 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
     const qs = state.questions.filter((q) =>
       name === "Horror"
         ? questionSourceOf(q) === "film" && genreOf(q) === name
-        : isCategory(q, name as Category),
+        : name === "Preisträger"
+          ? questionSourceOf(q) === "awards"
+          : isCategory(q, name as Category),
     );
     const expectedTopics = [...new Set(qs.map((q) => q.topic))].sort();
     expect(await page.locator(".topic-card h3").allTextContents()).toEqual(
-      expectedTopics,
+      expectedTopics.slice(0, 40),
     );
     const filmCard = page
       .locator(".topic-card")
       .filter({ has: page.getByRole("heading", { name: film, exact: true }) });
+    while (!(await filmCard.count())) {
+      const first = page.locator(".topic-card h3").first();
+      const previous = await first.textContent();
+      await page.getByRole("button", { name: "Weitere Themen →" }).click();
+      await expect(first).not.toHaveText(previous!);
+    }
     await expect(filmCard.locator(".eyebrow")).toHaveText(
-      `${new Set(qs.filter((q) => q.topic === film).map((q) => q.knowledgeId)).size} Wissensziele`,
+      `${new Set(qs.filter((q) => q.topic === film).map((q) => q.knowledgeId)).size} Filmfakten`,
     );
     expect(await readState()).toEqual(before);
     expect(
@@ -72,7 +80,14 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
         ).violations,
       ).toEqual([]);
       await page.getByRole("button", { name: "Zur Themenübersicht" }).click();
-      await expect(page.locator(".topic-card")).toHaveCount(16);
+      const genreCount = new Set(
+        state.questions
+          .filter((q) => questionSourceOf(q) === "film")
+          .map(genreOf),
+      ).size;
+      await expect(page.locator(".topic-card")).toHaveCount(
+        genreCount + categories.length,
+      );
       await card
         .getByRole("button", { name: "Filme & Reihen ansehen" })
         .click();

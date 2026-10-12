@@ -85,7 +85,7 @@ test("Filmreise zeigt den Gesamtstand; Wiederholen festigt fällige Filmfragen b
   ).toBeVisible();
   await expect(
     page.getByLabel("Gesamtfortschritt der Filmreise"),
-  ).toContainText("insgesamt entdeckt");
+  ).toContainText("des Filmwissens entdeckt");
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   const profile = page.getByRole("region", { name: "Dein Lernstand" });
   await profile.locator("summary").click();
@@ -148,10 +148,10 @@ test("Filmreise zeigt den Gesamtstand; Wiederholen festigt fällige Filmfragen b
     })
     .click();
   await expect(
-    page.getByLabel("Lernfortschritt dieses Wissensziels"),
+    page.getByLabel("Lernfortschritt dieses Filmfakts"),
   ).toContainText("Lernstufe 2 von 4");
   await expect(
-    page.getByLabel("Lernfortschritt dieses Wissensziels"),
+    page.getByLabel("Lernfortschritt dieses Filmfakts"),
   ).toContainText("in 3 Tagen");
 });
 
@@ -324,7 +324,7 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
   await writeState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
-  const feedback = page.getByLabel("Lernfortschritt dieses Wissensziels");
+  const feedback = page.getByLabel("Lernfortschritt dieses Filmfakts");
   await expect(page.locator(".question-genre")).toHaveAccessibleName("Sci-Fi");
   await expect(page.locator(".question-genre")).toHaveText("");
   await expect(page.locator(".question-genre img")).toHaveAttribute(
@@ -431,13 +431,13 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
     insights.locator("div").filter({ hasText: "Frühere Fehler sicher gelöst" }),
   ).toContainText("1");
   await expect(
-    insights.locator("div").filter({ hasText: "Neue Wissensziele entdeckt" }),
+    insights.locator("div").filter({ hasText: "Neue Filmfakten entdeckt" }),
   ).toContainText("1");
   await expect(page.locator(".result-progress")).toContainText(
-    "2 Wissensziele in dieser Runde neu geübt",
+    "2 Filmfakten in dieser Runde neu geübt",
   );
   await expect(page.locator(".result-progress")).toContainText(
-    "1 Wissensziel nach Abstand gefestigt",
+    "1 Filmfakt nach Abstand gefestigt",
   );
   expect((await readState(page)).learning[qs[2].knowledgeId].status).toBe(
     "gefestigt",
@@ -507,7 +507,7 @@ test("frühe sichere Wiederholung erklärt die unveränderte Stufe und erhält d
       }),
     })
     .click();
-  const progress = page.getByLabel("Lernfortschritt dieses Wissensziels");
+  const progress = page.getByLabel("Lernfortschritt dieses Filmfakts");
   await expect(progress).toContainText("Lernstufe 1 von 4");
   await expect(progress).toContainText(
     "Heute hast Du bereits eine Lernstufe erreicht",
@@ -552,9 +552,9 @@ test("gesammelte Lösungen zeigen den Lernfortschritt erst im Rundenrückblick",
   ).toBeVisible();
   await page.locator(".review > details > summary").first().click();
   await expect(
-    page.getByLabel("Lernfortschritt dieses Wissensziels"),
+    page.getByLabel("Lernfortschritt dieses Filmfakts"),
   ).toContainText("Lernstufe 1 von 4");
-  const reviewProgress = page.getByLabel("Lernfortschritt dieses Wissensziels");
+  const reviewProgress = page.getByLabel("Lernfortschritt dieses Filmfakts");
   await expect(
     reviewProgress.locator(".learning-stage-track"),
   ).not.toBeVisible();

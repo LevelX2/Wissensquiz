@@ -186,9 +186,9 @@ export function RoundExperience({
           ))}
         </dl>
         <p className="tiny muted">
-          Antworten und sichere Treffer zählen je Wissensziel einmal pro Tag.
-          Die drei Lernboni bekommst Du jeweils einmal pro Wissensziel.
-          Zeitabläufe bringen keine Antwort-XP.
+          Antworten und sichere Treffer zählen je Filmfakt einmal pro Tag. Die
+          drei Lernboni bekommst Du jeweils einmal pro Filmfakt. Zeitabläufe
+          bringen keine Antwort-XP.
         </p>
       </details>
       {totalXp(xp) === 0 && (

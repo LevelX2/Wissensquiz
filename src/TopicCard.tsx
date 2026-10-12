@@ -56,11 +56,11 @@ export function TopicCard({
         <div className="art-lines" />
       </div>
       <div className="topic-body">
-        <span className="eyebrow">{count} Wissensziele</span>
+        <span className="eyebrow">{count} Filmfakten</span>
         <h3>{genre ? genreLabel(topic) : topic}</h3>
         <div
           className="mini-stats learning-stage-counts"
-          aria-label="Wissensziele nach Lernstufe"
+          aria-label="Filmfakten nach Lernstufe"
         >
           {labels.map((label, i) => (
             <span key={label}>
