@@ -3,7 +3,7 @@ import { modeNames } from "./recordModes";
 
 export type PlayGroup = "learn" | "timed" | "duel";
 export const modeDescriptions: Record<Mode, string> = {
-  entdecken: "Filmwelten und Stufen freischalten",
+  entdecken: "Neues lernen & wiederholen",
   ueben: "Alle Stufen frei kombinieren",
   fehler: "Fällige Fragen gezielt festigen",
   rekord: "30 Sekunden je Frage · zehn Fragen",

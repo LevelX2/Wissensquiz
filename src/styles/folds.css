@@ -152,10 +152,11 @@ details:not(.setup-section) > summary.illustrated-summary::before {
   height: 44px;
 }
 .journey-overview {
+  grid-column: 1 / -1;
   display: grid;
   gap: 5px;
-  margin-top: 12px;
-  padding-top: 10px;
+  margin-top: 4px;
+  padding-top: 8px;
   border-top: 1px solid #c6ab7870;
   font-size: 13px;
   color: #61451d;
@@ -180,7 +181,7 @@ details:not(.setup-section) > summary.illustrated-summary::before {
   height: 100%;
   background: #947037;
 }
-.journey-discovery-goal {
+.mode-selection .journey-discovery-goal {
   display: flex;
   align-items: center;
   gap: 8px;

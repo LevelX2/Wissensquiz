@@ -76,7 +76,7 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
     page.getByRole("button", { name: "Ton an", exact: true }),
   ).toHaveCount(0);
   await openRoundSetup(page);
-  await expect(modePreparation(page, /Filmreise Filmwelten/)).toHaveAttribute(
+  await expect(modePreparation(page, /Filmreise Neues lernen/)).toHaveAttribute(
     "aria-pressed",
     "true",
   );
@@ -85,7 +85,7 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
   ).toHaveCount(12);
   await page.reload();
   await openRoundSetup(page);
-  await expect(modePreparation(page, /Filmreise Filmwelten/)).toHaveAttribute(
+  await expect(modePreparation(page, /Filmreise Neues lernen/)).toHaveAttribute(
     "aria-pressed",
     "true",
   );

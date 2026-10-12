@@ -16,7 +16,7 @@
 }
 .mode-selection > summary .mode-artwork {
   grid-column: 1;
-  grid-row: 1 / 4;
+  grid-row: 1;
   width: 128px;
   height: 128px;
   margin: 0;
@@ -44,14 +44,14 @@
 }
 @media (max-width: 500px) {
   .mode-selection > summary {
-    grid-template-columns: 104px minmax(0, 1fr);
+    grid-template-columns: 88px minmax(0, 1fr);
     min-height: 136px;
     gap: 3px 12px;
     padding: 12px;
   }
   .mode-selection > summary .mode-artwork {
-    width: 104px;
-    height: 104px;
+    width: 88px;
+    height: 88px;
   }
   .mode-selection .setup-section-selection strong {
     font-size: 18px;

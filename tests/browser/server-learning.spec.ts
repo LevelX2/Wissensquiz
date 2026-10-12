@@ -233,9 +233,7 @@ test("zeigt den Gesamtbestand unabhängig von Genre und Bereich und zählt Varia
     "aria-valuenow",
     "0",
   );
-  await expect(overview).toContainText(
-    "Noch 50 neue Wissensziele bis zur 50er-Medaille",
-  );
+  await expect(overview).toContainText("50er-Medaille · noch 50 Ziele");
   const goals = (["film", "actors", "awards"] as const).map((source) =>
     state.questions.find(
       (q) => questionSourceOf(q) === source && q.difficulty === "leicht",
@@ -270,9 +268,7 @@ test("zeigt den Gesamtbestand unabhängig von Genre und Bereich und zählt Varia
   await writeStoredState(page, state);
   await page.reload();
   await expect(overview).toContainText(label);
-  await expect(overview).toContainText(
-    "Noch 47 neue Wissensziele bis zur 50er-Medaille",
-  );
+  await expect(overview).toContainText("50er-Medaille · noch 47 Ziele");
   await expect(overview).not.toContainText(/gefestigt|unentdeckt|von 12/);
   await expect(overview).not.toContainText(
     /Filmgruppe|Martial Arts|Nächste Etappe/,
@@ -332,13 +328,9 @@ test("zeigt genreübergreifende Entdecker-Medaillen ab 50 und 100 Zielen auch na
   const overview = page.getByLabel("Gesamtfortschritt der Filmreise", {
     exact: true,
   });
-  await expect(overview).toContainText(
-    "Noch 1 neues Wissensziel bis zur 50er-Medaille",
-  );
+  await expect(overview).toContainText("50er-Medaille · noch 1 Ziel");
   await seed(50);
-  await expect(overview).toContainText(
-    "Noch 50 neue Wissensziele bis zur 100er-Medaille",
-  );
+  await expect(overview).toContainText("100er-Medaille · noch 50 Ziele");
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   const medals = page.getByRole("region", {
     name: "Entdecker-Medaillen",
@@ -355,9 +347,7 @@ test("zeigt genreübergreifende Entdecker-Medaillen ab 50 und 100 Zielen auch na
     path: testInfo.outputPath("discovery-medals-390.png"),
   });
   await seed(100);
-  await expect(overview).toContainText(
-    "Noch 150 neue Wissensziele bis zur 250er-Medaille",
-  );
+  await expect(overview).toContainText("250er-Medaille · noch 150 Ziele");
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   await expect(
     medals.getByLabel("Entdecker-Medaille: 50 Wissensziele", { exact: true }),

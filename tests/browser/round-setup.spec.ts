@@ -55,9 +55,9 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await modePreparation(page, /Filmreise Filmwelten/).click();
+  await modePreparation(page, /Filmreise Neues lernen/).click();
   await openRoundSetup(page);
-  await expect(modePreparation(page, /Filmreise Filmwelten/)).toHaveAttribute(
+  await expect(modePreparation(page, /Filmreise Neues lernen/)).toHaveAttribute(
     "aria-pressed",
     "true",
   );

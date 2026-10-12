@@ -150,7 +150,6 @@ export function PlaySetup({
           <h2>Wie möchtest Du spielen?</h2>
         </div>
         <SetupSection
-          title="Spielmodus"
           className="mode-selection"
           detailsRef={modePanel}
           open={selectionOpen}
@@ -185,10 +184,12 @@ export function PlaySetup({
                     {learningDueText(repetitions.nextAt, now)}
                   </small>
                 )}
-              {playGroup === "learn" && mode === "entdecken" && (
-                <JourneyOverview />
-              )}
             </>
+          }
+          summaryExtra={
+            playGroup === "learn" && mode === "entdecken" ? (
+              <JourneyOverview />
+            ) : undefined
           }
           actionLabel="Modus ändern"
         >

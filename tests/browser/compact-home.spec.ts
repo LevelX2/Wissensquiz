@@ -10,7 +10,7 @@ import AxeBuilder from "@axe-core/playwright";
 for (const width of [320, 1440]) {
   test(`Startseite bleibt kompakt und Auswahlklappen sind per Tastatur bedienbar bei ${width} Pixeln`, async ({
     page,
-  }) => {
+  }, testInfo) => {
     await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
     await page.setViewportSize({ width, height: 850 });
     await page.goto("/");
@@ -56,12 +56,10 @@ for (const width of [320, 1440]) {
       width <= 760 ? navigationBox.y : page.viewportSize()!.height,
     );
     await page.screenshot({
-      path: `test-results/kompakte-startseite-standard-${width}.png`,
+      path: testInfo.outputPath(`kompakte-startseite-standard-${width}.png`),
       fullPage: true,
     });
-    const mode = page.locator(".setup-section").filter({
-      has: page.locator(".setup-section-title", { hasText: /^Spielmodus$/ }),
-    });
+    const mode = page.locator(".mode-selection");
     const modeSummary = mode.locator("summary");
     await expect(modeSummary).toContainText("Filmreise");
     const before = await readStoredState(page);
@@ -126,7 +124,7 @@ for (const width of [320, 1440]) {
         .violations,
     ).toEqual([]);
     await page.screenshot({
-      path: `test-results/kompakte-startseite-${width}.png`,
+      path: testInfo.outputPath(`kompakte-startseite-${width}.png`),
       fullPage: true,
     });
     await start.click();

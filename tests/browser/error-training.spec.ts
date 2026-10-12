@@ -85,7 +85,7 @@ test("Filmreise zeigt den Gesamtstand; Wiederholen festigt fällige Filmfragen b
   ).toBeVisible();
   await expect(
     page.getByLabel("Gesamtfortschritt der Filmreise"),
-  ).toContainText("des Fragenbestands kennengelernt");
+  ).toContainText("insgesamt entdeckt");
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   const profile = page.getByRole("region", { name: "Dein Lernstand" });
   await profile.locator("summary").click();
@@ -219,7 +219,7 @@ test("kompakte Lernanzeige zählt den fälligen Pool nur beim Wiederholen und ak
   await expect(page.locator(".repetition-overview")).toHaveCount(0);
   await expect(page.locator("#round-summary")).toContainText("10 Fragen");
   await openRoundSetup(page);
-  await modePreparation(page, /Filmreise Filmwelten/).click();
+  await modePreparation(page, /Filmreise Neues lernen/).click();
   await expect(overview).toHaveCount(0);
   await openRoundSetup(page);
   await modePreparation(page, /Wiederholen Fällige Fragen/).click();

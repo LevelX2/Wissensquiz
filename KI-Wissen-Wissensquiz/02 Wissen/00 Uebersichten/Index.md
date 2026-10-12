@@ -4,7 +4,7 @@
 
 - [Version 72: grafischer Gesamtfortschritt, geprüfte Main-Veröffentlichung und offene Bereinigung](../../../docs/Veroeffentlichung-2026-10-12-Version-72.json)
 
-- [Filmreise: Gesamtbalken und genreübergreifende Entdecker-Medaillen – 12.10.2026](../../../docs/Filmreise-Freischaltung-2026-10-11.md#gesamtanzeige-auf-der-startkarte--12102026)
+- [Filmreise: kompakte Kachel, Gesamtbalken und genreübergreifende Entdecker-Medaillen – 12.10.2026](../../../docs/Filmreise-Freischaltung-2026-10-11.md#gesamtanzeige-auf-der-startkarte--12102026)
 
 - [Wiederholen für alle gewählten Bereiche und 24-Stunden-Abstand richtiger Ziele – lokal umgesetzt am 11.10.2026](../../../docs/Wiederholungen-und-Lernstufen-2026-10-10.md#alle-fragenbereiche-und-24-stunden-abstand--11102026)
 

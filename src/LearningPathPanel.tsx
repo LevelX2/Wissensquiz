@@ -55,16 +55,14 @@ export function JourneyOverview() {
       >
         <span style={{ width: `${percent}%` }} />
       </div>
-      <strong>{label} des Fragenbestands kennengelernt</strong>
+      <strong>{label} insgesamt entdeckt</strong>
       {nextMedal ? (
         <small className="journey-discovery-goal">
           <BadgeIcon earned={false} />
           <span>
-            Noch {nextMedal.remaining.toLocaleString("de-DE")}{" "}
-            {nextMedal.remaining === 1
-              ? "neues Wissensziel"
-              : "neue Wissensziele"}{" "}
-            bis zur {nextMedal.target.toLocaleString("de-DE")}er-Medaille
+            {nextMedal.target.toLocaleString("de-DE")}er-Medaille · noch{" "}
+            {nextMedal.remaining.toLocaleString("de-DE")}{" "}
+            {nextMedal.remaining === 1 ? "Ziel" : "Ziele"}
           </span>
         </small>
       ) : medals.every((medal) => medal.earned) ? (

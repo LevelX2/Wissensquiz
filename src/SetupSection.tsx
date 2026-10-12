@@ -3,6 +3,7 @@ import type { ReactNode, Ref } from "react";
 export function SetupSection({
   title,
   selection,
+  summaryExtra,
   illustration,
   actionLabel,
   className = "",
@@ -11,8 +12,9 @@ export function SetupSection({
   open,
   onOpenChange,
 }: {
-  title: string;
+  title?: string;
   selection: ReactNode;
+  summaryExtra?: ReactNode;
   illustration?: ReactNode;
   actionLabel?: string;
   className?: string;
@@ -40,8 +42,9 @@ export function SetupSection({
         }
       >
         {illustration}
-        <span className="setup-section-title">{title}</span>
+        {title && <span className="setup-section-title">{title}</span>}
         <span className="setup-section-selection">{selection}</span>
+        {summaryExtra}
         {actionLabel && (
           <span className="setup-section-action">{actionLabel}</span>
         )}

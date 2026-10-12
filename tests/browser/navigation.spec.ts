@@ -10,7 +10,7 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await openRoundSetup(page);
-  await expect(modePreparation(page, /Filmreise Filmwelten/)).toHaveAttribute(
+  await expect(modePreparation(page, /Filmreise Neues lernen/)).toHaveAttribute(
     "aria-pressed",
     "true",
   );

@@ -200,7 +200,7 @@ test("Lernfilter bleiben bestehen; auch während einer Runde bereitet Auswahl nu
   );
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await openRoundSetup(page);
-  await modePreparation(page, /Filmreise Filmwelten/).click();
+  await modePreparation(page, /Filmreise Neues lernen/).click();
   await expect(page.locator(".mode-selection > summary")).toContainText(
     "Filmreise",
   );

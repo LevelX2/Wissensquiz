@@ -80,7 +80,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await expect(start).toBeEnabled();
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
-  await modePreparation(page, /Filmreise Filmwelten/).click();
+  await modePreparation(page, /Filmreise Neues lernen/).click();
   await openRoundSetup(page);
   await page.setViewportSize({ width: 320, height: 740 });
   await page.evaluate(() => scrollTo(0, 0));
@@ -171,7 +171,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await modePreparation(page, /Filmreise Filmwelten/).click();
+  await modePreparation(page, /Filmreise Neues lernen/).click();
   await expect(page.locator(".mode-selection > summary")).toContainText(
     "Filmreise",
   );
