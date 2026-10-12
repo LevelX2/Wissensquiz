@@ -2044,3 +2044,11 @@ Begriffsumstellung mit erneut 429 Tests und 14 gezielten Browserfällen einschli
 Die ergänzende Themenprüfung deckt 80 produktive Preisfragen auf, die wegen leerer CSV-Personen-IDs als Schauspielerfragen eingeordnet wurden. Eng begrenzte Korrektur der vier betroffenen SQL-Funktionen, einmalige Neuberechnung der vorbereiteten Übersichten und atomarer Erhalt der privaten Antworten und Lernbelege. Regressionstest für Reparatur und künftige Aktivierung erfolgreich; vollständige Prüfung vor Veröffentlichung läuft. [Vertrag](../../docs/Server-Lernablauf-2026-10-11.md#quellenzuordnung-ohne-leere-schauspieler-identitäten--12102026).
 
 Abschlussprüfung: 430 Tests in 71 Dateien, TypeScript/Build 74, Format-/Diff-Prüfung und 17 gezielte Browserfälle in Chromium, Firefox und mobilem WebKit erfolgreich. Produktive Quellenkorrektur angewendet und separat bestätigt; alle 93 privaten Quelleinträge außer der neu berechneten Filmreise-Projektion mit identischem Fingerabdruck. Keine neuen öffentlichen Funktionsrechte. Kompakte 320-/1440-Pixel-Kachel und Medaillenansicht bei 390 Pixeln visuell geprüft.
+
+
+## 12.10.2026 – Version 74 veröffentlicht
+
+Main `48743cd` um 16:42:24 Uhr Europe/Berlin erfolgreich als Version 74 veröffentlicht. 430 Tests, TypeScript/Build, Format-/Diff-Prüfung und 17 gezielte Browserfälle erfolgreich. Archiv und fünf öffentliche Dateien bytegleich, Versionszeit und Quellcommit separat bestätigt. Kompakte Kachel, Filmfakten-Texte und Quellenkorrektur für 80 Preisfragen enthalten; Lernbelege unverändert. Kein GitHub-Push. [Nachweis](../../docs/Veroeffentlichung-2026-10-12-Version-74.json).
+
+
+Bereinigung offen: Die automatische Freigabeprüfung lehnt die geprüfte gezielte Entfernung mit „blocked by policy“ ab. Eigene Veröffentlichungskopie, Archiv, alter Stagingbuild und Diagnosehilfen in `tmp-runtime/compact74` (563.994.671 Bytes), Browserausgaben `test-results/port-4301` (7.653.797 Bytes) und vier zugehörige flache Screenshots bleiben unversioniert erhalten. Der bereits zuvor blockierte aktuelle Build `dist` enthält nun Version 74 (76.633.800 Bytes). Zusammen rund 648 MB; dauerhafter Prüfnachweis gesichert. Nach Aufhebung der Sperre gezielt entfernen; den aktuellen Build nur, wenn keine laufende Prüfung ihn benötigt. Keine aktiven eigenen Testserver.

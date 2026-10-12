@@ -1,0 +1,168 @@
+{
+  "version": 74,
+  "sourceBranch": "main",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "checks": {
+    "unitTests": 430,
+    "unitFiles": 71,
+    "browserCases": 17,
+    "browsers": [
+      "chromium",
+      "firefox",
+      "webkit-mobile"
+    ],
+    "typeScript": true,
+    "buildVersion": 74,
+    "formatAndDiff": true,
+    "mobileWidths": [
+      320,
+      390,
+      1440
+    ]
+  },
+  "data": {
+    "reset": false,
+    "questionContentChanged": false,
+    "migrationRequired": true,
+    "privatePlayerDataUsedForTests": false,
+    "sourceCorrection": {
+      "migration": "20261012142833_nonempty_actor_source.sql",
+      "correctedAwardQuestions": 80,
+      "privateEntries": 93,
+      "privateEntriesFingerprintUnchanged": true,
+      "atomicAssertion": true,
+      "publicFunctionGrantsAdded": 0,
+      "counts": {
+        "actors": 1760,
+        "awards": 280,
+        "film": 10747
+      }
+    }
+  },
+  "display": {
+    "metric": "encountered distinct knowledge goals / all current knowledge goals",
+    "format": "percent bar, up to two decimal digits",
+    "scope": "all film genres, actors and awards; independent of selection",
+    "medals": [
+      50,
+      100,
+      250,
+      500,
+      1000,
+      2500,
+      5000,
+      10000
+    ],
+    "nextMedal": true,
+    "medalCollection": true,
+    "derivedFromCurrentOnlineSummary": true,
+    "additionalRpc": false,
+    "separateMedalPersistence": false,
+    "xpBonus": false,
+    "unlockRulesChanged": false,
+    "visibleUnit": "Filmfakten",
+    "visibleOverall": "Filmwissen",
+    "compact": true,
+    "subtitle": "Neues lernen & wiederholen",
+    "redundantHeadingRemoved": true,
+    "fullWidthProgress": true,
+    "mobileArtworkPixels": 88
+  },
+  "githubPush": false,
+  "status": "succeeded",
+  "liveNote": "HTML comparison ignores only the known Cloudflare JSD injection.",
+  "releaseMetadataVerified": true,
+  "sourceCommit": "48743cdd6722c0b1cf25ea51161ee2dde807dbba",
+  "versionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_3a26a3d4bca0819186795ed948bdd3ef",
+  "deploymentId": "appgdep_6accf1b8b5b4819192545ad82c2e50e4",
+  "publishedAt": "2026-10-12T14:42:24.263331+00:00",
+  "archiveNative": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000a59081f5bc0f803122e75a3a",
+    "content_hash": "sha256:6712220e27ec7762605c40a2730adbf6e383f43d4f45a692a7b4abc6cdc99941",
+    "size_bytes": 77015040,
+    "file_count": 490
+  },
+  "archiveLocal": {
+    "fileCount": 490,
+    "buildFiles": 489,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 62642415,
+    "sha256": "99136ad8ac1c31d0b42f2d58205195ec1476743b2a64303317cb82d8983763c3"
+  },
+  "live": {
+    "checks": [
+      {
+        "path": "index.html",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "c300023b7710c3eba200105f900052b0a78bf7d7179ecb96c2c4c71eb9dda78f"
+      },
+      {
+        "path": "account-config.json",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      },
+      {
+        "path": "sw.js",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "0c3f9919e46aacbadf04f0a2ccf87bcd2296697179a907f787e74857a46f47ec"
+      },
+      {
+        "path": "assets/index-BFdjZhuF.js",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "2a21a2cbee76bc6981e889154435223081c9500a87b198091e0842afd05e38ed"
+      },
+      {
+        "path": "assets/index-CLxxggDp.css",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "9206e9663b94af246ccd50a49ed15a5f6cd92141d48cc8afb8230086a3300bea"
+      }
+    ],
+    "releaseStatus": 200,
+    "release": [
+      {
+        "version": 74,
+        "published_at": "2026-10-12T14:42:24.263331+00:00"
+      }
+    ]
+  },
+  "cleanup": {
+    "status": "blocked",
+    "reason": "Automatic approval review rejected guarded targeted deletion: blocked by policy",
+    "retained": [
+      {
+        "path": "tmp-runtime/compact74",
+        "bytes": 563994671,
+        "purpose": "Completed publication source copy, current and previous staging build, archive and diagnostic helpers",
+        "deleteWhen": "Policy permits targeted deletion; permanent release proof is saved"
+      },
+      {
+        "path": "test-results/port-4301",
+        "bytes": 7653797,
+        "purpose": "Completed isolated browser outputs",
+        "deleteWhen": "Policy permits targeted deletion; checks are documented"
+      },
+      {
+        "path": "dist",
+        "bytes": 76633800,
+        "purpose": "Current reproducible version 74 build; deletion was already blocked previously",
+        "deleteWhen": "No active check needs the build and policy permits targeted deletion"
+      }
+    ],
+    "retainedFlatScreenshots": [
+      "test-results/kompakte-startseite-320.png",
+      "test-results/kompakte-startseite-1440.png",
+      "test-results/rundenhinweis-320.png",
+      "test-results/themen-filme-320.png"
+    ]
+  }
+}

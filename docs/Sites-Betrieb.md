@@ -1,5 +1,16 @@
 # Sites-Veröffentlichung
 
+## Version 74: kompakte Kachel und Filmfakten
+
+Am **12.10.2026 um 16:42:24 Uhr Europe/Berlin** aus Main-Commit `48743cdd6722c0b1cf25ea51161ee2dde807dbba` als **Version 74** veröffentlicht, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Öffentliche Adresse, Projekt-ID und Zugriff `public`, Revision 2, erhalten. Kompakte Filmreise-Kachel ohne redundante Überschrift, Beschreibung „Neues lernen & wiederholen“, Gesamtbalken über die volle Breite und Begriff „Filmfakten“ in den Spieltexten.
+
+430 Tests in 71 Dateien, TypeScript/Build 74, Format-/Diff-Prüfung und 17 gezielte Browserfälle in Chromium, Firefox und mobilem WebKit erfolgreich. 80 Preisfragen mit leerer Personen-ID korrekt zugeordnet; private Antworten und Lernbelege atomar und separat unverändert bestätigt. Kein zusätzlicher Abruf im Spielablauf und kein Spielstandreset. Alle 489 Builddateien im Archiv bytegleich; fünf öffentliche Dateien anonym HTTP 200 und bytegleich, HTML ausschließlich um bekannten Cloudflare-JSD-Schnipsel bereinigt. Veröffentlichungszeit und Quellcommit separat gespeichert und gelesen, öffentliche Versions-RPC bestätigt. Kein GitHub-Push. [Maschinenlesbarer Nachweis](Veroeffentlichung-2026-10-12-Version-74.json).
+
+
+
+
+Bereinigung offen: Die automatische Freigabeprüfung lehnt die geprüfte gezielte Entfernung mit „blocked by policy“ ab. Eigene Veröffentlichungskopie, Archiv, alter Stagingbuild und Diagnosehilfen in `tmp-runtime/compact74` (563.994.671 Bytes), Browserausgaben `test-results/port-4301` (7.653.797 Bytes) und vier zugehörige flache Screenshots bleiben unversioniert erhalten. Der bereits zuvor blockierte aktuelle Build `dist` enthält nun Version 74 (76.633.800 Bytes). Zusammen rund 648 MB; dauerhafter Prüfnachweis gesichert. Nach Aufhebung der Sperre gezielt entfernen; den aktuellen Build nur, wenn keine laufende Prüfung ihn benötigt. Keine aktiven eigenen Testserver.
+
 ## Version 73: Gesamtbalken und Entdecker-Medaillen
 
 Am **12.10.2026 um 15:13:55 Uhr Europe/Berlin** aus Main-Commit `1a131fc85bc4908d69c359442784eb741895e756` als **Version 73** veröffentlicht, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Projekt-ID, öffentliche Adresse und Zugriff `public`, Revision 2, erhalten. Gesamtfortschritt als Prozentbalken; darunter das nächste Entdecker-Medaillenziel. Sammlung zeigt Medaillen für 50 bis 10.000 unterschiedliche kennengelernte Ziele insgesamt über alle Genres und Fragenbereiche. Vorhandene globale Serverzusammenfassung genutzt, keine zusätzlichen Abfragen oder gesonderte Speicherung, kein Katalog und keine Backendmigration.
