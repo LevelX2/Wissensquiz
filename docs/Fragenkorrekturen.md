@@ -122,3 +122,26 @@ Konkreter redaktioneller Vorschlag für **DRA-L-003**, Wissensziel **K-DRA-02-01
 Die [offizielle Warner-Bros.-Inhaltsbeschreibung](https://www.warnerbros.it/scheda-film/genere-drammatico/il-miglio-verde/) beschreibt Coffey als gutmütigen Riesen im Todestrakt und ordnet ihm Duncan zu. [Stephen Kings Filmseite](https://stephenking.com/works/movie/green-mile.html) bestätigt Todesurteil, freundlichen Riesen und Darstellerzuordnung. Beide Beschreibungen am 11.10.2026 tatsächlich gelesen. Die Angaben auf diesen Seiten zu Verfügbarkeit beziehungsweise Veröffentlichungsdatum wurden für diese Korrektur nicht verwendet.
 
 Dies ist eine ergänzende, quellengeprüfte Fragetextredaktion für die spätere filmweise Abnahme; keine zusätzliche vollständig geprüfte Originalfrage im 50er-Zähler. Green Mile ist bis Block 83 noch nicht filmweise abgenommen. Öffentliche CSV, Roh-CSV, Kurzantwort und Vertiefung sind hier unverändert; App-Integration und Veröffentlichung stehen aus.
+
+## Sanjuro in „Yojimbo“ – 12.10.2026
+
+Die Schauspielerfrage `SCHAUSPIELER-202610-P01-049-L-2` ist lokal redigiert und noch nicht veröffentlicht:
+
+**Welchem Stand gehört Sanjuro (Toshirō Mifune) in „Yojimbo“ (1961) an?**
+
+- Kaufmann
+- **Samurai – richtig**
+- Bauer
+- Priester
+
+**Kurzantwort:** Sanjuro ist ein Rōnin: ein Samurai ohne Herrn.
+
+**Vertiefung:** Sanjuro (Toshirō Mifune) kommt in eine Kleinstadt, in der zwei rivalisierende Banden die Bewohner einschüchtern. Als herrenloser Samurai ist er keinem Fürsten verpflichtet. Statt sich dauerhaft einer Seite anzuschließen, spielt er die Banden gegeneinander aus. Seine Fähigkeiten mit dem Schwert machen ihn für beide Seiten interessant; seine Unabhängigkeit gibt ihm dabei den Spielraum, ihre Rivalität für seine eigenen Pläne zu nutzen.
+
+**Merksatz:** Sanjuro: Samurai ohne Herrn, zwischen zwei Banden.
+
+Die am 12.10.2026 gelesenen Quellen [Criterion](https://www.criterion.com/films/597-yojimbo) und [BFI](https://player.bfi.org.uk/subscription/film/watch-yojimbo-1961-online) belegen Mifunes Rolle, Sanjuros Status als herrenloser Samurai und das Gegeneinanderausspielen der Banden. Der [BFI-Überblick zu Samurai-Filmen](https://www.bfi.org.uk/lists/10-great-samurai-films), ebenfalls am 12.10.2026 gelesen, erläutert Rōnin ausdrücklich als herrenlose Samurai und ordnet Sanjuro diesem Typus zu. Die vier Optionen fragen denselben Stand ab; die drei anderen Stände passen zum historischen Umfeld, treffen aber nicht auf Sanjuro zu. Falschantwortfeedback bleibt leer, da kein zusätzlicher belegter Zusammenhang benötigt wird.
+
+Die vorhandene Personenredaktion liefert Fragetext, Vertiefung und Filmverweis; die öffentliche App-CSV enthält die neue Auswahl, Kurzantwort, Merkhilfe und Quellen. Frage-/Wissensziel-ID, Lösungsschlüssel B, Schwierigkeit Leicht und Personenbereich bleiben erhalten. Originalpaket und Roh-CSV unverändert. Der erwartete CSV-Datensatz ist in der bestehenden Testfixture hinterlegt; keine neue Kompatibilitätslogik oder Änderung echter Spielstände. Die [Lesefassung](Schauspieler-Fragenpaket/Schauspieler_800_Fragen_Lesefassung_2026-10-03.md#leicht--schauspieler-202610-p01-049-l-2) enthält die vollständige aktuelle Frage.
+
+Abnahme: neun gezielte Fragen-/Importtests, Produktionsbuild und zwei isolierte mobile Chromium-Fälle für richtige und falsche Antwort erfolgreich. Im Gesamtlauf waren 432 von 435 Tests erfolgreich; drei Zeitüberschreitungen bestanden ihre Nachläufe. Der Filmreise-Test benötigte dabei einmalig ein höheres Zeitlimit (60 statt 15 Sekunden), ohne dauerhafte Änderung der Tests. Keine fachliche Assertion fehlgeschlagen. Diff-Prüfung erfolgreich.

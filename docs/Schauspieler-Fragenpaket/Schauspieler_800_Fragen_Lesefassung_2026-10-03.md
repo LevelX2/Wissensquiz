@@ -1,6 +1,6 @@
 # Schauspieler – überarbeitete Lesefassung
 
-Redaktionsstand 03.10.2026. 100 Personen, acht Fragen je Person. Diese Lesefassung zeigt Lösungen unmittelbar; im Spiel bleiben Erkennungsfragen bis zur Antwort ohne vorgegebenen Personennamen.
+Grundredaktion 03.10.2026; gezielte Nachredaktion der Sanjuro-Frage am 12.10.2026. 100 Personen, acht Fragen je Person. Diese Lesefassung zeigt Lösungen unmittelbar; im Spiel bleiben Erkennungsfragen bis zur Antwort ohne vorgegebenen Personennamen.
 
 ## Tom Hanks
 
@@ -6411,20 +6411,24 @@ Mit welchem Regisseur arbeitete Toshirō Mifune besonders häufig zusammen?
 
 ### leicht · SCHAUSPIELER-202610-P01-049-L-2
 
-Welche Art von Krieger verkörpert Toshirō Mifune in vielen berühmten Filmen?
+Welchem Stand gehört Sanjuro (Toshirō Mifune) in „Yojimbo“ (1961) an?
 
-- A: Musketier
+- A: Kaufmann
 - B: Samurai
-- C: Römischer Legionär
-- D: Wikinger
+- C: Bauer
+- D: Priester
 
 **Lösung: B.** Samurai
 
-**Vertiefung:** Seine energische Körperlichkeit wurde ein wichtiges Merkmal des japanischen Jidaigeki-Kinos. Jidaigeki bezeichnet historische japanische Filmstoffe. Ein Samurai ist dabei eine soziale Kriegerrolle; nicht jede energische Figur Toshirō Mifunes gehört zu diesem Stand.
+**Kurzantwort:** Sanjuro ist ein Rōnin: ein Samurai ohne Herrn.
+
+**Vertiefung:** Sanjuro (Toshirō Mifune) kommt in eine Kleinstadt, in der zwei rivalisierende Banden die Bewohner einschüchtern. Als herrenloser Samurai ist er keinem Fürsten verpflichtet. Statt sich dauerhaft einer Seite anzuschließen, spielt er die Banden gegeneinander aus. Seine Fähigkeiten mit dem Schwert machen ihn für beide Seiten interessant; seine Unabhängigkeit gibt ihm dabei den Spielraum, ihre Rivalität für seine eigenen Pläne zu nutzen.
+
+**Merksatz:** Sanjuro: Samurai ohne Herrn, zwischen zwei Banden.
 
 **Filmdaten-Verknüpfungen:** Yojimbo|1961
 
-**Quellen:** [1](https://en.wikipedia.org/wiki/Toshiro_Mifune), [2](https://de.wikipedia.org/wiki/Toshir%C5%8D_Mifune), [3](https://en.wikipedia.org/wiki/Yojimbo)
+**Quellen:** [Criterion](https://www.criterion.com/films/597-yojimbo), [BFI](https://player.bfi.org.uk/subscription/film/watch-yojimbo-1961-online), [BFI: Rōnin](https://www.bfi.org.uk/lists/10-great-samurai-films). Am 12.10.2026 gelesen; Rollenstatus, Darsteller und Bandenrivalität geprüft.
 
 ### mittel · SCHAUSPIELER-202610-P01-049-M-1
 

@@ -26,7 +26,12 @@ const csvChanges = [
   ...published.changes.map((entry) => ({ ...entry, kind: "csv" })),
   ...editorialRevisions.flatMap((block) => block.changes),
 ].filter((entry) => entry.kind === "csv");
-const allCsvChanges = [...csvChanges, ...integrated.changes];
+// Film and person CSVs have different columns; each row keeps its own fields.
+const integratedCsvChanges = integrated.changes as unknown as Pick<
+  EditorialChange,
+  "file" | "id" | "after"
+>[];
+const allCsvChanges = [...csvChanges, ...integratedCsvChanges];
 const baselineRows = new Map<string, Map<string, Row>>();
 export function baselineCsvRow(file: string, originalId: string): Row {
   let rows = baselineRows.get(file);
@@ -58,7 +63,7 @@ export function catalogBeforeReview(file: string, text: string) {
   const parsed = Papa.parse<Row>(text,{header:true,skipEmptyLines:"greedy"});
   const added=new Set(integrated.additions.filter(a=>a.file===file).map(a=>a.row.question_id));
   assert.deepEqual(parsed.errors, [], file);
-  const changes=new Map(integrated.changes.filter(c=>c.file===file).map(c=>[c.after.question_id,baselineCsvRow(file,c.id)]));
+  const changes=new Map(integratedCsvChanges.filter(c=>c.file===file).map(c=>[c.after.question_id,baselineCsvRow(file,c.id)]));
   return Papa.unparse({fields:parsed.meta.fields!,data:parsed.data.filter(r=>!added.has(r.question_id)).map(r=>changes.get(r.question_id)??r)});
 }
 export const editorialCsvIds = (file?: string) => [
@@ -110,7 +115,7 @@ export function assertEditorialSource(
       );
       expected = proof.after;
     }
-    const current = integrated.changes.find(
+    const current = integratedCsvChanges.find(
       (entry) => entry.file === publicPath && entry.id === before.question_id,
     );
     if (current) {
