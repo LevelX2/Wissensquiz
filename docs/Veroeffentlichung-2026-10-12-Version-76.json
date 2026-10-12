@@ -1,0 +1,113 @@
+{
+  "version": 76,
+  "sourceBranch": "main",
+  "sourceCommit": "9fe401f104ab4f655666a563112779987adde64b",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "questionId": "SCHAUSPIELER-202610-P01-025-L-2",
+  "contentHash": "602353a5c010e9e3bf7b84cace6e87ee8f4cc7f9fc4b5b5ff8776978b5717487",
+  "checks": {
+    "unitTests": 435,
+    "unitFiles": 72,
+    "unitDurationSeconds": 115.55,
+    "targetedEditorialTests": 16,
+    "typeScript": true,
+    "buildVersion": 76,
+    "fullBrowserSuite": false,
+    "browserChecksReusedFromVersion": 75,
+    "formatAndDiff": true
+  },
+  "data": {
+    "questionCount": 12787,
+    "changedQuestions": 1,
+    "otherChangedQuestions": 0,
+    "otherChangedPresentations": 0,
+    "reset": false,
+    "migration": false,
+    "privatePlayerDataUsedForTests": false,
+    "rawSourcesPreserved": true,
+    "newLegacyCompatibility": false,
+    "privateEntriesAndHeadsFingerprintUnchanged": true,
+    "atomicAssertion": true,
+    "stagingRowsAfter": 0
+  },
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "versionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_93efef0fd4808191abfae6046e95a98c",
+  "deploymentId": "appgdep_6acd3c618804819185814e30c05152a1",
+  "publishedAt": "2026-10-12T20:00:55.600741+00:00",
+  "deploymentStatus": "succeeded",
+  "archiveNative": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_000000006fe481f48f8ba1da194d44f2",
+    "content_hash": "sha256:3633d4a8f8e94e5c487f5177858eb9ac2bc122a70d0257cb4febc89773a4a6c9",
+    "size_bytes": 76462080,
+    "file_count": 489
+  },
+  "archiveLocal": {
+    "fileCount": 489,
+    "buildFiles": 488,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 62517107,
+    "sha256": "ffdcca8393ecb1d6b0240d3ac438750990c44a1a78651f3a407d36da9f3d1981"
+  },
+  "liveFiles": [
+    {
+      "path": "/",
+      "status": 200,
+      "expectedAssets": true
+    },
+    {
+      "path": "/account-config.json",
+      "status": 200,
+      "byteIdentical": true
+    },
+    {
+      "path": "/sw.js",
+      "status": 200,
+      "byteIdentical": true
+    },
+    {
+      "path": "/schauspieler-fragen.csv",
+      "status": 200,
+      "byteIdentical": true
+    },
+    {
+      "path": "/assets/index-DXitltFj.js",
+      "status": 200,
+      "byteIdentical": true
+    },
+    {
+      "path": "/assets/index-CpIF-OoQ.css",
+      "status": 200,
+      "byteIdentical": true
+    },
+    {
+      "path": "/assets/Help-C2OSevPK.js",
+      "status": 200,
+      "byteIdentical": true
+    },
+    {
+      "path": "/assets/CollectionPage-BSDDaGr3.js",
+      "status": 200,
+      "byteIdentical": true
+    }
+  ],
+  "publicVersionRpc": [
+    {
+      "version": 76,
+      "published_at": "2026-10-12T20:00:55.600741+00:00"
+    }
+  ],
+  "cleanup": {
+    "completed": true,
+    "temporaryBytesRemoved": 422009520,
+    "temporaryFilesRemoved": 3087,
+    "publicationCopyRemoved": true,
+    "serverContentSqlRemoved": true,
+    "transportArchiveRemoved": true,
+    "dependencyJunctionRemoved": true,
+    "rootDependenciesPreserved": true
+  }
+}

@@ -1,5 +1,12 @@
 # Prüfnachweis
 
+## 12.10.2026 – Die-Maske-Rollenfrage, Version 76
+
+Genau eine Rollenfrage sprachlich korrigiert, ohne Antwort im Filmtitel vorwegzunehmen; Kurzantwort, konkrete Vertiefung, Quellen und Lesefassung abgestimmt. 16 gezielte Inhalts-/Parserprüfungen und anschließend der eingefrorene Main-Stand mit **435 Tests in 72 Dateien**, TypeScript und Build 76 erfolgreich. Erster Prüflauf während der Redaktionsänderung verworfen; gezielte Nachprüfung erfolgreich. Ein Build im gemeinsamen Arbeitsordner traf parallel laufende, noch unfertige Erfolgsänderungen; erfolgreiche Veröffentlichung deshalb aus sauberer Kopie des abgeschlossenen Main-Commits. Fremde Änderungen erhalten. Keine neue UI-Logik oder neuer Browser-Gesamtlauf.
+
+Native vollständige Inhaltsprüfung bestätigt 12.787 Fragen, genau eine geänderte Frage und keine anderen Fragen-/Anzeigeänderungen. Aktivierung prüft den Inhaltsfingerabdruck und innerhalb derselben Transaktion unveränderte private Fortschrittseinträge und Kontorevisionen; separate Abfrage bestätigt aktuelle Frage und leeres Staging. Kein Reset, keine Migration, keine neue Altstandkompatibilität. Öffentlich acht Dateien und Versions-RPC erfolgreich geprüft. [Veröffentlichung und ausgeführte Bereinigung](Veroeffentlichung-2026-10-12-Version-76.json).
+
+
 **Version 75 am 12.10.2026 um 20:27:49 Uhr Europe/Berlin öffentlich aus Main veröffentlicht.** Gemeinsame Abnahme abgeschlossen, sieben öffentliche Dateien bytegleich zum Prüfbuild und Versionszeit bestätigt. Private Spielstände atomar erhalten; eigene Version-75-Artefakte entfernt. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-12-Version-75.json).
 
 ## 12.10.2026 – XP-Leveldialog und Zehner-Abzeichen

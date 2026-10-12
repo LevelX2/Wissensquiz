@@ -1,5 +1,14 @@
 # Sites-Veröffentlichung
 
+## Version 76: Die-Maske-Rollenfrage korrigiert
+
+Am **12.10.2026 um 22:00:55 Uhr Europe/Berlin** aus Main (`9fe401f104ab4f655666a563112779987adde64b`) als **Version 76 öffentlich veröffentlicht**, nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Projekt-ID und Besucherzugriff **public, Revision 2** erhalten. [Nachweis mit Versions-/Deployment-ID und Hashes](Veroeffentlichung-2026-10-12-Version-76.json).
+
+Genau eine Schauspielerfrage korrigiert: Jim Carreys grüne Figur heißt „Die Maske“; die Frage beschreibt Stanley Ipkiss ohne lösungsverratenden Filmtitel. Kurzantwort, Vertiefung und gelesene Primärquellen aktualisiert. Identitäten, Schwierigkeit, Lösungsschlüssel und Rohlieferung erhalten. Vollständiger aktueller Serverbestand mit 12.787 Fragen aktiviert; nur diese Frage und ihre Darstellung unterscheiden sich. Keine übrigen Inhaltsänderungen, keine Migration oder Rücksetzung; private Fortschrittseinträge und Kontorevisionen innerhalb der Transaktion unverändert, Staging anschließend leer.
+
+**435 Tests in 72 Dateien**, TypeScript und Build 76 auf sauberer Main-Veröffentlichungskopie erfolgreich; zusätzlich 16 gezielte Redaktionsprüfungen. Im gemeinsamen Arbeitsordner laufende, uncommittete Erfolgsarbeiten nicht aufgenommen. Keine neue UI-Logik; erfolgreiche Oberflächenprüfungen von Version 75 für unveränderten Code wiederverwendet, kein neuer Browser-Gesamtlauf. Alle 488 Build-Dateien im Archiv bytegleich, ausschließlich Build und Hostingmanifest. Acht öffentliche Dateien HTTP 200: HTML verweist auf erwartete Assets, sieben übrige Dateien bytegleich einschließlich korrigierter Schauspieler-CSV. Versionszeit separat gespeichert/gelesen und öffentliche RPC bestätigt. Kein GitHub-Push. Eigene Prüf-/Quellkopie, Transportarchiv und Betreiber-SQL entfernt, 422.009.520 Bytes; Root-Abhängigkeiten erhalten.
+
+
 ## Version 75: Levelaufstieg feiern und perfekte Zehnerrunden sammeln
 
 Am **12.10.2026 um 20:27:49 Uhr Europe/Berlin** aus Main-Commit `2a21ec327c95f810ac3235fb9a74acd2f786b17e` als **Version 75** veröffentlicht, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Projekt-ID, öffentliche Adresse und Zugriff `public`, Revision 2, erhalten. XP-Levelaufstieg mit Glückwunsch, Fanfare gemäß Toneinstellung und Bestätigung „Weiter zum Ergebnis“. Abzeichen nach 1/10/50/100 perfekten Zehnerrunden, global ohne Folgepflicht; geratene Treffer ausgeschlossen. Gleichzeitige Erfolge stehen in einem Dialog mit einem Signal. Vorhandene perfekte Runde in der Sammlung berücksichtigt; keine nachträgliche Feier beim Laden.
