@@ -1,8 +1,10 @@
 # Erfolge und Erfolgsstufen
 
-## Stand – 12.10.2026
+**Veröffentlicht am 13.10.2026 um 00:35:53 Uhr Europe/Berlin:** gemeinsame Erfolgsstufen, Film-/Genre-/EXP-Reihen, bedarfsgerechte Profilansichten und inkrementelle Zähler aktiv. Jede produktive SQL-Aktivierung bestätigt innerhalb derselben Transaktion unveränderte Antworten, Kontoköpfe, Generationen und kanonische XP-Beiträge. Native synthetische Zähler-/Differenz-/Höchststands-/Beleg-/Rechteprüfung vollständig zurückgerollt. Der zusätzliche Ansichtsabruf während einer noch laufenden Antwort ist gesperrt; neun gezielte Browserfälle bestätigen Wiederholung und Profilfehler. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-77.json). Die historischen lokalen Prüfgrenzen unten bleiben als Messgrenzen bestehen.
 
-Lokal umgesetzt, noch nicht veröffentlicht. Erweitert die mit Version 75 veröffentlichten Level- und Zehnerrundenmeldungen. App und private SQL-Projektion benötigen eine gemeinsame Veröffentlichung. [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-12%20Nutzerauftrag%20Erfolgssystem.txt).
+## Stand – 13.10.2026
+
+Seit **Version 77** öffentlich verfügbar; App und alle drei privaten SQL-Projektionen gemeinsam aktiviert. Erweitert die mit Version 75 veröffentlichten Level- und Zehnerrundenmeldungen. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-77.json). [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-12%20Nutzerauftrag%20Erfolgssystem.txt).
 
 ## Gemeinsamer Vertrag
 
@@ -18,7 +20,7 @@ Das ist der ursprüngliche Spielkatalog mit elf Erfolgen. Der folgende Lernkatal
 
 ## Filmwissen, Genres und EXP – Erweiterung am 12.10.2026
 
-[Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-12%20Nutzerauftrag%20Weitere%20Erfolge%20und%20EXP.txt). Lokal umgesetzt, noch nicht veröffentlicht. „EXP“ und das bestehende „XP“ bezeichnen denselben Erfahrungswert; keine zweite Währung und keine Änderung seiner Berechnung.
+[Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-12%20Nutzerauftrag%20Weitere%20Erfolge%20und%20EXP.txt). Seit Version 77 öffentlich verfügbar. „EXP“ und das bestehende „XP“ bezeichnen denselben Erfahrungswert; keine zweite Währung und keine Änderung seiner Berechnung.
 
 | Erfolgsreihe | Ziele | Motiv / Bedeutung |
 | --- | --- | --- |
@@ -53,11 +55,11 @@ Die Erfolgskarten verwenden kurze Glückwunsch-/Leistungstexte; die vollständig
 
 Die kompakte Aktion `learning-achievements` in der bestehenden privaten Ansichts-RPC liefert gespeicherte Zähler und vorbereitete Bestandsgrößen. Katalogzuordnung und Bestandsgrößen werden nur beim Inhaltswechsel aufgebaut. Beim normalen Abschluss werden seit dem letzten Abschluss geänderte Wissensziele und deren betroffene Themen ausgewertet; keine Vollhistorie und kein Katalogdownload an den Browser. Die privaten Tabellen `learning_achievements` und `round_learning_achievements` speichern Höchststände beziehungsweise den ersten Rundenbeleg; zusätzliche private Projektionen halten aktuelle Beiträge für die Differenzbildung. Abschlussprojektion statt Erfolgszählung bei jeder einzelnen Antwort; identische Wiederholung erhält denselben Beleg. Tabellen und Hilfsfunktionen sind direkt für anon/authenticated gesperrt; die autorisierte bestehende RPC liefert nur das eigene Konto.
 
-Migration `20261012201611_learning_achievements.sql` initialisiert aktuelle Generationen aus ihrem aktuellen Format. Sie verändert keine Antworten, Lernstände, Revisionen oder XP und fügt keinen historischen Adapter hinzu. Wie der bisherige lokale Erfolgsstand ist sie noch nicht produktiv bereitgestellt. PGlite prüft Bedingungen, Rollen, Kontentrennung und Vergabe. Der lokale Supabase-Advisor erreicht mangels laufendem lokalen Server weiterhin keine Datenbank; vor Bereitstellung ist dieser Nachweis offen.
+Migration `20261012201611_learning_achievements.sql` initialisiert aktuelle Generationen aus ihrem aktuellen Format. Sie verändert keine Antworten, Lernstände, Revisionen oder XP und fügt keinen historischen Adapter hinzu. Seit Version 77 produktiv bereitgestellt. PGlite prüft Bedingungen, Rollen, Kontentrennung und Vergabe. Native Aktivierung, vollständig zurückgerollte synthetische Rollen-/Zählerprüfung und Advisors sind im [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-77.json) bestätigt.
 
 ### Leistungsprüfung am 12.10.2026 – Optimierung noch offen
 
-Historischer Befund zum Stand vor der folgenden Optimierung; die beschriebenen zusätzlichen Katalogdurchläufe sind inzwischen lokal ersetzt.
+Historischer Befund zum Stand vor der folgenden Optimierung; die beschriebenen zusätzlichen Katalogdurchläufe sind seit Version 77 ersetzt.
 
 Codeprüfung des lokalen Stands, keine Last- oder Trafficmessung: Die Erfolgsansichten übertragen kompakte Zähler und Rundenbelege statt Katalog oder Kontohistorie. Der gemeinsame Ansichts-Cache hält identische Anfragen bei unveränderter Kontorevision 30 Sekunden im Arbeitsspeicher und bündelt gleichzeitige Abrufe. Icons, Ton, Haptik und Animation werden im Browser erzeugt.
 
@@ -78,7 +80,9 @@ Auf ausdrücklichen [Optimierungsauftrag](<../KI-Wissen-Wissensquiz/01 Rohquelle
 
 Lokale Messung in der isolierten PGlite-Datenbank, je acht Abrufe nach einem Aufwärmabruf, synthetische Metadaten und zwei sichere Ziele: bisherige vollständige Erfolgsberechnung gegenüber neuem gespeicherten Abruf **26,476 ms → 0,719 ms** bei 12.000 und **210,185 ms → 0,727 ms** bei 48.000 Metadatenzeilen. Die Erfolgsantwort blieb in beiden Fällen **350 Byte JSON** groß; diese Ein-Genre-Messung ist keine Größenangabe für den vollständigen echten Erfolgsbestand. Gemessen wurden Datenbankaufrufe ohne HTTP/TLS und keine Mehrbenutzerlast. Aussagekräftig ist auch die strukturelle Prüfung: normale Fortschreibung wertet genau das eine geänderte Ziel aus, der EXPLAIN-Plan greift indiziert auf höchstens zwei Metadatenzeilen zu, und Erfolgs-/Profil-/Lernübersichtsabrufe funktionieren auch bei vorübergehend umbenannter Metadatentabelle im isolierten Test.
 
-Einmalige Initialisierung der aktuellen Kontogenerationen und Inhaltsaufbereitung bleiben Betreiberarbeit. Bestehende Zielhistorien werden weiterhin nur im kanonischen Projektor des betroffenen Ziels ausgewertet; die übrigen Lern-/Filmreisewege sind keine neu gemessene Gesamtlastprüfung. Neue private Tabellen mit RLS und gesperrtem Direktzugriff, keine zusätzlichen öffentlichen Funktionen oder Rechteerhöhungen. Supabase-Advisor mangels laufender lokaler Instanz weiterhin vor Bereitstellung offen. Noch nicht produktiv aktiviert; [gezielte Prüfnachweise](Pruefbericht.md#12102026--inkrementelle-erfolgsberechnung-und-profilabrufe-lokal).
+Einmalige Initialisierung der aktuellen Kontogenerationen und Inhaltsaufbereitung bleiben Betreiberarbeit. Bestehende Zielhistorien werden weiterhin nur im kanonischen Projektor des betroffenen Ziels ausgewertet; die übrigen Lern-/Filmreisewege sind keine neu gemessene Gesamtlastprüfung. Neue private Tabellen mit RLS und gesperrtem Direktzugriff, keine zusätzlichen öffentlichen Funktionen oder Rechteerhöhungen. Seit Version 77 produktiv aktiviert; native Rollen-/Zählerprüfung und Supabase-Advisors gegenüber dem Ausgangsstand bestätigt. Bestehende Hinweise bleiben bestehen; zwölf zusätzliche private RLS-Tabellen ohne direkte Policies sind beabsichtigt. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-77.json), [lokale Leistungsgrenzen](Pruefbericht.md#12102026--inkrementelle-erfolgsberechnung-und-profilabrufe-lokal).
+
+Die nativen Advisor-Hinweise sind im Nachweis vor/nach der Aktivierung gegenübergestellt. Die zwölf zusätzlichen [RLS-Tabellen ohne Policies](https://supabase.com/docs/guides/database/database-linter?lint=0008_rls_enabled_no_policy) verweigern direkten Zugriff absichtlich. Bestehende Hinweise zu [anonym ausführbaren öffentlichen RPCs](https://supabase.com/docs/guides/database/database-linter?lint=0028_anon_security_definer_function_executable), [angemeldeten RPC-Aufrufen](https://supabase.com/docs/guides/database/database-linter?lint=0029_authenticated_security_definer_function_executable), [Passwort-Leak-Prüfung](https://supabase.com/docs/guides/auth/password-security#password-strength-and-leaked-password-protection), [Fremdschlüsselindizes](https://supabase.com/docs/guides/database/database-linter?lint=0001_unindexed_foreign_keys) und [ungenutzten Indizes](https://supabase.com/docs/guides/database/database-linter?lint=0005_unused_index) sind unverändert; dieser Auftrag ändert keine unabhängigen Auth-Einstellungen.
 
 ## Weitere sinnvolle Reihen – Vorschläge, noch nicht implementiert
 
@@ -129,7 +133,7 @@ Die bestehenden kleinen Ansichten `profile-stats` und `round-experience` liefern
 
 Die lokale Migration `20261012194444_round_achievements.sql` leitet den neuen Index einmal aus aktuellen privaten Runden und Antworten ab. Quelldaten, Revisionen, Lernstände und XP bleiben dabei unverändert; keine Anpassung historischer Formate. Unmittelbare und kompakte archivierte Rundenfakten werden über das bestehende aktuelle Speicherformat ausgewertet. Tabellen und Hilfsfunktionen sind für `anon` und `authenticated` direkt gesperrt; kontogebundene RPCs liefern nur den eigenen Stand. Reset und Import leiten die Werte aus der jeweiligen aktuellen Generation ab.
 
-Der neue Trigger läuft als `security invoker` im bereits autorisierten Schreibweg und benötigt keine zusätzliche Rechteerhöhung. Die lokale SQL-/Rollenprüfung erfolgt mit PGlite. Der Supabase-Advisor konnte mangels laufender lokaler Supabase-Datenbank nicht verbinden; dieser Nachweis bleibt vor der Serverbereitstellung offen. Keine Produktivmigration in diesem Auftrag.
+Der neue Trigger läuft als `security invoker` im bereits autorisierten Schreibweg und benötigt keine zusätzliche Rechteerhöhung. Lokale SQL-/Rollenprüfung mit PGlite und native Prüfung bei Veröffentlichung bestanden. Alle zwölf neuen privaten Tabellen haben RLS und verweigern direkte Konten-/Gastzugriffe; zehn geprüfte Helfer bleiben Invoker mit leerem Suchpfad und ohne direkte Ausführungsrechte. Advisors gegenüber dem Ausgangsstand verglichen; [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-77.json).
 
 Die konkret gemeldete fehlende Meldung wurde ohne den damaligen persönlichen Rundenstand nicht abschließend rekonstruiert. Der bestehende Vertrag feiert feste Zahlen perfekter Runden; eine weitere perfekte Runde zwischen zwei Schwellen erzeugt keine neue Meldung. Genau dieser Zwischenstand und die Schwellen 1, 10 und 25 sind jetzt explizit geprüft und sichtbar dargestellt.
 

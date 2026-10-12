@@ -1,0 +1,400 @@
+{
+  "version": 77,
+  "sourceBranch": "main",
+  "sourceCommit": "147de3e1341a3adfafdb2b1101562c2eb61ee789",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "versionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_dc72220131b881918718b111e7542208",
+  "deploymentId": "appgdep_6acd60b72afc8191ae4ded8b50de4d0c",
+  "publishedAt": "2026-10-12T22:35:53.224832+00:00",
+  "deploymentStatus": "succeeded",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "checks": {
+    "unitTests": 449,
+    "unitFiles": 75,
+    "unitDurationSeconds": 255.54,
+    "typeScript": true,
+    "buildVersion": 77,
+    "formatAndDiff": true,
+    "dependencyChanges": false,
+    "fullBrowserSuiteExecuted": true,
+    "fullBrowserSuiteInitialExitCode": 1,
+    "fullBrowserSuiteInitialPassed": 310,
+    "fullBrowserSuiteInitialFailed": 46,
+    "fullBrowserSuiteInitialDurationMinutes": 56.7,
+    "browserPlanned": 357,
+    "browserDistinctPassed": 356,
+    "browserIntentionalSkips": 1,
+    "browserByProject": {
+      "chromium": 206,
+      "firefox": 21,
+      "webkit-mobile": 129
+    },
+    "unresolvedBrowserFailures": 0,
+    "affectedFailuresSuccessfullyRechecked": true,
+    "unaffectedSuccessfulChecksReused": true,
+    "finalRuntimeCorrectionTargetedBrowserCases": 9,
+    "finalRuntimeCorrectionBrowsers": [
+      "chromium",
+      "firefox",
+      "webkit-mobile"
+    ],
+    "finalPerformanceCases": 6,
+    "oneServerRequestPerAnswer": true,
+    "indexedDbGetsPerAnswer": 0,
+    "indexedDbPutsPerAnswer": 0
+  },
+  "browserEvidence": {
+    "plannedFullSuite": 357,
+    "fullSuiteCompleted": true,
+    "distinctPassed": 356,
+    "unresolved": [],
+    "intentionalSkips": [
+      {
+        "project": "webkit-mobile",
+        "file": "question-sources.spec.ts",
+        "title": "Filmfragen, Schauspieler und Preisträger bilden einen additiven Pool bei 1440 Pixeln",
+        "passed": [],
+        "failed": [],
+        "skipped": [
+          "browser.log"
+        ]
+      }
+    ],
+    "byProject": {
+      "chromium": 206,
+      "firefox": 21,
+      "webkit-mobile": 129
+    },
+    "logs": [
+      {
+        "file": "actor-target.log",
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0
+      },
+      {
+        "file": "answer-target.log",
+        "passed": 4,
+        "failed": 0,
+        "skipped": 0
+      },
+      {
+        "file": "browser.log",
+        "passed": 310,
+        "failed": 46,
+        "skipped": 1
+      },
+      {
+        "file": "catalog-target.log",
+        "passed": 19,
+        "failed": 3,
+        "skipped": 0
+      },
+      {
+        "file": "collection-selection-target.log",
+        "passed": 2,
+        "failed": 0,
+        "skipped": 0
+      },
+      {
+        "file": "dont-know-target.log",
+        "passed": 2,
+        "failed": 4,
+        "skipped": 0
+      },
+      {
+        "file": "final-target.log",
+        "passed": 8,
+        "failed": 2,
+        "skipped": 0
+      },
+      {
+        "file": "fixed-refresh-target.log",
+        "passed": 9,
+        "failed": 0,
+        "skipped": 0
+      },
+      {
+        "file": "last-functional-target.log",
+        "passed": 9,
+        "failed": 2,
+        "skipped": 0
+      },
+      {
+        "file": "music-compact-target.log",
+        "passed": 5,
+        "failed": 0,
+        "skipped": 0
+      },
+      {
+        "file": "remaining-target.log",
+        "passed": 7,
+        "failed": 3,
+        "skipped": 0
+      },
+      {
+        "file": "response-target.log",
+        "passed": 5,
+        "failed": 1,
+        "skipped": 0
+      },
+      {
+        "file": "selection-performance-target.log",
+        "passed": 6,
+        "failed": 0,
+        "skipped": 0
+      },
+      {
+        "file": "selection-target.log",
+        "passed": 1,
+        "failed": 1,
+        "skipped": 0
+      }
+    ]
+  },
+  "data": {
+    "migrations": [
+      {
+        "version": "20261012223226",
+        "name": "round_achievements"
+      },
+      {
+        "version": "20261012223230",
+        "name": "learning_achievements"
+      },
+      {
+        "version": "20261012223235",
+        "name": "incremental_learning_achievements"
+      }
+    ],
+    "sourceAndCanonicalXpAtomicallyUnchangedInEachMigration": true,
+    "protectedTables": [
+      "public.quiz_sync_entries",
+      "public.quiz_account_heads",
+      "public.quiz_sync_generations",
+      "quiz_game_internal.goal_rewards"
+    ],
+    "syntheticProbeFullyRolledBack": true,
+    "privatePlayerDataUsedForTests": false,
+    "contentImport": false,
+    "reset": false,
+    "newLegacyCompatibility": false,
+    "nativeAssertions": {
+      "synthetic_counts_xp_delta_high_water_receipts_roles_passed": true,
+      "synthetic_profile_bytes": 1096
+    },
+    "securityAssertions": {
+      "private_tables": 12,
+      "rls_direct_access_denied": true,
+      "private_functions": 10,
+      "invoker_empty_path_execution_denied": true,
+      "shared_definition_ready": true,
+      "xp_totals_match": true
+    }
+  },
+  "advisors": {
+    "compared": true,
+    "securityBefore": [
+      {
+        "name": "rls_enabled_no_policy",
+        "level": "INFO",
+        "count": 43,
+        "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0008_rls_enabled_no_policy"
+      },
+      {
+        "name": "anon_security_definer_function_executable",
+        "level": "WARN",
+        "count": 10,
+        "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0028_anon_security_definer_function_executable"
+      },
+      {
+        "name": "authenticated_security_definer_function_executable",
+        "level": "WARN",
+        "count": 32,
+        "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0029_authenticated_security_definer_function_executable"
+      },
+      {
+        "name": "auth_leaked_password_protection",
+        "level": "WARN",
+        "count": 1,
+        "remediation": "https://supabase.com/docs/guides/auth/password-security#password-strength-and-leaked-password-protection"
+      }
+    ],
+    "securityAfter": [
+      {
+        "name": "rls_enabled_no_policy",
+        "level": "INFO",
+        "count": 55,
+        "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0008_rls_enabled_no_policy"
+      },
+      {
+        "name": "anon_security_definer_function_executable",
+        "level": "WARN",
+        "count": 10,
+        "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0028_anon_security_definer_function_executable"
+      },
+      {
+        "name": "authenticated_security_definer_function_executable",
+        "level": "WARN",
+        "count": 32,
+        "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0029_authenticated_security_definer_function_executable"
+      },
+      {
+        "name": "auth_leaked_password_protection",
+        "level": "WARN",
+        "count": 1,
+        "remediation": "https://supabase.com/docs/guides/auth/password-security#password-strength-and-leaked-password-protection"
+      }
+    ],
+    "performanceBefore": [
+      {
+        "name": "unindexed_foreign_keys",
+        "level": "INFO",
+        "count": 5,
+        "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0001_unindexed_foreign_keys"
+      },
+      {
+        "name": "unused_index",
+        "level": "INFO",
+        "count": 14,
+        "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0005_unused_index"
+      }
+    ],
+    "performanceAfter": [
+      {
+        "name": "unindexed_foreign_keys",
+        "level": "INFO",
+        "count": 5,
+        "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0001_unindexed_foreign_keys"
+      },
+      {
+        "name": "unused_index",
+        "level": "INFO",
+        "count": 14,
+        "remediation": "https://supabase.com/docs/guides/database/database-linter?lint=0005_unused_index"
+      }
+    ],
+    "newIntentionalPrivateRlsTables": 12,
+    "newPublicPrivileges": false,
+    "newUnindexedForeignKeys": 0,
+    "existingWarningsPreserved": true
+  },
+  "archiveNative": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_0000000048d4820abc87727f8314866a",
+    "content_hash": "sha256:f3af612e746c0a1c9fcccd4873d23692a77ebdc8057d7065fc6ad83a37e9ae1c",
+    "size_bytes": 76482560,
+    "file_count": 489
+  },
+  "archiveLocal": {
+    "fileCount": 489,
+    "buildFiles": 488,
+    "buildFilesByteIdentical": true,
+    "hostingManifestSemanticallyEqual": true,
+    "hostingManifestPath": "dist/.openai/hosting.json",
+    "onlyHostingAndDist": true,
+    "bytes": 76100395,
+    "sha256": "e178b5b3831a7ec53ea1c723c831979e53ea1e8d89392cc3f8e1c5c2c7917b87"
+  },
+  "liveFiles": [
+    {
+      "path": "/",
+      "status": 200,
+      "expectedAssets": true
+    },
+    {
+      "path": "/account-config.json",
+      "status": 200,
+      "byteIdentical": true,
+      "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+    },
+    {
+      "path": "/sw.js",
+      "status": 200,
+      "byteIdentical": true,
+      "sha256": "f005a22fcf4146fe6724f0e9b52eea6dd2a314677c69d08a8bbc14db9543b34b"
+    },
+    {
+      "path": "/assets/index-B7bycnjh.js",
+      "status": 200,
+      "byteIdentical": true,
+      "sha256": "90e3554e07940ae0da0fff0dd11019bb6ceadac197d84ddd43acdc9e67f42b3c"
+    },
+    {
+      "path": "/assets/index-BRmgD8C_.css",
+      "status": 200,
+      "byteIdentical": true,
+      "sha256": "163cdda4918561d48d6e90087c00d5ff090c6a7329aec69fc252f2260675f231"
+    },
+    {
+      "path": "/assets/CollectionPage-qCn3w9rC.js",
+      "status": 200,
+      "byteIdentical": true,
+      "sha256": "2f2d17b7a71d5739fb21712631ab8196d6d6c37f5e4fdbf7da23a83b583771aa"
+    },
+    {
+      "path": "/assets/Help-DnjpxP7G.js",
+      "status": 200,
+      "byteIdentical": true,
+      "sha256": "6e8d537780da31c8ac2794713bae98c4c1858177903df480559083d46af5a076"
+    }
+  ],
+  "publicVersionRpc": [
+    {
+      "version": 77,
+      "published_at": "2026-10-12T22:35:53.224832+00:00"
+    }
+  ],
+  "releaseMetadata": {
+    "separateWrite": true,
+    "separateRead": true,
+    "anonymousRoleRead": true,
+    "sourceCommitConfirmed": true
+  },
+  "performance": {
+    "environment": "synthetic local backend; Chromium CPU throttling 4x; no production network or multi-user load",
+    "selectionPaintMs": {
+      "chromium": [
+        23,
+        42.8,
+        55.1
+      ],
+      "webkit": [
+        30,
+        49,
+        48
+      ]
+    },
+    "confirmedFeedbackPaintMs": {
+      "chromium": [
+        127.9,
+        294.5,
+        568.9
+      ],
+      "webkit": [
+        92,
+        143,
+        374
+      ]
+    },
+    "histories": [
+      0,
+      100,
+      500
+    ],
+    "selectionBudgetMs": 450,
+    "serverConfirmationBudgetClaimed": false,
+    "physicalHapticsOrSpeakerVerification": false
+  },
+  "githubPush": false,
+  "cleanup": {
+    "planned": true,
+    "removed": true,
+    "removedBytes": 1039801406,
+    "scope": "Own release77 source copy, builds, traces, results, scripts, logs and transport archive",
+    "rootDependenciesPreserved": true,
+    "foreignConfigurationsPreserved": true
+  }
+}
