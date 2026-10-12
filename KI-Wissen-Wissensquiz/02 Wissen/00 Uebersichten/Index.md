@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Bedienungstöne: erneute Freigabe trotz wartender Audioaktivierung – 12.10.2026](../../../docs/Lernregeln.md#erneute-tonfreigabe-bei-wartender-aktivierung--12102026)
+
 - [Antwortansicht: gemeinsame Lernklappe, Quellen darunter und „Verbesserung vorschlagen“ – 12.10.2026](../../../docs/Lernregeln.md#antwortansicht-und-gemeinsame-lernklappe--12102026)
 
 - [Antwortleiste ohne „War geraten“: nur Weiter-/Abschlussaktion, lokal am 12.10.2026](../../../docs/Lernregeln.md#antwortleiste-ohne-war-geraten--12102026)

@@ -95,22 +95,47 @@ it("übergeht den iPhone-Stummmodus nicht durch eine andere Audio-Session", asyn
 it("verliert das Antwortsignal nicht, wenn die Speicherung vor resume fertig ist", async () => {
   initialState = "suspended";
   let release!: () => void;
-  resume = () =>
-    new Promise<void>((resolve) => {
-      release = () => {
-        audio.state = "running";
-        resolve();
-      };
-    });
+  const activation = new Promise<void>((resolve) => {
+    release = () => {
+      audio.state = "running";
+      resolve();
+    };
+  });
+  resume = () => activation;
   const unlocking = feedback.unlockSound(settings);
   const second = feedback.unlockSound(settings);
   feedback.playFeedback("wrong", settings);
   expect(oscillators).toHaveLength(0);
-  expect(audio.resume).toHaveBeenCalledOnce();
+  expect(audio.resume).toHaveBeenCalledTimes(2);
   release();
   expect(await unlocking).toBe("ready");
   await second;
   expect(oscillators).toHaveLength(2);
+});
+
+it("nutzt einen neuen Bedienimpuls trotz noch wartender Audioaktivierung", async () => {
+  initialState = "suspended";
+  let attempts = 0;
+  resume = () => {
+    attempts++;
+    if (attempts === 1) return new Promise<void>(() => {});
+    audio.state = "running";
+    return Promise.resolve();
+  };
+  const first = feedback.unlockSound(settings);
+  feedback.playFeedback("click", settings);
+  await vi.advanceTimersByTimeAsync(100);
+
+  const second = feedback.unlockSound(settings);
+  feedback.playFeedback("click", settings);
+  await vi.advanceTimersByTimeAsync(0);
+  expect(await second).toBe("ready");
+  expect(audio.resume).toHaveBeenCalledTimes(2);
+  expect(oscillators).toHaveLength(1);
+
+  await vi.advanceTimersByTimeAsync(1000);
+  await first;
+  expect(oscillators).toHaveLength(1);
 });
 
 it.each(["mute", "hidden"])("verwirft wartende Töne bei %s", async (reason) => {

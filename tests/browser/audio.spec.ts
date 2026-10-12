@@ -101,6 +101,9 @@ const notes = (page: Page) =>
   );
 
 async function respond(page: Page, correct: boolean) {
+  await expect(
+    page.getByRole("button", { name: "Keine Ahnung", exact: true }),
+  ).toBeEnabled();
   const id = await page
     .locator("h1[data-question-id]")
     .getAttribute("data-question-id");
@@ -191,6 +194,10 @@ test("Klicksignale, verschiedene Antworttöne und gespeicherter Tonschalter im S
   expect(wrong[1].frequency).toBeLessThan(wrong[0].frequency);
   expect(wrong.every((note) => note.type === "sine")).toBe(true);
   await page.getByRole("button", { name: "Soundeffekte ausschalten" }).click();
+  await expect(
+    page.getByRole("button", { name: "Soundeffekte einschalten" }),
+  ).toHaveAttribute("aria-pressed", "false");
+  expect((await readStoredState(page)).settings.sound).toBe(false);
   const quiet = (await notes(page)).length;
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.reload();
@@ -228,6 +235,63 @@ test("Töne kehren nach einer Audio-Unterbrechung beim nächsten Klick zurück",
   expect(await respond(page, true)).toHaveLength(2);
 });
 
+for (const interrupted of [false, true]) {
+  test(`Profilklappen aktivieren Ton erneut trotz wartender Freigabe (${interrupted ? "interrupted" : "suspended"})`, async ({
+    page,
+  }) => {
+    await prepare(page);
+    await page.getByRole("button", { name: "Profil", exact: true }).click();
+    await expect.poll(async () => (await notes(page)).length).toBe(1);
+    await page.clock.install({ time: new Date("2026-10-03T10:00:00Z") });
+    await page.clock.pauseAt(new Date("2026-10-03T10:00:01Z"));
+    await page.evaluate(async (interrupted) => {
+      const audio = (window as unknown as { audioProbe: AudioProbe }).audioProbe
+        .context!;
+      await audio.suspend();
+      // Simulate Safari's interruption and an activation that stays pending.
+      if (interrupted)
+        Object.defineProperty(audio, "state", {
+          configurable: true,
+          value: "interrupted",
+        });
+      const resume = audio.resume.bind(audio);
+      let attempts = 0;
+      Object.assign(window, { resumeAttempts: () => attempts });
+      audio.resume = () => {
+        attempts++;
+        if (attempts === 1) return new Promise<void>(() => {});
+        if (interrupted) delete (audio as unknown as { state?: string }).state;
+        return resume();
+      };
+    }, interrupted);
+    const summary = page.locator(".profile-section > summary").first();
+    await summary.click();
+    await expect(page.locator(".profile-section").first()).toHaveAttribute(
+      "open",
+      "",
+    );
+    expect(await notes(page)).toHaveLength(1);
+    // The first activation's one-second deadline has not elapsed.
+    await summary.focus();
+    await page.keyboard.press("Enter");
+    await expect(page.locator(".profile-section").first()).not.toHaveAttribute(
+      "open",
+    );
+    await expect.poll(async () => (await notes(page)).length).toBe(2);
+    expect(
+      await page.evaluate(() =>
+        (
+          window as unknown as { resumeAttempts: () => number }
+        ).resumeAttempts(),
+      ),
+    ).toBe(2);
+    await page.clock.runFor(1100);
+    expect(await notes(page)).toHaveLength(2);
+    await summary.click();
+    await expect.poll(async () => (await notes(page)).length).toBe(3);
+  });
+}
+
 test("Gesammelte Lösungen bestätigen richtige und falsche Auswahl mit demselben neutralen Klick", async ({
   page,
 }) => {
@@ -245,7 +309,7 @@ test("Gesammelte Lösungen bestätigen richtige und falsche Auswahl mit demselbe
   const correct = await respond(page, true);
   await expect(page.locator(".answer.correct, .answer.wrong")).toHaveCount(0);
   const wrong = await respond(page, false);
-  expect(correct).toHaveLength(2);
+  expect(correct).toEqual([{ frequency: 600, type: "sine" }]);
   expect(wrong).toEqual(correct);
   await expect(page.locator(".answer.correct, .answer.wrong")).toHaveCount(0);
 });

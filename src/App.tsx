@@ -216,6 +216,13 @@ export function App({
     setBusy(true);
     setError("");
     try {
+      if (learning) {
+        if (learning.session.hasPending)
+          throw new Error("Bestätige zuerst die ausstehende Anfrage.");
+        // Learning answers write directly on the server. Refresh their
+        // revision before saving settings such as the in-game sound toggle.
+        await store.refresh();
+      }
       const next = await update(fn, undefined, {
         ...options,
         reuseCatalog: options.reuseCatalog ?? options.progressOnly === true,

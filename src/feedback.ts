@@ -65,22 +65,22 @@ export async function unlockSound(
     const audio = context;
     // Safari also pauses audio as "interrupted" after leaving the app.
     if (audio.state !== "running") {
-      if (!resuming) {
-        let timer: ReturnType<typeof setTimeout>;
-        const pending = Promise.race([
-          audio.resume(),
-          new Promise<void>((resolve) => {
-            timer = setTimeout(resolve, 1000);
-          }),
-        ])
-          .catch(() => {})
-          .finally(() => {
-            clearTimeout(timer);
-            if (resuming === pending) resuming = undefined;
-          });
-        resuming = pending;
-      }
-      await resuming;
+      // A pending resume may belong to a gesture the browser did not accept.
+      // Always use the new gesture; waiting on the old promise loses it.
+      let timer: ReturnType<typeof setTimeout>;
+      const pending = Promise.race([
+        audio.resume(),
+        new Promise<void>((resolve) => {
+          timer = setTimeout(resolve, 1000);
+        }),
+      ])
+        .catch(() => {})
+        .finally(() => {
+          clearTimeout(timer);
+          if (resuming === pending) resuming = undefined;
+        });
+      resuming = pending;
+      await pending;
     }
     return audio.state === "running" ? "ready" : "blocked";
   } catch {
