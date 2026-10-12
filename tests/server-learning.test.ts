@@ -467,6 +467,8 @@ it("spielt, bestätigt, setzt fort und öffnet ohne einen Katalogabruf", async (
     correct: 10,
     encountered: 10,
     recordRounds: 0,
+    perfectTens: 1,
+    zeroTens: 0,
     accuracy: 100,
   });
   expect(

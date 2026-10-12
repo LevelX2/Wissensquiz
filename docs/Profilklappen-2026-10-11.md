@@ -2,6 +2,8 @@
 
 Seit 11.10.2026 als **Version 67 öffentlich veröffentlicht**. [Gemeinsamer Nachweis](Veroeffentlichung-2026-10-11-Version-67.json). Auftrag: [unveränderte Nutzerquelle](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-11%20Nutzerauftrag%20Profilklappen%20und%20Merksatz.txt).
 
+Lokaler Nachfolgestand vom 12.10.2026: Eine sechste Klappe **Deine Erfolge** ergänzt die Spielstatistik. Sie verwendet das vorhandene Statistikmotiv und dieselbe native Bedienung. Enthalten sind erreichte/offene Erfolgsstufen und Fortschrittsbalken; [Erfolgsvertrag](Erfolge.md). Noch nicht veröffentlicht.
+
 Die Profilseite verwendet die goldenen, illustrierten Klappen der Frageseite mit denselben 62 Pixel hohen Kopfzeilen, 40 Pixel großen dekorativen Bildern, Richtungspfeilen, Fokusmarkierungen und nativer Maus-/Tastaturbedienung. Filmkarriere, Lernstand, Spielstatistik, Konto & Speicherung und Problem-/Verbesserungsmeldung beginnen geschlossen. Die Filmkarriere nennt das aktuelle Level bereits in der Kopfzeile. Optionen und Hilfe bleiben direkt erreichbar. Bei erneutem Seitenbesuch beginnen die Klappen geschlossen; Öffnen und Schließen verändern keinen Spielstand. Datenschutz- und Speicherhinweise stehen gemeinsam im Kontobereich.
 
 Der Merksatz entfällt aus der gemeinsamen Antwortdarstellung einschließlich Rundenrückblick und Duellauflösung. Erklärung, Vertiefung, Filmdaten, Quellen und Lernfortschritt bleiben vorhanden. Die Hilfe beschreibt den Ablauf ohne Merksatz. Quelldatenfelder bleiben unverändert erhalten; kein Eingriff in Fragen-IDs, Lernregeln oder Online-Speicherung.

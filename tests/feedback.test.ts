@@ -2,6 +2,7 @@ import { afterEach, beforeEach, expect, it, vi } from "vitest";
 import { emptyState } from "../src/model";
 
 const settings = emptyState().settings;
+import { successTiers } from "../src/successTiers";
 let feedback: typeof import("../src/feedback");
 let audio: FakeAudio;
 let initialState = "running";
@@ -59,6 +60,28 @@ beforeEach(async () => {
 afterEach(() => {
   vi.useRealTimers();
   vi.unstubAllGlobals();
+});
+
+it("signalisiert jede Erfolgsstufe einmal mit ihrer Melodie und Haptik; beide bleiben getrennt abschaltbar", async () => {
+  await feedback.unlockSound(settings);
+  for (const tier of successTiers) {
+    oscillators.length = 0;
+    vi.mocked(navigator.vibrate).mockClear();
+    feedback.playFeedback("success", { ...settings, haptics: true }, tier);
+    expect(oscillators).toHaveLength(tier.tones.length);
+    expect(navigator.vibrate).toHaveBeenCalledExactlyOnceWith([
+      ...tier.vibration,
+    ]);
+    oscillators.length = 0;
+    vi.mocked(navigator.vibrate).mockClear();
+    feedback.playFeedback(
+      "success",
+      { ...settings, haptics: false, sound: false },
+      tier,
+    );
+    expect(oscillators).toHaveLength(0);
+    expect(navigator.vibrate).not.toHaveBeenCalled();
+  }
 });
 
 it("startet beim Laden keine Audioausgabe und respektiert ausgeschalteten Ton", async () => {

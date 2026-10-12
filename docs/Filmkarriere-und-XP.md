@@ -4,6 +4,8 @@
 
 Leveldialog und Zehner-Abzeichen seit [Version 75](Veroeffentlichung-2026-10-12-Version-75.json) öffentlich verfügbar.
 
+Lokal nachfolgend erweitert: [gemeinsames Erfolgssystem](Erfolge.md) mit fünf Stufen, zentralen Icons/Signalen, Profilübersicht und Fortschritt. Dieser neue Stand ist noch nicht veröffentlicht.
+
 Kontorunden werden serverseitig ausgewählt und ausgewertet; der Server leitet XP und Lernstände aus privaten Antwortbelegen ab. Ergebnis und Sammlung erhalten kleine vorbereitete Ansichten. Der Client lädt weder einen Vollkatalog noch eine vollständige Karrierehistorie. Führend ist [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Die folgenden XP-Regeln und Levelhürden gelten weiter; die ausdrücklich historischen Abschnitte zur früheren Speicherung und Übernahme beschreiben keinen aktuellen Speicherweg.
 
 ## Historischer Stand vom 03.10.2026: XP bei Eintragssynchronisierung
@@ -56,7 +58,7 @@ Für den Aufstieg von Level `L` auf `L + 1` werden `100 + 50 × (L − 1)` XP be
 
 Die Filmklappe wächst farblich und ab Cineast mit einem Rahmen, ab Filmchronist mit Lorbeer und ab Filmlegende mit einem zusätzlichen Sternmotiv. Der Karrieretitel beschreibt Spielerfahrung und Lernleistungen. Genre-Wissensabzeichen und Filmreise-Freischaltungen behalten ihre eigenen Fachregeln; der globale Spielerlevel schaltet keine schwierigeren Fragen frei.
 
-## Darstellung und historische Ergebnisse
+## Darstellung und historische Ergebnisse (Version 75)
 
 Desktop-Seitenleiste und kompakter Handykopf zeigen Level, Titel und Fortschrittsbalken. Profil und Sammlung ergänzen XP bis zum nächsten Level und die Gesamtsumme. Die mobile Spielansicht bleibt frei für die laufende Frage. Die Hilfe erläutert Werte, Grenzen und Titel.
 
@@ -93,7 +95,7 @@ Lokale Optimierung vom 03.10.2026: Eine neue Antwort in einer noch offenen Runde
 
 ## Perfekte Zehnerrunden – 12.10.2026
 
-Abzeichen nach 1, 10, 50 und 100 perfekten abgeschlossenen Zehnerrunden, insgesamt über alle Genres, Film-, Schauspieler- und Preisfragen sowie Spielmodi. Die Runden müssen nicht aufeinander folgen. Jede Runde zählt höchstens einmal und muss genau zehn verschiedene Filmfakten mit zehn gewählten, sicher richtigen Antworten enthalten. Fehler, Zeitablauf, „Keine Ahnung“, geratene Treffer, verkürzte oder abgebrochene Runden zählen nicht. Die UI bezeichnet die Stufen als „Erste perfekte Zehnerrunde“ und „10/50/100 perfekte Zehnerrunden“. Keine zusätzlichen XP-Boni und keine Änderung der Levelkurve.
+Version 75 vergibt Abzeichen nach 1, 10, 50 und 100 perfekten abgeschlossenen Zehnerrunden, insgesamt über alle Genres, Film-, Schauspieler- und Preisfragen sowie Spielmodi. Der lokale Nachfolgestand ergänzt 25 und ordnet diese fünf Meilensteine Bronze bis Diamant zu; führender Vertrag ist [Erfolge](Erfolge.md). Die Runden müssen nicht aufeinander folgen. Jede Runde zählt höchstens einmal und muss genau zehn verschiedene Filmfakten mit zehn gewählten, sicher richtigen Antworten enthalten. Fehler, Zeitablauf, „Keine Ahnung“, geratene Treffer, verkürzte oder abgebrochene Runden zählen nicht. Keine zusätzlichen XP-Boni und keine Änderung der Levelkurve.
 
 Der Server führt eine private vorbereitete Zeile je qualifizierter Runde und einen Gesamtzähler. Bei Änderungen wird nur die betroffene Zehnerrunde anhand ihrer eigenen indizierten Antwortbelege geprüft; Ergebnis und Sammlung verwenden bestehende Abfragen. Keine neue RPC, kein Clientkatalog und keine vollständige Historienabfrage im normalen Abruf. Ein reiner Abzeichenbeleg (etwa bei Zeitrunden) enthält keine Lern-/XP-Aufschlüsselung; die Ergebnisansicht behandelt beide aktuellen Belegarten ausdrücklich. Bestehende aktuelle Runden werden einmal aus demselben Format abgeleitet, ohne historische Adapter oder Änderungen an Antworten, Lernständen und XP. Die Sammlung zeigt erreichte und noch gesperrte Abzeichen. Erst der aktuelle erfolgreiche Rundenabschluss darf den Dialog und den Ton auslösen; Neuladen und historischer Rückblick feiern nicht erneut. Reset/Import erneuern die Ableitung aus dem aktuellen Stand.
 

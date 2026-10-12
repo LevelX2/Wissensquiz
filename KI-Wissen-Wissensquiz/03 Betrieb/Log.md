@@ -2095,3 +2095,11 @@ Jim Carreys grüne Comicfigur mit natürlicher Antwort „Die Maske“ und Frage
 ## 12.10.2026 – Veröffentlichung nur nach aktueller Freigabe
 
 Lui präzisiert: erst nach seiner Freigabe veröffentlichen. Frühere Veröffentlichungsaufträge gelten nicht als Dauerfreigabe für spätere Änderungen. Die Regel umfasst Sites-Deployment sowie produktive Inhalts- und Datenbankaktivierung; lokale Umsetzung, Prüfung und Commits bleiben möglich. In AGENTS.md und Sites-Betrieb festgehalten. Keine Veröffentlichung für diese Regelpflege ausgeführt.
+
+## 12.10.2026 – Erfolge mit gemeinsamen Stufen und Profilfortschritt
+
+Nutzer wünscht eine nachsehbare Sammlung wie in Spielen und eine systematische Verbindung von Stufe, Icon, akustischem/haptischem Signal und Animation. Lokal umgesetzt: Bronze/Silber/Gold/Platin/Diamant, elf Erfolge für abgeschlossene und perfekte Runden (1/10/25/50/100) sowie eine vollständig beantwortete Zehnerrunde ohne Treffer. Profil zeigt erreichte/offene Stufen und nächsten Meilenstein; perfekte Ergebnisse zeigen laufende Nummer und Balken. Höchste gleichzeitig erreichte Stufe inszeniert einen gemeinsamen Dialog mit eigenen Einzelkarten. Neue private SQL-Projektion benötigt keinen Historienabruf und verändert keine XP-/Lernregeln. Keine Veröffentlichung.
+
+19 gezielte Logik-/SQL-/Feedbacktests, TypeScript und 18 unterschiedliche betroffene Browserfälle in Chromium/mobilem WebKit erfolgreich. Fehlgeschlagener Belohnungsabruf mit erfolgreicher Wiederholung und genau einem Signal geprüft. Konkrete zuvor fehlende Meldung ohne persönlichen damaligen Rundenstand nicht abschließend rekonstruiert; feste Schwellen und Zwischenstand jetzt ausdrücklich sichtbar/testbar. Lokaler Supabase-Advisor mangels laufender Datenbank nicht verfügbar und vor Serverbereitstellung offen. [Vertrag](../../docs/Erfolge.md), [Prüfnachweis](../../docs/Pruefbericht.md#12102026--einheitliches-erfolgssystem-und-profilfortschritt-lokal).
+
+Eigene aktuelle Ausgaben und Browserkonfiguration vollständig entfernt. Auch die zuvor blockierten Antwortlayout-Artefakte unter tmp-answer-layout und Port 4187 nach Prüfung ohne Force erfolgreich entfernt; Abwesenheit aller Ziele bestätigt. Keine offene eigene Bereinigung dieses Blocks, fremde temporäre Konfigurationen erhalten.

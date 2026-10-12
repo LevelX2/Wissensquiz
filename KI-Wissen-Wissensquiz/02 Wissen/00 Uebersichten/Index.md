@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Erfolgssystem: fünf Stufen, Icons, Ton/Haptik, Animation und Profilfortschritt – lokal am 12.10.2026](../../../docs/Erfolge.md)
+
 - [Die Maske: klare Rollenfrage und natürliche Antwort – 12.10.2026](../../../docs/Filmreise-Personen-und-Vertiefungen.md#die-maske-natürliche-figurenbezeichnung--12102026)
 
 - [Antwortansicht: gemeinsame Lernklappe, Quellen darunter und „Verbesserung vorschlagen“ – 12.10.2026](../../../docs/Lernregeln.md#antwortansicht-und-gemeinsame-lernklappe--12102026)

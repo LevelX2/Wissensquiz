@@ -3,19 +3,25 @@ import { useEffect, useRef, type CSSProperties } from "react";
 import { genreLabel, difficultyLabel } from "./filters";
 import type { PathUnlock } from "./learningPath";
 import { BadgeIcon } from "./Icons";
-import { perfectRoundLabel } from "./perfectRounds";
+import type { Achievement } from "./achievements";
+import { AchievementIcon } from "./AchievementIcon";
+import { celebrationTier, stageLabel } from "./successTiers";
 
 export function UnlockCelebration({
   unlocks,
   promotion,
-  perfectBadge,
+  achievements = [],
   onClose,
 }: {
   unlocks: PathUnlock[];
   promotion?: { level: number; title: string };
-  perfectBadge?: number;
+  achievements?: Achievement[];
   onClose: () => void;
 }) {
+  const tier = celebrationTier(achievements, promotion?.level);
+  const leadAchievement = [...achievements]
+    .reverse()
+    .find((a) => a.tier.rank === tier.rank);
   const dialog = useRef<HTMLDialogElement>(null);
   useEffect(() => {
     const el = dialog.current!;
@@ -26,12 +32,19 @@ export function UnlockCelebration({
     <dialog
       ref={dialog}
       className="unlock-celebration"
+      data-success-tier={tier.id}
+      style={
+        {
+          "--success-color": tier.light,
+          "--success-duration": `${tier.duration}ms`,
+        } as CSSProperties
+      }
       aria-labelledby="unlock-title"
       aria-describedby="unlock-description"
       onCancel={onClose}
     >
       <div className="unlock-scene" aria-hidden="true">
-        {[0, 1, 2].map((burst) => (
+        {Array.from({ length: tier.bursts }, (_, i) => i).map((burst) => (
           <div className={`firework firework-${burst}`} key={burst}>
             <span className="firework-trail" />
             {Array.from({ length: 16 }, (_, i) => {
@@ -56,7 +69,9 @@ export function UnlockCelebration({
           </div>
         ))}
         <div className="unlock-medal">
-          {promotion || perfectBadge ? (
+          {leadAchievement ? (
+            <AchievementIcon icon={leadAchievement.icon} tier={tier} />
+          ) : promotion ? (
             <BadgeIcon earned />
           ) : (
             <svg viewBox="0 0 100 100" fill="none">
@@ -85,11 +100,14 @@ export function UnlockCelebration({
       </div>
       <div className="unlock-copy">
         <span className="eyebrow">DEIN WISSEN BRINGT DICH WEITER</span>
+        <p className="success-tier">{stageLabel(tier)}</p>
         <h2 id="unlock-title">
           {promotion
             ? `Level ${promotion.level} erreicht!`
-            : perfectBadge
-              ? "Neues Abzeichen!"
+            : achievements.length
+              ? achievements.length === 1
+                ? "Neuer Erfolg!"
+                : "Neue Erfolge!"
               : unlocks.length === 1
                 ? "Neue Stufe freigeschaltet!"
                 : "Neue Stufen freigeschaltet!"}
@@ -103,13 +121,20 @@ export function UnlockCelebration({
             </strong>
           </p>
         )}
-        {perfectBadge && (
-          <div className="success-badge">
-            <BadgeIcon earned />
-            <strong>{perfectRoundLabel(perfectBadge)}</strong>
-            <span>Zehn von zehn sicher richtig – stark gemacht!</span>
+        {achievements.map((achievement) => (
+          <div
+            className="success-badge"
+            key={achievement.id}
+            style={
+              { "--success-color": achievement.tier.light } as CSSProperties
+            }
+          >
+            <AchievementIcon icon={achievement.icon} tier={achievement.tier} />
+            <small>{stageLabel(achievement.tier)}</small>
+            <strong>{achievement.label}</strong>
+            <span>{achievement.description}</span>
           </div>
-        )}
+        ))}
         {unlocks.length > 0 && (
           <>
             <ul className="unlock-levels">

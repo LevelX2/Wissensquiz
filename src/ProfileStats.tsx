@@ -4,6 +4,8 @@ import { isRecordMode } from "./recordModes";
 import { learningOverview } from "./learningProgress";
 import { useServer, useServerView, type LearningOverview } from "./serverViews";
 import { ProfileSection } from "./ProfileSection";
+import { localAchievements } from "./achievements";
+import { Achievements } from "./AchievementsPanel";
 
 export function profileStats(state: State) {
   const answered = state.events.filter(hasAnswer);
@@ -12,6 +14,7 @@ export function profileStats(state: State) {
     state.questions.map((question) => question.knowledgeId),
   );
   return {
+    ...localAchievements(state).counts,
     played: state.rounds.length,
     completed: state.rounds.filter((round) => round.status === "completed")
       .length,
@@ -45,6 +48,8 @@ export function ProfileStats({ state }: { state: State }) {
       | "encountered"
       | "recordRounds"
       | "accuracy"
+      | "perfectTens"
+      | "zeroTens"
     >
   >(server ? { action: "profile-stats" } : null);
   const summary = useServerView<LearningOverview>({ action: "summary" });
@@ -137,6 +142,9 @@ export function ProfileStats({ state }: { state: State }) {
           {careerProgress(state.experience).title} ·{" "}
           {state.experience.toLocaleString("de-DE")} XP
         </p>
+      </ProfileSection>
+      <ProfileSection title="Deine Erfolge" subject="statistics">
+        <Achievements counts={stats} />
       </ProfileSection>
     </>
   );

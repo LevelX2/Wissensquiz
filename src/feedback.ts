@@ -1,4 +1,5 @@
 import type { State } from "./model";
+import { successTiers, type SuccessTier } from "./successTiers";
 
 export type FeedbackKind =
   | "click"
@@ -9,9 +10,7 @@ export type FeedbackKind =
   | "reveal"
   | "timeout"
   | "complete"
-  | "badge"
-  | "level"
-  | "unlock";
+  | "success";
 const tones: Record<FeedbackKind, number[]> = {
   click: [600],
   start: [392, 523],
@@ -21,9 +20,7 @@ const tones: Record<FeedbackKind, number[]> = {
   reveal: [523, 659],
   timeout: [330, 262, 220],
   complete: [523, 659, 784],
-  badge: [523, 659, 784, 1047],
-  level: [392, 523, 659, 784, 1047],
-  unlock: [523, 659, 784, 1047, 784, 1047, 1319, 1568],
+  success: [...successTiers[0].tones],
 };
 const vibrations: Record<FeedbackKind, number | number[]> = {
   click: 10,
@@ -34,9 +31,7 @@ const vibrations: Record<FeedbackKind, number | number[]> = {
   reveal: [12, 40, 12],
   timeout: [35, 40, 35],
   complete: [25, 50, 25, 50, 40],
-  badge: [30, 50, 30, 50, 60],
-  level: [25, 50, 35, 50, 60],
-  unlock: [35, 50, 35, 70, 75],
+  success: [...successTiers[0].vibration],
 };
 let context: AudioContext | undefined;
 let resuming: Promise<void> | undefined;
@@ -104,20 +99,28 @@ export function stopFeedback() {
     /* Optional hardware. */
   }
 }
-export function playFeedback(kind: FeedbackKind, settings: State["settings"]) {
+export function playFeedback(
+  kind: FeedbackKind,
+  settings: State["settings"],
+  tier?: SuccessTier,
+) {
   if (typeof document !== "undefined" && document.visibilityState === "hidden")
     return;
   let haptics: "off" | "unavailable" | "requested" | "blocked" =
     settings.haptics ? "unavailable" : "off";
   try {
     if (settings.haptics && supportsHaptics())
-      haptics = navigator.vibrate(vibrations[kind]) ? "requested" : "blocked";
+      haptics = navigator.vibrate(
+        kind === "success" && tier ? [...tier.vibration] : vibrations[kind],
+      )
+        ? "requested"
+        : "blocked";
   } catch {
     haptics = "blocked";
   }
   if (settings.sound === false || !context) return haptics;
   const audio = context;
-  if (audio.state === "running") playTones(kind, audio);
+  if (audio.state === "running") playTones(kind, audio, tier);
   else if (resuming) {
     const requestedAt = performance.now(),
       requestGeneration = generation;
@@ -130,13 +133,17 @@ export function playFeedback(kind: FeedbackKind, settings: State["settings"]) {
         audio.state === "running" &&
         document.visibilityState !== "hidden"
       )
-        playTones(kind, audio);
+        playTones(kind, audio, tier);
     });
   }
   return haptics;
 }
 
-function playTones(kind: FeedbackKind, audio: AudioContext) {
+function playTones(
+  kind: FeedbackKind,
+  audio: AudioContext,
+  tier?: SuccessTier,
+) {
   try {
     // Brief, soft answer tones: an ascending major third for success and a
     // quieter descending pair for a miss, distinct by register and direction.
@@ -170,14 +177,15 @@ function playTones(kind: FeedbackKind, audio: AudioContext) {
                   peak: 0.026,
                 }
               : {
-                  type: (kind === "unlock"
+                  type: (kind === "success"
                     ? "triangle"
                     : "sine") as OscillatorType,
-                  spacing: kind === "unlock" ? 0.13 : 0.1,
+                  spacing: 0.1,
                   duration: 0.15,
                   peak: 0.045,
                 };
-    tones[kind].forEach((frequency, index) => {
+    const melody = kind === "success" && tier ? tier.tones : tones[kind];
+    melody.forEach((frequency, index) => {
       const oscillator = audio.createOscillator();
       const gain = audio.createGain();
       const at = audio.currentTime + index * voice.spacing;

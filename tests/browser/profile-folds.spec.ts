@@ -14,8 +14,15 @@ for (const width of [320, 1280]) {
     const before = await readStoredState(page);
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     const sections = page.locator(".profile-section");
-    await expect(sections).toHaveCount(5);
-    const subjects = ["film", "learning", "statistics", "account", "report"];
+    await expect(sections).toHaveCount(6);
+    const subjects = [
+      "film",
+      "learning",
+      "statistics",
+      "statistics",
+      "account",
+      "report",
+    ];
     const closedArrow = await sections
       .first()
       .locator("summary")

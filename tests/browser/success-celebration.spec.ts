@@ -7,6 +7,7 @@ import {
 } from "./fixtures";
 import { answer, complete, startRound } from "../../src/engine";
 import AxeBuilder from "@axe-core/playwright";
+import { archiveClosedRounds } from "../../src/roundArchive";
 
 for (const { sound, promote } of [
   { sound: true, promote: true },
@@ -22,7 +23,18 @@ for (const { sound, promote } of [
     await page.emulateMedia({ reducedMotion: "reduce" });
     await page.addInitScript(() => {
       const notes: number[] = [];
-      Object.assign(window, { successNotes: notes });
+      const vibrations: (number | number[])[] = [];
+      Object.assign(window, {
+        successNotes: notes,
+        successVibrations: vibrations,
+      });
+      Object.defineProperty(navigator, "vibrate", {
+        configurable: true,
+        value: (pattern: number | number[]) => {
+          vibrations.push(pattern);
+          return true;
+        },
+      });
       // Instrumented Web Audio interface; no claim about physical speakers.
       class AudioProbe {
         state = "running";
@@ -65,6 +77,7 @@ for (const { sound, promote } of [
     ).toBeEnabled();
     const state = await readStoredState(page);
     state.settings.sound = sound;
+    state.settings.haptics = true;
     const qs = [
       ...new Map(
         state.questions
@@ -107,10 +120,42 @@ for (const { sound, promote } of [
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     await page.evaluate(() => {
       (window as unknown as { successNotes: number[] }).successNotes.length = 0;
+      (
+        window as unknown as { successVibrations: unknown[] }
+      ).successVibrations.length = 0;
+    });
+    let rewardUnavailable = !sound;
+    await page.route("**/rest/v1/rpc/quiz_game_view", async (route) => {
+      if (
+        rewardUnavailable &&
+        JSON.parse(route.request().postDataJSON().request_text).action ===
+          "round-experience"
+      )
+        return route.fulfill({
+          status: 503,
+          json: { message: "Test: Belohnung vorübergehend nicht verfügbar" },
+        });
+      await route.fallback();
     });
     await page.getByRole("button", { name: "Runde abschließen" }).click();
+    if (!sound) {
+      const failure = page
+        .getByRole("alert")
+        .filter({ hasText: "Rundenerfahrung" });
+      await expect(failure).toBeVisible();
+      await expect(page.locator("dialog[open]")).toHaveCount(0);
+      expect(
+        await page.evaluate(
+          () =>
+            (window as unknown as { successVibrations: unknown[] })
+              .successVibrations,
+        ),
+      ).toEqual([]);
+      rewardUnavailable = false;
+      await failure.getByRole("button", { name: "Erneut versuchen" }).click();
+    }
     const dialog = page.getByRole("dialog", {
-      name: promote ? "Level 2 erreicht!" : "Neues Abzeichen!",
+      name: promote ? "Level 2 erreicht!" : "Neue Erfolge!",
     });
     await expect(dialog).toBeVisible();
     await expect(page.locator("dialog[open]")).toHaveCount(1);
@@ -123,12 +168,15 @@ for (const { sound, promote } of [
       () => (window as unknown as { successNotes: number[] }).successNotes,
     );
     expect(notes.filter((n) => n !== 600)).toEqual(
-      sound
-        ? promote
-          ? [392, 523, 659, 784, 1047]
-          : [523, 659, 784, 1047]
-        : [],
+      sound ? [523, 659, 784] : [],
     );
+    expect(
+      await page.evaluate(
+        () =>
+          (window as unknown as { successVibrations: unknown[] })
+            .successVibrations,
+      ),
+    ).toEqual([[25, 50, 35]]);
     expect(
       (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
         .violations,
@@ -146,9 +194,142 @@ for (const { sound, promote } of [
     const badges = page.getByRole("region", { name: "Perfekte Zehnerrunden" });
     await expect(badges.locator("li.earned")).toHaveCount(1);
     await expect(badges).toContainText("1 geschafft");
+    await expect(badges.getByRole("progressbar")).toHaveAttribute("value", "1");
+    await expect(badges.getByRole("progressbar")).toHaveAttribute("max", "10");
     await page.reload();
     await expect(page.locator("dialog[open]")).toHaveCount(0);
     await page.getByRole("button", { name: "Sammlung", exact: true }).click();
     await expect(badges.locator("li.earned")).toHaveCount(1);
+    await page.getByRole("button", { name: "Profil", exact: true }).click();
+    const achievements = page.getByRole("region", {
+      name: "Deine Erfolge",
+      exact: true,
+    });
+    await achievements.locator("summary").click();
+    const perfect = achievements.getByRole("region", {
+      name: "Perfekte Zehnerrunden",
+      exact: true,
+    });
+    await expect(perfect.getByRole("progressbar")).toHaveAttribute(
+      "value",
+      "1",
+    );
+    await expect(perfect.getByRole("progressbar")).toHaveAttribute("max", "10");
+    await expect(perfect.locator("li.earned")).toHaveCount(1);
+    await expect(achievements).toContainText("Heute war nicht mein Tag");
+  });
+}
+
+for (const scenario of [
+  { count: 2, correct: true, tier: null, next: 10 },
+  { count: 10, correct: true, tier: "silver", next: 25 },
+  { count: 25, correct: true, tier: "gold", next: 50 },
+  { count: 1, correct: false, tier: "bronze", next: 1 },
+]) {
+  test(`Erfolgssystem: ${scenario.count} ${scenario.correct ? "perfekte" : "trefferlose"} Zehnerrunden`, async ({
+    page,
+  }, testInfo) => {
+    const now = new Date("2026-10-12T18:00:00+02:00");
+    await fixCalendarTime(page, now);
+    await page.goto("/");
+    await expect(
+      page.getByRole("button", { name: "Losspielen" }),
+    ).toBeEnabled();
+    const state = await readStoredState(page);
+    const questions = [
+      ...new Map(
+        state.questions
+          .filter((q) => q.difficulty === "leicht")
+          .map((q) => [q.knowledgeId, q]),
+      ).values(),
+    ].slice(0, 10);
+    for (let i = 0; i < scenario.count; i++) {
+      const at = now.getTime() - 60000 + i * 1000;
+      const round = startRound(
+        state,
+        { mode: "entdecken", topic: "Alle Themen", difficulty: "Alle Stufen" },
+        at,
+      );
+      round.questions = structuredClone(questions);
+      round.order = questions.map((q) => q.answers.map((a) => a.id));
+      round.familiaritySnapshot = undefined;
+      for (const q of questions)
+        answer(
+          state,
+          round.id,
+          q.id,
+          scenario.correct
+            ? q.correctId
+            : q.answers.find((a) => a.id !== q.correctId)!.id,
+          100,
+          at + 100,
+        );
+      if (i < scenario.count - 1) complete(state, round.id, at + 500);
+    }
+    archiveClosedRounds(state);
+    await writeStoredState(page, state);
+    await page.reload();
+    await page.getByRole("button", { name: "Fortsetzen" }).click();
+    await page.getByRole("button", { name: "Runde abschließen" }).click();
+    if (scenario.tier) {
+      const dialog = page.getByRole("dialog");
+      await expect(dialog).toBeVisible();
+      await expect(dialog).toHaveAttribute("data-success-tier", scenario.tier);
+      await expect(dialog).toContainText(
+        scenario.correct
+          ? `${scenario.count} perfekte Zehnerrunden`
+          : "Heute war nicht mein Tag",
+      );
+      await dialog.screenshot({
+        path: testInfo.outputPath(`erfolg-${scenario.tier}.png`),
+      });
+      await dialog.getByRole("button", { name: "Weiter zum Ergebnis" }).click();
+    }
+    await expect(
+      page.getByRole("heading", { name: "Eine Runde weiter." }),
+    ).toBeVisible();
+    await expect(page.locator("dialog[open]")).toHaveCount(0);
+    if (scenario.correct) {
+      const progress = page
+        .locator(".result-achievements")
+        .getByRole("progressbar");
+      await expect(progress).toHaveAttribute("value", String(scenario.count));
+      await expect(progress).toHaveAttribute("max", String(scenario.next));
+    }
+    await page.getByRole("button", { name: "Profil", exact: true }).click();
+    const collection = page.getByRole("region", {
+      name: "Deine Erfolge",
+      exact: true,
+    });
+    await collection.locator("summary").click();
+    const track = collection.getByRole("region", {
+      name: scenario.correct
+        ? "Perfekte Zehnerrunden"
+        : "Heute war nicht mein Tag",
+      exact: true,
+    });
+    await expect(track.locator("li.earned")).toHaveCount(
+      scenario.count >= 25 ? 3 : scenario.count >= 10 ? 2 : 1,
+    );
+    await expect(track.getByRole("progressbar")).toHaveAttribute(
+      "value",
+      String(scenario.count),
+    );
+    await expect
+      .poll(() =>
+        collection
+          .locator(".profile-section-content")
+          .evaluate((el) => getComputedStyle(el).opacity),
+      )
+      .toBe("1");
+    expect(
+      (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+        .violations,
+    ).toEqual([]);
+    await page.reload();
+    await expect(
+      page.getByRole("button", { name: "Losspielen" }),
+    ).toBeEnabled();
+    await expect(page.locator("dialog[open]")).toHaveCount(0);
   });
 }

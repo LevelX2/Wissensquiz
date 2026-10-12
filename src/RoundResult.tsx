@@ -23,7 +23,14 @@ import { QuestionHistory } from "./QuestionHistoryPanel";
 import { useServer, useServerView } from "./serverViews";
 import type { PathUnlock } from "./learningPath";
 import { UnlockCelebration } from "./UnlockCelebration";
-import { newPerfectRoundBadge } from "./perfectRounds";
+import {
+  localAchievements,
+  reachedAchievements,
+  type AchievementCounts,
+} from "./achievements";
+import { perfectRoundLabel, perfectRoundMilestones } from "./perfectRounds";
+import { AchievementProgress } from "./AchievementsPanel";
+import { celebrationTier } from "./successTiers";
 import { playFeedback } from "./feedback";
 
 export function Result({
@@ -69,6 +76,7 @@ export function Result({
     before?: number;
     after?: number;
     perfectTens: number;
+    achievements: AchievementCounts;
   } | null>(
     remoteReward ? { action: "round-experience", scope: round.id } : null,
   );
@@ -84,32 +92,30 @@ export function Result({
   useEffect(() => {
     if (acknowledged === round.id) resultHeading.current?.focus();
   }, [acknowledged, round.id]);
-  const perfectBadge = newPerfectRoundBadge(
-    serverReward.value?.perfectTens ?? 0,
+  const achievementSnapshot = remoteReward
+    ? serverReward.value?.achievements
+    : localAchievements(state, round.id).snapshot;
+  const achievements = reachedAchievements(
+    achievementSnapshot ?? { completed: 0, perfectTens: 0, zeroTens: 0 },
   );
-  const hasSuccess = !!promotion || !!perfectBadge || unlocks.length > 0;
-  const rewardReady =
-    !remoteReward || serverReward.value !== undefined || !!serverReward.error;
+  const hasSuccess =
+    !!promotion || achievements.length > 0 || unlocks.length > 0;
+  const successTier = celebrationTier(achievements, promotion?.level);
+  const rewardReady = !remoteReward || serverReward.value !== undefined;
   useEffect(() => {
     if (!celebrate || !rewardReady || sounded.current === round.id) return;
     sounded.current = round.id;
     playFeedback(
-      promotion
-        ? "level"
-        : perfectBadge
-          ? "badge"
-          : unlocks.length
-            ? "unlock"
-            : "complete",
+      hasSuccess ? "success" : "complete",
       state.settings,
+      successTier,
     );
   }, [
     celebrate,
     rewardReady,
     round.id,
-    promotion,
-    perfectBadge,
-    unlocks.length,
+    hasSuccess,
+    successTier,
     state.settings,
   ]);
   const summary = roundSummary(
@@ -170,7 +176,7 @@ export function Result({
         <UnlockCelebration
           unlocks={unlocks}
           promotion={promotion}
-          perfectBadge={perfectBadge}
+          achievements={achievements}
           onClose={() => {
             setAcknowledged(round.id);
             onAcknowledged?.();
@@ -262,6 +268,24 @@ export function Result({
         </div>
       )}
       <div className="result-progress">
+        {!!achievementSnapshot?.perfectTens && (
+          <div className="result-achievements">
+            <p>
+              <strong>
+                Perfekte Zehnerrunde Nr. {achievementSnapshot.perfectTens}
+              </strong>
+            </p>
+            <AchievementProgress
+              count={achievementSnapshot.perfectTens}
+              milestones={perfectRoundMilestones}
+              label={perfectRoundLabel}
+            />
+            <p className="tiny muted">
+              Deine Abzeichen und weitere Ziele findest Du im Profil unter
+              „Deine Erfolge“.
+            </p>
+          </div>
+        )}
         {roundXp &&
           roundProgress &&
           roundProgress.before !== undefined &&

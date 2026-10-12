@@ -1,5 +1,5 @@
 .unlock-celebration {
-  border: 1px solid #d0b16b;
+  border: 1px solid var(--success-color, #d0b16b);
   border-radius: 24px;
   padding: 0;
   width: min(540px, calc(100vw - 28px));
@@ -16,27 +16,37 @@
 }
 .unlock-scene {
   position: relative;
-  height: 195px;
+  height: 145px;
   overflow: hidden;
   background: radial-gradient(ellipse at bottom, #526247, #203b3b 75%);
 }
 .unlock-medal {
   position: relative;
-  margin: 42px auto 0;
-  width: 130px;
-  height: 130px;
-  border: 2px solid #efd297;
+  margin: 26px auto 0;
+  width: 96px;
+  height: 96px;
+  border: 2px solid var(--success-color, #efd297);
   border-radius: 50%;
   background: radial-gradient(circle at 35% 25%, #617652, #294443 70%);
-  color: #ffe3a1;
+  color: var(--success-color, #ffe3a1);
   box-shadow:
     0 0 0 9px #f2d49715,
     0 0 50px #ffe3a12b;
-  animation: unlock-medal 850ms cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation: unlock-medal var(--success-duration, 850ms)
+    cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.unlock-medal .achievement-icon,
+.success-badge .achievement-icon {
+  color: var(--success-color) !important;
+}
+.unlock-copy .success-tier {
+  color: var(--success-color, #ffe3a1);
+  font-weight: 700;
+  margin: 12px 0 0;
 }
 .unlock-medal svg {
-  width: 92px;
-  height: 105px;
+  width: 68px;
+  height: 78px;
   margin-top: 7px;
 }
 .unlock-shackle {
@@ -54,7 +64,7 @@
 .unlock-copy h2 {
   font-size: clamp(27px, 5vw, 38px);
   line-height: 1.12;
-  margin: 16px 0 20px;
+  margin: 10px 0 14px;
   color: #fff4d6;
 }
 .unlock-copy p {
@@ -105,6 +115,14 @@
   left: 50%;
   top: 24%;
 }
+.firework-3 {
+  left: 28%;
+  top: 20%;
+}
+.firework-4 {
+  left: 72%;
+  top: 18%;
+}
 .firework i {
   position: absolute;
   width: 5px;
@@ -128,6 +146,12 @@
 }
 .firework-2 .firework-trail {
   animation-delay: 900ms;
+}
+.firework-3 .firework-trail {
+  animation-delay: 1350ms;
+}
+.firework-4 .firework-trail {
+  animation-delay: 1800ms;
 }
 @keyframes unlock-arrive {
   from {
@@ -246,18 +270,23 @@
 }
 .success-badge {
   display: grid;
-  justify-items: center;
-  gap: 8px;
-  margin: 20px 0;
-  padding: 16px;
-  border: 1px solid #d0b16b;
+  grid-template-columns: 52px minmax(0, 1fr);
+  align-items: center;
+  text-align: left;
+  gap: 4px 12px;
+  margin: 12px 0;
+  padding: 12px;
+  border: 1px solid var(--success-color, #d0b16b);
   border-radius: 16px;
   background: #ffffff0a;
 }
 .success-badge svg {
-  width: 64px;
-  height: 64px;
+  grid-column: 1;
+  grid-row: 1 / span 3;
+  width: 52px;
+  height: 60px;
 }
 .success-badge span {
-  font-size: 14px;
+  font-size: 12px;
+  line-height: 1.5;
 }
