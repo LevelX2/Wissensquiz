@@ -6,7 +6,7 @@
 - Bei unbekanntem Kontext: `KI-Wissen-Wissensquiz/00 Projektstart.md`.
 - Projektfragen: zuerst `KI-Wissen-Wissensquiz/02 Wissen/00 Uebersichten/Index.md` oder die bekannte aktuelle Fachseite lesen (`wiki-first`).
 - Neue oder überarbeitete Fragenpakete: persönlichen Skill `wissensquiz-fragen-redigieren` verwenden; führender Redaktionsvertrag ist `docs/Fragenredaktion.md`. Filmfragen benötigen mindestens zwei eigenständige Inhaltsziele je leicht/mittel/schwer plus Jahr und Regie; Personen-/Preisfragen haben zusätzlich Experte. Bekanntheit und Schwierigkeit getrennt behandeln.
-- Codeänderungen: betroffene Verträge, Implementierung und passende Checks unmittelbar prüfen. Unveränderten Kontext wiederverwenden.
+- Codeänderungen: betroffene Verträge, Implementierung und vorhandene Checks unmittelbar sichten; Prüfungen nach der untenstehenden Testregel auswählen. Unveränderten Kontext wiederverwenden.
 - Wissenspflege: Prozessseite `KI-Wissen-Wissensquiz/02 Wissen/Prozesse/Arbeitsworkflow Wissenspflege und Projektanfragen.md` und `KI-Wissen-Wissensquiz/00 Steuerung/Regeldatei KI-Wissenspflege.md` lesen.
 - Für relevante lokale Pfadauflösung `AGENTS.local.md` ausdrücklich lesen, falls vorhanden; sie wird nicht automatisch geladen.
 - Reihenfolge: projektspezifische Regeln im Repository, lokale Auflösung durch `AGENTS.local.md`, globale oder typspezifische Defaults aus `mein-wissen`. Die lokale Datei ersetzt keine Projektregeln. Aktuelle Nutzeranweisungen haben Vorrang.
@@ -31,7 +31,10 @@
 - Keine Secrets, privaten Pfade, lokalen Nutzdaten oder reproduzierbaren Build-Artefakte versionieren.
 - Stack: React/TypeScript, Vite, statische Webapp mit Supabase für Anmeldung und Spielstand. Kein Offline-Paket und keine automatische lokale Kontospielstandsablage; befristete Proberunde gemäß Fachvertrag.
 - Fachverträge: `docs/Importformat.md` und `docs/Lernregeln.md`; Prüfnachweis: `docs/Pruefbericht.md`.
-- Checks: `npm test`, `npm run build`, für Oberfläche/Persistenz/Offline `npm run test:browser`; ergänzend `git diff --check` und bei Abhängigkeitsänderungen `npm audit`.
+- Kleine Änderungen in einzelnen Chats fachlich prüfen und `git diff --check` ausführen. Nicht für jeden kleinen Änderungsblock die vollständige Testsuite, einen Produktionsbuild oder eine umfassende Browserprüfung starten. Der lokale Commit eines solchen Blocks benötigt keinen vollständigen Testlauf.
+- Neue oder geänderte Tests direkt gezielt ausführen. Bei konkreten Fehlern oder begründetem Risiko zusätzlich die unmittelbar betroffenen vorhandenen Tests ausführen; daraus folgt kein vollständiger Prüflauf in jedem Chat.
+- Vor jeder Veröffentlichung einmal gebündelt auf dem gemeinsamen, zur Veröffentlichung vorgesehenen Quellstand prüfen: vollständiges `npm test` und `npm run build`; bei Änderungen an Oberfläche/Persistenz/Offline zusätzlich `npm run test:browser`, außerdem `git diff --check` und bei Abhängigkeitsänderungen `npm audit`. Der veröffentlichende Chat übernimmt diesen zentralen Prüflauf für alle enthaltenen Änderungsblöcke. Keine parallelen vollständigen Prüfläufe in mehreren Chats für denselben gemeinsamen Arbeitsstand starten.
+- Veröffentlichung erst, wenn alle erforderlichen Prüfungen erfolgreich sind. Fehler beheben und die betroffenen Prüfungen erneut erfolgreich ausführen; fehlgeschlagene oder wegen Zeitüberschreitung abgebrochene Prüfungen gelten nicht als bestanden. Erfolgreiche Prüfungen desselben unveränderten Standes wiederverwenden. Änderungen nach der Prüfung machen die betroffenen Nachweise ungültig; vor Veröffentlichung entsprechend nachprüfen.
 - Tests nur mit isolierten Browserprofilen und kontrollierter Testzeit durchführen. Echte Nutzerdaten nicht für Testfortschritte verändern.
 - Roh-CSV unverändert erhalten. Bestehende Frage-IDs nicht still überschreiben; Varianten teilen Wissensziel-IDs. Lernpunkte und Rekordzeit getrennt behandeln.
 
