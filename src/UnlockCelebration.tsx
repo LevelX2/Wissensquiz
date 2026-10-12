@@ -2,12 +2,18 @@ import { familiarityLabel } from "./familiarity";
 import { useEffect, useRef, type CSSProperties } from "react";
 import { genreLabel, difficultyLabel } from "./filters";
 import type { PathUnlock } from "./learningPath";
+import { BadgeIcon } from "./Icons";
+import { perfectRoundLabel } from "./perfectRounds";
 
 export function UnlockCelebration({
   unlocks,
+  promotion,
+  perfectBadge,
   onClose,
 }: {
   unlocks: PathUnlock[];
+  promotion?: { level: number; title: string };
+  perfectBadge?: number;
   onClose: () => void;
 }) {
   const dialog = useRef<HTMLDialogElement>(null);
@@ -50,55 +56,90 @@ export function UnlockCelebration({
           </div>
         ))}
         <div className="unlock-medal">
-          <svg viewBox="0 0 100 100" fill="none">
-            <path
-              className="unlock-shackle"
-              d="M34 46V31a16 16 0 0 1 32 0v15"
-              stroke="currentColor"
-              strokeWidth="7"
-              strokeLinecap="round"
-            />
-            <rect
-              x="23"
-              y="44"
-              width="54"
-              height="43"
-              rx="12"
-              fill="currentColor"
-            />
-            <path
-              d="m50 53 3.5 7.5 8.5 1-6.2 5.8 1.7 8.2-7.5-4.2-7.5 4.2 1.7-8.2-6.2-5.8 8.5-1Z"
-              fill="#433319"
-            />
-          </svg>
+          {promotion || perfectBadge ? (
+            <BadgeIcon earned />
+          ) : (
+            <svg viewBox="0 0 100 100" fill="none">
+              <path
+                className="unlock-shackle"
+                d="M34 46V31a16 16 0 0 1 32 0v15"
+                stroke="currentColor"
+                strokeWidth="7"
+                strokeLinecap="round"
+              />
+              <rect
+                x="23"
+                y="44"
+                width="54"
+                height="43"
+                rx="12"
+                fill="currentColor"
+              />
+              <path
+                d="m50 53 3.5 7.5 8.5 1-6.2 5.8 1.7 8.2-7.5-4.2-7.5 4.2 1.7-8.2-6.2-5.8 8.5-1Z"
+                fill="#433319"
+              />
+            </svg>
+          )}
         </div>
       </div>
       <div className="unlock-copy">
         <span className="eyebrow">DEIN WISSEN BRINGT DICH WEITER</span>
         <h2 id="unlock-title">
-          {unlocks.length === 1
-            ? "Neue Stufe freigeschaltet!"
-            : "Neue Stufen freigeschaltet!"}
+          {promotion
+            ? `Level ${promotion.level} erreicht!`
+            : perfectBadge
+              ? "Neues Abzeichen!"
+              : unlocks.length === 1
+                ? "Neue Stufe freigeschaltet!"
+                : "Neue Stufen freigeschaltet!"}
         </h2>
-        <ul className="unlock-levels">
-          {unlocks.map((unlock) => (
-            <li
-              key={`${unlock.genre}:${"difficulty" in unlock ? unlock.difficulty : unlock.familiarity}`}
-            >
-              <span>{genreLabel(unlock.genre)}</span>
-              <strong>
-                {"difficulty" in unlock
-                  ? difficultyLabel(unlock.difficulty)
-                  : familiarityLabel(unlock.familiarity)}
-              </strong>
-            </li>
-          ))}
-        </ul>
+        {promotion && (
+          <p className="success-promotion">
+            Gratulation! Dein Filmwissen bringt Dich weiter.
+            <br />
+            <strong>
+              Level {promotion.level} · {promotion.title}
+            </strong>
+          </p>
+        )}
+        {perfectBadge && (
+          <div className="success-badge">
+            <BadgeIcon earned />
+            <strong>{perfectRoundLabel(perfectBadge)}</strong>
+            <span>Zehn von zehn sicher richtig – stark gemacht!</span>
+          </div>
+        )}
+        {unlocks.length > 0 && (
+          <>
+            <ul className="unlock-levels">
+              {unlocks.map((unlock) => (
+                <li
+                  key={`${unlock.genre}:${"difficulty" in unlock ? unlock.difficulty : unlock.familiarity}`}
+                >
+                  <span>{genreLabel(unlock.genre)}</span>
+                  <strong>
+                    {"difficulty" in unlock
+                      ? difficultyLabel(unlock.difficulty)
+                      : familiarityLabel(unlock.familiarity)}
+                  </strong>
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
         <p id="unlock-description">
-          Geschafft! Deine sicheren Antworten haben die nächste Tür geöffnet.{" "}
-          {unlocks.length === 1
-            ? "Diese Stufe steht Dir jetzt auch in der Filmreise zur Verfügung."
-            : "Diese Stufen stehen Dir jetzt auch in der Filmreise zur Verfügung."}
+          {unlocks.length === 0 ? (
+            "Dein Erfolg ist gespeichert. Dein Rundenergebnis wartet auf Dich."
+          ) : (
+            <>
+              Geschafft! Deine sicheren Antworten haben die nächste Tür
+              geöffnet.{" "}
+              {unlocks.length === 1
+                ? "Diese Stufe steht Dir jetzt auch in der Filmreise zur Verfügung."
+                : "Diese Stufen stehen Dir jetzt auch in der Filmreise zur Verfügung."}
+            </>
+          )}
         </p>
         <button className="primary" autoFocus onClick={onClose}>
           Weiter zum Ergebnis

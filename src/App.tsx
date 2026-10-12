@@ -1,4 +1,3 @@
-import { UnlockCelebration } from "./UnlockCelebration";
 import { serverUnlocks, type PathUnlock } from "./learningPath";
 import { isRecordMode, isEndlessMode } from "./recordModes";
 import type { PlayGroup } from "./ModePicker";
@@ -120,6 +119,7 @@ export function App({
   const [celebration, setCelebration] = useState<{
     roundId: string;
     unlocks: PathUnlock[];
+    promotion?: { level: number; title: string };
   } | null>(null);
   const [justCompleted, setJustCompleted] = useState("");
   const immediateResult = useRef<Round | undefined>(undefined);
@@ -208,8 +208,8 @@ export function App({
     }
   }, [page, index, topicScope]);
   useEffect(() => {
-    if (!celebration && page === "result") heading.current?.focus();
-  }, [celebration, page]);
+    if (page === "result") heading.current?.focus();
+  }, [page]);
   const mutate: Mutate = async (fn, options = { progressOnly: true }) => {
     if (inFlight.current) return null;
     inFlight.current = true;
@@ -738,17 +738,26 @@ export function App({
                       { progressOnly: false, reuseCatalog: true },
                     );
                     const unlocks = serverUnlocks(state, saved);
-                    if (unlocks.length)
-                      setCelebration({ roundId: review.id, unlocks });
+                    const promoted = careerProgress(saved.experience);
+                    setCelebration(
+                      unlocks.length ||
+                        promoted.level > careerProgress(state.experience).level
+                        ? {
+                            roundId: review.id,
+                            unlocks,
+                            ...(promoted.level >
+                            careerProgress(state.experience).level
+                              ? { promotion: promoted }
+                              : {}),
+                          }
+                        : null,
+                    );
                     setState(saved);
                     setRoundId(review.id);
                     setJustCompleted(review.id);
                     immediateResult.current = review;
                     setRanked(null);
-                    playFeedback(
-                      unlocks.length ? "unlock" : "complete",
-                      saved.settings,
-                    );
+
                     setPage("result");
                   }}
                 />
@@ -766,18 +775,27 @@ export function App({
                     const review = learning.session.round();
                     const saved = await store.refresh();
                     const unlocks = serverUnlocks(state, saved);
-                    if (unlocks.length)
-                      setCelebration({ roundId: review.id, unlocks });
+                    const promoted = careerProgress(saved.experience);
+                    setCelebration(
+                      unlocks.length ||
+                        promoted.level > careerProgress(state.experience).level
+                        ? {
+                            roundId: review.id,
+                            unlocks,
+                            ...(promoted.level >
+                            careerProgress(state.experience).level
+                              ? { promotion: promoted }
+                              : {}),
+                          }
+                        : null,
+                    );
                     setState(saved);
                     setActiveLearning(undefined);
                     setRoundId(review.id);
                     setJustCompleted(review.id);
                     immediateResult.current = review;
                     setLearning(null);
-                    playFeedback(
-                      unlocks.length ? "unlock" : "complete",
-                      saved.settings,
-                    );
+
                     setPage("result");
                   }}
                 />
@@ -813,6 +831,17 @@ export function App({
                   onRetry={() => void retryErrors(current)}
                   busy={busy}
                   celebrate={justCompleted === current.id}
+                  unlocks={
+                    celebration?.roundId === current.id
+                      ? celebration.unlocks
+                      : []
+                  }
+                  promotion={
+                    celebration?.roundId === current.id
+                      ? celebration.promotion
+                      : undefined
+                  }
+                  onAcknowledged={() => setCelebration(null)}
                 />
               )}
               {page === "account" && (
@@ -873,12 +902,7 @@ export function App({
             </Suspense>
           </PageBoundary>
         </main>
-        {page === "result" && celebration?.roundId === current?.id && (
-          <UnlockCelebration
-            unlocks={celebration!.unlocks}
-            onClose={() => setCelebration(null)}
-          />
-        )}
+
         <footer hidden={page === "round" || duelPlaying}>
           <span>
             WISSENSQUIZ <span className="footer-star">✦</span> BLEIB NEUGIERIG.

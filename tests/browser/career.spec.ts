@@ -67,6 +67,9 @@ for (const width of [320, 1280]) {
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     await page.getByRole("button", { name: "Runde abschließen" }).click();
+    const dialog = page.getByRole("dialog", { name: "Level 2 erreicht!" });
+    await expect(dialog).toBeVisible();
+    await dialog.getByRole("button", { name: "Weiter zum Ergebnis" }).click();
     const reward = page.getByRole("region", { name: "Erfahrung dieser Runde" });
     await expect(reward).toContainText("+5 XP");
     await expect(reward).toContainText("Level 2 erreicht!");

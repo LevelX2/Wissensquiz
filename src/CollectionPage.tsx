@@ -16,6 +16,7 @@ import type * as React from "react";
 import { roundQuestionCount } from "./roundArchive";
 import { learningOverview } from "./learningProgress";
 import { DiscoveryMedals } from "./DiscoveryMedals";
+import { PerfectRoundBadges } from "./PerfectRoundBadges";
 
 export function CollectionPage({
   state,
@@ -34,7 +35,10 @@ export function CollectionPage({
 }) {
   const completed = state.rounds.filter((r) => r.status === "completed");
   const summary = useServerView<
-    LearningOverview & { badge: { available: number; mastered: number } }
+    LearningOverview & {
+      badge: { available: number; mastered: number };
+      perfectTens: number;
+    }
   >({ action: "summary" });
   const learning = summary.value ?? {
     unseen: 0,
@@ -96,6 +100,9 @@ export function CollectionPage({
         experience={state.experience}
         legacyBonus={state.career?.legacyBonus}
       />
+      {summary.value && (
+        <PerfectRoundBadges count={summary.value.perfectTens} />
+      )}
       {summary.value && (
         <DiscoveryMedals
           encountered={summary.value.maximum / 4 - summary.value.unseen}

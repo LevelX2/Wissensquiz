@@ -45,6 +45,7 @@ export function AccountGame({
   const ranking = useMemo(() => ({ client, owner }), [client, owner]);
   const [status, setStatus] = useState<SyncStatus>("loading");
   const [confirmedAt, setConfirmedAt] = useState<number>();
+  const [serverRevision, setServerRevision] = useState(0);
   const [store, setStore] = useState<OnlineGameStore | null>(null);
   const [error, setError] = useState("");
   const [attempt, setAttempt] = useState(0);
@@ -59,7 +60,10 @@ export function AccountGame({
     const current = new OnlineGameStore(api, owner, (next, at) => {
       if (alive) {
         setStatus(next);
-        if (next === "saved") invalidateRankingCache(client, owner);
+        if (next === "saved") {
+          setServerRevision(current.revision);
+          invalidateRankingCache(client, owner);
+        }
         if (at !== undefined) setConfirmedAt(at);
       }
     });
@@ -134,7 +138,7 @@ export function AccountGame({
             value={{
               api: store.rankedRemote(),
               info: store.info!,
-              revision: store.revision,
+              revision: serverRevision,
               exportState: () => store.exportState(),
             }}
           >

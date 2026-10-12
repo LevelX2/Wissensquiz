@@ -331,10 +331,19 @@ export function Help() {
           Regeln.
         </p>
         <p>
-          Das derzeitige Sci-Fi-Abzeichen erhältst Du beim Rundenabschluss,
-          sobald zehn leichte Sci-Fi-Filmfakten gefestigt sind. Einmal erworben
-          bleibt es erhalten. Die Bilder der Genres sind Orientierungshilfen,
-          keine erspielten Abzeichen.
+          Ein neues XP-Level feierst Du mit einer eigenen Glückwunsch-Anzeige.
+          Mit „Weiter zum Ergebnis“ bestätigst Du den Aufstieg. Für Deine erste
+          perfekte Zehnerrunde sowie nach 10, 50 und 100 solchen Runden erhältst
+          Du Abzeichen – insgesamt über alle Genres und Fragenbereiche. Alle
+          zehn Antworten müssen sicher richtig sein; geratene Treffer zählen
+          nicht. Die Runden müssen nicht aufeinander folgen. Deine Abzeichen
+          findest Du in der Sammlung.
+        </p>
+        <p>
+          Das Sci-Fi-Abzeichen erhältst Du beim Rundenabschluss, sobald zehn
+          leichte Sci-Fi-Filmfakten gefestigt sind. Einmal erworben bleibt es
+          erhalten. Die Bilder der Genres sind Orientierungshilfen, keine
+          erspielten Abzeichen.
         </p>
       </details>
       <details>

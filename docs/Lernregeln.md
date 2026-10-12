@@ -196,6 +196,8 @@ Absteigend nach Gesamtpunkten; gleiche Punktzahl ergibt denselben Rang (1, 1, 3)
 
 ## Erfahrung und Abzeichen
 
+Seit 12.10.2026: Neues XP-Level nach Rundenabschluss mit modaler Glückwunsch-Anzeige, abschaltbarem Erfolgston und Bestätigung „Weiter zum Ergebnis“. Gleichzeitige Erfolge werden zusammen angezeigt. Abzeichen für 1, 10, 50 und 100 perfekte abgeschlossene Zehnerrunden insgesamt über Genres, Quellen und Modi; alle zehn Antworten sicher richtig, keine geratene Antwort. Keine zusätzlichen XP. Sammlung und Ergebnis verwenden den inkrementellen privaten Serverzähler. Neuladen und Rückblick lösen keine erneute Feier aus. [Vertrag](Filmkarriere-und-XP.md#perfekte-zehnerrunden--12102026).
+
 Entdecker-Medaillen belohnen 50, 100, 250, 500, 1.000, 2.500, 5.000 und 10.000 unterschiedliche kennengelernte Wissensziele insgesamt über alle Genres und Fragenbereiche. Varianten zählen einmal, auch falsche Antworten gelten als Begegnung. Erreichte und gesperrte Medaillen erscheinen in der Sammlung; das nächste Ziel steht unter dem Gesamtbalken der Filmreise. Ableitung aus der vorhandenen globalen Serverzusammenfassung, keine gesonderte Speicherung oder XP-Gutschrift. [Anzeigevertrag](Filmreise-Freischaltung-2026-10-11.md#gesamtanzeige-auf-der-startkarte--12102026).
 
 Genre-Icons illustrieren die Auswahl, sind keine erworbenen Abzeichen. Das bestehende Sci-Fi-Abzeichen wird mit einem Schloss vor Erwerb und einer Medaille mit Stern nach Erwerb dargestellt. Es gibt noch keine eigenen Action-/Horror-/Fantasy-Abzeichen; die bisherigen Vergaberegeln bleiben unverändert.

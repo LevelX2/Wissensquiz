@@ -1,5 +1,16 @@
 # Prüfnachweis
 
+## 12.10.2026 – XP-Leveldialog und Zehner-Abzeichen
+
+XP-Levelaufstieg nach frisch abgeschlossenem Spiel mit Glückwunschdialog, neuem Level/Titel, abschaltbarer Fanfare und Bestätigung „Weiter zum Ergebnis“. Gleichzeitig erreichte Zehner-Abzeichen und Filmreise-Freischaltungen werden gemeinsam angezeigt; genau ein Erfolgssignal. Abzeichen für 1/10/50/100 perfekte Zehnerrunden, zehn unterschiedliche Filmfakten sicher richtig, keine geratene Antwort und keine Folgepflicht. Sammlung nach bestätigter Serverrevision sofort aktuell, auch bei unveränderter Testzeit.
+
+Drei gezielte Logik-/Datenbanktests erfolgreich: alle vier Grenzen, 100 Runden, keine Doppelzählung, Fehler-/Rate-/Kurz-/Abbruchausschluss, Kontentrennung, Entzug nach Löschung sowie Ableitung vorhandener aktueller Runden ohne Änderung ihrer Quellen oder Revisionen. TypeScript/Build 75 und 15 Browserfälle in Chromium, Firefox und mobilem WebKit erfolgreich: Levelaufstieg mit Ton an/aus, Abzeichen ohne Aufstieg, ein Dialog, Autofokus/Bestätigung/Rückkehr, WCAG-Automatik, XP-Aufschlüsselung, Sammlung und Neuladen ohne erneute Feier. 320-Pixel-Dialog visuell geprüft. Web-Audio instrumentiert, keine physische Hörabnahme. Isolierte synthetische Konten und kontrollierte Zeit.
+
+Produktive Migration erfolgreich: Antworten, XP und Kontoköpfe innerhalb derselben gesperrten Transaktion per Fingerabdruck unverändert. Eine perfekte Runde im aktuellen Bestand exakt gegen unabhängige Quellenberechnung bestätigt. Private Tabelle mit RLS, kein direkter Zugriff für anon/authenticated. Advisors vorher/nachher: nur erwarteter zusätzlicher INFO-Hinweis für absichtlich vollständig gesperrte private Tabelle ohne öffentliche Policy; bestehende Warnungen und Performancehinweise unverändert. Kein Clientkatalog, keine neue RPC und kein Historienabruf im normalen Ablauf.
+
+Anfängliche Fehler (Fokus nach Modalende, fremder Ergebnisabruf muss null bleiben, sofortige Cacheaktualisierung und Browser-Testtitel ohne Aufstieg) vor dem erfolgreichen Nachlauf behoben. Frühere Volltests unter paralleler Last enthielten Zeitüberschreitungen; ein eigener konkurrierender Lauf wurde beendet. Zentrale gemeinsame Veröffentlichungsprüfung läuft separat; keine vollständig grüne Gesamtsuite behauptet. [Vertrag](Filmkarriere-und-XP.md#perfekte-zehnerrunden--12102026).
+
+
 ## 12.10.2026 – Erneute Tonfreigabe
 
 Zwei reproduzierte Fehler lokal korrigiert: Ein wartender Audioaktivierungsversuch verhindert keine erneute Freigabe durch einen neuen Klick; der Tonschalter innerhalb einer Lernrunde speichert nach Antworten mit frisch abgerufenem Serverstand statt einer veralteten Revision. Keine neuen Audio-Kontexte oder Backendmigrationen. Der iPhone-Stummmodus bleibt wie bisher beachtet. [Befund und Vertrag](Lernregeln.md#erneute-tonfreigabe-bei-wartender-aktivierung--12102026).

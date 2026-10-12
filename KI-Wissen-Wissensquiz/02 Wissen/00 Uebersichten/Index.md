@@ -1,8 +1,10 @@
 # Wissensindex
 
+- [Antwortansicht: gemeinsame Lernklappe, Quellen darunter und „Verbesserung vorschlagen“ – 12.10.2026](../../../docs/Lernregeln.md#antwortansicht-und-gemeinsame-lernklappe--12102026)
+
 - [Bedienungstöne: erneute Freigabe trotz wartender Audioaktivierung – 12.10.2026](../../../docs/Lernregeln.md#erneute-tonfreigabe-bei-wartender-aktivierung--12102026)
 
-- [Antwortansicht: gemeinsame Lernklappe, Quellen darunter und „Verbesserung vorschlagen“ – 12.10.2026](../../../docs/Lernregeln.md#antwortansicht-und-gemeinsame-lernklappe--12102026)
+- [Levelaufstieg mit Bestätigung und Abzeichen für perfekte Zehnerrunden – 12.10.2026](../../../docs/Filmkarriere-und-XP.md#perfekte-zehnerrunden--12102026)
 
 - [Antwortleiste ohne „War geraten“: nur Weiter-/Abschlussaktion, lokal am 12.10.2026](../../../docs/Lernregeln.md#antwortleiste-ohne-war-geraten--12102026)
 

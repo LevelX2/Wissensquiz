@@ -1,6 +1,6 @@
 import { isRecordMode } from "./recordModes";
 import { familiarityLabel, ruleLabel } from "./familiarity";
-import { useEffect, useMemo, useState, type ReactNode } from "react";
+import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { points, selectQuestions } from "./engine";
 import { type Round, type State } from "./model";
 import {
@@ -21,6 +21,10 @@ import { Explanation } from "./Explanation";
 import { LearningProgress } from "./LearningProgressPanel";
 import { QuestionHistory } from "./QuestionHistoryPanel";
 import { useServer, useServerView } from "./serverViews";
+import type { PathUnlock } from "./learningPath";
+import { UnlockCelebration } from "./UnlockCelebration";
+import { newPerfectRoundBadge } from "./perfectRounds";
+import { playFeedback } from "./feedback";
 
 export function Result({
   round,
@@ -31,6 +35,9 @@ export function Result({
   onRetry,
   busy,
   celebrate,
+  unlocks = [],
+  promotion,
+  onAcknowledged,
   trialActions,
 }: {
   round: Round;
@@ -41,6 +48,9 @@ export function Result({
   onRetry: () => void;
   busy: boolean;
   celebrate: boolean;
+  unlocks?: PathUnlock[];
+  promotion?: { level: number; title: string };
+  onAcknowledged?: () => void;
   trialActions?: ReactNode;
 }) {
   const [reviewFilter, setReviewFilter] = useState<"all" | "wrong" | "guessed">(
@@ -58,6 +68,7 @@ export function Result({
     learning: (LearningEvidence & { eventId: string })[];
     before: number;
     after: number;
+    perfectTens: number;
   } | null>(
     remoteReward ? { action: "round-experience", scope: round.id } : null,
   );
@@ -67,6 +78,40 @@ export function Result({
   const roundProgress = remoteReward
     ? serverReward.value
     : career!.progress.get(round.id);
+  const [acknowledged, setAcknowledged] = useState("");
+  const sounded = useRef("");
+  const resultHeading = useRef<HTMLHeadingElement>(null);
+  useEffect(() => {
+    if (acknowledged === round.id) resultHeading.current?.focus();
+  }, [acknowledged, round.id]);
+  const perfectBadge = newPerfectRoundBadge(
+    serverReward.value?.perfectTens ?? 0,
+  );
+  const hasSuccess = !!promotion || !!perfectBadge || unlocks.length > 0;
+  const rewardReady =
+    !remoteReward || serverReward.value !== undefined || !!serverReward.error;
+  useEffect(() => {
+    if (!celebrate || !rewardReady || sounded.current === round.id) return;
+    sounded.current = round.id;
+    playFeedback(
+      promotion
+        ? "level"
+        : perfectBadge
+          ? "badge"
+          : unlocks.length
+            ? "unlock"
+            : "complete",
+      state.settings,
+    );
+  }, [
+    celebrate,
+    rewardReady,
+    round.id,
+    promotion,
+    perfectBadge,
+    unlocks.length,
+    state.settings,
+  ]);
   const summary = roundSummary(
     state,
     round,
@@ -121,10 +166,21 @@ export function Result({
   );
   return (
     <div className="result">
+      {celebrate && rewardReady && hasSuccess && acknowledged !== round.id && (
+        <UnlockCelebration
+          unlocks={unlocks}
+          promotion={promotion}
+          perfectBadge={perfectBadge}
+          onClose={() => {
+            setAcknowledged(round.id);
+            onAcknowledged?.();
+          }}
+        />
+      )}
       <span className="eyebrow">
         {historicalModeName(round)} · {formatDate(round.finishedAt!)}
       </span>
-      <h1>
+      <h1 ref={resultHeading} tabIndex={-1}>
         Eine Runde <em>weiter.</em>
       </h1>
       <p className="lead">{headline}</p>

@@ -2041,7 +2041,7 @@ Begriffsumstellung mit erneut 429 Tests und 14 gezielten Browserfällen einschli
 
 ## 12.10.2026 – Preisfragen korrekt zugeordnet
 
-Die ergänzende Themenprüfung deckt 80 produktive Preisfragen auf, die wegen leerer CSV-Personen-IDs als Schauspielerfragen eingeordnet wurden. Eng begrenzte Korrektur der vier betroffenen SQL-Funktionen, einmalige Neuberechnung der vorbereiteten Übersichten und atomarer Erhalt der privaten Antworten und Lernbelege. Regressionstest für Reparatur und künftige Aktivierung erfolgreich; vollständige Prüfung vor Veröffentlichung läuft. [Vertrag](../../docs/Server-Lernablauf-2026-10-11.md#quellenzuordnung-ohne-leere-schauspieler-identitäten--12102026).
+Die ergänzende Themenprüfung deckt 80 produktive Preisfragen auf, die wegen leerer CSV-Personen-IDs als Schauspielerfragen eingeordnet wurden. Eng begrenzte Korrektur der vier betroffenen SQL-Funktionen, einmalige Neuberechnung der vorbereiteten Übersichten und atomarer Erhalt der privaten Antworten und Lernbelege. Regressionstest für Reparatur und künftige Aktivierung erfolgreich; vollständige Drei gezielte Logik-/Datenbanktests, Build und 15 Browserfälle erfolgreich. Produktive Ableitung aktiv, bestehende private Quellen und Revisionen atomar unverändert; eine perfekte Runde exakt bestätigt. Zentrale gemeinsame Veröffentlichungsprüfung läuft. [Vertrag](../../docs/Server-Lernablauf-2026-10-11.md#quellenzuordnung-ohne-leere-schauspieler-identitäten--12102026).
 
 Abschlussprüfung: 430 Tests in 71 Dateien, TypeScript/Build 74, Format-/Diff-Prüfung und 17 gezielte Browserfälle in Chromium, Firefox und mobilem WebKit erfolgreich. Produktive Quellenkorrektur angewendet und separat bestätigt; alle 93 privaten Quelleinträge außer der neu berechneten Filmreise-Projektion mit identischem Fingerabdruck. Keine neuen öffentlichen Funktionsrechte. Kompakte 320-/1440-Pixel-Kachel und Medaillenansicht bei 390 Pixeln visuell geprüft.
 
@@ -2053,13 +2053,18 @@ Main `48743cd` um 16:42:24 Uhr Europe/Berlin erfolgreich als Version 74 veröffe
 
 Bereinigung offen: Die automatische Freigabeprüfung lehnt die geprüfte gezielte Entfernung mit „blocked by policy“ ab. Eigene Veröffentlichungskopie, Archiv, alter Stagingbuild und Diagnosehilfen in `tmp-runtime/compact74` (563.994.671 Bytes), Browserausgaben `test-results/port-4301` (7.653.797 Bytes) und vier zugehörige flache Screenshots bleiben unversioniert erhalten. Der bereits zuvor blockierte aktuelle Build `dist` enthält nun Version 74 (76.633.800 Bytes). Zusammen rund 648 MB; dauerhafter Prüfnachweis gesichert. Nach Aufhebung der Sperre gezielt entfernen; den aktuellen Build nur, wenn keine laufende Prüfung ihn benötigt. Keine aktiven eigenen Testserver.
 
+
+## 12.10.2026 – XP-Level feiern und perfekte Zehnerrunden auszeichnen
+
+Auf Nutzerwunsch XP-Levelaufstiege mit modaler Glückwunsch-Anzeige, Fanfare und ausdrücklicher Bestätigung. Gemeinsamer Dialog mit gleichzeitig erreichten Filmreise-Freischaltungen und neuen Zehner-Abzeichen statt mehrerer Dialoge. Abzeichen bei 1/10/50/100 perfekten abgeschlossenen Zehnerrunden insgesamt; alle zehn Antworten sicher richtig, keine geratene Antwort. Serverseitige inkrementelle Ableitung je betroffener Runde und ein privater Gesamtzähler, Nutzung bestehender Abfragen ohne Clientkatalog oder vollständigen Historienabruf. Keine zusätzlichen XP oder historischen Formatadapter. Prüfung vor Veröffentlichung läuft. [Vertrag](../../docs/Filmkarriere-und-XP.md#perfekte-zehnerrunden--12102026).
+
 ## 12.10.2026 – Antwortleiste vereinfacht
 
 Auf Nutzerauftrag „War geraten“ nach der Antwort entfernt; nur Weiter-/Abschlussaktion in der unteren Leiste. Vorab-Rateoption bei gesammelten Lösungen sowie gespeicherte Lernbelege erhalten. Build und sechs gezielte Browserfälle einschließlich 320/390-Pixel-Ansichten erfolgreich. Gesamttestlauf mit unabhängigen Zeitüberschreitungen und Fehlern der gleichzeitig bearbeiteten Erfolgsanzeigen; Details im Prüfbericht. Lokal abgeschlossen, noch nicht veröffentlicht. [Vertrag](../../docs/Lernregeln.md#antwortleiste-ohne-war-geraten--12102026), [Prüfung](../../docs/Pruefbericht.md#12102026--antwortleiste-ohne-war-geraten).
+
 ## 12.10.2026 – Antwortansicht und gemeinsame Lernklappe
 
 Auf Nutzerauftrag Antwortstatistik und Lernstufen in einer standardmäßig geschlossenen Klappe zusammengeführt, Quellen darunter angeordnet. Richtige Lösung bei Treffern nicht nochmals als reine Formel wiederholt; bei Fehlern deutlich unter der eigenen Antwort. Kontextname mit Kennzeichnung für Schauspiel beziehungsweise Film/Preisfrage. Formularzugang „Verbesserung vorschlagen“, Versand unverändert. TypeScript/Build und 15 gezielte Browserfälle erfolgreich, mobile Darstellung visuell geprüft. 434 von 435 unterschiedlichen Logiktests bestanden; bestehender Bereichstest überschreitet wiederholt sein festes 15-Sekunden-Limit. Lokal umgesetzt, noch nicht veröffentlicht. [Vertrag](../../docs/Lernregeln.md#antwortansicht-und-gemeinsame-lernklappe--12102026), [Prüfung](../../docs/Pruefbericht.md#12102026--antwortansicht-und-gemeinsame-lernklappe).
-Separate Abnahme des abgegrenzten Commitstands: Build, neun fokussierte Logiktests und vier Mifune-Browserfälle erfolgreich. Gemeinsamer Abschlussbuild durch unabhängige Redaktionstypfehler blockiert. Automatische Freigabeprüfung verweigert die gezielte Artefaktbereinigung mit „blocked by policy“; eigene Quellkopie/Builds/Browserausgaben unter tmp-answer-layout, tmp-browser-build/port-4187 und test-results/port-4187 (rund 375 MB) nach Freigabe und Ende aller zugehörigen Prüfungen löschen.
 
 ## 12.10.2026 – Bedienungstöne verlässlich reaktivieren
 
