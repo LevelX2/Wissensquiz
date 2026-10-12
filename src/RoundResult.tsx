@@ -32,6 +32,11 @@ import { perfectRoundLabel, perfectRoundMilestones } from "./perfectRounds";
 import { AchievementProgress } from "./AchievementsPanel";
 import { celebrationTier } from "./successTiers";
 import { playFeedback } from "./feedback";
+import {
+  localLearningAchievementReward,
+  reachedLearningAchievements,
+  type LearningAchievementReward,
+} from "./learningAchievements";
 
 export function Result({
   round,
@@ -77,6 +82,7 @@ export function Result({
     after?: number;
     perfectTens: number;
     achievements: AchievementCounts;
+    learningAchievements?: LearningAchievementReward | null;
   } | null>(
     remoteReward ? { action: "round-experience", scope: round.id } : null,
   );
@@ -95,9 +101,15 @@ export function Result({
   const achievementSnapshot = remoteReward
     ? serverReward.value?.achievements
     : localAchievements(state, round.id).snapshot;
-  const achievements = reachedAchievements(
-    achievementSnapshot ?? { completed: 0, perfectTens: 0, zeroTens: 0 },
-  );
+  const learningReward = remoteReward
+    ? serverReward.value?.learningAchievements
+    : localLearningAchievementReward(state, round.id);
+  const achievements = [
+    ...reachedAchievements(
+      achievementSnapshot ?? { completed: 0, perfectTens: 0, zeroTens: 0 },
+    ),
+    ...(learningReward ? reachedLearningAchievements(learningReward) : []),
+  ];
   const hasSuccess =
     !!promotion || achievements.length > 0 || unlocks.length > 0;
   const successTier = celebrationTier(achievements, promotion?.level);

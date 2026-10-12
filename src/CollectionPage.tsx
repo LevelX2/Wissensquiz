@@ -5,7 +5,8 @@ import { answeredTopics } from "./collection";
 import { badgeEligible } from "./engine";
 import { type State, type RoundSetup } from "./model";
 import { roundGenres, roundDifficulties } from "./filters";
-import { BadgeIcon } from "./Icons";
+import { AchievementIcon } from "./AchievementIcon";
+import { successTiers } from "./successTiers";
 import { Leaderboard } from "./RecordLeaderboard";
 import { careerProgress } from "./career";
 import { CareerProgress } from "./CareerProgress";
@@ -143,7 +144,11 @@ export function CollectionPage({
           <span
             className={`badge-art ${state.badges.includes("sci-fi-10-v1") ? "earned" : "locked"}`}
           >
-            <BadgeIcon earned={state.badges.includes("sci-fi-10-v1")} />
+            <AchievementIcon
+              icon="star"
+              tier={successTiers[0]}
+              earned={state.badges.includes("sci-fi-10-v1")}
+            />
           </span>
           <div>
             <span className="eyebrow">

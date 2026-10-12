@@ -8,6 +8,7 @@ import {
 import { answer, complete, startRound } from "../../src/engine";
 import AxeBuilder from "@axe-core/playwright";
 import { archiveClosedRounds } from "../../src/roundArchive";
+import { questionSourceOf, genreOf } from "../../src/filters";
 
 for (const { sound, promote } of [
   { sound: true, promote: true },
@@ -159,7 +160,10 @@ for (const { sound, promote } of [
     });
     await expect(dialog).toBeVisible();
     await expect(page.locator("dialog[open]")).toHaveCount(1);
-    if (promote) await expect(dialog).toContainText("Gratulation!");
+    if (promote) {
+      await expect(dialog).toContainText("Gratulation!");
+      await expect(dialog).toContainText("100 EXP gesammelt");
+    }
     await expect(dialog).toContainText("Erste perfekte Zehnerrunde");
     await expect(
       dialog.getByRole("button", { name: "Weiter zum Ergebnis" }),
@@ -168,7 +172,11 @@ for (const { sound, promote } of [
       () => (window as unknown as { successNotes: number[] }).successNotes,
     );
     expect(notes.filter((n) => n !== 600)).toEqual(
-      sound ? [523, 659, 784] : [],
+      sound
+        ? promote
+          ? [392, 523, 659, 784, 1047]
+          : [523, 659, 784, 1047]
+        : [],
     );
     expect(
       await page.evaluate(
@@ -176,7 +184,7 @@ for (const { sound, promote } of [
           (window as unknown as { successVibrations: unknown[] })
             .successVibrations,
       ),
-    ).toEqual([[25, 50, 35]]);
+    ).toEqual([promote ? [30, 50, 30, 50, 60] : [25, 50, 25, 50, 45]]);
     expect(
       (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
         .violations,
@@ -205,11 +213,12 @@ for (const { sound, promote } of [
       name: "Deine Erfolge",
       exact: true,
     });
-    await achievements.locator("summary").click();
+    await achievements.locator(".profile-section > summary").click();
     const perfect = achievements.getByRole("region", {
       name: "Perfekte Zehnerrunden",
       exact: true,
     });
+    await perfect.locator("summary").click();
     await expect(perfect.getByRole("progressbar")).toHaveAttribute(
       "value",
       "1",
@@ -301,13 +310,14 @@ for (const scenario of [
       name: "Deine Erfolge",
       exact: true,
     });
-    await collection.locator("summary").click();
+    await collection.locator(".profile-section > summary").click();
     const track = collection.getByRole("region", {
       name: scenario.correct
         ? "Perfekte Zehnerrunden"
         : "Heute war nicht mein Tag",
       exact: true,
     });
+    await track.locator("summary").click();
     await expect(track.locator("li.earned")).toHaveCount(
       scenario.count >= 25 ? 3 : scenario.count >= 10 ? 2 : 1,
     );
@@ -333,3 +343,93 @@ for (const scenario of [
     await expect(page.locator("dialog[open]")).toHaveCount(0);
   });
 }
+
+test("Ein Film gelernt: Meldung, Genre, EXP und nächstes Ziel im Profil", async ({
+  page,
+}, testInfo) => {
+  const now = new Date("2026-10-12T18:00:00+02:00");
+  await fixCalendarTime(page, now);
+  await page.setViewportSize({ width: 320, height: 850 });
+  await page.emulateMedia({ reducedMotion: "reduce" });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const state = await readStoredState(page);
+  const topics = new Map<string, typeof state.questions>();
+  for (const q of state.questions.filter(
+    (q) => questionSourceOf(q) === "film" && q.difficulty === "leicht",
+  ))
+    topics.set(q.topic, [...(topics.get(q.topic) ?? []), q]);
+  const qs = [...topics.values()]
+    .map((qs) => [...new Map(qs.map((q) => [q.knowledgeId, q])).values()])
+    .find((qs) => qs.length >= 2 && qs.length <= 10)!;
+  expect(qs).toBeTruthy();
+  const round = startRound(
+    state,
+    { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+    now.getTime() - 10000,
+  );
+  round.questions = structuredClone(qs);
+  round.order = qs.map((q) => q.answers.map((a) => a.id));
+  round.familiaritySnapshot = undefined;
+  for (const q of qs)
+    answer(state, round.id, q.id, q.correctId, 100, now.getTime() - 9000);
+  await writeStoredState(page, state);
+  await page.reload();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  await page.getByRole("button", { name: "Runde abschließen" }).click();
+  const dialog = page.getByRole("dialog");
+  await expect(dialog).toContainText("1 Film gelernt");
+  await expect(
+    dialog.getByRole("heading", { name: "Neue Erfolge!" }),
+  ).toBeInViewport();
+  await expect(
+    dialog.getByRole("button", { name: "Weiter zum Ergebnis" }),
+  ).toBeInViewport();
+  await dialog.screenshot({
+    path: testInfo.outputPath("film-genre-erfolg.png"),
+  });
+  await dialog.getByRole("button", { name: "Weiter zum Ergebnis" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  const collection = page.getByRole("region", {
+    name: "Deine Erfolge",
+    exact: true,
+  });
+  await collection.locator(".profile-section > summary").click();
+  const film = collection.getByRole("region", {
+    name: "Filmkenner",
+    exact: true,
+  });
+  await film.locator("summary").click();
+  await expect(film.getByRole("progressbar")).toHaveAttribute("value", "1");
+  await expect(film.getByRole("progressbar")).toHaveAttribute("max", "10");
+  await expect(film.locator("li.earned")).toHaveCount(1);
+  const genre = collection.locator(".achievement-track").filter({
+    hasText: `${genreOf(qs[0]) === "Science-Fiction" ? "Sci-Fi" : genreOf(qs[0])}-Filmkenner`,
+  });
+  await genre.locator("summary").click();
+  await expect(genre.getByRole("progressbar")).toHaveAttribute("value", "1");
+  const xp = collection.getByRole("region", {
+    name: "Erfahrung gesammelt",
+    exact: true,
+  });
+  await xp.locator("summary").click();
+  await expect(xp.getByRole("progressbar")).toHaveAttribute("max", "100");
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page.screenshot({
+    path: testInfo.outputPath("film-genre-exp-erfolge.png"),
+    fullPage: true,
+  });
+  await film.screenshot({
+    path: testInfo.outputPath("filmkenner-fortschritt.png"),
+  });
+  await page.reload();
+  await expect(page.locator("dialog[open]")).toHaveCount(0);
+});

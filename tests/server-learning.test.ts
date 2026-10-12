@@ -433,6 +433,10 @@ it("spielt, bestätigt, setzt fort und öffnet ohne einen Katalogabruf", async (
   expect(reward.before).toBe(0);
   expect(reward.after).toBe(store.read().experience);
   expect(reward.learning).toHaveLength(10);
+  expect(reward.learningAchievements).toMatchObject({
+    before: {},
+    after: { counts: { secureFacts: 10, experience: reward.after } },
+  });
   const firstEvent = store.read().events[0];
   expect(
     await api.call("quiz_game_view", {

@@ -43,7 +43,13 @@ export const achievementTracks = [
   },
 ] as const;
 
-export type AchievementIconKind = (typeof achievementTracks)[number]["icon"];
+export type AchievementIconKind =
+  | (typeof achievementTracks)[number]["icon"]
+  | "film"
+  | "book"
+  | "compass"
+  | "person"
+  | "trophy";
 export type Achievement = {
   id: string;
   label: string;

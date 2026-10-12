@@ -1,6 +1,11 @@
 import { AchievementIcon } from "./AchievementIcon";
 import { achievementTracks, type AchievementCounts } from "./achievements";
-import { stageLabel, successTiers } from "./successTiers";
+import { stageLabel } from "./successTiers";
+import {
+  learningAchievementTracks,
+  learningAchievementTier,
+  type LearningAchievements,
+} from "./learningAchievements";
 
 export function AchievementProgress({
   count,
@@ -36,17 +41,31 @@ export function AchievementProgress({
   );
 }
 
-export function Achievements({ counts }: { counts: AchievementCounts }) {
-  const earned = achievementTracks.reduce(
+export function Achievements({
+  counts,
+  learning,
+}: {
+  counts: AchievementCounts;
+  learning: LearningAchievements;
+}) {
+  const tracks = [
+    ...achievementTracks.map((track) => ({
+      ...track,
+      count: counts[track.id],
+      available: undefined as number | undefined,
+    })),
+    ...learningAchievementTracks(learning).map((track) => ({
+      ...track,
+      count: learning.counts[track.id] ?? 0,
+      available: learning.available[track.id] ?? 0,
+    })),
+  ];
+  const earned = tracks.reduce(
     (n, track) =>
-      n +
-      track.milestones.filter((target) => counts[track.id] >= target).length,
+      n + track.milestones.filter((target) => track.count >= target).length,
     0,
   );
-  const total = achievementTracks.reduce(
-    (n, track) => n + track.milestones.length,
-    0,
-  );
+  const total = tracks.reduce((n, track) => n + track.milestones.length, 0);
   return (
     <div className="achievement-collection">
       <p>
@@ -57,40 +76,86 @@ export function Achievements({ counts }: { counts: AchievementCounts }) {
       <p className="tiny muted">
         Über alle Fragenbereiche und Spielarten. Die Erfolgsstufen sind Bronze,
         Silber, Gold, Platin und Diamant. Neue Erfolge erscheinen nach dem
-        Rundenabschluss; hier kannst Du sie jederzeit nachsehen.
+        Rundenabschluss; hier kannst Du sie jederzeit nachsehen. Bereits
+        erreichte Erfolge bleiben erhalten, auch wenn Dein aktueller Lernstand
+        sich ändert.
       </p>
-      {achievementTracks.map((track) => (
+      {tracks.map((track) => (
         <section
           className="achievement-track"
           key={track.id}
           aria-label={track.title}
         >
-          <h3>{track.title}</h3>
-          <p className="tiny muted">{track.description}</p>
-          <AchievementProgress
-            count={counts[track.id]}
-            milestones={track.milestones}
-            label={track.label}
-          />
-          <ul className="achievement-badges">
-            {track.milestones.map((target, index) => (
-              <li
-                key={target}
-                className={counts[track.id] >= target ? "earned" : "locked"}
-              >
-                <AchievementIcon
-                  icon={track.icon}
-                  tier={successTiers[index]}
-                  earned={counts[track.id] >= target}
-                />
-                <strong>{stageLabel(successTiers[index])}</strong>
-                <span>{track.label(target)}</span>
-                <small>
-                  {counts[track.id] >= target ? "✓ Erreicht" : "Noch offen"}
+          <details>
+            <summary>
+              <AchievementIcon
+                icon={track.icon}
+                tier={learningAchievementTier(
+                  Math.max(
+                    0,
+                    track.milestones.filter((n) => track.count >= n).length - 1,
+                  ),
+                )}
+                earned={track.count >= track.milestones[0]}
+              />
+              <span>
+                <strong>{track.title}</strong>
+                <span className="tiny muted">
+                  {" "}
+                  · {track.count.toLocaleString("de-DE")} ·{" "}
+                  {track.milestones.filter((n) => track.count >= n).length}/
+                  {track.milestones.length} Meilensteine
+                </span>
+                <small className="achievement-current-tier">
+                  {track.count >= track.milestones[0]
+                    ? stageLabel(
+                        learningAchievementTier(
+                          track.milestones.filter((n) => track.count >= n)
+                            .length - 1,
+                        ),
+                      )
+                    : "Noch kein Meilenstein erreicht"}
                 </small>
-              </li>
-            ))}
-          </ul>
+              </span>
+            </summary>
+            <p className="tiny muted">{track.description}</p>
+            <AchievementProgress
+              count={track.count}
+              milestones={track.milestones}
+              label={track.label}
+            />
+            {track.available !== undefined && track.id !== "experience" && (
+              <p className="tiny muted">
+                Im aktuellen Fragenbestand möglich:{" "}
+                {track.available.toLocaleString("de-DE")}. Ziele darüber werden
+                mit weiteren passenden Inhalten erreichbar.
+              </p>
+            )}
+            <ul className="achievement-badges">
+              {track.milestones.map((target, index) => (
+                <li
+                  key={target}
+                  className={track.count >= target ? "earned" : "locked"}
+                >
+                  <AchievementIcon
+                    icon={track.icon}
+                    tier={learningAchievementTier(index)}
+                    earned={track.count >= target}
+                  />
+                  <strong>{stageLabel(learningAchievementTier(index))}</strong>
+                  <span>{track.label(target)}</span>
+                  <small>
+                    {track.count >= target
+                      ? "✓ Erreicht"
+                      : track.available !== undefined &&
+                          target > track.available
+                        ? "Mit weiteren Inhalten"
+                        : "Noch offen"}
+                  </small>
+                </li>
+              ))}
+            </ul>
+          </details>
         </section>
       ))}
     </div>

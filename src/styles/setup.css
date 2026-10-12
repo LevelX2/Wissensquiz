@@ -154,7 +154,8 @@ textarea {
   width: 76px;
   height: 76px;
 }
-.badge-icon {
+.badge-icon,
+.badge-art .achievement-icon {
   width: 76px;
   height: 86px;
   display: block;

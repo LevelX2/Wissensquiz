@@ -1,4 +1,5 @@
-import { BadgeIcon } from "./Icons";
+import { AchievementIcon } from "./AchievementIcon";
+import { learningAchievementTier } from "./learningAchievements";
 import { discoveryMedals } from "./discoveryMilestones";
 
 export function DiscoveryMedals({ encountered }: { encountered: number }) {
@@ -10,13 +11,17 @@ export function DiscoveryMedals({ encountered }: { encountered: number }) {
         Fragenbereiche. Varianten zählen einmal.
       </p>
       <ul>
-        {discoveryMedals(encountered).map((medal) => (
+        {discoveryMedals(encountered).map((medal, index) => (
           <li
             key={medal.target}
             className={medal.earned ? "earned" : "locked"}
             aria-label={`Entdecker-Medaille: ${medal.target.toLocaleString("de-DE")} Filmfakten`}
           >
-            <BadgeIcon earned={medal.earned} />
+            <AchievementIcon
+              icon="compass"
+              tier={learningAchievementTier(index)}
+              earned={medal.earned}
+            />
             <strong>{medal.target.toLocaleString("de-DE")}</strong>
             <span>Filmfakten entdeckt</span>
             <small>

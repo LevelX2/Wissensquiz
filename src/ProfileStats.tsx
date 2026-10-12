@@ -6,6 +6,10 @@ import { useServer, useServerView, type LearningOverview } from "./serverViews";
 import { ProfileSection } from "./ProfileSection";
 import { localAchievements } from "./achievements";
 import { Achievements } from "./AchievementsPanel";
+import {
+  localLearningAchievements,
+  type LearningAchievements,
+} from "./learningAchievements";
 
 export function profileStats(state: State) {
   const answered = state.events.filter(hasAnswer);
@@ -53,16 +57,28 @@ export function ProfileStats({ state }: { state: State }) {
     >
   >(server ? { action: "profile-stats" } : null);
   const summary = useServerView<LearningOverview>({ action: "summary" });
+  const learningAchievements = useServerView<LearningAchievements>(
+    server ? { action: "learning-achievements" } : null,
+  );
   const learning = summary.value ?? stats.learning;
   if (summary.value) {
     stats.totalGoals = summary.value.maximum / 4;
     stats.mastered = summary.value.mastered;
   }
   if (totals.value) Object.assign(stats, totals.value);
-  if (server && (!summary.value || !totals.value))
+  if (
+    server &&
+    (!summary.value || !totals.value || !learningAchievements.value)
+  )
     return (
-      <p role={summary.error || totals.error ? "alert" : "status"}>
-        {summary.error || totals.error ? (
+      <p
+        role={
+          summary.error || totals.error || learningAchievements.error
+            ? "alert"
+            : "status"
+        }
+      >
+        {summary.error || totals.error || learningAchievements.error ? (
           <>
             Dein Profil konnte nicht geladen werden.{" "}
             <button
@@ -70,6 +86,7 @@ export function ProfileStats({ state }: { state: State }) {
               onClick={() => {
                 summary.retry();
                 totals.retry();
+                learningAchievements.retry();
               }}
             >
               Erneut versuchen
@@ -144,7 +161,17 @@ export function ProfileStats({ state }: { state: State }) {
         </p>
       </ProfileSection>
       <ProfileSection title="Deine Erfolge" subject="statistics">
-        <Achievements counts={stats} />
+        <p>
+          Level {careerProgress(state.experience).level} ·{" "}
+          {careerProgress(state.experience).title} ·{" "}
+          {state.experience.toLocaleString("de-DE")} EXP (XP)
+        </p>
+        <Achievements
+          counts={stats}
+          learning={
+            learningAchievements.value ?? localLearningAchievements(state)
+          }
+        />
       </ProfileSection>
     </>
   );

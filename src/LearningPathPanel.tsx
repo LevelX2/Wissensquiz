@@ -1,7 +1,9 @@
 import { familiarityLabel } from "./familiarity";
 import type { State, QuestionSource } from "./model";
 import { genreLabel } from "./filters";
-import { GenreArtwork, BadgeIcon } from "./Icons";
+import { GenreArtwork } from "./Icons";
+import { AchievementIcon } from "./AchievementIcon";
+import { learningAchievementTier } from "./learningAchievements";
 import { discoveryMedals } from "./discoveryMilestones";
 import { DisclosureArtwork } from "./DisclosureArtwork";
 import { learningPathProgress } from "./learningPath";
@@ -58,7 +60,11 @@ export function JourneyOverview() {
       <strong>{label} des Filmwissens entdeckt</strong>
       {nextMedal ? (
         <small className="journey-discovery-goal">
-          <BadgeIcon earned={false} />
+          <AchievementIcon
+            icon="compass"
+            tier={learningAchievementTier(medals.indexOf(nextMedal))}
+            earned={false}
+          />
           <span>
             {nextMedal.target.toLocaleString("de-DE")}er-Medaille · noch{" "}
             {nextMedal.remaining.toLocaleString("de-DE")}{" "}
@@ -67,7 +73,10 @@ export function JourneyOverview() {
         </small>
       ) : medals.every((medal) => medal.earned) ? (
         <small className="journey-discovery-goal">
-          <BadgeIcon earned />
+          <AchievementIcon
+            icon="compass"
+            tier={learningAchievementTier(medals.length - 1)}
+          />
           Alle Entdecker-Medaillen erreicht!
         </small>
       ) : null}

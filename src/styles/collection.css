@@ -242,9 +242,29 @@ footer button {
   font-size: 14px;
 }
 .achievement-track + .achievement-track {
-  margin-top: 28px;
-  padding-top: 20px;
+  margin-top: 12px;
+  padding-top: 12px;
   border-top: 1px solid var(--line);
+}
+.achievement-track details:not(.setup-section) > summary {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  padding: 12px 42px 12px 14px;
+}
+.achievement-track details:not(.setup-section) > summary::before {
+  content: none;
+}
+.achievement-track summary .achievement-icon {
+  width: 32px;
+  height: 38px;
+  flex: 0 0 32px;
+}
+.achievement-current-tier {
+  display: block;
+  color: var(--muted);
+  margin-top: 4px;
 }
 .achievement-badges {
   display: grid;
