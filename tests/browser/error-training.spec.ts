@@ -85,7 +85,7 @@ test("Filmreise zeigt den Gesamtstand; Wiederholen festigt fällige Filmfragen b
   ).toBeVisible();
   await expect(
     page.getByLabel("Gesamtfortschritt der Filmreise"),
-  ).toContainText("des gesamten Fragenbestands kennengelernt");
+  ).toContainText("des Fragenbestands kennengelernt");
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   const profile = page.getByRole("region", { name: "Dein Lernstand" });
   await profile.locator("summary").click();

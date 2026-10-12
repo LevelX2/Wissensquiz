@@ -191,6 +191,42 @@ footer button {
   border-radius: 12px;
   background: linear-gradient(110deg, #353124, #232626);
 }
+.discovery-medals {
+  margin-bottom: 32px;
+}
+.discovery-medals ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 12px;
+  list-style: none;
+  padding: 0;
+}
+.discovery-medals li {
+  display: grid;
+  justify-items: center;
+  gap: 5px;
+  padding: 18px 10px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fff;
+  text-align: center;
+  font-size: 12px;
+}
+.discovery-medals .badge-icon {
+  width: 44px;
+  height: 50px;
+  color: #947037;
+}
+.discovery-medals .earned {
+  border-color: #b28c4e;
+  background: #fff7df;
+}
+.discovery-medals .earned small {
+  color: #41624a;
+}
+.discovery-medals strong {
+  font-size: 22px;
+}
 .badge-art {
   font-size: 66px;
   color: var(--accent);

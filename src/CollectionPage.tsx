@@ -15,6 +15,7 @@ import { TopicCard } from "./TopicCard";
 import type * as React from "react";
 import { roundQuestionCount } from "./roundArchive";
 import { learningOverview } from "./learningProgress";
+import { DiscoveryMedals } from "./DiscoveryMedals";
 
 export function CollectionPage({
   state,
@@ -95,6 +96,11 @@ export function CollectionPage({
         experience={state.experience}
         legacyBonus={state.career?.legacyBonus}
       />
+      {summary.value && (
+        <DiscoveryMedals
+          encountered={summary.value.maximum / 4 - summary.value.unseen}
+        />
+      )}
       <div className="section-title">
         <h2>Dein Expertenalbum</h2>
       </div>
@@ -153,8 +159,9 @@ export function CollectionPage({
               Expertentitel.
             </small>
             <p className="muted tiny">
-              Bisher gibt es dieses eine Wissensabzeichen. Für die anderen
-              Genres sind noch keine eigenen Abzeichen umgesetzt.
+              Dieses Wissensabzeichen belohnt gefestigtes Sci-Fi-Wissen.
+              Entdecker-Medaillen zählen dagegen kennengelernte Ziele über alle
+              Bereiche.
             </p>
           </div>
         </section>

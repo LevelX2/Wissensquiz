@@ -1,7 +1,8 @@
 import { familiarityLabel } from "./familiarity";
 import type { State, QuestionSource } from "./model";
 import { genreLabel } from "./filters";
-import { GenreArtwork } from "./Icons";
+import { GenreArtwork, BadgeIcon } from "./Icons";
+import { discoveryMedals } from "./discoveryMilestones";
 import { DisclosureArtwork } from "./DisclosureArtwork";
 import { learningPathProgress } from "./learningPath";
 import {
@@ -31,6 +32,10 @@ export function JourneyOverview() {
     );
   const total = value.maximum / 4;
   const encountered = total - value.unseen;
+  const medals = discoveryMedals(encountered);
+  const nextMedal = medals.find(
+    (medal) => !medal.earned && medal.target <= total,
+  );
   const percent = total ? Math.round((10000 * encountered) / total) / 100 : 0;
   const label =
     percent.toLocaleString("de-DE", { maximumFractionDigits: 2 }) + " %";
@@ -40,7 +45,7 @@ export function JourneyOverview() {
       aria-label="Gesamtfortschritt der Filmreise"
     >
       <div
-        className="journey-percent-chart"
+        className="journey-percent-bar"
         role="progressbar"
         aria-label="Kennengelernte Wissensziele insgesamt"
         aria-valuemin={0}
@@ -48,21 +53,26 @@ export function JourneyOverview() {
         aria-valuenow={percent}
         aria-valuetext={`${label} des gesamten Fragenbestands kennengelernt`}
       >
-        <svg viewBox="0 0 100 100" aria-hidden="true" focusable="false">
-          <circle className="journey-percent-track" cx="50" cy="50" r="44" />
-          <circle
-            className="journey-percent-fill"
-            cx="50"
-            cy="50"
-            r="44"
-            pathLength="100"
-            strokeDasharray={`${percent} 100`}
-            transform="rotate(-90 50 50)"
-          />
-        </svg>
-        <strong>{label}</strong>
+        <span style={{ width: `${percent}%` }} />
       </div>
-      <small>des gesamten Fragenbestands kennengelernt</small>
+      <strong>{label} des Fragenbestands kennengelernt</strong>
+      {nextMedal ? (
+        <small className="journey-discovery-goal">
+          <BadgeIcon earned={false} />
+          <span>
+            Noch {nextMedal.remaining.toLocaleString("de-DE")}{" "}
+            {nextMedal.remaining === 1
+              ? "neues Wissensziel"
+              : "neue Wissensziele"}{" "}
+            bis zur {nextMedal.target.toLocaleString("de-DE")}er-Medaille
+          </span>
+        </small>
+      ) : medals.every((medal) => medal.earned) ? (
+        <small className="journey-discovery-goal">
+          <BadgeIcon earned />
+          Alle Entdecker-Medaillen erreicht!
+        </small>
+      ) : null}
     </div>
   );
 }

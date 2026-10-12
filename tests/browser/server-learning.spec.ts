@@ -233,6 +233,9 @@ test("zeigt den Gesamtbestand unabhängig von Genre und Bereich und zählt Varia
     "aria-valuenow",
     "0",
   );
+  await expect(overview).toContainText(
+    "Noch 50 neue Wissensziele bis zur 50er-Medaille",
+  );
   const goals = (["film", "actors", "awards"] as const).map((source) =>
     state.questions.find(
       (q) => questionSourceOf(q) === source && q.difficulty === "leicht",
@@ -267,6 +270,9 @@ test("zeigt den Gesamtbestand unabhängig von Genre und Bereich und zählt Varia
   await writeStoredState(page, state);
   await page.reload();
   await expect(overview).toContainText(label);
+  await expect(overview).toContainText(
+    "Noch 47 neue Wissensziele bis zur 50er-Medaille",
+  );
   await expect(overview).not.toContainText(/gefestigt|unentdeckt|von 12/);
   await expect(overview).not.toContainText(
     /Filmgruppe|Martial Arts|Nächste Etappe/,
@@ -289,6 +295,76 @@ test("zeigt den Gesamtbestand unabhängig von Genre und Bereich und zählt Varia
   await writeStoredState(page, state);
   await page.reload();
   await expect(overview).toHaveText(text!);
+});
+
+test("zeigt genreübergreifende Entdecker-Medaillen ab 50 und 100 Zielen auch nach Neuladen", async ({
+  page,
+}, testInfo) => {
+  const now = new Date("2026-10-12T12:00:00+02:00").getTime();
+  await fixCalendarTime(page, new Date(now));
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const state = await readStoredState(page);
+  const questions = [
+    ...new Map(state.questions.map((q) => [q.knowledgeId, q])).values(),
+  ].slice(0, 100);
+  let seeded = 0;
+  async function seed(count: number) {
+    while (seeded < count) {
+      const batch = questions.slice(seeded, Math.min(count, seeded + 10));
+      const round = startRound(
+        state,
+        { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+        now - 2000,
+      );
+      round.questions = structuredClone(batch);
+      round.order = batch.map((q) => q.answers.map((a) => a.id));
+      for (const q of batch)
+        answer(state, round.id, q.id, q.correctId, 1000, now - 1000);
+      complete(state, round.id, now);
+      seeded += batch.length;
+    }
+    await writeStoredState(page, state);
+    await page.reload();
+  }
+  await seed(49);
+  const overview = page.getByLabel("Gesamtfortschritt der Filmreise", {
+    exact: true,
+  });
+  await expect(overview).toContainText(
+    "Noch 1 neues Wissensziel bis zur 50er-Medaille",
+  );
+  await seed(50);
+  await expect(overview).toContainText(
+    "Noch 50 neue Wissensziele bis zur 100er-Medaille",
+  );
+  await page.getByRole("button", { name: "Sammlung", exact: true }).click();
+  const medals = page.getByRole("region", {
+    name: "Entdecker-Medaillen",
+    exact: true,
+  });
+  await expect(
+    medals.getByLabel("Entdecker-Medaille: 50 Wissensziele", { exact: true }),
+  ).toContainText("Erreicht");
+  await expect(
+    medals.getByLabel("Entdecker-Medaille: 100 Wissensziele", { exact: true }),
+  ).toContainText("Noch 50");
+  await medals.scrollIntoViewIfNeeded();
+  await page.screenshot({
+    path: testInfo.outputPath("discovery-medals-390.png"),
+  });
+  await seed(100);
+  await expect(overview).toContainText(
+    "Noch 150 neue Wissensziele bis zur 250er-Medaille",
+  );
+  await page.getByRole("button", { name: "Sammlung", exact: true }).click();
+  await expect(
+    medals.getByLabel("Entdecker-Medaille: 50 Wissensziele", { exact: true }),
+  ).toContainText("Erreicht");
+  await expect(
+    medals.getByLabel("Entdecker-Medaille: 100 Wissensziele", { exact: true }),
+  ).toContainText("Erreicht");
 });
 
 test("lädt keinen Katalog, setzt eine Serverrunde fort und speichert zehn Antworten", async ({
