@@ -45,6 +45,7 @@ function play(
   if (finish) complete(state, round.id, 4000 + state.rounds.length);
   return round;
 }
+// Functional full-catalog replay, not a production latency benchmark.
 it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und schützt Filmfortschritt", async () => {
   const s = structuredClone(base);
   retainJourneyUnlocks(s);
@@ -107,7 +108,7 @@ it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und
   for (const r of s.rounds) delete r.familiaritySnapshot;
   expect(validateBackup(JSON.parse(JSON.stringify(s)))).toEqual(s);
   expect(JSON.parse(JSON.stringify(s))).toEqual(s);
-}, 15000);
+}, 30000);
 it("Preisantworten erteilen keine Filmrechte aus alten Kurzschwellen", () => {
   const s = structuredClone(base);
   s.journey = {

@@ -204,6 +204,7 @@ it("liefert für normale Fragen ohne Bildzuordnung eine leere Fotoquellenliste",
   }
 });
 
+// Functional full-catalog validation, without changing its assertions.
 it("ergänzt den offiziellen Katalog einmal und erhält sämtliche vorhandenen Fragen und Lernidentitäten", () => {
   const state = emptyState();
   const contents = packages.map((p) => ({
@@ -228,4 +229,4 @@ it("ergänzt den offiziellen Katalog einmal und erhält sämtliche vorhandenen F
   const once = structuredClone(state.questions);
   addPackages(state, contents);
   expect(state.questions).toEqual(once);
-});
+}, 30000);

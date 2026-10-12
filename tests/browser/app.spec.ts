@@ -20,7 +20,7 @@ async function launch(page: Page) {
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
 }
-// Historical single-film rounds remain resumable although new film selection is removed.
+// Controlled single-question round for checking film presentation.
 async function resumeFilmFixture(page: Page, topic: string) {
   const state = await readStoredState(page);
   const round = startRound(state, {
@@ -80,8 +80,9 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
     "aria-pressed",
     "true",
   );
+  await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
   await expect(
-    page.getByText(/Mittel gesperrt · 0 \/ \d+ leichte Ziele/),
+    page.getByText(/Mittel gesperrt · 0 \/ \d+ benötigte leichte Ziele/),
   ).toHaveCount(12);
   await page.reload();
   await openRoundSetup(page);
@@ -115,11 +116,10 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
   await openRoundSetup(page);
   await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await page.locator(".round-guide summary").click();
-  await expect(
-    page.getByText(
-      "Du kombinierst Filmfragen, Schauspieler und Preisträger zu einem gemeinsamen Pool. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
-    ),
-  ).toBeVisible();
+  await expect(page.locator(".round-guide")).toContainText(
+    "zufällige Fragen ohne Zeitdruck",
+  );
+  await expect(page.locator(".round-guide")).toContainText("24 Stunden");
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(page.getByLabel("Soundeffekte", { exact: true })).toBeVisible();
@@ -251,77 +251,40 @@ test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie nach N
   await page.screenshot({ path: "test-results/filmtitel-320.png" });
 });
 
-for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
-  test(`Neue Pakete ergänzen einen Spielstand mit ${oldPackageCount} Paketen beim Neuladen`, async ({
-    page,
-  }) => {
-    await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
-    await launch(page);
-    await openRoundSetup(page);
-    await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
-    await openRoundSetup(page);
-    await page
-      .getByRole("group", { name: "Filmgenres", exact: true })
-      .getByLabel("Sci-Fi", { exact: true })
-      .check();
-    await page.getByRole("button", { name: "Losspielen" }).click();
-    await answerCurrent(page, true);
-    await page.getByRole("button", { name: "Pause & Startseite" }).click();
-    const legacyState = await readStoredState(page);
-    await (async () => {
-      const packageCount = oldPackageCount,
-        state = legacyState;
-      state.questions = state.questions.filter(
-        (q: { id: string }) =>
-          !q.id.includes("-202610-P01-") &&
-          !q.id.startsWith("MAR-") &&
-          !q.id.startsWith("ROM-") &&
-          !q.id.startsWith("ART-") &&
-          (packageCount >= 8 || !q.id.startsWith("CLA-")) &&
-          (packageCount >= 7 || !q.id.startsWith("DRA-")) &&
-          (packageCount >= 6 || !q.id.startsWith("WES-")) &&
-          (packageCount >= 5 || !q.id.startsWith("KOM-")) &&
-          (packageCount >= 4 || !q.id.startsWith("FAN-")) &&
-          (packageCount >= 3 || !q.id.startsWith("HOR-")) &&
-          (packageCount >= 2 || !q.id.startsWith("ACT-")),
-      );
-      state.imports = state.imports.filter(
-        (r: { filename: string }) =>
-          ![
-            "MartialArts_Quiz_180_Fragen.csv",
-            "RomCom_Quiz_180_Fragen.csv",
-            "Arthouse_Quiz_180_Fragen.csv",
-            "Alle_Genres_120_Filme_960_Fragen.csv",
-            "Preistraeger_200_Fragen.csv",
-            "Schauspieler_800_Fragen_App.csv",
-          ].includes(r.filename) &&
-          (packageCount >= 8 ||
-            r.filename !== "Classics_Quiz_180_Fragen.csv") &&
-          (packageCount >= 7 || r.filename !== "Drama_Quiz_180_Fragen.csv") &&
-          (packageCount >= 6 || r.filename !== "Western_Quiz_180_Fragen.csv") &&
-          (packageCount >= 5 ||
-            r.filename !== "Komoedie_Quiz_180_Fragen.csv") &&
-          (packageCount >= 5 ||
-            r.filename !== "Komoedie_Ergaenzung_360_Fragen.csv") &&
-          (packageCount >= 4 || r.filename !== "Fantasy_Quiz_180_Fragen.csv") &&
-          (packageCount >= 3 || r.filename !== "Horror_Quiz_180_Fragen.csv") &&
-          (packageCount >= 2 || r.filename !== "Action_Quiz_180_Fragen.csv"),
-      );
-      await writeStoredState(page, state);
-    })();
-    await page.reload();
-    await page.getByRole("button", { name: "Fortsetzen" }).click();
-    await expect(page.locator(".feedback")).toBeVisible();
-    await page.getByRole("button", { name: "Pause & Startseite" }).click();
-    await page.getByRole("button", { name: "Profil", exact: true }).click();
-    await page.getByRole("button", { name: "Optionen" }).click();
-    await expect(
-      page.getByText(
-        `${catalogCounts.questions} Fragen · ${catalogCounts.goals} Wissensziele · 0 Demo-Fragen`,
+test("Aktueller Serverbestand und Lernantwort bleiben nach Neuladen verfügbar", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-12T12:00:00+02:00") });
+  const requests: string[] = [];
+  page.on("request", (request) => requests.push(request.url()));
+  await launch(page);
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await answerCurrent(page, true);
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  const before = await readStoredState(page);
+  await page.reload();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  await expect(page.locator(".feedback")).toBeVisible();
+  const after = await readStoredState(page);
+  expect(after.events).toEqual(before.events);
+  expect(after.rounds).toEqual(before.rounds);
+  expect(after.questions).toHaveLength(catalogCounts.questions);
+  expect(new Set(after.questions.map((q) => q.knowledgeId)).size).toBe(
+    catalogCounts.goals,
+  );
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await page.getByRole("button", { name: "Sammlung", exact: true }).click();
+  await expect(page.locator(".stat-grid > div").nth(1)).toContainText(
+    "von " + catalogCounts.goals * 4 + " Lernstufen erreicht",
+  );
+  expect(
+    requests.filter((url) =>
+      /\/(?:cloud-catalog|catalog-archive)|\/(?:fragen|schauspieler-fragen)\.csv/.test(
+        url,
       ),
-    ).toBeVisible();
-  });
-}
+    ),
+  ).toEqual([]);
+});
 
 test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfeedback", async ({
   page,
