@@ -19,6 +19,7 @@ import { RoundExperience } from "./CareerProgress";
 import { historicalModeName, formatDate } from "./gameUi";
 import { Explanation } from "./Explanation";
 import { LearningProgress } from "./LearningProgressPanel";
+import { QuestionHistory } from "./QuestionHistoryPanel";
 import { useServer, useServerView } from "./serverViews";
 
 export function Result({
@@ -378,16 +379,29 @@ export function Result({
                   <strong>Lösung:</strong>{" "}
                   {q.answers.find((a) => a.id === q.correctId)?.text}
                 </p>
-                <Explanation q={q} event={e} />
-                {e.guessed && <p className="muted">Als geraten markiert.</p>}
-                <LearningProgress
-                  events={state.events}
-                  evidence={serverReward.value?.learning.find(
-                    (x) => x.eventId === e.id,
-                  )}
-                  event={e}
-                  now={Date.now()}
-                />
+                <Explanation q={q} event={e}>
+                  {e.guessed && <p className="muted">Als geraten markiert.</p>}
+                  <LearningProgress
+                    events={state.events}
+                    evidence={serverReward.value?.learning.find(
+                      (x) => x.eventId === e.id,
+                    )}
+                    event={e}
+                    now={Date.now()}
+                    history={
+                      !isRecordMode(round.mode) &&
+                      !round.duel &&
+                      state.settings.questionHistory !== "hidden" ? (
+                        <QuestionHistory
+                          events={state.events}
+                          question={q}
+                          currentEventId={e.id}
+                          embedded
+                        />
+                      ) : undefined
+                    }
+                  />
+                </Explanation>
               </details>
             )
           );

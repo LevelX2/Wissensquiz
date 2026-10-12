@@ -197,7 +197,7 @@ test("GitHub-Fragenmeldung behält Kontext und Meldungs-ID nach unklarem Versand
     .locator(".question-card h1")
     .getAttribute("data-question-id");
   const questionText = await page.locator(".question-card h1").innerText();
-  await page.getByRole("button", { name: "Frage melden" }).click();
+  await page.getByRole("button", { name: "Verbesserung vorschlagen" }).click();
   await expect(page.locator(".issue-report-form")).toContainText(
     "Fragetext, Fragen-ID und Inhaltsversion",
   );
@@ -217,7 +217,7 @@ test("GitHub-Fragenmeldung behält Kontext und Meldungs-ID nach unklarem Versand
   await expect(page.getByRole("link", { name: /GitHub-Issue/ })).toHaveCount(0);
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
-  await page.getByRole("button", { name: "Frage melden" }).click();
+  await page.getByRole("button", { name: "Verbesserung vorschlagen" }).click();
   await expect(page.getByLabel("Was ist Dir aufgefallen?")).toHaveValue(
     "Die Erklärung zur Frage sollte redaktionell geprüft werden.",
   );
@@ -247,8 +247,8 @@ test("GitHub-Fragenmeldung behält Kontext und Meldungs-ID nach unklarem Versand
       )
     ).reports,
   ).toEqual([]);
-  await page.getByRole("button", { name: "Frage melden" }).click();
-  await page.getByRole("button", { name: "Frage melden" }).click();
+  await page.getByRole("button", { name: "Verbesserung vorschlagen" }).click();
+  await page.getByRole("button", { name: "Verbesserung vorschlagen" }).click();
   await expect(
     page.getByRole("link", { name: "GitHub-Issue #43", exact: true }),
   ).toBeVisible();

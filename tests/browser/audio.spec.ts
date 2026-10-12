@@ -222,9 +222,9 @@ test("Töne kehren nach einer Audio-Unterbrechung beim nächsten Klick zurück",
     await audio.suspend();
   });
   const before = (await notes(page)).length;
-  await page.getByRole("button", { name: "Frage melden" }).click();
+  await page.getByRole("button", { name: "Verbesserung vorschlagen" }).click();
   await expect.poll(async () => (await notes(page)).length).toBe(before + 1);
-  await page.getByRole("button", { name: "Frage melden" }).click();
+  await page.getByRole("button", { name: "Verbesserung vorschlagen" }).click();
   expect(await respond(page, true)).toHaveLength(2);
 });
 

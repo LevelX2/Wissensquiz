@@ -489,13 +489,13 @@ export function QuestionScreen({
         {!collected &&
           !timed &&
           state.settings.questionHistory !== "hidden" &&
-          (state.settings.questionHistory === "always" || !!event) &&
+          state.settings.questionHistory === "always" &&
+          !event &&
           !showReveal && (
             <QuestionHistory
               key={q.id}
               events={state.events}
               question={q}
-              currentEventId={event?.id}
             />
           )}
         {event
@@ -583,25 +583,36 @@ export function QuestionScreen({
                   </strong>
                 </p>
                 {!event.correct && (
-                  <p>
-                    Die richtige Antwort:{" "}
+                  <p className="correct-answer">
+                    Richtige Antwort:{" "}
                     <strong>
                       {q.answers.find((a) => a.id === q.correctId)!.text}
                     </strong>
                   </p>
                 )}
-                <Explanation q={q} event={event} />
-                {event.guessed && (
-                  <p className="tiny muted">
-                    Deine Punkte bleiben. Dieser Filmfakt kommt früher wieder.
-                  </p>
-                )}
-                <LearningProgress
-                  evidence={learningEvidence}
-                  events={state.events}
-                  event={event}
-                  now={Date.now()}
-                />
+                <Explanation q={q} event={event}>
+                  {event.guessed && (
+                    <p className="tiny muted">
+                      Deine Punkte bleiben. Dieser Filmfakt kommt früher wieder.
+                    </p>
+                  )}
+                  <LearningProgress
+                    evidence={learningEvidence}
+                    events={state.events}
+                    event={event}
+                    now={Date.now()}
+                    history={
+                      !timed && state.settings.questionHistory !== "hidden" ? (
+                        <QuestionHistory
+                          events={state.events}
+                          question={q}
+                          currentEventId={event.id}
+                          embedded
+                        />
+                      ) : undefined
+                    }
+                  />
+                </Explanation>
               </>
             )}
           </div>
@@ -624,9 +635,10 @@ export function QuestionScreen({
         <div className="report-area">
           <button
             className="text-button muted"
+            aria-expanded={reporting}
             onClick={() => setReporting(!reporting)}
           >
-            ⚑ Frage melden
+            ✎ Verbesserung vorschlagen
           </button>
           <div hidden={!reporting}>
             <IssueReportForm

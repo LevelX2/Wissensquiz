@@ -1,5 +1,11 @@
 # Lern-, Runden- und Speichervertrag
 
+## Antwortansicht und gemeinsame Lernklappe – 12.10.2026
+
+Lokal umgesetzt, noch nicht veröffentlicht, auf [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-12%20Nutzerauftrag%20Antwortansicht%20und%20Lernklappe.txt): Nach der kurzen farbigen Auflösung steht unter der Frage nur „Alle Antworten ansehen“. Fragenstatistik und Lernstufen sind in einer standardmäßig geschlossenen Klappe „Lernfortschritt · Lernstufe N von 4“ zusammengefasst. Öffnen zeigt die Antwortzahlen für diese Frage, die gemeinsamen Varianten, Zeitabläufe, geratene Treffer sowie die vier Lernstufen mit Erklärung und nächstem Termin. „Ausblenden“ unter Profil → Optionen unterdrückt weiterhin die Statistik; „Immer anzeigen“ lässt sie vor der Antwort als eigene Klappe erscheinen. In Zeitspielen und Duellen bleibt die Statistik ausgeblendet. Der unmittelbare Rundenrückblick verwendet dieselbe Kombination.
+
+Die Antwort selbst ist typografisch hervorgehoben. „Richtige Antwort“ erscheint zusätzlich nur nach Fehler, „Keine Ahnung“ oder Zeitablauf. Reine Lösungsformeln wie „Gesucht ist: Samurai.“ entfallen; inhaltliche Erklärungen bleiben erhalten. Der Kontextname erhält eine kleine Kennzeichnung „Schauspiel“, „Film“ oder „Preisfrage zum Film“. Die neutrale Kennzeichnung „Schauspiel“ benötigt keine zusätzliche Geschlechtszuordnung. Quellen stehen nach der gemeinsamen Lernklappe, auch im Rückblick. Das ersetzt die frühere Anordnung mit Quellen vor dem Lernfortschritt. Der Fragenzugang zum bestehenden Formular heißt „Verbesserung vorschlagen“. Wertung, Inhalte, Lernintervalle und Speicherung ändern sich nicht.
+
 ## Antwortleiste ohne „War geraten“ – 12.10.2026
 
 Nach der direkten Antwortauflösung enthält die untere Aktionsleiste nur „Nächste Frage“ beziehungsweise bei der letzten Frage „Runde abschließen“. Die nachträgliche Kennzeichnung „War geraten“ entfällt auf [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-12%20Nutzerauftrag%20Antwortleiste%20ohne%20War%20geraten.txt). Bei gesammelter Auflösung bleibt „Ich rate bei dieser Frage“ vor der Antwort verfügbar. Bereits gespeicherte Ratekennzeichnungen und ihre Lernwertung bleiben unverändert. Diese Regel ersetzt frühere Beschreibungen des nachträglichen Buttons; lokal umgesetzt, noch nicht veröffentlicht.

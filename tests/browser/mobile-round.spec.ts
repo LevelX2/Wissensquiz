@@ -1,4 +1,4 @@
-import { writeStoredState } from "./fixtures";
+import { writeStoredState, accountBackend } from "./fixtures";
 import { test, expect, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -21,6 +21,92 @@ async function visibleAction(page: Page) {
     }),
   ).toBe(true);
   return box;
+}
+
+for (const correct of [true, false]) {
+  test(`gebündelte Antwortansicht: Mifune ${correct ? "richtig" : "falsch"}`, async ({
+    page,
+  }, info) => {
+    await page.clock.install({ time: new Date("2026-10-12T12:00:00Z") });
+    await page.setViewportSize({ width: 390, height: 844 });
+    await page.goto("/");
+    await expect(
+      page.getByRole("button", { name: "Losspielen" }),
+    ).toBeEnabled();
+    const pool = accountBackend(page).release.questions;
+    const q = pool.find(
+      (entry) => entry.id === "SCHAUSPIELER-202610-P01-049-L-2",
+    )!;
+    const state = emptyState([q]);
+    state.settings.sound = false;
+    state.settings.answerRevealMs = 500;
+    startRound(
+      state,
+      { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      await page.evaluate(() => Date.now()),
+    );
+    state.questions = pool;
+    await writeStoredState(page, state);
+    await page.reload();
+    await page.getByRole("button", { name: "Fortsetzen" }).click();
+    const selected = q.answers.find((a) =>
+      correct ? a.id === q.correctId : a.id !== q.correctId,
+    )!;
+    await page
+      .locator(".answer")
+      .filter({ has: page.getByText(selected.text, { exact: true }) })
+      .click();
+    await expect(page.locator(".explanation-subject")).toHaveText(
+      "SchauspielToshirō Mifune",
+    );
+    await expect(page.locator(".chosen-answer")).toContainText(selected.text);
+    await expect(page.locator(".correct-answer")).toHaveCount(correct ? 0 : 1);
+    if (!correct)
+      await expect(page.locator(".correct-answer")).toContainText("Samurai");
+    await expect(page.locator(".feedback")).not.toContainText(
+      "Gesucht ist: Samurai",
+    );
+    await expect(
+      page.locator(".question-card > .question-history"),
+    ).toHaveCount(0);
+    const progress = page.locator(".learning-progress");
+    await expect(progress).not.toHaveAttribute("open");
+    await progress.locator("summary").click();
+    await expect(progress.locator(".history-counts")).toContainText(
+      `1× beantwortet${correct ? " 1 richtig · 0 falsch" : " 0 richtig · 1 falsch"}`,
+    );
+    await expect(progress.locator(".learning-stage-track")).toBeVisible();
+    expect(
+      await page.locator(".answer-sources").evaluate((sources) => {
+        const progress =
+          sources.parentElement!.querySelector(".learning-progress")!;
+        return !!(
+          progress.compareDocumentPosition(sources) &
+          Node.DOCUMENT_POSITION_FOLLOWING
+        );
+      }),
+    ).toBe(true);
+    await progress.locator("summary").click();
+    await page
+      .getByRole("button", { name: "Verbesserung vorschlagen" })
+      .click();
+    await expect(page.getByLabel("Was ist Dir aufgefallen?")).toBeVisible();
+    await page
+      .getByRole("button", { name: "Verbesserung vorschlagen" })
+      .click();
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= innerWidth,
+      ),
+    ).toBe(true);
+    await page.screenshot({
+      path: info.outputPath("antwortansicht.png"),
+      fullPage: true,
+    });
+    await expect(
+      page.getByRole("button", { name: "Runde abschließen" }),
+    ).toBeInViewport();
+  });
 }
 
 for (const viewport of [

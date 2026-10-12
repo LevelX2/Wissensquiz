@@ -346,7 +346,6 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
     await expect(feedback.locator(".learning-stage-track")).not.toBeVisible();
     if (i === 0) {
       for (const subject of [
-        "history",
         "answers",
         "context",
         "film",

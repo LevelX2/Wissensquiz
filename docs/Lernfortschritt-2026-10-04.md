@@ -1,5 +1,7 @@
 # Sichtbarer Lernfortschritt
 
+**Aktuelle Anordnung – 12.10.2026, lokal:** Fragenstatistik und Lernstufen stehen nach der Antwort gemeinsam in der geschlossenen Lernfortschrittsklappe. Die Quellen folgen darunter. Auch der unmittelbare Rundenrückblick verwendet diese Reihenfolge. Damit ist die frühere Anordnung „Lernstufe zuletzt nach Quellen“ abgelöst. Antwortzahlen und Variantenstatistik sind kompakter dargestellt; die vorhandene Statistikoption bleibt wirksam. [Nutzerauftrag und führender Anzeigevertrag](Lernregeln.md#antwortansicht-und-gemeinsame-lernklappe--12102026).
+
 Stand: 04.10.2026. Grundfunktion seit Sites-Version 52 veröffentlicht; die folgende Anordnungspräzisierung ist seit Sites-Version 54 ebenfalls veröffentlicht. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-54-gesamter-main-stand-mit-individuellen-fragenvertiefungen).
 
 ## Anlass und Entscheidung

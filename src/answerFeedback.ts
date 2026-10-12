@@ -1,5 +1,22 @@
 import type { Question } from "./model";
 
+// The answer already has its own row. Keep substantive explanation text.
+export function answerExplanation(q: Question) {
+  const explanation = q.explanation.trim();
+  const correct = q.answers.find((a) => a.id === q.correctId)?.text;
+  return correct &&
+    [
+      correct,
+      `${correct}.`,
+      `Gesucht ist: ${correct}.`,
+      `Gesucht ist ${correct}.`,
+      `Richtig ist: ${correct}.`,
+      `Richtig ist ${correct}.`,
+    ].includes(explanation)
+    ? ""
+    : explanation;
+}
+
 export function additionalAnswerFeedback(q: Question, feedback = "") {
   // Remove known empty formulas, not sentences merely containing a negation:
   // "Georgie ist Bills Bruder, nicht sein Onkel" carries useful information.

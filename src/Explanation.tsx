@@ -2,15 +2,35 @@ import { type AnswerEvent, type Question } from "./model";
 import { FilmDataPanel } from "./FilmDataPanel";
 import { ActorPortrait, recognitionVariants } from "./ActorPortrait";
 import { FilmPoster } from "./FilmPoster";
-import { additionalAnswerFeedback } from "./answerFeedback";
+import { additionalAnswerFeedback, answerExplanation } from "./answerFeedback";
 import { DisclosureArtwork } from "./DisclosureArtwork";
+import type { ReactNode } from "react";
+import { questionSourceOf } from "./filters";
 
-export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
+export function Explanation({
+  q,
+  event,
+  children,
+}: {
+  q: Question;
+  event: AnswerEvent;
+  children?: ReactNode;
+}) {
   const selected = q.answers.find((a) => a.id === event.answerId);
   const feedback = additionalAnswerFeedback(q, selected?.feedback);
   const film = q.presentation?.film;
   const director = q.presentation?.director;
   const deepContext = q.presentation?.deepContext ?? q.context;
+  const explanation = answerExplanation(q);
+  const subject =
+    q.metadata.person_name ||
+    q.metadata.film_title_de ||
+    q.metadata.film_title_original;
+  const subjectLabel = q.metadata.person_name
+    ? "Schauspiel"
+    : questionSourceOf(q) === "awards"
+      ? "Preisfrage zum Film"
+      : "Film";
   const sources = [
     ...new Set([
       ...q.sources,
@@ -20,13 +40,16 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   ];
   return (
     <div className="explanation">
-      {q.metadata.person_name && (
-        <p className="actor-name">
-          <strong>{q.metadata.person_name}</strong>
+      {subject && (
+        <p
+          className={`explanation-subject${q.metadata.person_name ? " actor-name" : ""}`}
+        >
+          <span>{subjectLabel}</span>
+          <strong>{subject}</strong>
         </p>
       )}
       <ActorPortrait q={q} selectionKey={event.id} />
-      <p>{q.explanation}</p>
+      {explanation && <p>{explanation}</p>}
       {!event.correct && feedback && (
         <p className="specific-feedback">{feedback}</p>
       )}
@@ -70,8 +93,9 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
         </details>
       )}
       <FilmDataPanel q={q} />
+      {children}
       {sources.length > 0 && (
-        <details>
+        <details className="answer-sources">
           <summary className="illustrated-summary">
             <DisclosureArtwork subject="sources" />
             Quellen ansehen

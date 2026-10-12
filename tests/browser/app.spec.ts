@@ -608,7 +608,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await expect(page.getByRole("button", { name: "War geraten" })).toHaveCount(
     0,
   );
-  await page.getByRole("button", { name: "Frage melden" }).click();
+  await page.getByRole("button", { name: "Verbesserung vorschlagen" }).click();
   await expect(page.getByLabel("Was ist Dir aufgefallen?")).toBeVisible();
   await expect(
     page.getByRole("button", { name: "Meldung senden", exact: true }),

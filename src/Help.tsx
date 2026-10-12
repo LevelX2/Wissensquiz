@@ -394,10 +394,11 @@ export function Help() {
       <details>
         <summary>Wie melde ich einen Fehler oder eine Verbesserung?</summary>
         <p>
-          Mit „Frage melden“ kannst Du direkt im Spiel eine Meldung zu dieser
-          Frage senden. Allgemeine Probleme meldest Du unter „Profil → Problem
-          oder Verbesserung melden“. Wähle den Typ, gib einen kurzen Titel und
-          eine Beschreibung ein und bestätige die öffentliche Veröffentlichung.
+          Mit „Verbesserung vorschlagen“ kannst Du direkt im Spiel einen Fehler
+          oder eine Textverbesserung zu dieser Frage einreichen. Allgemeine
+          Probleme meldest Du unter „Profil → Problem oder Verbesserung melden“.
+          Wähle den Typ, gib einen kurzen Titel und eine Beschreibung ein und
+          bestätige die öffentliche Veröffentlichung.
         </p>
         <p>
           Du brauchst ein bestätigtes Quiz-Konto. Die Meldung erscheint als

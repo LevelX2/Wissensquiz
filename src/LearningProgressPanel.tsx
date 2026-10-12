@@ -1,4 +1,5 @@
 import type { AnswerEvent } from "./model";
+import type { ReactNode } from "react";
 import { DisclosureArtwork } from "./DisclosureArtwork";
 import {
   learningAnswerNote,
@@ -13,11 +14,13 @@ export function LearningProgress({
   event,
   now,
   evidence,
+  history,
 }: {
   events: AnswerEvent[];
   event: AnswerEvent;
   now: number;
   evidence?: LearningEvidence;
+  history?: ReactNode;
 }) {
   const { previous, current, resolvedMistake } =
     evidence ?? learningAtAnswer(events, event);
@@ -32,6 +35,7 @@ export function LearningProgress({
         Lernfortschritt · {current.status === "gefestigt" ? "Gefestigt · " : ""}
         Lernstufe {current.stage} von 4
       </summary>
+      {history}
       <div className="learning-stage-track" aria-hidden="true">
         {[1, 2, 3, 4].map((stage) => (
           <span key={stage} className={stage <= current.stage ? "earned" : ""}>

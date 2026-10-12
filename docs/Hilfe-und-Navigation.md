@@ -1,5 +1,9 @@
 # Navigation und Hilfe
 
+## Antwortansicht und Verbesserungsvorschläge – 12.10.2026
+
+Lokal umgesetzt: Unter der beantworteten Frage bleibt nur „Alle Antworten ansehen“. Ergebnis und hervorgehobene Antwort stehen darüber, der Kontext trägt eine Kennzeichnung für Schauspiel beziehungsweise Film oder Preisfrage. Antwortstatistik und Lernstufen teilen eine Klappe; Quellen stehen darunter. Der bisherige Zugang „Frage melden“ heißt „Verbesserung vorschlagen“ und öffnet dasselbe Formular für Fehler und Textverbesserungen. [Anzeigevertrag](Lernregeln.md#antwortansicht-und-gemeinsame-lernklappe--12102026).
+
 ## Einheitliche Startklappen und Menüicons – 10.10.2026
 
 Lokal umgesetzt, noch nicht veröffentlicht: Der Spoilerhinweis auf der Spielen-Seite entfällt auf Nutzerwunsch. Alle Startklappen einschließlich der großen Moduskarte verwenden denselben goldenen Pfeil, der beim Öffnen nach oben zeigt. Moduserklärung, Fragenbereiche, Filmgenres/Filmauswahl, Schwierigkeit/Filmgruppen und Stufenfortschritte erhalten passende vorhandene Illustrationen. Native Klappen, Enter/Leertaste, Fokus und gespeicherte Auswahl bleiben erhalten.

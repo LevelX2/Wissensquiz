@@ -1,5 +1,7 @@
 # Meldungen aus Spiel und Profil
 
+**Lokaler UI-Stand – 12.10.2026:** Der Zugang an der Frage heißt nun „Verbesserung vorschlagen“. Er umfasst inhaltliche Fehler und Textverbesserungen und verwendet unverändert dasselbe Formular mit Fragenbezug. Die Hilfe ist entsprechend angepasst; Versand und Zustimmung bleiben unverändert. Noch nicht veröffentlicht. [Anzeigevertrag](Lernregeln.md#antwortansicht-und-gemeinsame-lernklappe--12102026).
+
 ## Stand – 11.10.2026
 
 Auf [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerauftrag%20GitHub-Meldungen.txt) umgesetzt: „Frage melden“ öffnet das gemeinsame Meldeformular mit Fragenbezug. Profil → „Problem oder Verbesserung melden“ bietet dasselbe Formular für allgemeine Rückmeldungen. Angemeldete, bestätigte Quiz-Konten können ein öffentliches Issue in [LevelX2/Wissensquiz](https://github.com/LevelX2/Wissensquiz/issues) erstellen; ein eigenes GitHub-Konto ist nicht erforderlich. Gäste erhalten einen Anmeldehinweis.

@@ -164,7 +164,7 @@ test("SciFi-Poster erst nach der Antwort, auch nach Neuladen und im Rückblick",
   expect(
     await page.locator(".film-poster").evaluate((poster) => {
       const explanation = poster.parentElement?.querySelector(
-        ":scope > p:not(.actor-name)",
+        ":scope > p:not(.explanation-subject)",
       );
       return (
         !!explanation &&

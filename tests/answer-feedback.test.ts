@@ -1,5 +1,8 @@
 import { expect, it } from "vitest";
-import { additionalAnswerFeedback } from "../src/answerFeedback";
+import {
+  additionalAnswerFeedback,
+  answerExplanation,
+} from "../src/answerFeedback";
 import type { Question } from "../src/model";
 import { importCsv } from "../src/importer";
 import { readFileSync } from "node:fs";
@@ -7,6 +10,19 @@ import { readFileSync } from "node:fs";
 const q = {
   explanation: "Die breiten Kriegsmaschinen erinnern an Mantarochen.",
 } as Question;
+it("entfernt die reine Samurai-Lösungszeile, bewahrt aber Erklärungen", () => {
+  const question = {
+    ...q,
+    correctId: "a",
+    answers: [{ id: "a", text: "Samurai" }],
+  } as Question;
+  expect(
+    answerExplanation({ ...question, explanation: "Gesucht ist: Samurai." }),
+  ).toBe("");
+  const explanation =
+    "Gesucht ist: Samurai. Mifune verkörpert oft herrenlose Krieger.";
+  expect(answerExplanation({ ...question, explanation })).toBe(explanation);
+});
 it("entfernt die im Screenshot doppelt angezeigte Erklärung", () => {
   expect(
     additionalAnswerFeedback(

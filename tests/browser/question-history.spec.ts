@@ -111,13 +111,20 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     await changeDisplay("after");
     await expect(stats).toHaveCount(0);
     await page.locator(".answer").filter({ hasText: wrong.text }).click();
-    await expect(stats.locator("summary")).toContainText("4× beantwortet");
-    await expect(stats.locator("summary")).toContainText(
+    const progress = page.locator(".learning-progress");
+    await expect(progress).not.toHaveAttribute("open");
+    await expect(progress.locator(".question-history")).toHaveCount(1);
+    await expect(stats.locator(".history-counts")).toContainText(
+      "4× beantwortet",
+    );
+    await expect(stats.locator(".history-counts")).toContainText(
       "2 richtig · 2 falsch",
     );
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
-    await expect(stats.locator("summary")).toContainText("4× beantwortet");
+    await expect(stats.locator(".history-counts")).toContainText(
+      "4× beantwortet",
+    );
     await expect(
       page.getByRole("button", { name: "Runde abschließen" }),
     ).toBeInViewport();
@@ -129,7 +136,9 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     await changeDisplay("hidden");
     await expect(stats).toHaveCount(0);
     await changeDisplay("always");
-    await expect(stats.locator("summary")).toContainText("4× beantwortet");
+    await expect(stats.locator(".history-counts")).toContainText(
+      "4× beantwortet",
+    );
     await page.getByRole("button", { name: "Runde abschließen" }).click();
     await page.getByRole("button", { name: "Spielen", exact: true }).click();
     await openRoundSetup(page);

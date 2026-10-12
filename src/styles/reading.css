@@ -340,6 +340,50 @@ footer[hidden] {
 .chosen-answer {
   margin: 8px 0;
 }
+.chosen-answer,
+.correct-answer {
+  display: grid;
+  gap: 3px;
+  color: var(--muted);
+  font-size: 13px;
+}
+.chosen-answer strong,
+.correct-answer strong {
+  color: #24313b;
+  font-size: 18px;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+.correct-answer {
+  padding-left: 12px;
+  border-left: 3px solid var(--green);
+}
+.explanation .explanation-subject {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 8px;
+  margin-block: 12px;
+  font-size: 14px;
+}
+.explanation-subject > span {
+  color: var(--muted);
+  font-size: 12px;
+}
+.embedded-history .history-counts {
+  display: grid;
+  color: #24313b;
+  font-weight: 650;
+}
+.embedded-history > div {
+  padding: 0;
+  border: 0;
+}
+.explanation > .learning-progress,
+.explanation > .answer-sources {
+  clear: both;
+  margin-block: 12px;
+}
 .learning-progress {
   margin: 14px 0;
   padding: 12px;
