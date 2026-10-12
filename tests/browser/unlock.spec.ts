@@ -6,7 +6,7 @@ import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { emptyState } from "../../src/model";
 import { addPackages, packages } from "../../src/packages";
-import { answer, complete, startRound } from "../../src/engine";
+import { answer, complete, guess, startRound } from "../../src/engine";
 
 const full = emptyState();
 addPackages(
@@ -40,7 +40,7 @@ for (const scenario of [
   test(`Freischaltung ${scenario}: Feier nur bei neuem Erfolg, respektiert Einstellungen und bleibt einmalig`, async ({
     page,
     context,
-  }) => {
+  }, testInfo) => {
     await fixCalendarTime(page, new Date("2026-10-11T12:00:00+02:00"));
     const quiet = scenario === "beide";
     await page.setViewportSize({ width: 320, height: 800 });
@@ -134,6 +134,10 @@ for (const scenario of [
     current.questions = [q];
     current.order = [q.answers.map((a) => a.id)];
     current.familiaritySnapshot = { [q.id]: familiarityOf(q)! };
+    if (scenario === "geraten") {
+      answer(state, current.id, q.id, q.correctId, 1000, 1700000101000);
+      guess(state, current.events[0]);
+    }
     await page.goto("/");
     await expect(
       page.getByRole("button", { name: "Losspielen" }),
@@ -148,13 +152,10 @@ for (const scenario of [
         (window as unknown as { unlockTest: { tones: number } }).unlockTest
           .tones,
     );
-    await page
-      .locator(".answer")
-      .filter({ hasText: q.answers.find((a) => a.id === q.correctId)!.text })
-      .click();
-    if (scenario === "geraten")
+    if (scenario !== "geraten")
       await page
-        .getByRole("button", { name: "War geraten", exact: true })
+        .locator(".answer")
+        .filter({ hasText: q.answers.find((a) => a.id === q.correctId)!.text })
         .click();
     await page.getByRole("button", { name: "Runde abschließen" }).click();
     const dialog = page.getByRole("dialog");
@@ -227,7 +228,9 @@ for (const scenario of [
             .evaluate((el) => getComputedStyle(el).transform),
         )
         .not.toBe("none");
-      await page.screenshot({ path: "test-results/freischaltung-320.png" });
+      await page.screenshot({
+        path: testInfo.outputPath("freischaltung-320.png"),
+      });
       expect(
         (
           await new AxeBuilder({ page })

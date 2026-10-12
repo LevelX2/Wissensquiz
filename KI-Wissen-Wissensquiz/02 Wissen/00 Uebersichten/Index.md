@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Antwortleiste ohne „War geraten“: nur Weiter-/Abschlussaktion, lokal am 12.10.2026](../../../docs/Lernregeln.md#antwortleiste-ohne-war-geraten--12102026)
+
 - [Version 73: Gesamtbalken und genreübergreifende Entdecker-Medaillen veröffentlicht](../../../docs/Veroeffentlichung-2026-10-12-Version-73.json)
 
 - [Version 72: grafischer Gesamtfortschritt, geprüfte Main-Veröffentlichung und offene Bereinigung](../../../docs/Veroeffentlichung-2026-10-12-Version-72.json)

@@ -7,6 +7,7 @@ import { importCsv } from "../../src/importer";
 import { startRound } from "../../src/engine";
 
 async function visibleAction(page: Page) {
+  await expect(page.locator(".feedback-actions button")).toHaveCount(1);
   const button = page.locator(".feedback-actions .primary");
   await expect(button).toBeEnabled();
   await expect(button).toBeInViewport({ ratio: 1 });
@@ -49,11 +50,15 @@ for (const viewport of [
       )
       .slice(0, 3);
     const state = emptyState(questions);
-    const round = startRound(state, {
-      mode: "entdecken",
-      topic: "Alle Themen",
-      difficulty: "leicht",
-    });
+    const round = startRound(
+      state,
+      {
+        mode: "entdecken",
+        topic: "Alle Themen",
+        difficulty: "leicht",
+      },
+      await page.evaluate(() => Date.now()),
+    );
     round.questions = qs;
     round.order = qs.map((q) => q.answers.map((a) => a.id));
     await writeStoredState(page, state);
@@ -119,7 +124,9 @@ for (const viewport of [
       await expect(page.locator(".explanation")).toHaveCount(0);
       if (i < 2)
         await page.screenshot({
-          path: `test-results/antwortphase-${i === 1 ? "falsch" : "richtig"}-${info.project.name}-${viewport.width}.png`,
+          path: info.outputPath(
+            `antwortphase-${i === 1 ? "falsch" : "richtig"}.png`,
+          ),
         });
       await page.clock.runFor(1000);
       await expect(page.locator(".solution-reveal")).toBeVisible();
@@ -137,7 +144,7 @@ for (const viewport of [
       ).toBe(true);
       if (i === 0) {
         await page.screenshot({
-          path: `test-results/antwort-${info.project.name}-${viewport.width}.png`,
+          path: info.outputPath("antwort.png"),
         });
         expect(
           (
@@ -146,13 +153,6 @@ for (const viewport of [
               .analyze()
           ).violations,
         ).toEqual([]);
-        await page
-          .getByRole("button", { name: "War geraten", exact: true })
-          .click();
-        await expect(
-          page.getByRole("button", { name: "Als geraten markiert" }),
-        ).toBeDisabled();
-        await visibleAction(page);
         await page.getByText("Alle Antworten ansehen", { exact: true }).click();
         await expect(page.locator(".answer")).toHaveCount(4);
         await expect(page.locator(".answer.correct")).toBeVisible();

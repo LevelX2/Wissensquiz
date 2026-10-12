@@ -26,8 +26,8 @@ export function Help() {
           </li>
         </ol>
         <p>
-          Eine sichere Antwort bedeutet: richtig beantwortet und nicht als „War
-          geraten“ markiert. Für die nächste Stufe muss die Wiederholung fällig
+          Eine sichere Antwort bedeutet: richtig beantwortet und nicht als
+          geraten markiert. Für die nächste Stufe muss die Wiederholung fällig
           sein. Du kannst pro Tag höchstens eine Stufe aufsteigen.
         </p>
         <p className="help-example">
@@ -54,8 +54,9 @@ export function Help() {
         </ol>
         <p>
           Ein Fehler oder Zeitablauf setzt das Ziel auf „entdeckt“ zurück; es
-          wird nach zehn Minuten wieder fällig. Bei „War geraten“ sind es sechs
-          Stunden. Bereits erworbene Abzeichen bleiben Dir erhalten.
+          wird nach zehn Minuten wieder fällig. Bei einem als geraten markierten
+          Treffer sind es sechs Stunden. Bereits erworbene Abzeichen bleiben Dir
+          erhalten.
         </p>
         <p>
           Nach jeder Antwort gilt der nächste Wiederholungstermin. Früher

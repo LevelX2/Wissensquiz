@@ -598,42 +598,58 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   page.on("pageerror", (e) => errors.push(e.message));
   await launch(page);
   await page.screenshot({
-    path: "test-results/desktop-home.png",
+    path: testInfo.outputPath("desktop-home.png"),
     fullPage: true,
   });
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".round-progress")).toContainText("FRAGE 1 VON 10");
-  await answerCurrent(page, true);
-  await page.getByRole("button", { name: "War geraten", exact: true }).click();
-  await expect(
-    page.getByRole("button", { name: "Als geraten markiert" }),
-  ).toBeDisabled();
+  const firstQuestion = await answerCurrent(page, true);
+  await expect(page.locator(".feedback-actions button")).toHaveCount(1);
+  await expect(page.getByRole("button", { name: "War geraten" })).toHaveCount(
+    0,
+  );
   await page.getByRole("button", { name: "Frage melden" }).click();
   await expect(page.getByLabel("Was ist Dir aufgefallen?")).toBeVisible();
   await expect(
     page.getByRole("button", { name: "Meldung senden", exact: true }),
   ).toBeDisabled();
   await page.getByRole("button", { name: "Nächste Frage" }).click();
-  await answerCurrent(page, false);
+  await expect(page.locator(".question-card h1")).not.toHaveAttribute(
+    "data-question-id",
+    firstQuestion.id,
+  );
+  const secondQuestion = await answerCurrent(page, false);
   await expect(
     page.getByText("Die richtige Antwort:", { exact: false }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Nächste Frage" }).click();
+  await expect(page.locator(".question-card h1")).not.toHaveAttribute(
+    "data-question-id",
+    secondQuestion.id,
+  );
   for (let i = 2; i < 10; i++) {
-    await answerCurrent(page, true);
+    const q = await answerCurrent(page, true);
     await page
       .getByRole("button", {
         name: i === 9 ? "Runde abschließen" : "Nächste Frage",
       })
       .click();
+    if (i < 9)
+      await expect(page.locator(".question-card h1")).not.toHaveAttribute(
+        "data-question-id",
+        q.id,
+      );
   }
   await expect(
     page.getByRole("heading", { name: "Eine Runde weiter." }),
   ).toBeVisible();
   await expect(page.locator(".result-score")).toContainText("9 / 10");
-  await page.screenshot({ path: "test-results/result.png", fullPage: true });
+  await page.screenshot({
+    path: testInfo.outputPath("result.png"),
+    fullPage: true,
+  });
   await page.reload();
-  await expect(page.locator(".sidebar-bottom")).toContainText("42 / 100 XP");
+  await expect(page.locator(".sidebar-bottom")).toContainText("46 / 100 XP");
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   await expect(page.locator(".history").first()).toContainText("9/10 richtig");
   await expect(

@@ -1,5 +1,9 @@
 # Lern-, Runden- und Speichervertrag
 
+## Antwortleiste ohne „War geraten“ – 12.10.2026
+
+Nach der direkten Antwortauflösung enthält die untere Aktionsleiste nur „Nächste Frage“ beziehungsweise bei der letzten Frage „Runde abschließen“. Die nachträgliche Kennzeichnung „War geraten“ entfällt auf [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-12%20Nutzerauftrag%20Antwortleiste%20ohne%20War%20geraten.txt). Bei gesammelter Auflösung bleibt „Ich rate bei dieser Frage“ vor der Antwort verfügbar. Bereits gespeicherte Ratekennzeichnungen und ihre Lernwertung bleiben unverändert. Diese Regel ersetzt frühere Beschreibungen des nachträglichen Buttons; lokal umgesetzt, noch nicht veröffentlicht.
+
 **Aktueller Filmreise-Vertrag (11.10.2026):** [50 Prozent der aktuellen Ziele der vorherigen Schwierigkeit und gleichwahrscheinliche Stufenauswahl](Filmreise-Freischaltung-2026-10-11.md). Ersetzt die früheren festen 60-Prozent-/20-Ziele-Schwellen und historischen Schwierigkeitsrechte; Filmgruppen folgen derselben 50-Prozent-Regel für alle aktuellen leichten Ziele der vorherigen Gruppe, getrennt von den Schwierigkeiten.
 
 ## Serverzeit für gewertete Solo-Zeitspiele – 10.10.2026

@@ -608,18 +608,6 @@ export function QuestionScreen({
         )}
         {event && !showReveal && (
           <div className="feedback-actions">
-            {!collected && event.correct && (
-              <button
-                className="secondary"
-                aria-pressed={event.guessed}
-                disabled={event.guessed || busy}
-                onClick={() =>
-                  onGuess ? onGuess() : void mutate((s) => guess(s, event.id))
-                }
-              >
-                {event.guessed ? "✓ Als geraten markiert" : "War geraten"}
-              </button>
-            )}
             <button
               className="primary"
               data-feedback={round.duel ? undefined : "own"}

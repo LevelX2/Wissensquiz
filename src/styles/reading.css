@@ -485,9 +485,6 @@ footer[hidden] {
   .is-answered .feedback-actions .primary {
     flex: 1;
   }
-  .is-answered .feedback-actions .secondary {
-    flex: 0 1 42%;
-  }
   .is-answered .question-card h1 {
     font-size: 19px;
     line-height: 1.3;
