@@ -1,5 +1,16 @@
 # Sites-Veröffentlichung
 
+## Version 75: Levelaufstieg feiern und perfekte Zehnerrunden sammeln
+
+Am **12.10.2026 um 20:27:49 Uhr Europe/Berlin** aus Main-Commit `2a21ec327c95f810ac3235fb9a74acd2f786b17e` als **Version 75** veröffentlicht, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Projekt-ID, öffentliche Adresse und Zugriff `public`, Revision 2, erhalten. XP-Levelaufstieg mit Glückwunsch, Fanfare gemäß Toneinstellung und Bestätigung „Weiter zum Ergebnis“. Abzeichen nach 1/10/50/100 perfekten Zehnerrunden, global ohne Folgepflicht; geratene Treffer ausgeschlossen. Gleichzeitige Erfolge stehen in einem Dialog mit einem Signal. Vorhandene perfekte Runde in der Sammlung berücksichtigt; keine nachträgliche Feier beim Laden.
+
+Gemeinsamer Main-Stand enthält auch die vereinfachte Antwortleiste, gebündelte Lernklappe, erneute Tonfreigabe und die konkretisierte Mifune-Frage. 435 zentrale Tests in 72 Dateien, abschließender TypeScript-/Buildlauf und 93 unterschiedliche Browserfälle einschließlich erfolgreicher Nachprüfungen bestanden. Echter Randfall beim reinen Abzeichenbeleg perfekter Zeitrunden korrigiert; nach der Korrektur drei Abzeichentests, 15 Karriere-/Erfolgsfälle und die gezielte Zeitrunde erneut bestanden. Unveränderte erfolgreiche Prüfteile wiederverwendet; kein vollständiger Browser-Gesamtlauf und keine physische iPhone-Hörabnahme.
+
+Private inkrementelle Abzeichenableitung aktiv; keine neue öffentliche RPC, kein Clientkatalog und kein vollständiger Historienabruf. Migration und Inhaltsaktivierung bestätigen Antworten, XP und Kontoköpfe atomar unverändert. Genau eine aktuelle Frage geändert, 12.787 Fragen insgesamt und keine Stagingreste. Alle 489 Builddateien plus Hostingmanifest im Archiv bytegleich; sieben öffentliche Dateien und Versions-RPC anonym bestätigt. Veröffentlichungszeit und Quellcommit separat gespeichert und gelesen. Kein GitHub-Push. [IDs, Hashes und Prüfnachweis](Veroeffentlichung-2026-10-12-Version-75.json).
+
+Eigene Veröffentlichungskopie, Transportarchiv, Inhaltsvorbereitung, Prüfbuild, veralteter eigener Entwicklungsbuild `dist`, Port-4302-Ausgaben und 31 zugehörige Screenshots entfernt und Abwesenheit geprüft. Normale PowerShell-Löschung ohne erzwungenen Zugriff; nur das versteckte Attribut des eigenen temporären Git-Verzeichnisses musste zuvor entfernt werden. Frühere oder fremde Artefakte bleiben außerhalb dieses Bereinigungsblocks.
+
+
 ## Version 74: kompakte Kachel und Filmfakten
 
 Am **12.10.2026 um 16:42:24 Uhr Europe/Berlin** aus Main-Commit `48743cdd6722c0b1cf25ea51161ee2dde807dbba` als **Version 74** veröffentlicht, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Öffentliche Adresse, Projekt-ID und Zugriff `public`, Revision 2, erhalten. Kompakte Filmreise-Kachel ohne redundante Überschrift, Beschreibung „Neues lernen & wiederholen“, Gesamtbalken über die volle Breite und Begriff „Filmfakten“ in den Spieltexten.
@@ -9,7 +20,7 @@ Am **12.10.2026 um 16:42:24 Uhr Europe/Berlin** aus Main-Commit `48743cdd6722c0b
 
 
 
-Bereinigung offen: Die automatische Freigabeprüfung lehnt die geprüfte gezielte Entfernung mit „blocked by policy“ ab. Eigene Veröffentlichungskopie, Archiv, alter Stagingbuild und Diagnosehilfen in `tmp-runtime/compact74` (563.994.671 Bytes), Browserausgaben `test-results/port-4301` (7.653.797 Bytes) und vier zugehörige flache Screenshots bleiben unversioniert erhalten. Der bereits zuvor blockierte aktuelle Build `dist` enthält nun Version 74 (76.633.800 Bytes). Zusammen rund 648 MB; dauerhafter Prüfnachweis gesichert. Nach Aufhebung der Sperre gezielt entfernen; den aktuellen Build nur, wenn keine laufende Prüfung ihn benötigt. Keine aktiven eigenen Testserver.
+Bereinigung offen: Die automatische Freigabeprüfung lehnt die geprüfte gezielte Entfernung mit „blocked by policy“ ab. Eigene Veröffentlichungskopie, Archiv, alter Stagingbuild und Diagnosehilfen in `tmp-runtime/compact74` (563.994.671 Bytes), Browserausgaben `test-results/port-4301` (7.653.797 Bytes) und vier zugehörige flache Screenshots bleiben unversioniert erhalten. Der damals mitgeschützte Build `dist` wurde nach Veröffentlichung von Version 75 ohne erzwungene Löschung entfernt. Die übrigen hier aufgeführten Artefakte bleiben erhalten; dauerhafter Prüfnachweis gesichert. Nach Aufhebung der Sperre gezielt entfernen; den aktuellen Build nur, wenn keine laufende Prüfung ihn benötigt. Keine aktiven eigenen Testserver.
 
 ## Version 73: Gesamtbalken und Entdecker-Medaillen
 

@@ -2,6 +2,8 @@
 
 ## Aktueller Betriebsvertrag – 12.10.2026
 
+Leveldialog und Zehner-Abzeichen seit [Version 75](Veroeffentlichung-2026-10-12-Version-75.json) öffentlich verfügbar.
+
 Kontorunden werden serverseitig ausgewählt und ausgewertet; der Server leitet XP und Lernstände aus privaten Antwortbelegen ab. Ergebnis und Sammlung erhalten kleine vorbereitete Ansichten. Der Client lädt weder einen Vollkatalog noch eine vollständige Karrierehistorie. Führend ist [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Die folgenden XP-Regeln und Levelhürden gelten weiter; die ausdrücklich historischen Abschnitte zur früheren Speicherung und Übernahme beschreiben keinen aktuellen Speicherweg.
 
 ## Historischer Stand vom 03.10.2026: XP bei Eintragssynchronisierung

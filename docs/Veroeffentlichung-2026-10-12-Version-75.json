@@ -1,0 +1,314 @@
+{
+  "version": 75,
+  "sourceBranch": "main",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "sourceCommit": "2a21ec327c95f810ac3235fb9a74acd2f786b17e",
+  "versionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_25dbca26d7448191aedca676514572cd",
+  "deploymentId": "appgdep_6acd26910d6c81918e0f4b1408df68ee",
+  "publishedAt": "2026-10-12T18:27:49.779125+00:00",
+  "archiveNative": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000deb481f48eeb334938f286b6",
+    "content_hash": "sha256:2a251bfd14ed7f8a14ddad34225e42c573d8f60cb055908a46f78af606f3b767",
+    "size_bytes": 77025280,
+    "file_count": 490
+  },
+  "archiveLocal": {
+    "fileCount": 490,
+    "buildFiles": 489,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 62641441,
+    "sha256": "84028c24ca4932c02fa72a929d4ead050452eaa33f9595d980d1ab793a6b2441"
+  },
+  "checks": {
+    "unitTests": 435,
+    "unitFiles": 72,
+    "browserCases": 93,
+    "browsers": [
+      "chromium",
+      "firefox",
+      "webkit-mobile"
+    ],
+    "typeScript": true,
+    "buildVersion": 75,
+    "formatAndDiff": true,
+    "fullBrowserSuite": false,
+    "successfulUnchangedChecksReused": true,
+    "afterProductFix": {
+      "perfectRoundTests": 3,
+      "careerAndSuccessBrowserCases": 15,
+      "rankedRoundBrowserCases": 1
+    }
+  },
+  "data": {
+    "reset": false,
+    "privatePlayerDataUsedForTests": false,
+    "migration": "20261012165828_round_success_celebration.sql",
+    "migrationApplied": true,
+    "privateEntriesAndHeadsFingerprintUnchanged": true,
+    "atomicAssertion": true,
+    "derivedPerfectRounds": 1,
+    "independentExactMatch": true,
+    "rlsEnabled": true,
+    "anonDirectAccess": false,
+    "authenticatedDirectAccess": false,
+    "publicRpcAdded": 0,
+    "questionContentChanged": true,
+    "changedQuestionIds": [
+      "SCHAUSPIELER-202610-P01-049-L-2"
+    ],
+    "questionCount": 12787,
+    "contentHash": "fc45a7bc0b5f033c13e53a9b73a124def18693b68cb5e8a6da0675521c208be4",
+    "contentStagingRows": 0,
+    "sourceCounts": {
+      "film": 10747,
+      "actors": 1760,
+      "awards": 280
+    },
+    "contentActivationPrivateSourceUnchanged": true
+  },
+  "advisors": {
+    "security": {
+      "rlsEnabledNoPolicy": {
+        "before": 42,
+        "after": 43,
+        "expectedPrivateDeniedTable": true
+      },
+      "anonSecurityDefiner": 10,
+      "authenticatedSecurityDefiner": 32,
+      "leakedPasswordWarning": 1
+    },
+    "performance": {
+      "unindexedForeignKeys": 5,
+      "unusedIndexes": 14
+    },
+    "existingWarningsUnchanged": true
+  },
+  "features": {
+    "levelUp": "One congratulations dialog, fanfare respecting settings, explicit acknowledgement",
+    "perfectRounds": {
+      "milestones": [
+        1,
+        10,
+        50,
+        100
+      ],
+      "scope": "All genres, sources and modes; no consecutive requirement",
+      "qualification": "Exactly ten different facts safely correct in a completed round; guessed answers excluded"
+    },
+    "combinedCelebration": true,
+    "existingCompletedPerfectRoundCountIncluded": true
+  },
+  "limits": [
+    "No physical iPhone hearing check",
+    "No multiplayer load test"
+  ],
+  "cleanup": {
+    "status": "completed",
+    "removed": [
+      {
+        "path": "tmp-runtime/success75",
+        "bytes": 202823986
+      },
+      {
+        "path": "tmp-browser-build/port-4302",
+        "bytes": 76638928
+      },
+      {
+        "path": "test-results/port-4302",
+        "bytes": 45
+      },
+      {
+        "path": "dist",
+        "bytes": 76636422,
+        "purpose": "Obsolete own development build; no active preview used it"
+      }
+    ],
+    "removedFlatScreenshots": [
+      {
+        "path": "test-results/action-illustration-390.png",
+        "bytes": 40540
+      },
+      {
+        "path": "test-results/antwort-icons-chromium.png",
+        "bytes": 100252
+      },
+      {
+        "path": "test-results/antwort-icons-webkit.png",
+        "bytes": 343675
+      },
+      {
+        "path": "test-results/auswertung-1280.png",
+        "bytes": 748442
+      },
+      {
+        "path": "test-results/auswertung-320.png",
+        "bytes": 615435
+      },
+      {
+        "path": "test-results/badge-locked.png",
+        "bytes": 138893
+      },
+      {
+        "path": "test-results/filmkarriere-aufstieg-1280-chromium.png",
+        "bytes": 162460
+      },
+      {
+        "path": "test-results/filmkarriere-aufstieg-1280-webkit.png",
+        "bytes": 554055
+      },
+      {
+        "path": "test-results/filmkarriere-aufstieg-320-chromium.png",
+        "bytes": 119662
+      },
+      {
+        "path": "test-results/filmkarriere-aufstieg-320-webkit.png",
+        "bytes": 417894
+      },
+      {
+        "path": "test-results/filmreise-wiederholungen-320.png",
+        "bytes": 714041
+      },
+      {
+        "path": "test-results/filmtitel-320.png",
+        "bytes": 31870
+      },
+      {
+        "path": "test-results/fragenstatistik-entdecken-320.png",
+        "bytes": 57029
+      },
+      {
+        "path": "test-results/fragenstatistik-ueben-320.png",
+        "bytes": 57124
+      },
+      {
+        "path": "test-results/genre-illustrationen-desktop.png",
+        "bytes": 914751
+      },
+      {
+        "path": "test-results/lernstufe-2-chromium.png",
+        "bytes": 129670
+      },
+      {
+        "path": "test-results/lernstufe-2-webkit.png",
+        "bytes": 450668
+      },
+      {
+        "path": "test-results/lernstufen-ergebnis-chromium.png",
+        "bytes": 229080
+      },
+      {
+        "path": "test-results/lernstufen-ergebnis-webkit.png",
+        "bytes": 609375
+      },
+      {
+        "path": "test-results/lernstufen-sammlung-chromium.png",
+        "bytes": 333611
+      },
+      {
+        "path": "test-results/lernstufen-sammlung-webkit.png",
+        "bytes": 1073573
+      },
+      {
+        "path": "test-results/mobile-feedback.png",
+        "bytes": 94884
+      },
+      {
+        "path": "test-results/mobile-home.png",
+        "bytes": 200336
+      },
+      {
+        "path": "test-results/mobile-question.png",
+        "bytes": 34803
+      },
+      {
+        "path": "test-results/multiple-filters-mobile.png",
+        "bytes": 315800
+      },
+      {
+        "path": "test-results/poster-chromium.png",
+        "bytes": 103553
+      },
+      {
+        "path": "test-results/poster-webkit-mobile.png",
+        "bytes": 148639
+      },
+      {
+        "path": "test-results/profil-lernstand-320.png",
+        "bytes": 441301
+      },
+      {
+        "path": "test-results/spiel-kompakt-390.png",
+        "bytes": 41212
+      },
+      {
+        "path": "test-results/wiederholungsuebersicht-chromium.png",
+        "bytes": 272057
+      },
+      {
+        "path": "test-results/wiederholungsuebersicht-webkit.png",
+        "bytes": 1254031
+      }
+    ],
+    "verifiedAbsent": true,
+    "method": "Guarded native PowerShell Remove-Item without forced deletion; hidden attribute removed only from own temporary clone Git metadata",
+    "unrelatedArtifactsPreserved": true
+  },
+  "live": {
+    "checks": [
+      {
+        "path": "assets/CollectionPage-DdUHCQDx.js",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "60008f381fb098963f03aa33e95c9014c5a3dc85009e5510295c665010fb3fac"
+      },
+      {
+        "path": "assets/Help-CqLTNAD4.js",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "731666fc2e8cf839902d9f69e9202f39d67b2c1c348665c0c933c4add7d3764b"
+      },
+      {
+        "path": "index.html",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "8af377d489a2c428867789ad53b6ffad4332842271ab40e592a11884d78a2eac"
+      },
+      {
+        "path": "account-config.json",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      },
+      {
+        "path": "sw.js",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "0c3f9919e46aacbadf04f0a2ccf87bcd2296697179a907f787e74857a46f47ec"
+      },
+      {
+        "path": "assets/index-DiCeX5aY.js",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "e78d11f990511b5771d3afff330211204cbb576b679aae4e254c88328ff0cff8"
+      },
+      {
+        "path": "assets/index-CpIF-OoQ.css",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "7369894940f48f2d43a0e82e718efef69e00610cd2b0dca44e6c079178827505"
+      }
+    ],
+    "releaseStatus": 200,
+    "release": [
+      {
+        "version": 75,
+        "published_at": "2026-10-12T18:27:49.779125+00:00"
+      }
+    ]
+  }
+}

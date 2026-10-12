@@ -2080,3 +2080,10 @@ Gemeinsamer Stand mit Antwortleiste, gebündeltem Lernfortschritt, Tonkorrekture
 ## 12.10.2026 – Zentrale Abnahme Version 75 abgeschlossen
 
 435 zentrale Tests in 72 Dateien, abschließender TypeScript-/Versionsbuild und 93 unterschiedliche Browserfälle einschließlich erfolgreicher Nachprüfungen bestanden. Alte Einstiegsprüfungen auf aktuelle Server-/Oberflächenverträge und asynchrone Fragenwechsel ausgerichtet. Echter Absturz bei perfekten Zeitrunden behoben: reiner Abzeichenbeleg enthält keine Lern-/XP-Aufschlüsselung. Ein aktueller Belegtyp, keine Altstandkompatibilität. Drei Abzeichentests und 15 Karriere-/Erfolgsfälle nach der Korrektur erneut erfolgreich; gezielte perfekte Zeitrunde mit Dialog, Ergebnis und Sammlung bestanden. Veröffentlichung des gemeinsamen Main-Stands folgt.
+
+
+## 12.10.2026 – Version 75 veröffentlicht und bereinigt
+
+Um 20:27:49 Uhr Europe/Berlin aus Main-Commit 2a21ec327c95f810ac3235fb9a74acd2f786b17e öffentlich veröffentlicht, native Bestätigung succeeded. Level-/Zehnerfeier samt gemeinsam abgeschlossenen Antwort-/Tonänderungen und Mifune-Korrektur live. 435 Tests, Build und 93 unterschiedliche Browserfälle einschließlich Nachprüfungen erfolgreich. Migration und Inhaltsaktivierung mit atomar unveränderten privaten Quellen; eine vorhandene perfekte Runde exakt abgeleitet. Archiv und sieben öffentliche Dateien bytegleich, anonyme Versionsabfrage sowie getrennte Zeit-/Quellcommit-Abfrage bestätigt; Zugriff public Revision 2 erhalten, kein GitHub-Push. Eigene Version-75-Veröffentlichungskopie, Archive, Staging, Prüfbuild, Portausgaben und 31 Screenshots normal mit PowerShell entfernt und Abwesenheit geprüft. Erstes Löschhindernis war nur das versteckte eigene Git-Verzeichnis, nach gezielter Attributkorrektur behoben; keine offene Bereinigung dieses Blocks. [Nachweis](../../docs/Veroeffentlichung-2026-10-12-Version-75.json).
+
+Auch der veraltete eigene Entwicklungsbuild `dist` nach Prüfung auf fehlende aktive Vorschau und Verknüpfungen normal entfernt; damit rund 367 MB dieses Auftrags bereinigt.

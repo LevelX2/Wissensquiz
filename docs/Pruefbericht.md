@@ -1,5 +1,7 @@
 # Prüfnachweis
 
+**Version 75 am 12.10.2026 um 20:27:49 Uhr Europe/Berlin öffentlich aus Main veröffentlicht.** Gemeinsame Abnahme abgeschlossen, sieben öffentliche Dateien bytegleich zum Prüfbuild und Versionszeit bestätigt. Private Spielstände atomar erhalten; eigene Version-75-Artefakte entfernt. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-12-Version-75.json).
+
 ## 12.10.2026 – XP-Leveldialog und Zehner-Abzeichen
 
 XP-Levelaufstieg nach frisch abgeschlossenem Spiel mit Glückwunschdialog, neuem Level/Titel, abschaltbarer Fanfare und Bestätigung „Weiter zum Ergebnis“. Gleichzeitig erreichte Zehner-Abzeichen und Filmreise-Freischaltungen werden gemeinsam angezeigt; genau ein Erfolgssignal. Abzeichen für 1/10/50/100 perfekte Zehnerrunden, zehn unterschiedliche Filmfakten sicher richtig, keine geratene Antwort und keine Folgepflicht. Sammlung nach bestätigter Serverrevision sofort aktuell, auch bei unveränderter Testzeit.
