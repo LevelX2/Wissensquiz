@@ -1,5 +1,14 @@
 # Sites-Veröffentlichung
 
+## Version 72: grafischer Gesamtfortschritt der Filmreise
+
+Am **12.10.2026 um 14:14:11 Uhr Europe/Berlin** aus Main-Commit `8fea599a198a0e68ac6eca5d1eb5987bddead0d4` als **Version 72** veröffentlicht, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Öffentliche Adresse, Projekt-ID und Zugriff `public`, Revision 2, erhalten. Die Filmreise-Startkarte zeigt ausschließlich einen Prozentkreis für den Anteil kennengelernter Wissensziele im gesamten aktuellen Fragenbestand; keine einzelne Genre-Etappe und keine zweite Zahlenzeile. Freischaltregeln unverändert. Vorhandene Serverzusammenfassung und Cache genutzt, kein Clientkatalog und keine Backendmigration.
+
+423 Tests, TypeScript/Versionsbuild und 18 gezielte Browserfälle einschließlich erfolgreicher Nachprüfungen in Chromium, Firefox und mobilem WebKit bestanden. Vorschau bei 320 Pixeln visuell geprüft. Alle 489 Builddateien im Archiv bytegleich; ausschließlich öffentlicher Build und Hostingmanifest verpackt. Live-HTML bis auf Cloudflare-JSD sowie JavaScript, CSS, Kontokonfiguration und Stilllegungs-Worker anonym 200 und bytegleich. Tatsächliche Versionszeit und Quellcommit gespeichert und separat gelesen; anonyme Versions-RPC bestätigt. Keine echten Spielstände verändert, kein GitHub-Push. [IDs, Hashes und Prüfgrenzen](Veroeffentlichung-2026-10-12-Version-72.json).
+
+Bereinigung offen: Die automatische Freigabeprüfung hat die geprüfte gezielte Entfernung mit „blocked by policy“ abgelehnt. `tmp-runtime/journey-display72` (481.714.412 Bytes) einschließlich Veröffentlichungskopie, Archiv und gezeigter Vorschau sowie `test-results/port-4299` (45 Bytes) bleiben unversioniert liegen. Der bereits zuvor blockierte Buildbereich `dist` enthält nun Version 72 (76.632.162 Bytes). Zusammen rund 558 MB; nach Aufhebung der Sperre gezielt entfernen. Dauerhafter Nachweis gesichert, keine weitere Verwendung dieser reproduzierbaren Kopien erforderlich.
+
+
 ## Version 71: alle Wiederholungsbereiche und 24-Stunden-Abstand
 
 Am **11.10.2026 um 23:00:15 Uhr Europe/Berlin** aus Main-Commit `1bdfbead06713a4161af86dd95d6327e9dd771a8` erfolgreich veröffentlicht, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Projekt-ID, öffentliche Adresse und Zugang `public`, Revision 2, erhalten. Wiederholen umfasst alle gewählten Film-, Schauspieler- und Preisfragen. Filmreise und Freies Spiel stellen kürzlich richtig beantwortete, noch nicht fällige Ziele samt Varianten für rollende 24 Stunden hinter passende Alternativen zurück; fällige Ziele und Auffüllen bei knapper Auswahl bleiben verfügbar. [Vertrag](Wiederholungen-und-Lernstufen-2026-10-10.md#alle-fragenbereiche-und-24-stunden-abstand--11102026).

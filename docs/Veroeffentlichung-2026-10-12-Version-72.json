@@ -1,0 +1,121 @@
+{
+  "version": 72,
+  "sourceBranch": "main",
+  "sourceCommit": "8fea599a198a0e68ac6eca5d1eb5987bddead0d4",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "versionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_6221910d6ec48191b12f39f9c326b2e2",
+  "deploymentId": "appgdep_6acccef51c688191954a42b74544afc7",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-10-12T12:14:11.969885+00:00",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "archiveNative": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_000000005388820aa310fc15656e28c3",
+    "content_hash": "sha256:056bf5e90b3b87238830b91fe487db04472af4501345c20bee43a9dabdb77c93",
+    "size_bytes": 77015040,
+    "file_count": 490
+  },
+  "archiveLocal": {
+    "fileCount": 490,
+    "buildFiles": 489,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 62639399,
+    "sha256": "53ddb2f4575b9e717d1cda36798be465d7838642f9a498160915c512787c8ef9"
+  },
+  "checks": {
+    "unitTests": 423,
+    "unitFiles": 69,
+    "browserCases": 18,
+    "browsers": [
+      "chromium",
+      "firefox",
+      "webkit-mobile"
+    ],
+    "typeScript": true,
+    "buildVersion": 72,
+    "formatAndDiff": true,
+    "mobileWidth": 320
+  },
+  "data": {
+    "reset": false,
+    "questionContentChanged": false,
+    "migrationRequired": false,
+    "privatePlayerDataUsedForTests": false
+  },
+  "display": {
+    "metric": "encountered distinct knowledge goals / all current knowledge goals",
+    "format": "percent ring, up to two decimal digits",
+    "scope": "all film genres, actors and awards; independent of selection",
+    "secondaryCounts": false,
+    "existingCachedSummary": true,
+    "unlockRulesChanged": false
+  },
+  "live": {
+    "checks": [
+      {
+        "path": "index.html",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "3b3aa6700e5b1563275fc09185d61fc4dd64808901e6aaa7f0d61f2ba9edc91b"
+      },
+      {
+        "path": "account-config.json",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      },
+      {
+        "path": "sw.js",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "0c3f9919e46aacbadf04f0a2ccf87bcd2296697179a907f787e74857a46f47ec"
+      },
+      {
+        "path": "assets/index-DEwbK6ZE.js",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "d42e7bff9ec639edce1845569d5bc1477e80a204b9f9b668edc06050d1ab576d"
+      },
+      {
+        "path": "assets/index-CxUz-GvU.css",
+        "status": 200,
+        "byteIdentical": true,
+        "sha256": "fc4af0c78dbc1205d82e35b230c90355f8ad4a92a8fdb9da9c92b491eec6eafd"
+      }
+    ],
+    "releaseStatus": 200,
+    "release": [
+      {
+        "version": 72,
+        "published_at": "2026-10-12T12:14:11.969885+00:00"
+      }
+    ]
+  },
+  "cleanup": {
+    "status": "blocked",
+    "reason": "automatic approval review: blocked by policy",
+    "attempted": [
+      "tmp-runtime/journey-display72",
+      "test-results/port-4299"
+    ],
+    "remaining": [
+      {
+        "path": "tmp-runtime/journey-display72",
+        "bytes": 481714412
+      },
+      {
+        "path": "test-results/port-4299",
+        "bytes": 45
+      },
+      {
+        "path": "dist",
+        "bytes": 76632162
+      }
+    ],
+    "deleteCondition": "Nach Aufhebung der automatischen Sperre gezielt entfernen; öffentliche Veröffentlichung und dauerhafter Nachweis sind bestätigt.",
+    "purpose": "Reproduzierbare Veröffentlichungskopie, Transportarchiv, mobile Vorschau und Prüfausgaben. dist ist der bereits zuvor durch dieselbe Sperre erhaltene Buildbereich, zuletzt mit Version 72 erzeugt."
+  }
+}
