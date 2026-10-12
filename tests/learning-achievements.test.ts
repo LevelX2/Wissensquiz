@@ -278,7 +278,8 @@ it("leitet private Film- und Genreerfolge aus sicheren Zielen ab, erhält erreic
     await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
       insert into quiz_game_internal.catalog_meta(id,knowledge_id,topic,genre,source,difficulty,familiarity,tags)
       select 'q'||i,'g'||i,'Film '||i,'Drama','film','leicht',1,'[]' from generate_series(1,26) i;
-      insert into quiz_game_internal.catalog_meta values('variant','g1','Film 1','Drama','film','leicht',1,'[]'),('second','g1b','Film 1','Drama','film','leicht',1,'[]'),('hard','hard','Film 2','Drama','film','schwer',1,'[]'),('actor','person','Person','Schauspieler','actors','leicht',1,'[]');`);
+      insert into quiz_game_internal.catalog_meta values('variant','g1','Film 1','Drama','film','leicht',1,'[]'),('second','g1b','Film 1','Drama','film','leicht',1,'[]'),('hard','hard','Film 2','Drama','film','schwer',1,'[]'),('actor','person','Person','Schauspieler','actors','leicht',1,'[]');
+      select quiz_game_internal.refresh_groups();`);
     const safe = (goals: string[]) =>
       fixture.db.query(
         `insert into quiz_game_internal.secure_goals select $1,$2,g,'Drama','leicht' from unnest($3::text[]) g on conflict do nothing`,
@@ -289,11 +290,6 @@ it("leitet private Film- und Genreerfolge aus sicheren Zielen ab, erhält erreic
         request_text: '{"action":"learning-achievements"}',
       });
     await safe(Array.from({ length: 10 }, (_, i) => `g${i + 1}`));
-    const current = await view();
-    expect(current).toMatchObject({
-      counts: { films: 9, "films:Drama": 9, secureFacts: 10, actors: 0 },
-      available: { films: 26, "films:Drama": 26, secureFacts: 29, actors: 1 },
-    });
     const snapshot = async (id: string, revision: number) => {
       await fixture.db.query(
         `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision) values($1,$2,'round',$3,$4::integer,jsonb_build_object('status','completed','questions','[]'::jsonb),$4::bigint)`,
@@ -305,7 +301,18 @@ it("leitet private Film- und Genreerfolge aus sicheren Zielen ab, erhält erreic
       );
     };
     await snapshot("baseline", 1);
+    const current = await view();
+    expect(current).toMatchObject({
+      counts: { films: 9, "films:Drama": 9, secureFacts: 10, actors: 0 },
+      available: { films: 26, "films:Drama": 26, secureFacts: 29, actors: 1 },
+    });
     await safe(["g1b", "g11"]);
+    // Normal writes queue these goals through the canonical goal projector.
+    // This test directly seeds evidence, so queue exactly those synthetic changes.
+    await fixture.db.query(
+      "insert into quiz_game_internal.achievement_dirty_goals select $1,$2,g from unnest(array['g1b','g11']) g",
+      [owner, generation],
+    );
     await snapshot("crossed", 2);
     const reward = await api.call<any>("quiz_game_view", {
       request_text: '{"action":"round-experience","scope":"crossed"}',
@@ -330,6 +337,10 @@ it("leitet private Film- und Genreerfolge aus sicheren Zielen ab, erhält erreic
     ).toEqual(reward);
     await fixture.db.query(
       "delete from quiz_game_internal.secure_goals where owner_id=$1 and generation=$2 and goal='g11'",
+      [owner, generation],
+    );
+    await fixture.db.query(
+      "insert into quiz_game_internal.achievement_dirty_goals values($1,$2,'g11')",
       [owner, generation],
     );
     await snapshot("later", 3);

@@ -4,7 +4,7 @@
 
 Leveldialog und Zehner-Abzeichen seit [Version 75](Veroeffentlichung-2026-10-12-Version-75.json) öffentlich verfügbar.
 
-Lokal nachfolgend erweitert: [gemeinsames Erfolgssystem](Erfolge.md) mit fünf Stufen, zentralen Icons/Signalen, Profilübersicht und Fortschritt. Dieser neue Stand ist noch nicht veröffentlicht.
+Lokal nachfolgend erweitert: [gemeinsames Erfolgssystem](Erfolge.md) mit fünf Stufen, zentralen Icons/Signalen, Profilübersicht und Fortschritt. [Optimierung am 12.10.2026](Erfolge.md#inkrementelle-erfolgsberechnung-und-profilabrufe--lokal-am-12102026): EXP-Gesamtstand aus der Differenz geänderter kanonischer Zielbeiträge statt erneuter Vollsumme, gespeicherte Erfolgszähler und Profilabrufe bei Bedarf. XP-Formel und Levelkurve bleiben unverändert. Dieser neue Stand ist noch nicht veröffentlicht.
 
 Kontorunden werden serverseitig ausgewählt und ausgewertet; der Server leitet XP und Lernstände aus privaten Antwortbelegen ab. Ergebnis und Sammlung erhalten kleine vorbereitete Ansichten. Der Client lädt weder einen Vollkatalog noch eine vollständige Karrierehistorie. Führend ist [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Die folgenden XP-Regeln und Levelhürden gelten weiter; die ausdrücklich historischen Abschnitte zur früheren Speicherung und Übernahme beschreiben keinen aktuellen Speicherweg.
 

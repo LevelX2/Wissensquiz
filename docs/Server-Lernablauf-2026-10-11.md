@@ -1,5 +1,7 @@
 # Lernablauf ohne Clientkatalog
 
+**Lokal ergänzt am 12.10.2026, noch nicht veröffentlicht:** [inkrementelle Erfolgs-/EXP-Zähler und bedarfsgerechte Profilabrufe](Erfolge.md#inkrementelle-erfolgsberechnung-und-profilabrufe--lokal-am-12102026). Neue Lernerfolge durchlaufen beim normalen Abschluss nur geänderte Wissensziele und betroffene Themen; Erfolgsabrufe lesen vorbereitete Größen und gespeicherte Zähler. EXP verwendet Beitragsdifferenzen. Die neue Lernübersicht aggregiert eigene Lernzeilen statt sämtlicher Fragevarianten. Lokaler Vergleich und Grenzen stehen im verlinkten Nachweis; frühere native Messungen unten werden dadurch nicht zu einem Nachweis dieser Erweiterung.
+
 Stand: 11.10.2026. Als **Version 66 öffentlich veröffentlicht**, nativer Status `succeeded`, um 10:06:12 Uhr Europe/Berlin. Alle sieben Migrationen sowie die Metadaten und 12.787 vorbereiteten Fragendarstellungen sind in Supabase installiert. 480 Tests, 50 gezielte Browserfälle, native Datenbankprüfung, Archivvergleich und öffentliche Dateiprüfung erfolgreich. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-66.json).
 
 ## Weitere Optimierungen: seit Version 67 produktiv
