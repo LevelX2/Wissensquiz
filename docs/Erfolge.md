@@ -55,6 +55,14 @@ Die zusätzliche kompakte Aktion `learning-achievements` in der bestehenden priv
 
 Migration `20261012201611_learning_achievements.sql` initialisiert aktuelle Generationen aus ihrem aktuellen Format. Sie verändert keine Antworten, Lernstände, Revisionen oder XP und fügt keinen historischen Adapter hinzu. Wie der bisherige lokale Erfolgsstand ist sie noch nicht produktiv bereitgestellt. PGlite prüft Bedingungen, Rollen, Kontentrennung und Vergabe. Der lokale Supabase-Advisor erreicht mangels laufendem lokalen Server weiterhin keine Datenbank; vor Bereitstellung ist dieser Nachweis offen.
 
+### Leistungsprüfung am 12.10.2026 – Optimierung noch offen
+
+Codeprüfung des lokalen Stands, keine Last- oder Trafficmessung: Die Erfolgsansichten übertragen kompakte Zähler und Rundenbelege statt Katalog oder Kontohistorie. Der gemeinsame Ansichts-Cache hält identische Anfragen bei unveränderter Kontorevision 30 Sekunden im Arbeitsspeicher und bündelt gleichzeitige Abrufe. Icons, Ton, Haptik und Animation werden im Browser erzeugt.
+
+Die neue Berechnung ist dennoch nicht vollständig inkrementell: `learning_achievement_progress` durchläuft den gesamten aktuellen Metadatenkatalog bei jedem relevanten Rundenabschluss und jedem frischen Abruf von `learning-achievements`. Beim Profilabruf werden auch aktuelle Zähler berechnet, obwohl anschließend die gespeicherten Höchststände zurückgegeben werden. `ProfileStats` fordert Statistik, Lernübersicht und Lernerfolge bereits beim Einhängen an, auch bei geschlossenen Klappen. Kompakte Antworten begrenzen den Traffic, beseitigen aber diese Serverarbeit nicht.
+
+Offene Verbesserungen: katalogabhängige Bestandsgrößen einmal je Inhaltsstand vorbereiten, im Profil gespeicherte Erfolgszähler lesen, beim Abschluss nur betroffene Ziele und Themen fortschreiben und getrennte Profilabrufe bündeln beziehungsweise nach Bedarf laden. Die bisherige Funktionsprüfung ist kein Leistungsnachweis für diese Erweiterung; ältere Messungen des Server-Lernablaufs gelten nicht als Messung der neuen Erfolgsberechnung. In dieser Prüfung keine Implementierung oder Bereitstellung geändert.
+
 ## Weitere sinnvolle Reihen – Vorschläge, noch nicht implementiert
 
 Nicht jede denkbare Statistik sollte ein Abzeichen werden. Priorität haben unterschiedliche Leistungen: Wissen erwerben, Wissen behalten, neugierig bleiben und nach Fehlern weitermachen. Die folgenden Vorschläge ergänzen den implementierten Katalog; sie sind keine schon vorhandenen Zähler.
