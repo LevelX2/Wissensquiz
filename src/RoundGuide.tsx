@@ -22,14 +22,14 @@ const guides: Record<
     introduction:
       "Du spielst zufällige Fragen ohne Zeitdruck. Richtig beantwortete, noch nicht fällige Ziele werden für 24 Stunden zurückgestellt, solange passende Alternativen vorhanden sind. Auch andere Varianten desselben Filmfakts warten so lange.",
     selection:
-      "Du kombinierst Filmfragen, Schauspieler und Preisträger und wählst die Schwierigkeit frei. Genres, Classics, Arthouse und Filmgruppen filtern nur Filmfragen. Filmgruppen beschreiben die Bekanntheit der Filme, nicht die Schwierigkeit der Fragen.",
+      "Du kombinierst Filmfragen, Schauspieler und Preisträger und wählst die Schwierigkeit frei. Bekanntheitsgruppen gelten für alle Bereiche. Genres, Classics und Arthouse filtern nur Filmfragen. Bekanntheit und Schwierigkeit sind unabhängig.",
     flow: "Jede Runde umfasst bis zu zehn Fragen. Bei kleiner Auswahl sind es weniger. Die Lösungsanzeige stellst Du unter Profil → Optionen ein. Sichere Treffer zählen beim Rundenabschluss für Deinen Lernfortschritt; geratene Treffer zählen dafür nicht.",
   },
   fehler: {
     introduction:
       "Du festigst bereits begegnete Film-, Schauspieler- und Preisfragen ohne Zeitdruck – sobald ihr Wiederholungstermin erreicht ist. Auch früher richtig beantwortete Fragen gehören dazu.",
     selection:
-      "Deine Fragenbereiche und Schwierigkeitsstufen grenzen die fälligen Fragen ein. Genres, Filmauswahl und Filmgruppen gelten für Filmfragen. Am längsten fällige Ziele kommen zuerst. Neue Fragen und noch nicht fällige Wiederholungen werden nicht ergänzt.",
+      "Deine Fragenbereiche und Schwierigkeitsstufen grenzen die fälligen Fragen ein. Bekanntheitsgruppen gelten für alle Bereiche; Genres und Filmauswahl nur für Filmfragen. Am längsten fällige Ziele kommen zuerst. Neue Fragen und noch nicht fällige Wiederholungen werden nicht ergänzt.",
     flow: "Jede Runde umfasst bis zu zehn Fragen – bei weniger fälligen Zielen entsprechend weniger. Jeder Filmfakt kommt höchstens einmal pro Runde vor. Nach jeder Antwort siehst Du Lösung, Erklärung und nächsten Termin. Ist nichts fällig, kannst Du in der Filmreise oder im Freien Spiel weiterspielen.",
   },
   rekord: {

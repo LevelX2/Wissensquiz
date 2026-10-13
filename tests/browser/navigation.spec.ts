@@ -67,13 +67,13 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   ).toBeVisible();
   await expect(page.getByText(/nach elf Tagen/)).toBeVisible();
   await page
-    .getByText("Wie öffne ich neue Schwierigkeiten und Filmgruppen?", {
+    .getByText("Wie öffne ich neue Schwierigkeiten und Bekanntheitsgruppen?", {
       exact: true,
     })
     .click();
   await expect(
     page.getByText(
-      /Die Schwierigkeit und die Filmgruppen entwickeln sich getrennt/,
+      /Die Schwierigkeit und die Bekanntheitsgruppen entwickeln sich getrennt/,
     ),
   ).toBeVisible();
   expect(

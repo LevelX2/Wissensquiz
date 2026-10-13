@@ -25,6 +25,7 @@ export default defineConfig({
         "updates.spec.ts",
         "entry-sync.spec.ts",
         "server-learning.spec.ts",
+        "journey-areas.spec.ts",
         "success-celebration.spec.ts",
       ],
       use: { ...devices["Desktop Firefox"] },

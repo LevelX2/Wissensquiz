@@ -47,7 +47,7 @@ it("vereint alle Film-, Preis- und Personenfragen ohne Kategorien als Einschrän
     280,
   );
   expect(pool.filter((q) => questionSourceOf(q) === "actors")).toHaveLength(
-    1760,
+    3424,
   );
   const drawn = selectQuestions(
     pool,
@@ -65,7 +65,7 @@ it("vereint alle Film-, Preis- und Personenfragen ohne Kategorien als Einschrän
   expect(drawn).toHaveLength(catalogCounts.goals);
   expect(new Set(drawn.map((q) => q.knowledgeId)).size).toBe(drawn.length);
 });
-it("wendet Genre, Classics und Filmgruppen nur auf Filmfragen und die Schwierigkeit auf alle Bereiche an", () => {
+it("wendet Genre und Classics nur auf Filme, Bekanntheit und Schwierigkeit auf alle Bereiche an", () => {
   const filters: QuizFilters = {
     ...all,
     genres: ["Science-Fiction"],
@@ -77,10 +77,8 @@ it("wendet Genre, Classics und Filmgruppen nur auf Filmfragen und die Schwierigk
     (q) => matchesTopic(q, topic) && matchesFilters(q, filters),
   );
   expect(pool.filter((q) => questionSourceOf(q) === "film")).toHaveLength(0);
-  expect(pool.filter((q) => questionSourceOf(q) === "awards")).toHaveLength(70);
-  expect(pool.filter((q) => questionSourceOf(q) === "actors")).toHaveLength(
-    494,
-  );
+  expect(pool.filter((q) => questionSourceOf(q) === "awards")).toHaveLength(0);
+  expect(pool.filter((q) => questionSourceOf(q) === "actors")).toHaveLength(0);
   filters.familiarities = [1, 2, 3, 4];
   const withFilms = catalog.questions.filter(
     (q) => matchesTopic(q, topic) && matchesFilters(q, filters),
@@ -117,7 +115,7 @@ it("nimmt zusätzliches Wissen wirklich in die zufällige Runde auf und zieht je
   );
   expect(new Set(selected.map((q) => q.knowledgeId)).size).toBe(5);
 });
-it("sichert reine Zusatzbereiche ohne Filmgenres und ignoriert deren Filmgruppen in JSON und Kontokompaktsicherung", async () => {
+it("sichert reine Zusatzbereiche ohne Filmgenres und mit ihren Bekanntheitsgruppen", async () => {
   for (const sources of [
     ["actors"],
     ["awards"],
@@ -137,7 +135,7 @@ it("sichert reine Zusatzbereiche ohne Filmgenres und ignoriert deren Filmgruppen
       genres: [],
       categories: [],
       difficulties: ["experte"],
-      familiarities: [],
+      familiarities: [1, 2, 3, 4],
       sources,
     };
     const round = startRound(
@@ -150,7 +148,7 @@ it("sichert reine Zusatzbereiche ohne Filmgenres und ignoriert deren Filmgruppen
           genres: [],
           sources,
           difficulties: ["experte"],
-          familiarities: [],
+          familiarities: [1, 2, 3, 4],
         },
       },
       now,
@@ -163,7 +161,7 @@ it("sichert reine Zusatzbereiche ohne Filmgenres und ignoriert deren Filmgruppen
       ),
     ).toBe(true);
     expect(round.filters?.genres).toEqual([]);
-    expect(round.filters?.familiarities).toBeUndefined();
+    expect(round.filters?.familiarities).toEqual([1, 2, 3, 4]);
     for (const restored of [
       validateBackup(JSON.parse(JSON.stringify(state))),
       validateBackup(JSON.parse(JSON.stringify(state))),
@@ -200,7 +198,7 @@ it("erhält alte Nur-Auswahlen beim Lesen und speichert neue additive Einstellun
   state.settings.roundSetup.sources = ["actors", "film", "actors"];
   expect(readRoundSetup(state).sources).toEqual(["film", "actors"]);
 });
-it("trennt gemischte Rekorde und lässt in reinen Personenrunden irrelevante Filmfilter weg", () => {
+it("trennt gemischte Rekorde und erhält Bekanntheitsfilter in reinen Personenrunden", () => {
   const state = emptyState(catalog.questions);
   const options = {
     mode: "rekord" as const,
@@ -214,10 +212,10 @@ it("trennt gemischte Rekorde und lässt in reinen Personenrunden irrelevante Fil
     filters: canonicalFilters({
       ...options.filters,
       genres: [],
-      familiarities: [],
+      familiarities: [1],
     }),
   };
-  expect(recordKey(equivalent)).toBe(recordKey(round));
+  expect(recordKey(equivalent)).not.toBe(recordKey(round));
   expect(genreSelection(round)).toEqual(["Schauspieler"]);
   const mixed = {
     ...round,

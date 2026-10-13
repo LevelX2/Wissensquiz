@@ -105,6 +105,10 @@ export const packages = [
     path: "/genre100-horror-fragen.csv",
     filename: "Genre100_Horror_20261008.csv",
   },
+  {
+    path: "/schauspieler-bekanntheit-20261013-fragen.csv",
+    filename: "Schauspieler-Bekanntheit-2026-10-13.csv",
+  },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

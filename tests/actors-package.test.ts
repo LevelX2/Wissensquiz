@@ -6,6 +6,7 @@ import { emptyState } from "../src/model";
 import { importCsv } from "../src/importer";
 import { answer, startRound } from "../src/engine";
 import { ACTORS, categories, matchesCategories } from "../src/categories";
+import { familiarityOf } from "../src/familiarity";
 import { matchesFilters } from "../src/filters";
 import { filmData } from "../src/filmFacts";
 import {
@@ -27,6 +28,7 @@ import {
 const contents = packages
   .filter(
     (pkg) =>
+      !pkg.filename.startsWith("Schauspieler-Bekanntheit-") &&
       !pkg.filename.endsWith("fragen_20261007.csv") &&
       !pkg.filename.startsWith("Genre100_") &&
       ![
@@ -163,7 +165,7 @@ it("erhält bestehende Fragen, Ereignisse und Lernstände und nutzt 50 vorhanden
   expect(Object.keys(links)).toHaveLength(50);
 });
 
-it("spielt Personen unabhängig von Filmgruppen und erhält Filmreise sowie getrennte Kategorien", () => {
+it("filtert Personen nach ihrer Bekanntheit und erhält getrennte Kategorien", () => {
   const state = structuredClone(base);
   const beforePath = pathQuestions(state).map((q) => q.id);
   const progress = learningPathProgress(state);
@@ -173,8 +175,10 @@ it("spielt Personen unabhängig von Filmgruppen und erhält Filmreise sowie getr
       .filter((q) => !q.metadata.person_id)
       .map((q) => q.id),
   ).toEqual(beforePath);
-  expect(pathQuestions(state).filter((q) => q.metadata.person_id)).toHaveLength(
-    200,
+  expect(pathQuestions(state).filter((q) => q.metadata.person_id)).toEqual(
+    imported.questions.filter(
+      (q) => q.difficulty === "leicht" && familiarityOf(q) === 1,
+    ),
   );
   const q = imported.questions.find((q) => q.difficulty === "experte")!;
   expect(

@@ -20,15 +20,13 @@ Genres unter 100 Filmen schrittweise auffüllen, beginnend mit Abenteuer. Je Gen
 
 ## Schwierigkeiten und Bekanntheit
 
-**13.10.2026 – Ausbau begonnen:** Erster Personenblock mit acht neuen Personen, 64 Fragen und historischen Porträts redaktionell abgeschlossen und mit dem App-Parser geprüft. 59 neue Ziele, fünf Bestandsvarianten; noch nicht installiert. Vollständiger Ausgleich weiterhin in Arbeit, 200 Personen offen. [Fragen, Bildquellen und Fortsetzungsstand](Schauspieler-Bekanntheit-2026-10-13/Plan.md).
-
-**Neuer Nutzerauftrag vom 13.10.2026:** Vier Bekanntheitsgruppen künftig auch für Schauspieler und Preisträger; Personen redaktionell einteilen, Preisfragen nach ihrer Filmfassung. Unterbesetzte Personengruppen später durch gezielte Ergänzungen ausgleichen, ohne erzwungene Umgruppierung. [Vollständige Einordnung, Bestandsmengen und Ausbauumfang](Bekanntheitsgruppen/Plan.md). Die Zuordnung ist vorbereitet; App-Filter und Freischaltungen entsprechen weiterhin dem bisherigen Stand der folgenden Tabelle. Die vier Schwierigkeiten bleiben unabhängig von den vier Bekanntheitsgruppen.
+**13.10.2026 – Schauspielerausbau redaktionell und lokal in der App abgeschlossen:** 208 Ergänzungen mit 1.664 Fragen, davon 105 Bestandsvarianten und 1.559 neue Ziele. 428 Personen mit viermal 107, historische Porträts und vollständige Referenzdaten. Gruppenfilter und Freischaltungen gelten lokal auch für Schauspieler und Preise; zentrale Veröffentlichungsprüfung läuft. [Aktueller App-Vertrag](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
 
 | Fragenbereich | Schwierigkeiten | Bekanntheitsgruppen |
 |---|---|---|
-| Filme | leicht, mittel, schwer | 1 Film-Ikonen, 2 Bekannte Filme, 3 Kennerfilme, 4 Entdeckungen |
-| Schauspieler | leicht, mittel, schwer, experte | Keine eigenen Filmgruppen für Personen |
-| Preise und Preisträger | leicht, mittel, schwer, experte | Keine Filmgruppen als Voraussetzung für Preisfragen |
+| Filme | leicht, mittel, schwer | 1 Sehr bekannt, 2 Bekannt, 3 Für Filmkenner, 4 Entdeckungen |
+| Schauspieler | leicht, mittel, schwer, experte | Dieselben vier Gruppen nach redaktioneller Personeneinordnung |
+| Preise und Preisträger | leicht, mittel, schwer, experte | Dieselben vier Gruppen nach Filmfassung |
 
 Die vierte Personenstufe wurde in bisherigen Redaktionspaketen „außergewöhnlich“ genannt und für die App auf `experte` abgebildet. Die vier Filmgruppen beschreiben eine redaktionelle Bekanntheitseinschätzung für ein breites deutschsprachiges Kinopublikum, keine gemessene Quote. Seltenheit ist keine Fragenschwierigkeit: Ein wenig bekannter Film braucht ebenfalls leichte Einstiegsfragen. Alle Fragen derselben Filmfassung behalten dieselbe Bekanntheitsgruppe.
 

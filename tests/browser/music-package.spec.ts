@@ -41,7 +41,7 @@ test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben nac
   await page.locator(".answer").filter({ hasText: correct }).click();
   await expect(page.locator(".explanation")).toBeVisible();
   await page.locator(".film-data > summary").click();
-  await expect(page.locator(".film-data")).toContainText("1 · Film-Ikonen");
+  await expect(page.locator(".film-data")).toContainText("1 · Sehr bekannt");
   await expect(page.locator(".film-data")).toContainText("Regie");
   await expect(page.locator(".film-data")).toContainText(
     q.metadata.film_title_original,

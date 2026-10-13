@@ -5,7 +5,7 @@ import { resolve, join } from "node:path";
 import { createHash } from "node:crypto";
 const output = resolve(process.argv[2] ?? "tmp-sync/server-content");
 const server = await createServer({
-  server: { middlewareMode: true, hmr: false, ws: false },
+  server: { middlewareMode: true, hmr: false, ws: false, watch: null },
 });
 try {
   const { packages, addPackages } =

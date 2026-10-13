@@ -16,8 +16,6 @@ export const questionSourceOf = (
     : q.tags.includes("Preisträger")
       ? "awards"
       : "film";
-export const usesFilmFilters = (q: Question, filters: QuizFilters) =>
-  filters.sources ? questionSourceOf(q) === "film" : !q.metadata.person_id;
 export const normalizeGenre = (genre: string) =>
   genre === "Sci-Fi"
     ? "Science-Fiction"
@@ -36,8 +34,7 @@ export const canonicalFilters = (filters: QuizFilters): QuizFilters => ({
       ? []
       : [...new Set(filters.genres)].sort(),
   difficulties: [...new Set(filters.difficulties)].sort(),
-  ...(filters.familiarities &&
-  (!filters.sources || filters.sources.includes("film"))
+  ...(filters.familiarities
     ? { familiarities: [...new Set(filters.familiarities)].sort() }
     : {}),
   ...(filters.sources
@@ -49,12 +46,12 @@ export const matchesFilters = (q: Question, filters: QuizFilters) => {
   if (filters.sources) {
     const source = questionSourceOf(q);
     if (!filters.sources.includes(source)) return false;
-    if (source !== "film") return true;
   }
   return (
-    filters.genres.includes(genreOf(q)) &&
-    (!usesFilmFilters(q, filters) ||
-      !filters.familiarities ||
+    (!filters.sources || questionSourceOf(q) === "film"
+      ? filters.genres.includes(genreOf(q))
+      : true) &&
+    (!filters.familiarities ||
       (familiarityOf(q)
         ? filters.familiarities.includes(familiarityOf(q)!)
         : familiarities.every((f) => filters.familiarities!.includes(f))))

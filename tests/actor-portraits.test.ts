@@ -15,9 +15,12 @@ it("ordnet 25 unveränderte, frei lizenzierte JPEG-Porträts den vorhandenen Per
       text: readFileSync(`public${p.path}`, "utf8"),
     })),
   );
-  expect(Object.keys(portraits)).toHaveLength(25);
+  const originalPortraits = Object.values(portraits).filter(
+    (p) => !p.personId.startsWith("ACTOR-BG-20261013-"),
+  );
+  expect(originalPortraits).toHaveLength(25);
   expect(evidence.images).toHaveLength(25);
-  for (const portrait of Object.values(portraits)) {
+  for (const portrait of originalPortraits) {
     const questions = state.questions.filter(
       (q) =>
         q.metadata.person_id === portrait.personId &&

@@ -1,30 +1,34 @@
 import catalog from "./filmFamiliarity.json" with { type: "json" };
+import people from "./personFamiliarity.json" with { type: "json" };
 import type { Question, Round } from "./model";
 
 export const familiarities = [1, 2, 3, 4] as const;
 export type Familiarity = (typeof familiarities)[number];
 export const familiarityNames: Record<Familiarity, string> = {
-  1: "Film-Ikonen",
-  2: "Bekannte Filme",
-  3: "Kennerfilme",
+  1: "Sehr bekannt",
+  2: "Bekannt",
+  3: "Für Filmkenner",
   4: "Entdeckungen",
 };
 const byFilm = new Map(
   catalog.films.map((f) => [f.film, f.level as Familiarity]),
 );
+const byPerson = new Map(
+  people.persons.map((p) => [p.person_id, p.level as Familiarity]),
+);
 export const filmIdentity = (q: Question) =>
   `${q.metadata.film_title_original}|${q.metadata.film_year}`;
 // Unclassified imports remain available in free modes, explicitly separate from the four classes.
 export const familiarityOf = (q: Question): Familiarity | undefined =>
-  byFilm.get(filmIdentity(q));
+  q.metadata.person_id
+    ? byPerson.get(q.metadata.person_id)
+    : byFilm.get(filmIdentity(q));
 export const familiarityLabel = (level: number | undefined) =>
   level
     ? `${level} · ${familiarityNames[level as Familiarity]}`
     : "Noch nicht eingeordnet";
 export const roundFamiliarities = (r: Round) =>
-  (r.filters?.sources && !r.filters.sources.includes("film")
-    ? "Keine Filmfragen"
-    : r.filters?.familiarities?.map(familiarityLabel).join(" + ")) ??
+  r.filters?.familiarities?.map(familiarityLabel).join(" + ") ??
   "Frühere Auswahl";
 
 export function selectionRule(

@@ -108,8 +108,8 @@ export function LearningPath({
         Sichere richtige Antworten aus abgeschlossenen Runden zählen einmal pro
         Filmfakt – in allen Modi. Geratene Treffer und Varianten erhöhen den
         Zähler nicht. Die Balken zeigen den Fortschritt bis zur Freischaltung.
-        Für die nächste Filmgruppe zählen aufgerundet 50 Prozent der aktuellen
-        leichten Filmfakten der vorherigen Gruppe.
+        Für die nächste Bekanntheitsgruppe zählen aufgerundet 50 Prozent der
+        aktuellen leichten Wissensziele der vorherigen Gruppe.
       </p>
       <div className="path-progress">
         {[
@@ -148,7 +148,7 @@ export function LearningPath({
                   max={p.mediumTarget || 1}
                   value={Math.min(p.medium, p.mediumTarget)}
                 />
-                {p.independent ? (
+                {p.independent && (
                   <>
                     <span>
                       {p.expertUnlocked
@@ -161,49 +161,47 @@ export function LearningPath({
                       value={Math.min(p.hard, p.hardTarget)}
                     />
                   </>
-                ) : (
-                  <>
-                    <strong>Filmgruppen</strong>
-                    {p.groups.map((g) => (
-                      <span key={g.level}>
-                        {g.level <= p.familiarity ? "✓" : "○"}{" "}
-                        {familiarityLabel(g.level)} ·{" "}
-                        {g.level <= p.familiarity
-                          ? "freigeschaltet"
-                          : "gesperrt"}
-                      </span>
-                    ))}
-                    {next && current ? (
-                      <>
-                        <span>
-                          Filmgruppe {current.level}: {current.answered} von{" "}
-                          {current.total} leichten Filmfakten sicher beantwortet
-                        </span>
-                        <span>
-                          {familiarityLabel(next.level)} freischalten:{" "}
-                          {current.target} sichere Ziele nötig (50 %)
-                        </span>
-                        <progress
-                          aria-label={`${genreLabel(genre)}: Fortschritt zur nächsten Filmgruppe`}
-                          max={current.target || 1}
-                          value={Math.min(current.answered, current.target)}
-                        />
-                      </>
-                    ) : (
-                      <span className="muted">
-                        {p.groups.length
-                          ? "Alle vorhandenen Filmgruppen geöffnet."
-                          : "Noch nicht eingeordnete Filme kannst Du im Freien Spiel wählen."}
-                      </span>
-                    )}
-                    {p.first > 1 && (
-                      <span className="muted">
-                        Einstieg bei Gruppe {p.first}: Die vorherigen Gruppen
-                        enthalten hier noch keine Filme.
-                      </span>
-                    )}
-                  </>
                 )}
+                <>
+                  <strong>Bekanntheitsgruppen</strong>
+                  {p.groups.map((g) => (
+                    <span key={g.level}>
+                      {g.level <= p.familiarity ? "✓" : "○"}{" "}
+                      {familiarityLabel(g.level)} ·{" "}
+                      {g.level <= p.familiarity ? "freigeschaltet" : "gesperrt"}
+                    </span>
+                  ))}
+                  {next && current ? (
+                    <>
+                      <span>
+                        Bekanntheitsgruppe {current.level}: {current.answered}{" "}
+                        von {current.total} leichten Wissenszielen sicher
+                        beantwortet
+                      </span>
+                      <span>
+                        {familiarityLabel(next.level)} freischalten:{" "}
+                        {current.target} sichere Ziele nötig (50 %)
+                      </span>
+                      <progress
+                        aria-label={`${genreLabel(genre)}: Fortschritt zur nächsten Bekanntheitsgruppe`}
+                        max={current.target || 1}
+                        value={Math.min(current.answered, current.target)}
+                      />
+                    </>
+                  ) : (
+                    <span className="muted">
+                      {p.groups.length
+                        ? "Alle vorhandenen Bekanntheitsgruppen geöffnet."
+                        : "Noch nicht eingeordnete Fragen kannst Du im Freien Spiel wählen."}
+                    </span>
+                  )}
+                  {p.first > 1 && (
+                    <span className="muted">
+                      Einstieg bei Gruppe {p.first}: Die vorherigen Gruppen
+                      enthalten hier noch keine Fragen.
+                    </span>
+                  )}
+                </>
               </div>
             );
           })}

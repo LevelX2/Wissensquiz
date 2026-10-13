@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**13.10.2026 – Schauspielerausbau und gemeinsame Gruppen lokal eingebaut:** 428 Personen mit viermal 107, 3.424 Schauspielerfragen, gesamte App 14.451 Fragen/13.781 Ziele. Gruppenfilter, Freischaltung und Fortschritt für Schauspieler/Preise; historische Porträts und alle TMDB-Links angebunden. Zentrale Veröffentlichungsprüfung läuft. [Integrationsvertrag](../docs/Bekanntheitsgruppen/App-Integration-2026-10-13.md).
+
 **13.10.2026 – Gesamtstand aus Main als Version 79 veröffentlicht:** Beide Worktrees und Branches geprüft; alles bereits in Main integriert. 456 Tests, TypeScript/Build und vollständiger Archiv-/Live-Abgleich erfolgreich. Unveränderte Browsernachweise aus Version 77/78 wiederverwendet. Redaktionelle 208 Schauspieler und Bekanntheitsgruppen bleiben zum App-Einbau vorbereitet; aktive Inhalte unverändert. Eigene Veröffentlichungskopie und Archiv entfernt. [Nachweis](../docs/Veroeffentlichung-2026-10-13-Version-79.json).
 
 **13.10.2026 – Version 78 veröffentlicht:** TMDB-Porträts für alle 220 Personen, eigenes Erfolgsicon, Antwort-/Restzeit in Zehnerrunden und kurze Rekord-Vergleichsauswahl aus Main veröffentlicht. 456 Tests, TypeScript/Build und 60 gezielte Browserfälle erfolgreich; unveränderte Browsernachweise von Version 77 wiederverwendet. Alle 220 Porträtdateien live bytegleich, Versionszeit bestätigt. Kein Inhaltsimport, keine Migration und keine Spielstandsänderung. [Nachweis](../docs/Veroeffentlichung-2026-10-13-Version-78.json).

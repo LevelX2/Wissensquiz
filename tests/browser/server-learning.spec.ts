@@ -249,7 +249,7 @@ test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
     "Filmgruppe 1: 0 von 15 leichten Filmfakten sicher beantwortet",
   );
   await expect(page.locator(".learning-path")).toContainText(
-    "2 · Bekannte Filme freischalten: 8 sichere Ziele nötig (50 %)",
+    "2 · Bekannt freischalten: 8 sichere Ziele nötig (50 %)",
   );
   expect(
     (

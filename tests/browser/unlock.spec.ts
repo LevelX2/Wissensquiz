@@ -172,13 +172,13 @@ for (const scenario of [
     );
     await expect(dialog).toContainText("Horror");
     if (scenario === "filmgruppe")
-      await expect(dialog).toContainText("2 · Bekannte Filme");
+      await expect(dialog).toContainText("2 · Bekannt");
     await expect(dialog.locator("#unlock-description")).toContainText(
       "geöffnet. Diese",
     );
     await expect(dialog.locator(".unlock-levels")).toContainText(
       scenario === "filmgruppe"
-        ? "2 · Bekannte Filme"
+        ? "2 · Bekannt"
         : scenario === "schwer"
           ? "Schwer"
           : "Mittel",

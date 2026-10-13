@@ -96,7 +96,6 @@ export async function syncFixture(stopBefore?: string) {
         `insert into quiz_game_internal.familiarity select value->>'film',(value->>'level')::integer from jsonb_array_elements($1::jsonb) on conflict(film) do update set level=excluded.level`,
         [JSON.stringify(familiarity.films)],
       );
-      await db.exec("select quiz_game_internal.refresh_content()");
       await db.query(
         `insert into quiz_game_internal.presentations select value->>'id',value->>'version',value->>'question',value->>'context',value->'presentation' from jsonb_array_elements($1::jsonb) on conflict(id) do update set version=excluded.version,question=excluded.question,context=excluded.context,value=excluded.value`,
         [
@@ -108,6 +107,7 @@ export async function syncFixture(stopBefore?: string) {
           ),
         ],
       );
+      await db.exec("select quiz_game_internal.refresh_content()");
     }
   }
   async function client(owner = crypto.randomUUID()) {

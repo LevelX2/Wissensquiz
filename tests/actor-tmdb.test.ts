@@ -6,22 +6,26 @@ import { actorTmdbUrl } from "../src/actorTmdb";
 import links from "../src/actorTmdbLinks.json";
 import { Explanation } from "../src/Explanation";
 import { ActorPortrait } from "../src/ActorPortrait";
-import { importCsv } from "../src/importer";
+import { emptyState } from "../src/model";
 import type { AnswerEvent } from "../src/model";
-import { packages } from "../src/packages";
+import { addPackages, packages } from "../src/packages";
 import { preparePresentation } from "../src/questionPresentation";
 
-const questions = packages.flatMap(
-  (pkg) =>
-    importCsv(readFileSync(`public${pkg.path}`, "utf8"), [], pkg.filename)
-      .questions,
+const state = emptyState();
+addPackages(
+  state,
+  packages.map((pkg) => ({
+    filename: pkg.filename,
+    text: readFileSync(`public${pkg.path}`, "utf8"),
+  })),
 );
+const questions = state.questions;
 const actors = questions.filter((q) => q.metadata.person_id);
 const hanks = actors.find((q) => q.metadata.person_name === "Tom Hanks")!;
 
-it("verlinkt alle 220 Personen in sämtlichen offiziellen Schauspielerfragen einschließlich Bilderkennung", () => {
-  expect(new Set(actors.map((q) => q.metadata.person_id)).size).toBe(220);
-  expect(Object.keys(links)).toHaveLength(220);
+it("verlinkt alle 428 Personen in sämtlichen offiziellen Schauspielerfragen einschließlich Bilderkennung", () => {
+  expect(new Set(actors.map((q) => q.metadata.person_id)).size).toBe(428);
+  expect(Object.keys(links)).toHaveLength(428);
   expect(actors.some((q) => q.metadata.question_image_id)).toBe(true);
   for (const q of actors) {
     expect(actorTmdbUrl(q), q.id).toMatch(
@@ -29,7 +33,7 @@ it("verlinkt alle 220 Personen in sämtlichen offiziellen Schauspielerfragen ein
     );
   }
   expect(actorTmdbUrl(hanks)).toBe("https://www.themoviedb.org/person/31");
-  expect(new Set(Object.values(links).map((p) => p.tmdbId)).size).toBe(220);
+  expect(new Set(Object.values(links).map((p) => p.tmdbId)).size).toBe(428);
 });
 
 it("vermeidet falsche Links bei unbekannten Personen oder abweichendem Namen und bei Film-/Preisfragen", () => {
@@ -77,4 +81,23 @@ it("verlinkt das Porträt zur Person ohne einen doppelten Link am Namen", () => 
   expect(
     renderToStaticMarkup(createElement(Explanation, { q: film, event })),
   ).not.toContain("auf TMDB");
+});
+
+it("zeigt hinterlegte historische Porträts statt eines allgemeinen TMDB-Porträts erst mit der Lösung", () => {
+  const original = actors.find(
+    (q) => q.metadata.person_id === "ACTOR-BG-20261013-001",
+  )!;
+  const q = { ...original, presentation: preparePresentation(original) };
+  const portrait = q.presentation.portraits[0];
+  expect(portrait.name).toBe("Peter Lorre");
+  const event = {
+    id: "historic",
+    answerId: q.correctId,
+    correct: true,
+  } as AnswerEvent;
+  const html = renderToStaticMarkup(createElement(Explanation, { q, event }));
+  expect(html).toContain(portrait.src);
+  expect(html).toContain(`href="${actorTmdbUrl(q)}"`);
+  expect(html).toContain("Bildnachweis");
+  expect(html).not.toContain("tmdb-portrait");
 });

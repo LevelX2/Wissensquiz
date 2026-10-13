@@ -29,9 +29,17 @@ if (
   !config.images.profile_sizes.includes("w185")
 )
   throw new Error("TMDB-Porträtkonfiguration prüfen.");
-const people = Object.values(
-  JSON.parse(await readFile("src/actorTmdbLinks.json", "utf8")),
+const localPortraits = JSON.parse(
+  await readFile("src/actorPortraits.json", "utf8"),
 );
+const selectedPortraits = JSON.parse(
+  await readFile("src/actorFamiliarityTmdbPortraits.json", "utf8"),
+);
+const people = Object.entries(
+  JSON.parse(await readFile("src/actorTmdbLinks.json", "utf8")),
+)
+  .filter(([personId]) => !localPortraits[personId])
+  .map(([personId, person]) => ({ personId, ...person }));
 const checked = new Date();
 const expires = new Date(checked);
 expires.setUTCMonth(expires.getUTCMonth() + 5);
@@ -47,7 +55,16 @@ await Promise.all(
         !/^\/[a-zA-Z0-9]+\.(jpg|png)$/.test(data.profile_path ?? "")
       )
         throw new Error(`TMDB-Porträt fehlt: ${person.name}`);
-      const src = `https://image.tmdb.org/t/p/w185${data.profile_path}`;
+      const selected = selectedPortraits[person.personId];
+      if (
+        selected &&
+        (selected.tmdbId !== person.tmdbId || selected.name !== person.name)
+      )
+        throw new Error(
+          `Ausgewähltes TMDB-Porträt passt nicht: ${person.name}`,
+        );
+      const profilePath = selected?.profilePath ?? data.profile_path;
+      const src = `https://image.tmdb.org/t/p/w185${profilePath}`;
       let image;
       try {
         image = await fetch(src, {
@@ -62,7 +79,7 @@ await Promise.all(
       prepared.push({
         tmdbId: person.tmdbId,
         name: person.name,
-        profilePath: data.profile_path,
+        profilePath,
         checkedAt: checked.toISOString(),
         expiresAt: expires.toISOString(),
       });

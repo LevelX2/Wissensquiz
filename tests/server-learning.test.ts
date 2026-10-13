@@ -35,10 +35,10 @@ it("zählt und wiederholt fällige Ziele aller gewählten Bereiche einschließli
     await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
       insert into quiz_game_internal.catalog_meta values
       ('film','film-goal','Test','Abenteuer','film','leicht',1,'[]'),
-      ('actor','actor-goal','Test','Schauspieler','actors','experte',0,'[]'),
-      ('award','award-goal','Test','Preisträger','awards','schwer',0,'[]'),
-      ('later','later-goal','Test','Schauspieler','actors','leicht',0,'[]'),
-      ('new','new-goal','Test','Preisträger','awards','leicht',0,'[]');
+      ('actor','actor-goal','Test','Schauspieler','actors','experte',1,'[]'),
+      ('award','award-goal','Test','Preisträger','awards','schwer',1,'[]'),
+      ('later','later-goal','Test','Schauspieler','actors','leicht',1,'[]'),
+      ('new','new-goal','Test','Preisträger','awards','leicht',1,'[]');
       select quiz_game_internal.refresh_groups(); delete from quiz_game_internal.journey_cache;`);
     await fixture.db.query(
       `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)

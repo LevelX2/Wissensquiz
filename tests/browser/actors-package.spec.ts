@@ -16,6 +16,7 @@ import { actorPresentation } from "../../src/actorEditorial";
 import portraits from "../../src/actorPortraits.json" with { type: "json" };
 import tmdbLinks from "../../src/actorTmdbLinks.json" with { type: "json" };
 import { actorTmdbUrl } from "../../src/actorTmdb";
+import selectedTmdbPortraits from "../../src/actorFamiliarityTmdbPortraits.json" with { type: "json" };
 
 test.beforeEach(async ({ page }) => {
   await page.route("**/actor-tmdb-portraits/*.json", (route) => {
@@ -30,7 +31,9 @@ test.beforeEach(async ({ page }) => {
       json: {
         tmdbId: id,
         name: person.name,
-        profilePath: `/Portrait${id}.jpg`,
+        profilePath:
+          Object.values(selectedTmdbPortraits).find((p) => p.tmdbId === id)
+            ?.profilePath ?? `/Portrait${id}.jpg`,
         checkedAt: "2026-10-01T00:00:00Z",
         expiresAt: "2027-03-01T00:00:00Z",
       },
@@ -49,7 +52,7 @@ async function writeState(page: Page, value: State) {
   await writeStoredState(page, value);
 }
 
-test("Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig von Filmgruppen mobil und nach Neuladen", async ({
+test("Schauspieler öffnet 428 Personen und spielt Expertenfragen mit eigenen Bekanntheitsgruppen mobil und nach Neuladen", async ({
   page,
   context,
   browserName,
@@ -66,9 +69,9 @@ test("Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig vo
   // The server serves at most 40 topics per page. Check the entire list
   // through its public pagination instead of requiring a catalogue download.
   const people = new Set<string>();
-  for (let currentPage = 0; currentPage < 6; currentPage++) {
+  for (let currentPage = 0; currentPage < 11; currentPage++) {
     await expect(page.locator(".topic-card")).toHaveCount(
-      currentPage < 5 ? 40 : 20,
+      currentPage < 10 ? 40 : 28,
     );
     const headings = page.locator(".topic-card h3");
     for (const name of await headings.allTextContents()) people.add(name);
@@ -76,13 +79,13 @@ test("Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig vo
       name: "Weitere Themen →",
       exact: true,
     });
-    if (currentPage < 5) {
+    if (currentPage < 10) {
       const first = await headings.first().textContent();
       await next.click();
       await expect(headings.first()).not.toHaveText(first!);
     } else await expect(next).toHaveCount(0);
   }
-  expect(people.size).toBe(220);
+  expect(people.size).toBe(428);
   expect(people.has("Tom Hanks")).toBe(true);
   await page.getByRole("button", { name: "Zur Themenübersicht" }).click();
   await page.getByRole("button", { name: "Schauspieler spielen" }).click();
@@ -101,10 +104,10 @@ test("Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig vo
   for (const level of ["Leicht", "Mittel", "Schwer"])
     await levels.getByLabel(level, { exact: true }).uncheck();
   const groups = page.getByRole("group", {
-    name: "Bekanntheit der Filme",
+    name: "Bekanntheit",
     exact: true,
   });
-  await expect(groups.getByRole("checkbox").first()).toBeDisabled();
+  await expect(groups.getByRole("checkbox").first()).toBeEnabled();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await expect(page.locator("#round-summary")).toContainText("Schauspieler");
   expect(
@@ -192,7 +195,7 @@ for (const [questionId, person, film] of [
     await expect(
       page.getByRole("img", { name: `Porträt von ${person}` }),
     ).toBeVisible();
-    await expect(page.locator(".tmdb-portrait > a")).toHaveAttribute(
+    await expect(page.locator(".actor-portrait > a")).toHaveAttribute(
       "href",
       actorTmdbUrl(q)!,
     );
@@ -207,7 +210,7 @@ test.describe("TMDB-Porträts in Auflösung und Rückblick", () => {
   test.use({ acknowledgeIncidentalSuccess: true });
   for (const [personId, person, response] of [
     ["ACTOR-051", "Meryl Streep", "unknown"],
-    ["ACTOR-013", "Keanu Reeves", "wrong"],
+    ["ACTOR-052", "Julia Roberts", "wrong"],
   ] as const)
     test(`Porträt von ${person} erscheint nach ${response} und bleibt mit TMDB-Nachweis nach Neuladen verfügbar`, async ({
       page,
@@ -346,4 +349,88 @@ test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und voll
   await expect(page.locator(".question-genre")).toHaveAccessibleName(
     "Schauspieler",
   );
+});
+
+test.describe("Neue Schauspieler mit ausgewählten Porträts", () => {
+  test.use({ acknowledgeIncidentalSuccess: true });
+  for (const [number, name, local] of [
+    [1, "Peter Lorre", true],
+    [21, "Heinz Erhardt", false],
+  ] as const)
+    test(`Neue Person ${name}: ausgewähltes Porträt, Quellen und TMDB-Link erst nach der Antwort`, async ({
+      page,
+    }) => {
+      await page.clock.install({ time: new Date("2026-10-13T12:00:00Z") });
+      await page.setViewportSize({ width: 320, height: 740 });
+      await page.goto("/");
+      await expect(
+        page.getByRole("button", { name: "Losspielen" }),
+      ).toBeEnabled();
+      const state = emptyState();
+      addPackages(
+        state,
+        packages.map((pkg) => ({
+          filename: pkg.filename,
+          text: readFileSync(`public${pkg.path}`, "utf8"),
+        })),
+      );
+      const q = state.questions.find(
+        (q) =>
+          q.id ===
+          `SCHAUSPIELER-BG-20261013-${String(number).padStart(3, "0")}-L1`,
+      )!;
+      const catalog = state.questions;
+      state.questions = [q];
+      startRound(
+        state,
+        { mode: "ueben", topic: "Schauspieler", difficulty: "leicht" },
+        Date.parse("2026-10-13T12:00:00Z"),
+      );
+      state.questions = catalog;
+      await writeState(page, state);
+      await page.reload();
+      await page.getByRole("button", { name: "Fortsetzen" }).click();
+      await expect(page.locator(".actor-portrait")).toHaveCount(0);
+      await page
+        .getByRole("button", { name: "Keine Ahnung", exact: true })
+        .click();
+      const image = page.getByRole("img", { name: `Porträt von ${name}` });
+      await expect(image).toBeVisible();
+      const personId = q.metadata.person_id;
+      const expected = local
+        ? portraits[personId as keyof typeof portraits].src
+        : selectedTmdbPortraits[personId as keyof typeof selectedTmdbPortraits]
+            .src;
+      await expect(image).toHaveAttribute("src", expected);
+      await expect(page.locator(".actor-portrait > a")).toHaveAttribute(
+        "href",
+        actorTmdbUrl(q)!,
+      );
+      if (local) {
+        await expect(page.locator(".tmdb-portrait")).toHaveCount(0);
+        await page.getByText("Bildnachweis", { exact: true }).click();
+        await expect(page.locator(".actor-portrait figcaption")).toContainText(
+          "1930er/1940er",
+        );
+        await expect(page.locator(".actor-portrait figcaption")).toContainText(
+          "Public domain",
+        );
+      } else {
+        await expect(page.locator(".tmdb-portrait figcaption")).toContainText(
+          "Porträt · TMDB",
+        );
+      }
+      await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
+      await expect(page.locator(".explanation")).toContainText(q.context);
+      await expect(page.locator(".film-data")).toHaveCount(1);
+      await page.getByRole("button", { name: "Pause & Startseite" }).click();
+      await page.reload();
+      await page.getByRole("button", { name: "Fortsetzen" }).click();
+      await expect(image).toHaveAttribute("src", expected);
+      expect(
+        await page.evaluate(
+          () => document.documentElement.scrollWidth <= innerWidth,
+        ),
+      ).toBe(true);
+    });
 });

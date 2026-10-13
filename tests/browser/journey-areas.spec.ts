@@ -18,7 +18,7 @@ async function writeState(page: Page, value: State) {
   await writeStoredState(page, value);
 }
 const now = new Date("2026-10-03T12:00:00+02:00");
-test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt reine Personenrunden", async ({
+test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und zeigt vier Bekanntheitsgruppen und spielt reine Personenrunden", async ({
   page,
 }) => {
   await page.clock.install({ time: now });
@@ -60,6 +60,17 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
       exact: true,
     }),
   ).toHaveAttribute("max", String(awardTarget));
+  for (const area of ["Schauspieler", "Preisträger"]) {
+    await expect(
+      panel.getByRole("progressbar", {
+        name: area + ": Fortschritt zur nächsten Bekanntheitsgruppe",
+        exact: true,
+      }),
+    ).toBeVisible();
+  }
+  expect(
+    await panel.getByText("4 · Entdeckungen · gesperrt").count(),
+  ).toBeGreaterThanOrEqual(2);
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".question-card")).toBeVisible();
   let state = await readStoredState(page);
@@ -123,7 +134,10 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
   expect(people.mode).toBe("entdecken");
   expect(
     people.questions.every(
-      (q) => !!q.metadata.person_id && q.difficulty === "leicht",
+      (q) =>
+        !!q.metadata.person_id &&
+        q.difficulty === "leicht" &&
+        q.presentation?.familiarity === 1,
     ),
   ).toBe(true);
 });
@@ -191,4 +205,65 @@ for (const suffix of ["001-M-2", "001-S-2", "001-M-1"]) {
     ).toBe(true);
     await page.screenshot({ path: `test-results/actor-${suffix}-320.png` });
   });
+}
+
+for (const [source, label] of [
+  ["actors", "Schauspieler"],
+  ["awards", "Preisträger"],
+] as const) {
+  test(
+    label +
+      ": Bekanntheitsgruppen filtern Expertenfragen ohne Filmgenres und bleiben nach Neuladen erhalten",
+    async ({ page }) => {
+      await page.clock.install({ time: now });
+      await page.setViewportSize({ width: 320, height: 820 });
+      await page.goto("/");
+      await expect(
+        page.getByRole("button", { name: "Losspielen" }),
+      ).toBeEnabled();
+      const state = emptyState();
+      state.settings.roundSetup = {
+        mode: "ueben",
+        genres: [],
+        categories: [],
+        sources: [source],
+        difficulties: ["experte"],
+        familiarities: [4],
+      };
+      await writeState(page, state);
+      await page.reload();
+      await openRoundSetup(page);
+      const groups = page.getByRole("group", {
+        name: "Bekanntheit",
+        exact: true,
+      });
+      await expect(
+        groups.getByLabel("4 · Entdeckungen", { exact: true }),
+      ).toBeEnabled();
+      await expect(groups.locator("input:checked")).toHaveCount(1);
+      await groups.getByLabel("4 · Entdeckungen", { exact: true }).uncheck();
+      await expect(
+        page.getByRole("button", { name: "Losspielen" }),
+      ).toBeDisabled();
+      await groups.getByLabel("4 · Entdeckungen", { exact: true }).check();
+      await expect(
+        page.getByRole("button", { name: "Losspielen" }),
+      ).toBeEnabled();
+      await page.reload();
+      await openRoundSetup(page);
+      await expect(groups.locator("input:checked")).toHaveCount(1);
+      await expect(
+        groups.getByLabel("4 · Entdeckungen", { exact: true }),
+      ).toBeChecked();
+      await page.getByRole("button", { name: "Losspielen" }).click();
+      await expect(page.locator(".question-card")).toBeVisible();
+      const active = (await readStoredState(page)).rounds.find(
+        (r) => r.status === "active",
+      )!;
+      expect(active.filters?.familiarities).toEqual([4]);
+      expect(active.filters?.sources).toEqual([source]);
+      expect(active.questions[0].difficulty).toBe("experte");
+      expect(active.questions[0].presentation?.familiarity).toBe(4);
+    },
+  );
 }

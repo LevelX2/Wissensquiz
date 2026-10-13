@@ -12,6 +12,7 @@ import film240 from "./film240Metadata.json" with { type: "json" };
 import expansion from "../docs/Erweiterung-2026-10-07/Filmdaten.json" with { type: "json" };
 import genre100 from "../docs/Genres-100-2026-10-08/Filmdaten.json" with { type: "json" };
 import expansionReferences from "../docs/Erweiterung-2026-10-07/Filmdaten-Referenzen.json" with { type: "json" };
+import actorFamiliarityReferences from "./actorFamiliarityFilmFacts.json" with { type: "json" };
 import type { Difficulty, Question } from "./model";
 import { fingerprint } from "./importer";
 import { categories, isCategory, withCategoryTags } from "./categories";
@@ -50,12 +51,19 @@ const expansionReferenceByFilm = new Map(
   expansionReferences.films.map((f) => [f.film_id, f]),
 );
 
+const actorFamiliarityReferenceByFilm = new Map(
+  actorFamiliarityReferences.films.map((film) => [film.film_id, film]),
+);
+
 // Read-only enrichment: also works for historical snapshots without modifying them.
 export function filmData(q: Question, reference?: string) {
   if (q.metadata.person_id && !reference) return undefined;
   const key = reference ?? filmKey(q);
-  const reviewedReference =
-    q.id.startsWith("E20261007-P-") || q.id.startsWith("E20261007-A-")
+  const reviewedReference = q.metadata.person_id?.startsWith(
+    "ACTOR-BG-20261013-",
+  )
+    ? actorFamiliarityReferenceByFilm.get(key)
+    : q.id.startsWith("E20261007-P-") || q.id.startsWith("E20261007-A-")
       ? expansionReferenceByFilm.get(key)
       : undefined;
   if (reviewedReference) {

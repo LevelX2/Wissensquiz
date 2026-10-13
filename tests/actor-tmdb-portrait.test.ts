@@ -2,6 +2,8 @@ import { afterEach, expect, it, vi } from "vitest";
 import { readFileSync, existsSync } from "node:fs";
 import { actorTmdbPortrait } from "../src/tmdbActorPortrait";
 import links from "../src/actorTmdbLinks.json";
+import localPortraits from "../src/actorPortraits.json";
+import selectedPortraits from "../src/actorFamiliarityTmdbPortraits.json";
 
 const q = {
   metadata: { person_id: "ACTOR-001", person_name: "Tom Hanks" },
@@ -78,9 +80,10 @@ it("lässt nach einem fehlgeschlagenen Abruf einen erneuten Versuch zu", async (
 });
 
 it.skipIf(!existsSync("public/actor-tmdb-portraits/31.json"))(
-  "prüft alle lokal vorbereiteten Porträtdateien gegen die 220 Identitäten",
+  "prüft alle benötigten TMDB-Zuordnungen und erhält die 13 ausgewählten Bildfassungen",
   () => {
     for (const [id, person] of Object.entries(links)) {
+      if (Object.hasOwn(localPortraits, id)) continue;
       const prepared = JSON.parse(
         readFileSync(
           `public/actor-tmdb-portraits/${person.tmdbId}.json`,
@@ -90,6 +93,8 @@ it.skipIf(!existsSync("public/actor-tmdb-portraits/31.json"))(
       const question = {
         metadata: { person_id: id, person_name: person.name },
       };
+      const selected = selectedPortraits[id as keyof typeof selectedPortraits];
+      if (selected) expect(prepared.profilePath).toBe(selected.profilePath);
       expect(
         actorTmdbPortrait(question, prepared, Date.parse(prepared.checkedAt)),
         person.name,

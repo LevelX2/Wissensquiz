@@ -91,23 +91,25 @@ export function Help() {
           Filmfragen, Preisträger und Schauspieler sind unabhängig wählbare
           Fragenbereiche. Alle gewählten Bereiche bilden einen gemeinsamen
           Zufallspool. Preisträger widmet sich Oscars, der Goldenen Palme und
-          den Preisen des Filmfestivals von Venedig. Schauspieler enthält 1.400
-          Fragen zu 175 Schauspielerinnen und Schauspielern: Rollen, Karriere,
+          den Preisen des Filmfestivals von Venedig. Schauspieler enthält 3.424
+          Fragen zu 428 Schauspielerinnen und Schauspielern: Rollen, Karriere,
           Bühne, Musik, Ausbildung und besondere Lebenswege.
         </p>
         <p>
           Für eine Mischung aus allen Filmfragen, Schauspieler- und Preisfragen
           wählst Du alle drei Bereiche und alle Filmgenres. Für eine reine
-          Schauspielerrunde wählst Du Filmfragen und Preisträger ab. Genres und
-          Filmgruppen gelten nur für Filmfragen, die Schwierigkeitsstufen für
-          alle Bereiche. Im Freien Spiel und in Rekordrunden erfolgt die Auswahl
-          zufällig aus dem gemeinsamen Pool; feste Anteile je Bereich gibt es
-          nicht. „Wiederholen“ enthält ausschließlich fällige Fragen aus den
-          gewählten Bereichen. Die Filmreise unterstützt ebenfalls alle drei
-          Bereiche. Schauspieler und Preisträger öffnen ihre Stufen separat:
-          Mindestens 50 Prozent der aktuellen Filmfakten der vorherigen Stufe
-          müssen sicher beantwortet sein, bis hin zu Experte. Bei Filmfragen
-          bleiben Genre- und Filmgruppenfortschritte erhalten.
+          Schauspielerrunde wählst Du Filmfragen und Preisträger ab. Genres
+          gelten nur für Filmfragen. Bekanntheitsgruppen und
+          Schwierigkeitsstufen gelten für alle Bereiche. Im Freien Spiel und in
+          Rekordrunden erfolgt die Auswahl zufällig aus dem gemeinsamen Pool;
+          feste Anteile je Bereich gibt es nicht. „Wiederholen“ enthält
+          ausschließlich fällige Fragen aus den gewählten Bereichen. Die
+          Filmreise unterstützt ebenfalls alle drei Bereiche. Schauspieler und
+          Preisträger öffnen ihre Stufen separat: Mindestens 50 Prozent der
+          aktuellen Filmfakten der vorherigen Stufe müssen sicher beantwortet
+          sein, bis hin zu Experte. Bei Filmfragen werden Fortschritte je Genre
+          berechnet. Alle Bereiche öffnen ihre Bekanntheitsgruppen unabhängig
+          von der Schwierigkeit.
         </p>
         <p>
           Classics und Arthouse sind kuratierte Filmauswahlen innerhalb Deiner
@@ -195,7 +197,8 @@ export function Help() {
             Lesen der Erklärung läuft keine Uhr. Der feste Mix enthält drei
             leichte, vier mittlere und drei schwere Fragen. Für Rekorde wählst
             Du Universal mit allen Bereichen oder genau ein Filmgenre.
-            Zusätzliche Themen-, Stufen- und Filmgruppenfilter entfallen.
+            Zusätzliche Themen-, Stufen- und Bekanntheitsgruppenfilter
+            entfallen.
           </li>
         </ul>
         <p>
@@ -266,34 +269,36 @@ export function Help() {
         </p>
       </details>
       <details>
-        <summary>Wie öffne ich neue Schwierigkeiten und Filmgruppen?</summary>
+        <summary>
+          Wie öffne ich neue Schwierigkeiten und Bekanntheitsgruppen?
+        </summary>
         <p>
           Schauspieler und Preisträger beginnen jeweils mit Leicht. Mindestens
           50 Prozent der Filmfakten der vorherigen Schwierigkeit müssen sicher
           beantwortet sein, um Mittel, Schwer und schließlich Experte zu öffnen.
-          Jeder Bereich zählt getrennt; diese Fragen sind unabhängig von
-          Filmgruppen.
+          Jeder Bereich zählt getrennt. Die Schwierigkeiten entwickeln sich
+          unabhängig von den Bekanntheitsgruppen.
         </p>
         <p>
-          Die Filmreise beginnt je Genre mit Leicht und der bekanntesten
-          vorhandenen Filmgruppe. Vier Gruppen unterscheiden Film-Ikonen,
-          bekannte Filme, Kennerfilme und Entdeckungen. Diese redaktionelle
-          Einordnung bezieht sich auf ein breites deutschsprachiges
-          Kinopublikum; sie misst weder Qualität noch Deine persönliche
-          Vertrautheit.
+          Die Filmreise beginnt je Filmgenre sowie bei Schauspielern und
+          Preisträgern mit Leicht und der bekanntesten vorhandenen Gruppe. Die
+          vier Gruppen heißen Sehr bekannt, Bekannt, Für Filmkenner und
+          Entdeckungen. Diese redaktionelle Einordnung bezieht sich auf ein
+          breites deutschsprachiges Kinopublikum; sie misst weder Qualität noch
+          Deine persönliche Vertrautheit.
         </p>
         <p>
-          Die Schwierigkeit und die Filmgruppen entwickeln sich getrennt. Die
-          Ziele für Mittel und Schwer entsprechen aufgerundet 50 Prozent der
-          leichten beziehungsweise mittleren Filmfakten im aktuellen
-          Fragenbestand des Genres, über alle Filmgruppen hinweg. Schwer öffnet
-          erst nach Mittel.
+          Die Schwierigkeit und die Bekanntheitsgruppen entwickeln sich
+          getrennt. Die Ziele für Mittel und Schwer entsprechen aufgerundet 50
+          Prozent der leichten beziehungsweise mittleren Filmfakten im aktuellen
+          Fragenbestand des Genres oder Bereichs, über alle Gruppen hinweg.
+          Schwer öffnet erst nach Mittel.
         </p>
         <p>
-          Die nächste vorhandene Filmgruppe öffnet, wenn Du aufgerundet 50
-          Prozent aller aktuellen leichten Filmfakten der vorherigen Gruppe in
-          diesem Genre sicher beantwortet hast. Leere Gruppen werden
-          übersprungen. Deine konkreten Zähler stehen unter „Deine
+          Die nächste vorhandene Bekanntheitsgruppe öffnet, wenn Du aufgerundet
+          50 Prozent aller aktuellen leichten Filmfakten der vorherigen Gruppe
+          in diesem Genre oder Bereich sicher beantwortet hast. Leere Gruppen
+          werden übersprungen. Deine konkreten Zähler stehen unter „Deine
           Stufenfortschritte“.
         </p>
         <p>

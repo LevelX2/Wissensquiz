@@ -87,10 +87,14 @@ try {
   const state = emptyState();
   addPackages(
     state,
-    packages.map((pkg) => ({
-      filename: pkg.filename,
-      text: fs.readFileSync(`public${pkg.path}`, "utf8"),
-    })),
+    packages
+      .filter(
+        (pkg) => pkg.filename !== "Schauspieler-Bekanntheit-2026-10-13.csv",
+      )
+      .map((pkg) => ({
+        filename: pkg.filename,
+        text: fs.readFileSync(`public${pkg.path}`, "utf8"),
+      })),
   );
   assert(
     state.imports.every(

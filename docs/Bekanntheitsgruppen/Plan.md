@@ -1,6 +1,8 @@
 # Vier Bekanntheitsgruppen in allen Fragenbereichen
 
-Stand: 13.10.2026. Auf [Nutzerauftrag](../../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerauftrag%20Bekanntheitsgruppen.txt) redaktionell vorbereitet. Die Einordnung des bisherigen Bestands ist lokal gespeichert; Auswahl, Oberfläche und serverseitige Freischaltungen der App sind noch nicht umgestellt. Anschließend begann der beauftragte Ausbau: [208 zusätzliche Personen, 1.664 geprüfte Fragen und geprüfte Porträts](../Schauspieler-Bekanntheit-2026-10-13/Plan.md) redaktionell fertig, noch nicht installiert. Die Bestandszahlen dieser Seite beziehen sich weiterhin auf die bisherigen 220 Personen.
+**App-Integration am 13.10.2026 lokal abgeschlossen:** 428 Personen mit viermal 107, 3.424 Schauspielerfragen und Gruppenfilter/Freischaltungen für Schauspieler und Preise. Zentrale Veröffentlichungsprüfung läuft. Die folgenden Bestandszahlen dokumentieren die ursprüngliche Einordnung vor dem Ausbau. [Aktueller App-Vertrag und Mengen](App-Integration-2026-10-13.md).
+
+Stand: 13.10.2026. Auf [Nutzerauftrag](../../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerauftrag%20Bekanntheitsgruppen.txt) redaktionell vorbereitet. Die Einordnung und der vollständige Ausbau sind lokal in Auswahl, Oberfläche und serverseitige Freischaltungen integriert. Anschließend begann der beauftragte Ausbau: [208 zusätzliche Personen, 1.664 geprüfte Fragen und geprüfte Porträts](../Schauspieler-Bekanntheit-2026-10-13/Plan.md) redaktionell fertig und lokal installiert. Die Bestandszahlen dieser Seite beziehen sich weiterhin auf die bisherigen 220 Personen.
 
 ## Gemeinsamer Maßstab
 
@@ -51,14 +53,12 @@ Die vollständige Erweiterung umfasst **1.664 Personenfragen**, je Person zwei u
 
 Der Ausbau erfolgte in zehn redaktionellen Paketen mit gezielten Ergänzungen in den Gruppen 1, 3 und 4. Der bestehende Bestand enthält 25 Personen mit ausschließlich einer Bilderkennungsfrage. Dieser ausdrücklich beauftragte frühere Erkennungsumfang erzeugt keine nachträgliche automatische Acht-Fragen-Pflicht. Deshalb bedeuten gleich große Personengruppen nur annähernd gleich große Fragenpools; Fragen- und Zielzahlen bleiben zusätzlich sichtbar. Neue vollständige Personenpakete folgen dem aktuellen [Redaktionsvertrag](../Fragenredaktion.md#schauspielerfragen).
 
-## App-Integration als nächster eigener Schritt
+## App-Integration
 
-208 zusätzliche Personen/1.664 Fragen redaktionell abgeschlossen. Damit sind alle vier Gruppen auf jeweils 107 Personen vorbereitet, zusammen 428 Personen und 3.424 Schauspielerfragen. Der beauftragte redaktionelle Ausgleich ist vollständig; die gemeinsame lokale App-Integration bleibt offen. [Fragen und abgeschlossener Ausbau](../Schauspieler-Bekanntheit-2026-10-13/Plan.md).
+Alle 208 zusätzlichen Personen/1.664 Fragen sind redaktionell abgeschlossen und lokal eingebaut. Viermal 107 Personen, zusammen 428 Personen und 3.424 Schauspielerfragen. Gruppenfilter, serverseitige Auswahl, Freischaltungen und sichtbarer Fortschritt gelten gemeinsam für Film-, Schauspieler- und Preisfragen. Die nächste Gruppe öffnet analog zum bestehenden Filmprinzip ab aufgerundet 50 Prozent der aktuellen leichten Ziele der vorherigen Gruppe. Schwierigkeiten einschließlich Experte bei Personen/Preisen bleiben eine getrennte Achse. [App-Vertrag und Prüfnachweis](App-Integration-2026-10-13.md).
 
-Aktuell begrenzen Filmgruppen ausschließlich Filmfragen; Schauspieler und Preisträger umgehen diesen Filter und haben keine entsprechenden Gruppenfreischaltungen. Für die gewünschte Einheitlichkeit sind Gruppenfilter, serverseitige Auswahl, Freischaltung und sichtbare Fortschritte gemeinsam anzupassen. Allein das Speichern dieser Zuordnungen ändert die Fragenauswahl noch nicht. Das analoge 50-Prozent-Prinzip ist ein naheliegender Vorschlag; die konkrete Regel ist noch nicht implementiert.
-
-Die zusätzliche Frage zur Gewichtung der drei Fragenbereiche in gemischten Runden ist eine getrennte Entscheidung. Es wurde keine feste Mischung wie 6/2/2 und keine gleichmäßige Bereichsquote eingeführt. Die vorliegende Einordnung und der geplante Ausbau betreffen die vier Bekanntheitsgruppen.
+Es wurde keine feste Mischung wie 6/2/2 und keine gleichmäßige Bereichsquote eingeführt. Die ursprüngliche Einordnung des Bestands bleibt dokumentiert; erweitert wurden die unterbesetzten Personengruppen.
 
 ## Prüfung
 
-220 eindeutige Personen-IDs mit übereinstimmenden Katalognamen vollständig zugeordnet; keine Mehrfachzuordnung. Alle 1.760 Personenfragen sind abgedeckt. Alle 280 Preisfragen übernehmen exakt die aktuelle Filmgruppe über Originaltitel und Filmjahr; 155 unterschiedliche Filmfassungen. Einteilungen, Mengen und Summen maschinell geprüft; redaktionelle Bekanntheit nicht als empirisch validiert ausgegeben. Keine App-, Speicher- oder API-Änderung, daher kein Produktionsbuild oder Browserlauf dieses Redaktionsschritts. `git diff --check` gehört zum lokalen Abschluss.
+220 eindeutige Personen-IDs mit übereinstimmenden Katalognamen vollständig zugeordnet; keine Mehrfachzuordnung. Alle 1.760 Personenfragen sind abgedeckt. Alle 280 Preisfragen übernehmen exakt die aktuelle Filmgruppe über Originaltitel und Filmjahr; 155 unterschiedliche Filmfassungen. Einteilungen, Mengen und Summen maschinell geprüft; redaktionelle Bekanntheit nicht als empirisch validiert ausgegeben. Der ursprüngliche Einordnungsschritt enthielt keine App-, Speicher- oder API-Änderung; dessen damalige Prüfgrenze bleibt dokumentiert. Die zusätzliche App-Integration erhält eigene zentrale Veröffentlichungschecks. `git diff --check` gehört zum lokalen Abschluss.

@@ -131,8 +131,8 @@ export function PlaySetup({
       : selectedDifficulties.map(difficultyLabel).join(" + ") || "Keine Stufe";
   const familiaritySummary =
     selectedFamiliarities.length === familiarities.length
-      ? "Alle Filmgruppen"
-      : `Filmgruppen ${selectedFamiliarities.join(" + ") || "keine"}`;
+      ? "Alle Bekanntheitsgruppen"
+      : `Bekanntheitsgruppen ${selectedFamiliarities.join(" + ") || "keine"}`;
   return (
     <>
       <header className="play-heading">
@@ -276,8 +276,7 @@ export function PlaySetup({
                     ? "Freie Auswahl: " + difficultySummary
                     : "Filmreise · freigeschaltete Etappen · neue Fragen und Wiederholungen"}
                 {mode !== "entdecken" &&
-                  filters.sources.includes("film") &&
-                  ` · ${standard ? "Alle Filmgruppen" : familiaritySummary}`}
+                  ` · ${standard ? "Alle Bekanntheitsgruppen" : familiaritySummary}`}
               </p>
             </div>
 
@@ -297,7 +296,7 @@ export function PlaySetup({
                     ? "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Fragenbereiche oder Filmgenres, oder spiele frei."
                     : mode === "fehler"
                       ? "Aktuell ist in Deiner Auswahl nichts zur Wiederholung fällig. Entdecke weitere Fragen in der Filmreise oder spiele frei."
-                      : "Wähle einen Fragenbereich und eine Schwierigkeitsstufe mit verfügbaren Fragen. Für Filmfragen brauchst Du außerdem passende Genres und Filmgruppen."}
+                      : "Wähle einen Fragenbereich und eine Schwierigkeitsstufe mit verfügbaren Fragen. Wähle außerdem passende Bekanntheitsgruppen und für Filmfragen passende Genres."}
                 {mode === "entdecken" && (
                   <button
                     className="text-button"
@@ -372,8 +371,8 @@ export function PlaySetup({
                 )}
                 <p className="tiny muted">
                   Rekorde vergleichen Universal oder genau ein Genre. Themen,
-                  Filmgruppen und Schwierigkeiten sind dafür fest vorgegeben.
-                  Freie Filter gibt es in den Lernmodi.
+                  Bekanntheitsgruppen und Schwierigkeiten sind dafür fest
+                  vorgegeben. Freie Filter gibt es in den Lernmodi.
                 </p>
               </fieldset>
             )}
@@ -418,9 +417,10 @@ export function PlaySetup({
                     </div>
                     <p className="tiny muted">
                       Gewählte Bereiche bilden einen gemeinsamen Fragenpool.
-                      Genres, Filmgruppen und die Filmauswahl gelten nur für
-                      Filmfragen. In der Filmreise gelten die freigeschalteten
-                      Stufen jedes Bereichs.
+                      Bekanntheitsgruppen und Schwierigkeiten gelten für alle
+                      Bereiche. Genres und Filmauswahl begrenzen nur Filmfragen.
+                      In der Filmreise gelten die freigeschalteten Stufen jedes
+                      Bereichs.
                     </p>
                   </fieldset>
                 </SetupSection>
@@ -505,7 +505,7 @@ export function PlaySetup({
                 </SetupSection>
                 {mode !== "entdecken" ? (
                   <SetupSection
-                    title="Schwierigkeit & Filmgruppen"
+                    title="Schwierigkeit & Bekanntheitsgruppen"
                     illustration={<DisclosureArtwork subject="learning" />}
                     selection={`${difficultySummary} · ${familiaritySummary}`}
                   >
@@ -542,10 +542,8 @@ export function PlaySetup({
                         Alle Stufen auswählen
                       </button>
                     </fieldset>
-                    <fieldset
-                      disabled={busy || !selectedSources.includes("film")}
-                    >
-                      <legend>Bekanntheit der Filme</legend>
+                    <fieldset disabled={busy}>
+                      <legend>Bekanntheit</legend>
                       <div className="filter-options">
                         {familiarities.map((level) => (
                           <label className="filter-choice" key={level}>
@@ -576,12 +574,14 @@ export function PlaySetup({
                           })
                         }
                       >
-                        Alle Filmgruppen auswählen
+                        Alle Bekanntheitsgruppen auswählen
                       </button>
                       <p className="tiny muted">
                         Redaktionelle Einordnung für ein breites
-                        deutschsprachiges Kinopublikum. Eigene, noch nicht
-                        eingeordnete Filme sind bei Auswahl aller Gruppen dabei.
+                        deutschsprachiges Kinopublikum. Schauspieler werden nach
+                        Person, Preisträger nach ihrem Film eingeordnet. Eigene,
+                        noch nicht eingeordnete Filme sind bei Auswahl aller
+                        Gruppen dabei.
                       </p>
                     </fieldset>
                   </SetupSection>

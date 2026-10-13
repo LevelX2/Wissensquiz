@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Schauspielerausbau und vier Bekanntheitsgruppen in allen Bereichen – 13.10.2026, lokal integriert](../../../docs/Bekanntheitsgruppen/App-Integration-2026-10-13.md)
+
 - [Version 79: Main-Gesamtstand veröffentlicht, alle Worktrees bereits integriert – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-79.json)
 
 - [Version 78: TMDB-Porträts, Erfolgsicon, Zeitanzeige und kurze Rekordauswahl veröffentlicht – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-78.json)

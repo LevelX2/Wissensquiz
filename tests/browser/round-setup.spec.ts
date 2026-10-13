@@ -33,10 +33,10 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   await levels.getByLabel("Mittel", { exact: true }).uncheck();
   await levels.getByLabel("Experte", { exact: true }).uncheck();
   const fame = page.getByRole("group", {
-    name: "Bekanntheit der Filme",
+    name: "Bekanntheit",
     exact: true,
   });
-  await fame.getByLabel("2 · Bekannte Filme", { exact: true }).uncheck();
+  await fame.getByLabel("2 · Bekannt", { exact: true }).uncheck();
   await fame.getByLabel("4 · Entdeckungen", { exact: true }).uncheck();
   await expect(
     page.getByRole("button", { name: "Alle Genres auswählen" }),

@@ -1,8 +1,8 @@
-// Independently reviewed catalog snapshot; update after a completed genre package.
+// Independently reviewed catalog snapshot; update after a completed content package.
 export const catalogCounts = {
-  questions: 12787,
-  goals: 12222,
-  packages: 33,
+  questions: 14451,
+  goals: 13781,
+  packages: 34,
   films: 1302,
   filmQuestions: 10747,
   familiarityEntries: 1405,

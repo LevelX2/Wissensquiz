@@ -49,7 +49,7 @@ export function Explanation({
           <strong>{subject}</strong>
         </p>
       )}
-      {q.metadata.question_image_id ? (
+      {q.metadata.question_image_id || q.presentation?.portraits.length ? (
         <ActorPortrait q={q} selectionKey={event.id} />
       ) : (
         <ActorTmdbPortrait q={q} />

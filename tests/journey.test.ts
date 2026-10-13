@@ -181,7 +181,7 @@ it("prüft dynamische Halbziele aller Filmgruppen im vollständigen Bestand", ()
   expect(
     s.questions
       .filter((q) => q.metadata.person_id)
-      .every((q) => !familiarityOf(q)),
+      .every((q) => familiarityOf(q)),
   ).toBe(true);
   for (const genre of new Set(
     s.questions

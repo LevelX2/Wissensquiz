@@ -55,13 +55,9 @@ export function learningPathProgress(state: State) {
     const qs = available.get(genre) ?? [];
     const independent =
       genre === sourceLabels.actors || genre === sourceLabels.awards;
-    const levels = independent
-      ? []
-      : [
-          ...new Set(
-            qs.map(familiarityOf).filter((x): x is Familiarity => !!x),
-          ),
-        ].sort();
+    const levels = [
+      ...new Set(qs.map(familiarityOf).filter((x): x is Familiarity => !!x)),
+    ].sort();
     const first = levels[0] ?? 0;
     const easy = goals.get(genre)?.leicht.size ?? 0;
     const medium = goals.get(genre)?.mittel.size ?? 0;
@@ -178,7 +174,11 @@ export function newlyUnlocked(
     if (!old.expertUnlocked && current.expertUnlocked)
       unlocked.push({ genre, difficulty: "experte" });
     for (const group of current.groups)
-      if (group.level > old.familiarity && group.level <= current.familiarity)
+      if (
+        old.first > 0 &&
+        group.level > old.familiarity &&
+        group.level <= current.familiarity
+      )
         unlocked.push({ genre, familiarity: group.level });
     return unlocked;
   });
@@ -191,22 +191,16 @@ export function pathQuestions(
   const progress = learningPathProgress(state);
   return state.questions.filter((q) => {
     const p = progress(pathAreaOf(q));
-    if (p.independent)
-      return (
-        q.difficulty === "leicht" ||
+    const fame = familiarityOf(q);
+    return (
+      !!fame &&
+      fame <= p.familiarity &&
+      (q.difficulty === "leicht" ||
         (q.difficulty === "mittel"
           ? p.mediumUnlocked
           : q.difficulty === "schwer"
             ? p.hardUnlocked
-            : p.expertUnlocked)
-      );
-    const fame = familiarityOf(q);
-    return (
-      !!fame &&
-      q.difficulty !== "experte" &&
-      fame <= p.familiarity &&
-      (q.difficulty === "leicht" ||
-        (q.difficulty === "mittel" ? p.mediumUnlocked : p.hardUnlocked))
+            : p.expertUnlocked))
     );
   });
 }
