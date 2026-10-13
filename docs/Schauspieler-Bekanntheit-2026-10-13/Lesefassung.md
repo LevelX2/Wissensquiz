@@ -35445,3 +35445,1335 @@ Die FIAF ehrt Persönlichkeiten außerhalb der eigentlichen Archivarbeit, deren 
 Merksatz: Kagawas Filme sollen auch künftig gesehen werden können.
 
 Quellen: [1](https://www.fiafnet.org/is/2/Events/old-version-FIAF-Award.html), [2](https://www.fiafnet.org/images/tinyUpload/E-Resources/Official-Documents/Protected_Files/Congress-Reports/2011_Pretoria_Congress_Report_LR.pdf).
+
+## Haruko Sugimura · Bekanntheitsgruppe 4
+
+![Haruko Sugimura (1953)](Portraets/201.jpg)
+
+Bild: 1953; Shichiro Udono. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Haruko_Sugimura_01.jpg), [TMDB](https://www.themoviedb.org/person/131013).
+
+### L1 · leicht
+
+Welchen Beruf übt Haruko Sugimuras Shige in „Die Reise nach Tokio“ aus?
+
+- Ärztin
+
+- Lehrerin
+
+- **Richtig: Friseurin**
+
+- Schneiderin
+
+Shige führt einen Friseursalon.
+
+Die Tochter empfängt ihre alten Eltern in Tokio, hat aber wenig Zeit für sie. Ihr Alltag und ihr Geschäft bestimmen, wie viel Raum sie dem Besuch zugesteht. Die verwitwete Schwiegertochter Noriko (Setsuko Hara) nimmt sich dagegen ausdrücklich Zeit für die beiden.
+
+Merksatz: Shiges Familienbesuch findet zwischen den Pflichten im Salon statt.
+
+Quellen: [1](https://tv.apple.com/ca/movie/tokyo-story/umc.cmc.2uou0pg9gyn4tc895xtxwpmxs).
+
+### L2 · leicht
+
+Wie verdient Haruko Sugimuras ehemalige Geisha Kin in „Späte Chrysanthemen“ inzwischen ihr Geld?
+
+- **Richtig: Als Geldverleiherin**
+
+- Als Heiratsvermittlerin
+
+- Als Tanzlehrerin
+
+- Als Gastwirtin
+
+Kin hat ihre früheren Einnahmen in ein Geschäft als Geldverleiherin verwandelt.
+
+Zu ihren Schuldnerinnen gehören ehemalige Kolleginnen. Dadurch kehren alte Beziehungen in veränderter Form wieder: Was früher gemeinsam erlebte Arbeit war, steht nun auch unter dem Druck von Forderungen und Abhängigkeit. Mikio Naruse erzählt mehrere miteinander verbundene Frauenleben.
+
+Merksatz: Kin macht aus Erspartem verliehenes Kapital.
+
+Quellen: [1](https://www.criterionchannel.com/films/kHnkCKH2/late-chrysanthemums).
+
+### M1 · mittel
+
+Für wen hält der junge Kiyoshi den Schauspieler Komajūrō zunächst in „Floating Weeds“ mit Haruko Sugimura?
+
+- Für einen Freund seines verstorbenen Vaters
+
+- Für den früheren Arbeitgeber seiner Mutter
+
+- Für den Bruder seines Lehrers
+
+- **Richtig: Für seinen Onkel**
+
+Er glaubt, Komajūrō sei sein Onkel; tatsächlich ist dieser sein Vater.
+
+Oyoshi (Haruko Sugimura) hat den gemeinsamen Sohn aufgezogen. Der reisende Schauspieler Komajūrō (Ganjirō Nakamura) besucht beide immer wieder. Als er mehr Nähe herstellen will, bedrohen seine verschwiegene Vaterschaft und die Eifersucht innerhalb der Theatertruppe die mühsam erhaltene Ordnung.
+
+Merksatz: Die Onkelgeschichte verbirgt eine Vaterschaft.
+
+Quellen: [1](https://www.criterion.com/current/posts/885-floating-weeds).
+
+### M2 · mittel
+
+Mit welchem Hollywoodstar vergleicht Tante Masa (Haruko Sugimura) den Heiratskandidaten in „Später Frühling“?
+
+- Clark Gable
+
+- **Richtig: Gary Cooper**
+
+- James Stewart
+
+- Cary Grant
+
+Sie behauptet eine Ähnlichkeit mit Gary Cooper.
+
+Masa möchte Noriko (Setsuko Hara) für einen Mann gewinnen, den der Film selbst nicht zeigt. Der Vergleich macht den unsichtbaren Kandidaten vorstellbar und zeigt zugleich, dass die umtriebige Tante bei ihrer Werbung auf einen Kinostar zurückgreift.
+
+Merksatz: Masa wirbt mit einem angeblichen Gary-Cooper-Gesicht.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Late_Spring).
+
+### S1 · schwer
+
+Welche Folge der Fürsorge für den Vater zeigt Haruko Sugimuras Rolle in „Ein Herbstnachmittag“?
+
+- Sie gibt ihren Beruf auf, um seine zweite Hochzeit vorzubereiten.
+
+- Sie führt dessen Schule nach seinem Tod weiter.
+
+- **Richtig: Sie hat für ihn auf Ehe und ein eigenes Leben verzichtet.**
+
+- Sie verlässt ihre Kinder, um mit ihm auszuwandern.
+
+Die Tochter des ehemaligen Lehrers ist bei ihm geblieben und hat eigene Lebensmöglichkeiten aufgegeben.
+
+Vater und Tochter betreiben einen kleinen Nudelladen. Als frühere Schüler den betrunkenen alten Lehrer nach Hause bringen, erkennen sie die Einsamkeit seiner Tochter. Diese Begegnung macht für den ebenfalls verwitweten Hirayama (Chishū Ryū) greifbar, was seiner eigenen Tochter drohen könnte.
+
+Merksatz: Die Tochter im Nudelladen zeigt den Preis dauernder Elternfürsorge.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/ozu-yasujiro-master-time).
+
+### S2 · schwer
+
+Welche Bühnenrolle spielte Haruko Sugimura über Jahrzehnte in Kaoru Morimotos „Onna no isshō“?
+
+- Blanche DuBois
+
+- Warwara
+
+- Shen Te
+
+- **Richtig: Kei Nunobiki**
+
+Kei Nunobiki war ihre zentrale Rolle in „Das Leben einer Frau“.
+
+Die Bungakuza-Chronik zählt 947 Vorstellungen mit ihr als Kei. Das 1945 uraufgeführte Stück blieb ein wichtiges Repertoirewerk des Ensembles. Noch zu Lebzeiten gab Sugimura die Rolle an Yoshie Taira weiter.
+
+Merksatz: Kei Nunobiki begleitete Sugimuras Bühnenleben durch Jahrzehnte.
+
+Quellen: [1](https://www.bungakuza.com/onnanoisyou2018/index.html).
+
+### E1 · experte
+
+An der Gründung welcher Theatergruppe beteiligte sich Haruko Sugimura 1937?
+
+- **Richtig: Bungakuza**
+
+- Shiki
+
+- Haiyūza
+
+- Mingei
+
+Sie gehörte zur Gründungszeit des Bungakuza-Ensembles.
+
+Ihre Laufbahn hatte am Tsukiji-Kleintheater begonnen. Im Bungakuza wurde sie anschließend zu einer prägenden Hauptdarstellerin. Das Ensemble verband neue japanische Stücke mit ausländischer Dramatik und blieb über Jahrzehnte die Basis ihrer Bühnenarbeit.
+
+Merksatz: Sugimuras dauerhaftes Theaterensemble war Bungakuza.
+
+Quellen: [1](https://www.bungakuza.com/about_us/michi/sugimura.html), [2](https://www.bungakuza.com/about_us/).
+
+### E2 · experte
+
+Woran arbeitete Ozu laut Haruko Sugimuras Erinnerung besonders, als Tante Masa in „Später Frühling“ ein letztes Mal durch Norikos Zimmer geht?
+
+- An einer sichtbaren Tränenreaktion vor dem Verlassen des Zimmers
+
+- **Richtig: An Rhythmus und genauer Ausführung ihrer Bewegung**
+
+- An einer wechselnden Ansprache direkt an die Kamera
+
+- An einer frei erfundenen Abschiedsrede an Noriko
+
+Er ließ den Rundgang wiederholen, bis die Bewegung den gewünschten Rhythmus hatte.
+
+Sugimura beschrieb, wie die leicht ausgeführte Bewegung Erinnerungen und ein letztes Prüfen des Raums vermitteln konnte. Eine ausdrücklich erklärte Gefühlsdarstellung war dafür nicht nötig. Ihr Bericht zeigt, wie aus präziser körperlicher Arbeit eine emotional lesbare Szene entstand.
+
+Merksatz: Der Abschied steckt im Rhythmus des Rundgangs.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Late_Spring).
+
+## Ayako Wakao · Bekanntheitsgruppe 4
+
+![Ayako Wakao (1950er-Jahre)](Portraets/202.jpg)
+
+Bild: 1950er-Jahre; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Ayako_Wakao.01.jpg), [TMDB](https://www.themoviedb.org/person/97210).
+
+### L1 · leicht
+
+Welchen Beruf übt Ayako Wakaos Sakura Nishi in „Red Angel“ aus?
+
+- Lehrerin
+
+- Dolmetscherin
+
+- **Richtig: Krankenschwester**
+
+- Journalistin
+
+Sakura arbeitet als Krankenschwester.
+
+Im Krieg wird Sakura nach China geschickt. In Lazaretten begegnet sie verstümmelten Soldaten und einem Arzt, dessen eigene Abhängigkeit seinen Arbeitsalltag belastet. Ihre Nähe zu den Verwundeten macht aus dem Kriegsfilm auch eine Geschichte über Fürsorge unter unmenschlichen Bedingungen.
+
+Merksatz: Pflege im Krieg
+
+Quellen: [1](https://www.arrowfilms.com/p/red-angel-blu-ray/13441461/).
+
+### L2 · leicht
+
+Welches Tier wird Ayako Wakaos Otsuya in „Irezumi“ auf den Rücken tätowiert?
+
+- Schlange
+
+- Tiger
+
+- **Richtig: Spinne**
+
+- Kranich
+
+Otsuya erhält eine Spinnentätowierung.
+
+Nach ihrer Flucht mit einem Angestellten ihres Vaters gerät Otsuya in die Gewalt anderer. Die Tätowierung gehört zunächst zu ihrer Unterwerfung. Im weiteren Verlauf verbindet der Film das Bild der Spinne mit ihrer wachsenden Fähigkeit, sich an den Männern zu rächen.
+
+Merksatz: Spinne auf dem Rücken
+
+Quellen: [1](https://www.arrowfilms.com/p/irezumi-blu-ray/12953269/).
+
+### M1 · mittel
+
+Welche Handlung führt in „A Wife Confesses“ zum Mordprozess gegen Ayako Wakaos Figur?
+
+- **Richtig: Sie durchtrennt das Seil zu ihrem Mann.**
+
+- Sie löst den Sicherungshaken ihres Mannes.
+
+- Sie vertauscht die Ausrüstung ihres Mannes.
+
+- Sie stößt ihren Mann vom Bergpfad.
+
+Sie durchschneidet das Seil, an dem ihr Mann hängt.
+
+Drei Menschen sind beim Bergsteigen aneinandergebunden. Nach einem Unfall kappt die junge Ehefrau das Seil unter sich; ihr Mann stirbt. Vor Gericht wird darum gestritten, ob sie ihr Leben retten musste oder die Gelegenheit zur Beseitigung eines ungeliebten Ehemanns nutzte.
+
+Merksatz: Das gekappte Bergseil
+
+Quellen: [1](https://www.independentcinemaoffice.org.uk/films/a-wife-confesses/).
+
+### M2 · mittel
+
+Wie verändert sich Ayako Wakaos Kayo in „Floating Weeds“, nachdem Sumiko sie auf Kiyoshi angesetzt hat?
+
+- **Richtig: Sie verliebt sich selbst in ihn.**
+
+- Sie wirbt ihn für eine andere Theatertruppe an.
+
+- Sie hilft ihm, seine Mutter zu verlassen.
+
+- Sie überredet ihn, Sumiko zu heiraten.
+
+Aus der bezahlten Verführung wird eine Liebesbeziehung.
+
+Sumiko will den Theaterleiter Komajuro verletzen und bezahlt Kayo dafür, dessen Sohn zu verführen. Kayo entwickelt jedoch eigene Gefühle. Wakaos Figur lässt sich deshalb nicht auf die Rolle eines Werkzeugs im Racheplan reduzieren.
+
+Merksatz: Gefühle durchkreuzen den Auftrag
+
+Quellen: [1](https://www.criterion.com/current/posts/885-floating-weeds), [2](https://www.criterion.com/films/349).
+
+### S1 · schwer
+
+Welche Folge hat in „A Geisha“ der Widerstand von Ayako Wakaos Eiko und ihrer Mentorin gegen die Wünsche ihrer Kunden?
+
+- Ein vermögender Gönner bezahlt ihre Schulden.
+
+- Sie erhalten eine eigene Teestube.
+
+- Ihre Gagen werden durch neue Verträge erhöht.
+
+- **Richtig: Ihre beruflichen Engagements werden gestrichen.**
+
+Die beiden werden wirtschaftlich unter Druck gesetzt.
+
+Eiko will als junge Geisha ihre persönlichen Rechte behaupten. Als sie sich gegen einen übergriffigen Kunden wehrt und ihre Mentorin ebenfalls einen Wunsch ablehnt, bricht ihre Erwerbsgrundlage weg. Die ältere Frau opfert schließlich ihre eigenen Grenzen, um der Jüngeren weiterzuhelfen.
+
+Merksatz: Abhängigkeit von Auftraggebern
+
+Quellen: [1](https://performanceandstardom.wordpress.com/2020/11/05/lydia-brammer-ayako-wakao/), [2](https://en.wikipedia.org/wiki/A_Geisha).
+
+### S2 · schwer
+
+Was tut Ayako Wakaos Okane in „Seisaku’s Wife“, um die Rückkehr ihres Mannes an die Front zu verhindern?
+
+- Sie fälscht seinen Entlassungsbefehl.
+
+- Sie besticht seinen Vorgesetzten.
+
+- Sie versteckt seine Einberufung.
+
+- **Richtig: Sie blendet ihn.**
+
+Okane nimmt ihrem Mann das Augenlicht.
+
+Das Dorf verehrt Seisaku als vorbildlichen Soldaten und behandelt Okane als Außenseiterin. Ihre verzweifelte Tat soll ihn vor einem erneuten Kriegseinsatz bewahren. Damit greift sie zugleich in seinen Körper und seine Entscheidung ein; Liebe erscheint als Schutzwunsch mit zerstörerischer Konsequenz.
+
+Merksatz: Liebe gegen den Kriegsdienst
+
+Quellen: [1](https://globalcinema.kadokawa.co.jp/library/entry-3342.html), [2](https://cinefan.hkiff.org.hk/movie/seisakus-wife).
+
+### E1 · experte
+
+Bei welchem Film begegneten sich Ayako Wakao und der damalige Regieassistent Yasuzō Masumura erstmals?
+
+- Floating Weeds
+
+- **Richtig: Street of Shame**
+
+- A Geisha
+
+- The Blue Sky Maiden
+
+Die Begegnung fand bei „Street of Shame“ statt.
+
+Masumura arbeitete bei Kenji Mizoguchis Film als Assistent. Später wurde Wakao eine zentrale Partnerin seiner eigenen Regiearbeit. Der BFI-Beitrag über Masumura beschreibt sie als eigenständige Mitgestalterin jener Figuren, die gesellschaftliche Erwartungen mit individuellem Begehren herausfordern.
+
+Merksatz: Eine Zusammenarbeit beginnt in der Assistenzzeit
+
+Quellen: [1](https://www.bfi.org.uk/features/giant-japanese-cinema-rediscovered-wild-parables-yasuzo-masumura).
+
+### E2 · experte
+
+Welcher japanische Schriftsteller spielte in „Afraid to Die“ neben Ayako Wakao einen Gangster?
+
+- Yasunari Kawabata
+
+- **Richtig: Yukio Mishima**
+
+- Shūsaku Endō
+
+- Kōbō Abe
+
+Yukio Mishima übernahm die männliche Hauptrolle.
+
+Masumuras Gangsterfilm brachte Wakao mit einem Schriftsteller zusammen, der selbst vor die Kamera trat. Mishimas Leinwandauftritt gehörte zu seiner Beschäftigung mit öffentlicher Selbstdarstellung. Für Wakao war die Begegnung Teil einer vielseitigen Studiolaufbahn zwischen Milieudrama, Komödie und düsteren Liebesgeschichten.
+
+Merksatz: Ein Schriftsteller als Gangster
+
+Quellen: [1](https://www.nippon.com/en/japan-topics/c03077/wakao-ayako-the-career-of-a-classic-silver-screen-star.html).
+
+## Meiko Kaji · Bekanntheitsgruppe 4
+
+![Meiko Kaji; Aufnahmejahr nicht belegt](https://image.tmdb.org/t/p/w185/vX5QZ9oyncMWL6zyhhVycepN4tm.jpg)
+
+Bild: Undatiert; Auf TMDB nicht ausgewiesen. TMDB-Onlineporträt; keine freie Lizenz behauptet. [Bildquelle](https://www.themoviedb.org/person/25461), [TMDB](https://www.themoviedb.org/person/25461).
+
+### L1 · leicht
+
+Was treibt Meiko Kajis Yuki in „Lady Snowblood“ an?
+
+- Die Befreiung ihres gefangenen Bruders
+
+- Die Suche nach einem verschwundenen Kind
+
+- Der Kampf um das Erbe ihres Lehrers
+
+- **Richtig: Die Rache an den Zerstörern ihrer Familie**
+
+Yuki verfolgt die Menschen, die ihre Familie zerstört haben.
+
+Schon ihre Kindheit wird auf den Racheauftrag ausgerichtet. Als Erwachsene zieht sie durch das Japan der Meiji-Zeit und sucht die Täter. Kajis beherrschte Darstellung lässt die Gewalt wie die Erfüllung einer lange auferlegten Pflicht erscheinen.
+
+Merksatz: Ein geerbter Racheauftrag
+
+Gemeinsames Wissensziel: K-F240-20261006-128-L1 (F240-20261006-128-L1).
+
+Quellen: [1](https://www.criterion.com/films/28589-), [2](https://www.us.emb-japan.go.jp/jicc/films/2026/lady-snowblood.html).
+
+### L2 · leicht
+
+In welchem weiteren künstlerischen Beruf wurde Meiko Kaji neben der Schauspielerei bekannt?
+
+- Kostümbildnerin
+
+- Fotografin
+
+- **Richtig: Sängerin**
+
+- Choreografin
+
+Meiko Kaji veröffentlichte auch als Sängerin.
+
+In ihrem Studioalltag gehörten Titellieder und Gesangsauftritte bei Filmvorführungen zu den Erwartungen an Hauptdarsteller. Kaji beschrieb den Gesang zunächst als eine Pflicht. Später wurde daraus ein eigenständiges Arbeitsfeld, an dessen Liveauftritten sie zunehmend Freude fand.
+
+Merksatz: Auch die Stimme prägt das Werk
+
+Gemeinsames Wissensziel: K-F240-20261006-128-S2 (F240-20261006-128-S2).
+
+Quellen: [1](https://www.dreadcentral.com/interviews/545580/legendary-meiko-kaji-discusses-tackling-complex-female-characters/).
+
+### M1 · mittel
+
+Welche Fähigkeit wird für Meiko Kajis Nami in „Wandering Ginza Butterfly“ beim entscheidenden Duell wichtig?
+
+- Motorrad fahren
+
+- Klavier spielen
+
+- Karten legen
+
+- **Richtig: Billard spielen**
+
+Der Konflikt gipfelt in einem Billardspiel.
+
+Nami will nach ihrer Haftentlassung ein legales Leben beginnen, gerät aber wieder mit einer Yakuza-Firma aneinander. Der Film überträgt das Ehrgefühl älterer Gangstergeschichten in die Gegenwart der Ginza. Den entscheidenden Wettkampf führt sie am Billardtisch.
+
+Merksatz: Das Duell am Billardtisch
+
+Quellen: [1](https://japansociety.org/events/wandering-ginza-butterfly/).
+
+### M2 · mittel
+
+Welche Stellung hat Meiko Kajis Figur in „Blind Woman’s Curse“?
+
+- Sie verwaltet ein Frauenkloster.
+
+- Sie leitet eine Polizeieinheit.
+
+- **Richtig: Sie steht einer Yakuza-Gruppe vor.**
+
+- Sie führt eine Wanderbühne.
+
+Kaji spielt die Anführerin einer Yakuza-Gruppe.
+
+Die tätowierte Bandenchefin verletzt in einem Kampf das Augenlicht einer Gegnerin. Daraus entwickelt sich eine Geschichte, in der Gangsterrivalität mit übernatürlicher Vergeltung verschmilzt. Die blinde Schwertkämpferin und Kajis Anführerin sind unterschiedliche Figuren.
+
+Merksatz: Bandenchefin und Gegnerin unterscheiden
+
+Quellen: [1](https://japansociety.org/events/blind-womans-curse/).
+
+### S1 · schwer
+
+Welchen gesellschaftlichen Konflikt behandelt „Stray Cat Rock: Sex Hunter“ mit Meiko Kaji besonders deutlich?
+
+- **Richtig: Die Ausgrenzung von Menschen gemischter Herkunft**
+
+- Die Schließung ländlicher Schulen
+
+- Die Konkurrenz zwischen Fabrikgewerkschaften
+
+- Die Enteignung kleiner Bauernhöfe
+
+Im Zentrum steht rassistische Gewalt gegen Menschen gemischter Herkunft.
+
+In der Umgebung des US-Stützpunkts Yokosuka greift eine Männerbande Jugendliche wegen ihrer Herkunft an. Kajis Frauengruppe und der Außenseiter Azuma geraten in den Konflikt. Die Ganggeschichte verbindet damit jugendliche Gegenkultur und die Nachwirkungen amerikanischer Militärpräsenz.
+
+Merksatz: Rassismus im Umfeld des Militärstützpunkts
+
+Quellen: [1](https://japansociety.org/events/stray-cat-rock-sex-hunter/).
+
+### S2 · schwer
+
+Warum beendete Meiko Kaji nach eigener Aussage ihre Arbeit an der „Scorpion“-Reihe trotz deren Erfolg?
+
+- Sie wollte sich auf historische Komödien konzentrieren.
+
+- **Richtig: Sie wollte sich aus der Festlegung auf diese Figur lösen.**
+
+- Sie wollte häufiger hinter der Kamera arbeiten.
+
+- Sie wollte in europäische Produktionen wechseln.
+
+Sie suchte Rollen jenseits der erfolgreichen Serienfigur.
+
+Kaji beschrieb den Ausstieg als eine bewusste Entscheidung gegen die immer gleiche Besetzung. Darauf folgten schwierige Jahre und Widerstand innerhalb der Branche. Der Erfolg einer Figur konnte weitere Arbeit ermöglichen und gleichzeitig den Zugang zu anderen Figuren verengen.
+
+Merksatz: Der Erfolg wird zur Begrenzung
+
+Quellen: [1](https://www.dreadcentral.com/interviews/545580/legendary-meiko-kaji-discusses-tackling-complex-female-characters/).
+
+### E1 · experte
+
+Welche gestalterische Bedingung stellte Meiko Kaji für die Übernahme der Hauptrolle in „Female Prisoner #701: Scorpion“?
+
+- Die Heldin sollte ihre Gegner offen verspotten.
+
+- **Richtig: Die Heldin sollte weitgehend schweigen.**
+
+- Die Heldin sollte regelmäßig zum Publikum sprechen.
+
+- Die Heldin sollte die Handlung rückblickend erzählen.
+
+Kaji setzte das Schweigen der Heldin durch.
+
+Das ursprüngliche Drehbuch enthielt viele Beschimpfungen. Kaji hielt diese Sprache für wirkungslos und wollte Würde und Widerstand durch Zurückhaltung vermitteln. Shunya Itō und die Produktion stimmten nach einer Bedenkzeit zu. Der prägende Ausdruck der Figur entstand damit auch aus einer Entscheidung der Schauspielerin.
+
+Merksatz: Schweigen als eigene Entscheidung
+
+Quellen: [1](https://embed.letterboxd.com/journal/meiko-kaji-retrospective-interview/).
+
+### E2 · experte
+
+Wie erarbeitete Meiko Kaji nach ihrer Erinnerung die komplizierten Kampfszenen ihrer frühen Actionfilme?
+
+- **Richtig: Am Set nach Einweisung durch den Kampfchoreografen**
+
+- Mit ausführlichen Proben auf einer separaten Bühne
+
+- Mit einem persönlichen Trainer während der Drehpausen
+
+- Mit einem mehrmonatigen Kurs vor Vertragsabschluss
+
+Sie lernte die Bewegungen unmittelbar am Drehort.
+
+Im Interview schilderte Kaji, dass zunächst die Einstellung festgelegt wurde. Dann zeigte ihr der Choreograf die Bewegungen, die sie ausführen sollte. Eine lange Vorbereitung war in diesem Produktionsalltag nicht vorgesehen. Das sichtbare Können beruhte daher auch auf schneller Auffassung unter erheblichem Zeitdruck.
+
+Merksatz: Lernen während der Produktion
+
+Quellen: [1](https://filmmakermagazine.com/133563-interview-actress-meiko-kaji/).
+
+## Madhabi Mukherjee · Bekanntheitsgruppe 4
+
+![Madhabi Mukherjee; Aufnahmejahr nicht belegt](https://image.tmdb.org/t/p/w185/nqjJEBXvhA5E4bivtrcWP3berAv.jpg)
+
+Bild: Historische Aufnahme; genaues Jahr nicht belegt; Auf TMDB nicht ausgewiesen. TMDB-Onlineporträt; keine freie Lizenz behauptet. [Bildquelle](https://www.themoviedb.org/person/550859), [TMDB](https://www.themoviedb.org/person/550859).
+
+### L1 · leicht
+
+Welche Arbeit nimmt Madhabi Mukherjees Arati in „Die große Stadt“ auf?
+
+- **Richtig: Verkäuferin**
+
+- Telefonistin
+
+- Krankenschwester
+
+- Hauslehrerin
+
+Arati beginnt als Verkäuferin zu arbeiten.
+
+Das Einkommen ihres Mannes reicht für die Familie nicht aus. Aratis Erwerbstätigkeit verändert ihre Stellung zu Hause und eröffnet ihr neue Beziehungen außerhalb der Wohnung. Ihre wachsende Selbstständigkeit entsteht aus wirtschaftlicher Notwendigkeit und eigener Erfahrung.
+
+Merksatz: Das erste eigene Einkommen
+
+Quellen: [1](https://en.wikipedia.org/wiki/Mahanagar), [2](https://www.criterion.com/current/posts/2871-the-big-city-a-woman-s-place).
+
+### L2 · leicht
+
+Mit welchem Gegenstand beobachtet Madhabi Mukherjees Charulata zu Beginn des gleichnamigen Films die Welt vor ihren Fenstern?
+
+- Handspiegel
+
+- Fotoapparat
+
+- **Richtig: Opernglas**
+
+- Fernrohr
+
+Charulata benutzt ein Opernglas.
+
+Sie kann das Leben auf der Straße sehen, aber nicht selbstverständlich daran teilnehmen. Auch ihren vorbeigehenden Ehemann betrachtet sie durch das Glas. Die kleine Bewegung verbindet neugierige Aufmerksamkeit mit der Distanz innerhalb ihrer Ehe.
+
+Merksatz: Das Opernglas am Fenster
+
+Quellen: [1](https://www.criterion.com/current/posts/2872-charulata-calm-without-fire-within).
+
+### M1 · mittel
+
+Warum kündigt Madhabi Mukherjees Arati in „Die große Stadt“ ihre Stelle?
+
+- Ihr Mann verlangt den Umzug aufs Land.
+
+- Der Arbeitgeber verweigert ihr die vereinbarte Provision.
+
+- **Richtig: Der Chef entlässt und beleidigt ihre Kollegin Edith.**
+
+- Eine Kundin beschuldigt sie des Diebstahls.
+
+Arati solidarisiert sich mit Edith.
+
+Ihr Chef behandelt die angloindische Kollegin herablassend und entlässt sie. Arati widerspricht, obwohl ihre Familie das Geld dringend braucht. Dadurch wird ihre berufliche Selbstständigkeit zugleich zu einer Frage der Haltung gegenüber rassistischer Ausgrenzung.
+
+Merksatz: Solidarität kostet den Arbeitsplatz
+
+Quellen: [1](https://www.criterion.com/current/posts/2871-the-big-city-a-woman-s-place).
+
+### M2 · mittel
+
+Welche Vergangenheit verbindet Madhabi Mukherjees Karuna in „The Coward“ mit dem unerwarteten Gast Amitabha?
+
+- Sie waren Kollegen in einer Zeitungsredaktion.
+
+- **Richtig: Sie waren ein Liebespaar.**
+
+- Sie waren Mitglieder einer Theatergruppe.
+
+- Sie waren als Kinder Nachbarn.
+
+Karuna und Amitabha hatten eine Liebesbeziehung.
+
+Ein Plantagenmanager nimmt einen gestrandeten Reisenden bei sich auf. Der Gast erkennt in dessen Frau seine frühere Geliebte. Seine einstige Unentschlossenheit belastet das Wiedersehen, während der Gastgeber die Spannung zwischen beiden zunächst nicht durchschaut.
+
+Merksatz: Der Gast aus der Vergangenheit
+
+Quellen: [1](https://www.criterion.com/current/posts/6635-the-silent-gaze-in-satyajit-ray-s-almost-love-story).
+
+### S1 · schwer
+
+Weshalb lehnt Sitas Bruder in „Subarnarekha“ die Heirat von Madhabi Mukherjees Figur mit Abhiram ab?
+
+- Abhiram ist schon mit einer anderen Frau verlobt.
+
+- Abhiram möchte nach Deutschland auswandern.
+
+- Abhiram arbeitet für den politischen Gegner.
+
+- **Richtig: Abhiram gehört einer niedrigeren Kaste an.**
+
+Sein Kastenvorurteil steht der Beziehung entgegen.
+
+Der Bruder hat den jungen Abhiram nach der Vertreibung aufgenommen. Als Sita und Abhiram heiraten wollen, zieht er jedoch eine soziale Grenze. Die beiden verlassen ihn. So verbindet Ghatak die Suche nach einem neuen Zuhause mit Ausgrenzung innerhalb der eigenen Gemeinschaft.
+
+Merksatz: Zuflucht ohne gesellschaftliche Gleichheit
+
+Quellen: [1](https://en.wikipedia.org/wiki/Subarnarekha_(film)).
+
+### S2 · schwer
+
+Wie zeigt die Schlussbildfolge von „Charulata“ die Beziehung zwischen Madhabi Mukherjees Figur und ihrem Ehemann?
+
+- Sie verlassen das Haus durch zwei verschiedene Türen.
+
+- Sie reichen einander wortlos ihre Eheringe zurück.
+
+- Sie umarmen sich, während das Bild langsam ausblendet.
+
+- **Richtig: Ihre Hände nähern sich, ohne sich im angehaltenen Bild zu verbinden.**
+
+Die mögliche Versöhnung bleibt in einer ausgesparten Berührung offen.
+
+Die Bildfolge hält den Augenblick zwischen Annäherung und Verbindung fest. Charulatas Gefühle und die Enttäuschung ihres Mannes werden dadurch nicht mit einer einfachen Lösung abgeschlossen. Die Geste lässt dem Publikum die Frage, was sich in dieser Ehe noch wiederherstellen lässt.
+
+Merksatz: Hände vor der Berührung
+
+Quellen: [1](https://www.criterion.com/current/posts/2872-charulata-calm-without-fire-within).
+
+### E1 · experte
+
+Welche Fertigkeit lernte Madhabi Mukherjee eigens für „Charulata“ bei einer von Satyajit Ray organisierten Lehrkraft?
+
+- Miniaturen malen
+
+- **Richtig: Sticken**
+
+- Kalligrafieren
+
+- Sitar spielen
+
+Sie nahm Unterricht im Sticken.
+
+Mukherjee erinnerte sich, dass Ray auch unscheinbare Tätigkeiten auf die dargestellte Zeit abstimmte. Eine Stickarbeit gehört bereits zu den ersten Bildern der Figur. Die Vorbereitung gab dieser häuslichen Beschäftigung eine praktische Grundlage.
+
+Merksatz: Alltagshandwerk als Rollenvorbereitung
+
+Quellen: [1](https://indianexpress.com/article/entertainment/regional/i-dont-know-what-it-means-to-be-an-ideal-satyajit-ray-heroine-madhabi-mukherjee/).
+
+### E2 · experte
+
+Wie beschrieb Madhabi Mukherjee Satyajit Rays Anleitung ihrer Darstellung in „Charulata“?
+
+- **Richtig: Er erklärte Situation und Stimmung und ließ ihr gestalterischen Spielraum.**
+
+- Er ließ sie eine vorgespielte Gestenfolge genau kopieren.
+
+- Er entwickelte jede Szene erst durch gemeinsame Improvisation.
+
+- Er gab ihr Anweisungen erst nach der vollständigen Aufnahme.
+
+Ray erläuterte den Rahmen und vertraute ihrer Umsetzung.
+
+Im Interview unterschied Mukherjee Rays genaue Vorstellung des Films von seinem Umgang mit ihr als Schauspielerin. Er erläuterte die emotionale Lage und überließ ihr die Ausführung. Präzise Planung und Freiheit vor der Kamera konnten in dieser Zusammenarbeit nebeneinander bestehen.
+
+Merksatz: Eine klare Vorgabe mit Spielraum
+
+Quellen: [1](https://indianexpress.com/article/entertainment/regional/i-dont-know-what-it-means-to-be-an-ideal-satyajit-ray-heroine-madhabi-mukherjee/).
+
+## Smita Patil · Bekanntheitsgruppe 4
+
+![Smita Patil; Aufnahmejahr nicht belegt](https://image.tmdb.org/t/p/w185/olybUaCAWesPS9L4uQhc0lOqbIq.jpg)
+
+Bild: Historische Aufnahme; genaues Jahr nicht belegt; Auf TMDB nicht ausgewiesen. TMDB-Onlineporträt; keine freie Lizenz behauptet. [Bildquelle](https://www.themoviedb.org/person/585191), [TMDB](https://www.themoviedb.org/person/585191).
+
+### L1 · leicht
+
+Welche Fernseharbeit übte Smita Patil vor ihrem Durchbruch als Filmschauspielerin aus?
+
+- Wetterberichte präsentieren
+
+- Sportveranstaltungen kommentieren
+
+- **Richtig: Nachrichten lesen**
+
+- Kindersendungen moderieren
+
+Sie war Nachrichtensprecherin bei Doordarshan.
+
+Patil las die Marathi-Nachrichten des Senders in Bombay. Shyam Benegal wurde dort auf ihre Präsenz vor der Kamera aufmerksam. Ihre Filmkarriere begann damit aus einem anderen Bereich der Arbeit vor einer Fernsehkamera.
+
+Merksatz: Vom Nachrichtenstudio ins Kino
+
+Quellen: [1](https://www.filmfare.com/features/smita-always-felt-she-wouldnt-live-long-shyam-benegal-5889.html).
+
+### L2 · leicht
+
+Welchen Beruf hat Smita Patils Usha in „Bhumika“?
+
+- Rechtsanwältin
+
+- Lehrerin
+
+- Ärztin
+
+- **Richtig: Schauspielerin**
+
+Usha arbeitet als Schauspielerin.
+
+Die öffentliche Karriere eröffnet Usha Möglichkeiten, schützt sie aber nicht vor persönlicher Abhängigkeit. Ehemann und Liebhaber versuchen auf unterschiedliche Weise, über ihr Leben zu bestimmen. Der Film verfolgt ihre Suche nach Selbstbestimmung über mehrere Lebensphasen.
+
+Merksatz: Öffentlicher Erfolg und private Abhängigkeit
+
+Quellen: [1](https://en.wikipedia.org/wiki/Bhumika_(film)).
+
+### M1 · mittel
+
+Warum wird Smita Patils Sonbai in „Mirch Masala“ von den Männern des Subedar verfolgt?
+
+- **Richtig: Sie weist seinen sexuellen Zugriff zurück.**
+
+- Sie versteckt die Steuereinnahmen des Dorfes.
+
+- Sie befreit einen gefangenen Lehrer.
+
+- Sie verrät seinen Aufenthaltsort an Rebellen.
+
+Sonbai widersetzt sich den sexuellen Forderungen des Subedar.
+
+Der Steuereintreiber erwartet, dass sich das Dorf seinen Wünschen unterordnet. Sonbai schlägt ihn und flieht, als er sie bedrängt. Die folgende Belagerung stellt die Dorfgemeinschaft vor die Frage, ob sie die Frau schützt oder ihre Auslieferung zur eigenen Entlastung fordert.
+
+Merksatz: Eine verweigerte Unterwerfung
+
+Quellen: [1](https://www.cinemaazi.com/film/mirch-masala), [2](https://en.wikipedia.org/wiki/Mirch_Masala).
+
+### M2 · mittel
+
+Woran arbeitet Smita Patils Bindu in „Manthan“ auch nach dem Fortgang von Dr. Rao weiter?
+
+- **Richtig: An der Milchgenossenschaft**
+
+- An einer neuen Dorfschule
+
+- An einem gemeinsamen Bewässerungskanal
+
+- An einer Textilwerkstatt für das Dorf
+
+Bindu hilft, die Milchgenossenschaft weiterzuführen.
+
+Zunächst begegnet sie dem Tierarzt aus der Stadt skeptisch. Später unterstützt sie sein Vorhaben, gerät aber in ein Geflecht aus Druck und falschen Beschuldigungen. Dass die Initiative am Ende weiterlebt, liegt auch an Bindu und anderen Dorfbewohnern.
+
+Merksatz: Die Reform überlebt ihren Anstoßgeber
+
+Quellen: [1](https://cdn.festival-cannes.com/media/uploads/2024/05/173713.pdf).
+
+### S1 · schwer
+
+Warum trennt sich Smita Patils Kavita in „Arth“ schließlich von Inder?
+
+- Sie will mit ihrer Schwester einen eigenen Haushalt gründen.
+
+- Sie erfährt, dass Inder für eine neue Filmrolle bezahlt wurde.
+
+- Sie muss wegen eines langfristigen Engagements das Land verlassen.
+
+- **Richtig: Sie wird von Schuldgefühlen über die zerstörte Ehe und Unsicherheit belastet.**
+
+Die Beziehung wird durch Schuld und Unsicherheit unhaltbar.
+
+Kavita hat eine Beziehung mit dem verheirateten Inder. Auch dessen Trennung von seiner Frau beseitigt ihre Ängste nicht. Die Begegnung mit Pooja vertieft ihre Einsicht in das angerichtete Leid. Patils Figur erhält damit ein eigenes inneres Problem jenseits der Funktion als Rivalin.
+
+Merksatz: Die Geliebte ohne Sicherheit
+
+Quellen: [1](https://en.wikipedia.org/wiki/Arth_(film)).
+
+### S2 · schwer
+
+Welche berufliche Verantwortung übernimmt Smita Patils Sulabha in „Umbartha“ gegen den Widerstand ihrer Familie?
+
+- Sie leitet eine ländliche Geburtsklinik.
+
+- **Richtig: Sie leitet ein Heim zur Rehabilitation von Frauen.**
+
+- Sie verwaltet eine landwirtschaftliche Genossenschaft.
+
+- Sie übernimmt ein Mädcheninternat.
+
+Sulabha übernimmt die Leitung eines Frauenheims.
+
+Sie will gesellschaftlich tätig sein und verlässt dafür den vertrauten Familienalltag. Im Heim begegnet sie Korruption und der Ausbeutung der Bewohnerinnen. Ihre neue Verantwortung führt deshalb nicht einfach in eine bessere Welt, sondern in einen weiteren Kampf um Handlungsspielraum.
+
+Merksatz: Ein Beruf außerhalb der häuslichen Rolle
+
+Quellen: [1](https://en.wikipedia.org/wiki/Umbartha).
+
+### E1 · experte
+
+Wessen Erinnerungen bildeten die Grundlage für Smita Patils Rolle in „Bhumika“?
+
+- Durga Khote
+
+- **Richtig: Hansa Wadkar**
+
+- Devika Rani
+
+- Shanta Apte
+
+Der Film greift die Erinnerungen Hansa Wadkars auf.
+
+Die Marathi-Schauspielerin hatte ihr Leben in „Sangtye Aika“ erzählt. Benegals Film übernimmt diese Grundlage für eine fiktionale Figur und konzentriert sich auf deren wechselnde Abhängigkeiten und Suche nach einem eigenen Leben. Patil spielt damit keine bloße Abfolge bekannter Filmauftritte nach.
+
+Merksatz: Eine Schauspielerin spielt ein Schauspielerleben
+
+Quellen: [1](https://en.wikipedia.org/wiki/Bhumika_(film)).
+
+### E2 · experte
+
+Welche sprachliche Vorbereitung erhielt Smita Patil nach Shyam Benegals Erinnerung für „Manthan“?
+
+- Unterricht in klassischem Sanskrit
+
+- Training für eine besonders bühnendeutliche Aussprache
+
+- **Richtig: Coaching für eine gujaratische Sprechfärbung**
+
+- Einübung eines nordindischen Stadtdialekts
+
+Ein Dialektcoach half ihr bei der gujaratischen Tonalität.
+
+Benegal schilderte die Arbeit an der Sprache als Teil ihrer Verankerung im Dorfmilieu. Er erinnerte sich außerdem an Besucher, die Patil unter den örtlichen Frauen nicht als Hauptdarstellerin erkannten. Die Rollenwirkung entstand aus Sprechweise, Haltung und dem Umgang mit der Umgebung.
+
+Merksatz: Eine regionale Stimme erarbeiten
+
+Quellen: [1](https://www.filmfare.com/features/smita-always-felt-she-wouldnt-live-long-shyam-benegal-5889.html).
+
+## Shabana Azmi · Bekanntheitsgruppe 4
+
+![Shabana Azmi (2006)](Portraets/206.jpg)
+
+Bild: 2006; Ali,_Azmi,_Douglas,_Gil.jpg : World Economic Forum from Cologny, Switzerland derivative work: Bill william compton. CC BY-SA 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Shabana_Azmi_at_the_2006_World_Economic_Forum.jpg), [TMDB](https://www.themoviedb.org/person/85672).
+
+### L1 · leicht
+
+In wen verliebt sich Shabana Azmis Radha in „Fire“?
+
+- **Richtig: In ihre Schwägerin Sita**
+
+- In den Hausangestellten ihrer Familie
+
+- In den Lehrer aus ihrer Nachbarschaft
+
+- In den jüngeren Bruder ihres Mannes
+
+Radha und ihre Schwägerin Sita werden ein Liebespaar.
+
+Beide Frauen leben in Ehen, in denen ihre Bedürfnisse wenig zählen. Ihre Nähe entwickelt sich innerhalb des gemeinsamen Haushalts. Als die Beziehung entdeckt wird, muss Radha entscheiden, ob sie der bestehenden Ordnung weiter gehorcht.
+
+Merksatz: Liebe im gemeinsamen Haushalt
+
+Quellen: [1](https://en.wikipedia.org/wiki/Fire_(1996_film)).
+
+### L2 · leicht
+
+Was leitet Shabana Azmis Rukmini Bai in „Mandi“?
+
+- Ein Tanztheater
+
+- **Richtig: Ein Bordell**
+
+- Eine Krankenstation
+
+- Ein Mädcheninternat
+
+Rukmini Bai führt ein Bordell.
+
+Sie versucht, den Ruf ihres Hauses und den Zusammenhalt seiner Bewohnerinnen zu erhalten. Die angebliche moralische Erneuerung des Ortes verbindet sich jedoch mit handfesten Grundstücksinteressen. Azmis Figur muss immer neue Vereinbarungen mit den örtlichen Machthabern treffen.
+
+Merksatz: Geschäftsführung unter moralischem Druck
+
+Quellen: [1](https://cinemaazi.com/film/mandi).
+
+### M1 · mittel
+
+Welches Handwerk hat der Ehemann von Shabana Azmis Lakshmi in „Ankur“ gelernt?
+
+- Weben
+
+- Schreinern
+
+- **Richtig: Töpfern**
+
+- Schmieden
+
+Kishtayya ist Töpfer.
+
+Lakshmi und ihr gehörloser Mann sind arm und arbeiten für den Sohn eines Grundbesitzers. Dessen Macht über Arbeit und Alltag bestimmt auch die persönlichen Beziehungen. Als Kishtayya zeitweise fortgeht, beginnt Lakshmi eine Beziehung mit dem jungen Herrn.
+
+Merksatz: Handwerk und wirtschaftliche Abhängigkeit
+
+Quellen: [1](https://en.wikipedia.org/wiki/Ankur_(film)).
+
+### M2 · mittel
+
+Wie entscheidet sich Shabana Azmis Pooja am Ende von „Arth“ gegenüber ihrem rückkehrwilligen Ehemann?
+
+- Sie nimmt ihn unter der Bedingung eines Umzugs zurück.
+
+- Sie lässt ihre Familie über die Versöhnung entscheiden.
+
+- **Richtig: Sie lehnt die Wiederaufnahme der Ehe ab.**
+
+- Sie kehrt zunächst für eine befristete Probezeit zurück.
+
+Pooja nimmt ihren Ehemann nicht zurück.
+
+Nachdem Inder sie verlassen hat, baut Pooja ein eigenes Leben auf. Seine spätere Bitte um Versöhnung hebt diese Entwicklung nicht auf. Mahesh Bhatt hielt an dem Ende fest, obwohl Verleiher befürchteten, das Publikum werde eine solche Entscheidung ablehnen.
+
+Merksatz: Eigenständigkeit bleibt die Entscheidung
+
+Quellen: [1](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahesh-bhatt-reveals-why-arth-climax-was-called-suicidal-the-makers-wanted-the-ending-changed/amp_articleshow/130952389.cms).
+
+### S1 · schwer
+
+Welche Täuschung hält die Hoffnung von Jaminis Mutter in „Khandhar“ mit Shabana Azmi vorübergehend aufrecht?
+
+- Ein Besucher behauptet, Jaminis Bruder zu kennen.
+
+- Ein Nachbar erklärt das verfallene Haus für verkauft.
+
+- Ein Brief verspricht Geld für eine Operation.
+
+- **Richtig: Ein Fotograf gibt sich als Jaminis erwarteter Bräutigam aus.**
+
+Der Fotograf übernimmt die Rolle des erwarteten Heiratskandidaten.
+
+Jamini lebt mit ihrer alten Mutter in einem verfallenden Anwesen. Der wirklich erwartete Mann ist längst anderweitig verheiratet. Die Besucher lassen die Mutter dennoch in ihrer Hoffnung; nach ihrer Abreise bleibt Jamini zurück.
+
+Merksatz: Trost durch eine falsche Identität
+
+Quellen: [1](https://en.wikipedia.org/wiki/Khandhar).
+
+### S2 · schwer
+
+Was belastet die Verlobung von Shabana Azmis Kavita und Anirudh in „Sparsh“?
+
+- Er verlangt einen Umzug gegen ihren Willen.
+
+- **Richtig: Er fürchtet, sie wolle ihn aus Mitleid heiraten.**
+
+- Er hält ihre Freundschaft zu Manju für eine Gefahr.
+
+- Er erwartet, dass sie ihre Arbeit vollständig aufgibt.
+
+Anirudh verwechselt ihre Zuneigung mit einem Opfer aus Mitleid.
+
+Kavita findet nach dem Tod ihres Mannes eine Aufgabe an der Blindenschule. Der blinde Schulleiter legt großen Wert auf Selbstständigkeit. Seine Angst, lediglich der Gegenstand ihrer Hilfsbereitschaft zu sein, verhindert zunächst ein offenes Gespräch über ihre Gefühle.
+
+Merksatz: Zuneigung und das gefürchtete Mitleid
+
+Quellen: [1](https://en.wikipedia.org/wiki/Sparsh_(film)).
+
+### E1 · experte
+
+Wie bereitete sich Shabana Azmi nach eigener Erinnerung auf die Bordellleiterin in „Mandi“ vor?
+
+- **Richtig: Sie besuchte Bordelle in Bombay, Delhi und Hyderabad.**
+
+- Sie hospitierte bei einer Theatertruppe in Kalkutta.
+
+- Sie studierte Gerichtsakten über Grundstücksstreitigkeiten.
+
+- Sie arbeitete in einer Beratungsstelle für arbeitslose Frauen.
+
+Sie recherchierte an den tatsächlichen Arbeitsorten der Frauen.
+
+Azmi beschrieb Unterschiede in Sprache, Auftreten und Selbstverständnis zwischen den besuchten Orten. Gespräche sollten ihr Zugang zu den Lebensbedingungen hinter der Figur geben. Sie betonte zugleich, dass solche Recherche eine Verantwortung gegenüber den Menschen begründet, deren Erfahrungen man verwendet.
+
+Merksatz: Beobachten und zuhören vor der Rolle
+
+Quellen: [1](https://www.kavitachhibber.com/2006/03/18/shabana-azmi/).
+
+### E2 · experte
+
+Wer entwickelte für Shabana Azmis Darstellung einer karnatischen Sängerin in „Morning Raga“ eigens musikalische Lernmodule?
+
+- Der Regisseur Shyam Benegal
+
+- Der Komponist Ilaiyaraaja
+
+- Die Sängerin Lata Mangeshkar
+
+- **Richtig: Ihre Mitdarstellerin Ranjani Ramakrishnan**
+
+Ihre Mitdarstellerin Ranjani Ramakrishnan half ihr bei der musikalischen Vorbereitung.
+
+Azmi hielt die Sängerinnenrolle zunächst für kaum zu bewältigen. Ranjani, die im Film eine Geigerin spielt, zerlegte den Stoff in lernbare Einheiten. Für Azmi musste die musikalische Darstellung sitzen, bevor sie die emotionalen Vorgänge der Figur gestalten konnte.
+
+Merksatz: Musik als Voraussetzung der Darstellung
+
+Quellen: [1](https://www.kavitachhibber.com/2006/03/18/shabana-azmi/).
+
+## Youn Yuh-jung · Bekanntheitsgruppe 4
+
+![Youn Yuh-jung (2016)](Portraets/207.jpg)
+
+Bild: 2016; Nexon Computer Museum. CC BY 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Youn_Yuh-jung_in_December_2016.jpg), [TMDB](https://www.themoviedb.org/person/1080935).
+
+### L1 · leicht
+
+Für welchen Film erhielt Youn Yuh-jung einen Schauspiel-Oscar?
+
+- The Farewell
+
+- **Richtig: Minari**
+
+- Everything Everywhere All at Once
+
+- Parasite
+
+Sie gewann für „Minari“ den Oscar als beste Nebendarstellerin.
+
+Die Auszeichnung von 2021 galt ihrer Darstellung von Soonja. Nach einer jahrzehntelangen Laufbahn in Südkorea brachte ihr diese amerikanische Familiengeschichte eine neue internationale Aufmerksamkeit.
+
+Merksatz: Oscar für Soonja
+
+Quellen: [1](https://www.oscars.org/oscars/ceremonies/2021).
+
+### L2 · leicht
+
+Welche Rolle innerhalb der Familie hat Youn Yuh-jungs Soonja in „Minari“?
+
+- **Richtig: Großmutter**
+
+- Ältere Schwester
+
+- Tante
+
+- Stiefmutter
+
+Soonja ist die Großmutter der Kinder.
+
+Monicas Mutter reist aus Korea nach Arkansas. David findet zunächst, dass sie sich ganz anders verhält als eine erwartete Großmutter: Sie spielt Karten und sieht Wrestling. Aus anfänglicher Ablehnung wächst eine wichtige Bindung.
+
+Merksatz: Eine ungewöhnliche Großmutter
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/interviews/lee-isaac-chung-minari-faith-farming-family-ties).
+
+### M1 · mittel
+
+Welche Funktion hat Youn Yuh-jungs Byeong-sik in „The Housemaid“ von 2010 im reichen Haushalt?
+
+- Sie ist die Verwalterin des Familienunternehmens.
+
+- Sie ist die behandelnde Ärztin der Ehefrau.
+
+- Sie ist die Schwiegermutter des Hausherrn.
+
+- **Richtig: Sie ist eine langjährig dort lebende Hausangestellte.**
+
+Byeong-sik ist die erfahrene Hausangestellte.
+
+Sie kennt die Gewohnheiten und Machtverhältnisse der Familie. Die junge Eun-yi kommt als zusätzliche Hilfe ins Haus. Youn spielt damit eine Beobachterin und Beteiligte des Geschehens, deren Stellung sich deutlich von derjenigen der neu eingestellten Frau unterscheidet.
+
+Merksatz: Die ältere Angestellte im Remake
+
+Quellen: [1](https://www.koreanfilm.co.uk/films/the-housemaid-2/).
+
+### M2 · mittel
+
+Womit verdient Youn Yuh-jungs So-young in „The Bacchus Lady“ zunächst ihren Lebensunterhalt?
+
+- Mit der Pflege wohlhabender Pensionäre
+
+- Mit dem Verkauf von Medikamenten
+
+- **Richtig: Mit sexuellen Dienstleistungen für ältere Männer**
+
+- Mit dem Betrieb eines kleinen Gasthauses
+
+So-young arbeitet als Prostituierte für ältere Männer.
+
+In öffentlichen Parks bietet sie zunächst ein Energiegetränk an, das als Erkennungszeichen dient. Der Film verbindet ihre Erwerbsnot mit der Einsamkeit ihrer Kunden. Seine ältere Hauptfigur steht damit weit außerhalb eines bequem idealisierten Altersbildes.
+
+Merksatz: Erwerbsnot im Alter
+
+Quellen: [1](https://eng.koreafilm.or.kr/movie/PM_008605).
+
+### S1 · schwer
+
+Welche Art von Rolle übernimmt Youn Yuh-jung in E J-yongs „Actresses“?
+
+- Eine pensionierte Leiterin einer Schauspielschule
+
+- **Richtig: Eine fiktionalisierte Version ihrer selbst**
+
+- Eine erfundene Produzentin eines Fernsehstudios
+
+- Eine historische koreanische Bühnenlegende
+
+Sie spielt eine Variante ihrer eigenen öffentlichen Person.
+
+Sechs bekannte Schauspielerinnen treffen sich für ein Fotoshooting. Die weitgehend improvisierte Situation lässt Konkurrenz, Unsicherheit und persönliche Erfahrungen ineinandergreifen. Youn erzählte im Interview, dass sie dabei auch über ihre Scheidung sprach.
+
+Merksatz: Das eigene Starbild als Material
+
+Quellen: [1](https://editorial.rottentomatoes.com/article/the-essentials-youn-yuh-jung-breaks-down-her-freshest-and-defining-roles/).
+
+### S2 · schwer
+
+Welche Bitte älterer Kunden führt Youn Yuh-jungs So-young in „The Bacchus Lady“ über ihre bisherige Arbeit hinaus?
+
+- **Richtig: Sie soll ihnen helfen, ihr Leben zu beenden.**
+
+- Sie soll ihre verschollenen Kinder suchen.
+
+- Sie soll ihr Vermögen an die Familien zurückbringen.
+
+- Sie soll für sie eine Pflegegemeinschaft gründen.
+
+Einige Männer bitten sie um Hilfe beim Sterben.
+
+So-young begegnet Kunden, die von Krankheit und Einsamkeit gezeichnet sind. Youn beschrieb die Tötungen ihrer Figur als Handeln aus Mitgefühl, zugleich ausdrücklich nicht als Lösung des gesellschaftlichen Problems. Der Film stellt die Vernachlässigung alter Menschen zur Diskussion.
+
+Merksatz: Mitgefühl an einer moralischen Grenze
+
+Quellen: [1](https://www.koreanfilm.or.kr/eng/news/interview.jsp?blbdComCd=601019&mode=INTERVIEW_VIEW&pageRowSize=10&seq=209), [2](https://m.koreanfilm.or.kr/eng/news/news.jsp?blbdComCd=601006&mode=VIEW&pageRowSize=10&seq=4007).
+
+### E1 · experte
+
+An welche Person aus ihrem eigenen Leben dachte Youn Yuh-jung bei der Darstellung von Soonja in „Minari“ besonders?
+
+- An ihre erste Regieassistentin
+
+- An ihre Patentante
+
+- **Richtig: An ihre Urgroßmutter**
+
+- An ihre frühere Schullehrerin
+
+Die Erinnerung an ihre Urgroßmutter begleitete die Rolle.
+
+Als Kind hatte Youn deren Verhalten in der Mangelzeit nach dem Krieg missverstanden. Erst später begriff sie, wie sehr die alte Frau zugunsten der Familie verzichtet hatte. Die Darstellung wurde auch zu einer späten gedanklichen Annäherung.
+
+Merksatz: Die eigene Kindheit als Rollenquelle
+
+Quellen: [1](https://www.motionpictures.org/2021/04/yuh-jung-youn-on-creating-family-in-minari-2/).
+
+### E2 · experte
+
+Welchen Nutzen beschrieb Youn Yuh-jung beim wiederholten Lesen und Einprägen ihres Textes?
+
+- Sie trainiere dadurch vor allem Sprechtempo und Aussprache.
+
+- Sie entscheide dadurch, welche Dialogstellen gekürzt werden sollten.
+
+- Sie lege dabei für jede Szene eine feste Betonung fest.
+
+- **Richtig: Sie entdecke dabei immer neue Möglichkeiten, die Rolle zu spielen.**
+
+Mit jeder Wiederholung findet sie weitere Darstellungsmöglichkeiten.
+
+Youn begann diese intensive Vorbereitung aus dem Gefühl, anderen Schauspielern an Ausbildung nachzustehen. Daraus entwickelte sich eine dauerhafte Arbeitsweise. Das sichere Beherrschen des Textes eröffnete ihr Varianten der Figur und machte die Darstellung beweglicher.
+
+Merksatz: Wiederholung schafft Möglichkeiten
+
+Quellen: [1](https://www.motionpictures.org/2021/04/yuh-jung-youn-on-creating-family-in-minari-2/).
+
+## Leila Hatami · Bekanntheitsgruppe 4
+
+![Leila Hatami (2011)](Portraets/208.jpg)
+
+Bild: 2011; Georges Biard. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Leila_Hatami_Deauville_2011.jpg), [TMDB](https://www.themoviedb.org/person/240240).
+
+### L1 · leicht
+
+Was möchte Leila Hatamis Simin zu Beginn von „Nader und Simin – Eine Trennung“ gemeinsam mit ihrer Familie tun?
+
+- Zu Naders Eltern ziehen
+
+- Ein eigenes Geschäft eröffnen
+
+- **Richtig: Den Iran verlassen**
+
+- In ein größeres Haus ziehen
+
+Simin möchte mit Mann und Tochter auswandern.
+
+Nader will seinen an Alzheimer erkrankten Vater nicht zurücklassen. Aus dem zunächst privaten Streit über die Zukunft der Familie entsteht eine Trennung, die weitere Entscheidungen und Konflikte nach sich zieht.
+
+Merksatz: Zwei Vorstellungen von Verantwortung
+
+Quellen: [1](https://www.sonyclassics.com/aseparation/aseparation_presskit.pdf).
+
+### L2 · leicht
+
+Welche Nachricht belastet Leila Hatamis Titelfigur im Film „Leila“ kurz nach ihrer Heirat?
+
+- Ihre Familie muss das Land verlassen.
+
+- Ihr Mann hat eine frühere Ehe verschwiegen.
+
+- **Richtig: Sie kann keine Kinder bekommen.**
+
+- Ihr Mann verliert seinen Arbeitsplatz.
+
+Leila erfährt, dass sie keine Kinder bekommen kann.
+
+Reza kann sich ein gemeinsames Leben ohne Kinder vorstellen. Seine Mutter drängt dagegen darauf, dass er eine weitere Frau heiratet. Die Erwartungen des Familienumfelds machen aus einer medizinischen Nachricht eine schwere persönliche und eheliche Krise.
+
+Merksatz: Kinderwunsch als familiärer Druck
+
+Quellen: [1](https://iffr.com/en/iffr/1998/films/leila).
+
+### M1 · mittel
+
+Welche Aufgabe übernimmt Leila Hatamis Mahtab in „The Deserted Station“, während ihr Mann Hilfe für das defekte Auto sucht?
+
+- Sie vertritt den Vorsteher des Bahnhofs.
+
+- **Richtig: Sie betreut den Unterricht der Dorfkinder.**
+
+- Sie versorgt die Verletzten einer Unfallstelle.
+
+- Sie überwacht die Arbeit an einem Brunnen.
+
+Mahtab springt für den Lehrer des Dorfes ein.
+
+Der Lehrer hilft ihrem Mann bei der Reparatur. Im Gegenzug übernimmt Mahtab seine Klasse. Das erzwungene Warten wird für die kinderlose Frau zu einer Begegnung mit den Kindern und ihrem abgelegenen Lebensumfeld.
+
+Merksatz: Die Panne führt in eine Schulklasse
+
+Quellen: [1](https://en.ifilmtv.ir/News/Content/38321/), [2](https://www.firstrunfeatures.com/desertedstation.html).
+
+### M2 · mittel
+
+Welche Bedingung stellt Leila Hatamis Figur ihrem Verlobten in „Meeting Leila“ vor der Hochzeit?
+
+- Er soll aus Teheran wegziehen.
+
+- Er soll sein Auto verkaufen.
+
+- Er soll seinen Beruf wechseln.
+
+- **Richtig: Er soll das Rauchen aufgeben.**
+
+Er soll vor der Heirat mit dem Rauchen aufhören.
+
+Leila arbeitet mit Gerüchen und erträgt den Tabakgestank nicht. Ihr Verlobter verbindet dagegen seine Arbeit als Werbetexter mit dem ständigen Rauchen. Aus dem scheinbar überschaubaren Versprechen entwickelt sich eine Komödie über Gewohnheiten und Kompromisse.
+
+Merksatz: Ein Versprechen gegen die Gewohnheit
+
+Quellen: [1](https://www.screendaily.com/meeting-leila/5047953.article).
+
+### S1 · schwer
+
+Wodurch scheitert die Aufnahme einer dramatischen Szene für Leila Hatamis Schauspielerin in „The Last Step“?
+
+- Sie verweigert den vorgesehenen Kuss.
+
+- **Richtig: Sie bricht in Lachen aus.**
+
+- Sie erkennt einen Statisten aus ihrer Kindheit.
+
+- Sie verändert fortwährend ihren Text.
+
+Die Schauspielerin kann ihr Lachen nicht beherrschen.
+
+Das unangemessene Lachen steht im Zusammenhang mit dem kürzlichen Tod ihres Mannes. Seine Stimme begleitet den Film dennoch als unzuverlässiger Erzähler. Der Bruch zwischen erwarteter Trauer und tatsächlichem Verhalten gehört zur eigenwilligen Erzählweise der Ehegeschichte.
+
+Merksatz: Lachen im Moment der Trauer
+
+Quellen: [1](https://www.kviff.com/en/programme/film/25/6901-the-last-step).
+
+### S2 · schwer
+
+Worauf reagierten Leila Hatami und die anderen Schauspielerinnen bei den Aufnahmen zu „Shirin“ tatsächlich?
+
+- **Richtig: Auf eine leere Fläche und wechselndes Licht**
+
+- Auf eine fertige Verfilmung des persischen Gedichts
+
+- Auf einen fortlaufend eingespielten Radiotext
+
+- Auf eine live gespielte Szene hinter der Kamera
+
+Die vermeintliche Filmvorführung wurde erst durch die Gestaltung des fertigen Films hergestellt.
+
+Kiarostami zeigt Gesichter von Zuschauerinnen und lässt dazu die Liebesgeschichte auf der Tonspur entstehen. Während der Aufnahme gab es den scheinbar betrachteten Film nicht vor ihren Augen. Das Publikum verbindet daher zwei getrennt hergestellte Ebenen zu einem Kinoerlebnis.
+
+Merksatz: Ein Publikum spielt das Zuschauen
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-great-films-about-cinemagoing).
+
+### E1 · experte
+
+Welche zusätzlichen Aufgaben übernahm Leila Hatami nach eigener Aussage bei den knapp finanzierten Filmen ihres Mannes Ali Mosaffa?
+
+- **Richtig: Künstlerische Leitung und Ausstattung**
+
+- Drehbuchübersetzung und Untertitelung
+
+- Aufnahmeleitung und Drehortsuche
+
+- Montage und Tonmischung
+
+Sie arbeitete auch an künstlerischer Leitung und Ausstattung mit.
+
+Hatami erklärte in Cannes, dass das geringe Budget die Produktion zu einer Arbeit im Familienkreis machte. Auch Mutter und Schwiegermutter waren beteiligt. Die Zusammenarbeit ergab sich damit aus konkreten Herstellungsbedingungen und war keine allgemeine Regel ihrer Rollenwahl.
+
+Merksatz: Mehrere Aufgaben in einer kleinen Produktion
+
+Quellen: [1](https://www.festival-cannes.com/en/2014/interview-leila-hatami-when-an-actor-makes-a-film-without-any-artifice-there-is-less-room-for-error/).
+
+### E2 · experte
+
+Wann erarbeiteten Leila Hatami und das Ensemble von „Nader und Simin – Eine Trennung“ nach Farhadis Beschreibung die wesentlichen Darstellungsentscheidungen?
+
+- In getrennten Einzelaufnahmen am Drehort
+
+- Während täglicher improvisierter Kameratests
+
+- Erst nach den ersten Schnittfassungen
+
+- **Richtig: In ausführlichen Proben vor dem Dreh**
+
+Die wesentlichen Entscheidungen entstanden in der Probenphase.
+
+Farhadi arbeitete mit einem detaillierten Drehbuch und passte seine Anleitung an die jeweiligen Darsteller an. Während der Proben waren Vorschläge und Diskussionen möglich. Beim eigentlichen Dreh konnte sich das Ensemble dann auf Feinheiten konzentrieren.
+
+Merksatz: Vorbereitung vor der Kameraarbeit
+
+Quellen: [1](https://www.sonyclassics.com/aseparation/aseparation_presskit.pdf).

@@ -1,6 +1,6 @@
 # Vier Bekanntheitsgruppen in allen Fragenbereichen
 
-Stand: 13.10.2026. Auf [Nutzerauftrag](../../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerauftrag%20Bekanntheitsgruppen.txt) redaktionell vorbereitet. Die Einordnung des bisherigen Bestands ist lokal gespeichert; Auswahl, Oberfläche und serverseitige Freischaltungen der App sind noch nicht umgestellt. Anschließend begann der beauftragte Ausbau: [200 zusätzliche Personen, 1.600 geprüfte Fragen und geprüfte Porträts](../Schauspieler-Bekanntheit-2026-10-13/Plan.md) redaktionell fertig, noch nicht installiert. Die Bestandszahlen dieser Seite beziehen sich weiterhin auf die bisherigen 220 Personen.
+Stand: 13.10.2026. Auf [Nutzerauftrag](../../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerauftrag%20Bekanntheitsgruppen.txt) redaktionell vorbereitet. Die Einordnung des bisherigen Bestands ist lokal gespeichert; Auswahl, Oberfläche und serverseitige Freischaltungen der App sind noch nicht umgestellt. Anschließend begann der beauftragte Ausbau: [208 zusätzliche Personen, 1.664 geprüfte Fragen und geprüfte Porträts](../Schauspieler-Bekanntheit-2026-10-13/Plan.md) redaktionell fertig, noch nicht installiert. Die Bestandszahlen dieser Seite beziehen sich weiterhin auf die bisherigen 220 Personen.
 
 ## Gemeinsamer Maßstab
 
@@ -37,9 +37,9 @@ Preisfragen übernehmen die vorhandene Gruppe der betreffenden Filmfassung aus `
 
 Zuerst sinnvoll einteilen, anschließend unterbesetzte Gruppen durch geeignete neue Personen ergänzen. Keine Viertelquote durch Verschieben der bestehenden Einordnung und keine Füllfragen, um Mengen zu erreichen. Künstlerische Vielfalt, interessante belegbare Frageziele und die Bekanntheitsgruppe entscheiden gemeinsam über Kandidaten.
 
-Ein vollständiger Ausgleich auf die aktuell größte Gruppe mit **107 Personen pro Gruppe** würde folgende Ergänzungen benötigen:
+Für den vollständigen Ausgleich auf **107 Personen pro Gruppe** wurden folgende Ergänzungen redaktionell abgenommen:
 
-| Gruppe | Neue Personen bis 107 |
+| Gruppe | Fertige neue Personen |
 | --- | ---: |
 | 1 | 24 |
 | 2 | 0 |
@@ -47,13 +47,13 @@ Ein vollständiger Ausgleich auf die aktuell größte Gruppe mit **107 Personen 
 | 4 | 102 |
 | Gesamt | 208 |
 
-Das ist eine Umfangsberechnung, keine bereits erstellte Personenliste oder fertige Fragenerweiterung. Beim bestehenden Standard von zwei unabhängigen Zielen je Schwierigkeit wären für 208 neue Personen mindestens **1.664 Personenfragen** zu entwickeln und gegen vorhandene Film-/Preisziele abzugleichen. Teilweise können gemeinsame Wissensziele als Varianten wiederverwendet werden; neue Personen bedeuten nicht automatisch ebenso viele neue Lernfakten.
+Die vollständige Erweiterung umfasst **1.664 Personenfragen**, je Person zwei unabhängige Ziele pro Schwierigkeit, gegen vorhandene Film-/Preisziele abgeglichen. 105 Fragen verwenden bestätigte Bestandsziele als Varianten; 1.559 neue Ziele wurden ergänzt. Neue Personen bedeuten deshalb nicht automatisch ebenso viele neue Lernfakten.
 
-Der Ausbau sollte in überschaubaren redaktionellen Paketen beginnen, vorrangig in Gruppen 3 und 4. Der bestehende Bestand enthält 25 Personen mit ausschließlich einer Bilderkennungsfrage. Dieser ausdrücklich beauftragte frühere Erkennungsumfang erzeugt keine nachträgliche automatische Acht-Fragen-Pflicht. Deshalb bedeuten gleich große Personengruppen nur annähernd gleich große Fragenpools; Fragen- und Zielzahlen bleiben zusätzlich sichtbar. Neue vollständige Personenpakete folgen dem aktuellen [Redaktionsvertrag](../Fragenredaktion.md#schauspielerfragen).
+Der Ausbau erfolgte in zehn redaktionellen Paketen mit gezielten Ergänzungen in den Gruppen 1, 3 und 4. Der bestehende Bestand enthält 25 Personen mit ausschließlich einer Bilderkennungsfrage. Dieser ausdrücklich beauftragte frühere Erkennungsumfang erzeugt keine nachträgliche automatische Acht-Fragen-Pflicht. Deshalb bedeuten gleich große Personengruppen nur annähernd gleich große Fragenpools; Fragen- und Zielzahlen bleiben zusätzlich sichtbar. Neue vollständige Personenpakete folgen dem aktuellen [Redaktionsvertrag](../Fragenredaktion.md#schauspielerfragen).
 
 ## App-Integration als nächster eigener Schritt
 
-200 zusätzliche Personen/1.600 Fragen redaktionell abgeschlossen. Nach Einbau wäre die Personenverteilung 107/107/107/99; bis zum vollständigen Ausgleich fehlen nur noch 8 Personen in Gruppe 4. [Fragen und laufender Ausbau](../Schauspieler-Bekanntheit-2026-10-13/Plan.md).
+208 zusätzliche Personen/1.664 Fragen redaktionell abgeschlossen. Damit sind alle vier Gruppen auf jeweils 107 Personen vorbereitet, zusammen 428 Personen und 3.424 Schauspielerfragen. Der beauftragte redaktionelle Ausgleich ist vollständig; die gemeinsame lokale App-Integration bleibt offen. [Fragen und abgeschlossener Ausbau](../Schauspieler-Bekanntheit-2026-10-13/Plan.md).
 
 Aktuell begrenzen Filmgruppen ausschließlich Filmfragen; Schauspieler und Preisträger umgehen diesen Filter und haben keine entsprechenden Gruppenfreischaltungen. Für die gewünschte Einheitlichkeit sind Gruppenfilter, serverseitige Auswahl, Freischaltung und sichtbare Fortschritte gemeinsam anzupassen. Allein das Speichern dieser Zuordnungen ändert die Fragenauswahl noch nicht. Das analoge 50-Prozent-Prinzip ist ein naheliegender Vorschlag; die konkrete Regel ist noch nicht implementiert.
 

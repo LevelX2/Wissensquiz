@@ -232,7 +232,8 @@ try {
         allFilms.set(ref, {
           filmId: ref,
           origin: existing ? "Bestand" : "Ergänzung",
-          ...(existing ?? added),
+          // Explicitly researched metadata takes precedence in this handoff.
+          ...(added ?? existing),
         });
       }
       rows.push({

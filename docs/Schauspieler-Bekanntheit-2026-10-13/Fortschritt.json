@@ -208,7 +208,15 @@
     "ACTOR-BG-20261013-197",
     "ACTOR-BG-20261013-198",
     "ACTOR-BG-20261013-199",
-    "ACTOR-BG-20261013-200"
+    "ACTOR-BG-20261013-200",
+    "ACTOR-BG-20261013-201",
+    "ACTOR-BG-20261013-202",
+    "ACTOR-BG-20261013-203",
+    "ACTOR-BG-20261013-204",
+    "ACTOR-BG-20261013-205",
+    "ACTOR-BG-20261013-206",
+    "ACTOR-BG-20261013-207",
+    "ACTOR-BG-20261013-208"
   ],
   "blocks": [
     {
@@ -1512,7 +1520,7 @@
     },
     {
       "block": 10,
-      "status": "Recherche und Redaktion",
+      "status": "Redaktion und App-Parser-Prüfung abgeschlossen; nicht installiert",
       "plannedQuestions": 64,
       "persons": [
         {
@@ -1563,18 +1571,24 @@
           "name": "Leila Hatami",
           "level": 4
         }
-      ]
+      ],
+      "questions": 64,
+      "existingVariants": 2,
+      "newGoals": 62,
+      "portraits": 8
     }
   ],
-  "remainingPersons": 8,
+  "remainingPersons": 0,
   "remainingByGroup": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 8
+    "4": 0
   },
   "appIntegration": "ausstehend",
   "publication": "nicht beauftragt",
   "continuousCommission": "Bis vollständigem Ausgleich weiterarbeiten; abgeschlossene Blöcke lokal committen",
-  "validatedThroughEntry": 200
+  "validatedThroughEntry": 208,
+  "editorialStatus": "vollständig abgenommen",
+  "completedOn": "2026-10-13"
 }

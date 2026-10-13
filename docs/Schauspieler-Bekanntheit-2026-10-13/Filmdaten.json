@@ -18060,29 +18060,28 @@
     {
       "filmId": "Life of Pi|2012",
       "origin": "Bestand",
-      "originalTitle": "Life of Pi",
-      "year": 2012,
-      "directors": "Ang Lee",
-      "countries": [
+      "film_id": "Life of Pi|2012",
+      "title": "Life of Pi: Schiffbruch mit Tiger",
+      "original_title": "Life of Pi",
+      "first_release_year": 2012,
+      "directors": [
+        "Ang Lee"
+      ],
+      "production_countries": [
         "USA",
+        "Taiwan",
         "Vereinigtes Königreich",
-        "Taiwan"
+        "Kanada"
       ],
-      "countryNote": "",
+      "source_urls": [
+        "https://www.bfi.org.uk/film/bc5950f5-cb45-538d-b989-020c7ddf3410/life-of-pi"
+      ],
       "series": null,
-      "releaseNote": "Life of Pi wurde 2012 beim New York Film Festival gezeigt und im November regulär veröffentlicht. Yann Martels Roman war zuvor erschienen. Ang Lees späterer Regie-Oscar gehört zur Preisverleihung 2013 und nicht zum ersten Filmstart.",
-      "directorNote": "",
-      "directorContext": "Ang Lee drehte unter anderem Sense and Sensibility, Crouching Tiger, Hidden Dragon und Brokeback Mountain. Seine sehr unterschiedlichen Genres verbindet häufig ein genauer Blick auf unausgesprochene Gefühle. Technische Experimente stehen in seiner Filmografie neben intimen familiären und gesellschaftlichen Konflikten. Pi Patel wird als Jugendlicher von Suraj Sharma und als Erwachsener von Irrfan Khan gespielt.",
-      "directorSources": [
-        "https://en.wikipedia.org/wiki/Life_of_Pi_(film)",
-        "https://de.wikipedia.org/wiki/Life_of_Pi%3A_Schiffbruch_mit_Tiger",
-        "https://en.wikipedia.org/wiki/Ang_Lee"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Life_of_Pi_(film)",
-        "https://de.wikipedia.org/wiki/Life_of_Pi%3A_Schiffbruch_mit_Tiger",
-        "https://en.wikipedia.org/wiki/Ang_Lee"
-      ]
+      "release_note": "",
+      "director_note": "",
+      "country_note": "Die vier Produktionsländer folgen dem BFI-Katalog; andere Kataloge führen kürzere Länderlisten.",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
     },
     {
       "filmId": "The Lunchbox|2013",
@@ -19240,31 +19239,27 @@
     {
       "filmId": "Kung Fu|2004",
       "origin": "Bestand",
-      "originalTitle": "Kung Fu",
-      "year": 2004,
-      "directors": "Stephen Chow",
-      "countries": [
+      "film_id": "Kung Fu|2004",
+      "title": "Kung Fu Hustle",
+      "original_title": "Kung Fu",
+      "first_release_year": 2004,
+      "directors": [
+        "Stephen Chow"
+      ],
+      "production_countries": [
+        "Hongkong",
         "China"
       ],
-      "countryNote": "Die zusätzlich geprüfte deutsche Filmquelle nennt: Volksrepublik China, Hongkong.",
-      "series": null,
-      "releaseNote": "Kung Fu Hustle wurde 2004 in Toronto vorgestellt und im Dezember in Hongkong veröffentlicht. Chow hatte zuvor Shaolin Soccer gedreht. Die beiden Filme verbinden fantastische Körperfähigkeiten mit Komik, verwenden aber verschiedene Welten und keine durchgehende Fortsetzungshandlung.",
-      "directorNote": "",
-      "directorContext": "Chow ist Schauspieler, Autor und Regisseur und drehte unter anderem Shaolin Soccer sowie Kung Fu Hustle. Sein Stil verbindet Hongkonger Sprachkomik, Slapstick und bewusst unrealistische körperliche Fähigkeiten. Die Filme spielen mit vertrauten Kampfkunstbildern, statt realistische Trainingsanleitungen zu liefern. Sing (Stephen Chow) möchte zur Axe Gang gehören, besitzt zunächst aber wenig tatsächliches Können.",
-      "directorSources": [
-        "https://en.wikipedia.org/wiki/Kung_Fu_Hustle",
-        "https://de.wikipedia.org/wiki/Kung_Fu_Hustle",
-        "https://en.wikipedia.org/wiki/Yuen_Qiu",
-        "https://s3.amazonaws.com/cdn.filmtrackonline.com/mongrelmedia/starcm_vault_root/images%2Ffiles%2Fb9%2Fb99a9d01-f67e-47c3-9bb6-762f3c4d4be6.pdf",
-        "https://en.wikipedia.org/wiki/Stephen_Chow"
+      "source_urls": [
+        "https://www.sonypictures.com/movies/kungfuhustle",
+        "https://www.filmlinc.org/films/kung-fu-hustle/"
       ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Kung_Fu_Hustle",
-        "https://de.wikipedia.org/wiki/Kung_Fu_Hustle",
-        "https://en.wikipedia.org/wiki/Yuen_Qiu",
-        "https://s3.amazonaws.com/cdn.filmtrackonline.com/mongrelmedia/starcm_vault_root/images%2Ffiles%2Fb9%2Fb99a9d01-f67e-47c3-9bb6-762f3c4d4be6.pdf",
-        "https://en.wikipedia.org/wiki/Stephen_Chow"
-      ]
+      "series": null,
+      "release_note": "Originalfilm von 2004; US-Kinostart 2005.",
+      "director_note": "",
+      "country_note": "Film at Lincoln Center führt Hongkong und China; die Mitwirkung von Columbia Pictures Film Production Asia wird nicht automatisch als weiteres Produktionsland gewertet.",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
     },
     {
       "filmId": "Hei kek ji wong|1999",
@@ -23357,33 +23352,26 @@
     {
       "filmId": "Dune|1984",
       "origin": "Bestand",
-      "originalTitle": "Dune",
-      "year": 1984,
-      "directors": "David Lynch",
-      "countries": [
+      "film_id": "Dune|1984",
+      "title": "Der Wüstenplanet",
+      "original_title": "Dune",
+      "first_release_year": 1984,
+      "directors": [
+        "David Lynch"
+      ],
+      "production_countries": [
         "USA"
       ],
-      "countryNote": "",
-      "series": {
-        "name": "Dune",
-        "position": null,
-        "note": "Diese Lynch-Adaption ist von den späteren Villeneuve-Filmen zu trennen; keine gemeinsame Fortsetzungskontinuität."
-      },
-      "releaseNote": "Die Fassung mit Kyle MacLachlan als Paul Atreides erschien 1984. Lynch hatte zuvor The Elephant Man gedreht; Blue Velvet folgte danach. Dune steht damit zwischen zwei sehr unterschiedlichen Arbeiten und war eine ungewöhnlich große Studioadaption innerhalb seiner Laufbahn.",
-      "directorNote": "",
-      "directorContext": "Lynch drehte Eraserhead, Blue Velvet und Mulholland Drive und entwickelte mit Mark Frost Twin Peaks. Traumlogik, irritierende Geräusche und die fremdartige Seite vertrauter Räume prägen viele seiner Arbeiten. Dune war eine ungewöhnlich große Studioadaption innerhalb dieser Filmografie und brachte erhebliche Konflikte um die Endfassung mit sich. Die Wüste ist hier ein politisches Machtzentrum: Wer die Spice-Förderung beherrscht, kontrolliert eine Voraussetzung der interstellaren Raumfahrt.",
-      "directorSources": [
-        "https://en.wikipedia.org/wiki/Dune_(1984_film)",
-        "https://de.wikipedia.org/wiki/Der_W%C3%BCstenplanet_%28Film%29",
-        "https://en.wikipedia.org/wiki/Kyle_MacLachlan",
-        "https://en.wikipedia.org/wiki/David_Lynch"
+      "source_urls": [
+        "https://catalog.afi.com/Catalog/moviedetails/67647",
+        "https://www.universalpicturesathome.com/movies/dune"
       ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Dune_(1984_film)",
-        "https://de.wikipedia.org/wiki/Der_W%C3%BCstenplanet_%28Film%29",
-        "https://en.wikipedia.org/wiki/Kyle_MacLachlan",
-        "https://en.wikipedia.org/wiki/David_Lynch"
-      ]
+      "series": null,
+      "release_note": "Premiere in Washington am 3. Dezember 1984, regulärer US-Start am 14. Dezember 1984.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
     },
     {
       "filmId": "Anna|1951",
@@ -25284,6 +25272,817 @@
       "release_note": "1998 nach Criterion und Originalverleihmaterial; spätere nationale Kinostarts ändern dieses Jahr nicht.",
       "director_note": "Regiecredit nach der angegebenen Filmquelle.",
       "country_note": "Produktionsländer nach den angegebenen Filmquellen; Handlung und Drehorte wurden nicht als Produktionsland übernommen.",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Akai tenshi|1966",
+      "origin": "Ergänzung",
+      "film_id": "Akai tenshi|1966",
+      "title": "Red Angel",
+      "original_title": "Akai tenshi",
+      "first_release_year": 1966,
+      "directors": [
+        "Yasuzō Masumura"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "source_urls": [
+        "https://www.arrowfilms.com/p/red-angel-blu-ray/13441461/"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Irezumi|1966",
+      "origin": "Ergänzung",
+      "film_id": "Irezumi|1966",
+      "title": "Irezumi",
+      "original_title": "Irezumi",
+      "first_release_year": 1966,
+      "directors": [
+        "Yasuzō Masumura"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "source_urls": [
+        "https://www.arrowfilms.com/p/irezumi-blu-ray/12953269/",
+        "https://www.cinematheque.qc.ca/en/cinema/irezumi/"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Tsuma wa kokuhaku suru|1961",
+      "origin": "Ergänzung",
+      "film_id": "Tsuma wa kokuhaku suru|1961",
+      "title": "A Wife Confesses",
+      "original_title": "Tsuma wa kokuhaku suru",
+      "first_release_year": 1961,
+      "directors": [
+        "Yasuzō Masumura"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "source_urls": [
+        "https://www.independentcinemaoffice.org.uk/films/a-wife-confesses/",
+        "https://en.wikipedia.org/wiki/A_Wife_Confesses"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Gion bayashi|1953",
+      "origin": "Ergänzung",
+      "film_id": "Gion bayashi|1953",
+      "title": "A Geisha",
+      "original_title": "Gion bayashi",
+      "first_release_year": 1953,
+      "directors": [
+        "Kenji Mizoguchi"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/A_Geisha"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Seisaku no tsuma|1965",
+      "origin": "Ergänzung",
+      "film_id": "Seisaku no tsuma|1965",
+      "title": "Seisaku’s Wife",
+      "original_title": "Seisaku no tsuma",
+      "first_release_year": 1965,
+      "directors": [
+        "Yasuzō Masumura"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "source_urls": [
+        "https://globalcinema.kadokawa.co.jp/library/entry-3342.html",
+        "https://db.nipponconnection.com/en/film/209/saisaku-s-wife"
+      ],
+      "series": null,
+      "release_note": "Die Fassung von 1965, nicht die gleichnamige Verfilmung von 1924.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Karakkaze yarō|1960",
+      "origin": "Ergänzung",
+      "film_id": "Karakkaze yarō|1960",
+      "title": "Afraid to Die",
+      "original_title": "Karakkaze yarō",
+      "first_release_year": 1960,
+      "directors": [
+        "Yasuzō Masumura"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Afraid_to_Die"
+      ],
+      "series": null,
+      "release_note": "Japanischer Kinostart 23. März 1960.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Shurayukihime|1973",
+      "origin": "Bestand",
+      "originalTitle": "Shurayukihime",
+      "year": 1973,
+      "directors": "Toshiya Fujita",
+      "countries": [
+        "Japan"
+      ],
+      "countryNote": "",
+      "series": null,
+      "releaseNote": "Japanischer Kinostart am 1. Dezember 1973.",
+      "directorNote": "",
+      "directorContext": "",
+      "directorSources": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lady_Snowblood_(film)",
+        "https://www.rottentomatoes.com/m/lady_snowblood"
+      ]
+    },
+    {
+      "filmId": "Ginchō wataridori|1972",
+      "origin": "Ergänzung",
+      "film_id": "Ginchō wataridori|1972",
+      "title": "Wandering Ginza Butterfly",
+      "original_title": "Ginchō wataridori",
+      "first_release_year": 1972,
+      "directors": [
+        "Kazuhiko Yamaguchi"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "source_urls": [
+        "https://japansociety.org/events/wandering-ginza-butterfly/",
+        "https://en.wikipedia.org/wiki/Wandering_Ginza_Butterfly"
+      ],
+      "series": {
+        "name": "Wandering Ginza Butterfly",
+        "position": 1,
+        "note": "Erster von zwei Filmen."
+      },
+      "release_note": "Das Japan-Society-Programm von 2026 bezeichnet die neue Restaurierung als Weltpremiere; Erstveröffentlichung des Films 1972.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Kaidan nobori ryū|1970",
+      "origin": "Ergänzung",
+      "film_id": "Kaidan nobori ryū|1970",
+      "title": "Blind Woman’s Curse",
+      "original_title": "Kaidan nobori ryū",
+      "first_release_year": 1970,
+      "directors": [
+        "Teruo Ishii"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "source_urls": [
+        "https://japansociety.org/events/blind-womans-curse/",
+        "https://en.wikipedia.org/wiki/Blind_Woman%27s_Curse"
+      ],
+      "series": {
+        "name": "Rising Dragon",
+        "position": 3,
+        "note": "Dritter Film; neue Hauptfigur und Hauptdarstellerin gegenüber den vorangehenden Filmen."
+      },
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Nora-neko rokku: Sekkusu hantā|1970",
+      "origin": "Ergänzung",
+      "film_id": "Nora-neko rokku: Sekkusu hantā|1970",
+      "title": "Stray Cat Rock: Sex Hunter",
+      "original_title": "Nora-neko rokku: Sekkusu hantā",
+      "first_release_year": 1970,
+      "directors": [
+        "Yasuharu Hasebe"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "source_urls": [
+        "https://japansociety.org/events/stray-cat-rock-sex-hunter/",
+        "https://en.wikipedia.org/wiki/Stray_Cat_Rock:_Sex_Hunter"
+      ],
+      "series": {
+        "name": "Stray Cat Rock",
+        "position": 3,
+        "note": "Dritter Film der Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Joshū 701-gō: Sasori|1972",
+      "origin": "Ergänzung",
+      "film_id": "Joshū 701-gō: Sasori|1972",
+      "title": "Female Prisoner #701: Scorpion",
+      "original_title": "Joshū 701-gō: Sasori",
+      "first_release_year": 1972,
+      "directors": [
+        "Shunya Itō"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Female_Prisoner_701:_Scorpion"
+      ],
+      "series": {
+        "name": "Female Prisoner Scorpion",
+        "position": 1,
+        "note": "Auftakt der Filmreihe mit Meiko Kaji."
+      },
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Mahanagar|1963",
+      "origin": "Ergänzung",
+      "film_id": "Mahanagar|1963",
+      "title": "Die große Stadt",
+      "original_title": "Mahanagar",
+      "first_release_year": 1963,
+      "directors": [
+        "Satyajit Ray"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://www.criterion.com/films/28448-the-big-city"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Kapurush|1965",
+      "origin": "Ergänzung",
+      "film_id": "Kapurush|1965",
+      "title": "The Coward",
+      "original_title": "Kapurush",
+      "first_release_year": 1965,
+      "directors": [
+        "Satyajit Ray"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://www.criterion.com/current/posts/6635-the-silent-gaze-in-satyajit-ray-s-almost-love-story",
+        "https://www.criterion.com/films/28448-the-big-city"
+      ],
+      "series": null,
+      "release_note": "1965 in Indien zusammen mit Mahapurush als Doppelprogramm ausgewertet; eigenständiger Kurz-Langfilm.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Subarnarekha|1965",
+      "origin": "Ergänzung",
+      "film_id": "Subarnarekha|1965",
+      "title": "Subarnarekha",
+      "original_title": "Subarnarekha",
+      "first_release_year": 1965,
+      "directors": [
+        "Ritwik Ghatak"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://www.bfi.org.uk/film/46e8e155-a119-51bb-bab0-50eb0bfe4360/subarnarekha",
+        "https://en.wikipedia.org/wiki/Subarnarekha_(film)"
+      ],
+      "series": null,
+      "release_note": "1962 hergestellt, Veröffentlichung 1965. Unterschiedliche Werkdatierungen, darunter 1963 im aktuellen BFI-Spielplan, sind nicht als frühere belegte Auswertung übernommen.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Bhumika|1977",
+      "origin": "Ergänzung",
+      "film_id": "Bhumika|1977",
+      "title": "Bhumika",
+      "original_title": "Bhumika",
+      "first_release_year": 1977,
+      "directors": [
+        "Shyam Benegal"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Bhumika_(film)"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Mirch Masala|1987",
+      "origin": "Ergänzung",
+      "film_id": "Mirch Masala|1987",
+      "title": "Mirch Masala",
+      "original_title": "Mirch Masala",
+      "first_release_year": 1987,
+      "directors": [
+        "Ketan Mehta"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://www.cinemaazi.com/film/mirch-masala",
+        "https://www.imdb.com/title/tt0089599/releaseinfo/",
+        "https://en.wikipedia.org/wiki/Mirch_Masala"
+      ],
+      "series": null,
+      "release_note": "1987 ist das belegte reguläre Veröffentlichungsjahr (Indien: 13. Februar). Werk-/Produktionsangaben 1985 oder 1986 und das Zensurdatum 29. Mai 1986 belegen für sich keine öffentliche Erstaufführung. Eine mögliche frühere Festivalauswertung ist nicht abschließend geklärt; 1987 daher nicht als zweifelsfrei frühestes weltweites Jahr behauptet.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Manthan|1976",
+      "origin": "Ergänzung",
+      "film_id": "Manthan|1976",
+      "title": "Manthan",
+      "original_title": "Manthan",
+      "first_release_year": 1976,
+      "directors": [
+        "Shyam Benegal"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://cdn.festival-cannes.com/media/uploads/2024/05/173713.pdf"
+      ],
+      "series": null,
+      "release_note": "Original 1976; die Cannes-Vorführung 2024 betrifft die neue Restaurierung.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Arth|1982",
+      "origin": "Ergänzung",
+      "film_id": "Arth|1982",
+      "title": "Arth",
+      "original_title": "Arth",
+      "first_release_year": 1982,
+      "directors": [
+        "Mahesh Bhatt"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Arth_(film)"
+      ],
+      "series": null,
+      "release_note": "Indischer Kinostart 3. Dezember 1982.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Umbartha|1982",
+      "origin": "Ergänzung",
+      "film_id": "Umbartha|1982",
+      "title": "Umbartha",
+      "original_title": "Umbartha",
+      "first_release_year": 1982,
+      "directors": [
+        "Jabbar Patel"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Umbartha"
+      ],
+      "series": null,
+      "release_note": "Marathi-Fassung; parallel entstand die Hindi-Fassung Subah mit derselben Besetzung.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Fire|1996",
+      "origin": "Ergänzung",
+      "film_id": "Fire|1996",
+      "title": "Fire",
+      "original_title": "Fire",
+      "first_release_year": 1996,
+      "directors": [
+        "Deepa Mehta"
+      ],
+      "production_countries": [
+        "Kanada",
+        "Indien"
+      ],
+      "source_urls": [
+        "https://www.biff.kr/eng/html/archive/arc_history_view.asp?kind=search&m_idx=44520&pyear=2019",
+        "https://en.wikipedia.org/wiki/Fire_(1996_film)",
+        "https://cfe.tiff.net/canadianfilmencyclopedia/content/films/fire"
+      ],
+      "series": {
+        "name": "Elements-Trilogie",
+        "position": 1,
+        "note": "Thematische Trilogie; keine fortgesetzte Figurenhandlung."
+      },
+      "release_note": "Erste Festivalauswertung 1996 in Toronto; der indische Kinostart 1998 ist später.",
+      "director_note": "",
+      "country_note": "Busan führt Kanada und Indien; einige Archive nennen verkürzt nur Kanada.",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Mandi|1983",
+      "origin": "Ergänzung",
+      "film_id": "Mandi|1983",
+      "title": "Mandi",
+      "original_title": "Mandi",
+      "first_release_year": 1983,
+      "directors": [
+        "Shyam Benegal"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://cinemaazi.com/film/mandi",
+        "https://en.wikipedia.org/wiki/Mandi_(1983_film)"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Ankur|1974",
+      "origin": "Ergänzung",
+      "film_id": "Ankur|1974",
+      "title": "Ankur",
+      "original_title": "Ankur",
+      "first_release_year": 1974,
+      "directors": [
+        "Shyam Benegal"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ankur_(film)"
+      ],
+      "series": null,
+      "release_note": "1973 ist in Erinnerungen als Herstellungsjahr verbreitet; öffentliche Berlinale-Vorführung und Kinostart 1974.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Khandhar|1984",
+      "origin": "Ergänzung",
+      "film_id": "Khandhar|1984",
+      "title": "Khandhar",
+      "original_title": "Khandhar",
+      "first_release_year": 1984,
+      "directors": [
+        "Mrinal Sen"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Khandhar",
+        "https://www.festival-cannes.com/en/f/khandhar-2/"
+      ],
+      "series": null,
+      "release_note": "Cannes 1984; regulärer indischer Kinostart Juni 1984.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Morning Raga|2004",
+      "origin": "Ergänzung",
+      "film_id": "Morning Raga|2004",
+      "title": "Morning Raga",
+      "original_title": "Morning Raga",
+      "first_release_year": 2004,
+      "directors": [
+        "Mahesh Dattani"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Morning_Raga"
+      ],
+      "series": null,
+      "release_note": "Indischer Kinostart 29. Oktober 2004; US-Auswertung März 2005.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Minari|2020",
+      "origin": "Bestand",
+      "originalTitle": "Minari",
+      "year": 2020,
+      "directors": "Lee Isaac Chung",
+      "countries": [
+        "USA"
+      ],
+      "countryNote": "",
+      "series": null,
+      "releaseNote": "Sundance-Premiere 26. Januar 2020; A24 listet den breiten Start 2021.",
+      "directorNote": "",
+      "directorContext": "",
+      "directorSources": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Minari_(film)",
+        "https://a24films.com/films/minari"
+      ]
+    },
+    {
+      "filmId": "Hanyeo|2010",
+      "origin": "Ergänzung",
+      "film_id": "Hanyeo|2010",
+      "title": "The Housemaid",
+      "original_title": "Hanyeo",
+      "first_release_year": 2010,
+      "directors": [
+        "Im Sang-soo"
+      ],
+      "production_countries": [
+        "Südkorea"
+      ],
+      "source_urls": [
+        "https://www.koreanfilm.co.uk/films/the-housemaid-2/",
+        "https://en.wikipedia.org/wiki/The_Housemaid_(2010_film)"
+      ],
+      "series": null,
+      "release_note": "Neuverfilmung von 2010, nicht Kim Ki-youngs Original von 1960.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Jug-yeo-ju-neun yeo-ja|2016",
+      "origin": "Ergänzung",
+      "film_id": "Jug-yeo-ju-neun yeo-ja|2016",
+      "title": "The Bacchus Lady",
+      "original_title": "Jug-yeo-ju-neun yeo-ja",
+      "first_release_year": 2016,
+      "directors": [
+        "E J-yong"
+      ],
+      "production_countries": [
+        "Südkorea"
+      ],
+      "source_urls": [
+        "https://eng.koreafilm.or.kr/movie/PM_008605",
+        "https://m.koreanfilm.or.kr/eng/news/news.jsp?blbdComCd=601006&mode=VIEW&pageRowSize=10&seq=4007"
+      ],
+      "series": null,
+      "release_note": "Weltpremiere Berlinale Februar 2016; südkoreanischer Kinostart 6. Oktober 2016.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Yeobaeudeul|2009",
+      "origin": "Ergänzung",
+      "film_id": "Yeobaeudeul|2009",
+      "title": "Actresses",
+      "original_title": "Yeobaeudeul",
+      "first_release_year": 2009,
+      "directors": [
+        "E J-yong"
+      ],
+      "production_countries": [
+        "Südkorea"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Actresses_(film)"
+      ],
+      "series": null,
+      "release_note": "Südkoreanischer Kinostart 10. Dezember 2009.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Jodāyi-e Nāder az Simin|2011",
+      "origin": "Bestand",
+      "originalTitle": "Jodāyi-e Nāder az Simin",
+      "year": 2011,
+      "directors": "Asghar Farhadi",
+      "countries": [
+        "Iran"
+      ],
+      "countryNote": "",
+      "series": null,
+      "releaseNote": "Berlin-Premiere 15. Februar 2011.",
+      "directorNote": "",
+      "directorContext": "",
+      "directorSources": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Separation"
+      ]
+    },
+    {
+      "filmId": "Leila|1997",
+      "origin": "Ergänzung",
+      "film_id": "Leila|1997",
+      "title": "Leila",
+      "original_title": "Leila",
+      "first_release_year": 1997,
+      "directors": [
+        "Dariush Mehrjui"
+      ],
+      "production_countries": [
+        "Iran"
+      ],
+      "source_urls": [
+        "https://iffr.com/en/iffr/1998/films/leila"
+      ],
+      "series": null,
+      "release_note": "IFFR 1998 bezeichnet die vorangegangene Fajr-Vorführung als Weltpremiere und führt 1997. Das Herstellungsjahr 1996 und spätere Angaben 1998 sind davon getrennt.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Istgah-e matrouk|2002",
+      "origin": "Ergänzung",
+      "film_id": "Istgah-e matrouk|2002",
+      "title": "The Deserted Station",
+      "original_title": "Istgah-e matrouk",
+      "first_release_year": 2002,
+      "directors": [
+        "Alireza Raisian"
+      ],
+      "production_countries": [
+        "Iran"
+      ],
+      "source_urls": [
+        "https://www.firstrunfeatures.com/desertedstation.html",
+        "https://en.wikipedia.org/wiki/The_Deserted_Station"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "country_note": "Der US-Verleih erwähnt Unterstützung durch das französische Kulturministerium, bezeichnet den Film aber als iranisch; eine französische Produktionsnationalität ist damit nicht belegt.",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Ashnaee ba Leila|2012",
+      "origin": "Ergänzung",
+      "film_id": "Ashnaee ba Leila|2012",
+      "title": "Meeting Leila",
+      "original_title": "Ashnaee ba Leila",
+      "first_release_year": 2012,
+      "directors": [
+        "Adel Yaraghi"
+      ],
+      "production_countries": [
+        "Iran"
+      ],
+      "source_urls": [
+        "https://www.screendaily.com/meeting-leila/5047953.article",
+        "https://en.wikipedia.org/wiki/Meeting_Leila"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Peleh akhar|2012",
+      "origin": "Ergänzung",
+      "film_id": "Peleh akhar|2012",
+      "title": "The Last Step",
+      "original_title": "Peleh akhar",
+      "first_release_year": 2012,
+      "directors": [
+        "Ali Mosaffa"
+      ],
+      "production_countries": [
+        "Iran"
+      ],
+      "source_urls": [
+        "https://www.kviff.com/en/programme/film/25/6901-the-last-step"
+      ],
+      "series": null,
+      "release_note": "2012; Karlovy Vary nennt seine Vorführung internationale Premiere.",
+      "director_note": "",
+      "country_note": "",
+      "checked_on": "2026-10-13",
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "filmId": "Shirin|2008",
+      "origin": "Ergänzung",
+      "film_id": "Shirin|2008",
+      "title": "Shirin",
+      "original_title": "Shirin",
+      "first_release_year": 2008,
+      "directors": [
+        "Abbas Kiarostami"
+      ],
+      "production_countries": [
+        "Iran"
+      ],
+      "source_urls": [
+        "https://www.bfi.org.uk/film/f76d664f-422a-5188-93ad-61904426df20/shirin"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "country_note": "",
       "checked_on": "2026-10-13",
       "verification_status": "redaktionell_quellengeprueft"
     }
