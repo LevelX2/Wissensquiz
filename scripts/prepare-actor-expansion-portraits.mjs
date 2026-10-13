@@ -126,7 +126,7 @@ for (const choice of choices) {
       info = page?.imageinfo?.[0];
     if (!info) throw Error(`Commons-Datei fehlt ${choice.fileTitle}`);
     const meta = info.extmetadata;
-    const url = info.thumburl ?? info.url;
+    const url = (info.thumburl ?? info.url).split("?")[0];
     const extension = /\.png(?:\?|$)/i.test(url) ? "png" : "jpg",
       asset = `Portraets/${n}.${extension}`;
     let bytes;

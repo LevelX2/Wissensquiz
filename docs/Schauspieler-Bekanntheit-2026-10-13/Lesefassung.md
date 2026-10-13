@@ -14301,3 +14301,4259 @@ Reinhardt sah de Havilland zunächst in einer kleineren Theaterproduktion. Für 
 Merksatz: Hermia führte de Havilland von der Theaterbühne in Reinhardts Film.
 
 Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/5919).
+
+## Joan Fontaine · Bekanntheitsgruppe 3
+
+![Joan Fontaine (1940er-Jahre)](Portraets/081.jpg)
+
+Bild: 1940er-Jahre; Whitey Schafer. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Joan_Fontaine_by_A._L._Whitey_Schafer.jpg), [TMDB](https://www.themoviedb.org/person/3360).
+
+### L1 · leicht
+
+Welche Figur spielt Joan Fontaine in „Rebecca“?
+
+- Maxims erste Frau
+
+- Maxims Schwägerin
+
+- **Richtig: Maxims zweite Frau**
+
+- Maxims Haushälterin
+
+Fontaine spielt die zweite Mrs. de Winter.
+
+Die junge Frau heiratet den verwitweten Maxim de Winter (Laurence Olivier) und zieht nach Manderley. Dort begegnet ihr überall das idealisierte Bild ihrer Vorgängerin. Besonders die Haushälterin Mrs. Danvers (Judith Anderson) lässt sie ihre vermeintliche Unterlegenheit spüren. Dass Fontaines Figur keinen Vornamen erhält, passt zu einer Geschichte, in der sie zunächst fast nur durch den Vergleich mit einer anderen Frau bestimmt wird.
+
+Merksatz: Die neue Mrs. de Winter lebt im Schatten ihrer Vorgängerin.
+
+Antwortzusätze:
+
+- Maxims zweite Frau: Fontaine spielt die zweite Mrs. de Winter.
+
+Gemeinsames Wissensziel: K-CLA-15-01 (CLA-L-029).
+
+Quellen: [1](https://www.criterion.com/current/posts/4897-rebecca-welcome-to-the-haunted-house).
+
+### L2 · leicht
+
+Was fürchtet Lina (Joan Fontaine) in Hitchcocks „Verdacht“ zunehmend von ihrem Mann Johnnie (Cary Grant)?
+
+- Dass er sie in eine Anstalt einweisen könnte
+
+- Dass er sie wegen einer anderen Frau verlassen könnte
+
+- Dass er sie für seine Unterschlagung verantwortlich machen könnte
+
+- **Richtig: Dass er sie ermorden könnte**
+
+Lina fürchtet, Johnnie könne sie ermorden.
+
+Johnnies Charme lässt die Ehe zunächst wie eine Befreiung erscheinen. Seine Lügen und sein Umgang mit Geld verändern jedoch Linas Wahrnehmung. Hitchcock bindet die Spannung an ihre Unsicherheit: Eine vertraute Person kann plötzlich als mögliche Gefahr erscheinen. Fontaine muss deshalb Liebe und Angst gleichzeitig spielen, während das Publikum mit ihr versucht, aus beobachteten Zeichen Gewissheit zu gewinnen.
+
+Merksatz: Charme und Angst gehören für Lina bald zu derselben Person.
+
+Antwortzusätze:
+
+- Dass er sie ermorden könnte: Lina fürchtet, Johnnie könne sie ermorden.
+
+Quellen: [1](https://www.bfi.org.uk/film/fd5d73a8-b1ac-5d1c-b878-1a6bc5fbc346/suspicion).
+
+### M1 · mittel
+
+Welche Enthüllung stoppt die Hochzeit von Jane (Joan Fontaine) und Rochester (Orson Welles) in „Jane Eyre“?
+
+- Jane hat eine andere Ehe versprochen.
+
+- **Richtig: Rochester ist bereits verheiratet.**
+
+- Rochester ist Janes gesetzlicher Vormund.
+
+- Jane hat eine fremde Identität angenommen.
+
+Rochester ist bereits mit Bertha verheiratet.
+
+Jane hat als Gouvernante in Thornfield eine Stellung und eine Liebe gefunden. Bei der Trauung erklärt Berthas Bruder, dass Rochester bereits verheiratet ist. Die verborgene Frau im Haus gibt den früheren nächtlichen Vorfällen einen neuen Zusammenhang. Jane verlässt Rochester trotz ihrer Gefühle. Erst nach dem Brand von Thornfield und Berthas Tod wird eine gemeinsame Zukunft möglich.
+
+Merksatz: Eine bestehende Ehe macht Janes erhoffte Hochzeit unmöglich.
+
+Antwortzusätze:
+
+- Rochester ist bereits verheiratet.: Rochester ist bereits mit Bertha verheiratet.
+
+Quellen: [1](https://catalog.afi.com/Film/712-JANE-EYRE).
+
+### M2 · mittel
+
+Was trifft Lisa (Joan Fontaine) beim späteren Wiedersehen mit Stefan (Louis Jourdan) in „Brief einer Unbekannten“ besonders?
+
+- Er hält sie für die Frau seines Bruders.
+
+- Er verwechselt sie mit seiner verstorbenen Ehefrau.
+
+- **Richtig: Er erinnert sich nicht an ihre frühere Beziehung.**
+
+- Er erkennt sie nur als ehemalige Bedienstete.
+
+Stefan erinnert sich nicht an die frühere Beziehung.
+
+Für Lisa ist die Begegnung mit dem Pianisten zum Mittelpunkt ihres Lebens geworden. Für Stefan war sie eine Episode, deren Bedeutung ihm entgangen ist. Erst ihr Brief zwingt ihn, die gemeinsame Vergangenheit aus ihrer Sicht zu lesen. Der Film erzählt diese zeitlich ungleiche Bindung in einer langen Rückblende: Was für einen Menschen alles bedeutet, kann im Gedächtnis des anderen beinahe fehlen.
+
+Merksatz: Lisas Lebensgeschichte fehlt in Stefans Erinnerung.
+
+Antwortzusätze:
+
+- Er erinnert sich nicht an ihre frühere Beziehung.: Stefan erinnert sich nicht an die frühere Beziehung.
+
+Quellen: [1](https://www.criterion.com/current/posts/835-letter-from-an-unknown-woman).
+
+### S1 · schwer
+
+Welche Veränderung regt Tessa (Joan Fontaine) in Lewis Dodds Musik in „The Constant Nymph“ an?
+
+- Den Verzicht auf Melodien zugunsten von Rhythmus
+
+- Die Anpassung an die Modetänze des Publikums
+
+- Die Übernahme einer kirchlichen Liturgie
+
+- **Richtig: Die Rückkehr von Gefühl in seine Komposition**
+
+Tessa ermutigt Lewis, wieder Gefühl in seine Musik zu legen.
+
+Lewis Dodd (Charles Boyer) hat eine Melodie aus Tessas Kindheit in ein neues Werk aufgenommen. Sie findet das Ergebnis enttäuschend und hilft ihm, den emotionalen Kern wiederzugewinnen. Die Arbeit macht zugleich sichtbar, wie tief beide einander verbunden sind. Seine Ehefrau Florence (Alexis Smith) erkennt in Tessa eine Rivalin; die erfolgreiche Uraufführung kommt für die herzkranke junge Frau zu spät.
+
+Merksatz: Tessa versteht den Gefühlskern, den Lewis in seiner Musik verloren hat.
+
+Antwortzusätze:
+
+- Die Rückkehr von Gefühl in seine Komposition: Tessa ermutigt Lewis, wieder Gefühl in seine Musik zu legen.
+
+Quellen: [1](https://catalog.afi.com/Film/364-THE-CONSTANT-NYMPH).
+
+### S2 · schwer
+
+Welche Stellung hat Lady Rowena (Joan Fontaine) gegenüber Cedric (Finlay Currie) in „Ivanhoe – Der schwarze Ritter“?
+
+- **Richtig: Sie ist sein Mündel.**
+
+- Sie ist seine leibliche Tochter.
+
+- Sie ist seine verwitwete Schwester.
+
+- Sie ist seine zweite Ehefrau.
+
+Rowena ist Cedrics Mündel.
+
+Rowena lebt in Cedrics sächsischem Haushalt und liebt dessen Sohn Ivanhoe (Robert Taylor). Der politische Streit um König Richard trennt Ivanhoe von seinem Vater, aber nicht von ihr. Neben dieser standesgemäß möglichen Verbindung steht Rebeccas (Elizabeth Taylor) Liebe zu dem Ritter. Der Film stellt damit zwei Frauen gegenüber, deren Gefühle unter sehr unterschiedlichen gesellschaftlichen Bedingungen stehen.
+
+Merksatz: Rowena gehört als Mündel zu Cedrics Haushalt.
+
+Antwortzusätze:
+
+- Sie ist sein Mündel.: Rowena ist Cedrics Mündel.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Ivanhoe_(1952_film)).
+
+### E1 · experte
+
+Wie war Joan Fontaine über ihre Hauptrolle hinaus an der Entstehung von „Brief einer Unbekannten“ beteiligt?
+
+- **Richtig: Sie gründete mit William Dozier die Produktionsfirma Rampart.**
+
+- Sie erwarb den Stoff und produzierte ihn für ihren bisherigen Studiopartner.
+
+- Sie kaufte die Vertriebsrechte und organisierte den Filmverleih.
+
+- Sie finanzierte als alleinige Geldgeberin die gesamten Dreharbeiten.
+
+Fontaine und ihr damaliger Mann William Dozier gründeten Rampart Productions.
+
+Fontaine gründete die unabhängige Firma mit ihrem damaligen Mann William Dozier. „Brief einer Unbekannten“ entstand in diesem Rahmen unter der Regie von Max Ophüls, produziert von John Houseman. Ihre Beteiligung reichte damit über das Schauspiel hinaus: Sie half, eine Produktionsmöglichkeit außerhalb eines dauerhaften Studiovertrags zu schaffen.
+
+Merksatz: Fontaine schuf mit Rampart auch einen Produktionsrahmen.
+
+Antwortzusätze:
+
+- Sie gründete mit William Dozier die Produktionsfirma Rampart.: Fontaine und ihr damaliger Mann William Dozier gründeten Rampart Productions.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Joan_Fontaine).
+
+### E2 · experte
+
+Was verlangte die amerikanische Zensurstelle zunächst für Lisas (Joan Fontaine) Schlussbrief in „Brief einer Unbekannten“?
+
+- Sie sollte ihren Ehemann um Verzeihung bitten.
+
+- **Richtig: Sie sollte die Beziehung reumütig verurteilen statt Liebe bekennen.**
+
+- Sie sollte Stefan eine gemeinsame Zukunft versprechen.
+
+- Sie sollte ihm die Verantwortung für den Tod ihres Kindes zuweisen.
+
+Die Zensurstelle wollte ein reumütiges Urteil über die Beziehung statt Lisas fortbestehender Liebe.
+
+Die Prüfer hielten den ursprünglichen Brief für eine romantische Verklärung einer unerlaubten Beziehung. Vorgeschlagen wurden Selbsterniedrigung und eine ausdrückliche moralische Verurteilung. William Dozier legte dagegen Einspruch ein; schließlich erhielt der Film mit den ursprünglichen Zeilen die Freigabe. Der Streit betraf somit direkt, ob Lisas eigene Erfahrung oder eine nachgereichte moralische Vorschrift das Ende bestimmen sollte.
+
+Merksatz: Lisas Liebesbekenntnis überstand den Zensurstreit.
+
+Antwortzusätze:
+
+- Sie sollte die Beziehung reumütig verurteilen statt Liebe bekennen.: Die Zensurstelle wollte ein reumütiges Urteil über die Beziehung statt Lisas fortbestehender Liebe.
+
+Quellen: [1](https://catalog.afi.com/Film/25618-LETTER-FROM-AN-UNKNOWN-WOMAN).
+
+## Angela Lansbury · Bekanntheitsgruppe 3
+
+![Angela Lansbury (1989)](Portraets/082.jpg)
+
+Bild: 1989; Alan Light. CC BY 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Angela_Lansbury.jpg), [TMDB](https://www.themoviedb.org/person/14730).
+
+### L1 · leicht
+
+Womit verdient Jessica Fletcher (Angela Lansbury) in „Mord ist ihr Hobby“ ihren Lebensunterhalt?
+
+- Mit der Tätigkeit als Staatsanwältin
+
+- Mit der Arbeit als Gerichtsmedizinerin
+
+- Mit der Leitung einer Privatdetektei
+
+- **Richtig: Mit dem Schreiben von Kriminalromanen**
+
+Jessica Fletcher ist Kriminalschriftstellerin.
+
+Jessica löst Verbrechen als Amateurdetektivin und tritt dabei nicht im Auftrag einer Polizeibehörde auf. Angela Lansburys Rolle verbindet beruflichen Erfolg mit Unabhängigkeit und einem ausgeprägten Interesse an Menschen. Die Serie machte sie über viele Jahre einem Fernsehpublikum vertraut, das ihre früheren Film- oder Musicalrollen oft erst später kennenlernte.
+
+Merksatz: Die Krimiautorin ermittelt auch außerhalb ihrer Bücher.
+
+Antwortzusätze:
+
+- Mit dem Schreiben von Kriminalromanen: Jessica Fletcher ist Kriminalschriftstellerin.
+
+Quellen: [1](https://interviews.televisionacademy.com/news/murder-she-wrote-silver-anniversary), [2](https://www.televisionacademy.com/features/news/hall-fame/angela-lansbury-hall-fame-tribute).
+
+### L2 · leicht
+
+Welchem verzauberten Gegenstand gibt Angela Lansbury in der englischen Originalfassung von „Die Schöne und das Biest“ ihre Stimme?
+
+- Einem Kleiderschrank
+
+- Einem Kerzenleuchter
+
+- Einer Standuhr
+
+- **Richtig: Einer Teekanne**
+
+Lansbury spricht die Teekanne Mrs. Potts.
+
+Mrs. Potts gehört zu den Bediensteten, die durch den Fluch in Haushaltsgegenstände verwandelt wurden. Ihre mütterliche Wärme prägt sowohl die Dialoge als auch das gesungene Titellied. Die Gegenstände wurden für Disneys Verfilmung als eigene Figuren ausgearbeitet; sie stammen nicht in dieser Form aus dem überlieferten Märchen. Lansburys Stimme gibt der künstlichen Gestalt einen vertrauten menschlichen Charakter.
+
+Merksatz: Mrs. Potts ist die warmherzige Teekanne.
+
+Antwortzusätze:
+
+- Einer Teekanne: Lansbury spricht die Teekanne Mrs. Potts.
+
+Quellen: [1](https://d23.com/a-to-z/beauty-and-the-beast-film/).
+
+### M1 · mittel
+
+Wozu will Eglantine Price (Angela Lansbury) ihre Zauberkünste in „Die tollkühne Hexe in ihrem fliegenden Bett“ schließlich einsetzen?
+
+- Zur dauerhaften Verwandlung der Kinder in Tiere
+
+- Zur Rückholung ihres verschollenen Ehemanns
+
+- **Richtig: Zur Verteidigung Englands gegen deutsche Angreifer**
+
+- Zum Wiederaufbau des zerstörten London
+
+Miss Price will England gegen die deutschen Angreifer verteidigen.
+
+Im Herbst 1940 nimmt sie drei aus London evakuierte Kinder auf. Gemeinsam mit dem angeblichen Zauberlehrer Emelius Browne (David Tomlinson) sucht sie nach einem entscheidenden Spruch. Am Ende erweckt sie Museumsrüstungen zu einer Armee, die deutsche Kommandos vertreibt. Die fantastische Reise erhält so einen konkreten Bezug zum Krieg, vor dem die Kinder geflohen sind.
+
+Merksatz: Die Zauberei wird zur Verteidigung der bedrohten Heimat.
+
+Antwortzusätze:
+
+- Zur Verteidigung Englands gegen deutsche Angreifer: Miss Price will England gegen die deutschen Angreifer verteidigen.
+
+Quellen: [1](https://d23.com/a-to-z/bedknobs-and-broomsticks-film/).
+
+### M2 · mittel
+
+Welche verborgene Funktion hat die Mutter (Angela Lansbury) für Raymond Shaw (Laurence Harvey) in „Botschafter der Angst“?
+
+- Sie überwacht ihn als Mitarbeiterin des Militärgerichts.
+
+- **Richtig: Sie vermittelt seine Befehle im kommunistischen Komplott.**
+
+- Sie behandelt ihn als ausgebildete Psychotherapeutin.
+
+- Sie schützt ihn als Informantin des FBI.
+
+Seine Mutter ist seine amerikanische Befehlsgeberin im Komplott.
+
+Raymond wurde im Koreakrieg einer Gehirnwäsche unterzogen und soll nun als Attentäter eingesetzt werden. Seine Mutter nutzt den öffentlich geehrten Heimkehrer zugleich für die politische Karriere ihres Mannes. Lansbury macht familiäre Herrschaft und politische Manipulation zu zwei Seiten derselben Figur. Gerade die vermeintlich vertraute Mutter ist daher kein Schutzraum für den missbrauchten Sohn.
+
+Merksatz: Die Mutter beherrscht ihren Sohn privat und als Befehlsgeberin.
+
+Antwortzusätze:
+
+- Sie vermittelt seine Befehle im kommunistischen Komplott.: Seine Mutter ist seine amerikanische Befehlsgeberin im Komplott.
+
+Gemeinsames Wissensziel: K-E20261007-F-249-M2 (E20261007-F-249-M2).
+
+Quellen: [1](https://catalog.afi.com/Film/22239-THE-MANCHURIAN-CANDIDATE).
+
+### S1 · schwer
+
+Wie verstärkt Nancy (Angela Lansbury) in „Das Haus der Lady Alquist“ die Unsicherheit ihrer Arbeitgeberin Paula (Ingrid Bergman)?
+
+- **Richtig: Sie begegnet ihr respektlos, während Gregory Nancy verteidigt.**
+
+- Sie bedrängt sie als vermeintliche Tochter der Ermordeten.
+
+- Sie bestätigt ihr die nächtlichen Schritte im Haus.
+
+- Sie behauptet, Paula habe sie früher schon bestohlen.
+
+Nancy begegnet Paula respektlos; Gregory erklärt Paulas Misstrauen für irrational.
+
+Gregory Anton (Charles Boyer) isoliert seine Frau und lässt sie an ihren Wahrnehmungen zweifeln. Die junge Hausangestellte verschärft das Machtgefälle im Haushalt: Selbst eine gewöhnliche Nachfrage nach Paulas Ausgang lässt diese zurückweichen. Gregory nutzt Paulas Unbehagen gegenüber Nancy wiederum gegen sie. Die Nebenrolle trägt damit zur Bedrohung bei, ohne dass Nancy den gesamten Mord- und Juwelenplan kennen muss.
+
+Merksatz: Die Haushaltsordnung stärkt Gregory und schwächt Paula.
+
+Antwortzusätze:
+
+- Sie begegnet ihr respektlos, während Gregory Nancy verteidigt.: Nancy begegnet Paula respektlos; Gregory erklärt Paulas Misstrauen für irrational.
+
+Quellen: [1](https://catalog.afi.com/Film/1552-GASLIGHT).
+
+### S2 · schwer
+
+Welche geplante Verbindung lehnt Prinzessin Gwendolyn (Angela Lansbury) in „Der Hofnarr“ ab?
+
+- Die heimliche Ehe mit dem wirklichen Hofnarren Giacomo
+
+- Die Verbindung mit dem Anführer des Schwarzen Fuchses
+
+- **Richtig: Die politisch arrangierte Ehe mit Sir Griswold**
+
+- Die Verlobung mit dem Berater Sir Ravenhurst
+
+Gwendolyn will Sir Griswold nicht aus politischen Gründen heiraten.
+
+Ihr Vater, König Roderick (Cecil Parker), will durch die Heirat seine unsichere Herrschaft absichern. Gwendolyn besteht dagegen auf einer Liebesheirat. Die Hexe Griselda (Mildred Natwick) hypnotisiert deshalb den vermeintlichen Hofnarren Hawkins (Danny Kaye), damit er die Prinzessin umwirbt. Ihre Weigerung setzt so einen Teil der Verwechslungen, des Duells und der höfischen Intrigen in Gang.
+
+Merksatz: Gwendolyns Liebeswunsch durchkreuzt die politische Heiratsplanung.
+
+Antwortzusätze:
+
+- Die politisch arrangierte Ehe mit Sir Griswold: Gwendolyn will Sir Griswold nicht aus politischen Gründen heiraten.
+
+Quellen: [1](https://catalog.afi.com/Film/51790-THE-COURT-JESTER).
+
+### E1 · experte
+
+Wen nahm Angela Lansbury für die Stimme und Persönlichkeit von Mrs. Potts in „Die Schöne und das Biest“ als Vorbild?
+
+- **Richtig: Eine Köchin aus ihrem Elternhaus**
+
+- Eine frühere Broadway-Regisseurin
+
+- Eine Gesangslehrerin aus ihrer Ausbildungszeit
+
+- Eine Kollegin aus ihrer MGM-Zeit
+
+Vorbild war Beatie, eine Köchin aus Lansburys Kindheit.
+
+Lansbury knüpfte die erfundene Teekanne an die Erinnerung an einen wirklichen Menschen. Das half ihr, Wärme und einen vertrauten Cockney-Ton zusammenzubringen. Nach eigener Auskunft erkannten Kinder sie später sogar beim Einkaufen an der Stimme. Die Figur blieb damit für ein neues Publikum präsent, obwohl Lansburys Körper in dem Zeichentrickfilm gar nicht zu sehen ist.
+
+Merksatz: Eine Kindheitserinnerung wurde zur Stimme einer Zeichentrickfigur.
+
+Antwortzusätze:
+
+- Eine Köchin aus ihrem Elternhaus: Vorbild war Beatie, eine Köchin aus Lansburys Kindheit.
+
+Quellen: [1](https://d23.com/catching-up-with-the-enchanted-objects-from-beauty-and-the-beast/).
+
+### E2 · experte
+
+Was bewegte Angela Lansbury nach eigener Auskunft dazu, nach langer Theaterarbeit eine große Fernsehrolle zu suchen?
+
+- Sie wollte eine regelmäßige Komödie im vertrauten Ensemble spielen.
+
+- **Richtig: Sie wollte nach langen Tourneen stärker im Fernsehen arbeiten.**
+
+- Sie wollte häufiger vor der Kamera Regie führen.
+
+- Sie wollte mit einer kurzen Serie den Wiedereinstieg ins Kino vorbereiten.
+
+Nach langen Tourneen suchte Lansbury bewusst eine neue Aufgabe im Fernsehen.
+
+Nach einem Jahr mit „Sweeney Todd“ auf Tournee fühlten Lansbury und ihr Mann Peter Shaw, dass sie genug gereist waren. Sie bat ihre Agentur um passende Angebote. Zunächst vorgeschlagene Nebenrollen als Dienstmädchen oder ältere Betreuerin überzeugten sie kaum. Jessica Fletcher bot schließlich eine eigenständige Hauptfigur und wurde der nach ihrer Einschätzung publikumswirksamste Erfolg ihrer Laufbahn.
+
+Merksatz: Der Wechsel zu Jessica Fletcher folgte auf die Ermüdung vom Tourneeleben.
+
+Antwortzusätze:
+
+- Sie wollte nach langen Tourneen stärker im Fernsehen arbeiten.: Nach langen Tourneen suchte Lansbury bewusst eine neue Aufgabe im Fernsehen.
+
+Quellen: [1](https://www.televisionacademy.com/features/news/hall-fame/angela-lansbury-hall-fame-tribute).
+
+## Anne Bancroft · Bekanntheitsgruppe 3
+
+![Anne Bancroft (1964)](Portraets/083.jpg)
+
+Bild: 1964; NBC Television. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Anne_Bancroft_Chrysler_Theatre_1964_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/10774).
+
+### L1 · leicht
+
+Welche Figur verkörpert Anne Bancroft in „Die Reifeprüfung“?
+
+- Elaines Schwester
+
+- **Richtig: Mrs. Robinson**
+
+- Benjamins Vermieterin
+
+- Benjamins Mutter
+
+Bancroft spielt Mrs. Robinson.
+
+Benjamin Braddock (Dustin Hoffman) kehrt vom College zurück und weiß wenig mit seiner Zukunft anzufangen. Mrs. Robinson, eine Freundin seiner Eltern, beginnt eine Affäre mit ihm. Als Benjamin sich für ihre Tochter Elaine (Katharine Ross) interessiert, wird aus der zunächst scheinbar kontrollierten Beziehung ein Konflikt zwischen den Generationen und innerhalb derselben Familie.
+
+Merksatz: Mrs. Robinson verführt den Sohn befreundeter Eltern.
+
+Antwortzusätze:
+
+- Mrs. Robinson: Bancroft spielt Mrs. Robinson.
+
+Gemeinsames Wissensziel: K-DRA-202610-P01-L-006 (DRA-202610-P01-L-006).
+
+Quellen: [1](https://www.criterion.com/films/28578-the-graduate).
+
+### L2 · leicht
+
+Wem hilft die Lehrerin Annie Sullivan (Anne Bancroft) in „Licht im Dunkel“, Sprache zu verstehen?
+
+- Der jungen Jane Addams
+
+- Der jungen Clara Barton
+
+- **Richtig: Der jungen Helen Keller**
+
+- Der jungen Florence Nightingale
+
+Annie Sullivan unterrichtet Helen Keller.
+
+Helen (Patty Duke) kann weder sehen noch hören. Annie muss eine Verbindung zwischen tastbaren Zeichen und der Welt herstellen. Dafür widerspricht sie auch der nachgiebigen Behandlung innerhalb der Familie. Der Film macht Lernen zu einer körperlich anstrengenden Zusammenarbeit, in der Zuneigung allein noch keine Verständigung schafft.
+
+Merksatz: Annie Sullivan öffnet Helen Keller einen Zugang zur Sprache.
+
+Antwortzusätze:
+
+- Der jungen Helen Keller: Annie Sullivan unterrichtet Helen Keller.
+
+Quellen: [1](https://watch.afi.com/movie/the-miracle-worker).
+
+### M1 · mittel
+
+Welches Stück spielen Mrs. Kendal (Anne Bancroft) und John Merrick (John Hurt) bei ihrem Besuch in „Der Elefantenmensch“ gemeinsam an?
+
+- Der Kaufmann von Venedig
+
+- **Richtig: Romeo und Julia**
+
+- Hamlet
+
+- Was ihr wollt
+
+Sie sprechen miteinander aus „Romeo und Julia“.
+
+Die Schauspielerin besucht Merrick im Krankenhaus und bringt Bücher und ein Porträt mit. Beim gemeinsamen Sprechen nimmt sie ihn als gleichberechtigten Spielpartner wahr. Später ermöglicht sie ihm einen Theaterabend, bei dem das Publikum ihm Beifall spendet. Diese Begegnungen stehen den bezahlten Schaustellungen gegenüber, in denen sein Körper vorgeführt wurde, während seine Persönlichkeit kaum zählen durfte.
+
+Merksatz: Mrs. Kendal macht Merrick zum Spielpartner statt zum Schauobjekt.
+
+Antwortzusätze:
+
+- Romeo und Julia: Sie sprechen miteinander aus „Romeo und Julia“.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/56402).
+
+### M2 · mittel
+
+Welche Lebensentscheidung unterscheidet Emma (Anne Bancroft) von Deedee (Shirley MacLaine) in „Am Wendepunkt“?
+
+- **Richtig: Emma blieb beim professionellen Ballett.**
+
+- Emma verließ den Tanz, um eine Schule zu leiten.
+
+- Emma wechselte vom Tanz ins Schauspiel.
+
+- Emma gründete eine Familie und gab ihre Karriere auf.
+
+Emma setzte ihre Ballettkarriere fort, während Deedee sich für ein Familienleben entschied.
+
+Als die frühere Kompanie nach Oklahoma kommt, begegnen sich die beiden alten Freundinnen wieder. Emmas Laufbahn nähert sich dem Ende; Deedees Tochter Emilia (Leslie Browne) steht dagegen am Anfang einer Tanzkarriere. Jede Frau sieht in der anderen das nicht gelebte Leben. Erfolg und Verzicht lassen sich deshalb weder eindeutig der Karriere noch eindeutig der Familie zuschreiben.
+
+Merksatz: Emma und Deedee begegnen einander als mögliche Gegenleben.
+
+Antwortzusätze:
+
+- Emma blieb beim professionellen Ballett.: Emma setzte ihre Ballettkarriere fort, während Deedee sich für ein Familienleben entschied.
+
+Quellen: [1](https://catalog.afi.com/Film/55915-THE-TURNINGPOINT).
+
+### S1 · schwer
+
+Welche familiäre Verbindung verschweigt Mutter Miriam Ruth (Anne Bancroft) zunächst zur Novizin Agnes (Meg Tilly) in „Agnes – Engel im Feuer“?
+
+- **Richtig: Agnes ist ihre Nichte.**
+
+- Agnes ist ihre Enkelin.
+
+- Agnes ist ihre jüngere Schwester.
+
+- Agnes ist ihre Tochter.
+
+Agnes ist Mutter Miriams Nichte.
+
+Die Psychiaterin Martha Livingston (Jane Fonda) untersucht den Tod von Agnes’ Neugeborenem. Die Oberin will die junge Frau vor der Untersuchung schützen und beruft sich auf ihre Unschuld. Erst die Klosterakten enthüllen die Verwandtschaft. Damit erhält Miriams Widerstand eine persönliche Vorgeschichte; die Auseinandersetzung zwischen Glauben und psychiatrischer Aufklärung betrifft zugleich ihre eigene Familie.
+
+Merksatz: Der Schutz der Novizin ist auch eine persönliche Familienangelegenheit.
+
+Antwortzusätze:
+
+- Agnes ist ihre Nichte.: Agnes ist Mutter Miriams Nichte.
+
+Quellen: [1](https://catalog.afi.com/Film/55720-AGNES-OFGOD).
+
+### S2 · schwer
+
+Wie reagiert Jo (Anne Bancroft) im Schluss von „Schlafzimmerstreit“ auf Jakes (Peter Finch) erneute Annäherung?
+
+- Sie verlangt eine öffentlich bekanntgemachte Scheidung.
+
+- Sie bricht den Kontakt endgültig ab.
+
+- Sie stimmt einem Umzug ohne ihre Kinder zu.
+
+- **Richtig: Sie nimmt vorsichtig eine Versöhnung an.**
+
+Jo lässt eine vorsichtige, keineswegs unbeschwerte Versöhnung zu.
+
+Jo hat unter Jakes Untreue gelitten und sich in eine renovierte Mühle zurückgezogen. Am Morgen bringt er mit den Kindern Essen. Sie nimmt die angebotene Bierdose an; die Geste erinnert an eine glücklichere Zeit. Bancrofts Darstellung lässt dabei Enttäuschung und Bindung nebeneinander bestehen. Das Ende löst die Eheprobleme nicht durch eine plötzliche Verwandlung ihres Mannes auf.
+
+Merksatz: Die angenommene Bierdose markiert einen vorsichtigen Schritt zurück.
+
+Antwortzusätze:
+
+- Sie nimmt vorsichtig eine Versöhnung an.: Jo lässt eine vorsichtige, keineswegs unbeschwerte Versöhnung zu.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Pumpkin_Eater).
+
+### E1 · experte
+
+Wie bereitete Anne Bancroft sich auf die Filmdarstellung der Annie Sullivan in „Licht im Dunkel“ vor?
+
+- Sie studierte Lippenlesen und Sprachübungen einer Gehörlosenschule.
+
+- Sie beobachtete Familientherapie und probte die Rolle ohne Partnerin.
+
+- **Richtig: Sie studierte das Fingeralphabet und erprobte eingeschränktes Sehen.**
+
+- Sie erforschte historische Schulmethoden und erprobte deren Unterrichtsabläufe.
+
+Sie studierte das Fingeralphabet, simulierte Blindheit und beobachtete Kinder mit Behinderungen.
+
+Bancroft und Patty Duke hatten ihre Rollen bereits auf der Bühne gespielt. Für den Film überprüfte Bancroft die Grundlagen ihrer Darstellung weiter. Die Vorbereitung betraf sowohl Kommunikation als auch räumliche Wahrnehmung. Annie selbst hatte eine schwere Sehbeeinträchtigung erlebt; die Lehrerin ist daher keine vollkommen außenstehende Helferin in Helens Welt.
+
+Merksatz: Die körperliche Vorbereitung ergänzte die Erfahrung aus der Bühnenrolle.
+
+Antwortzusätze:
+
+- Sie studierte das Fingeralphabet und erprobte eingeschränktes Sehen.: Sie studierte das Fingeralphabet, simulierte Blindheit und beobachtete Kinder mit Behinderungen.
+
+Quellen: [1](https://catalog.afi.com/Film/23284-THE-MIRACLE-WORKER).
+
+### E2 · experte
+
+Welche Vorgabe machte Anne Bancroft bei ihrem Regiedebüt „Fatso“ für wichtige Positionen hinter der Kamera?
+
+- Möglichst viele Positionen mit Berufsanfängern zu besetzen
+
+- Möglichst viele Mitglieder einer einzigen Studiocrew zu übernehmen
+
+- Möglichst viele frühere Broadway-Darsteller einzusetzen
+
+- **Richtig: Möglichst viele Schlüsselpositionen mit Frauen zu besetzen**
+
+Bancroft wollte möglichst viele Schlüsselpositionen mit Frauen besetzen.
+
+Nach ihrer Teilnahme am AFI Directing Workshop for Women schrieb und inszenierte Bancroft die Komödie mit Dom DeLuise. Produzent Jonathan Sanger erinnerte sich an ihre entsprechende Vorgabe für das Team. Brianne Murphy übernahm die Kamera. Das Projekt eröffnete damit auch anderen Frauen Arbeitsmöglichkeiten in Bereichen, in denen sie im amerikanischen Studiobetrieb selten vertreten waren.
+
+Merksatz: Bancrofts Regiedebüt schuf auch Arbeitsmöglichkeiten hinter der Kamera.
+
+Antwortzusätze:
+
+- Möglichst viele Schlüsselpositionen mit Frauen zu besetzen: Bancroft wollte möglichst viele Schlüsselpositionen mit Frauen besetzen.
+
+Quellen: [1](https://www.afi.com/news/mel-brooks-and-the-elephant-man-afi-catalog-spotlight/), [2](https://catalog.afi.com/Catalog/MovieDetails/56408).
+
+## Holly Hunter · Bekanntheitsgruppe 3
+
+![Holly Hunter (1989)](Portraets/084.jpg)
+
+Bild: 1989; Alan Light. CC BY 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Holly_Hunter_at_the_41st_Emmy_Awards_cropped_and_altered.jpg), [TMDB](https://www.themoviedb.org/person/18686).
+
+### L1 · leicht
+
+Welche Figur spricht Holly Hunter in der englischen Originalfassung von „Die Unglaublichen“ und dessen Fortsetzung?
+
+- Violet Parr
+
+- Edna Mode
+
+- Mirage
+
+- **Richtig: Helen Parr**
+
+Hunter spricht Helen Parr, die Superheldin Elastigirl.
+
+Helen hat ihre frühere Arbeit als Superheldin für das Familienleben zurückgestellt. In der Fortsetzung rückt sie wieder öffentlich in den Mittelpunkt, während Bob (Craig T. Nelson) die Betreuung der Kinder übernimmt. Hunters Stimme verbindet die erfahrene Heldin mit den alltäglichen Anforderungen einer Mutter. Die beiden Filme geben denselben Fähigkeiten dadurch unterschiedliche Aufgaben innerhalb und außerhalb der Familie.
+
+Merksatz: Hunters Stimme gehört Helen Parr beziehungsweise Elastigirl.
+
+Antwortzusätze:
+
+- Helen Parr: Hunter spricht Helen Parr, die Superheldin Elastigirl.
+
+Quellen: [1](https://www.pixar.com/incredibles-2), [2](https://www.pixar.com/the-incredibles).
+
+### L2 · leicht
+
+Welchen Beruf übt Edwina (Holly Hunter) bei ihrem ersten Zusammentreffen mit H. I. (Nicolas Cage) in „Arizona Junior“ aus?
+
+- Bewährungshelferin
+
+- **Richtig: Polizistin**
+
+- Gefängnisärztin
+
+- Strafverteidigerin
+
+Edwina ist Polizistin.
+
+Ed fotografiert den wiederholt festgenommenen H. I. für die Polizeiakte. Aus der Begegnung von Ordnungshüterin und Kleinkriminellem wird eine Ehe. Als sie selbst kein Kind bekommen können und eine Adoption scheitert, entführen beide einen Säugling aus einer Fünflingsfamilie. Die gegensätzliche berufliche Ausgangslage schützt das Paar also keineswegs vor einer gemeinsamen Straftat.
+
+Merksatz: Die Polizistin und ihr wiederkehrender Festgenommener werden ein Paar.
+
+Antwortzusätze:
+
+- Polizistin: Edwina ist Polizistin.
+
+Gemeinsames Wissensziel: K-KOM-202610-P01-L-002 (KOM-202610-P01-L-002).
+
+Quellen: [1](https://en.wikipedia.org/wiki/Raising_Arizona).
+
+### M1 · mittel
+
+Wie erhält das Publikum in „Das Piano“ direkten sprachlichen Zugang zu Adas (Holly Hunter) Gedanken, obwohl sie im Alltag schweigt?
+
+- **Richtig: Durch ihre innere Erzählstimme**
+
+- Durch eingeblendete schriftliche Monologe
+
+- Durch nachgesprochene Vermutungen der Tochter
+
+- Durch vorgelesene Tagebücher ihres Mannes
+
+Ada spricht zum Publikum mit einer inneren Erzählstimme.
+
+Ihre Stummheit bedeutet nicht, dass sie keine klaren Gedanken oder Wünsche hätte. Die innere Stimme setzt den Zuschauer in eine andere Lage als die Menschen um Ada: Wir hören eine Person, die ihr Ehemann Alisdair Stewart (Sam Neill) leicht als unverständlich oder beeinträchtigt abtut. Ihr Schweigen kann dadurch als eigenwillige Haltung erscheinen, während Musik und Gesten ihre Beziehungen nach außen bestimmen.
+
+Merksatz: Die Umgebung hört Ada nicht, das Publikum hört ihre Gedanken.
+
+Antwortzusätze:
+
+- Durch ihre innere Erzählstimme: Ada spricht zum Publikum mit einer inneren Erzählstimme.
+
+Quellen: [1](https://www.criterion.com/current/posts/7669-the-piano-gothic-gone-south).
+
+### M2 · mittel
+
+Welche Entdeckung lässt Jane Craig (Holly Hunter) in „Nachrichtenfieber“ an Tom Grunicks (William Hurt) journalistischer Aufrichtigkeit zweifeln?
+
+- Er ließ ein Interview von einem Kollegen übersetzen.
+
+- Er nutzte Material eines ausländischen Nachrichtendienstes.
+
+- **Richtig: Er nahm seine scheinbar spontanen Tränen nachträglich auf.**
+
+- Er kürzte die Antworten einer Gesprächspartnerin für die Sendezeit.
+
+Tom hat seine Tränen für einen Beitrag nachträglich inszeniert.
+
+Tom überzeugt vor der Kamera, obwohl Jane seinem fachlichen Können zunächst misstraut. Sie fühlt sich dennoch zu ihm hingezogen. Als Aaron Altman (Albert Brooks) sie auf die inszenierte Reaktion aufmerksam macht, überprüft sie das Material. Ihre beruflichen Maßstäbe werden damit zu einem Hindernis für die private Beziehung: Die emotionale Wirkung eines Beitrags genügt ihr nicht als Rechtfertigung einer Täuschung.
+
+Merksatz: Janes berufliche Ethik verändert ihre private Entscheidung.
+
+Antwortzusätze:
+
+- Er nahm seine scheinbar spontanen Tränen nachträglich auf.: Tom hat seine Tränen für einen Beitrag nachträglich inszeniert.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Broadcast_News_(film)).
+
+### S1 · schwer
+
+Welche Ordnung erkennen M. J. Monahan (Holly Hunter) und Helen Hudson (Sigourney Weaver) hinter den Mordnachahmungen in „Copykill“?
+
+- Die Entfernung der ursprünglichen Tatorte von San Francisco
+
+- **Richtig: Die Reihenfolge der Täter in Hudsons früherem Vortrag**
+
+- Die alphabetische Ordnung der Familiennamen der Täter
+
+- Die Reihenfolge der Hinrichtungen der Vorbildtäter
+
+Der Mörder folgt der Reihenfolge der Täter in Hudsons Vortrag.
+
+Monahan zieht die Kriminalpsychologin zur Untersuchung heran, nachdem mehrere Morde bekannte Tatmuster wiederholen. Die erkannte Reihenfolge ermöglicht eine Vermutung über die nächste Tat, garantiert aber noch keinen Zugriff. Zugleich wird deutlich, dass Hudson selbst zum Bezugspunkt des Täters geworden ist. Die fachliche Zusammenarbeit der Frauen gerät damit in ein sehr persönliches Bedrohungsszenario.
+
+Merksatz: Hudsons Vortrag liefert dem Täter die Reihenfolge seiner Nachahmungen.
+
+Antwortzusätze:
+
+- Die Reihenfolge der Täter in Hudsons früherem Vortrag: Der Mörder folgt der Reihenfolge der Täter in Hudsons Vortrag.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Copycat_(1995_film)).
+
+### S2 · schwer
+
+Welche Forderung Evies (Nikki Reed) lehnt Melanie (Holly Hunter) in „Dreizehn“ bei dem Besuch von Evies Vormund ab?
+
+- Die Anmeldung an Tracys Schule
+
+- Die Erlaubnis zu einer gemeinsamen Reise
+
+- Die Übernahme der Kosten einer Operation
+
+- **Richtig: Die formelle Adoption Evies**
+
+Melanie lehnt Evies Bitte ab, sie zu adoptieren.
+
+Evie lebt bereits längere Zeit bei Melanie und ihrer Tochter Tracy (Evan Rachel Wood). Die Mutter findet Evies angeblich abwesenden Vormund Brooke (Deborah Kara Unger) schließlich zu Hause. Als Melanie den Adoptionswunsch zurückweist und Tracy sie vorsichtig unterstützt, kippt Evies Bindung in Feindseligkeit. Der folgende Bruch der Mädchen gehört daher auch zu einem Konflikt um Zugehörigkeit und mütterliche Fürsorge.
+
+Merksatz: Evies Wunsch nach Aufnahme in die Familie endet an Melanies Grenze.
+
+Antwortzusätze:
+
+- Die formelle Adoption Evies: Melanie lehnt Evies Bitte ab, sie zu adoptieren.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Thirteen_(2003_film)).
+
+### E1 · experte
+
+Welchen zusätzlichen Anteil hatte Holly Hunter an der Musik von „Das Piano“?
+
+- **Richtig: Sie spielte die Klaviermusik der Figur selbst ein.**
+
+- Sie arrangierte den fertigen Orchestersatz neu.
+
+- Sie komponierte Adas Hauptthema.
+
+- Sie dirigierte die Orchesteraufnahmen.
+
+Hunter spielte die Klaviermusik selbst; Michael Nyman komponierte sie.
+
+Nyman hörte zuvor Aufnahmen ihres Klavierspiels und schrieb die Stücke mit Blick auf ihre musikalischen Möglichkeiten. Die Darstellerin konnte Adas musikalischen Ausdruck deshalb auch klanglich mitgestalten. Für das separat veröffentlichte Album spielte Nyman selbst; die Filmaufnahme und die Albumfassung sind also nicht einfach dieselbe Darbietung.
+
+Merksatz: Adas musikalische Stimme stammt im Film von ihrer Darstellerin.
+
+Antwortzusätze:
+
+- Sie spielte die Klaviermusik der Figur selbst ein.: Hunter spielte die Klaviermusik selbst; Michael Nyman komponierte sie.
+
+Quellen: [1](https://daily.redbullmusicacademy.com/2016/01/michael-nyman-interview/), [2](https://en.wikipedia.org/wiki/The_Piano_(soundtrack)).
+
+### E2 · experte
+
+Welche reale Berufsvertreterin gehörte zu den Vorbildern für Jane Craig, Holly Hunters Figur in „Nachrichtenfieber“?
+
+- Die NBC-Moderatorin Jane Pauley
+
+- Die ABC-Interviewerin Barbara Walters
+
+- **Richtig: Die CBS-Produzentin Susan Zirinsky**
+
+- Die CNN-Kriegsreporterin Christiane Amanpour
+
+Die CBS-Nachrichtenproduzentin Susan Zirinsky war eines der Vorbilder.
+
+Zirinsky wirkte auch als Associate Producer an dem Film mit. Hunters Figur steht nicht in erster Linie selbst vor der Kamera, sondern organisiert die Arbeit der Redaktion und entscheidet mit über die Sendung. Dieses Berufsprofil unterscheidet Jane von den sichtbaren Fernsehgesichtern und macht verständlich, weshalb praktische Redaktionserfahrung für die Rollenentwicklung wichtig war.
+
+Merksatz: Hinter der fiktiven Produzentin steht die Erfahrung realer Redaktionsarbeit.
+
+Antwortzusätze:
+
+- Die CBS-Produzentin Susan Zirinsky: Die CBS-Nachrichtenproduzentin Susan Zirinsky war eines der Vorbilder.
+
+Quellen: [1](https://www.criterion.com/films/27535-broadcast-news).
+
+## Ellen Burstyn · Bekanntheitsgruppe 3
+
+![Ellen Burstyn (1974)](Portraets/085.jpg)
+
+Bild: 1974; Werbefoto zu Der Exorzist; Fotograf nicht ausgewiesen. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Linda_Blair_and_Ellen_Burstyn_in_The_Exorcist.jpg), [TMDB](https://www.themoviedb.org/person/9560).
+
+### L1 · leicht
+
+Welchen Beruf hat Chris MacNeil (Ellen Burstyn) in „Der Exorzist“?
+
+- Ärztin
+
+- Journalistin
+
+- **Richtig: Schauspielerin**
+
+- Universitätsdozentin
+
+Chris MacNeil ist Filmschauspielerin.
+
+Chris hält sich wegen Dreharbeiten in Georgetown auf und lebt mit ihrer Tochter Regan (Linda Blair) in einem gemieteten Haus. Die ersten Veränderungen des Kindes erscheinen zunächst als medizinisches oder psychologisches Problem. Burstyn spielt die zunehmende Verzweiflung einer Mutter, deren berufliche Selbstständigkeit ihr keine Kontrolle über die rätselhafte Bedrohung ihres privaten Lebens gibt.
+
+Merksatz: Der berufliche Drehaufenthalt wird zum privaten Ausnahmezustand.
+
+Antwortzusätze:
+
+- Schauspielerin: Chris MacNeil ist Filmschauspielerin.
+
+Quellen: [1](https://catalog.afi.com/Film/54970-THE-EXORCIST).
+
+### L2 · leicht
+
+Auf welche Aussicht richtet Sara Goldfarb (Ellen Burstyn) in „Requiem for a Dream“ ihre Hoffnungen?
+
+- **Richtig: Auf einen Auftritt im Fernsehen**
+
+- Auf die Rückkehr ihres Mannes
+
+- Auf die Eröffnung eines Modegeschäfts
+
+- Auf einen Umzug zu ihrem Sohn
+
+Sara hofft, in einer Fernsehsendung aufzutreten.
+
+Die verwitwete Sara verbringt viel Zeit vor dem Fernseher. Ein vermeintliches Auswahlverfahren verspricht ihr plötzlich öffentliche Aufmerksamkeit und einen Anlass, wieder in ihr rotes Kleid zu passen. Sie nimmt Appetitzügler, deren Wirkung sie zunehmend abhängig macht. Der Film stellt ihren gesellschaftlich anerkannten Wunsch nach Anerkennung neben die offensichtliche Drogensucht der jüngeren Figuren.
+
+Merksatz: Das versprochene Fernsehlicht treibt Sara in die Abhängigkeit.
+
+Antwortzusätze:
+
+- Auf einen Auftritt im Fernsehen: Sara hofft, in einer Fernsehsendung aufzutreten.
+
+Gemeinsames Wissensziel: K-E20261007-F-046-L1 (E20261007-F-046-L1).
+
+Quellen: [1](https://en.wikipedia.org/wiki/Requiem_for_a_Dream).
+
+### M1 · mittel
+
+Mit welcher Arbeit sichert Alice (Ellen Burstyn) in Tucson ihren Lebensunterhalt in „Alice lebt hier nicht mehr“?
+
+- Als Sekretärin einer Künstleragentur
+
+- **Richtig: Als Kellnerin in einem Diner**
+
+- Als Grundschullehrerin
+
+- Als Verkäuferin in einem Musikgeschäft
+
+Alice arbeitet in Tucson als Kellnerin.
+
+Nach dem Tod ihres Mannes bricht Alice mit ihrem Sohn Tommy (Alfred Lutter) auf, um wieder als Sängerin zu arbeiten. Eine bedrohliche Beziehung in Phoenix zwingt sie zum erneuten Aufbruch. In Tucson bietet der Kellnerinnenjob zunächst Stabilität, während ihr eigentlicher Berufswunsch offenbleibt. Die Handlung verbindet die Suche nach persönlicher Freiheit mit der sehr konkreten Aufgabe, ein Kind zu versorgen.
+
+Merksatz: Alice braucht ein Einkommen, während ihr Sängerinnentraum weiterbesteht.
+
+Antwortzusätze:
+
+- Als Kellnerin in einem Diner: Alice arbeitet in Tucson als Kellnerin.
+
+Quellen: [1](https://catalog.afi.com/Film/53907-ALICE-DOESNTLIVEHEREANYMORE?cp=1&cxt=Filmography1&pos=8&sid=3a2d9897-e5c6-4e31-b00a-165ef71417b2&sr=0.02692305).
+
+### M2 · mittel
+
+Welche frühere Beziehung offenbart Lois Farrow (Ellen Burstyn) Sonny (Timothy Bottoms) in „Die letzte Vorstellung“?
+
+- **Richtig: Sam war ihr erster wirklicher Geliebter.**
+
+- Sam war ihr leiblicher Vater.
+
+- Sam war ihr älterer Bruder.
+
+- Sam war ihr früherer Ehemann.
+
+Lois erzählt, dass Sam ihre erste große Liebe war.
+
+Sonny hat gerade versucht, Lois’ Tochter Jacy (Cybill Shepherd) zu heiraten. Auf der Rückfahrt erklärt Lois ihm, dass er bei Ruth Popper (Cloris Leachman) besser aufgehoben wäre. Ihre Erinnerung an Sam (Ben Johnson) gibt dem Rat einen persönlichen Hintergrund. Die Erwachsenen besitzen dieselbe Sehnsucht nach Nähe wie die Jugendlichen, obwohl ihre enttäuschten Möglichkeiten bereits länger zurückliegen.
+
+Merksatz: Lois’ Rat an Sonny beruht auch auf ihrer Erinnerung an Sam.
+
+Antwortzusätze:
+
+- Sam war ihr erster wirklicher Geliebter.: Lois erzählt, dass Sam ihre erste große Liebe war.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Last_Picture_Show).
+
+### S1 · schwer
+
+Welche religiöse Deutung ihrer Heilkräfte weist Edna Mae (Ellen Burstyn) gegenüber Cal (Sam Shepard) in „Der starke Wille“ zurück?
+
+- Sie könne künftiges Unglück vorhersehen.
+
+- Sie sei von ihrem verstorbenen Mann geführt.
+
+- Sie empfange Botschaften eines Schutzengels.
+
+- **Richtig: Sie sei die Wiederkehr Christi und dessen Werkzeug.**
+
+Edna Mae will Cals Deutung als Wiederkehr und Werkzeug Christi nicht übernehmen.
+
+Nach einem schweren Unfall entwickelt Edna Mae die Fähigkeit, Menschen zu heilen. Cal, den sie selbst gerettet hat, möchte ihre Arbeit zunehmend religiös erklären und kontrollieren. Sie lässt sich nicht auf diese festgelegte Rolle verpflichten. Sein Bedürfnis nach einer eindeutigen Deutung wird schließlich gewalttätig. Später setzt sie ihre Hilfe an einem abgelegenen Ort ohne öffentlichen Kult fort.
+
+Merksatz: Edna Maes Gabe entzieht sich Cals Anspruch auf religiöse Deutungshoheit.
+
+Antwortzusätze:
+
+- Sie sei die Wiederkehr Christi und dessen Werkzeug.: Edna Mae will Cals Deutung als Wiederkehr und Werkzeug Christi nicht übernehmen.
+
+Quellen: [1](https://catalog.afi.com/Film/56493-RESURRECTION).
+
+### S2 · schwer
+
+Wie antwortet Doris (Ellen Burstyn) in „Nächstes Jahr, selbe Zeit“, als der verwitwete George (Alan Alda) sie heiraten will?
+
+- Sie sagt zu, verschiebt die Hochzeit aber bis zur Pensionierung.
+
+- Sie sagt zu und zieht sofort zu ihm.
+
+- **Richtig: Sie lehnt ab, weil sie ihren Mann nicht verlassen will.**
+
+- Sie verlangt zuerst die Zustimmung ihrer Kinder.
+
+Doris will ihren Mann nicht verlassen und lehnt die Heirat ab.
+
+Die beiden treffen sich seit Jahrzehnten zu einer jährlichen Affäre. Ihre Berufe, Überzeugungen und familiären Bindungen verändern sich zwischen den Begegnungen. Georges Wunsch nach einer gemeinsamen Ehe kann diese gewachsene Ordnung dennoch nicht einfach ersetzen. Nach seiner ersten Enttäuschung entscheidet er sich, die Treffen fortzusetzen. Doris’ Bindung an ihn führt also nicht zur Aufgabe ihres übrigen Lebens.
+
+Merksatz: Doris hält an ihrem Eheleben fest, ohne die Verbindung zu George aufzugeben.
+
+Antwortzusätze:
+
+- Sie lehnt ab, weil sie ihren Mann nicht verlassen will.: Doris will ihren Mann nicht verlassen und lehnt die Heirat ab.
+
+Quellen: [1](https://catalog.afi.com/Film/56991-SAME-TIME-NEXT-YEAR?cxt=filmography).
+
+### E1 · experte
+
+Welche Mitspracherechte erhielt Ellen Burstyn für „Alice lebt hier nicht mehr“?
+
+- Die Auswahl der Verleihkinos und Kontrolle der Werbung
+
+- Die alleinige Entscheidung über Kamera und Filmmusik
+
+- Die Leitung des Schnitts und des internationalen Vertriebs
+
+- **Richtig: Die Auswahl des Regisseurs und Freigabe des Drehbuchs**
+
+Burstyn konnte den Regisseur auswählen und das Drehbuch freigeben.
+
+Sie nahm den lange abgelehnten Stoff an, weil eine Frau und deren Suche nach einem selbstständigen Leben im Zentrum standen. Ihre Wahl fiel auf Martin Scorsese. Beide experimentierten zusätzlich mit improvisierten Szenen, deren Ergebnisse Robert Getchell in das Drehbuch einarbeitete. Burstyns Einfluss lag somit bereits in der Entwicklung der Figur und ihrer Geschichte, lange vor dem fertigen Spiel vor der Kamera.
+
+Merksatz: Burstyn gestaltete den Stoff und wählte ihre Regiezusammenarbeit.
+
+Antwortzusätze:
+
+- Die Auswahl des Regisseurs und Freigabe des Drehbuchs: Burstyn konnte den Regisseur auswählen und das Drehbuch freigeben.
+
+Quellen: [1](https://www.afi.com/news/afi-movie-club-alice-doesnt-live-here-anymore/).
+
+### E2 · experte
+
+Welche langfristigen Aufgaben übernahm Ellen Burstyn am Actors Studio neben ihrer eigenen Schauspielarbeit?
+
+- Die Auswahl neuer Stücke und Leitung der Dramaturgie
+
+- **Richtig: Künstlerische Leitung und Mitpräsidentschaft**
+
+- Die Organisation internationaler Gastspiele und Seminare
+
+- Die Leitung der Öffentlichkeitsarbeit und des Fundraisings
+
+Burstyn übernahm künstlerische Leitungsaufgaben und die Mitpräsidentschaft.
+
+Die offizielle Leitungsgeschichte nennt sie zunächst gemeinsam mit Al Pacino als künstlerische Leiterin in New York, später auch allein. Ab 1995 gehörte sie neben Pacino und Harvey Keitel zur gemeinsamen Präsidentschaft; die Zusammensetzung änderte sich später. Ihre Verbindung zum Studio umfasst damit über Jahrzehnte die Verantwortung für einen Arbeitsort, an dem Schauspieler ihre Methoden erproben und weiterentwickeln.
+
+Merksatz: Burstyns Laufbahn umfasst auch dauerhafte Verantwortung für Schauspielarbeit anderer.
+
+Antwortzusätze:
+
+- Künstlerische Leitung und Mitpräsidentschaft: Burstyn übernahm künstlerische Leitungsaufgaben und die Mitpräsidentschaft.
+
+Quellen: [1](https://theactorsstudio.org/who-we-are/leadership/).
+
+## Mia Farrow · Bekanntheitsgruppe 3
+
+![Mia Farrow (1965)](Portraets/086.jpg)
+
+Bild: 1965; Unknown photographer. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Mia_Farrow_1965_press_photo.jpg), [TMDB](https://www.themoviedb.org/person/12021).
+
+### L1 · leicht
+
+Wer ist nach der Enthüllung im Finale der Vater von Rosemarys (Mia Farrow) Kind in „Rosemaries Baby“?
+
+- Dr. Sapirstein
+
+- **Richtig: Satan**
+
+- Roman Castevet
+
+- Guy Woodhouse
+
+Das Kind wird als Satans Sohn enthüllt.
+
+Rosemary hat die Schwangerschaft zunächst als privaten Neuanfang innerhalb ihrer Ehe verstanden. Die Nachbarn und ihr Mann Guy (John Cassavetes) greifen jedoch immer stärker in ihr Leben ein. Am Ende findet sie eine Gemeinschaft, die das Kind für ihren eigenen Kult beansprucht. Farrows Darstellung hält diese große Verschwörung eng an die körperliche Angst und das Misstrauen einer einzelnen Frau gebunden.
+
+Merksatz: Rosemarys Schwangerschaft wurde für einen satanistischen Plan benutzt.
+
+Antwortzusätze:
+
+- Satan: Das Kind wird als Satans Sohn enthüllt.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Rosemary%27s_Baby_(film)).
+
+### L2 · leicht
+
+Mit wem ist Daisy (Mia Farrow) zu Beginn von „Der große Gatsby“ aus dem Jahr 1974 verheiratet?
+
+- George Wilson
+
+- Jay Gatsby
+
+- Nick Carraway
+
+- **Richtig: Tom Buchanan**
+
+Daisy ist mit Tom Buchanan verheiratet.
+
+Gatsby (Robert Redford) besitzt inzwischen großen Reichtum und hofft, seine frühere Beziehung mit Daisy wiederherzustellen. Ihre Ehe mit Tom (Bruce Dern) steht dieser Vorstellung im Weg. Für Gatsby scheint die Vergangenheit korrigierbar, wenn nur die äußeren Bedingungen stimmen. Daisy bleibt dagegen in einer gesellschaftlich abgesicherten Welt, deren Bindungen sich nicht allein durch romantische Entschlossenheit lösen lassen.
+
+Merksatz: Daisys Ehe und Gatsbys Vergangenheitstraum geraten gegeneinander.
+
+Antwortzusätze:
+
+- Tom Buchanan: Daisy ist mit Tom Buchanan verheiratet.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/54022).
+
+### M1 · mittel
+
+Was geschieht zwischen Cecilia (Mia Farrow) und der Filmfigur Tom Baxter (Jeff Daniels) in „The Purple Rose of Cairo“?
+
+- Sie verwechselt seinen Darsteller mit ihrem Ehemann.
+
+- Er liest ihr nach der Vorstellung ein neues Drehbuch vor.
+
+- Sie tritt als Komparsin in seinen nächsten Film ein.
+
+- **Richtig: Er steigt von der Leinwand in ihre wirkliche Welt.**
+
+Tom Baxter verlässt den Film auf der Leinwand und begegnet Cecilia in ihrer Welt.
+
+Cecilia flieht vor einer unglücklichen Ehe und einer bedrückenden Arbeit ins Kino. Als Tom sie anspricht und herauskommt, wird diese Fluchtmöglichkeit wörtlich. Später erscheint auch Gil Shepherd (ebenfalls Jeff Daniels), der Schauspieler hinter der Figur. Cecilia muss sich zwischen einer erfundenen Person und einem wirklichen Darsteller entscheiden; dieselbe Gestalt bietet zwei sehr unterschiedliche Versprechen.
+
+Merksatz: Der ersehnte Filmheld tritt in Cecilias Alltag.
+
+Antwortzusätze:
+
+- Er steigt von der Leinwand in ihre wirkliche Welt.: Tom Baxter verlässt den Film auf der Leinwand und begegnet Cecilia in ihrer Welt.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Purple_Rose_of_Cairo).
+
+### M2 · mittel
+
+Welche Beziehung zu Simon Doyle (Simon MacCorkindale) behauptet Jacqueline (Mia Farrow) in „Tod auf dem Nil“ zunächst öffentlich?
+
+- **Richtig: Sie sei seine verlassene Verlobte.**
+
+- Sie sei seine Schwester.
+
+- Sie sei seine Geschäftspartnerin.
+
+- Sie sei seine erste Ehefrau.
+
+Jacqueline tritt als Simons verlassene Verlobte auf.
+
+Simon hat die reiche Linnet (Lois Chiles) geheiratet, eine frühere Freundin Jacquelines. Jacqueline verfolgt das Paar demonstrativ auf seiner Reise und erscheint dadurch als offen eifersüchtige Bedrohung. Poirot (Peter Ustinov) muss später erkennen, dass dieses sichtbare Drama einen gemeinsamen Plan verdeckt: Simon und Jacqueline sind weiterhin verbunden und wollen Linnets Vermögen erlangen.
+
+Merksatz: Die verlassene Verlobte spielt ihre öffentliche Rolle für einen gemeinsamen Plan.
+
+Antwortzusätze:
+
+- Sie sei seine verlassene Verlobte.: Jacqueline tritt als Simons verlassene Verlobte auf.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Death_on_the_Nile_(1978_film)).
+
+### S1 · schwer
+
+Mit welcher Methode erschließt Dr. Eudora Fletcher (Mia Farrow) in „Zelig“ den Anpassungszwang ihres Patienten?
+
+- Mit freier Assoziation und Traumprotokollen
+
+- **Richtig: Mit Hypnose**
+
+- Mit systematischer Konfrontation in sozialen Situationen
+
+- Mit einer medikamentösen Schlafbehandlung
+
+Fletcher setzt Hypnose ein.
+
+Leonard Zelig (Woody Allen) nimmt die Eigenschaften seiner jeweiligen Umgebung an, um akzeptiert zu werden. Unter Hypnose spricht er über seine Angst, als ungebildet oder anders aufzufallen. Fletcher versucht, ihm eine eigene Persönlichkeit und zugleich das Gefühl bedingungsloser Annahme zu geben. Die Beziehung zeigt damit, wie ein Wunsch nach Zugehörigkeit bis zur vollständigen Selbstverleugnung führen kann.
+
+Merksatz: Zelig passt sich an, um geliebt und anerkannt zu werden.
+
+Antwortzusätze:
+
+- Mit Hypnose: Fletcher setzt Hypnose ein.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Zelig).
+
+### S2 · schwer
+
+Welche Erfahrung nimmt das Einhorn (englische Originalstimme: Mia Farrow) in „Das letzte Einhorn“ aus seiner Zeit als Amalthea mit?
+
+- **Richtig: Das Wissen um Liebe und Bedauern**
+
+- Die Fähigkeit, künftig beliebig Gestalten zu wechseln
+
+- Die Gewissheit, seine Unsterblichkeit endgültig verloren zu haben
+
+- Den Verlust jeder Erinnerung an die Menschen
+
+Es kennt nun Liebe und Bedauern, die ihm zuvor fremd waren.
+
+Die Verwandlung in die menschliche Amalthea schützt das Einhorn zunächst vor dem Roten Stier. Zugleich bindet sie es an Prinz Lír (Jeff Bridges) und an ein sterbliches Leben. Nach der Befreiung der anderen Einhörner kehrt es in seine eigene Gestalt zurück. Die Rückkehr macht die Erfahrung jedoch nicht ungeschehen: Es verlässt die Menschen als verändertes Wesen.
+
+Merksatz: Die Rückverwandlung bewahrt die Erinnerung an Liebe und Verlust.
+
+Antwortzusätze:
+
+- Das Wissen um Liebe und Bedauern: Es kennt nun Liebe und Bedauern, die ihm zuvor fremd waren.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Last_Unicorn_(film)).
+
+### E1 · experte
+
+Mit welcher Erzählform stellt „Zelig“ die fiktive Geschichte um Dr. Fletcher (Mia Farrow) als scheinbar historische Wirklichkeit dar?
+
+- Als Rückblick eines behandelnden Arztes auf seinen Fall
+
+- Als Gerichtsverfahren mit widersprüchlichen Zeugenaussagen
+
+- **Richtig: Als Zusammenstellung von Wochenschauen, Fotos und Zeugeninterviews**
+
+- Als Tagebuchverfilmung aus der Sicht des Patienten
+
+Der Film imitiert eine historische Dokumentation mit Wochenschauen, Fotos und Interviews.
+
+Die Darsteller werden in ein Bild des frühen 20. Jahrhunderts eingebettet, das wie überliefertes Material erscheint. Zeitgenössische Kommentare und vermeintliche Erinnerungen stützen diese Wirkung. Selbst der Dank an Dr. Fletcher im Vorspann gehört zur Erfindung. Die Form führt damit vor, wie vertraute dokumentarische Zeichen Glaubwürdigkeit erzeugen können, obwohl das porträtierte Leben nicht stattgefunden hat.
+
+Merksatz: Die erfundene Lebensgeschichte trägt die Zeichen historischer Dokumentation.
+
+Antwortzusätze:
+
+- Als Zusammenstellung von Wochenschauen, Fotos und Zeugeninterviews: Der Film imitiert eine historische Dokumentation mit Wochenschauen, Fotos und Interviews.
+
+Quellen: [1](https://catalog.afi.com/Film/58167-ZELIG).
+
+### E2 · experte
+
+Bei welchem Londoner Ensemble wurde Mia Farrow als erste amerikanische Schauspielerin aufgenommen?
+
+- Beim National Theatre
+
+- Beim Old Vic
+
+- **Richtig: Bei der Royal Shakespeare Company**
+
+- Beim Royal Court Theatre
+
+Farrow wurde Mitglied der Royal Shakespeare Company.
+
+Ihre Laufbahn führte neben Fernsehen und Film auch auf britische und amerikanische Bühnen. Die Royal Shakespeare Company gehört zu diesem beruflichen Hintergrund, lange bevor ihr öffentliches Bild hauptsächlich mit bestimmten Filmzusammenarbeiten verbunden wurde. Später übernahm Farrow zusätzlich humanitäre Aufgaben für UNICEF. Das offizielle UNICEF-Porträt erinnert ausdrücklich auch an ihre frühe Theaterarbeit.
+
+Merksatz: Farrows Arbeit führte auch in ein britisches Shakespeare-Ensemble.
+
+Antwortzusätze:
+
+- Bei der Royal Shakespeare Company: Farrow wurde Mitglied der Royal Shakespeare Company.
+
+Quellen: [1](https://www.unicef.org/goodwill-ambassadors/mia-farrow).
+
+## Pam Grier · Bekanntheitsgruppe 3
+
+![Pam Grier (1979)](Portraets/087.jpg)
+
+Bild: 1979; HarryLangdon. CC0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Pam_Grier_in_1979_by_Harry_Langdon.jpg), [TMDB](https://www.themoviedb.org/person/2230).
+
+### L1 · leicht
+
+Welchen Beruf hat die Titelheldin (Pam Grier) in „Jackie Brown“?
+
+- Zollbeamtin
+
+- **Richtig: Flugbegleiterin**
+
+- Hoteldetektivin
+
+- Reisebüroleiterin
+
+Jackie Brown arbeitet als Flugbegleiterin.
+
+Jackie verdient wenig und schmuggelt auf ihren Flügen Geld für den Waffenhändler Ordell Robbie (Samuel L. Jackson). Als die Ermittler sie abfangen, drohen ihr Haft und der Verlust ihres Arbeitsplatzes. Auch Ordell wird zur Gefahr. Grier spielt eine Frau, die ihre knappen Handlungsmöglichkeiten genau abwägen muss und schließlich einen eigenen Ausweg zwischen Polizei und Auftraggeber sucht.
+
+Merksatz: Jackies reguläre Flugreisen ermöglichen den Geldschmuggel.
+
+Antwortzusätze:
+
+- Flugbegleiterin: Jackie Brown arbeitet als Flugbegleiterin.
+
+Quellen: [1](https://player.bfi.org.uk/rentals/film/watch-jackie-brown-1997-online), [2](https://bfidatadigipres.github.io/re-releases/2022/09/09/jackie-brown/).
+
+### L2 · leicht
+
+Was ist Coffy (Pam Grier) von Beruf, bevor sie in „Coffy“ auf eigene Faust gegen Drogenhändler vorgeht?
+
+- Sozialarbeiterin
+
+- Strafverteidigerin
+
+- Polizistin
+
+- **Richtig: Krankenschwester**
+
+Coffy arbeitet als Krankenschwester.
+
+Coffys elfjährige Schwester LuBelle ist heroinabhängig geworden. Die Schwester erlebt die Folgen des Drogenhandels deshalb sowohl in ihrer Familie als auch als Beschäftigte eines Krankenhauses. Ihre Vergeltung beginnt mit den unmittelbar Verantwortlichen, führt sie aber zu einem größeren Geflecht aus Geschäftemachern und korrupten Beschützern. Die pflegende Arbeit und die gewaltsame Selbstjustiz gehören zu derselben Figur.
+
+Merksatz: Die Krankenschwester nimmt die Verfolgung der Drogenhändler selbst in die Hand.
+
+Antwortzusätze:
+
+- Krankenschwester: Coffy arbeitet als Krankenschwester.
+
+Quellen: [1](https://catalog.afi.com/Film/54903-COFFY).
+
+### M1 · mittel
+
+Wie verschafft sich Foxy (Pam Grier) in „Foxy Brown“ Zugang zum kriminellen Netzwerk hinter dem Mord an ihrem Freund?
+
+- **Richtig: Sie gibt sich als Prostituierte aus.**
+
+- Sie bietet sich als Drogenkurierin an.
+
+- Sie bewirbt sich als Buchhalterin.
+
+- Sie tritt als zahlungskräftige Kundin auf.
+
+Foxy lässt sich unter falschem Namen in einen Prostitutionsring aufnehmen.
+
+Ihr Freund Michael Anderson (Terry Carter) hat als verdeckter Ermittler gegen Drogenhändler gearbeitet. Nach seiner Enttarnung und Ermordung erfährt Foxy, dass Katherine Wall (Kathryn Loder) ein Begleitgeschäft als Teil ihres Netzwerks führt. Foxy bewirbt sich dort als Misty Cotton. Ein Auftrag mit Claudia (Juanita Brown) zeigt ihr, wie die Frauen zur Beeinflussung eines Richters eingesetzt werden.
+
+Merksatz: Foxy infiltriert das Begleitgeschäft als vermeintliche neue Mitarbeiterin.
+
+Antwortzusätze:
+
+- Sie gibt sich als Prostituierte aus.: Foxy lässt sich unter falschem Namen in einen Prostitutionsring aufnehmen.
+
+Quellen: [1](https://catalog.afi.com/Film/67587-FOXY-BROWN).
+
+### M2 · mittel
+
+Wer hilft Jackie (Pam Grier) in „Jackie Brown“ bei ihrem eigenen Plan für das Geld?
+
+- Ordells Komplize Louis Gara
+
+- Waffenhändler Ordell Robbie
+
+- **Richtig: Kautionsvermittler Max Cherry**
+
+- ATF-Ermittler Ray Nicolette
+
+Der Kautionsvermittler Max Cherry wird Jackies Verbündeter.
+
+Max Cherry (Robert Forster) begegnet Jackie, nachdem Ordell Robbie (Samuel L. Jackson) ihre Kaution bezahlt hat. Aus dem geschäftlichen Kontakt entwickelt sich persönliche Zuneigung. Jackie bezieht ihn in einen Geldtausch ein, mit dem sie Ordell und die Ermittler gegeneinander ausspielt. Max unterstützt ihren Ausweg; als sie später gemeinsam nach Spanien gehen könnten, entscheidet er sich jedoch gegen die Reise.
+
+Merksatz: Max wird vom Kautionsvermittler zu Jackies Vertrauensperson.
+
+Antwortzusätze:
+
+- Kautionsvermittler Max Cherry: Der Kautionsvermittler Max Cherry wird Jackies Verbündeter.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Jackie_Brown).
+
+### S1 · schwer
+
+Wie unterscheiden sich die Ziele von Lee (Pam Grier) und Karen (Margaret Markov) in „Black Mama White Mama“?
+
+- Lee sucht Rebellen; Karen plant einen Geldtransportüberfall.
+
+- **Richtig: Lee sucht Geld und Abreise; Karen sichert Waffen für Rebellen.**
+
+- Lee befreit ihren Bruder; Karen läuft zur Polizei über.
+
+- Lee rettet einen Zeugen; Karen bringt ihre Familie ins Ausland.
+
+Lee sucht Geld und einen Fluchtweg, Karen verfolgt ein politisches Waffenabkommen.
+
+Die beiden Gefangenen entkommen bei einem Überfall auf ihren Transport, bleiben aber aneinandergekettet. Lee will Geld zurückholen, das sie ihrem früheren Zuhälter abgenommen hat, und mit einem Boot fliehen. Karen muss rechtzeitig ihre Waffenlieferanten erreichen, um ihre Mitkämpfer nicht zu gefährden. Ihre erzwungene Nähe verlangt Zusammenarbeit, obwohl die private Rettung der einen und die revolutionäre Aufgabe der anderen zunächst auseinanderführen.
+
+Merksatz: Eine gemeinsame Flucht verbindet zwei unterschiedliche Vorstellungen von Freiheit.
+
+Antwortzusätze:
+
+- Lee sucht Geld und Abreise; Karen sichert Waffen für Rebellen.: Lee sucht Geld und einen Fluchtweg, Karen verfolgt ein politisches Waffenabkommen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Black_Mama_White_Mama).
+
+### S2 · schwer
+
+Wie entscheidet sich Sheba Shayne (Pam Grier) am Ende von „Sheba, Baby“, als Brick sie zum Bleiben bewegen möchte?
+
+- Sie bleibt und beginnt eine gemeinsame Detektei mit Brick.
+
+- Sie nimmt Brick mit und gibt ihre Arbeit in Chicago auf.
+
+- Sie bleibt und übernimmt dauerhaft die Leitung des Familienbetriebs.
+
+- **Richtig: Sie kehrt nach Chicago zurück und verspricht weitere Besuche.**
+
+Sheba kehrt nach Chicago zurück, ohne den Kontakt zu Brick abzubrechen.
+
+Die Privatdetektivin kommt nach Louisville, weil Gangster den Betrieb ihres Vaters bedrängen. Dort arbeitet sie mit dessen Geschäftspartner Brick Williams (Austin Stoker) zusammen; eine frühere Liebe lebt wieder auf. Auch nach dem gewaltsamen Tod des Vaters und dem Kampf gegen die Verantwortlichen entscheidet Sheba sich für ihre Rückkehr nach Chicago. Ihre neue geschäftliche Verbindung zu Brick lässt zugleich ein Wiedersehen offen.
+
+Merksatz: Sheba verbindet persönliche Nähe mit der Fortsetzung ihres eigenen Berufslebens.
+
+Antwortzusätze:
+
+- Sie kehrt nach Chicago zurück und verspricht weitere Besuche.: Sheba kehrt nach Chicago zurück, ohne den Kontakt zu Brick abzubrechen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Sheba,_Baby).
+
+### E1 · experte
+
+Welche Veränderung an Elmore Leonards Romanfigur gehört zur Besetzung von Pam Grier als „Jackie Brown“?
+
+- **Richtig: Aus einer weißen Frau wurde eine schwarze Frau.**
+
+- Aus einer jungen Frau wurde eine Rentnerin.
+
+- Aus einer Polizistin wurde eine Flugbegleiterin.
+
+- Aus einer Nebenfigur wurde die Mutter des Ermittlers.
+
+Die im Roman weiße Jackie Burke wurde als schwarze Jackie Brown für Pam Grier gestaltet.
+
+Quentin Tarantino wollte die Hauptfigur von „Rum Punch“ als Frau in ihren Vierzigern erhalten. Jüngere Besetzungen hätten für ihn ihre wirtschaftliche Sackgasse verändert. Mit Grier fand er die passende Darstellerin und änderte die zuvor weiße Figur. Im BFI-Interview erläutert er, dass eine schwarze Frau in dieser prekären Dienstleistungsarbeit dem Konflikt für ihn zusätzliche Schärfe gab.
+
+Merksatz: Die Adaption bewahrt Jackies Lebensalter und gestaltet ihre Herkunft für Grier neu.
+
+Antwortzusätze:
+
+- Aus einer weißen Frau wurde eine schwarze Frau.: Die im Roman weiße Jackie Burke wurde als schwarze Jackie Brown für Pam Grier gestaltet.
+
+Quellen: [1](https://bfidatadigipres.github.io/re-releases/2022/09/09/jackie-brown/).
+
+### E2 · experte
+
+Welche Arbeit bei American International Pictures half Pam Grier zunächst, ihre geplante Filmausbildung zu finanzieren?
+
+- Sie schnitt Werbetrailer.
+
+- Sie arbeitete als Kameraassistentin.
+
+- **Richtig: Sie arbeitete am Empfang.**
+
+- Sie betreute Requisiten.
+
+Grier arbeitete bei American International Pictures als Empfangskraft.
+
+Im NPR-Interview berichtet Grier, dass sie nach Kalifornien kam, um eine Filmausbildung zu beginnen, und dafür Geld verdienen musste. Sie dachte zunächst eher an Kamera- oder andere Aufgaben im Team als an eine Schauspielkarriere. Ihre Arbeit am Empfang brachte sie in die Nähe der Produktion. Die spätere Actiondarstellerin kam somit nicht mit einem bereits festgelegten Starplan in die Branche.
+
+Merksatz: Der Einstieg führte über die Arbeit am Empfang und den Wunsch nach einer Filmausbildung.
+
+Antwortzusätze:
+
+- Sie arbeitete am Empfang.: Grier arbeitete bei American International Pictures als Empfangskraft.
+
+Quellen: [1](https://www.kosu.org/arts-culture/2024-05-11/pam-grier-on-season-2-of-them-the-scare-and-black-representation-in-hollywood).
+
+## Linda Hamilton · Bekanntheitsgruppe 3
+
+![Linda Hamilton (1997)](Portraets/088.jpg)
+
+Bild: 1997; Matthew Simoneau from Boston, MA, United States. CC BY 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Linda_Hamilton_1.JPG), [TMDB](https://www.themoviedb.org/person/2713).
+
+### L1 · leicht
+
+Warum wird Sarah Connor (Linda Hamilton) im ersten „Terminator“ zum Ziel der Maschine?
+
+- **Richtig: Sie wird die Mutter des künftigen Widerstandsanführers.**
+
+- Sie hat die erste Kampfmaschine konstruiert.
+
+- Sie hat geheime Daten des Militärs gestohlen.
+
+- Sie soll die Firma hinter dem Maschinenprogramm leiten.
+
+Sarah soll den späteren Widerstandsanführer John Connor zur Welt bringen.
+
+Sarah lebt zunächst als Kellnerin ohne Kenntnis des kommenden Maschinenkriegs. Der Terminator (Arnold Schwarzenegger) soll ihre spätere Mutterschaft verhindern; Kyle Reese (Michael Biehn) kommt, um sie zu schützen. Damit wird ein Zukunftskonflikt auf einen Menschen konzentriert, der seine zugeschriebene Bedeutung erst verstehen muss. Sarah überlebt nicht als bereits ausgebildete Kämpferin, sondern lernt unter dem Druck der Verfolgung.
+
+Merksatz: Sarahs zukünftiger Sohn macht ihr gegenwärtiges Leben zum Angriffsziel.
+
+Antwortzusätze:
+
+- Sie wird die Mutter des künftigen Widerstandsanführers.: Sarah soll den späteren Widerstandsanführer John Connor zur Welt bringen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Terminator).
+
+### L2 · leicht
+
+Welches öffentliche Amt hat Rachel Wando (Linda Hamilton) in „Dante’s Peak“?
+
+- Feuerwehrkommandantin
+
+- Sheriff
+
+- Leiterin des Katastrophenschutzes
+
+- **Richtig: Bürgermeisterin**
+
+Rachel Wando ist Bürgermeisterin von Dante’s Peak.
+
+Als der Vulkanologe Harry Dalton (Pierce Brosnan) Warnzeichen untersucht, begegnet er Rachel sowohl als Vertreterin der Stadt als auch als Mutter zweier Kinder. Ein möglicher Ausbruch betrifft den Tourismus und das Vertrauen der Bevölkerung. Während die wissenschaftlichen Einschätzungen zunächst auseinandergehen, wird aus der öffentlichen Entscheidung über Vorsorge eine unmittelbare Flucht- und Rettungsaufgabe für ihre Familie.
+
+Merksatz: Rachel trägt Verantwortung für die Stadt und ihre eigenen Kinder.
+
+Antwortzusätze:
+
+- Bürgermeisterin: Rachel Wando ist Bürgermeisterin von Dante’s Peak.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Dante%27s_Peak).
+
+### M1 · mittel
+
+Wo wird Sarah Connor (Linda Hamilton) zu Beginn von „Terminator 2 – Tag der Abrechnung“ festgehalten?
+
+- In einem Zeugenschutzquartier
+
+- **Richtig: In einer psychiatrischen Klinik**
+
+- In einem Militärgefängnis
+
+- In einer geschlossenen Entzugseinrichtung
+
+Sarah befindet sich in der psychiatrischen Klinik Pescadero.
+
+Sarah hat versucht, den bevorstehenden Maschinenkrieg zu verhindern, und gilt mit ihren Warnungen als wahnkrank. Ihr Sohn John (Edward Furlong) lebt bei Pflegeeltern und zweifelt ebenfalls an ihr. Als ein neuer Terminator ihn verfolgt, besteht John darauf, Sarah zu retten. Bei ihrer Flucht muss sie ausgerechnet einer Maschine vertrauen, die wie ihr früherer Verfolger aussieht.
+
+Merksatz: Sarahs Wissen um die Zukunft erscheint ihrer Umwelt als Wahn.
+
+Antwortzusätze:
+
+- In einer psychiatrischen Klinik: Sarah befindet sich in der psychiatrischen Klinik Pescadero.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/67074).
+
+### M2 · mittel
+
+Welche berufliche Veränderung vollzieht Catherine Chandler (Linda Hamilton) nach ihrem Überfall in der Fernsehserie „Die Schöne und das Biest“?
+
+- Von der Opferhilfe zur Gerichtsmedizin
+
+- Von einer Zeitung zur Anwaltskanzlei
+
+- Von der Staatsanwaltschaft zur Mordkommission
+
+- **Richtig: Von der Anwaltskanzlei zur Staatsanwaltschaft**
+
+Catherine verlässt die Kanzlei ihres Vaters und wechselt zur Staatsanwaltschaft.
+
+Vincent (Ron Perlman) rettet Catherine nach einem brutalen Angriff und pflegt sie in einer verborgenen Gemeinschaft unter New York. Zurück an der Oberfläche richtet sie ihr Leben neu aus und verlässt die komfortable Arbeit in der väterlichen Kanzlei. Ihre Tätigkeit bei der Staatsanwaltschaft verbindet die Liebesgeschichte mit Kriminalfällen; Vincent spürt über ihre besondere Bindung, wenn Catherine in Gefahr ist.
+
+Merksatz: Die Begegnung mit Vincent geht mit einem Wechsel in den öffentlichen Justizdienst einher.
+
+Antwortzusätze:
+
+- Von der Anwaltskanzlei zur Staatsanwaltschaft: Catherine verlässt die Kanzlei ihres Vaters und wechselt zur Staatsanwaltschaft.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1987_TV_series)).
+
+### S1 · schwer
+
+Wie endet Sarahs (Linda Hamilton) Mordversuch an Miles Dyson in „Terminator 2 – Tag der Abrechnung“?
+
+- John nimmt Dyson fest und übergibt ihn den Behörden.
+
+- **Richtig: Sarah bricht ab; Dyson hilft danach, seine Forschung zu zerstören.**
+
+- Dyson wird getötet; seine Mitarbeiter setzen die Forschung fort.
+
+- Dyson flieht und bietet Sarah später geheime Unterlagen an.
+
+Sarah bringt es nicht über sich, Dyson zu töten; er wird anschließend zum Verbündeten.
+
+Sarah hält den Entwickler Miles Dyson (Joe Morton) für den entscheidenden Ansatzpunkt, um Skynet zu verhindern. Sie greift ihn zu Hause an, vollendet den Mord aber nicht. John (Edward Furlong) und der T-800 (Arnold Schwarzenegger) klären Dyson über die Zukunft auf. Statt den unwissenden Forscher zu beseitigen, zerstört die Gruppe nun gemeinsam die Grundlagen seiner Arbeit bei Cyberdyne.
+
+Merksatz: Der vorgesehene Mord wird durch Aufklärung und gemeinsame Zerstörung der Forschung ersetzt.
+
+Antwortzusätze:
+
+- Sarah bricht ab; Dyson hilft danach, seine Forschung zu zerstören.: Sarah bringt es nicht über sich, Dyson zu töten; er wird anschließend zum Verbündeten.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day).
+
+### S2 · schwer
+
+Welche Gegenmaßnahme erkennt Vicky (Linda Hamilton) beim Lesen von Jobs Bibel im Finale von „Kinder des Zorns“?
+
+- **Richtig: Das Maisfeld mit Feuer vernichten**
+
+- Den unterirdischen Bewässerungskanal öffnen
+
+- Die Ernte vor Tagesanbruch einholen
+
+- Den Kultführer im Maisfeld bestatten
+
+Vicky erkennt, dass das Maisfeld verbrannt werden muss.
+
+In Gatlin haben Kinder im Namen einer grausamen Macht die Erwachsenen ermordet. Vicky und Burt (Peter Horton) geraten in den Kult, können aber die Kinder schließlich zum Fortlaufen bewegen. Als die übernatürliche Bedrohung bleibt, findet Vicky in Jobs Bibel den Hinweis auf Feuer. Burt entzündet das Feld; das Paar schützt die Kinder, anstatt sie zusammen mit dem Kult zu bekämpfen.
+
+Merksatz: Die Kinder werden gerettet, während das Feld als Ort der Bedrohung brennt.
+
+Antwortzusätze:
+
+- Das Maisfeld mit Feuer vernichten: Vicky erkennt, dass das Maisfeld verbrannt werden muss.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Children_of_the_Corn_(1984_film)).
+
+### E1 · experte
+
+Wie entstand Linda Hamiltons Spiegelbild bei der Chipoperation in einer erweiterten Fassung von „Terminator 2“?
+
+- Durch eine maskierte Darstellerin hinter verspiegeltem Glas
+
+- Durch eine optische Doppelbelichtung ihrer Bewegungen
+
+- **Richtig: Durch ihre Zwillingsschwester in einem gespiegelten zweiten Set**
+
+- Durch eine digital vervielfältigte Aufnahme Hamiltons
+
+Hamiltons Zwillingsschwester Leslie spielte die vermeintliche Spiegelung in einem zweiten Set.
+
+Die Einstellung führt von einem künstlichen Terminator-Kopf zu einem Rahmen ohne Spiegelglas. Hinter dem Rahmen sitzt Arnold Schwarzenegger selbst; Leslie Hamilton Gearren ahmt dort die Bewegungen ihrer Schwester nach, während Linda vor der Kopfattrappe arbeitet. Das zweite Set ist spiegelverkehrt eingerichtet. So verbindet die Szene mechanische Effekte mit zwei körperlich synchronisierten Darstellungen, obwohl sie wie ein einziger Blick in einen Spiegel wirkt.
+
+Merksatz: Ein leerer Spiegelrahmen, zwei Sets und die Zwillingsschwestern erzeugen die Spiegelillusion.
+
+Antwortzusätze:
+
+- Durch ihre Zwillingsschwester in einem gespiegelten zweiten Set: Hamiltons Zwillingsschwester Leslie spielte die vermeintliche Spiegelung in einem zweiten Set.
+
+Quellen: [1](https://www.screenglobalproduction.com/news/2013/11/29/Five-Scenes-youll-never-believe-arent-CGI), [2](https://en.wikipedia.org/wiki/Special_effects_of_Terminator_2:_Judgment_Day).
+
+### E2 · experte
+
+Warum musste Linda Hamilton für „Terminator: Dark Fate“ vertraute Bewegungsabläufe im Waffentraining neu lernen?
+
+- Die Bewegungen mussten an historische Waffen angepasst werden.
+
+- Die Kämpfe sollten nun aus Sarahs linker Hand geführt werden.
+
+- **Richtig: Neue Waffentypen verlangten andere Haltungen und Handgriffe.**
+
+- Die Choreografie sollte ihre frühere Unerfahrenheit nachbilden.
+
+Andere Waffentypen erforderten andere Haltungen, Bedienung und Schussbewegungen.
+
+Hamilton beschrieb im Interview, wie die körperlich gespeicherten Bewegungen aus ihrer früheren Arbeit zunächst im Weg standen. Für die neuen Waffen musste sie vertraute Abläufe verlernen und andere einüben. Ein Ausbilder mit Erfahrung bei den Army Rangers trainierte intensiv mit ihr. Auf der Leinwand sollte der Umgang mit der schweren Ausrüstung schließlich beiläufig und selbstverständlich wirken.
+
+Merksatz: Erfahrung ersetzte die Vorbereitung nicht: Vertraute Handgriffe mussten neuen Waffen angepasst werden.
+
+Antwortzusätze:
+
+- Neue Waffentypen verlangten andere Haltungen und Handgriffe.: Andere Waffentypen erforderten andere Haltungen, Bedienung und Schussbewegungen.
+
+Quellen: [1](https://www.fitforfun.de/news/so-hat-sich-linda-hamilton-fuer-terminator-dark-fate-fit-gemacht-390830.html).
+
+## Lucy Liu · Bekanntheitsgruppe 3
+
+![Lucy Liu (2008)](Portraets/089.jpg)
+
+Bild: 2008; Georges Biard. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Lucy_Liu_Cannes_2008.jpg), [TMDB](https://www.themoviedb.org/person/140).
+
+### L1 · leicht
+
+Welche der drei Ermittlerinnen spielt Lucy Liu in „3 Engel für Charlie“ von 2000?
+
+- **Richtig: Alex**
+
+- Natalie
+
+- Dylan
+
+- Madison
+
+Liu spielt Alex Munday.
+
+Cameron Diaz, Drew Barrymore und Liu bilden das neue Kinotrio einer älteren Fernsehidee. Die Detektivinnen arbeiten gemeinsam für den unsichtbaren Charlie und verbinden Verkleidung, technische Fähigkeiten und akrobatische Kämpfe. Alex gehört zu dieser gleichberechtigten Dreiergruppe.
+
+Merksatz: Lucy Liu ist Alex im Engeltrio von 2000.
+
+Quellen: [1](https://sonypictures-encasa.es/pelicula/los-angeles-de-charlie).
+
+### L2 · leicht
+
+Welche literarische Figur interpretiert Lucy Liu in „Elementary“ als Frau neu?
+
+- Sherlock Holmes
+
+- Inspektor Lestrade
+
+- Professor Moriarty
+
+- **Richtig: Dr. Watson**
+
+Liu spielt Joan Watson.
+
+Die Serie verlegt die Detektivgeschichten ins moderne New York. Joan beginnt als Begleiterin, die Holmes beim nüchternen Leben unterstützt, und entwickelt eigene Ermittlungsfähigkeiten. Die Neubesetzung verändert damit auch die erwartete Rollenverteilung des vertrauten Duos.
+
+Merksatz: Lucy Lius Joan ist die Watson der Serie.
+
+Quellen: [1](https://www.televisionacademy.com/features/news/emmy-rewind/lucy-liu).
+
+### M1 · mittel
+
+Welche Gegnerin der Braut verkörpert Lucy Liu in „Kill Bill – Volume 1“?
+
+- Vernita Green
+
+- Sofie Fatale
+
+- **Richtig: O-Ren Ishii**
+
+- Elle Driver
+
+Liu spielt O-Ren Ishii.
+
+O-Ren hat sich zur mächtigen Anführerin der Tokioter Unterwelt entwickelt. Die Braut muss zuerst deren Bewacher überwinden, bevor die beiden Frauen im verschneiten Garten aufeinandertreffen. Lius ruhige Autorität steht dort einer sehr persönlichen Rache gegenüber.
+
+Merksatz: Lius O-Ren führt die Tokioter Unterwelt.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1), [2](https://www.miramax.com/movie/kill-bill-volume-i/).
+
+### M2 · mittel
+
+Welches Mitglied der Furiosen Fünf spricht Lucy Liu in der englischen Originalfassung von „Kung Fu Panda“?
+
+- Crane
+
+- **Richtig: Viper**
+
+- Tigress
+
+- Mantis
+
+Liu leiht Viper ihre Stimme.
+
+Die Schlange gehört zu den erfahrenen Kämpfern, an denen der unerwartet ausgewählte Panda Po zunächst gemessen wird. Bei dieser Rolle entsteht die Darstellung allein durch die Stimme; Körperbewegungen und Gesichtsausdruck gestaltet die Animation. Liu blieb der Figur auch in Fortsetzungen verbunden.
+
+Merksatz: Lucy Lius Animationsstimme gehört zu Viper.
+
+Quellen: [1](https://www.televisionacademy.com/bios/lucy-liu), [2](https://en.wikipedia.org/wiki/Kung_Fu_Panda_(film)).
+
+### S1 · schwer
+
+Welche Figur brachte Lucy Liu in „Ally McBeal“ den großen Fernsehdurchbruch?
+
+- Elaine Vassal
+
+- Georgia Thomas
+
+- **Richtig: Ling Woo**
+
+- Nelle Porter
+
+Ling Woo wurde ihre prägende frühe Serienrolle.
+
+Liu spielte eine scharfzüngige, oft unzugängliche Frau in der Welt der Bostoner Anwaltskanzlei. David E. Kelley betonte besonders, wie sie auch bei einer absichtlich unsympathischen Figur Empathie vermitteln konnte. Der Erfolg öffnete ihr anschließend Wege zu großen Kinoprojekten.
+
+Merksatz: Ling Woo führte Liu vom Serienensemble zu neuen Filmangeboten.
+
+Quellen: [1](https://www.televisionacademy.com/features/news/emmy-rewind/lucy-liu).
+
+### S2 · schwer
+
+Welche frühere Rolle von Lucy Liu überzeugte Robert Doherty besonders, sie für „Elementary“ zu besetzen?
+
+- **Richtig: Die Polizistin Jessica Tang in „Southland“**
+
+- Die Erbin Nola Lyons in „Dirty Sexy Money“
+
+- Die Anwältin Ling Woo in „Ally McBeal“
+
+- Die Medienmanagerin Mia Mason in „Cashmere Mafia“
+
+Doherty war besonders von ihrer Jessica Tang beeindruckt.
+
+An dieser Arbeit interessierte ihn eine Mischung aus körperlicher Präsenz und Verletzlichkeit. Er kannte Lius komisches Talent bereits, sah hier aber eine andere Seite. Die Besetzung als Watson beruhte damit auf einer konkreten früheren Leistung und auf der Vorstellung einer gleichrangigen Partnerin für Holmes.
+
+Merksatz: Southlands Jessica Tang öffnete den Weg zu Joan Watson.
+
+Quellen: [1](https://www.televisionacademy.com/features/news/emmy-rewind/lucy-liu).
+
+### E1 · experte
+
+Welche zusätzliche Aufgabe übernahm Lucy Liu bei „Elementary“ neben der Darstellung Joan Watsons?
+
+- Sie entwickelte die Serie als Showrunnerin.
+
+- **Richtig: Sie führte bei einzelnen Folgen Regie.**
+
+- Sie schrieb Drehbücher für einzelne Folgen.
+
+- Sie betreute die Besetzung weiterer Rollen.
+
+Liu inszenierte selbst Folgen der Serie.
+
+Sie beschrieb ihre Regiearbeit als genau vorbereitet: mit einer Einstellungsliste, einem Plan für die Drehtage und einem Team, auf das sie sich verlassen konnte. Die Arbeit hinter der Kamera gab ihr Einfluss auf das Zusammenspiel der gesamten Szene, über ihre eigene Figur hinaus.
+
+Merksatz: Joan Watsons Darstellerin übernahm auch die Inszenierung.
+
+Quellen: [1](https://time.com/3546888/lucy-liu-elementary-season-three-destinys-child/), [2](https://www.paramountpressexpress.com/cbs-news-and-stations/shows/cbs-news-sunday-morning/releases/?view=47687-elementary-star-lucy-liu-opens-up-to-cbs-sunday-morning-about-acting-her-childhood-in-new-york-city-and-motherhood).
+
+### E2 · experte
+
+Welches Material nutzte Lucy Liu bevorzugt zur Vorbereitung ihrer Watson in „Elementary“?
+
+- Frühere Fernsehfolgen mit Martin Freeman als Watson
+
+- Die älteren Filme mit Nigel Bruce als Watson
+
+- Die Kinofilme mit Jude Law als Watson
+
+- **Richtig: Conan Doyles ursprüngliche Romane und Erzählungen**
+
+Sie las Conan Doyle und verzichtete auf frühere Watson-Verfilmungen.
+
+Liu wollte eine eigene Interpretation entwickeln. Die literarischen Texte boten einen Ausgangspunkt, während ältere Darstellungen für sie wenig Nutzen hatten. Die Entscheidung passt zu einer Serie, die Watson weder als bloße Hilfsfigur noch als Nachahmung eines bekannten Vorgängers anlegt.
+
+Merksatz: Für ihre neue Watson ging Liu zur literarischen Quelle zurück.
+
+Quellen: [1](https://www.televisionacademy.com/features/news/emmy-rewind/lucy-liu).
+
+## Kim Basinger · Bekanntheitsgruppe 3
+
+![Kim Basinger (1990)](Portraets/090.jpg)
+
+Bild: 1990; Alan Light (square by Juan Pablo Arancibia Medina ). CC BY 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Kim_Basinger_(1990)_square.jpg), [TMDB](https://www.themoviedb.org/person/326).
+
+### L1 · leicht
+
+Welchen Beruf hat Kim Basingers Vicki Vale in Tim Burtons „Batman“?
+
+- Staatsanwältin
+
+- Konzertsängerin
+
+- **Richtig: Fotojournalistin**
+
+- Kunsthändlerin
+
+Vicki Vale arbeitet als Fotojournalistin.
+
+Ihre Recherche bringt sie in die Nähe Bruce Waynes und zugleich ins Blickfeld des Jokers. Der Film verbindet damit die öffentliche Beobachtung Gothams mit Waynes verborgenem Doppelleben. Basingers Figur ist Teil beider Welten.
+
+Merksatz: Vicki Vale nähert sich Gotham mit der Kamera.
+
+Quellen: [1](https://www.dc.com/movies/batman-1989), [2](https://catalog.afi.com/Film/57898-BATMAN).
+
+### L2 · leicht
+
+Für welchen Film erhielt Kim Basinger 1998 den Oscar als beste Nebendarstellerin?
+
+- 9½ Wochen
+
+- **Richtig: L.A. Confidential**
+
+- Nadine
+
+- Batman
+
+Sie gewann für L.A. Confidential.
+
+Die Auszeichnung galt ihrer Darstellung Lynn Brackens in einem Ensemblefilm über Polizei, Presse und Macht im Los Angeles der 1950er-Jahre. Das Filmjahr 1997 und das Verleihungsjahr 1998 bezeichnen unterschiedliche Ereignisse.
+
+Merksatz: Basingers Oscar gehört zu L.A. Confidential.
+
+Quellen: [1](https://www.oscars.org/oscars/ceremonies/1998).
+
+### M1 · mittel
+
+Welcher James-Bond-Darsteller spielte an Kim Basingers Seite in „Sag niemals nie“?
+
+- Roger Moore
+
+- Timothy Dalton
+
+- George Lazenby
+
+- **Richtig: Sean Connery**
+
+Sean Connery kehrte hier als Bond zurück.
+
+Basinger spielt Domino Petachi, die mit dem Gegenspieler Largo verbunden ist. Der Film war Connerys spätere Rückkehr zu seiner bekanntesten Rolle und entstand außerhalb der regulären Eon-Filmreihe. Basingers Auftritt gehört deshalb zu einer besonderen Abzweigung der Bond-Geschichte.
+
+Merksatz: Basingers Bond-Partner war der zurückkehrende Connery.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Never_Say_Never_Again), [2](https://www.interviewmagazine.com/film/kim-basinger).
+
+### M2 · mittel
+
+Wer spielt Kim Basingers Partner in Adrian Lynes „9½ Wochen“?
+
+- **Richtig: Mickey Rourke**
+
+- William Hurt
+
+- Michael Douglas
+
+- Richard Gere
+
+Mickey Rourke spielt John Gray.
+
+Basingers Elizabeth arbeitet in einer Kunstgalerie und beginnt eine intensive Beziehung mit dem Börsenmakler John. Dessen Wunsch nach Kontrolle verschiebt zunehmend die Grenzen ihrer Begegnungen. Der Film lebt daher ebenso von Verunsicherung wie von Anziehung.
+
+Merksatz: Basinger und Rourke bilden das zentrale Paar.
+
+Quellen: [1](https://en.wikipedia.org/wiki/9%C2%BD_Weeks).
+
+### S1 · schwer
+
+Welchem Hollywoodstar soll Kim Basingers Lynn Bracken in „L.A. Confidential“ äußerlich ähneln?
+
+- Ava Gardner
+
+- **Richtig: Veronica Lake**
+
+- Rita Hayworth
+
+- Lana Turner
+
+Lynns Erscheinung orientiert sich an Veronica Lake.
+
+Die Kundschaft ihres Vermittlers kauft die Illusion von Nähe zu einem Filmstar. Hanson erläuterte, dass Lynn dadurch das größere Thema des Films verkörpert: den Abstand zwischen dem sorgfältig hergestellten Bild und der Wirklichkeit dahinter. Ihr Auftreten ist also Teil einer Geschäftsstrategie.
+
+Merksatz: Lynns Lake-Erscheinung verkauft eine Hollywoodillusion.
+
+Quellen: [1](https://www.tpr.org/2016-09-22/fresh-air-remembers-la-confidential-director-curtis-hanson).
+
+### S2 · schwer
+
+In welchem Verhältnis steht Kim Basingers Stephanie zu Eminems Hauptfigur in „8 Mile“?
+
+- **Richtig: Sie ist seine Mutter.**
+
+- Sie ist seine Musikmanagerin.
+
+- Sie ist seine Lehrerin.
+
+- Sie ist seine Vermieterin.
+
+Stephanie ist die Mutter von Jimmy, gespielt von Eminem.
+
+Das schwierige Familienleben gehört zu Jimmys unsicherer Ausgangslage, während er einen Weg in die Rapwelt sucht. Basinger übernimmt damit eine Rolle, deren Wirkung aus sozialer und familiärer Spannung entsteht. Der Auftritt setzt einen anderen Akzent als viele ihrer früheren glamourösen Filmfiguren.
+
+Merksatz: Basingers Stephanie ist Jimmys Mutter.
+
+Quellen: [1](https://en.wikipedia.org/wiki/8_Mile_(film)).
+
+### E1 · experte
+
+Wie begründete Kim Basinger im Interview ihre Zurückhaltung, während der Dreharbeiten eigene Aufnahmen am Monitor anzusehen?
+
+- Sie wollte ihre Arbeit ausschließlich nach Filmkritiken beurteilen.
+
+- Sie wollte dem späteren Filmschnitt nicht vorgreifen.
+
+- **Richtig: Sie wollte beim Spielen in der Figur bleiben, statt sich selbst von außen zu betrachten.**
+
+- Sie wollte erst nach der Synchronisation über ihre Darstellung nachdenken.
+
+Die Außenansicht störte für sie das Verbleiben in der Figur.
+
+Basinger unterschied im Gespräch ausdrücklich zwischen sich selbst und der gespielten Person. Solange sie diese Person noch verkörpern musste, wollte sie nicht in deren fertige Bildwelt hineinsehen. Die Aussage beschreibt ihren persönlichen Arbeitszugang, keine allgemeine Regel für Schauspiel.
+
+Merksatz: Basinger trennte Rollenarbeit und Selbstbeobachtung am Monitor.
+
+Quellen: [1](https://www.interviewmagazine.com/film/kim-basinger).
+
+### E2 · experte
+
+Wie wurde Kim Basinger bei ihrer Telefonszene in „Third Person“ unterstützt, als Liam Neesons voraufgenommene Antworten nicht zu ihrem Spieltempo passten?
+
+- Man ließ sie auf einen stummen Telefonhörer improvisieren.
+
+- Man ersetzte ihre Szene durch einen Brief.
+
+- Man drehte nur Neesons Seite der Unterhaltung neu.
+
+- **Richtig: Regisseur Paul Haggis sprach ihr Gegenüber vor Ort.**
+
+Paul Haggis übernahm beim Dreh das Gegenüber.
+
+Pausen und Reaktionen einer Unterhaltung lassen sich nicht immer an eine vorhandene Tonspur anpassen. Haggis konnte unmittelbar auf Basingers Spiel reagieren. Das Gespräch bekam so einen lebendigen Rhythmus, obwohl ihre Figur im fertigen Film telefonisch mit einem anderen Menschen verbunden ist.
+
+Merksatz: Das Telefonspiel erhielt am Set ein anwesendes Gegenüber.
+
+Quellen: [1](https://www.interviewmagazine.com/film/kim-basinger).
+
+## Kathleen Turner · Bekanntheitsgruppe 3
+
+![Kathleen Turner (1998; Uploadmetadaten von 2019 getrennt)](Portraets/091.jpg)
+
+Bild: 1998; Uploadmetadaten von 2019 getrennt; John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA. CC BY-SA 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Kathleen_Turner_1998.jpg), [TMDB](https://www.themoviedb.org/person/3391).
+
+### L1 · leicht
+
+Welchen Beruf hat Kathleen Turners Joan Wilder in „Auf der Jagd nach dem grünen Diamanten“?
+
+- **Richtig: Liebesromanautorin**
+
+- Diamantenhändlerin
+
+- Archäologin
+
+- Auslandskorrespondentin
+
+Joan schreibt Liebesromane.
+
+Eine Reise zur Rettung ihrer Schwester setzt sie Gefahren aus, die sie bisher nur erfunden hat. Die Begegnung mit Jack Colton verbindet Abenteuer und romantische Erwartungen. Turner betrachtete die sympathische Joan zudem als Möglichkeit, sich von ihren frühen Schurkenrollen zu lösen.
+
+Merksatz: Joan gerät als Romanautorin in ein eigenes Abenteuer.
+
+Gemeinsames Wissensziel: K-F240-20261006-014-L1 (F240-20261006-014-L1).
+
+Quellen: [1](https://www.capa.com/productions/romancing-the-stone/romancing-the-stone-2/), [2](https://www.davidsheff.com/kathleen-turner).
+
+### L2 · leicht
+
+Welche Animationsfigur erhielt in „Falsches Spiel mit Roger Rabbit“ ihre englische Sprechstimme von Kathleen Turner?
+
+- Betty Boop
+
+- Dolores
+
+- **Richtig: Jessica Rabbit**
+
+- Lena Hyena
+
+Turner spricht Jessica Rabbit.
+
+Die Figur tritt als Sängerin auf und ist mit Roger verheiratet. Ihre Sprechstimme bildet einen wesentlichen Teil des glamourösen Erscheinungsbilds. Turners Beitrag blieb im ursprünglichen Filmabspann ungenannt; für den Gesang wurde eine andere Darstellerin eingesetzt.
+
+Merksatz: Jessica Rabbits Sprechstimme gehört Kathleen Turner.
+
+Quellen: [1](https://d23.com/a-to-z/jessica-rabbit/).
+
+### M1 · mittel
+
+Welche Beziehung verbindet Kathleen Turners Matty Walker mit William Hurts Ned Racine in „Heißblütig – Kaltblütig“?
+
+- **Richtig: Sie ist seine verheiratete Geliebte.**
+
+- Sie ist seine Scheidungsanwältin.
+
+- Sie ist seine Ermittlungsleiterin.
+
+- Sie ist seine leibliche Schwester.
+
+Matty beginnt als verheiratete Frau eine Affäre mit Ned.
+
+Ned ist Anwalt und lässt sich immer tiefer in Mattys Pläne hineinziehen. Die erotische Anziehung gehört zur Konstruktion einer Täuschung, deren Umfang er lange nicht erkennt. Turner musste daher glaubhaft Nähe herstellen und zugleich kleine Irritationen stehen lassen.
+
+Merksatz: Mattys Affäre mit Ned wird zum Werkzeug ihrer Pläne.
+
+Quellen: [1](https://www.davidsheff.com/kathleen-turner), [2](https://en.wikipedia.org/wiki/Body_Heat).
+
+### M2 · mittel
+
+Worum eskaliert der Konflikt zwischen Kathleen Turner und Michael Douglas in „Der Rosenkrieg“ besonders?
+
+- Um das Sorgerecht für ein adoptiertes Kind
+
+- Um die Aufteilung eines Familienunternehmens
+
+- **Richtig: Um die Scheidung und das gemeinsame Haus**
+
+- Um den Erfolg einer gemeinsamen Filmfirma
+
+Der Scheidungskampf konzentriert sich auf das gemeinsame Haus.
+
+Barbara und Oliver Rose wollen sich trennen, aber keiner will den zentralen Besitz aufgeben. Aus der Frage, wer bleiben darf, wird ein immer zerstörerischerer Machtkampf. Danny DeVito inszeniert das frühere Abenteuerpaar als Gegner in einem privaten Krieg.
+
+Merksatz: Das Haus wird zum Schlachtfeld der Ehe Rose.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_War_of_the_Roses_(film)).
+
+### S1 · schwer
+
+In welche Lebensphase gelangt Kathleen Turners Figur in „Peggy Sue hat geheiratet“ zurück?
+
+- In ihre ersten Berufsjahre nach dem Studium
+
+- In ihre ersten Jahre als Mutter
+
+- In ihre frühen Grundschuljahre
+
+- **Richtig: In ihre letzten Highschool-Monate**
+
+Peggy Sue findet sich wieder als Highschool-Schülerin.
+
+Die erwachsene Frau steht vor einer gescheiterten Ehe. In ihrer Vergangenheit begegnet sie dem späteren Ehemann erneut, verfügt aber über Erinnerungen an das gemeinsame Leben. Turner spielt dadurch Jugend nicht als bloße Unschuld, sondern durch den Blick einer Frau mit Lebenserfahrung.
+
+Merksatz: Peggy Sue erlebt ihre Schulzeit mit erwachsenem Wissen.
+
+Quellen: [1](https://www.sonypictures.com/movies/peggysuegotmarried), [2](https://en.wikipedia.org/wiki/Peggy_Sue_Got_Married).
+
+### S2 · schwer
+
+Wie verbindet Kathleen Turners Beverly in „Serial Mom“ bürgerliche Regeln mit ihrem Verhalten?
+
+- Sie überwindet ihre Strenge durch ein politisches Amt.
+
+- **Richtig: Sie bestraft Verstöße gegen ihre Alltagsnormen mit mörderischer Gewalt.**
+
+- Sie inszeniert scheinbare Verbrechen für eine Fernsehshow.
+
+- Sie vertuscht heimlich die Gewalttaten ihres Sohnes.
+
+Beverly verfolgt alltägliche Kränkungen und Regelverstöße mit tödlicher Gewalt.
+
+John Waters lässt eine vorbildlich auftretende Vorstadtmutter zur Mörderin werden. Schon Kleinigkeiten wie ein Streit um einen Parkplatz können ihre Vergeltung auslösen. Turner hält den höflichen gesellschaftlichen Anschein so lange aufrecht, dass die Kluft zu den Taten den schwarzen Humor trägt.
+
+Merksatz: Beverlys Ordnungssinn kippt in tödliche Selbstjustiz.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Serial_Mom).
+
+### E1 · experte
+
+Welche darstellerische Aufgabe beschrieb Kathleen Turner für Matty in „Body Heat“?
+
+- Mattys Unsicherheit durch spontane Gefühlswechsel zu betonen
+
+- **Richtig: Glaubwürdigkeit zu erzeugen und zugleich rückblickend erkennbare Hinweise zu setzen**
+
+- Die Verführung durch anhaltend kontrollierte Distanz anzulegen
+
+- Ihre Berechnung hinter einer betont nüchternen Spielweise zu verbergen
+
+Sie wollte überzeugen und dennoch kleine Zeichen der Täuschung hinterlassen.
+
+Turner suchte zunächst nachvollziehbare Beweggründe ihrer Figur. Zugleich sollten ein Zögern oder ein Blick nach der Enthüllung anders lesbar werden. Die Wirkung entsteht daraus, dass das Publikum beim ersten Sehen glaubt und beim Rückblick die früheren Signale wiedererkennt.
+
+Merksatz: Matty muss im Moment überzeugen und im Rückblick durchschaubar werden.
+
+Quellen: [1](https://www.davidsheff.com/kathleen-turner).
+
+### E2 · experte
+
+Wer übernahm Jessica Rabbits Gesang, während Kathleen Turner die Sprechstimme lieferte?
+
+- Madeline Kahn
+
+- Bernadette Peters
+
+- Liza Minnelli
+
+- **Richtig: Amy Irving**
+
+Amy Irving sang Jessica Rabbits Lieder.
+
+Die fertige Figur verbindet Animation und Leistungen verschiedener Darstellerinnen. Sprechen und Singen wurden getrennt besetzt, obwohl das Publikum eine zusammenhängende Bühnenpersönlichkeit wahrnimmt. Turners bekannte Stimme ist deshalb nicht mit jeder hörbaren Äußerung Jessicas gleichzusetzen.
+
+Merksatz: Jessica spricht mit Turner und singt mit Irving.
+
+Quellen: [1](https://d23.com/a-to-z/jessica-rabbit/).
+
+## Diane Lane · Bekanntheitsgruppe 3
+
+![Diane Lane (1989)](Portraets/092.jpg)
+
+Bild: 1989; Alan Light. CC BY 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Diane_Lane_1989_cropped.jpg), [TMDB](https://www.themoviedb.org/person/2882).
+
+### L1 · leicht
+
+Welche Figur spielt Diane Lane als Adoptivmutter Clark Kents in „Man of Steel“?
+
+- Lara Lor-Van
+
+- Lois Lane
+
+- **Richtig: Martha Kent**
+
+- Lana Lang
+
+Lane spielt Martha Kent.
+
+Martha und Jonathan ziehen den auf der Erde angekommenen Jungen in Kansas groß. Die Familie gibt seiner späteren Verantwortung einen menschlichen Bezugspunkt. Lane verkörpert damit keine Herkunft aus Krypton, sondern die Mutter seines irdischen Alltags.
+
+Merksatz: Diane Lane ist Clarks irdische Mutter Martha.
+
+Quellen: [1](https://www.dc.com/movies/man-of-steel-2013).
+
+### L2 · leicht
+
+Was kauft Diane Lanes Frances nach ihrer Scheidung in „Unter der Sonne der Toskana“ spontan?
+
+- Eine kleine Buchhandlung
+
+- Einen bestehenden Weinhandel
+
+- **Richtig: Eine renovierungsbedürftige Villa**
+
+- Ein Hotel an der Küste
+
+Sie kauft die Villa Bramasole.
+
+Die Reise nach Italien war zunächst nur als Erholung gedacht. Mit dem Haus beginnt aber ein neuer Alltag aus Renovierung, Nachbarschaft und unerwarteten Bindungen. Das Gebäude wird zum konkreten Projekt, an dem Frances ihren Neuanfang ausprobiert.
+
+Merksatz: Bramasole gibt Frances' Neuanfang eine Adresse.
+
+Quellen: [1](https://d23.com/a-to-z/under-the-tuscan-sun-film/).
+
+### M1 · mittel
+
+Welcher Konflikt bringt Diane Lanes Ehe in „Untreu“ aus dem Gleichgewicht?
+
+- **Richtig: Sie beginnt eine Affäre mit einem jüngeren Mann.**
+
+- Sie muss die Pflege ihres Vaters allein übernehmen.
+
+- Ihr Mann zieht für Jahre ins Ausland.
+
+- Ihr Mann verschweigt den Verlust seiner Arbeit.
+
+Connie beginnt eine Affäre mit Paul Martel.
+
+Die Begegnung entsteht zufällig bei einem Aufenthalt in Manhattan. Aus Anziehung wird ein verborgenes Verhältnis, das ihren Mann Edward schließlich zu eigenen Nachforschungen bringt. Der Film verfolgt sowohl Connies Gefühle als auch die Folgen des entdeckten Betrugs.
+
+Merksatz: Connies Affäre verändert die gesamte Familie.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Unfaithful_(2002_film)), [2](https://transcripts.cnn.com/show/lt/date/2002-05-24/segment/14).
+
+### M2 · mittel
+
+Wen spricht Diane Lane in der englischen Originalfassung von „Alles steht Kopf“?
+
+- **Richtig: Rileys Mutter**
+
+- Die Emotion Freude
+
+- Die Emotion Traurigkeit
+
+- Rileys Lehrerin
+
+Lane spricht Rileys Mutter.
+
+Der Film zeigt die Veränderungen eines Mädchens nach dem Umzug nach San Francisco. Neben den personifizierten Gefühlen im Inneren braucht die Geschichte ein erkennbares Familienleben. Die Eltern reagieren dabei auf Veränderungen, deren eigentliche innere Abläufe sie nicht vollständig sehen können.
+
+Merksatz: Diane Lane gibt Rileys Mutter ihre Stimme.
+
+Quellen: [1](https://www.pixar.com/inside-out), [2](https://en.wikipedia.org/wiki/Inside_Out_(2015_film)).
+
+### S1 · schwer
+
+Aus welchem sozialen Milieu kommt Diane Lanes Cherry in „Die Outsider“?
+
+- Aus einer mittellosen Farmerfamilie außerhalb der Stadt
+
+- Aus den Arbeiterfamilien der Greasers
+
+- Aus einer zugewanderten Familie von Wanderarbeitern
+
+- **Richtig: Aus dem wohlhabenden Umfeld der Socs**
+
+Cherry gehört zu den Socs.
+
+Die Begegnung mit Ponyboy ermöglicht dennoch Verständnis über die Gruppengrenze hinweg. Nach Bobs Tod ist sie bereit, zugunsten der verfolgten Jungen auszusagen. Ihre Figur macht sichtbar, dass persönliche Erfahrungen nicht vollständig mit den Feindbildern der Gruppen übereinstimmen.
+
+Merksatz: Cherry kommt aus der Soc-Welt und hört Ponyboy dennoch zu.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Outsiders_(film)).
+
+### S2 · schwer
+
+Welcher ältere Schauspieler begleitete Diane Lane in ihrem Kinodebüt „Ich liebe dich – I Love You – Je t’aime“ als Julius?
+
+- Ralph Richardson
+
+- John Gielgud
+
+- Alec Guinness
+
+- **Richtig: Laurence Olivier**
+
+Laurence Olivier spielt Julius.
+
+Lanes Lauren und der französische Junge Daniel wollen nach Venedig reisen. Julius hilft ihnen, obwohl seine Geschichten und sein Verhalten Anlass zum Misstrauen geben. Der erfahrene Bühnen- und Filmstar steht hier einer jungen Debütantin in einer Geschichte über erste Liebe gegenüber.
+
+Merksatz: Lanes Kinodebüt führte sie mit Olivier zusammen.
+
+Quellen: [1](https://catalog.afi.com/Catalog/MovieDetails/56131).
+
+### E1 · experte
+
+Welche widersprüchlichen Gefühle vermittelt Diane Lane in der bekannten Zugfahrt nach Connies erster Affärenbegegnung in „Untreu“?
+
+- Unbeteiligte Langeweile und berufliche Ungeduld
+
+- **Richtig: Freude an der Erinnerung und Schuldgefühle**
+
+- Wut über eine Scheidung und Trauer um einen Todesfall
+
+- Angst vor einer Entführung und Hoffnung auf Rettung
+
+Die Erinnerung bereitet Connie Lust und zugleich Schuldgefühle.
+
+Die Szene verlangt keine Erklärung in Worten. Lane wechselt zwischen Lachen, Tränen und körperlicher Unruhe, während Connie das Erlebte innerlich wiederholt. Der Ausdruck macht die Kluft zwischen ihrem Familienleben und der neuen Erfahrung sichtbar.
+
+Merksatz: Lanes Zugfahrt zeigt Erinnerung als widersprüchliche körperliche Reaktion.
+
+Quellen: [1](https://www.siriusxm.com/blog/diane-lane-unfaithful-scene), [2](https://transcripts.cnn.com/show/lt/date/2002-05-24/segment/14).
+
+### E2 · experte
+
+Welches Tschechow-Stück verbindet Diane Lanes Broadwayarbeit als Kind 1977 mit ihrer Hauptrolle 2016?
+
+- Die Möwe
+
+- **Richtig: Der Kirschgarten**
+
+- Drei Schwestern
+
+- Onkel Wanja
+
+Lane kehrte zu Der Kirschgarten zurück.
+
+Als Zwölfjährige gehörte sie zum Ensemble einer Inszenierung mit Irene Worth und Meryl Streep. Jahrzehnte später übernahm sie selbst Ranjewskaja, die Besitzerin des bedrohten Guts. Die Rückkehr verbindet zwei weit auseinanderliegende Stationen ihrer Bühnenlaufbahn innerhalb desselben Stücks.
+
+Merksatz: Lane wechselte im Kirschgarten vom Kinderensemble zur zentralen Erwachsenenrolle.
+
+Quellen: [1](https://broadwaydirect.com/new-cherry-orchard-blooms/), [2](https://playbill.com/article/the-cherry-orchard-with-diane-lane-opens-tonight-on-broadway).
+
+## Dianne Wiest · Bekanntheitsgruppe 3
+
+![Dianne Wiest (2009)](Portraets/093.jpg)
+
+Bild: 2009; MC1 Chad J. McNeeley, U.S. Navy. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Dianne_Wiest_2009_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/1902).
+
+### L1 · leicht
+
+Welche beiden Filme brachten Dianne Wiest jeweils einen Oscar als Nebendarstellerin?
+
+- Radio Days / Hannah und ihre Schwestern
+
+- Bullets over Broadway / Eine Wahnsinnsfamilie
+
+- **Richtig: Hannah und ihre Schwestern / Bullets over Broadway**
+
+- Edward mit den Scherenhänden / The Birdcage
+
+Sie gewann für Hannah und ihre Schwestern sowie Bullets over Broadway.
+
+Beide Rollen entstanden unter Woody Allens Regie, unterscheiden sich aber deutlich. Holly sucht unsicher nach einem eigenen Platz im Leben; Helen Sinclair beherrscht als große Bühnendiva ihre Umgebung. Die zwei Auszeichnungen würdigen damit verschiedene Ausdrucksweisen derselben Darstellerin.
+
+Merksatz: Wiest gewann mit Holly und Helen Sinclair.
+
+Quellen: [1](https://www.televisionacademy.com/bios/dianne-wiest), [2](https://www.oscars.org/oscars/ceremonies/1987), [3](https://www.oscars.org/oscars/ceremonies/1995).
+
+### L2 · leicht
+
+Welcher Arbeit geht Dianne Wiests Peg Boggs in „Edward mit den Scherenhänden“ nach?
+
+- Sie betreut die örtliche Bibliothek.
+
+- Sie liefert Medikamente aus.
+
+- Sie vermittelt Immobilien.
+
+- **Richtig: Sie verkauft Kosmetik an Haustüren.**
+
+Peg ist eine Kosmetikvertreterin von Avon.
+
+Bei ihrer Verkaufstour gelangt sie zu dem abgelegenen Haus, in dem Edward allein lebt. Sie nimmt ihn mit in ihre Familie und öffnet ihm so den Weg in die Vorstadt. Aus ihrer alltäglichen Kontaktfreude entsteht die zentrale Begegnung der Geschichte.
+
+Merksatz: Pegs Haustürgeschäft führt sie zu Edward.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Edward_Scissorhands), [2](https://www.20thcenturystudios.com/movies/edward-scissorhands).
+
+### M1 · mittel
+
+Wen spielt Dianne Wiest in „The Birdcage“ an Gene Hackmans Seite?
+
+- **Richtig: Die Ehefrau des konservativen Senators**
+
+- Die Leiterin von Armands Nachtclub
+
+- Die leibliche Mutter von Armands Sohn
+
+- Die Agentin von Alberts Bühnenfigur
+
+Sie spielt Louise Keeley, die Frau des Senators.
+
+Die Tochter der Keeleys will den Sohn eines schwulen Paares heiraten. Beim Kennenlernen sollen deshalb die wirklichen Verhältnisse im Haushalt verborgen werden. Wiest gehört zu der konservativen Besucherseite, deren Erwartungen die Verwechslungen und Verkleidungen auslösen.
+
+Merksatz: Louise kommt mit dem Senator als zukünftige Schwiegermutter zu Besuch.
+
+Quellen: [1](https://www.afi.com/news/pride-month-movie-guide/?campaign=751954), [2](https://catalog.afi.com/Film/59998-THE-BIRDCAGE).
+
+### M2 · mittel
+
+Welche Funktion hat Dianne Wiests Gina für Gabriel Byrnes Paul Weston in „In Treatment“?
+
+- Sie ist seine neue Praxismanagerin.
+
+- **Richtig: Sie ist seine Therapeutin und frühere Mentorin.**
+
+- Sie ist seine Familienrechtsanwältin.
+
+- Sie ist seine behandelnde Internistin.
+
+Auch der Therapeut Paul geht bei Gina in Therapie.
+
+Die Serie zeigt nicht nur Pauls Arbeit mit seinen Patienten, sondern auch seine eigenen Gespräche. Dabei steht er selbst unter Beobachtung und muss sich beruflichen wie privaten Konflikten stellen. Gina kann außerdem auf eine lange gemeinsame Vorgeschichte zurückgreifen.
+
+Merksatz: Bei Gina wird der Therapeut selbst zum Patienten.
+
+Quellen: [1](https://www.televisionacademy.com/bios/dianne-wiest), [2](https://en.wikipedia.org/wiki/In_Treatment).
+
+### S1 · schwer
+
+Welchen neuen künstlerischen Weg versucht Dianne Wiests Holly in „Hannah und ihre Schwestern“, nachdem Schauspiel und Catering scheitern?
+
+- Sie gründet eine Tanzkompanie.
+
+- Sie nimmt eine Karriere als Opernsängerin auf.
+
+- Sie eröffnet eine Fotogalerie.
+
+- **Richtig: Sie beginnt Drehbücher zu schreiben.**
+
+Holly wendet sich dem Schreiben zu.
+
+Ihr erster Text verwendet das Leben ihrer Familie so unmittelbar, dass Hannah sich bloßgestellt fühlt. Später entwickelt Holly einen anderen Stoff, den Mickey überzeugend findet. Die berufliche Suche verändert dadurch auch ihre Beziehungen: Eigenes Erleben wird erst zum Konfliktstoff und dann zum Ausgangspunkt neuer Nähe.
+
+Merksatz: Holly findet über das Schreiben eine neue Ausdrucksform.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/57340).
+
+### S2 · schwer
+
+Welche Art von Bühnenfigur verkörpert Dianne Wiest als Helen Sinclair in „Bullets over Broadway“?
+
+- **Richtig: Eine etablierte, selbstbewusste Theaterdiva**
+
+- Eine unerfahrene Studentin beim ersten Vorsprechen
+
+- Eine Souffleuse, die kurzfristig einspringen muss
+
+- Eine Tänzerin auf der Suche nach einer Sprechrolle
+
+Helen Sinclair ist eine große Theaterdiva.
+
+Der junge Autor und Regisseur David will mit ihrem Namen seine Inszenierung aufwerten. Helen wiederum nutzt ihre Stellung, um Einfluss auf Stück und Regisseur zu gewinnen. Wiests ausladendes Auftreten macht die Macht einer erfahrenen Darstellerin gegenüber einem aufstrebenden Anfänger sichtbar.
+
+Merksatz: Helen Sinclair betritt die Probe bereits als Autorität.
+
+Quellen: [1](https://www.televisionacademy.com/bios/dianne-wiest), [2](https://en.wikipedia.org/wiki/Bullets_Over_Broadway).
+
+### E1 · experte
+
+Welche körperliche Einschränkung prägt Dianne Wiests Winnie in Samuel Becketts „Glückliche Tage“?
+
+- Sie steht eingeschlossen in einer engen, gläsernen Kabine.
+
+- Sie liegt festgeschnallt in einem aufrecht stehenden Krankenhausbett.
+
+- **Richtig: Sie steckt erst bis zur Taille, später bis zum Hals in einem Erdhügel.**
+
+- Sie bleibt festgebunden auf einem Stuhl an der Wand sitzen.
+
+Winnie versinkt zunehmend im Erdhügel.
+
+Die Figur hält trotzdem an Sprache, Gewohnheiten und einem demonstrativen Optimismus fest. Für Wiest bedeutete die Rolle, ein lebhaftes inneres Geschehen mit immer weniger sichtbaren Bewegungsmöglichkeiten zu vermitteln. Im zweiten Akt bleiben nur Kopf und Gesicht frei.
+
+Merksatz: Winnies eingeschränkter Körper verlangt ein besonders aktives inneres Spiel.
+
+Quellen: [1](https://news.yale.edu/2016/04/22/next-yale-rep-production-stars-award-winning-two-person-cast-happy-days), [2](https://www.americantheatre.org/2017/04/24/stillness-is-the-move-coaching-dianne-wiest-for-happy-days/).
+
+### E2 · experte
+
+Welche Methode bildete laut Bewegungstrainerin Jessica Wolf eine Grundlage von Dianne Wiests Vorbereitung auf „Glückliche Tage“?
+
+- Die Suzuki-Methode
+
+- **Richtig: Die Alexander-Technik**
+
+- Die Meisner-Technik
+
+- Die Lecoq-Ausbildung
+
+Wolf arbeitete besonders mit Prinzipien der Alexander-Technik.
+
+Die scheinbare Bewegungslosigkeit durfte Atmung und Stimme nicht blockieren. Wolf und Wiest suchten daher nach einer tragfähigen Haltung und möglichst freiem Zusammenspiel von Kopf, Hals und Rumpf. Weitere Bewegungs- und Atemansätze ergänzten diese Arbeit; die Methode war keine alleinige Lösung für die Rolle.
+
+Merksatz: Auch eine fast unbewegliche Rolle braucht körperliche Vorbereitung.
+
+Quellen: [1](https://www.americantheatre.org/2017/04/24/stillness-is-the-move-coaching-dianne-wiest-for-happy-days/).
+
+## Rosamund Pike · Bekanntheitsgruppe 3
+
+![Rosamund Pike (2011)](Portraets/094.jpg)
+
+Bild: 2011; Justin Hoch from Astoria, NY, USA Justin Hoch photographing for Hudson Union Society. CC BY 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Rosamund_Pike_2011_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/10882).
+
+### L1 · leicht
+
+Welche Figur spielt Rosamund Pike in „Gone Girl – Das perfekte Opfer“?
+
+- Margo Dunne
+
+- Rhonda Boney
+
+- Andie Fitzgerald
+
+- **Richtig: Amy Dunne**
+
+Pike spielt Amy Dunne.
+
+Am fünften Hochzeitstag meldet Nick seine Frau als vermisst. Erinnerungen, Ermittlungen und öffentliche Auftritte erzeugen dabei unterschiedliche Bilder ihrer Ehe. Pikes Darstellung gehört deshalb zu einer Geschichte, in der die Frage nach der Wahrheit immer auch eine Frage nach der glaubhaftesten Erzählung ist.
+
+Merksatz: Pike ist die verschwundene Amy Dunne.
+
+Quellen: [1](https://www.20thcenturystudios.com/movies/gone-girl).
+
+### L2 · leicht
+
+Welche Agentin verkörpert Rosamund Pike in „Stirb an einem anderen Tag“?
+
+- **Richtig: Miranda Frost**
+
+- Paris Carver
+
+- Wai Lin
+
+- Elektra King
+
+Pike spielt Miranda Frost.
+
+Frost erscheint als britische Geheimdienstmitarbeiterin und arbeitet im Umfeld Gustav Graves'. Hinter dem offiziellen Auftreten verbergen sich andere Loyalitäten. Die Rolle war Pikes frühe internationale Kinostation in der Bond-Reihe.
+
+Merksatz: Pikes Bond-Figur heißt Miranda Frost.
+
+Quellen: [1](https://www.007.com/page/48/?cat=trailers&id=tb), [2](https://en.wikipedia.org/wiki/Die_Another_Day).
+
+### M1 · mittel
+
+Welche Bennet-Schwester spielt Rosamund Pike in Joe Wrights „Stolz und Vorurteil“?
+
+- Kitty
+
+- Mary
+
+- Lydia
+
+- **Richtig: Jane**
+
+Pike spielt die älteste Schwester Jane.
+
+Jane neigt dazu, in anderen Menschen das Gute zu vermuten. Pike wollte sie dennoch nicht als bloß zurückhaltende oder langweilige Gegenfigur zu Elizabeth spielen. Sie betonte ihre Freude am Lachen und ihre Verantwortung gegenüber den jüngeren Schwestern.
+
+Merksatz: Pikes Jane verbindet Freundlichkeit mit der Erfahrung der ältesten Schwester.
+
+Quellen: [1](https://www.focusfeatures.com/article/pride___prejudice__the_production?film=pride_and_prejudice).
+
+### M2 · mittel
+
+Wie verdient Rosamund Pikes Marla in „I Care a Lot“ ihr Geld auf betrügerische Weise?
+
+- Sie fälscht Kunstwerke für wohlhabende Sammler.
+
+- Sie verkauft erfundene Erbschaftsversicherungen.
+
+- **Richtig: Sie nutzt gerichtlich übertragene Betreuung zum Zugriff auf Vermögen älterer Menschen.**
+
+- Sie vermittelt wertlose Grundstücke an ausländische Käufer.
+
+Marla missbraucht ihre Stellung als gerichtlich eingesetzte Betreuerin.
+
+Mit Unterstützung einer Ärztin bringt sie wohlhabende ältere Menschen unter ihre Kontrolle. Anschließend können ihre Geschäftspartnerin Fran und sie Häuser und Vermögenswerte verwerten. Das scheinbar fürsorgliche Auftreten ist Teil eines Systems, das seinen Opfern Selbstbestimmung entzieht.
+
+Merksatz: Marlas Fürsorgefassade verdeckt den Zugriff auf fremdes Vermögen.
+
+Quellen: [1](https://media.netflix.com/en/only-on-netflix/81350429).
+
+### S1 · schwer
+
+Welche Wissenschaftlerin porträtiert Rosamund Pike in „Radioactive“?
+
+- Lise Meitner
+
+- **Richtig: Marie Curie**
+
+- Irène Joliot-Curie
+
+- Rosalind Franklin
+
+Pike spielt Marie Curie.
+
+Der Film verbindet wissenschaftliche Arbeit mit der Beziehung zu Pierre Curie und den Umbrüchen nach seinem Tod. Pike interessierte an der Figur besonders deren Beharrlichkeit und Unabhängigkeit vom Wunsch, anderen zu gefallen. Die historische Leistung bildet so den Rahmen eines persönlichen Porträts.
+
+Merksatz: Pikes Radioactive-Porträt gilt Marie Curie.
+
+Quellen: [1](https://www.stylist.co.uk/people/rosamund-pike-a-private-war-marie-colvin-journalist-war-correspondent-gone-girl-marie-curie-heroes-advice/248685), [2](https://www.nature.com/articles/d41586-020-00810-1).
+
+### S2 · schwer
+
+Welche Kriegsreporterin spielt Rosamund Pike in „A Private War“?
+
+- **Richtig: Marie Colvin**
+
+- Christiane Amanpour
+
+- Kate Adie
+
+- Martha Gellhorn
+
+Pike verkörpert Marie Colvin.
+
+Colvin berichtete über Menschen in Kriegsgebieten und starb 2012 im syrischen Homs. Das Porträt zeigt neben der Arbeit auch ihre körperlichen und seelischen Belastungen. Die Figur ist deshalb weder nur eine mutige öffentliche Stimme noch ausschließlich ein Opfer der eigenen Risiken.
+
+Merksatz: Pike stellt die Reporterin Marie Colvin dar.
+
+Quellen: [1](https://www.stylist.co.uk/people/rosamund-pike-a-private-war-marie-colvin-journalist-war-correspondent-gone-girl-marie-curie-heroes-advice/248685), [2](https://www.townandcountrymag.com/leisure/arts-and-culture/a25012547/rosamund-pike-marie-colvin-interview-december-2018-january-2019/).
+
+### E1 · experte
+
+Was studierte Rosamund Pike zur Annäherung an Marie Colvins Stimme in „A Private War“ besonders intensiv?
+
+- Tonaufnahmen britischer Nachrichtensprecherinnen
+
+- Lesungen von Colvins Artikeln durch Schauspielkolleginnen
+
+- **Richtig: Bild- und Tonaufnahmen der Journalistin selbst**
+
+- Zeitgenössische Spielfilme mit anderen Kriegsreporterinnen
+
+Pike arbeitete mit umfangreichen Originalaufnahmen Colvins.
+
+Die Journalistin Janine di Giovanni, die Colvin persönlich kannte, erkannte im fertigen Spiel nicht nur den Akzent wieder. Auch Kopfbewegungen und die Art, eine Zigarette zu halten, wirkten auf sie vertraut. Die Recherche zielte damit auf hörbare und körperliche Gewohnheiten einer konkreten Person.
+
+Merksatz: Originalaufnahmen halfen Pike bei Stimme und körperlicher Erinnerung.
+
+Quellen: [1](https://www.townandcountrymag.com/leisure/arts-and-culture/a25012547/rosamund-pike-marie-colvin-interview-december-2018-january-2019/).
+
+### E2 · experte
+
+In welchem Fach nahm Rosamund Pike regelmäßig Privatunterricht, als sie Marie Curie für „Radioactive“ vorbereitete?
+
+- Anatomie
+
+- **Richtig: Chemie**
+
+- Mikrobiologie
+
+- Statistik
+
+Sie ließ sich mehrmals wöchentlich in Chemie unterrichten.
+
+Pike wollte sich dem geistigen Arbeitsgebiet ihrer Figur nähern und berichtete, wie anregend sie die Rückkehr zum Lernen fand. Die Vorbereitung beschränkte sich damit auf der Darstellerseite nicht auf Kostüm und historische Gesten. Das Fachwissen sollte ihr einen Zugang zu Curies Denken eröffnen.
+
+Merksatz: Für Curie ging Pike selbst wieder in den Chemieunterricht.
+
+Quellen: [1](https://www.stylist.co.uk/people/rosamund-pike-a-private-war-marie-colvin-journalist-war-correspondent-gone-girl-marie-curie-heroes-advice/248685).
+
+## Melissa McCarthy · Bekanntheitsgruppe 3
+
+![Melissa McCarthy (2012)](Portraets/095.jpg)
+
+Bild: 2012; MingleMediaTV. CC BY-SA 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Melissa_McCarthy_2012_(Straighten_Crop).jpg), [TMDB](https://www.themoviedb.org/person/55536).
+
+### L1 · leicht
+
+Welchen Beruf hat Melissa McCarthys Sookie St. James in „Gilmore Girls“?
+
+- **Richtig: Köchin**
+
+- Tierärztin
+
+- Musiklehrerin
+
+- Buchhändlerin
+
+Sookie ist Köchin.
+
+Ihre Freundschaft mit Lorelai ist eng mit der Arbeit im Gasthof verbunden. Später führen die beiden gemeinsam das Dragonfly Inn. Sookies Perfektionismus beim Kochen und ihre Herzlichkeit sorgen dabei sowohl für komische Schwierigkeiten als auch für Verlässlichkeit.
+
+Merksatz: Sookie verbindet Kochkunst und Freundschaft mit Lorelai.
+
+Quellen: [1](https://groundlings.com/people/melissa-mccarthy), [2](https://en.wikipedia.org/wiki/Sookie_St._James).
+
+### L2 · leicht
+
+Welche Figur spielt Melissa McCarthy in „Brautalarm“?
+
+- Helen Harris
+
+- **Richtig: Megan Price**
+
+- Rita
+
+- Becca
+
+McCarthy spielt Megan Price.
+
+Megan gehört zur Hochzeitsgesellschaft und tritt Annie mit einer ungewöhnlich direkten Mischung aus Selbstbewusstsein und Hilfsbereitschaft gegenüber. Der große Kinoerfolg dieser Nebenrolle führte auch zu einer Oscar-Nominierung. McCarthy war zuvor bereits eine erfahrene Fernsehdarstellerin.
+
+Merksatz: McCarthys Brautalarm-Figur heißt Megan.
+
+Quellen: [1](https://groundlings.com/people/melissa-mccarthy), [2](https://www.timeout.com/film/melissa-mccarthy-on-bridesmaids-interview).
+
+### M1 · mittel
+
+Welchen Wechsel vollzieht Melissa McCarthys Susan Cooper in „Spy“?
+
+- Von der Privatdetektivin zur Richterin
+
+- Von der Polizistin zur Sicherheitsberaterin
+
+- **Richtig: Von der CIA-Analystin zur Agentin im Außendienst**
+
+- Von der Diplomatin zur Journalistin
+
+Susan verlässt die Unterstützung am Schreibtisch und ermittelt selbst draußen.
+
+Sie hat die Arbeit eines Feldagenten bisher aus der Zentrale begleitet. Als bekannte Agenten enttarnt sind, wird ihre Unauffälligkeit zum Vorteil. Die Komödie lässt damit eine zuvor übersehene Mitarbeiterin Fähigkeiten einsetzen, die andere ihr nicht zugetraut haben.
+
+Merksatz: Susan tritt aus dem Hintergrund in die eigene Mission.
+
+Quellen: [1](https://www.allisonbjanney.com/spy), [2](https://en.wikipedia.org/wiki/Spy_(2015_film)).
+
+### M2 · mittel
+
+Womit beschafft sich Melissa McCarthys Lee Israel in „Can You Ever Forgive Me?“ illegal Geld?
+
+- Mit erfundenen Versicherungsfällen von Verlagen
+
+- **Richtig: Mit gefälschten Briefen berühmter Schriftsteller**
+
+- Mit gestohlenen Drehbüchern großer Filmstudios
+
+- Mit gefälschten Gemälden moderner Künstler
+
+Israel fälscht und verkauft literarische Briefe.
+
+Die frühere Biografin findet mit neuen Büchern keinen Erfolg mehr. Sie verwendet ihr Gespür für fremde Stimmen nun für vermeintliche Sammlerstücke und arbeitet mit Jack Hock zusammen. McCarthys Rolle verbindet komisches Sprachgefühl mit Isolation und einer wachsenden kriminellen Abhängigkeit.
+
+Merksatz: Lee Israels Talent für fremde Stimmen wird zum Werkzeug der Fälschung.
+
+Quellen: [1](https://www.searchlightpictures.com/canyoueverforgiveme/), [2](https://en.wikipedia.org/wiki/Can_You_Ever_Forgive_Me).
+
+### S1 · schwer
+
+Welchen Beruf hat Melissa McCarthys Molly Flynn zu Beginn von „Mike & Molly“?
+
+- **Richtig: Grundschullehrerin**
+
+- Sozialarbeiterin
+
+- Buchhalterin
+
+- Krankenschwester
+
+Molly unterrichtet an einer Grundschule.
+
+Sie begegnet dem Polizisten Mike bei einer Selbsthilfegruppe. Die Serie entwickelt daraus eine Beziehungskomödie im Arbeits- und Familienalltag Chicagos. Die Berufe verankern das Paar in einer anderen Umgebung als viele Sitcoms über junge Großstadtkarrieren.
+
+Merksatz: Molly startet als Lehrerin, Mike als Polizist.
+
+Quellen: [1](https://interviews.televisionacademy.com/shows/mike-molly).
+
+### S2 · schwer
+
+Bei welcher Komödiengruppe entwickelte Melissa McCarthy vor ihrem großen Kinoerfolg ihre Improvisationsarbeit?
+
+- The Committee
+
+- Upright Citizens Brigade
+
+- **Richtig: The Groundlings**
+
+- Second City
+
+Sie gehörte zu den Groundlings in Los Angeles.
+
+Die Bühne verbindet Improvisation und ausgearbeitete Sketche. Solche Arbeit schult das unmittelbare Reagieren auf Mitspieler ebenso wie das Entwickeln eigener Figuren. McCarthy gehört zu den zahlreichen späteren Film- und Fernsehkomikern aus diesem Umfeld.
+
+Merksatz: McCarthys Komödienarbeit führte über die Groundlings.
+
+Quellen: [1](https://groundlings.com/people/melissa-mccarthy), [2](https://groundlings.com/about).
+
+### E1 · experte
+
+Welcher Fernsehkoch inspirierte Melissa McCarthy bei der Entwicklung von Megans Erscheinung in „Brautalarm“?
+
+- Gordon Ramsay
+
+- Bobby Flay
+
+- Mario Batali
+
+- **Richtig: Guy Fieri**
+
+Guy Fieri war ein Ausgangspunkt für die Figur.
+
+McCarthy schlug sogar eine kurze, helle Stachelfrisur vor, die für den Film zu nah am Vorbild gewesen wäre. Die fertige Megan blieb eine eigene Mischung. Das Beispiel zeigt, wie Beobachtungen einer realen öffentlichen Person in eine erfundene Komödienfigur eingehen können.
+
+Merksatz: Megan entstand teilweise aus McCarthys Blick auf Guy Fieri.
+
+Quellen: [1](https://www.youtube.com/watch?v=TCyxaUt_TTY), [2](https://www.eater.com/2011/5/25/6678643/guy-fieri-was-the-inspiration-for-a-character-in-bridesmaids).
+
+### E2 · experte
+
+Mit wem schrieb Melissa McCarthy das Drehbuch zu „Tammy“?
+
+- Paul Feig
+
+- Will Ferrell
+
+- Adam McKay
+
+- **Richtig: Ben Falcone**
+
+McCarthy schrieb gemeinsam mit Ben Falcone.
+
+Falcone führte zudem Regie, während McCarthy die Hauptrolle spielte und mitproduzierte. Die Geschichte einer chaotischen Reise mit der Großmutter war damit auch ein gemeinsames Autorenprojekt. Ihre Beteiligung reichte deutlich über die Ausgestaltung einer bereits angebotenen Rolle hinaus.
+
+Merksatz: Tammy verband McCarthys Schauspiel mit eigener Drehbucharbeit.
+
+Quellen: [1](https://www.warnerbros.it/scheda-film/genere-commedia/tammy/).
+
+## Courteney Cox · Bekanntheitsgruppe 3
+
+![Courteney Cox (1995)](Portraets/096.jpg)
+
+Bild: 1995; Alan Light. CC BY 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Courteney_Cox_1995.jpg), [TMDB](https://www.themoviedb.org/person/14405).
+
+### L1 · leicht
+
+Welche Figur spielt Courteney Cox in „Friends“?
+
+- Carol Willick
+
+- Rachel Green
+
+- Phoebe Buffay
+
+- **Richtig: Monica Geller**
+
+Cox spielt Monica Geller.
+
+Monicas Wohnung wird zu einem zentralen Treffpunkt der Gruppe. Ihr Wunsch nach Ordnung und Kontrolle steht dabei immer wieder im Kontrast zu den unübersichtlichen Beziehungen ihrer Freunde. Die Figur gehört zum gleichrangig angelegten Ensemble der Sitcom.
+
+Merksatz: Courteney Cox ist Monica.
+
+Quellen: [1](https://www.youtube.com/watch?v=H3fUn4le238), [2](https://www.vanityfair.com/culture/2012/05/friends-oral-history-top-of-the-rock).
+
+### L2 · leicht
+
+Welche Figur verkörpert Courteney Cox in der „Scream“-Filmreihe?
+
+- Debbie Salt
+
+- **Richtig: Gale Weathers**
+
+- Sidney Prescott
+
+- Tatum Riley
+
+Cox spielt die Reporterin Gale Weathers.
+
+Gale berichtet über die Morde und verfolgt dabei auch eigene Karriereziele. Ihre Arbeit mit Geschichten über wahre Verbrechen gehört zum Medienblick der Filmreihe. Cox wollte mit dieser schrofferen Figur bewusst eine andere Seite als in ihrer Sitcom zeigen.
+
+Merksatz: Cox ist Scream-Reporterin Gale Weathers.
+
+Quellen: [1](https://www.etonline.com/features/205294_scream_20_years_later_neve_campbell_and_cast_share_untold_stories).
+
+### M1 · mittel
+
+Welchen Beruf übt Courteney Cox als Lucy Spiller in „Dirt“ aus?
+
+- **Richtig: Chefredakteurin eines Klatschmagazins**
+
+- Leiterin einer Schauspielagentur
+
+- Anwältin einer Filmproduktionsfirma
+
+- Chefin einer Werbeagentur
+
+Lucy Spiller leitet ein Boulevardmagazin.
+
+Sie beschafft exklusive Geschichten über Prominente und greift dafür zu Druck und Manipulation. Die Serie macht damit jene Medienwelt zum Gegenstand, die Stars sonst von außen beobachtet. Cox war auch als ausführende Produzentin beteiligt.
+
+Merksatz: Lucy Spiller organisiert Prominentengeschichten als Geschäft.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Dirt_(TV_series)).
+
+### M2 · mittel
+
+Welchen Beruf hat Courteney Cox' Jules Cobb in „Cougar Town“?
+
+- Cafébesitzerin
+
+- Fernsehmoderatorin
+
+- Fitnesslehrerin
+
+- **Richtig: Immobilienmaklerin**
+
+Jules arbeitet als Immobilienmaklerin.
+
+Nach ihrer Scheidung organisiert sie ihr Leben mit Sohn, Exmann, Nachbarn und Freunden neu. Das berufliche Umfeld und die Häuser der Nachbarschaft liefern dafür wiederkehrende Begegnungsorte. Die Serie entwickelt sich zunehmend zu einer Ensemblekomödie über diese Wahlfamilie.
+
+Merksatz: Jules' Maklerarbeit gehört zu ihrem neuen Alltag nach der Scheidung.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Cougar_Town).
+
+### S1 · schwer
+
+In welchem Bruce-Springsteen-Musikvideo tanzt die junge Courteney Cox auf der Bühne mit dem Sänger?
+
+- Born in the U.S.A.
+
+- **Richtig: Dancing in the Dark**
+
+- Glory Days
+
+- I'm on Fire
+
+Sie ist im Video zu Dancing in the Dark zu sehen.
+
+Der Auftritt wirkt wie eine spontane Einladung an eine Zuschauerin, gehört aber zur Inszenierung des Videos. Cox war als Darstellerin ausgewählt worden. Die Szene machte sie schon vor ihren großen Serienrollen einem breiten Musikpublikum sichtbar.
+
+Merksatz: Dancing in the Dark zeigt Cox als scheinbar zufällig ausgewählte Zuschauerin.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Dancing_in_the_Dark_(Bruce_Springsteen_song)).
+
+### S2 · schwer
+
+Welche „Friends“-Rolle wurde Courteney Cox zunächst angeboten, bevor sie sich für Monica entschied?
+
+- Phoebe Buffay
+
+- Carol Willick
+
+- **Richtig: Rachel Green**
+
+- Susan Bunch
+
+Ursprünglich war Rachel für sie vorgesehen.
+
+Marta Kauffman berichtete, dass Cox selbst lieber Monica spielen wollte. Die schließlich gefundene Besetzung war also nicht nur das Ergebnis eines Vorsprechens, sondern auch einer eigenen Einschätzung der Darstellerin. Jennifer Aniston übernahm Rachel.
+
+Merksatz: Cox entschied sich für Monica statt für Rachel.
+
+Quellen: [1](https://www.vanityfair.com/culture/2012/05/friends-oral-history-top-of-the-rock).
+
+### E1 · experte
+
+Welchen Vorbehalt musste Courteney Cox bei Wes Craven überwinden, um Gale Weathers in „Scream“ zu spielen?
+
+- **Richtig: Er kannte sie als zu liebenswürdig für die schroffe Reporterin.**
+
+- Er befürchtete Terminprobleme mit ihren Friends-Dreharbeiten.
+
+- Er wollte eine wesentlich ältere Darstellerin besetzen.
+
+- Er hielt ihre Gagenforderung für zu hoch.
+
+Craven musste ihr die deutlich härtere Figur erst zutrauen.
+
+Cox schrieb ihm ausdrücklich, dass sie sehr wohl eine unangenehme Person spielen könne. Ihr vertrautes sympathisches Fernsehbild war hier zunächst ein Hindernis. Der Auftritt als Gale wurde gerade durch den Abstand zu diesem Bild zu einer Erweiterung ihres Spektrums.
+
+Merksatz: Cox warb für eine Rolle jenseits ihres sympathischen Serienbilds.
+
+Quellen: [1](https://www.etonline.com/features/205294_scream_20_years_later_neve_campbell_and_cast_share_untold_stories).
+
+### E2 · experte
+
+Mit welchem Film gab Courteney Cox 2014 ihr Regiedebüt bei einem Kinolangfilm?
+
+- Bedtime Stories
+
+- November
+
+- **Richtig: Just Before I Go**
+
+- The Runner
+
+Ihr erster Kinolangfilm als Regisseurin war Just Before I Go.
+
+Seann William Scott spielt einen Mann, der vor seinem geplanten Suizid in seine Heimat zurückkehrt. Die Begegnungen zeigen ihm, dass auch andere mit schweren Problemen leben. Cox hatte zuvor bereits kürzere Formate und Fernsehproduktionen inszeniert; der Film wurde 2014 in Tribeca uraufgeführt.
+
+Merksatz: Just Before I Go führte Cox zur Regie eines Kinolangfilms.
+
+Quellen: [1](https://tribecafilm.com/festival/archive/53208a52c07f5df7d20004eb-just-before-i-go), [2](https://tribecafilm.com/news/7-actors-directing-films-at-tff-2014-courteney-cox-jon-favreau-chris-messina).
+
+## Lisa Kudrow · Bekanntheitsgruppe 3
+
+![Lisa Kudrow (2009)](Portraets/097.jpg)
+
+Bild: 2009; Lan Bui. CC BY-SA 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Lisa_Kudrow_crop.jpg), [TMDB](https://www.themoviedb.org/person/14406).
+
+### L1 · leicht
+
+Welche der sechs Hauptfiguren spielt Lisa Kudrow in „Friends“?
+
+- **Richtig: Phoebe Buffay**
+
+- Monica Geller
+
+- Rachel Green
+
+- Carol Willick
+
+Lisa Kudrow spielt Phoebe Buffay.
+
+Phoebe verbindet die Clique mit eigenwilligen Liedern und ungewöhnlichen Ansichten. Kudrow erhielt 1998 für die Rolle einen Emmy als beste Nebendarstellerin einer Comedyserie.
+
+Merksatz: Kudrow – Phoebe in „Friends“.
+
+Quellen: [1](https://www.televisionacademy.com/bios/lisa-kudrow).
+
+### L2 · leicht
+
+Welche Figur spielt Lisa Kudrow in „Romy und Michele“?
+
+- Romy
+
+- Heather
+
+- **Richtig: Michele**
+
+- Christie
+
+Kudrow ist Michele.
+
+Die beiden Außenseiterinnen reisen zu ihrem Klassentreffen. Kudrow hatte die Figur bereits Jahre zuvor im Bühnenstück „Ladies Room“ gespielt; aus dieser Arbeit entwickelte sich später die Filmrolle.
+
+Merksatz: Michele kam von der Bühne auf die Leinwand.
+
+Quellen: [1](https://catalog.afi.com/Film/61453-ROMY-AND-MICHELE%27S-HIGH-SCHOOL-REUNION), [2](https://interviews.televisionacademy.com/interviews/lisa-kudrow).
+
+### M1 · mittel
+
+Wie lässt Lisa Kudrows Valerie Cherish ihre erhoffte Rückkehr ins Fernsehgeschäft in „The Comeback“ dokumentieren?
+
+- Durch ein privates Videotagebuch
+
+- Durch eine autorisierte Biografie
+
+- Durch eine begleitende Radiosendung
+
+- **Richtig: Durch ein Reality-Kamerateam**
+
+Valerie lässt sich von Realitykameras begleiten.
+
+Die ehemalige Sitcom-Berühmtheit versucht mit einer neuen Fernsehrolle wieder Fuß zu fassen. Zugleich wird ihr Alltag für eine Realitysendung gefilmt; die beiden Formate machen ihre beruflichen Demütigungen öffentlich.
+
+Merksatz: Valeries Comeback steht auch vor Realitykameras.
+
+Quellen: [1](https://www.hbomaxlapress.com/programming/series/213).
+
+### M2 · mittel
+
+Welche ungewöhnliche Begrenzung setzt Lisa Kudrows Therapeutin in „Web Therapy“ für ihre Sitzungen?
+
+- Nur drei Fragen pro Patient
+
+- Nur schriftliche Antworten
+
+- Jeweils drei Patienten gleichzeitig
+
+- **Richtig: Drei Minuten pro Webcam-Gespräch**
+
+Die Webcam-Sitzungen dauern nur drei Minuten.
+
+Fiona Wallice betreibt ihre eigenwillige Behandlung über das Internet. Die improvisierte Serie begann online und wurde später für Showtime ins Fernsehen übertragen; Kudrow war an ihrer Entwicklung beteiligt.
+
+Merksatz: Drei Minuten Therapie vor der Webcam.
+
+Quellen: [1](https://www.televisionacademy.com/bios/lisa-kudrow).
+
+### S1 · schwer
+
+Welche Figur spielte Lisa Kudrow zunächst in „Verrückt nach dir“, bevor sie auch als Phoebes Zwillingsschwester in „Friends“ erschien?
+
+- Jill
+
+- Janice
+
+- **Richtig: Ursula**
+
+- Amy
+
+Die Figur heißt Ursula.
+
+Die Verbindung entstand über Kudrows Arbeit in zwei Sitcoms. Ursula gehörte bereits zu „Verrückt nach dir“, als „Friends“ begann; dort wurde sie als Schwester der neuen Hauptfigur Phoebe weitergeführt.
+
+Merksatz: Ursula verbindet zwei Sitcoms.
+
+Quellen: [1](https://interviews.televisionacademy.com/interviews/lisa-kudrow).
+
+### S2 · schwer
+
+Wie ist Lisa Kudrows Lucia in „The Opposite of Sex“ mit dem Lehrer Bill verbunden?
+
+- **Richtig: Sie ist die Schwester seines verstorbenen Partners**
+
+- Sie ist seine geschiedene Ehefrau
+
+- Sie ist seine Halbgeschwisterin
+
+- Sie ist seine frühere Schülerin
+
+Lucia ist die Schwester von Bills verstorbenem Partner.
+
+Lucia steht Bill (Martin Donovan) als Freundin bei. Als dessen Halbschwester Dedee (Christina Ricci) mit seinem neuen Freund und gestohlenem Geld verschwindet, begleitet Lucia ihn auf der Suche nach den beiden.
+
+Merksatz: Lucia schützt den Partner ihres verstorbenen Bruders.
+
+Quellen: [1](https://www.sonyclassics.com/oppositeofsex/synopsis.html).
+
+### E1 · experte
+
+Welchem Thema widmet sich „Who Do You Think You Are?“, das Lisa Kudrow als Executive Producer mitgestaltet?
+
+- Den ersten Bühnenrollen prominenter Menschen
+
+- **Richtig: Der Familiengeschichte prominenter Menschen**
+
+- Den Schulfreundschaften prominenter Menschen
+
+- Den Berufswechseln prominenter Menschen
+
+Die Serie erforscht Familiengeschichten und Abstammung.
+
+In jeder Folge geht eine bekannte Person ihrer Herkunft nach. Kudrows Produktionsfirma Is or Isn't Entertainment, die sie mit Dan Bucatinsky gründete, verbindet diese dokumentarische Arbeit mit ihren Comedyprojekten.
+
+Merksatz: Kudrows Produktion führt zu den Vorfahren.
+
+Quellen: [1](https://www.vassar.edu/alumsdigest/issues/2010/05/kudrow.html).
+
+### E2 · experte
+
+In welchem Fach machte Lisa Kudrow ihren Abschluss am Vassar College, bevor sie Schauspielerin wurde?
+
+- Chemie
+
+- **Richtig: Biologie**
+
+- Psychologie
+
+- Literaturwissenschaft
+
+Kudrow studierte Biologie.
+
+Der akademische Weg führte zunächst in eine andere Richtung als ihre spätere Arbeit. Den Einstieg in die professionelle Comedy fand sie über die Improvisationsgruppe The Groundlings in Los Angeles.
+
+Merksatz: Von der Biologie zur Improvisation.
+
+Quellen: [1](https://www.vassar.edu/alumsdigest/issues/2010/05/kudrow.html).
+
+## Dakota Fanning · Bekanntheitsgruppe 3
+
+![Dakota Fanning (2005)](Portraets/098.jpg)
+
+Bild: 2005; Heidur, cropped by Machocarioca 04:57, 28 November 2007 (UTC). CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Dakota_Fanning_cropped.jpg), [TMDB](https://www.themoviedb.org/person/501).
+
+### L1 · leicht
+
+Welche Rolle spielt Dakota Fanning in „Man on Fire“ an der Seite von Denzel Washington?
+
+- Die Tochter eines Polizisten
+
+- Die Tochter eines Entführers
+
+- **Richtig: Die Tochter seines Auftraggebers**
+
+- Die Tochter seines Kriegskameraden
+
+Sie spielt die entführte Tochter, die Creasy beschützen soll.
+
+Der ehemalige Soldat Creasy (Denzel Washington) übernimmt den Schutz des Mädchens Pita (Dakota Fanning). Als es entführt wird, setzt er alles daran, es wiederzufinden.
+
+Merksatz: Pita ist Creasys Schutzbefohlene.
+
+Gemeinsames Wissensziel: K-ACT-202610-P01-M-010 (ACT-202610-P01-M-010).
+
+Quellen: [1](https://www.bfi.org.uk/film/e0dd6c55-8407-5b0d-a8ad-f30e8af820db/man-on-fire), [2](https://www.20thcenturystudios.com/movies/man-on-fire).
+
+### L2 · leicht
+
+Welche Aufgabe übernahm Dakota Fanning bei „Coraline“ in der englischen Originalfassung?
+
+- **Richtig: Sie sprach Coraline**
+
+- Sie sprach Miss Spink
+
+- Sie sprach die andere Mutter
+
+- Sie sprach die Katze
+
+Fanning spricht die junge Titelheldin.
+
+Coraline entdeckt in ihrem neuen Zuhause eine Tür in eine scheinbar schönere Welt. Für den Stop-Motion-Film entstand Fannings Beitrag am Mikrofon, während die Figuren als Puppen Bild für Bild animiert wurden.
+
+Merksatz: Dakota Fanning ist Coralines Originalstimme.
+
+Quellen: [1](https://www.focusfeatures.com/article/coraline_2017_eighth-anniversary?highlight=bambi+anniversary+edition).
+
+### M1 · mittel
+
+Welches Ziel greifen die Umweltaktivisten um Dakota Fannings Dena in „Night Moves“ mit Sprengstoff an?
+
+- Eine Ölraffinerie
+
+- Ein Kohlekraftwerk
+
+- **Richtig: Einen Staudamm**
+
+- Eine Abholzungsmaschine
+
+Sie sprengen einen Staudamm.
+
+Dena, Josh (Jesse Eisenberg) und Harmon (Peter Sarsgaard) bereiten den Anschlag sorgfältig vor. Nach der Tat tritt an die Stelle ihrer politischen Gewissheit ein Klima aus Angst, Schuld und Misstrauen.
+
+Merksatz: „Night Moves“ – Anschlag auf den Damm.
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-great-thrillers-directed-women), [2](https://player.bfi.org.uk/rentals/film/watch-night-moves-2013-online).
+
+### M2 · mittel
+
+Welchen Beruf übt Dakota Fannings stumme Liz in „Brimstone“ aus?
+
+- **Richtig: Hebamme**
+
+- Gastwirtin
+
+- Schneiderin
+
+- Lehrerin
+
+Liz arbeitet als Hebamme.
+
+Sie lebt mit ihrer Familie im amerikanischen Westen. Das Auftauchen eines neuen Predigers (Guy Pearce) bedroht ihre Sicherheit: Liz erkennt in ihm einen Mann aus der Vergangenheit, dem sie entkommen wollte.
+
+Merksatz: Liz hilft bei Geburten – und fürchtet den Prediger.
+
+Quellen: [1](https://player.bfi.org.uk/rentals/film/watch-brimstone-2017-online).
+
+### S1 · schwer
+
+Welche Sängerin verkörpert Dakota Fanning im Musikfilm „The Runaways“?
+
+- Joan Jett
+
+- **Richtig: Cherie Currie**
+
+- Debbie Harry
+
+- Patti Smith
+
+Sie spielt Cherie Currie.
+
+Der Film stellt die junge Rockband und das Verhältnis ihrer Musikerinnen in den Mittelpunkt. Kristen Stewart übernimmt Joan Jett; Fanning verkörpert deren Mitstreiterin am Mikrofon.
+
+Merksatz: Fanning singt als Cherie Currie.
+
+Quellen: [1](https://catalog.afi.com/Catalog/PersonDetails/247232), [2](https://www.vanityfair.com/video/watch/sundance--kristen-stewart---dakota-fanning).
+
+### S2 · schwer
+
+Welcher Arbeit geht Dakota Fannings Marge Sherwood in der Serie „Ripley“ nach?
+
+- Sie übersetzt Opernlibretti
+
+- Sie restauriert Gemälde
+
+- Sie entwirft Mode
+
+- **Richtig: Sie schreibt ein Buch**
+
+Marge ist Schriftstellerin.
+
+Marge lebt mit Dickie Greenleaf (Johnny Flynn) in Italien und begegnet Tom Ripley (Andrew Scott) misstrauisch. Später erwägt sie, das öffentliche Interesse an Dickies Verschwinden zur Vermarktung ihres Buchs zu nutzen.
+
+Merksatz: Marge schreibt – und durchschaut Tom zunächst.
+
+Quellen: [1](https://www.netflix.com/tudum/articles/ripley-ending-explained).
+
+### E1 · experte
+
+Welche Nominierung erhielt Dakota Fanning bei den SAG Awards 2002?
+
+- Darstellerin eines Fernsehfilms oder einer Miniserie
+
+- **Richtig: Nebendarstellerin eines Kinofilms**
+
+- Hauptdarstellerin eines Kinofilms
+
+- Ensemble eines Kinofilms
+
+Sie war als Nebendarstellerin nominiert.
+
+Fanning spielt Lucy, die Tochter des geistig behinderten Sam (Sean Penn). Die Schauspielergewerkschaft würdigte ihre Leistung in der Nebenrollen-Kategorie; eine Nominierung ist dabei von einem Preisgewinn zu unterscheiden.
+
+Merksatz: Lucy brachte eine SAG-Nominierung als Nebendarstellerin.
+
+Quellen: [1](https://www.sagawards.org/files/sagawards/nominee_histories.pdf), [2](https://catalog.afi.com/Catalog/MovieDetails/62048).
+
+### E2 · experte
+
+Mit wem gründete Dakota Fanning die Produktionsfirma Lewellen Pictures?
+
+- Jessica Wapner
+
+- Sofia Coppola
+
+- Kristen Stewart
+
+- **Richtig: Elle Fanning**
+
+Sie gründete die Firma mit ihrer Schwester Elle Fanning.
+
+Die Schwestern erweiterten ihre Arbeit vor der Kamera um die Entwicklung eigener Stoffe. Die Firma wurde für Film- und Fernsehprojekte sowie weitere Medienformen gegründet.
+
+Merksatz: Zwei Fannings hinter Lewellen Pictures.
+
+Quellen: [1](https://press.hulu.com/bios/elle-fanning/).
+
+## Elle Fanning · Bekanntheitsgruppe 3
+
+![Elle Fanning (2016)](Portraets/099.jpg)
+
+Bild: 2016; Georges Biard. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Elle_Fanning_Cannes_2016_2.jpg), [TMDB](https://www.themoviedb.org/person/18050).
+
+### L1 · leicht
+
+Welche Märchenprinzessin spielt Elle Fanning in „Maleficent“?
+
+- Schneewittchen
+
+- Aschenputtel
+
+- **Richtig: Aurora**
+
+- Arielle
+
+Elle Fanning spielt Aurora.
+
+Die Neuinterpretation erzählt den Dornröschen-Stoff aus der Nähe der Fee Maleficent (Angelina Jolie). Während Aurora heranwächst, entwickelt diejenige, die sie verflucht hat, eine tiefe Bindung zu ihr.
+
+Merksatz: Fanning – Aurora im Dornröschen-Stoff.
+
+Quellen: [1](https://movies.disney.com/maleficent/characters).
+
+### L2 · leicht
+
+Welche Herrscherin verkörpert Elle Fanning in der satirischen Serie „The Great“?
+
+- Elisabeth I.
+
+- Christina von Schweden
+
+- Maria Theresia
+
+- **Richtig: Katharina die Große**
+
+Fanning spielt Katharina die Große.
+
+Die Serie bearbeitet Katharinas Weg zur Macht als historische Satire. Fanning war zugleich als Executive Producer an dem Projekt beteiligt.
+
+Merksatz: Elle Fanning – Katharina in „The Great“.
+
+Quellen: [1](https://www.televisionacademy.com/bios/elle-fanning), [2](https://press.hulu.com/shows/the-great/).
+
+### M1 · mittel
+
+Welche Beziehung hat Elle Fannings Julie zu dem Jugendlichen Jamie in „Jahrhundertfrauen“?
+
+- Sie ist seine Schwester
+
+- Sie ist seine Cousine
+
+- Sie ist seine Musiklehrerin
+
+- **Richtig: Sie ist seine Nachbarin und Freundin**
+
+Julie ist Jamies befreundete Nachbarin.
+
+Jamies Mutter Dorothea (Annette Bening) bittet zwei junge Frauen um Unterstützung bei seiner Erziehung. Neben der Punkerin Abbie (Greta Gerwig) wird Julie für den Heranwachsenden zu einer wichtigen Bezugsperson.
+
+Merksatz: Julie gehört zu Jamies Umfeld jenseits der Familie.
+
+Quellen: [1](https://player.bfi.org.uk/subscription/film/watch-20th-century-women-2016-online).
+
+### M2 · mittel
+
+Was erschüttert die Freundschaft von Elle Fannings Ginger und Rosa (Alice Englert) in „Ginger & Rosa“?
+
+- Rosa verlobt sich mit Gingers Freund
+
+- Rosa veröffentlicht Gingers Gedichte unter eigenem Namen
+
+- **Richtig: Rosa beginnt eine Affäre mit Gingers Vater**
+
+- Rosa verrät Gingers politischen Protest an die Polizei
+
+Rosa beginnt ein Verhältnis mit Gingers Vater.
+
+Die Freundinnen wachsen im London der frühen 1960er Jahre auf. Gingers politische Ängste während der Kubakrise verbinden sich mit der Krise ihrer Familie und dem Gefühl, von der engsten Freundin verraten worden zu sein.
+
+Merksatz: Die Freundin wird zur Geliebten des Vaters.
+
+Quellen: [1](https://player.bfi.org.uk/rentals/film/watch-ginger-rosa-2012-online), [2](https://www.bfi.org.uk/features/where-begin-with-sally-potter).
+
+### S1 · schwer
+
+Welcher persönliche Verlust prägt Elle Fannings Schriftstellerin in „Mary Shelley“ und wird mit der Entstehung von „Frankenstein“ verbunden?
+
+- Der Tod ihrer Lehrerin
+
+- **Richtig: Der Tod ihres Kindes**
+
+- Der Tod ihres Bruders
+
+- Der Tod ihres Verlegers
+
+Der Film verbindet die Geschichte mit dem Verlust ihres Kindes.
+
+Regisseurin Haifaa al-Mansour erklärt, sie habe Shelleys eigene Erfahrungen ins Zentrum gestellt. Die Begegnung mit Tod und dem Wunsch nach Wiederbelebung gehört dabei zum Hintergrund ihrer literarischen Schöpfung.
+
+Merksatz: Shelleys Verluste stehen hinter der Frage nach neuem Leben.
+
+Quellen: [1](https://www.bfi.org.uk/interviews/mary-shelley-haifaa-al-mansour-elle-fanning).
+
+### S2 · schwer
+
+Wer fördert Elle Fannings Violet auf ihrem Weg zum Gesangswettbewerb in „Teen Spirit“?
+
+- **Richtig: Ein ehemaliger Opernsänger**
+
+- Ein ehemaliger Kinderstar
+
+- Ein pensionierter Plattenproduzent
+
+- Ein Musiklehrer ihrer Schule
+
+Der frühere Opernsänger Vlad wird ihr Mentor.
+
+Vlad (Zlatko Burić) hört Violet in einem kleinen Club singen. Weil ihre Mutter den Wettbewerb ablehnt, begleitet er sie zunächst als erwachsene Bezugsperson zur Anmeldung; daraus entwickelt sich eine ungewöhnliche Partnerschaft.
+
+Merksatz: Ein Opernsänger begleitet Violets Poptraum.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/reviews/teen-spirit-first-look-max-minghella-embraces-elle-fannings-pop-dreams).
+
+### E1 · experte
+
+Welche zusätzliche Aufgabe hatte Elle Fanning bei „The Great“ neben der Hauptrolle?
+
+- Sie schrieb das Drehbuch
+
+- **Richtig: Sie war Executive Producer**
+
+- Sie führte Regie
+
+- Sie verantwortete das Casting
+
+Fanning war Executive Producer.
+
+Fanning gestaltete die satirische Serie auch hinter der Kamera mit. Bei der Miniserie „The Girl from Plainville“ verband sie die Hauptrolle ebenfalls mit einem Executive-Producer-Credit.
+
+Merksatz: Fanning gestaltet ihre Serien auch als Produzentin mit.
+
+Quellen: [1](https://press.hulu.com/shows/the-great/), [2](https://press.hulu.com/bios/elle-fanning/).
+
+### E2 · experte
+
+Wie bereitete sich Elle Fanning auf den eigenen Gesang in „Teen Spirit“ vor?
+
+- **Richtig: Durch drei Monate Training mit einem Gesangscoach**
+
+- Durch einen kurzen Intensivkurs vor den Studioaufnahmen
+
+- Durch mehrmonatige Proben mit einer Tourneeband
+
+- Durch zweijährigen Unterricht an einer Musikhochschule
+
+Sie trainierte vor den Dreharbeiten drei Monate lang.
+
+Fanning beschrieb tägliche Übungen mit Gesangscoach Bob Garrett. Ton- und Videoaufnahmen halfen ihr, die eigenen Darbietungen zu beurteilen; zusätzlich arbeitete sie an den englischen und polnischen Sprachanteilen ihrer Figur.
+
+Merksatz: Drei Monate Vorbereitung für Violets eigene Stimme.
+
+Quellen: [1](https://www.nylon.com/elle-fanning-teen-spirit-interview).
+
+## Sandra Hüller · Bekanntheitsgruppe 3
+
+![Sandra Hüller (2017)](Portraets/100.jpg)
+
+Bild: 2017; Martin Kraft. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:MJK30817_Sandra_H%C3%BCller_(Berlinale_2017).jpg), [TMDB](https://www.themoviedb.org/person/7152).
+
+### L1 · leicht
+
+Welchen Beruf hat Sandra Hüllers Ines in „Toni Erdmann“?
+
+- Diplomatin
+
+- **Richtig: Unternehmensberaterin**
+
+- Musiklehrerin
+
+- Journalistin
+
+Ines arbeitet als Unternehmensberaterin.
+
+Ihre Karriere führt sie nach Bukarest. Der Besuch ihres Vaters Winfried (Peter Simonischek), der sich mit Perücke und falschen Zähnen in ihren Alltag einmischt, bringt ihre sorgfältig kontrollierte Arbeitswelt durcheinander.
+
+Merksatz: Ines berät Unternehmen; ihr Vater stört den Geschäftsalltag.
+
+Quellen: [1](https://www.filmportal.de/film/toni-erdmann_61b50decffc146079c05f1622e5a19cf).
+
+### L2 · leicht
+
+Welchem Verdacht sieht sich Sandra Hüllers Schriftstellerin in „Anatomie eines Falls“ ausgesetzt?
+
+- **Richtig: Den Tod ihres Mannes verursacht zu haben**
+
+- Eine Entführung vorgetäuscht zu haben
+
+- Ein Manuskript gestohlen zu haben
+
+- Die Aussage ihres Sohnes gefälscht zu haben
+
+Sie steht unter Verdacht, ihren Mann getötet zu haben.
+
+Nach seinem Tod wird die Ehe vor Gericht durchleuchtet. Hüllers Figur muss sich nicht nur gegen einen Mordvorwurf verteidigen: Auch die Spannungen im gemeinsamen Alltag werden als mögliche Beweisanzeichen bewertet.
+
+Merksatz: Ein Todesfall macht die Ehe zum Gerichtsfall.
+
+Gemeinsames Wissensziel: K-F240-20261006-048-L1 (F240-20261006-048-L1).
+
+Quellen: [1](https://www.filmportal.de/person/sandra-hueller_5f6efa28c1da499b8a99ca7c2642cc71).
+
+### M1 · mittel
+
+Was geschieht mit Sandra Hüllers Studentin Michaela in „Requiem“?
+
+- Sie wird gegen ihren Willen verheiratet
+
+- Sie wird für einen politischen Protest inhaftiert
+
+- **Richtig: Sie wird einem Exorzismus unterzogen**
+
+- Sie wird wegen eines Plagiats exmatrikuliert
+
+Michaela gerät in einen religiösen Exorzismus.
+
+Der Film nimmt einen realen Fall zum Ausgangspunkt, erzählt ihn jedoch mit einer fiktiven Hauptfigur. Ihr Versuch, sich vom streng religiösen Elternhaus zu lösen, wird von gesundheitlichen Krisen und der Vorstellung einer Besessenheit überschattet.
+
+Merksatz: Michaelas Krise wird als Besessenheit behandelt.
+
+Quellen: [1](https://www.filmportal.de/person/sandra-hueller_5f6efa28c1da499b8a99ca7c2642cc71), [2](https://www.filmportal.de/film/requiem_dba5aa86c4d3492eb7603386475d2990).
+
+### M2 · mittel
+
+Welche historische Person verkörpert Sandra Hüller in „The Zone of Interest“?
+
+- Magda Goebbels
+
+- Ilse Koch
+
+- Lina Heydrich
+
+- **Richtig: Hedwig Höß**
+
+Sie spielt Hedwig Höß.
+
+Die Ehefrau des Auschwitz-Kommandanten Rudolf Höß (Christian Friedel) gestaltet ein privilegiertes Familienleben unmittelbar neben dem Lager. Der gepflegte Garten steht im Film neben den hörbaren Zeichen des Massenmords jenseits der Mauer.
+
+Merksatz: Hedwigs Garten liegt neben Auschwitz.
+
+Quellen: [1](https://bfidatadigipres.github.io/new%20releases/2024/02/02/zone-of-interest/), [2](https://a24films.com/films/the-zone-of-interest).
+
+### S1 · schwer
+
+Mit wem beginnt Sandra Hüllers Ärztin Charlotte in „Brownian Movement“ sexuelle Beziehungen?
+
+- **Richtig: Mit Patienten ihrer Klinik**
+
+- Mit Kollegen ihres Mannes
+
+- Mit ehemaligen Kommilitonen
+
+- Mit den Nachbarn ihrer Familie
+
+Charlotte trifft sich mit Patienten.
+
+Sie mietet dafür eine Wohnung und wählt Männer mit sehr unterschiedlichen Körpern aus. Als ihr Ehemann Max (Dragan Bakema) davon erfährt, gerät die Ehe in eine Krise; eine Therapie soll Charlottes schwer erklärbares Verlangen verständlich machen.
+
+Merksatz: Charlottes Patienten werden Teil ihres Doppellebens.
+
+Quellen: [1](https://www.filmportal.de/film/brownian-movement_7422062123fe4ab687fbfe338d8876fc).
+
+### S2 · schwer
+
+Womit beschäftigt sich Sandra Hüllers Franziska beruflich in „Finsterworld“?
+
+- Mit Reisebüchern
+
+- **Richtig: Mit Dokumentarfilmen**
+
+- Mit Werbekampagnen
+
+- Mit Polizeipsychologie
+
+Franziska dreht Dokumentarfilme.
+
+Sie will eine anspruchsvolle Milieustudie über einen arbeitslosen Plattenbaubewohner schaffen. Ihre Suche nach vermeintlicher Authentizität gehört zu den miteinander verbundenen satirischen Geschichten des Films.
+
+Merksatz: Franziska sucht die Wirklichkeit mit der Kamera.
+
+Quellen: [1](https://www.filmportal.de/film/finsterworld_508ea0e4bf564a60a1f24782dd0050ed).
+
+### E1 · experte
+
+Welche Figur spielt Sandra Hüller in Johan Simons’ Bochumer Inszenierung von „Hamlet“?
+
+- Ophelia
+
+- Gertrud
+
+- Laertes
+
+- **Richtig: Hamlet**
+
+Hüller spielt Hamlet.
+
+Die Inszenierung macht die Suche nach Wahrhaftigkeit zum Zentrum des Stücks. Hüllers Besetzung in der Titelrolle führt ihre langjährige Bühnenarbeit neben der Filmkarriere fort.
+
+Merksatz: Hüller übernimmt selbst den Dänenprinzen.
+
+Quellen: [1](https://www.schauspielhausbochum.de/en/stuecke/198/hamlet).
+
+### E2 · experte
+
+Mit wem inszenierte Sandra Hüller bei ihrem Regiedebüt in Halle „Penthesile:a:s“?
+
+- Johan Simons
+
+- René Pollesch
+
+- **Richtig: Tom Schneider**
+
+- Sebastian Nübling
+
+Sie führte gemeinsam mit Tom Schneider Regie.
+
+Die deutschsprachige Erstaufführung von MarDis Kleist-Überschreibung hatte 2025 Premiere. Das Stück betrachtet die Begegnung von Penthesilea und Achilles neu; Hüller wechselte dabei von der eigenen Darstellung zur gemeinsamen Inszenierung.
+
+Merksatz: Hüller und Schneider inszenieren MarDis Penthesilea.
+
+Quellen: [1](https://www.buehnen-halle.de/de/program/penthesileas/270495).
+
+## Nina Hoss · Bekanntheitsgruppe 3
+
+![Nina Hoss (2012)](Portraets/101.jpg)
+
+Bild: 2012; Siebbi. CC BY 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Nina_Hoss_(Berlinale_2012).jpg), [TMDB](https://www.themoviedb.org/person/681).
+
+### L1 · leicht
+
+Welchen Beruf übt Nina Hoss’ Titelfigur in „Barbara“ aus?
+
+- Anwältin
+
+- Journalistin
+
+- Lehrerin
+
+- **Richtig: Ärztin**
+
+Barbara ist Ärztin.
+
+Nach ihrem Ausreiseantrag wird sie 1980 aus Berlin an ein kleines Krankenhaus versetzt. Während ihr Partner im Westen ihre Flucht vorbereitet, übernimmt sie Verantwortung für junge Patienten und muss ihren neuen Kollegen einschätzen.
+
+Merksatz: Barbara behandelt Kinder und plant ihre Flucht.
+
+Quellen: [1](https://www.filmportal.de/en/movie/barbara_ab1f91ee61fe186ae040007f01001758).
+
+### L2 · leicht
+
+Welche reale Frau verkörpert Nina Hoss im Fernsehfilm „Das Mädchen Rosemarie“?
+
+- **Richtig: Rosemarie Nitribitt**
+
+- Christa Päffgen
+
+- Ingrid van Bergen
+
+- Vera Brühne
+
+Sie spielt Rosemarie Nitribitt.
+
+Die Frankfurter Prostituierte wurde 1957 ermordet. Hoss wurde durch das von Bernd Eichinger inszenierte Fernsehremake bekannt und erhielt für ihre Darstellung die Goldene Kamera als Nachwuchsdarstellerin.
+
+Merksatz: Rosemarie Nitribitt machte Nina Hoss bekannt.
+
+Quellen: [1](https://www.filmportal.de/person/nina-hoss_7b72f52bfd4f4f559944b13615688bef).
+
+### M1 · mittel
+
+Wozu überredet der Ehemann Nina Hoss’ Nelly in „Phoenix“, ohne sie zu erkennen?
+
+- Seine neue Partnerin zu verstecken
+
+- Ihm einen gefälschten Pass zu beschaffen
+
+- Als Zeugin gegen ihn auszusagen
+
+- **Richtig: Als vermeintliche Ehefrau aufzutreten**
+
+Er möchte, dass sie seine Frau spielt – die sie tatsächlich ist.
+
+Nelly hat Auschwitz überlebt und ihr schwer verletztes Gesicht operieren lassen. Auf der Suche nach ihrem Mann Johnny (Ronald Zehrfeld) begegnet sie einem Menschen, der sie für eine Doppelgängerin hält und für seine Zwecke benutzen will.
+
+Merksatz: Nelly soll ihre eigene Doppelgängerin spielen.
+
+Quellen: [1](https://www.criterion.com/films/28851-phoenix).
+
+### M2 · mittel
+
+Welches Wissen fehlt Nina Hoss’ Laura zunächst über den Mann, in den sie sich in „Wolfsburg“ verliebt?
+
+- **Richtig: Er hat ihren Sohn überfahren und ist geflohen**
+
+- Er hat ihren Arbeitsplatz verkauft
+
+- Er hat ihre Ersparnisse gestohlen
+
+- Er ist mit ihrer Schwester verheiratet
+
+Er ist der Fahrer, der ihren Sohn überfahren hat.
+
+Laura und der von Benno Fürmann gespielte Mann finden zueinander, ohne dass sie seine Verantwortung für den Unfall kennt. Die Liebesgeschichte ist dadurch mit einer zunächst verborgenen Schuld verbunden.
+
+Merksatz: Lauras neuer Partner ist der Unfallfahrer.
+
+Quellen: [1](https://www.filmportal.de/person/nina-hoss_7b72f52bfd4f4f559944b13615688bef), [2](https://www.filmportal.de/film/wolfsburg_57c09da7cac546b2b6ae813c923fbfdd).
+
+### S1 · schwer
+
+Welche Position hat Nina Hoss’ Sharon im Orchester von „Tár“?
+
+- Soloflötistin
+
+- **Richtig: Konzertmeisterin**
+
+- Bratschistin
+
+- Solocellistin
+
+Sharon ist Konzertmeisterin und Geigerin.
+
+Sie ist außerdem die Ehefrau der Dirigentin Lydia Tár (Cate Blanchett). Hoss arbeitete für den Film mit der Dresdner Philharmonie, die auf der Leinwand das Berliner Orchester verkörpert.
+
+Merksatz: Sharon sitzt an der ersten Geige.
+
+Quellen: [1](https://www.ndr.de/kultur/film/Tar-Arbeit-mit-Orchester-fuer-Nina-Hoss-Karriere-Hoehepunkt%2Ctarfilm100.html).
+
+### S2 · schwer
+
+Wofür kämpft Nina Hoss’ Lisa in „Schwesterlein“, nachdem ihr Zwillingsbruder an Leukämie erkrankt ist?
+
+- Dass er seine eigene Inszenierung fertigstellen kann
+
+- Dass er die Leitung seiner Schauspielschule behalten kann
+
+- **Richtig: Dass er auf die Theaterbühne zurückkehren kann**
+
+- Dass er ein Buch über seine Krankheit veröffentlichen kann
+
+Sie möchte ihren Bruder wieder auf die Bühne bringen.
+
+Lisa war selbst Theaterautorin und hat das Schreiben aufgegeben. Der schwerkranke Sven (Lars Eidinger) weckt ihren künstlerischen Antrieb erneut; die Sorge für ihn beansprucht sie so sehr, dass auch ihre Ehe gefährdet wird.
+
+Merksatz: Lisa will Sven wieder spielen sehen.
+
+Quellen: [1](https://swissfilms.ch/de/movie/schwesterlein/6d72eade413147929fedfb5de18c39ee).
+
+### E1 · experte
+
+In welchem Schnitzler-Stück spielte Nina Hoss bei Christian Petzolds Regiedebüt am Deutschen Theater?
+
+- Reigen
+
+- Anatol
+
+- **Richtig: Der einsame Weg**
+
+- Liebelei
+
+Sie spielte in „Der einsame Weg“.
+
+Petzold inszenierte das Stück 2009 am Deutschen Theater Berlin. Hoss übernahm Johanna; die aus ihren Filmen bekannte Zusammenarbeit erstreckte sich damit auch auf die Bühne.
+
+Merksatz: Hoss und Petzold treffen sich auf dem „einsamen Weg“.
+
+Quellen: [1](https://www.deutschestheater.de/programm/produktionen/der-einsame-weg).
+
+### E2 · experte
+
+Mit welcher Band nahm Nina Hoss „Europa geht durch mich“ auf?
+
+- Pulp
+
+- **Richtig: Manic Street Preachers**
+
+- Franz Ferdinand
+
+- Suede
+
+Sie sang mit den Manic Street Preachers.
+
+Der Song erschien 2014 auf „Futurology“. Hoss’ Stimme gehört zum europaorientierten Konzept der Aufnahme; die walisische Band verband hier ihre Rockmusik mit einem stark elektronischen Klang.
+
+Merksatz: Nina Hoss singt auf „Futurology“.
+
+Quellen: [1](https://www.manicstreetpreachers.com/journal/biography-2014/), [2](https://www.youtube.com/watch?v=j4nmkZMtMAE).
+
+## Martina Gedeck · Bekanntheitsgruppe 3
+
+![Martina Gedeck (2007)](Portraets/102.jpg)
+
+Bild: 2007; Thore Siebrands. CC BY 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Martina_Gedeck_-_Berlin_Film_Festival_2007_(2)_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/678).
+
+### L1 · leicht
+
+Um wen muss sich Martina Gedecks Chefköchin in „Bella Martha“ nach einem Unfall kümmern?
+
+- **Richtig: Um ihre verwaiste Nichte**
+
+- Um ihren kranken Vater
+
+- Um ihre Großmutter
+
+- Um ihre kleine Schwester
+
+Martha nimmt die Tochter ihrer verstorbenen Schwester bei sich auf.
+
+Die achtjährige Lina (Maxime Foerste) bringt das streng geregelte Leben der Köchin durcheinander. Ihr italienischer Kollege Mario (Sergio Castellitto) findet einen Zugang zu dem Kind und wird auch für Martha zu mehr als einem Küchenrivalen.
+
+Merksatz: Marthas Nichte verändert ihr Leben jenseits der Küche.
+
+Quellen: [1](https://www.filmportal.de/en/movie/bella-martha_ea43d4a7163b5006e03053d50b37753d).
+
+### L2 · leicht
+
+Welchen Beruf hat Martina Gedecks Christa-Maria Sieland in „Das Leben der Anderen“?
+
+- Verlagslektorin
+
+- **Richtig: Theaterschauspielerin**
+
+- Journalistin
+
+- Musiklehrerin
+
+Christa-Maria Sieland ist Theaterschauspielerin.
+
+Sie lebt mit dem Schriftsteller Georg Dreymann (Sebastian Koch) in Ost-Berlin. Die Überwachung durch Stasi-Hauptmann Wiesler (Ulrich Mühe) dringt tief in die private und künstlerische Existenz des Paars ein.
+
+Merksatz: Christa-Maria steht auf der Bühne; Dreymann schreibt.
+
+Quellen: [1](https://www.filmportal.de/film/das-leben-der-anderen_cd85e167113046cf85f25cebf37bb307).
+
+### M1 · mittel
+
+Welche Tiere begleiten Martina Gedecks isolierte Frau in „Die Wand“?
+
+- Hund, Pferd und Ziege
+
+- Hund, Esel und Kaninchen
+
+- Katze, Schafe und Hühner
+
+- **Richtig: Hund, Katze und Kuh**
+
+Sie lebt mit einem Hund, einer Katze und einer Kuh.
+
+Nach einem Aufenthalt in einem Jagdhaus trennt eine unsichtbare Grenze die Frau von der übrigen Welt. Die Tiere bilden ihre verbliebene Gemeinschaft; zugleich muss sie Nahrung beschaffen und ihr Überleben in der Natur organisieren.
+
+Merksatz: Hund, Katze und Kuh bleiben hinter der Wand.
+
+Quellen: [1](https://www.filmportal.de/film/die-wand_7ba698570bfd400da515146ce5be8f69).
+
+### M2 · mittel
+
+Welche Entwicklung durchläuft Martina Gedecks Ulrike Meinhof in „Der Baader Meinhof Komplex“?
+
+- Von der Anwältin zur Richterin
+
+- **Richtig: Von der Journalistin zur RAF-Terroristin**
+
+- Von der Polizistin zur Informantin
+
+- Von der Politikerin zur Friedensaktivistin
+
+Meinhof wird von der Journalistin zur Mitgründerin der RAF.
+
+Der Film verfolgt die Radikalisierung der Gruppe um Meinhof, Andreas Baader (Moritz Bleibtreu) und Gudrun Ensslin (Johanna Wokalek). Ihre politischen Vorstellungen münden in bewaffnete Gewalt und schließlich in die Haft in Stammheim.
+
+Merksatz: Meinhofs Weg führt vom Journalismus in die RAF.
+
+Quellen: [1](https://www.filmportal.de/person/martina-gedeck_556104d2dc36400ba6b22977d797b6ad), [2](https://www.filmportal.de/film/der-baader-meinhof-komplex_b5347ae446ba4822ba69db9e202095f0).
+
+### S1 · schwer
+
+Welcher junge Komponist tritt in „Geliebte Clara“ in das Leben von Martina Gedecks Clara Schumann und ihrem Mann?
+
+- Richard Wagner
+
+- Franz Schubert
+
+- **Richtig: Johannes Brahms**
+
+- Felix Mendelssohn Bartholdy
+
+Johannes Brahms wird zum engen Vertrauten der Schumanns.
+
+Robert Schumann (Pascal Greggory) hofft in Düsseldorf auf einen beruflichen Neubeginn, wird jedoch von Krankheit beeinträchtigt. Brahms (Malik Zidi) bewundert seine Musik und verliebt sich zugleich in Clara; sein Einzug verbindet die drei noch enger.
+
+Merksatz: Brahms ergänzt das Paar Schumann zum Dreieck.
+
+Quellen: [1](https://www.filmportal.de/film/geliebte-clara_95b622753da64844939758d447fcdfb1).
+
+### S2 · schwer
+
+Welche Täuschung erkennt Martina Gedecks Sekretärin Lotte im Fernsehfilm „Romeo“?
+
+- Ihre Tochter hat für die Stasi gearbeitet
+
+- Ihre Eltern haben ihre Herkunft verschwiegen
+
+- **Richtig: Ihre große Liebe war Teil eines Spionageauftrags**
+
+- Ihr Vorgesetzter hat sie mit einer erfundenen Entführung erpresst
+
+Der Mann hat die Liebesbeziehung für die DDR-Spionage benutzt.
+
+Lotte blickt im Gerichtssaal auf zwei Jahrzehnte zurück, in denen sie Informationen weitergab. Sie erfährt, dass Liebesschwüre, Heirat und Familiengeschichten zu der inszenierten Identität eines Ost-Agenten gehörten.
+
+Merksatz: Lottes Liebesgeschichte war ein Geheimdienstmanöver.
+
+Quellen: [1](https://martina-gedeck.com/romeo-2001).
+
+### E1 · experte
+
+Welche besondere Konstellation spielte Martina Gedeck während ihrer Ausbildung in Pip Simmons’ „Aschenkinder“?
+
+- Eine Tänzerin, die eine Königin darstellt
+
+- Eine Schauspielerin, die eine Regisseurin darstellt
+
+- Eine Lehrerin, die eine Schülerin darstellt
+
+- **Richtig: Eine Heiminsassin, die einen Prinzen darstellt**
+
+Sie spielte eine Insassin, die in einem Stück die Prinzenrolle übernimmt.
+
+Simmons engagierte Gedeck 1985 am Frankfurter Theater am Turm. Das Bühnenspiel innerhalb des Stücks verband die Situation einer Besserungsanstalt mit einer zweiten Darstellungsebene.
+
+Merksatz: Gedeck spielt eine Insassin – die wiederum einen Prinzen spielt.
+
+Quellen: [1](https://www.filmportal.de/person/martina-gedeck_556104d2dc36400ba6b22977d797b6ad).
+
+### E2 · experte
+
+Von welcher Autorin stammt die literarische Vorlage zu Martina Gedecks „Die Wand“?
+
+- **Richtig: Marlen Haushofer**
+
+- Ilse Aichinger
+
+- Ingeborg Bachmann
+
+- Elfriede Jelinek
+
+Der Roman stammt von Marlen Haushofer.
+
+Die Vorlage erschien 1963. Regisseur Julian Roman Pölsler hielt sich eng an Haushofers Sprache; die schriftlichen Aufzeichnungen der isolierten Erzählerin tragen auch die Filmfassung.
+
+Merksatz: Haushofers Roman wird Gedecks Überlebensgeschichte.
+
+Quellen: [1](https://www.filmportal.de/film/die-wand_7ba698570bfd400da515146ce5be8f69).
+
+## Corinna Harfouch · Bekanntheitsgruppe 3
+
+![Corinna Harfouch (2012)](Portraets/103.jpg)
+
+Bild: 2012; Roger Weil. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Corinna_Harfouch.JPG), [TMDB](https://www.themoviedb.org/person/680).
+
+### L1 · leicht
+
+Welche Hexe spielt Corinna Harfouch im Kinofilm „Bibi Blocksberg“ von 2002?
+
+- **Richtig: Rabia**
+
+- Walpurgia
+
+- Schubia
+
+- Barbara
+
+Harfouch spielt die missgünstige Hexe Rabia.
+
+Bibi (Sidonie von Krosigk) soll für eine Rettungstat vorzeitig ihre Kristallkugel erhalten. Rabia will verhindern, dass die junge Hexe diese Auszeichnung bekommt, und setzt damit den Konflikt des Films in Gang.
+
+Merksatz: Rabia neidet Bibi die Kristallkugel.
+
+Quellen: [1](https://www.filmportal.de/en/movie/bibi-blocksberg_ea43d4a69b3e5006e03053d50b37753d).
+
+### L2 · leicht
+
+Welche Person spielt Corinna Harfouch in „Der Untergang“?
+
+- **Richtig: Magda Goebbels**
+
+- Traudl Junge
+
+- Eva Braun
+
+- Gerda Christian
+
+Sie verkörpert Magda Goebbels.
+
+Der Film erzählt die letzten Tage der NS-Führung im Berliner Bunker. Harfouchs Rolle gehört zum innersten Kreis, dessen ideologische Bindung an den Nationalsozialismus bis in die vollständige Niederlage reicht.
+
+Merksatz: Harfouch – Magda Goebbels im Bunker.
+
+Quellen: [1](https://www.filmportal.de/film/der-untergang_222ac206be3e4fa4b60685a3b021c180).
+
+### M1 · mittel
+
+Was tut Corinna Harfouchs Maria Rheine in „Die Schauspielerin“, um mit ihrem jüdischen Geliebten zusammenzubleiben?
+
+- Sie schließt sich einem Wandertheater im Ausland an
+
+- **Richtig: Sie nimmt eine jüdische Identität an**
+
+- Sie übernimmt die Leitung seines Theaters
+
+- Sie gibt ihre Schauspielkarriere vollständig auf
+
+Sie lebt unter dem Namen Manja Löwenthal als Jüdin.
+
+Maria verzichtet auf eine vielversprechende Karriere und folgt Mark Löwenthal (André M. Hennicke) ans jüdische Theater in Berlin. Die Nürnberger Gesetze machen ihre Beziehung zur existenziellen Gefahr.
+
+Merksatz: Maria wird zu Manja, um bei Mark zu bleiben.
+
+Quellen: [1](https://www.filmportal.de/film/die-schauspielerin_b83be8b09a294b46a957a5e26cb07a33).
+
+### M2 · mittel
+
+Was unternimmt Corinna Harfouchs Titelfigur in „Lara“, obwohl ihr Sohn sie nicht zu seinem Klavierabend eingeladen hat?
+
+- Sie lässt das Konzert verlegen
+
+- Sie veröffentlicht vorab seine Komposition
+
+- Sie ersetzt seine Begleiterin am Klavier
+
+- **Richtig: Sie kauft die übrigen Karten und verschenkt sie**
+
+Lara kauft die restlichen Eintrittskarten und verteilt sie.
+
+An ihrem sechzigsten Geburtstag soll Viktor (Tom Schilling) einen wichtigen Auftritt haben. Lara hat seine Musikerlaufbahn maßgeblich vorangetrieben; ihr Versuch, den Abend zu kontrollieren, verschärft die Spannungen zwischen Mutter und Sohn.
+
+Merksatz: Lara füllt den Saal ihres Sohnes mit verschenkten Karten.
+
+Quellen: [1](https://www.filmportal.de/en/movie/lara_461c3748e0914deb9395895f939ecf14).
+
+### S1 · schwer
+
+Welche Entscheidung von Corinna Harfouchs Gitte bringt in „Was bleibt“ das Familiengefüge ins Wanken?
+
+- Sie kündigt eine Auswanderung an
+
+- Sie verkauft das Familienhaus
+
+- **Richtig: Sie setzt ihre Medikamente ab**
+
+- Sie beginnt ein zweites Studium
+
+Gitte verzichtet auf ihre Medikamente.
+
+Sie fühlt sich nach langer psychischer Erkrankung wieder gesund und erwartet ein neues gemeinsames Leben mit ihrem Mann Günter (Ernst Stötzner). Dessen Pläne und die Konflikte ihrer erwachsenen Söhne passen jedoch nicht zu diesem Wunsch.
+
+Merksatz: Gittes neuer Aufbruch legt alte Familienkonflikte frei.
+
+Quellen: [1](https://www.filmportal.de/film/was-bleibt_82df1099e9884a25a536da624f2b54a1).
+
+### S2 · schwer
+
+Was kündigt der Traum von einem Okapi für Corinna Harfouchs Selma in „Was man von hier aus sehen kann“ an?
+
+- Eine Hochzeit im Dorf
+
+- Einen Umzug in der Familie
+
+- Die Rückkehr eines Vermissten
+
+- **Richtig: Einen Todesfall im Dorf**
+
+Nach einem solchen Traum stirbt jemand im Dorf.
+
+Selma kann jedoch nicht erkennen, wen es treffen wird. Die Bewohner des Westerwald-Dorfs geraten deshalb in Bewegung, weil die Aussicht auf einen nahen Tod ihre unausgesprochenen Wünsche und Ängste berührt.
+
+Merksatz: Selmas Okapi-Traum kündigt einen Tod an.
+
+Quellen: [1](https://www.filmportal.de/film/was-man-von-hier-aus-sehen-kann_0443091830f440af9d01c32d85602c17).
+
+### E1 · experte
+
+Welche männliche Figur spielte Corinna Harfouch in Frank Castorfs Inszenierung von „Des Teufels General“?
+
+- Sigbert von Mohrungen
+
+- Chauffeur Otto
+
+- **Richtig: General Harras**
+
+- Dr. Schmidt-Lausitz
+
+Sie spielte General Harras.
+
+Die Volksbühnen-Inszenierung hatte 1996 Premiere und wurde 1997 zum Berliner Theatertreffen eingeladen. Harfouch übernahm darin neben Harras auch die Diva Olivia Geiss.
+
+Merksatz: Harfouch wird bei Castorf zu General Harras.
+
+Quellen: [1](https://archive.berlinerfestspiele.de/theatertreffen/events/bfs-mediathek/Theatertreffen/2003-bis-1964/1997/Des-Teufels-General).
+
+### E2 · experte
+
+Welches Studium begann Corinna Harfouch vor ihrer Ausbildung zur Schauspielerin?
+
+- Pädagogik
+
+- **Richtig: Textilingenieurwesen**
+
+- Chemie
+
+- Architektur
+
+Sie begann ein Studium zur Textilingenieurin in Dresden.
+
+Nach dem Abitur hatte Harfouch zunächst eine Ausbildung zur Krankenschwester gemacht. Auf das technische Studium folgte die Schauspielausbildung in Berlin, aus der sich ihre Bühnen- und Filmkarriere entwickelte.
+
+Merksatz: Über Pflege und Textiltechnik führte ihr Weg zur Bühne.
+
+Quellen: [1](https://www.filmportal.de/person/corinna-harfouch_c7858a67c7e24d51b9f9942e4aa10965).
+
+## Katja Riemann · Bekanntheitsgruppe 3
+
+![Katja Riemann (2007)](Portraets/104.jpg)
+
+Bild: 2007; Elke Wetzig ( Elya ). CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Katja_riemann_20070607.jpg), [TMDB](https://www.themoviedb.org/person/1874).
+
+### L1 · leicht
+
+Welche Funktion hat Katja Riemanns Gudrun Gerster in „Fack ju Göhte“?
+
+- Schulpsychologin
+
+- Sportlehrerin
+
+- **Richtig: Schuldirektorin**
+
+- Schulsekretärin
+
+Gerster ist die Direktorin der Goethe-Gesamtschule.
+
+Sie leitet die Schule, an der sich der ehemalige Häftling Zeki Müller (Elyas M’Barek) als Lehrer ausgibt. Die Rolle kehrt auch in den Fortsetzungen wieder.
+
+Merksatz: Gudrun Gerster leitet die Goethe-Gesamtschule.
+
+Quellen: [1](https://www.filmportal.de/person/katja-riemann_c3170b005f3e407b9ce499122723d5d0), [2](https://www.filmportal.de/film/fack-ju-goehte_0dfc335469554572a053d4681439e684), [3](https://constantin.film/kino/fack-ju-goehte-3/).
+
+### L2 · leicht
+
+Was verbindet die vier Frauen um Katja Riemanns Emma zu Beginn von „Bandits“?
+
+- Sie wohnen gemeinsam in einem Studentenheim
+
+- Sie arbeiten gemeinsam in einem Tonstudio
+
+- Sie reisen gemeinsam zu einem Casting
+
+- **Richtig: Sie spielen gemeinsam in einer Gefängnisband**
+
+Die Frauen spielen im Gefängnis in einer Band.
+
+Ein Auftritt beim Weihnachtsball der Polizei ermöglicht ihre Flucht. Unterwegs werden die Ausbrecherinnen durch ihre Musik und die Berichterstattung immer bekannter.
+
+Merksatz: Aus der Gefängnisband werden flüchtige Musikstars.
+
+Quellen: [1](https://www.filmportal.de/film/bandits_0b64687715364887afac10e54f6e6adb).
+
+### M1 · mittel
+
+Was erfährt Katja Riemanns Monika in „Stadtgespräch“ über ihren neuen Liebhaber?
+
+- Er ist ein anonymer Anrufer ihrer Sendung
+
+- **Richtig: Er ist der Ehemann ihrer Freundin**
+
+- Er ist der frühere Partner ihrer Mutter
+
+- Er ist ein Kollege aus ihrem Radiosender
+
+Ihr neuer Partner ist mit ihrer Freundin verheiratet.
+
+Die Radiomoderatorin verliebt sich nach einer Kontaktanzeige. Als die betrogene Freundin ausgerechnet bei Monika Unterschlupf sucht, überlagern sich Liebesbeziehung, Freundschaft und die öffentliche Lebensberatung in ihrer Sendung.
+
+Merksatz: Monikas Traummann gehört zur Ehe ihrer Freundin.
+
+Quellen: [1](https://www.filmportal.de/film/stadtgespraech_6b28956e21624a1e909d55da2a4d8071).
+
+### M2 · mittel
+
+Welchen Beruf hat Katja Riemanns Frenzy in „Abgeschminkt!“?
+
+- **Richtig: Comiczeichnerin**
+
+- Modedesignerin
+
+- Werbetexterin
+
+- Fotografin
+
+Frenzy ist Comiczeichnerin.
+
+Eine Schaffenskrise führt sie mit ihrer Freundin Maischa (Nina Kronjäger) in ein turbulentes Wochenende. Der Film von Katja von Garnier verbindet die Suche nach neuen Beziehungen mit Frenzys beruflicher Unzufriedenheit.
+
+Merksatz: Frenzy zeichnet Comics und sucht einen neuen Anstoß.
+
+Quellen: [1](https://www.filmportal.de/film/abgeschminkt_e8df3c862ab64cb895b3ede5f675a68e).
+
+### S1 · schwer
+
+Wofür protestieren die Frauen um Katja Riemanns Lena in „Rosenstraße“?
+
+- Für die Rückkehr evakuierter Kinder
+
+- Für die Aufhebung der Lebensmittelrationierung
+
+- Für die Öffnung der Berliner Theater
+
+- **Richtig: Für die Freilassung ihrer inhaftierten Angehörigen**
+
+Sie verlangen die Freilassung ihrer jüdischen Angehörigen.
+
+Die Filmhandlung blickt auf den Protest von 1943 zurück. Jüdische Menschen aus sogenannten Mischehen waren festgesetzt worden; Lena Fischer und andere Frauen widersetzen sich ihrer drohenden Verschleppung.
+
+Merksatz: In der Rosenstraße fordern Frauen ihre Angehörigen zurück.
+
+Quellen: [1](https://www.filmportal.de/film/rosenstrasse_933cf022cc054cdc9f2c9fc534f47552).
+
+### S2 · schwer
+
+Von welcher Schriftstellerin stammt die Romanvorlage zu „Die Apothekerin“ mit Katja Riemann?
+
+- Doris Gercke
+
+- Charlotte Link
+
+- **Richtig: Ingrid Noll**
+
+- Petra Hammesfahr
+
+Die Vorlage stammt von Ingrid Noll.
+
+Riemann spielt Hella Moormann, deren unauffälliges Leben durch mehrere Männer durcheinandergerät. Die Verfilmung von Rainer Kaufmann verbindet die Beziehungsgeschichte mit dem schwarzen Humor der literarischen Vorlage.
+
+Merksatz: Nolls Roman wird Riemanns schwarze Komödie.
+
+Quellen: [1](https://www.filmportal.de/person/katja-riemann_c3170b005f3e407b9ce499122723d5d0), [2](https://www.filmportal.de/film/die-apothekerin_ad0d916f231c4194bf68fbc9e6a599f5).
+
+### E1 · experte
+
+Welches Instrument lernte Katja Riemann eigens für „Bandits“?
+
+- Bass
+
+- **Richtig: Schlagzeug**
+
+- Saxofon
+
+- Keyboard
+
+Sie lernte Schlagzeug.
+
+Riemanns Emma gehört zu einer Frauenband auf der Flucht. Für diese musikalische Rolle erweiterte die Schauspielerin ihre praktischen Fähigkeiten; für ihre Darstellung erhielt sie den Bayerischen Filmpreis.
+
+Merksatz: Riemann lernte für Emma die Drums.
+
+Quellen: [1](https://www.filmportal.de/person/katja-riemann_c3170b005f3e407b9ce499122723d5d0).
+
+### E2 · experte
+
+Welches Kinderhilfswerk ernannte Katja Riemann 2022 zur Botschafterin?
+
+- **Richtig: UNICEF**
+
+- Save the Children
+
+- SOS-Kinderdörfer
+
+- Plan International
+
+UNICEF ernannte sie zur Botschafterin.
+
+Riemann unterstützte UNICEF Deutschland bereits seit 1999 und besuchte Projekte in verschiedenen Ländern. Ihre Reisen und Begegnungen verarbeitete sie auch in dem Buch „Jeder hat. Niemand darf.“.
+
+Merksatz: Riemanns Projektreisen gehören zu ihrem UNICEF-Engagement.
+
+Quellen: [1](https://www.unicef.de/informieren/ueber-uns/unicef-deutschland/prominente/katja-riemann).

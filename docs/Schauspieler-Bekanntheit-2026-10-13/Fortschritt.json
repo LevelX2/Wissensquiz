@@ -88,7 +88,31 @@
     "ACTOR-BG-20261013-077",
     "ACTOR-BG-20261013-078",
     "ACTOR-BG-20261013-079",
-    "ACTOR-BG-20261013-080"
+    "ACTOR-BG-20261013-080",
+    "ACTOR-BG-20261013-081",
+    "ACTOR-BG-20261013-082",
+    "ACTOR-BG-20261013-083",
+    "ACTOR-BG-20261013-084",
+    "ACTOR-BG-20261013-085",
+    "ACTOR-BG-20261013-086",
+    "ACTOR-BG-20261013-087",
+    "ACTOR-BG-20261013-088",
+    "ACTOR-BG-20261013-089",
+    "ACTOR-BG-20261013-090",
+    "ACTOR-BG-20261013-091",
+    "ACTOR-BG-20261013-092",
+    "ACTOR-BG-20261013-093",
+    "ACTOR-BG-20261013-094",
+    "ACTOR-BG-20261013-095",
+    "ACTOR-BG-20261013-096",
+    "ACTOR-BG-20261013-097",
+    "ACTOR-BG-20261013-098",
+    "ACTOR-BG-20261013-099",
+    "ACTOR-BG-20261013-100",
+    "ACTOR-BG-20261013-101",
+    "ACTOR-BG-20261013-102",
+    "ACTOR-BG-20261013-103",
+    "ACTOR-BG-20261013-104"
   ],
   "blocks": [
     {
@@ -617,7 +641,7 @@
     },
     {
       "block": 5,
-      "status": "Recherche und Redaktion",
+      "status": "Redaktion und App-Parser-Prüfung abgeschlossen; nicht installiert",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -764,7 +788,11 @@
           "name": "Katja Riemann",
           "level": 3
         }
-      ]
+      ],
+      "questions": 192,
+      "newGoals": 184,
+      "existingVariants": 8,
+      "portraits": 24
     },
     {
       "block": 6,
@@ -1426,15 +1454,15 @@
       ]
     }
   ],
-  "remainingPersons": 128,
+  "remainingPersons": 104,
   "remainingByGroup": {
     "1": 0,
     "2": 0,
-    "3": 30,
+    "3": 6,
     "4": 98
   },
   "appIntegration": "ausstehend",
   "publication": "nicht beauftragt",
   "continuousCommission": "Bis vollständigem Ausgleich weiterarbeiten; abgeschlossene Blöcke lokal committen",
-  "validatedThroughEntry": 80
+  "validatedThroughEntry": 104
 }
