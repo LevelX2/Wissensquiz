@@ -1,0 +1,231 @@
+{
+  "entry": 19,
+  "personId": "ACTOR-BG-20261013-019",
+  "name": "Pierre Richard",
+  "level": 1,
+  "period": "Prägende Komödien der 1970 er- und 1980 er-Jahre",
+  "articleUrl": "https://www.pierre-richard.fr/biographie-de-pierre-richard/",
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf hat François Perrin (Pierre Richard) in „Der große Blonde mit dem schwarzen Schuh“?",
+      "answers": [
+        "Geiger",
+        "Journalist",
+        "Apotheker",
+        "Architekt"
+      ],
+      "correct": 0,
+      "short": "Perrin ist Geiger.",
+      "context": "Der Musiker gerät ohne eigene Geheimdienstausbildung in einen Konflikt zwischen Agenten. Seine gewöhnlichen und oft ungeschickten Handlungen werden als raffinierte Tarnung fehlgedeutet. Richards Figur bleibt dadurch arglos, während die Beobachter immer kompliziertere Erklärungen für ihr Verhalten erfinden.",
+      "anchor": "Ein Geiger wird für einen Meisterspion gehalten.",
+      "interest": "Der zivile Ausgangsberuf erklärt die Verwechslungskonstruktion.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Le Grand Blond avec une chaussure noire|1972"
+      ],
+      "extraSources": [
+        "https://www.pierre-richard.fr/biographie-de-pierre-richard/",
+        "https://www.cinematheque.fr/media/dossier-de-presse-pierre-richard3.pdf"
+      ],
+      "knowledge_id": "K-KOM-202609-P02-L-070",
+      "variant_of": "KOM-202609-P02-L-070",
+      "knowledge_note": "Dasselbe Berufsziel François Perrin als Geiger."
+    },
+    {
+      "code": "L2",
+      "question": "Mit welchem Schauspieler bildet Pierre Richard das ungleiche Hauptdarstellerduo in „Ein Tolpatsch kommt selten allein“ und „Die Flüchtigen“?",
+      "answers": [
+        "Jean-Paul Belmondo",
+        "Gérard Depardieu",
+        "Alain Delon",
+        "Michel Serrault"
+      ],
+      "correct": 1,
+      "short": "Richard bildet das Duo mit Gérard Depardieu.",
+      "context": "Francis Veber führte die beiden sehr unterschiedlichen Darsteller mehrfach zusammen. Richards unsicherer, empfindsamer Figur steht dabei die kräftige Präsenz Depardieus gegenüber. Aus dem Gegensatz entstehen sowohl Konflikte als auch gegenseitige Abhängigkeit; in „Die Flüchtigen“ kippt sogar ein misslungener Banküberfall in eine gemeinsame Flucht.",
+      "anchor": "Richard und Depardieu machen Gegensätze zum komischen Duo.",
+      "interest": "Die wiederholte Zusammenarbeit erschließt ein prägendes Modell seiner Laufbahn.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "La Chèvre|1981",
+        "Les Fugitifs|1986"
+      ],
+      "extraSources": [
+        "https://www.cinematheque.fr/cycle/pierre-richard-314.html",
+        "https://www.cinematheque.fr/film/51539.html"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche berufliche Ausgangslage macht François Perrin (Pierre Richard) in „Das Spielzeug“ von einem mächtigen Unternehmer abhängig?",
+      "answers": [
+        "Er ist dessen hochbezahlter Rechtsanwalt.",
+        "Er ist Eigentümer der konkurrierenden Zeitung.",
+        "Er ist ein arbeitsloser Journalist.",
+        "Er ist ein pensionierter Polizeichef."
+      ],
+      "correct": 2,
+      "short": "Perrin ist ein arbeitsloser Journalist.",
+      "context": "Der Sohn eines reichen Unternehmers möchte Perrin als menschliches Spielzeug haben. Dass der Journalist eine neue Beschäftigung braucht, verschärft das Machtgefälle zwischen beiden Seiten. Die ungewöhnliche Forderung macht sichtbar, wie weit der Vater seinen Besitzanspruch auf andere Menschen ausdehnt.",
+      "anchor": "Perrins Arbeitslosigkeit trifft auf den Kaufanspruch eines reichen Kindes.",
+      "interest": "Der soziale Ausgangspunkt erklärt die Satire hinter dem absurden Handel.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Le Jouet|1976"
+      ],
+      "extraSources": [
+        "https://www.cinematheque.fr/film/46285.html",
+        "https://cineuropa.org/fr/film/401260/"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Aufgaben verband Pierre Richard bei seiner frühen Komödie „Le Distrait“?",
+      "answers": [
+        "Nur Hauptrolle und Synchronisation",
+        "Nur Produktion und Kamera",
+        "Hauptrolle und Filmmusik, ohne Drehbucharbeit",
+        "Hauptrolle, Drehbucharbeit und Regie"
+      ],
+      "correct": 3,
+      "short": "Richard entwickelte den Stoff, führte Regie und spielte die Hauptrolle.",
+      "context": "Yves Robert ermutigte Richard, seine eigene komische Figur fürs Kino zu entwickeln. Mit André Ruellan arbeitete er am Drehbuch über den zerstreuten Werber Pierre Malaquet. Die Verbindung mehrerer Aufgaben erlaubte ihm, das Verhalten der Figur und die Inszenierung ihrer Missgeschicke gemeinsam zu gestalten.",
+      "anchor": "„Le Distrait“ war Richard als Darsteller, Autor und Regisseur.",
+      "interest": "Die Frage zeigt seine schöpferische Arbeit hinter der bekannten Tolpatschfigur.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Le Distrait|1970"
+      ],
+      "extraSources": [
+        "https://www.pierre-richard.fr/biographie-de-pierre-richard/",
+        "https://www.cinematheque.fr/media/prog-web.pdf"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welches Geschäft der Familie kritisiert Pierre Richards eigene Komödie „Ich weiß von nichts und sage alles“?",
+      "answers": [
+        "Die Herstellung und den Verkauf von Waffen",
+        "Die Vergabe von Hotelsternen",
+        "Den Handel mit gefälschten Gemälden",
+        "Die Privatisierung von Wasserversorgung"
+      ],
+      "correct": 0,
+      "short": "Der Film richtet seine Satire auf das Rüstungsgeschäft.",
+      "context": "Richard spielt den Sohn eines Waffenfabrikanten, der die Produkte seiner Familie ablehnt. Er schrieb und inszenierte die Komödie selbst. Seine unbeholfene Figur erhält damit eine gesellschaftliche Richtung: Sie stört ein Geschäft, dessen Erfolg auf dem Absatz tödlicher Waren beruht.",
+      "anchor": "Richards Träumer gerät gegen das Rüstungsgeschäft seiner Familie.",
+      "interest": "Ein eigener Regiefilm zeigt die soziale Satire hinter seinem komischen Typus.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Je sais rien, mais je dirai tout|1973"
+      ],
+      "extraSources": [
+        "https://www.pierre-richard.fr/filmographie/je-sais-rien-mais-je-dirai-tout/",
+        "https://www.cinematheque.fr/media/prog-web.pdf"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum begleitet François Perrin (Pierre Richard) in „Ein Tolpatsch kommt selten allein“ einen Privatdetektiv auf dessen Suche?",
+      "answers": [
+        "Er besitzt geheime Karten des Entführungsverstecks.",
+        "Sein eigenes Pech soll ihn auf die Spur einer ebenso vom Pech verfolgten Vermissten führen.",
+        "Er war früher der Partner der entführten Frau.",
+        "Er soll sich als Zwillingsbruder des Detektivs ausgeben."
+      ],
+      "correct": 1,
+      "short": "Perrins Pech soll die Suchenden zur ähnlich unglücklichen Vermissten führen.",
+      "context": "Die Tochter eines Unternehmers verschwindet während eines Mexikourlaubs. Der Vater verbindet den Detektiv Campana (Gérard Depardieu) mit einem notorischen Pechvogel. Dessen Missgeschicke gelten ausgerechnet als mögliche Ermittlungsmethode. Die Helferlogik des Films kehrt damit eine vermeintliche Schwäche in eine nützliche Eigenschaft um.",
+      "anchor": "Perrins Pech soll bei der Suche zum Wegweiser werden.",
+      "interest": "Die ungewöhnliche Suchmethode erklärt die Funktion der komischen Missgeschicke.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "La Chèvre|1981"
+      ],
+      "extraSources": [
+        "https://www.cinematheque.fr/film/51539.html"
+      ]
+    },
+    {
+      "code": "E1",
+      "question": "Welcher amerikanische Komiker weckte nach Pierre Richards eigener Erinnerung seinen Wunsch, Schauspieler zu werden?",
+      "answers": [
+        "Buster Keaton",
+        "Jerry Lewis",
+        "Danny Kaye",
+        "Bob Hope"
+      ],
+      "correct": 2,
+      "short": "Eine Begegnung mit Danny Kaye auf der Kinoleinwand gab Richard den beruflichen Anstoß.",
+      "context": "Als junger Mann sah Richard einen Film mit Danny Kaye und erkannte darin den Beruf, den er ausüben wollte. Später entwickelte er seinen eigenen Stil aus Bewegung, Sprachtempo und körperlichem Ungleichgewicht. Die Inspiration durch einen anderen Komiker ging seiner Ausbildung und seinem selbstständigen Bühnenweg voraus.",
+      "anchor": "Danny Kaye war ein früher Kinofunke für Richards Berufswunsch.",
+      "interest": "Die Erinnerung erschließt eine künstlerische Herkunft jenseits der französischen Filmduos.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [],
+      "extraSources": [
+        "https://www.pierre-richard.fr/biographie-de-pierre-richard/"
+      ]
+    },
+    {
+      "code": "E2",
+      "question": "Mit welchem später ebenfalls bekannten Filmschauspieler entwickelte Pierre Richard in Pariser Kabaretts eigene Sketche?",
+      "answers": [
+        "Michel Bouquet",
+        "Jean Rochefort",
+        "Bernard Blier",
+        "Victor Lanoux"
+      ],
+      "correct": 3,
+      "short": "Richard trat im Kabarett mit Victor Lanoux auf.",
+      "context": "Vor seinen Kinodurchbrüchen spielte Richard in kleinen Bühnenprogrammen und auch im Vorprogramm von Georges Brassens. Mit Lanoux entwickelte er Nummern, deren Wirkung sich unmittelbar an den Reaktionen des Publikums prüfen ließ. Der spätere Filmkomiker hatte seine körperliche und szenische Arbeit somit bereits in einem anderen Aufführungsraum erprobt.",
+      "anchor": "Richards frühes Kabarettduo verband ihn mit Victor Lanoux.",
+      "interest": "Die Zusammenarbeit verortet seine Filmkomik in einer vorherigen Bühnenpraxis.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [],
+      "extraSources": [
+        "https://www.pierre-richard.fr/biographie-de-pierre-richard/"
+      ]
+    }
+  ]
+}

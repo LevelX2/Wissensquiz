@@ -1,40 +1,27 @@
 # Ausbau der Schauspielergruppen
 
-Begonnen am 13.10.2026 auf Nutzerauftrag. Ziel ist der schrittweise Ausbau der sinnvoll eingeteilten Bekanntheitsgruppen, zunächst besonders Gruppen 3 und 4. Der vollständige Ausgleich auf je 107 Personen umfasst 208 zusätzliche Personen. Maßgeblich bleiben [Fragenredaktion](../Fragenredaktion.md) und [Bekanntheitsgruppen](../Bekanntheitsgruppen/Plan.md).
+Stand: 13.10.2026. Der Dauerauftrag umfasst den vollständigen Ausgleich auf **107 Personen je Bekanntheitsgruppe**. Dafür werden 208 neue Personen mit jeweils acht individuellen Fragen entwickelt. Die Auswahl berücksichtigt den breiten deutschsprachigen Bezugsrahmen; Bekanntheit und Schwierigkeit bleiben getrennt. Maßgeblich sind [Fragenredaktion](../Fragenredaktion.md) und [Bekanntheitsgruppen](../Bekanntheitsgruppen/Plan.md).
 
-Der erste Redaktionsblock ist abgeschlossen: acht neue Personen und 64 Fragen, jeweils zwei unabhängige Ziele auf leicht, mittel, schwer und experte. Vier Personen gehören zu Gruppe 3, vier zu Gruppe 4. Namen und IDs sind gegen den vorhandenen Personenbestand abgeglichen. [Vollständige Fragen mit Lösungen, Bildern und Quellen](Lesefassung.md), [native Einzelfassungen](Personen/), [CSV-Übergabe](Fragen.csv), [Fortschritt](Fortschritt.json).
+**Aktuell redaktionell fertig: 32 Personen, 256 Fragen.** Zwei eigenständige Ziele je Person und je leicht/mittel/schwer/experte. Darunter 28 Varianten bestätigter Bestandsziele und 228 neue Ziele. Die gemeinsame Übergabe enthält sämtliche angenommenen Fragen mit Lösungen, Vertiefungen, Merksätzen und tatsächlich gelesenen Quellen: [Lesefassung](Lesefassung.md), [native Personenfassungen](Personen/), [CSV](Fragen.csv). Noch keine Appinstallation oder Veröffentlichung.
 
-| Person | Gruppe | Porträtzeit |
-| --- | ---: | --- |
-| Peter Lorre | 3 | 1930er/1940er Jahre, genauer Zeitpunkt unbekannt |
-| Charles Laughton | 3 | 1934 |
-| Gena Rowlands | 3 | 1967 |
-| Deborah Kerr | 3 | 1958 |
-| Setsuko Hara | 4 | um 1951 |
-| Kinuyo Tanaka | 4 | 1951 |
-| Chishū Ryū | 4 | 1953 |
-| Jean-Pierre Léaud | 4 | 1959 |
+| Bekanntheitsgruppe | Bisherige Personen | Neue fertig | Nach Einbau | Noch zu ergänzen |
+| --- | ---: | ---: | ---: | ---: |
+|1 Sehr bekannt |83|24|107|0|
+|2 Bekannt |107|0|107|0|
+|3 Für Filmkenner |25|4|29|78|
+|4 Entdeckungen |5|4|9|98|
+|Gesamt |220|32|252|176|
 
-Gruppe 3 ergänzt bekannte Gesichter des klassischen Kinos, deren Namen heute weniger selbstverständlich sind. Gruppe 4 erschließt insbesondere das japanische Nachkriegskino und die Nouvelle Vague. Die Zuordnung bleibt eine redaktionelle Einschätzung für ein breites deutschsprachiges Publikum. Léauds Aufnahme zeigt bewusst seine Durchbruchsphase; der Ausbau bevorzugt prägende Arbeitsperioden, keine ausschließlich aktuellen Pressebilder.
+Die restlichen Kandidaten stehen in [Ausbauauswahl.json](Ausbauauswahl.json), abgeschlossene und laufende Blöcke in [Fortschritt.json](Fortschritt.json). Ein Kandidat zählt erst nach acht tragfähigen Fragen und abgeschlossener Quellen-, Filmreferenz-, Bild- und Parserprüfung als fertig. Der Auftrag wird ohne erneute Fortsetzungsfreigabe bis zum Ausgleich bearbeitet; geprüfte Blöcke erhalten lokale Commits. Ungeprüfte Arbeitsdateien sind keine fertigen Pakete.
 
-Die Fragen werden individuell entwickelt und an tatsächlich gelesenen Quellen geprüft. Konkrete Filmbezüge erhalten vorhandene oder ergänzende geprüfte Filmdaten. Gleichbedeutende Bestandsziele bleiben Varianten desselben Wissensziels. Reine Negationen und Lösungswiederholungen werden nicht als Antwortfeedback ergänzt.
+Die 256 Fragen enthalten 182 unterschiedliche Filmreferenzen: 57 vorhandene Metadatensätze und 125 geprüfte Ergänzungen. Originaltitel, Erstveröffentlichung, vollständige Regiecredits, Produktionsländer und Quellen sind aufgelöst; keine zusätzlichen Filmfragen aus diesen Personenbezügen. [Referenzübersicht](Filmdaten.json). Gleichbedeutende vorhandene Ziele behalten ihre Lernidentität, einschließlich der erzeugten Jahres-/Regiefragen.
 
-Porträts bevorzugt aus der prägenden Schaffenszeit der jeweiligen Person. Nachweise unterscheiden Aufnahme-/Veröffentlichungszeit von Upload, Digitalisierung oder Zuschnitt. Frei lizenzierte beziehungsweise gemeinfreie Quellen mit vollständigem Bildnachweis verwenden; Rohdaten der ausgewählten Commons-Bilder unverändert sichern. Keine künstlich erzeugten historischen Porträts. Der Nutzerwunsch betrifft die neuen Personen; bereits vorhandene Porträts werden hier nicht pauschal ersetzt.
+Porträts stammen bevorzugt aus prägenden Schaffensperioden. Datierung trennt Aufnahme oder Veröffentlichung von Upload, Digitalisierung und Zuschnitt. Commons-Dateien mit nachgewiesener Nutzungsbasis werden bevorzugt; Originalfassungen bleiben unverändert, ohne künstlich erzeugte historische Bilder. Für Heinz Erhardt und Uschi Glas fehlen geeignete freie Porträtfassungen; beide verwenden die bestehende TMDB-Onlineanbindung, ohne Bildkopie in Git und ohne behauptete freie Lizenz. Erhardts Aufnahme ist historisch, aber undatiert; für Glas wird kein Aufnahmejahr und keine Hauptschaffenszeit behauptet. Götz George ist mit einer späteren freien Aufnahme von 2009 vertreten. Die bewussten Ausnahmen stehen ebenso wie Bilddaten, Urheber, Nutzungsbasis, Originalquelle und Prüfnachweis in [Portraets.json](Portraets.json) und blockweise unter [Bildauswahl](Bildauswahl/).
 
-Redaktion, Prüfung mit dem bestehenden CSV-Parser, App-Integration und Veröffentlichung werden getrennt ausgewiesen. Dieser Auftrag startet den inhaltlichen Ausbau; er erteilt keine Veröffentlichungsfreigabe. Keine produktiven Daten oder echten Spielstände bearbeiten.
+Alle 32 benötigten Bildfassungen sind visuell geprüft; 30 Commons-Dateien besitzen Hash und unverändert gesicherte API-Rohdaten, zwei TMDB-Bildreferenzen den zugehörigen originalen Personendatensatz. [Ausgewählte Rohquellen](../../KI-Wissen-Wissensquiz/01%20Rohquellen/Schauspieler-Ausbau-2026-10-13-Bilder/). Alle 32 [TMDB-Identitäten](TMDB-Personen.json) sind anhand Namen und bekannter Arbeiten abgeglichen. Zusätzlich sind die 24 Porträts des folgenden Blocks 033–056 bereits visuell geprüft; diese Personenfragen zählen erst nach gemeinsamer Abnahme zum fertigen Umfang.
 
-## Abgeschlossener erster Block
+Drei Subagents unterstützen die Recherche. Die zentrale Abnahme liest Fragen, vier Optionen und Vertiefungen und prüft insbesondere eindeutige Ziele, plausible Ablenkungen und verräterische Titelwörter. Der echte App-Parser akzeptiert alle 256 Fragen gegen 12.787 vorhandene Katalogfragen ohne Ausschluss, Dublette oder Warnung; Lösungen, Texte, Feedback und Referenzen bleiben erhalten. Die vier Antwortpositionen und vier Schwierigkeiten sind jeweils 64-mal vertreten. Alle Fragen mit sämtlichen Optionen bleiben unter 60 Wörtern. Kein erneuter Faktencheck des übrigen Altbestands.
 
-64 eigenständige Ziele innerhalb des Pakets; fünf sind Varianten bestehender Filmziele, 59 kommen neu hinzu. Der Abgleich berücksichtigt auch die erzeugte Regiefrage zu Charles Laughtons „Die Nacht des Jägers“. Vier Antwortpositionen jeweils 16-mal, vier Schwierigkeiten jeweils 16-mal. Alle Fragen mit ihren Optionen bleiben unter 60 Wörtern. Texte, Antwortzusätze und Quellen wurden einzeln gelesen; drei Subagents unterstützten die Recherche, die gemeinsame Redaktion und Abnahme erfolgten zentral. Kein vollständiger neuer Faktencheck des übrigen Altbestands.
+`node scripts/prepare-actor-familiarity-20261013.mjs` erzeugt die redaktionelle Übergabe; `--check` prüft ihre Übereinstimmung. Standardmäßig gilt der angenommene Umfang aus `validatedThroughEntry`. Vor Abnahme eines weiteren Blocks ausdrücklich `--through-entry N` verwenden; laufende spätere Dateien werden dadurch nicht als fertig ausgewiesen. Reine Inhalts- und Parserprüfung ohne Oberfläche oder Speicheränderung, daher kein Produktionsbuild oder Browserlauf. `git diff --check` gehört zum lokalen Blockabschluss.
 
-Die 56 konkreten Filmreferenzen verwenden zwölf vorhandene Metadatensätze und 44 geprüfte Ergänzungen. [Referenzübersicht](Filmdaten.json); die vier Dateien `Filmdaten-001-002.json` bis `Filmdaten-007-008.json` enthalten ausschließlich neue Eckdaten. Keine zusätzlichen Filmfragen aus diesen Personenbezügen.
-
-Alle acht Originalbilder visuell geprüft, mit SHA-256, Datierung, Urheberangabe und Commons-Nutzungsbasis in [Portraets.json](Portraets.json). Ausgewählte API-Rohantworten unverändert unter [Bildquellen](../../KI-Wissen-Wissensquiz/01%20Rohquellen/Schauspieler-Ausbau-2026-10-13-Bilder/) erhalten. Die Nutzungskennzeichnung ist die Angabe der jeweiligen Commons-Dateiseite. Bei Ryū bezeichnet das Metadatenjahr 2010 die digitale Bearbeitung, das Motiv stammt aus „Tokyo Story“ von 1953. [TMDB-Identitäten](TMDB-Personen.json) anhand Namen und bekannter Rollen abgeglichen; gleichnamige andere Personen ausgeschlossen.
-
-`node scripts/prepare-actor-familiarity-20261013.mjs` erstellt die redaktionelle Übergabe; `--check` prüft deren Übereinstimmung. Der echte App-Parser akzeptiert alle 64 Fragen gegen den geladenen Katalog mit 12.787 Fragen, ohne Ausschluss, ID-Konflikt oder Warnung. Erhalt von Lösung, Texten, Feedback, Personen- und Filmreferenzen nach Import geprüft. Dies ist eine Prüfung in Arbeitsspeicher, keine Installation in App oder Datenbank.
-
-## Fortsetzung
-
-Bis zum vollständigen Ausgleich sind noch **200 Personen** zu redigieren: 24 in Gruppe 1, 78 in Gruppe 3 und 98 in Gruppe 4. Nach Einbau dieses Blocks wäre die Verteilung 83/107/29/9. Der aktuelle App-Bestand bleibt bei 220 Personen und 1.760 Personenfragen; die acht neuen Personen sind separat redaktionell fertig. Weitere Blöcke sollen die Auswahl nach Regionen und Schaffensperioden verbreitern.
-
-Bei der späteren lokalen App-Integration sind dieses Fragenpaket, die 44 neuen Filmreferenzen, Personen-/Bekanntheitszuordnung, acht TMDB-Links und historische Porträts gemeinsam anzubinden. Die Umsetzung der vier Gruppenfilter und Freischaltungen ist weiterhin ein eigener offener Teil des [gemeinsamen Plans](../Bekanntheitsgruppen/Plan.md). Preiszuordnungen und Fragenbereichsmischung bleiben beim dort dokumentierten Stand.
+Die lokale App-Integration bleibt offen: Fragen, ergänzende Filmdaten, Personen-/Bekanntheitszuordnung, TMDB-Verknüpfungen und historische Porträts gemeinsam anbinden. Gruppenfilter, Freischaltungen und sichtbarer Fortschritt sind im [gemeinsamen Plan](../Bekanntheitsgruppen/Plan.md) dokumentiert. Die 25 bisherigen reinen Bilderkennungspersonen behalten ihren früher beauftragten Umfang. Der aktuelle App-Bestand bleibt bei 220 Personen und 1.760 Personenfragen. Keine feste Gewichtung der drei Fragenbereiche, keine produktiven Daten oder echten Spielstände verändern; Veröffentlichung benötigt eine eigene aktuelle Freigabe.

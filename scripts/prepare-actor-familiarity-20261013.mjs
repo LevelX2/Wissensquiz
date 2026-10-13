@@ -15,14 +15,32 @@ const norm = (value) =>
     .toLowerCase()
     .replace(/[^a-z0-9]/g, "");
 const progress = read(`${root}/Fortschritt.json`);
+const throughFlag = process.argv.indexOf("--through-entry");
+const through =
+  throughFlag < 0
+    ? progress.validatedThroughEntry
+    : Number(process.argv[throughFlag + 1]);
+assert(Number.isInteger(through) && through > 0, "Geprüften Umfang angeben");
 const people = fs
   .readdirSync(`${root}/Personen`)
-  .filter((f) => /^\d{3}\.json$/.test(f))
+  .filter((f) => /^\d{3}\.json$/.test(f) && Number(f.slice(0, 3)) <= through)
   .sort()
   .map((f) => read(`${root}/Personen/${f}`));
-const portraits = read(`${root}/Portraets.json`);
-const identities = read(`${root}/TMDB-Personen.json`).persons;
-const expected = progress.blocks.flatMap((block) => block.persons);
+const expected = progress.blocks
+  .flatMap((block) => block.persons)
+  .filter((p) => p.entry <= through);
+const expectedIds = new Set(expected.map((p) => p.personId));
+const portraits = read(`${root}/Portraets.json`).filter((p) =>
+  expectedIds.has(p.personId),
+);
+const identities = read(`${root}/TMDB-Personen.json`).persons.filter((p) =>
+  expectedIds.has(p.personId),
+);
+assert.equal(
+  expected.length,
+  through,
+  "Alle Einträge bis zum Prüfende geplant",
+);
 assert.equal(people.length, expected.length, "Geplante Personen vollständig");
 assert.equal(
   portraits.length,
@@ -33,7 +51,11 @@ assert.equal(identities.length, people.length, "Eine TMDB-Identität je Person")
 const supplements = new Map();
 for (const file of fs
   .readdirSync(root)
-  .filter((f) => /^Filmdaten-\d{3}-\d{3}\.json$/.test(f))) {
+  .filter(
+    (f) =>
+      /^Filmdaten-\d{3}-\d{3}\.json$/.test(f) &&
+      Number(f.slice(10, 13)) <= through,
+  )) {
   for (const film of read(`${root}/${file}`).films) {
     assert(
       !supplements.has(film.film_id),
@@ -77,6 +99,14 @@ try {
     "Vorhandener Katalog fehlerfrei geladen",
   );
   const existingById = new Map(state.questions.map((q) => [q.id, q]));
+  const newById = new Map(
+    people.flatMap((p) =>
+      p.questions.map((q) => {
+        const id = `SCHAUSPIELER-BG-20261013-${String(p.entry).padStart(3, "0")}-${q.code}`;
+        return [id, { knowledgeId: q.knowledge_id ?? `K-${id}` }];
+      }),
+    ),
+  );
   const existingNames = new Set(
     state.questions
       .map((q) => q.metadata.person_name)
@@ -109,16 +139,42 @@ try {
     );
     const portrait = portraits.find((p) => p.personId === person.personId);
     assert(portrait && portrait.name === person.name && portrait.visualChecked);
-    assert.equal(
-      hash(fs.readFileSync(`${root}/${portrait.asset}`)),
-      portrait.sha256,
-      `Bild unverändert ${person.name}`,
-    );
     const original = read(`${root}/${portrait.rawMetadata}`);
-    const info = Object.values(original.query.pages)[0].imageinfo[0];
-    assert.equal(info.width, portrait.width);
-    assert.equal(info.height, portrait.height);
-    assert.equal(info.extmetadata.LicenseShortName.value, "Public domain");
+    if (portrait.provider === "Wikimedia Commons") {
+      assert.equal(
+        hash(fs.readFileSync(`${root}/${portrait.asset}`)),
+        portrait.sha256,
+        `Bild unverändert ${person.name}`,
+      );
+      const info =
+        original.query.pages[String(portrait.rawPageId)].imageinfo[0];
+      assert.equal(
+        info.extmetadata.LicenseShortName.value,
+        portrait.licenseName,
+      );
+      assert(
+        /^(Public domain|CC0|CC BY(?:-SA)? [234]\.0(?: de)?)$/.test(
+          portrait.licenseName,
+        ),
+      );
+      assert(portrait.width > 0 && portrait.height > 0);
+      assert(
+        Math.abs(portrait.height * info.width - portrait.width * info.height) <=
+          Math.max(info.width, info.height),
+        `Seitenverhältnis ${person.name}`,
+      );
+    } else if (portrait.provider === "TMDB") {
+      assert.equal(original.id, portrait.tmdbId);
+      assert.equal(
+        portrait.remoteSrc,
+        `https://image.tmdb.org/t/p/w185${original.profile_path}`,
+      );
+      assert.equal(
+        portrait.asset,
+        undefined,
+        "TMDB-Bilder nur online referenziert",
+      );
+    } else throw Error(`Bildanbieter ${person.name}`);
     const identity = identities.find((p) => p.personId === person.personId);
     assert.equal(identity.tmdbId, portrait.tmdbId);
     assert.equal(identity.identityEvidence.id, portrait.tmdbId);
@@ -158,7 +214,8 @@ try {
       );
       if (q.variant_of)
         assert.equal(
-          existingById.get(q.variant_of)?.knowledgeId,
+          (existingById.get(q.variant_of) ?? newById.get(q.variant_of))
+            ?.knowledgeId,
           goal,
           `Bestandsziel ${id}`,
         );
@@ -261,14 +318,14 @@ try {
       );
   }
   const reading = [
-    "# Schauspielergruppen: erster Ausbau\n",
+    "# Schauspielergruppen: Ausbau\n",
     "Redaktionell geprüft, mit dem App-Parser geprüft; noch nicht in der App installiert. Richtige Lösungen sind hier sichtbar.\n",
   ];
   for (const person of people) {
     const portrait = portraits.find((p) => p.personId === person.personId);
     reading.push(
       `## ${person.name} · Bekanntheitsgruppe ${person.level}\n`,
-      `![${portrait.alt}](${portrait.asset})\n`,
+      `![${portrait.alt}](${portrait.provider === "TMDB" ? portrait.remoteSrc : portrait.asset})\n`,
       `Bild: ${portrait.imageDate}; ${portrait.creator}. ${portrait.license}. [Bildquelle](${portrait.sourceUrl}), [TMDB](${portrait.tmdbUrl}).\n`,
     );
     for (const q of person.questions) {

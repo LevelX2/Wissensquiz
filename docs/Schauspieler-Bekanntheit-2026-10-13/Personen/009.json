@@ -1,0 +1,238 @@
+{
+  "entry": 9,
+  "personId": "ACTOR-BG-20261013-009",
+  "name": "Charlie Chaplin",
+  "level": 1,
+  "period": "1910er bis 1950er Jahre",
+  "articleUrl": "https://www.charliechaplin.com/en/biography/articles/21-Chaplin-s-Life",
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche wiederkehrende Leinwandfigur ist besonders mit Charlie Chaplin verbunden?",
+      "answers": [
+        "Der Tramp",
+        "Der Detektiv Sherlock Jr.",
+        "Der Seemann Popeye",
+        "Der Inspektor Clouseau"
+      ],
+      "correct": 0,
+      "short": "Chaplins berühmte Figur ist der Tramp.",
+      "context": "Chaplins Tramp schlägt sich mit wenig Geld durch eine Welt, in der Arbeit, Essen und ein sicherer Schlafplatz keineswegs selbstverständlich sind. In „Moderne Zeiten“ wird er zum Fabrikarbeiter, den das Tempo der Maschinen überfordert. Die wiedererkennbare Figur kann dadurch in unterschiedliche soziale Situationen geraten, ohne ihren grundlegenden Wunsch nach Würde und menschlicher Nähe zu verlieren.",
+      "anchor": "Chaplins Tramp ist ein Außenseiter mit Beharrlichkeit und Würde.",
+      "interest": "Die bekannte Figur bietet einen Zugang zu Chaplins sozialer Komik.",
+      "feedback": [
+        "Chaplins berühmte Figur ist der Tramp.",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Modern Times|1936"
+      ],
+      "extraSources": [
+        "https://www.charliechaplin.com/en/biography/articles/21-Chaplin-s-Life",
+        "https://www.criterion.com/films/27526-modern-times"
+      ],
+      "knowledge_id": "K-CLA-16-01",
+      "variant_of": "CLA-L-031",
+      "knowledge_note": "Wiedererkennungsanker Chaplin als Tramp; umgekehrter Zusammenhang der vorhandenen Besetzungsfrage."
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Kinderstar spielt an Charlie Chaplins Seite den Findling in „The Kid“?",
+      "answers": [
+        "Mickey Rooney",
+        "Jackie Coogan",
+        "Freddie Bartholomew",
+        "Jackie Cooper"
+      ],
+      "correct": 1,
+      "short": "Jackie Coogan spielt den von Chaplins Tramp aufgenommenen Jungen.",
+      "context": "Ein ausgesetztes Kind findet beim mittellosen Tramp ein Zuhause. Jackie Coogan spielt den Jungen mit einer Ausdruckskraft, die ihn zu einem frühen Kinderstar machte. Chaplin verbindet die komischen Unternehmungen des ungleichen Paars mit der Angst, voneinander getrennt zu werden. Ihre Beziehung trägt einen langen Erzählbogen und zeigt, wie aus gemeinsamem Alltag eine Familie entstehen kann.",
+      "anchor": "Chaplin und Jackie Coogan bilden das ungleiche Paar in „The Kid“.",
+      "interest": "Der Partner vor der Kamera gehört zum emotionalen Kern dieses Stummfilmklassikers.",
+      "feedback": [
+        "",
+        "Jackie Coogan spielt den von Chaplins Tramp aufgenommenen Jungen.",
+        "",
+        ""
+      ],
+      "films": [
+        "The Kid|1921"
+      ],
+      "extraSources": [
+        "https://www.charliechaplin.com/en/biography/articles/21-Chaplin-s-Life",
+        "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/the_kid.pdf"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche beiden Figuren verkörpert Charlie Chaplin in „Der große Diktator“?",
+      "answers": [
+        "Einen General und einen Journalisten",
+        "Einen Fabrikbesitzer und einen Arbeiter",
+        "Den Diktator Hynkel und einen jüdischen Friseur",
+        "Einen König und dessen Hofnarren"
+      ],
+      "correct": 2,
+      "short": "Chaplin spielt Hynkel und einen jüdischen Friseur.",
+      "context": "Der Friseur kehrt nach langer Abwesenheit in sein Geschäft zurück und erlebt die Verfolgung der jüdischen Bevölkerung. Sein Doppelgänger Hynkel verkörpert die Macht, von der diese Verfolgung ausgeht. Chaplin stellt Täter und bedrohten Bürger mit demselben Gesicht dar. Die spätere Verwechslung ermöglicht es dem Verfolgten, vor einem großen Publikum für Menschlichkeit und Frieden einzutreten.",
+      "anchor": "Ein Gesicht steht für den Diktator und für einen seiner Verfolgten.",
+      "interest": "Die Doppelrolle erklärt das satirische und moralische Prinzip des Films.",
+      "feedback": [
+        "",
+        "",
+        "Chaplin spielt Hynkel und einen jüdischen Friseur.",
+        ""
+      ],
+      "films": [
+        "The Great Dictator|1940"
+      ],
+      "extraSources": [
+        "https://www.charliechaplin.com/en/films/7-The-Great-Dictator",
+        "https://www.loc.gov/static/programs/national-film-preservation-board/documents/great_dictator.pdf"
+      ],
+      "knowledge_id": "K-KOM-202609-P02-L-073",
+      "variant_of": "KOM-202609-P02-L-073",
+      "knowledge_note": "Umgekehrte Zuordnung Chaplins zu seinen beiden Rollen Hynkel und jüdischer Friseur."
+    },
+    {
+      "code": "M2",
+      "question": "Wie lässt Charlie Chaplin den Tramp in „Moderne Zeiten“ singen, nachdem dessen Texthilfe verloren gegangen ist?",
+      "answers": [
+        "Er übernimmt ein Lied aus dem Radio.",
+        "Er lässt einen Kollegen hinter der Bühne singen.",
+        "Er singt den Text seiner Arbeitsanweisung.",
+        "Er verwendet eine erfundene Mischsprache."
+      ],
+      "correct": 3,
+      "short": "Der Tramp singt in einer erfundenen Mischsprache und macht sich mit Gesten verständlich.",
+      "context": "Chaplin hatte den sprechenden Tramp lange vermieden, weil die Figur überall ohne Übersetzung verstanden werden konnte. Als er ihn in „Moderne Zeiten“ schließlich singen lässt, löst er das Problem mit einer komischen Kunstsprache. Der Auftritt vermittelt seine kleine Geschichte durch Stimme, Rhythmus und Körperspiel. So wird Ton Teil der Pantomime, statt die Figur an eine einzelne Sprache zu binden.",
+      "anchor": "Die Stimme kommt hinzu, doch die Gesten tragen weiter die Geschichte.",
+      "interest": "Die Szene verbindet eine komische Notlage mit Chaplins Umgang mit dem Tonfilm.",
+      "feedback": [
+        "",
+        "",
+        "",
+        "Der Tramp singt in einer erfundenen Mischsprache und macht sich mit Gesten verständlich."
+      ],
+      "films": [
+        "Modern Times|1936"
+      ],
+      "extraSources": [
+        "https://www.charliechaplin.com/en/articles/6-Filming-Modern-Times"
+      ],
+      "knowledge_id": "K-CLA-16-05",
+      "variant_of": "CLA-S-031",
+      "knowledge_note": "Gleicher Gesangsauftritt mit erfundener Mischsprache."
+    },
+    {
+      "code": "S1",
+      "question": "Wozu gründete Charlie Chaplin mit Mary Pickford, Douglas Fairbanks und D. W. Griffith United Artists?",
+      "answers": [
+        "Um eigene Filme mit größerer Kontrolle selbst zu vertreiben",
+        "Um ausschließlich Wochenschauen herzustellen",
+        "Um eine gemeinsame Schauspielschule zu betreiben",
+        "Um den Stummfilm durch ein Tonpatent zu ersetzen"
+      ],
+      "correct": 0,
+      "short": "United Artists gab den Gründern Kontrolle über Produktion und Vertrieb ihrer eigenen Filme.",
+      "context": "United Artists wurde als Verleihorganisation gegründet. Die beteiligten Künstler blieben für Finanzierung und Herstellung ihrer Filme verantwortlich und lieferten die fertigen Werke zum Vertrieb ab. Damit konnten sie Entscheidungen und Gewinne stärker in der eigenen Hand behalten. Für Chaplin passte dieses Modell zu seinem Wunsch, an Filmen so lange zu arbeiten, wie er es für nötig hielt.",
+      "anchor": "United Artists sollte künstlerische Kontrolle mit eigenem Vertrieb verbinden.",
+      "interest": "Die Unternehmensgründung erklärt eine materielle Grundlage seiner filmischen Unabhängigkeit.",
+      "feedback": [
+        "United Artists gab den Gründern Kontrolle über Produktion und Vertrieb ihrer eigenen Filme.",
+        "",
+        "",
+        ""
+      ],
+      "films": [],
+      "extraSources": [
+        "https://www.charliechaplin.com/en/biography/articles/21-Chaplin-s-Life"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Für welche Leistung erhielt Charlie Chaplin bei der Oscarverleihung 1973 einen Wettbewerbspreis für „Rampenlicht“?",
+      "answers": [
+        "Für den Schnitt",
+        "Für die Originalmusik, gemeinsam mit Ray Rasch und Larry Russell",
+        "Für die Hauptrolle",
+        "Für das Originaldrehbuch"
+      ],
+      "correct": 1,
+      "short": "Chaplin, Ray Rasch und Larry Russell wurden für die Filmmusik von „Rampenlicht“ ausgezeichnet.",
+      "context": "„Rampenlicht“ erzählt von einem alternden Komiker und einer jungen Tänzerin. Chaplin entwarf dafür auch Musik; für die Ballettszenen musste sie bereits vor den Aufnahmen feststehen. Die Academy zeichnete die Partitur erst lange nach dem ursprünglichen Filmstart aus. Der gemeinsame Wettbewerbspreis für Chaplin, Ray Rasch und Larry Russell würdigt eine andere Seite seiner Arbeit als die berühmte Leinwandkomik.",
+      "anchor": "Chaplins Wettbewerb-Oscar galt der Musik von „Rampenlicht“.",
+      "interest": "Der Preis macht seine kompositorische Arbeit sichtbar.",
+      "feedback": [
+        "",
+        "Chaplin, Ray Rasch und Larry Russell wurden für die Filmmusik von „Rampenlicht“ ausgezeichnet.",
+        "",
+        ""
+      ],
+      "films": [
+        "Limelight|1952"
+      ],
+      "extraSources": [
+        "https://www.charliechaplin.com/en/articles/7-Filming-Limelight",
+        "https://www.oscars.org/oscars/ceremonies/1973"
+      ]
+    },
+    {
+      "code": "E1",
+      "question": "Wie überarbeitete Charlie Chaplin „Goldrausch“ für die Wiederveröffentlichung von 1942?",
+      "answers": [
+        "Er ließ alle Rollen von neuen Darstellern nachspielen.",
+        "Er ersetzte die Schauplätze durch Farbaufnahmen.",
+        "Er ergänzte eigene Musik und gesprochenen Kommentar statt Zwischentiteln.",
+        "Er ließ den gesamten Film als Musical neu drehen."
+      ],
+      "correct": 2,
+      "short": "Die Fassung von 1942 erhielt Musik und Chaplins gesprochenen Kommentar anstelle der Zwischentitel.",
+      "context": "Chaplin behandelte die Wiederveröffentlichung als neue Gestaltung seines älteren Werks. Er komponierte eine Orchestermusik und sprach selbst den Kommentar, der die ursprünglichen Zwischentitel ersetzte. Außerdem straffte er den Schnitt. Der erhaltene Text des Kommentars im Chaplin-Archiv belegt diese Arbeit. Bei Vergleichen muss deshalb zwischen dem Stummfilm von 1925 und der späteren Tonfassung unterschieden werden.",
+      "anchor": "1925: Stummfilm; 1942: neue Musik und Chaplins Kommentar.",
+      "interest": "Der Unterschied der Fassungen erklärt, warum derselbe Klassiker in verschiedener Ton- und Erzählgestalt begegnet.",
+      "feedback": [
+        "",
+        "",
+        "Die Fassung von 1942 erhielt Musik und Chaplins gesprochenen Kommentar anstelle der Zwischentitel.",
+        ""
+      ],
+      "films": [
+        "The Gold Rush|1925"
+      ],
+      "extraSources": [
+        "https://www.charliechaplinarchive.org/en/collection/cerca/narration-used-in-revival-of-the-gold-rush",
+        "https://charliechaplin.com/en/films/4-The-Circus/articles/5-Filming-The-Gold-Rush"
+      ]
+    },
+    {
+      "code": "E2",
+      "question": "Welche Entscheidung traf Charlie Chaplin bei „Lichter der Großstadt“, obwohl sich der Tonfilm bereits etabliert hatte?",
+      "answers": [
+        "Er drehte denselben Dialog in fünf Sprachen.",
+        "Er ließ den Tramp von einem Radiosprecher synchronisieren.",
+        "Er verzichtete auch auf eine aufgezeichnete Filmmusik.",
+        "Er behielt die stumme Darstellung bei und ergänzte Musik und einzelne Geräusche."
+      ],
+      "correct": 3,
+      "short": "Chaplin verzichtete auf Dialogsprache, nutzte aber Musik und Geräusche.",
+      "context": "Chaplin fürchtete, eine einzelne Sprachstimme könne die internationale Verständlichkeit des Tramps einschränken. „Lichter der Großstadt“ blieb deshalb im Wesentlichen eine pantomimische Erzählung. Die synchronisierte Musik und gezielt eingesetzte Geräusche zeigen zugleich, dass er die neue Technik nicht einfach ignorierte. Er wählte aus, was der Komik und der Figur diente, und komponierte die Partitur selbst.",
+      "anchor": "Chaplin nutzt Ton, ohne den Tramp sprechen zu lassen.",
+      "interest": "Die Produktionsentscheidung unterscheidet Stummheit der Figur von völliger Tonlosigkeit des Films.",
+      "feedback": [
+        "",
+        "",
+        "",
+        "Chaplin verzichtete auf Dialogsprache, nutzte aber Musik und Geräusche."
+      ],
+      "films": [
+        "City Lights|1931"
+      ],
+      "extraSources": [
+        "https://www.charliechaplin.com/en/articles/4-City-Lights"
+      ]
+    }
+  ]
+}

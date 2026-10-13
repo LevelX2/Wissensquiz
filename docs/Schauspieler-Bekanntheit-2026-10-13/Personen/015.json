@@ -1,0 +1,233 @@
+{
+  "entry": 15,
+  "personId": "ACTOR-BG-20261013-015",
+  "name": "Jason Statham",
+  "level": 1,
+  "period": "2000er bis 2020er Jahre",
+  "articleUrl": "https://en.wikipedia.org/wiki/Jason_Statham",
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie heißt die von Jason Statham gespielte Hauptfigur der ersten drei „Transporter“-Filme?",
+      "answers": [
+        "Frank Martin",
+        "John Wick",
+        "Bryan Mills",
+        "Robert McCall"
+      ],
+      "correct": 0,
+      "short": "Statham spielt Frank Martin.",
+      "context": "Frank übernimmt gefährliche Transporte und versucht, sich mit strikten Regeln aus den Angelegenheiten seiner Auftraggeber herauszuhalten. Im ersten Film zerbricht diese Distanz, als er seine Fracht öffnet und eine entführte junge Frau entdeckt. Stathams Figur muss nun entscheiden, ob die Erfüllung eines Auftrags wichtiger ist als ihr Leben. Shu Qi spielt die junge Frau Lai.",
+      "anchor": "Frank Martin gerät durch eine geöffnete Fracht persönlich in den Fall.",
+      "interest": "Die Hauptfigur verbindet präzise Arbeit mit einem Konflikt um Verantwortung.",
+      "feedback": [
+        "Statham spielt Frank Martin.",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Le Transporteur|2002"
+      ],
+      "extraSources": [
+        "https://www.20thcenturystudios.com/movies/the-transporter",
+        "https://en.wikipedia.org/wiki/Jason_Statham"
+      ],
+      "knowledge_id": "K-ACT-202610-P01-L-003",
+      "variant_of": "ACT-202610-P01-L-003",
+      "knowledge_note": "Umgekehrte Zuordnung zwischen Jason Statham und Frank Martin."
+    },
+    {
+      "code": "L2",
+      "question": "Welches Geschäft betreibt Turkish (Jason Statham) mit Tommy (Stephen Graham) in „Snatch – Schweine und Diamanten“?",
+      "answers": [
+        "Einen Juwelenverleih",
+        "Die Organisation illegaler Boxkämpfe",
+        "Eine private Flugschule",
+        "Den Verkauf seltener Gemälde"
+      ],
+      "correct": 1,
+      "short": "Turkish und Tommy organisieren illegale Boxkämpfe.",
+      "context": "Das Duo muss sich mit dem Gangster und Veranstalter Brick Top (Alan Ford) arrangieren. Der von Brad Pitt gespielte Boxer Mickey O’Neil hält sich allerdings nicht zuverlässig an den vorgesehenen Kampfverlauf. Während eine andere Handlung einem gestohlenen Diamanten folgt, geraten Turkish und Tommy durch die Manipulation der Kämpfe in Gefahr. Statham steht hier als überforderter Organisator im komischen Gangsterensemble.",
+      "anchor": "Turkish organisiert Kämpfe, deren Ausgang sich kaum kontrollieren lässt.",
+      "interest": "Die Rolle zeigt Statham vor seiner späteren Konzentration auf Action-Hauptfiguren.",
+      "feedback": [
+        "",
+        "Turkish und Tommy organisieren illegale Boxkämpfe.",
+        "",
+        ""
+      ],
+      "films": [
+        "Snatch|2000"
+      ],
+      "extraSources": [
+        "https://www.sonypictures.com/movies/snatch"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was muss Chev Chelios (Jason Statham) in „Crank“ nach einer Vergiftung ständig aufrechterhalten?",
+      "answers": [
+        "Seinen Blutzuckerspiegel durch Süßigkeiten",
+        "Eine besonders niedrige Körpertemperatur",
+        "Einen hohen Adrenalinspiegel",
+        "Völlige körperliche Ruhe"
+      ],
+      "correct": 2,
+      "short": "Chev muss seinen Adrenalinspiegel hochhalten.",
+      "context": "Das Gift zwingt den Auftragskiller, seinen Körper immer wieder in einen Ausnahmezustand zu versetzen. Ruhe würde ihn dem Tod näherbringen. Während er nach den Verantwortlichen sucht, werden riskante Aktionen damit zugleich zu Überlebensmaßnahmen. Der Film macht aus der sonst freiwilligen Rastlosigkeit einer Actionfigur einen körperlichen Zwang und treibt Stathams Spiel zwischen Entschlossenheit, Erschöpfung und absurden Notlösungen voran.",
+      "anchor": "Chevs Körper braucht den Ausnahmezustand, um weiterzuleben.",
+      "interest": "Die Grundidee erklärt den ununterbrochenen Bewegungsdruck des Films.",
+      "feedback": [
+        "",
+        "",
+        "Chev muss seinen Adrenalinspiegel hochhalten.",
+        ""
+      ],
+      "films": [
+        "Crank|2006"
+      ],
+      "extraSources": [
+        "https://en.wikipedia.org/wiki/Crank_(film)"
+      ],
+      "knowledge_id": "K-G100-20261008-ACTION-020-L2",
+      "variant_of": "G100-20261008-ACTION-020-L2",
+      "knowledge_note": "Gleicher Überlebensmechanismus nach Chevs Vergiftung."
+    },
+    {
+      "code": "M2",
+      "question": "Wie reagiert Rick Ford (Jason Statham) in „Spy – Susan Cooper undercover“ zunächst auf Susans ersten Außeneinsatz?",
+      "answers": [
+        "Er übernimmt offiziell Susans Ausbildung.",
+        "Er zieht sich zugunsten ihrer Mission vollständig zurück.",
+        "Er bittet sie zunächst um eine Zusammenarbeit.",
+        "Er hält sie für ungeeignet und greift eigenmächtig ein."
+      ],
+      "correct": 3,
+      "short": "Ford unterschätzt Susan und greift eigenmächtig in ihre Mission ein.",
+      "context": "Susan Cooper (Melissa McCarthy) kommt aus der CIA-Analyse und ist ihren Gegnern deshalb noch unbekannt. Ford hält ihre fehlende Einsatzerfahrung für ein Ausschlusskriterium. Seine demonstrative Selbstsicherheit macht ihn aber keineswegs zum zuverlässigeren Agenten: Susan muss ihn sogar vor einer Bombe warnen. Statham nutzt das vertraute Auftreten des unbesiegbaren Actionprofis hier für eine Figur, deren Behauptungen und Leistungen auseinanderfallen.",
+      "anchor": "Fords großes Selbstvertrauen ist kein Beweis für bessere Arbeit.",
+      "interest": "Die Komödienrolle spielt mit Stathams etabliertem Actionimage.",
+      "feedback": [
+        "",
+        "",
+        "",
+        "Ford unterschätzt Susan und greift eigenmächtig in ihre Mission ein."
+      ],
+      "films": [
+        "Spy|2015"
+      ],
+      "extraSources": [
+        "https://www.20thcenturystudios.com/movies/spy",
+        "https://en.wikipedia.org/wiki/Spy_(2015_film)"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum wird Jonas Taylor (Jason Statham) in „Meg“ aus seinem zurückgezogenen Leben wieder zu einer Tiefseemission geholt?",
+      "answers": [
+        "Er soll Menschen aus einem festsitzenden Tauchboot retten.",
+        "Er soll einen versunkenen Goldtransport bergen.",
+        "Er soll einen neuen Meeresgraben vermessen.",
+        "Er soll als Tourist an einer Unterwasserführung teilnehmen."
+      ],
+      "correct": 0,
+      "short": "Jonas wird für eine Rettung aus einem in der Tiefe eingeschlossenen Tauchboot gebraucht.",
+      "context": "Eine frühere Rettungsaktion hat Jonas traumatisiert und seinen Ruf beschädigt, weil seine Warnung vor einem riesigen Tier nicht geglaubt wurde. Jahre später sitzt ein Forschungsteam in der Tiefe fest; zu ihm gehört auch seine Exfrau Lori (Jessica McNamee). Die neue Mission verbindet fachliches Können mit einer persönlichen Rückkehr. Erst aus der Rettung entwickelt sich der Kampf gegen die Bedrohung an der Oberfläche.",
+      "anchor": "Jonas kehrt als Retter zurück, bevor er den Riesenhai bekämpft.",
+      "interest": "Die Ausgangslage macht aus dem Monsterkampf eine Geschichte über verlorenes Vertrauen.",
+      "feedback": [
+        "Jonas wird für eine Rettung aus einem in der Tiefe eingeschlossenen Tauchboot gebraucht.",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "The Meg|2018"
+      ],
+      "extraSources": [
+        "https://en.wikipedia.org/wiki/The_Meg"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Was macht Arthur Bishops (Jason Statham) Ausbildung von Steve (Ben Foster) in „The Mechanic“ besonders belastet?",
+      "answers": [
+        "Steve ist ein verdeckter Polizeibeamter.",
+        "Bishop hat zuvor Steves Vater getötet.",
+        "Steve ist Bishops verschollener Sohn.",
+        "Bishop hat Steve noch nie persönlich getroffen."
+      ],
+      "correct": 1,
+      "short": "Bishop hat Steves Vater Harry getötet, bevor er dessen Sohn ausbildet.",
+      "context": "Harry McKenna (Donald Sutherland) ist Bishops Freund und Mentor. Bishop tötet ihn aufgrund einer Behauptung seines Auftraggebers, die sich später als Täuschung erweist. Anschließend nimmt er Harrys Sohn als Schüler an. Die scheinbare Weitergabe beruflichen Wissens trägt damit bereits den Keim eines Rachekonflikts in sich. Statham übernimmt Arthur Bishop in einer Neuverfilmung des Bronson-Films von 1972.",
+      "anchor": "Bishops Schüler ist der Sohn seines eigenen Opfers.",
+      "interest": "Der Widerspruch zwischen Mentorschaft und verborgenem Mord trägt den Beziehungskonflikt.",
+      "feedback": [
+        "",
+        "Bishop hat Steves Vater Harry getötet, bevor er dessen Sohn ausbildet.",
+        "",
+        ""
+      ],
+      "films": [
+        "The Mechanic|2011",
+        "The Mechanic|1972"
+      ],
+      "extraSources": [
+        "https://en.wikipedia.org/wiki/The_Mechanic_(2011_film)"
+      ]
+    },
+    {
+      "code": "E1",
+      "question": "In welcher Sportart trat Jason Statham für England bei den Commonwealth Games 1990 an?",
+      "answers": [
+        "Im Rudern",
+        "Im Gewichtheben",
+        "Im Wasserspringen",
+        "Im Zehnkampf"
+      ],
+      "correct": 2,
+      "short": "Statham war Wettkampf-Wasserspringer.",
+      "context": "Vor seiner Filmkarriere gehörte Statham über Jahre zum britischen Leistungssport. Bei den Commonwealth Games startete er für England im Wasserspringen. In einem späteren Interview beschrieb er Disziplin und Konzentration als wichtige Erfahrungen aus dieser Zeit. Die Sportbiografie ist deshalb mehr als ein überraschender Vorberuf: Sie zeigt einen frühen Teil seiner langjährigen körperlichen Ausbildung.",
+      "anchor": "Stathams körperliche Laufbahn begann auch am Sprungbrett.",
+      "interest": "Die sportliche Erfahrung ergänzt das Verständnis seiner späteren Arbeit im Actionkino.",
+      "feedback": [
+        "",
+        "",
+        "Statham war Wettkampf-Wasserspringer.",
+        ""
+      ],
+      "films": [],
+      "extraSources": [
+        "https://en.wikipedia.org/wiki/Jason_Statham"
+      ]
+    },
+    {
+      "code": "E2",
+      "question": "Welche Berufserfahrung passte zu Jason Stathams erster Filmrolle in Guy Ritchies „Bube, Dame, König, grAS“?",
+      "answers": [
+        "Er hatte als Anwalt gearbeitet.",
+        "Er hatte ein Boxstudio geleitet.",
+        "Er hatte als Polizeidolmetscher gearbeitet.",
+        "Er hatte Waren auf der Straße verkauft."
+      ],
+      "correct": 3,
+      "short": "Statham hatte als Straßenverkäufer gearbeitet.",
+      "context": "Guy Ritchie suchte für sein Debüt einen gewitzten Kleinkriminellen. Stathams Erfahrungen beim Verkauf von Waren auf der Straße passten zum Auftreten der Figur Bacon. Seine Filmkarriere begann damit in einem Ensemble von Spielern und Gaunern, bevor die Solorollen als Actionheld folgten. Die Besetzung griff auf ein vorhandenes Milieuverständnis zurück, das nicht aus einer klassischen Schauspielausbildung stammte.",
+      "anchor": "Der ehemalige Straßenverkäufer wurde bei Ritchie zum Filmgauner.",
+      "interest": "Der Einstieg zeigt den Zusammenhang zwischen Lebenserfahrung und Besetzung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        "Statham hatte als Straßenverkäufer gearbeitet."
+      ],
+      "films": [
+        "Lock, Stock and Two Smoking Barrels|1998"
+      ],
+      "extraSources": [
+        "https://en.wikipedia.org/wiki/Jason_Statham"
+      ]
+    }
+  ]
+}

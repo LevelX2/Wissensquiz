@@ -16,7 +16,31 @@
     "ACTOR-BG-20261013-005",
     "ACTOR-BG-20261013-006",
     "ACTOR-BG-20261013-007",
-    "ACTOR-BG-20261013-008"
+    "ACTOR-BG-20261013-008",
+    "ACTOR-BG-20261013-009",
+    "ACTOR-BG-20261013-010",
+    "ACTOR-BG-20261013-011",
+    "ACTOR-BG-20261013-012",
+    "ACTOR-BG-20261013-013",
+    "ACTOR-BG-20261013-014",
+    "ACTOR-BG-20261013-015",
+    "ACTOR-BG-20261013-016",
+    "ACTOR-BG-20261013-017",
+    "ACTOR-BG-20261013-018",
+    "ACTOR-BG-20261013-019",
+    "ACTOR-BG-20261013-020",
+    "ACTOR-BG-20261013-021",
+    "ACTOR-BG-20261013-022",
+    "ACTOR-BG-20261013-023",
+    "ACTOR-BG-20261013-024",
+    "ACTOR-BG-20261013-025",
+    "ACTOR-BG-20261013-026",
+    "ACTOR-BG-20261013-027",
+    "ACTOR-BG-20261013-028",
+    "ACTOR-BG-20261013-029",
+    "ACTOR-BG-20261013-030",
+    "ACTOR-BG-20261013-031",
+    "ACTOR-BG-20261013-032"
   ],
   "blocks": [
     {
@@ -77,15 +101,1284 @@
       "newGoals": 59,
       "existingVariants": 5,
       "portraits": 8
+    },
+    {
+      "block": 2,
+      "status": "Redaktion und App-Parser-Prüfung abgeschlossen; nicht installiert",
+      "plannedQuestions": 192,
+      "persons": [
+        {
+          "entry": 9,
+          "personId": "ACTOR-BG-20261013-009",
+          "name": "Charlie Chaplin",
+          "level": 1
+        },
+        {
+          "entry": 10,
+          "personId": "ACTOR-BG-20261013-010",
+          "name": "John Wayne",
+          "level": 1
+        },
+        {
+          "entry": 11,
+          "personId": "ACTOR-BG-20261013-011",
+          "name": "Charles Bronson",
+          "level": 1
+        },
+        {
+          "entry": 12,
+          "personId": "ACTOR-BG-20261013-012",
+          "name": "Mel Gibson",
+          "level": 1
+        },
+        {
+          "entry": 13,
+          "personId": "ACTOR-BG-20261013-013",
+          "name": "Dwayne Johnson",
+          "level": 1
+        },
+        {
+          "entry": 14,
+          "personId": "ACTOR-BG-20261013-014",
+          "name": "Vin Diesel",
+          "level": 1
+        },
+        {
+          "entry": 15,
+          "personId": "ACTOR-BG-20261013-015",
+          "name": "Jason Statham",
+          "level": 1
+        },
+        {
+          "entry": 16,
+          "personId": "ACTOR-BG-20261013-016",
+          "name": "Mark Wahlberg",
+          "level": 1
+        },
+        {
+          "entry": 17,
+          "personId": "ACTOR-BG-20261013-017",
+          "name": "Chuck Norris",
+          "level": 1
+        },
+        {
+          "entry": 18,
+          "personId": "ACTOR-BG-20261013-018",
+          "name": "Louis de Funès",
+          "level": 1
+        },
+        {
+          "entry": 19,
+          "personId": "ACTOR-BG-20261013-019",
+          "name": "Pierre Richard",
+          "level": 1
+        },
+        {
+          "entry": 20,
+          "personId": "ACTOR-BG-20261013-020",
+          "name": "Heinz Rühmann",
+          "level": 1
+        },
+        {
+          "entry": 21,
+          "personId": "ACTOR-BG-20261013-021",
+          "name": "Heinz Erhardt",
+          "level": 1
+        },
+        {
+          "entry": 22,
+          "personId": "ACTOR-BG-20261013-022",
+          "name": "Loriot",
+          "level": 1
+        },
+        {
+          "entry": 23,
+          "personId": "ACTOR-BG-20261013-023",
+          "name": "Otto Waalkes",
+          "level": 1
+        },
+        {
+          "entry": 24,
+          "personId": "ACTOR-BG-20261013-024",
+          "name": "Til Schweiger",
+          "level": 1
+        },
+        {
+          "entry": 25,
+          "personId": "ACTOR-BG-20261013-025",
+          "name": "Matthias Schweighöfer",
+          "level": 1
+        },
+        {
+          "entry": 26,
+          "personId": "ACTOR-BG-20261013-026",
+          "name": "Götz George",
+          "level": 1
+        },
+        {
+          "entry": 27,
+          "personId": "ACTOR-BG-20261013-027",
+          "name": "Marlene Dietrich",
+          "level": 1
+        },
+        {
+          "entry": 28,
+          "personId": "ACTOR-BG-20261013-028",
+          "name": "Greta Garbo",
+          "level": 1
+        },
+        {
+          "entry": 29,
+          "personId": "ACTOR-BG-20261013-029",
+          "name": "Brigitte Bardot",
+          "level": 1
+        },
+        {
+          "entry": 30,
+          "personId": "ACTOR-BG-20261013-030",
+          "name": "Gina Lollobrigida",
+          "level": 1
+        },
+        {
+          "entry": 31,
+          "personId": "ACTOR-BG-20261013-031",
+          "name": "Uschi Glas",
+          "level": 1
+        },
+        {
+          "entry": 32,
+          "personId": "ACTOR-BG-20261013-032",
+          "name": "Senta Berger",
+          "level": 1
+        }
+      ],
+      "questions": 192,
+      "newGoals": 169,
+      "existingVariants": 23,
+      "portraits": 24
+    },
+    {
+      "block": 3,
+      "status": "Recherche und Redaktion",
+      "plannedQuestions": 192,
+      "persons": [
+        {
+          "entry": 33,
+          "personId": "ACTOR-BG-20261013-033",
+          "name": "Orson Welles",
+          "level": 3
+        },
+        {
+          "entry": 34,
+          "personId": "ACTOR-BG-20261013-034",
+          "name": "James Cagney",
+          "level": 3
+        },
+        {
+          "entry": 35,
+          "personId": "ACTOR-BG-20261013-035",
+          "name": "Edward G. Robinson",
+          "level": 3
+        },
+        {
+          "entry": 36,
+          "personId": "ACTOR-BG-20261013-036",
+          "name": "Spencer Tracy",
+          "level": 3
+        },
+        {
+          "entry": 37,
+          "personId": "ACTOR-BG-20261013-037",
+          "name": "Henry Fonda",
+          "level": 3
+        },
+        {
+          "entry": 38,
+          "personId": "ACTOR-BG-20261013-038",
+          "name": "Burt Lancaster",
+          "level": 3
+        },
+        {
+          "entry": 39,
+          "personId": "ACTOR-BG-20261013-039",
+          "name": "Kirk Douglas",
+          "level": 3
+        },
+        {
+          "entry": 40,
+          "personId": "ACTOR-BG-20261013-040",
+          "name": "Gary Cooper",
+          "level": 3
+        },
+        {
+          "entry": 41,
+          "personId": "ACTOR-BG-20261013-041",
+          "name": "Errol Flynn",
+          "level": 3
+        },
+        {
+          "entry": 42,
+          "personId": "ACTOR-BG-20261013-042",
+          "name": "Robert Mitchum",
+          "level": 3
+        },
+        {
+          "entry": 43,
+          "personId": "ACTOR-BG-20261013-043",
+          "name": "Richard Burton",
+          "level": 3
+        },
+        {
+          "entry": 44,
+          "personId": "ACTOR-BG-20261013-044",
+          "name": "Montgomery Clift",
+          "level": 3
+        },
+        {
+          "entry": 45,
+          "personId": "ACTOR-BG-20261013-045",
+          "name": "Laurence Olivier",
+          "level": 3
+        },
+        {
+          "entry": 46,
+          "personId": "ACTOR-BG-20261013-046",
+          "name": "Max von Sydow",
+          "level": 3
+        },
+        {
+          "entry": 47,
+          "personId": "ACTOR-BG-20261013-047",
+          "name": "Christopher Lee",
+          "level": 3
+        },
+        {
+          "entry": 48,
+          "personId": "ACTOR-BG-20261013-048",
+          "name": "Peter Cushing",
+          "level": 3
+        },
+        {
+          "entry": 49,
+          "personId": "ACTOR-BG-20261013-049",
+          "name": "Vincent Price",
+          "level": 3
+        },
+        {
+          "entry": 50,
+          "personId": "ACTOR-BG-20261013-050",
+          "name": "Christopher Plummer",
+          "level": 3
+        },
+        {
+          "entry": 51,
+          "personId": "ACTOR-BG-20261013-051",
+          "name": "James Mason",
+          "level": 3
+        },
+        {
+          "entry": 52,
+          "personId": "ACTOR-BG-20261013-052",
+          "name": "Alec Guinness",
+          "level": 3
+        },
+        {
+          "entry": 53,
+          "personId": "ACTOR-BG-20261013-053",
+          "name": "Peter Sellers",
+          "level": 3
+        },
+        {
+          "entry": 54,
+          "personId": "ACTOR-BG-20261013-054",
+          "name": "Jack Lemmon",
+          "level": 3
+        },
+        {
+          "entry": 55,
+          "personId": "ACTOR-BG-20261013-055",
+          "name": "Walter Matthau",
+          "level": 3
+        },
+        {
+          "entry": 56,
+          "personId": "ACTOR-BG-20261013-056",
+          "name": "Anthony Quinn",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "status": "Geplant",
+      "plannedQuestions": 192,
+      "persons": [
+        {
+          "entry": 57,
+          "personId": "ACTOR-BG-20261013-057",
+          "name": "Marcello Mastroianni",
+          "level": 3
+        },
+        {
+          "entry": 58,
+          "personId": "ACTOR-BG-20261013-058",
+          "name": "Jean-Louis Trintignant",
+          "level": 3
+        },
+        {
+          "entry": 59,
+          "personId": "ACTOR-BG-20261013-059",
+          "name": "Jean Gabin",
+          "level": 3
+        },
+        {
+          "entry": 60,
+          "personId": "ACTOR-BG-20261013-060",
+          "name": "Lino Ventura",
+          "level": 3
+        },
+        {
+          "entry": 61,
+          "personId": "ACTOR-BG-20261013-061",
+          "name": "Harvey Keitel",
+          "level": 3
+        },
+        {
+          "entry": 62,
+          "personId": "ACTOR-BG-20261013-062",
+          "name": "John Turturro",
+          "level": 3
+        },
+        {
+          "entry": 63,
+          "personId": "ACTOR-BG-20261013-063",
+          "name": "Philip Seymour Hoffman",
+          "level": 3
+        },
+        {
+          "entry": 64,
+          "personId": "ACTOR-BG-20261013-064",
+          "name": "John Goodman",
+          "level": 3
+        },
+        {
+          "entry": 65,
+          "personId": "ACTOR-BG-20261013-065",
+          "name": "Sam Rockwell",
+          "level": 3
+        },
+        {
+          "entry": 66,
+          "personId": "ACTOR-BG-20261013-066",
+          "name": "Paul Giamatti",
+          "level": 3
+        },
+        {
+          "entry": 67,
+          "personId": "ACTOR-BG-20261013-067",
+          "name": "Stanley Tucci",
+          "level": 3
+        },
+        {
+          "entry": 68,
+          "personId": "ACTOR-BG-20261013-068",
+          "name": "Ben Kingsley",
+          "level": 3
+        },
+        {
+          "entry": 69,
+          "personId": "ACTOR-BG-20261013-069",
+          "name": "Javier Bardem",
+          "level": 3
+        },
+        {
+          "entry": 70,
+          "personId": "ACTOR-BG-20261013-070",
+          "name": "Adam Driver",
+          "level": 3
+        },
+        {
+          "entry": 71,
+          "personId": "ACTOR-BG-20261013-071",
+          "name": "Michael Fassbender",
+          "level": 3
+        },
+        {
+          "entry": 72,
+          "personId": "ACTOR-BG-20261013-072",
+          "name": "Jane Fonda",
+          "level": 3
+        },
+        {
+          "entry": 73,
+          "personId": "ACTOR-BG-20261013-073",
+          "name": "Sally Field",
+          "level": 3
+        },
+        {
+          "entry": 74,
+          "personId": "ACTOR-BG-20261013-074",
+          "name": "Liza Minnelli",
+          "level": 3
+        },
+        {
+          "entry": 75,
+          "personId": "ACTOR-BG-20261013-075",
+          "name": "Debbie Reynolds",
+          "level": 3
+        },
+        {
+          "entry": 76,
+          "personId": "ACTOR-BG-20261013-076",
+          "name": "Natalie Wood",
+          "level": 3
+        },
+        {
+          "entry": 77,
+          "personId": "ACTOR-BG-20261013-077",
+          "name": "Ava Gardner",
+          "level": 3
+        },
+        {
+          "entry": 78,
+          "personId": "ACTOR-BG-20261013-078",
+          "name": "Rita Hayworth",
+          "level": 3
+        },
+        {
+          "entry": 79,
+          "personId": "ACTOR-BG-20261013-079",
+          "name": "Joan Crawford",
+          "level": 3
+        },
+        {
+          "entry": 80,
+          "personId": "ACTOR-BG-20261013-080",
+          "name": "Olivia de Havilland",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "block": 5,
+      "status": "Geplant",
+      "plannedQuestions": 192,
+      "persons": [
+        {
+          "entry": 81,
+          "personId": "ACTOR-BG-20261013-081",
+          "name": "Joan Fontaine",
+          "level": 3
+        },
+        {
+          "entry": 82,
+          "personId": "ACTOR-BG-20261013-082",
+          "name": "Angela Lansbury",
+          "level": 3
+        },
+        {
+          "entry": 83,
+          "personId": "ACTOR-BG-20261013-083",
+          "name": "Anne Bancroft",
+          "level": 3
+        },
+        {
+          "entry": 84,
+          "personId": "ACTOR-BG-20261013-084",
+          "name": "Holly Hunter",
+          "level": 3
+        },
+        {
+          "entry": 85,
+          "personId": "ACTOR-BG-20261013-085",
+          "name": "Ellen Burstyn",
+          "level": 3
+        },
+        {
+          "entry": 86,
+          "personId": "ACTOR-BG-20261013-086",
+          "name": "Mia Farrow",
+          "level": 3
+        },
+        {
+          "entry": 87,
+          "personId": "ACTOR-BG-20261013-087",
+          "name": "Pam Grier",
+          "level": 3
+        },
+        {
+          "entry": 88,
+          "personId": "ACTOR-BG-20261013-088",
+          "name": "Linda Hamilton",
+          "level": 3
+        },
+        {
+          "entry": 89,
+          "personId": "ACTOR-BG-20261013-089",
+          "name": "Lucy Liu",
+          "level": 3
+        },
+        {
+          "entry": 90,
+          "personId": "ACTOR-BG-20261013-090",
+          "name": "Kim Basinger",
+          "level": 3
+        },
+        {
+          "entry": 91,
+          "personId": "ACTOR-BG-20261013-091",
+          "name": "Kathleen Turner",
+          "level": 3
+        },
+        {
+          "entry": 92,
+          "personId": "ACTOR-BG-20261013-092",
+          "name": "Diane Lane",
+          "level": 3
+        },
+        {
+          "entry": 93,
+          "personId": "ACTOR-BG-20261013-093",
+          "name": "Dianne Wiest",
+          "level": 3
+        },
+        {
+          "entry": 94,
+          "personId": "ACTOR-BG-20261013-094",
+          "name": "Rosamund Pike",
+          "level": 3
+        },
+        {
+          "entry": 95,
+          "personId": "ACTOR-BG-20261013-095",
+          "name": "Melissa McCarthy",
+          "level": 3
+        },
+        {
+          "entry": 96,
+          "personId": "ACTOR-BG-20261013-096",
+          "name": "Courteney Cox",
+          "level": 3
+        },
+        {
+          "entry": 97,
+          "personId": "ACTOR-BG-20261013-097",
+          "name": "Lisa Kudrow",
+          "level": 3
+        },
+        {
+          "entry": 98,
+          "personId": "ACTOR-BG-20261013-098",
+          "name": "Dakota Fanning",
+          "level": 3
+        },
+        {
+          "entry": 99,
+          "personId": "ACTOR-BG-20261013-099",
+          "name": "Elle Fanning",
+          "level": 3
+        },
+        {
+          "entry": 100,
+          "personId": "ACTOR-BG-20261013-100",
+          "name": "Sandra Hüller",
+          "level": 3
+        },
+        {
+          "entry": 101,
+          "personId": "ACTOR-BG-20261013-101",
+          "name": "Nina Hoss",
+          "level": 3
+        },
+        {
+          "entry": 102,
+          "personId": "ACTOR-BG-20261013-102",
+          "name": "Martina Gedeck",
+          "level": 3
+        },
+        {
+          "entry": 103,
+          "personId": "ACTOR-BG-20261013-103",
+          "name": "Corinna Harfouch",
+          "level": 3
+        },
+        {
+          "entry": 104,
+          "personId": "ACTOR-BG-20261013-104",
+          "name": "Katja Riemann",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "status": "Geplant",
+      "plannedQuestions": 192,
+      "persons": [
+        {
+          "entry": 105,
+          "personId": "ACTOR-BG-20261013-105",
+          "name": "Charlotte Rampling",
+          "level": 3
+        },
+        {
+          "entry": 106,
+          "personId": "ACTOR-BG-20261013-106",
+          "name": "Kristin Scott Thomas",
+          "level": 3
+        },
+        {
+          "entry": 107,
+          "personId": "ACTOR-BG-20261013-107",
+          "name": "Jeanne Moreau",
+          "level": 3
+        },
+        {
+          "entry": 108,
+          "personId": "ACTOR-BG-20261013-108",
+          "name": "Simone Signoret",
+          "level": 3
+        },
+        {
+          "entry": 109,
+          "personId": "ACTOR-BG-20261013-109",
+          "name": "Monica Vitti",
+          "level": 3
+        },
+        {
+          "entry": 110,
+          "personId": "ACTOR-BG-20261013-110",
+          "name": "Giulietta Masina",
+          "level": 3
+        },
+        {
+          "entry": 111,
+          "personId": "ACTOR-BG-20261013-111",
+          "name": "Buster Keaton",
+          "level": 4
+        },
+        {
+          "entry": 112,
+          "personId": "ACTOR-BG-20261013-112",
+          "name": "Harold Lloyd",
+          "level": 4
+        },
+        {
+          "entry": 113,
+          "personId": "ACTOR-BG-20261013-113",
+          "name": "Jacques Tati",
+          "level": 4
+        },
+        {
+          "entry": 114,
+          "personId": "ACTOR-BG-20261013-114",
+          "name": "Michel Piccoli",
+          "level": 4
+        },
+        {
+          "entry": 115,
+          "personId": "ACTOR-BG-20261013-115",
+          "name": "Philippe Noiret",
+          "level": 4
+        },
+        {
+          "entry": 116,
+          "personId": "ACTOR-BG-20261013-116",
+          "name": "Jean Rochefort",
+          "level": 4
+        },
+        {
+          "entry": 117,
+          "personId": "ACTOR-BG-20261013-117",
+          "name": "Gian Maria Volonté",
+          "level": 4
+        },
+        {
+          "entry": 118,
+          "personId": "ACTOR-BG-20261013-118",
+          "name": "Vittorio Gassman",
+          "level": 4
+        },
+        {
+          "entry": 119,
+          "personId": "ACTOR-BG-20261013-119",
+          "name": "Nino Manfredi",
+          "level": 4
+        },
+        {
+          "entry": 120,
+          "personId": "ACTOR-BG-20261013-120",
+          "name": "Alberto Sordi",
+          "level": 4
+        },
+        {
+          "entry": 121,
+          "personId": "ACTOR-BG-20261013-121",
+          "name": "Ugo Tognazzi",
+          "level": 4
+        },
+        {
+          "entry": 122,
+          "personId": "ACTOR-BG-20261013-122",
+          "name": "Totò",
+          "level": 4
+        },
+        {
+          "entry": 123,
+          "personId": "ACTOR-BG-20261013-123",
+          "name": "Fernando Rey",
+          "level": 4
+        },
+        {
+          "entry": 124,
+          "personId": "ACTOR-BG-20261013-124",
+          "name": "Francisco Rabal",
+          "level": 4
+        },
+        {
+          "entry": 125,
+          "personId": "ACTOR-BG-20261013-125",
+          "name": "José Luis López Vázquez",
+          "level": 4
+        },
+        {
+          "entry": 126,
+          "personId": "ACTOR-BG-20261013-126",
+          "name": "Conrad Veidt",
+          "level": 4
+        },
+        {
+          "entry": 127,
+          "personId": "ACTOR-BG-20261013-127",
+          "name": "Emil Jannings",
+          "level": 4
+        },
+        {
+          "entry": 128,
+          "personId": "ACTOR-BG-20261013-128",
+          "name": "Anton Walbrook",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "block": 7,
+      "status": "Geplant",
+      "plannedQuestions": 192,
+      "persons": [
+        {
+          "entry": 129,
+          "personId": "ACTOR-BG-20261013-129",
+          "name": "Oskar Werner",
+          "level": 4
+        },
+        {
+          "entry": 130,
+          "personId": "ACTOR-BG-20261013-130",
+          "name": "Helmut Qualtinger",
+          "level": 4
+        },
+        {
+          "entry": 131,
+          "personId": "ACTOR-BG-20261013-131",
+          "name": "Tatsuya Nakadai",
+          "level": 4
+        },
+        {
+          "entry": 132,
+          "personId": "ACTOR-BG-20261013-132",
+          "name": "Takashi Shimura",
+          "level": 4
+        },
+        {
+          "entry": 133,
+          "personId": "ACTOR-BG-20261013-133",
+          "name": "Masayuki Mori",
+          "level": 4
+        },
+        {
+          "entry": 134,
+          "personId": "ACTOR-BG-20261013-134",
+          "name": "Ken Uehara",
+          "level": 4
+        },
+        {
+          "entry": 135,
+          "personId": "ACTOR-BG-20261013-135",
+          "name": "Shin Saburi",
+          "level": 4
+        },
+        {
+          "entry": 136,
+          "personId": "ACTOR-BG-20261013-136",
+          "name": "Eijirō Tōno",
+          "level": 4
+        },
+        {
+          "entry": 137,
+          "personId": "ACTOR-BG-20261013-137",
+          "name": "Rentarō Mikuni",
+          "level": 4
+        },
+        {
+          "entry": 138,
+          "personId": "ACTOR-BG-20261013-138",
+          "name": "Shintarō Katsu",
+          "level": 4
+        },
+        {
+          "entry": 139,
+          "personId": "ACTOR-BG-20261013-139",
+          "name": "Ken Takakura",
+          "level": 4
+        },
+        {
+          "entry": 140,
+          "personId": "ACTOR-BG-20261013-140",
+          "name": "Bunta Sugawara",
+          "level": 4
+        },
+        {
+          "entry": 141,
+          "personId": "ACTOR-BG-20261013-141",
+          "name": "Soumitra Chatterjee",
+          "level": 4
+        },
+        {
+          "entry": 142,
+          "personId": "ACTOR-BG-20261013-142",
+          "name": "Naseeruddin Shah",
+          "level": 4
+        },
+        {
+          "entry": 143,
+          "personId": "ACTOR-BG-20261013-143",
+          "name": "Om Puri",
+          "level": 4
+        },
+        {
+          "entry": 144,
+          "personId": "ACTOR-BG-20261013-144",
+          "name": "Irrfan Khan",
+          "level": 4
+        },
+        {
+          "entry": 145,
+          "personId": "ACTOR-BG-20261013-145",
+          "name": "Kamal Haasan",
+          "level": 4
+        },
+        {
+          "entry": 146,
+          "personId": "ACTOR-BG-20261013-146",
+          "name": "Mammootty",
+          "level": 4
+        },
+        {
+          "entry": 147,
+          "personId": "ACTOR-BG-20261013-147",
+          "name": "Mohanlal",
+          "level": 4
+        },
+        {
+          "entry": 148,
+          "personId": "ACTOR-BG-20261013-148",
+          "name": "Tony Leung Chiu-wai",
+          "level": 4
+        },
+        {
+          "entry": 149,
+          "personId": "ACTOR-BG-20261013-149",
+          "name": "Tony Leung Ka-fai",
+          "level": 4
+        },
+        {
+          "entry": 150,
+          "personId": "ACTOR-BG-20261013-150",
+          "name": "Leslie Cheung",
+          "level": 4
+        },
+        {
+          "entry": 151,
+          "personId": "ACTOR-BG-20261013-151",
+          "name": "Andy Lau",
+          "level": 4
+        },
+        {
+          "entry": 152,
+          "personId": "ACTOR-BG-20261013-152",
+          "name": "Stephen Chow",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "block": 8,
+      "status": "Geplant",
+      "plannedQuestions": 192,
+      "persons": [
+        {
+          "entry": 153,
+          "personId": "ACTOR-BG-20261013-153",
+          "name": "Takeshi Kitano",
+          "level": 4
+        },
+        {
+          "entry": 154,
+          "personId": "ACTOR-BG-20261013-154",
+          "name": "Choi Min-sik",
+          "level": 4
+        },
+        {
+          "entry": 155,
+          "personId": "ACTOR-BG-20261013-155",
+          "name": "Sol Kyung-gu",
+          "level": 4
+        },
+        {
+          "entry": 156,
+          "personId": "ACTOR-BG-20261013-156",
+          "name": "Lee Byung-hun",
+          "level": 4
+        },
+        {
+          "entry": 157,
+          "personId": "ACTOR-BG-20261013-157",
+          "name": "Ricardo Darín",
+          "level": 4
+        },
+        {
+          "entry": 158,
+          "personId": "ACTOR-BG-20261013-158",
+          "name": "Federico Luppi",
+          "level": 4
+        },
+        {
+          "entry": 159,
+          "personId": "ACTOR-BG-20261013-159",
+          "name": "Arturo de Córdova",
+          "level": 4
+        },
+        {
+          "entry": 160,
+          "personId": "ACTOR-BG-20261013-160",
+          "name": "Ida Lupino",
+          "level": 4
+        },
+        {
+          "entry": 161,
+          "personId": "ACTOR-BG-20261013-161",
+          "name": "Gloria Swanson",
+          "level": 4
+        },
+        {
+          "entry": 162,
+          "personId": "ACTOR-BG-20261013-162",
+          "name": "Louise Brooks",
+          "level": 4
+        },
+        {
+          "entry": 163,
+          "personId": "ACTOR-BG-20261013-163",
+          "name": "Lillian Gish",
+          "level": 4
+        },
+        {
+          "entry": 164,
+          "personId": "ACTOR-BG-20261013-164",
+          "name": "Mary Pickford",
+          "level": 4
+        },
+        {
+          "entry": 165,
+          "personId": "ACTOR-BG-20261013-165",
+          "name": "Jean Arthur",
+          "level": 4
+        },
+        {
+          "entry": 166,
+          "personId": "ACTOR-BG-20261013-166",
+          "name": "Carole Lombard",
+          "level": 4
+        },
+        {
+          "entry": 167,
+          "personId": "ACTOR-BG-20261013-167",
+          "name": "Claudette Colbert",
+          "level": 4
+        },
+        {
+          "entry": 168,
+          "personId": "ACTOR-BG-20261013-168",
+          "name": "Greer Garson",
+          "level": 4
+        },
+        {
+          "entry": 169,
+          "personId": "ACTOR-BG-20261013-169",
+          "name": "Norma Shearer",
+          "level": 4
+        },
+        {
+          "entry": 170,
+          "personId": "ACTOR-BG-20261013-170",
+          "name": "Loretta Young",
+          "level": 4
+        },
+        {
+          "entry": 171,
+          "personId": "ACTOR-BG-20261013-171",
+          "name": "Jane Wyman",
+          "level": 4
+        },
+        {
+          "entry": 172,
+          "personId": "ACTOR-BG-20261013-172",
+          "name": "Maureen O’Hara",
+          "level": 4
+        },
+        {
+          "entry": 173,
+          "personId": "ACTOR-BG-20261013-173",
+          "name": "Susan Hayward",
+          "level": 4
+        },
+        {
+          "entry": 174,
+          "personId": "ACTOR-BG-20261013-174",
+          "name": "Veronica Lake",
+          "level": 4
+        },
+        {
+          "entry": 175,
+          "personId": "ACTOR-BG-20261013-175",
+          "name": "Agnes Moorehead",
+          "level": 4
+        },
+        {
+          "entry": 176,
+          "personId": "ACTOR-BG-20261013-176",
+          "name": "Thelma Ritter",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "status": "Geplant",
+      "plannedQuestions": 192,
+      "persons": [
+        {
+          "entry": 177,
+          "personId": "ACTOR-BG-20261013-177",
+          "name": "Judith Anderson",
+          "level": 4
+        },
+        {
+          "entry": 178,
+          "personId": "ACTOR-BG-20261013-178",
+          "name": "Dorothy Dandridge",
+          "level": 4
+        },
+        {
+          "entry": 179,
+          "personId": "ACTOR-BG-20261013-179",
+          "name": "Delphine Seyrig",
+          "level": 4
+        },
+        {
+          "entry": 180,
+          "personId": "ACTOR-BG-20261013-180",
+          "name": "Emmanuelle Riva",
+          "level": 4
+        },
+        {
+          "entry": 181,
+          "personId": "ACTOR-BG-20261013-181",
+          "name": "Anna Karina",
+          "level": 4
+        },
+        {
+          "entry": 182,
+          "personId": "ACTOR-BG-20261013-182",
+          "name": "Anouk Aimée",
+          "level": 4
+        },
+        {
+          "entry": 183,
+          "personId": "ACTOR-BG-20261013-183",
+          "name": "Arletty",
+          "level": 4
+        },
+        {
+          "entry": 184,
+          "personId": "ACTOR-BG-20261013-184",
+          "name": "Danielle Darrieux",
+          "level": 4
+        },
+        {
+          "entry": 185,
+          "personId": "ACTOR-BG-20261013-185",
+          "name": "Anna Magnani",
+          "level": 4
+        },
+        {
+          "entry": 186,
+          "personId": "ACTOR-BG-20261013-186",
+          "name": "Silvana Mangano",
+          "level": 4
+        },
+        {
+          "entry": 187,
+          "personId": "ACTOR-BG-20261013-187",
+          "name": "Lucia Bosè",
+          "level": 4
+        },
+        {
+          "entry": 188,
+          "personId": "ACTOR-BG-20261013-188",
+          "name": "Valeria Golino",
+          "level": 4
+        },
+        {
+          "entry": 189,
+          "personId": "ACTOR-BG-20261013-189",
+          "name": "Fernanda Montenegro",
+          "level": 4
+        },
+        {
+          "entry": 190,
+          "personId": "ACTOR-BG-20261013-190",
+          "name": "Norma Aleandro",
+          "level": 4
+        },
+        {
+          "entry": 191,
+          "personId": "ACTOR-BG-20261013-191",
+          "name": "Sônia Braga",
+          "level": 4
+        },
+        {
+          "entry": 192,
+          "personId": "ACTOR-BG-20261013-192",
+          "name": "Mercedes Morán",
+          "level": 4
+        },
+        {
+          "entry": 193,
+          "personId": "ACTOR-BG-20261013-193",
+          "name": "Graciela Borges",
+          "level": 4
+        },
+        {
+          "entry": 194,
+          "personId": "ACTOR-BG-20261013-194",
+          "name": "Maggie Cheung",
+          "level": 4
+        },
+        {
+          "entry": 195,
+          "personId": "ACTOR-BG-20261013-195",
+          "name": "Brigitte Lin",
+          "level": 4
+        },
+        {
+          "entry": 196,
+          "personId": "ACTOR-BG-20261013-196",
+          "name": "Anita Mui",
+          "level": 4
+        },
+        {
+          "entry": 197,
+          "personId": "ACTOR-BG-20261013-197",
+          "name": "Machiko Kyō",
+          "level": 4
+        },
+        {
+          "entry": 198,
+          "personId": "ACTOR-BG-20261013-198",
+          "name": "Hideko Takamine",
+          "level": 4
+        },
+        {
+          "entry": 199,
+          "personId": "ACTOR-BG-20261013-199",
+          "name": "Isuzu Yamada",
+          "level": 4
+        },
+        {
+          "entry": 200,
+          "personId": "ACTOR-BG-20261013-200",
+          "name": "Kyōko Kagawa",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "block": 10,
+      "status": "Geplant",
+      "plannedQuestions": 64,
+      "persons": [
+        {
+          "entry": 201,
+          "personId": "ACTOR-BG-20261013-201",
+          "name": "Haruko Sugimura",
+          "level": 4
+        },
+        {
+          "entry": 202,
+          "personId": "ACTOR-BG-20261013-202",
+          "name": "Ayako Wakao",
+          "level": 4
+        },
+        {
+          "entry": 203,
+          "personId": "ACTOR-BG-20261013-203",
+          "name": "Meiko Kaji",
+          "level": 4
+        },
+        {
+          "entry": 204,
+          "personId": "ACTOR-BG-20261013-204",
+          "name": "Madhabi Mukherjee",
+          "level": 4
+        },
+        {
+          "entry": 205,
+          "personId": "ACTOR-BG-20261013-205",
+          "name": "Smita Patil",
+          "level": 4
+        },
+        {
+          "entry": 206,
+          "personId": "ACTOR-BG-20261013-206",
+          "name": "Shabana Azmi",
+          "level": 4
+        },
+        {
+          "entry": 207,
+          "personId": "ACTOR-BG-20261013-207",
+          "name": "Youn Yuh-jung",
+          "level": 4
+        },
+        {
+          "entry": 208,
+          "personId": "ACTOR-BG-20261013-208",
+          "name": "Leila Hatami",
+          "level": 4
+        }
+      ]
     }
   ],
-  "remainingPersons": 200,
+  "remainingPersons": 176,
   "remainingByGroup": {
-    "1": 24,
+    "1": 0,
     "2": 0,
     "3": 78,
     "4": 98
   },
   "appIntegration": "ausstehend",
-  "publication": "nicht beauftragt"
+  "publication": "nicht beauftragt",
+  "continuousCommission": "Bis vollständigem Ausgleich weiterarbeiten; abgeschlossene Blöcke lokal committen",
+  "validatedThroughEntry": 32
 }
