@@ -4,8 +4,19 @@ import { createHash } from "node:crypto";
 const root = "docs/Schauspieler-Bekanntheit-2026-10-13",
   local = "data/schauspieler-ausbau-weiter-2026-10-13";
 const read = (path) => JSON.parse(fs.readFileSync(path, "utf8"));
-const write = (path, value) =>
-  fs.writeFileSync(path, JSON.stringify(value, null, 2) + "\n");
+const write = (path, value) => {
+  const content = JSON.stringify(value, null, 2) + "\n";
+  for (let attempt = 0; ; attempt++) {
+    try {
+      fs.writeFileSync(path, content);
+      return;
+    } catch (error) {
+      // These shared manifests can briefly fail with UNKNOWN on Windows.
+      if (error.code !== "UNKNOWN" || attempt >= 4) throw error;
+      Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, 250);
+    }
+  }
+};
 const block = Number(process.argv[2] ?? 2),
   num = String(block).padStart(3, "0");
 const choices = read(`${root}/Bildauswahl/${num}.json`);
@@ -144,7 +155,9 @@ for (const choice of choices) {
     }
     const licenseName = meta.LicenseShortName.value;
     if (
-      !/^(Public domain|CC0|CC BY(?:-SA)? [234]\.0(?: de)?)$/.test(licenseName)
+      !/^(Public domain|CC0|CC BY(?:-SA)? [234]\.0(?: de| nl)?)$/.test(
+        licenseName,
+      )
     )
       throw Error(`Bildlizenz prüfen ${licenseName}`);
     portrait = {

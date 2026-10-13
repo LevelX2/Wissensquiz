@@ -1,0 +1,238 @@
+{
+  "entry": 41,
+  "personId": "ACTOR-BG-20261013-041",
+  "name": "Errol Flynn",
+  "level": 3,
+  "period": "Prägende Hollywood-Abenteuer der 1930er- und 1940er-Jahre",
+  "articleUrl": "https://www.tcm.com/articles/161253/errol-flynn-profile-films-in-bold-type-will-air-on-8-7",
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen legendären Gesetzlosen spielt Errol Flynn im Abenteuerklassiker von 1938?",
+      "answers": [
+        "Robin Hood",
+        "Zorro",
+        "D’Artagnan",
+        "Wilhelm Tell"
+      ],
+      "correct": 0,
+      "short": "Flynn spielt Robin Hood.",
+      "context": "Sein Robin verbindet Fechtkunst, Witz und romantischen Charme. Der Widerstand gegen die Machthaber steht neben der Liebe zu Marian und der Treue zu König Richard. Die Figur wurde zu einem Muster des heiteren Abenteuerhelden, das weit über Flynns eigene Filmkarriere hinauswirkte.",
+      "anchor": "Flynns bekanntester Gesetzloser lebt im Sherwood Forest.",
+      "interest": "Eine zentrale Leinwandfigur öffnet den Zugang zu seinem Starimage.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "The Adventures of Robin Hood|1938"
+      ],
+      "extraSources": [
+        "https://www.tcm.com/articles/25787/the-adventures-of-robin-hood"
+      ],
+      "knowledge_id": "K-ADV-202610-P01-L-015",
+      "variant_of": "ADV-202610-P01-L-015",
+      "knowledge_note": "Umgekehrte Besetzungsfrage zum selben Darsteller-Rollen-Ziel."
+    },
+    {
+      "code": "L2",
+      "question": "Welche Schauspielerin bildet mit Errol Flynn das romantische Paar in „Unter Piratenflagge“ und „Robin Hood, König der Vagabunden“?",
+      "answers": [
+        "Vivien Leigh",
+        "Olivia de Havilland",
+        "Joan Fontaine",
+        "Maureen O’Hara"
+      ],
+      "correct": 1,
+      "short": "Olivia de Havilland spielt an Flynns Seite.",
+      "context": "De Havilland ist Arabella in der Piratengeschichte und Marian im Sherwood-Abenteuer. Beide Filme gehören zu einer längeren Folge gemeinsamer Auftritte. Der Erfolg beruht auch auf dem Zusammenspiel: Flynns impulsive Helden treffen auf eine Partnerin, die ihren Charme prüft und ihre Loyalität nicht einfach voraussetzt.",
+      "anchor": "Flynn und de Havilland gehören zu den klassischen Abenteuerpaaren.",
+      "interest": "Zwei Filme werden über eine wiederkehrende Zusammenarbeit verbunden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Captain Blood|1935",
+        "The Adventures of Robin Hood|1938"
+      ],
+      "extraSources": [
+        "https://www.tcm.com/articles/161253/errol-flynn-profile-films-in-bold-type-will-air-on-8-7",
+        "https://www.tcm.com/articles/25787/the-adventures-of-robin-hood"
+      ],
+      "knowledge_id": "K-ADV-202610-P01-L-016",
+      "variant_of": "ADV-202610-P01-L-016",
+      "knowledge_note": "Marian/de Havilland bleibt dasselbe Besetzungsziel, hier mit zweitem gemeinsamen Film."
+    },
+    {
+      "code": "M1",
+      "question": "Welchen Beruf übt Errol Flynns Peter Blood aus, bevor er in „Unter Piratenflagge“ zum Piraten wird?",
+      "answers": [
+        "Richter",
+        "Schiffsbauer",
+        "Arzt",
+        "Offizier"
+      ],
+      "correct": 2,
+      "short": "Peter Blood ist zunächst Arzt.",
+      "context": "Blood gerät wegen der Behandlung eines verwundeten Rebellen in die Gewalt der Obrigkeit. Sein Weg zum Piraten beginnt damit als Folge politischer Verfolgung. Die medizinische Herkunft unterscheidet ihn von einem bloßen Abenteurer auf Beutezug und begründet die moralische Distanz zu rücksichtsloseren Seeräubern.",
+      "anchor": "Bloods Abenteuer beginnt mit einem ärztlichen Hilfsdienst.",
+      "interest": "Der Ausgangsberuf erklärt den besonderen Heldentyp.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Captain Blood|1935"
+      ],
+      "extraSources": [
+        "https://en.wikipedia.org/wiki/Captain_Blood_(1935_film)",
+        "https://www.tcm.com/articles/161253/errol-flynn-profile-films-in-bold-type-will-air-on-8-7"
+      ],
+      "knowledge_id": "K-G100-20261008-ABENTEUER-001-L1",
+      "variant_of": "G100-20261008-ABENTEUER-001-L1",
+      "knowledge_note": "Gleiches Ziel: Bloods Beruf vor der Piratenlaufbahn."
+    },
+    {
+      "code": "M2",
+      "question": "Welchen Sportler verkörpert Errol Flynn in „Gentleman Jim“?",
+      "answers": [
+        "Den Schwimmer Johnny Weissmüller",
+        "Den Baseballspieler Babe Ruth",
+        "Den Rennfahrer Barney Oldfield",
+        "Den Boxer James J. Corbett"
+      ],
+      "correct": 3,
+      "short": "Flynn spielt den Schwergewichtsboxer James J. Corbett.",
+      "context": "Die Biografie nimmt sich bei Corbetts Lebenslauf erhebliche Freiheiten. Dennoch bereitete Flynn die Bewegungen im Ring sorgfältig vor. Der Film erweitert sein Abenteuerimage: An die Stelle des Degens tritt ein sportlicher Stil, der von schnellen Beinen und einer präzisen linken Führhand lebt.",
+      "anchor": "In „Gentleman Jim“ kämpft Flynn mit Fäusten statt mit dem Degen.",
+      "interest": "Ein Genrewechsel zeigt die körperliche Arbeit hinter seinem Auftreten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Gentleman Jim|1942"
+      ],
+      "extraSources": [
+        "https://www.tcm.com/articles/92455/gentleman-jim"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum tragen Errol Flynns „Robin Hood“-Abenteuer von 1938 die Namen Michael Curtiz und William Keighley in der Regie?",
+      "answers": [
+        "Curtiz übernahm das bereits von Keighley begonnene Projekt.",
+        "Beide drehten je eine vollständige Sprachfassung.",
+        "Keighley inszenierte ausschließlich eine spätere Wiederveröffentlichung.",
+        "Curtiz ergänzte erst nach Flynns Tod neue Szenen."
+      ],
+      "correct": 0,
+      "short": "Curtiz löste Keighley während der Produktion ab.",
+      "context": "Keighley hatte die Aufnahmen in Kalifornien begonnen. Das Studio war mit dem Ton seiner Inszenierung nicht zufrieden und übergab die Arbeit an Curtiz. Beiträge beider Regisseure blieben im fertigen Film erhalten. Der doppelte Credit erzählt daher von einem Wechsel im laufenden Projekt.",
+      "anchor": "Zwei Regienamen verweisen hier auf eine übergebene Produktion.",
+      "interest": "Der Produktionsablauf wird von gemeinsamer Regie oder Sprachfassungen unterschieden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "The Adventures of Robin Hood|1938"
+      ],
+      "extraSources": [
+        "https://www.tcm.com/articles/25787/the-adventures-of-robin-hood"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welchen ursprünglich vorgesehenen Hauptdarsteller ersetzte Errol Flynn bei „Unter Piratenflagge“?",
+      "answers": [
+        "Leslie Howard",
+        "Robert Donat",
+        "Ronald Colman",
+        "Tyrone Power"
+      ],
+      "correct": 1,
+      "short": "Die Hauptrolle war zunächst für Robert Donat vorgesehen.",
+      "context": "Als Donat das Projekt verließ, gab Warner Bros. dem noch wenig bekannten Flynn die Chance. Der Erfolg machte ihn zu einem führenden Star des Studios. Was später wie eine selbstverständliche Besetzung wirkt, entstand aus einer offenen Stelle und der Bereitschaft, ein großes Abenteuer einem Neuling anzuvertrauen.",
+      "anchor": "Donats Absage öffnete Flynn den Weg zu Captain Blood.",
+      "interest": "Die Besetzungsentscheidung erklärt einen entscheidenden Karrieresprung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Captain Blood|1935"
+      ],
+      "extraSources": [
+        "https://www.tcm.com/articles/161253/errol-flynn-profile-films-in-bold-type-will-air-on-8-7",
+        "https://www.tcm.com/articles/25787/the-adventures-of-robin-hood"
+      ]
+    },
+    {
+      "code": "E1",
+      "question": "Was musste Errol Flynn für die Boxszenen in „Gentleman Jim“ besonders verändern?",
+      "answers": [
+        "Er sollte fast ausschließlich aus dem Stand schlagen.",
+        "Er sollte seine linke Hand möglichst vollständig schonen.",
+        "Er musste die linke Führhand und schnelle Beinarbeit stärker einsetzen.",
+        "Er musste Corbett als schwerfälligen Nahkämpfer gestalten."
+      ],
+      "correct": 2,
+      "short": "Das Training betonte linke Führhand und schnelle Beinarbeit.",
+      "context": "Flynn neigte beim Boxen zunächst zur rechten Faust. Der frühere Champion Mushy Callahan arbeitete mit ihm daran, Corbetts beweglichen Stil nachzubilden. Die Figur verlangte damit ein bestimmtes technisches Bewegungsmuster. Allgemeine Fitness oder die Erfahrung aus Fechtszenen genügten für diese Aufgabe nicht.",
+      "anchor": "Flynns Corbett entsteht aus Beinarbeit und linker Führhand.",
+      "interest": "Die Frage macht konkrete Vorbereitung auf eine körperliche Rolle sichtbar.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Gentleman Jim|1942"
+      ],
+      "extraSources": [
+        "https://www.tcm.com/articles/92455/gentleman-jim"
+      ]
+    },
+    {
+      "code": "E2",
+      "question": "Welches Hollywoodstudio band Errol Flynn als Vertragsschauspieler an sich und baute ihn zum Abenteuerstar auf?",
+      "answers": [
+        "Metro-Goldwyn-Mayer",
+        "Paramount",
+        "RKO",
+        "Warner Bros."
+      ],
+      "correct": 3,
+      "short": "Flynn wurde vor allem als Vertragsstar von Warner Bros. aufgebaut.",
+      "context": "Das Studiosystem verband langfristige Verträge mit wiederkehrenden Regisseuren, Partnern und Produktionsformen. Für Flynn entstand daraus eine Reihe aufwendiger Abenteuer. Sein scheinbar müheloses Auftreten war somit auch das Ergebnis einer Firma, die eine erkennbare Leinwandpersönlichkeit über mehrere Projekte hinweg entwickelte.",
+      "anchor": "Warner Bros. formte Flynns klassische Abenteuerlaufbahn.",
+      "interest": "Die berufliche Infrastruktur hinter dem Star wird erkennbar.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [],
+      "extraSources": [
+        "https://www.tcm.com/articles/161253/errol-flynn-profile-films-in-bold-type-will-air-on-8-7",
+        "https://www.tcm.com/articles/021586/star-of-the-month-errol-flynn"
+      ]
+    }
+  ]
+}

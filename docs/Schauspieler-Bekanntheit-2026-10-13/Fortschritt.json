@@ -40,7 +40,31 @@
     "ACTOR-BG-20261013-029",
     "ACTOR-BG-20261013-030",
     "ACTOR-BG-20261013-031",
-    "ACTOR-BG-20261013-032"
+    "ACTOR-BG-20261013-032",
+    "ACTOR-BG-20261013-033",
+    "ACTOR-BG-20261013-034",
+    "ACTOR-BG-20261013-035",
+    "ACTOR-BG-20261013-036",
+    "ACTOR-BG-20261013-037",
+    "ACTOR-BG-20261013-038",
+    "ACTOR-BG-20261013-039",
+    "ACTOR-BG-20261013-040",
+    "ACTOR-BG-20261013-041",
+    "ACTOR-BG-20261013-042",
+    "ACTOR-BG-20261013-043",
+    "ACTOR-BG-20261013-044",
+    "ACTOR-BG-20261013-045",
+    "ACTOR-BG-20261013-046",
+    "ACTOR-BG-20261013-047",
+    "ACTOR-BG-20261013-048",
+    "ACTOR-BG-20261013-049",
+    "ACTOR-BG-20261013-050",
+    "ACTOR-BG-20261013-051",
+    "ACTOR-BG-20261013-052",
+    "ACTOR-BG-20261013-053",
+    "ACTOR-BG-20261013-054",
+    "ACTOR-BG-20261013-055",
+    "ACTOR-BG-20261013-056"
   ],
   "blocks": [
     {
@@ -259,7 +283,7 @@
     },
     {
       "block": 3,
-      "status": "Recherche und Redaktion",
+      "status": "Redaktion und App-Parser-Prüfung abgeschlossen; nicht installiert",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -406,11 +430,15 @@
           "name": "Anthony Quinn",
           "level": 3
         }
-      ]
+      ],
+      "questions": 192,
+      "newGoals": 169,
+      "existingVariants": 23,
+      "portraits": 24
     },
     {
       "block": 4,
-      "status": "Geplant",
+      "status": "Recherche und Redaktion",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -561,7 +589,7 @@
     },
     {
       "block": 5,
-      "status": "Geplant",
+      "status": "Recherche und Redaktion",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -1370,15 +1398,15 @@
       ]
     }
   ],
-  "remainingPersons": 176,
+  "remainingPersons": 152,
   "remainingByGroup": {
     "1": 0,
     "2": 0,
-    "3": 78,
+    "3": 54,
     "4": 98
   },
   "appIntegration": "ausstehend",
   "publication": "nicht beauftragt",
   "continuousCommission": "Bis vollständigem Ausgleich weiterarbeiten; abgeschlossene Blöcke lokal committen",
-  "validatedThroughEntry": 32
+  "validatedThroughEntry": 56
 }

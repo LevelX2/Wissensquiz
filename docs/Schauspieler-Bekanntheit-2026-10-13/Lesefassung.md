@@ -30,7 +30,7 @@ Antwortzusätze:
 
 - Den gesuchten Kindermörder: Peter Lorre verkörpert Hans Beckert, den gesuchten Kindermörder.
 
-Gemeinsames Bestandsziel: K-CLA-20-01 (CLA-L-039).
+Gemeinsames Wissensziel: K-CLA-20-01 (CLA-L-039).
 
 Quellen: [1](https://www.criterion.com/films/558-m).
 
@@ -152,7 +152,7 @@ Antwortzusätze:
 
 - Plastischer Chirurg: Einstein ist der plastische Chirurg, der Jonathan ein neues Gesicht gegeben hat.
 
-Gemeinsames Bestandsziel: K-KOM-202609-P02-S-081 (KOM-202609-P02-S-081).
+Gemeinsames Wissensziel: K-KOM-202609-P02-S-081 (KOM-202609-P02-S-081).
 
 Quellen: [1](https://catalog.afi.com/Film/27697-ARSENIC-AND-OLD-LACE).
 
@@ -280,7 +280,7 @@ Antwortzusätze:
 
 - Er verteidigt einen des Mordes beschuldigten Mann.: Robarts übernimmt die Strafverteidigung von Leonard Vole.
 
-Gemeinsames Bestandsziel: K-CLA-11-01 (CLA-L-021).
+Gemeinsames Wissensziel: K-CLA-11-01 (CLA-L-021).
 
 Quellen: [1](https://catalog.afi.com/Film/52448-WITNESS-FOR-THE-PROSECUTION).
 
@@ -378,7 +378,7 @@ Antwortzusätze:
 
 - „Die Nacht des Jägers“: Laughton inszenierte „Die Nacht des Jägers“ mit Robert Mitchum.
 
-Gemeinsames Bestandsziel: K-FF-059-DIRECTOR (FF-059-DIRECTOR).
+Gemeinsames Wissensziel: K-FF-059-DIRECTOR (FF-059-DIRECTOR).
 
 Quellen: [1](https://www.bfi.org.uk/features/behind-scenes-night-hunter).
 
@@ -474,7 +474,7 @@ Antwortzusätze:
 
 - Eine Schauspielerin und ihr Theaterregisseur: Die Theaterarbeit einer Schauspielerin steht in „Opening Night“ im Mittelpunkt.
 
-Gemeinsames Bestandsziel: K-F240-20261006-059-L1 (F240-20261006-059-L1).
+Gemeinsames Wissensziel: K-F240-20261006-059-L1 (F240-20261006-059-L1).
 
 Quellen: [1](https://www.criterion.com/films/510-a-woman-under-the-influence), [2](https://www.criterion.com/films/957-opening-night).
 
@@ -1486,7 +1486,7 @@ Antwortzusätze:
 
 - Der Tramp: Chaplins berühmte Figur ist der Tramp.
 
-Gemeinsames Bestandsziel: K-CLA-16-01 (CLA-L-031).
+Gemeinsames Wissensziel: K-CLA-16-01 (CLA-L-031).
 
 Quellen: [1](https://www.charliechaplin.com/en/biography/articles/21-Chaplin-s-Life), [2](https://www.criterion.com/films/27526-modern-times).
 
@@ -1536,7 +1536,7 @@ Antwortzusätze:
 
 - Den Diktator Hynkel und einen jüdischen Friseur: Chaplin spielt Hynkel und einen jüdischen Friseur.
 
-Gemeinsames Bestandsziel: K-KOM-202609-P02-L-073 (KOM-202609-P02-L-073).
+Gemeinsames Wissensziel: K-KOM-202609-P02-L-073 (KOM-202609-P02-L-073).
 
 Quellen: [1](https://www.charliechaplin.com/en/films/7-The-Great-Dictator), [2](https://www.loc.gov/static/programs/national-film-preservation-board/documents/great_dictator.pdf).
 
@@ -1562,7 +1562,7 @@ Antwortzusätze:
 
 - Er verwendet eine erfundene Mischsprache.: Der Tramp singt in einer erfundenen Mischsprache und macht sich mit Gesten verständlich.
 
-Gemeinsames Bestandsziel: K-CLA-16-05 (CLA-S-031).
+Gemeinsames Wissensziel: K-CLA-16-05 (CLA-S-031).
 
 Quellen: [1](https://www.charliechaplin.com/en/articles/6-Filming-Modern-Times).
 
@@ -1714,7 +1714,7 @@ Antwortzusätze:
 
 - Als gesuchter Outlaw: Ringo ist ein gesuchter Outlaw, der zur Reisegesellschaft der Postkutsche stößt.
 
-Gemeinsames Bestandsziel: K-F240-20261006-222-M1 (F240-20261006-222-M1).
+Gemeinsames Wissensziel: K-F240-20261006-222-M1 (F240-20261006-222-M1).
 
 Quellen: [1](https://www.criterion.com/films/980-stagecoach), [2](https://www.johnwayne.com/about/john-waynes-career/).
 
@@ -1764,7 +1764,7 @@ Antwortzusätze:
 
 - Doniphon hat den tödlichen Schuss abgegeben.: Doniphon erschoss Liberty Valance; öffentlich gilt Stoddard als der Schütze.
 
-Gemeinsames Bestandsziel: K-WES-19-05 (WES-S-037).
+Gemeinsames Wissensziel: K-WES-19-05 (WES-S-037).
 
 Quellen: [1](https://www.bfi.org.uk/lists/10-best-john-ford-films), [2](https://www.bfi.org.uk/film/32f9c607-d7fe-5409-bdba-0b74c4acbf1a/the-man-who-shot-liberty-valance).
 
@@ -1790,7 +1790,7 @@ Antwortzusätze:
 
 - Er hat Matt als Sohn aufgezogen.: Dunson hat Matt nach dessen Verlust der Familie als Sohn aufgezogen.
 
-Gemeinsames Bestandsziel: K-F240-20261006-223-L2 (F240-20261006-223-L2).
+Gemeinsames Wissensziel: K-F240-20261006-223-L2 (F240-20261006-223-L2).
 
 Quellen: [1](https://www.criterion.com/current/posts/3176-red-river-the-longest-drive), [2](https://www.criterion.com/films/28046-red-river).
 
@@ -1918,7 +1918,7 @@ Antwortzusätze:
 
 - Architekt: Paul Kersey ist Architekt.
 
-Gemeinsames Bestandsziel: K-G100-20261008-ACTION-021-L1 (G100-20261008-ACTION-021-L1).
+Gemeinsames Wissensziel: K-G100-20261008-ACTION-021-L1 (G100-20261008-ACTION-021-L1).
 
 Quellen: [1](https://www.bfi.org.uk/news/michael-winner-1935-2013).
 
@@ -2142,7 +2142,7 @@ Antwortzusätze:
 
 - Roger Murtaugh: Riggs wird mit Roger Murtaugh, gespielt von Danny Glover, zusammengebracht.
 
-Gemeinsames Bestandsziel: K-ACT-04-murtaugh-partner (ACT-L-008).
+Gemeinsames Wissensziel: K-ACT-04-murtaugh-partner (ACT-L-008).
 
 Quellen: [1](https://catalog.afi.com/Film/68361-LETHAL-WEAPON).
 
@@ -2168,7 +2168,7 @@ Antwortzusätze:
 
 - Er hört die Gedanken von Frauen.: Nick kann hören, was Frauen denken.
 
-Gemeinsames Bestandsziel: K-ROM-202610-P01-L-009 (ROM-202610-P01-L-009).
+Gemeinsames Wissensziel: K-ROM-202610-P01-L-009 (ROM-202610-P01-L-009).
 
 Quellen: [1](https://en.wikipedia.org/wiki/What_Women_Want).
 
@@ -2218,7 +2218,7 @@ Antwortzusätze:
 
 - Regie und als einer der Produzenten des besten Films: Gibson gewann für Regie und gemeinsam mit Alan Ladd Jr. und Bruce Davey für den besten Film.
 
-Gemeinsames Bestandsziel: K-E20261007-A-020-M (E20261007-A-020-M).
+Gemeinsames Wissensziel: K-E20261007-A-020-M (E20261007-A-020-M).
 
 Quellen: [1](https://www.oscars.org/oscars/ceremonies/1996).
 
@@ -2544,7 +2544,7 @@ Antwortzusätze:
 
 - Er sieht bei sehr wenig Licht.: Riddick kann bei sehr wenig Licht sehen.
 
-Gemeinsames Bestandsziel: K-SF-202609-P02-L-034 (SF-202609-P02-L-034).
+Gemeinsames Wissensziel: K-SF-202609-P02-L-034 (SF-202609-P02-L-034).
 
 Quellen: [1](https://www.universalpicturesathome.com/movies/pitch-black), [2](https://en.wikipedia.org/wiki/Pitch_Black_(film)).
 
@@ -2696,7 +2696,7 @@ Antwortzusätze:
 
 - Frank Martin: Statham spielt Frank Martin.
 
-Gemeinsames Bestandsziel: K-ACT-202610-P01-L-003 (ACT-202610-P01-L-003).
+Gemeinsames Wissensziel: K-ACT-202610-P01-L-003 (ACT-202610-P01-L-003).
 
 Quellen: [1](https://www.20thcenturystudios.com/movies/the-transporter), [2](https://en.wikipedia.org/wiki/Jason_Statham).
 
@@ -2746,7 +2746,7 @@ Antwortzusätze:
 
 - Einen hohen Adrenalinspiegel: Chev muss seinen Adrenalinspiegel hochhalten.
 
-Gemeinsames Bestandsziel: K-G100-20261008-ACTION-020-L2 (G100-20261008-ACTION-020-L2).
+Gemeinsames Wissensziel: K-G100-20261008-ACTION-020-L2 (G100-20261008-ACTION-020-L2).
 
 Quellen: [1](https://en.wikipedia.org/wiki/Crank_(film)).
 
@@ -2970,7 +2970,7 @@ Antwortzusätze:
 
 - Micky Ward: Wahlberg spielt Micky Ward.
 
-Gemeinsames Bestandsziel: K-DRA-202610-P01-L-019 (DRA-202610-P01-L-019).
+Gemeinsames Wissensziel: K-DRA-202610-P01-L-019 (DRA-202610-P01-L-019).
 
 Quellen: [1](https://en.wikipedia.org/wiki/The_Fighter).
 
@@ -3134,7 +3134,7 @@ Colt trifft auf Tang Lung (Bruce Lee), der einem bedrohten Restaurant in Rom hil
 
 Merksatz: Colt ist Norris’ Gegnerrolle gegenüber Bruce Lees Tang Lung.
 
-Gemeinsames Bestandsziel: K-MAR-14-01 (MAR-L-027).
+Gemeinsames Wissensziel: K-MAR-14-01 (MAR-L-027).
 
 Quellen: [1](https://en.wikipedia.org/wiki/The_Way_of_the_Dragon), [2](https://apnews.com/article/b92804d43c6eee0d9e3fb31583d7f877).
 
@@ -3382,7 +3382,7 @@ De Funès spielte Harpagon und inszenierte gemeinsam mit Girault die Molière-Ad
 
 Merksatz: Harpagon vor der Kamera, gemeinsame Regie mit Girault dahinter.
 
-Gemeinsames Bestandsziel: K-FF-408-DIRECTOR (FF-408-DIRECTOR).
+Gemeinsames Wissensziel: K-FF-408-DIRECTOR (FF-408-DIRECTOR).
 
 Quellen: [1](https://www.cinematheque.fr/film/48655.html), [2](https://museedefunes.fr/carriere/).
 
@@ -3430,7 +3430,7 @@ Der Musiker gerät ohne eigene Geheimdienstausbildung in einen Konflikt zwischen
 
 Merksatz: Ein Geiger wird für einen Meisterspion gehalten.
 
-Gemeinsames Bestandsziel: K-KOM-202609-P02-L-070 (KOM-202609-P02-L-070).
+Gemeinsames Wissensziel: K-KOM-202609-P02-L-070 (KOM-202609-P02-L-070).
 
 Quellen: [1](https://www.pierre-richard.fr/biographie-de-pierre-richard/), [2](https://www.cinematheque.fr/media/dossier-de-presse-pierre-richard3.pdf).
 
@@ -3970,7 +3970,7 @@ Paul ist beruflich Chef eines Einrichtungsgeschäfts, lebt aber weiterhin in eng
 
 Merksatz: Paul Winkelmann ist Loriots spät selbstständig werdender Junggeselle.
 
-Gemeinsames Bestandsziel: K-KOM-22-01 (KOM-L-043).
+Gemeinsames Wissensziel: K-KOM-22-01 (KOM-L-043).
 
 Quellen: [1](https://www.filmportal.de/film/oedipussi_228f9ebf8ab84108b69c32f6f9aa6cec).
 
@@ -3992,7 +3992,7 @@ Der Einkaufsdirektor begründet die riesige Bestellung mit wirtschaftlichen Vort
 
 Merksatz: Lohses Vorratslogik verlässt die Firma und zieht zu Hause ein.
 
-Gemeinsames Bestandsziel: K-KOM-21-02 (KOM-L-042).
+Gemeinsames Wissensziel: K-KOM-21-02 (KOM-L-042).
 
 Quellen: [1](https://de.wikipedia.org/wiki/Pappa_ante_portas).
 
@@ -4764,7 +4764,7 @@ Der Lehrer Rath (Emil Jannings) sucht in einem Nachtlokal nach seinen Schülern 
 
 Merksatz: Lola Lola zieht den strengen Professor in die Welt des Nachtlokals.
 
-Gemeinsames Bestandsziel: K-CLA-21-01 (CLA-L-041).
+Gemeinsames Wissensziel: K-CLA-21-01 (CLA-L-041).
 
 Quellen: [1](https://www.filmportal.de/film/der-blaue-engel_2a14f3b84dac4a268d8ce385d0524686), [2](https://www.bfi.org.uk/lists/marlene-dietrich-10-essential-films).
 
@@ -4826,7 +4826,7 @@ Christine erscheint zunächst als mögliche Stütze der Verteidigung ihres Manne
 
 Merksatz: Christine Vole steht zwischen Ehemann und Gericht.
 
-Gemeinsames Bestandsziel: K-CLA-11-03 (CLA-M-021).
+Gemeinsames Wissensziel: K-CLA-11-03 (CLA-M-021).
 
 Quellen: [1](https://catalog.afi.com/Film/52448-WITNESS-FORTHEPROSECUTION).
 
@@ -4934,7 +4934,7 @@ Die Abgesandte soll drei bereits angereiste Kollegen wieder auf einen sachlichen
 
 Merksatz: Ein staatlicher Juwelenverkauf bringt Ninotschka nach Paris.
 
-Gemeinsames Bestandsziel: K-F240-20261006-171-L1 (F240-20261006-171-L1).
+Gemeinsames Wissensziel: K-F240-20261006-171-L1 (F240-20261006-171-L1).
 
 Quellen: [1](https://catalog.afi.com/Film/4333-NINOTCHKA).
 
@@ -4956,7 +4956,7 @@ Die Künstlerin wohnt während ihrer Auftritte im Berliner Grand Hotel und steck
 
 Merksatz: Garbos Grusinskaya bringt die Welt des Balletts ins Grand Hotel.
 
-Gemeinsames Bestandsziel: K-E20261007-F-253-L2 (E20261007-F-253-L2).
+Gemeinsames Wissensziel: K-E20261007-F-253-L2 (E20261007-F-253-L2).
 
 Quellen: [1](https://catalog.afi.com/Film/7720-GRAND-HOTEL).
 
@@ -5743,3 +5743,4289 @@ Berger gehörte 2003 zu den Gründungsmitgliedern der Akademie und übernahm ans
 Merksatz: Berger half der Deutschen Filmakademie von ihrer Gründung an beim Aufbau.
 
 Quellen: [1](https://www.deutsche-filmakademie.de/meldungen/senta-berger-erhaelt-den-ehrenpreis-fu%CC%88r-herausragende-verdienste-um-den-deutschen-film/).
+
+## Orson Welles · Bekanntheitsgruppe 3
+
+![Orson Welles (1937)](Portraets/033.jpg)
+
+Bild: 1937; Carl Van Vechten. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Orson_Welles_1937.jpg), [TMDB](https://www.themoviedb.org/person/40).
+
+### L1 · leicht
+
+In welchem Geschäft baut Charles Foster Kane (Orson Welles) in „Citizen Kane“ seine öffentliche Macht auf?
+
+- Im Eisenbahnbau
+
+- **Richtig: Im Zeitungsgeschäft**
+
+- Im Filmverleih
+
+- Im internationalen Waffenhandel
+
+Kane wird zum mächtigen Zeitungsverleger.
+
+Kane besitzt zunächst ein großes Vermögen und wendet sich dann einer Zeitung zu. Der Anspruch, für die einfachen Leser einzutreten, verbindet sich zunehmend mit persönlichem Machtstreben. Welles spielt diese Figur über verschiedene Lebensalter und führte zugleich Regie. Der Film lässt andere Menschen rückblickend von Kane erzählen, sodass sein öffentlicher Erfolg neben den beschädigten privaten Beziehungen sichtbar wird.
+
+Merksatz: Kanes Zeitungsmacht erklärt nicht sein privates Glück.
+
+Antwortzusätze:
+
+- Im Zeitungsgeschäft: Kane wird zum mächtigen Zeitungsverleger.
+
+Gemeinsames Wissensziel: K-CLA-02-03 (CLA-M-003).
+
+Quellen: [1](https://www.criterion.com/films/32250-citizen-kane).
+
+### L2 · leicht
+
+Womit verdient Harry Lime (Orson Welles) in „Der dritte Mann“ sein Geld auf dem Schwarzmarkt?
+
+- **Richtig: Mit gestrecktem Penicillin**
+
+- Mit gefälschten Pässen
+
+- Mit gestohlenen Gemälden
+
+- Mit geschmuggelten Diamanten
+
+Lime handelt mit gestrecktem Penicillin.
+
+Holly Martins (Joseph Cotten) kommt nach Wien und hält seinen alten Freund zunächst für ein Opfer. Die Nachforschungen legen jedoch ein Geschäft offen, dessen beschädigte Medikamente schwere Folgen für Kranke haben. Limes charmantes Auftreten steht damit gegen die Rücksichtslosigkeit seiner Taten. Für Holly wird die Freundschaft zu einer Entscheidung darüber, ob persönliche Loyalität die Opfer ausblenden darf.
+
+Merksatz: Hinter Limes Charme steht ein tödliches Medikamentengeschäft.
+
+Antwortzusätze:
+
+- Mit gestrecktem Penicillin: Lime handelt mit gestrecktem Penicillin.
+
+Gemeinsames Wissensziel: K-F240-20261006-205-M1 (F240-20261006-205-M1).
+
+Quellen: [1](https://www.criterion.com/films/236-the-third-man), [2](https://en.wikipedia.org/wiki/The_Third_Man).
+
+### M1 · mittel
+
+Welche Methode macht Hank Quinlan (Orson Welles) in „Im Zeichen des Bösen“ zu einem korrupten Ermittler?
+
+- Er tauscht Gefangene gegen Lösegeld aus.
+
+- Er verkauft Tatortfotos an Zeitungen.
+
+- **Richtig: Er fälscht Belastungsbeweise gegen Verdächtige.**
+
+- Er gibt sich selbst als Zeuge fremder Taten aus.
+
+Quinlan manipuliert Beweise, um seine Verdächtigen zu überführen.
+
+Nach einer Bombenexplosion an der Grenze ermittelt Quinlan gemeinsam mit dem mexikanischen Beamten Vargas (Charlton Heston). Vargas entdeckt Unstimmigkeiten bei gefundenem Sprengstoff und beginnt, frühere Fälle zu prüfen. Quinlan hält seine Überzeugung von der Schuld eines Menschen für wichtiger als rechtsstaatliche Beweise. Welles verbindet in der Figur berufliche Erfahrung mit Machtmissbrauch und einer Verteidigung der eigenen Unfehlbarkeit.
+
+Merksatz: Quinlan ersetzt Beweise durch seine Gewissheit.
+
+Antwortzusätze:
+
+- Er fälscht Belastungsbeweise gegen Verdächtige.: Quinlan manipuliert Beweise, um seine Verdächtigen zu überführen.
+
+Gemeinsames Wissensziel: K-E20261007-F-244-L2 (E20261007-F-244-L2).
+
+Quellen: [1](https://catalog.afi.com/Film/53683-TOUCH-OF-EVIL).
+
+### M2 · mittel
+
+Welchen Beruf hat Michael O’Hara (Orson Welles), bevor er in „Die Lady von Shanghai“ für die Bannisters arbeitet?
+
+- Privatdetektiv
+
+- Versicherungsvertreter
+
+- Strafverteidiger
+
+- **Richtig: Handelsmatrose**
+
+Michael O’Hara ist ein Handelsmatrose.
+
+Michael rettet Elsa Bannister (Rita Hayworth) in New York vor Angreifern. Ihr Mann Arthur (Everett Sloane) bietet ihm anschließend Arbeit auf seiner Yacht an. Während der Reise gerät Michael zwischen die Interessen des Ehepaars und von Arthurs Partner Grisby (Glenn Anders). Seine Hoffnung auf eine gemeinsame Zukunft mit Elsa macht ihn für einen Plan empfänglich, in dem eine bezahlte falsche Mordbeichte plötzlich gefährlich wird.
+
+Merksatz: Eine Arbeit auf der Yacht zieht Michael in das Spiel der Bannisters.
+
+Antwortzusätze:
+
+- Handelsmatrose: Michael O’Hara ist ein Handelsmatrose.
+
+Quellen: [1](https://catalog.afi.com/Film/25611-THE-LADY-FROM-SHANGHAI).
+
+### S1 · schwer
+
+Mit welchem Erzählmittel erzeugte Orson Welles’ Radiofassung von „Krieg der Welten“ den Eindruck eines aktuellen Geschehens?
+
+- Mit ausschließlich vorgelesenen Tagebucheinträgen
+
+- Mit einer durchgehend gesungenen Handlung
+
+- **Richtig: Mit fingierten Nachrichtenmeldungen und Augenzeugenberichten**
+
+- Mit einer Live-Debatte unter Astronomen
+
+Das Hörspiel verwendete fingierte Nachrichten und Augenzeugenberichte.
+
+Die Mercury-Theatre-Sendung von 1938 übertrug H. G. Wells’ Invasionsgeschichte in eine vertraute Radioform. Hinweise auf den fiktionalen Charakter waren vorhanden, trotzdem hielten manche Hörer die Meldungen für echt. Die Library of Congress unterscheidet diese Irrtümer von der später verbreiteten Vorstellung einer landesweiten Massenpanik. Die Inszenierung wirkte realistisch; das tatsächliche Ausmaß der Reaktion ist eine andere Frage.
+
+Merksatz: Die erfundenen Meldungen klangen wie vertraute Radionachrichten.
+
+Antwortzusätze:
+
+- Mit fingierten Nachrichtenmeldungen und Augenzeugenberichten: Das Hörspiel verwendete fingierte Nachrichten und Augenzeugenberichte.
+
+Quellen: [1](https://blogs.loc.gov/loc/2016/10/lcm-page-from-the-past-war-of-the-worlds/).
+
+### S2 · schwer
+
+Wie veränderte RKO Orson Welles’ „Der Glanz des Hauses Amberson“ vor dem Kinostart?
+
+- **Richtig: Das Studio kürzte stark und ergänzte ein freundlicheres Ende.**
+
+- Das Studio ließ alle Dialoge neu synchronisieren.
+
+- Das Studio ersetzte sämtliche Hauptdarsteller.
+
+- Das Studio machte aus dem Film eine Fernsehserie.
+
+RKO entfernte viel Material und fügte ein optimistischeres Ende hinzu.
+
+Welles erzählt den Niedergang einer reichen Familie, während technische und gesellschaftliche Veränderungen ihre frühere Stellung untergraben. RKO entfernte über vierzig Minuten und ersetzte den vorgesehenen Schluss. Das ausgeschiedene Material gilt als verloren. Die erhaltene Fassung zeigt deshalb zugleich Welles’ Gestaltung und einen einschneidenden Eingriff des Studios, der gerade die Schlusswirkung der Familiengeschichte verändert.
+
+Merksatz: Die Amberson-Fassung trägt die Spuren eines starken Studioeingriffs.
+
+Antwortzusätze:
+
+- Das Studio kürzte stark und ergänzte ein freundlicheres Ende.: RKO entfernte viel Material und fügte ein optimistischeres Ende hinzu.
+
+Quellen: [1](https://www.criterion.com/films/28711-the-magnificent-ambersons).
+
+### E1 · experte
+
+Wie begrenzt Orson Welles sein Wahrheitsversprechen zu Beginn von „F wie Fälschung“?
+
+- Es gilt nur für Aussagen über Gemälde.
+
+- Es gilt nur für seine eigenen Auftritte.
+
+- Es gilt nur für Interviews ohne Zwischenschnitt.
+
+- **Richtig: Es gilt nur für die erste Stunde.**
+
+Welles verspricht Wahrheit ausdrücklich nur für die nächste Stunde.
+
+Am Ende erzählt Welles eine Geschichte über Oja Kodar, Picasso und einen angeblichen Bildertausch. Erst danach legt er offen, dass diese Episode erfunden ist: Die versprochene Stunde war bereits abgelaufen. Die Täuschung beruht also auch darauf, dass das Publikum eine genau formulierte Zusicherung unbemerkt auf den ganzen Film ausdehnt. Seine Darbietung als vertrauenswürdiger Erzähler wird selbst zum Experiment.
+
+Merksatz: Eine zeitliche Einschränkung macht den Erzählertrick möglich.
+
+Antwortzusätze:
+
+- Es gilt nur für die erste Stunde.: Welles verspricht Wahrheit ausdrücklich nur für die nächste Stunde.
+
+Quellen: [1](https://en.wikipedia.org/wiki/F_for_Fake), [2](https://www.criterion.com/current/posts/364-f-for-fake-orson-welles-s-purloined-letter).
+
+### E2 · experte
+
+Wie gestaltet Orson Welles die Shakespeare-Vorlage für seinen Film „Falstaff“?
+
+- Er verfilmt ausschließlich „Hamlet“.
+
+- **Richtig: Er verbindet mehrere Stücke zu einer Geschichte um Falstaff.**
+
+- Er ersetzt Shakespeare durch einen modernen Kriminalroman.
+
+- Er übernimmt ein einzelnes Stück vollständig ohne Änderungen.
+
+Welles verbindet Material aus mehreren Shakespeare-Stücken und rückt Falstaff ins Zentrum.
+
+Falstaff ist in den Königsdramen meist eine Nebenfigur; Welles macht ihn zum tragikomischen Mittelpunkt. Material aus den beiden Heinrich-IV.-Stücken und weiteren Shakespeare-Werken wird dafür neu verbunden. Keith Baxter spielt den Prinzen Hal, dessen Weg zur Königswürde die Freundschaft verändert. Welles’ eigene Falstaff-Darstellung steht so im Zentrum einer Bearbeitung, die Textauswahl und Perspektive bewusst neu ordnet.
+
+Merksatz: Aus mehreren Königsdramen entsteht Falstaffs eigene Tragikomödie.
+
+Antwortzusätze:
+
+- Er verbindet mehrere Stücke zu einer Geschichte um Falstaff.: Welles verbindet Material aus mehreren Shakespeare-Stücken und rückt Falstaff ins Zentrum.
+
+Quellen: [1](https://www.criterion.com/films/28756-chimes-at-midnight).
+
+## James Cagney · Bekanntheitsgruppe 3
+
+![James Cagney (1930er-Jahre)](Portraets/034.jpg)
+
+Bild: 1930er-Jahre; Elmer Fryer. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:James_Cagney_by_Elmer_Fryer.jpg), [TMDB](https://www.themoviedb.org/person/5788).
+
+### L1 · leicht
+
+In welchem illegalen Geschäft steigt Tom Powers (James Cagney) in „Der öffentliche Feind“ während der Prohibition auf?
+
+- Im Diamantenschmuggel
+
+- Im Handel mit verbotenen Büchern
+
+- **Richtig: Im Alkoholgeschäft**
+
+- Im illegalen Kunstverleih
+
+Tom steigt in das Geschäft mit illegalem Alkohol ein.
+
+Tom und sein Freund Matt Doyle (Edward Woods) wachsen im armen Chicago auf. Während der Prohibition werden sie für eine Gang tätig, die Kneipen zur Abnahme ihres Biers zwingt. Der Aufstieg bringt Geld und Gewalt in ihr Leben, während Toms Bruder seinen Weg ablehnt. Cagneys Figur verbindet soziale Herkunft mit einem kriminellen Ehrgeiz, der schließlich auch die Familie erreicht.
+
+Merksatz: Toms Aufstieg lebt vom verbotenen Alkoholhandel.
+
+Antwortzusätze:
+
+- Im Alkoholgeschäft: Tom steigt in das Geschäft mit illegalem Alkohol ein.
+
+Quellen: [1](https://catalog.afi.com/Film/3860-THE-PUBLIC-ENEMY).
+
+### L2 · leicht
+
+Welchen amerikanischen Bühnenkünstler verkörpert James Cagney in „Yankee Doodle Dandy“?
+
+- Irving Berlin
+
+- Fred Astaire
+
+- Al Jolson
+
+- **Richtig: George M. Cohan**
+
+Cagney spielt George M. Cohan.
+
+Cohan schrieb Lieder und Theaterstücke und trat selbst auf. Der Film erzählt seinen Weg aus einer Vaudeville-Familie zum erfolgreichen Broadway-Künstler. Cagneys Gesang und Tanz stehen hier im Vordergrund einer patriotischen Biografie. Die Geschichte nimmt sich allerdings Freiheiten gegenüber Cohans wirklichem Leben; auch die dargestellte Liebesgeschichte ist stark bearbeitet. Die Rolle brachte Cagney seinen Schauspiel-Oscar.
+
+Merksatz: Cagney zeigt als Cohan seine musikalische Seite.
+
+Antwortzusätze:
+
+- George M. Cohan: Cagney spielt George M. Cohan.
+
+Quellen: [1](https://catalog.afi.com/Film/27569-YANKEE-DOODLE-DANDY), [2](https://www.afi.com/robert-detail/27569-YANKEEDOODLEDANDY/).
+
+### M1 · mittel
+
+Welche Nachricht löst Cody Jarretts (James Cagney) Zusammenbruch im Gefängnisspeisesaal von „Sprung in den Tod“ aus?
+
+- **Richtig: Seine Mutter ist gestorben.**
+
+- Seine Frau wurde freigesprochen.
+
+- Seine Bande hat sich der Polizei gestellt.
+
+- Sein Anwalt hat eine Begnadigung erreicht.
+
+Cody erfährt vom Tod seiner Mutter.
+
+Codys Mutter begleitet die Gang und stützt ihren Sohn auch bei seinen heftigen Kopfschmerzen. Ein eingeschleuster Ermittler versucht im Gefängnis, diese Vertrauensstellung teilweise zu übernehmen. Als Cody die Todesnachricht erhält, bricht seine Selbstkontrolle zusammen. Die enge Bindung ist deshalb keine beiläufige Familieninformation: Sie beeinflusst, wem er glaubt, und lenkt später auch seine Rache.
+
+Merksatz: Mit dem Tod der Mutter verliert Cody seinen wichtigsten Halt.
+
+Antwortzusätze:
+
+- Seine Mutter ist gestorben.: Cody erfährt vom Tod seiner Mutter.
+
+Quellen: [1](https://catalog.afi.com/Film/26173-WHITE-HEAT).
+
+### M2 · mittel
+
+Warum bittet Pater Jerry (Pat O’Brien) Rocky Sullivan (James Cagney) in „Chicago – Engel mit schmutzigen Gesichtern“, bei der Hinrichtung feige zu erscheinen?
+
+- Damit die Presse die Hinrichtung nicht erwähnt
+
+- **Richtig: Damit die Jungen ihn nicht weiter als Helden verehren**
+
+- Damit sein Anwalt einen neuen Prozess verlangen kann
+
+- Damit seine Gang ihn aus dem Gefängnis befreit
+
+Die Jungen sollen ihr bewundertes Gangstervorbild verlieren.
+
+Jerry und Rocky kennen sich seit ihrer Jugend, haben aber gegensätzliche Wege eingeschlagen. Als Priester versucht Jerry, gefährdete Jungen zu schützen, die Rockys Auftreten bewundern. Vor dessen Hinrichtung bittet er den Freund deshalb um ein letztes Opfer seines Rufs. Der Film zeigt Rockys Todesangst, lässt aber offen, wie weit sie gespielt ist. Entscheidend für Jerrys Bitte ist die Wirkung auf die Jungen.
+
+Merksatz: Jerry will den Gangster als Vorbild entzaubern.
+
+Antwortzusätze:
+
+- Damit die Jungen ihn nicht weiter als Helden verehren: Die Jungen sollen ihr bewundertes Gangstervorbild verlieren.
+
+Quellen: [1](https://catalog.afi.com/Film/4049-ANGELS-WITH-DIRTY-FACES).
+
+### S1 · schwer
+
+Wie prägt Martin Snyder (James Cagney) die Laufbahn von Ruth Etting (Doris Day) in „Nachtclub-Affären“?
+
+- Er ist ihr zurückgezogener Gesangslehrer.
+
+- Er veröffentlicht als Kritiker ihre ersten Rezensionen.
+
+- **Richtig: Er fördert ihre Karriere und verlangt zugleich Kontrolle über ihr Leben.**
+
+- Er leitet als Richter ihren ersten Vertragsprozess.
+
+Snyder fördert Ruths Aufstieg, verbindet seine Hilfe aber mit Besitzansprüchen.
+
+Snyder setzt seine Beziehungen ein, um Ruth Auftritte und später große Engagements zu verschaffen. Seine Unterstützung wird zunehmend zu einer Abhängigkeit, aus der sie sich lösen will. Ihre Nähe zum Pianisten Johnny Alderman (Cameron Mitchell) verschärft seine Eifersucht. Cagney spielt einen Förderer, dessen Geschäftssinn und persönliche Kränkung ineinandergreifen, sodass der berufliche Aufstieg der Sängerin zugleich einen Kampf um Selbstbestimmung auslöst.
+
+Merksatz: Snyders Förderung wird zum Anspruch auf Ruths Leben.
+
+Antwortzusätze:
+
+- Er fördert ihre Karriere und verlangt zugleich Kontrolle über ihr Leben.: Snyder fördert Ruths Aufstieg, verbindet seine Hilfe aber mit Besitzansprüchen.
+
+Quellen: [1](https://catalog.afi.com/Film/51571-LOVE-ME-OR-LEAVE-ME).
+
+### S2 · schwer
+
+Für welches Unternehmen versucht C. R. MacNamara (James Cagney) in „Eins, zwei, drei“ das Geschäft nach Osteuropa auszuweiten?
+
+- Ford
+
+- IBM
+
+- Kodak
+
+- **Richtig: Coca-Cola**
+
+MacNamara arbeitet für Coca-Cola.
+
+Der Manager in West-Berlin hofft auf eine Beförderung. Statt des großen Ostgeschäfts erhält er die Aufgabe, die Tochter seines Chefs zu betreuen. Ihre heimliche Ehe mit dem Kommunisten Otto Piffl (Horst Buchholz) bedroht seine Pläne. MacNamara versucht daraufhin, Otto in einen vorzeigbaren kapitalistischen Schwiegersohn umzubauen. Cagneys atemloses Spiel trägt eine Komödie, in der politische Überzeugungen zum Material geschäftlicher Improvisation werden.
+
+Merksatz: MacNamaras Firmenkarriere gerät durch eine private Ost-West-Verbindung in Gefahr.
+
+Antwortzusätze:
+
+- Coca-Cola: MacNamara arbeitet für Coca-Cola.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/22928).
+
+### E1 · experte
+
+Wie reagiert Chester Kent (James Cagney) in „Parade im Rampenlicht“ auf die Konkurrenz des Tonfilms zu seinen Bühnenshows?
+
+- **Richtig: Er produziert kurze Live-Shows für das Kinovorprogramm.**
+
+- Er verkauft ausschließlich stumme Filmkopien.
+
+- Er gründet ein Studio für Hörspielaufnahmen.
+
+- Er verlegt sein Geschäft vollständig auf Operntourneen.
+
+Kent produziert Bühnen-Prologe, die vor Kinofilmen aufgeführt werden.
+
+Die neue Technik zerstört Kents bisheriges Geschäft nicht einfach, sondern zwingt ihn zu einer anderen Organisation seiner Theaterarbeit. Er entwickelt kurze Programme für Kinos und muss dabei ständig neue Einfälle liefern. Der entscheidende Auftrag verlangt mehrere Shows in kürzester Zeit. Als ein Darsteller ausfällt, tritt Kent selbst auf; Cagneys Tanzleistung verbindet dadurch die Produzentenfigur mit dem sichtbaren Können des Stars.
+
+Merksatz: Kent macht aus der Konkurrenz des Kinos ein neues Bühnengeschäft.
+
+Antwortzusätze:
+
+- Er produziert kurze Live-Shows für das Kinovorprogramm.: Kent produziert Bühnen-Prologe, die vor Kinofilmen aufgeführt werden.
+
+Gemeinsames Wissensziel: K-G100-20261008-MUSIK-007-L1 (G100-20261008-MUSIK-007-L1).
+
+Quellen: [1](https://catalog.afi.com/Film/3881-FOOTLIGHT-PARADE).
+
+### E2 · experte
+
+Welche Bühnenerfahrung brachte James Cagney bereits vor seinen bekannten Gangsterfilmen mit?
+
+- Eine Laufbahn als Operntenor
+
+- **Richtig: Arbeit als Tänzer und Komiker im Vaudeville**
+
+- Jahrelange Auftritte als klassischer Ballettsolist
+
+- Eine Karriere als Konzertpianist
+
+Cagney hatte als Tänzer und Komiker im Vaudeville und am Broadway gearbeitet.
+
+Cagney tourte lange auf Bühnen, bevor Hollywood ihn zum Gangsterstar machte. Gemeinsam mit seiner Frau Frances Vernon trat er auch mit komischen und musikalischen Nummern auf. Seine späteren Musicalrollen waren daher kein voraussetzungsloser Ausflug aus dem Kriminalfilm. Sie griffen auf eine berufliche Ausbildung durch Auftritte zurück, in der Rhythmus, Bewegung und das unmittelbare Timing vor Publikum wichtig waren.
+
+Merksatz: Vor dem Leinwandgangster stand der Bühnentänzer Cagney.
+
+Antwortzusätze:
+
+- Arbeit als Tänzer und Komiker im Vaudeville: Cagney hatte als Tänzer und Komiker im Vaudeville und am Broadway gearbeitet.
+
+Quellen: [1](https://en.wikipedia.org/wiki/James_Cagney).
+
+## Edward G. Robinson · Bekanntheitsgruppe 3
+
+![Edward G. Robinson (1930er-Jahre)](Portraets/035.jpg)
+
+Bild: 1930er-Jahre; Elmer Fryer. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Edward_G._Robinson_by_Elmer_Fryer.jpg), [TMDB](https://www.themoviedb.org/person/13566).
+
+### L1 · leicht
+
+Welchen Figurentyp verkörpert Edward G. Robinson als Rico in „Der kleine Cäsar“?
+
+- **Richtig: Einen Gangster mit Aufstiegsambitionen**
+
+- Einen idealistischen Staatsanwalt
+
+- Einen erfolglosen Opernsänger
+
+- Einen pensionierten Polizeichef
+
+Rico ist ein ehrgeiziger Gangster.
+
+Rico will sich in der Unterwelt einen Namen machen und drängt auf eine führende Stellung. Sein Freund Joe Massara (Douglas Fairbanks Jr.) möchte dagegen Tänzer werden und das kriminelle Milieu verlassen. Die unterschiedlichen Ziele belasten die Freundschaft. Robinsons energischer Auftritt als Rico prägte einen Typ des frühen Tonfilmgangsters, dessen Machtstreben jede sichere Bindung gefährdet.
+
+Merksatz: Rico will Macht; Joe möchte der Gang entkommen.
+
+Antwortzusätze:
+
+- Einen Gangster mit Aufstiegsambitionen: Rico ist ein ehrgeiziger Gangster.
+
+Quellen: [1](https://catalog.afi.com/Film/1125-LITTLE-CAESAR).
+
+### L2 · leicht
+
+Welche Arbeit übernimmt Barton Keyes (Edward G. Robinson) in „Frau ohne Gewissen“?
+
+- Er verkauft Gebrauchtwagen.
+
+- **Richtig: Er untersucht Versicherungsansprüche.**
+
+- Er betreibt eine Privatbank.
+
+- Er verteidigt Angeklagte vor Gericht.
+
+Keyes prüft Versicherungsansprüche und spürt Betrugsfälle auf.
+
+Walter Neff (Fred MacMurray) verkauft Versicherungen, während Keyes verdächtige Schadensfälle untersucht. Neff glaubt, die Arbeitsweise seines Freundes und Vorgesetzten für einen perfekten Mordplan nutzen zu können. Gerade die Nähe zu Keyes macht die Täuschung aber persönlich belastet. Robinson spielt hier den scharfsinnigen Gegenpol zum Täter, dessen berufliches Können den Plan zunehmend bedroht.
+
+Merksatz: Keyes erkennt Unstimmigkeiten hinter scheinbar plausiblen Schadensfällen.
+
+Antwortzusätze:
+
+- Er untersucht Versicherungsansprüche.: Keyes prüft Versicherungsansprüche und spürt Betrugsfälle auf.
+
+Quellen: [1](https://catalog.afi.com/Film/2201-DOUBLE-INDEMNITY).
+
+### M1 · mittel
+
+Welche Enthüllung verändert am Ende von „Gefährliche Begegnung“ den Blick auf Richard Wanleys (Edward G. Robinson) Mordgeschichte?
+
+- Er ist ein verdeckter Ermittler.
+
+- Sein Freund hat alle Taten begangen.
+
+- **Richtig: Die Ereignisse waren ein Traum.**
+
+- Seine Frau hat ihn erpresst.
+
+Die Mordgeschichte erweist sich als Traum des Professors.
+
+Wanley bewundert das Porträt einer Frau und scheint anschließend das Modell Alice Reed (Joan Bennett) zu treffen. Aus der Begegnung entwickelt sich eine Geschichte von Tötung, Vertuschung und Erpressung. Erst das Erwachen im Club ordnet diese Ereignisse neu ein. Vertraute Gesichter tauchen in der Wirklichkeit wieder auf; der sonst ordentliche Professor hat seine Wunschvorstellung als bedrohliches Abenteuer durchlebt.
+
+Merksatz: Wanleys Abenteuer kippt am Schluss in eine Traumdeutung.
+
+Antwortzusätze:
+
+- Die Ereignisse waren ein Traum.: Die Mordgeschichte erweist sich als Traum des Professors.
+
+Quellen: [1](https://catalog.afi.com/Film/24256-THE-WOMAN-IN-THE-WINDOW).
+
+### M2 · mittel
+
+Was hält Johnny Rocco (Edward G. Robinson) und seine Gefangenen in „Gangster in Key Largo“ vorübergehend im Hotel fest?
+
+- Eine zerstörte Eisenbahnbrücke
+
+- Eine Quarantäne wegen einer Seuche
+
+- Eine militärische Ausgangssperre
+
+- **Richtig: Ein Hurrikan**
+
+Ein Hurrikan schneidet das Hotel von der Außenwelt ab.
+
+Rocco und seine Männer beherrschen das Hotel, in dem Kriegsveteran Frank McCloud (Humphrey Bogart) die Familie eines gefallenen Kameraden besucht. Der Sturm verdichtet die Bedrohung auf einen abgeschlossenen Raum. Rocco demonstriert Macht über Menschen, fürchtet aber selbst die Naturgewalt. Nach dem Unwetter ist sein Fluchtboot verschwunden, und er zwingt Frank zu einem neuen Transportplan.
+
+Merksatz: Der Sturm schließt Täter und Gefangene gemeinsam ein.
+
+Antwortzusätze:
+
+- Ein Hurrikan: Ein Hurrikan schneidet das Hotel von der Außenwelt ab.
+
+Quellen: [1](https://catalog.afi.com/Film/25605-KEY-LARGO).
+
+### S1 · schwer
+
+Welche Stellung nimmt Dathan (Edward G. Robinson) in „Die zehn Gebote“ gegenüber den versklavten Hebräern ein?
+
+- **Richtig: Er arbeitet als hebräischer Aufseher für die Unterdrücker.**
+
+- Er ist ein ägyptischer Prinz ohne Kontakt zu ihnen.
+
+- Er ist Moses’ uneingeschränkt loyaler Heerführer.
+
+- Er lebt als Einsiedler außerhalb Ägyptens.
+
+Dathan ist ein Hebräer, der als Aufseher auf Seiten der Unterdrücker arbeitet.
+
+Dathan hilft dabei, die versklavten Arbeiter zu kontrollieren, und verfolgt eigene Vorteile. Auch nach dem Auszug widersetzt er sich Moses (Charlton Heston). Als dessen Rückkehr vom Berg ausbleibt, drängt Dathan die Menschen zur Rückkehr nach Ägypten und zum Götzenkult. Robinson spielt so einen Gegner innerhalb der Gemeinschaft, der Unsicherheit ausnutzt und Freiheit gegen vermeintliche Versorgungssicherheit ausspielt.
+
+Merksatz: Dathan bekämpft Moses aus den Reihen der Hebräer.
+
+Antwortzusätze:
+
+- Er arbeitet als hebräischer Aufseher für die Unterdrücker.: Dathan ist ein Hebräer, der als Aufseher auf Seiten der Unterdrücker arbeitet.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/52028).
+
+### S2 · schwer
+
+Unter wessen Namen werden die Bilder von Christopher Cross (Edward G. Robinson) in „Straße der Versuchung“ erfolgreich verkauft?
+
+- Unter dem Namen seiner Frau Adele
+
+- **Richtig: Unter dem Namen Kitty March**
+
+- Unter dem Namen Johnny Prince
+
+- Unter seinem eigenen Namen
+
+Kitty March wird als Schöpferin von Chris’ Bildern ausgegeben.
+
+Chris arbeitet als Kassierer und malt in seiner Freizeit. Kitty (Joan Bennett) und ihr Freund Johnny (Dan Duryea) nutzen sein Vertrauen aus und bringen die Bilder auf den Markt. Der Erfolg entsteht unter Kittys Namen, während Chris weiterhin für einen unbeachteten Amateur gehalten wird. Die Täuschung betrifft deshalb nicht nur Geld und Liebe, sondern auch die Anerkennung seiner tatsächlichen schöpferischen Arbeit.
+
+Merksatz: Chris malt, Kitty erhält den Künstlernamen auf den Bildern.
+
+Antwortzusätze:
+
+- Unter dem Namen Kitty March: Kitty March wird als Schöpferin von Chris’ Bildern ausgegeben.
+
+Quellen: [1](https://catalog.afi.com/Film/24568-SCARLET-STREET).
+
+### E1 · experte
+
+Welche besondere Funktion erfüllt Sol Roth (Edward G. Robinson) für den Ermittler Thorn in „Soylent Green“?
+
+- Er bewacht als Soldat die Lebensmittelverteilung.
+
+- Er stellt als Chemiker neue Rationen her.
+
+- **Richtig: Er recherchiert als sogenannter Book in schriftlichen Quellen.**
+
+- Er leitet als Richter die Mordprozesse.
+
+Sol ist ein Book, ein erfahrener Rechercheur für die Polizei.
+
+Thorn (Charlton Heston) teilt seine Wohnung mit dem älteren Sol, dessen Wissen an eine frühere Welt anschließt. Bei der Mordermittlung arbeitet Sol mit anderen Rechercheuren und entdeckt eine erschütternde Wahrheit über die Nahrungsmittelproduktion. Seine Kenntnisse stehen gegen die verarmte Gegenwart der Stadt. Die Figur macht Erinnerung und sorgfältige Nachforschung zu einem Gegenpol der industriell verwalteten Versorgung.
+
+Merksatz: Sol bewahrt Wissen, das die Gegenwart verheimlichen möchte.
+
+Antwortzusätze:
+
+- Er recherchiert als sogenannter Book in schriftlichen Quellen.: Sol ist ein Book, ein erfahrener Rechercheur für die Polizei.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Soylent_Green).
+
+### E2 · experte
+
+Welche Sammlung von Edward G. Robinson wurde 1953 mit einer Auswahl im Museum of Modern Art gezeigt?
+
+- Seine historischen Rennwagen
+
+- Seine Filmwaffen und Kostüme
+
+- Seine seltenen Musikinstrumente
+
+- **Richtig: Seine Gemäldesammlung**
+
+Das MoMA zeigte Gemälde aus Robinsons privater Kunstsammlung.
+
+Ein zeitgenössischer Museumsplan kündigt vierzig ausgewählte Werke aus Robinsons Sammlung an. Begleitende Galeriegespräche behandelten unter anderem französische Kunst des 19. Jahrhunderts. Der Schauspieler war damit auch als ernsthafter Sammler sichtbar. Diese Tätigkeit erweitert den Blick auf eine Person, die im Kino häufig auf die energischen Gangsterrollen reduziert wird, außerhalb der Leinwand aber intensiv mit bildender Kunst verbunden war.
+
+Merksatz: Robinsons Kunstsammlung fand Eingang ins MoMA-Ausstellungsprogramm.
+
+Antwortzusätze:
+
+- Seine Gemäldesammlung: Das MoMA zeigte Gemälde aus Robinsons privater Kunstsammlung.
+
+Quellen: [1](https://www.moma.org/docs/press_archives/1700/releases/MOMA_1953_0030_29.pdf), [2](https://en.wikipedia.org/wiki/Edward_G._Robinson).
+
+## Spencer Tracy · Bekanntheitsgruppe 3
+
+![Spencer Tracy (um 1935)](Portraets/036.jpg)
+
+Bild: um 1935; Unknown author MGM studio publicity photographer. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Spencer_Tracy_(cropped_bw).jpg), [TMDB](https://www.themoviedb.org/person/12147).
+
+### L1 · leicht
+
+Welche Aufgabe verfolgt Pater Flanagan (Spencer Tracy) in „Teufelskerle“?
+
+- Er bildet professionelle Boxer aus.
+
+- Er führt eine Detektei für Vermisstenfälle.
+
+- **Richtig: Er schafft ein Zuhause für gefährdete Jungen.**
+
+- Er organisiert eine Weltreise für Schüler.
+
+Flanagan baut ein Zuhause für verlassene und gefährdete Jungen auf.
+
+Flanagan glaubt, dass die Jungen nicht auf ihre bisherigen Verfehlungen festgelegt werden dürfen. Für sein Heim muss er Geld und Vertrauen gewinnen. Whitey Marsh (Mickey Rooney) stellt die Gemeinschaft mit seinem rebellischen Verhalten auf die Probe. Tracy spielt den realen Gründer von Boys Town; der Film verbindet seine Überzeugung mit der konkreten Arbeit, einem jungen Menschen weitere Chancen zu eröffnen.
+
+Merksatz: Flanagan will Chancen schaffen, statt Jungen aufzugeben.
+
+Antwortzusätze:
+
+- Er schafft ein Zuhause für gefährdete Jungen.: Flanagan baut ein Zuhause für verlassene und gefährdete Jungen auf.
+
+Quellen: [1](https://catalog.afi.com/Film/3559-BOYS-TOWN).
+
+### L2 · leicht
+
+Was stellt Matt Draytons (Spencer Tracy) liberales Selbstbild in „Rat mal, wer zum Essen kommt“ auf die Probe?
+
+- Seine Tochter will eine Schauspielschule besuchen.
+
+- Seine Tochter lehnt ein Familienunternehmen ab.
+
+- Seine Tochter möchte ins Ausland auswandern.
+
+- **Richtig: Seine weiße Tochter will einen schwarzen Arzt heiraten.**
+
+Die geplante Ehe seiner Tochter mit John Prentice fordert Matt Draytons Selbstbild heraus.
+
+Joanna (Katharine Houghton) bringt den Arzt John Prentice (Sidney Poitier) aus dem Urlaub mit. Ihre Eltern vertreten Gleichberechtigung, reagieren aber auf die konkrete Verbindung zunächst anders, als ihre Grundsätze erwarten ließen. Tracy und Katharine Hepburn spielen das Elternpaar. Der Konflikt entwickelt sich aus der Frage, wie Überzeugungen standhalten, sobald die eigene Familie und befürchtete gesellschaftliche Widerstände betroffen sind.
+
+Merksatz: Matts Grundsätze müssen sich in der eigenen Familie bewähren.
+
+Antwortzusätze:
+
+- Seine weiße Tochter will einen schwarzen Arzt heiraten.: Die geplante Ehe seiner Tochter mit John Prentice fordert Matt Draytons Selbstbild heraus.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Guess_Who%27s_Coming_to_Dinner), [2](https://www.afi.com/news/afi-movie-club-guess-whos-coming-to-dinner/).
+
+### M1 · mittel
+
+Welchen Grundsatz verteidigt Ankläger Adam Bonner (Spencer Tracy) im Gerichtsstreit von „Ehekrieg“ gegen Amandas Argumentation?
+
+- **Richtig: Eifersucht rechtfertigt keinen versuchten Mord.**
+
+- Ein Geständnis ersetzt grundsätzlich alle Zeugen.
+
+- Eine verheiratete Frau darf keine Anwältin wählen.
+
+- Ein Ehebruch muss vor einem Bundesgericht verhandelt werden.
+
+Adam besteht darauf, dass Eifersucht einen versuchten Mord nicht entschuldigt.
+
+Doris Attinger (Judy Holliday) hat auf ihren untreuen Mann geschossen. Amanda Bonner (Katharine Hepburn) kritisiert, dass Männer und Frauen bei Untreue und Eifersucht unterschiedlich beurteilt werden. Adam bestreitet dagegen, dass diese Ungleichheit die konkrete Gewalttat rechtfertigt. Weil die beiden Juristen verheiratet sind, gelangt der Konflikt zwischen Gleichberechtigung und strafrechtlicher Verantwortung auch in ihren privaten Alltag.
+
+Merksatz: Adam trennt berechtigte Gleichheitsforderungen von der Rechtfertigung einer Gewalttat.
+
+Antwortzusätze:
+
+- Eifersucht rechtfertigt keinen versuchten Mord.: Adam besteht darauf, dass Eifersucht einen versuchten Mord nicht entschuldigt.
+
+Quellen: [1](https://www.criterion.com/current/posts/786-adam-s-rib), [2](https://en.wikipedia.org/wiki/Adam%27s_Rib).
+
+### M2 · mittel
+
+Warum sucht John Macreedy (Spencer Tracy) in „Stadt in Angst“ den japanischstämmigen Farmer Komoko auf?
+
+- Er soll dessen Land für eine Bahngesellschaft kaufen.
+
+- **Richtig: Er will die Auszeichnung von Komokos gefallenen Sohn überbringen.**
+
+- Er soll Komoko für einen Raubüberfall festnehmen.
+
+- Er will mit ihm eine neue Farm gründen.
+
+Macreedy möchte die Auszeichnung des Sohnes überbringen, der ihm im Krieg das Leben gerettet hat.
+
+Macreedys Ankunft löst in Black Rock ungewöhnliche Feindseligkeit aus. Die Bewohner verbergen, dass Komoko Opfer rassistischer Gewalt wurde. Der Besucher sucht den Vater eines Kameraden, der in Italien bei seiner Rettung starb. Der Dank an den Sohn führt ihn dadurch zur verdrängten Schuld der Stadt. Tracys ruhiger Auftritt steht gegen eine Gemeinschaft, deren Zusammenhalt auf Einschüchterung und Schweigen beruht.
+
+Merksatz: Macreedys Dank legt die verschwiegene Schuld der Stadt frei.
+
+Antwortzusätze:
+
+- Er will die Auszeichnung von Komokos gefallenen Sohn überbringen.: Macreedy möchte die Auszeichnung des Sohnes überbringen, der ihm im Krieg das Leben gerettet hat.
+
+Quellen: [1](https://catalog.afi.com/Film/53482-BAD-DAYATBLACKROCK).
+
+### S1 · schwer
+
+Was verteidigt Henry Drummond (Spencer Tracy) in „Wer den Wind sät“ im Prozess gegen einen Lehrer?
+
+- Das Recht auf privaten Waffenbesitz
+
+- Die Abschaffung aller Schulprüfungen
+
+- **Richtig: Die Freiheit, die Evolutionstheorie zu unterrichten**
+
+- Das Verbot naturwissenschaftlicher Lehrbücher
+
+Drummond verteidigt den Lehrer und die Freiheit, Evolution zu lehren.
+
+Bert Cates (Dick York) steht vor Gericht, weil sein Unterricht einem religiös begründeten Gesetz widerspricht. Drummond trifft auf den populären Ankläger Brady (Fredric March). Die Auseinandersetzung behandelt nicht allein eine einzelne Schulstunde, sondern das Recht, Überlieferungen zu prüfen und selbst zu denken. Der Film ist eine dramatische Bearbeitung des Scopes-Prozesses; Namen und verschiedene Vorgänge wurden für das Stück und den Film verändert.
+
+Merksatz: Drummond verteidigt Denken gegen ein gesetzlich verordnetes Lehrverbot.
+
+Antwortzusätze:
+
+- Die Freiheit, die Evolutionstheorie zu unterrichten: Drummond verteidigt den Lehrer und die Freiheit, Evolution zu lehren.
+
+Quellen: [1](https://catalog.afi.com/Film/53192-INHERIT-THE-WIND).
+
+### S2 · schwer
+
+Welche Funktion übernimmt Dan Haywood (Spencer Tracy) in „Das Urteil von Nürnberg“?
+
+- Er verteidigt einen der Angeklagten.
+
+- Er sagt als ehemaliger Lagerhäftling aus.
+
+- Er führt als Offizier die Anklage.
+
+- **Richtig: Er leitet als Richter den Prozess.**
+
+Haywood ist der vorsitzende Richter.
+
+Verhandelt wird die Verantwortung deutscher Richter, die nationalsozialistisches Unrecht ermöglicht haben. Haywood muss juristische Schuld bewerten, während zugleich politische Interessen des beginnenden Kalten Krieges auf ein milderes Vorgehen drängen. Ernst Janning (Burt Lancaster) gesteht schließlich seine Mitverantwortung. Tracy gestaltet den Vorsitzenden als einen Mann, dessen ruhige Prüfung den moralischen Ernst des Verfahrens trägt.
+
+Merksatz: Haywood urteilt über die Verantwortung von Richtern im Unrechtsstaat.
+
+Antwortzusätze:
+
+- Er leitet als Richter den Prozess.: Haywood ist der vorsitzende Richter.
+
+Gemeinsames Wissensziel: K-E20261007-F-258-L2 (E20261007-F-258-L2).
+
+Quellen: [1](https://catalog.afi.com/Film/23848-JUDGMENT-AT-NUREMBERG).
+
+### E1 · experte
+
+Für welche beiden Filme gewann Spencer Tracy bei zwei aufeinanderfolgenden Oscarverleihungen den Hauptdarstellerpreis?
+
+- **Richtig: „Manuel“ und „Teufelskerle“**
+
+- „Ehekrieg“ und „Stadt in Angst“
+
+- „Wer den Wind sät“ und „Das Urteil von Nürnberg“
+
+- „Der alte Mann und das Meer“ und „Rat mal, wer zum Essen kommt“
+
+Tracy gewann für „Manuel“ und „Teufelskerle“, bei den Verleihungen 1938 und 1939.
+
+In „Manuel“ spielt Tracy einen Fischer, der einen verwöhnten Jungen auf See betreut; in „Teufelskerle“ den Priester Flanagan, der gefährdeten Jungen ein Zuhause schafft. Die Oscars ehren zwei verschiedene Figuren, deren Autorität sich im Umgang mit jungen Menschen zeigt. Die Filmjahre 1937 und 1938 sind von den jeweils folgenden Verleihungsjahren zu unterscheiden.
+
+Merksatz: Zwei aufeinanderfolgende Oscars: Fischer Manuel und Pater Flanagan.
+
+Antwortzusätze:
+
+- „Manuel“ und „Teufelskerle“: Tracy gewann für „Manuel“ und „Teufelskerle“, bei den Verleihungen 1938 und 1939.
+
+Quellen: [1](https://www.oscars.org/oscars/ceremonies/1938), [2](https://www.oscars.org/oscars/ceremonies/1939), [3](https://en.wikipedia.org/wiki/Captains_Courageous_(1937_film)).
+
+### E2 · experte
+
+Wie ermöglichten Katharine Hepburn und Stanley Kramer Spencer Tracys Mitwirkung in „Rat mal, wer zum Essen kommt“, obwohl er nicht versichert werden konnte?
+
+- Sie drehten seine Rolle ausschließlich mit Archivaufnahmen.
+
+- **Richtig: Sie hinterlegten ihre eigenen Gagen als finanzielle Absicherung.**
+
+- Sie verlegten die gesamte Produktion in eine Klinik.
+
+- Sie ersetzten seine Dialoge durch einen Erzähler.
+
+Hepburn und Kramer stellten ihre Gagen als Absicherung zur Verfügung.
+
+Tracys schwere gesundheitliche Probleme gefährdeten die Produktion, weil eine Versicherung seinen möglichen Ausfall nicht übernehmen wollte. Hepburn und Kramer trugen deshalb selbst einen Teil des finanziellen Risikos. Tracy vollendete die Arbeit kurz vor seinem Tod; der Film wurde seine letzte und die neunte gemeinsame Leinwandarbeit mit Hepburn. Hinter der sichtbaren Familiengeschichte stand damit eine ungewöhnliche persönliche Produktionsentscheidung.
+
+Merksatz: Eigene Gagen sicherten Tracys letzte Filmrolle ab.
+
+Antwortzusätze:
+
+- Sie hinterlegten ihre eigenen Gagen als finanzielle Absicherung.: Hepburn und Kramer stellten ihre Gagen als Absicherung zur Verfügung.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Guess_Who%27s_Coming_to_Dinner).
+
+## Henry Fonda · Bekanntheitsgruppe 3
+
+![Henry Fonda (1940)](Portraets/037.jpg)
+
+Bild: 1940; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Henry_Fonda,_1940.jpg), [TMDB](https://www.themoviedb.org/person/4958).
+
+### L1 · leicht
+
+Was verlangt der von Henry Fonda gespielte Geschworene zu Beginn der Beratung in „Die zwölf Geschworenen“?
+
+- Er verlangt eine neue Vernehmung im Gerichtssaal.
+
+- **Richtig: Er möchte vor einer Entscheidung über den Fall sprechen.**
+
+- Er beantragt einen Austausch der Geschworenen.
+
+- Er will zunächst die Urteilsberatung vertagen.
+
+Er will die Beweise besprechen, bevor ein Schuldspruch gefällt wird.
+
+Die anderen Geschworenen halten den Mordfall zunächst weitgehend für entschieden. Fonda spielt den Mann, der sich einer schnellen Verurteilung widersetzt, ohne schon die Unschuld des Angeklagten beweisen zu können. Im gemeinsamen Raum werden Aussagen und vermeintlich sichere Schlüsse geprüft. Die Diskussion legt dabei auch Vorurteile und persönliche Konflikte frei, die mit dem eigentlichen Fall nichts zu tun haben.
+
+Merksatz: Fondas Geschworener verlangt Prüfung statt vorschneller Gewissheit.
+
+Antwortzusätze:
+
+- Er möchte vor einer Entscheidung über den Fall sprechen.: Er will die Beweise besprechen, bevor ein Schuldspruch gefällt wird.
+
+Quellen: [1](https://www.criterion.com/films/27871-12-angry-men), [2](https://en.wikipedia.org/wiki/12_Angry_Men_(1957_film)).
+
+### L2 · leicht
+
+Welche Figur verkörpert Henry Fonda in „Spiel mir das Lied vom Tod“?
+
+- **Richtig: Den skrupellosen Killer Frank**
+
+- Den Banditen Cheyenne
+
+- Den Eisenbahnunternehmer Morton
+
+- Den wortkargen Mundharmonika-Spieler
+
+Fonda spielt den Killer Frank.
+
+Frank arbeitet für den Eisenbahnunternehmer Morton (Gabriele Ferzetti) und beseitigt Menschen, die dessen Plänen im Weg stehen. Sergio Leone besetzte die Rolle mit einem Darsteller, den das Publikum häufig als aufrechten Mann kannte. Der frühe Auftritt Franks macht diese Erwartung besonders wirksam. Fondas ruhige Präsenz erhält hier eine bedrohliche Bedeutung, statt wie in vielen früheren Rollen Vertrauen zu erzeugen.
+
+Merksatz: Fondas vertraute Ruhe wird bei Frank zur Drohung.
+
+Antwortzusätze:
+
+- Den skrupellosen Killer Frank: Fonda spielt den Killer Frank.
+
+Gemeinsames Wissensziel: K-WES-04-01 (WES-L-007).
+
+Quellen: [1](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_the_West).
+
+### M1 · mittel
+
+Wohin zieht Tom Joads (Henry Fonda) Familie in „Früchte des Zorns“, nachdem sie ihre Farm verliert?
+
+- Nach Florida
+
+- Nach Alaska
+
+- **Richtig: Nach Kalifornien**
+
+- Nach New York
+
+Die Joads suchen Arbeit in Kalifornien.
+
+Tom kehrt nach einer Haftstrafe nach Hause zurück und findet die bisherige Existenz der Familie zerstört. Gemeinsam machen sich die Joads auf den Weg nach Westen. Die Aussicht auf Arbeit führt sie jedoch in eine Welt niedriger Löhne, unsicherer Lager und gegenseitiger Konkurrenz unter den Arbeitssuchenden. Tom muss erleben, dass die Not seiner Familie Teil eines größeren sozialen Konflikts ist.
+
+Merksatz: Der Weg nach Kalifornien führt die Joads in neue Abhängigkeiten.
+
+Antwortzusätze:
+
+- Nach Kalifornien: Die Joads suchen Arbeit in Kalifornien.
+
+Gemeinsames Wissensziel: K-DRA-202610-P01-L-018 (DRA-202610-P01-L-018).
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath_(film)).
+
+### M2 · mittel
+
+Womit verdient Manny Balestrero (Henry Fonda) in Hitchcocks „Der falsche Mann“ seinen Lebensunterhalt?
+
+- Als Versicherungsvertreter
+
+- Als Taxifahrer
+
+- Als Polizeifotograf
+
+- **Richtig: Als Musiker im Nachtclub**
+
+Manny arbeitet als Musiker im Stork Club.
+
+Manny sucht wegen der Behandlungskosten seiner Frau ein Versicherungsbüro auf. Mitarbeiterinnen halten ihn für einen Mann, der das Büro überfallen hat. Aus der Verwechslung folgen Festnahme und ein Verfahren, das die Familie schwer belastet. Hitchcock orientiert sich an einem wirklichen Fall. Fondas zurückhaltende Darstellung begleitet einen unauffälligen Bürger, dessen vertrauter Alltag durch scheinbar glaubwürdige Zeugenaussagen zerbricht.
+
+Merksatz: Der Nachtclubmusiker wird mit einem Räuber verwechselt.
+
+Antwortzusätze:
+
+- Als Musiker im Nachtclub: Manny arbeitet als Musiker im Stork Club.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/52452).
+
+### S1 · schwer
+
+Welche Veränderung seines Dienstes wünscht sich Douglas Roberts (Henry Fonda) in „Keine Zeit für Heldentum“?
+
+- Eine Versetzung als Militärarzt nach Washington
+
+- Eine dauerhafte Beurlaubung nach Kriegsende
+
+- **Richtig: Eine Versetzung vom Versorgungsschiff in den Kampfeinsatz**
+
+- Die Übernahme des Schiffes als privates Handelsfahrzeug
+
+Roberts will vom Versorgungsschiff auf ein kämpfendes Schiff versetzt werden.
+
+Auf dem Versorgungsschiff erlebt Roberts Hitze, Langeweile und einen tyrannischen Kapitän. Er setzt sich für die Mannschaft ein, hält die eigene Aufgabe aber für unzureichend, während anderswo gekämpft wird. Der Kapitän blockiert seine Versetzung, weil er von Roberts’ Arbeit profitiert. Der Film prüft damit auch Roberts’ Vorstellung davon, welche Form des Dienstes als mutig und bedeutsam gelten soll.
+
+Merksatz: Roberts sucht den Kampf, während die Mannschaft ihn gegen ihren Kapitän braucht.
+
+Antwortzusätze:
+
+- Eine Versetzung vom Versorgungsschiff in den Kampfeinsatz: Roberts will vom Versorgungsschiff auf ein kämpfendes Schiff versetzt werden.
+
+Quellen: [1](https://catalog.afi.com/Film/51592-MISTER-ROBERTS).
+
+### S2 · schwer
+
+Mit welchem Film gewann Henry Fonda nach seinem Ehren-Oscar schließlich einen Oscar für die Hauptdarstellung?
+
+- **Richtig: „Am goldenen See“**
+
+- „Früchte des Zorns“
+
+- „Spiel mir das Lied vom Tod“
+
+- „Die zwölf Geschworenen“
+
+Fonda gewann den Hauptdarsteller-Oscar für „Am goldenen See“.
+
+Fonda spielt den alternden Norman Thayer, Katharine Hepburn dessen Frau Ethel. Ihre Filmtochter Chelsea wird von Jane Fonda verkörpert. Die Auszeichnung ehrte somit eine späte Darstellerleistung und ist vom zuvor verliehenen Ehren-Oscar für Fondas Gesamtarbeit zu unterscheiden. Bei derselben Verleihung gewann auch Hepburn für ihre Hauptrolle; der Film erhielt zusätzlich den Preis für das adaptierte Drehbuch.
+
+Merksatz: Der Ehrenpreis würdigte die Laufbahn; der Schauspielpreis Norman Thayer.
+
+Antwortzusätze:
+
+- „Am goldenen See“: Fonda gewann den Hauptdarsteller-Oscar für „Am goldenen See“.
+
+Quellen: [1](https://www.oscars.org/oscars/ceremonies/1981), [2](https://www.oscars.org/oscars/ceremonies/1982), [3](https://en.wikipedia.org/wiki/On_Golden_Pond_(1981_film)), [4](https://en.wikipedia.org/wiki/Henry_Fonda).
+
+### E1 · experte
+
+Welche zusätzliche Aufgabe übernahm Henry Fonda neben seiner Hauptrolle bei „Die zwölf Geschworenen“?
+
+- Er übernahm den Schnitt der Kinofassung.
+
+- Er schrieb allein das Drehbuch.
+
+- Er komponierte die vollständige Filmmusik.
+
+- **Richtig: Er produzierte den Film gemeinsam mit Reginald Rose.**
+
+Fonda gehörte mit Reginald Rose zum Produzententeam.
+
+Rose hatte den Stoff zunächst fürs Fernsehen geschrieben. Für die Kinofassung verband Fonda seine Hauptrolle mit einer Produzentenfunktion; Sidney Lumet führte Regie. Die überwiegend auf einen Raum konzentrierte Geschichte setzte damit auf Text, Ensemble und genaue Beobachtung. Fondas Beteiligung bestand nicht nur darin, die mahnende Stimme innerhalb der Jury zu spielen, sondern auch darin, das Projekt hinter der Kamera mitzutragen.
+
+Merksatz: Fonda spielte den Zweifler und trug zugleich die Filmproduktion mit.
+
+Antwortzusätze:
+
+- Er produzierte den Film gemeinsam mit Reginald Rose.: Fonda gehörte mit Reginald Rose zum Produzententeam.
+
+Quellen: [1](https://www.criterion.com/films/27871-12-angry-men).
+
+### E2 · experte
+
+Womit widerlegt Abraham Lincoln (Henry Fonda) in „Der junge Mr. Lincoln“ die Behauptung eines Zeugen, den Mord im Mondlicht gesehen zu haben?
+
+- Mit einem Eisenbahnfahrplan
+
+- **Richtig: Mit einem astronomischen Almanach**
+
+- Mit dem Steuerregister des Ortes
+
+- Mit einem alten Kirchenbuch
+
+Ein Almanach zeigt, dass der Mond zu diesem Zeitpunkt bereits untergegangen war.
+
+Lincoln verteidigt zwei Brüder gegen einen Mordvorwurf. Der entscheidende Zeuge behauptet, die Tat aus größerer Entfernung erkannt zu haben. Die Prüfung der Mondstellung entkräftet diese Gewissheit und führt zur Aufklärung. Der Film nimmt einen wirklichen Fall aus Lincolns späterer Anwaltstätigkeit auf, verlegt ihn aber in eine frühere Lebensphase. Fondas Figur gewinnt Autorität durch genaue Prüfung und den Schutz seiner Mandanten.
+
+Merksatz: Lincoln prüft den behaupteten Blick gegen die tatsächliche Mondstellung.
+
+Antwortzusätze:
+
+- Mit einem astronomischen Almanach: Ein Almanach zeigt, dass der Mond zu diesem Zeitpunkt bereits untergegangen war.
+
+Quellen: [1](https://www.criterion.com/current/posts/413-young-mr-lincoln-hero-in-waiting), [2](https://en.wikipedia.org/wiki/Young_Mr._Lincoln).
+
+## Burt Lancaster · Bekanntheitsgruppe 3
+
+![Burt Lancaster (1947)](Portraets/038.jpg)
+
+Bild: 1947; Whitey Schafer. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Burt_Lancaster_by_A._L._Whitey_Schafer.jpg), [TMDB](https://www.themoviedb.org/person/13784).
+
+### L1 · leicht
+
+Welche Stellung hat Milton Warden (Burt Lancaster) in „Verdammt in alle Ewigkeit“?
+
+- Er ist ein ziviler Sportjournalist.
+
+- Er ist ein Strafverteidiger der Armee.
+
+- **Richtig: Er ist ein erfahrener Sergeant der US-Armee.**
+
+- Er ist ein Hotelbesitzer auf Hawaii.
+
+Warden ist ein Sergeant der US-Armee.
+
+Warden übernimmt in seiner Einheit auf Hawaii viele praktische Führungsaufgaben. Sein Vorgesetzter Captain Holmes vernachlässigt seine Pflichten, während Warden eine Beziehung zu dessen Frau Karen (Deborah Kerr) beginnt. Karen wünscht sich eine gemeinsame Zukunft und einen Wechsel in die Offizierslaufbahn. Warden steht damit zwischen militärischem Rangsystem, seiner eigenen Haltung und einer Beziehung, deren Voraussetzungen er nicht erfüllen will.
+
+Merksatz: Warden führt praktisch viel, will aber kein Offizier werden.
+
+Antwortzusätze:
+
+- Er ist ein erfahrener Sergeant der US-Armee.: Warden ist ein Sergeant der US-Armee.
+
+Quellen: [1](https://catalog.afi.com/Film/50845-FROM-HERE-TO-ETERNITY).
+
+### L2 · leicht
+
+In welchem Bereich setzt Elmer Gantry (Burt Lancaster) sein Verkaufstalent ein, nachdem er Sharon Falconer kennenlernt?
+
+- In einer staatlichen Wahlbehörde
+
+- **Richtig: In religiösen Erweckungsveranstaltungen**
+
+- Im internationalen Kunsthandel
+
+- In einer medizinischen Universität
+
+Gantry wird zum mitreißenden Prediger einer Erweckungsbewegung.
+
+Der redegewandte Verkäufer schließt sich der Predigerin Sharon Falconer (Jean Simmons) an. Seine Fähigkeit, ein Publikum zu gewinnen, macht ihn für ihre Veranstaltungen wertvoll. Zugleich passen seine Vergangenheit und seine persönlichen Bedürfnisse nicht bruchlos zum moralischen Anspruch des Auftritts. Lancaster spielt eine Figur, bei der Glaube, Show und Geschäft kaum voneinander zu trennen sind.
+
+Merksatz: Gantry überträgt das Verkaufen auf religiöse Überzeugung.
+
+Antwortzusätze:
+
+- In religiösen Erweckungsveranstaltungen: Gantry wird zum mitreißenden Prediger einer Erweckungsbewegung.
+
+Quellen: [1](https://catalog.afi.com/Film/53136-ELMER-GANTRY).
+
+### M1 · mittel
+
+Welche Beziehung entsteht zwischen Mike Ribble (Burt Lancaster) und Tino Orsini (Tony Curtis) in „Trapez“?
+
+- Er ist Tinos Geldgeber für einen eigenen Zirkus.
+
+- Er ist Tinos Konkurrent um die Zirkusleitung.
+
+- Er ist Tinos Impresario bei internationalen Gastspielen.
+
+- **Richtig: Er ist Tinos Trainer und Partner am Trapez.**
+
+Mike bildet Tino aus und arbeitet mit ihm am Trapez.
+
+Mike war ein Star, wurde aber bei einem Sturz schwer verletzt. Tino will von seinem Können lernen und selbst einen besonders gefährlichen Sprung schaffen. Aus der Zusammenarbeit entwickelt sich ein Konflikt, als Lola (Gina Lollobrigida) zwischen die Männer tritt. Die Weitergabe von Erfahrung wird so mit Ehrgeiz, Vertrauen und der Angst verbunden, durch einen jüngeren Partner verdrängt zu werden.
+
+Merksatz: Der verletzte Altstar gibt sein Können an Tino weiter.
+
+Antwortzusätze:
+
+- Er ist Tinos Trainer und Partner am Trapez.: Mike bildet Tino aus und arbeitet mit ihm am Trapez.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Trapeze_(film)).
+
+### M2 · mittel
+
+Warum will J. J. Hunsecker (Burt Lancaster) in „Dein Schicksal in meiner Hand“ den Jazzmusiker Steve Dallas beschädigen?
+
+- **Richtig: Dallas ist mit Hunseckers Schwester zusammen.**
+
+- Dallas erpresst ihn wegen eines Bankbetrugs.
+
+- Dallas hat seine Zeitung gekauft.
+
+- Dallas will seine politische Kandidatur verhindern.
+
+Hunsecker will die Beziehung seiner Schwester zu Dallas zerstören.
+
+Hunsecker besitzt als Klatschkolumnist großen Einfluss auf Karrieren. Den Presseagenten Sidney Falco (Tony Curtis) zwingt er, gegen den Freund seiner Schwester vorzugehen. Ein privater Besitzanspruch wird damit durch ein öffentliches Mediennetz ausgetragen. Lancaster spielt den scheinbar souveränen Mann, dessen Macht auf Abhängigkeiten beruht und der die Selbstständigkeit eines nahen Menschen nicht ertragen will.
+
+Merksatz: Hunsecker benutzt öffentliche Macht für einen privaten Besitzanspruch.
+
+Antwortzusätze:
+
+- Dallas ist mit Hunseckers Schwester zusammen.: Hunsecker will die Beziehung seiner Schwester zu Dallas zerstören.
+
+Quellen: [1](https://www.criterion.com/films/27542-sweet-smell-of-success).
+
+### S1 · schwer
+
+Zu welcher gesellschaftlichen Gruppe gehört Fürst Fabrizio (Burt Lancaster) in „Der Leopard“?
+
+- Zum städtischen Industrieproletariat
+
+- Zur aufstrebenden Handelsbourgeoisie
+
+- Zum republikanischen Offizierskorps
+
+- **Richtig: Zum alten sizilianischen Adel**
+
+Fabrizio gehört zum alten Adel Siziliens.
+
+Die Einigung Italiens verändert die Grundlagen der Macht seiner Schicht. Fabrizio erkennt, dass sich neue Interessen mit den alten Familien verbinden werden. Die Heirat seines Neffen Tancredi (Alain Delon) mit Angelica (Claudia Cardinale) macht diesen Übergang greifbar. Lancasters Figur beobachtet den Wandel mit Einsicht, ohne ihm selbst eine Zukunft entgegensetzen zu können.
+
+Merksatz: Fabrizio versteht den Wandel, gehört aber zur schwindenden alten Ordnung.
+
+Antwortzusätze:
+
+- Zum alten sizilianischen Adel: Fabrizio gehört zum alten Adel Siziliens.
+
+Gemeinsames Wissensziel: K-E20261007-F-262-L2 (E20261007-F-262-L2).
+
+Quellen: [1](https://www.criterion.com/films/790-the-leopard).
+
+### S2 · schwer
+
+In welchem Gefängnis beginnt Robert Stroud (Burt Lancaster) in „Der Gefangene von Alcatraz“ seine Vogelforschung, bevor er nach Alcatraz kommt?
+
+- Sing Sing
+
+- **Richtig: Leavenworth**
+
+- San Quentin
+
+- Folsom
+
+Stroud beginnt seine Arbeit mit Vögeln in Leavenworth.
+
+Stroud entdeckt einen verletzten Vogel und entwickelt in der Haft Kenntnisse über Pflege und Krankheiten. Später schreibt er darüber und arbeitet mit Stella Johnson (Betty Field) an Heilmitteln. Bei der Verlegung nach Alcatraz darf er die Vögel nicht behalten. Der Filmtitel darf deshalb nicht so verstanden werden, als habe die gesamte Forschung auf der berühmten Gefängnisinsel stattgefunden.
+
+Merksatz: Die Vögel gehören zu Leavenworth, bevor Stroud nach Alcatraz wechselt.
+
+Antwortzusätze:
+
+- Leavenworth: Stroud beginnt seine Arbeit mit Vögeln in Leavenworth.
+
+Quellen: [1](https://catalog.afi.com/Film/22974-BIRDMAN-OF-ALCATRAZ).
+
+### E1 · experte
+
+Welche Verbindung hatte Burt Lancaster zum Film „Marty“, dessen Hauptrolle Ernest Borgnine spielte?
+
+- **Richtig: Seine gemeinsame Produktionsfirma mit Harold Hecht stellte den Film her.**
+
+- Er schrieb als alleiniger Autor das Drehbuch.
+
+- Er komponierte als Gast die Filmmusik.
+
+- Er montierte als Cutter die Kinofassung.
+
+Lancaster und Harold Hecht produzierten „Marty“ über Hecht-Lancaster Productions.
+
+Paddy Chayefskys Fernsehstoff wurde von Delbert Mann fürs Kino inszeniert. Lancaster übernahm die Hauptrolle nicht, setzte seine Bekanntheit aber auch im Trailer für den kleineren Film ein. Der Erfolg zeigte, dass seine Produktionsarbeit über Filme mit ihm selbst als Star hinausging. Für die Oscar-Auszeichnung als bester Film wurde Harold Hecht genannt; Lancaster gehört deshalb nicht automatisch zu deren persönlichen Empfängern.
+
+Merksatz: Lancasters Firma ermöglichte „Marty“, Borgnine spielte die Hauptrolle.
+
+Antwortzusätze:
+
+- Seine gemeinsame Produktionsfirma mit Harold Hecht stellte den Film her.: Lancaster und Harold Hecht produzierten „Marty“ über Hecht-Lancaster Productions.
+
+Quellen: [1](https://www.tcm.com/articles/behind-the-classics/960549/behind-the-classics-marty-1955), [2](https://www.oscars.org/oscars/ceremonies/1956).
+
+### E2 · experte
+
+Welche berufliche Erfahrung brachte Burt Lancaster bereits vor seiner Filmkarriere mit?
+
+- Arbeit als Opernsänger
+
+- Eine Laufbahn als Berufsboxer
+
+- **Richtig: Arbeit als Zirkusakrobat**
+
+- Eine Laufbahn als professioneller Rennfahrer
+
+Lancaster arbeitete als Zirkusakrobat, unter anderem gemeinsam mit Nick Cravat.
+
+Lancaster und sein langjähriger Partner Nick Cravat entwickelten in den 1930er Jahren ein gemeinsames Akrobatikprogramm. Eine Verletzung beendete diesen Abschnitt seiner Laufbahn. Die körperliche Ausbildung blieb für spätere Abenteuerrollen und „Trapez“ nützlich. Der Film verwendete dennoch für besonders gefährliche Nummern Spezialisten; die frühere Zirkusarbeit bedeutet nicht, dass Lancaster jede auf der Leinwand sichtbare Artistik selbst ausführte.
+
+Merksatz: Vor dem Filmstar stand der Akrobat Lancaster.
+
+Antwortzusätze:
+
+- Arbeit als Zirkusakrobat: Lancaster arbeitete als Zirkusakrobat, unter anderem gemeinsam mit Nick Cravat.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Burt_Lancaster), [2](https://en.wikipedia.org/wiki/Trapeze_(film)).
+
+## Kirk Douglas · Bekanntheitsgruppe 3
+
+![Kirk Douglas (1963)](Portraets/039.jpg)
+
+Bild: 1963; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Studio_publicity_Kirk_Douglas.jpg), [TMDB](https://www.themoviedb.org/person/2090).
+
+### L1 · leicht
+
+Welche Menschen führt die von Kirk Douglas gespielte Hauptfigur in „Spartacus“ gegen Rom in den Aufstand?
+
+- Griechische Kaufleute
+
+- Römische Senatoren
+
+- Persische Berufssoldaten
+
+- **Richtig: Versklavte Menschen**
+
+Spartacus führt versklavte Menschen in den Aufstand.
+
+Aus dem Ausbruch aus einer Gladiatorenschule entsteht eine Bewegung, die Roms Macht herausfordert. Douglas spielt einen Mann, der selbst als Eigentum behandelt wurde und Freiheit für seine Gefährten sucht. Der Film verbindet ihren Kampf mit den politischen Rivalitäten auf römischer Seite; Laurence Olivier verkörpert Crassus, Charles Laughton dessen Gegner Gracchus.
+
+Merksatz: Ein Gladiator wird zum Anführer eines Sklavenaufstands.
+
+Antwortzusätze:
+
+- Versklavte Menschen: Spartacus führt versklavte Menschen in den Aufstand.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Spartacus_(film)).
+
+### L2 · leicht
+
+Welchen Maler verkörpert Kirk Douglas in „Lust for Life“?
+
+- Paul Cézanne
+
+- Claude Monet
+
+- **Richtig: Vincent van Gogh**
+
+- Henri Matisse
+
+Douglas spielt Vincent van Gogh.
+
+Die Künstlerbiografie zeigt den schwierigen Weg zur Malerei, die Unterstützung durch den Bruder Theo und die konfliktreiche Beziehung zu Paul Gauguin, gespielt von Anthony Quinn. Douglas übte für seine Arbeit vor der Kamera selbst das Malen. Der Film versucht damit, die körperliche Tätigkeit des Künstlers ebenso sichtbar zu machen wie seinen Kampf um eine eigene Ausdrucksweise.
+
+Merksatz: Douglas’ Maler erhält Unterstützung von seinem Bruder Theo.
+
+Antwortzusätze:
+
+- Vincent van Gogh: Douglas spielt Vincent van Gogh.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Lust_for_Life_(1956_film)).
+
+### M1 · mittel
+
+Welche Aufgabe übernimmt Colonel Dax (Kirk Douglas) nach dem gescheiterten Angriff in „Wege zum Ruhm“?
+
+- **Richtig: Er verteidigt angeklagte Soldaten vor dem Kriegsgericht.**
+
+- Er leitet das Erschießungskommando.
+
+- Er führt die Anklage gegen General Mireau.
+
+- Er verhandelt einen Gefangenenaustausch.
+
+Dax verteidigt drei Soldaten vor dem Kriegsgericht.
+
+General Mireau verlangt nach einem aussichtslosen Angriff ein Exempel wegen angeblicher Feigheit. Aus den Kompanien werden drei Männer ausgewählt, deren Auswahl keineswegs einen fairen Nachweis individueller Schuld darstellt. Dax versucht, sie zu retten. Der Gegensatz zwischen seinem Einsatz und der Selbstrechtfertigung der Generäle macht militärische Ehre zu einer Frage der Verantwortung gegenüber den eigenen Leuten.
+
+Merksatz: Dax steht vor Gericht auf der Seite seiner eigenen Soldaten.
+
+Antwortzusätze:
+
+- Er verteidigt angeklagte Soldaten vor dem Kriegsgericht.: Dax verteidigt drei Soldaten vor dem Kriegsgericht.
+
+Quellen: [1](https://catalog.afi.com/Film/52321-PATHS-OF-GLORY).
+
+### M2 · mittel
+
+Wie beeinflusst Reporter Chuck Tatum (Kirk Douglas) in „Reporter des Satans“ die Rettung des verschütteten Leo Minosa?
+
+- Er lässt die Presse vom Unglücksort entfernen.
+
+- **Richtig: Er fördert eine langsamere Rettungsmethode für eine längere Sensation.**
+
+- Er verzichtet auf Berichte bis zur Bergung.
+
+- Er organisiert sofort einen zweiten Rettungstrupp.
+
+Tatum verlängert die Rettung, um seine Geschichte auszuschlachten.
+
+Gemeinsam mit dem Sheriff setzt Tatum eine Bohrung von oben durch, obwohl ein anderer Zugang schneller möglich wäre. Während sich der Unglücksort zum Jahrmarkt entwickelt, steigt der Wert seiner exklusiven Berichte. Douglas spielt einen Reporter, der beruflichen Ehrgeiz über das Leben seines vermeintlichen Schützlings stellt. Die Verzögerung ist deshalb der Kern seiner Schuld, nicht nur ein Begleitumstand der Berichterstattung.
+
+Merksatz: Der Reporter macht aus der Rettungsdauer eine Einnahmequelle.
+
+Antwortzusätze:
+
+- Er fördert eine langsamere Rettungsmethode für eine längere Sensation.: Tatum verlängert die Rettung, um seine Geschichte auszuschlachten.
+
+Quellen: [1](https://www.criterion.com/films/829-ace-in-the-hole), [2](https://en.wikipedia.org/wiki/Ace_in_the_Hole_(1951_film)).
+
+### S1 · schwer
+
+Warum bittet Jonathan Shields (Kirk Douglas) in „Stadt der Illusionen“ frühere Mitarbeiter trotz ihrer Verbitterung um eine erneute Zusammenarbeit?
+
+- **Richtig: Ihre Beteiligung würde die Finanzierung seines neuen Films ermöglichen.**
+
+- Nur sie besitzen die Rechte an seinem eigenen Lebenslauf.
+
+- Er will ihnen die Leitung seines bereits verkauften Studios übergeben.
+
+- Sie sollen gemeinsam gegen seinen Konkurrenten aussagen.
+
+Die Namen der früheren Mitarbeiter würden die Finanzierung sichern.
+
+Ein Regisseur, eine Schauspielerin und ein Autor erinnern sich daran, wie Shields ihre Karrieren förderte und sie zugleich verletzte. Nun braucht er ihre Beteiligung, weil er allein kein Geld für sein neues Projekt erhält. Die Rückblenden zeigen damit beides: seine Fähigkeit, Talente zur Wirkung zu bringen, und die persönlichen Kosten seiner Methoden. Gerade diese Ambivalenz prägt Douglas’ Produzentenfigur.
+
+Merksatz: Shields braucht die Menschen, deren Vertrauen er verspielt hat.
+
+Antwortzusätze:
+
+- Ihre Beteiligung würde die Finanzierung seines neuen Films ermöglichen.: Die Namen der früheren Mitarbeiter würden die Finanzierung sichern.
+
+Quellen: [1](https://catalog.afi.com/Film/50404), [2](https://en.wikipedia.org/wiki/The_Bad_and_the_Beautiful).
+
+### S2 · schwer
+
+Warum provoziert Jack Burns (Kirk Douglas) in „Einsam sind die Tapferen“ seine eigene Inhaftierung?
+
+- Er will ein Beweisstück aus der Asservatenkammer stehlen.
+
+- Er möchte für einen Bekannten dessen Strafe absitzen.
+
+- **Richtig: Er will seinem Freund Paul Bondi zur Flucht verhelfen.**
+
+- Er sucht Schutz vor einem ehemaligen Arbeitgeber.
+
+Burns lässt sich einsperren, um Paul Bondi zu befreien.
+
+Burns lebt als unabhängiger Cowboy ohne feste Anschrift. Im Gefängnis trifft er jedoch auf einen Freund, der die gemeinsame Flucht ablehnt: Bondi will seine Familie nicht durch ein Leben auf der Flucht gefährden. Burns entkommt allein. Die Episode zeigt, dass sein Freiheitsideal selbst einem nahestehenden Menschen keine Lösung bietet, dessen Verantwortung an andere gebunden ist.
+
+Merksatz: Burns sucht den Weg ins Gefängnis, um eine Flucht zu ermöglichen.
+
+Antwortzusätze:
+
+- Er will seinem Freund Paul Bondi zur Flucht verhelfen.: Burns lässt sich einsperren, um Paul Bondi zu befreien.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Lonely_Are_the_Brave).
+
+### E1 · experte
+
+Welche von Kirk Douglas unterstützte Entscheidung bei „Spartacus“ war für den Umgang mit Hollywoods Schwarzen Listen bedeutsam?
+
+- Das Drehbuch erschien ohne jede Autorenangabe.
+
+- **Richtig: Dalton Trumbo erhielt unter seinem wirklichen Namen einen Drehbuchcredit.**
+
+- Der Drehbuchcredit blieb allein bei einem vorgeschobenen Autor.
+
+- Trumbo wurde ausschließlich als Berater im Abspann genannt.
+
+Der zuvor boykottierte Dalton Trumbo erhielt einen Credit unter seinem eigenen Namen.
+
+Trumbo gehörte zu den Autoren, die wegen der antikommunistischen Verfolgung lange nur verdeckt arbeiten konnten. Douglas unterstützte seine offene Nennung bei einer großen Studioproduktion. Der Schritt stieß auf Widerstand und Boykottaufrufe. Er war ein sichtbarer Beitrag zum Aufbrechen der Schwarzen Listen; deren Ende lässt sich jedoch nicht einer einzigen Person oder einem einzigen Film zuschreiben.
+
+Merksatz: Ein wirklicher Autorenname wurde zum öffentlichen Signal gegen den Berufsboykott.
+
+Antwortzusätze:
+
+- Dalton Trumbo erhielt unter seinem wirklichen Namen einen Drehbuchcredit.: Der zuvor boykottierte Dalton Trumbo erhielt einen Credit unter seinem eigenen Namen.
+
+Quellen: [1](https://www.criterion.com/current/posts/12-spartacus).
+
+### E2 · experte
+
+An wen gab Kirk Douglas nach seiner Bühnenfassung die Filmrechte an „Einer flog über das Kuckucksnest“ weiter?
+
+- An Hauptdarsteller Jack Nicholson
+
+- An Produzent Saul Zaentz
+
+- An Regisseur Miloš Forman
+
+- **Richtig: An seinen Sohn Michael Douglas**
+
+Er gab die Rechte an seinen Sohn Michael Douglas weiter.
+
+Kirk Douglas hatte den Stoff auf die Bühne gebracht und selbst McMurphy gespielt. Eine Verfilmung kam für ihn jedoch jahrelang nicht zustande. Michael Douglas übernahm später die Rechte und wurde Produzent des Films, in dem Jack Nicholson die Hauptrolle spielte. Der Wechsel zeigt, wie ein lange blockiertes Projekt durch einen Generationswechsel eine andere Besetzung und Produktionsgestalt erhalten konnte.
+
+Merksatz: Kirk brachte den Stoff auf die Bühne; Michael brachte ihn als Produzent ins Kino.
+
+Antwortzusätze:
+
+- An seinen Sohn Michael Douglas: Er gab die Rechte an seinen Sohn Michael Douglas weiter.
+
+Gemeinsames Wissensziel: K-SCHAUSPIELER-202610-P03-126-A-1 (SCHAUSPIELER-202610-P03-126-A-1).
+
+Quellen: [1](https://en.wikipedia.org/wiki/Kirk_Douglas).
+
+## Gary Cooper · Bekanntheitsgruppe 3
+
+![Gary Cooper (1947)](Portraets/040.jpg)
+
+Bild: 1947; Whitey Schafer. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Gary_Cooper_by_A._L._Whitey_Schafer.jpg), [TMDB](https://www.themoviedb.org/person/4068).
+
+### L1 · leicht
+
+Welche Aufgabe hat Will Kane (Gary Cooper) zu Beginn von „Zwölf Uhr mittags“?
+
+- Er leitet die Bank des Ortes.
+
+- Er besitzt die Postkutschenlinie.
+
+- **Richtig: Er versieht den Dienst als Marshal.**
+
+- Er führt das örtliche Hotel.
+
+Will Kane ist der Marshal des Ortes.
+
+Kane hat gerade geheiratet und will seinen Dienst hinter sich lassen. Die angekündigte Rückkehr des Verbrechers Frank Miller verändert den geplanten Aufbruch. Statt mit Amy fortzufahren, kehrt er um und sucht Unterstützung. Coopers Gesetzeshüter wird dabei zunehmend auf sich selbst zurückgeworfen: Das Amt bedeutet für ihn eine Verantwortung, die seine Mitbürger nicht gleichermaßen übernehmen wollen.
+
+Merksatz: Der ausscheidende Marshal kehrt wegen einer drohenden Gefahr um.
+
+Antwortzusätze:
+
+- Er versieht den Dienst als Marshal.: Will Kane ist der Marshal des Ortes.
+
+Quellen: [1](https://catalog.afi.com/Film/53629-HIGH-NOON).
+
+### L2 · leicht
+
+Welches Instrument spielt Longfellow Deeds (Gary Cooper) in „Mr. Deeds geht in die Stadt“?
+
+- **Richtig: Tuba**
+
+- Violine
+
+- Banjo
+
+- Akkordeon
+
+Deeds spielt Tuba.
+
+Der Mann aus einem kleinen Ort in Vermont erbt ein Vermögen und gerät in New York zwischen Anwälte und sensationshungrige Zeitungen. Zu seinem bisherigen Leben gehören Gelegenheitsgedichte und das Tubaspielen. Diese unspektakulären Tätigkeiten bilden einen Gegenpol zu dem Bild des vermeintlichen Sonderlings, das die Großstadtpresse aus ihm macht. Der Film prüft dadurch auch, wer hier eigentlich den klareren Blick auf seine Umgebung besitzt.
+
+Merksatz: Der Millionenerbe bringt seine Tuba aus dem Kleinstadtleben mit.
+
+Antwortzusätze:
+
+- Tuba: Deeds spielt Tuba.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Mr._Deeds_Goes_to_Town).
+
+### M1 · mittel
+
+Warum möchte Alvin York (Gary Cooper) in „Sergeant York“ zunächst nicht am Krieg teilnehmen?
+
+- Er will die Versorgung seiner Familie nicht gefährden.
+
+- **Richtig: Er hält Töten aus religiösen Gründen für falsch.**
+
+- Er hat bei einem früheren Militärdienst schlechte Erfahrungen gemacht.
+
+- Er misstraut den Kriegszielen der Regierung.
+
+Sein religiöser Glaube steht dem Töten entgegen.
+
+Nach seiner Bekehrung versucht York, sein Leben an der Bibel auszurichten. Als die USA in den Ersten Weltkrieg eintreten, beantragt er den Status eines Kriegsdienstverweigerers, der ihm verweigert wird. Seine militärischen Fähigkeiten beseitigen den Gewissenskonflikt nicht. Erst nach weiteren Gesprächen und einer Zeit des Nachdenkens entscheidet er sich anders. Der Film verbindet das spätere Heldentum daher mit einer vorausgehenden moralischen Auseinandersetzung.
+
+Merksatz: Yorks Schießkunst und sein Glaube führen zunächst in verschiedene Richtungen.
+
+Antwortzusätze:
+
+- Er hält Töten aus religiösen Gründen für falsch.: Sein religiöser Glaube steht dem Töten entgegen.
+
+Quellen: [1](https://catalog.afi.com/Film/27041-SERGEANT-YORK).
+
+### M2 · mittel
+
+Welchen Baseballspieler verkörpert Gary Cooper in „Der große Wurf“ (1942)?
+
+- Babe Ruth
+
+- Joe DiMaggio
+
+- Jackie Robinson
+
+- **Richtig: Lou Gehrig**
+
+Gary Cooper spielt Lou Gehrig.
+
+Der Film zeichnet Gehrigs Weg zu den New York Yankees nach und endet mit seiner berühmten Abschiedsrede. Mehrere frühere Mitspieler treten als sie selbst auf, darunter Babe Ruth. Im Mittelpunkt steht damit ein Sportler, dessen Laufbahn durch eine schwere Krankheit endet. Coopers Darstellung verbindet sportlichen Ruhm mit einer Haltung von Bescheidenheit und Tapferkeit außerhalb des Spielfelds.
+
+Merksatz: Coopers Sportler verabschiedet sich im Yankee Stadium.
+
+Antwortzusätze:
+
+- Lou Gehrig: Gary Cooper spielt Lou Gehrig.
+
+Quellen: [1](https://catalog.afi.com/Film/27411-THE-PRIDE-OF-THE-YANKEES).
+
+### S1 · schwer
+
+Welche öffentliche Rolle soll John Willoughby (Gary Cooper) in „Hier ist John Doe“ gegen Bezahlung übernehmen?
+
+- **Richtig: Den Verfasser eines erfundenen Protestbriefs**
+
+- Den wiedergefundenen Erben eines Zeitungsverlegers
+
+- Den Augenzeugen eines fingierten Banküberfalls
+
+- Den überlebenden Kameraden eines gefallenen Politikers
+
+Er soll den Verfasser eines erfundenen Protestbriefs darstellen.
+
+Journalistin Ann Mitchell (Barbara Stanwyck) hat einen Brief erfunden, dessen angeblicher Autor aus Protest gegen gesellschaftliche Zustände seinen Selbstmord ankündigt. Die Zeitung braucht nun einen Menschen, der dieser Figur ein Gesicht gibt. Willoughby nimmt die Rolle wegen seiner Geldnot an. Aus der Inszenierung entsteht jedoch eine Bewegung, deren Hoffnungen nicht mehr bloß als Werbeeffekt behandelt werden können.
+
+Merksatz: Eine erfundene Stimme erhält durch Willoughby ein öffentliches Gesicht.
+
+Antwortzusätze:
+
+- Den Verfasser eines erfundenen Protestbriefs: Er soll den Verfasser eines erfundenen Protestbriefs darstellen.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/27680).
+
+### S2 · schwer
+
+Welche Überzeugung der Familie Birdwell wird in „Lockende Versuchung“ mit Gary Cooper durch den Bürgerkrieg besonders auf die Probe gestellt?
+
+- Der Glaube an die Unfehlbarkeit des Präsidenten
+
+- Die Verpflichtung zum allgemeinen Militärdienst
+
+- **Richtig: Die religiös begründete Ablehnung von Gewalt**
+
+- Die Ablehnung jedes privaten Landbesitzes
+
+Als Quäker lehnen die Birdwells Gewalt aus religiöser Überzeugung ab.
+
+Jess Birdwell lebt mit seiner Familie nach Quäkergrundsätzen. Der Krieg macht aus einem vertrauten Gebot eine drängende Entscheidung: Wie soll man sich verhalten, wenn die eigene Umgebung bedroht wird? Im Unterschied zu einer bloßen Heldengeschichte beschäftigt sich der Film auch mit den Spannungen innerhalb der Familie. Coopers Vaterfigur muss ihre Regeln mit unterschiedlichen Ängsten, Wünschen und Verantwortlichkeiten zusammenbringen.
+
+Merksatz: Der Krieg prüft den friedfertigen Glauben im Alltag einer Familie.
+
+Antwortzusätze:
+
+- Die religiös begründete Ablehnung von Gewalt: Als Quäker lehnen die Birdwells Gewalt aus religiöser Überzeugung ab.
+
+Quellen: [1](https://catalog.afi.com/Film/51836-FRIENDLY-PERSUASION).
+
+### E1 · experte
+
+Weshalb lehnt Howard Roark (Gary Cooper) in „Ein Mann wie Sprengstoff“ den angebotenen Bankauftrag ab?
+
+- Die Bank verlangt den Bau ausschließlich unter der Erde.
+
+- **Richtig: Die Bank verlangt klassische Zusätze zu seinem modernen Entwurf.**
+
+- Die Bank besteht auf einem anderen Grundstück als vereinbart.
+
+- Die Bank untersagt den Einsatz von Stahl und Glas.
+
+Roark verweigert klassische Verzierungen an seinem modernen Entwurf.
+
+Obwohl Roark dringend Arbeit braucht, will er seine Architektur nicht an den Geschmack eines Baukomitees anpassen. Die verlangten Zusätze stehen für einen Kompromiss, den er als Verfälschung seiner Arbeit versteht. Der Film nach Ayn Rand macht aus der Auftragsfrage eine grundsätzliche Auseinandersetzung über schöpferische Unabhängigkeit. Coopers Figur wird dabei durch Entscheidungen charakterisiert, die ihre berufliche Existenz gefährden können.
+
+Merksatz: Roark verzichtet auf den Auftrag, um die Gestalt seines Entwurfs zu erhalten.
+
+Antwortzusätze:
+
+- Die Bank verlangt klassische Zusätze zu seinem modernen Entwurf.: Roark verweigert klassische Verzierungen an seinem modernen Entwurf.
+
+Quellen: [1](https://catalog.afi.com/Film/25929-THE-FOUNTAINHEAD).
+
+### E2 · experte
+
+Mit welcher Erfahrung des Drehbuchautors Carl Foreman wird Kanes (Gary Cooper) Vereinsamung in „Zwölf Uhr mittags“ häufig in Verbindung gebracht?
+
+- Mit dem Verlust seines Elternhauses durch eine Naturkatastrophe
+
+- Mit seinem Einsatz als Korrespondent im Spanischen Bürgerkrieg
+
+- Mit dem Zusammenbruch einer von ihm geleiteten Theatergruppe
+
+- **Richtig: Mit antikommunistischen Verhören und Hollywoods Schwarzen Listen**
+
+Eine verbreitete Lesart verbindet Kanes Isolation mit Foremans Erfahrungen unter dem antikommunistischen Druck.
+
+Foreman geriet ins Visier des Ausschusses für unamerikanische Aktivitäten und wurde in Hollywood ausgegrenzt. Dass Kanes Mitbürger ihre Unterstützung verweigern, lässt sich vor diesem Hintergrund lesen. Die Deutung ist verbreitet, aber kein unstrittiger Schlüssel aller Beteiligten: Regisseur Fred Zinnemann widersprach einer eindeutigen politischen Absicht. Der Produktionskontext eröffnet somit eine Lesart, ohne die Handlung auf eine einzige Bedeutung festzulegen.
+
+Merksatz: Kanes fehlende Unterstützung wurde als Bild politischer Ausgrenzung gelesen.
+
+Antwortzusätze:
+
+- Mit antikommunistischen Verhören und Hollywoods Schwarzen Listen: Eine verbreitete Lesart verbindet Kanes Isolation mit Foremans Erfahrungen unter dem antikommunistischen Druck.
+
+Quellen: [1](https://catalog.afi.com/Film/53629-HIGH-NOON).
+
+## Errol Flynn · Bekanntheitsgruppe 3
+
+![Errol Flynn (1936)](Portraets/041.jpg)
+
+Bild: 1936; Unknown photographer. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Errol_Flynn_1936.jpg), [TMDB](https://www.themoviedb.org/person/8724).
+
+### L1 · leicht
+
+Welchen legendären Gesetzlosen spielt Errol Flynn im Abenteuerklassiker von 1938?
+
+- **Richtig: Robin Hood**
+
+- Zorro
+
+- D’Artagnan
+
+- Wilhelm Tell
+
+Flynn spielt Robin Hood.
+
+Sein Robin verbindet Fechtkunst, Witz und romantischen Charme. Der Widerstand gegen die Machthaber steht neben der Liebe zu Marian und der Treue zu König Richard. Die Figur wurde zu einem Muster des heiteren Abenteuerhelden, das weit über Flynns eigene Filmkarriere hinauswirkte.
+
+Merksatz: Flynns bekanntester Gesetzloser lebt im Sherwood Forest.
+
+Gemeinsames Wissensziel: K-ADV-202610-P01-L-015 (ADV-202610-P01-L-015).
+
+Quellen: [1](https://www.tcm.com/articles/25787/the-adventures-of-robin-hood).
+
+### L2 · leicht
+
+Welche Schauspielerin bildet mit Errol Flynn das romantische Paar in „Unter Piratenflagge“ und „Robin Hood, König der Vagabunden“?
+
+- Vivien Leigh
+
+- **Richtig: Olivia de Havilland**
+
+- Joan Fontaine
+
+- Maureen O’Hara
+
+Olivia de Havilland spielt an Flynns Seite.
+
+De Havilland ist Arabella in der Piratengeschichte und Marian im Sherwood-Abenteuer. Beide Filme gehören zu einer längeren Folge gemeinsamer Auftritte. Der Erfolg beruht auch auf dem Zusammenspiel: Flynns impulsive Helden treffen auf eine Partnerin, die ihren Charme prüft und ihre Loyalität nicht einfach voraussetzt.
+
+Merksatz: Flynn und de Havilland gehören zu den klassischen Abenteuerpaaren.
+
+Gemeinsames Wissensziel: K-ADV-202610-P01-L-016 (ADV-202610-P01-L-016).
+
+Quellen: [1](https://www.tcm.com/articles/161253/errol-flynn-profile-films-in-bold-type-will-air-on-8-7), [2](https://www.tcm.com/articles/25787/the-adventures-of-robin-hood).
+
+### M1 · mittel
+
+Welchen Beruf übt Errol Flynns Peter Blood aus, bevor er in „Unter Piratenflagge“ zum Piraten wird?
+
+- Richter
+
+- Schiffsbauer
+
+- **Richtig: Arzt**
+
+- Offizier
+
+Peter Blood ist zunächst Arzt.
+
+Blood gerät wegen der Behandlung eines verwundeten Rebellen in die Gewalt der Obrigkeit. Sein Weg zum Piraten beginnt damit als Folge politischer Verfolgung. Die medizinische Herkunft unterscheidet ihn von einem bloßen Abenteurer auf Beutezug und begründet die moralische Distanz zu rücksichtsloseren Seeräubern.
+
+Merksatz: Bloods Abenteuer beginnt mit einem ärztlichen Hilfsdienst.
+
+Gemeinsames Wissensziel: K-G100-20261008-ABENTEUER-001-L1 (G100-20261008-ABENTEUER-001-L1).
+
+Quellen: [1](https://en.wikipedia.org/wiki/Captain_Blood_(1935_film)), [2](https://www.tcm.com/articles/161253/errol-flynn-profile-films-in-bold-type-will-air-on-8-7).
+
+### M2 · mittel
+
+Welchen Sportler verkörpert Errol Flynn in „Gentleman Jim“?
+
+- Den Schwimmer Johnny Weissmüller
+
+- Den Baseballspieler Babe Ruth
+
+- Den Rennfahrer Barney Oldfield
+
+- **Richtig: Den Boxer James J. Corbett**
+
+Flynn spielt den Schwergewichtsboxer James J. Corbett.
+
+Die Biografie nimmt sich bei Corbetts Lebenslauf erhebliche Freiheiten. Dennoch bereitete Flynn die Bewegungen im Ring sorgfältig vor. Der Film erweitert sein Abenteuerimage: An die Stelle des Degens tritt ein sportlicher Stil, der von schnellen Beinen und einer präzisen linken Führhand lebt.
+
+Merksatz: In „Gentleman Jim“ kämpft Flynn mit Fäusten statt mit dem Degen.
+
+Quellen: [1](https://www.tcm.com/articles/92455/gentleman-jim).
+
+### S1 · schwer
+
+Warum tragen Errol Flynns „Robin Hood“-Abenteuer von 1938 die Namen Michael Curtiz und William Keighley in der Regie?
+
+- **Richtig: Curtiz übernahm das bereits von Keighley begonnene Projekt.**
+
+- Beide drehten je eine vollständige Sprachfassung.
+
+- Keighley inszenierte ausschließlich eine spätere Wiederveröffentlichung.
+
+- Curtiz ergänzte erst nach Flynns Tod neue Szenen.
+
+Curtiz löste Keighley während der Produktion ab.
+
+Keighley hatte die Aufnahmen in Kalifornien begonnen. Das Studio war mit dem Ton seiner Inszenierung nicht zufrieden und übergab die Arbeit an Curtiz. Beiträge beider Regisseure blieben im fertigen Film erhalten. Der doppelte Credit erzählt daher von einem Wechsel im laufenden Projekt.
+
+Merksatz: Zwei Regienamen verweisen hier auf eine übergebene Produktion.
+
+Quellen: [1](https://www.tcm.com/articles/25787/the-adventures-of-robin-hood).
+
+### S2 · schwer
+
+Welchen ursprünglich vorgesehenen Hauptdarsteller ersetzte Errol Flynn bei „Unter Piratenflagge“?
+
+- Leslie Howard
+
+- **Richtig: Robert Donat**
+
+- Ronald Colman
+
+- Tyrone Power
+
+Die Hauptrolle war zunächst für Robert Donat vorgesehen.
+
+Als Donat das Projekt verließ, gab Warner Bros. dem noch wenig bekannten Flynn die Chance. Der Erfolg machte ihn zu einem führenden Star des Studios. Was später wie eine selbstverständliche Besetzung wirkt, entstand aus einer offenen Stelle und der Bereitschaft, ein großes Abenteuer einem Neuling anzuvertrauen.
+
+Merksatz: Donats Absage öffnete Flynn den Weg zu Captain Blood.
+
+Quellen: [1](https://www.tcm.com/articles/161253/errol-flynn-profile-films-in-bold-type-will-air-on-8-7), [2](https://www.tcm.com/articles/25787/the-adventures-of-robin-hood).
+
+### E1 · experte
+
+Was musste Errol Flynn für die Boxszenen in „Gentleman Jim“ besonders verändern?
+
+- Er sollte fast ausschließlich aus dem Stand schlagen.
+
+- Er sollte seine linke Hand möglichst vollständig schonen.
+
+- **Richtig: Er musste die linke Führhand und schnelle Beinarbeit stärker einsetzen.**
+
+- Er musste Corbett als schwerfälligen Nahkämpfer gestalten.
+
+Das Training betonte linke Führhand und schnelle Beinarbeit.
+
+Flynn neigte beim Boxen zunächst zur rechten Faust. Der frühere Champion Mushy Callahan arbeitete mit ihm daran, Corbetts beweglichen Stil nachzubilden. Die Figur verlangte damit ein bestimmtes technisches Bewegungsmuster. Allgemeine Fitness oder die Erfahrung aus Fechtszenen genügten für diese Aufgabe nicht.
+
+Merksatz: Flynns Corbett entsteht aus Beinarbeit und linker Führhand.
+
+Quellen: [1](https://www.tcm.com/articles/92455/gentleman-jim).
+
+### E2 · experte
+
+Welches Hollywoodstudio band Errol Flynn als Vertragsschauspieler an sich und baute ihn zum Abenteuerstar auf?
+
+- Metro-Goldwyn-Mayer
+
+- Paramount
+
+- RKO
+
+- **Richtig: Warner Bros.**
+
+Flynn wurde vor allem als Vertragsstar von Warner Bros. aufgebaut.
+
+Das Studiosystem verband langfristige Verträge mit wiederkehrenden Regisseuren, Partnern und Produktionsformen. Für Flynn entstand daraus eine Reihe aufwendiger Abenteuer. Sein scheinbar müheloses Auftreten war somit auch das Ergebnis einer Firma, die eine erkennbare Leinwandpersönlichkeit über mehrere Projekte hinweg entwickelte.
+
+Merksatz: Warner Bros. formte Flynns klassische Abenteuerlaufbahn.
+
+Quellen: [1](https://www.tcm.com/articles/161253/errol-flynn-profile-films-in-bold-type-will-air-on-8-7), [2](https://www.tcm.com/articles/021586/star-of-the-month-errol-flynn).
+
+## Robert Mitchum · Bekanntheitsgruppe 3
+
+![Robert Mitchum (1949)](Portraets/042.jpg)
+
+Bild: 1949; J. Fred Henry Publications. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Robert_Mitchum_1949.jpg), [TMDB](https://www.themoviedb.org/person/10158).
+
+### L1 · leicht
+
+Als was tritt Robert Mitchums Harry Powell in „Die Nacht des Jägers“ auf?
+
+- **Richtig: Als Wanderprediger**
+
+- Als Landarzt
+
+- Als Polizeichef
+
+- Als Zirkusdirektor
+
+Powell gibt sich als Prediger aus.
+
+Seine religiöse Rede schafft Vertrauen, obwohl er hinter Geld und Macht her ist. Mitchum nutzt die ruhige Stimme und das selbstgewisse Auftreten, um Bedrohung nicht auf lautes Toben zu beschränken. Gerade der Gegensatz zwischen öffentlicher Frömmigkeit und mörderischem Handeln prägt die Figur.
+
+Merksatz: Powells Predigerrolle verbirgt einen Verfolger.
+
+Quellen: [1](https://www.bfi.org.uk/lists/robert-mitchum-10-essential-films).
+
+### L2 · leicht
+
+Welchen Privatdetektiv spielt Robert Mitchum sowohl in „Fahr zur Hölle, Liebling“ als auch in „Tote schlafen besser“?
+
+- Sam Spade
+
+- **Richtig: Philip Marlowe**
+
+- Mike Hammer
+
+- Lew Archer
+
+Mitchum verkörpert Raymond Chandlers Philip Marlowe.
+
+Die beiden Filme übertragen unterschiedliche Chandler-Romane. Mitchums Alter und seine gelassene Müdigkeit geben dem Detektiv eine eigene Färbung. Die zweite Verfilmung verlegt ihn außerdem in das England der 1970er-Jahre; gleiche Hauptfigur bedeutet hier weder denselben Fall noch denselben historischen Schauplatz.
+
+Merksatz: Zweimal Mitchum als Marlowe, in zwei unterschiedlichen Fällen.
+
+Quellen: [1](https://www.bfi.org.uk/lists/robert-mitchum-10-essential-films), [2](https://en.wikipedia.org/wiki/The_Big_Sleep_(1978_film)).
+
+### M1 · mittel
+
+Welche Wörter stehen auf den Fingerknöcheln von Robert Mitchums Harry Powell in „Die Nacht des Jägers“?
+
+- LIFE und DEATH
+
+- HOPE und FEAR
+
+- **Richtig: LOVE und HATE**
+
+- GOOD und EVIL
+
+Auf Powells Händen stehen LOVE und HATE.
+
+Powell benutzt die Hände für eine kleine Erzählung vom Kampf zwischen Liebe und Hass. Der scheinbar lehrreiche Vortrag gehört zu seiner Selbstdarstellung. Die sichtbaren Gegensätze entlarven ihn nicht automatisch: Er kann auch moralische Worte in ein Mittel der Täuschung verwandeln.
+
+Merksatz: Powells Hände predigen LOVE und HATE.
+
+Gemeinsames Wissensziel: K-CLA-09-02 (CLA-L-018).
+
+Quellen: [1](https://www.bfi.org.uk/lists/robert-mitchum-10-essential-films).
+
+### M2 · mittel
+
+Warum verfolgt Robert Mitchums Max Cady in „Ein Köder für die Bestie“ den Anwalt Sam Bowden?
+
+- Bowden hat seine Firma übernommen.
+
+- Bowden hat seine Frau geheiratet.
+
+- Bowden hat ihn heimlich um sein Erbe gebracht.
+
+- **Richtig: Bowden hatte als Tatzeuge gegen ihn ausgesagt.**
+
+Cady rächt sich für Bowdens belastende Zeugenaussage.
+
+Der Film von 1962 setzt Cady nach seiner Haftentlassung auf die Familie des Zeugen an. Seine Drohung reicht damit über einen Zweikampf hinaus. Mitchum gestaltet einen Gegner, der die Verletzlichkeit des privaten Umfelds systematisch ausnutzt. Die spätere Neubearbeitung verändert wichtige Einzelheiten dieser Ausgangslage.
+
+Merksatz: Cadys Rache richtet sich gegen den Zeugen und dessen Familie.
+
+Gemeinsames Wissensziel: K-E20261007-F-234-L1 (E20261007-F-234-L1).
+
+Quellen: [1](https://www.bfi.org.uk/lists/robert-mitchum-10-essential-films), [2](https://en.wikipedia.org/wiki/Cape_Fear_(1962_film)).
+
+### S1 · schwer
+
+Welche zusätzliche praktische Aufgabe übernahm Robert Mitchum bei „Die Nacht des Jägers“ im Umgang mit den Kinderdarstellern?
+
+- **Richtig: Er half, ihnen die gewünschten Spielsituationen zu vermitteln.**
+
+- Er komponierte ihre gesungenen Filmlieder.
+
+- Er übernahm ihren gesamten Unterricht am Drehort.
+
+- Er ersetzte sie bei allen gefährlichen Bewegungen.
+
+Mitchum half bei der Anleitung der beiden Kinder.
+
+Charles Laughton führte erstmals bei einem eigenen Spielfilm Regie und fand den Zugang zur Erklärung seiner Absichten gegenüber den Kindern nicht immer leicht. Mitchum sprang dabei unterstützend ein. Das ergänzt seine Arbeit als bedrohlicher Verfolger um eine Zusammenarbeit hinter der sichtbaren Rolle, ohne den Regiecredit zu verändern.
+
+Merksatz: Der Verfolger auf der Leinwand half den Kindern bei der Arbeit.
+
+Quellen: [1](https://www.bfi.org.uk/lists/robert-mitchum-10-essential-films).
+
+### S2 · schwer
+
+Mit welcher Musikrichtung nahm Robert Mitchum neben seiner Schauspielkarriere ein eigenes Album auf?
+
+- Bluegrass
+
+- **Richtig: Calypso**
+
+- Operette
+
+- Bebop
+
+Mitchum nahm ein Calypso-Album auf.
+
+Sein musikalisches Interesse passt nicht auf den ersten Blick zum schweigsamen Leinwandimage. Er schrieb außerdem Texte und hatte mit einem Lied einen Platz in den US-Charts. Die oft lässig vorgetragene Gleichgültigkeit gegenüber dem Schauspielberuf verdeckt deshalb einen vielseitig arbeitenden Künstler.
+
+Merksatz: Hinter Mitchums lakonischem Image stand auch ein Calypso-Sänger.
+
+Quellen: [1](https://www.bfi.org.uk/lists/robert-mitchum-10-essential-films).
+
+### E1 · experte
+
+Welche Farbgestaltung prägt Robert Mitchums Western „Spur in den Bergen“?
+
+- Warme Braun- und Goldtöne bestimmen die Innenräume.
+
+- Kräftige Blau- und Grüntöne prägen die Landschaft.
+
+- **Richtig: Die Farbpalette wird weitgehend auf eine fast monochrome Wirkung reduziert.**
+
+- Starke Rot-Grün-Kontraste ordnen die wichtigsten Schauplätze.
+
+Die Farbgestaltung ist bewusst stark zurückgenommen.
+
+William Wellman und Kameramann William Clothier reduzierten die Farbreize in der verschneiten Landschaft und im Familienhaus. Das macht den Western auffallend karg. Mitchums Jagd auf einen Panther steht so in einem Bildraum, dessen Strenge auch den bedrückenden familiären Konflikt verstärkt.
+
+Merksatz: Ein Farbwestern kann wie ein fast schwarzweißes Winterbild wirken.
+
+Quellen: [1](https://www.bfi.org.uk/lists/robert-mitchum-10-essential-films).
+
+### E2 · experte
+
+Welche Berufserfahrung brachte George V. Higgins, der Romanautor hinter Robert Mitchums „Die Freunde von Eddie Coyle“, in den Stoff ein?
+
+- Arbeit als Kriegsfotograf und Bildredakteur
+
+- Arbeit als Architekt und Stadtplaner
+
+- Arbeit als Bühnenmusiker und Musikproduzent
+
+- **Richtig: Arbeit als Staatsanwalt und Strafverteidiger**
+
+Higgins kannte das Strafrecht als Staatsanwalt und Verteidiger.
+
+Der Film folgt Gesprächen, in denen Kriminelle und Polizei mit Informationen, Waffen und Gefälligkeiten handeln. Higgins’ juristische Erfahrung steht hinter seinem Interesse an diesen Milieus und ihrer Sprache. Mitchums Spiel fügt sich in ein Ensemble ein, dessen Verhandlungen die Handlung tragen, statt nur eine Starfigur hervorzuheben.
+
+Merksatz: Bei Eddie Coyle handeln Figuren mit Worten um ihr Überleben.
+
+Quellen: [1](https://www.criterion.com/current/posts/1147-the-friends-of-eddie-coyle-they-were-expendable).
+
+## Richard Burton · Bekanntheitsgruppe 3
+
+![Richard Burton (1965)](Portraets/043.jpg)
+
+Bild: 1965; Joop van Bilsen for Anefo. CC0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Richard_Burton_at_Schiphol_Airport.jpg), [TMDB](https://www.themoviedb.org/person/5341).
+
+### L1 · leicht
+
+Welche historische Figur spielt Richard Burton an Elizabeth Taylors Seite in „Cleopatra“?
+
+- **Richtig: Marcus Antonius**
+
+- Julius Caesar
+
+- Octavian
+
+- Pompeius
+
+Burton verkörpert Marcus Antonius.
+
+Antonius steht im Schatten Caesars und gerät zunehmend in den Bann Kleopatras. Burton gibt dem politischen Machtmenschen auch Unsicherheit und Abhängigkeit. Der aufwendige Historienfilm war damit zugleich eine Bühne für das Zusammenspiel zweier Stars, deren Beziehung die öffentliche Wahrnehmung der Produktion stark mitprägte.
+
+Merksatz: Burtons Antonius verbindet Machtanspruch mit persönlicher Abhängigkeit.
+
+Quellen: [1](https://www.bfi.org.uk/features/richard-burton-power-was-his-weakness), [2](https://www.biography.wales/article/s8-BURT-RIC-1925.html).
+
+### L2 · leicht
+
+Welchen Beruf hat George, den Richard Burton in „Wer hat Angst vor Virginia Woolf?“ spielt?
+
+- Landarzt
+
+- **Richtig: Geschichtsprofessor**
+
+- Rechtsanwalt
+
+- Zeitungsredakteur
+
+George ist Geschichtsprofessor.
+
+George arbeitet an der Universität, die der Vater seiner Frau Martha leitet. Sein beruflicher und familiärer Status sind deshalb eng verknüpft. Im nächtlichen Streit mit Martha und ihren Gästen wird das Gefühl gescheiterter Erwartungen immer wieder zum Angriffspunkt. Der Beruf gehört zur Machtverteilung des Ehekonflikts.
+
+Merksatz: George lehrt Geschichte an der Universität seines Schwiegervaters.
+
+Quellen: [1](https://www.bfi.org.uk/features/richard-burton-power-was-his-weakness).
+
+### M1 · mittel
+
+Welchen Eindruck soll Richard Burtons Alec Leamas in „Der Spion, der aus der Kälte kam“ bei seiner Anwerbung erwecken?
+
+- Den eines begüterten Kunsthändlers
+
+- Den eines loyalen Offiziers auf Dienstreise
+
+- **Richtig: Den eines verbitterten, trinkenden ehemaligen Agenten**
+
+- Den eines Reporters mit Zugang zur Regierung
+
+Leamas soll wie ein enttäuschter und gescheiterter Ex-Agent wirken.
+
+Sein scheinbarer Absturz soll ihn für die Gegenseite als käufliche Informationsquelle interessant machen. Das müde, misstrauische Auftreten unterscheidet diesen Spion deutlich von einem eleganten Abenteurer. Burton spielt zugleich eine Figur, die selbst nicht alle Absichten ihres eigenen Dienstes überblickt.
+
+Merksatz: Leamas’ sichtbarer Verfall gehört zu seiner Tarnung.
+
+Gemeinsames Wissensziel: K-G100-20261008-THRILLER-016-L1 (G100-20261008-THRILLER-016-L1).
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-great-spy-films), [2](https://en.wikipedia.org/wiki/The_Spy_Who_Came_in_from_the_Cold_(film)).
+
+### M2 · mittel
+
+Welche Funktion hat Richard Burtons O’Brien in der Orwell-Verfilmung „1984“ mit John Hurt?
+
+- Er hilft Winston bei der Flucht ins Ausland.
+
+- Er ist Winstons verfolgter Vater.
+
+- Er führt einen unabhängigen Radiosender.
+
+- **Richtig: Er verhört und bricht Winston im Dienst der Partei.**
+
+O’Brien ist ein Funktionär und Verhörer des Regimes.
+
+Winston setzt zunächst Hoffnung in einen Mann, der zur inneren Machtstruktur gehört. Burtons ruhiges, beherrschtes Auftreten wird schließlich zum Werkzeug der Unterwerfung. Gerade weil O’Brien seine Gewalt mit gedanklicher Präzision verbindet, entsteht eine andere Form von Bedrohung als durch einen bloß tobenden Tyrannen.
+
+Merksatz: Burtons O’Brien macht geistige Kontrolle zur Form der Gewalt.
+
+Quellen: [1](https://www.bfi.org.uk/features/nineteen-eighty-four-adaptations), [2](https://bfidatadigipres.github.io/muse%20of%20fire%3Cbr%3Erichard%20burton/2025/12/15/nineteen-eighty-four/).
+
+### S1 · schwer
+
+Warum nahm der als Richard Jenkins geborene Richard Burton den Nachnamen Burton an?
+
+- **Richtig: Nach seinem Lehrer und Förderer Philip Burton**
+
+- Nach dem Geburtsort seiner Mutter
+
+- Nach der Hauptfigur seines ersten Kinofilms
+
+- Nach einem Londoner Theaterdirektor namens Henry Burton
+
+Er übernahm den Namen seines Lehrers Philip Burton.
+
+Philip Burton förderte den Schüler in Port Talbot, arbeitete an seiner Stimme und wurde sein Vormund. Der Namenswechsel macht eine konkrete berufliche und persönliche Förderung sichtbar. Die Zusammenarbeit ging später weiter: Auch als Richard bereits auf großen Bühnen stand, blieb sein früherer Lehrer ein wichtiger Ratgeber.
+
+Merksatz: Hinter dem Namen Burton steht ein prägender Lehrer.
+
+Quellen: [1](https://www.biography.wales/article/s8-BURT-RIC-1925.html), [2](https://biography.wales/article/s12-BURT-HEN-1904.html).
+
+### S2 · schwer
+
+Wer inszenierte Richard Burtons „Hamlet“ 1964 auf der New Yorker Bühne?
+
+- Laurence Olivier
+
+- **Richtig: John Gielgud**
+
+- Peter Brook
+
+- Tyrone Guthrie
+
+John Gielgud führte Regie.
+
+Gielgud hatte den Prinzen selbst wiederholt gespielt und war für seine sprachliche Gestaltung berühmt. Burton arbeitete damit unter einem Regisseur, der die Rolle aus jahrzehntelanger eigener Erfahrung kannte. Die Produktion steht für einen Austausch zwischen zwei Schauspielergenerationen innerhalb der Shakespeare-Tradition.
+
+Merksatz: Burtons New Yorker Hamlet entstand unter Gielguds Regie.
+
+Quellen: [1](https://www.rsc.org.uk/hamlet/about-the-play/stage-history).
+
+### E1 · experte
+
+Welche Aufgabe übernahm Richard Burton in der BBC-Radiofassung von Dylan Thomas’ „Under Milk Wood“ von 1954?
+
+- Die musikalische Leitung
+
+- Die Rolle des Reverend Eli Jenkins
+
+- **Richtig: Die erzählende First Voice**
+
+- Die technische Aufnahmeleitung
+
+Burton sprach die First Voice.
+
+Die erste Stimme führt in die verborgenen Gedanken und Träume der Dorfbewohner. Philip Burton spielte dagegen Reverend Eli Jenkins. Der Erfolg zeigt, wie viel Richard allein mit Sprachrhythmus, Klang und Bildern in der Vorstellung des Publikums erreichen konnte. Die Stimme wurde unabhängig von seiner sichtbaren Starpräsenz zum zentralen Gestaltungsmittel.
+
+Merksatz: Burtons First Voice öffnet die Gedankenwelt von Llareggub.
+
+Quellen: [1](https://biography.wales/article/s12-BURT-HEN-1904.html), [2](https://www.oldvictheatre.com/news/under-milk-wood/).
+
+### E2 · experte
+
+Welchen beruflichen Spielraum gewährte Richard Burton sein Vertrag mit Twentieth Century Fox zu Beginn seiner Hollywoodlaufbahn?
+
+- Er durfte ausschließlich für europäische Regisseure arbeiten.
+
+- Er konnte jeden Film ohne Studiofreigabe selbst vertreiben.
+
+- Er musste alle Bühnenengagements für die Vertragsdauer aufgeben.
+
+- **Richtig: Er konnte Hollywoodfilme und Londoner Bühnenarbeit parallel verfolgen.**
+
+Der Vertrag ließ Raum für Film und Theater.
+
+Burton kam mit starken Shakespeare-Erfolgen zum Hollywoodstudio. Die Vereinbarung zwang ihn zunächst nicht, diese Bühnenlaufbahn vollständig gegen den Film einzutauschen. Seine Karriere entwickelte sich damit über zwei unterschiedliche Arbeitswelten: die direkte Wirkung des gesprochenen Textes im Theater und die technische Gestaltung einer aufgenommenen Rolle.
+
+Merksatz: Burtons frühe Hollywoodbindung ließ die Bühne als zweites Arbeitsfeld offen.
+
+Quellen: [1](https://www.biography.wales/article/s8-BURT-RIC-1925.html).
+
+## Montgomery Clift · Bekanntheitsgruppe 3
+
+![Montgomery Clift (1954)](Portraets/044.jpg)
+
+Bild: 1954; Photographer: Dirone [1]. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Montgomery_Clift_by_Dirone,_1954.jpg), [TMDB](https://www.themoviedb.org/person/12151).
+
+### L1 · leicht
+
+Welche Sportart soll Montgomery Clifts Soldat Prewitt in „Verdammt in alle Ewigkeit“ für seinen Vorgesetzten ausüben?
+
+- **Richtig: Boxen**
+
+- Baseball
+
+- Ringen
+
+- Fechten
+
+Prewitt soll für die Einheit boxen.
+
+Der talentierte Soldat verweigert den Einsatz im Ring. Aus der Weigerung entsteht ein Konflikt mit Vorgesetzten und Kameraden. Clifts Verletzlichkeit und Beharrlichkeit machen daraus eine Auseinandersetzung um den Anspruch eines Einzelnen auf eine eigene moralische Entscheidung innerhalb militärischer Hierarchie.
+
+Merksatz: Prewitts Nein zum Boxen wird zum Konflikt mit der Armee.
+
+Gemeinsames Wissensziel: K-E20261007-F-254-L2 (E20261007-F-254-L2).
+
+Quellen: [1](https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films).
+
+### L2 · leicht
+
+Welche Schauspielerin bildet mit Montgomery Clift das zentrale Liebespaar in „Ein Platz an der Sonne“?
+
+- Audrey Hepburn
+
+- **Richtig: Elizabeth Taylor**
+
+- Grace Kelly
+
+- Natalie Wood
+
+Clift spielt an Elizabeth Taylors Seite.
+
+George Eastman sieht in der jungen Frau aus wohlhabendem Umfeld auch den Zugang zu einem anderen Leben. Die romantische Nähe und sein Wunsch nach gesellschaftlichem Aufstieg lassen sich deshalb nicht sauber trennen. Clifts Spiel verbindet die Anziehungskraft des jungen Stars mit der Einsamkeit eines Menschen, der unbedingt dazugehören will.
+
+Merksatz: Clift und Taylor tragen eine Liebe im Schatten des Aufstiegswunsches.
+
+Quellen: [1](https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films).
+
+### M1 · mittel
+
+Was hindert den von Montgomery Clift gespielten Priester in „Ich beichte“, sein Wissen über einen Mord einfach der Polizei mitzuteilen?
+
+- Ein eidlicher Auftrag des Geheimdiensts
+
+- Seine Tätigkeit als Anwalt des Verdächtigen
+
+- **Richtig: Das Beichtgeheimnis**
+
+- Ein gerichtlich verhängtes Redeverbot
+
+Er hat das Geständnis während der Beichte gehört.
+
+Pater Logan kennt dadurch den Täter, darf das Wissen nach seinem religiösen Verständnis aber nicht weitergeben. Die äußere Ermittlung trifft auf einen inneren Gewissenskonflikt. Clift bereitete die Rolle auch durch einen Aufenthalt in einem kanadischen Kloster vor; seine zurückhaltenden Reaktionen tragen viel von der Spannung.
+
+Merksatz: Logans Wissen bleibt an das Beichtgeheimnis gebunden.
+
+Quellen: [1](https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films), [2](https://en.wikipedia.org/wiki/I_Confess_(film)).
+
+### M2 · mittel
+
+Welchen Auftrag hat Montgomery Clifts Behördenmitarbeiter in „Wilder Strom“?
+
+- Er soll eine stillgelegte Eisenbahn wieder eröffnen.
+
+- Er soll eine Familie wegen Spionage überwachen.
+
+- Er soll den Verkauf einer Privatbank vermitteln.
+
+- **Richtig: Er soll eine Familie zum Verlassen ihres Landes für ein Staudammprojekt bewegen.**
+
+Chuck Glover soll die Räumung für ein Staudammprojekt erreichen.
+
+Der Mitarbeiter der Tennessee Valley Authority vertritt einen Modernisierungsschritt, der die Lebenswelt einer Familie zerstört. Clift spielt hier keinen gehetzten Außenseiter, sondern einen vergleichsweise gefestigten staatlichen Vermittler. Seine Aufgabe verlangt, zwischen dem allgemeinen Nutzen des Projekts und dem Widerstand konkreter Menschen zu handeln.
+
+Merksatz: Glover vermittelt zwischen Staudamm und gewachsenem Lebensraum.
+
+Quellen: [1](https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films).
+
+### S1 · schwer
+
+Wie bereitete Montgomery Clift seine Soldatenrolle in „Die Gezeichneten“ praktisch vor?
+
+- **Richtig: Er lebte bei einer Einheit amerikanischer Pioniere und beobachtete deren Alltag.**
+
+- Er trainierte monatelang als Fallschirmjäger für Kampfsprünge.
+
+- Er verbrachte die Vorbereitung ausschließlich mit historischen Kostümproben.
+
+- Er spielte die Rolle zunächst in einer langen Broadwayserie.
+
+Clift suchte den Alltag einer Army-Pioniereinheit auf.
+
+Die Beobachtungen flossen auch in seine Überarbeitung einzelner Szenen ein. Das Nachkriegsdrama wurde an zerstörten deutschen Schauplätzen aufgenommen; sein beiläufiges Verhalten fügt sich in diese konkrete Umgebung. Die Vorbereitung zielte auf glaubhafte Gewohnheiten einer Figur und nicht allein auf das korrekte Tragen einer Uniform.
+
+Merksatz: Clifts Soldat entstand aus beobachtetem Alltag.
+
+Quellen: [1](https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films).
+
+### S2 · schwer
+
+Welches Instrument lernte Montgomery Clift für Prewitt in „Verdammt in alle Ewigkeit“?
+
+- Saxofon
+
+- **Richtig: Signalhorn**
+
+- Klarinette
+
+- Akkordeon
+
+Für den militärischen Hornisten lernte er Signalhorn.
+
+Clift nahm außerdem Boxunterricht und arbeitete intensiv mit dem Text und der Romanvorlage. Die musikalische Fertigkeit gehört zu einer umfassenden Vorbereitung, in der Körper, Handwerk und persönliche Haltung der Figur zusammenpassen sollten. Die Filmrolle erschöpft sich damit nicht in einem allgemeinen Bild des traurigen Soldaten.
+
+Merksatz: Zu Prewitts Vorbereitung gehörten Boxen und Signalhorn.
+
+Quellen: [1](https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films).
+
+### E1 · experte
+
+Warum wurde Morris Townsend für Montgomery Clift in „Die Erbin“ gegenüber der Bühnenfassung weniger eindeutig schurkisch angelegt?
+
+- Der Film sollte die Rolle zu einer komischen Nebenfigur machen.
+
+- Die ursprüngliche Liebeshandlung sollte vollständig entfallen.
+
+- **Richtig: Paramount wollte Clifts romantisches Starimage nutzen.**
+
+- Die Zensur verlangte eine ausdrücklich versöhnliche Schlussheirat.
+
+Paramount wollte von Clifts romantischem Starimage profitieren.
+
+Clifts attraktives Starimage macht die Annäherung zunächst plausibel. Zugleich bleibt Townsend als möglicher Mitgiftjäger verdächtig. Die Filmfigur wurde gegenüber dem Bühnenstück weniger eindeutig schurkisch angelegt. Dadurch muss Catherine über einen Menschen entscheiden, dessen freundliche Oberfläche keine verlässliche Auskunft über seine Absichten gibt.
+
+Merksatz: Clifts Starimage beeinflusste die Bearbeitung von Townsends Charakter.
+
+Quellen: [1](https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films).
+
+### E2 · experte
+
+Wie erarbeitete Montgomery Clift den erschütterten Zeugenauftritt in „Das Urteil von Nürnberg“?
+
+- Er improvisierte den gesamten Auftritt ohne Kenntnis der Szene.
+
+- Er übernahm den Vortrag unverändert von einer historischen Tonaufnahme.
+
+- Er ließ seinen Text von einem Berufssprecher nachsynchronisieren.
+
+- **Richtig: Er besprach die Figur intensiv mit Kramer und überarbeitete den Dialog.**
+
+Clift arbeitete mit Stanley Kramer an der Figur und änderte den Dialog gezielt.
+
+Rudolph Petersen berichtet vor Gericht von seiner Zwangssterilisation. Der kurze Auftritt macht juristische Gewalt an einem einzelnen Menschen sichtbar. Clifts scheinbar zusammenbrechender Vortrag entstand durch Vorbereitung und Textarbeit. Die Aussage wirkt wie der verzweifelte Versuch eines Zeugen, unter erneutem Druck verstanden zu werden, und ist kein unkontrollierter Zusammenbruch des Darstellers.
+
+Merksatz: Petersens erschütterte Aussage beruht auf präziser Rollen- und Dialogarbeit.
+
+Quellen: [1](https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films).
+
+## Laurence Olivier · Bekanntheitsgruppe 3
+
+![Laurence Olivier (1939)](Portraets/045.jpg)
+
+Bild: 1939; Carl Van Vechten. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Laurence_Olivier_Carl_Van_Vechten_portrait_3.jpg), [TMDB](https://www.themoviedb.org/person/3359).
+
+### L1 · leicht
+
+Welchen dänischen Prinzen verkörpert Laurence Olivier in seiner eigenen Shakespeare-Verfilmung von 1948?
+
+- **Richtig: Hamlet**
+
+- Fortinbras
+
+- Laertes
+
+- Horatio
+
+Olivier spielt Hamlet und führt zugleich Regie.
+
+Der Film konzentriert die umfangreiche Tragödie auf einen Prinzen, der den Mord am Vater rächen soll und mit sich selbst ringt. Olivier verbindet seine Bühnenkenntnis mit einer betont filmischen Darstellung. Die Kamera folgt ihm durch ein düsteres Schloss, statt lediglich eine Theateraufführung aus fester Zuschauerposition festzuhalten.
+
+Merksatz: Oliviers Hamlet ist Darsteller- und Regiearbeit in einem.
+
+Quellen: [1](https://www.bfi.org.uk/lists/laurence-olivier-10-essential-films).
+
+### L2 · leicht
+
+Welche berufliche Fertigkeit missbraucht Laurence Oliviers Szell in „Der Marathon-Mann“ bei der Folter?
+
+- Schneiderei
+
+- **Richtig: Zahnmedizin**
+
+- Fotografie
+
+- Uhrmacherei
+
+Szell nutzt zahnmedizinische Kenntnisse.
+
+Der gesuchte NS-Verbrecher zwingt den Studenten Babe in eine Situation, in der Fachwissen zur Gewaltausübung dient. Olivier macht die Bedrohung besonders durch die kontrollierte Sachlichkeit des Täters spürbar. Eine alltägliche Behandlungssituation wird dadurch in einen Ort völliger Abhängigkeit verwandelt.
+
+Merksatz: Szells zahnmedizinisches Wissen wird zum Folterwerkzeug.
+
+Gemeinsames Wissensziel: K-F240-20261006-210-L2 (F240-20261006-210-L2).
+
+Quellen: [1](https://www.bfi.org.uk/lists/laurence-olivier-10-essential-films).
+
+### M1 · mittel
+
+Welche Rolle hat Laurence Oliviers Maxim de Winter für die namenlose Hauptfigur in „Rebecca“?
+
+- Er ist ihr Vormund.
+
+- Er ist ihr ehemaliger Arbeitgeber.
+
+- **Richtig: Er ist ihr Ehemann.**
+
+- Er ist ihr verschwundener Bruder.
+
+Maxim ist ihr Ehemann.
+
+Die junge Frau kommt als seine zweite Ehefrau nach Manderley. Dort wirkt die Erinnerung an Rebecca auf den Haushalt und auf Maxims Verhalten ein. Olivier spielt einen Mann, dessen Abgeschlossenheit die neue Ehe belastet: Sein Schweigen lässt die Frau nicht wissen, woran sie mit ihm und der Vergangenheit ist.
+
+Merksatz: Maxim bringt seine zweite Frau in ein Haus voller Erinnerung.
+
+Quellen: [1](https://www.bfi.org.uk/lists/laurence-olivier-10-essential-films), [2](https://en.wikipedia.org/wiki/Rebecca_(1940_film)).
+
+### M2 · mittel
+
+Welchem Unterhaltungsberuf geht Laurence Oliviers Archie Rice in „Der Komödiant“ nach?
+
+- Er spielt komische Rollen beim Stummfilm.
+
+- Er tritt als Zauberkünstler im Varieté auf.
+
+- Er führt als Moderator durch Fernsehrevuen.
+
+- **Richtig: Er unterhält das Publikum als Music-Hall-Künstler.**
+
+Archie Rice ist ein abgehalfterter Music-Hall-Unterhalter.
+
+Die Rolle aus John Osbornes Stück löste Olivier von seinem vorherrschenden Bild als großer Klassiker-Darsteller. Rice versucht, in einer schwindenden Unterhaltungswelt weiterzumachen, während auch sein Privatleben zerfällt. Der bewusste Wechsel zu einer erschöpften, gesellschaftlich bedrängten Figur gehörte zu Oliviers künstlerischer Erneuerung.
+
+Merksatz: Archie Rice zeigt Olivier als erschöpften Unterhaltungskünstler.
+
+Quellen: [1](https://www.bfi.org.uk/lists/laurence-olivier-10-essential-films).
+
+### S1 · schwer
+
+Wie erweitert Laurence Olivier in „Heinrich V.“ die zunächst gezeigte Theaterwelt filmisch?
+
+- **Richtig: Die Handlung verlässt das rekonstruierte Globe und öffnet sich zu Landschaft und Schlachtfeld.**
+
+- Die Handlung bleibt vollständig auf einer leeren Probebühne.
+
+- Die Schlacht wird ausschließlich als Radiosendung hörbar.
+
+- Das gesamte Spiel wechselt in eine moderne Großstadt.
+
+Aus dem Globe-Theater führt der Film in eine räumlich erweiterte Welt.
+
+Olivier beginnt mit einer Rekonstruktion der historischen Aufführungssituation. Später nutzt er Landschaften und Aufnahmen für die Schlacht von Agincourt. Der Übergang macht sichtbar, dass eine Shakespeare-Verfilmung sowohl ihre Bühnenherkunft zeigen als auch die Bewegungsfreiheit des Kinos entfalten kann.
+
+Merksatz: Vom Globe führt „Heinrich V.“ hinaus nach Agincourt.
+
+Quellen: [1](https://www.bfi.org.uk/lists/laurence-olivier-10-essential-films).
+
+### S2 · schwer
+
+Mit welchem Mittel macht Laurence Olivier in „Richard III.“ das Publikum unmittelbar zu Mitwissern der Intrigen?
+
+- Er lässt die Intrigen durch einen neutralen Nachrichtensprecher zusammenfassen.
+
+- **Richtig: Er richtet Richards Rede direkt an die Kamera.**
+
+- Er erklärt Richards Plan ausschließlich mit Briefen im Bild.
+
+- Er lässt die anderen Figuren sämtliche Pläne vorab aussprechen.
+
+Richard spricht das Publikum direkt an.
+
+Olivier überträgt die vertrauliche Ansprache des Bühnenschurken in das Verhältnis zur Filmkamera. Der Zuschauer erfährt Pläne, die den übrigen Figuren verborgen bleiben. So entsteht ein irritierendes Einverständnis mit dem Intriganten: Man kennt seine Absicht und erlebt zugleich, wie er andere täuscht.
+
+Merksatz: Richards Blick zur Kamera macht aus Zuschauern Mitwisser.
+
+Quellen: [1](https://www.bfi.org.uk/lists/laurence-olivier-10-essential-films).
+
+### E1 · experte
+
+Wer ergänzte Laurence Oliviers Stimme für die wiederhergestellte „Austern und Schnecken“-Szene aus „Spartacus“?
+
+- John Gielgud
+
+- Peter O’Toole
+
+- **Richtig: Anthony Hopkins**
+
+- Richard Burton
+
+Anthony Hopkins sprach Oliviers fehlenden Dialog nach.
+
+Die ursprünglich entfernte Szene wurde für die Wiederherstellung des Films ergänzt. Olivier war inzwischen gestorben, sodass seine Stimme nicht neu aufgenommen werden konnte. Hopkins’ Nachsprechen gehört deshalb zu einer Restaurierungsarbeit, die Bild, Dialog und ursprüngliche Darstellung wieder zusammenführen sollte.
+
+Merksatz: Oliviers Crassus erhielt bei der Restaurierung Hopkins’ Stimme.
+
+Quellen: [1](https://www.bfi.org.uk/lists/laurence-olivier-10-essential-films), [2](https://en.wikipedia.org/wiki/Spartacus_(film)).
+
+### E2 · experte
+
+Welche Aufgabe übernahm Laurence Olivier in der Dokumentarserie „Die Welt im Krieg“ („The World at War“)?
+
+- Er führte die Regie aller Folgen.
+
+- Er spielte Winston Churchill in nachgestellten Szenen.
+
+- Er komponierte die Titelmusik.
+
+- **Richtig: Er sprach den verbindenden Kommentar.**
+
+Olivier war der Erzähler der Serie.
+
+Seine Stimme führte durch Archivmaterial und Zeitzeugenberichte. Die schauspielerische Wirkung entstand hier über Tonfall, Rhythmus und sprachliche Zurückhaltung. Der Erzähler musste die historischen Bilder verständlich verbinden, ohne selbst als sichtbare Hauptfigur vor ihnen zu stehen.
+
+Merksatz: Oliviers Stimme führt durch „The World at War“.
+
+Quellen: [1](https://www.bfi.org.uk/lists/laurence-olivier-10-essential-films).
+
+## Max von Sydow · Bekanntheitsgruppe 3
+
+![Max von Sydow (um 1968)](Portraets/046.jpg)
+
+Bild: um 1968; Unknown. CC BY 4.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Max_von_Sydow_SPA1_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/2201).
+
+### L1 · leicht
+
+Mit welchem Spiel fordert Max von Sydows Ritter in „Das siebente Siegel“ den Tod heraus?
+
+- **Richtig: Schach**
+
+- Würfeln
+
+- Backgammon
+
+- Kartenspielen
+
+Antonius Block spielt mit dem Tod Schach.
+
+Der heimkehrende Ritter versucht, Zeit zu gewinnen und eine Antwort auf seine Glaubenszweifel zu finden. Von Sydows ernste, kontrollierte Präsenz hält die Begegnung zwischen Mensch und Allegorie zusammen. Das berühmte Bild ist deshalb mehr als ein ungewöhnlicher Wettkampf: Es macht das Nachdenken über Sterblichkeit unmittelbar sichtbar.
+
+Merksatz: Von Sydows Ritter gewinnt beim Schach Zeit gegen den Tod.
+
+Gemeinsames Wissensziel: K-ART-05-01 (ART-L-009).
+
+Quellen: [1](https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films).
+
+### L2 · leicht
+
+Welchen Priester spielt Max von Sydow im ersten „Exorzist“-Film?
+
+- Pater Karras
+
+- **Richtig: Pater Merrin**
+
+- Pater Dyer
+
+- Pater Lamont
+
+Von Sydow spielt Pater Lankester Merrin.
+
+Merrin kommt als erfahrener Exorzist zur Hilfe, während der jüngere Karras mit persönlichen und religiösen Zweifeln ringt. Die beiden Figuren haben unterschiedliche Aufgaben. Von Sydows große Ruhe und sein gealtertes Erscheinungsbild lassen Merrin als jemanden wirken, der die Gefahr bereits kennt.
+
+Merksatz: Von Sydow ist der erfahrene Pater Merrin.
+
+Quellen: [1](https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films).
+
+### M1 · mittel
+
+Mit welchem schwedischen Regisseur verband Max von Sydow eine prägende, langjährige Zusammenarbeit?
+
+- Bo Widerberg
+
+- Roy Andersson
+
+- **Richtig: Ingmar Bergman**
+
+- Lukas Moodysson
+
+Die Zusammenarbeit mit Ingmar Bergman prägte seinen frühen Filmruhm.
+
+Bergman setzte von Sydow für sehr unterschiedliche Figuren ein: Ihre gemeinsamen Arbeiten verhandeln Glauben, Kunst und die Folgen von Gewalt. Die ernste Erscheinung des Darstellers durfte dabei nicht nur Autorität ausstrahlen. Sie konnte ebenso Unsicherheit, Selbsttäuschung und moralischen Zusammenbruch sichtbar machen.
+
+Merksatz: Von Sydows frühe Filmkunst ist eng mit Bergman verbunden.
+
+Quellen: [1](https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films).
+
+### M2 · mittel
+
+Welche familiäre Aufgabe hat Max von Sydows Lasse in „Pelle, der Eroberer“?
+
+- Er sucht als älterer Bruder nach Pelle.
+
+- Er erzieht Pelle als dessen angestellter Hauslehrer.
+
+- Er ist Pelles dänischer Arbeitgeber.
+
+- **Richtig: Er ist Pelles Vater und versucht, den Sohn als Einwanderer zu schützen.**
+
+Lasse ist Pelles Vater.
+
+Vater und Sohn kommen aus Schweden auf die dänische Insel Bornholm. Die Hoffnung auf ein besseres Leben trifft auf harte Arbeitsbedingungen und soziale Demütigung. Von Sydow zeigt einen Vater, dessen Würde nicht mit uneingeschränkter Stärke zusammenfällt; er möchte Schutz geben und stößt doch selbst an Grenzen.
+
+Merksatz: Lasse versucht, Pelle in einer fremden Arbeitswelt Halt zu geben.
+
+Quellen: [1](https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films).
+
+### S1 · schwer
+
+Wer gestaltete die Altersmaske, mit der Max von Sydow in „Der Exorzist“ ungefähr drei Jahrzehnte älter wirkte?
+
+- **Richtig: Dick Smith**
+
+- John Chambers
+
+- Stuart Freeborn
+
+- Jack Pierce
+
+Maskenbildner Dick Smith schuf das deutlich gealterte Erscheinungsbild.
+
+Von Sydow war zur Zeit des Films erheblich jünger als Merrin. Die Maske vermittelt Lebenserfahrung, bevor er viel über seine Vergangenheit sagt. Zusammen mit Körperhaltung und ruhiger Stimme entsteht eine Figur, deren Alter als dramatische Information funktioniert und nicht dem tatsächlichen Lebensalter des Schauspielers entspricht.
+
+Merksatz: Merrins Alter ist eine gemeinsam gestaltete Filmillusion.
+
+Quellen: [1](https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films).
+
+### S2 · schwer
+
+Welchen Weg verfolgt Jan Troells Zweiteiler mit Max von Sydow und Liv Ullmann, „Die Auswanderer“ und „Das neue Land“?
+
+- Von Dänemark nach Argentinien
+
+- **Richtig: Von Schweden nach Minnesota**
+
+- Von Norwegen nach Australien
+
+- Von Finnland nach Kanada
+
+Die Geschichte führt aus Småland nach Minnesota.
+
+Troell folgt Bauern und religiösen Außenseitern auf ihrem Weg aus Armut und Enge in eine neue Existenz. Die beiden Filme verbinden Aufbruch mit dem mühsamen Aufbau eines Lebens in Amerika. Von Sydow und Ullmann tragen eine lange Entwicklung, in der Hoffnung und Verlust zusammengehören.
+
+Merksatz: Troells Auswanderer verlassen Schweden und bauen in Minnesota neu auf.
+
+Quellen: [1](https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films).
+
+### E1 · experte
+
+Wie gestaltet Max von Sydow den Vorführer Vogler in Bergmans „Das Gesicht“ über weite Strecken?
+
+- Als ununterbrochen redenden Bühnenkomiker
+
+- Als Erzähler außerhalb der sichtbaren Handlung
+
+- **Richtig: Als scheinbar stummen Künstler, der unter skeptischer Beobachtung steht**
+
+- Als Sänger, dessen Dialoge vollständig vertont sind
+
+Vogler gibt sich lange als stumm aus.
+
+Der Künstler wird von einem wissenschaftlichen Skeptiker als möglicher Scharlatan geprüft. Von Sydow muss die Spannung deshalb über Gesicht, Haltung und die Reaktionen anderer tragen. Das scheinbare Schweigen gehört zum Machtkampf um Illusion und Entlarvung und macht den Körper selbst zum Ort der Darstellung.
+
+Merksatz: Voglers Schweigen steht im Zentrum einer Prüfung seiner Kunst.
+
+Quellen: [1](https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films).
+
+### E2 · experte
+
+Welche Veränderung vollzieht Max von Sydows Jan in Bergmans „Schande“ unter dem Druck des Krieges?
+
+- Vom politischen Anführer zum weltabgewandten Mönch
+
+- Vom gewalttätigen Offizier zum kompromisslosen Pazifisten
+
+- Vom wohlhabenden Industriellen zum idealistischen Lehrer
+
+- **Richtig: Vom konfliktscheuen Musiker zum Mann, der selbst tötet**
+
+Der zunächst ängstliche Musiker wird selbst zum Täter.
+
+Zu Beginn lebt das Paar abseits der Politik und hofft, sich heraushalten zu können. Der Krieg zerstört diese Distanz. Von Sydow zeigt den moralischen Abstieg nicht als Entfaltung einer von Anfang an offenkundigen Brutalität, sondern als erschreckende Veränderung eines scheinbar unkriegerischen Menschen.
+
+Merksatz: Jans Rückzug vor der Gewalt verhindert seine eigene Verrohung nicht.
+
+Quellen: [1](https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films).
+
+## Christopher Lee · Bekanntheitsgruppe 3
+
+![Christopher Lee (1958)](Portraets/047.png)
+
+Bild: 1958; HD Retro Trailers. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Dracula_(1958)_trailer_-_Christopher_Lee.png), [TMDB](https://www.themoviedb.org/person/113).
+
+### L1 · leicht
+
+Welche klassische Horrorfigur machte Christopher Lee ab 1958 in den Hammer-Filmen besonders berühmt?
+
+- **Richtig: Graf Dracula**
+
+- Die Mumie Imhotep
+
+- Dr. Jekyll
+
+- Der Wolfsmensch
+
+Lee wurde zu einem prägenden Darsteller des Grafen Dracula.
+
+Sein großer Körper, die Stimme und die kontrollierte Bewegung verliehen dem Vampir eine neue Präsenz. Bedrohung und Anziehung konnten gleichzeitig wirken. Die Rolle eröffnete eine lange Horrorfilmphase, legte Lee aber auch auf Erwartungen fest, aus denen er später mit anderen Charakteren auszubrechen versuchte.
+
+Merksatz: Lees Dracula verbindet aristokratische Haltung und körperliche Gefahr.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/news/christopher-lee-1922-2015-one-cinemas-world-class-villains), [2](https://www.bfi.org.uk/lists/peter-cushing-10-essential-films).
+
+### L2 · leicht
+
+Welchen Zauberer spielt Christopher Lee in Peter Jacksons „Herr der Ringe“-Filmen?
+
+- Gandalf
+
+- **Richtig: Saruman**
+
+- Radagast
+
+- Alatar
+
+Lee spielt Saruman.
+
+Der weiße Zauberer benutzt Wissen und Autorität, um andere zu beherrschen. Lees ruhiger Vortrag und seine mächtige Stimme geben dieser Verführungskraft eine konkrete Form. Die Besetzung knüpft an seine Erfahrung mit bedrohlichen Autoritätsfiguren an und bringt sie in eine große Fantasywelt ein.
+
+Merksatz: Christopher Lees Zauberer heißt Saruman.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/news/christopher-lee-1922-2015-one-cinemas-world-class-villains), [2](https://www.bfi.org.uk/lists/christopher-lee-10-essential-films).
+
+### M1 · mittel
+
+Wie heißt Christopher Lees Gegenspieler von James Bond in „Der Mann mit dem goldenen Colt“?
+
+- Ernst Stavro Blofeld
+
+- Hugo Drax
+
+- **Richtig: Francisco Scaramanga**
+
+- Karl Stromberg
+
+Lee spielt den Auftragsmörder Francisco Scaramanga.
+
+Scaramanga ist Bond als Schütze und Genussmensch verwandt, steht aber auf der anderen Seite. Lee verleiht dem Killer höfliche Selbstsicherheit und einen spielerischen Umgang mit seiner tödlichen Fähigkeit. Die Gefahr entsteht gerade aus einem Gegner, der nicht wie ein bloß grobschlächtiger Handlanger auftritt.
+
+Merksatz: Scaramanga ist Lees eleganter, tödlicher Anti-Bond.
+
+Quellen: [1](https://www.bfi.org.uk/lists/christopher-lee-10-essential-films).
+
+### M2 · mittel
+
+Welchen Part spielt Christopher Lee in „Frankensteins Fluch“ von 1957?
+
+- Victors wissenschaftlichen Lehrer
+
+- Den Gefängnisgeistlichen
+
+- Baron Victor Frankenstein
+
+- **Richtig: Die von Frankenstein geschaffene Kreatur**
+
+Lee verkörpert die Kreatur; Peter Cushing spielt ihren Schöpfer.
+
+Lee gestaltet das Geschöpf als beschädigtes, fremdgesteuertes Wesen. Dessen Gewalttätigkeit steht neben einer körperlichen Hilflosigkeit, die eher Mitleid als souveräne Bosheit weckt. Die Unterscheidung vom ehrgeizigen Wissenschaftler ist entscheidend: Mensch und Kreatur erfüllen sehr verschiedene Funktionen in diesem Horrorfilm.
+
+Merksatz: Lee ist die Kreatur, Cushing ihr Schöpfer.
+
+Quellen: [1](https://www.bfi.org.uk/lists/christopher-lee-10-essential-films).
+
+### S1 · schwer
+
+Wen spielt Christopher Lee in Billy Wilders „Das Privatleben des Sherlock Holmes“?
+
+- **Richtig: Mycroft, Sherlock Holmes’ Bruder**
+
+- Professor Moriarty
+
+- Inspektor Lestrade
+
+- Dr. Watson
+
+Lee spielt Mycroft Holmes.
+
+Mycrofts kultivierter, spöttischer Humor bot Lee Raum jenseits seiner häufigen Gruselrollen. Die Arbeit mit Wilder war für ihn deshalb ein bedeutender Schritt aus seiner selbst so bezeichneten Friedhofsphase. Der Auftritt veränderte auch, welche Möglichkeiten andere Filmschaffende in seinem Spiel sahen.
+
+Merksatz: Wilders Mycroft zeigte eine andere Seite von Lees Autorität.
+
+Quellen: [1](https://www.bfi.org.uk/lists/christopher-lee-10-essential-films), [2](https://www.bfi.org.uk/sight-and-sound/news/christopher-lee-1922-2015-one-cinemas-world-class-villains).
+
+### S2 · schwer
+
+Bei welcher britischen Filmorganisation wurde Christopher Lee nach dem Krieg für die Nachwuchsschule „Company of Youth“ verpflichtet?
+
+- Ealing Studios
+
+- **Richtig: Rank Organisation**
+
+- Hammer Film Productions
+
+- London Films
+
+Lee erhielt einen Vertrag bei der Rank Organisation.
+
+Die sogenannte Charm School in Highbury sollte jungen Vertragsschauspielern den Einstieg ermöglichen. Lee begann dadurch mit Ausbildung, kleinen Auftritten und Filmrollen, lange bevor er bei Hammer zum Star wurde. Sein Durchbruch als Horrorfigur war also nicht zugleich sein erster Schritt in den Beruf.
+
+Merksatz: Vor Hammer kam Lees Nachwuchsvertrag bei Rank.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/news/christopher-lee-1922-2015-one-cinemas-world-class-villains).
+
+### E1 · experte
+
+Was geschah mit Christopher Lees Saruman-Szenen in der ursprünglichen Kinofassung von „Die Rückkehr des Königs“?
+
+- Sie wurden vollständig mit einem anderen Darsteller neu gedreht.
+
+- Sie wurden als Rückblenden an den Filmanfang gesetzt.
+
+- **Richtig: Sie entfielen und wurden erst in der erweiterten Fassung zugänglich.**
+
+- Sie wurden ausschließlich als Zeichentricksequenz verwendet.
+
+Saruman fehlt in der Kinofassung; die erweiterte Fassung enthält seinen Abschluss.
+
+Lee drehte noch 2003 Material für den dritten Film. Die Entscheidung beim Schnitt veränderte dennoch, was das Kinopublikum von seiner Figur sah. Ein Schauspielauftritt entsteht damit nicht allein am Drehort: Auswahl und Fassung bestimmen, ob eine bereits gespielte Szene Teil der veröffentlichten Erzählung wird.
+
+Merksatz: Saruman kehrt in der erweiterten Fassung zurück.
+
+Quellen: [1](https://www.bfi.org.uk/lists/christopher-lee-10-essential-films).
+
+### E2 · experte
+
+In welcher Musikrichtung wirkte Christopher Lee an den „Charlemagne“-Konzeptalben mit?
+
+- Swing
+
+- Country
+
+- Barockoper
+
+- **Richtig: Heavy Metal**
+
+Die Alben verbinden Lee mit Heavy Metal.
+
+Lee setzte seine Stimme im hohen Alter auch für Musik über Karl den Großen ein. 2010 erschien das erste „Charlemagne“-Album. Damit bekam die bekannte Stimme außerhalb des Kinos ein neues Arbeitsfeld, das historische Erzählung und eine überraschende Musikrichtung zusammenführte.
+
+Merksatz: Lees späte Musikkarriere führte bis zum Heavy Metal.
+
+Quellen: [1](https://www.lemonde.fr/cinema/article/2012/12/24/de-dracula-au-heavy-metal-les-chansons-de-noel-de-christopher-lee_5981212_3476.html).
+
+## Peter Cushing · Bekanntheitsgruppe 3
+
+![Peter Cushing (1958)](Portraets/048.jpg)
+
+Bild: 1958; Screenshot from "Internet Archive" of the movie Dracula (1958). Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Dracula_(1958)_trailer_-_Peter_Cushing_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/5).
+
+### L1 · leicht
+
+Welche Figur spielt Peter Cushing im ersten „Star Wars“-Kinofilm von 1977?
+
+- **Richtig: Großmoff Tarkin**
+
+- Obi-Wan Kenobi
+
+- Imperator Palpatine
+
+- General Dodonna
+
+Cushing verkörpert Großmoff Tarkin.
+
+Tarkin gibt der Macht des Imperiums ein menschliches Gesicht. Seine höfliche Kälte und sichere Autorität machen deutlich, dass die Bedrohung nicht allein von Darth Vaders Maske ausgeht. Cushing bringt eine bereits aus früheren Rollen bekannte Fähigkeit zur präzisen Darstellung herrischer Figuren in die Weltraumgeschichte ein.
+
+Merksatz: Tarkin ist Cushings menschliches Gesicht imperialer Macht.
+
+Quellen: [1](https://www.bfi.org.uk/lists/peter-cushing-10-essential-films).
+
+### L2 · leicht
+
+Wen verkörpert Peter Cushing als Gegner von Christopher Lees Dracula in der Hammer-Verfilmung von 1958?
+
+- Jonathan Harker
+
+- **Richtig: Van Helsing**
+
+- Arthur Holmwood
+
+- Dr. Seward
+
+Cushing spielt den Vampirjäger Van Helsing.
+
+Hier steht er auf der rettenden Seite des Konflikts. Der gelehrte Gegner des Vampirs muss Wissen in entschlossenes Handeln umsetzen. Cushing verbindet dafür Intelligenz mit einer für seine Rollen auffallend beweglichen, abenteuerlichen Energie; der Schlusskampf verlangt mehr als das Vortragen einer richtigen Erklärung.
+
+Merksatz: Cushings Van Helsing verbindet Wissen und Tatkraft.
+
+Quellen: [1](https://www.bfi.org.uk/lists/peter-cushing-10-essential-films).
+
+### M1 · mittel
+
+Welche Stellung hat Peter Cushings Figur in „Frankensteins Fluch“?
+
+- Sie ist die wiederbelebte Kreatur.
+
+- Sie untersucht den Fall als Polizeibeamter.
+
+- **Richtig: Sie ist der Wissenschaftler, der die Kreatur erschafft.**
+
+- Sie ist der Lehrer, der alle Versuche verhindert.
+
+Cushing spielt den ehrgeizigen Baron Frankenstein.
+
+Seine Figur stellt die eigenen Experimente über das Leben anderer Menschen. Der Horror entsteht deshalb auch aus dem scheinbar vernünftigen Forscher, nicht nur aus dem sichtbaren Geschöpf. Cushings beherrschte Darstellung macht die Rücksichtslosigkeit gerade dort spürbar, wo der Baron sachlich und überlegen zu wirken versucht.
+
+Merksatz: Bei Cushing sitzt das Entsetzen auch im Kopf des Forschers.
+
+Quellen: [1](https://www.bfi.org.uk/lists/peter-cushing-10-essential-films).
+
+### M2 · mittel
+
+Welche Orwell-Figur spielte Peter Cushing 1954 in der BBC-Fernsehfassung von „1984“?
+
+- O’Brien
+
+- Emmanuel Goldstein
+
+- Big Brother
+
+- **Richtig: Winston Smith**
+
+Cushing spielt Winston Smith.
+
+Diese Fernsehproduktion entstand drei Jahrzehnte vor der Kinofassung mit John Hurt. Cushing zeigt den Versuch eines gewöhnlichen Menschen, in einer überwachten Welt Nähe und Eigenständigkeit zu bewahren. Die damalige Darstellung von Folter und Erniedrigung führte zu einer öffentlichen Kontroverse über das Fernsehprogramm.
+
+Merksatz: Cushing war schon 1954 Winston Smith im BBC-Fernsehen.
+
+Quellen: [1](https://www.bfi.org.uk/lists/peter-cushing-10-essential-films), [2](https://www.bfi.org.uk/features/nineteen-eighty-four-adaptations).
+
+### S1 · schwer
+
+Warum folgte auf Peter Cushings Sherlock-Holmes-Film „Der Hund von Baskerville“ keine damals geplante Hammer-Kinoreihe?
+
+- **Richtig: Der Film blieb an der Kinokasse hinter den Erwartungen zurück.**
+
+- Cushing war anschließend durch einen exklusiven Fernsehvertrag gebunden.
+
+- Ein Streit um die Rechte verhinderte weitere Hammer-Verfilmungen.
+
+- Das Studio entschied sich gegen Reihen und nur noch für Einzelfilme.
+
+Der erhoffte Kinoerfolg blieb aus.
+
+Hammer hatte mit dem Film eine Reihe beginnen wollen. Der Plan wurde nach dem enttäuschenden Ergebnis aufgegeben. Cushing kehrte später im BBC-Fernsehen zu Holmes zurück. Eine Rolle kann also zum festen Repertoire eines Darstellers werden, auch wenn die zunächst vorgesehene Produktionsserie nicht zustande kommt.
+
+Merksatz: Hammer stoppte den Kino-Reihenplan; Cushing blieb Holmes dennoch verbunden.
+
+Quellen: [1](https://www.bfi.org.uk/lists/peter-cushing-10-essential-films).
+
+### S2 · schwer
+
+Welche Rollen spielen Peter Cushing und sein früherer Watson André Morell in „Cash on Demand“?
+
+- Richter und Verteidiger
+
+- **Richtig: Bankmanager und Bankräuber**
+
+- Gefängnisdirektor und Gefangener
+
+- Versicherungsagent und Polizeiermittler
+
+Cushing ist der Bankmanager, Morell der Räuber.
+
+Die früheren Holmes-und-Watson-Darsteller begegnen sich nun als Gegner. Während die übrigen Bankangestellten den Überfall zunächst nicht bemerken, muss der Manager unter Druck funktionieren. Morells verbindlicher Charme und Cushings wachsende Angst tragen einen Film, der über weite Strecken von ihrem Zusammenspiel lebt.
+
+Merksatz: Aus Holmes und Watson werden Manager und Räuber.
+
+Quellen: [1](https://www.bfi.org.uk/lists/peter-cushing-10-essential-films).
+
+### E1 · experte
+
+Welche Aktion führte Peter Cushing im Finale von „Dracula“ selbst aus?
+
+- Den vollständigen Kampf unter Wasser
+
+- Den Sprung vom Schlossturm auf ein fahrendes Pferd
+
+- **Richtig: Den Sprung zum Vorhang, um Sonnenlicht hereinzulassen**
+
+- Den Sturz durch eine einstürzende Treppe
+
+Cushing sprang selbst zum Vorhang, der das Sonnenlicht abhielt.
+
+Van Helsings Sieg erfordert einen schnellen körperlichen Zugriff auf die Umgebung. Cushing übernahm bei dem Schlusskampf mehrere Stunts selbst. Die Szene ergänzt das Bild des intellektuellen Charakterschauspielers um präzise Bewegung und zeigt, wie Wissen und körperliche Ausführung in einer Rolle zusammenwirken.
+
+Merksatz: Van Helsing gewinnt auch durch Cushings eigenen Sprung.
+
+Quellen: [1](https://www.bfi.org.uk/lists/peter-cushing-10-essential-films).
+
+### E2 · experte
+
+Wie erhielt Tarkin in „Rogue One“ wieder Peter Cushings Gesicht, obwohl Cushing bereits verstorben war?
+
+- Durch eine neu entdeckte vollständige Aufnahme von Cushing
+
+- Durch eine unveränderte Szene aus dem Film von 1977
+
+- Durch Maskenbild ohne digitale Bildbearbeitung
+
+- **Richtig: Durch eine digitale Rekonstruktion über Guy Henrys neuem Spiel**
+
+Guy Henry spielte die Rolle; digitale Effekte rekonstruierten Cushings Gesicht.
+
+Industrial Light & Magic verband eine neue Darstellung mit dem rekonstruierten Erscheinungsbild. Henrys Bewegungen und Ausdruck lieferten dafür die Grundlage. Der sichtbare Tarkin gehört somit zu mehreren Arbeitsleistungen: der ursprünglichen Figurenprägung durch Cushing, dem neuen Schauspiel und der Gestaltung durch die Effektabteilung.
+
+Merksatz: Der neue Tarkin verbindet Guy Henrys Spiel mit Cushings rekonstruiertem Aussehen.
+
+Quellen: [1](https://www.motionpictures.org/2017/09/watch-vfx-magic-brought-peter-cushing-back-life-rogue-one/), [2](https://www.ilm.com/vfx/rogue-one/).
+
+## Vincent Price · Bekanntheitsgruppe 3
+
+![Vincent Price (1969)](Portraets/049.jpg)
+
+Bild: 1969; CBS Television. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Vincent_Price_in_The_Good_Guys_1969_(cropped).JPG), [TMDB](https://www.themoviedb.org/person/1905).
+
+### L1 · leicht
+
+Welchen Beruf hat Vincent Prices rachsüchtige Hauptfigur in „Das Kabinett des Professor Bondi“?
+
+- Er ist Leichenbeschauer
+
+- Er ist Puppenspieler
+
+- **Richtig: Er ist Bildhauer eines Wachsfigurenkabinetts**
+
+- Er ist Zauberkünstler
+
+Price spielt einen auf Wachsfiguren spezialisierten Bildhauer.
+
+Die Rolle machte Price in den 1950er-Jahren zu einem prägenden Gesicht des Horrorfilms. Das scheinbar elegante Ausstellungsmilieu verbindet Kunstfertigkeit mit tödlicher Bedrohung. Sein kultiviertes Auftreten wird dadurch zur Fassade einer Figur, die nach einer Katastrophe Rache sucht.
+
+Merksatz: Prices Bondi verwandelt das Wachsfigurenkabinett in einen Ort des Schreckens.
+
+Quellen: [1](https://www.vincentprice.com/about).
+
+### L2 · leicht
+
+Auf welcher berühmten Aufnahme von Michael Jackson ist Vincent Prices gesprochener Gruselbeitrag zu hören?
+
+- **Richtig: Thriller**
+
+- Bad
+
+- Billie Jean
+
+- Beat It
+
+Price spricht den markanten Gruseltext in „Thriller“.
+
+Seine Stimme trug den Horrorfilmklang in einen weltweit bekannten Popsong. Die Wirkung beruht auf dem Gegensatz zwischen dem Tanzrhythmus und Prices bedrohlich gesprochener Passage. Der Auftritt gehört zu seinen späten Arbeiten, bei denen schon der Klang seiner Stimme einen starken Wiedererkennungswert hatte.
+
+Merksatz: Prices Horrorfilmstimme gehört zum Klang von „Thriller“.
+
+Quellen: [1](https://www.vincentprice.com/about).
+
+### M1 · mittel
+
+Warum konnte der Erfinder (Vincent Price) in „Edward mit den Scherenhänden“ Edwards Hände nicht fertigstellen?
+
+- Die Bewohner zerstörten seine Werkstatt
+
+- Edward lief vorzeitig davon
+
+- Ihm wurde das nötige Metall gestohlen
+
+- **Richtig: Er starb, bevor er Edward die vorgesehenen Hände geben konnte**
+
+Der Erfinder stirbt vor der Vollendung seiner Schöpfung.
+
+Edward (Johnny Depp) erinnert sich an den Moment, in dem sein Schöpfer ihm menschliche Hände überreichen wollte. Dessen plötzlicher Tod lässt die künstlichen Scherenhände zurück. Die liebevolle Beziehung zum Erfinder erklärt, warum Edward zugleich geschaffen, unfertig und auf sich allein gestellt ist.
+
+Merksatz: Der Tod des Erfinders lässt Edward mit Scherenhänden zurück.
+
+Quellen: [1](https://catalog.afi.com/Film/58487-EDWARD-SCISSORHANDS), [2](https://www.20thcenturystudios.com/movies/edward-scissorhands).
+
+### M2 · mittel
+
+Warum verfolgt Richard Marshall (Ian Ogilvy) in „Der Hexenjäger“ Matthew Hopkins (Vincent Price)?
+
+- Hopkins raubte die Soldkasse und ließ Richards Vater verhaften
+
+- **Richtig: Hopkins ließ den Priester John Lowes töten und misshandelte Sara**
+
+- Hopkins verbrannte Richards Haus und raubte seine Ernte
+
+- Hopkins ermordete den Kommandanten und beschuldigte Richard
+
+Richard will sich für die Gewalt an seiner Verlobten und dem Priester Lowes rächen.
+
+Hopkins kommt in ein Dorf, dessen Bewohner den Priester Lowes (Rupert Davies) und Sara (Hilary Heath) der Hexerei beschuldigen. Nach dem Mord an Lowes und der Misshandlung Saras nimmt ihr Verlobter Richard die Verfolgung auf. Aus Hopkins’ Terror entsteht so eine persönliche Rachegeschichte.
+
+Merksatz: Die Gewalt an Sara und dem Priester John Lowes macht Richard zu Hopkins’ Verfolger.
+
+Quellen: [1](https://www.bfi.org.uk/features/witchfinder-general-michael-reeves-vincent-price), [2](https://www.bfi.org.uk/features/witchfinder-general-locations-vincent-price-folk-horror).
+
+### S1 · schwer
+
+Wessen Erzählungen verbinden Vincent Prices Zusammenarbeit mit Roger Corman in Filmen wie „Die Verfluchten“ und „Das Pendel des Todes“?
+
+- H. P. Lovecrafts
+
+- Bram Stokers
+
+- **Richtig: Edgar Allan Poes**
+
+- Mary Shelleys
+
+Corman und Price arbeiteten an einem Zyklus nach Edgar Allan Poe.
+
+Die Adaptionen machten Price zu einem wiederkehrenden Gesicht einer literarisch geprägten Horrorwelt. Verfall, Schuld und bedrohte Familien verbinden die Stoffe. Die Zusammenarbeit erstreckte sich über mehrere eigenständige Filme; sie bildet keine fortlaufende Geschichte derselben Figur.
+
+Merksatz: Corman und Price führen in die unheimliche Welt Poes.
+
+Quellen: [1](https://www.bfi.org.uk/lists/roger-corman-10-essential-films), [2](https://www.vincentprice.com/about).
+
+### S2 · schwer
+
+Welchen Schriftsteller verkörperte Vincent Price in seinem Bühnen-Soloprogramm „Diversions and Delights“?
+
+- **Richtig: Oscar Wilde**
+
+- Edgar Allan Poe
+
+- Charles Dickens
+
+- Mark Twain
+
+Price trat als Oscar Wilde auf.
+
+Die Library of Congress dokumentiert die Tournee mit dem Einpersonenstück von 1977 bis 1982. Price stellte seine Stimme und Bühnenpräsenz dabei in den Dienst eines Schriftstellerporträts. Die Arbeit zeigt eine fortgesetzte Theaterlaufbahn neben dem öffentlichen Bild als Horrorfilmstar.
+
+Merksatz: In „Diversions and Delights“ wurde Price auf der Bühne zu Oscar Wilde.
+
+Quellen: [1](https://findingaids.loc.gov/repositories/19/resources/2033).
+
+### E1 · experte
+
+Wie unterstützten Vincent Price und seine Frau Mary 1957 den Aufbau eines Museums am East Los Angeles College?
+
+- Sie entwarfen einen neuen Ausstellungsbau
+
+- Sie restaurierten bereits vorhandene Sammlungsbestände
+
+- Sie finanzierten den Ankauf einer Gemäldesammlung
+
+- **Richtig: Sie spendeten Werke aus ihrer privaten Kunstsammlung**
+
+Ihre Kunstspende bildete den Grundstock der Museumssammlung.
+
+Das heutige Vincent Price Art Museum nennt 90 Werke als ursprüngliche Schenkung des Ehepaars. Price gab in den folgenden Jahrzehnten weitere Kunstwerke hinzu. Der Bestand umfasste von Beginn an unterschiedliche Weltregionen und machte seine private Sammelleidenschaft für ein öffentliches Bildungsumfeld zugänglich.
+
+Merksatz: Prices private Sammlung wurde zum öffentlichen Museumsbestand.
+
+Quellen: [1](https://vincentpriceartmuseum.org/collections.html).
+
+### E2 · experte
+
+Welches Sachgebiet behandelten Vincent Price und seine Frau Mary in ihrem gemeinsamen Buch von 1965?
+
+- Die Geschichte des Horrorfilms
+
+- **Richtig: Internationale Küche und Rezepte**
+
+- Die Restaurierung alter Gemälde
+
+- Die Architektur europäischer Theater
+
+Gemeinsam veröffentlichten sie ein Kochbuch.
+
+„A Treasury of Great Recipes“ gehört zu Prices Arbeiten als begeisterter Feinschmecker. Die offizielle Nachlassseite nennt Mary ausdrücklich als Mitautorin. Das Projekt steht neben seinen Büchern über Kunst und zeigt, dass seine Interessen auch in eigenständigen Sachpublikationen sichtbar wurden.
+
+Merksatz: Price schrieb mit Mary über gutes Essen.
+
+Quellen: [1](https://www.vincentprice.com/about), [2](https://www.vincentprice.com/).
+
+## Christopher Plummer · Bekanntheitsgruppe 3
+
+![Christopher Plummer (1964)](Portraets/050.jpg)
+
+Bild: 1964; 20th Century Fox. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Christopher_Plummer_1964.jpg), [TMDB](https://www.themoviedb.org/person/290).
+
+### L1 · leicht
+
+Welche Figur spielt Christopher Plummer in „Meine Lieder – meine Träume“?
+
+- Max Detweiler
+
+- **Richtig: Captain von Trapp**
+
+- Herr Zeller
+
+- Franz
+
+Plummer spielt Captain von Trapp.
+
+Der verwitwete Vater führt sein Haus zunächst mit strenger Disziplin. Maria (Julie Andrews) bringt Musik und neue Nähe in das Familienleben. Plummers Figur verändert sich dadurch vom distanzierten Hausherrn zum Partner der Erzieherin; die politische Bedrohung zwingt die Familie schließlich zur Flucht.
+
+Merksatz: Plummer ist der strenge Vater der Familie von Trapp.
+
+Quellen: [1](https://www.rsc.org.uk/news/archive/christopher-plummer-1929-2021).
+
+### L2 · leicht
+
+Welcher Figur leiht Christopher Plummer in der englischen Originalfassung von „Oben“ seine Stimme?
+
+- Carl Fredricksen
+
+- Russell
+
+- Dug
+
+- **Richtig: Charles Muntz**
+
+Er spricht den Abenteurer Charles Muntz.
+
+Muntz war in Carls Kindheit ein bewunderter Entdecker. Die spätere Begegnung zeigt jedoch einen besessenen Mann, der seinen beschädigten Ruf um jeden Preis wiederherstellen will. Plummers Stimme verbindet den zunächst eindrucksvollen Gastgeber mit der wachsenden Bedrohung für die Reisenden.
+
+Merksatz: Plummers Stimme gehört dem einst gefeierten Entdecker Muntz.
+
+Quellen: [1](https://www.pixar.com/up), [2](https://d23.com/app/uploads/2012/08/azsupp_082712.pdf).
+
+### M1 · mittel
+
+Welche späte persönliche Veränderung erlebt Hal (Christopher Plummer) in „Beginners“ nach dem Tod seiner Frau?
+
+- **Richtig: Er lebt erstmals offen als schwuler Mann**
+
+- Er tritt in ein Kloster ein
+
+- Er bricht jeden Kontakt zu seinem Sohn ab
+
+- Er beginnt eine neue Karriere als Berufsmusiker
+
+Hal lebt nach der langen Ehe offen schwul.
+
+Sein Sohn Oliver (Ewan McGregor) erinnert sich nach Hals Tod an dessen neu gewonnene Offenheit. Die Erfahrungen des Vaters ermutigen ihn bei seiner eigenen Beziehung zu Anna (Mélanie Laurent). Regisseur Mike Mills beschreibt den Film als von seinem Vater angeregt, ohne Hal als bloße Kopie einer realen Person zu verstehen.
+
+Merksatz: Hals später Neuanfang verändert auch den Blick seines Sohnes auf Liebe.
+
+Quellen: [1](https://www.focusfeatures.com/beginners), [2](https://www.focusfeatures.com/article/beginners_director___s_statement).
+
+### M2 · mittel
+
+Womit hat Harlan Thrombey (Christopher Plummer) in „Knives Out“ sein Vermögen verdient?
+
+- Mit einer Hotelkette
+
+- Mit einer Privatbank
+
+- **Richtig: Mit Kriminalromanen**
+
+- Mit einem Pharmaunternehmen
+
+Harlan ist ein erfolgreicher Kriminalschriftsteller.
+
+Nach seinem fünfundachtzigsten Geburtstag wird Harlan tot auf seinem Anwesen gefunden. Der Ermittler Benoit Blanc (Daniel Craig) prüft die widersprüchlichen Interessen seiner Familie und seines Personals. Das Vermögen eines Autors von Rätselgeschichten wird damit zum Einsatz eines neuen Kriminalfalls.
+
+Merksatz: Der Krimiautor Harlan wird selbst zum Mittelpunkt eines Rätsels.
+
+Quellen: [1](https://app.powster.com/lionsgateus/knives-out/us/synopsis/).
+
+### S1 · schwer
+
+Welche ungewöhnliche Produktionsaufgabe übernahm Christopher Plummer bei „Alles Geld der Welt“ kurz vor dem Kinostart?
+
+- **Richtig: Er drehte Kevin Spaceys bereits aufgenommene Rolle neu**
+
+- Er vervollständigte das Drehbuch als Coautor
+
+- Er übernahm die Regie der letzten Drehtage
+
+- Er ersetzte die gesamte Erzählerstimme
+
+Er spielte die Rolle des J. Paul Getty in kurzfristigen Neuaufnahmen.
+
+Ridley Scott ließ die zuvor mit Kevin Spacey gedrehten Szenen neu aufnehmen. Plummer übernahm den Milliardär, der sich weigert, das Lösegeld für seinen entführten Enkel zu zahlen. Seine Mitwirkung war damit ein vollständiger neuer Schauspielauftritt und keine bloße nachträgliche Synchronisation.
+
+Merksatz: Plummer spielte Getty in den kurzfristigen Neuaufnahmen.
+
+Quellen: [1](https://www.vanityfair.com/hollywood/2017/11/christopher-plummer-kevin-spacey-all-the-money-in-the-world), [2](https://www.sonypictures.com/movies/allthemoneyintheworld).
+
+### S2 · schwer
+
+Welche Shakespeare-Figur spielte Christopher Plummer 1961 bei seinem britischen Debüt mit der Royal Shakespeare Company in „Viel Lärm um nichts“?
+
+- Claudio
+
+- Don Pedro
+
+- **Richtig: Benedick**
+
+- Don John
+
+Er spielte Benedick.
+
+Plummer kam vom Stratford-Festival in Ontario zur neu gegründeten Royal Shakespeare Company. In Michael Langhams Inszenierung stand ihm Geraldine McEwan als Beatrice gegenüber. Die RSC erinnerte später außerdem an seinen Richard III. in derselben Spielzeit; sein britischer Einstieg umfasste somit Komödie und Königsdrama.
+
+Merksatz: Plummers britischer Einstieg führte ihn als Benedick zur RSC.
+
+Quellen: [1](https://www.rsc.org.uk/news/archive/christopher-plummer-1929-2021).
+
+### E1 · experte
+
+In welcher Kategorie gewann Christopher Plummer 2012 für „Beginners“ seinen Oscar?
+
+- Beste männliche Hauptrolle
+
+- **Richtig: Beste männliche Nebenrolle**
+
+- Bestes adaptiertes Drehbuch
+
+- Beste Regie
+
+Er gewann als bester Nebendarsteller.
+
+Ausgezeichnet wurde seine Darstellung des Hal, dessen spätes Coming-out das Leben seines Sohnes mitprägt. Die Academy verzeichnet den Sieg zwischen seinen Nominierungen für „Ein russischer Sommer“ und „Alles Geld der Welt“. Die Ehrung würdigt somit eine konkrete Schauspielarbeit in seiner späten Karriere.
+
+Merksatz: Plummers Oscar für Hal war ein Nebendarstellerpreis.
+
+Quellen: [1](https://www.oscars.org/sites/oscars/files/90th-factsheet.pdf).
+
+### E2 · experte
+
+In welchen beiden Bühnenkategorien gewann Christopher Plummer Tonys für „Cyrano“ und „Barrymore“?
+
+- Regie und Choreografie
+
+- Drehbuch und Bühnenbild
+
+- Nebendarsteller und Musicalregie
+
+- **Richtig: Hauptdarsteller im Musical und im Schauspiel**
+
+Er gewann als Hauptdarsteller sowohl im Musical als auch im Schauspiel.
+
+Der Tony für „Cyrano“ kam 1974 in der Musicalkategorie, der für „Barrymore“ 1997 in der Schauspielkategorie hinzu. Die beiden Auszeichnungen zeigen die Spannweite seiner Bühnenarbeit über verschiedene Darstellungsformen. Seine Tochter Amanda gewann ebenfalls einen Tony, jedoch für eine andere Produktion.
+
+Merksatz: Plummer wurde auf der Bühne für Musical und Schauspiel ausgezeichnet.
+
+Quellen: [1](https://www.tonyawards.com/history/facts-and-trivia/).
+
+## James Mason · Bekanntheitsgruppe 3
+
+![James Mason (1940er-Jahre)](Portraets/051.jpg)
+
+Bild: 1940er-Jahre; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:James_Mason_Studio_Publicity.jpg), [TMDB](https://www.themoviedb.org/person/2091).
+
+### L1 · leicht
+
+Welchen Kapitän verkörpert James Mason in Disneys „20.000 Meilen unter dem Meer“?
+
+- Ahab
+
+- **Richtig: Nemo**
+
+- Farragut
+
+- Bligh
+
+James Mason spielt Kapitän Nemo.
+
+Nemo führt die Nautilus, das Unterseeboot, das zunächst für ein zerstörerisches Seeungeheuer gehalten wird. Er nimmt die Schiffbrüchigen um Professor Aronnax (Paul Lukas) auf, will seine technische Macht aber nur nach eigenen Vorstellungen einsetzen. Mason verbindet die Autorität des Kapitäns mit dessen Abkehr von der Gesellschaft.
+
+Merksatz: Masons Nemo herrscht über die Nautilus.
+
+Quellen: [1](https://d23.com/a-to-z/20000-leagues-under-the-sea-film/).
+
+### L2 · leicht
+
+Welche Figur spielt James Mason in Hitchcocks „Der unsichtbare Dritte“?
+
+- Den Geheimdienstmann, der als Professor auftritt
+
+- Den Werbefachmann Roger Thornhill
+
+- Den UN-Diplomaten Lester Townsend
+
+- **Richtig: Den Spion Phillip Vandamm**
+
+Mason spielt Phillip Vandamm.
+
+Vandamm hält Roger Thornhill (Cary Grant) für einen geheimen Gegenspieler. Der scheinbar kultivierte Mann lässt ihn verfolgen und will kompromittierendes Material außer Landes bringen. Masons ruhige Höflichkeit verdeckt so eine sehr konkrete Gewaltbereitschaft.
+
+Merksatz: Vandamms Höflichkeit verbirgt den gefährlichen Gegenspieler.
+
+Quellen: [1](https://catalog.afi.com/Film/52975-NORTH-BY-NORTHWEST).
+
+### M1 · mittel
+
+Welche Behandlung löst die gefährliche Veränderung von Ed (James Mason) in „Eine Handvoll Hoffnung“ aus?
+
+- **Richtig: Eine Behandlung mit Cortison**
+
+- Eine experimentelle Hypnose
+
+- Eine Operation am Gehirn
+
+- Eine absichtlich herbeigeführte Schlafkur
+
+Ed verändert sich unter einer Behandlung mit Cortison.
+
+Der Lehrer und Familienvater erhält das Medikament gegen eine schwere Erkrankung. Aus der Behandlung entwickelt sich eine Abhängigkeit, und sein Verhalten gegenüber Frau und Kind wird zunehmend herrisch und bedrohlich. Der Film verknüpft medizinische Hoffnung mit dem Zerfall eines zunächst gewöhnlich wirkenden Familienlebens.
+
+Merksatz: Das rettende Medikament macht Ed zum bedrohlichen Hausherrn.
+
+Quellen: [1](https://www.criterion.com/films/1929-bigger-than-life).
+
+### M2 · mittel
+
+Welches persönliche Problem gefährdet Norman Maines (James Mason) Karriere in „Ein neuer Stern am Himmel“ besonders?
+
+- Seine heimlich verlorene Staatsbürgerschaft
+
+- Seine Angst vor öffentlichen Auftritten
+
+- **Richtig: Seine Alkoholabhängigkeit**
+
+- Seine Weigerung, Tonfilme zu drehen
+
+Normans Alkoholabhängigkeit bedroht Beruf und Beziehung.
+
+Norman fördert die Sängerin Esther (Judy Garland), während sein eigener Ruhm nachlässt. Ihr Aufstieg und seine Rückfälle verlaufen immer stärker gegeneinander. Seine Ehe mit der nun erfolgreichen Vicki Lester verbindet deshalb Liebe mit dem schmerzhaften Bewusstsein, von ihr abhängig geworden zu sein.
+
+Merksatz: Normans beruflicher Absturz ist eng mit seinem Trinken verbunden.
+
+Quellen: [1](https://catalog.afi.com/Film/51362-A-STAR-IS-BORN).
+
+### S1 · schwer
+
+Warum irrt Johnny McQueen (James Mason) in „Ausgestoßen“ hilflos durch die Stadt?
+
+- **Richtig: Er wurde bei einem Überfall schwer verwundet und von der Flucht getrennt**
+
+- Er hat sein Gedächtnis bei einem Verkehrsunfall verloren
+
+- Er soll einen verschwundenen Zeugen ohne Begleitung finden
+
+- Er ist auf der Suche nach seinem entführten Kind
+
+Johnny wurde bei einem Raubüberfall verwundet und zurückgelassen.
+
+Der Anführer einer Untergrundorganisation kann sich nicht am Fluchtwagen halten. Verwundet und verfolgt sucht er Hilfe, begegnet aber auch Menschen, die ihn für eigene Zwecke benutzen wollen. Masons Figur verliert dabei ihre frühere Befehlsgewalt und wird zu einem Menschen, dessen Überleben von anderen abhängt.
+
+Merksatz: Aus dem Anführer wird ein verwundeter Flüchtiger.
+
+Quellen: [1](https://www.criterion.com/current/posts/3524-odd-man-out-death-and-the-city).
+
+### S2 · schwer
+
+Auf welcher Seite des Prozesses steht Ed Concannon (James Mason) in „The Verdict“?
+
+- Er vertritt die geschädigte Patientin
+
+- Er leitet als Richter die Verhandlung
+
+- **Richtig: Er verteidigt das beklagte Krankenhaus**
+
+- Er tritt als unabhängiger medizinischer Gutachter auf
+
+Concannon vertritt die Gegenseite des klagenden Anwalts.
+
+Frank Galvin (Paul Newman) verfolgt einen Fall schwerer ärztlicher Fehlbehandlung. Concannon verfügt für die Verteidigung über eine große Kanzlei und entsprechend starke Mittel. Die Rollenverteilung stellt Galvins persönlichen Neuanfang einem professionell organisierten juristischen Gegner gegenüber.
+
+Merksatz: Concannon ist Galvins mächtiger Gegner im Gerichtssaal.
+
+Quellen: [1](https://catalog.afi.com/Film/56898-THE-VERDICT).
+
+### E1 · experte
+
+Welche zusätzliche Aufgabe übernahm James Mason bei „Eine Handvoll Hoffnung“ neben der Hauptrolle?
+
+- Er komponierte die Filmmusik
+
+- **Richtig: Er produzierte den Film**
+
+- Er führte die Kamera
+
+- Er verantwortete den Schnitt
+
+Mason war auch Produzent.
+
+Seine Mitarbeit ging über die Darstellung des erkrankten Lehrers hinaus. Die BFI-Studie ordnet die Produktion als Beispiel dafür ein, wie Mason in Hollywood gestalterische Verantwortung gewann. Er nutzte den Status als Star, um an einem ungewöhnlichen, kritischen Familienfilm mitzuarbeiten.
+
+Merksatz: Mason stand bei „Eine Handvoll Hoffnung“ auch als Produzent hinter dem Projekt.
+
+Quellen: [1](https://www.criterion.com/films/1929-bigger-than-life), [2](https://www.bfi.org.uk/interviews/james-mason-sarah-thomas).
+
+### E2 · experte
+
+Welche Vertragsstrategie bewahrte James Mason in Hollywood besonders viel berufliche Unabhängigkeit?
+
+- Er schloss einen langfristigen Exklusivvertrag mit festen Rollenzusagen
+
+- Er beschränkte sich auf Filme seiner eigenen Produktionsfirma
+
+- Er verband Filmauftritte mit einer festen Theaterbindung
+
+- **Richtig: Er vermied langfristige Studiobindungen und verhandelte projektweise**
+
+Mason vermied langfristige Studioverträge.
+
+Die BFI-Studie beschreibt, wie er mit mehreren Studios über einzelne Filme und zusätzliche Schreib- oder Produktionsmöglichkeiten verhandelte. Seine Agentur unterstützte ihn dabei. Der berufliche Spielraum beruhte somit auf konkreten Vereinbarungen innerhalb des Studiosystems und nicht allein auf künstlerischem Ansehen.
+
+Merksatz: Mason verhandelte Film für Film statt sich dauerhaft an ein Studio zu binden.
+
+Quellen: [1](https://www.bfi.org.uk/interviews/james-mason-sarah-thomas).
+
+## Alec Guinness · Bekanntheitsgruppe 3
+
+![Alec Guinness (1973)](Portraets/052.jpg)
+
+Bild: 1973; Allan warren. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Sir_Alec_Guinness_3_Allan_Warren_2_(cropped2).jpg), [TMDB](https://www.themoviedb.org/person/12248).
+
+### L1 · leicht
+
+Welchen Jedi-Meister spielt Alec Guinness im ersten veröffentlichten „Star Wars“-Film?
+
+- Yoda
+
+- Qui-Gon Jinn
+
+- **Richtig: Obi-Wan Kenobi**
+
+- Mace Windu
+
+Guinness spielt Obi-Wan Kenobi.
+
+Der ältere Jedi führt Luke Skywalker (Mark Hamill) in eine Welt ein, von der dieser bisher wenig weiß. Er gibt ihm das Lichtschwert seines Vaters und erste Anleitung im Umgang mit der Macht. Guinness’ Figur verbindet damit die Vorgeschichte des Ordens mit Lukes neuem Weg.
+
+Merksatz: Guinness ist Lukes erster Jedi-Lehrer Obi-Wan.
+
+Quellen: [1](https://www.starwars.com/news/always-two-obi-wan-kenobi-and-luke-skywalker).
+
+### L2 · leicht
+
+Welchen britischen Offizier verkörpert Alec Guinness in „Die Brücke am Kwai“?
+
+- **Richtig: Oberst Nicholson**
+
+- Major Shears
+
+- Major Warden
+
+- Hauptmann Reeves
+
+Guinness spielt Oberst Nicholson.
+
+Der britische Oberst gerät als Kriegsgefangener mit dem japanischen Lagerkommandanten Saito (Sessue Hayakawa) aneinander. Später setzt er seinen Stolz in die professionelle Ausführung des Brückenbaus. Die Figur verbindet militärische Prinzipien mit einer zunehmenden Verkennung dessen, wem das Bauwerk dient.
+
+Merksatz: Nicholson macht den Brückenbau zu seiner eigenen Bewährungsprobe.
+
+Gemeinsames Wissensziel: K-CLA-08-01 (CLA-L-015).
+
+Quellen: [1](https://catalog.afi.com/Film/52118-THE-BRIDGE-ON-THE-RIVER-KWAI).
+
+### M1 · mittel
+
+Welche ungewöhnliche Besetzungsaufgabe übernimmt Alec Guinness in „Adel verpflichtet“?
+
+- Er spielt den Erzähler und dessen jüngeres Selbst
+
+- Er spielt jeden Diener des Familienanwesens
+
+- Er spielt beide zerstrittenen Brüder der Hauptfigur
+
+- **Richtig: Er spielt acht Mitglieder der adeligen Familie**
+
+Guinness verkörpert acht Angehörige derselben Familie.
+
+Louis Mazzini (Dennis Price) will nach der Ausgrenzung seiner Mutter den Herzogstitel erben. Die Verwandten, die ihm dabei im Weg stehen, erscheinen in verschiedenen Gestalten desselben Schauspielers. Dazu gehört auch Lady Agatha; die Vielgestaltigkeit verstärkt die schwarze Komik des Mordplans.
+
+Merksatz: Eine ganze adelige Verwandtschaft trägt Guinness’ Gesicht.
+
+Gemeinsames Wissensziel: K-F240-20261006-120-L2 (F240-20261006-120-L2).
+
+Quellen: [1](https://www.criterion.com/films/357-kind-hearts-and-coronets).
+
+### M2 · mittel
+
+Was erfindet Sidney Stratton (Alec Guinness) in „Der Mann im weißen Anzug“?
+
+- Einen besonders billigen Treibstoff
+
+- **Richtig: Einen Stoff, der nicht verschmutzt und nicht verschleißt**
+
+- Eine Maschine zum unsichtbaren Nähen
+
+- Eine Farbe, die Kleidung unsichtbar macht
+
+Stratton erfindet ein schmutz- und verschleißfestes Gewebe.
+
+Die Erfindung erscheint zunächst als wissenschaftlicher Triumph. Sobald Unternehmer und Arbeiter erkennen, dass kaum noch neue Kleidung gekauft werden müsste, sehen beide ihre Existenz bedroht. Der Erfinder gerät deshalb ausgerechnet mit den Gruppen in Konflikt, die vom Erfolg einer Textilfabrik leben.
+
+Merksatz: Strattons perfekter Stoff bedroht das Geschäft mit Kleidung.
+
+Quellen: [1](https://player.bfi.org.uk/rentals/film/watch-the-man-in-the-white-suit-1951-online).
+
+### S1 · schwer
+
+Welchen britischen Geheimdienstmann spielte Alec Guinness in den Fernsehserien „Dame, König, As, Spion“ und „Agent in eigener Sache“?
+
+- **Richtig: George Smiley**
+
+- Alec Leamas
+
+- Bernard Samson
+
+- Harry Palmer
+
+Guinness spielte George Smiley.
+
+Die BBC-Verfilmungen führen die Figur aus John le Carrés Romanen durch eine Welt der Täuschung und langfristigen Gegnerschaft. In der ersten Serie sucht Smiley einen Maulwurf im eigenen Dienst, in der zweiten richtet sich sein Vorgehen gegen Karla. Guinness gestaltet die Ermittlungen vor allem durch Zuhören und genaue Beobachtung.
+
+Merksatz: Guinness’ stiller Spion heißt George Smiley.
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-best-alec-guinness-performances).
+
+### S2 · schwer
+
+Welche zusätzliche Arbeit leistete Alec Guinness für „Des Pudels Kern“ neben seiner Hauptrolle als Maler Gulley Jimson?
+
+- Er gestaltete sämtliche Kostüme
+
+- Er komponierte die Filmmusik
+
+- **Richtig: Er schrieb die Drehbuchadaption**
+
+- Er führte allein Regie
+
+Guinness schrieb das Drehbuch nach Joyce Carys Roman.
+
+Ronald Neame führte Regie, während Guinness die literarische Vorlage für den Film bearbeitete und den eigensinnigen Künstler spielte. Die Suche Jimsons nach einer geeigneten Fläche für seine Bilder gehört zum komischen Blick auf schöpferischen Ehrgeiz. Guinness war hier also auch für die erzählerische Form verantwortlich.
+
+Merksatz: Guinness spielte Jimson und bearbeitete dessen Geschichte fürs Kino.
+
+Quellen: [1](https://www.criterion.com/films/695-the-horse-s-mouth).
+
+### E1 · experte
+
+Welcher Vorwurf trug dazu bei, dass „Oliver Twist“ mit Alec Guinness als Fagin erst verspätet und gekürzt in die USA kam?
+
+- Der Film verunglimpfe die britische Marine
+
+- **Richtig: Die Darstellung Fagins bediene antisemitische Stereotype**
+
+- Der Film verschweige seinen literarischen Ursprung
+
+- Die Kinderdarsteller seien durch Erwachsene ersetzt worden
+
+Die Gestaltung Fagins wurde als antisemitisch kritisiert.
+
+Besonders die stark vergrößerte Nase der Maske rief Protest hervor. Der Film startete in London 1948, in den USA aber erst 1951 mit gestrichenen Passagen. Die Kontroverse betrifft die Wirkung einer Darstellung im historischen Kontext nach dem Holocaust und lässt sich nicht auf die schauspielerische Verwandlung allein reduzieren.
+
+Merksatz: Guinness’ Fagin wurde wegen antisemitischer Stereotype kontrovers aufgenommen.
+
+Quellen: [1](https://www.criterion.com/current/posts/41-oliver-twist).
+
+### E2 · experte
+
+Welche Vorarbeit verband Alec Guinness schon vor David Leans Verfilmung mit „Große Erwartungen“?
+
+- Er hatte den Roman ins Französische übersetzt
+
+- Er hatte Dickens’ Biografie verfasst
+
+- Er hatte die Musik zu einem Hörspiel komponiert
+
+- **Richtig: Er hatte den Roman für die Bühne bearbeitet**
+
+Guinness hatte Dickens’ Roman bereits für das Theater adaptiert.
+
+Lean und Produzent Ronald Neame kannten und schätzten diese Bühnenfassung. Für den Film boten sie Guinness die Rolle des Herbert Pocket an, der Pip (John Mills) in London begegnet. Die Zusammenarbeit im Kino entstand damit aus einer konkreten vorherigen Theaterarbeit.
+
+Merksatz: Die Bühnenadaption bereitete Guinness’ Einstieg in Leans Dickens-Film vor.
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-best-alec-guinness-performances).
+
+## Peter Sellers · Bekanntheitsgruppe 3
+
+![Peter Sellers (1973)](Portraets/053.jpg)
+
+Bild: 1973; Allan warren. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Peter_Sellers_1973_by_Allan_Warren_1.jpg), [TMDB](https://www.themoviedb.org/person/12446).
+
+### L1 · leicht
+
+Welchen wiederkehrenden Ermittler spielt Peter Sellers in der ursprünglichen „Der rosarote Panther“-Filmreihe?
+
+- Inspektor Dreyfus
+
+- **Richtig: Inspektor Clouseau**
+
+- Inspektor Maigret
+
+- Inspektor Lestrade
+
+Sellers spielt Inspektor Clouseau.
+
+Die vermeintliche Autorität des französischen Polizisten steht ständig im Gegensatz zu seinen Missgeschicken. Sellers machte aus der Figur einen körperlich und sprachlich unverwechselbaren Komödienhelden. Die Zusammenarbeit mit Blake Edwards kehrte über mehrere Filme hinweg zu diesem Ermittler zurück.
+
+Merksatz: Sellers’ berühmter Ermittler heißt Clouseau.
+
+Gemeinsames Wissensziel: K-KOM-202609-P02-L-085 (KOM-202609-P02-L-085).
+
+Quellen: [1](https://catalog.afi.com/Film/20382-THE-PINK-PANTHER).
+
+### L2 · leicht
+
+Wie viele unterschiedliche Figuren spielt Peter Sellers in „Dr. Seltsam“?
+
+- Eine
+
+- Zwei
+
+- Vier
+
+- **Richtig: Drei**
+
+Sellers spielt drei Figuren.
+
+Er verkörpert den britischen Offizier Mandrake, den amerikanischen Präsidenten Muffley und den Wissenschaftler Dr. Seltsam. Die Figuren sind keine Verkleidungen desselben Mannes, sondern eigenständige Personen. Ihre unterschiedlichen Stimmen und Haltungen bilden mehrere Perspektiven innerhalb der nuklearen Krisensatire.
+
+Merksatz: Sellers steht in „Dr. Seltsam“ dreifach vor der Kamera.
+
+Quellen: [1](https://catalog.afi.com/Film/23082-DR-STRANGELOVE-OR-HOW-I-LEARNED-TO-STOP-WORRYING-AND-LOVE-THE-BOMB).
+
+### M1 · mittel
+
+Warum wird Chance (Peter Sellers) in „Willkommen, Mr. Chance“ für einen besonders klugen politischen Gesprächspartner gehalten?
+
+- **Richtig: Andere deuten seine schlichten Gartenbemerkungen als gesellschaftliche Weisheiten**
+
+- Er hat sich heimlich auf jedes Gespräch vorbereitet
+
+- Er übernimmt die Reden eines verstorbenen Präsidenten
+
+- Er wird von einem Berater über einen Ohrhörer angeleitet
+
+Seine Bemerkungen über den Garten werden als politische Einsichten missverstanden.
+
+Chance hat lange abgeschieden als Gärtner gelebt und die Außenwelt vor allem aus dem Fernsehen kennengelernt. Ein wohlhabender Förderer (Melvyn Douglas) hält ihn für einen Mann mit besonderen Einsichten. Die Satire entsteht aus dem, was andere in seine einfachen Aussagen hineinlesen.
+
+Merksatz: Chance spricht vom Garten; seine Zuhörer hören Politik.
+
+Quellen: [1](https://www.criterion.com/films/29009-being-there).
+
+### M2 · mittel
+
+Welche Stellung hat Fred Kite (Peter Sellers) in der Arbeitsweltsatire „Junger Mann aus gutem Haus“?
+
+- Er ist der Fabrikbesitzer
+
+- Er ist ein staatlicher Arbeitsinspektor
+
+- **Richtig: Er ist Gewerkschaftsfunktionär**
+
+- Er ist der Betriebsarzt
+
+Fred Kite vertritt die Gewerkschaft.
+
+Der unerfahrene Stanley Windrush (Ian Carmichael) gerät zwischen Fabrikleitung und Arbeitnehmervertretung. Kite ist überzeugt von seinen politischen Vorstellungen, während die Geschäftsleute eigene Interessen verfolgen. Sellers gestaltet damit eine Figur, deren ernst gemeinte Haltung selbst Teil der Komik über Arbeitsbeziehungen wird.
+
+Merksatz: Fred Kite vertritt die organisierte Arbeiterschaft.
+
+Quellen: [1](https://www.bfiplayerclassics.com/videos/i-m-all-right-jack).
+
+### S1 · schwer
+
+Mit welcher britischen Radiosendung wurde Peter Sellers gemeinsam mit Spike Milligan und Harry Secombe bekannt?
+
+- **Richtig: The Goon Show**
+
+- Hancock’s Half Hour
+
+- Round the Horne
+
+- Beyond Our Ken
+
+Er gehörte zum Ensemble von „The Goon Show“.
+
+Die Radiokomödie gab seinen Stimmen und Figuren schon vor den großen Kinorollen ein breites Publikum. Ein BFI-Archivbeitrag verortet den Übergang zum Film ausdrücklich in dieser Phase. Die Arbeit mit Milligan und Secombe war damit ein eigenständiger Ausgangspunkt seiner Komik.
+
+Merksatz: Vor Clouseau gehörte Sellers zu den Goons.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/features/archived-skip-peter-sellers-bestsellers-trio).
+
+### S2 · schwer
+
+Welches Ziel verfolgt der kleine Staat in „Die Maus, die brüllte“ mit Peter Sellers, als er den USA den Krieg erklärt?
+
+- Er will amerikanische Gebiete dauerhaft besetzen
+
+- Er will ein Bündnis gegen Großbritannien erzwingen
+
+- **Richtig: Er will verlieren und anschließend amerikanische Aufbauhilfe erhalten**
+
+- Er will den Weltmarkt für Atomwaffen übernehmen
+
+Der Staat plant eine Niederlage, um danach Hilfsgelder zu bekommen.
+
+Das Fürstentum Grand Fenwick gerät wirtschaftlich unter Druck. Seine Führung rechnet damit, dass die USA besiegte Gegner großzügig unterstützen. Die kleine Streitmacht richtet sich jedoch nicht nach diesem Plan: Ihr unerwarteter Erfolg bringt die politische Kalkulation durcheinander. Sellers spielt in der Satire mehrere zentrale Figuren.
+
+Merksatz: Grand Fenwick will vom verlorenen Krieg profitieren.
+
+Quellen: [1](https://catalog.afi.com/Film/52965-THE-MOUSE-THAT-ROARED).
+
+### E1 · experte
+
+Welche überraschend düstere Figur spielt Peter Sellers in „Der Marder von London“?
+
+- Einen korrupten Polizeichef
+
+- **Richtig: Einen skrupellosen Autodieb und Hehler**
+
+- Einen erpresserischen Theaterkritiker
+
+- Einen gewalttätigen Gefängnisdirektor
+
+Sellers spielt den kriminellen Autohändler Lionel Meadows.
+
+Der Film lässt seine Figur zunächst umgänglich erscheinen und dann plötzlich bedrohlich werden. Der Konflikt mit einem bestohlenen Mann gehört zu einem ernsthaften Kriminalstoff. Die Darstellung zeigt, wie Sellers seine genaue Stimm- und Körperarbeit auch für eine Rolle ohne die vertraute Komödienwirkung einsetzen konnte.
+
+Merksatz: Lionel Meadows zeigt Sellers von seiner gefährlichen Seite.
+
+Quellen: [1](https://www.bfi.org.uk/lists/peter-sellers-10-essential-films).
+
+### E2 · experte
+
+Wie konnte Peter Sellers nach seinem Tod noch in „Der rosarote Panther wird gejagt“ auftreten?
+
+- Die gesamte Rolle wurde als Zeichentrickfigur ergänzt
+
+- Seine Rolle wurde ausschließlich aus Fotografien montiert
+
+- Ein anderer Schauspieler spielte ihn mit Maske
+
+- **Richtig: Der Film verwendete zuvor ungenutztes Aufnahmematerial**
+
+Der Film setzte vorhandene, zuvor ungenutzte Aufnahmen ein.
+
+Sellers starb 1980, während der Film 1982 erschien. Blake Edwards griff für Clouseaus Auftritte auf Material früherer Dreharbeiten zurück. Die Veröffentlichung ist deshalb keine weitere vollständig neu gedrehte Sellers-Komödie, sondern eine nachträgliche Verwendung seiner bereits aufgenommenen Darstellung.
+
+Merksatz: Der späte Clouseau-Film holte Sellers aus dem Filmarchiv zurück.
+
+Quellen: [1](https://www.bfi.org.uk/lists/peter-sellers-10-essential-films).
+
+## Jack Lemmon · Bekanntheitsgruppe 3
+
+![Jack Lemmon (1968)](Portraets/054.jpg)
+
+Bild: 1968; Unknown author wire photographer. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Jack_Lemmon_-_1968_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/3151).
+
+### L1 · leicht
+
+Welchen Frauennamen verwendet Jerry (Jack Lemmon) in „Manche mögen’s heiß“?
+
+- **Richtig: Daphne**
+
+- Josephine
+
+- Sugar
+
+- Sweet Sue
+
+Jerry nennt sich als Mitglied der Frauenkapelle Daphne.
+
+Jerry und Joe (Tony Curtis) haben einen Mord beobachtet und suchen Schutz in einer reisenden Frauenkapelle. Aus der beruflichen Tarnung entsteht für Jerry eine unerwartete private Verwicklung, als ein wohlhabender Verehrer um Daphne wirbt. Die Figur bleibt derselbe Mann unter einer angenommenen Identität.
+
+Merksatz: Jerry wird in der Frauenkapelle zu Daphne.
+
+Gemeinsames Wissensziel: K-KOM-202609-P02-M-078 (KOM-202609-P02-M-078).
+
+Quellen: [1](https://www.bfi.org.uk/lists/jack-lemmon-10-essential-films).
+
+### L2 · leicht
+
+Welche Angestelltenfigur spielt Jack Lemmon in „Das Apartment“?
+
+- Jeff Sheldrake
+
+- Walter Burns
+
+- **Richtig: C. C. Baxter**
+
+- Felix Ungar
+
+Lemmon spielt C. C. Baxter.
+
+Der kleine Angestellte überlässt seine Wohnung Vorgesetzten für heimliche Treffen. Die Aussicht auf beruflichen Aufstieg bringt ihn dabei mit seinen eigenen Gefühlen in Konflikt. Seine Beziehung zur Aufzugführerin Fran (Shirley MacLaine) macht die scheinbar nützliche Vereinbarung zunehmend unerträglich.
+
+Merksatz: Lemmons Baxter bezahlt den Karrierewunsch mit dem Verlust seines Privatlebens.
+
+Gemeinsames Wissensziel: K-KOM-202609-P02-L-079 (KOM-202609-P02-L-079).
+
+Quellen: [1](https://www.bfi.org.uk/lists/jack-lemmon-10-essential-films).
+
+### M1 · mittel
+
+Welches Problem zerstört das gemeinsame Leben von Joe (Jack Lemmon) und Kirsten in „Die Tage des Weines und der Rosen“?
+
+- Eine geheim gehaltene Spielsucht
+
+- **Richtig: Ihre Alkoholabhängigkeit**
+
+- Eine berufliche Spionageaffäre
+
+- Ein Streit um eine Erbschaft
+
+Das Paar gerät gemeinsam in die Alkoholabhängigkeit.
+
+Joe führt Kirsten (Lee Remick) an das Trinken heran, bis beide die Kontrolle verlieren. Die Beziehung wird dadurch nicht nur belastet, sondern selbst Teil der Abhängigkeit. Lemmons Darstellung verbindet den anfänglich geselligen Mann mit einem zunehmend verzweifelten Versuch, wieder ein anderes Leben führen zu können.
+
+Merksatz: Aus gemeinsamem Trinken wird eine zerstörerische Abhängigkeit.
+
+Quellen: [1](https://www.bfi.org.uk/lists/jack-lemmon-10-essential-films).
+
+### M2 · mittel
+
+Was versucht Jack Godell (Jack Lemmon) in „Das China-Syndrom“ öffentlich zu machen?
+
+- Die illegale Entsorgung eines Filmstudios
+
+- Die geplante Privatisierung einer Schule
+
+- Einen Betrug mit Börsenkursen
+
+- **Richtig: Vertuschte Sicherheitsmängel in einem Atomkraftwerk**
+
+Godell will gefährliche Mängel im Atomkraftwerk aufdecken.
+
+Eine Fernsehreporterin (Jane Fonda) erlebt einen Zwischenfall im Kraftwerk. Während die Betreiber die Gefahr bestreiten, entdeckt Godell defekte Ausrüstung. Sein Versuch, die Öffentlichkeit zu informieren, bringt ihn gegen das Unternehmen auf, für das er arbeitet.
+
+Merksatz: Godell stellt sich mit seinem Wissen gegen die Kraftwerksbetreiber.
+
+Quellen: [1](https://www.sonypictures.com/movies/thechinasyndrome).
+
+### S1 · schwer
+
+Was soll Harry (Jack Lemmon) in „Der Glückspilz“ auf Drängen seines Schwagers vortäuschen?
+
+- **Richtig: Eine schwere Verletzung für eine hohe Entschädigung**
+
+- Eine heimliche zweite Ehe
+
+- Eine erfundene Verwandtschaft zu einem Millionär
+
+- Eine bestandene juristische Prüfung
+
+Harry soll eine schwere Verletzung simulieren.
+
+Nach einem Zusammenstoß bei einem Footballspiel sieht der Anwalt Willie Gingrich (Walter Matthau) die Chance auf eine hohe Schadenersatzzahlung. Harrys tatsächlicher Zustand steht dem Geschäft im Weg, weshalb Willie eine Täuschung organisiert. Die erste gemeinsame Filmkomödie von Lemmon und Matthau gründet damit auf einem moralisch fragwürdigen Angebot.
+
+Merksatz: Willie macht aus Harrys Unfall einen Versicherungsplan.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/20983).
+
+### S2 · schwer
+
+Wen sucht Ed Horman (Jack Lemmon) in „Vermisst“ nach einem Militärputsch in Chile?
+
+- Seinen früheren Kriegskameraden
+
+- Seinen verschwundenen Bruder
+
+- **Richtig: Seinen verschwundenen Sohn**
+
+- Seinen entführten Arbeitgeber
+
+Ed sucht seinen Sohn Charles.
+
+Zusammen mit Charles’ Frau (Sissy Spacek) wendet er sich an amerikanische Behörden. Die erhoffte Hilfe führt zunächst durch bürokratische Sackgassen und erschüttert sein Vertrauen in die eigene Regierung. Der Film dramatisiert den realen Fall des während des chilenischen Putsches 1973 verschwundenen Charles Horman.
+
+Merksatz: Der Vater sucht Charles und verliert dabei politische Gewissheiten.
+
+Quellen: [1](https://www.criterion.com/films/769-missing).
+
+### E1 · experte
+
+In welchen Kategorien gewann Jack Lemmon seine Oscars jeweils für „Keine Zeit für Heldentum“ und „Save the Tiger“?
+
+- Hauptdarsteller und Hauptdarsteller
+
+- **Richtig: Nebendarsteller und Hauptdarsteller**
+
+- Hauptdarsteller und Nebendarsteller
+
+- Nebendarsteller und Nebendarsteller
+
+Lemmon gewann als Neben- und als Hauptdarsteller.
+
+Für Fähnrich Pulver in „Keine Zeit für Heldentum“ erhielt er 1956 den Nebendarsteller-Oscar. 1974 folgte der Hauptdarstellerpreis für den wirtschaftlich bedrängten Unternehmer in „Save the Tiger“. Zwischen den beiden Leistungen liegen eine Marinekomödie und ein ernstes Gegenwartsdrama.
+
+Merksatz: Pulver brachte den Nebenrollen-Oscar, Harry Stone den Hauptrollen-Oscar.
+
+Quellen: [1](https://www.oscars.org/oscars/ceremonies/embed/1956), [2](https://www.oscars.org/oscars/ceremonies/1974).
+
+### E2 · experte
+
+Welche Vaterfigur spielte Jack Lemmon 1986 am Broadway in Eugene O’Neills „Eines langen Tages Reise in die Nacht“?
+
+- Willy Loman
+
+- Joe Keller
+
+- Big Daddy Pollitt
+
+- **Richtig: James Tyrone**
+
+Lemmon spielte James Tyrone.
+
+Die Broadway-Produktion versammelte die Familie Tyrone an einem Augusttag des Jahres 1912. Lemmon übernahm den Vater, während Kevin Spacey dessen älteren Sohn spielte. Die Theaterarbeit stellte den Filmstar in ein dichtes Familiendrama, das von Erinnerung, Krankheit und gegenseitigen Vorwürfen lebt.
+
+Merksatz: Auf O’Neills Bühne wurde Lemmon zu James Tyrone.
+
+Quellen: [1](https://www.ibdb.com/broadway-production/long-days-journey-into-night-4410).
+
+## Walter Matthau · Bekanntheitsgruppe 3
+
+![Walter Matthau (1963)](Portraets/055.jpg)
+
+Bild: 1963; Film screenshot. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Walter_Matthau_in_Charade_1.jpg), [TMDB](https://www.themoviedb.org/person/6837).
+
+### L1 · leicht
+
+Welche Eigenschaft prägt Oscar Madison (Walter Matthau) in „Ein seltsames Paar“ im Gegensatz zu seinem Mitbewohner Felix?
+
+- Er ist ausgesprochen ordentlich und pedantisch
+
+- Er ist zurückgezogen und schweigsam
+
+- **Richtig: Er ist locker und unordentlich**
+
+- Er ist sportlich diszipliniert und streng
+
+Oscar lebt nachlässig und unordentlich.
+
+Nach dem Ende ihrer Ehen teilen Oscar und Felix (Jack Lemmon) eine Wohnung. Felix versucht, den Alltag nach seinen festen Vorstellungen von Ordnung zu regeln, während Oscar sich eingeengt fühlt. Aus zwei Freunden werden dadurch alltägliche Gegenspieler unter demselben Dach.
+
+Merksatz: Oscar lässt liegen, was Felix sofort aufräumen möchte.
+
+Quellen: [1](https://www.bfi.org.uk/lists/walter-matthau-10-essential-films).
+
+### L2 · leicht
+
+Welche Aufgabe übernimmt Walter Matthau als Morris Buttermaker in „Die Bären sind los“?
+
+- **Richtig: Er trainiert eine Kinder-Baseballmannschaft**
+
+- Er leitet ein Ferienlager für Musiker
+
+- Er betreut eine Jugend-Fußballmannschaft
+
+- Er organisiert eine Schülerzeitung
+
+Buttermaker wird Trainer einer Kinder-Baseballmannschaft.
+
+Der frühere Spieler bekommt eine wenig erfolgreiche Gruppe von Kindern anvertraut. Sein mürrischer, biertrinkender Alltag passt zunächst kaum zu den ehrgeizigen Erwartungen anderer Erwachsener. Die Komödie stellt den Spaß der Kinder und ihre Außenseiterstellung dem übertriebenen sportlichen Konkurrenzdenken gegenüber.
+
+Merksatz: Matthaus Buttermaker führt die Außenseiter auf den Baseballplatz.
+
+Quellen: [1](https://www.paramountpictures.com/movies/the-bad-news-bears-1976).
+
+### M1 · mittel
+
+Warum ist der Bankraub von Charley Varrick (Walter Matthau) in „Der große Coup“ gefährlicher als erwartet?
+
+- Die Geldscheine enthalten einen versteckten Peilsender
+
+- Ein Komplize hat vorab einen Deal mit der Polizei geschlossen
+
+- Die Beute besteht ausschließlich aus Falschgeld
+
+- **Richtig: Er hat versehentlich Geld der Mafia erbeutet**
+
+Die Beute gehört zur Mafia.
+
+Varrick rechnet mit einem überschaubaren Überfall und gerät stattdessen in die Interessen eines mächtigen Verbrechernetzes. Die überraschend hohe Summe verrät, dass die Bank mehr als gewöhnliche Kundengelder verwaltet. Er muss nun nicht nur der Polizei, sondern auch den Besitzern der Beute entkommen.
+
+Merksatz: Varricks großer Gewinn ist Geld der falschen Leute.
+
+Quellen: [1](https://catalog.afi.com/Film/54542-CHARLEY-VARRICK).
+
+### M2 · mittel
+
+Wobei soll die Assistentin Stephanie dem Zahnarzt Julian (Walter Matthau) in „Die Kaktusblüte“ helfen?
+
+- Sie soll seine Praxis heimlich verkaufen
+
+- **Richtig: Sie soll seine angebliche Ehefrau spielen**
+
+- Sie soll für ihn eine medizinische Prüfung ablegen
+
+- Sie soll einen verlorenen Patienten wiederfinden
+
+Stephanie soll Julians erfundene Ehefrau verkörpern.
+
+Julian hat seiner jungen Freundin Toni (Goldie Hawn) eine Ehe und Kinder vorgetäuscht. Als er die Beziehung ernsthaft weiterführen will, braucht seine Geschichte eine scheinbar glaubhafte Ehefrau. Stephanie (Ingrid Bergman), die ihn selbst liebt, soll die Täuschung retten und verändert dabei die Beziehungen aller Beteiligten.
+
+Merksatz: Eine erfundene Ehe macht Stephanie zur gespielten Ehefrau.
+
+Quellen: [1](https://catalog.afi.com/Film/23631-CACTUS-FLOWER).
+
+### S1 · schwer
+
+Welche Haltung vertritt Walter Matthaus Professor Groeteschele in „Angriffsziel Moskau“?
+
+- **Richtig: Er betrachtet einen Atomkrieg als strategisch vertretbare Möglichkeit**
+
+- Er fordert die vollständige Auflösung aller Armeen
+
+- Er will nur über wirtschaftliche Sanktionen verhandeln
+
+- Er lehnt jede politische Beratung grundsätzlich ab
+
+Groeteschele vertritt eine aggressive nukleare Strategie.
+
+Der Film führt einen versehentlich ausgelösten Luftangriff in eine existenzielle Krise. Groeteschele argumentiert dabei in Kategorien von Überlegenheit und überlebenden Bevölkerungen. Matthau spielt einen kalten Strategen, dessen Überzeugungen weit von den liebenswert mürrischen Komödienfiguren entfernt sind.
+
+Merksatz: Groeteschele rechnet mit dem Atomkrieg, statt vor ihm zurückzuschrecken.
+
+Quellen: [1](https://www.bfi.org.uk/lists/walter-matthau-10-essential-films), [2](https://catalog.afi.com/Catalog/moviedetails/22481).
+
+### S2 · schwer
+
+Was will Redakteur Walter Burns (Walter Matthau) in „Extrablatt“ gegenüber Hildy Johnson erreichen?
+
+- Er will ihn als neuen Bürgermeister aufstellen
+
+- Er will ihn in den Ruhestand schicken
+
+- **Richtig: Er will ihn trotz dessen Heiratsplänen bei der Zeitung halten**
+
+- Er will ihn als Zeugen der Anklage ausschließen
+
+Burns will seinen besten Reporter nicht verlieren.
+
+Hildy (Jack Lemmon) plant, das Zeitungsgeschäft für seine Hochzeit hinter sich zu lassen. Burns nutzt den Wirbel um einen zum Tode Verurteilten, um ihn wieder in die Arbeit hineinzuziehen. Die gemeinsame Jagd nach einer großen Geschichte wird damit zugleich zum Machtkampf zwischen Chef und Mitarbeiter.
+
+Merksatz: Burns braucht Hildy für die Schlagzeile und verhindert seinen Abschied.
+
+Quellen: [1](https://catalog.afi.com/Film/67639-THE-FRONT-PAGE).
+
+### E1 · experte
+
+Wer spielte Felix an Walter Matthaus Seite in der ursprünglichen Broadway-Produktion von „Ein seltsames Paar“, bevor Jack Lemmon die Filmrolle übernahm?
+
+- Tony Randall
+
+- **Richtig: Art Carney**
+
+- Jack Klugman
+
+- Henry Fonda
+
+Matthaus ursprünglicher Bühnenpartner war Art Carney.
+
+Matthau erinnerte sich im PBS-Interview ausdrücklich an Carney als Partner der Bühnenfassung. Er spielte Oscar bereits vor der Verfilmung und gewann dafür 1965 einen Tony. Der Kinofilm übernahm seine Figur, besetzte den Gegenpart aber mit Lemmon neu.
+
+Merksatz: Auf der Bühne war Carney der Felix zu Matthaus Oscar.
+
+Quellen: [1](https://www.pbs.org/wnet/americanmasters/archive/interview/matthau-walter/), [2](https://www.tonyawards.com/winners/year/1965/category/any/show/any/).
+
+### E2 · experte
+
+In welchem Theaterumfeld sammelte Walter Matthau als Jugendlicher erste prägende Eindrücke vom Schauspiel?
+
+- In einem englischen Shakespeare-Ensemble
+
+- Im Ballett der Metropolitan Opera
+
+- In einer reisenden Zirkustruppe
+
+- **Richtig: In den jiddischsprachigen Theatern der New Yorker Lower East Side**
+
+Er lernte das Theater in den jiddischsprachigen Häusern seiner Nachbarschaft kennen.
+
+Matthau erzählte im PBS-Interview, dass er dort Eis und Getränke verkaufte und die Darsteller beobachtete. Deren Bewegungen und Bühnenarbeit faszinierten ihn. Seine Erinnerung macht den frühen Zugang zum Schauspiel als Begegnung mit lebendiger Theaterpraxis greifbar.
+
+Merksatz: Matthau schaute den Schauspielern der jiddischen Theater genau zu.
+
+Quellen: [1](https://www.pbs.org/wnet/americanmasters/archive/interview/matthau-walter/).
+
+## Anthony Quinn · Bekanntheitsgruppe 3
+
+![Anthony Quinn (um 1955)](Portraets/056.jpg)
+
+Bild: um 1955; Unknown author studio publicity photographer. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Anthony_Quinn_signed_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/5401).
+
+### L1 · leicht
+
+Was tun Sorbas (Anthony Quinn) und Basil nach dem Scheitern ihres Unternehmens am Ende von „Alexis Sorbas“?
+
+- **Richtig: Sie tanzen gemeinsam**
+
+- Sie setzen sofort eine neue Seilbahn in Betrieb
+
+- Sie liefern sich ein Duell
+
+- Sie besteigen gemeinsam ein Schiff nach England
+
+Sorbas bringt Basil zum Tanzen.
+
+Basil (Alan Bates) hat in Griechenland ein Bergwerksprojekt begonnen, dessen entscheidende Seilbahn zusammenbricht. Statt im geschäftlichen Verlust zu verharren, bittet er Sorbas, ihm das Tanzen beizubringen. Der gemeinsame Tanz verbindet das Scheitern mit einer neuen Fähigkeit, das Leben anzunehmen.
+
+Merksatz: Nach dem Zusammenbruch des Projekts bleibt der gemeinsame Tanz.
+
+Quellen: [1](https://catalog.afi.com/Film/22430-ZORBA-THE-GREEK).
+
+### L2 · leicht
+
+Womit verdient Zampanò (Anthony Quinn) in „La Strada“ sein Geld?
+
+- Mit dem Verkauf von Gemälden
+
+- Mit dem Stimmen von Klavieren
+
+- **Richtig: Mit Kraftkunststücken als reisender Schausteller**
+
+- Mit der Arbeit als Landarzt
+
+Zampanò tritt als reisender Kraftmensch auf.
+
+Gelsomina (Giulietta Masina) begleitet ihn auf seinen Auftritten. Ihre offene, verletzliche Art trifft auf seine Härte und Rücksichtslosigkeit. Quinns körperliche Präsenz macht den Beruf des Schaustellers sichtbar und verstärkt zugleich das Machtgefälle zwischen den beiden Reisenden.
+
+Merksatz: Zampanòs Kraftkunst steht neben seiner Härte gegenüber Gelsomina.
+
+Quellen: [1](https://www.criterion.com/films/185-la-strada).
+
+### M1 · mittel
+
+Welchen Maler spielt Anthony Quinn in „Vincent van Gogh – Ein Leben in Leidenschaft“?
+
+- Paul Cézanne
+
+- **Richtig: Paul Gauguin**
+
+- Claude Monet
+
+- Georges Seurat
+
+Quinn verkörpert Paul Gauguin.
+
+Der Film stellt ihm Kirk Douglas als Vincent van Gogh gegenüber. Die Freundschaft und das konfliktreiche Zusammenleben der beiden Künstler gehören zur Geschichte von van Goghs Arbeit und psychischer Krise. Quinns Rolle ist damit ein Gegenüber des porträtierten Malers, nicht dessen Darstellung in einer anderen Lebensphase.
+
+Merksatz: Quinn ist Gauguin, Douglas ist van Gogh.
+
+Quellen: [1](https://catalog.afi.com/Film/51908-LUST-FOR-LIFE).
+
+### M2 · mittel
+
+Welche Stellung hat Andrea (Anthony Quinn) im Sabotageteam von „Die Kanonen von Navarone“?
+
+- Er ist der britische Sprengstoffexperte
+
+- Er ist ein amerikanischer Kriegsreporter
+
+- Er ist ein deutscher Überläufer
+
+- **Richtig: Er ist ein griechischer Widerstandskämpfer**
+
+Andrea ist ein griechischer Widerstandskämpfer.
+
+Die Gruppe soll schwere deutsche Geschütze auf einer besetzten griechischen Insel ausschalten. Andrea verbindet Kampferfahrung und Ortsnähe mit einem persönlichen Konflikt gegenüber Mallory (Gregory Peck). Die gemeinsame Mission verlangt Zusammenarbeit zwischen Menschen, deren Vergangenheit sie nicht automatisch zu Freunden macht.
+
+Merksatz: Quinns Andrea bringt griechische Widerstandserfahrung in die Mission ein.
+
+Quellen: [1](https://catalog.afi.com/Film/22407-the-gunsofnavarone), [2](https://www.sonypicturesmuseum.com/collection/film/650/guns-of-navarone-the.html).
+
+### S1 · schwer
+
+Wozu drängt sein Manager den ausgekämpften Boxer Mountain (Anthony Quinn) in „Die Faust im Gesicht“?
+
+- **Richtig: Zu erniedrigenden Wrestlingauftritten**
+
+- Zu einer Karriere als Radiokommentator
+
+- Zu einem Universitätsstudium
+
+- Zu einer politischen Kandidatur
+
+Mountain soll als Wrestler auftreten.
+
+Nachdem weitere Boxkämpfe für ihn zu gefährlich geworden sind, versucht Mountain ein anderes Arbeitsleben zu beginnen. Sein Manager Maish (Jackie Gleason) sabotiert diese Aussicht und braucht Geld für eigene Schulden. Der angebotene Auftritt nimmt dem ehemaligen Boxer Würde, obwohl er gerade einen Ausweg sucht.
+
+Merksatz: Mountain soll nach dem Boxen seine Würde im Ring verkaufen.
+
+Quellen: [1](https://catalog.afi.com/Film/23331-REQUIEM-FOR-A-HEAVYWEIGHT).
+
+### S2 · schwer
+
+Welchen Preis verlangt die zurückgekehrte Millionärin in „Der Besuch“ für ihre Geldspende an die Stadt – zulasten von Serge Miller (Anthony Quinn)?
+
+- Serge soll sie erneut heiraten
+
+- Serge soll zum Bürgermeister gewählt werden
+
+- **Richtig: Die Bürger sollen Serge töten**
+
+- Die Bürger sollen Serge sein Haus zurückgeben
+
+Die Spende ist an Serges Tod geknüpft.
+
+Karla Zachanassian (Ingrid Bergman) will sich an dem Mann rächen, der sie einst verführt und im Stich gelassen hat. Die finanziell bedrängte Stadt gerät durch ihr Angebot in einen moralischen Konflikt. Die Filmfassung verändert Dürrenmatts Vorlage jedoch: Karla rettet Serge im letzten Moment vor der Hinrichtung.
+
+Merksatz: Karlas Geldangebot macht Serges Leben zur Handelsware.
+
+Quellen: [1](https://www.filmportal.de/film/der-besuch_449e0c1ce0c5462d8be65b89a4c2e237).
+
+### E1 · experte
+
+Welche Aufgabe übernahm Anthony Quinn bei „König der Freibeuter“ mit Yul Brynner?
+
+- Er komponierte die Filmmusik
+
+- **Richtig: Er führte Regie**
+
+- Er entwarf die Kostüme
+
+- Er schrieb das Drehbuch
+
+Quinn führte bei dem Piratenfilm Regie.
+
+Die Produktion stand unter der Aufsicht von Cecil B. DeMille und erzählte erneut den Stoff seines früheren Films über Jean Lafitte. Quinn wechselte bei diesem Projekt von der Schauspielerei auf den Regiestuhl. Das AFI beschreibt auch seine spätere Unzufriedenheit mit der von DeMille umgeschnittenen Fassung.
+
+Merksatz: Bei „König der Freibeuter“ arbeitete Quinn als Regisseur.
+
+Quellen: [1](https://catalog.afi.com/Film/52491-THE-BUCCANEER).
+
+### E2 · experte
+
+Welche eigenen Kunstformen betrieb Anthony Quinn neben der Schauspielerei über viele Jahre?
+
+- Ballett und Choreografie
+
+- Opernkomposition und Orgelspiel
+
+- Animationsfilm und Puppentheater
+
+- **Richtig: Malerei und Bildhauerei**
+
+Quinn arbeitete als Maler und Bildhauer.
+
+Die von seiner Witwe gegründete Anthony Quinn Foundation betreut auch sein künstlerisches Erbe und fördert Kunstausbildung. Ihre Darstellung nennt ihn ausdrücklich als Maler, Bildhauer und Schriftsteller. Die Werke bildeten somit einen eigenen Schaffensbereich neben den Filmfiguren, für die er international berühmt wurde.
+
+Merksatz: Quinn gestaltete nicht nur Figuren im Film, sondern auch Bilder und Skulpturen.
+
+Quellen: [1](https://aqfoundation.org/board-of-directors).

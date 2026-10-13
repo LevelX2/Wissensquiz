@@ -99,6 +99,7 @@ try {
     "Vorhandener Katalog fehlerfrei geladen",
   );
   const existingById = new Map(state.questions.map((q) => [q.id, q]));
+  const existingGoals = new Set(state.questions.map((q) => q.knowledgeId));
   const newById = new Map(
     people.flatMap((p) =>
       p.questions.map((q) => {
@@ -153,7 +154,7 @@ try {
         portrait.licenseName,
       );
       assert(
-        /^(Public domain|CC0|CC BY(?:-SA)? [234]\.0(?: de)?)$/.test(
+        /^(Public domain|CC0|CC BY(?:-SA)? [234]\.0(?: de| nl)?)$/.test(
           portrait.licenseName,
         ),
       );
@@ -346,7 +347,7 @@ try {
       if (feedback.length) reading.push("Antwortzusätze:\n", ...feedback);
       if (q.variant_of)
         reading.push(
-          `Gemeinsames Bestandsziel: ${q.knowledge_id} (${q.variant_of}).\n`,
+          `Gemeinsames Wissensziel: ${q.knowledge_id} (${q.variant_of}).\n`,
         );
       reading.push(
         `Quellen: ${[...new Set(q.extraSources)].map((url, i) => `[${i + 1}](${url})`).join(", ")}.\n`,
@@ -393,8 +394,16 @@ try {
         persons: people.length,
         questions: rows.length,
         independentGoals: new Set(rows.map((q) => q.knowledge_id)).size,
-        existingVariants: rows.filter((q) => q.variant_of).length,
-        newGoals: rows.filter((q) => !q.variant_of).length,
+        existingVariants: rows.filter((q) => existingGoals.has(q.knowledge_id))
+          .length,
+        withinPackageVariants: rows.filter(
+          (q) => q.variant_of && newById.has(q.variant_of),
+        ).length,
+        newGoals: new Set(
+          rows
+            .filter((q) => !existingGoals.has(q.knowledge_id))
+            .map((q) => q.knowledge_id),
+        ).size,
         currentCatalog: state.questions.length,
         filmReferences: allFilms.size,
         reusedFilmReferences: [...allFilms.values()].filter(
