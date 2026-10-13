@@ -64,7 +64,31 @@
     "ACTOR-BG-20261013-053",
     "ACTOR-BG-20261013-054",
     "ACTOR-BG-20261013-055",
-    "ACTOR-BG-20261013-056"
+    "ACTOR-BG-20261013-056",
+    "ACTOR-BG-20261013-057",
+    "ACTOR-BG-20261013-058",
+    "ACTOR-BG-20261013-059",
+    "ACTOR-BG-20261013-060",
+    "ACTOR-BG-20261013-061",
+    "ACTOR-BG-20261013-062",
+    "ACTOR-BG-20261013-063",
+    "ACTOR-BG-20261013-064",
+    "ACTOR-BG-20261013-065",
+    "ACTOR-BG-20261013-066",
+    "ACTOR-BG-20261013-067",
+    "ACTOR-BG-20261013-068",
+    "ACTOR-BG-20261013-069",
+    "ACTOR-BG-20261013-070",
+    "ACTOR-BG-20261013-071",
+    "ACTOR-BG-20261013-072",
+    "ACTOR-BG-20261013-073",
+    "ACTOR-BG-20261013-074",
+    "ACTOR-BG-20261013-075",
+    "ACTOR-BG-20261013-076",
+    "ACTOR-BG-20261013-077",
+    "ACTOR-BG-20261013-078",
+    "ACTOR-BG-20261013-079",
+    "ACTOR-BG-20261013-080"
   ],
   "blocks": [
     {
@@ -438,7 +462,7 @@
     },
     {
       "block": 4,
-      "status": "Recherche und Redaktion",
+      "status": "Redaktion und App-Parser-Prüfung abgeschlossen; nicht installiert",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -585,7 +609,11 @@
           "name": "Olivia de Havilland",
           "level": 3
         }
-      ]
+      ],
+      "questions": 192,
+      "newGoals": 176,
+      "existingVariants": 16,
+      "portraits": 24
     },
     {
       "block": 5,
@@ -740,7 +768,7 @@
     },
     {
       "block": 6,
-      "status": "Geplant",
+      "status": "Recherche und Redaktion",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -1398,15 +1426,15 @@
       ]
     }
   ],
-  "remainingPersons": 152,
+  "remainingPersons": 128,
   "remainingByGroup": {
     "1": 0,
     "2": 0,
-    "3": 54,
+    "3": 30,
     "4": 98
   },
   "appIntegration": "ausstehend",
   "publication": "nicht beauftragt",
   "continuousCommission": "Bis vollständigem Ausgleich weiterarbeiten; abgeschlossene Blöcke lokal committen",
-  "validatedThroughEntry": 56
+  "validatedThroughEntry": 80
 }

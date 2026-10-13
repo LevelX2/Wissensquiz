@@ -154,7 +154,7 @@ try {
         portrait.licenseName,
       );
       assert(
-        /^(Public domain|CC0|CC BY(?:-SA)? [234]\.0(?: de| nl)?)$/.test(
+        /^(Public domain|CC0|CC BY(?:-SA)? (?:[234]\.0|2\.5)(?: de| nl| br)?)$/.test(
           portrait.licenseName,
         ),
       );

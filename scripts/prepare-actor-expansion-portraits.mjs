@@ -155,7 +155,7 @@ for (const choice of choices) {
     }
     const licenseName = meta.LicenseShortName.value;
     if (
-      !/^(Public domain|CC0|CC BY(?:-SA)? [234]\.0(?: de| nl)?)$/.test(
+      !/^(Public domain|CC0|CC BY(?:-SA)? (?:[234]\.0|2\.5)(?: de| nl| br)?)$/.test(
         licenseName,
       )
     )
@@ -249,6 +249,12 @@ for (const choice of choices) {
   );
   if (oldIdentity < 0) identities.persons.push(identity);
   else identities.persons[oldIdentity] = identity;
+  // Preserve completed downloads if a later provider request is rate limited.
+  write(
+    `${root}/Portraets.json`,
+    portraits.sort((a, b) => a.personId.localeCompare(b.personId)),
+  );
+  write(`${root}/TMDB-Personen.json`, identities);
   console.log(
     `${n} ${person.name}: ${portrait.provider}, ${portrait.imageDate}, ${portrait.width}x${portrait.height}`,
   );
