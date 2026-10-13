@@ -15,7 +15,11 @@ import awards from "../docs/Erweiterung-2026-10-07/Preisefragen_20261007.json";
 import { originalQuestionId } from "./editorialSource";
 
 const contents = packages
-  .filter((p) => !p.filename.startsWith("Genre100_"))
+  .filter(
+    (p) =>
+      !p.filename.startsWith("Genre100_") &&
+      !p.filename.startsWith("Schauspieler-Bekanntheit-"),
+  )
   .map((p) => ({
     filename: p.filename,
     text: readFileSync(`public${p.path}`, "utf8"),

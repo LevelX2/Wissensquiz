@@ -17,16 +17,32 @@ const contents = packages.map((p) => ({
 const before = emptyState();
 addPackages(
   before,
-  contents.filter((p) => !p.filename.startsWith("Genre100_")),
+  contents.filter(
+    (p) =>
+      !p.filename.startsWith("Genre100_") &&
+      !p.filename.startsWith("Schauspieler-Bekanntheit-"),
+  ),
 );
 const state = structuredClone(before);
-addPackages(state, contents);
+addPackages(
+  state,
+  contents.filter((p) => !p.filename.startsWith("Schauspieler-Bekanntheit-")),
+);
+// Load the later actor expansion only after all Genre100 target questions exist.
+addPackages(
+  state,
+  contents.filter((p) => p.filename.startsWith("Schauspieler-Bekanntheit-")),
+);
 const newIds = new Set([
-  ...state.questions.filter(q=>q.id.startsWith("G100-")).map(q=>q.id),
-  ...integration.replacements.filter(r=>r.id.startsWith("G100-")).map(r=>r.replacementId),
-  ...integration.additions.filter(a=>a.file.startsWith("public/genre100-")).map(a=>a.row.question_id),
+  ...state.questions.filter((q) => q.id.startsWith("G100-")).map((q) => q.id),
+  ...integration.replacements
+    .filter((r) => r.id.startsWith("G100-"))
+    .map((r) => r.replacementId),
+  ...integration.additions
+    .filter((a) => a.file.startsWith("public/genre100-"))
+    .map((a) => a.row.question_id),
 ]);
-const newQuestions = state.questions.filter(q=>newIds.has(q.id));
+const newQuestions = state.questions.filter((q) => newIds.has(q.id));
 
 it("ergänzt die abgenommenen Genres konfliktfrei und erhält den gesamten vorherigen Fragenbestand", () => {
   expect(before.questions).toHaveLength(10889);
@@ -64,7 +80,9 @@ it("liefert je neuer Filmfassung sechs Inhaltsziele und explizites Jahres- und R
     const key = `${film.film_title_original}|${film.film_year}`;
     expect(oldFilms.has(key), key).toBe(false);
     const group = newQuestions.filter((q) => filmIdentity(q) === key);
-    const added = integration.additions.filter(a=>`${a.row.film_title_original}|${a.row.film_year}`===key).length;
+    const added = integration.additions.filter(
+      (a) => `${a.row.film_title_original}|${a.row.film_year}` === key,
+    ).length;
     expect(group, key).toHaveLength(8 + added);
     expect(new Set(group.map((q) => q.knowledgeId)).size, key).toBe(8 + added);
     for (const difficulty of ["leicht", "mittel", "schwer"]) {
@@ -139,7 +157,13 @@ for (const directory of readdirSync(root, { withFileTypes: true }).filter(
       (q) => questionSourceOf(q) === "film" && genreOf(q) === selection.genre,
     );
     expect(questions).toHaveLength(
-      previous.length + selection.films.length * 8 + integration.additions.filter(a=>a.file===`public/genre100-${directory.name.toLowerCase()}-fragen.csv`).length,
+      previous.length +
+        selection.films.length * 8 +
+        integration.additions.filter(
+          (a) =>
+            a.file ===
+            `public/genre100-${directory.name.toLowerCase()}-fragen.csv`,
+        ).length,
     );
     expect(core.films).toHaveLength(20);
     for (const film of core.films) {
@@ -150,7 +174,12 @@ for (const directory of readdirSync(root, { withFileTypes: true }).filter(
       expect(film.question_ids.length, film.title).toBeGreaterThan(0);
       for (const id of film.question_ids)
         expect(
-          filmQuestions.some((q) => q.id === (integration.replacements.find(r=>r.id===id)?.replacementId ?? id)),
+          filmQuestions.some(
+            (q) =>
+              q.id ===
+              (integration.replacements.find((r) => r.id === id)
+                ?.replacementId ?? id),
+          ),
           id,
         ).toBe(true);
     }

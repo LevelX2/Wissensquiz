@@ -50,9 +50,11 @@ it("erlaubt in den öffentlichen CSVs genau die dokumentierten Zeilenänderungen
     changed += assertEditorialSource(
       readFileSync(`public${pkg.path}`, "utf8"),
       readFileSync(
-        pkg.filename === "Filmfragen_240_Filme_1920_Fragen.csv"
-          ? `docs/Filmfragen-Ergaenzung-2026-10-06/${pkg.filename}`
-          : `KI-Wissen-Wissensquiz/01 Rohquellen/${pkg.filename}`,
+        pkg.filename.startsWith("Schauspieler-Bekanntheit-")
+          ? "docs/Schauspieler-Bekanntheit-2026-10-13/Fragen.csv"
+          : pkg.filename === "Filmfragen_240_Filme_1920_Fragen.csv"
+            ? `docs/Filmfragen-Ergaenzung-2026-10-06/${pkg.filename}`
+            : `KI-Wissen-Wissensquiz/01 Rohquellen/${pkg.filename}`,
         "utf8",
       ),
       `public${pkg.path}`,

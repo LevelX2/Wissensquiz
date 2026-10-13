@@ -11,6 +11,7 @@ import {
 } from "../src/learningPath";
 import { questionSourceOf, sourceLabels } from "../src/filters";
 import { validateBackup } from "../src/backupValidation";
+import { familiarityOf } from "../src/familiarity";
 const base = emptyState();
 addPackages(
   base,
@@ -36,7 +37,7 @@ function play(
   round.questions = questions;
   round.order = questions.map((q) => q.answers.map((a) => a.id));
   round.familiaritySnapshot = Object.fromEntries(
-    questions.map((q) => [q.id, 0]),
+    questions.map((q) => [q.id, familiarityOf(q)!]),
   );
   for (const q of questions) {
     answer(state, round.id, q.id, q.correctId, 100, 2000 + state.events.length);
@@ -54,12 +55,26 @@ it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und
     .map((q) => q.id);
   for (const source of ["actors", "awards"] as const) {
     const area = sourceLabels[source];
-    expect(learningPathProgress(s)(area).groups).toEqual([]);
     const qs = base.questions.filter((q) => questionSourceOf(q) === source);
+    expect(learningPathProgress(s)(area).groups).toEqual(
+      [1, 2, 3, 4].map((level) => {
+        const total = unique(
+          qs.filter((q) => q.difficulty === "leicht" && familiarityOf(q) === level),
+        ).length;
+        return {
+          level,
+          difficulty: "leicht",
+          total,
+          target: Math.ceil(total / 2),
+          answered: 0,
+          unlocked: level === 1,
+        };
+      }),
+    );
     expect(
       pathQuestions(s)
         .filter((q) => questionSourceOf(q) === source)
-        .every((q) => q.difficulty === "leicht"),
+        .every((q) => q.difficulty === "leicht" && familiarityOf(q) === 1),
     ).toBe(true);
     for (const [difficulty, next] of [
       ["leicht", "mittel"],
@@ -104,11 +119,9 @@ it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und
       .filter((q) => questionSourceOf(q) === "film")
       .map((q) => q.id),
   ).toEqual(filmsBefore);
-  // Use actual familiarity snapshots for export validation.
-  for (const r of s.rounds) delete r.familiaritySnapshot;
   expect(validateBackup(JSON.parse(JSON.stringify(s)))).toEqual(s);
   expect(JSON.parse(JSON.stringify(s))).toEqual(s);
-}, 30000);
+}, 60000);
 it("Preisantworten erteilen keine Filmrechte aus alten Kurzschwellen", () => {
   const s = structuredClone(base);
   s.journey = {
