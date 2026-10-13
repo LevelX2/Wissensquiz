@@ -136,7 +136,31 @@
     "ACTOR-BG-20261013-125",
     "ACTOR-BG-20261013-126",
     "ACTOR-BG-20261013-127",
-    "ACTOR-BG-20261013-128"
+    "ACTOR-BG-20261013-128",
+    "ACTOR-BG-20261013-129",
+    "ACTOR-BG-20261013-130",
+    "ACTOR-BG-20261013-131",
+    "ACTOR-BG-20261013-132",
+    "ACTOR-BG-20261013-133",
+    "ACTOR-BG-20261013-134",
+    "ACTOR-BG-20261013-135",
+    "ACTOR-BG-20261013-136",
+    "ACTOR-BG-20261013-137",
+    "ACTOR-BG-20261013-138",
+    "ACTOR-BG-20261013-139",
+    "ACTOR-BG-20261013-140",
+    "ACTOR-BG-20261013-141",
+    "ACTOR-BG-20261013-142",
+    "ACTOR-BG-20261013-143",
+    "ACTOR-BG-20261013-144",
+    "ACTOR-BG-20261013-145",
+    "ACTOR-BG-20261013-146",
+    "ACTOR-BG-20261013-147",
+    "ACTOR-BG-20261013-148",
+    "ACTOR-BG-20261013-149",
+    "ACTOR-BG-20261013-150",
+    "ACTOR-BG-20261013-151",
+    "ACTOR-BG-20261013-152"
   ],
   "blocks": [
     {
@@ -975,7 +999,7 @@
     },
     {
       "block": 7,
-      "status": "Recherche und Redaktion",
+      "status": "Redaktion und App-Parser-Prüfung abgeschlossen; nicht installiert",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -1122,7 +1146,11 @@
           "name": "Stephen Chow",
           "level": 4
         }
-      ]
+      ],
+      "questions": 192,
+      "newGoals": 181,
+      "existingVariants": 11,
+      "portraits": 24
     },
     {
       "block": 8,
@@ -1277,7 +1305,7 @@
     },
     {
       "block": 9,
-      "status": "Geplant",
+      "status": "Recherche und Redaktion",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -1482,15 +1510,15 @@
       ]
     }
   ],
-  "remainingPersons": 80,
+  "remainingPersons": 56,
   "remainingByGroup": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 80
+    "4": 56
   },
   "appIntegration": "ausstehend",
   "publication": "nicht beauftragt",
   "continuousCommission": "Bis vollständigem Ausgleich weiterarbeiten; abgeschlossene Blöcke lokal committen",
-  "validatedThroughEntry": 128
+  "validatedThroughEntry": 152
 }

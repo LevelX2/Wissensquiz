@@ -22811,3 +22811,4265 @@ Walbrook hatte Deutschland selbst verlassen und baute in England eine neue Karri
 Merksatz: Walbrooks Exilkarriere schloss praktische Hilfe für Verfolgte ein.
 
 Quellen: [1](https://www.filmportal.de/person/adolf-wohlbrueck_102ea96f2718406e9c16cab47f74d5e2).
+
+## Oskar Werner · Bekanntheitsgruppe 4
+
+![Oskar Werner; Aufnahmejahr nicht belegt](https://image.tmdb.org/t/p/w185/qUljBeQUIvRIU6KmcMiBpyx8Er7.jpg)
+
+Bild: Historische Aufnahme; genaues Jahr nicht belegt; Auf TMDB nicht ausgewiesen. TMDB-Onlineporträt; keine freie Lizenz behauptet. [Bildquelle](https://www.themoviedb.org/person/18216), [TMDB](https://www.themoviedb.org/person/18216).
+
+### L1 · leicht
+
+Welchen Beruf übt Guy Montag (Oskar Werner) in François Truffauts „Fahrenheit 451“ aus?
+
+- **Richtig: Feuerwehrmann.**
+
+- Polizist.
+
+- Lehrer.
+
+- Fernsehansager.
+
+Montag ist Feuerwehrmann in einem Staat, der seine Feuerwehr zum Verbrennen von Büchern einsetzt.
+
+Die Feuerwehr dieser Zukunft löscht keine Häuserbrände, sondern spürt verbotene Bücher auf. Montag verrichtet den Dienst zunächst selbstverständlich. Seine Begegnung mit Clarisse (Julie Christie) weckt jedoch die Neugier auf das, was er vernichten soll. So gerät der Mann, der die Unterdrückung praktisch ausführt, selbst in Konflikt mit ihrem Verbot des Lesens.
+
+Merksatz: Montags berufliche Pflicht richtet sich gegen die Bücher.
+
+Antwortzusätze:
+
+- Feuerwehrmann.: Montag ist Feuerwehrmann in einem Staat, der seine Feuerwehr zum Verbrennen von Büchern einsetzt.
+
+Quellen: [1](https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=fahrenheit4512022).
+
+### L2 · leicht
+
+Aus welchem Land stammt Jules (Oskar Werner), der Freund des Franzosen Jim (Henri Serre), in „Jules und Jim“?
+
+- Aus der Schweiz.
+
+- Aus Belgien.
+
+- **Richtig: Aus Österreich.**
+
+- Aus Italien.
+
+Jules stammt aus Österreich.
+
+Jules lebt als österreichischer Schriftsteller in Paris, wo ihn Kunst und gemeinsame Unternehmungen mit Jim verbinden. Im Ersten Weltkrieg dienen die Freunde auf entgegengesetzten Seiten und fürchten, einander töten zu müssen.
+
+Merksatz: Die Freundschaft überspannt die spätere Kriegsgrenze.
+
+Antwortzusätze:
+
+- Aus Österreich.: Jules stammt aus Österreich.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Jules_and_Jim).
+
+### M1 · mittel
+
+Was vermutet Fiedler (Oskar Werner) über Mundt (Peter van Eyck) in „Der Spion, der aus der Kälte kam“?
+
+- Dass Mundt Informationen für einen privaten Waffenschmuggler verkauft.
+
+- **Richtig: Dass Mundt heimlich für den britischen Geheimdienst arbeitet.**
+
+- Dass Mundt eine eigene Flucht in den Westen vorbereitet.
+
+- Dass Mundt den Dienst zugunsten eines Rivalen sabotiert.
+
+Fiedler vermutet, dass sein Vorgesetzter Mundt ein britischer Informant ist.
+
+Leamas (Richard Burton) liefert Fiedler Angaben, die dessen Verdacht gegen den eigenen Chef stützen. Der angebliche Überläufer bestätigt die Schlussfolgerung zunächst nicht offen. Fiedler setzt die Indizien selbst zusammen und macht daraus einen Fall für ein Tribunal. Sein analytischer Erfolg bringt ihn jedoch in Gefahr, weil die britischen Auftraggeber andere Interessen verfolgen, als Leamas annimmt.
+
+Merksatz: Fiedlers Ermittlung richtet sich gegen den eigenen Vorgesetzten.
+
+Antwortzusätze:
+
+- Dass Mundt heimlich für den britischen Geheimdienst arbeitet.: Fiedler vermutet, dass sein Vorgesetzter Mundt ein britischer Informant ist.
+
+Gemeinsames Wissensziel: K-G100-20261008-THRILLER-016-M1 (G100-20261008-THRILLER-016-M1).
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Spy_Who_Came_In_from_the_Cold_(film)).
+
+### M2 · mittel
+
+Welche Passagierin betreut Dr. Schumann (Oskar Werner) in „Das Narrenschiff“ und verliebt sich dabei in sie?
+
+- Eine Sängerin, die ihre Stimme verloren hat.
+
+- Eine Lehrerin, die nach einem Unfall erblindet ist.
+
+- **Richtig: Eine drogenabhängige Adlige auf dem Weg ins Gefängnis.**
+
+- Eine Tänzerin, die vor ihrem Ensemble flieht.
+
+Schumann behandelt die drogenabhängige La Condesa (Simone Signoret).
+
+La Condesa soll wegen ihres Einsatzes für soziale Reformen inhaftiert werden. Auf der Überfahrt entsteht zwischen ihr und dem Schiffsarzt eine Liebesbeziehung. Schumann leidet selbst an einem tödlichen Herzleiden; die Nähe bietet ihm deshalb keine einfache neue Zukunft. Während andere Passagiere ihre Vorurteile und gesellschaftlichen Ansprüche ausleben, begegnen sich hier zwei Menschen in sehr unterschiedlichen Formen von Ausweglosigkeit.
+
+Merksatz: Arzt und Patientin finden Nähe auf einer Reise ohne gemeinsame Zukunft.
+
+Antwortzusätze:
+
+- Eine drogenabhängige Adlige auf dem Weg ins Gefängnis.: Schumann behandelt die drogenabhängige La Condesa (Simone Signoret).
+
+Quellen: [1](https://catalog.afi.com/Film/22671-SHIP-OF-FOOLS).
+
+### S1 · schwer
+
+Welche Rolle bleibt Jules (Oskar Werner) nach der letzten Autofahrt in „Jules und Jim“?
+
+- **Richtig: Er überlebt Catherine und Jim und begleitet ihre Bestattung.**
+
+- Er muss als Beschuldigter vor Gericht aussagen.
+
+- Er wird bei der Rettung beider Freunde schwer verletzt.
+
+- Er flieht gemeinsam mit Catherine ins Ausland.
+
+Jules bleibt als Überlebender zurück, nachdem Catherine und Jim mit dem Auto sterben.
+
+Catherine (Jeanne Moreau) bittet Jules zuzusehen, fährt mit Jim (Henri Serre) auf eine zerstörte Brücke und stürzt in den Fluss. Jules bleibt zurück und wohnt später der Beisetzung ihrer Asche bei.
+
+Merksatz: Der Beobachter überlebt die beiden anderen.
+
+Antwortzusätze:
+
+- Er überlebt Catherine und Jim und begleitet ihre Bestattung.: Jules bleibt als Überlebender zurück, nachdem Catherine und Jim mit dem Auto sterben.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Jules_and_Jim).
+
+### S2 · schwer
+
+Wie ermöglicht Karl Maurer alias Happy (Oskar Werner) seinem Begleiter in „Entscheidung vor Morgengrauen“ die Rückkehr über den Rhein?
+
+- Er gibt den Amerikaner als verwundeten deutschen Soldaten aus.
+
+- Er zwingt einen Offizier zur Freigabe einer Fähre.
+
+- Er täuscht einen neuen Auftrag der deutschen Kommandantur vor.
+
+- **Richtig: Er lenkt die Deutschen durch seine eigene Gefangennahme ab.**
+
+Happy liefert sich den Deutschen aus und ermöglicht so Rennicks Flucht.
+
+Der deutsche Kriegsgefangene hat sich freiwillig für einen amerikanischen Nachrichtendiensteinsatz gemeldet. Nach der Rückkehr ins noch kämpfende Deutschland sammelt er Informationen und sucht mit Lieutenant Rennick (Richard Basehart) den Weg zurück. Am Rhein werden die beiden entdeckt. Happy zieht die Aufmerksamkeit auf sich, obwohl ihm als übergelaufenem Deutschen Folter und Hinrichtung drohen; Rennick erreicht dadurch die andere Seite.
+
+Merksatz: Der als Verräter betrachtete Helfer rettet den amerikanischen Offizier.
+
+Antwortzusätze:
+
+- Er lenkt die Deutschen durch seine eigene Gefangennahme ab.: Happy liefert sich den Deutschen aus und ermöglicht so Rennicks Flucht.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Decision_Before_Dawn), [2](https://catalog.afi.com/Film/50075-DECISION-BEFORE-DAWN).
+
+### E1 · experte
+
+Worin lag laut Truffaut der grundlegende Gegensatz zu Oskar Werner bei der Gestaltung Montags in „Fahrenheit 451“?
+
+- Werner wollte einen Intellektuellen, Truffaut einen erfahrenen Soldaten.
+
+- **Richtig: Werner sah einen Helden, Truffaut einen unsicheren, teils kindlichen Menschen.**
+
+- Werner sah einen abgeklärten Erzähler, Truffaut einen impulsiven Abenteurer.
+
+- Werner wollte einen Komiker, Truffaut einen nüchternen Beamten.
+
+Truffaut wollte Montags Unsicherheit zeigen; Werner hatte nach seiner Darstellung ein ausgeprägteres Heldenbild.
+
+Die Cinémathèque française dokumentiert Truffauts rückblickende Kritik an dieser Zusammenarbeit. Er beschreibt Montag als verborgen, ungewiss und stellenweise kindlich, während Werner mit festeren Vorstellungen vom Helden angetreten sei. Der Gegensatz betraf damit die Grundhaltung der Figur. Truffaut schätzte Werners frühere Arbeit in „Jules und Jim“ ausdrücklich, sah dessen neuen Ansatz aber als Hindernis für Montags tastende Entwicklung.
+
+Merksatz: Die Kontroverse betrifft die Figur zwischen Heldensicherheit und Unsicherheit.
+
+Antwortzusätze:
+
+- Werner sah einen Helden, Truffaut einen unsicheren, teils kindlichen Menschen.: Truffaut wollte Montags Unsicherheit zeigen; Werner hatte nach seiner Darstellung ein ausgeprägteres Heldenbild.
+
+Quellen: [1](https://www.cinematheque.fr/expositions-virtuelles/truffaut-par-truffaut/index.php?id=9).
+
+### E2 · experte
+
+Wie erklärt Kameramann Nicolas Roeg die auffallend steife Sprache in den Szenen von Oskar Werners „Fahrenheit 451“?
+
+- Die Sätze sollten wie eine zeitgenössische Parlamentsdebatte klingen.
+
+- Die Figuren sollten einen regionalen Dialekt des Londoner Umlands sprechen.
+
+- Die Dialoge sollten an das damalige britische Hörspiel erinnern.
+
+- **Richtig: Die verlorenen sprachlichen Eigenheiten sollten eine kulturell verarmte Zukunft zeigen.**
+
+Roeg beschreibt die steife Sprache als bewusstes Zeichen einer Welt, die ihren literarischen Sprachreichtum verliert.
+
+Nach Roegs Erinnerung ließ Truffaut den französisch geschriebenen Dialog mehrfach zwischen Französisch und Englisch übertragen, um vertraute englische Wendungen zu entfernen. Auch die Schauspieler sollten eine gewisse Fremdheit im Verhalten zeigen. Die Zukunft entsteht dadurch in der Sprache und in gewöhnlichen Beziehungen ebenso wie in technischen Geräten. Roegs Erläuterung ist eine konkrete Erinnerung des Kameramanns an die beabsichtigte Gestaltung.
+
+Merksatz: Die fremd gewordene Alltagssprache gehört zur entworfenen Zukunft.
+
+Antwortzusätze:
+
+- Die verlorenen sprachlichen Eigenheiten sollten eine kulturell verarmte Zukunft zeigen.: Roeg beschreibt die steife Sprache als bewusstes Zeichen einer Welt, die ihren literarischen Sprachreichtum verliert.
+
+Quellen: [1](https://bfidatadigipres.github.io/fran%C3%A7ois%20truffaut%3Cbr%3Efor%20the%20love%20of%20films/2022/02/05/fahrenheit-451/).
+
+## Helmut Qualtinger · Bekanntheitsgruppe 4
+
+![Helmut Qualtinger (1985)](Portraets/130.jpg)
+
+Bild: 1985; Georg Biron. CC BY-SA 4.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Qualtinger_und_Biron.jpg), [TMDB](https://www.themoviedb.org/person/2367).
+
+### L1 · leicht
+
+Welche Funktion hat Remigio da Varagine (Helmut Qualtinger) im Kloster von „Der Name der Rose“?
+
+- Abt.
+
+- **Richtig: Kellermeister.**
+
+- Bibliothekar.
+
+- Inquisitor.
+
+Remigio ist der Kellermeister des Klosters.
+
+Qualtinger spielt einen Mönch, dessen Verbindung zu Salvatore (Ron Perlman) und zur Vergangenheit einer ketzerischen Bewegung verdächtig wird. Die Klostermorde geraten unter dem Inquisitor Bernardo Gui (F. Murray Abraham) zu einem Verfahren, in dem Drohung und Geständnis die Untersuchung verdrängen. William von Baskerville (Sean Connery) widerspricht dabei der angeblichen Schuld Remigios an den Morden.
+
+Merksatz: Der Kellermeister gerät vor ein von der Inquisition bestimmtes Tribunal.
+
+Antwortzusätze:
+
+- Kellermeister.: Remigio ist der Kellermeister des Klosters.
+
+Quellen: [1](https://www.suhrkamp.de/person/helmut-qualtinger-p-14457), [2](https://en.wikipedia.org/wiki/The_Name_of_the_Rose_(film)).
+
+### L2 · leicht
+
+Welche Darstellungsform prägt Helmut Qualtingers „Der Herr Karl“?
+
+- Ein Streitgespräch zweier Kabarettfiguren.
+
+- Eine Folge von Liedern mit Orchesterbegleitung.
+
+- Eine Gerichtsverhandlung mit wechselnden Zeugen.
+
+- **Richtig: Ein durchgehender Monolog vor einem unsichtbaren Zuhörer.**
+
+Qualtinger erzählt als Herr Karl in einem Monolog einem unsichtbaren jüngeren Gegenüber von seinem Leben.
+
+Im Keller einer Delikatessenhandlung beginnt der Lagerarbeiter zu erzählen, bevor er eine Kiste anhebt. Die Kamera übernimmt den Platz des unhörbaren Zuhörers. Karl präsentiert seine Lebensgeschichte als harmloses Durchkommen durch schwierige Zeiten. Gerade weil kein sichtbarer Gesprächspartner seine Ausreden zurechtrückt, muss das Publikum die Widersprüche seiner Selbstdarstellung selbst erkennen.
+
+Merksatz: Ein einzelner Erzähler redet sich vor der Kamera um seine Verantwortung herum.
+
+Antwortzusätze:
+
+- Ein durchgehender Monolog vor einem unsichtbaren Zuhörer.: Qualtinger erzählt als Herr Karl in einem Monolog einem unsichtbaren jüngeren Gegenüber von seinem Leben.
+
+Quellen: [1](https://oe1.orf.at/artikel/293807/Der-Herr-Karl).
+
+### M1 · mittel
+
+In welcher Beziehung steht der „Zauberkönig“ (Helmut Qualtinger) zu Marianne (Birgit Doll) in Maximilian Schells „Geschichten aus dem Wienerwald“?
+
+- Er ist ihr Onkel.
+
+- Er ist ihr früherer Arbeitgeber.
+
+- **Richtig: Er ist ihr Vater.**
+
+- Er ist ihr Vermieter.
+
+Der Zauberkönig ist Mariannes Vater.
+
+Der Besitzer einer Puppenklinik möchte seine Tochter mit dem Fleischhauer Oskar (Götz Kauffmann) verheiraten. Die Verbindung verspricht auch ihm eine gesicherte Altersversorgung. Als Marianne sich stattdessen Alfred (Hanno Pöschl) zuwendet, verstößt er sie. Der Vater gehört damit zu jener vermeintlich anständigen Umgebung, deren wirtschaftliche Interessen und Doppelmoral Mariannes Spielraum immer enger machen.
+
+Merksatz: Hinter dem Heiratswunsch des Vaters steckt auch seine eigene Versorgung.
+
+Antwortzusätze:
+
+- Er ist ihr Vater.: Der Zauberkönig ist Mariannes Vater.
+
+Quellen: [1](https://de.wikipedia.org/wiki/Geschichten_aus_dem_Wienerwald_(1979)), [2](https://www.filmarchiv.at/de/kino/film/sc_02zS2Sj6CJGSTMPfsXH2EV).
+
+### M2 · mittel
+
+Warum arbeitet Bezirksinspektor Pokorny (Helmut Qualtinger) in „Kurzer Prozeß“ in der oberösterreichischen Provinz?
+
+- Er kehrt zur Pflege seines Vaters zurück.
+
+- Er übernimmt freiwillig eine neue Sonderkommission.
+
+- Er wird für eine Ausbildungsaufgabe abgeordnet.
+
+- **Richtig: Er ist dorthin strafversetzt worden.**
+
+Pokorny ist aus Wien in die Provinz strafversetzt worden.
+
+Pokorny fühlt sich in der engen Kleinstadt fremd und begegnet ihrer Ordnung mit mürrischer Gegenwehr. Seine deprimierte, trinkende Erscheinung lässt zunächst keinen glanzvollen Ermittler erwarten. Qualtinger gibt dem Inspektor jedoch eine Mischung aus Ungelenkheit und plötzlich aufflammender Energie. So entsteht ein Polizist, dessen Unzufriedenheit auch auf die bedrückenden Verhältnisse seiner Umgebung verweist.
+
+Merksatz: Die Provinzstelle ist für Pokorny eine Strafe.
+
+Antwortzusätze:
+
+- Er ist dorthin strafversetzt worden.: Pokorny ist aus Wien in die Provinz strafversetzt worden.
+
+Quellen: [1](https://info.filmarchiv.at/program/film/kurzer-prozess/).
+
+### S1 · schwer
+
+Welche Entdeckung erschüttert Anselm Eibenschütz (Helmut Qualtinger) in „Das falsche Gewicht“ zusätzlich zu seinen dienstlichen Konflikten?
+
+- **Richtig: Seine Frau hat ein Verhältnis mit seinem Sekretär.**
+
+- Sein Bruder ist am örtlichen Schmuggel beteiligt.
+
+- Sein Vorgesetzter lässt die Familie überwachen.
+
+- Seine Frau hat heimlich die Ersparnisse verspielt.
+
+Eibenschütz erfährt vom Verhältnis seiner Frau mit seinem Sekretär.
+
+Der neue Eichmeister will im galizischen Grenzort seine Vorstellungen von kaiserlicher Dienstmoral durchsetzen. Der Zusammenbruch seiner ehelichen Gewissheit untergräbt auch die private Ordnung, an der er festhält. Qualtinger spielt die Vereinsamung mit sparsamen Gesten und knappen Sätzen. Eibenschütz findet weder im Amt noch im persönlichen Leben jene Sicherheit wieder, die er aus der Kaserne kennt.
+
+Merksatz: Mit der Ehe zerbricht auch Eibenschütz’ Vorstellung einer verlässlichen Ordnung.
+
+Antwortzusätze:
+
+- Seine Frau hat ein Verhältnis mit seinem Sekretär.: Eibenschütz erfährt vom Verhältnis seiner Frau mit seinem Sekretär.
+
+Quellen: [1](https://info.filmarchiv.at/program/film/das-falsche-gewicht/).
+
+### S2 · schwer
+
+Wie stellt Herr Karl (Helmut Qualtinger) seine Beteiligung an der Erniedrigung des jüdischen Nachbarn Tennenbaum im Rückblick dar?
+
+- Als offenen Widerstand gegen die Nationalsozialisten.
+
+- **Richtig: Als geringe Sache, bei der er selbst angeblich Opfer war.**
+
+- Als Tat, für die er um Vergebung bittet.
+
+- Als Erinnerung, deren Wahrheit er ausdrücklich bezweifelt.
+
+Er verharmlost sein Mittun und reklamiert für sich selbst einen Opferstatus.
+
+Karl erzählt, dass er Tennenbaum zu den auf dem Gehsteig zu entfernenden Parolen geführt habe. Den Zwang und die Demütigung behandelt er wie eine alltägliche Angelegenheit. Gegenüber anderen, die durch die Verfolgung reich geworden seien, erscheint ihm seine eigene Rolle sogar benachteiligend. Qualtingers gemütlicher Erzählton macht die Selbstentlastung besonders beklemmend, weil Karl keinerlei Bruch in seiner Logik erkennt.
+
+Merksatz: Karl erzählt von der Demütigung eines anderen und erklärt sich selbst zum Opfer.
+
+Antwortzusätze:
+
+- Als geringe Sache, bei der er selbst angeblich Opfer war.: Er verharmlost sein Mittun und reklamiert für sich selbst einen Opferstatus.
+
+Quellen: [1](https://de.wikipedia.org/wiki/Der_Herr_Karl), [2](https://oe1.orf.at/hoerspiel/suche/15952).
+
+### E1 · experte
+
+Warum wollte Carl Merz Helmut Qualtinger beim „Herrn Karl“ einen größeren Anteil an den Autorentantiemen zugestehen?
+
+- **Richtig: Seine Darstellung habe besonders viel zum Stück beigetragen.**
+
+- Qualtinger hatte die Fernsehaufnahme finanziert.
+
+- Qualtinger hatte die Bühnenfassung nachträglich allein geschrieben.
+
+- Er hatte ältere Figurenrechte an den Verlag übertragen.
+
+Merz fand, Qualtinger habe durch seine Darstellung mehr für das Stück getan.
+
+Qualtinger und Merz hatten den Text gemeinsam geschaffen. Bei den Verlagsverhandlungen bestand Merz nach der Erinnerung des Verlegers Ulrich Schulenburg dennoch auf einer Verteilung von 60 zu 40 zugunsten Qualtingers. Die Begründung war dessen Leistung als Darsteller. Der Vorgang verbindet literarische Autorschaft mit der eigenständigen schöpferischen Bedeutung einer Aufführung.
+
+Merksatz: Der Mitautor erkannte das besondere Gewicht der schauspielerischen Verkörperung an.
+
+Antwortzusätze:
+
+- Seine Darstellung habe besonders viel zum Stück beigetragen.: Merz fand, Qualtinger habe durch seine Darstellung mehr für das Stück getan.
+
+Quellen: [1](https://radiokulturhaus.orf.at/artikel/284847/Aus-dem-Archiv-Helmut-Qualtinger).
+
+### E2 · experte
+
+Was hebt der Suhrkamp-Begleitessay an Helmut Qualtingers Lesung aus „Mein Kampf“ hervor?
+
+- Er ordnet den Text zu einem historischen Streitgespräch um.
+
+- Er unterbricht jede Passage mit einem erklärenden Kommentar.
+
+- **Richtig: Sein Vortrag macht Selbstmitleid und Phrasen des vorhandenen Texts hörbar.**
+
+- Er verwandelt die Sätze in Lieder seiner Kabarettprogramme.
+
+Der Vortrag legt das Pathos des stets Gekränkten und die hohlen Phrasen des Texts frei.
+
+Der Essay von Willi Winkler beschreibt Qualtinger als Sprechschauspieler, der ohne hinzugefügte Witze die sprachliche Selbstinszenierung des Autors sichtbar macht. Im Wechsel von Größenanspruch, Kränkung und Ressentiment liegt dabei mehr als ein Anlass zum Lachen. Die Lesung richtet die Aufmerksamkeit auf den tatsächlichen Wortlaut und darauf, wie eine scheinbare persönliche Leidensgeschichte zur Rechtfertigung von Hass wird.
+
+Merksatz: Die Entlarvung entsteht im Sprechen des vorhandenen Texts.
+
+Antwortzusätze:
+
+- Sein Vortrag macht Selbstmitleid und Phrasen des vorhandenen Texts hörbar.: Der Vortrag legt das Pathos des stets Gekränkten und die hohlen Phrasen des Texts frei.
+
+Quellen: [1](https://res.cloudinary.com/suhrkamp/image/upload/v1742125805/38902.pdf).
+
+## Tatsuya Nakadai · Bekanntheitsgruppe 4
+
+![Tatsuya Nakadai (1958)](Portraets/131.png)
+
+Bild: 1958; 国際情報社. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Nakadai-Tatsuya-3.png), [TMDB](https://www.themoviedb.org/person/70131).
+
+### L1 · leicht
+
+Welchen sozialen Stand hat Hanshirō Tsugumo (Tatsuya Nakadai) in „Harakiri“?
+
+- Er ist ein mächtiger Fürst.
+
+- Er ist ein wohlhabender Kaufmann.
+
+- **Richtig: Er ist ein herrenloser Samurai.**
+
+- Er ist ein buddhistischer Priester.
+
+Hanshirō ist ein Rōnin, ein Samurai ohne Herrn.
+
+Die Auflösung vieler Clans hat deren frühere Samurai ihrer Stellung und Lebensgrundlage beraubt. Hanshirō tritt deshalb als ein Mann auf, dem die bestehende Ordnung keinen Platz mehr bietet. Vor dem wohlhabenden Iyi-Clan erzählt er von einem weiteren verarmten Samurai und zwingt dessen Vertreter, ihre angebliche Ehrenhaftigkeit an den Folgen für eine konkrete Familie messen zu lassen.
+
+Merksatz: Der herrenlose Samurai konfrontiert die gesicherte Macht des Clans.
+
+Antwortzusätze:
+
+- Er ist ein herrenloser Samurai.: Hanshirō ist ein Rōnin, ein Samurai ohne Herrn.
+
+Gemeinsames Wissensziel: K-F240-20261006-125-L2 (F240-20261006-125-L2).
+
+Quellen: [1](https://www.criterion.com/current/posts/381-harakiri-kobayashi-and-history).
+
+### L2 · leicht
+
+Welche beiden Gestalten verkörpert Tatsuya Nakadai in „Kagemusha – Der Schatten des Kriegers“?
+
+- Einen General und dessen erwachsenen Sohn.
+
+- Einen Priester und einen entflohenen Samurai.
+
+- Zwei verfeindete Brüder aus Fürstenhäusern.
+
+- **Richtig: Den Fürsten Shingen und einen ihm ähnlichen Dieb.**
+
+Nakadai spielt Takeda Shingen und den Dieb, der ihn als Doppelgänger ersetzen soll.
+
+Die Ähnlichkeit erlaubt es dem Clan, den Tod seines Herrschers zu verbergen. Für den Dieb bedeutet die neue Aufgabe mehr als Verkleidung: Er muss sich in die Gesten, Beziehungen und Erwartungen einer fremden Stellung einfügen. Nakadais Doppelrolle lässt den Unterschied zwischen dem anerkannten Herrscher und dem Mann sichtbar werden, dessen Autorität von der gelungenen Nachahmung abhängt.
+
+Merksatz: Eine Ähnlichkeit des Gesichts soll die Autorität des Fürsten erhalten.
+
+Antwortzusätze:
+
+- Den Fürsten Shingen und einen ihm ähnlichen Dieb.: Nakadai spielt Takeda Shingen und den Dieb, der ihn als Doppelgänger ersetzen soll.
+
+Gemeinsames Wissensziel: K-E20261007-F-266-L1 (E20261007-F-266-L1).
+
+Quellen: [1](https://www.criterion.com/films/948-kagemusha).
+
+### M1 · mittel
+
+Warum übernimmt Kaji (Tatsuya Nakadai) am Beginn von „Barfuß durch die Hölle“ eine Stelle im Arbeitslager einer Mine?
+
+- **Richtig: Die Stelle befreit ihn zunächst vom Militärdienst.**
+
+- Er will dort eine geheime Widerstandsgruppe aufbauen.
+
+- Er hofft auf die Rückkehr seiner verschollenen Familie.
+
+- Er soll die Leitung wegen einer Untersuchung vertreten.
+
+Die Personalstelle im Bergbaulager verspricht Kaji eine Befreiung vom Militärdienst.
+
+Kaji lehnt die militärische Ordnung ab, akzeptiert für seine eigene Sicherheit aber eine Tätigkeit in einem System chinesischer Zwangsarbeit. Er versucht, die Behandlung der Arbeiter zu verbessern, und macht sich dadurch bei Vorgesetzten und Aufsehern unbeliebt. Der Film zeigt seine moralische Verstrickung schon vor der späteren Einberufung: Gute Absichten beseitigen nicht die Verantwortung für die Institution, in der er arbeitet.
+
+Merksatz: Die Befreiung vom Militär führt Kaji zunächst in eine andere Form von Unterdrückung.
+
+Antwortzusätze:
+
+- Die Stelle befreit ihn zunächst vom Militärdienst.: Die Personalstelle im Bergbaulager verspricht Kaji eine Befreiung vom Militärdienst.
+
+Quellen: [1](https://www.criterion.com/current/posts/7415-the-human-condition-the-prisoner).
+
+### M2 · mittel
+
+Welche Vorbereitung hilft Tokuras (Tatsuya Nakadai) Ermittlern in „Zwischen Himmel und Hölle“, die Spur der Lösegeldkoffer zu verfolgen?
+
+- **Richtig: Ein Zusatz lässt die Koffer beim Verbrennen rosa Rauch abgeben.**
+
+- Ein kurzer Funksender wird im Griff versteckt.
+
+- Ein eingebautes Uhrwerk löst später einen schrillen Alarm aus.
+
+- Die Verschlüsse hinterlassen unter UV-Licht sichtbare Spuren.
+
+Die präparierten Koffer können beim Verbrennen rosa Rauch erzeugen.
+
+Gondō (Toshirō Mifune) muss das Lösegeld aus einem fahrenden Zug werfen. Die Polizei bereitet die Koffer deshalb so vor, dass ihre spätere Beseitigung einen Hinweis geben kann. Als rosa Rauch auftaucht, führt er die Ermittlungen zum Umfeld eines Krankenhauses. In dem überwiegend schwarzweißen Film wird diese Spur auch durch ihren Farbeindruck besonders auffällig.
+
+Merksatz: Die Vernichtung der Koffer soll gerade ihre Spur sichtbar machen.
+
+Antwortzusätze:
+
+- Ein Zusatz lässt die Koffer beim Verbrennen rosa Rauch abgeben.: Die präparierten Koffer können beim Verbrennen rosa Rauch erzeugen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/High_and_Low_(1963_film)).
+
+### S1 · schwer
+
+Welche Beobachtung verunsichert Ryūnosuke (Tatsuya Nakadai) in „The Sword of Doom“ beim Schwertmeister Shimada (Toshirō Mifune)?
+
+- Shimada führt absichtlich einen Kampf mit einem zerbrochenen Schwert.
+
+- **Richtig: Shimada besiegt eine große Zahl von Angreifern mit tödlicher Sicherheit.**
+
+- Shimada ergibt sich mehreren deutlich jüngeren Angreifern.
+
+- Shimada lässt seinen Gegner trotz einer offenen Herausforderung gehen.
+
+Ryūnosuke erkennt in Shimadas siegreichem Kampf einen Schwertkämpfer, der ihn übertreffen könnte.
+
+Ryūnosuke tötet mit einer erschreckend ruhigen Selbstverständlichkeit. Shimada setzt ihm eine andere Haltung entgegen und verbindet den Umgang mit dem Schwert mit dem Zustand der Seele. Als Ryūnosuke dessen tödliche Überlegenheit gegen eine ganze Gruppe beobachtet, wird die eigene Unbesiegbarkeit fraglich. Nakadai zeigt die Erschütterung mit einer kaum sichtbaren Veränderung seines sonst beherrschten Ausdrucks.
+
+Merksatz: Der scheinbar sichere Töter erblickt eine mögliche Grenze seiner Gewalt.
+
+Antwortzusätze:
+
+- Shimada besiegt eine große Zahl von Angreifern mit tödlicher Sicherheit.: Ryūnosuke erkennt in Shimadas siegreichem Kampf einen Schwertkämpfer, der ihn übertreffen könnte.
+
+Quellen: [1](https://www.criterion.com/current/posts/932-the-sword-of-doom).
+
+### S2 · schwer
+
+Was entgegnet Okuyamas Frau (Machiko Kyō), als Okuyama (Tatsuya Nakadai) in „Das Gesicht eines anderen“ seine Verkleidung enthüllt?
+
+- Der Arzt habe ihr das Experiment bereits erklärt.
+
+- **Richtig: Sie habe von Anfang an gewusst, wer er ist.**
+
+- Sie habe ihn anhand eines Briefs enttarnt.
+
+- Sie habe ihn mit seinem Bruder verwechselt.
+
+Seine Frau erklärt, dass sie seine Identität von Anfang an erkannt habe.
+
+Nach einem entstellenden Unfall erhält Okuyama eine täuschend echte Gesichtsmaske. Mit ihr nähert er sich der eigenen Frau als vermeintlich fremder Mann und reagiert eifersüchtig auf ihren Erfolg. Ihre Antwort entzieht seinem Versuch die Grundlage: Die Täuschung war nicht so vollkommen, wie er glaubte. Sie weist vielmehr seinen unehrlichen Umgang mit ihrer Beziehung zurück.
+
+Merksatz: Die angeblich Getäuschte durchschaut den Mann hinter der Maske.
+
+Antwortzusätze:
+
+- Sie habe von Anfang an gewusst, wer er ist.: Seine Frau erklärt, dass sie seine Identität von Anfang an erkannt habe.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Face_of_Another_(film)).
+
+### E1 · experte
+
+Welche Spielanweisung erinnerte Tatsuya Nakadai aus Mikio Naruses „When a Woman Ascends the Stairs“?
+
+- Er sollte die Szenen wie einen Kabuki-Auftritt vergrößern.
+
+- Er sollte seine Gesten eng an die Kameraarbeit anpassen.
+
+- Er sollte jede Pause mit einer sichtbaren Reaktion füllen.
+
+- **Richtig: Er sollte wenig tun und die Wirkung der Montage überlassen.**
+
+Naruse verlangte ein zurückgenommenes, natürliches Spiel und wollte die Wirkung durch den Schnitt herstellen.
+
+Nakadai kam vom Theater und war gewohnt, eine Situation aktiv auszugestalten. Naruse forderte ihn nach seiner Erinnerung auf, einfach dazustehen, statt ständig etwas zu tun. Er werde das Nötige durch den Schnitt vermitteln. Für den Darsteller bedeutete dies, seine Ausdrucksmittel an eine andere Regieauffassung anzupassen als in den kraftvolleren Rollen bei Kurosawa.
+
+Merksatz: Naruses Montage verlangt vom Darsteller auch das Vertrauen ins Nichtstun.
+
+Antwortzusätze:
+
+- Er sollte wenig tun und die Wirkung der Montage überlassen.: Naruse verlangte ein zurückgenommenes, natürliches Spiel und wollte die Wirkung durch den Schnitt herstellen.
+
+Quellen: [1](https://www.criterion.com/current/posts/8988-tatsuya-nakadai-superstar-craftsman).
+
+### E2 · experte
+
+Welche japanische Theatertradition prägt besonders Tatsuya Nakadais Gesichtsgestaltung und stilisierte Gesten als Hidetora in „Ran“?
+
+- Bunraku.
+
+- Kabuki.
+
+- **Richtig: Nō.**
+
+- Shingeki.
+
+Hidetoras Erscheinung und die stilisierten Gesten greifen auf das Nō-Theater zurück.
+
+Nakadais maskenhaft gestaltetes Gesicht begleitet den Absturz des alten Herrschers in Wahnsinn und Schutzlosigkeit. Der Criterion-Essay beschreibt sein Spiel als Balance zwischen wirklicher Emotion und Nō-artiger Geste. Die Stilisierung entfernt die Figur vom alltäglichen Realismus und fügt sie in eine Inszenierung ein, die Machtverlust und Krieg als kaum noch aufzuhaltendes Verhängnis zeigt.
+
+Merksatz: Hidetoras Gesicht wirkt wie eine lebendig gewordene Nō-Maske.
+
+Antwortzusätze:
+
+- Nō.: Hidetoras Erscheinung und die stilisierten Gesten greifen auf das Nō-Theater zurück.
+
+Quellen: [1](https://www.criterion.com/current/posts/402-ran-apocalypse-song).
+
+## Takashi Shimura · Bekanntheitsgruppe 4
+
+![Takashi Shimura (1956)](Portraets/132.jpg)
+
+Bild: 1956; 朝日新聞社. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Shimura_Takashi.JPG), [TMDB](https://www.themoviedb.org/person/7453).
+
+### L1 · leicht
+
+Welche Stellung hat Kambei (Takashi Shimura) in „Die sieben Samurai“?
+
+- Er ist der älteste Bauer des Dorfes.
+
+- **Richtig: Er ist der Anführer der angeworbenen Samurai.**
+
+- Er vertritt den Fürsten als Steuereinnehmer.
+
+- Er führt die angreifenden Banditen an.
+
+Kambei führt die Gruppe der Samurai an.
+
+Die Bauern suchen Kämpfer, die ihr Dorf vor erneuten Überfällen schützen. Kambei nimmt sich ihrer Sache an und sammelt die Gruppe um sich. Shimuras ruhige Autorität bildet einen deutlichen Gegenpol zu Kikuchiyos (Toshirō Mifune) ungestümem Auftreten. Die Verteidigung beruht auf der Zusammenarbeit der Kämpfer mit Menschen, deren Lebensweise und Interessen ihnen nicht selbstverständlich vertraut sind.
+
+Merksatz: Kambei bringt einzelne Kämpfer zu einer gemeinsamen Verteidigung zusammen.
+
+Antwortzusätze:
+
+- Er ist der Anführer der angeworbenen Samurai.: Kambei führt die Gruppe der Samurai an.
+
+Quellen: [1](https://bfidatadigipres.github.io/re-releases/2021/10/29/seven-samurai/), [2](https://player.bfi.org.uk/subscription/film/watch-seven-samurai-1954-online).
+
+### L2 · leicht
+
+Auf welchem Fachgebiet arbeitet Professor Yamane (Takashi Shimura) im ursprünglichen „Godzilla“?
+
+- Meereschemie.
+
+- Meteorologie.
+
+- **Richtig: Paläontologie.**
+
+- Geologie.
+
+Yamane ist Paläontologe und untersucht die vorgeschichtliche Herkunft des Monsters.
+
+Nach den Zerstörungen auf der Insel findet die Untersuchung riesige radioaktive Fußspuren und ein urzeitliches Fossil. Yamane erklärt das Auftauchen des Lebewesens im Zusammenhang mit Wasserstoffbombentests. Er möchte seine Widerstandsfähigkeit erforschen, während die Behörden vor allem einen Weg zur Vernichtung suchen. Die wissenschaftliche Neugier der Figur gerät damit in Spannung zur unmittelbaren Gefahr.
+
+Merksatz: Yamane betrachtet Godzilla auch als außergewöhnlichen Gegenstand der Forschung.
+
+Antwortzusätze:
+
+- Paläontologie.: Yamane ist Paläontologe und untersucht die vorgeschichtliche Herkunft des Monsters.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Godzilla_(1954_film)).
+
+### M1 · mittel
+
+Welche Diagnose verändert Kanji Watanabes (Takashi Shimura) Leben in „Ikiru – Einmal wirklich leben“?
+
+- **Richtig: Magenkrebs.**
+
+- Eine schwere Herzerkrankung.
+
+- Ein fortschreitendes Nervenleiden.
+
+- Lungenentzündung.
+
+Watanabe erfährt, dass er an Magenkrebs leidet.
+
+Nach vielen Jahren in der Stadtverwaltung erkennt Watanabe, dass ihm nur noch begrenzte Zeit bleibt. Seine bisherige Routine erscheint ihm plötzlich leer. Der Film folgt seinem Versuch, im verbleibenden Leben eine Bedeutung zu finden, die über Dienstabläufe und die bloße Fortsetzung des Gewohnten hinausgeht. Shimuras zurückgenommene Darstellung macht die Verunsicherung des alten Beamten körperlich spürbar.
+
+Merksatz: Die Todesnähe unterbricht Watanabes jahrelange Amtsroutine.
+
+Antwortzusätze:
+
+- Magenkrebs.: Watanabe erfährt, dass er an Magenkrebs leidet.
+
+Quellen: [1](https://www.criterion.com/films/353-ikiru).
+
+### M2 · mittel
+
+Welche Krankheit will Dr. Sanada (Takashi Shimura) bei Matsunaga (Toshirō Mifune) in „Engel der Verlorenen“ behandeln?
+
+- **Richtig: Tuberkulose.**
+
+- Eine chronische Bleivergiftung.
+
+- Eine fortgeschrittene Nierenerkrankung.
+
+- Eine schwere Blutvergiftung.
+
+Der Gangster Matsunaga leidet an Tuberkulose.
+
+Matsunagas betont männliche Unerschrockenheit verdeckt die Angst vor seiner Krankheit. Sanada verlangt von ihm die Einsicht in eine Schwäche, die sich nicht durch Gewalt gegen andere überwinden lässt. Der Arzt ist selbst vom Alkohol und von Enttäuschung gezeichnet, hält aber am Versuch der Hilfe fest. Für beide Männer wird die Behandlung dadurch zur Prüfung ihres Selbstbilds.
+
+Merksatz: Der gewalttätige Patient muss eine Verwundbarkeit anerkennen, gegen die kein Kampf hilft.
+
+Antwortzusätze:
+
+- Tuberkulose.: Der Gangster Matsunaga leidet an Tuberkulose.
+
+Quellen: [1](https://www.criterion.com/current/posts/620-drunken-angel-the-spoils-of-war).
+
+### S1 · schwer
+
+Welcher Verdacht erschüttert die Glaubwürdigkeit des Holzfällers (Takashi Shimura) in „Rashomon – Das Lustwäldchen“?
+
+- Er sei ein Verwandter der getöteten Person.
+
+- Er habe den Tatort vor der Verhandlung bewusst verändert.
+
+- Er habe sich vom Banditen für seine Aussage bezahlen lassen.
+
+- **Richtig: Er habe den wertvollen Dolch der Frau an sich genommen.**
+
+Seine Aussage verschweigt offenbar den von ihm entwendeten Dolch.
+
+Zunächst will der Holzfäller nur die Leiche gefunden haben, später beschreibt er den Kampf als Augenzeuge. Als am Tor ein ausgesetztes Kind entdeckt wird, wirft er einem anderen Mann dessen Diebstahl vor. Dieser hält ihm den verschwundenen Dolch entgegen und erschließt daraus sein eigenes Interesse am Verschweigen. Die nachgereichte Zeugenaussage bleibt somit ebenfalls von persönlichem Nutzen belastet.
+
+Merksatz: Auch der scheinbar außenstehende Beobachter hat etwas zu verbergen.
+
+Antwortzusätze:
+
+- Er habe den wertvollen Dolch der Frau an sich genommen.: Seine Aussage verschweigt offenbar den von ihm entwendeten Dolch.
+
+Gemeinsames Wissensziel: K-F240-20261006-124-M2 (F240-20261006-124-M2).
+
+Quellen: [1](https://en.wikipedia.org/wiki/Rashomon).
+
+### S2 · schwer
+
+Was tut Anwalt Hiruta (Takashi Shimura) in „Scandal“, obwohl er den Kläger Ichirō Aoye (Toshirō Mifune) vertreten soll?
+
+- Er überredet den Kläger zu einem fingierten Geständnis.
+
+- **Richtig: Er nimmt Geld der beklagten Zeitschrift an, um den Prozess zu verlieren.**
+
+- Er verkauft das angebliche Liebesfoto an eine zweite Zeitung.
+
+- Er verwendet den Prozess für seine eigene politische Kandidatur.
+
+Hiruta lässt sich von der Gegenseite bestechen.
+
+Aoye klagt gegen eine erfundene Liebesgeschichte über ihn und eine Sängerin. Hiruta erscheint zunächst als Verbündeter gegen die rücksichtslose Presse, nimmt aber aus Geldnot das Angebot des Herausgebers an. Seine kranke Tochter und die Freundlichkeit seiner Mandanten verstärken seine Gewissensqualen. Schließlich gesteht er die Bestechung vor Gericht und durchbricht damit die eigene Rolle im Betrug.
+
+Merksatz: Der Verteidiger der Wahrheit muss zuerst seinen eigenen Betrug eingestehen.
+
+Antwortzusätze:
+
+- Er nimmt Geld der beklagten Zeitschrift an, um den Prozess zu verlieren.: Hiruta lässt sich von der Gegenseite bestechen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Scandal_(1950_film)), [2](https://www.criterion.com/films/893-scandal).
+
+### E1 · experte
+
+Wie verändert „Ikiru“ die Erzählperspektive auf Watanabe (Takashi Shimura) im zweiten großen Teil des Films?
+
+- Sein Sohn übernimmt die Handlung während einer längeren Reise.
+
+- Watanabe erzählt rückblickend vor Gericht von seinem früheren Dienst.
+
+- Die Geschichte springt vollständig in Watanabes Jugend zurück.
+
+- **Richtig: Nach seinem Tod rekonstruieren andere bei der Totenwache seine letzten Monate.**
+
+Der zweite Teil erzählt nach Watanabes Tod aus den Erinnerungen der Trauergäste.
+
+Die erste Hälfte folgt unmittelbar seiner Suche nach einem anderen Leben. Dann überspringt der Film mehrere Monate und versammelt Kollegen, Vorgesetzte und Angehörige bei der Totenwache. Ihre widersprüchlichen Erinnerungen erschließen erst nach und nach, was Watanabe für einen Spielplatz durchgesetzt hat. Der Wechsel macht die Bedeutung seines Handelns zu einer Frage der Wahrnehmung und des institutionellen Gedächtnisses.
+
+Merksatz: Der Tote wird durch die Erinnerungen anderer neu sichtbar.
+
+Antwortzusätze:
+
+- Nach seinem Tod rekonstruieren andere bei der Totenwache seine letzten Monate.: Der zweite Teil erzählt nach Watanabes Tod aus den Erinnerungen der Trauergäste.
+
+Quellen: [1](https://www.criterion.com/current/posts/839-ikiru).
+
+### E2 · experte
+
+Warum war Takashi Shimuras Auftritt in „Kagemusha“ in manchen Fassungen lange nicht zu sehen?
+
+- Die Szene blieb wegen unvollständiger Tonaufnahmen unveröffentlicht.
+
+- Die Szene wurde nur für eine spätere Fernsehausstrahlung aufgenommen.
+
+- **Richtig: Seine Szene fehlte in der gekürzten internationalen Kinofassung.**
+
+- Seine Aufnahme wurde beim Dreh durch einen anderen Darsteller ersetzt.
+
+Die internationale Kinofassung ließ Shimuras Szene aus; die längere Fassung enthält sie.
+
+Kurosawa schrieb für seinen langjährigen Darsteller einen kleinen Auftritt als Begleiter eines westlichen Geistlichen und Arztes. Für das ausländische Kino wurde diese Szene zusammen mit weiterem Material entfernt. Die spätere Veröffentlichung der längeren Fassung machte sie wieder zugänglich. Eine Filmografie kann Shimura deshalb zu Recht nennen, obwohl ein Zuschauer ihn in der gesehenen Fassung nicht findet.
+
+Merksatz: Ein fehlender Auftritt kann auf die Schnittfassung zurückgehen.
+
+Antwortzusätze:
+
+- Seine Szene fehlte in der gekürzten internationalen Kinofassung.: Die internationale Kinofassung ließ Shimuras Szene aus; die längere Fassung enthält sie.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Kagemusha).
+
+## Masayuki Mori · Bekanntheitsgruppe 4
+
+![Masayuki Mori (1955)](Portraets/133.jpg)
+
+Bild: 1955; 時事世界社 (Jiji Sekai-sha).. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Masayuki_Mori_1955_IMG_20220409_0001.jpg), [TMDB](https://www.themoviedb.org/person/7452).
+
+### L1 · leicht
+
+Welche Figur verkörpert Masayuki Mori in „Rashomon – Das Lustwäldchen“?
+
+- Den gefangenen Banditen.
+
+- **Richtig: Den getöteten Samurai.**
+
+- Den vorbeikommenden Holzfäller.
+
+- Den Priester am Stadttor.
+
+Mori spielt den Samurai, dessen Tod aus widersprüchlichen Perspektiven erzählt wird.
+
+Der Samurai reist mit seiner Frau Masago (Machiko Kyō) durch den Wald und trifft auf den Banditen Tajōmaru (Toshirō Mifune). Was danach geschieht, wird mehrfach erzählt, ohne dass die Berichte zu einer gesicherten gemeinsamen Wahrheit werden. Mori gestaltet deshalb keine einzige unangefochtene Version eines Geschehens; auch die eigene Aussage der toten Figur gehört zum Widerstreit der Darstellungen.
+
+Merksatz: Derselbe getötete Mann erscheint in mehreren Versionen des Geschehens.
+
+Antwortzusätze:
+
+- Den getöteten Samurai.: Mori spielt den Samurai, dessen Tod aus widersprüchlichen Perspektiven erzählt wird.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Rashomon).
+
+### L2 · leicht
+
+Welches Handwerk betreibt Genjūrō (Masayuki Mori) in „Ugetsu – Erzählungen unter dem Regenmond“?
+
+- **Richtig: Er stellt Töpferwaren her.**
+
+- Er fertigt Schwerter.
+
+- Er baut Musikinstrumente.
+
+- Er webt Seidenstoffe.
+
+Genjūrō ist Töpfer.
+
+Genjūrō hofft, in Kriegszeiten mit seinen Waren besonders gute Geschäfte zu machen. Seine Frau Miyagi (Kinuyo Tanaka) möchte, dass er bei ihr und dem Kind bleibt. Der Wunsch, den eigenen Lebensverhältnissen zu entkommen, führt ihn jedoch fort. Das Handwerk ist dabei mehr als sein Einkommen: Die Anerkennung seiner Arbeit macht ihn später für die Verführung durch eine vornehme Kundin empfänglich.
+
+Merksatz: Der Töpfer sucht Gewinn und Anerkennung außerhalb seines Dorfs.
+
+Antwortzusätze:
+
+- Er stellt Töpferwaren her.: Genjūrō ist Töpfer.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Ugetsu), [2](https://www.criterion.com/films/369-ugetsu).
+
+### M1 · mittel
+
+Welches Versprechen kann Tomioka (Masayuki Mori) gegenüber Yukiko (Hideko Takamine) in „Floating Clouds“ nach ihrer Rückkehr nach Japan nicht einlösen?
+
+- Er wollte mit ihr eine eigene Firma gründen.
+
+- Er wollte ihre frühere Wohnung zurückkaufen.
+
+- Er wollte ihr eine Stelle in seiner Behörde verschaffen.
+
+- **Richtig: Er wollte sich von seiner Frau scheiden lassen.**
+
+Tomioka hatte versprochen, seine Frau für Yukiko zu verlassen.
+
+Die beiden haben ihre Beziehung während der japanischen Tätigkeit in Französisch-Indochina begonnen. Im Nachkriegs-Tokio sucht Yukiko ihn wieder auf und hofft auf eine gemeinsame Zukunft. Tomioka erklärt jedoch, dass er seine kranke Frau nicht verlassen könne. Die Wiederaufnahme der Affäre steht dadurch von Anfang an unter dem Zeichen einer Zusage, an die sich beide ganz unterschiedlich gebunden fühlen.
+
+Merksatz: Die Erinnerung an die frühere Liebe trifft auf ein nicht eingehaltenes Versprechen.
+
+Antwortzusätze:
+
+- Er wollte sich von seiner Frau scheiden lassen.: Tomioka hatte versprochen, seine Frau für Yukiko zu verlassen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Floating_Clouds).
+
+### M2 · mittel
+
+Weshalb enttäuscht Tabes (Masayuki Mori) Rückkehr Kin (Haruko Sugimura) in „Late Chrysanthemums“?
+
+- Er bittet sie, seine neue Frau bei sich aufzunehmen.
+
+- **Richtig: Er möchte vor allem Geld von ihr leihen.**
+
+- Er will ihr die Verantwortung für seine Tochter übertragen.
+
+- Er hat ihre gemeinsame Vergangenheit vollständig vergessen.
+
+Der frühere Geliebte Tabe kommt mit dem Wunsch nach einem Darlehen.
+
+Kin hat als ehemalige Geisha Geld angesammelt und verleiht es inzwischen selbst. Die Nachricht von Tabes Rückkehr weckt jedoch eine andere Erwartung als das übliche Geschäft. Als auch er nur einen Kredit möchte, weist sie ihn zurück und verbrennt sein Foto. Die erhoffte Wiederbegegnung bestätigt damit ausgerechnet jene Reduktion auf Geld, von der sie sich einen Moment befreien wollte.
+
+Merksatz: Der ersehnte frühere Geliebte erscheint als weiterer Kreditnehmer.
+
+Antwortzusätze:
+
+- Er möchte vor allem Geld von ihr leihen.: Der frühere Geliebte Tabe kommt mit dem Wunsch nach einem Darlehen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Late_Chrysanthemums).
+
+### S1 · schwer
+
+Wie verhindert Iwabuchi (Masayuki Mori) in „Die Bösen schlafen gut“, dass Yoshiko (Kyōko Kagawa) Nishi rechtzeitig warnt?
+
+- **Richtig: Er gibt seiner Tochter mit Schlaftabletten versetzten Wein.**
+
+- Er schickt sie mit einem fingierten Telegramm aus der Stadt.
+
+- Er sperrt sie im Archiv des Unternehmens ein.
+
+- Er lässt sie unter einem Vorwand im Polizeirevier festhalten.
+
+Iwabuchi betäubt seine Tochter mit präpariertem Wein.
+
+Iwabuchi bringt Yoshiko mit dem Versprechen, sich zu stellen, und einer falschen Warnung vor ihrem Bruder dazu, Nishis Versteck preiszugeben. Dann schaltet er sie mit dem Schlafmittel aus. Als sie mit ihrem Bruder Tatsuo (Tatsuya Mihashi) eintrifft, ist Nishi (Toshirō Mifune) bereits tot und der Beweis gegen die Korruption beseitigt. Iwabuchi rettet seine Stellung, verliert aber die Bindung zu seinen Kindern.
+
+Merksatz: Der Vater benutzt das Vertrauen der Tochter zur Sicherung seiner Macht.
+
+Antwortzusätze:
+
+- Er gibt seiner Tochter mit Schlaftabletten versetzten Wein.: Iwabuchi betäubt seine Tochter mit präpariertem Wein.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Bad_Sleep_Well).
+
+### S2 · schwer
+
+Was tut Kameda (Masayuki Mori) nach der Entdeckung von Taekos Leiche am Ende von Kurosawas „Der Idiot“?
+
+- Er holt Ayako, um Akama gemeinsam zu stellen.
+
+- Er flieht und hinterlässt Akama einen Abschiedsbrief.
+
+- **Richtig: Er bleibt die Nacht mit Akama bei der Toten.**
+
+- Er verbirgt die Leiche, bevor die Polizei eintrifft.
+
+Kameda bleibt mit Akama bei der ermordeten Taeko.
+
+Akama (Toshirō Mifune) hat Taeko (Setsuko Hara) aus Eifersucht getötet. Kameda bleibt dennoch bei ihm, und die beiden verbringen die kalte Nacht neben der Leiche. Das Ende führt seine ungewöhnliche Fähigkeit zum Mitgefühl an eine äußerste Grenze. Ayako (Yoshiko Kuga) erkennt anschließend, wie sehr ihr selbst jene Liebe ohne Hass gefehlt hat, die Kameda verkörperte.
+
+Merksatz: Kameda verlässt selbst den eifersüchtigen Rivalen im äußersten Unglück nicht.
+
+Antwortzusätze:
+
+- Er bleibt die Nacht mit Akama bei der Toten.: Kameda bleibt mit Akama bei der ermordeten Taeko.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Idiot_(1951_film)).
+
+### E1 · experte
+
+Wie macht die Kamera Genjūrōs (Masayuki Mori) Heimkehr zu Miyagi in „Ugetsu“ unheimlich?
+
+- Ein abrupter Wechsel ins Negativ kündigt die Begegnung an.
+
+- Ein Wechsel zwischen zwei Standbildern ersetzt seine gesamte Ankunft.
+
+- **Richtig: Eine kreisende Bewegung um das zunächst leere Haus endet bei der scheinbar lebenden Frau.**
+
+- Eine Rückwärtsaufnahme lässt seine Frau im Türrahmen verschwinden.
+
+Die kreisende Kamerabewegung lässt Miyagi nach dem Blick auf das leere Haus überraschend wieder erscheinen.
+
+Genjūrō sucht bei der Rückkehr seine Frau Miyagi (Kinuyo Tanaka). Die Bewegung um die Hütte bringt sie scheinbar unverletzt zurück und lässt ihn in die vertraute häusliche Ordnung eintreten. Erst am Morgen erfährt er, dass sie tatsächlich tot ist. Der fließende Übergang verbindet seine Erleichterung mit einer erneuten Begegnung zwischen den Welten, ohne sie durch einen groben Effekt anzukündigen.
+
+Merksatz: Der vertraute Innenraum wird innerhalb einer Bewegung zum Ort der Geisterbegegnung.
+
+Antwortzusätze:
+
+- Eine kreisende Bewegung um das zunächst leere Haus endet bei der scheinbar lebenden Frau.: Die kreisende Kamerabewegung lässt Miyagi nach dem Blick auf das leere Haus überraschend wieder erscheinen.
+
+Quellen: [1](https://www.criterion.com/current/posts/401-ugetsu-from-the-other-shore).
+
+### E2 · experte
+
+Welcher Eingriff prägt die überlieferte Fassung von „Der Idiot“ mit Masayuki Mori?
+
+- Das Studio ließ sämtliche Dialoge durch einen Erzähler ersetzen.
+
+- Das Studio ersetzte Kurosawas Ende durch einen neu gedrehten Gerichtsschluss.
+
+- Das Studio stellte die Handlung nachträglich in eine andere Reihenfolge um.
+
+- **Richtig: Das Studio kürzte die wesentlich längere ursprüngliche Fassung stark.**
+
+Shōchiku kürzte Kurosawas ursprüngliche Fassung erheblich.
+
+Kurosawas Dostojewski-Adaption war ursprünglich etwa viereinhalb Stunden lang; überliefert ist die vom Studio auf 166 Minuten verkürzte Fassung. Die Criterion-Einordnung verbindet den fragmentierten Eindruck der Erzählung ausdrücklich mit diesem Eingriff. Moris Darstellung Kamedas begegnet dem heutigen Publikum somit innerhalb eines Films, dessen dramatische Übergänge und Gewichtungen erheblich verändert wurden.
+
+Merksatz: Die erhaltene Fassung zeigt die Figuren nach einem massiven Eingriff in die Erzählung.
+
+Antwortzusätze:
+
+- Das Studio kürzte die wesentlich längere ursprüngliche Fassung stark.: Shōchiku kürzte Kurosawas ursprüngliche Fassung erheblich.
+
+Quellen: [1](https://www.criterion.com/current/posts/627-eclipse-series-7-postwar-kurosawa), [2](https://www.criterion.com/films/895-the-idiot).
+
+## Ken Uehara · Bekanntheitsgruppe 4
+
+![Ken Uehara (Vor 1948)](Portraets/134.jpg)
+
+Bild: Vor 1948; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Uehara_Ken.JPG), [TMDB](https://www.themoviedb.org/person/134629).
+
+### L1 · leicht
+
+Welchen Beruf übt Ken Ueharas Hauptfigur in „Mr. Thank You“ aus?
+
+- **Richtig: Busfahrer**
+
+- Bahnbeamter
+
+- Postbote
+
+- Handelsreisender
+
+Uehara spielt den freundlichen Busfahrer auf einer Überlandstrecke.
+
+Auf der Fahrt vom ländlichen Izu in Richtung Tokio begegnet der Fahrer Menschen mit sehr unterschiedlichen Hoffnungen und Sorgen. Die Fahrgäste bilden einen kleinen Ausschnitt der japanischen Gesellschaft während der wirtschaftlichen Krise. Seine Aufmerksamkeit für ihre Nöte verbindet die einzelnen Begegnungen; hinter dem leichten Ton der Reise stehen auch drohender sozialer Abstieg und Existenzangst.
+
+Merksatz: Eine Busfahrt verbindet Menschen aus unterschiedlichen Lebenslagen.
+
+Antwortzusätze:
+
+- Busfahrer: Uehara spielt den freundlichen Busfahrer auf einer Überlandstrecke.
+
+Quellen: [1](https://www.criterion.com/films/1087-mr-thank-you).
+
+### L2 · leicht
+
+Womit verdient Hatsunosuke (Ken Uehara) in Naruses „Repast“ seinen Lebensunterhalt?
+
+- Mit einer Werkstatt für Fahrräder.
+
+- **Richtig: Mit einer Tätigkeit als Büroangestellter.**
+
+- Mit einem kleinen Restaurant.
+
+- Mit dem Verkauf eigener Gemälde.
+
+Hatsunosuke arbeitet als Angestellter im Büro.
+
+Hatsunosuke und Michiyo (Setsuko Hara) leben in Osaka. Während er zur Arbeit geht, bleibt sie in einem Alltag aus Haushalt und Mahlzeiten zurück. Seine müde Heimkehr und die selbstverständliche Erwartung, versorgt zu werden, machen ihre Enttäuschung sichtbar. Der Besuch der jungen Satoko bringt schließlich Bewegung in die festgefahrene Ehe und verschärft Michiyos Unzufriedenheit.
+
+Merksatz: Seinem Büroalltag steht Michiyos unbeachtete Hausarbeit gegenüber.
+
+Antwortzusätze:
+
+- Mit einer Tätigkeit als Büroangestellter.: Hatsunosuke arbeitet als Angestellter im Büro.
+
+Quellen: [1](https://www.tcm.com/articles/021418/repast-1951).
+
+### M1 · mittel
+
+In welchem Verhältnis steht Shūichi (Ken Uehara) zu Kikuko (Setsuko Hara) in „Sound of the Mountain“?
+
+- Er ist ihr älterer Bruder.
+
+- Er ist ihr früherer Verlobter.
+
+- Er ist ihr Schwiegervater.
+
+- **Richtig: Er ist ihr Ehemann.**
+
+Shūichi ist Kikukos Ehemann.
+
+Das Ehepaar lebt im Haus von Shūichis Eltern. Seine Kälte und Untreue belasten Kikuko, während sein Vater Shingo (Sō Yamamura) ihre Verletzung wahrnimmt. Die Fürsorge des älteren Mannes steht damit innerhalb desselben Haushalts dem Verhalten seines Sohnes gegenüber. Ueharas Figur gehört zu einer Familie, deren äußeres Zusammenleben ihre wachsende Entfremdung kaum verdeckt.
+
+Merksatz: Der untreue Sohn und der aufmerksame Vater stehen derselben Frau sehr verschieden gegenüber.
+
+Antwortzusätze:
+
+- Er ist ihr Ehemann.: Shūichi ist Kikukos Ehemann.
+
+Quellen: [1](https://rijs.fas.harvard.edu/events/film-screening-sound-mountain-yama-no-oto-0).
+
+### M2 · mittel
+
+Welche Verbindung besteht zwischen Hiroshi (Ken Uehara) und Setsuko (Kinuyo Tanaka) in „Die Schwestern Munekata“?
+
+- Er ist der Geschäftspartner ihres Ehemanns.
+
+- Er ist der Verlobte ihrer jüngeren Schwester.
+
+- Er ist ein Freund ihres Vaters aus dem Krieg.
+
+- **Richtig: Er ist ihre frühere Liebe, zu der Mariko den Kontakt erneuern möchte.**
+
+Hiroshi ist Setsukos frühere Liebe.
+
+Setsuko hält an ihrer Ehe mit dem arbeitslosen, häufig betrunkenen Mimura (Sō Yamamura) fest. Ihre jüngere Schwester Mariko (Hideko Takamine) sieht darin keinen zwingenden Grund, eine andere Zukunft auszuschließen. Als Hiroshi aus Frankreich zurückkehrt, versucht sie, die frühere Verbindung wiederzubeleben. Die unterschiedliche Haltung der Schwestern zu Tradition und persönlichem Glück wird dadurch zum konkreten Beziehungskonflikt.
+
+Merksatz: Mariko setzt auf die Rückkehr einer alten Liebe ihrer Schwester.
+
+Antwortzusätze:
+
+- Er ist ihre frühere Liebe, zu der Mariko den Kontakt erneuern möchte.: Hiroshi ist Setsukos frühere Liebe.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/munekata-kyodai/).
+
+### S1 · schwer
+
+Was führt in Naruses „Wife“ dazu, dass Fusako den Kontakt zu Toichi (Ken Uehara) abbricht?
+
+- **Richtig: Seine Frau sucht sie auf und stellt sie zur Rede.**
+
+- Toichi weigert sich, ihren Sohn kennenzulernen.
+
+- Sie erfährt, dass Toichi gleichzeitig eine weitere Affäre hat.
+
+- Sein Arbeitgeber droht ihr wegen der Beziehung mit Entlassung.
+
+Toichis Frau konfrontiert Fusako; daraufhin beendet diese die Beziehung.
+
+Toichi und die verwitwete Fusako (Yatsuko Tan’ami) kommen einander näher und verbringen während einer Geschäftsreise eine Nacht zusammen. Seine Frau (Mieko Takamine) akzeptiert keine Scheidung. Nachdem sie Fusakos Adresse gefunden hat, sucht sie die Rivalin auf. Fusako teilt Toichi anschließend schriftlich mit, dass sie ihn nicht mehr sehen werde; die bestehende Ehe ist damit gerettet, ihre Unzufriedenheit aber nicht gelöst.
+
+Merksatz: Die Konfrontation beendet die Affäre, ohne die Ehekrise zu heilen.
+
+Antwortzusätze:
+
+- Seine Frau sucht sie auf und stellt sie zur Rede.: Toichis Frau konfrontiert Fusako; daraufhin beendet diese die Beziehung.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Wife_(film)).
+
+### S2 · schwer
+
+Welche Entscheidung trifft Kikuko bezüglich ihrer Schwangerschaft mit Shūichi (Ken Uehara) in „Sound of the Mountain“?
+
+- Sie gibt das Kind nach der Geburt zu Verwandten.
+
+- Sie zieht bis zur Geburt in Shūichis Dienstwohnung.
+
+- **Richtig: Sie lässt die Schwangerschaft abbrechen.**
+
+- Sie verschweigt die Geburt und lässt das Kind adoptieren.
+
+Kikuko lässt die Schwangerschaft abbrechen.
+
+Shingo begleitet seine Schwiegertochter zum Krankenhaus und erfährt erst später, was dort geschehen ist. Während er auch die Geliebte seines Sohnes aufsucht, löst sich Kikuko zunehmend aus der gescheiterten Ehe. Bei der abschließenden Begegnung im Park spricht sie vom Wunsch nach einem eigenen Leben. Ihre Entscheidung gehört damit zu einem Trennungsprozess, den die Fürsorge des Schwiegervaters nicht einfach rückgängig macht.
+
+Merksatz: Kikukos Entscheidung führt aus der Ehe, nicht zurück in den gemeinsamen Haushalt.
+
+Antwortzusätze:
+
+- Sie lässt die Schwangerschaft abbrechen.: Kikuko lässt die Schwangerschaft abbrechen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Sound_of_the_Mountain).
+
+### E1 · experte
+
+Wie entstand die Begegnung von Ken Ueharas Busfahrer mit einer koreanischen Arbeiterin in „Mr. Thank You“?
+
+- Das Studio verlangte sie als nachträgliche Erweiterung der Liebesgeschichte.
+
+- Kawabata ergänzte sie eigens für eine zweite Fassung seines Drehbuchs.
+
+- **Richtig: Eine Begegnung mit koreanischen Arbeitskräften während der Dreharbeiten regte sie spontan an.**
+
+- Shimizu übernahm dafür eine gestrichene Szene aus einem früheren Film.
+
+Shimizu entwickelte die Szene nach einer tatsächlichen Begegnung während der Außenaufnahmen.
+
+Der Film entstand an Originalschauplätzen ohne ausgearbeitetes Drehbuch. Als Shimizu dort koreanischen Arbeitskräften begegnete, nahm er ein Gespräch des Fahrers mit einer jungen Tunnelarbeiterin in den Film auf. Die Reise öffnet sich dadurch für eine in Japan ausgegrenzte Bevölkerungsgruppe. Die Szene verknüpft die Freundlichkeit des Fahrers mit der Arbeit jener Menschen, die die Verkehrswege überhaupt erst schaffen.
+
+Merksatz: Eine reale Begegnung erweitert die soziale Perspektive der Filmreise.
+
+Antwortzusätze:
+
+- Eine Begegnung mit koreanischen Arbeitskräften während der Dreharbeiten regte sie spontan an.: Shimizu entwickelte die Szene nach einer tatsächlichen Begegnung während der Außenaufnahmen.
+
+Quellen: [1](https://www.criterion.com/current/posts/1038-eclipse-series-15-travels-with-hiroshi-shimizu).
+
+### E2 · experte
+
+Wie gestaltet Naruse den Schluss der Ehegeschichte um Toichi (Ken Uehara) in „Wife“?
+
+- Ein gemeinsamer Rückblick versöhnt die Eheleute mit ihrer Vergangenheit.
+
+- **Richtig: Morgenroutine und getrennte innere Stimmen greifen den unglücklichen Anfang wieder auf.**
+
+- Ein Briefwechsel ersetzt die letzte Begegnung des getrennten Paars.
+
+- Eine Zugreise führt beide in einer neuen Umgebung zusammen.
+
+Der Schluss wiederholt die Morgenroutine und die getrennten inneren Monologe des Anfangs.
+
+Die Affäre ist beendet, doch Naruse belohnt den Fortbestand der Ehe nicht mit einer großen Wiederannäherung. Toichi geht zur Arbeit, seine Frau bleibt bei den häuslichen Aufgaben. Die erneut hörbaren Gedanken beider lassen ihre Entfremdung bestehen. Der formale Rückgriff auf den Anfang stellt deshalb die Frage, was sich durch die Abwehr der Rivalin im gemeinsamen Leben überhaupt verändert hat.
+
+Merksatz: Die Wiederholung des Anfangs lässt die ungelöste Ehekrise hörbar werden.
+
+Antwortzusätze:
+
+- Morgenroutine und getrennte innere Stimmen greifen den unglücklichen Anfang wieder auf.: Der Schluss wiederholt die Morgenroutine und die getrennten inneren Monologe des Anfangs.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/features/mikio-naruses-wife-married-mainstream).
+
+## Shin Saburi · Bekanntheitsgruppe 4
+
+![Shin Saburi (1941)](Portraets/135.jpg)
+
+Bild: 1941; Shōchiku. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Shin_Saburi,_cropped_from_Akatsuki_no_gassho_(1941).jpg), [TMDB](https://www.themoviedb.org/person/213484).
+
+### L1 · leicht
+
+Welche Familienrolle spielt Wataru Hirayama (Shin Saburi) in „Equinox Flower“?
+
+- Den verwitweten Bruder der Mutter.
+
+- **Richtig: Den Vater der heiratswilligen Setsuko.**
+
+- Den neuen Ehemann der ältesten Tochter.
+
+- Den Großvater des künftigen Bräutigams.
+
+Hirayama ist Setsukos Vater.
+
+Der wohlhabende Vater hält an seiner Entscheidungsgewalt innerhalb der Familie fest. Dass seine Tochter Setsuko (Ineko Arima) selbst einen Mann gewählt hat, passt nicht zu seinen Vorstellungen. Ozu richtet die Aufmerksamkeit auf einen Patriarchen, der sich an eine veränderte Generation gewöhnen muss. Saburis Autorität gerät dabei weniger durch eine offene Rebellion als durch die Widersprüche seines eigenen Verhaltens ins Wanken.
+
+Merksatz: Ein Vater muss die eigene Wahl seiner Tochter anerkennen.
+
+Antwortzusätze:
+
+- Den Vater der heiratswilligen Setsuko.: Hirayama ist Setsukos Vater.
+
+Quellen: [1](https://www.criterion.com/films/783-equinox-flower).
+
+### L2 · leicht
+
+Welche unterschiedlichen Prägungen belasten die Ehe von Mokichi (Shin Saburi) und Taeko in „Der Geschmack von grünem Tee über Reis“?
+
+- **Richtig: Seine kleinstädtische Einfachheit und ihr großstädtischer Anspruch.**
+
+- Seine Auslandserfahrung und ihre Abneigung gegen Reisen.
+
+- Seine strenge Religiosität und ihre Ablehnung des Glaubens.
+
+- Seine Vorliebe für Neues und ihr Festhalten an alten Bräuchen.
+
+Mokichis einfache Gewohnheiten stehen Taekos großstädtischem Anspruch gegenüber.
+
+Mokichi und Taeko (Michiyo Kogure) leben in einem gut situierten Haushalt. Dennoch kommen ihre unterschiedlichen Vorstellungen von einem angenehmen Leben immer wieder aneinander. Seine Herkunft aus einfachen kleinstädtischen Verhältnissen ist in seinen Gewohnheiten noch spürbar, während Taeko sich auf ihre städtische Weltgewandtheit etwas zugutehält. Die moderne Nichte bringt zusätzlich eine jüngere Perspektive in den Haushalt und verschärft die Spannungen.
+
+Merksatz: Ein gemeinsamer Haushalt vereint unterschiedliche Vorstellungen von Lebensart.
+
+Antwortzusätze:
+
+- Seine kleinstädtische Einfachheit und ihr großstädtischer Anspruch.: Mokichis einfache Gewohnheiten stehen Taekos großstädtischem Anspruch gegenüber.
+
+Quellen: [1](https://www.criterion.com/films/28229-the-flavor-of-green-tea-over-rice).
+
+### M1 · mittel
+
+Wen schlägt Mamiya (Shin Saburi) in „Spätherbst“ als möglichen Ehemann für Ayako (Yōko Tsukasa) vor?
+
+- Seinen jüngeren Bruder.
+
+- Den Sohn seines Vermieters.
+
+- Den behandelnden Arzt ihrer Mutter.
+
+- **Richtig: Seinen Mitarbeiter Gotō.**
+
+Mamiya bringt seinen Mitarbeiter Gotō als Heiratskandidaten ins Gespräch.
+
+Drei Freunde des verstorbenen Miwa fühlen sich für dessen Witwe Akiko (Setsuko Hara) und ihre Tochter verantwortlich. Nachdem ein zuerst erwogener Kandidat schon vergeben ist, schlägt Mamiya Gotō (Keiji Sada) vor. Ayako lernt ihn kennen und kommt ihm näher, möchte ihre Mutter aber nicht allein zurücklassen. Die gut gemeinte Vermittlung führt deshalb zu weiteren Plänen und Missverständnissen.
+
+Merksatz: Mamiya sucht den Heiratskandidaten im eigenen beruflichen Umfeld.
+
+Antwortzusätze:
+
+- Seinen Mitarbeiter Gotō.: Mamiya bringt seinen Mitarbeiter Gotō als Heiratskandidaten ins Gespräch.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Late_Autumn_(1960_film)).
+
+### M2 · mittel
+
+Welche Zukunft bietet Shōjirō (Shin Saburi) seiner Mutter und seiner Schwester am Ende von „Die Geschwister Toda“ an?
+
+- Er schlägt vor, das verkaufte Familienhaus zurückzukaufen.
+
+- Er möchte für beide ein Geschäft in Tokio eröffnen.
+
+- **Richtig: Er lädt beide ein, bei ihm in Tianjin zu leben.**
+
+- Er will sie bei der ältesten Schwester unterbringen.
+
+Shōjirō möchte seine Mutter und seine Schwester zu sich nach Tianjin holen.
+
+Nach dem Tod des Vaters verliert die Familie ihren Wohlstand. Mutter und jüngste Tochter werden bei verschiedenen Angehörigen aufgenommen, fühlen sich dort aber zunehmend unerwünscht. Als Shōjirō zum Todestag zurückkehrt, erfährt er von ihrem Leben im heruntergekommenen Haus am Meer. Er tadelt die Geschwister und bietet einen eigenen gemeinsamen Haushalt in der damals japanisch besetzten chinesischen Stadt an.
+
+Merksatz: Der auswärts lebende Sohn übernimmt die Fürsorge, die die anderen vernachlässigen.
+
+Antwortzusätze:
+
+- Er lädt beide ein, bei ihm in Tianjin zu leben.: Shōjirō möchte seine Mutter und seine Schwester zu sich nach Tianjin holen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Brothers_and_Sisters_of_the_Toda_Family).
+
+### S1 · schwer
+
+Wie zeigt Yukiko Hirayama (Shin Saburi) in „Equinox Flower“ seine widersprüchliche Haltung zur Partnerwahl?
+
+- Sie stellt Setsukos Bräutigam als ihren eigenen Verlobten vor.
+
+- Sie zeigt ihm einen alten Brief gegen seine eigene arrangierte Ehe.
+
+- Sie lässt seinen Vorgesetzten für die Heirat seiner Tochter eintreten.
+
+- **Richtig: Sie überträgt seinen Rat zu einer erfundenen eigenen Lage auf Setsuko.**
+
+Yukiko erhält seinen liberalen Rat für eine vorgetäuschte eigene Lage und bezieht ihn dann auf Setsuko.
+
+Hirayama widersetzt sich der selbst gewählten Ehe seiner Tochter. Yukiko erzählt ihm deshalb, ihre Mutter wolle sie gegen ihren Wunsch verheiraten. Er rät ihr, den eigenen Gefühlen zu folgen. Erst dann erklärt sie den Zusammenhang mit Setsuko. Die List löst seinen Widerstand nicht sofort auf, legt aber offen, wie verschieden er die Freiheit anderer junger Frauen und die seiner eigenen Tochter beurteilt.
+
+Merksatz: Sein Rat für eine fremde Tochter wird zum Maßstab für die eigene.
+
+Antwortzusätze:
+
+- Sie überträgt seinen Rat zu einer erfundenen eigenen Lage auf Setsuko.: Yukiko erhält seinen liberalen Rat für eine vorgetäuschte eigene Lage und bezieht ihn dann auf Setsuko.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Equinox_Flower).
+
+### S2 · schwer
+
+Welche Störung führt Mokichi (Shin Saburi) in „Der Geschmack von grünem Tee über Reis“ unerwartet nach Hause zurück?
+
+- **Richtig: Sein Flugzeug kehrt wegen technischer Probleme um.**
+
+- Sein Geschäftspartner sagt die Auslandsreise am Abflugtag ab.
+
+- Ein Streik verhindert die Weiterfahrt vom Flughafen.
+
+- Seine Firma ruft ihn wegen eines verlorenen Vertrags zurück.
+
+Technische Schwierigkeiten zwingen sein Flugzeug zur Rückkehr.
+
+Mokichi soll für die Firma nach Uruguay reisen. Taeko hat Tokio nach einem Streit verlassen und kehrt zu spät zurück, um ihn noch am Flughafen zu verabschieden. Die ungeplante Rückkehr führt die beiden nachts im Haus zusammen. Beim gemeinsamen Zubereiten einer einfachen Mahlzeit entsteht eine Nähe, die im üblichen Alltag kaum möglich war. Aus einer Reiseunterbrechung entwickelt sich so die Chance zur Wiederannäherung.
+
+Merksatz: Die unterbrochene Geschäftsreise ermöglicht ein ungeplantes Zusammensein.
+
+Antwortzusätze:
+
+- Sein Flugzeug kehrt wegen technischer Probleme um.: Technische Schwierigkeiten zwingen sein Flugzeug zur Rückkehr.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Flavor_of_Green_Tea_over_Rice), [2](https://www.bfi.org.uk/features/international-tea-day-ozu-everyday-magic-flavour-green-tea-over-rice).
+
+### E1 · experte
+
+Welche Vorgeschichte hatte das Drehbuch von „Der Geschmack von grünem Tee über Reis“ mit Shin Saburi?
+
+- Es war als Fortsetzung eines bereits fertigen Stummfilms vorgesehen.
+
+- **Richtig: Eine frühere Fassung war an der Kriegszensur gescheitert und wurde später neu bearbeitet.**
+
+- Es entstand aus der Zusammenlegung zweier unverfilmter Theaterstücke.
+
+- Es war für einen anderen Regisseur geschrieben und nach dessen Tod übernommen worden.
+
+Ozu und Kōgo Noda griffen ein 1940 von der Zensur abgelehntes Projekt erneut auf.
+
+David Bordwell rekonstruiert die Arbeit anhand von Ozus Notizbüchern. Anfang 1952 hielten Ozu und Noda fest, dass sie ein problematisches älteres Drehbuch wieder aufnahmen. Sie überarbeiteten den Stoff vor den Dreharbeiten. Der fertige Film gehört damit in die Nachkriegszeit, obwohl die Idee zu seiner Ehegeschichte eine deutlich ältere, zunächst verhinderte Produktionsgeschichte besitzt.
+
+Merksatz: Ein gescheitertes Vorkriegsprojekt wird zur Nachkriegskomödie.
+
+Antwortzusätze:
+
+- Eine frühere Fassung war an der Kriegszensur gescheitert und wurde später neu bearbeitet.: Ozu und Kōgo Noda griffen ein 1940 von der Zensur abgelehntes Projekt erneut auf.
+
+Quellen: [1](https://www.davidbordwell.net/blog/2019/09/22/ozu-the-compassionate-satirist-the-flavor-of-green-tea-over-rice-on-criterion-blu-ray/).
+
+### E2 · experte
+
+Welches Interesse gehörte laut Criterion zum Studioentscheid für Farbe bei „Equinox Flower“ mit Shin Saburi?
+
+- Die neu errichteten Studiodekorationen als besondere Attraktion hervorzuheben.
+
+- Den Film bei einer geplanten internationalen Auswertung konkurrenzfähiger zu machen.
+
+- **Richtig: Den von Daiei ausgeliehenen Star Fujiko Yamamoto besonders wirkungsvoll zu präsentieren.**
+
+- Die Generationen des Ensembles durch unterschiedliche Farbkonzepte zu kennzeichnen.
+
+Shōchiku wollte unter anderem Fujiko Yamamoto durch die Farbaufnahmen wirkungsvoll herausstellen.
+
+Ozus erster Farbfilm entstand auch aus einem konkreten Interesse des Studios an seiner Besetzung. Yamamoto spielt Yukiko, die in Hirayamas Familienkonflikt eingreift. Ozu nutzte die neue Palette darüber hinaus für sorgfältig gesetzte rote Gegenstände, Blumen und Leuchtreklamen. Eine kommerzielle Vorgabe wurde so Teil einer veränderten visuellen Gestaltung seiner vertrauten Familienwelt.
+
+Merksatz: Die Präsentation eines Stars gibt den Anstoß zu Ozus neuer Farbpalette.
+
+Antwortzusätze:
+
+- Den von Daiei ausgeliehenen Star Fujiko Yamamoto besonders wirkungsvoll zu präsentieren.: Shōchiku wollte unter anderem Fujiko Yamamoto durch die Farbaufnahmen wirkungsvoll herausstellen.
+
+Quellen: [1](https://www.criterion.com/current/posts/634).
+
+## Eijirō Tōno · Bekanntheitsgruppe 4
+
+![Eijirō Tōno (1954)](Portraets/136.jpg)
+
+Bild: 1954; 日下和時 (Kazutoki Kusaka) キネマ旬報社 (Kinema Jumpo Sha Ltd.). Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Eijiro_Tono_1954_Scan10052-1.jpg), [TMDB](https://www.themoviedb.org/person/106165).
+
+### L1 · leicht
+
+Welche Stellung hat Eijirō Tōnos reisender Held in der ab 1969 ausgestrahlten TBS-Serie „Mito Kōmon“?
+
+- **Richtig: Er ist ein zurückgezogen lebender Fürst, der seine Identität verbirgt.**
+
+- Er ist ein als Händler getarnter Ermittler des Stadtgerichts.
+
+- Er ist ein reisender Mönch, der frühere Verbrechen aufklärt.
+
+- Er ist ein besitzloser Samurai auf der Suche nach einem Herrn.
+
+Tōno spielt Tokugawa Mitsukuni, den zurückgezogen lebenden Fürsten von Mito.
+
+Zu Beginn lebt Mitsukuni ruhig auf seinem Landsitz, arbeitet an einer Geschichtsdarstellung und unterrichtet Kinder. Ein verdächtiger Selbstmord in seinem Umfeld veranlasst ihn, unerkannt nach Edo aufzubrechen. Die Serie verbindet damit die Reisen eines scheinbar gewöhnlichen alten Mannes mit der Autorität, die hinter seiner verborgenen Herkunft steht. Tōno führte diese TBS-Reihe als Hauptdarsteller an.
+
+Merksatz: Hinter dem unscheinbaren Reisenden steht der frühere Fürst von Mito.
+
+Antwortzusätze:
+
+- Er ist ein zurückgezogen lebender Fürst, der seine Identität verbirgt.: Tōno spielt Tokugawa Mitsukuni, den zurückgezogen lebenden Fürsten von Mito.
+
+Quellen: [1](https://www.tbs.co.jp/tbs-ch/item/d0134/), [2](https://www.tbs.co.jp/mito/mito13/).
+
+### L2 · leicht
+
+Welcher Tätigkeit geht Gonji (Eijirō Tōno) in „Yojimbo – Der Leibwächter“ nach?
+
+- Er verkauft Seide.
+
+- **Richtig: Er betreibt eine Schenke.**
+
+- Er arbeitet als Büttel.
+
+- Er stellt Särge her.
+
+Gonji ist der Wirt einer Schenke.
+
+Der herrenlose Samurai Sanjūrō (Toshirō Mifune) kommt in eine von zwei rivalisierenden Banden beherrschte Stadt. Gonji gehört zu den Bewohnern, die keine der beiden Seiten als anständigen Beschützer ansehen. Seine Schenke bietet dem Fremden einen Ort, an dem er die Lage erfassen kann. Der Wirt wird so zu einer wichtigen Verbindung zwischen dem Einzelgänger und dem Alltag der bedrohten Stadt.
+
+Merksatz: Der Wirt kennt die Lage der Stadt und hilft dem fremden Samurai.
+
+Antwortzusätze:
+
+- Er betreibt eine Schenke.: Gonji ist der Wirt einer Schenke.
+
+Quellen: [1](https://de.wikipedia.org/wiki/Yojimbo_%E2%80%93_Der_Leibw%C3%A4chter), [2](https://www.criterion.com/films/597-yojimbo).
+
+### M1 · mittel
+
+Woher kennen Hirayama und seine Freunde Sakuma (Eijirō Tōno), genannt „der Kürbis“, in „Ein Herbstnachmittag“?
+
+- Er war ihr früherer Marinevorgesetzter.
+
+- Er führte das Gasthaus, in dem sie als Studenten wohnten.
+
+- Er leitete das Unternehmen, in dem sie ihre Laufbahn begannen.
+
+- **Richtig: Er unterrichtete sie früher in chinesischen Klassikern.**
+
+Sakuma ist ihr früherer Lehrer für chinesische Klassiker.
+
+Bei einem Treffen der ehemaligen Schüler trinkt Sakuma zu viel. Hirayama (Chishū Ryū) und Kawai (Nobuo Nakamura) bringen ihn nach Hause und entdecken, dass er inzwischen eine einfache Nudelküche betreibt. Die Wiederbegegnung verändert ihren Blick auf den früheren Lehrer: Hinter der komischen Feier werden sein wirtschaftlicher Abstieg und die Einsamkeit des Haushalts sichtbar.
+
+Merksatz: Die alten Schüler entdecken das heutige Leben ihres früheren Lehrers.
+
+Antwortzusätze:
+
+- Er unterrichtete sie früher in chinesischen Klassikern.: Sakuma ist ihr früherer Lehrer für chinesische Klassiker.
+
+Quellen: [1](https://en.wikipedia.org/wiki/An_Autumn_Afternoon).
+
+### M2 · mittel
+
+Wie verändert der Tod seiner Frau Tomekichi (Eijirō Tōno) in Kurosawas „Nachtasyl“?
+
+- Er will sofort wieder heiraten, um seine Werkstatt fortzuführen.
+
+- Er verdächtigt die Mitbewohner, sie absichtlich vergiftet zu haben.
+
+- Er erklärt ihren Tod zu einer Befreiung und verlässt den Ort.
+
+- **Richtig: Der zuvor scheinbar gleichgültige Handwerker ist nun gebrochen.**
+
+Tomekichi wirkt zunächst gleichgültig gegenüber ihrer Krankheit, wird durch ihren Tod aber gebrochen.
+
+In der heruntergekommenen Unterkunft leben Menschen, die sich kaum gegen ihre Armut behaupten können. Auch Tomekichis kranke Frau Asa (Eiko Miyoshi) findet dort wenig Trost. Seine anfängliche Härte bedeutet jedoch nicht, dass ihr Tod spurlos an ihm vorbeigeht. Die Veränderung lässt hinter dem abweisenden Verhalten eine Verletzbarkeit hervortreten, die im täglichen Kampf ums Überleben verdeckt geblieben ist.
+
+Merksatz: Die scheinbare Gleichgültigkeit schützt Tomekichi nicht vor der Trauer.
+
+Antwortzusätze:
+
+- Der zuvor scheinbar gleichgültige Handwerker ist nun gebrochen.: Tomekichi wirkt zunächst gleichgültig gegenüber ihrer Krankheit, wird durch ihren Tod aber gebrochen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Lower_Depths_(1957_film)).
+
+### S1 · schwer
+
+Wie bringt Gonji (Eijirō Tōno) den schwer verletzten Sanjūrō in „Yojimbo – Der Leibwächter“ aus der Stadt?
+
+- Er verkleidet ihn als Helfer eines reisenden Arztes.
+
+- Er schleust ihn als Gefangenen eines bestochenen Büttels hinaus.
+
+- **Richtig: Er lässt ihn in einem Sarg hinaustragen.**
+
+- Er verbirgt ihn zwischen den Säcken eines Warenwagens.
+
+Gonji organisiert Sanjūrōs Flucht in einem Sarg.
+
+Nachdem die Bande seinen Verrat entdeckt hat, ist Sanjūrō (Toshirō Mifune) schwer misshandelt worden. Gonji arbeitet mit dem Sargmacher zusammen, um ihn aus der Stadt zu schaffen. Außerhalb kann der Samurai sich erholen. Die alltägliche Begleiterscheinung der Gewalt wird damit zum Mittel, einen noch lebenden Menschen vor ihren Folgen zu retten.
+
+Merksatz: Ein Sarg wird zum Fluchtmittel für einen Überlebenden.
+
+Antwortzusätze:
+
+- Er lässt ihn in einem Sarg hinaustragen.: Gonji organisiert Sanjūrōs Flucht in einem Sarg.
+
+Gemeinsames Wissensziel: K-F240-20261006-122-S1 (F240-20261006-122-S1).
+
+Quellen: [1](https://en.wikipedia.org/wiki/Yojimbo).
+
+### S2 · schwer
+
+Weshalb wirkt Sakumas (Eijirō Tōno) Haushalt in „Ein Herbstnachmittag“ als Warnung für Hirayama?
+
+- Seine Tochter hat die Nudelküche gegen seinen Willen verkauft.
+
+- **Richtig: Seine Tochter blieb für ihn zu Hause und verpasste die eigene Heirat.**
+
+- Seine Tochter hat ihn zugunsten einer beruflichen Laufbahn verlassen.
+
+- Seine Tochter ist nach einer unglücklichen Ehe zu ihm zurückgekehrt.
+
+Sakumas Tochter hat ihr eigenes Leben zugunsten der Betreuung des Vaters zurückgestellt.
+
+Der frühere Lehrer lebt mit seiner unverheirateten, verbitterten Tochter (Haruko Sugimura). Hirayama erkennt darin eine mögliche Zukunft für Michiko (Shima Iwashita), die ebenfalls den väterlichen Haushalt führt. Die Begegnung verbindet die Angst des alten Mannes vor Einsamkeit mit den Kosten, die seine Bequemlichkeit für die Tochter haben kann. Sie bestärkt ihn darin, deren Heirat nicht länger aufzuschieben.
+
+Merksatz: Die Tochter des Lehrers zeigt, was dauerhaftes Bleiben im Elternhaus kosten kann.
+
+Antwortzusätze:
+
+- Seine Tochter blieb für ihn zu Hause und verpasste die eigene Heirat.: Sakumas Tochter hat ihr eigenes Leben zugunsten der Betreuung des Vaters zurückgestellt.
+
+Quellen: [1](https://www.criterion.com/current/posts/667-an-autumn-afternoon-a-fond-farewell).
+
+### E1 · experte
+
+Wie unterstützt Kurosawa in „Nachtasyl“ das Zusammenspiel des Ensembles um Eijirō Tōno?
+
+- **Richtig: Er erfasst das gemeinsame Spiel in langen Einstellungen mit mehreren Kameras.**
+
+- Er montiert einzeln gedrehte Reaktionsaufnahmen im Gegenschnitt.
+
+- Er zeigt die Szenen in weiten Totalen mit einer festen Kamera.
+
+- Er folgt wechselnden Darstellern mit einer bewegten Handkamera.
+
+Lange Einstellungen und mehrere Kameras lassen das Ensemble zugleich als Gruppe und in einzelnen Reaktionen sichtbar werden.
+
+In der engen Unterkunft besitzt keine einzelne Figur dauerhaft das Zentrum. Kurosawa beobachtet die Bewohner aus verschiedenen Blickwinkeln und verbindet ihre Reaktionen miteinander. Das Verfahren bewahrt die Dichte einer gemeinsam gespielten Szene und ermöglicht zugleich eine filmische Gliederung des Raums. Tomekichis Verhalten ist dadurch Teil eines Geflechts aus Ausweglosigkeit, Streit, Illusionen und kleinen Hilfen.
+
+Merksatz: Mehrere Kameras erschließen ein gemeinsam handelndes Ensemble.
+
+Antwortzusätze:
+
+- Er erfasst das gemeinsame Spiel in langen Einstellungen mit mehreren Kameras.: Lange Einstellungen und mehrere Kameras lassen das Ensemble zugleich als Gruppe und in einzelnen Reaktionen sichtbar werden.
+
+Quellen: [1](https://www.criterion.com/current/posts/333-akira-kurosawa-s-the-lower-depths).
+
+### E2 · experte
+
+Welche Erzählform prägt Kinoshitas „Die Ballade von Narayama“ von 1958, in der Eijirō Tōno einen Boten spielt?
+
+- Stumme Traumsequenzen ersetzen die entscheidenden Begegnungen.
+
+- Eine Folge dokumentarischer Dorfinterviews unterbricht die Handlung.
+
+- **Richtig: Ein Jōruri-Erzähler begleitet eine sichtbar theatralische Inszenierung.**
+
+- Eine rückblickende Gerichtsverhandlung ordnet die Dorfgeschichte.
+
+Ein Jōruri-Erzähler und bewusst künstliche Bühnenräume prägen den Film.
+
+Kinoshita eröffnet das Geschehen mit einem schwarz gekleideten Erzähler und einem Vorhang, der den Blick auf ein stilisiertes Dorf freigibt. Die Bilder verbergen ihre Herkunft aus gestalteten Studiodekorationen nicht. Gesang und Kommentar begleiten eine Geschichte, in der alte Menschen auf einem Berg zum Sterben zurückgelassen werden. Die strenge Form gibt dem grausamen Stoff den Charakter eines Rituals.
+
+Merksatz: Vorhang, Erzähler und künstliche Räume machen die Überlieferung als Aufführung sichtbar.
+
+Antwortzusätze:
+
+- Ein Jōruri-Erzähler begleitet eine sichtbar theatralische Inszenierung.: Ein Jōruri-Erzähler und bewusst künstliche Bühnenräume prägen den Film.
+
+Quellen: [1](https://www.criterion.com/current/posts/2649-the-ballad-of-narayama-abandonment), [2](https://www.criterion.com/films/28240-the-ballad-of-narayama).
+
+## Rentarō Mikuni · Bekanntheitsgruppe 4
+
+![Rentarō Mikuni (1950er-Jahre)](Portraets/137.jpg)
+
+Bild: 1950er-Jahre; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Rentar%C5%8D_Mikuni.jpg), [TMDB](https://www.themoviedb.org/person/76975).
+
+### L1 · leicht
+
+Welche Stellung hat Rentarō Mikunis Inouye in „Die Harfe von Burma“?
+
+- Er ist Dolmetscher der britischen Armee.
+
+- Er ist der örtliche buddhistische Abt.
+
+- **Richtig: Er ist Hauptmann einer japanischen Einheit.**
+
+- Er ist britischer Lagerarzt.
+
+Inouye führt die japanischen Soldaten als Hauptmann.
+
+Seine Einheit findet durch gemeinsames Singen Zusammenhalt. Das Schicksal des verschollenen Mizushima beschäftigt die Männer auch nach der Kapitulation.
+
+Merksatz: Mikuni spielt den Hauptmann der singenden Soldaten.
+
+Quellen: [1](https://www.criterion.com/films/817-the-burmese-harp).
+
+### L2 · leicht
+
+Welche Stellung hat Rentarō Mikunis Asagoro in „Zatoichi the Outlaw“?
+
+- **Richtig: Er führt ein Glücksspielhaus.**
+
+- Er betreibt eine Landarztpraxis.
+
+- Er kommandiert die Stadtwache.
+
+- Er leitet eine Tempelschule.
+
+Asagoro ist der Boss eines Glücksspielhauses.
+
+Sein zunächst großzügiges Auftreten verbirgt wirtschaftliche Interessen. Die Geschichte führt Zatoichi in einen Konflikt zwischen rivalisierenden Glücksspielbetrieben und verschuldeten Bauern.
+
+Merksatz: Asagoros Großzügigkeit gehört zu einem Geschäftsplan.
+
+Quellen: [1](https://www.criterion.com/films/28583-zatoichi-the-outlaw).
+
+### M1 · mittel
+
+Welche Veränderung verbirgt Rentarō Mikunis Hauptfigur in „A Fugitive from the Past“ vor der Öffentlichkeit?
+
+- Ein früherer Soldat lebt nun als buddhistischer Abt.
+
+- **Richtig: Ein früherer Verbrecher ist zum angesehenen Geschäftsmann geworden.**
+
+- Ein früherer Lehrer hat einen revolutionären Bund gegründet.
+
+- Ein ehemaliger Polizist führt nun ein Glücksspielhaus.
+
+Der frühere Verbrecher lebt später als angesehener Bürger.
+
+Die Vergangenheit bleibt jedoch mit Personen verbunden, die seinen Aufstieg möglich gemacht haben. Uchidas Jahrzehnte umspannende Geschichte lässt gesellschaftlichen Erfolg und ungelöste Schuld nebeneinanderstehen.
+
+Merksatz: Der geachtete Bürger kann seiner verbrecherischen Vergangenheit nicht entkommen.
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-great-japanese-film-noirs).
+
+### M2 · mittel
+
+Welche Seite vertritt Rentarō Mikunis Saitō Kageyu in „Harakiri“?
+
+- Die Händler des benachbarten Stadtviertels
+
+- Die Familie des verarmten Rōnin Tsugumo
+
+- Eine geheime Gruppe kaiserlicher Gesandter
+
+- **Richtig: Die Leitung des mächtigen Hauses Iyi**
+
+Saitō vertritt die Autorität des Hauses Iyi.
+
+Er empfängt den bittenden Samurai und hält die strengen Regeln des Hauses aufrecht. Seine amtliche Selbstsicherheit gerät durch die erzählte Familiengeschichte unter Druck.
+
+Merksatz: Saitō bewacht die Ordnung des Hauses Iyi.
+
+Quellen: [1](https://www.criterion.com/films/743-harakiri), [2](https://en.wikipedia.org/wiki/Harakiri_(1962_film)).
+
+### S1 · schwer
+
+Welcher Glaube prägt Rentarō Mikunis Vaterfigur in „Die Rache ist mein“ und verschärft ihre moralischen Konflikte?
+
+- Eine neu gegründete buddhistische Sekte
+
+- Der staatliche Shintōkult
+
+- Der protestantische Methodismus
+
+- **Richtig: Der katholische Glaube**
+
+Shizuo Enokizu ist ein streng katholischer Vater.
+
+Seine religiösen Ansprüche stehen neben widersprüchlichen Gefühlen und dem zerstörerischen Verhalten seines Sohnes. Imamuras Film sucht seine moralischen Spannungen in der ganzen Familie.
+
+Merksatz: Religiöse Strenge beseitigt die familiären Widersprüche nicht.
+
+Quellen: [1](https://www.criterion.com/films/822-vengeance-is-mine), [2](https://www.criterion.com/current/posts/479-vengeance-is-mine-civilization-and-its-discontents).
+
+### S2 · schwer
+
+Welches berufliche Verhältnis besteht zwischen Rentarō Mikunis Su-san und seinem Angelfreund Hama-chan in der Reihe „Free & Easy“?
+
+- Sie sind beide pensionierte Bauarbeiter.
+
+- **Richtig: Su-san ist Präsident der Baufirma, in der Hama-chan arbeitet.**
+
+- Hama-chan ist Eigentümer von Su-sans Hotel.
+
+- Sie führen konkurrierende Fischereibetriebe.
+
+Su-san ist der Firmenchef seines Angelfreundes.
+
+Beim Angeln treten die Hierarchien des Unternehmens hinter eine gemeinsame Leidenschaft zurück. Die beiden Lebenswelten liefern der langlebigen Komödienreihe immer neue Verwicklungen.
+
+Merksatz: Der Angelfreund ist zugleich der oberste Chef.
+
+Quellen: [1](https://jfdb.jp/en/omnibus/16), [2](https://jfdb.jp/en/person/5047).
+
+### E1 · experte
+
+Welche Aufgaben übernahm Rentarō Mikuni bei seinem Film „Shinran: Shiroi michi“ hinter der Kamera?
+
+- Musik und Tonmischung
+
+- Kamera und Schnitt
+
+- **Richtig: Drehbuch und Regie**
+
+- Ausstattung und Kostüme
+
+Mikuni schrieb am Drehbuch mit und führte Regie.
+
+Der Film über den buddhistischen Religionsgründer erhielt in Cannes einen geteilten Jurypreis. Damit trat Mikuni mit einer eigenen historischen Arbeit als Filmemacher hervor.
+
+Merksatz: Mikuni wurde mit Shinran auch als Regisseur ausgezeichnet.
+
+Quellen: [1](https://www.festival-cannes.com/f/shinran-shiroi-michi/).
+
+### E2 · experte
+
+Auf welche eigene Erfahrung griff Rentarō Mikuni laut den Janus-Produktionsnotizen für das Lesen von Mizushimas Brief in „Die Harfe von Burma“ zurück?
+
+- **Richtig: Auf traumatische Kriegserinnerungen**
+
+- Auf seine frühere Arbeit als Lehrer
+
+- Auf Erinnerungen an einen Gefängnisaufenthalt
+
+- Auf das Sterben eines Familienangehörigen
+
+Mikuni nutzte eigene traumatische Erinnerungen an den Krieg.
+
+Die Briefszene verlangte, dass der Hauptmann die Worte des abwesenden Soldaten vor den Kameraden vorträgt. Persönliche Erfahrung half Mikuni, die emotionale Wirkung dieses Moments zu entwickeln.
+
+Merksatz: Die fremden Briefworte berühren Mikunis eigene Kriegserfahrung.
+
+Quellen: [1](https://s3.amazonaws.com/criterion-production/janus_promo_packages/1230-/BurmeseHarp_Janus_press_notes_tp_original.pdf).
+
+## Shintarō Katsu · Bekanntheitsgruppe 4
+
+![Shintarō Katsu (1959)](Portraets/138.jpg)
+
+Bild: 1959; Daiei Motion Picture Company (大映株式会社, Daiei Kabushiki-gaisha) © 1959. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Shintar%C5%8D_Katsu_in_Hatsu-haru_Tanuki_Goten_1959.jpg), [TMDB](https://www.themoviedb.org/person/80704).
+
+### L1 · leicht
+
+Welchen blinden Schwertkämpfer machte Shintarō Katsu zu einer langlebigen japanischen Leinwandfigur?
+
+- Sanjūrō
+
+- **Richtig: Zatoichi**
+
+- Ittō Ogami
+
+- Nemuri Kyōshirō
+
+Katsu wurde als Zatoichi bekannt.
+
+Die Figur verbindet Hilfsbereitschaft und Komik mit außerordentlicher Kampffähigkeit. Ihr niedriges gesellschaftliches Ansehen steht im Gegensatz zu ihrer körperlichen Präzision.
+
+Merksatz: Katsus blinder Schwertkämpfer heißt Zatoichi.
+
+Quellen: [1](https://www.criterion.com/films/28300-the-tale-of-zatoichi).
+
+### L2 · leicht
+
+Womit verdient Shintarō Katsus Zatoichi auf seinen Wanderungen den Lebensunterhalt?
+
+- Als Straßenmusiker
+
+- **Richtig: Als Masseur**
+
+- Als reisender Arzt
+
+- Als Händler mit Arzneien
+
+Zatoichi arbeitet als Masseur.
+
+Der Beruf bringt ihn in Kontakt mit Personen sehr verschiedener gesellschaftlicher Stellung. Seine Unauffälligkeit lässt viele Gegner seine Fähigkeiten unterschätzen.
+
+Merksatz: Zatoichis Beruf ist Masseur.
+
+Quellen: [1](https://www.criterion.com/films/28300-the-tale-of-zatoichi).
+
+### M1 · mittel
+
+Welcher Schauspieler steht Shintarō Katsu als titelgebender Leibwächter in „Zatoichi Meets Yojimbo“ gegenüber?
+
+- Tatsuya Nakadai
+
+- Ken Takakura
+
+- Kōji Tsuruta
+
+- **Richtig: Toshirō Mifune**
+
+Toshirō Mifune spielt den Leibwächter.
+
+Der Film stellt zwei besonders bekannte Darsteller des japanischen Schwertfilms zusammen. Mifunes Figur erinnert an seinen berühmten Rōnin, trägt hier aber eine andere Identität.
+
+Merksatz: Katsu trifft auf Mifunes Leinwandpräsenz.
+
+Quellen: [1](https://www.criterion.com/films/28582-zatoichi-meets-yojimbo), [2](https://en.wikipedia.org/wiki/Zatoichi_Meets_Yojimbo).
+
+### M2 · mittel
+
+Wer schuf die literarische Figur, die Shintarō Katsu als Zatoichi verkörperte?
+
+- **Richtig: Kan Shimozawa**
+
+- Ryūnosuke Akutagawa
+
+- Eiji Yoshikawa
+
+- Shūgorō Yamamoto
+
+Zatoichi stammt von Kan Shimozawa.
+
+Die erste Verfilmung nennt Shimozawa als Autor der Vorlage. Katsus Darstellung machte aus dem literarischen Ausgangspunkt eine wiederkehrende Filmfigur.
+
+Merksatz: Shimozawas Figur erhielt durch Katsu ihren filmischen Körper.
+
+Quellen: [1](https://www.criterion.com/films/28300-the-tale-of-zatoichi).
+
+### S1 · schwer
+
+In welcher Beziehung stand Shintarō Katsu zum „Lone Wolf and Cub“-Darsteller Tomisaburō Wakayama?
+
+- Sie waren Cousins.
+
+- Sie waren Schwiegervater und Schwiegersohn.
+
+- **Richtig: Sie waren Brüder.**
+
+- Sie waren Vater und Sohn.
+
+Katsu und Wakayama waren Brüder.
+
+Katsu wurde zudem Produzent der frühen Filme mit Wakayamas Schwertkämpfer und dessen kleinem Sohn. Die familiäre Verbindung hatte dadurch auch eine konkrete berufliche Seite.
+
+Merksatz: Zatoichi und der einsame Wolf wurden von Brüdern verkörpert.
+
+Quellen: [1](https://www.criterion.com/current/posts/4287-samurai-and-son-the-lone-wolf-and-cub-saga), [2](https://www.criterion.com/boxsets/1012-zatoichi-the-blind-swordsman).
+
+### S2 · schwer
+
+Welche Veränderung markiert „Zatoichi the Outlaw“ für Shintarō Katsus Arbeit an der Reihe?
+
+- Erstmals führte Katsu bei einem Film der Reihe selbst Regie.
+
+- Erstmals übernahm Toei die Produktion eines Films der Reihe.
+
+- **Richtig: Erstmals übernahm seine eigene Produktionsfirma einen Zatoichi-Film.**
+
+- Erstmals entstand die Reihe als internationale Koproduktion.
+
+Es war der erste Zatoichi-Film von Katsu Productions.
+
+Die eigene Firma eröffnete dem Star zusätzlichen Einfluss auf die Herstellung der Reihe. Der Film verbindet die vertraute Abenteuerfigur mit Betrug an verschuldeten Bauern und schärferer sozialer Kritik.
+
+Merksatz: Katsu wurde mit eigener Firma zum Mitgestalter der Produktion.
+
+Quellen: [1](https://www.criterion.com/boxsets/1012-zatoichi-the-blind-swordsman).
+
+### E1 · experte
+
+Welche Handlung Shintarō Katsus führte laut Coppolas Bericht zum Konflikt mit Kurosawa bei „Kagemusha“?
+
+- Er wollte Maske und Kostüme mit seinem bisherigen Team gestalten.
+
+- Er verlangte ein Mitspracherecht bei der Wahl der Drehorte.
+
+- Er wollte Dialoge während der Aufnahmen eigenständig umschreiben.
+
+- **Richtig: Er brachte ein eigenes Kamerateam zur Aufzeichnung des Drehs mit.**
+
+Katsu erschien mit einem eigenen Kamerateam.
+
+Coppola schilderte dies als Anlass für Kurosawas Ärger. Katsu schied aus, und Tatsuya Nakadai übernahm die Doppelrolle; die genaue Form des Ausscheidens wird unterschiedlich beschrieben.
+
+Merksatz: Ein zweites Kamerateam stand zwischen Star und Regisseur.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Kagemusha).
+
+### E2 · experte
+
+Welches Hindernis musste Shintarō Katsu als Produzent überwinden, damit Wakayama im ersten „Lone Wolf and Cub“-Film spielen konnte?
+
+- **Richtig: Die Bindung des Darstellers an ein konkurrierendes Studio**
+
+- Die ausschließlichen Verfilmungsrechte eines Fernsehsenders
+
+- Die Überschneidung mit einer langfristigen Fernsehproduktion
+
+- Die Ablehnung der Besetzung durch den ursprünglichen Verleih
+
+Wakayamas Bindung an Toei erschwerte die Besetzung.
+
+Die Brüder waren unterschiedlichen Studiowelten verbunden. Katsu erwirkte die Zustimmung des Toei-Präsidenten, damit Wakayama die Hauptrolle übernehmen konnte.
+
+Merksatz: Der Hauptdarsteller brauchte die Freigabe seines Studios.
+
+Quellen: [1](https://www.criterion.com/current/posts/4287-samurai-and-son-the-lone-wolf-and-cub-saga).
+
+## Ken Takakura · Bekanntheitsgruppe 4
+
+![Ken Takakura (1966)](Portraets/139.jpg)
+
+Bild: 1966; 国際情報社 撮影者不明. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Ken_Takakura.jpg), [TMDB](https://www.themoviedb.org/person/73427).
+
+### L1 · leicht
+
+Welche Aufgabe hat Ken Takakuras Matsumoto in „Black Rain“?
+
+- Er ist Zollbeamter am Flughafen.
+
+- Er ist der Leibwächter eines Yakuza-Chefs.
+
+- Er ist Staatsanwalt im Entführungsfall.
+
+- **Richtig: Er ist ein japanischer Polizeiermittler.**
+
+Matsumoto ist ein japanischer Polizist.
+
+Die Zusammenarbeit mit den amerikanischen Ermittlern wird durch unterschiedliche Arbeitsweisen belastet. Takakuras kontrolliertes Auftreten steht neben dem impulsiven Verhalten seines amerikanischen Partners.
+
+Merksatz: Matsumoto ermittelt auf japanischer Seite.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Black_Rain_(1989_American_film)), [2](https://s3.amazonaws.com/cdn.filmtrackonline.com/mongrelmedia/starcm_vault_root/images%2Ffiles%2Ff4%2Ff4ba617e-1eb6-47a7-ac7e-bee939ac6aa2.pdf).
+
+### L2 · leicht
+
+Welchen Beruf übt Ken Takakuras Otomatsu in „Poppoya“ aus?
+
+- Briefträger
+
+- Dorfschullehrer
+
+- **Richtig: Bahnhofsvorsteher**
+
+- Fährkapitän
+
+Otomatsu ist Bahnhofsvorsteher.
+
+Die geplante Stilllegung der Strecke bedroht eine Tätigkeit, mit der er sein Leben verbunden hat. Erinnerungen an Frau und Tochter begleiten seinen Alltag in Hokkaidō.
+
+Merksatz: Otomatsus Leben hängt an seinem Bahnhof.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Poppoya).
+
+### M1 · mittel
+
+Was sollen die gelben Tücher Ken Takakuras heimkehrender Figur in „The Yellow Handkerchief“ signalisieren?
+
+- **Richtig: Seine Frau wartet noch auf ihn.**
+
+- Seine früheren Kollegen haben seine Schulden bezahlt.
+
+- Die Wohnung steht zum Verkauf.
+
+- Seine Frau ist in ein anderes Dorf gezogen.
+
+Die Tücher sollen die fortdauernde Bereitschaft seiner Frau zeigen, ihn aufzunehmen.
+
+Nach seiner Haftentlassung reist Yūsaku voller Zweifel nach Hause. Das vereinbarte Zeichen ermöglicht ihm, die Haltung seiner Frau zu erkennen, bevor er ihr begegnet.
+
+Merksatz: Die Tücher machen eine ersehnte Antwort sichtbar.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Yellow_Handkerchief_(1977_film)).
+
+### M2 · mittel
+
+Weshalb belastet Ken Takakuras Forscher Ushioda in „Antarctica“ die Evakuierung der Forschungsstation?
+
+- Weil er Messgeräte gegen eine Anweisung zerstört hat
+
+- **Richtig: Weil die Schlittenhunde zurückgelassen werden mussten**
+
+- Weil er entscheidende Wetterdaten verwechselt hat
+
+- Weil er einem verletzten Kollegen nicht helfen konnte
+
+Die Expedition musste ihre Schlittenhunde zurücklassen.
+
+Wetter und Versorgungsprobleme verhindern die geplante Ablösung. Die Rückkehr zur Station verbindet die Verantwortung der Menschen mit der Frage, ob Tiere überleben konnten.
+
+Merksatz: Ushiodas Rückkehr gilt auch den zurückgelassenen Hunden.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Antarctica_(1983_film)).
+
+### S1 · schwer
+
+Welche Filmtradition prägte Ken Takakuras frühes Starbild unter der Bezeichnung „ninkyō-eiga“?
+
+- **Richtig: Yakuza-Dramen um Pflichtgefühl und einen Ehrenkodex**
+
+- Komödien über die Modernisierung ländlicher Familien
+
+- Polizeifilme mit nüchterner Rekonstruktion echter Ermittlungen
+
+- Kriegsdramen über ehemalige Soldaten in der Industrie
+
+Ninkyō-eiga inszenieren Yakuza-Figuren im Konflikt von Ehre und Pflicht.
+
+Takakuras zurückhaltende, oft erst spät handelnde Helden wurden zu einem Leitbild dieser Studioproduktionen. Seine späteren Alltagsfiguren konnten an die bekannte Ernsthaftigkeit anknüpfen.
+
+Merksatz: Takakuras Schweigsamkeit gehörte zum ehrengebundenen Yakuza-Helden.
+
+Quellen: [1](https://www.filmcomment.com/nyaff-rep-highlights/).
+
+### S2 · schwer
+
+Was möchte Ken Takakuras Vaterfigur in „Riding Alone for Thousands of Miles“ für den schwer kranken Sohn in China aufnehmen?
+
+- Eine Zeremonie am Grab der Mutter
+
+- Den letzten öffentlichen Auftritt eines berühmten Sportlers
+
+- **Richtig: Die Darbietung eines chinesischen Volkstheaterdarstellers**
+
+- Ein Wiedersehen mit dessen früherer Schulklasse
+
+Er will eine Volkstheaterdarbietung filmen, die sein Sohn sehen wollte.
+
+Der entfremdete Vater übernimmt die Reise anstelle seines Sohnes. Die Suche nach dem Darsteller führt ihn zu fremden Menschen und zu einer anderen Vater-Sohn-Beziehung.
+
+Merksatz: Eine gefilmte Aufführung soll die Distanz zum Sohn überbrücken.
+
+Quellen: [1](https://s3.amazonaws.com/cdn.filmtrackonline.com/mongrelmedia/starcm_vault_root/images%2Ffiles%2Ff4%2Ff4ba617e-1eb6-47a7-ac7e-bee939ac6aa2.pdf).
+
+### E1 · experte
+
+Welche Veränderung seines Rollenfachs markiert „The Yellow Handkerchief“ für Ken Takakura besonders?
+
+- Vom jugendlichen Liebhaber zum patriarchalischen Familienoberhaupt
+
+- **Richtig: Vom bekannten Yakuza-Star zum verletzlichen Mann in einem Alltagsdrama**
+
+- Vom idealistischen Kriegsheimkehrer zum zynischen Geschäftsmann
+
+- Vom historischen Samurai-Darsteller zum zeitgenössischen Polizeiermittler
+
+Der Film gab dem Yakuza-Star eine zentrale Rolle im gefühlvollen Alltagsdrama.
+
+Die vertraute Zurückhaltung blieb erkennbar, bekam aber einen anderen sozialen Ort. Der Wunsch eines gewöhnlichen Mannes nach Heimkehr ersetzte die Pflichten eines Gangsterhelden.
+
+Merksatz: Takakuras bekannte Ernsthaftigkeit erhielt einen neuen Alltag.
+
+Quellen: [1](https://www.bfi.org.uk/lists/great-japanese-film-every-year-from-1925-now), [2](https://s3.amazonaws.com/cdn.filmtrackonline.com/mongrelmedia/starcm_vault_root/images%2Ffiles%2Ff4%2Ff4ba617e-1eb6-47a7-ac7e-bee939ac6aa2.pdf).
+
+### E2 · experte
+
+Welcher Ausgangspunkt führte laut Zhang Yimous Produktionsbericht zu „Riding Alone for Thousands of Miles“ mit Ken Takakura?
+
+- Der Auftrag, einen amerikanischen Erfolgsfilm neu zu verfilmen
+
+- Die Übernahme eines unvollendeten Drehbuchs von Akira Kurosawa
+
+- Der Wunsch, einen fertig entwickelten Opernstoff international zu besetzen
+
+- **Richtig: Zhangs langjähriger Wunsch, einen Film mit seinem Idol Takakura zu machen**
+
+Zhang entwickelte die Geschichte aus dem Wunsch nach einer Zusammenarbeit.
+
+Der Regisseur bezeichnete Takakura als sein frühes Idol. Beide suchten schließlich eine einfache, emotional tragfähige Geschichte über Liebe und menschliche Beziehungen.
+
+Merksatz: Der Wunsch nach dem Darsteller ging dem fertigen Stoff voraus.
+
+Quellen: [1](https://s3.amazonaws.com/cdn.filmtrackonline.com/mongrelmedia/starcm_vault_root/images%2Ffiles%2Ff4%2Ff4ba617e-1eb6-47a7-ac7e-bee939ac6aa2.pdf).
+
+## Bunta Sugawara · Bekanntheitsgruppe 4
+
+![Bunta Sugawara; Aufnahmejahr nicht belegt](https://image.tmdb.org/t/p/w185/lHPLlP8zNwGMmcUI8rGks5vp8Vn.jpg)
+
+Bild: Historische Aufnahme; genaues Jahr nicht belegt; Auf TMDB nicht ausgewiesen. TMDB-Onlineporträt; keine freie Lizenz behauptet. [Bildquelle](https://www.themoviedb.org/person/119243), [TMDB](https://www.themoviedb.org/person/119243).
+
+### L1 · leicht
+
+Welche Figur spricht Bunta Sugawara im japanischen Original von „Chihiros Reise ins Zauberland“?
+
+- Der Flussgeist
+
+- Haku
+
+- Ohngesicht
+
+- **Richtig: Kamaji**
+
+Sugawara spricht Kamaji.
+
+Die vielarmige Figur arbeitet im Heizraum des Badehauses. Die tiefe Stimme gehört damit zu einem Helfer Chihiros in einer besonders geschäftigen Arbeitswelt.
+
+Merksatz: Sugawaras Stimme gehört dem Kesselheizer Kamaji.
+
+Quellen: [1](https://www.waltdisneystudios.jp/studio/ghibli/0252).
+
+### L2 · leicht
+
+Mit welchem Fahrzeug ist Bunta Sugawaras komischer Held Momojiro Hoshi auf Japans Straßen unterwegs?
+
+- **Richtig: Mit einem aufwendig geschmückten Lastwagen**
+
+- Mit einem auffälligen Motorradtaxi
+
+- Mit einem umgebauten Lieferfahrrad
+
+- Mit einem betagten Reisebus
+
+Momojiro fährt einen reich dekorierten Lastwagen.
+
+Die Filme verbinden Fahrten durch Japan mit Freundschaft, Konkurrenz und Liebesgeschichten. Die Fahrzeuge werden dabei zu einem besonders sichtbaren Teil der Figurenwelt.
+
+Merksatz: Momojiros Lastwagen trägt seine Persönlichkeit nach außen.
+
+Quellen: [1](https://shop.toei-video.co.jp/products/dutd02092), [2](https://www.toei-video.co.jp/catalog/bstd03710/).
+
+### M1 · mittel
+
+Welche Rolle hat Bunta Sugawaras Kuno im Machtgefüge von „Cops vs. Thugs“?
+
+- Er ist ein einflussreicher Bauunternehmer.
+
+- Er ist ein Stadtrat mit kriminellen Kontakten.
+
+- Er ist Unterhändler einer Yakuza-Gruppe.
+
+- **Richtig: Er ist ein korrupter Polizeiermittler.**
+
+Kuno ist Polizist und eng mit Gangstern verbunden.
+
+Der Film verwischt die Grenze zwischen Strafverfolgung und organisierten Interessen. Kunos persönliche Beziehungen machen das amtliche Vorgehen gegen die Yakuza zu einem Loyalitätskonflikt.
+
+Merksatz: Kuno steht im Polizeidienst und im Gangstermilieu.
+
+Quellen: [1](https://s3.amazonaws.com/filmlinc/assets/uploads/2015Jul.AugCalendar-final-lowres.pdf), [2](https://en.wikipedia.org/wiki/Cops_vs._Thugs).
+
+### M2 · mittel
+
+Welchen Gegner verfolgt Bunta Sugawaras Inspektor in „The Man Who Stole the Sun“?
+
+- Einen Journalisten, der militärische Forschungsergebnisse verkauft
+
+- **Richtig: Einen Lehrer, der eine eigene Atombombe gebaut hat**
+
+- Einen Ingenieur, der ein Verkehrsflugzeug entführt
+
+- Einen Chemiker, der das Trinkwasser einer Großstadt vergiftet
+
+Der Gegner ist ein Lehrer mit einer selbst gebauten Atombombe.
+
+Die Polizei kennt den Erpresser zunächst nur durch seine verfremdete Stimme. Sugawaras Inspektor ist dem Mann zuvor schon unter ganz anderen Umständen begegnet.
+
+Merksatz: Ein scheinbar gewöhnlicher Lehrer wird zum nuklearen Erpresser.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Man_Who_Stole_the_Sun), [2](https://s3.amazonaws.com/filmlinc/assets/uploads/2015Jul.AugCalendar-final-lowres.pdf).
+
+### S1 · schwer
+
+Woran scheitert Bunta Sugawaras Okita nach seinem Aufstieg in „Street Mobster“ besonders?
+
+- Er setzt das Vermögen seiner Gruppe bei riskanten Grundstücksgeschäften ein.
+
+- Er versucht, seine Gruppe auf internationalen Waffenhandel umzustellen.
+
+- **Richtig: Er verweigert die Unterordnung unter die geschäftsmäßig organisierten Gangsterbosse.**
+
+- Er verrät einen bisherigen Verbündeten zugunsten der Polizei.
+
+Okitas Unabhängigkeitsdrang kollidiert mit den hierarchischen Gangsterorganisationen.
+
+Nach der Haftentlassung findet er eine veränderte Unterwelt vor. Seine Lust am unmittelbaren Kampf passt zunehmend schlecht zu Geschäften, Bündnissen und den Forderungen mächtiger Organisationen.
+
+Merksatz: Okita kann sich als Geschäftsmann im Gangstersystem nicht einrichten.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Street_Mobster).
+
+### S2 · schwer
+
+Welches Konzert soll der Erpresser gegenüber Bunta Sugawaras Polizei in „The Man Who Stole the Sun“ durchsetzen?
+
+- Ein Konzert der Eagles in Japan
+
+- **Richtig: Ein Konzert der Rolling Stones in Japan**
+
+- Ein Konzert von The Who in Japan
+
+- Ein Konzert von Led Zeppelin in Japan
+
+Er verlangt einen Auftritt der Rolling Stones.
+
+Die Forderung verbindet eine extreme technische Bedrohung mit einem Wunsch der Popkultur. Der Film macht gerade aus diesem Missverhältnis einen Teil seiner Satire.
+
+Merksatz: Die Atombombe soll die Rolling Stones nach Japan holen.
+
+Quellen: [1](https://s3.amazonaws.com/filmlinc/assets/uploads/2015Jul.AugCalendar-final-lowres.pdf).
+
+### E1 · experte
+
+Welche formale Wirkung prägt „Battles Without Honor and Humanity“ mit Bunta Sugawara gegenüber romantisierten Yakuza-Filmen besonders?
+
+- Eine opernhafte Inszenierung auf erkennbaren Bühnenkulissen
+
+- Eine stark subjektive Erzählung als Traum eines einzelnen Gangsters
+
+- **Richtig: Die Unmittelbarkeit von Nachrichtenbildern und einer historischen Chronik**
+
+- Eine ruhige Folge symmetrischer Bilder mit erklärendem Erzähler
+
+Der Film nutzt eine an Nachrichtenbilder erinnernde Unmittelbarkeit.
+
+Die Geschichte führt von der Nachkriegsruine zur organisierten Macht. Sugawaras Hirono steht in einer Welt, in der Loyalitätsrituale keine verlässliche moralische Ordnung schaffen.
+
+Merksatz: Die Gangstergeschichte wirkt wie eine gewaltsame Nachkriegschronik.
+
+Quellen: [1](https://www.filmlinc.org/films/battles-without-honor-and-humanity/).
+
+### E2 · experte
+
+In welchem Beruf arbeitete Bunta Sugawara nach dem abgebrochenen Studium, bevor er im Film Fuß fasste?
+
+- **Richtig: Als Model**
+
+- Als Radiotechniker
+
+- Als Werbegrafiker
+
+- Als Journalist
+
+Sugawara arbeitete zunächst als Model.
+
+Er kam erst nach längerer Arbeit in unterschiedlichen Rollen zu seinem bekannten Gangsterbild. Der spätere raue Filmauftritt war damit das Ergebnis einer beruflichen Entwicklung.
+
+Merksatz: Vor dem rauen Leinwandimage stand Arbeit als Model.
+
+Quellen: [1](https://filmmovement.com/userFiles/uploads/films/violent-streets/ViolentStreets_press-kit.pdf).
+
+## Soumitra Chatterjee · Bekanntheitsgruppe 4
+
+![Soumitra Chatterjee (2011)](Portraets/141.jpg)
+
+Bild: 2011; Biswarup Ganguly. CC BY 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Soumitra_Chatterjee_-_Kolkata_2011-05-09_2865_(headshot).JPG), [TMDB](https://www.themoviedb.org/person/13752).
+
+### L1 · leicht
+
+Welche Figur aus Satyajit Rays berühmter Trilogie verkörpert Soumitra Chatterjee als Erwachsener?
+
+- **Richtig: Apu**
+
+- Amal
+
+- Feluda
+
+- Nikhil
+
+Chatterjee spielt den erwachsenen Apu.
+
+Mit dem letzten Teil begann seine Zusammenarbeit mit Ray. Der junge Mann versucht, vom Schreiben zu leben, und erlebt Liebe, Verlust und Vaterschaft.
+
+Merksatz: Apu erhält als Erwachsener Chatterjees Gesicht.
+
+Quellen: [1](https://www.criterion.com/current/posts/7184-the-world-of-soumitra-chatterjee).
+
+### L2 · leicht
+
+Welchen Beruf übt Soumitra Chatterjees Feluda in „Sonar Kella“ aus?
+
+- Psychiater
+
+- Archäologe
+
+- Reisejournalist
+
+- **Richtig: Privatdetektiv**
+
+Feluda ist Privatdetektiv.
+
+Er begleitet einen Jungen, dessen Erinnerungen an ein früheres Leben Schatzsucher anlocken. Die Reise nach Rajasthan wird damit zugleich Ermittlung und Abenteuer.
+
+Merksatz: Feluda ermittelt auf der Reise nach Rajasthan.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Sonar_Kella).
+
+### M1 · mittel
+
+Wie ist Soumitra Chatterjees Amal in „Charulata“ mit Charulatas Ehemann Bhupati verwandt?
+
+- Er ist sein Schwager.
+
+- Er ist sein jüngerer Bruder.
+
+- Er ist sein Neffe.
+
+- **Richtig: Er ist sein Cousin.**
+
+Amal ist Bhupatis Cousin.
+
+Der literarisch interessierte Gast bringt Bewegung in Charulatas einsamen Alltag. Ihre geistige Nähe wird zur Gefahr für das Vertrauen innerhalb der Familie.
+
+Merksatz: Der vertraute Cousin wird zum unerwarteten Rivalen.
+
+Quellen: [1](https://www.criterion.com/films/28447-charulata).
+
+### M2 · mittel
+
+Welche historische Katastrophe erlebt Soumitra Chatterjees Gangacharan in „Distant Thunder“?
+
+- Die Teilung Indiens von 1947
+
+- **Richtig: Die Hungersnot in Bengalen von 1943**
+
+- Das Erdbeben von Bihar 1934
+
+- Die Pestepidemie von Bombay 1896
+
+Die Geschichte spielt während der bengalischen Hungersnot von 1943.
+
+Gangacharan lebt als brahmanischer Lehrer und Heiler im Dorf. Der zunehmende Hunger erschüttert die alltäglichen Beziehungen und seine bisher sichere gesellschaftliche Stellung.
+
+Merksatz: Der Hunger verändert Gangacharans Blick auf sein Dorf.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Distant_Thunder_(1973_film)).
+
+### S1 · schwer
+
+Wofür wirbt Soumitra Chatterjees Sandip in „Das Heim und die Welt“ politisch?
+
+- Für eine stärkere wirtschaftliche Bindung an Großbritannien
+
+- **Richtig: Für den Boykott ausländischer Waren durch die Swadeshi-Bewegung**
+
+- Für die Abschaffung des privaten Landbesitzes
+
+- Für die Abwanderung bengalischer Arbeiter nach England
+
+Sandip mobilisiert für den Swadeshi-Boykott.
+
+Seine mitreißenden Reden beeindrucken Bimala. Zugleich trifft der politische Druck arme Händler, und sein Auftreten steht in Spannung zu den eigenen Interessen.
+
+Merksatz: Sandips Freiheitsrhetorik hat einen Preis für andere.
+
+Quellen: [1](https://www.nfdcindia.com/catalogue/NFDC%20-%20Feature%20Films%20Catalogue%202024.pdf), [2](https://en.wikipedia.org/wiki/Ghare_Baire_(film)).
+
+### S2 · schwer
+
+Vor welcher Gefahr warnt Soumitra Chatterjees Arzt in „Ganashatru“ seine Stadt?
+
+- Vor einsturzgefährdeten Wohnhäusern
+
+- Vor verdorbenem Getreide aus einem Lagerhaus
+
+- **Richtig: Vor verseuchtem heiligem Wasser des Tempels**
+
+- Vor einer Giftwolke aus einer Chemiefabrik
+
+Der Arzt weist eine Verunreinigung des Tempelwassers nach.
+
+Seine Warnung bedroht Einnahmen und religiöse Gewissheiten. Die Gemeinde richtet sich deshalb gegen den Mann, der sie schützen will; Ray überträgt Ibsens Konflikt in eine indische Tempelstadt.
+
+Merksatz: Der medizinische Befund wird zum öffentlichen Ärgernis.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Ganashatru).
+
+### E1 · experte
+
+Welche besondere Fertigkeit erarbeitete sich Soumitra Chatterjee auf Satyajit Rays Wunsch für „Charulata“?
+
+- Das professionelle Setzen einer Zeitung
+
+- Eine historische Gesangstechnik
+
+- **Richtig: Eine eigene kalligrafische Handschrift**
+
+- Den Umgang mit einer frühen Filmkamera
+
+Er übte die von Ray gewünschte Handschrift.
+
+Sandip Ray erinnerte sich an die gezielte Vorbereitung für die geschriebenen Zeilen im Film. Auch kleine sichtbare Handlungen wurden so Teil der sorgfältigen Figurenarbeit.
+
+Merksatz: Amals Schrift wurde ebenso gestaltet wie sein Auftreten.
+
+Quellen: [1](https://timesofindia.indiatimes.com/city/kolkata/soumitra-chatterjee-the-stalwart-with-an-aura-whom-i-was-scared-to-direct/amp_articleshow/79245043.cms).
+
+### E2 · experte
+
+Wie vertiefte Soumitra Chatterjee nach eigener Erinnerung seine Vorbereitung auf den erwachsenen Apu?
+
+- **Richtig: Er schrieb ein erfundenes Tagebuch der Figur.**
+
+- Er zeichnete jede Szene als Bilderfolge vor.
+
+- Er sammelte ausschließlich zeitgenössische Theaterkritiken.
+
+- Er kopierte die Sprechweise eines bekannten Schriftstellers.
+
+Chatterjee erfand für Apu ein persönliches Tagebuch.
+
+Darin ergänzte er Lebensmomente, die das Drehbuch nicht zeigte. Als Ray davon erfuhr, beteiligte er sich am Weiterdenken dieses Lebens außerhalb der Szenen.
+
+Merksatz: Das erfundene Tagebuch gab Apu ein Leben zwischen den Szenen.
+
+Quellen: [1](https://timesofindia.indiatimes.com/city/kolkata/actors-relive-moments-spent-with-ray/articleshow/11430042.cms).
+
+## Naseeruddin Shah · Bekanntheitsgruppe 4
+
+![Naseeruddin Shah (2012)](Portraets/142.jpg)
+
+Bild: 2012; Bollywood Hungama. CC BY 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Naseeruddin_Shah_Audio_release_of_%27Maximum%27_06_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/6497).
+
+### L1 · leicht
+
+Welchen literarischen Abenteurer spielt Naseeruddin Shah in „Die Liga der außergewöhnlichen Gentlemen“?
+
+- Dorian Gray
+
+- Tom Sawyer
+
+- Allan Quatermain
+
+- **Richtig: Captain Nemo**
+
+Shah verkörpert Captain Nemo.
+
+Der Erfinder und Seefahrer bringt sein U-Boot in das ungewöhnliche Heldenteam ein. Seine Figur stammt aus der Romanwelt Jules Vernes.
+
+Merksatz: Shahs Abenteurer führt die Nautilus.
+
+Quellen: [1](https://m.rediff.com/movies/report/naseer/20030710.htm), [2](https://www.criterionpic.com/CPL/mm/CPL_G_and_PG_titles.pdf).
+
+### L2 · leicht
+
+Welche familiäre Rolle hat Naseeruddin Shahs Lalit bei der Feier in „Monsoon Wedding“?
+
+- Er ist der Bruder des Bräutigams.
+
+- Er ist der Großvater der Braut.
+
+- Er ist der Onkel des Bräutigams.
+
+- **Richtig: Er ist der Vater der Braut.**
+
+Lalit ist Aditis Vater.
+
+Er organisiert eine kostspielige Hochzeit und versucht, die weit verstreute Verwandtschaft zusammenzuhalten. Unter der festlichen Oberfläche kommen familiäre Konflikte ans Licht.
+
+Merksatz: Lalit trägt die Verantwortung für die Hochzeit seiner Tochter.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Monsoon_Wedding), [2](https://www.criterion.com/films/2364-monsoon-wedding).
+
+### M1 · mittel
+
+Welche Nachricht bringt Naseeruddin Shahs Familienvater in „Masoom“ in einen Gewissenskonflikt?
+
+- **Richtig: Ein Sohn aus einer früheren Affäre braucht ein Zuhause.**
+
+- Sein Bruder verlangt die Vormundschaft für seine Töchter.
+
+- Seine Tochter möchte heimlich im Ausland heiraten.
+
+- Seine Frau hat ohne sein Wissen ein Kind adoptiert.
+
+DK erfährt, dass sein außerehelicher Sohn bei ihm leben muss.
+
+Die Mutter des Jungen ist gestorben. Der Vater möchte Rahul aufnehmen, während seine Ehefrau in ihm die sichtbare Erinnerung an den Vertrauensbruch erkennt.
+
+Merksatz: Das schutzbedürftige Kind macht den alten Ehebruch gegenwärtig.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Masoom_(1983_film)).
+
+### M2 · mittel
+
+Welche Einrichtung leitet Naseeruddin Shahs Anirudh in „Sparsh“?
+
+- Eine psychiatrische Klinik
+
+- **Richtig: Eine Schule für blinde Kinder**
+
+- Ein Heim für kriegsversehrte Soldaten
+
+- Eine Ausbildungsstätte für gehörlose Jugendliche
+
+Anirudh ist Leiter einer Blindenschule.
+
+Er ist selbst blind und legt großen Wert auf Selbstständigkeit. Die Beziehung zu einer sehenden Lehrerin wird schwierig, sobald er Liebe mit Mitleid verwechselt.
+
+Merksatz: Anirudh will Unterstützung ohne Bevormundung.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Sparsh_(film)), [2](https://www.bfi.org.uk/film/24f2bb7c-8d37-596e-b2bb-57e4182d4e99/sparsh).
+
+### S1 · schwer
+
+Wodurch gerät Naseeruddin Shahs Vinod in „Jaane Bhi Do Yaaro“ auf die Spur eines Korruptionsskandals?
+
+- Durch Auftritte als politischer Kabarettist
+
+- Durch seine Tätigkeit als Bauingenieur
+
+- **Richtig: Durch Aufträge für sein Fotostudio**
+
+- Durch seine Arbeit als Gerichtsübersetzer
+
+Vinod entdeckt als Fotograf belastendes Material.
+
+Zwei erfolglose Fotografen stoßen bei ihren Aufträgen auf Verbindungen zwischen Bauwirtschaft, Stadtverwaltung und Presse. Die Satire lässt ihre Aufklärungsversuche in immer absurdere Situationen geraten.
+
+Merksatz: Die Kamera zeichnet mehr auf, als ihre Besitzer erwarten.
+
+Quellen: [1](https://www.nfdcindia.com/catalogue/NFDC%20-%20Feature%20Films%20Catalogue%202024.pdf).
+
+### S2 · schwer
+
+Welche gefährliche Arbeit übernimmt Naseeruddin Shahs Naurangia mit seiner schwangeren Frau in „Paar“, um Geld zu verdienen?
+
+- **Richtig: Sie treiben Schweine durch einen breiten Fluss.**
+
+- Sie transportieren Sprengstoff über einen Gebirgspass.
+
+- Sie verladen schwere Fracht auf ein Hochseeschiff.
+
+- Sie bergen Kohle aus einem eingestürzten Stollen.
+
+Das Paar treibt eine Schweineherde durch den Fluss.
+
+Nach der Flucht aus dem Dorf finden die beiden kaum Arbeit. Die lange Überquerung macht ihre wirtschaftliche Not körperlich erfahrbar und gefährdet auch das ungeborene Kind.
+
+Merksatz: Für den Rückweg müssen Menschen und Tiere dasselbe Wasser durchqueren.
+
+Quellen: [1](https://www.cinemaazi.com/film/paar), [2](https://quod.lib.umich.edu/j/jcms/images/18261332.0062.502.pdf).
+
+### E1 · experte
+
+Mit welchem Stück begann Naseeruddin Shahs Theatergruppe Motley ihre öffentliche Arbeit am Prithvi Theatre?
+
+- Endspiel
+
+- **Richtig: Warten auf Godot**
+
+- Rosenkranz und Güldenstern sind tot
+
+- Die kahle Sängerin
+
+Motley eröffnete mit Becketts „Warten auf Godot“.
+
+Shah und Benjamin Gilani wagten die erste Aufführung trotz heftigen Regens. Das kleine Ensemble entwickelte sich zu einer dauerhaften Grundlage ihrer Arbeit neben dem Film.
+
+Merksatz: Motleys Anfang gehört zu Beckett.
+
+Quellen: [1](https://indianexpress.com/article/news-archive/web/centre-stage-3/).
+
+### E2 · experte
+
+Worauf stützte Naseeruddin Shah nach eigener Aussage die körperliche Darstellung seiner blinden Figur in „Sparsh“?
+
+- Auf die Nachahmung früherer Filmfiguren
+
+- Auf ein einstudiertes System starrer Blickrichtungen
+
+- **Richtig: Auf Erinnerungen an blinde Angehörige und Studienfreunde**
+
+- Auf Bewegungsstudien von Pantomimen
+
+Er erinnerte sich an das Verhalten blinder Menschen aus seinem Umfeld.
+
+Im Interview nannte er seine Großmutter und Kommilitonen. Die beobachteten Bewegungen gaben ihm ein konkretes körperliches Wissen für die Rolle.
+
+Merksatz: Erinnerte Alltagsbewegungen wurden zum Ausgangspunkt der Darstellung.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/interviews/naseeruddin-shah-making-antidote-bollywood-poison).
+
+## Om Puri · Bekanntheitsgruppe 4
+
+![Om Puri (Undatiert)](Portraets/143.jpg)
+
+Bild: Undatiert; Bollywood Hungama. CC BY 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Om_Puri.jpg), [TMDB](https://www.themoviedb.org/person/11851).
+
+### L1 · leicht
+
+Welches Geschäft betreibt Om Puris George Khan in „East Is East“ mit seiner Familie?
+
+- Eine Autowerkstatt
+
+- Ein Textilgeschäft
+
+- Einen Lebensmittelladen
+
+- **Richtig: Einen Fisch-und-Chips-Imbiss**
+
+Die Familie betreibt einen Fisch-und-Chips-Imbiss.
+
+Der aus Pakistan stammende Vater und seine englische Frau Ella leben mit ihren Kindern in Salford. Zwischen seiner Vorstellung von Familienpflicht und den Wünschen der Kinder entstehen heftige Konflikte.
+
+Merksatz: Georges Familie arbeitet im britischen Imbiss.
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-great-films-about-south-asian-britain).
+
+### L2 · leicht
+
+Welches Unternehmen eröffnet Om Puris Papa Kadam in „Madame Mallory und der Duft von Curry“ in einem französischen Dorf?
+
+- Eine indische Kochschule
+
+- **Richtig: Ein indisches Restaurant**
+
+- Einen indischen Gewürzhandel
+
+- Ein indisches Feinkostgeschäft
+
+Papa Kadam eröffnet das Restaurant Maison Mumbai.
+
+Gegenüber liegt ein angesehenes französisches Restaurant. Aus der anfänglichen Konkurrenz entsteht eine Geschichte über Ehrgeiz, Geschmack und die Möglichkeit gegenseitigen Lernens.
+
+Merksatz: Maison Mumbai steht der französischen Spitzengastronomie gegenüber.
+
+Quellen: [1](https://amblin.com/movie/the-hundred-foot-journey/).
+
+### M1 · mittel
+
+Woran gerät Om Puris Polizist Anant Velankar in „Ardh Satya“ zunehmend in Verzweiflung?
+
+- An der erzwungenen Versetzung in ein abgelegenes Grenzgebiet
+
+- An einem verdeckten Einsatz gegen seine früheren Kollegen
+
+- An der falschen Beschuldigung, beschlagnahmtes Geld gestohlen zu haben
+
+- **Richtig: An der politischen Verflechtung von Polizei und Unterwelt**
+
+Anant scheitert an einem System politisch geschützter Kriminalität.
+
+Sein anfänglicher Idealismus trifft auf Vorgesetzte, die einflussreiche Täter schützen. Dabei verschärfen sich auch seine eigene Gewaltbereitschaft und sein Alkoholproblem.
+
+Merksatz: Der Ordnungshüter wird durch die Ordnung selbst beschädigt.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Ardh_Satya).
+
+### M2 · mittel
+
+Wie begegnet Om Puris angeklagter Arbeiter in „Aakrosh“ zunächst den Versuchen seines Anwalts, mit ihm zu sprechen?
+
+- **Richtig: Er bleibt fast vollständig stumm.**
+
+- Er beschuldigt öffentlich seinen Anwalt.
+
+- Er liefert wechselnde ausführliche Geständnisse.
+
+- Er fordert die Entlassung des Richters.
+
+Lahanya Bhiku verweigert nahezu jedes Gespräch.
+
+Der Mann aus einer unterdrückten Gemeinschaft steht wegen des Todes seiner Frau vor Gericht. Sein Schweigen ist Ausdruck einer Erfahrung von Gewalt und Aussichtslosigkeit, kein fehlendes sprachliches Vermögen.
+
+Merksatz: Das Schweigen zeigt die Grenzen des juristischen Gesprächs.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Aakrosh_(1980_film)), [2](https://www.bfi.org.uk/sight-and-sound/news/om-puri-obituary-indias-face-world).
+
+### S1 · schwer
+
+Welche Entwicklung seines Sohnes erschüttert Om Puris Parvez in „My Son the Fanatic“?
+
+- **Richtig: Er schließt sich einer radikalen islamistischen Gruppe an.**
+
+- Er tritt heimlich in die britische Armee ein.
+
+- Er wird Funktionär einer militanten Gewerkschaft.
+
+- Er verlässt die Familie für eine christliche Missionsschule.
+
+Farid wendet sich einem fundamentalistischen Islam zu.
+
+Der säkular lebende Taxifahrer erkennt seinen Sohn immer weniger wieder. Beide reagieren auf gesellschaftliche Ausgrenzung, finden aber gegensätzliche Antworten darauf.
+
+Merksatz: Der Sohn lehnt den Lebensweg seines Vaters ab.
+
+Quellen: [1](https://bfidatadigipres.github.io/pdf/2023-04-30-my-son-the-fanatic.pdf), [2](https://mediacommons.org/imr/2017/05/17/om-puri-diaspora-and-radicalization-father-losing-his-son).
+
+### S2 · schwer
+
+Weshalb sucht Om Puris Dukhi in Satyajit Rays „Sadgati“ den Brahmanen auf?
+
+- Er möchte die Aufnahme seines Sohnes in eine Schule erreichen.
+
+- Er will einen Streit um sein geerbtes Land schlichten lassen.
+
+- **Richtig: Er braucht einen günstigen Hochzeitstermin für seine Tochter.**
+
+- Er möchte eine Pilgerreise für seine Mutter vorbereiten.
+
+Dukhi braucht die Festlegung eines günstigen Hochzeitstermins.
+
+Der Priester verlangt dafür immer neue körperliche Arbeiten. Aus der Bitte des armen Dalit entsteht eine tödliche Ausbeutung, die religiöse Autorität und Kastenhierarchie miteinander verbindet.
+
+Merksatz: Eine Hochzeitsbitte führt in unbezahlte Schwerstarbeit.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Sadgati).
+
+### E1 · experte
+
+Welche Arbeitsweise im kommerziellen Hindi-Kino erschwerte Om Puri laut seinem Fresh-Air-Interview die Kontinuität einer Rolle?
+
+- Häufige Änderungen der Rollenbesetzung
+
+- Ständige Wiederholung bereits abgeschlossener Szenen
+
+- **Richtig: Lange Pausen zwischen den Drehblöcken**
+
+- Regelmäßiger Wechsel der Aufnahmesprache
+
+Er beschrieb im kommerziellen Hindi-Kino oft lange Pausen zwischen Drehblöcken.
+
+Bei seinen westlichen Arbeiten erlebte er eher zusammenhängende Dreharbeiten. Die Unterbrechungen konnten dagegen die körperliche und spielerische Kontinuität einer Rolle erschweren.
+
+Merksatz: Lange Drehpausen verlangen, eine Figur immer wieder aufzunehmen.
+
+Quellen: [1](https://freshairarchive.org/segments/actor-om-puri-0).
+
+### E2 · experte
+
+Was hebt Naseeruddin Shah an Om Puris unsichtbarem Auftritt während eines Telefongesprächs in „Ardh Satya“ hervor?
+
+- Eine stimmlich vermittelte militärische Befehlsgewalt
+
+- **Richtig: Eine stimmlich vermittelte Trunkenheit und innere Zerrüttung**
+
+- Eine stimmlich vermittelte sachliche Selbstbeherrschung
+
+- Eine stimmlich vermittelte heimliche Siegesfreude
+
+Die Stimme allein vermittelt den Zustand des betrunkenen Polizisten.
+
+Shah erinnerte sich, die Figur auch ohne sichtbares Gesicht genau zu verstehen. Puri habe dafür keinen Alkohol getrunken; die Wirkung entstand durch seine Darstellung.
+
+Merksatz: Auch ohne Bild bleibt der Zustand der Figur hörbar.
+
+Quellen: [1](https://www.bollywoodhungama.com/news/features/cant-believe-om-puri-gone-naseeruddin-shah/).
+
+## Irrfan Khan · Bekanntheitsgruppe 4
+
+![Irrfan Khan (2012)](Portraets/144.jpg)
+
+Bild: 2012; Bollywood Hungama. CC BY 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Irrfan_Khan_2012.jpg), [TMDB](https://www.themoviedb.org/person/76793).
+
+### L1 · leicht
+
+Welche Aufgabe hat Irrfan Khans Figur gegenüber Jamal in „Slumdog Millionär“?
+
+- Er verteidigt ihn als Anwalt.
+
+- **Richtig: Er vernimmt ihn als Polizist.**
+
+- Er betreut ihn als Sozialarbeiter.
+
+- Er moderiert die Quizsendung.
+
+Khan spielt den vernehmenden Polizeiinspektor.
+
+Jamal muss erklären, wie er die Quizantworten wissen konnte. Das Verhör bildet den Rahmen, in dem sich seine Lebensgeschichte Stück für Stück entfaltet.
+
+Merksatz: Der Inspektor hört die Lebensgeschichte hinter den Antworten.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Slumdog_Millionaire).
+
+### L2 · leicht
+
+Welche Stellung hat Irrfan Khans Simon Masrani in „Jurassic World“?
+
+- Er ist der Chef der Sicherheitskräfte.
+
+- Er ist der Leiter der Tierpfleger.
+
+- **Richtig: Er ist der Eigentümer des Parks.**
+
+- Er ist der leitende Dinosaurierforscher.
+
+Masrani ist Eigentümer von Jurassic World.
+
+Der Unternehmer vertraut auf die Faszination einer neuen Attraktion. Als das künstlich geschaffene Raubtier entkommt, geraten wirtschaftliche Interessen und Sicherheitsversprechen in Konflikt.
+
+Merksatz: Masrani besitzt den Park, dessen Risiken er unterschätzt.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Jurassic_World).
+
+### M1 · mittel
+
+Wen spielt Irrfan Khan innerhalb der Rahmenhandlung von „Life of Pi: Schiffbruch mit Tiger“?
+
+- **Richtig: Den erwachsenen Pi, der seine Geschichte erzählt**
+
+- Pis Vater, der den Tiertransport organisiert
+
+- Den Schriftsteller, der Pis Geschichte aufzeichnet
+
+- Einen Versicherungsprüfer nach dem Schiffbruch
+
+Khan verkörpert den erwachsenen Pi.
+
+Suraj Sharma spielt den Jugendlichen auf dem Meer. Khans ruhige Erzählerfigur führt dagegen in die Erinnerung hinein und stellt die Deutung des Erzählten zur Diskussion.
+
+Merksatz: Sharma erlebt die Fahrt, Khan erzählt von ihr.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Life_of_Pi_(film)).
+
+### M2 · mittel
+
+Welche berufliche Veränderung steht Irrfan Khans Saajan in „Lunchbox“ bevor?
+
+- Die Übernahme einer eigenen Firma
+
+- **Richtig: Der Eintritt in den Ruhestand**
+
+- Die Beförderung zum Abteilungsleiter
+
+- Die Versetzung nach Delhi
+
+Saajan steht kurz vor seiner Pensionierung.
+
+Der Abschied vom Arbeitsplatz verstärkt seine Einsamkeit. Die unerwarteten Nachrichten einer fremden Frau erreichen ihn deshalb in einer Phase, in der seine Zukunft bereits abgeschlossen scheint.
+
+Merksatz: Die Briefe treffen Saajan kurz vor dem Ruhestand.
+
+Gemeinsames Wissensziel: K-F240-20261006-056-M1 (F240-20261006-056-M1).
+
+Quellen: [1](https://www.sonyclassics.com/thelunchbox/home/).
+
+### S1 · schwer
+
+Nach welchem Schriftsteller benennt Irrfan Khans Ashoke in „Namesake – Zwei Welten, eine Reise“ seinen Sohn?
+
+- **Richtig: Nikolai Gogol**
+
+- Leo Tolstoi
+
+- Anton Tschechow
+
+- Iwan Turgenjew
+
+Der Sohn erhält den Namen des russischen Schriftstellers Nikolai Gogol.
+
+Für Ashoke verbindet sich der Name mit einem überlebten Zugunglück. Sein amerikanisch aufgewachsener Sohn empfindet ihn zunächst als Last und versteht die persönliche Geschichte dahinter erst später.
+
+Merksatz: Ein ungeliebter Vorname bewahrt die Erinnerung des Vaters.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Namesake_(film)).
+
+### S2 · schwer
+
+Welche Shakespeare-Figur entspricht Irrfan Khans Hauptrolle in „Maqbool“?
+
+- König Lear
+
+- Hamlet
+
+- Othello
+
+- **Richtig: Macbeth**
+
+Maqbool entspricht Macbeth.
+
+Die Geschichte verlegt den Machtkampf in die Unterwelt von Mumbai. Khans Gefolgsmann ermordet seinen Förderer und wird danach von Schuld und Bedrohung verfolgt.
+
+Merksatz: Macbeths Ehrgeiz lebt in Mumbais Unterwelt weiter.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Maqbool), [2](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/all-voters/shubhra-gupta).
+
+### E1 · experte
+
+Wie unterstützte Irrfan Khan „Lunchbox“ nach eigener Aussage zusätzlich zu seiner Hauptrolle?
+
+- Er unterstützte die Auswahl weiterer Darsteller.
+
+- Er betreute Dialogfassungen für weitere Sprachregionen.
+
+- **Richtig: Er half, die fehlende Finanzierung aufzubringen.**
+
+- Er leitete Proben mit den Nebendarstellern.
+
+Khan beteiligte sich an der Beschaffung des Budgets.
+
+Ihn überzeugte die emotionale Welt des Projekts. Sein Engagement trug dazu bei, dass Ritesh Batras erster Langfilm realisiert werden konnte.
+
+Merksatz: Der Hauptdarsteller half auch, den Film möglich zu machen.
+
+Quellen: [1](https://www.sbs.com.au/whats-on/article/irrfan-khan-opens-up-about-the-lunchbox-love-letters-and-his-favourite-foods-interview/bntmbh8q0), [2](https://www.sonyclassics.com/downloads/TheLunchbox-Release.pdf).
+
+### E2 · experte
+
+Welches persönliche Vorbild nutzte Irrfan Khan nach eigener Aussage für Saajan in „Lunchbox“?
+
+- Einen Nachbarn, einen Versicherungsangestellten in Delhi
+
+- Seinen Großvater, einen Verwaltungsbeamten in Jaipur
+
+- Seinen früheren Schullehrer, einen pensionierten Rektor
+
+- **Richtig: Seinen Onkel, einen Büroangestellten in Bombay**
+
+Saajan erhielt Züge von Khans Onkel, einem Büroangestellten.
+
+Khan erinnerte sich an dessen frühen Aufbruch und den langen Arbeitsweg mit Bus und Bahn. Solche beobachteten Alltagsabläufe halfen ihm, die ältere Figur körperlich und innerlich zu entwickeln.
+
+Merksatz: Der Onkel auf dem Weg ins Büro wurde zu einem Vorbild für Saajan.
+
+Quellen: [1](https://www.sbs.com.au/whats-on/article/irrfan-khan-opens-up-about-the-lunchbox-love-letters-and-his-favourite-foods-interview/bntmbh8q0).
+
+## Kamal Haasan · Bekanntheitsgruppe 4
+
+![Kamal Haasan (2011)](Portraets/145.jpg)
+
+Bild: 2011; Bollywood Hungama. CC BY 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Kamal_Haasan_FICCI_event.jpg), [TMDB](https://www.themoviedb.org/person/93193).
+
+### L1 · leicht
+
+Was zeichnet Kamal Haasans Film „Pushpak“ auf der Tonebene aus?
+
+- **Richtig: Er verzichtet auf gesprochene Dialoge**
+
+- Die Figuren singen ihre Gespräche
+
+- Er verwendet ausschließlich eine Erzählerstimme
+
+- Alle Dialoge stammen aus Radiogeräten
+
+Der Film erzählt ohne gesprochene Dialoge.
+
+Musik und Geräusche bleiben hörbar. Haasan spielt einen arbeitslosen jungen Mann, dessen Begegnung mit einer wohlhabenden jungen Frau in eine schwarze Komödie führt; die Verständigung zwischen den Figuren muss durch Verhalten und Bilder funktionieren.
+
+Merksatz: Keine Dialoge, aber Musik und Geräusche.
+
+Quellen: [1](https://iffr.com/en/iffr/2001/films/pushpak).
+
+### L2 · leicht
+
+Zu welcher gesellschaftlichen Macht steigt Kamal Haasans Velu in „Nayakan“ auf?
+
+- Zum Polizeichef
+
+- Zum Oberhaupt einer religiösen Gemeinschaft
+
+- **Richtig: Zum Unterweltboss**
+
+- Zum Führer einer Gewerkschaft
+
+Velu wird ein Unterweltboss.
+
+Mani Ratnam verbindet die Geschichte einer Familie mit Gewalt und Macht in Bombay. Die Figur ist lose vom realen Unterweltmann Varadarajan Mudaliar angeregt; Haasans Darstellung begleitet Velu über verschiedene Lebensphasen.
+
+Merksatz: Velus Aufstieg führt in die Unterwelt Bombays.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/all-voters/ashanti-omkar).
+
+### M1 · mittel
+
+In welchem Hindi-Remake spielte Kamal Haasan erneut an Sridevis Seite die Geschichte aus „Moondram Pirai“?
+
+- Saagar
+
+- **Richtig: Sadma**
+
+- Sanam Teri Kasam
+
+- Ek Duuje Ke Liye
+
+Das Hindi-Remake heißt „Sadma“.
+
+Balu Mahendras Geschichte handelt von einer Frau mit rückwärtsgerichtetem Gedächtnisverlust. Haasan und Sridevi übernahmen ihre Zusammenarbeit in die Hindi-Fassung; der Wechsel der Sprache bedeutet hier eine neue Filmfassung derselben Grundgeschichte.
+
+Merksatz: „Moondram Pirai“ wurde mit Haasan und Sridevi zu „Sadma“.
+
+Quellen: [1](https://nfai.nfdcindia.com/event-archive.php?id=MzA%3D).
+
+### M2 · mittel
+
+Gegen wen richtet sich zunächst der politische Racheplan von Kamal Haasans Saket Ram in „Hey Ram“?
+
+- Gegen Muhammad Ali Jinnah
+
+- **Richtig: Gegen Mahatma Gandhi**
+
+- Gegen Jawaharlal Nehru
+
+- Gegen Subhas Chandra Bose
+
+Saket Ram schließt sich einer Gruppe gegen Gandhi an.
+
+Nach der Ermordung seiner Frau macht er Gandhis Gewaltlosigkeit für sein Unglück verantwortlich. Haasan zeigt den Weg eines zunächst unpolitischen Mannes in religiösen Extremismus und schließlich zu Reue und Selbsterkenntnis.
+
+Merksatz: Saket Rams Rache richtet sich zunächst gegen Gandhis Gewaltlosigkeit.
+
+Quellen: [1](https://iffr.com/en/iffr/2001/films/hey-ram).
+
+### S1 · schwer
+
+Welche Entscheidung trifft Kamal Haasans aus London zurückgekehrter Shakthi nach dem Tod seines Vaters in „Thevar Magan“?
+
+- Er trennt sich von der Familie und geht ins Kloster
+
+- Er verkauft das Familienland und kehrt nach London zurück
+
+- **Richtig: Er bleibt im Dorf und heiratet eine Frau aus der Umgebung**
+
+- Er übernimmt eine Restaurantkette in der Großstadt
+
+Shakthi entscheidet sich, im Dorf zu bleiben.
+
+Zunächst möchte er mit seiner modernen Freundin ein anderes Leben führen und in der Stadt unternehmerisch tätig werden. Nach dem Zusammenbruch der Familie bindet ihn der Tod seines Vaters an die Verantwortung und Traditionen seiner Herkunft.
+
+Merksatz: Der geplante Aufbruch endet in der Verantwortung für das Dorf.
+
+Quellen: [1](https://iffr.com/en/iffr/2001/films/thevars-son).
+
+### S2 · schwer
+
+Welche Frage untersucht die Menschenrechtsforscherin bei ihren Gesprächen mit Kamal Haasans Titelfigur in „Virumaandi“?
+
+- Die Bezahlung von Gefängnisarbeit
+
+- Die politische Zulassung von Gefangenen als Kandidaten
+
+- Die Wiedergutmachung von Grundstücksbetrug
+
+- **Richtig: Die Abschaffung der Todesstrafe**
+
+Ihre Untersuchung richtet sich gegen die Todesstrafe.
+
+Angela befragt zwei zum Tod verurteilte Männer, die einander erbittert bekämpfen. Die Gespräche im Gefängnis führen in eine Geschichte von Gewalt, Schuld und einem Aufstand, durch den auch die unmittelbare Gegenwart der Untersuchung gefährlich wird.
+
+Merksatz: Die Gefängnisgespräche stehen im Zeichen der Todesstrafe.
+
+Quellen: [1](https://iffr.com/en/iffr/2004/films/virumaandi).
+
+### E1 · experte
+
+Welche Organisation unterstützt Kamal Haasan als Berater bei der Bewahrung des Filmerbes?
+
+- Central Board of Film Certification
+
+- Film and Television Institute of India
+
+- National Film Archive of India
+
+- **Richtig: Film Heritage Foundation**
+
+Er gehört zu den Beratern der Film Heritage Foundation.
+
+Die Stiftung organisiert unter anderem Fortbildungen zur Konservierung und Restaurierung. Haasan warb für die Teilnahme an ihrem Workshop in Kerala und verbindet damit seine praktische Filmarbeit mit dem Erhalt älterer Werke und Materialien.
+
+Merksatz: Haasan berät die Film Heritage Foundation.
+
+Quellen: [1](https://filmheritagefoundation.co.in/film-preservation-restoration-workshop-india-2024/), [2](https://cdn.festival-cannes.com/media/uploads/2023/05/158900.pdf).
+
+### E2 · experte
+
+Welche musikalische Arbeit übernahm Kamal Haasan bei „Virumaandi“ zusätzlich zu Schauspiel, Drehbuch und Regie?
+
+- **Richtig: Er schrieb Liedtexte und sang selbst**
+
+- Er spielte die Klavierpassagen des Soundtracks
+
+- Er komponierte die Filmmusik
+
+- Er leitete das Studioorchester
+
+Haasan schrieb Liedtexte und sang seine Lieder selbst.
+
+Seine Arbeit an dem Film reichte auch in die Tanzgestaltung hinein. Der Rotterdam-Katalog nennt neben Schreiben, Produzieren und Inszenieren ausdrücklich Liedtexte, Gesang und die Choreografie einzelner Tänze als Beiträge Haasans.
+
+Merksatz: Haasan gestaltete „Virumaandi“ auch mit Liedtexten und Gesang.
+
+Quellen: [1](https://iffr.com/en/iffr/2004/films/virumaandi).
+
+## Mammootty · Bekanntheitsgruppe 4
+
+![Mammootty (2008)](Portraets/146.jpg)
+
+Bild: 2008; Malluguy2008. CC BY 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Mammootty.jpg), [TMDB](https://www.themoviedb.org/person/124111).
+
+### L1 · leicht
+
+Welchen Schriftsteller verkörpert Mammootty in Adoor Gopalakrishnans „Mathilukal“?
+
+- Thakazhi Sivasankara Pillai
+
+- S. K. Pottekkatt
+
+- M. T. Vasudevan Nair
+
+- **Richtig: Vaikom Muhammad Basheer**
+
+Er spielt Vaikom Muhammad Basheer.
+
+Der Film geht auf Basheers autobiografischen Text zurück und folgt seinem Leben als Gefangener. Mammootty spielt hier keine frei erfundene Heldenfigur, sondern den Schriftsteller innerhalb einer Erfahrung, die dieser selbst literarisch verarbeitet hat.
+
+Merksatz: Mammoottys Gefangener ist der Schriftsteller Basheer.
+
+Quellen: [1](https://adoorgopalakrishnan.com/mathilukal/).
+
+### L2 · leicht
+
+Welche Stellung hat Mammoottys Devaraj in Mani Ratnams „Thalapathi“?
+
+- **Richtig: Er ist ein örtlicher Gangführer**
+
+- Er ist Distrikt-Steuerbeamter
+
+- Er ist Polizeikommissar
+
+- Er ist Vorsitzender einer Bauernkooperative
+
+Devaraj führt eine örtliche Bande.
+
+Er verbündet sich mit Surya (Rajinikanth), der gegen die Unterdrückung armer Menschen kämpft. Beide greifen zu Gewalt, doch Devaraj handelt pragmatischer; ihre Freundschaft nimmt Motive von Karna und Duryodhana aus dem Mahabharata auf.
+
+Merksatz: Devaraj ist Suryas Partner aus der örtlichen Unterwelt.
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-great-indian-action-films).
+
+### M1 · mittel
+
+Wie begegnet das Publikum der Frau, in die sich Mammoottys Basheer in „Mathilukal“ verliebt?
+
+- Es sieht sie in Basheers Träumen
+
+- Es liest ihre Briefe in Zwischentiteln
+
+- Es sieht sie in stummen Rückblenden
+
+- **Richtig: Es hört ihre Stimme, ohne sie zu sehen**
+
+Narayani bleibt unsichtbar und ist durch ihre Stimme präsent.
+
+Die Liebe entsteht zwischen getrennten Bereichen des Gefängnisses. K. P. A. C. Lalitha gibt Narayani ihre Stimme; Mammoottys Reaktionen auf eine nicht sichtbare Partnerin tragen deshalb einen wesentlichen Teil der Beziehung.
+
+Merksatz: Basheers Geliebte ist eine Stimme jenseits der Trennung.
+
+Quellen: [1](https://adoorgopalakrishnan.com/mathilukal/).
+
+### M2 · mittel
+
+Was geschieht mit Mammoottys Reisendem James in „Nanpakal Nerathu Mayakkam“, nachdem er in einem tamilischen Dorf aus dem Bus steigt?
+
+- **Richtig: Er verhält sich wie der dortige Bewohner Sundaram**
+
+- Er verliert jede Fähigkeit zu sprechen
+
+- Er behauptet, dort als Polizist zu ermitteln
+
+- Er erkennt dort seine verschollene Mutter wieder
+
+James spricht und handelt plötzlich wie Sundaram.
+
+Die Reisegruppe ist auf dem Rückweg nach Kerala. James’ Wechsel zu einer tamilischen Lebenswelt verwirrt sowohl seine Begleiter als auch die Dorfbewohner; der Film hält die Erfahrung zwischen Traum, Täuschung und einer anderen Identität offen.
+
+Merksatz: James betritt das Dorf und lebt plötzlich als Sundaram.
+
+Quellen: [1](https://www.iffk.in/getarchives?festid=28).
+
+### S1 · schwer
+
+Aus welchen Perspektiven wird Mammoottys Figur in „Kutty Srank“ erzählt?
+
+- Aus den Tagebüchern dreier Brüder
+
+- **Richtig: Aus den Erinnerungen dreier Frauen**
+
+- Aus den Aussagen dreier Passagiere
+
+- Aus den Berichten dreier Polizeibeamter
+
+Drei Frauen erzählen von dem Bootsführer.
+
+Die Frauen kennen unterschiedliche Seiten seines Lebens. Statt eine einzige verlässliche Lebensgeschichte zu liefern, setzt Shaji N. Karun Mammoottys Figur aus den Beziehungen und Erinnerungen dieser Erzählerinnen zusammen.
+
+Merksatz: Drei Frauen erschließen drei Seiten von Kutty Srank.
+
+Quellen: [1](https://www.iffk.in/filmdetail/MTQ5MTkyMzY4LjE2).
+
+### S2 · schwer
+
+Welche Schauspieldebütantin besetzte Regisseur Ram in „Peranbu“ an der Seite von Mammootty?
+
+- Aishwarya Rajesh
+
+- **Richtig: Anjali Ameer**
+
+- Parvathy Thiruvothu
+
+- Sai Pallavi
+
+Anjali Ameer gab mit „Peranbu“ ihr Schauspieldebüt.
+
+Ram verband einen der erfahrensten Stars des südindischen Kinos mit einer transgeschlechtlichen Newcomerin. Der Rotterdam-Katalog hebt diesen Unterschied der Erfahrung ausdrücklich hervor; der Film wurde dort erstmals öffentlich gezeigt.
+
+Merksatz: „Peranbu“ verbindet Mammootty mit Debütantin Anjali Ameer.
+
+Quellen: [1](https://iffr.com/en/iffr/2018/films/resurrection).
+
+### E1 · experte
+
+Welche zusätzliche Verantwortung übernahm Mammootty bei „Kaathal – The Core“ über die Hauptrolle hinaus?
+
+- Das Drehbuch
+
+- Die Regie
+
+- **Richtig: Die Produktion über seine eigene Firma**
+
+- Den Filmschnitt
+
+Seine Firma Mammootty Kampany produzierte den Film.
+
+Jeo Baby führte Regie, während Adarsh Sukumaran und Paulson Skaria das Drehbuch schrieben. Mammoottys Beteiligung verknüpfte damit seine Schauspielarbeit mit der Entscheidung, welche Geschichte seine Produktionsfirma auf die Leinwand bringen sollte.
+
+Merksatz: Mammootty stand bei „Kaathal“ auch auf der Produktionsseite.
+
+Quellen: [1](https://www.youtube.com/watch?v=uc0kllY_Rgo), [2](https://iffk.in/filmdetail/OTcxODUxNjkuNA%3D%3D).
+
+### E2 · experte
+
+Für welchen Film erhielt Mammootty bei den 72. National Film Awards 2026 gemeinsam mit Kartik Aaryan den Hauptdarstellerpreis?
+
+- Kaathal – The Core
+
+- Turbo
+
+- **Richtig: Bramayugam**
+
+- Kannur Squad
+
+Mammootty wurde für „Bramayugam“ ausgezeichnet.
+
+Die Auszeichnung wurde geteilt: Mammoottys Leistung stand neben Kartik Aaryans Auftritt in „Chandu Champion“. Die offizielle Verleihungsmitteilung führt beide ausdrücklich als Gewinner der Kategorie „Actor in a Leading Role“.
+
+Merksatz: Mammoottys geteilter National Award 2026 gehört zu „Bramayugam“.
+
+Quellen: [1](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313647&lang=2&reg=48).
+
+## Mohanlal · Bekanntheitsgruppe 4
+
+![Mohanlal (2010)](Portraets/147.jpg)
+
+Bild: 2010; SidhardhRamesh. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Dr._Mohanlal.JPG), [TMDB](https://www.themoviedb.org/person/82732).
+
+### L1 · leicht
+
+Welche darstellende Kunst übt Mohanlals Kunhikuttan in „Vanaprastham“ aus?
+
+- Bharatanatyam
+
+- Kathak
+
+- **Richtig: Kathakali**
+
+- Kuchipudi
+
+Kunhikuttan ist Kathakali-Künstler.
+
+Diese Kunst aus Kerala verbindet Tanz, Pantomime und Theater. Der Film begleitet Kunhikuttans mühsame Ausbildung und seinen Aufstieg als Darsteller, während seine gesellschaftliche Stellung und sein Privatleben schwierig bleiben.
+
+Merksatz: Kunhikuttan gestaltet Kathakali-Rollen.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/vanaprastham/).
+
+### L2 · leicht
+
+Womit verdient Mohanlals Georgekutty im ursprünglichen „Drishyam“ seinen Lebensunterhalt?
+
+- **Richtig: Mit einem Kabelfernsehbetrieb**
+
+- Mit einer Autowerkstatt
+
+- Mit einem Fotostudio
+
+- Mit einem kleinen Restaurant
+
+Georgekutty betreibt Kabelfernsehen.
+
+Er lebt mit seiner Frau und zwei Töchtern in einem Dorf und liebt Filme. Als ein Todesfall die Familie bedroht, nutzt er sein aus dem Kino erworbenes Wissen, um eine Geschichte zu konstruieren, die den Ermittlern standhalten soll.
+
+Merksatz: Der Kabelfernsehbetreiber nutzt sein Filmwissen zum Schutz der Familie.
+
+Quellen: [1](https://aashirvadcinemas.com/movies/drishyam).
+
+### M1 · mittel
+
+Worin liegt die schmerzhafte Verwechslung von Subhadras Liebe zu Mohanlals Künstler in „Vanaprastham“?
+
+- Sie glaubt, er sei ein verkleideter Angehöriger ihrer Familie
+
+- **Richtig: Sie liebt seine Bühnenfigur stärker als den Menschen dahinter**
+
+- Sie hält ihn für den unbekannten Vater ihres Kindes
+
+- Sie verwechselt ihn mit seinem verstorbenen Bruder
+
+Subhadra liebt den auf der Bühne dargestellten Helden statt Kunhikuttan als Person.
+
+Die aristokratische Subhadra (Suhasini) ist vom mythischen Arjuna besessen. Die Beziehung zum Darsteller überbrückt die Grenze zwischen Kunst und Leben deshalb nicht: Was sie in ihm sucht, gehört zur Rolle, nicht zu seiner alltäglichen Existenz.
+
+Merksatz: Kunhikuttan wird als Arjuna geliebt, nicht als er selbst.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/vanaprastham/), [2](https://iffk.in/index.php/filmdetail/MTQ4NjY3MDQyLjky).
+
+### M2 · mittel
+
+Welcher berufliche Wunsch von Mohanlals Sethu und dessen Vater wird in „Kireedam“ durch die Spirale der Gewalt zerstört?
+
+- Der Eintritt in die Handelsmarine
+
+- Eine Ausbildung zum Lehrer
+
+- Die Übernahme eines Familiengeschäfts
+
+- **Richtig: Eine Laufbahn als Polizist**
+
+Sethu soll Polizist werden.
+
+Der pflichtbewusste Sohn greift gegen einen örtlichen Gewalttäter ein. Was als mutige Hilfe beginnt, macht ihn selbst zum stigmatisierten Schläger und zwingt ihn in weitere Konfrontationen; dadurch zerbrechen sowohl seine Zukunftspläne als auch das Vertrauen des Vaters.
+
+Merksatz: Sethus Weg zur Polizei endet in der aufgezwungenen Rolle des Gewalttäters.
+
+Quellen: [1](https://filmguide.iffigoa.org/detail/?id=6754).
+
+### S1 · schwer
+
+Von welchem Schauspieler und Politiker ist Mohanlals Anandan in „Iruvar“ lose angeregt?
+
+- Sivaji Ganesan
+
+- M. Karunanidhi
+
+- N. T. Rama Rao
+
+- **Richtig: M. G. Ramachandran**
+
+Die Figur ist an M. G. Ramachandran angelehnt.
+
+Mohanlal erklärte selbst, die Darstellung des tamilischen Stars sei eine besondere Herausforderung gewesen. Die Figur trägt im Film einen eigenen Namen; die Anlehnung macht „Iruvar“ deshalb nicht zu einer wörtlichen Rekonstruktion sämtlicher historischer Ereignisse.
+
+Merksatz: Anandan nimmt Züge von M. G. Ramachandran auf.
+
+Quellen: [1](https://m.rediff.com/movies/2003/sep/03sda3.htm), [2](https://www.thecompleteactor.com/).
+
+### S2 · schwer
+
+Warum verschweigt Mohanlals Gopinathan in „Bharatham“ zunächst den Tod seines Bruders?
+
+- Er fürchtet eine Anklage wegen des Todesfalls
+
+- Er will dessen Erbschaft allein übernehmen
+
+- **Richtig: Er will die bevorstehende Hochzeit seiner Schwester ermöglichen**
+
+- Er muss dessen letzten Auftritt geheim nachspielen
+
+Er möchte die Hochzeit seiner Schwester nicht gefährden.
+
+Der gefeierte Sänger Ramanathan (Nedumudi Venu) verschwindet kurz vor der Feier. Gopinathan weiß, dass er gestorben ist, während die Familie an eine Pilgerreise glaubt. Nach der Hochzeit wird ihm sein Schweigen als Schuld ausgelegt.
+
+Merksatz: Gopinathan bewahrt das Hochzeitsglück auf Kosten seiner eigenen Trauer.
+
+Quellen: [1](https://nfaindia.org/images/pdf/39th%20National%20Film%20Award%20Catalogue.pdf).
+
+### E1 · experte
+
+Wer inszenierte das Sanskritstück „Karnabharam“, in dem Mohanlal 2001 in Neu-Delhi Karna spielte?
+
+- Girish Karnad
+
+- **Richtig: Kavalam Narayana Panicker**
+
+- Ratan Thiyam
+
+- B. V. Karanth
+
+Kavalam Narayana Panicker gestaltete und inszenierte die Aufführung.
+
+Das Stück von Bhasa behandelt Karnas innere Qual vor der Schlacht von Kurukshetra. Mohanlal veröffentlichte den Bühnenmitschnitt später selbst als Hommage an den Regisseur; die Aufführung führt seine Arbeit über das Kino hinaus in die klassische Theatertradition.
+
+Merksatz: Mohanlals Karna entstand in Panickers Bühneninszenierung.
+
+Quellen: [1](https://www.youtube.com/watch?v=zOeiv8wnZRs).
+
+### E2 · experte
+
+Welche zusätzliche Funktion hatte Mohanlal bei „Vanaprastham“ außer der Hauptrolle?
+
+- **Richtig: Mitproduzent**
+
+- Kameramann
+
+- Drehbuchautor
+
+- Regisseur
+
+Er war auch Mitproduzent.
+
+Das offizielle Festivalprogramm nennt ihn gemeinsam mit Pierre Assouline auf der Produktionsseite. Der indisch-französische Film verbindet damit Mohanlals intensive Darstellerarbeit mit seinem wirtschaftlichen Einsatz für das Projekt.
+
+Merksatz: Mohanlal spielte und produzierte „Vanaprastham“.
+
+Quellen: [1](https://iffk.in/index.php/filmdetail/MTQ4NjY3MDQyLjky).
+
+## Tony Leung Chiu-wai · Bekanntheitsgruppe 4
+
+![Tony Leung Chiu-wai (2013)](Portraets/148.jpg)
+
+Bild: 2013; Siebbi. CC BY 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Tony_Leung_Chiu_Wai_(Berlin_Film_Festival_2013)_2_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/1337).
+
+### L1 · leicht
+
+Welchen Beruf hat Tony Leung Chiu-wais Chow Mo-wan in „In the Mood for Love“?
+
+- Hotelmanager
+
+- Architekt
+
+- **Richtig: Journalist**
+
+- Rechtsanwalt
+
+Chow Mo-wan ist Journalist.
+
+Er mietet ein Zimmer neben Su Li-zhen (Maggie Cheung), einer Sekretärin. Die beruflich häufig abwesenden Ehepartner beider Figuren werden zum Anlass für die wachsende Nähe zwischen den Nachbarn.
+
+Merksatz: Chow schreibt als Journalist; Su arbeitet als Sekretärin.
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-great-films-set-hong-kong).
+
+### L2 · leicht
+
+Für welche Seite arbeitet Tony Leung Chiu-wais Chan Wing-yan in „Infernal Affairs“ heimlich?
+
+- Für den Geheimdienst innerhalb des Zolls
+
+- Für den Zoll innerhalb der Polizei
+
+- Für eine rivalisierende Triade
+
+- **Richtig: Für die Polizei innerhalb einer Triade**
+
+Chan ist ein in die Triade eingeschleuster Polizist.
+
+Ihm steht Lau Kin-ming (Andy Lau) gegenüber, der für die Unterwelt in der Polizei arbeitet. Die beiden entgegengesetzten Tarnexistenzen machen die Suche nach dem jeweiligen Informanten zu einem Kampf um die eigene Identität.
+
+Merksatz: Chan ist Polizist unter Gangstern.
+
+Gemeinsames Wissensziel: K-F240-20261006-139-L1 (F240-20261006-139-L1).
+
+Quellen: [1](https://www.criterion.com/films/32453-infernal-affairs).
+
+### M1 · mittel
+
+Mit welchem Gegenstand führt Tony Leung Chiu-wais einsamer Polizist in „Chungking Express“ ein Gespräch?
+
+- Mit einem goldenen Feuerzeug
+
+- **Richtig: Mit einem Stück Seife**
+
+- Mit einer Ananasdose
+
+- Mit einem kaputten Radio
+
+Er spricht mit einem Stück Seife.
+
+Nach der Trennung von seiner Freundin behandelt Polizist 663 die Dinge seiner Wohnung wie fühlende Gegenüber. Während er in diesen Selbstgesprächen versinkt, verändert Faye (Faye Wong) heimlich seine Umgebung, ohne dass er den Grund bemerkt.
+
+Merksatz: Polizist 663 spricht seinen Kummer mit der Seife durch.
+
+Quellen: [1](https://www.criterion.com/current/posts/766-chungking-express-electric-youth).
+
+### M2 · mittel
+
+Welchen Tanz tanzen Tony Leung Chiu-wai und Leslie Cheung in der gemeinsamen Küche von „Happy Together“?
+
+- Rumba
+
+- Walzer
+
+- Foxtrott
+
+- **Richtig: Tango**
+
+Sie tanzen Tango.
+
+Die Figuren Lai Yiu-fai und Ho Po-wing leben während ihrer zerrütteten Beziehung in Argentinien. Der kurze gemeinsame Tanz hält körperliche Nähe und Freude fest, die mit ihren wiederkehrenden Trennungen und Verletzungen im Widerstreit stehen.
+
+Merksatz: Die Küchenbegegnung findet ihre Nähe im Tango.
+
+Quellen: [1](https://www.criterion.com/current/posts/7448-the-stars-in-wong-kar-wais-universe), [2](https://www.criterion.com/films/28843-happy-together).
+
+### S1 · schwer
+
+Welche Einschränkung prägt Tony Leung Chiu-wais Wenqing in „A City of Sadness“?
+
+- **Richtig: Er kann weder hören noch sprechen**
+
+- Er ist erblindet
+
+- Er ist vom Hals abwärts gelähmt
+
+- Er hat sein Gedächtnis verloren
+
+Wenqing ist gehörlos und spricht nicht.
+
+Hou Hsiao-hsien verfolgt die Familie Lin nach dem Ende der japanischen Herrschaft über Taiwan. Wenqings eingeschränkte mündliche Verständigung steht in einer Erzählung über politische Gewalt, in der auch das öffentliche Sprechen lange unterdrückt war.
+
+Merksatz: Wenqing nimmt die Umbrüche ohne Hören und Sprechen wahr.
+
+Quellen: [1](https://www.bfi.org.uk/film/989a6349-4d1c-54da-8ea1-0abd2a558d8a/a-city-of-sadness).
+
+### S2 · schwer
+
+Welchen Zugang zu seiner Figur beschrieb Tony Leung Chiu-wai im Produktionsgespräch über „Lust, Caution“?
+
+- **Richtig: Er begann mit äußerlichen Veränderungen wie Maske und Kleidung**
+
+- Er übernahm die Sprechweise aus Tonaufnahmen eines einzelnen Vorbilds
+
+- Er übertrug die Bewegungen einer früheren Polizistenrolle
+
+- Er entwickelte sie in Improvisationen mit Zeitzeugen
+
+Er beschrieb einen Zugang von außen nach innen.
+
+Die Maske ließ ihn älter aussehen und half ihm, in Mr. Yee hineinzufinden. Gleichzeitig musste er sich von dem vertrauten Rhythmus seiner früheren historischen Filme lösen, obwohl die Kostüme ihn zunächst an diese erinnert hatten.
+
+Merksatz: Die äußere Gestaltung half Leung, Yees Innenleben zu erschließen.
+
+Quellen: [1](https://www.focusfeatures.com/article/production_notes___lust__caution?film=lu).
+
+### E1 · experte
+
+Für welchen Film erhielt Tony Leung Chiu-wai 2000 in Cannes den männlichen Darstellerpreis?
+
+- Chungking Express
+
+- **Richtig: In the Mood for Love**
+
+- 2046
+
+- Happy Together
+
+Der Preis galt „In the Mood for Love“.
+
+Die Auszeichnung würdigte seine Darstellung von Chow Mo-wan. Sie war ein Schauspielpreis; die Goldene Palme desselben Festivals ging an „Dancer in the Dark“, sodass beide Ehrungen unterschiedliche Leistungen betrafen.
+
+Merksatz: Leungs Cannes-Darstellerpreis gehört zu Chow Mo-wan.
+
+Gemeinsames Wissensziel: K-PRZ-202610-P01-M-029 (PRZ-202610-P01-M-029).
+
+Quellen: [1](https://www.festival-cannes.com/en/retrospective/2000/awards/).
+
+### E2 · experte
+
+Welcher Regisseur hielt 2023 in Venedig die Laudatio auf Tony Leung Chiu-wai bei dessen Goldenem Ehrenlöwen?
+
+- Hou Hsiao-hsien
+
+- Tran Anh Hung
+
+- **Richtig: Ang Lee**
+
+- Wong Kar-wai
+
+Ang Lee hielt die Laudatio.
+
+Lee hatte mit ihm „Lust, Caution“ gedreht, einen Gewinner des Goldenen Löwen für den besten Film. Die Ehrung 2023 galt nun Leungs Lebenswerk; ein früherer gemeinsamer Film bildete so eine Verbindung zwischen Laudator und Geehrtem.
+
+Merksatz: Ang Lee würdigte seinen „Lust, Caution“-Hauptdarsteller.
+
+Quellen: [1](https://www.labiennale.org/en/news/director-liliana-cavani-and-actor-tony-leung-chiu-wai-golden-lions-lifetime-achievement).
+
+## Tony Leung Ka-fai · Bekanntheitsgruppe 4
+
+![Tony Leung Ka-fai (undatiert)](https://image.tmdb.org/t/p/w185/sPDShFDtDx1pMNwHEx14o4WHrEH.jpg)
+
+Bild: Undatiert; Auf TMDB nicht ausgewiesen. TMDB-Onlineporträt; keine freie Lizenz behauptet. [Bildquelle](https://www.themoviedb.org/person/56861), [TMDB](https://www.themoviedb.org/person/56861).
+
+### L1 · leicht
+
+Welchen Qing-Kaiser verkörpert Tony Leung Ka-fai in „Reign Behind a Curtain“?
+
+- Puyi
+
+- **Richtig: Xianfeng**
+
+- Qianlong
+
+- Kangxi
+
+Tony Leung Ka-fai spielt Kaiser Xianfeng.
+
+Li Han-hsiang entdeckte Leung für zwei historische Filme über die späte Qing-Zeit. Die Rolle in „Reign Behind a Curtain“ brachte dem jungen Schauspieler bereits einen Hauptdarstellerpreis ein. Xianfeng gehört ins 19. Jahrhundert; Leungs Figur ist damit ein anderer Kaiser als der letzte Qing-Herrscher Puyi.
+
+Merksatz: Leungs Kaiser: Xianfeng.
+
+Quellen: [1](https://www.filmarchive.gov.hk/documents/18995340/19057018/Tony%2BLEUNG%2BKa-fai_e.pdf).
+
+### L2 · leicht
+
+Wo begegnet Tony Leung Ka-fais wohlhabender Chinese in „Der Liebhaber“ der französischen Jugendlichen erstmals?
+
+- **Richtig: Auf einer Fähre über den Mekong**
+
+- An einem Bahnhof
+
+- In einem Internat
+
+- In einem Hotel in Saigon
+
+Die beiden begegnen sich auf einer Fähre über den Mekong.
+
+Die Handlung spielt im kolonialen Indochina der späten 1920er Jahre. Der elegante Fremde bietet dem Mädchen eine Weiterfahrt in seiner Limousine an. Jean-Jacques Annauds Verfilmung von Marguerite Duras verbindet diese Begegnung mit einer Beziehung, in der Geld, Herkunft und gesellschaftliche Grenzen mitwirken.
+
+Merksatz: Die Liebesgeschichte beginnt auf dem Mekong.
+
+Quellen: [1](https://player.bfi.org.uk/subscription/film/watch-the-lover-1992-online).
+
+### M1 · mittel
+
+Welcher Gegenstand wird in „Election“ zum Machtmittel im Konflikt von Tony Leung Ka-fais Big D mit seinem Rivalen Lok?
+
+- Eine Liste verdeckter Ermittler
+
+- Ein Hauptbuch der Schutzgelder
+
+- Ein Siegelring des Gründers
+
+- **Richtig: Ein zeremonieller Drachenkopf-Stab**
+
+Der Drachenkopf-Stab ist das traditionelle Zeichen der Führung.
+
+Big D will die Wahl zum Triadenchef mit Geld und Gewalt beeinflussen. Als der Führungsstab verschwindet, reicht die Abstimmung allein zur Sicherung der Macht nicht mehr aus. Die Suche nach dem Gegenstand droht die Organisation zu spalten; das alte Ritual wird zum Gegenstand eines modernen Machtkampfs.
+
+Merksatz: Triadenmacht braucht den Drachenkopf-Stab.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/election/).
+
+### M2 · mittel
+
+Wodurch gerät Tony Leung Ka-fais Yiu in „Prison on Fire“ ins Gefängnis?
+
+- Er schmuggelt Waffen für eine Triade.
+
+- Er unterschlägt Geld seines Arbeitgebers.
+
+- Er verletzt einen Polizisten bei einer Razzia.
+
+- **Richtig: Er tötet versehentlich einen Angreifer seines Vaters.**
+
+Yiu tötet versehentlich den Straßenkriminellen, der seinen Vater angegriffen hat.
+
+Der Werbefachmann findet sich zwischen Gefängnisbanden und brutalen Aufsehern wieder. Ein erfahrener Häftling, gespielt von Chow Yun-fat, nimmt ihn unter seine Fittiche. Ringo Lam stellt damit einen unerfahrenen Neuankömmling an die Seite eines Mannes, der die Regeln des Gefängnisses bereits kennt.
+
+Merksatz: Yius Verteidigung des Vaters endet in Haft.
+
+Quellen: [1](https://www.criterionchannel.com/prison-on-fire).
+
+### S1 · schwer
+
+Was bringt Tony Leung Ka-fais Huang Yaoshi in „Ashes of Time“ seinem Freund Ouyang Feng als besonderes Geschenk?
+
+- Medizin gegen den Verlust des Augenlichts
+
+- **Richtig: Wein, der Erinnerungen auslöschen soll**
+
+- Eine Karte zu einem verborgenen Kloster
+
+- Ein Schwert, das den Besitzer unbesiegbar macht
+
+Huang Yaoshi bringt den sogenannten Wein des Vergessens.
+
+Wong Kar-wais Film greift Figuren aus Jin Yongs Schwertkämpferliteratur auf und erzählt von ihren früheren, verletzlichen Lebensphasen. Ouyang Feng vermittelt inzwischen Auftragskämpfer. Das Geschenk seines Freundes verbindet die Geschichte der Krieger mit der Frage, ob verlorene Liebe und schmerzhafte Erinnerung überhaupt abzustreifen sind.
+
+Merksatz: Huang bringt den Wein des Vergessens.
+
+Quellen: [1](https://bfidatadigipres.github.io/world%20of%20wong%20kar%20wai/2021/07/10/ashes-of-time/), [2](https://www.lcsd.gov.hk/fp/archive/english/2011ms100/2011ms100_film65.html).
+
+### S2 · schwer
+
+Warum erschwerten Tony Leung Ka-fais frühe Kaiserfilme zunächst seinen Zugang zum taiwanischen Filmmarkt?
+
+- Er war exklusiv an das Hongkonger Fernsehen gebunden.
+
+- Die Filme durften nur in Mandarin synchronisiert werden.
+
+- **Richtig: Ihre Dreharbeiten auf dem chinesischen Festland führten zu einem Verbot in Taiwan.**
+
+- Die Produktionsfirma besaß keine Rechte an den Vorlagen.
+
+Weil die Filme auf dem chinesischen Festland gedreht wurden, waren sie in Taiwan verboten.
+
+Das Hong Kong Film Archive beschreibt die Beschränkung als konkrete berufliche Hürde trotz Leungs frühem Schauspielpreis. Erst mit dem Ende des taiwanischen Kriegsrechts 1987 entfiel das Filmverbot. Seine Karriere hing damit auch von politischen Grenzen zwischen eng verbundenen chinesischsprachigen Filmmärkten ab.
+
+Merksatz: Früher Preis, zunächst gesperrter taiwanischer Markt.
+
+Quellen: [1](https://www.filmarchive.gov.hk/documents/18995340/19057018/Tony%2BLEUNG%2BKa-fai_e.pdf).
+
+### E1 · experte
+
+Für welche Leistung erhielt Tony Leung Ka-fai bei den dritten Hong Kong Film Awards den Hauptdarstellerpreis?
+
+- **Richtig: Für den Kaiser in „Reign Behind a Curtain“**
+
+- Für den Häftling in „Prison on Fire“
+
+- Für den Fremden in „Der Liebhaber“
+
+- Für den Gangster in „Election“
+
+Ausgezeichnet wurde seine Kaiserrolle in „Reign Behind a Curtain“.
+
+Der Preis kam bereits am Anfang seiner Filmkarriere. Die spätere Laufbahn führte von diesem historischen Drama über internationale Literaturverfilmungen bis zu Komödien und Gangsterfilmen. Die Asian Film Awards Academy nennt neben dem frühen Sieg auch seine späteren Hauptdarstellerpreise für sehr unterschiedliche Rollen.
+
+Merksatz: Der frühe Hongkong-Preis galt dem Kaiser.
+
+Quellen: [1](https://www.afa-academy.com/zh/jury-list/%E6%A2%81%E5%AE%B6%E8%BC%9D/).
+
+### E2 · experte
+
+Welche zusätzliche Aufgabe übernahm Tony Leung Ka-fai bei „Midnight Diner“ von 2019?
+
+- Er führte die Kamera.
+
+- Er entwarf die Kostüme.
+
+- **Richtig: Er führte Regie.**
+
+- Er komponierte die Filmmusik.
+
+Tony Leung Ka-fai führte Regie und spielte selbst mit.
+
+Der Film verbindet Geschichten von Gästen eines kleinen Restaurants, das nachts öffnet. Der Koch hört seinen Besuchern zu und bereitet ihnen passende Gerichte zu. Leung stand dabei auf beiden Seiten der Kamera: Der Verleih nennt ihn ausdrücklich sowohl unter Regie als auch unter Besetzung.
+
+Merksatz: Leung leitet das Diner vor und hinter der Kamera.
+
+Quellen: [1](https://wellgousa.com/films/midnight-diner), [2](https://www.filmarchive.gov.hk/documents/18995340/19057018/Tony%2BLEUNG%2BKa-fai_e.pdf).
+
+## Leslie Cheung · Bekanntheitsgruppe 4
+
+![Leslie Cheung; Aufnahmejahr nicht belegt](https://image.tmdb.org/t/p/w185/6H8gTq1QCB0bD9CGDhrIJITiGVX.jpg)
+
+Bild: Historische Aufnahme; genaues Jahr nicht belegt; Auf TMDB nicht ausgewiesen. TMDB-Onlineporträt; keine freie Lizenz behauptet. [Bildquelle](https://www.themoviedb.org/person/69637), [TMDB](https://www.themoviedb.org/person/69637).
+
+### L1 · leicht
+
+In welcher Bühnenkunst arbeitet Leslie Cheungs Cheng Dieyi in „Lebewohl, meine Konkubine“?
+
+- Kantonesische Oper
+
+- Sichuan-Oper
+
+- **Richtig: Pekingoper**
+
+- Kunqu-Oper
+
+Cheng Dieyi ist Darsteller der Pekingoper.
+
+Dieyi wird von Kindheit an für Frauenrollen ausgebildet. Gemeinsam mit seinem Bühnenpartner Xiaolou spielt er immer wieder dieselbe historische Liebestragödie. Der Film verfolgt ihre Laufbahn durch mehrere politische Umbrüche und zeigt, wie sich Bühnentreue, persönliche Liebe und öffentliche Erwartungen ineinander verschränken.
+
+Merksatz: Dieyis Leben gehört der Pekingoper.
+
+Quellen: [1](https://www.criterion.com/current/posts/8546-farewell-my-concubine-all-the-world-s-a-stage).
+
+### L2 · leicht
+
+Durch welches Land reisen Leslie Cheung und Tony Leung Chiu-wai als Liebespaar in „Happy Together“?
+
+- Mexiko
+
+- **Richtig: Argentinien**
+
+- Brasilien
+
+- Chile
+
+Das Paar reist durch Argentinien.
+
+Wong Kar-wai versetzt die beiden Männer aus Hongkong in eine fremde Umgebung. Ihre Beziehung gerät dort in einen Kreislauf aus Eifersucht, Trennung und Annäherung. Christopher Doyles Bilder wechseln zwischen Schwarz-Weiß und kräftigen Farben; die Reise bringt beiden kaum die erhoffte gemeinsame Erneuerung.
+
+Merksatz: Das Hongkonger Paar sucht Glück in Argentinien.
+
+Quellen: [1](https://www.criterion.com/films/28843-happy-together).
+
+### M1 · mittel
+
+Welche familiäre Frage treibt Leslie Cheungs Yuddy in „Days of Being Wild“ um?
+
+- Ob seine Schwester ihn enterbt hat
+
+- Warum sein Bruder ausgewandert ist
+
+- **Richtig: Wer seine leibliche Mutter ist**
+
+- Ob sein Vater noch lebt
+
+Yuddy möchte wissen, wer seine leibliche Mutter ist.
+
+Er ist bei einer Adoptivmutter aufgewachsen und kennt seine Herkunft nicht. Die Suche steht neben den unsteten Liebesbeziehungen des jungen Mannes. Wong Kar-wai verteilt den Film auf mehrere Figuren, deren Wünsche und Begegnungen sich kreuzen, ohne zu einer verlässlichen gemeinsamen Zukunft zu führen.
+
+Merksatz: Yuddy sucht die unbekannte Mutter.
+
+Quellen: [1](https://iffr.com/en/iffr/1992/films/afei-zhengzhuan-days-of-being-wild).
+
+### M2 · mittel
+
+Welche Entdeckung über Leslie Cheungs Chan Chen-pang enttäuscht den Geist Fleur in „Rouge“?
+
+- **Richtig: Er hat den gemeinsamen Suizidpakt überlebt.**
+
+- Er hat das Bordell seiner Familie verkauft.
+
+- Er hat ihre gemeinsame Tochter verschwiegen.
+
+- Er hat ihren Abschiedsbrief veröffentlicht.
+
+Chan Chen-pang hat überlebt, während Fleur starb.
+
+Die Liebenden wollten den Widerstand seiner Familie durch einen gemeinsamen Tod überwinden. Nach 53 Jahren des Wartens kehrt Fleur als Geist zurück, um ihn zu suchen. Die Begegnung der alten Liebesgeschichte mit dem Hongkong der 1980er Jahre entzaubert das vermeintlich ewige romantische Versprechen.
+
+Merksatz: Fleur wartete im Jenseits; ihr Geliebter lebte weiter.
+
+Quellen: [1](https://www.criterion.com/current/posts/7833-rouge-love-out-of-time).
+
+### S1 · schwer
+
+Welchen Auftrag erhält Leslie Cheungs Zhongliang von seinem Gangsterchef in „Temptress Moon“?
+
+- Den Cousin Duanwu entführen
+
+- Den Familienbesitz niederbrennen
+
+- Ruyis Bruder außer Landes bringen
+
+- **Richtig: Die Erbin Ruyi verführen**
+
+Zhongliang soll die Erbin Ruyi verführen.
+
+Nach seiner Flucht aus dem Haus der Pang wird Zhongliang in Shanghai zum Gigolo, der Frauen verführt und erpresst. Sein Chef schickt ihn nun in die Familie zurück, in der er zuvor erniedrigt wurde. Ruyis Erbschaft verbindet den Auftrag mit familiärer Macht und Zhongliangs verdrängter Vergangenheit.
+
+Merksatz: Der Gigolo kehrt im Auftrag zu den Pang zurück.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/temptress-moon/).
+
+### S2 · schwer
+
+Wie zerbricht die frühere Loyalität von Leslie Cheungs Dieyi und seinem Bühnenpartner während der Kulturrevolution in „Lebewohl, meine Konkubine“?
+
+- Sie wechseln gemeinsam zu rivalisierenden Truppen.
+
+- **Richtig: Sie beschuldigen einander öffentlich unter Druck.**
+
+- Sie konkurrieren um eine staatliche Auslandsreise.
+
+- Sie verkaufen heimlich die Kostüme des anderen.
+
+Die beiden geben unter öffentlichem Druck Geheimnisse preis und beschuldigen einander.
+
+Als Kinder schützten sie sich während der brutalen Opernausbildung gegenseitig. Die öffentliche Demütigung während der Kulturrevolution kehrt diese Bindung um. Xiaolou weist auch seine Frau Juxian zurück. Die politische Gewalt greift so in Beziehungen ein, die über Jahrzehnte gehalten hatten.
+
+Merksatz: Öffentliche Anklage zerstört die Bühnenbrüderschaft.
+
+Quellen: [1](https://www.criterion.com/current/posts/8546-farewell-my-concubine-all-the-world-s-a-stage).
+
+### E1 · experte
+
+Mit wem singt Leslie Cheung das Titelduett von „Behind the Yellow Line“?
+
+- **Richtig: Anita Mui**
+
+- Sally Yeh
+
+- Faye Wong
+
+- Sandy Lam
+
+Das Titelduett singt Leslie Cheung mit Anita Mui.
+
+Die romantische Komödie brachte beide erstmals gemeinsam auf die Leinwand. Cheungs Paul lernt in der Hongkonger U-Bahn Monica kennen; zugleich interessiert sich die reiche Anita für ihn. Die Besetzung mit Popstars verbindet das Liebesdreieck mit Liedern, die über den Film hinaus bekannt blieben.
+
+Merksatz: Das U-Bahn-Duett vereint Leslie und Anita.
+
+Quellen: [1](https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2023-cheungmui-fs-film03.html).
+
+### E2 · experte
+
+Welchen Modedesigner lud Leslie Cheung für die Kostüme seiner Konzertproduktion im Hong Kong Coliseum im Jahr 2000 ein?
+
+- Yohji Yamamoto
+
+- Giorgio Armani
+
+- Thierry Mugler
+
+- **Richtig: Jean Paul Gaultier**
+
+Die Kostüme entwarf Jean Paul Gaultier.
+
+Cheung wirkte bei der Konzertproduktion selbst als künstlerischer Leiter. Die Zusammenarbeit mit dem französischen Designer gehört zu seinem bewusst gestalteten Bühnenbild als Sänger. Eine Ausstellung des Hongkonger Verkehrsunternehmens MTR dokumentierte diese Verbindung neben seiner Film- und Musikkarriere.
+
+Merksatz: Cheung gestaltet die Bühne mit Gaultier.
+
+Quellen: [1](https://www.mtr.com.hk/archive/corporate/en/press_release/PR-23-021-E.pdf).
+
+## Andy Lau · Bekanntheitsgruppe 4
+
+![Andy Lau (2005)](Portraets/151.jpg)
+
+Bild: 2005; Original image: Pete Yeung derivative work: deerstop .. CC BY-SA 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Andy_Lau_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/25246).
+
+### L1 · leicht
+
+Für welche Seite arbeitet Andy Laus Inspektor Lau in „Infernal Affairs“ heimlich?
+
+- **Richtig: Für die Triade**
+
+- Für einen rivalisierenden Polizeibezirk
+
+- Für eine Staatsanwältin
+
+- Für den Geheimdienst
+
+Inspektor Lau ist von der Triade in die Polizei eingeschleust worden.
+
+Gleichzeitig lebt Tony Leung Chiu-wais Chan als verdeckter Polizist unter Gangstern. Beide müssen den Spitzel der Gegenseite aufspüren, ohne ihre eigene Tarnung preiszugeben. Die gespiegelten Lebensläufe machen beruflichen Erfolg und persönliche Identität zunehmend unvereinbar.
+
+Merksatz: Lau trägt Uniform für die Unterwelt.
+
+Gemeinsames Wissensziel: K-F240-20261006-139-L1 (F240-20261006-139-L1).
+
+Quellen: [1](https://www.criterion.com/films/32453-infernal-affairs).
+
+### L2 · leicht
+
+Für wen beginnt Andy Laus Roger nach einem Schlaganfall in „A Simple Life“ zu sorgen?
+
+- Seine verschwundene Mutter
+
+- Seine ältere Filmschnitt-Partnerin
+
+- Seine ehemalige Lehrerin
+
+- **Richtig: Seine frühere Haushälterin Ah Tao**
+
+Roger kümmert sich um Ah Tao, die seit langem für seine Familie arbeitet.
+
+Ah Tao versorgte Roger über viele Jahre. Als sie pflegebedürftig wird, kehrt sich das gewohnte Verhältnis um. Ann Huis Film geht auf Erfahrungen ihres Produzenten Roger Lee zurück; Deanie Ip spielt die Frau, deren Fürsorge für die Familie bislang selbstverständlich erschien.
+
+Merksatz: Roger erwidert Ah Taos lebenslange Fürsorge.
+
+Quellen: [1](https://player.bfi.org.uk/rentals/film/watch-a-simple-life-2011-online), [2](https://player.bfi.org.uk/free/film/watch-ann-hui-discusses-a-simple-life-qa-2014-online).
+
+### M1 · mittel
+
+Welche persönliche Lage macht Andy Laus geplanten Raub in „Running Out of Time“ zum letzten großen Coup?
+
+- Er muss vor seiner Abschiebung fliehen.
+
+- Sein Partner will die Polizei informieren.
+
+- Seine Begnadigung läuft bald ab.
+
+- **Richtig: Er ist todkrank und hat nur kurze Zeit zu leben.**
+
+Der Räuber hat nur noch kurze Zeit zu leben.
+
+Er bindet einen Polizeiverhandler in seinen sorgfältig entworfenen Plan ein. Johnnie To baut das Duell auf Intelligenz, Nerven und Kommunikation statt auf ein bloßes Schussgefecht. Die Lebensfrist verleiht dem Raubzug eine persönliche Dringlichkeit, während der Polizist erst verstehen muss, welches Spiel hier gespielt wird.
+
+Merksatz: Ein letzter Coup unter tödlichem Zeitdruck.
+
+Quellen: [1](https://www.biff.kr/eng/html/archive/arc_history_search.asp?kind=search&m_idx=14297&m_title=Y&page=462&piff_code=2009).
+
+### M2 · mittel
+
+Warum bittet die von Sammi Cheng gespielte Polizistin Andy Laus Ermittler in „Blind Detective“ um Hilfe?
+
+- **Richtig: Sie sucht ihre seit der Jugend verschwundene Freundin.**
+
+- Sie sucht den Entführer ihres Bruders.
+
+- Sie will den Betrug ihres früheren Partners beweisen.
+
+- Sie will den Mord an ihrem Vorgesetzten aufklären.
+
+Sie möchte ihre seit zehn Jahren verschwundene Jugendfreundin finden.
+
+Die Polizistin fühlt sich schuldig, weil sie damals eine Verabredung mit ihrer Freundin ablehnte. Nachdem sie die Fähigkeiten des früheren Polizeiermittlers erlebt hat, hofft sie auf seine Unterstützung. Er löst inzwischen alte Fälle für die Polizei und nimmt die Bitte auch aus eigenen Interessen an.
+
+Merksatz: Die gemeinsame Ermittlung beginnt mit einer vermissten Freundin.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/blind-detective/).
+
+### S1 · schwer
+
+Welchen Berufswechsel vollzieht Andy Laus Tide im Verlauf von „Days of Being Wild“?
+
+- Vom Musiker zum Hotelangestellten
+
+- **Richtig: Vom Polizisten zum Seemann**
+
+- Vom Kellner zum Polizisten
+
+- Vom Seemann zum Taxifahrer
+
+Tide arbeitet zunächst als Polizist und später als Seemann.
+
+Er interessiert sich für Su Lizhen, deren Beziehung mit Yuddy gescheitert ist. Während Yuddy seiner unbekannten Herkunft nachgeht, kreuzen sich die Lebenswege des Polizisten und der anderen jungen Menschen. Der Film verknüpft ihre Begegnungen durch verpasste Nähe und unerfüllte Wünsche.
+
+Merksatz: Tide wechselt von der Straße aufs Meer.
+
+Quellen: [1](https://iffr.com/en/iffr/1992/films/afei-zhengzhuan-days-of-being-wild).
+
+### S2 · schwer
+
+Welche Bindung gefährdet Andy Laus Wahs beginnende Liebesbeziehung in „As Tears Go By“ besonders?
+
+- Sein Auftrag, die Familie aus Hongkong zu bringen
+
+- **Richtig: Seine Loyalität zum leichtsinnigen Gangsterfreund Fly**
+
+- Sein Pakt mit dem Vater seiner Cousine
+
+- Seine Verpflichtung gegenüber einem korrupten Polizisten
+
+Wah fühlt sich seinem Freund Fly verpflichtet und gerät durch dessen Leichtsinn in neue Gewalt.
+
+Fly will sich in der Unterwelt einen Namen machen und überschätzt immer wieder seine Möglichkeiten. Wah muss die Folgen auffangen, obwohl er sich zugleich seiner erkrankten Cousine Ngor annähert. Wong Kar-wais Debüt verbindet den Gangsterfilm so bereits mit einer gefährdeten privaten Liebesgeschichte.
+
+Merksatz: Wahs Freundestreue zieht ihn zurück in die Gewalt.
+
+Quellen: [1](https://www.criterion.com/films/29478-as-tears-go-by).
+
+### E1 · experte
+
+Was sollte Andy Laus Projekt „Focus: First Cuts“ ab 2005 ermöglichen?
+
+- Neue Synchronfassungen älterer Hongkong-Filme
+
+- Den Vertrieb von Fernsehserien als Kinofilme
+
+- **Richtig: Die Finanzierung von Filmen junger asiatischer Regisseure**
+
+- Gemeinsame Stunttrainings für etablierte Actionstars
+
+Das Projekt unterstützte sechs junge asiatische Regisseure finanziell.
+
+Lau engagierte sich neben seiner eigenen Laufbahn für Nachwuchsfilme. Zu den über „Focus: First Cuts“ ermöglichten Werken gehört Ning Haos „Crazy Stone“. Schon zuvor hatte er Fruit Chan bei „Made in Hong Kong“ finanziell unterstützt; seine Produzentenarbeit eröffnete damit anderen Filmemachern Möglichkeiten.
+
+Merksatz: Focus: First Cuts gibt jungen Regisseuren Startmittel.
+
+Quellen: [1](https://www.filmarchive.gov.hk/documents/18995340/19057018/Andy%2BLAU_e.pdf).
+
+### E2 · experte
+
+Welche Filmfirma gründete Andy Lau 1991 gemeinsam mit David Lai, Daniel Yu und Chan Pui-wah?
+
+- Milkyway Image
+
+- Film Workshop
+
+- **Richtig: Teamwork Motion Pictures**
+
+- Golden Harvest
+
+Gemeinsam gründeten sie Teamwork Motion Pictures.
+
+Zu den Produktionen der Firma gehört „Savior of the Soul“. Lau übernahm damit früh unternehmerische Verantwortung neben seiner Arbeit vor der Kamera. Das Hong Kong Film Archive führt ihn entsprechend nicht allein als Schauspieler und Sänger, sondern auch als Produzenten und ausführenden Produzenten.
+
+Merksatz: Teamwork ist Laus frühe eigene Filmfirma.
+
+Quellen: [1](https://www.filmarchive.gov.hk/documents/18995340/19057018/Andy%2BLAU_e.pdf).
+
+## Stephen Chow · Bekanntheitsgruppe 4
+
+![Stephen Chow (2008)](Portraets/152.jpg)
+
+Bild: 2008; Kit Liew. CC BY 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Stephen_Chow,_2008_(cropped).JPG), [TMDB](https://www.themoviedb.org/person/57607).
+
+### L1 · leicht
+
+Was will Stephen Chows Sing mit seinem Mannschaftsprojekt in „Shaolin Soccer“ erreichen?
+
+- Einen Wettbetrüger vor Gericht bringen
+
+- Seinen früheren Trainer überführen
+
+- **Richtig: Seine Kampfkunst im Alltag populär machen**
+
+- Die Schließung seines Klosters verhindern
+
+Sing möchte zeigen, wie nützlich Shaolin-Kung-Fu sein kann.
+
+Er findet für seine Fähigkeiten zunächst kaum Schüler und holt seine früheren Shaolin-Brüder in eine Fußballmannschaft. Ihre Kampftechniken werden zu übermenschlichen Sportaktionen. Das Projekt soll damit über einen einzelnen Turniersieg hinaus demonstrieren, dass die alte Disziplin auch in der Gegenwart Verwendung finden kann.
+
+Merksatz: Sings Fußballteam wirbt für Shaolin-Kung-Fu.
+
+Gemeinsames Wissensziel: K-F240-20261006-136-L1 (F240-20261006-136-L1).
+
+Quellen: [1](https://www.bfi.org.uk/lists/great-action-film-every-year-1924-now).
+
+### L2 · leicht
+
+Welcher Organisation möchte Stephen Chows Möchtegern-Gangster Sing in „Kung Fu Hustle“ beitreten?
+
+- Der Black Mask Gang
+
+- **Richtig: Der Axe Gang**
+
+- Der Deadly Viper Gang
+
+- Der Three Dragons Gang
+
+Sing möchte in die gefürchtete Axe Gang aufgenommen werden.
+
+Er versucht, sich in einem armen Wohnviertel als Gangster auszugeben. Dort leben jedoch Menschen, deren Kampffähigkeiten er gewaltig unterschätzt. Seine Suche nach Anerkennung setzt einen Konflikt in Gang, der ihn schließlich zur Entscheidung zwischen Gewalt gegen Schwächere und ihrem Schutz führt.
+
+Merksatz: Sing will zunächst zur Axe Gang gehören.
+
+Gemeinsames Wissensziel: K-ASI-202610-P01-L-008 (ASI-202610-P01-L-008).
+
+Quellen: [1](https://www.sonypictures.com/movies/kungfuhustle).
+
+### M1 · mittel
+
+Auf welchen Schauspiellehrer beruft sich Stephen Chows ehrgeiziger Filmkomparse in „King of Comedy“?
+
+- Jerzy Grotowski
+
+- Bertolt Brecht
+
+- Lee Strasberg
+
+- **Richtig: Konstantin Stanislawski**
+
+Er studiert Stanislawski und spricht mit anderen über dessen Schauspielarbeit.
+
+Die Figur nimmt ihren Beruf ernst, obwohl sie am Rand der Filmproduktion steht. Sie liest ein Schauspielbuch und versucht, ihr Wissen auch Menschen außerhalb des Studios zu vermitteln. Die Komik entsteht so aus dem Abstand zwischen ihrem großen künstlerischen Anspruch und der Behandlung als unbedeutender Komparse.
+
+Merksatz: Der Komparse hält sich an Stanislawski.
+
+Quellen: [1](https://www.bjiff.com/Service/Sercive/202402/t20240204_171943_ext.html).
+
+### M2 · mittel
+
+Warum bringt Stephen Chows armer Vater in „CJ7“ die geheimnisvolle Kugel vom Schrottplatz mit nach Hause?
+
+- Er will damit eine Maschine reparieren.
+
+- **Richtig: Er sucht ein Spielzeug für seinen Sohn.**
+
+- Er möchte sie als wertvolles Metall verkaufen.
+
+- Er hält sie für ein Schulprojekt seines Sohnes.
+
+Er kann sich teure Spielsachen nicht leisten und hält die Kugel für ein Geschenk für seinen Sohn.
+
+Der Vater arbeitet auf dem Bau, um Dicky den Besuch einer teuren Schule zu ermöglichen. Dort fällt der Junge durch seine abgetragenen Sachen auf. Der Fund vom Schrottplatz entpuppt sich als seltsames Wesen mit besonderen Kräften und verschiebt die familiäre Geschichte ins Fantastische.
+
+Merksatz: Das vermeintliche Spielzeug wird zum außerirdischen Begleiter.
+
+Quellen: [1](https://www.sonyclassics.com/cj7/externalLoads/cj7_presskit.pdf).
+
+### S1 · schwer
+
+Wofür steht der mit Stephen Chow verbundene Komödienstil „mo lei tau“ besonders?
+
+- **Richtig: Absurde Wortwechsel und unvorhersehbare Gedankensprünge**
+
+- Trockene Beobachtungen des Familienalltags
+
+- Wortlose Präzisionskomik mit Alltagsgegenständen
+
+- Aktuelle politische Satire in gereimten Dialogen
+
+„Mo lei tau“ bezeichnet eine bewusst unsinnige, sprunghafte Form der Komik.
+
+Das Hong Kong Film Archive beschreibt die Unberechenbarkeit von Chow und seinem häufigen Partner Ng Man-tat als Kern ihres Zusammenspiels. Die Figuren reagieren mit übertriebenen Bewegungen und Reden, deren Richtung plötzlich wechselt. Eine Szene kann ihr komisches Ziel erreichen, indem sie die erwartete Gesprächslogik unterläuft.
+
+Merksatz: Mo lei tau lässt die Gesprächslogik stolpern.
+
+Quellen: [1](https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2018-5-2.html), [2](https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Stephen-CHOW_e.pdf).
+
+### S2 · schwer
+
+Welche Nachwuchsdarstellerin besetzte Stephen Chow in „CJ7“ als seinen Filmsohn Dicky?
+
+- Guan Xiaotong
+
+- Zhang Zifeng
+
+- Yang Zi
+
+- **Richtig: Xu Jiao**
+
+Dicky wird von Xu Jiao gespielt.
+
+Die Produktion suchte über viele Monate nach einem Kind, das Dickys Persönlichkeit und komische Begabung überzeugend verkörpern konnte. Laut den Produktionsunterlagen wurden fast 10.000 Kinder angesehen. Schließlich überzeugte ein Mädchen die Verantwortlichen für die Jungenrolle; „CJ7“ wurde Xu Jiaos Filmdebüt.
+
+Merksatz: Chows Filmsohn wird von Xu Jiao gespielt.
+
+Quellen: [1](https://www.sonyclassics.com/cj7/externalLoads/cj7_presskit.pdf).
+
+### E1 · experte
+
+Welche Fernseharbeit übernahm Stephen Chow 1983 bei „430 Space Shuttle“?
+
+- Er präsentierte ein Filmmagazin.
+
+- Er leitete eine Nachrichtensatire.
+
+- **Richtig: Er moderierte eine Kindersendung.**
+
+- Er kommentierte Live-Sport.
+
+Er moderierte die Kindersendung „430 Space Shuttle“.
+
+Nach seiner TVB-Ausbildung wechselte Chow zunächst in die Arbeit mit einem jungen Publikum. Später kehrte er in die Fernsehspielabteilung zurück. In den Produktionsunterlagen zu „CJ7“ verwies er auf diese frühe Erfahrung mit Kindern, als er über die Suche nach seiner jungen Hauptbesetzung sprach.
+
+Merksatz: Vor den Kinokomödien moderierte Chow für Kinder.
+
+Quellen: [1](https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Stephen-CHOW_e.pdf), [2](https://www.sonyclassics.com/cj7/externalLoads/cj7_presskit.pdf).
+
+### E2 · experte
+
+Mit wem teilte Stephen Chow bei „From Beijing with Love“ die Regie?
+
+- **Richtig: Lee Lik-chee**
+
+- Wong Jing
+
+- Gordon Chan
+
+- Vincent Kok
+
+Stephen Chow und Lee Lik-chee führten gemeinsam Regie.
+
+Das Hong Kong Film Archive führt den Film von 1994 als Chows Regiedebüt und nennt auch seine Mitarbeit am Drehbuch. Die Zusammenarbeit ging später mit weiteren Komödien weiter. Die gemeinsame Regie gehört damit zu seinem Weg vom populären Darsteller zum Filmemacher mit mehreren Arbeitsfunktionen.
+
+Merksatz: Chows frühe Regiearbeit entstand mit Lee Lik-chee.
+
+Quellen: [1](https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Stephen-CHOW_e.pdf).
