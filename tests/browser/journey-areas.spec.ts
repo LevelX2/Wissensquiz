@@ -12,11 +12,38 @@ import { packages, addPackages } from "../../src/packages";
 import { emptyState, type State } from "../../src/model";
 import { startRound } from "../../src/engine";
 import { actorPresentation } from "../../src/actorEditorial";
+import { familiarityOf } from "../../src/familiarity";
 import type { Page } from "./fixtures";
 
 async function writeState(page: Page, value: State) {
   await writeStoredState(page, value);
 }
+async function expectSelectedGroup(
+  page: Page,
+  questions: State["questions"],
+  source: "actors" | "awards",
+  difficulty: "leicht" | "experte",
+  familiarity: 1 | 4,
+) {
+  const backend = accountBackend(page);
+  const selected = await backend.admin(() =>
+    backend.db.query<{
+      id: string;
+      source: string;
+      difficulty: string;
+      familiarity: number;
+    }>(
+      "select id,source,difficulty,familiarity from quiz_game_internal.catalog_meta where id=any($1::text[])",
+      [questions.map((q) => q.id)],
+    ),
+  );
+  expect(questions.length).toBeGreaterThan(0);
+  expect(selected.rows).toHaveLength(questions.length);
+  for (const row of selected.rows)
+    expect(row).toMatchObject({ source, difficulty, familiarity });
+  for (const q of questions) expect(familiarityOf(q)).toBe(familiarity);
+}
+
 const now = new Date("2026-10-03T12:00:00+02:00");
 test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und zeigt vier Bekanntheitsgruppen und spielt reine Personenrunden", async ({
   page,
@@ -134,12 +161,10 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und zeigt v
   expect(people.mode).toBe("entdecken");
   expect(
     people.questions.every(
-      (q) =>
-        !!q.metadata.person_id &&
-        q.difficulty === "leicht" &&
-        q.presentation?.familiarity === 1,
+      (q) => !!q.metadata.person_id && q.difficulty === "leicht",
     ),
   ).toBe(true);
+  await expectSelectedGroup(page, people.questions, "actors", "leicht", 1);
 });
 for (const suffix of ["001-M-2", "001-S-2", "001-M-1"]) {
   test(`${suffix}: vollständiger Name, individuelle Vertiefung und passende Filmdaten in der gespeicherten Serverfrage`, async ({
@@ -263,7 +288,7 @@ for (const [source, label] of [
       expect(active.filters?.familiarities).toEqual([4]);
       expect(active.filters?.sources).toEqual([source]);
       expect(active.questions[0].difficulty).toBe("experte");
-      expect(active.questions[0].presentation?.familiarity).toBe(4);
+      await expectSelectedGroup(page, active.questions, source, "experte", 4);
     },
   );
 }

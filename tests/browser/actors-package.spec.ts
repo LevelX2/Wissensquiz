@@ -353,9 +353,9 @@ test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und voll
 
 test.describe("Neue Schauspieler mit ausgewählten Porträts", () => {
   test.use({ acknowledgeIncidentalSuccess: true });
-  for (const [number, name, local] of [
-    [1, "Peter Lorre", true],
-    [21, "Heinz Erhardt", false],
+  for (const [number, name, local, code] of [
+    [1, "Peter Lorre", true, "L1"],
+    [21, "Heinz Erhardt", false, "L2"],
   ] as const)
     test(`Neue Person ${name}: ausgewähltes Porträt, Quellen und TMDB-Link erst nach der Antwort`, async ({
       page,
@@ -377,8 +377,9 @@ test.describe("Neue Schauspieler mit ausgewählten Porträts", () => {
       const q = state.questions.find(
         (q) =>
           q.id ===
-          `SCHAUSPIELER-BG-20261013-${String(number).padStart(3, "0")}-L1`,
+          `SCHAUSPIELER-BG-20261013-${String(number).padStart(3, "0")}-${code}`,
       )!;
+      expect(actorPresentation(q)!.films.length).toBeGreaterThan(0);
       const catalog = state.questions;
       state.questions = [q];
       startRound(
