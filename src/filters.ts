@@ -16,6 +16,8 @@ export const questionSourceOf = (
     : q.tags.includes("Preisträger")
       ? "awards"
       : "film";
+export const usesFilmFilters = (q: Question, filters: QuizFilters) =>
+  filters.sources ? questionSourceOf(q) === "film" : !q.metadata.person_id;
 export const normalizeGenre = (genre: string) =>
   genre === "Sci-Fi"
     ? "Science-Fiction"

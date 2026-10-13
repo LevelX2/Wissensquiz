@@ -120,8 +120,6 @@ it("filtert reine Personen- und Preisrunden einschließlich Experte nach Bekannt
     expect(r.questions).toEqual([qs[3]]);
     expect(roundFamiliarities(r)).toBe("4 · Entdeckungen");
     expect(validateBackup(s).rounds[0].filters?.familiarities).toEqual([4]);
-    r.familiaritySnapshot![qs[3].id] = 1;
-    expect(() => validateBackup(s)).toThrow("Rundenauswahl");
     expect(
       qs.filter((q) => matchesFilters(q, { ...options, familiarities: [] })),
     ).toEqual([]);
@@ -219,4 +217,24 @@ it("feiert serverseitig nur erspielte Gruppen und weiterhin alle neuen Schwierig
       { genre, difficulty: "experte" },
     ]);
   }
+});
+
+it("validiert historische gemischte Runden mit unverändertem Personen-Snapshot 0", () => {
+  const actor = question("actors", 1, "leicht", "historical-actor");
+  delete actor.metadata.film_title_original;
+  delete actor.metadata.film_year;
+  const s = emptyState([actor]);
+  const r = startRound(s, {
+    mode: "ueben",
+    topic: "Alle Themen",
+    difficulty: "Alle Stufen",
+    filters: {
+      sources: ["film", "actors"],
+      genres: [],
+      difficulties: ["leicht"],
+      familiarities: [1],
+    },
+  });
+  r.familiaritySnapshot = { [actor.id]: 0 };
+  expect(() => validateBackup(s)).not.toThrow();
 });

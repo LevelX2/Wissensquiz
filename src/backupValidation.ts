@@ -1,7 +1,7 @@
 import type { State } from "./model";
 import { stateSchema } from "./backupSchema";
 import { rebuild } from "./engine";
-import { matchesFilters } from "./filters";
+import { matchesFilters, usesFilmFilters } from "./filters";
 import { matchesTopic } from "./categories";
 import { questionSnapshotMatches } from "./yearQuestions";
 import { roundFacts } from "./roundArchive";
@@ -152,6 +152,7 @@ export function validateBackup(value: unknown, rebuildProgress = true): State {
           !matchesTopic(q, r.topic) ||
           (r.familiaritySnapshot &&
             r.filters.familiarities &&
+            usesFilmFilters(q, r.filters) &&
             !(r.familiaritySnapshot[q.id] === 0
               ? r.filters.familiarities.length === 4
               : r.filters.familiarities.some(

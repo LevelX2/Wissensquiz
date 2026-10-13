@@ -209,8 +209,8 @@ for (const [questionId, person, film] of [
 test.describe("TMDB-Porträts in Auflösung und Rückblick", () => {
   test.use({ acknowledgeIncidentalSuccess: true });
   for (const [personId, person, response] of [
-    ["ACTOR-051", "Meryl Streep", "unknown"],
-    ["ACTOR-052", "Julia Roberts", "wrong"],
+    ["ACTOR-004", "Johnny Depp", "unknown"],
+    ["ACTOR-005", "Robert De Niro", "wrong"],
   ] as const)
     test(`Porträt von ${person} erscheint nach ${response} und bleibt mit TMDB-Nachweis nach Neuladen verfügbar`, async ({
       page,
