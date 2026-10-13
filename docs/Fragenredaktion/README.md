@@ -7,3 +7,5 @@
 Die App enthält seit Version 65 die bis Block 17 übernommenen Fassungen: 999 Original-IDs, 41 Ersatzfragen, 14 Ergänzungen und 78 Jahres-/Regievorlagen. Spätere redaktionelle Fassungen sind noch nicht in die App übernommen. Die aktuellen erwarteten Daten dieser bereits angewandten Redaktion liegen für die bestehenden Tests in `tests/fixtures/appliedEditorial.json`.
 
 Auf Nutzerwunsch werden keine Umstellungsprotokolle erstellt oder gespeichert. Die Fragen werden weiterhin nach dem [Redaktionsvertrag](../Fragenredaktion.md) geprüft; Zahlenstatus und lokaler Commit folgen nach jeweils 50 neu bearbeiteten Original-IDs.
+
+Für die externe Bearbeitung der nächsten 50 offenen Fragen stehen der [bisherige Lesestand](Naechste-50-Fragen-Stand-2026-10-13.html), die [CSV-Vorlage](Naechste-50-Fragen-Bearbeitung.csv) und die [Rückgabeanleitung](Rueckgabeformat.md) bereit. Der Export zählt keine Fragen als überarbeitet und setzt den pausierten Lauf nicht fort.
