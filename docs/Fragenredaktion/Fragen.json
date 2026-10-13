@@ -322210,6 +322210,2511 @@
           "feedback": ""
         }
       ]
+    },
+    {
+      "id": "KOM-L-042",
+      "originalId": "KOM-L-042",
+      "knowledgeId": "K-KOM-21-02",
+      "filmKey": "Pappa ante portas|1991",
+      "filmTitle": "Pappa ante portas",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Heinrichs übertriebener Großeinkauf von Büromaterial löst das Ende seiner beruflichen Tätigkeit aus.",
+      "question": "„Pappa ante portas“ (1991): Welche berufliche Entscheidung führt zu Heinrich Lohses (Loriot) vorzeitigem Ruhestand?",
+      "answers": [
+        {
+          "id": "KOM-L-042:a",
+          "text": "Die eigenmächtige Schließung einer Abteilung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-042:b",
+          "text": "Ein übermäßig großer Vorratskauf von Büromaterial",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-042:c",
+          "text": "Die Bestellung ungeeigneter Produktionsmaschinen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-042:d",
+          "text": "Der Verkauf wichtiger Firmenpatente",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Heinrichs (Loriot) übertriebener Großeinkauf von Büromaterial löst das Ende seiner beruflichen Tätigkeit aus.",
+      "context": "Heinrich (Loriot) bestellt wegen eines Mengenrabatts Schreibmaschinenpapier und Radiergummis für rund 40 Jahre. Der Generaldirektor will ihn daraufhin in den Vorruhestand schicken. Heinrich kommt ihm mit einer empörten Kündigung zuvor: Seinen Abschied möchte er wenigstens selbst bestimmen.",
+      "anchor": "Heinrich (Loriot) kauft Büromaterial für viel zu lange.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Pappa_ante_portas",
+        "https://www.loriot.de/index.php/andenken/15-datentraeger/588-dvd-blu-ray-pappa-ante-portas"
+      ]
+    },
+    {
+      "id": "KOM-M-041",
+      "originalId": "KOM-M-041",
+      "knowledgeId": "K-KOM-21-03",
+      "filmKey": "Pappa ante portas|1991",
+      "filmTitle": "Pappa ante portas",
+      "difficulty": "mittel",
+      "questionType": "Objekt",
+      "learningObjective": "Heinrich setzt sein Vorratsdenken beim Senfkauf fort.",
+      "question": "„Pappa ante portas“ (1991): Welches Lebensmittel kauft Heinrich (Loriot) nach seinem Ausscheiden in übertriebener Menge?",
+      "answers": [
+        {
+          "id": "KOM-M-041:a",
+          "text": "Senf",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-041:b",
+          "text": "Marmelade",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-041:c",
+          "text": "Honig",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-041:d",
+          "text": "Mayonnaise",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Heinrich (Loriot) setzt sein Vorratsdenken beim Senfkauf fort.",
+      "context": "Auch beim Senf ist der Mengenrabatt Heinrichs (Loriot) entscheidendes Argument. Zu Hause behandelt er die Putzfrau Frau Kleinert (Inge Wolffberg) wie eine Angestellte im Betrieb. Seine Anweisungen enden allerdings beim gemeinsamen Trinken: Die neue Rolle als Haushaltsmanager gerät schnell außer Kontrolle.",
+      "anchor": "Der Einkaufsdirektor organisiert jetzt Senf.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pappa_Ante_Portas",
+        "https://www.filmportal.de/film/pappa-ante-portas_f991ebe4e3694a9aaaf35cc56f47cee9"
+      ]
+    },
+    {
+      "id": "KOM-M-042",
+      "originalId": "KOM-M-042",
+      "knowledgeId": "K-KOM-21-04",
+      "filmKey": "Pappa ante portas|1991",
+      "filmTitle": "Pappa ante portas",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Ein Fernsehteam nutzt das Haus und verstärkt das häusliche Durcheinander.",
+      "question": "„Pappa ante portas“ (1991): Welche zusätzliche Gruppe bringt Unruhe in das Haus der Lohses?",
+      "answers": [
+        {
+          "id": "KOM-M-042:a",
+          "text": "Eine Gruppe privater Nachhilfeschüler",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-042:b",
+          "text": "Ein Fernsehteam",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-042:c",
+          "text": "Ein Wahlkampfteam",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-042:d",
+          "text": "Ein Team von Innenarchitekten",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ein Fernsehteam nutzt das Haus und verstärkt das häusliche Durcheinander.",
+      "context": "Heinrich (Loriot) lädt die Filmleute selbst ein: Die Dreharbeiten sollen Renate (Evelyn Hamann) beeindrucken und ihre Ehe retten. Stattdessen nehmen die Besucher das Haus in Beschlag. Sein Versuch, der Beziehung zu helfen, verschärft den Streit um den gemeinsamen Lebensraum.",
+      "anchor": "Das Wohnzimmer bekommt einen Fernsehbetrieb.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pappa_Ante_Portas",
+        "https://de.wikipedia.org/wiki/Pappa_ante_portas"
+      ]
+    },
+    {
+      "id": "KOM-S-041",
+      "originalId": "KOM-S-041",
+      "knowledgeId": "K-KOM-21-05",
+      "filmKey": "Pappa ante portas|1991",
+      "filmTitle": "Pappa ante portas",
+      "difficulty": "mittel",
+      "questionType": "Beziehung",
+      "learningObjective": "Hedwig und Hellmuth erweisen sich ebenfalls als konfliktreiches Paar.",
+      "question": "„Pappa ante portas“ (1991): Was verändert Renates (Evelyn Hamann) Blick auf die Ehe ihrer Schwester Hedwig (Irm Hermann) beim Familientreffen?",
+      "answers": [
+        {
+          "id": "KOM-S-041:a",
+          "text": "Auch dieses Paar streitet heftig.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-041:b",
+          "text": "Das Paar lebt schon lange getrennt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-041:c",
+          "text": "Beide verschweigen ihre heimliche Scheidung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-041:d",
+          "text": "Beide wollen künftig bei den Lohses wohnen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Hedwig (Irm Hermann) und Hellmuth (Hans Peter Korff) erweisen sich ebenfalls als konfliktreiches Paar.",
+      "context": "Renate (Evelyn Hamann) erlebt, dass eine von außen bewunderte Beziehung keineswegs frei von Spannungen ist. Hedwig (Irm Hermann) und Hellmuth (Hans Peter Korff) verlieren den Status eines mühelosen Gegenmodells. Dadurch verändert sich der Vergleich mit Heinrich (Loriot). Der Film löst die Eheprobleme nicht durch ein plötzlich perfektes Verhalten, sondern öffnet Raum für Versöhnung, indem die Vorstellung eines störungsfreien anderen Lebens brüchig wird.",
+      "anchor": "Auch die vermeintliche Musterehe hat Risse.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pappa_Ante_Portas",
+        "https://de.wikipedia.org/wiki/Pappa_ante_portas"
+      ]
+    },
+    {
+      "id": "KOM-S-042",
+      "originalId": "KOM-S-042",
+      "knowledgeId": "K-KOM-21-06",
+      "filmKey": "Pappa ante portas|1991",
+      "filmTitle": "Pappa ante portas",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Heinrich und Renate spielen am Ende gemeinsam Blockflöte.",
+      "question": "„Pappa ante portas“ (1991): Womit beschäftigen sich Heinrich (Loriot) und Renate (Evelyn Hamann) gemeinsam im Schlussbild?",
+      "answers": [
+        {
+          "id": "KOM-S-042:a",
+          "text": "Gemeinsames Kartenspiel",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-042:b",
+          "text": "Gemeinsames Blockflötenspiel",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-042:c",
+          "text": "Gemeinsames Tanzen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-042:d",
+          "text": "Gemeinsames Chorsingen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Heinrich (Loriot) und Renate (Evelyn Hamann) spielen am Ende gemeinsam Blockflöte.",
+      "context": "Das gemeinsame Musizieren bietet Heinrich (Loriot) und Renate (Evelyn Hamann) eine Tätigkeit, die Abstimmung statt Anweisung verlangt. Die ruhige Schlusspointe passt zu einem Film, dessen Konflikte aus kleinen Übergriffen und missglückter Verständigung entstehen. Harmonie erscheint nicht als endgültig gelöstes Lebensproblem. Sie wird als begrenzter gemeinsamer Moment sichtbar, in dem beide denselben Takt zumindest vorübergehend finden können.",
+      "anchor": "Versöhnung im Blockflötenduett.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pappa_Ante_Portas"
+      ]
+    },
+    {
+      "id": "KOM-L-042-V1",
+      "originalId": "KOM-L-042-V1",
+      "knowledgeId": "K-KOM-21-02",
+      "filmKey": "Pappa ante portas|1991",
+      "filmTitle": "Pappa ante portas",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Heinrichs übertriebener Großeinkauf von Büromaterial löst das Ende seiner beruflichen Tätigkeit aus.",
+      "question": "„Pappa ante portas“ (1991): Welcher Fehler kostet Einkaufsdirektor Heinrich Lohse (Loriot) vorzeitig seinen Job?",
+      "answers": [
+        {
+          "id": "KOM-L-042-V1:a",
+          "text": "Er bestellt Büromaterial bei einer Konkurrenzfirma.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-042-V1:b",
+          "text": "Er bezahlt eine alte Rechnung doppelt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-042-V1:c",
+          "text": "Er bestellt Büromaterial weit über den Bedarf hinaus.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-L-042-V1:d",
+          "text": "Er lagert Firmenmaterial in seinem Privathaus.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Heinrichs (Loriot) übertriebener Großeinkauf von Büromaterial löst das Ende seiner beruflichen Tätigkeit aus.",
+      "context": "Heinrich (Loriot) bestellt wegen eines Mengenrabatts Schreibmaschinenpapier und Radiergummis für rund 40 Jahre. Der Generaldirektor will ihn daraufhin in den Vorruhestand schicken. Heinrich kommt ihm mit einer empörten Kündigung zuvor: Seinen Abschied möchte er wenigstens selbst bestimmen.",
+      "anchor": "Heinrich (Loriot) kauft Büromaterial für viel zu lange.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Pappa_ante_portas",
+        "https://www.loriot.de/index.php/andenken/15-datentraeger/588-dvd-blu-ray-pappa-ante-portas"
+      ],
+      "variantOf": "KOM-L-042"
+    },
+    {
+      "id": "KOM-M-042-V1",
+      "originalId": "KOM-M-042-V1",
+      "knowledgeId": "K-KOM-21-04",
+      "filmKey": "Pappa ante portas|1991",
+      "filmTitle": "Pappa ante portas",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Ein Fernsehteam nutzt das Haus und verstärkt das häusliche Durcheinander.",
+      "question": "„Pappa ante portas“ (1991): Wodurch wird das Privathaus zeitweise zusätzlich zum Arbeitsort fremder Menschen?",
+      "answers": [
+        {
+          "id": "KOM-M-042-V1:a",
+          "text": "Durch die Einrichtung eines Beratungsbüros",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-042-V1:b",
+          "text": "Durch die Einrichtung einer Arztpraxis",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-042-V1:c",
+          "text": "Durch Dreharbeiten eines Fernsehteams",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-M-042-V1:d",
+          "text": "Durch regelmäßige Seminare für Führungskräfte",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ein Fernsehteam nutzt das Haus und verstärkt das häusliche Durcheinander.",
+      "context": "Heinrich (Loriot) lädt die Filmleute selbst ein: Die Dreharbeiten sollen Renate (Evelyn Hamann) beeindrucken und ihre Ehe retten. Stattdessen nehmen die Besucher das Haus in Beschlag. Sein Versuch, der Beziehung zu helfen, verschärft den Streit um den gemeinsamen Lebensraum.",
+      "anchor": "Das Wohnzimmer bekommt einen Fernsehbetrieb.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pappa_Ante_Portas",
+        "https://de.wikipedia.org/wiki/Pappa_ante_portas"
+      ],
+      "variantOf": "KOM-M-042"
+    },
+    {
+      "id": "KOM-S-042-V1",
+      "originalId": "KOM-S-042-V1",
+      "knowledgeId": "K-KOM-21-06",
+      "filmKey": "Pappa ante portas|1991",
+      "filmTitle": "Pappa ante portas",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Heinrich und Renate spielen am Ende gemeinsam Blockflöte.",
+      "question": "„Pappa ante portas“ (1991): Welches Schlussmotiv steht für das wiedergefundene Zusammenspiel der Eheleute?",
+      "answers": [
+        {
+          "id": "KOM-S-042-V1:a",
+          "text": "Heinrich und Renate spielen gemeinsam Karten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-042-V1:b",
+          "text": "Heinrich und Renate singen gemeinsam im Chor.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-042-V1:c",
+          "text": "Heinrich und Renate spielen gemeinsam Blockflöte.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "KOM-S-042-V1:d",
+          "text": "Heinrich und Renate tanzen gemeinsam Walzer.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Heinrich (Loriot) und Renate (Evelyn Hamann) spielen am Ende gemeinsam Blockflöte.",
+      "context": "Das gemeinsame Musizieren bietet Heinrich (Loriot) und Renate (Evelyn Hamann) eine Tätigkeit, die Abstimmung statt Anweisung verlangt. Die ruhige Schlusspointe passt zu einem Film, dessen Konflikte aus kleinen Übergriffen und missglückter Verständigung entstehen. Harmonie erscheint nicht als endgültig gelöstes Lebensproblem. Sie wird als begrenzter gemeinsamer Moment sichtbar, in dem beide denselben Takt zumindest vorübergehend finden können.",
+      "anchor": "Versöhnung im Blockflötenduett.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pappa_Ante_Portas"
+      ],
+      "variantOf": "KOM-S-042"
+    },
+    {
+      "id": "FF-221-YEAR",
+      "originalId": "FF-221-YEAR",
+      "knowledgeId": "K-FF-221-YEAR",
+      "filmKey": "Pappa ante portas|1991",
+      "filmTitle": "Pappa ante portas",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "1988 und 1991 als Jahre der beiden Loriot-Kinokomödien verbinden.",
+      "question": "„Pappa ante portas“: In welchem Jahr erschien der Film von Loriot erstmals?",
+      "answers": [
+        {
+          "id": "FF-221-YEAR:y1991",
+          "text": "1991",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-221-YEAR:y1987",
+          "text": "1990",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-221-YEAR:y1989",
+          "text": "1989",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-221-YEAR:y1992",
+          "text": "1992",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Pappa ante portas“ wurde erstmals 1991 veröffentlicht.",
+      "context": "„Ödipussi“ kam 1988 ins Kino, „Pappa ante portas“ folgte 1991. Zwischen Loriots beiden Kinokomödien liegen drei Jahre. Bei beiden schrieb er das Drehbuch, führte Regie und spielte neben Evelyn Hamann. Die wiederkehrende Zusammenarbeit bietet einen konkreten Anker für das Erscheinungsjahr des zweiten Films.",
+      "anchor": "„Ödipussi“ 1988, drei Jahre später „Pappa ante portas“: 1991.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.loriot.de/index.php/loriot/werke/filme"
+      ]
+    },
+    {
+      "id": "FF-221-DIRECTOR",
+      "originalId": "FF-221-DIRECTOR",
+      "knowledgeId": "K-FF-221-DIRECTOR",
+      "filmKey": "Pappa ante portas|1991",
+      "filmTitle": "Pappa ante portas",
+      "difficulty": "leicht",
+      "questionType": "Regie",
+      "learningObjective": "Loriot inszenierte „Pappa ante portas“.",
+      "question": "Wer führte bei „Pappa ante portas“ (1991) Regie?",
+      "answers": [
+        {
+          "id": "FF-221-DIRECTOR:a",
+          "text": "Loriot",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-221-DIRECTOR:b",
+          "text": "Dieter Hallervorden",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-221-DIRECTOR:c",
+          "text": "Otto Waalkes",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-221-DIRECTOR:d",
+          "text": "Gerhard Polt",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Loriot führte Regie.",
+      "context": "Loriot hieß bürgerlich Vicco von Bülow. Er schrieb, inszenierte und spielte in seinen beiden Kinokomödien „Ödipussi“ und „Pappa ante portas“.",
+      "anchor": "Pappa ante portas → Loriot",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.loriot.de/index.php/loriot/werke/filme",
+        "https://www.filmportal.de/film/pappa-ante-portas_f991ebe4e3694a9aaaf35cc56f47cee9"
+      ]
+    },
+    {
+      "id": "F240-20261006-198-L1",
+      "originalId": "F240-20261006-198-L1",
+      "knowledgeId": "K-F240-20261006-198-L1",
+      "filmKey": "Paprika|2006",
+      "filmTitle": "Paprika",
+      "difficulty": "leicht",
+      "questionType": "Filmtechnik",
+      "learningObjective": "Traumzugang kann von Therapie zu Kontrolle wechseln.",
+      "question": "Was ermöglicht das DC Mini in „Paprika“?",
+      "answers": [
+        {
+          "id": "F240-20261006-198-L1:a",
+          "text": "Den Zugang zu den Träumen anderer Menschen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-L1:b",
+          "text": "Den Austausch wacher Sinneseindrücke",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-L1:c",
+          "text": "Den Zugriff auf verlorene Erinnerungen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-L1:d",
+          "text": "Den Kontakt mit künstlichen Persönlichkeiten",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das DC Mini erlaubt den Zugang zu fremden Träumen.",
+      "context": "Das DC Mini erlaubt den Zugang zu fremden Träumen. Als die Technik gestohlen wird, kann therapeutisches Wissen zur Manipulation werden; Grenzen zwischen persönlichem Innenleben und äußerer Macht geraten in Gefahr.",
+      "anchor": "Traumzugang kann von Therapie zu Kontrolle wechseln.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paprika_(2006_film)",
+        "https://de.wikipedia.org/wiki/Paprika_(Anime)"
+      ]
+    },
+    {
+      "id": "F240-20261006-198-L2",
+      "originalId": "F240-20261006-198-L2",
+      "knowledgeId": "K-F240-20261006-198-L2",
+      "filmKey": "Paprika|2006",
+      "filmTitle": "Paprika",
+      "difficulty": "leicht",
+      "questionType": "Figuren",
+      "learningObjective": "Alltagsärztin und Traumhelferin gehören zu derselben Person.",
+      "question": "Wie ist Paprika mit Dr. Atsuko Chiba (Originalstimme: Megumi Hayashibara) in „Paprika“ verbunden?",
+      "answers": [
+        {
+          "id": "F240-20261006-198-L2:a",
+          "text": "Sie ist eine technisch erzeugte Kopie ohne Atsukos Bewusstsein.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-L2:b",
+          "text": "Sie ist Atsukos Traumidentität.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-L2:c",
+          "text": "Sie ist die frühere Kollegin Atsukos.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-L2:d",
+          "text": "Sie ist Atsukos Patientin aus einer anderen Klinik.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Paprika ist Atsukos Traumidentität; beide spricht Megumi Hayashibara im Original.",
+      "context": "Dr. Atsuko Chiba und Paprika (Originalstimme jeweils Megumi Hayashibara) unterscheiden sich deutlich im Auftreten: Die Ärztin wirkt seriös und kontrolliert, ihre Traumgestalt lebhaft und spontan. Noch vor der Freigabe des DC Mini behandelt Chiba in dieser Gestalt heimlich Patienten außerhalb des Instituts.",
+      "anchor": "Alltagsärztin und Traumhelferin gehören zu derselben Person.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Paprika_(Anime)",
+        "https://en.wikipedia.org/wiki/Paprika_(2006_film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-198-M1",
+      "originalId": "F240-20261006-198-M1",
+      "knowledgeId": "K-F240-20261006-198-M1",
+      "filmKey": "Paprika|2006",
+      "filmTitle": "Paprika",
+      "difficulty": "mittel",
+      "questionType": "Motiv",
+      "learningObjective": "Die Gegenstandsparade verbindet Träume und Stadt.",
+      "question": "Welches wiederkehrende Bild verbreitet den fremden Traum in „Paprika“?",
+      "answers": [
+        {
+          "id": "F240-20261006-198-M1:a",
+          "text": "Ein endloser Korridor voller Türen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-M1:b",
+          "text": "Eine Flut identischer menschlicher Doppelgänger",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-M1:c",
+          "text": "Eine Parade verschiedenster Gegenstände",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-M1:d",
+          "text": "Ein Schwarm schwebender Fernsehbildschirme",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eine bizarre Parade aus Gegenständen zieht durch Träume und später die Stadt.",
+      "context": "Satoshi Kon wollte Träume im Kino nicht durch lange Erklärungen zu Kindheit und Lebensgeschichte entschlüsseln. Die Parade sollte stattdessen vertraute unbewusste Bilder ansprechen. Er füllte sie unter anderem mit weggeworfenen Gegenständen und vergessenen religiösen Symbolen.",
+      "anchor": "Die Gegenstandsparade verbindet Träume und Stadt.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paprika_(2006_film)",
+        "https://screenanarchy.com/2006/10/paprika-interview-with-satoshi-kon"
+      ]
+    },
+    {
+      "id": "F240-20261006-198-M2",
+      "originalId": "F240-20261006-198-M2",
+      "knowledgeId": "K-F240-20261006-198-M2",
+      "filmKey": "Paprika|2006",
+      "filmTitle": "Paprika",
+      "difficulty": "mittel",
+      "questionType": "Figur",
+      "learningObjective": "Das verdrängte Filmprojekt prägt Konakawas Traumlogik.",
+      "question": "Welche persönliche Vergangenheit steckt hinter Konakawas Traum in „Paprika“?",
+      "answers": [
+        {
+          "id": "F240-20261006-198-M2:a",
+          "text": "Ein abgebrochener Schauspielkurs und der Tod seines Lehrers",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-M2:b",
+          "text": "Ein gescheiterter Kinobetrieb und der Verlust seines Partners",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-M2:c",
+          "text": "Ein verlorenes Drehbuch und der Streit mit seinem Produzenten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-M2:d",
+          "text": "Ein aufgegebener Filmwunsch und ein verstorbener früherer Freund",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Konakawa (Originalstimme Akio Otsuka) hat den Tod eines Jugendfreundes und den gemeinsamen Filmwunsch verdrängt.",
+      "context": "Konakawa (Originalstimme Akio Otsuka) hat den Tod eines Jugendfreundes und den gemeinsamen Filmwunsch verdrängt. Die Traumabschnitte nehmen unterschiedliche Filmgenres auf; seine innere Versöhnung führt ihn schließlich wieder ins Kino.",
+      "anchor": "Das verdrängte Filmprojekt prägt Konakawas Traumlogik.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paprika_(2006_film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-198-S1",
+      "originalId": "F240-20261006-198-S1",
+      "knowledgeId": "K-F240-20261006-198-S1",
+      "filmKey": "Paprika|2006",
+      "filmTitle": "Paprika",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Das Schutzargument verbirgt eigenen Herrschaftswillen.",
+      "question": "Wie widerspricht Inuis (Originalstimme Tōru Emori) Handeln in „Paprika“ seinem Anspruch, Träume zu schützen?",
+      "answers": [
+        {
+          "id": "F240-20261006-198-S1:a",
+          "text": "Er benutzt die gestohlene Technik selbst zur Herrschaft.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-S1:b",
+          "text": "Er verkauft die Technik heimlich an konkurrierende Kliniken.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-S1:c",
+          "text": "Er zerstört sämtliche Geräte ohne Rücksicht auf Betroffene.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-S1:d",
+          "text": "Er erzwingt die Veröffentlichung vertraulicher Patientendaten.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Inui erklärt die Technik zum Angriff auf Träume und nutzt sie zugleich selbst zur Machtausübung.",
+      "context": "Seijirō Inui (Originalstimme Tōru Emori) verbietet nach den ersten Opfern den Einsatz der DC Minis. Tatsächlich hat er selbst die Technik gestohlen und benutzt sie mit einem Mitarbeiter, um andere Menschen zu manipulieren. Sein Verbot schützt daher keine unabhängige Traumwelt, sondern verdeckt den eigenen Machtanspruch.",
+      "anchor": "Das Schutzargument verbirgt eigenen Herrschaftswillen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Paprika_(Anime)",
+        "https://en.wikipedia.org/wiki/Paprika_(2006_film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-198-S2",
+      "originalId": "F240-20261006-198-S2",
+      "knowledgeId": "K-F240-20261006-198-S2",
+      "filmKey": "Paprika|2006",
+      "filmTitle": "Paprika",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Das private Traumgeschehen überschreitet die Grenze zur gemeinsamen Welt.",
+      "question": "Welche Grenzverletzung macht die Krise am Ende von „Paprika“ besonders gefährlich?",
+      "answers": [
+        {
+          "id": "F240-20261006-198-S2:a",
+          "text": "Alle Menschen verlieren dauerhaft die Fähigkeit zu schlafen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-S2:b",
+          "text": "Traumereignisse dringen in die reale Stadt ein.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-S2:c",
+          "text": "Die Träume werden weltweit über Fernsehsender ausgestrahlt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-S2:d",
+          "text": "Die Patienten verlieren sämtliche Erinnerungen an ihr Leben.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Träume greifen in die reale Stadt über.",
+      "context": "Als die Parade die Stadt überrollt, erscheint Inui (Originalstimme Tōru Emori) als riesige dunkle Gestalt. Paprika und Atsuko (Originalstimme jeweils Megumi Hayashibara) treten ihm in einer wachsenden gemeinsamen Gestalt entgegen. Sie verschlingt ihn und beendet damit den Albtraum.",
+      "anchor": "Das private Traumgeschehen überschreitet die Grenze zur gemeinsamen Welt.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paprika_(2006_film)",
+        "https://de.wikipedia.org/wiki/Paprika_(Anime)"
+      ]
+    },
+    {
+      "id": "F240-20261006-198-Y",
+      "originalId": "F240-20261006-198-Y",
+      "knowledgeId": "K-F240-20261006-198-Y",
+      "filmKey": "Paprika|2006",
+      "filmTitle": "Paprika",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Roman 1993, Film 2006: Dreizehn Jahre führen von Tsutsuis Traumtext zu Kons wechselnder Bildwelt.",
+      "question": "In welchem Jahr wurde „Paprika“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-198-Y:a",
+          "text": "2004",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-Y:b",
+          "text": "2005",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-Y:c",
+          "text": "2006",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-Y:d",
+          "text": "2007",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "2006 wurde der Film in Venedig erstmals gezeigt.",
+      "context": "2006 wurde der Film in Venedig erstmals gezeigt. Yasutaka Tsutsuis Roman stammt von 1993, dreizehn Jahre zuvor. Kon hatte die Adaption lange erwogen; die Bildwelt verdichtet Traumwechsel, die ein literarischer Text anders vermitteln muss.",
+      "anchor": "Roman 1993, Film 2006: Dreizehn Jahre führen von Tsutsuis Traumtext zu Kons wechselnder Bildwelt.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paprika_(2006_film)",
+        "https://www.midnighteye.com/interviews/satoshi-kon-2/"
+      ]
+    },
+    {
+      "id": "F240-20261006-198-D",
+      "originalId": "F240-20261006-198-D",
+      "knowledgeId": "K-F240-20261006-198-D",
+      "filmKey": "Paprika|2006",
+      "filmTitle": "Paprika",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Satoshi Kon inszenierte und schrieb mit Seishi Minakami.",
+      "question": "Wer führte bei „Paprika“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-198-D:a",
+          "text": "Mamoru Hosoda",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-D:b",
+          "text": "Hayao Miyazaki",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-D:c",
+          "text": "Makoto Shinkai",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-198-D:d",
+          "text": "Satoshi Kon",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Satoshi Kon inszenierte und schrieb mit Seishi Minakami.",
+      "context": "Für „Perfect Blue“ hatte Satoshi Kon einen Regieauftrag erhalten; die Verfilmung von „Paprika“ betrieb er aus eigener Initiative. Er war schon lange ein Bewunderer Yasutaka Tsutsuis. Als der Schriftsteller ihm bei einer Begegnung selbst die Adaption vorschlug, fand das seit Jahren verfolgte Vorhaben einen neuen Ausgangspunkt.",
+      "anchor": "„Paprika“ war Kons eigener Adaptionswunsch, kein Regieauftrag.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paprika_(2006_film)",
+        "https://screenanarchy.com/2006/10/paprika-interview-with-satoshi-kon"
+      ]
+    },
+    {
+      "id": "E20261007-F-195-L1",
+      "originalId": "E20261007-F-195-L1",
+      "knowledgeId": "K-E20261007-F-195-L1",
+      "filmKey": "Paris When It Sizzles|1964",
+      "filmTitle": "Zusammen in Paris",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Richards verschobene Drehbucharbeit setzt die Begegnung unter Zeitdruck.",
+      "question": "Welche Aufgabe muss Richard (William Holden) in „Zusammen in Paris“ dringend erledigen?",
+      "answers": [
+        {
+          "id": "E20261007-F-195-L1:a",
+          "text": "Einen Roman für einen Verlag überarbeiten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-L1:b",
+          "text": "Ein Hörspiel für den Rundfunk schreiben",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-L1:c",
+          "text": "Ein Bühnenstück für einen Theaterleiter kürzen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-L1:d",
+          "text": "Ein Filmdrehbuch fertigstellen",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Richard muss ein Drehbuch abliefern, hat die Arbeit aber lange aufgeschoben.",
+      "context": "Richard Benson (William Holden) hat noch keine Geschichte geliefert. Der Produzent setzt ihm per Telegramm eine Frist von zwei Tagen. Um die leeren Seiten endlich zu füllen, holt Richard eine Schreibkraft in sein Pariser Hotelzimmer.",
+      "anchor": "Richards verschobene Drehbucharbeit setzt die Begegnung unter Zeitdruck.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/23752-PARIS-WHEN-IT-SIZZLES"
+      ]
+    },
+    {
+      "id": "E20261007-F-195-L2",
+      "originalId": "E20261007-F-195-L2",
+      "knowledgeId": "K-E20261007-F-195-L2",
+      "filmKey": "Paris When It Sizzles|1964",
+      "filmTitle": "Zusammen in Paris",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "learningObjective": "Aus Gabrielles Schreibauftrag wird gemeinsames Erfinden.",
+      "question": "Welche Tätigkeit übernimmt Gabrielle (Audrey Hepburn) zunächst für Richard (William Holden) in „Zusammen in Paris“?",
+      "answers": [
+        {
+          "id": "E20261007-F-195-L2:a",
+          "text": "Sie soll sein Drehbuch tippen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-L2:b",
+          "text": "Sie soll sein Drehbuch übersetzen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-L2:c",
+          "text": "Sie soll seine Dialoge einsprechen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-L2:d",
+          "text": "Sie soll seine Produktionskosten abrechnen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Gabrielle kommt als Schreibkraft zu Richard.",
+      "context": "Gabrielle (Audrey Hepburn) entdeckt bei ihrer Ankunft, dass es kaum Text zum Abtippen gibt. Bald reagiert sie auf Richards (William Holden) Einfälle und auf sein Selbstbild als Betrüger. Ihr wechselndes Vertrauen in ihn prägt auch die Liebesgeschichte, die sie gemeinsam erfinden.",
+      "anchor": "Aus Gabrielles Schreibauftrag wird gemeinsames Erfinden.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paris_When_It_Sizzles"
+      ]
+    },
+    {
+      "id": "E20261007-F-195-M1",
+      "originalId": "E20261007-F-195-M1",
+      "knowledgeId": "K-E20261007-F-195-M1",
+      "filmKey": "Paris When It Sizzles|1964",
+      "filmTitle": "Zusammen in Paris",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Zwei Tage machen das Schreiben zum gemeinsamen Improvisieren.",
+      "question": "Wie viel Zeit bleibt Richard und Gabrielle beim Beginn ihrer Zusammenarbeit in „Zusammen in Paris“ für das Drehbuch?",
+      "answers": [
+        {
+          "id": "E20261007-F-195-M1:a",
+          "text": "Einen Tag",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-M1:b",
+          "text": "Zwei Tage",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-M1:c",
+          "text": "Drei Tage",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-M1:d",
+          "text": "Vier Tage",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihnen bleiben zwei Tage bis zur Ankunft des Auftraggebers.",
+      "context": "Der Termin zwingt Richard (William Holden) und Gabrielle (Audrey Hepburn), immer neue Genreideen auszuprobieren. Aus dem geplanten Drehbuch wird abwechselnd Spionagefilm, Komödie, Liebesgeschichte, Western und Musical. Ihre Arbeit unterbrechen sie für Champagner und Annäherungen; beim Fristablauf ist der Text trotzdem noch nicht fertig.",
+      "anchor": "Zwei Tage machen das Schreiben zum gemeinsamen Improvisieren.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Film/23752-PARIS-WHEN-IT-SIZZLES",
+        "https://en.wikipedia.org/wiki/Paris_When_It_Sizzles"
+      ]
+    },
+    {
+      "id": "E20261007-F-195-M2",
+      "originalId": "E20261007-F-195-M2",
+      "knowledgeId": "K-E20261007-F-195-M2",
+      "filmKey": "Paris When It Sizzles|1964",
+      "filmTitle": "Zusammen in Paris",
+      "difficulty": "mittel",
+      "questionType": "Erzählweise",
+      "learningObjective": "Die Schreibenden werden zu Figuren ihres entstehenden Films.",
+      "question": "Wie werden die erfundenen Drehbuchideen in „Zusammen in Paris“ dargestellt?",
+      "answers": [
+        {
+          "id": "E20261007-F-195-M2:a",
+          "text": "Andere Darsteller spielen sie in stummen Probefilmen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-M2:b",
+          "text": "Ein Erzähler kommentiert dazu passende Archivaufnahmen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-M2:c",
+          "text": "Richard und Gabrielle erscheinen selbst als Figuren der gedachten Szenen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-M2:d",
+          "text": "Zeichner setzen sie als animierte Storyboards um.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Hauptdarsteller treten auch in den erfundenen Szenen auf.",
+      "context": "Die Hauptdarsteller treten auch in den erfundenen Szenen auf. Damit bleibt die Arbeit im Hotelzimmer mit dem sichtbaren Filmgeschehen verbunden. Die Wechsel können Unterschiede zwischen Wunsch, Genreidee und persönlichem Verhalten zeigen. Das Publikum verfolgt gleichzeitig die Entstehung eines Drehbuchs und eine Beziehung, die durch dieses Erfinden in Bewegung gerät.",
+      "anchor": "Die Schreibenden werden zu Figuren ihres entstehenden Films.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Film/23752-PARIS-WHEN-IT-SIZZLES",
+        "https://en.wikipedia.org/wiki/Paris_When_It_Sizzles"
+      ]
+    },
+    {
+      "id": "E20261007-F-195-S1",
+      "originalId": "E20261007-F-195-S1",
+      "knowledgeId": "K-E20261007-F-195-S1",
+      "filmKey": "Paris When It Sizzles|1964",
+      "filmTitle": "Zusammen in Paris",
+      "difficulty": "mittel",
+      "questionType": "Figur",
+      "learningObjective": "Richards unglückliches Filmende folgt seinem Urteil über sich selbst.",
+      "question": "Warum lässt Richard (William Holden) in „Zusammen in Paris“ seine eigene Filmfigur am Ende des ersten Entwurfs sterben?",
+      "answers": [
+        {
+          "id": "E20261007-F-195-S1:a",
+          "text": "Er will Gabrielle mit einem tragischen Schluss beeindrucken.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-S1:b",
+          "text": "Er hält Liebesgeschichten grundsätzlich für unverkäuflich.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-S1:c",
+          "text": "Er möchte dem Produzenten eine Fortsetzung ermöglichen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-S1:d",
+          "text": "Er hält sich selbst für gescheitert und eines glücklichen Endes unwürdig.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Richard lässt seine Filmfigur sterben und beschreibt sich anschließend selbst als gescheitert.",
+      "context": "Richard (William Holden) erklärt nach dem tragischen Schluss, seine kreativen Jahre seien vorbei. Er glaubt, Gabrielle (Audrey Hepburn) zuliebe auf ihre Liebe verzichten zu müssen, und schickt sie fort. Später sucht er sie wieder auf und schlägt eine neue gemeinsame Geschichte vor.",
+      "anchor": "Richards unglückliches Filmende folgt seinem Urteil über sich selbst.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paris_When_It_Sizzles"
+      ]
+    },
+    {
+      "id": "E20261007-F-195-S2",
+      "originalId": "E20261007-F-195-S2",
+      "knowledgeId": "K-E20261007-F-195-S2",
+      "filmKey": "Paris When It Sizzles|1964",
+      "filmTitle": "Zusammen in Paris",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Die alten Seiten verbrennen, während die neue gemeinsame Geschichte beginnt.",
+      "question": "Was tut Richard (William Holden) in „Zusammen in Paris“ beim wirklichen Neubeginn mit den Seiten des alten Drehbuchs?",
+      "answers": [
+        {
+          "id": "E20261007-F-195-S2:a",
+          "text": "Er lässt sie beim Bastille-Fest im Feuerwerk verbrennen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-S2:b",
+          "text": "Er gibt sie einem Reporter als Liebesgeständnis.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-S2:c",
+          "text": "Er wirft sie vom Eiffelturm.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-S2:d",
+          "text": "Er versteckt sie hinter einem Hotelspiegel.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Richard gibt die Seiten des bisherigen Entwurfs ins Feuerwerk.",
+      "context": "Richard (William Holden) sucht Gabrielle (Audrey Hepburn) beim Bastille-Fest wieder auf und erklärt ihr seine Liebe. Mit den alten Seiten verwirft er auch das unglückliche Ende ihres Entwurfs. Als sie sich küssen, erscheinen die Drehbuchanweisungen für Kuss und Abblende als Schrift im Bild.",
+      "anchor": "Die alten Seiten verbrennen, während die neue gemeinsame Geschichte beginnt.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paris_When_It_Sizzles"
+      ]
+    },
+    {
+      "id": "E20261007-F-195-Y",
+      "originalId": "E20261007-F-195-Y",
+      "knowledgeId": "K-E20261007-F-195-Y",
+      "filmKey": "Paris When It Sizzles|1964",
+      "filmTitle": "Zusammen in Paris",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "1952 die Vorlage, 1964 die reguläre Neufassung: zwölf Jahre später; Vorabtests 1963.",
+      "question": "In welchem Jahr erschien die regulär veröffentlichte Filmfassung von „Zusammen in Paris“?",
+      "answers": [
+        {
+          "id": "E20261007-F-195-Y:a",
+          "text": "1963",
+          "correct": false,
+          "feedback": "1963 fanden dokumentierte Sneak-Previews statt; AFI grenzt das reguläre Debüt am 8. April 1964 davon ab."
+        },
+        {
+          "id": "E20261007-F-195-Y:b",
+          "text": "1964",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-Y:c",
+          "text": "1962",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-Y:d",
+          "text": "1965",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Zusammen in Paris“ erschien regulär 1964.",
+      "context": "„Zusammen in Paris“ erschien regulär 1964. Die französische Vorlage „La fête à Henriette“ stammt von 1952: zwölf Jahre früher. Beide Filme machen das Erfinden einer Filmgeschichte selbst zur Handlung. Vor dem regulären Start fanden im September 1963 bereits Sneak-Previews statt.",
+      "anchor": "1952 die Vorlage, 1964 die reguläre Neufassung: zwölf Jahre später; Vorabtests 1963.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/23752-PARIS-WHEN-IT-SIZZLES",
+        "https://en.wikipedia.org/wiki/Holiday_for_Henrietta"
+      ]
+    },
+    {
+      "id": "E20261007-F-195-D",
+      "originalId": "E20261007-F-195-D",
+      "knowledgeId": "K-E20261007-F-195-D",
+      "filmKey": "Paris When It Sizzles|1964",
+      "filmTitle": "Zusammen in Paris",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Richard Quine führte bei „Zusammen in Paris“ Regie.",
+      "question": "Wer führte bei „Zusammen in Paris“ Regie?",
+      "answers": [
+        {
+          "id": "E20261007-F-195-D:a",
+          "text": "Billy Wilder",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-D:b",
+          "text": "Stanley Donen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-D:c",
+          "text": "Richard Quine",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-195-D:d",
+          "text": "Blake Edwards",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Richard Quine führte Regie und produzierte den Film mit Drehbuchautor George Axelrod.",
+      "context": "Regen verhinderte bei Quines Film die Aufnahmen der echten Bastille-Feier am Place Dauphine. Das Team stellte die Feier deshalb in den Studios de Boulogne nach. Die Pariser Festkulisse entstand damit auch unter Studiobedingungen.",
+      "anchor": "Quines Paris verbindet Außenmotive mit einem nachgebauten Bastille-Fest.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://catalog.afi.com/Film/23752-PARIS-WHEN-IT-SIZZLES"
+      ]
+    },
+    {
+      "id": "ART-L-001",
+      "knowledgeId": "K-ART-01-01",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "learningObjective": "Hunter ist Travis’ Sohn.",
+      "question": "„Paris, Texas“ (1984): Wer ist Hunter (Hunter Carson) für Travis (Harry Dean Stanton)?",
+      "answers": [
+        {
+          "id": "ART-L-001:a",
+          "text": "Sein Sohn",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-001:b",
+          "text": "Sein Neffe",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-001:c",
+          "text": "Sein Bruder",
+          "correct": false,
+          "feedback": "Walt (Dean Stockwell) ist Travis’ (Harry Dean Stanton) Bruder."
+        },
+        {
+          "id": "ART-L-001:d",
+          "text": "Sein Schüler",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Hunter (Hunter Carson) ist Travis’ (Harry Dean Stanton) Sohn.",
+      "context": "Travis (Harry Dean Stanton) begegnet Hunter (Hunter Carson) nach langer Abwesenheit zunächst beinahe wie einem Fremden. Das macht die Vaterrolle zu einer Aufgabe, die nicht durch Verwandtschaft allein erfüllt ist. Ihre vorsichtige Annäherung lässt sich als Gegenbewegung zu Travis’ anfänglichem Verstummen lesen: Beziehung entsteht durch gemeinsame Zeit und konkrete Aufmerksamkeit.",
+      "anchor": "Vatersein muss wieder wachsen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paris,_Texas_(film)"
+      ],
+      "originalId": "ART-L-001",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas"
+    },
+    {
+      "id": "PARISTEXAS-122-L-001",
+      "knowledgeId": "K-PARISTEXAS-122-L-001",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Travis besitzt ein unbebautes Grundstück in Paris, Texas.",
+      "question": "„Paris, Texas“: Was zeigt das Foto, das Travis (Harry Dean Stanton) seinem Bruder als seinen Besitz vorlegt?",
+      "answers": [
+        {
+          "id": "PARISTEXAS-122-L-001:a",
+          "text": "Ein verlassenes Wohnhaus",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-L-001:b",
+          "text": "Ein unbebautes Grundstück",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-L-001:c",
+          "text": "Eine geschlossene Tankstelle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-L-001:d",
+          "text": "Ein stillgelegtes Kino",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Travis besitzt das unbebaute Grundstück auf dem Foto.",
+      "context": "Travis (Harry Dean Stanton) zeigt Walt (Dean Stockwell) das Foto eines leeren Grundstücks in Paris, Texas. Er hat es gekauft, weil er glaubt, dort gezeugt worden zu sein. Der Ort verbindet seinen Wunsch nach einem eigenen Familienplatz mit der Geschichte seiner Eltern.",
+      "anchor": "Ein leeres Grundstück als Verbindung zur eigenen Herkunft.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Paris,_Texas"
+      ],
+      "originalId": "ART-L-002",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas",
+      "replaces": {
+        "id": "ART-L-002",
+        "knowledgeId": "K-ART-01-02"
+      }
+    },
+    {
+      "id": "ART-M-001",
+      "knowledgeId": "K-ART-01-03",
+      "difficulty": "mittel",
+      "questionType": "Schauplatz",
+      "learningObjective": "Die Suche führt zu Jane nach Houston.",
+      "question": "„Paris, Texas“ (1984): In welcher Stadt finden Travis (Harry Dean Stanton) und Hunter (Hunter Carson) Jane (Nastassja Kinski) wieder?",
+      "answers": [
+        {
+          "id": "ART-M-001:a",
+          "text": "Houston",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-001:b",
+          "text": "Chicago",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-001:c",
+          "text": "Los Angeles",
+          "correct": false,
+          "feedback": "Los Angeles ist der Wohnort von Walt (Dean Stockwell) und Anne (Aurore Clément)."
+        },
+        {
+          "id": "ART-M-001:d",
+          "text": "New Orleans",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Suche führt zu Jane (Nastassja Kinski) nach Houston.",
+      "context": "Anne (Aurore Clément) verrät Travis (Harry Dean Stanton), dass Jane (Nastassja Kinski) monatlich Geld von einer Bank in Houston für Hunter (Hunter Carson) überweist. Vater und Sohn warten dort am Einzahlungstag. Sie entdecken Jane am Autoschalter und folgen ihrem Wagen bis zu ihrem Arbeitsplatz.",
+      "anchor": "Die regelmäßige Bankeinzahlung führt Vater und Sohn zu Jane.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paris,_Texas_(film)"
+      ],
+      "originalId": "ART-M-001",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas"
+    },
+    {
+      "id": "ART-M-002",
+      "knowledgeId": "K-ART-01-04",
+      "difficulty": "mittel",
+      "questionType": "Inszenierung",
+      "learningObjective": "Die Aussprache erfolgt über eine Telefonanlage an einer Trennscheibe.",
+      "question": "„Paris, Texas“ (1984): Wie sprechen Travis (Harry Dean Stanton) und Jane (Nastassja Kinski) in der entscheidenden Aussprache miteinander?",
+      "answers": [
+        {
+          "id": "ART-M-002:a",
+          "text": "Persönlich an einem Tisch im Hotelzimmer",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-002:b",
+          "text": "Über eine Telefonanlage an einer Trennscheibe",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-002:c",
+          "text": "Durch ein Gitter im Besucherraum eines Gefängnisses",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-002:d",
+          "text": "Über eine Gegensprechanlage an einer verschlossenen Haustür",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eine Trennscheibe und eine Telefonanlage prägen die Aussprache.",
+      "context": "Travis (Harry Dean Stanton) und Jane (Nastassja Kinski) befinden sich während der Aussprache räumlich nahe beieinander und bleiben dennoch getrennt. Die Scheibe lässt sich als präzises Bild ihrer Beziehung lesen: Sichtbarkeit bedeutet nicht automatisch gegenseitigen Zugang. Das Gespräch verlangt Zuhören, während die Anordnung der Körper unmittelbare Versöhnung gerade nicht selbstverständlich macht.",
+      "anchor": "Nähe im Raum, Abstand im Gespräch.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Paris,_Texas",
+        "https://en.wikipedia.org/wiki/Paris,_Texas_(film)"
+      ],
+      "originalId": "ART-M-002",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas"
+    },
+    {
+      "id": "ART-S-001",
+      "knowledgeId": "K-ART-01-05",
+      "difficulty": "mittel",
+      "questionType": "Musik",
+      "learningObjective": "Die Filmmusik stammt von Ry Cooder.",
+      "question": "„Paris, Texas“ (1984): Welcher Musiker komponierte die charakteristische Filmmusik?",
+      "answers": [
+        {
+          "id": "ART-S-001:a",
+          "text": "Ry Cooder",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-001:b",
+          "text": "Angelo Badalamenti",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-001:c",
+          "text": "Ennio Morricone",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-001:d",
+          "text": "Michael Nyman",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Filmmusik stammt von Ry Cooder.",
+      "context": "Ry Cooders sparsame Gitarrenmusik begleitet die Welt von Travis (Harry Dean Stanton), ohne jede Regung auszudeuten. Zwischen den Tönen bleibt Platz für Zögern und Schweigen. Als Höreindruck entsteht damit eine Spannung zwischen Bewegung und Stillstand: Die Reise geht weiter, während sich ihre emotionalen Voraussetzungen nur langsam und unsicher verändern.",
+      "anchor": "Cooders Gitarre lässt Lücken offen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paris,_Texas_(film)",
+        "https://wimwendersstiftung.de/film/paris-texas/"
+      ],
+      "originalId": "ART-S-001",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas"
+    },
+    {
+      "id": "ART-S-002",
+      "knowledgeId": "K-ART-01-06",
+      "difficulty": "mittel",
+      "questionType": "Ende",
+      "learningObjective": "Travis verlässt den Ort nach der Zusammenführung allein.",
+      "question": "„Paris, Texas“ (1984): Was tut Travis (Harry Dean Stanton), nachdem Jane (Nastassja Kinski) und Hunter (Hunter Carson) zusammengefunden haben?",
+      "answers": [
+        {
+          "id": "ART-S-002:a",
+          "text": "Er nimmt Hunter wieder mit",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-002:b",
+          "text": "Er fährt allein davon",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-002:c",
+          "text": "Er wartet im Hotelzimmer auf beide",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-002:d",
+          "text": "Er kehrt mit Jane zu Walt zurück",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Travis (Harry Dean Stanton) verlässt den Ort allein.",
+      "context": "Travis (Harry Dean Stanton) ermöglicht die Begegnung von Jane (Nastassja Kinski) und Hunter (Hunter Carson), bleibt selbst aber außerhalb der neuen Nähe. Das Ende lässt sich deshalb als begrenzte Wiedergutmachung betrachten, nicht als vollständige Wiederherstellung der Vergangenheit. Seine Handlung hat einen Wert, auch wenn sie ihm keine selbstverständliche Rückkehr in die Familie verschafft.",
+      "anchor": "Zusammenführen heißt nicht dazugehören.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Paris,_Texas",
+        "https://en.wikipedia.org/wiki/Paris,_Texas_(film)"
+      ],
+      "originalId": "ART-S-002",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas"
+    },
+    {
+      "id": "ART-L-001-V1",
+      "knowledgeId": "K-ART-01-01",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "learningObjective": "Hunter ist Travis’ Sohn.",
+      "question": "„Paris, Texas“ (1984): Welche familiäre Verbindung erklärt Travis’ (Harry Dean Stanton) Annäherung an Hunter (Hunter Carson)?",
+      "answers": [
+        {
+          "id": "ART-L-001-V1:a",
+          "text": "Travis ist Hunters Onkel",
+          "correct": false,
+          "feedback": "Walt (Dean Stockwell), nicht Travis (Harry Dean Stanton), ist Hunters (Hunter Carson) Onkel."
+        },
+        {
+          "id": "ART-L-001-V1:b",
+          "text": "Travis ist Hunters Cousin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-001-V1:c",
+          "text": "Travis ist Hunters Vater",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-001-V1:d",
+          "text": "Travis ist Hunters Großvater",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Hunter (Hunter Carson) ist Travis’ (Harry Dean Stanton) Sohn.",
+      "context": "Travis (Harry Dean Stanton) begegnet Hunter (Hunter Carson) nach langer Abwesenheit zunächst beinahe wie einem Fremden. Das macht die Vaterrolle zu einer Aufgabe, die nicht durch Verwandtschaft allein erfüllt ist. Ihre vorsichtige Annäherung lässt sich als Gegenbewegung zu Travis’ anfänglichem Verstummen lesen: Beziehung entsteht durch gemeinsame Zeit und konkrete Aufmerksamkeit.",
+      "anchor": "Vatersein muss wieder wachsen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paris,_Texas_(film)"
+      ],
+      "originalId": "ART-L-001-V1",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas",
+      "variantOf": "ART-L-001"
+    },
+    {
+      "id": "ART-M-001-V1",
+      "knowledgeId": "K-ART-01-03",
+      "difficulty": "mittel",
+      "questionType": "Schauplatz",
+      "learningObjective": "Die Suche führt zu Jane nach Houston.",
+      "question": "„Paris, Texas“ (1984): Wohin führt die Suche nach Jane (Nastassja Kinski) schließlich?",
+      "answers": [
+        {
+          "id": "ART-M-001-V1:a",
+          "text": "Nach Boston",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-001-V1:b",
+          "text": "Nach Seattle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-001-V1:c",
+          "text": "Nach Houston",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-001-V1:d",
+          "text": "Nach Miami",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Suche führt zu Jane (Nastassja Kinski) nach Houston.",
+      "context": "Anne (Aurore Clément) verrät Travis (Harry Dean Stanton), dass Jane (Nastassja Kinski) monatlich Geld von einer Bank in Houston für Hunter (Hunter Carson) überweist. Vater und Sohn warten dort am Einzahlungstag. Sie entdecken Jane am Autoschalter und folgen ihrem Wagen bis zu ihrem Arbeitsplatz.",
+      "anchor": "Die regelmäßige Bankeinzahlung führt Vater und Sohn zu Jane.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paris,_Texas_(film)"
+      ],
+      "originalId": "ART-M-001-V1",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas",
+      "variantOf": "ART-M-001"
+    },
+    {
+      "id": "ART-S-001-V1",
+      "knowledgeId": "K-ART-01-05",
+      "difficulty": "mittel",
+      "questionType": "Musik",
+      "learningObjective": "Die Filmmusik stammt von Ry Cooder.",
+      "question": "„Paris, Texas“ (1984): Wessen Musik gibt der Reise ihren charakteristischen Gitarrenklang?",
+      "answers": [
+        {
+          "id": "ART-S-001-V1:a",
+          "text": "Hans Zimmers",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-001-V1:b",
+          "text": "Vangelis’",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-001-V1:c",
+          "text": "Ry Cooders",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-001-V1:d",
+          "text": "John Williams’",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Filmmusik stammt von Ry Cooder.",
+      "context": "Ry Cooders sparsame Gitarrenmusik begleitet die Welt von Travis (Harry Dean Stanton), ohne jede Regung auszudeuten. Zwischen den Tönen bleibt Platz für Zögern und Schweigen. Als Höreindruck entsteht damit eine Spannung zwischen Bewegung und Stillstand: Die Reise geht weiter, während sich ihre emotionalen Voraussetzungen nur langsam und unsicher verändern.",
+      "anchor": "Cooders Gitarre lässt Lücken offen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paris,_Texas_(film)",
+        "https://wimwendersstiftung.de/film/paris-texas/"
+      ],
+      "originalId": "ART-S-001-V1",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas",
+      "variantOf": "ART-S-001"
+    },
+    {
+      "id": "FF-026-YEAR",
+      "knowledgeId": "K-FF-026-YEAR",
+      "difficulty": "leicht",
+      "questionType": "Filmjahr",
+      "learningObjective": "„Paris, Texas“ erschien erstmals 1984.",
+      "question": "„Paris, Texas“: In welchem Jahr erschien der Film von Wim Wenders erstmals?",
+      "answers": [
+        {
+          "id": "FF-026-YEAR:y1984",
+          "text": "1984",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-026-YEAR:y1959",
+          "text": "1982",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-026-YEAR:y1961",
+          "text": "1983",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-026-YEAR:y1963",
+          "text": "1985",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Paris, Texas“ wurde erstmals 1984 veröffentlicht.",
+      "context": "1984 erscheint Wim Wenders’ „Paris, Texas“, 1987 „Der Himmel über Berlin“. Drei Jahre verbinden die amerikanischen Straßen und Wüsten mit dem geteilten Berlin. Derselbe Regisseur erzählt zweimal von Nähe und Entfremdung – erst mit einem schweigsamen Wanderer, dann mit Engeln über der Stadt.",
+      "anchor": "1984 Paris, Texas; 1987 Himmel über Berlin: drei Jahre Wenders.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paris,_Texas_(film)",
+        "https://en.wikipedia.org/wiki/Wings_of_Desire",
+        "https://wimwendersstiftung.de/film/paris-texas/"
+      ],
+      "originalId": "FF-026-YEAR",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas"
+    },
+    {
+      "id": "SF-202609-P02-L-037",
+      "originalId": "SF-202609-P02-L-037",
+      "knowledgeId": "K-SF-202609-P02-L-037",
+      "filmKey": "Passengers|2016",
+      "filmTitle": "Passengers",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Jennifer Lawrence spielt Aurora Lane.",
+      "question": "„Passengers“ (2016): Wer spielt die Autorin Aurora Lane auf ihrer langen Weltraumreise?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-L-037:a",
+          "text": "Jennifer Lawrence",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-037:b",
+          "text": "Emma Stone",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-037:c",
+          "text": "Emily Blunt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-037:d",
+          "text": "Jessica Chastain",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jennifer Lawrence spielt Aurora Lane.",
+      "context": "Aurora Lane (Jennifer Lawrence) besitzt vor dem Erwachen bereits eigene Pläne, die sich nicht auf eine Beziehung beschränken. Sie möchte Erfahrungen sammeln und darüber schreiben. Das macht den Verlust ihrer vorgesehenen Reise besonders konkret. Der Filmkonflikt betrifft nicht nur Einsamkeit an Bord, sondern auch die Frage, wer über die Lebenszeit und die beruflichen Möglichkeiten eines anderen Menschen verfügen darf.",
+      "anchor": "Aurora hat eine eigene Zukunft geplant.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Passengers_(2016_film)"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-L-038",
+      "originalId": "SF-202609-P02-L-038",
+      "knowledgeId": "K-SF-202609-P02-L-038",
+      "filmKey": "Passengers|2016",
+      "filmTitle": "Passengers",
+      "difficulty": "leicht",
+      "questionType": "Raumfahrt",
+      "learningObjective": "Das Raumschiff heißt Avalon.",
+      "question": "„Passengers“ (2016): Wie heißt das Raumschiff?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-L-038:a",
+          "text": "Axiom",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-038:b",
+          "text": "Avalon",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-038:c",
+          "text": "Elysium",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-038:d",
+          "text": "Endurance",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Raumschiff heißt Avalon.",
+      "context": "Morten Tyldum verglich die Avalon mit Atlantiklinern für Auswanderer: unterschiedliche Reiseklassen, Luxus und Konsumangebote. Für die Gestaltung verband er Art déco mit futuristischen und funktionalen Bereichen. Jim Preston (Chris Pratt) erlebt damit ein Schiff, das seine Passagiere unterhalten und zum Geldausgeben bringen soll, während ihm menschliche Gesellschaft fehlt.",
+      "anchor": "Die Avalon verbindet Auswandererschiff und luxuriöse Konsumwelt.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Passengers_(2016_film)",
+        "https://www.fandango.com/movie-news/exclusive-interview-passengers-director-morten-tyldum-explains-his-space-vision-in-passengers-751722"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-M-037",
+      "originalId": "SF-202609-P02-M-037",
+      "knowledgeId": "K-SF-202609-P02-M-037",
+      "filmKey": "Passengers|2016",
+      "filmTitle": "Passengers",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Eine Fehlfunktion weckt Jim lange vor der Ankunft.",
+      "question": "„Passengers“ (2016): Warum erwacht Jim (Chris Pratt) zu früh?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-M-037:a",
+          "text": "Seine Schlafkapsel hat eine Fehlfunktion",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-037:b",
+          "text": "Das Bordprogramm plant eine zusätzliche Wachphase",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-037:c",
+          "text": "Die Besatzung löst ferngesteuert eine Kontrollphase aus",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-037:d",
+          "text": "Der Reaktor erzwingt eine medizinische Notfallweckung",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eine Fehlfunktion weckt Jim lange vor der Ankunft.",
+      "context": "Jim Preston (Chris Pratt) erwacht nach einer Kollision mit einem Asteroiden. Später verschafft Gus Mancuso (Laurence Fishburne) ihm und Aurora Lane (Jennifer Lawrence) Zugang zur Brücke. Sie entdecken eine Kette von Systemausfällen: Ein beschädigtes Computermodul am Fusionsreaktor überlastet nach und nach weitere Teile des Schiffes.",
+      "anchor": "Die defekte Schlafkapsel ist Teil einer größeren Schadenskette.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Passengers_(2016_film)"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-M-038",
+      "originalId": "SF-202609-P02-M-038",
+      "knowledgeId": "K-SF-202609-P02-M-038",
+      "filmKey": "Passengers|2016",
+      "filmTitle": "Passengers",
+      "difficulty": "mittel",
+      "questionType": "Besetzung",
+      "learningObjective": "Michael Sheen spielt Arthur.",
+      "question": "„Passengers“ (2016): Wer verkörpert den Androiden-Barkeeper Arthur?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-M-038:a",
+          "text": "Paul Bettany",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-038:b",
+          "text": "Michael Sheen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-038:c",
+          "text": "Alan Tudyk",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-038:d",
+          "text": "David Thewlis",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Michael Sheen spielt Arthur.",
+      "context": "Arthur (Michael Sheen) bietet Jim Preston (Chris Pratt) Gespräch und höfliche Aufmerksamkeit, bleibt aber an die Logik seiner Funktion gebunden. Seine menschliche Erscheinung erleichtert es, ihm mehr Verständnis zuzuschreiben, als seine Rolle tatsächlich garantiert. Das wird für die Handlung wichtig, weil Vertraulichkeit, soziale Absicht und die Weitergabe von Informationen nicht dasselbe sind wie eine überzeugend gespielte freundliche Unterhaltung.",
+      "anchor": "Sheens Arthur wirkt vertraut, bleibt aber programmiert.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Passengers_(2016_film)"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-S-037",
+      "originalId": "SF-202609-P02-S-037",
+      "knowledgeId": "K-SF-202609-P02-S-037",
+      "filmKey": "Passengers|2016",
+      "filmTitle": "Passengers",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Jim weckt Aurora absichtlich und verschweigt ihr dies zunächst.",
+      "question": "„Passengers“ (2016): Was verursacht Auroras (Jennifer Lawrence) vorzeitiges Erwachen tatsächlich?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-S-037:a",
+          "text": "Jim öffnet ihre Kapsel absichtlich",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-037:b",
+          "text": "Ihr Schlafprogramm wird automatisch vorzeitig beendet",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-037:c",
+          "text": "Die Besatzung aktiviert ihre Kapsel zur Systemprüfung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-037:d",
+          "text": "Ein medizinischer Alarm löst ihre Weckung aus",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jim weckt Aurora absichtlich und verschweigt ihr dies zunächst.",
+      "context": "Arthur (Michael Sheen) verrät Aurora Lane (Jennifer Lawrence), dass Jim Preston (Chris Pratt) sie absichtlich geweckt hat. Jim wollte ihr gerade einen Heiratsantrag machen. Aurora erkennt, dass ihre vermeintlich gemeinsame Panne auf einer Täuschung beruht, weist seine Entschuldigungen zurück und meidet ihn.",
+      "anchor": "Arthurs Enthüllung zerstört Auroras Vertrauen in Jim.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Passengers_(2016_film)"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-S-038",
+      "originalId": "SF-202609-P02-S-038",
+      "knowledgeId": "K-SF-202609-P02-S-038",
+      "filmKey": "Passengers|2016",
+      "filmTitle": "Passengers",
+      "difficulty": "mittel",
+      "questionType": "Handlungsdetail",
+      "learningObjective": "Das Wasser bildet eine schwebende Masse, in der Aurora gefangen ist.",
+      "question": "„Passengers“ (2016): Was geschieht während des Ausfalls der künstlichen Schwerkraft im Schwimmbecken?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-S-038:a",
+          "text": "Das Wasser drückt Aurora gegen die Beckenwand",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-038:b",
+          "text": "Das Wasser schwebt mit Aurora im Raum",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-038:c",
+          "text": "Das Wasser haftet an den Wänden, Aurora schwebt dazwischen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-038:d",
+          "text": "Das Wasser bleibt im Becken, Aurora schwebt darüber",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Wasser bildet eine schwebende Masse, in der Aurora gefangen ist.",
+      "context": "Aurora Lane (Jennifer Lawrence) befindet sich in einem Freizeitbereich, der normalerweise Sicherheit und Komfort verspricht. Beim Ausfall der Schwerkraft werden dieselben Eigenschaften des Wassers lebensgefährlich. Die Szene erklärt das Problem nicht nur verbal, sondern lässt die fehlende Orientierung körperlich sichtbar werden. Ein technisches System, das zuvor kaum Beachtung verlangte, erweist sich plötzlich als Voraussetzung dafür, dass ein alltäglicher Raum überhaupt benutzbar bleibt.",
+      "anchor": "Ohne Schwerkraft wird das Schwimmbecken zur Falle.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Passengers_(2016_film)",
+        "https://www.motionpictures.org/2016/12/passengers-vfx-supervisor-creating-zero-gravity-mayhem/"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-L-037-V1",
+      "originalId": "SF-202609-P02-L-037-V1",
+      "knowledgeId": "K-SF-202609-P02-L-037",
+      "filmKey": "Passengers|2016",
+      "filmTitle": "Passengers",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Jennifer Lawrence spielt Aurora Lane.",
+      "question": "„Passengers“ (2016): Welche Schauspielerin verkörpert die Autorin Aurora auf der langen Weltraumreise?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-L-037-V1:a",
+          "text": "Jessica Chastain",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-037-V1:b",
+          "text": "Emily Blunt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-037-V1:c",
+          "text": "Jennifer Lawrence",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-037-V1:d",
+          "text": "Emma Stone",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jennifer Lawrence spielt Aurora Lane.",
+      "context": "Aurora Lane (Jennifer Lawrence) besitzt vor dem Erwachen bereits eigene Pläne, die sich nicht auf eine Beziehung beschränken. Sie möchte Erfahrungen sammeln und darüber schreiben. Das macht den Verlust ihrer vorgesehenen Reise besonders konkret. Der Filmkonflikt betrifft nicht nur Einsamkeit an Bord, sondern auch die Frage, wer über die Lebenszeit und die beruflichen Möglichkeiten eines anderen Menschen verfügen darf.",
+      "anchor": "Aurora hat eine eigene Zukunft geplant.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Passengers_(2016_film)"
+      ],
+      "variantOf": "SF-202609-P02-L-037"
+    },
+    {
+      "id": "FF-344-YEAR",
+      "originalId": "FF-344-YEAR",
+      "knowledgeId": "K-FF-344-YEAR",
+      "filmKey": "Passengers|2016",
+      "filmTitle": "Passengers",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Das Filmjahr mit AlphaGos Erfolg 2016 verbinden.",
+      "question": "„Passengers“: In welchem Jahr erschien der Film von Morten Tyldum erstmals?",
+      "answers": [
+        {
+          "id": "FF-344-YEAR:y2016",
+          "text": "2016",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-344-YEAR:y2006",
+          "text": "2015",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-344-YEAR:y2008",
+          "text": "2017",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-344-YEAR:y2010",
+          "text": "2018",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Passengers“ wurde erstmals 2016 veröffentlicht.",
+      "context": "2016 besiegt AlphaGo Lee Sedol. In „Passengers“ vertrauen Menschen im selben Jahr einem automatisierten Raumschiff ihre lange Reise an. Die reale Leistung einer KI und die Risiken eines selbstständig arbeitenden Filmsystems verbinden zwei technische Vertrauensfragen.",
+      "anchor": "2016: AlphaGo gewinnt, Passengers vertraut der Automatik.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Passengers_(2016_film)",
+        "https://deepmind.google/research/alphago/"
+      ]
+    },
+    {
+      "id": "FF-344-DIRECTOR",
+      "originalId": "FF-344-DIRECTOR",
+      "knowledgeId": "K-FF-344-DIRECTOR",
+      "filmKey": "Passengers|2016",
+      "filmTitle": "Passengers",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Tyldums Verbindung von großem Raumfahrtfilm und Figurendrama erkennen.",
+      "question": "Wer führte bei „Passengers“ (2016) Regie?",
+      "answers": [
+        {
+          "id": "FF-344-DIRECTOR:a",
+          "text": "Morten Tyldum",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-344-DIRECTOR:b",
+          "text": "Denis Villeneuve",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-344-DIRECTOR:c",
+          "text": "Colin Trevorrow",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-344-DIRECTOR:d",
+          "text": "Ridley Scott",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Morten Tyldum führte Regie.",
+      "context": "Morten Tyldum wollte einen großen Science-Fiction-Film machen, betonte für „Passengers“ aber die Figurenentwicklung gegenüber den Effekten. Viele Drehszenen konzentrierten sich allein auf die beiden Hauptdarsteller. James Preston (Chris Pratt) und Aurora Lane (Jennifer Lawrence) leben auf einem riesigen Schiff, dessen übrige Passagiere schlafen. Die groß angelegte Umgebung und die kleine aktive Besetzung sind also eng miteinander verknüpft.",
+      "anchor": "Passengers → Morten Tyldum",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Passengers_(2016_film)",
+        "https://www.fandango.com/movie-news/exclusive-interview-passengers-director-morten-tyldum-explains-his-space-vision-in-passengers-751722"
+      ]
+    },
+    {
+      "id": "F240-20261006-047-L1",
+      "originalId": "F240-20261006-047-L1",
+      "knowledgeId": "K-F240-20261006-047-L1",
+      "filmKey": "Past Lives|2023",
+      "filmTitle": "Past Lives – In einem anderen Leben",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Auswanderung trennt die Kindheitsfreunde.",
+      "question": "Wodurch verlieren die Kindheitsfreunde in „Past Lives – In einem anderen Leben“ zunächst den Kontakt?",
+      "answers": [
+        {
+          "id": "F240-20261006-047-L1:a",
+          "text": "Noras Familie wandert nach Kanada aus.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-L1:b",
+          "text": "Hae Sungs Familie zieht in eine andere koreanische Stadt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-L1:c",
+          "text": "Nora wechselt in ein entferntes Internat.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-L1:d",
+          "text": "Beide beschließen bewusst, ihre Freundschaft zu beenden.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Noras Familie wandert nach Kanada aus.",
+      "context": "Die zwölfjährige Na Young (Seung Ah Moon) wandert mit ihrer Familie nach Kanada aus und nimmt den Namen Nora an. In Seoul bleibt Hae Sung (Seung Min Yim) zurück. Als Erwachsene finden Nora (Greta Lee) und Hae Sung (Teo Yoo) über Facebook und Videogespräche wieder zueinander.",
+      "anchor": "Die Auswanderung trennt die Kindheitsfreunde.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Past_Lives_(film)",
+        "https://a24films.com/films/past-lives"
+      ]
+    },
+    {
+      "id": "F240-20261006-047-L2",
+      "originalId": "F240-20261006-047-L2",
+      "knowledgeId": "K-F240-20261006-047-L2",
+      "filmKey": "Past Lives|2023",
+      "filmTitle": "Past Lives – In einem anderen Leben",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Das spätere Wiedersehen findet in New York statt.",
+      "question": "In welcher Stadt besucht Hae Sung (Teo Yoo) die erwachsene Nora (Greta Lee) in „Past Lives – In einem anderen Leben“?",
+      "answers": [
+        {
+          "id": "F240-20261006-047-L2:a",
+          "text": "Toronto",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-L2:b",
+          "text": "New York",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-L2:c",
+          "text": "Los Angeles",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-L2:d",
+          "text": "Busan",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Hae Sung besucht Nora in New York.",
+      "context": "Hae Sung (Teo Yoo) besucht Nora (Greta Lee) in New York. Dort lebt sie mit Arthur (John Magaro); sein Besuch bringt die Erinnerungen an Korea in ihre gegenwärtige Ehe.",
+      "anchor": "Das spätere Wiedersehen findet in New York statt.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Past_Lives_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-047-M1",
+      "originalId": "F240-20261006-047-M1",
+      "knowledgeId": "K-F240-20261006-047-M1",
+      "filmKey": "Past Lives|2023",
+      "filmTitle": "Past Lives – In einem anderen Leben",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Bildschirmkontakt konkurriert mit Noras eigenem Weg.",
+      "question": "Warum unterbricht Nora (Greta Lee) in „Past Lives – In einem anderen Leben“ die wiederaufgenommenen Videogespräche?",
+      "answers": [
+        {
+          "id": "F240-20261006-047-M1:a",
+          "text": "Sie möchte nach einem Streit keine Freundschaft mehr.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-M1:b",
+          "text": "Sie plant bereits einen sofortigen Besuch in Seoul.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-M1:c",
+          "text": "Sie möchte sich auf ihr Schreiben und ihr Leben konzentrieren.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-M1:d",
+          "text": "Sie kann die schwierigen Gesprächszeiten technisch nicht lösen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Nora möchte ihren gegenwärtigen Lebensweg verfolgen.",
+      "context": "Nora (Greta Lee) möchte ihren gegenwärtigen Lebensweg verfolgen. Die ständigen Gespräche lassen die räumliche Trennung nicht verschwinden; sie entscheidet sich für eine Pause und begegnet später Arthur (John Magaro).",
+      "anchor": "Der Bildschirmkontakt konkurriert mit Noras eigenem Weg.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Past_Lives_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-047-M2",
+      "originalId": "F240-20261006-047-M2",
+      "knowledgeId": "K-F240-20261006-047-M2",
+      "filmKey": "Past Lives|2023",
+      "filmTitle": "Past Lives – In einem anderen Leben",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Schreibaufenthalt bringt Nora und Arthur zusammen.",
+      "question": "Wo lernen Nora (Greta Lee) und Arthur (John Magaro) sich in „Past Lives – In einem anderen Leben“ kennen?",
+      "answers": [
+        {
+          "id": "F240-20261006-047-M2:a",
+          "text": "Bei einer Theaterprobe in New York",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-M2:b",
+          "text": "Bei einer gemeinsamen Sprachschule",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-M2:c",
+          "text": "Bei einer Lesung in Toronto",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-M2:d",
+          "text": "Bei einem Schreibaufenthalt",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sie lernen sich bei einem Schreibaufenthalt kennen.",
+      "context": "Beim Schreibaufenthalt in Montauk lernt Nora (Greta Lee) Arthur (John Magaro) kennen. Sie verlieben sich und sprechen über Inyeon: die Vorstellung, dass frühere Leben gegenwärtige Begegnungen miteinander verbinden. So führt Nora diese Idee bereits in ihre neue Beziehung ein, bevor Hae Sung (Teo Yoo) später zu Besuch kommt.",
+      "anchor": "In Montauk begegnet Nora Arthur und erklärt ihm Inyeon.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Past_Lives_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-047-S1",
+      "originalId": "F240-20261006-047-S1",
+      "knowledgeId": "K-F240-20261006-047-S1",
+      "filmKey": "Past Lives|2023",
+      "filmTitle": "Past Lives – In einem anderen Leben",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die gemeinsame Muttersprache schafft zeitweise einen eigenen Raum.",
+      "question": "Wie sprechen Nora (Greta Lee) und Hae Sung (Teo Yoo) beim gemeinsamen Barbesuch in „Past Lives“ miteinander?",
+      "answers": [
+        {
+          "id": "F240-20261006-047-S1:a",
+          "text": "Nora und Hae Sung sprechen ohne Übersetzung Koreanisch.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-S1:b",
+          "text": "Sie führen das Gespräch mit Arthur überwiegend auf Englisch.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-S1:c",
+          "text": "Hae Sung und Nora sprechen Englisch mit koreanischen Einschüben.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-047-S1:d",
+          "text": "Nora übersetzt jeden koreanischen Satz sofort für Arthur.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Nora (Greta Lee) und Hae Sung (Teo Yoo) wechseln ins Koreanische ohne durchgehende Übersetzung.",
+      "context": "Nora (Greta Lee) und Hae Sung (Teo Yoo) wechseln ins Koreanische ohne durchgehende Übersetzung. Arthur (John Magaro) versteht diesen Teil nicht; die Szene macht biografische Nähe über eine konkrete Gesprächssituation erfahrbar.",
+      "anchor": "Die gemeinsame Muttersprache schafft zeitweise einen eigenen Raum.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Past_Lives_(film)"
+      ]
+    },
+    {
+      "id": "ED122-PAPPA-S-001",
+      "originalId": "ED122-PAPPA-S-001",
+      "knowledgeId": "K-ED122-PAPPA-S-001",
+      "filmKey": "Pappa ante portas|1991",
+      "filmTitle": "Pappa ante portas",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Requisiten als sichtbare Zeichen von Heinrichs Machtverlust erkennen.",
+      "question": "Welche Kombination unterstreicht Heinrichs (Loriot) Machtverlust beim Gespräch mit dem Generaldirektor in „Pappa ante portas“?",
+      "answers": [
+        {
+          "id": "ED122-PAPPA-S-001:a",
+          "text": "Ein erhöhter Sessel; eine zerbrochene Brille",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED122-PAPPA-S-001:b",
+          "text": "Ein tiefer Sessel; eine zerbröselnde Zigarre",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED122-PAPPA-S-001:c",
+          "text": "Ein kippender Schreibtisch; ein zerbrechendes Glas",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED122-PAPPA-S-001:d",
+          "text": "Ein blockierter Drehstuhl; ein abreißender Telefonhörer",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Sessel lässt Heinrich klein wirken, während die Zigarre in seiner Hand zerfällt.",
+      "context": "Heinrich (Loriot) versinkt im Sitzpolster und hält die angebotene Zigarre unangezündet fest. Als der Generaldirektor seinen Ruhestand anspricht, zerbröselt sie. Diese im veröffentlichten Drehbuchauszug beschriebenen Gesten machen seine Verunsicherung sichtbar. Gedreht wurde das Gespräch in der großzügigen Bibliothek des Axel-Springer-Hauses, deren Ausstattung die Überlegenheit des Chefs unterstützt.",
+      "anchor": "Kleiner Mann im tiefen Sessel, zerfallende Zigarre.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.axelspringer.com/en/inside/hopefully-we-wont-destroy-everything"
+      ]
+    },
+    {
+      "id": "ED122-PAPRIKA-S-001",
+      "originalId": "ED122-PAPRIKA-S-001",
+      "knowledgeId": "K-ED122-PAPRIKA-S-001",
+      "difficulty": "schwer",
+      "questionType": "Adaption",
+      "learningObjective": "Kons Zusammenlegung zweier Romanfiguren zur filmischen Konakawa-Figur verstehen.",
+      "question": "Wie bearbeitete Kon für „Paprika“ den Ermittler und den Filmwunsch der Romanvorlage?",
+      "answers": [
+        {
+          "id": "ED122-PAPRIKA-S-001:a",
+          "text": "Er spaltete einen Romanhelden in Ermittler und Filmemacher.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED122-PAPRIKA-S-001:b",
+          "text": "Er vereinigte Konakawa mit dem filmbegeisterten Nose.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED122-PAPRIKA-S-001:c",
+          "text": "Er übertrug Paprikas Filmwunsch auf Konakawa.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED122-PAPRIKA-S-001:d",
+          "text": "Er erfand eine Filmjugend für den literarischen Ermittler.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kon vereinigte den Ermittler Konakawa und den angehenden Regisseur Nose.",
+      "context": "Kon vereinigte den Ermittler Konakawa (Originalstimme Akio Otsuka) mit Nose, der im Roman Regisseur werden wollte. Er begrenzte so die Figurenzahl und verband den verdrängten Filmwunsch unmittelbar mit der Ermittlergeschichte.",
+      "anchor": "Zwei Romanfiguren werden zu einem filmgeprägten Ermittler.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.midnighteye.com/interviews/satoshi-kon-2/",
+        "https://en.wikipedia.org/wiki/Paprika_(2006_film)"
+      ],
+      "filmKey": "Paprika|2006",
+      "filmTitle": "Paprika"
+    },
+    {
+      "id": "ED122-PAPRIKA-S-002",
+      "originalId": "ED122-PAPRIKA-S-002",
+      "knowledgeId": "K-ED122-PAPRIKA-S-002",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Kons angestrebtes Verhältnis von Handzeichnung und Computergrafik erkennen.",
+      "question": "Welches Verhältnis zwischen Handzeichnung und Computergrafik strebte Kon bei „Paprika“ an?",
+      "answers": [
+        {
+          "id": "ED122-PAPRIKA-S-002:a",
+          "text": "Handzeichnung sollte die digitalen Elemente gestalterisch aufnehmen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED122-PAPRIKA-S-002:b",
+          "text": "Computergrafik sollte die Handzeichnung zunehmend ersetzen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED122-PAPRIKA-S-002:c",
+          "text": "Beide Techniken sollten sichtbar getrennte Traumebenen markieren.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED122-PAPRIKA-S-002:d",
+          "text": "Handzeichnung sollte Figuren, Computergrafik ausschließlich Hintergründe darstellen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die digitale Animation sollte in der handgezeichneten Bildwelt aufgehen.",
+      "context": "Der größere Einsatz von Computergrafik stellte Kon vor das Problem, zwei unterschiedliche Bildverfahren harmonisch zu verbinden. Er wollte, dass die handgezeichnete Animation die digitale aufnimmt. Zugleich suchte er durch übersteigerte Wirklichkeitsdarstellung eine surreale Welt, statt die sichtbare Realität einfach nachzubauen.",
+      "anchor": "Das Digitale soll in der gezeichneten Welt aufgehen.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.midnighteye.com/interviews/satoshi-kon-2/"
+      ],
+      "filmKey": "Paprika|2006",
+      "filmTitle": "Paprika"
+    },
+    {
+      "id": "PARISTEXAS-122-S-001",
+      "knowledgeId": "K-PARISTEXAS-122-S-001",
+      "difficulty": "schwer",
+      "questionType": "Inszenierung",
+      "learningObjective": "Ein echter Einwegspiegel machte das ungleiche Sehen spielbar, verlangte aber starke Beleuchtung.",
+      "question": "Wie setzte Kameramann Robby Müller die ungleiche Sichtbarkeit der Schlussaussprache in „Paris, Texas“ praktisch um?",
+      "explanation": "Ein echter Einwegspiegel stellte die Sichtverhältnisse her; sein Lichtverlust erforderte starke Beleuchtung.",
+      "context": "Wenders wollte zunächst Glas und einen Spiegel je nach Kameraseite wechseln. Robby Müller ließ stattdessen einen Einwegspiegel anfertigen: Travis (Harry Dean Stanton) konnte Jane (Nastassja Kinski) tatsächlich sehen, sie ihn zunächst nicht. Das erleichterte beiden das Spiel. Der Spiegel schluckte jedoch zwei Blenden Licht; die starke Beleuchtung machte Janes Kabine heiß.",
+      "anchor": "Reale Sichtverhältnisse erleichtern das Spiel, kosten aber Licht.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://harvardfilmarchive.org/calendar/paris-texas-2018-04/1"
+      ],
+      "originalId": "PARISTEXAS-122-S-001",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas",
+      "answers": [
+        {
+          "id": "PARISTEXAS-122-S-001:a",
+          "text": "Mit gewöhnlichem Glas und verdeckten Blickmarken",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-S-001:b",
+          "text": "Mit getrennter Aufnahme und nachträglicher Bildüberlagerung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-S-001:c",
+          "text": "Mit einem echten Einwegspiegel und starker Beleuchtung",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-S-001:d",
+          "text": "Mit einem Spiegel und ausschließlich aufgenommenen Stimmen",
+          "correct": false,
+          "feedback": ""
+        }
+      ]
+    },
+    {
+      "id": "PARISTEXAS-122-S-002",
+      "knowledgeId": "K-PARISTEXAS-122-S-002",
+      "difficulty": "schwer",
+      "questionType": "Musikgeschichte",
+      "learningObjective": "Blind Willie Johnsons „Dark Was the Night“ wurde vom vorläufigen Musikbeispiel zum Hauptthema.",
+      "question": "Welche Aufnahme nutzte Wim Wenders als musikalische Vorlage für Ry Cooders Hauptthema in „Paris, Texas“?",
+      "explanation": "Blind Willie Johnsons „Dark Was the Night“ gab die musikalische Richtung vor.",
+      "context": "Wenders unterlegte den Film vorläufig mit Blind Willie Johnsons Aufnahme, als er ihn Ry Cooder zeigte. Er wünschte sich diesen Bottleneck-Gitarrenstil für die Filmmusik. Cooder kannte das Stück und hatte es selbst aufgenommen. Dessen Thema wurde zum musikalischen Hauptthema von „Paris, Texas“: Die vorläufige Auswahl prägte damit die eigentliche Komposition.",
+      "anchor": "Johnsons vorläufige Filmmusik wird zur Grundlage von Cooders Hauptthema.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.snappermusic.com/theblues/aboutfilms/wendersinterview.html"
+      ],
+      "originalId": "PARISTEXAS-122-S-002",
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas",
+      "answers": [
+        {
+          "id": "PARISTEXAS-122-S-002:a",
+          "text": "Blind Willie Johnsons „Dark Was the Night“",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-S-002:b",
+          "text": "Skip James’ „Devil Got My Woman“",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-S-002:c",
+          "text": "Robert Johnsons „Cross Road Blues“",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-S-002:d",
+          "text": "John Lee Hookers „Boogie Chillen“",
+          "correct": false,
+          "feedback": ""
+        }
+      ]
+    },
+    {
+      "id": "PARISTEXAS-122-D-001",
+      "originalId": "PARISTEXAS-122-D-001",
+      "knowledgeId": "K-PARISTEXAS-122-D-001",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Wim Wenders inszenierte den Film.",
+      "question": "„Paris, Texas“ (1984): Wer führte Regie?",
+      "answers": [
+        {
+          "id": "PARISTEXAS-122-D-001:a",
+          "text": "Werner Herzog",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-D-001:b",
+          "text": "Wim Wenders",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-D-001:c",
+          "text": "Rainer Werner Fassbinder",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PARISTEXAS-122-D-001:d",
+          "text": "Volker Schlöndorff",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Wim Wenders inszenierte den Film.",
+      "context": "Wim Wenders verbindet die Reise von Travis (Harry Dean Stanton) mit auffällig weiten Landschaften und intimen Gesprächssituationen. Für die Betrachtung lohnt sich dieser Größenwechsel: Eine Figur kann viel Raum durchqueren und ihrem eigentlichen Problem dennoch kaum näherkommen. Die Landschaft lässt sich deshalb auch als sichtbarer Abstand zwischen Menschen lesen.",
+      "anchor": "Wenders verbindet Straße und Innenleben.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://wimwendersstiftung.de/film/paris-texas/",
+        "https://harvardfilmarchive.org/calendar/paris-texas-2018-04/1"
+      ],
+      "filmKey": "Paris, Texas|1984",
+      "filmTitle": "Paris, Texas"
     }
   ]
 }
