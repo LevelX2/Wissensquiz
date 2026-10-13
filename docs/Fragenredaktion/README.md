@@ -2,7 +2,7 @@
 
 [Fragen.json](Fragen.json) enthält die jeweils letzte redaktionelle Fassung der bearbeiteten Fragen und Ergänzungen samt Quellen. `originalId` ordnet eine Fassung der bearbeiteten Katalog-ID zu; Ersatzfragen behalten ihre ausdrücklich vergebenen neuen Frage- und Wissensziel-IDs. Es werden keine alten Textfassungen, Vergleiche oder Einzelbewertungen gespeichert.
 
-[Fortschritt.json](Fortschritt.json) führt geprüfte Original-IDs und die verbleibende filmweise Warteschlange. Aktueller abgeschlossener Stand: 6.450 von 12.773 Original-IDs geprüft; 6.323 offen. Block 126 ist abgeschlossen. Zusatzfragen zählen nicht als weitere geprüfte Original-IDs.
+[Fortschritt.json](Fortschritt.json) führt geprüfte Original-IDs und die verbleibende filmweise Warteschlange. Aktueller abgeschlossener Stand: 6.500 von 12.773 Original-IDs geprüft; 6.273 offen. Block 127 ist abgeschlossen. Zusatzfragen zählen nicht als weitere geprüfte Original-IDs.
 
 Die App enthält seit Version 65 die bis Block 17 übernommenen Fassungen: 999 Original-IDs, 41 Ersatzfragen, 14 Ergänzungen und 78 Jahres-/Regievorlagen. Spätere redaktionelle Fassungen sind noch nicht in die App übernommen. Die aktuellen erwarteten Daten dieser bereits angewandten Redaktion liegen für die bestehenden Tests in `tests/fixtures/appliedEditorial.json`.
 
