@@ -329807,6 +329807,2592 @@
       "sources": [
         "https://www.ingmarbergman.se/en/production/persona"
       ]
+    },
+    {
+      "id": "G100-20261008-HORROR-011-M2",
+      "originalId": "G100-20261008-HORROR-011-M2",
+      "knowledgeId": "K-G100-20261008-HORROR-011-M2",
+      "filmKey": "Phantasm|1979",
+      "filmTitle": "Das Böse",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Beweis im Behälter wird selbst lebendig.",
+      "question": "Was geschieht in „Das Böse“ mit dem Finger, den Mike (A. Michael Baldwin) vom Bestatter abtrennt?",
+      "answers": [
+        {
+          "id": "G100-20261008-HORROR-011-M2:a",
+          "text": "Er zerfällt sofort zu schwarzem Staub.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-M2:b",
+          "text": "Er wächst im Glas zu einer neuen Hand.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-M2:c",
+          "text": "Er bewegt sich weiter und verwandelt sich später in ein Insektenwesen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-M2:d",
+          "text": "Er wird bei Tageslicht zu einem menschlichen Knochen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der abgetrennte Finger bleibt lebendig und wird zu einem Insektenwesen.",
+      "context": "Mike Pearson (A. Michael Baldwin) trennt bei seiner Flucht einen Finger des Tall Man (Angus Scrimm) ab. Das Körperteil bewegt sich weiter und scheint zunächst ein Beweis zu sein, den er seinem Bruder Jody (Bill Thornbury) zeigen kann. Später verwandelt es sich in ein bedrohliches Insektenwesen. Der vermeintlich sichere Beleg wird dadurch selbst zur Gefahr und bestätigt, dass normale körperliche Regeln hier versagen.",
+      "anchor": "Der Beweis im Behälter wird selbst lebendig.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phantasm_(film)",
+        "https://catalog.afi.com/Catalog/moviedetails/67731"
+      ]
+    },
+    {
+      "id": "G100-20261008-HORROR-011-S1",
+      "originalId": "G100-20261008-HORROR-011-S1",
+      "knowledgeId": "K-G100-20261008-HORROR-011-S1",
+      "filmKey": "Phantasm|1979",
+      "filmTitle": "Das Böse",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Das Grab ist der Anfang einer erzwungenen Arbeit in einer fremden Welt.",
+      "question": "Was erkennen die Brüder in „Das Böse“ über die kleinen verhüllten Diener des Bestatters?",
+      "answers": [
+        {
+          "id": "G100-20261008-HORROR-011-S1:a",
+          "text": "Es sind freiwillige Helfer aus einer geheimen Sekte.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-S1:b",
+          "text": "Es sind verkleidete Kinder aus einem benachbarten Heim.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-S1:c",
+          "text": "Es sind künstliche Puppen, die von außen gesteuert werden.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-S1:d",
+          "text": "Es sind verkleinerte Tote, die anderswo als Sklaven arbeiten.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Tall Man macht aus gestohlenen Leichen verkleinerte Sklaven.",
+      "context": "Mike Pearson (A. Michael Baldwin) und Jody (Bill Thornbury) entdecken den Zusammenhang zwischen den verschwundenen Leichen und den kleinen verhüllten Wesen. Der Tall Man (Angus Scrimm) verändert die Toten und benutzt sie als Arbeitskräfte in einer anderen Welt. Die Nachforschung enthüllt damit mehr als einen örtlichen Grabräuber. Das Bestattungsinstitut ist Teil eines Systems, in dem die Verstorbenen weiter ausgebeutet werden.",
+      "anchor": "Das Grab ist der Anfang einer erzwungenen Arbeit in einer fremden Welt.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phantasm_(film)",
+        "https://catalog.afi.com/Catalog/moviedetails/67731"
+      ]
+    },
+    {
+      "id": "G100-20261008-HORROR-011-S2",
+      "originalId": "G100-20261008-HORROR-011-S2",
+      "knowledgeId": "K-G100-20261008-HORROR-011-S2",
+      "filmKey": "Phantasm|1979",
+      "filmTitle": "Das Böse",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Brüder stellen gemeinsam eine Falle; die Sicherheit bleibt zweifelhaft.",
+      "question": "Wie versuchen die Brüder in „Das Böse“ den Tall Man (Angus Scrimm) bei der Grube auszuschalten?",
+      "answers": [
+        {
+          "id": "G100-20261008-HORROR-011-S2:a",
+          "text": "Sie locken ihn hinein und begraben ihn unter Steinen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-S2:b",
+          "text": "Sie locken ihn hinein und sprengen den Zugang.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-S2:c",
+          "text": "Sie ziehen ihn hinein und setzen die Grube unter Wasser.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-S2:d",
+          "text": "Sie sperren ihn hinein und zünden Benzin am Rand an.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Mike lockt den Gegner in die Grube, Jody lässt Steine auf ihn fallen.",
+      "context": "Mike Pearson (A. Michael Baldwin) überwindet seine Angst, um den Tall Man (Angus Scrimm) in eine alte Grube zu locken. Jody (Bill Thornbury) begräbt den Gegner dort unter Steinen. Diese Zusammenarbeit scheint den Kampf zu entscheiden. Der Film lässt den Erfolg jedoch nicht als verlässlichen Schlusspunkt stehen: Eine spätere Traumerklärung und der erneute Angriff untergraben jede einfache Behauptung, die Gefahr sei endgültig besiegt.",
+      "anchor": "Die Brüder stellen gemeinsam eine Falle; die Sicherheit bleibt zweifelhaft.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phantasm_(film)",
+        "https://catalog.afi.com/Catalog/moviedetails/67731"
+      ]
+    },
+    {
+      "id": "G100-20261008-HORROR-011-Y",
+      "originalId": "G100-20261008-HORROR-011-Y",
+      "knowledgeId": "K-G100-20261008-HORROR-011-Y",
+      "filmKey": "Phantasm|1979",
+      "filmTitle": "Das Böse",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Das Jahr des ursprünglichen Kinostarts einordnen.",
+      "question": "In welchem Jahr erschien die Originalfassung von „Das Böse“ erstmals?",
+      "answers": [
+        {
+          "id": "G100-20261008-HORROR-011-Y:a",
+          "text": "1978",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-Y:b",
+          "text": "1979",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-Y:c",
+          "text": "1980",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-Y:d",
+          "text": "1981",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Phantasm erschien 1979.",
+      "context": "Kenny & Co. erschien 1976, Phantasm folgte 1979: Zwischen den Werken liegen drei Jahre. Don Coscarelli wechselte damit von einer Geschichte über Jugendliche zu einem Horrorfilm, der ebenfalls die Wahrnehmung eines Jungen ins Zentrum stellt. AFI ordnet Phantasm als seinen dritten Spielfilm ein. Der zeitliche Vergleich betrifft die ursprünglichen Veröffentlichungen und nicht die späteren Fortsetzungen oder Restaurierungen.",
+      "anchor": "Kenny & Co. 1976 → Phantasm 1979: drei Jahre.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/67731"
+      ]
+    },
+    {
+      "id": "G100-20261008-HORROR-011-D",
+      "originalId": "G100-20261008-HORROR-011-D",
+      "knowledgeId": "K-G100-20261008-HORROR-011-D",
+      "filmKey": "Phantasm|1979",
+      "filmTitle": "Das Böse",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Don Coscarelli als Regisseur des Originals zuordnen.",
+      "question": "Wer führte bei „Das Böse“ von 1979 Regie?",
+      "answers": [
+        {
+          "id": "G100-20261008-HORROR-011-D:a",
+          "text": "John Carpenter",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-D:b",
+          "text": "David Cronenberg",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-D:c",
+          "text": "Don Coscarelli",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-D:d",
+          "text": "Stuart Gordon",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Don Coscarelli führte Regie.",
+      "context": "Don Coscarelli ließ das Mausoleum in einer Lagerhalle nachbauen, weil er am realen Vorbild weder Schrotflinten abfeuern noch Blut verspritzen durfte. Die Holzkonstruktion trug sogar schwere Lampen. Marmormuster auf selbstklebendem Papier gaben dem praktischen Set sein Aussehen.",
+      "anchor": "Belastbare Holzwände und aufgeklebter Marmor ersetzen das reale Mausoleum.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://filmmakermagazine.com/100440-student-filmmaking-at-its-finest-don-coscarelli-on-phantasm/",
+        "https://catalog.afi.com/Catalog/moviedetails/67731"
+      ]
+    },
+    {
+      "id": "DRA-L-019",
+      "originalId": "DRA-L-019",
+      "knowledgeId": "K-DRA-10-01",
+      "filmKey": "Philadelphia|1993",
+      "filmTitle": "Philadelphia",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Tom Hanks spielt Andrew.",
+      "question": "Wer spielt in „Philadelphia“ den an AIDS erkrankten Anwalt Andrew Beckett, der gegen seine Entlassung klagt?",
+      "answers": [
+        {
+          "id": "DRA-L-019:a",
+          "text": "Kevin Kline",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-L-019:b",
+          "text": "Denzel Washington",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-L-019:c",
+          "text": "Tom Hanks",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-L-019:d",
+          "text": "Antonio Banderas",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Tom Hanks spielt Andrew Beckett.",
+      "context": "Andrew Beckett (Tom Hanks) zeigt vor Gericht Hautveränderungen an seinem Oberkörper. Joe Miller (Denzel Washington) will damit belegen, dass solche sichtbaren Anzeichen schon vor der Entlassung erkennbar gewesen sein konnten. Der Körper seines Mandanten wird zum Beweismittel.",
+      "anchor": "Andrew Beckett: Tom Hanks; seine Hautveränderungen dienen als Beweis.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Philadelphia_(Film)",
+        "https://en.wikipedia.org/wiki/Philadelphia_(film)"
+      ]
+    },
+    {
+      "id": "DRA-L-020",
+      "originalId": "DRA-L-020",
+      "knowledgeId": "K-DRA-10-02",
+      "filmKey": "Philadelphia|1993",
+      "filmTitle": "Philadelphia",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Andrew verklagt die Kanzlei, die ihn entlassen hat.",
+      "question": "„Philadelphia“ (1993): Gegen wen richtet sich Andrews (Tom Hanks) Klage?",
+      "answers": [
+        {
+          "id": "DRA-L-020:a",
+          "text": "Gegen eine Zeitung wegen der Veröffentlichung privater Daten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-L-020:b",
+          "text": "Gegen eine Versicherung wegen verweigerter Zahlungen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-L-020:c",
+          "text": "Gegen ein Krankenhaus wegen einer Behandlung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-L-020:d",
+          "text": "Gegen seine frühere Anwaltskanzlei wegen diskriminierender Entlassung",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Andrew (Tom Hanks) verklagt die Kanzlei, die ihn entlassen hat.",
+      "context": "Andrew Beckett (Tom Hanks) bearbeitet von zu Hause aus einen wichtigen Prozess. Plötzlich fehlen die Unterlagen samt Kopien; erst im letzten Moment werden sie gefunden. Die Kanzlei entlässt ihn wegen angeblicher Unfähigkeit. Andrew vermutet hinter dem verschwundenen Dokument eine gezielte Falle.",
+      "anchor": "Andrew (Tom Hanks) klagt gegen seinen früheren Arbeitgeber.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philadelphia_(film)"
+      ]
+    },
+    {
+      "id": "DRA-M-019",
+      "originalId": "DRA-M-019",
+      "knowledgeId": "K-DRA-10-03",
+      "filmKey": "Philadelphia|1993",
+      "filmTitle": "Philadelphia",
+      "difficulty": "mittel",
+      "questionType": "Beziehung",
+      "learningObjective": "Joe übernimmt Andrews Fall.",
+      "question": "„Philadelphia“ (1993): Wer übernimmt schließlich Andrews (Tom Hanks) anwaltliche Vertretung?",
+      "answers": [
+        {
+          "id": "DRA-M-019:a",
+          "text": "Miguel Alvarez",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-M-019:b",
+          "text": "Charles Wheeler",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-M-019:c",
+          "text": "Joe Miller",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-M-019:d",
+          "text": "Belinda Conine",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Joe Miller (Denzel Washington) übernimmt Andrews anwaltliche Vertretung.",
+      "context": "Joe Miller (Denzel Washington) bleibt nach einer Feier bei Andrew Beckett (Tom Hanks), um dessen Aussage vorzubereiten. Andrew spielt stattdessen eine Aufnahme von Maria Callas vor und erläutert die Arie. Der Anwalt erlebt seinen Mandanten jenseits von Krankheit und Prozess.",
+      "anchor": "Joe lernt Andrew auch durch dessen Opernbegeisterung kennen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.bfi.org.uk/sight-and-sound/features/philadelphia-un-packaging-hollywood-aids-drama"
+      ]
+    },
+    {
+      "id": "DRA-M-020",
+      "originalId": "DRA-M-020",
+      "knowledgeId": "K-DRA-10-04",
+      "filmKey": "Philadelphia|1993",
+      "filmTitle": "Philadelphia",
+      "difficulty": "mittel",
+      "questionType": "Motivation",
+      "learningObjective": "Joe beobachtet die Ausgrenzung Andrews in einer juristischen Bibliothek.",
+      "question": "„Philadelphia“ (1993): Welcher beobachtete Vorfall trägt dazu bei, dass Joe (Denzel Washington) den Fall annimmt?",
+      "answers": [
+        {
+          "id": "DRA-M-020:a",
+          "text": "Andrew legt Joe eine heimliche Tonaufnahme der Kündigung vor.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-M-020:b",
+          "text": "Die Kanzlei bietet Joe eine hohe Abfindung für Andrew an.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-M-020:c",
+          "text": "Ein früherer Kollege fordert Joe öffentlich zur Fallübernahme auf.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-M-020:d",
+          "text": "Andrew wird in einer juristischen Bibliothek ausgegrenzt.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Joe (Denzel Washington) beobachtet die Ausgrenzung Andrews (Tom Hanks) in einer juristischen Bibliothek.",
+      "context": "Der Bibliothekar schlägt Andrew Beckett (Tom Hanks) einen privaten Arbeitsraum vor, während andere Besucher vor seinen Hautveränderungen zurückschrecken. Joe Miller (Denzel Washington) unterbricht die Ausgrenzung. Andrew hatte bereits erwogen, sich im Prozess selbst zu vertreten.",
+      "anchor": "In der Bibliothek wird Ausgrenzung sichtbar.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/59629"
+      ]
+    },
+    {
+      "id": "DRA-S-019",
+      "originalId": "DRA-S-019",
+      "knowledgeId": "K-DRA-10-05",
+      "filmKey": "Philadelphia|1993",
+      "filmTitle": "Philadelphia",
+      "difficulty": "mittel",
+      "questionType": "Beziehung",
+      "learningObjective": "Miguel ist Andrews Lebenspartner.",
+      "question": "„Philadelphia“ (1993): Welche Beziehung hat Miguel (Antonio Banderas) zu Andrew (Tom Hanks)?",
+      "answers": [
+        {
+          "id": "DRA-S-019:a",
+          "text": "Er ist sein früherer Vorgesetzter.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-S-019:b",
+          "text": "Er ist sein Bruder.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-S-019:c",
+          "text": "Er ist sein Lebenspartner.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-S-019:d",
+          "text": "Er ist sein behandelnder Arzt.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Miguel Alvarez (Antonio Banderas) ist Andrews Lebenspartner.",
+      "context": "Miguel Alvarez (Antonio Banderas) steht Andrew Beckett (Tom Hanks) schon in der Notaufnahme bei, als ein Arzt eine schmerzhafte Untersuchung empfiehlt. Später verabreicht er ihm zu Hause Medikamente über einen Tropf. Seine Unterstützung besteht auch aus konkreter Pflege.",
+      "anchor": "Miguel schützt und pflegt Andrew auch außerhalb des Prozesses.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/59629"
+      ]
+    },
+    {
+      "id": "DRA-S-020",
+      "originalId": "DRA-S-020",
+      "knowledgeId": "K-DRA-10-06",
+      "filmKey": "Philadelphia|1993",
+      "filmTitle": "Philadelphia",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Die Jury entscheidet zugunsten Andrews und spricht ihm eine Entschädigung zu.",
+      "question": "„Philadelphia“ (1993): Wie entscheidet die Jury über Andrews (Tom Hanks) Klage?",
+      "answers": [
+        {
+          "id": "DRA-S-020:a",
+          "text": "Sie erklärt sich ohne Urteil für unzuständig.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-S-020:b",
+          "text": "Sie spricht der Kanzlei Schadenersatz zu.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-S-020:c",
+          "text": "Sie weist die Klage vollständig ab.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "DRA-S-020:d",
+          "text": "Sie spricht ihm Schadenersatz zu.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Jury entscheidet zugunsten Andrews (Tom Hanks) und spricht ihm eine Entschädigung zu.",
+      "context": "Andrew Beckett (Tom Hanks) liegt beim Urteil im Krankenhaus. Joe Miller (Denzel Washington) besucht ihn nach dem Sieg und berührt sein Gesicht. Auf der späteren Gedenkfeier sehen die Gäste private Filme vom glücklichen Kind: Auf den gewonnenen Prozess folgt der Abschied.",
+      "anchor": "Andrew (Tom Hanks) gewinnt den Prozess, nicht seine verlorene Gesundheit zurück.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philadelphia_(film)"
+      ]
+    },
+    {
+      "id": "FF-085-YEAR",
+      "originalId": "FF-085-YEAR",
+      "knowledgeId": "K-FF-085-YEAR",
+      "filmKey": "Philadelphia|1993",
+      "filmTitle": "Philadelphia",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Das Erstjahr von Philadelphia einordnen.",
+      "question": "„Philadelphia“: In welchem Jahr erschien der Film von Jonathan Demme erstmals?",
+      "answers": [
+        {
+          "id": "FF-085-YEAR:y1993",
+          "text": "1993",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-085-YEAR:y1983",
+          "text": "1992",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-085-YEAR:y1985",
+          "text": "1994",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-085-YEAR:y1987",
+          "text": "1995",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Philadelphia“ wurde erstmals 1993 veröffentlicht.",
+      "context": "Die Weltpremiere von „Philadelphia“ fand im Dezember 1993 als Benefizveranstaltung für AIDS Project Los Angeles statt. Noch im selben Monat begann der begrenzte Kinostart; die breite US-Auswertung folgte im Januar 1994. Die Premiere unterstützte damit unmittelbar eine AIDS-Hilfsorganisation.",
+      "anchor": "1993: Benefizpremiere und erster Kinostart; 1994 breiter US-Start.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philadelphia_(film)",
+        "https://catalog.afi.com/Catalog/moviedetails/59629"
+      ]
+    },
+    {
+      "id": "FF-085-DIRECTOR",
+      "originalId": "FF-085-DIRECTOR",
+      "knowledgeId": "K-FF-085-DIRECTOR",
+      "filmKey": "Philadelphia|1993",
+      "filmTitle": "Philadelphia",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Jonathan Demme als Regisseur zuordnen.",
+      "question": "Wer führte bei „Philadelphia“ Regie?",
+      "answers": [
+        {
+          "id": "FF-085-DIRECTOR:a",
+          "text": "Jonathan Demme",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-085-DIRECTOR:b",
+          "text": "Jane Campion",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-085-DIRECTOR:c",
+          "text": "Steven Spielberg",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-085-DIRECTOR:d",
+          "text": "Wong Kar-wai",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jonathan Demme führte Regie.",
+      "context": "Jonathan Demme entwickelte „Philadelphia“ mit Ron Nyswaner aus einem zunächst anders angelegten Projekt. Ausgangspunkt war Alice Hoffmans Roman „At Risk“, der eine HIV-infizierte junge Tochter in den Mittelpunkt stellt. Nyswaners späteres Originaldrehbuch entfernte sich deutlich davon und nutzte unter anderem Zeitungsberichte. Die fertige Geschichte konzentriert sich auf einen erwachsenen Juristen, seine Kündigung und das Verfahren gegen seine Arbeitgeber.",
+      "anchor": "Philadelphia → Jonathan Demme",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philadelphia_(film)",
+        "https://catalog.afi.com/Catalog/moviedetails/59629"
+      ]
+    },
+    {
+      "id": "ED125-DISCIPLES-L-001",
+      "originalId": "E20261007-F-154-L1",
+      "knowledgeId": "K-ED125-DISCIPLES-L-001",
+      "filmKey": "Pi li shi jie|1985",
+      "filmTitle": "Die Erben der 36 Kammern der Shaolin",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "learningObjective": "San Te unterrichtet Fong Sai-yuk.",
+      "question": "Welcher Mönch unterrichtet den aufmüpfigen Fong Sai-yuk (Hsiao Ho) in „Die Erben der 36 Kammern der Shaolin“?",
+      "answers": [
+        {
+          "id": "ED125-DISCIPLES-L-001:a",
+          "text": "Abt Ming Zhi",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-DISCIPLES-L-001:b",
+          "text": "Abt Zhi Shan",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-DISCIPLES-L-001:c",
+          "text": "San Te",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-DISCIPLES-L-001:d",
+          "text": "Abt Hui Neng",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "San Te (Gordon Liu) unterrichtet Fong Sai-yuk (Hsiao Ho).",
+      "context": "San Te (Gordon Liu) soll Fong Sai-yuk (Hsiao Ho) Disziplin und Kung-Fu vermitteln. Doch der begabte Junge setzt die Auseinandersetzungen mit den Mandschu fort und bringt dadurch auch seine neuen Lehrer in Gefahr.",
+      "anchor": "San Te ist der Lehrer des ungestümen Schülers.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Die_Erben_der_36_Kammern_der_Shaolin",
+        "https://en.wikipedia.org/wiki/Disciples_of_the_36th_Chamber"
+      ],
+      "replaces": {
+        "id": "E20261007-F-154-L1",
+        "knowledgeId": "K-E20261007-F-154-L1"
+      }
+    },
+    {
+      "id": "E20261007-F-154-L2",
+      "originalId": "E20261007-F-154-L2",
+      "knowledgeId": "K-E20261007-F-154-L2",
+      "filmKey": "Pi li shi jie|1985",
+      "filmTitle": "Die Erben der 36 Kammern der Shaolin",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Die Mutter sucht Schutz und Erziehung für ihren Sohn.",
+      "question": "Wer bringt Fong Sai-yuk (Hsiao Ho) in „Die Erben der 36 Kammern der Shaolin“ durch eine Vereinbarung beim Tempel unter?",
+      "answers": [
+        {
+          "id": "E20261007-F-154-L2:a",
+          "text": "Sein älterer Bruder",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-L2:b",
+          "text": "Sein ehemaliger Lehrer",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-L2:c",
+          "text": "Sein früherer Gegner",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-L2:d",
+          "text": "Seine Mutter",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Seine Mutter, gespielt von Lily Li, vereinbart die Aufnahme.",
+      "context": "Fong Sai-yuk (Hsiao Ho) verschärft den Konflikt mit den mandschurischen Beamten, die die Schule seines Vaters schließen wollen. Seine Mutter (Lily Li) handelt deshalb mit San Te (Gordon Liu) die Aufnahme ihres Sohnes aus, um Schule und Familie zu schützen.",
+      "anchor": "Die Mutter sucht Schutz und Erziehung für ihren Sohn.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Disciples_of_the_36th_Chamber"
+      ]
+    },
+    {
+      "id": "E20261007-F-154-M1",
+      "originalId": "E20261007-F-154-M1",
+      "knowledgeId": "K-E20261007-F-154-M1",
+      "filmKey": "Pi li shi jie|1985",
+      "filmTitle": "Die Erben der 36 Kammern der Shaolin",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Die falsche Freundschaft macht den Schüler zur Informationsquelle.",
+      "question": "Wie versuchen die mandschurischen Beamten in „Die Erben der 36 Kammern der Shaolin“, an Shaolins Geheimnisse zu gelangen?",
+      "answers": [
+        {
+          "id": "E20261007-F-154-M1:a",
+          "text": "Sie umwerben den stolzen Schüler mit Gastfreundschaft.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-M1:b",
+          "text": "Sie bestechen sämtliche Lehrer gleichzeitig.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-M1:c",
+          "text": "Sie ersetzen den Abt durch einen Doppelgänger.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-M1:d",
+          "text": "Sie belagern den Tempel ohne Unterbrechung.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Beamten umwerben Fong Sai-yuk (Hsiao Ho) mit Gastfreundschaft.",
+      "context": "Die Beamten umwerben Fong Sai-yuk (Hsiao Ho) mit Gastfreundschaft. Seine Freude über Anerkennung öffnet den Zugang zu vertraulichem Wissen. Ein erfolgreicher Angriff ist zunächst nicht nötig. Die Strategie trifft einen Schüler, der freundlichen Auftritt und politische Absicht noch nicht unterscheiden kann.",
+      "anchor": "Die falsche Freundschaft macht den Schüler zur Informationsquelle.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Disciples_of_the_36th_Chamber"
+      ]
+    },
+    {
+      "id": "E20261007-F-154-M2",
+      "originalId": "E20261007-F-154-M2",
+      "knowledgeId": "K-E20261007-F-154-M2",
+      "filmKey": "Pi li shi jie|1985",
+      "filmTitle": "Die Erben der 36 Kammern der Shaolin",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Die Stadtbesuche öffnen den Zugang zum Schüler.",
+      "question": "Welche nächtliche Gewohnheit macht Fong Sai-yuk (Hsiao Ho) in „Die Erben der 36 Kammern der Shaolin“ für die Gegner erreichbar?",
+      "answers": [
+        {
+          "id": "E20261007-F-154-M2:a",
+          "text": "Er schläft regelmäßig vor dem Tempeltor.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-M2:b",
+          "text": "Er verlässt heimlich den Tempel für Stadtbesuche.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-M2:c",
+          "text": "Er übernimmt allein die Außenwache.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-M2:d",
+          "text": "Er begleitet jeden Gefangenentransport.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Fong Sai-yuk (Hsiao Ho) besucht nachts heimlich die Stadt.",
+      "context": "Bei einem nächtlichen Ausflug klettert Fong Sai-yuk (Hsiao Ho) über eine Mauer, um ein Fest zu beobachten. Er missachtet die Aufforderung herunterzukommen und besiegt die gegen ihn geschickten Kämpfer. Daraufhin wechselt der mandschurische Anführer (Lau Kar-leung) zur vorgetäuschten Freundschaft.",
+      "anchor": "Die Stadtbesuche öffnen den Zugang zum Schüler.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Disciples_of_the_36th_Chamber"
+      ]
+    },
+    {
+      "id": "E20261007-F-154-S1",
+      "originalId": "E20261007-F-154-S1",
+      "knowledgeId": "K-E20261007-F-154-S1",
+      "filmKey": "Pi li shi jie|1985",
+      "filmTitle": "Die Erben der 36 Kammern der Shaolin",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Die Hochzeitseinladung macht aus seinem Irrtum eine Gefahr für alle.",
+      "question": "Zu welchem angeblichen Fest werden die Schüler in „Die Erben der 36 Kammern der Shaolin“ eingeladen?",
+      "answers": [
+        {
+          "id": "E20261007-F-154-S1:a",
+          "text": "Zum Geburtstag des Kaisers",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-S1:b",
+          "text": "Zur Einweihung einer neuen Tempelschule",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-S1:c",
+          "text": "Zur Hochzeit der Tochter des Anführers",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-S1:d",
+          "text": "Zur Ehrung eines verstorbenen Meisters",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Schüler werden zur Hochzeit der Tochter des Anführers eingeladen.",
+      "context": "San Te (Gordon Liu) misstraut der Einladung und versucht vergeblich, Fong Sai-yuk (Hsiao Ho) aufzuhalten. Er geht selbst zum Fest, um seine Schüler zu retten. Als der Giftplan aufgedeckt wird, kämpfen die Schüler gegen ihre vermeintlichen Gastgeber.",
+      "anchor": "Die Hochzeitseinladung macht aus seinem Irrtum eine Gefahr für alle.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Disciples_of_the_36th_Chamber"
+      ]
+    },
+    {
+      "id": "E20261007-F-154-S2",
+      "originalId": "E20261007-F-154-S2",
+      "knowledgeId": "K-E20261007-F-154-S2",
+      "filmKey": "Pi li shi jie|1985",
+      "filmTitle": "Die Erben der 36 Kammern der Shaolin",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Das Gift kehrt durch Sai-yuks Gegenwehr zum Anführer zurück.",
+      "question": "Wie kehrt Fong Sai-yuk (Hsiao Ho) im Schlusskampf von „Die Erben der 36 Kammern der Shaolin“ das Gift gegen den Anführer?",
+      "answers": [
+        {
+          "id": "E20261007-F-154-S2:a",
+          "text": "Er vertauscht heimlich die Festbecher.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-S2:b",
+          "text": "Er übergießt ihn mit dem Inhalt des Kessels.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-S2:c",
+          "text": "Er vergiftet dessen Schwertgriff.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-S2:d",
+          "text": "Er spuckt vergiftetes Blut in dessen Mund.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Fong Sai-yuk (Hsiao Ho) spuckt vergiftetes Blut in den Mund des Anführers.",
+      "context": "Fong Sai-yuk (Hsiao Ho) spuckt vergiftetes Blut in den Mund des Anführers. Die eigene Verletzung wird zum Mittel der Gegenwehr. Das ungewöhnliche Manöver beseitigt jedoch nicht die frühere Fehleinschätzung. Die Rückkehr zum Tempel gehört zu einer Entwicklung, in der Können und Demut zusammenfinden müssen.",
+      "anchor": "Das Gift kehrt durch Sai-yuks Gegenwehr zum Anführer zurück.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Disciples_of_the_36th_Chamber"
+      ]
+    },
+    {
+      "id": "E20261007-F-154-Y",
+      "originalId": "E20261007-F-154-Y",
+      "knowledgeId": "K-E20261007-F-154-Y",
+      "filmKey": "Pi li shi jie|1985",
+      "filmTitle": "Die Erben der 36 Kammern der Shaolin",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Das Filmjahr 1985 zuordnen.",
+      "question": "In welchem Jahr erschien „Die Erben der 36 Kammern der Shaolin“ erstmals?",
+      "answers": [
+        {
+          "id": "E20261007-F-154-Y:a",
+          "text": "1985",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-Y:b",
+          "text": "1984",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-Y:c",
+          "text": "1986",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-Y:d",
+          "text": "1987",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Film erschien erstmals 1985.",
+      "context": "„Die Rückkehr zu den 36 Kammern“ erschien 1980, „Die Erben“ 1985. Zwischen beiden liegen fünf Jahre. Gordon Liu kehrt im dritten Film wieder zur Rolle des San Te zurück, während Hsiao Ho den jungen Fong Sai-yuk spielt. Die Jahresfolge verbindet einen Besetzungswechsel mit der neuen Schwerpunktfigur der Reihe.",
+      "anchor": "Rückkehr 1980, Erben 1985: fünf Jahre später spielt Liu wieder San Te.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Disciples_of_the_36th_Chamber",
+        "https://en.wikipedia.org/wiki/Return_to_the_36th_Chamber"
+      ]
+    },
+    {
+      "id": "E20261007-F-154-D",
+      "originalId": "E20261007-F-154-D",
+      "knowledgeId": "K-E20261007-F-154-D",
+      "filmKey": "Pi li shi jie|1985",
+      "filmTitle": "Die Erben der 36 Kammern der Shaolin",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Lau Kar-leungs Regie zuordnen.",
+      "question": "Wer führte bei „Die Erben der 36 Kammern der Shaolin“ Regie?",
+      "answers": [
+        {
+          "id": "E20261007-F-154-D:a",
+          "text": "Chang Cheh",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-D:b",
+          "text": "Lau Kar-leung",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-D:c",
+          "text": "Yuen Woo-ping",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-154-D:d",
+          "text": "Chor Yuen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Lau Kar-leung schrieb, inszenierte und choreografierte den Film.",
+      "context": "Lau Kar-leung schrieb, inszenierte und choreografierte den Film. Er spielt zusätzlich den mandschurischen Gegner. Seine Aufgaben verbinden die Gestaltung der Ausbildung mit jener Macht, die das Können ausnutzen will. Hsiao Ho trägt die Rolle des unbeherrschten Schülers; Gordon Liu verkörpert erneut dessen Lehrer San Te.",
+      "anchor": "Lau gestaltet das Training und spielt zugleich den Gegner des Schülers.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Disciples_of_the_36th_Chamber",
+        "https://www.classification.gov.au/titles/disciples-36th-chamber"
+      ]
+    },
+    {
+      "id": "E20261007-F-264-L1",
+      "originalId": "E20261007-F-264-L1",
+      "knowledgeId": "K-E20261007-F-264-L1",
+      "filmKey": "Pierrot le fou|1965",
+      "filmTitle": "Elf Uhr nachts",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Der Ausbruch mit einer früheren Geliebten führt zugleich in deren gefährliche Vergangenheit.",
+      "question": "„Elf Uhr nachts“: Mit wem verlässt Ferdinand (Jean-Paul Belmondo) sein bisheriges Familienleben?",
+      "answers": [
+        {
+          "id": "E20261007-F-264-L1:a",
+          "text": "Mit der Babysitterin und früheren Geliebten Marianne",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-L1:b",
+          "text": "Mit seiner Nachbarin und früheren Kollegin Sophie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-L1:c",
+          "text": "Mit seiner Schwägerin und früheren Kommilitonin Claire",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-L1:d",
+          "text": "Mit seiner Haushälterin und Jugendfreundin Louise",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Marianne (Anna Karina) ist zugleich Babysitterin und Ferdinands frühere Geliebte.",
+      "context": "Ferdinand (Jean-Paul Belmondo) erkennt in der Babysitterin Marianne (Anna Karina) eine frühere Geliebte wieder. Ihr gemeinsames Fortgehen verspricht einen Ausbruch aus seiner unbefriedigenden Umgebung. Mariannes Verbindungen zu einer kriminellen Gruppe begleiten diesen Ausbruch jedoch von Beginn an. Der Neubeginn ist daher schon mit einer Vergangenheit belastet, die Ferdinand nicht vollständig versteht.",
+      "anchor": "Der Ausbruch mit einer früheren Geliebten führt zugleich in deren gefährliche Vergangenheit.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pierrot_le_Fou",
+        "https://de.wikipedia.org/wiki/Elf_Uhr_nachts"
+      ]
+    },
+    {
+      "id": "E20261007-F-264-L2",
+      "originalId": "E20261007-F-264-L2",
+      "knowledgeId": "K-E20261007-F-264-L2",
+      "filmKey": "Pierrot le fou|1965",
+      "filmTitle": "Elf Uhr nachts",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Der Süden schafft Abstand zu Paris, aber keine Einigkeit über das gemeinsame Leben.",
+      "question": "„Elf Uhr nachts“: In welche französische Region führt die gemeinsame Flucht hauptsächlich?",
+      "answers": [
+        {
+          "id": "E20261007-F-264-L2:a",
+          "text": "In die nordfranzösischen Kohlegebiete",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-L2:b",
+          "text": "An die Mittelmeerküste",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-L2:c",
+          "text": "In die Hochgebirgsorte der Savoyer Alpen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-L2:d",
+          "text": "An die bretonische Atlantikküste",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Paar zieht von Paris in Richtung Süden und Mittelmeer.",
+      "context": "Ferdinand (Jean-Paul Belmondo) und Marianne (Anna Karina) verbrennen auf ihrer Flucht ein Auto, ohne dass sie von dem darin versteckten Geld weiß. Ein zweites Fahrzeug versenken sie im Mittelmeer. Danach leben sie zeitweise abgeschieden an der Küste.",
+      "anchor": "Der Süden schafft Abstand zu Paris, aber keine Einigkeit über das gemeinsame Leben.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pierrot_le_Fou",
+        "https://de.wikipedia.org/wiki/Elf_Uhr_nachts"
+      ]
+    },
+    {
+      "id": "E20261007-F-264-M1",
+      "originalId": "E20261007-F-264-M1",
+      "knowledgeId": "K-E20261007-F-264-M1",
+      "filmKey": "Pierrot le fou|1965",
+      "filmTitle": "Elf Uhr nachts",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Die Reklameformeln der Gesellschaft stehen Ferdinands Suche nach eigener Sprache gegenüber.",
+      "question": "„Elf Uhr nachts“: Was prägt die Gespräche auf der Gesellschaft, die Ferdinand (Jean-Paul Belmondo) zu Beginn besucht?",
+      "answers": [
+        {
+          "id": "E20261007-F-264-M1:a",
+          "text": "Die Gäste führen Gespräche wie politische Wahlreden",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-M1:b",
+          "text": "Die Gäste verwenden Formulierungen aus Kirchenpredigten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-M1:c",
+          "text": "Die Gäste sprechen vielfach in Reklameformeln",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-M1:d",
+          "text": "Die Gäste zitieren Dialoge aus populären Kriminalfilmen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Reklamesprache lässt das gesellschaftliche Reden wie Werbung wirken.",
+      "context": "Die Gäste reden in Formeln, die an Werbung erinnern. Ferdinand (Jean-Paul Belmondo) erlebt diese Umgebung als geistig unbefriedigend. Die Szene charakterisiert daher nicht nur einzelne Besucher, sondern eine Sprache, aus der er ausbrechen will. Seine spätere Suche nach Büchern und eigenen Aufzeichnungen erhält vor dieser standardisierten Kommunikation einen konkreten Ausgangspunkt.",
+      "anchor": "Die Reklameformeln der Gesellschaft stehen Ferdinands Suche nach eigener Sprache gegenüber.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Elf_Uhr_nachts",
+        "https://en.wikipedia.org/wiki/Pierrot_le_Fou"
+      ]
+    },
+    {
+      "id": "E20261007-F-264-M2",
+      "originalId": "E20261007-F-264-M2",
+      "knowledgeId": "K-E20261007-F-264-M2",
+      "filmKey": "Pierrot le fou|1965",
+      "filmTitle": "Elf Uhr nachts",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Ferdinands Ruhebedürfnis und Mariannes Unrast verwandeln die Zuflucht in einen Konfliktraum.",
+      "question": "„Elf Uhr nachts“: Welcher Gegensatz belastet das zurückgezogene Leben des Paars?",
+      "answers": [
+        {
+          "id": "E20261007-F-264-M2:a",
+          "text": "Ferdinand sucht Tanz und Nachtleben, Marianne Ruhe und Gartenarbeit",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-M2:b",
+          "text": "Ferdinand will eine Familie gründen, Marianne eine politische Karriere",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-M2:c",
+          "text": "Ferdinand sucht gesellige Gäste, Marianne alleinige Bergwanderungen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-M2:d",
+          "text": "Ferdinand will lesen und schreiben, Marianne Bewegung und Unterhaltung",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihre Wünsche nach geistiger Ruhe und neuen Erlebnissen passen immer weniger zusammen.",
+      "context": "Ferdinand (Jean-Paul Belmondo) findet Beschäftigung in Lektüre und Tagebuch. Marianne (Anna Karina) vermisst Abwechslung und drängt wieder in ein ereignisreicheres Leben. Die Flucht erfüllt deshalb zwei verschiedene Bedürfnisse nur kurzzeitig. Der Konflikt entsteht nicht allein durch ihre Verfolger, sondern ebenso durch die unvereinbaren Vorstellungen der Menschen, die gemeinsam entkommen wollten.",
+      "anchor": "Ferdinands Ruhebedürfnis und Mariannes Unrast verwandeln die Zuflucht in einen Konfliktraum.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pierrot_le_Fou",
+        "https://de.wikipedia.org/wiki/Elf_Uhr_nachts"
+      ]
+    },
+    {
+      "id": "E20261007-F-264-S1",
+      "originalId": "E20261007-F-264-S1",
+      "knowledgeId": "K-E20261007-F-264-S1",
+      "filmKey": "Pierrot le fou|1965",
+      "filmTitle": "Elf Uhr nachts",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Der angebliche Bruder ist Mariannes Geliebter; die Erklärung verdeckt ihren anderen Plan.",
+      "question": "„Elf Uhr nachts“: Welche Täuschung betrifft den Mann, den Marianne (Anna Karina) als Fred (Dirk Sanders) vorstellt?",
+      "answers": [
+        {
+          "id": "E20261007-F-264-S1:a",
+          "text": "Er ist ihr Geliebter, nicht ihr Bruder",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-S1:b",
+          "text": "Er ist ihr Ehemann, nicht ihr Geschäftspartner",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-S1:c",
+          "text": "Er ist ihr Auftraggeber, nicht ihr Cousin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-S1:d",
+          "text": "Er ist ihr früherer Lehrer, nicht ihr Verlobter",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Fred (Dirk Sanders) ist Mariannes (Anna Karina) Geliebter, nicht ihr Bruder.",
+      "context": "Marianne (Anna Karina) nutzt Ferdinands (Jean-Paul Belmondo) Vertrauen für einen weiteren Plan und verschwindet mit Fred (Dirk Sanders). Die zuvor behauptete Geschwisterbeziehung erweist sich als falsch. Ferdinand muss damit nicht nur eine Trennung hinnehmen, sondern erkennen, dass sein Verständnis von Mariannes Beziehungen auf einer bewusst falschen Erklärung beruhte.",
+      "anchor": "Der angebliche Bruder ist Mariannes Geliebter; die Erklärung verdeckt ihren anderen Plan.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pierrot_le_Fou",
+        "https://de.wikipedia.org/wiki/Elf_Uhr_nachts"
+      ]
+    },
+    {
+      "id": "E20261007-F-264-S2",
+      "originalId": "E20261007-F-264-S2",
+      "knowledgeId": "K-E20261007-F-264-S2",
+      "filmKey": "Pierrot le fou|1965",
+      "filmTitle": "Elf Uhr nachts",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Ferdinand entscheidet sich für den Tod und will die Entscheidung unmittelbar danach zurücknehmen.",
+      "question": "„Elf Uhr nachts“: Was macht Ferdinands (Jean-Paul Belmondo) letzten Selbsttötungsversuch besonders widersprüchlich?",
+      "answers": [
+        {
+          "id": "E20261007-F-264-S2:a",
+          "text": "Er vertraut Marianne die Zündung an und möchte dann fliehen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-S2:b",
+          "text": "Er bereut die Zündung und versucht zu spät, die Sprengschnur zu löschen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-S2:c",
+          "text": "Er verwechselt echte Sprengschnur mit einer bereits verbrannten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-S2:d",
+          "text": "Er hält das Dynamit für unbrauchbar und will es wegwerfen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Seine Entscheidung wird von einem zu späten Versuch der Rücknahme gefolgt.",
+      "context": "Ferdinand (Jean-Paul Belmondo) erschießt Marianne (Anna Karina) und Fred (Dirk Sanders). Danach bemalt er sein Gesicht blau und bindet sich Dynamit um den Kopf. Erst nach der Zündung bereut er die Entscheidung und versucht vergeblich, die Sprengschnur zu löschen.",
+      "anchor": "Ferdinand entscheidet sich für den Tod und will die Entscheidung unmittelbar danach zurücknehmen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pierrot_le_Fou",
+        "https://de.wikipedia.org/wiki/Elf_Uhr_nachts"
+      ]
+    },
+    {
+      "id": "E20261007-F-264-Y",
+      "originalId": "E20261007-F-264-Y",
+      "knowledgeId": "K-E20261007-F-264-Y",
+      "filmKey": "Pierrot le fou|1965",
+      "filmTitle": "Elf Uhr nachts",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Das Filmjahr 1965 zuordnen.",
+      "question": "In welchem Jahr wurde „Elf Uhr nachts“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "E20261007-F-264-Y:a",
+          "text": "1964",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-Y:b",
+          "text": "1966",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-Y:c",
+          "text": "1965",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-Y:d",
+          "text": "1967",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die erste Veröffentlichung gehört ins Jahr 1965.",
+      "context": "Lionel Whites Kriminalroman Obsession erschien 1962. Godards Film folgte 1965, drei Jahre später. Die Bearbeitung löst die Fluchtgeschichte aus einem rein kriminalistischen Ablauf und verbindet sie mit Büchern, Liedern, Reklamesprache und wechselnden Erzählweisen. Der Abstand verankert das Filmjahr im Übergang von einer amerikanischen Genregeschichte zu Godards experimenteller Gestaltung.",
+      "anchor": "Whites Obsession 1962 → Elf Uhr nachts 1965: drei Jahre bis zur freien filmischen Bearbeitung.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pierrot_le_Fou",
+        "https://www.criterion.com/films/149-pierrot-le-fou"
+      ]
+    },
+    {
+      "id": "E20261007-F-264-D",
+      "originalId": "E20261007-F-264-D",
+      "knowledgeId": "K-E20261007-F-264-D",
+      "filmKey": "Pierrot le fou|1965",
+      "filmTitle": "Elf Uhr nachts",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Jean-Luc Godards Regie zuordnen.",
+      "question": "Wer führte bei „Elf Uhr nachts“ Regie?",
+      "answers": [
+        {
+          "id": "E20261007-F-264-D:a",
+          "text": "François Truffaut",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-D:b",
+          "text": "Jacques Demy",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-D:c",
+          "text": "Louis Malle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-264-D:d",
+          "text": "Jean-Luc Godard",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jean-Luc Godard führte bei diesem Film Regie.",
+      "context": "Jean-Luc Godard inszenierte Jean-Paul Belmondo und Anna Karina in einer Fluchtgeschichte, die ständig ihre Ausdrucksform verändert. Dialog, Lied, Tagebuch und Kameraansprache stehen nebeneinander. Raoul Coutards Farbgestaltung verstärkt diese Wechsel. Die Handlung bleibt erkennbar, doch ihre Unterbrechungen machen die verschiedenen Vorstellungen Ferdinands (Jean-Paul Belmondo) und Mariannes (Anna Karina) von einem gemeinsamen Leben besonders deutlich.",
+      "anchor": "Godard verbindet die Flucht mit wechselnden Formen von Sprache, Musik und Bild.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pierrot_le_Fou",
+        "https://www.criterion.com/films/149-pierrot-le-fou"
+      ]
+    },
+    {
+      "id": "F240-20261006-166-L1",
+      "originalId": "F240-20261006-166-L1",
+      "knowledgeId": "K-F240-20261006-166-L1",
+      "filmKey": "Pillow Talk|1959",
+      "filmTitle": "Bettgeflüster",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Eine Telefonleitung verbindet zwei getrennte Wohnungen.",
+      "question": "Welches Alltagsproblem bringt Jan Morrow (Doris Day) und Brad Allen (Rock Hudson) in „Bettgeflüster“ gegeneinander auf?",
+      "answers": [
+        {
+          "id": "F240-20261006-166-L1:a",
+          "text": "Eine gemeinsam genutzte Telefonleitung",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-L1:b",
+          "text": "Eine gemeinsam genutzte Garage",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-L1:c",
+          "text": "Ein gemeinsames Heizsystem",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-L1:d",
+          "text": "Eine gemeinsam gemietete Wohnung",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jan und Brad teilen eine Telefonleitung.",
+      "context": "Jan Morrow (Doris Day) braucht die gemeinsame Telefonleitung für ihre Arbeit. Brad Allen (Rock Hudson) blockiert sie mit Liebesgesprächen und singt seinen wechselnden Freundinnen vor. Der Streit beginnt zwischen zwei Stimmen, lange bevor die beiden einander persönlich begegnen.",
+      "anchor": "Eine Telefonleitung verbindet zwei getrennte Wohnungen.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.tcm.com/articles/12722/pillow-talk"
+      ]
+    },
+    {
+      "id": "F240-20261006-166-L2",
+      "originalId": "F240-20261006-166-L2",
+      "knowledgeId": "K-F240-20261006-166-L2",
+      "filmKey": "Pillow Talk|1959",
+      "filmTitle": "Bettgeflüster",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Jans Beruf wird zum Werkzeug ihrer Reaktion.",
+      "question": "Welchen Beruf hat Jan Morrow (Doris Day) in „Bettgeflüster“?",
+      "answers": [
+        {
+          "id": "F240-20261006-166-L2:a",
+          "text": "Krankenschwester",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-L2:b",
+          "text": "Innenarchitektin",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-L2:c",
+          "text": "Bühnenkomponistin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-L2:d",
+          "text": "Telefonmechanikerin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jan arbeitet als Innenarchitektin.",
+      "context": "Jan Morrow (Doris Day) gestaltet die Wohnung von Jonathan Forbes (Tony Randall), einem reichen Kunden, der sie heiraten möchte. Sie weist seine Geschenke und Anträge zurück. Später macht Brad Allen (Rock Hudson) einen Dekorationsauftrag zum Vorwand, wieder Zugang zu ihr zu bekommen.",
+      "anchor": "Jans Beruf wird zum Werkzeug ihrer Reaktion.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/52988"
+      ]
+    },
+    {
+      "id": "F240-20261006-166-M1",
+      "originalId": "F240-20261006-166-M1",
+      "knowledgeId": "K-F240-20261006-166-M1",
+      "filmKey": "Pillow Talk|1959",
+      "filmTitle": "Bettgeflüster",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Rex Stetson ist Brads erfundene Gegenfigur.",
+      "question": "Als wen gibt sich Brad Allen (Rock Hudson) gegenüber Jan (Doris Day) in „Bettgeflüster“ aus?",
+      "answers": [
+        {
+          "id": "F240-20261006-166-M1:a",
+          "text": "Als französischer Diplomat",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-M1:b",
+          "text": "Als schwedischer Arzt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-M1:c",
+          "text": "Als texanischer Rancher",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-M1:d",
+          "text": "Als britischer Antiquitätenhändler",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Brad erfindet den texanischen Rancher Rex Stetson.",
+      "context": "Als Brad Allen (Rock Hudson) Jan Morrow (Doris Day) im Nachtclub erkennt, kann er sich nicht unter seinem echten Namen nähern. Sie kennt seine Stimme aus den lästigen Telefonaten. Mit texanischem Akzent und dem Namen Rex Stetson erfindet er deshalb einen neuen Verehrer.",
+      "anchor": "Rex Stetson ist Brads erfundene Gegenfigur.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.tcm.com/articles/12722/pillow-talk",
+        "https://catalog.afi.com/Catalog/moviedetails/52988"
+      ]
+    },
+    {
+      "id": "F240-20261006-166-M2",
+      "originalId": "F240-20261006-166-M2",
+      "knowledgeId": "K-F240-20261006-166-M2",
+      "filmKey": "Pillow Talk|1959",
+      "filmTitle": "Bettgeflüster",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Das wiederverwendete Lied verrät den erfundenen Rancher.",
+      "question": "Wodurch durchschaut Jan (Doris Day) in „Bettgeflüster“ Brads (Rock Hudson) falsche Identität?",
+      "answers": [
+        {
+          "id": "F240-20261006-166-M2:a",
+          "text": "Sie entdeckt seine Handschrift in einem Brief.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-M2:b",
+          "text": "Ein gemeinsamer Bekannter nennt seinen Namen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-M2:c",
+          "text": "Sie findet seine Rechnung im Hotel.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-M2:d",
+          "text": "Sie erkennt sein Liebeslied auf einem Notenblatt.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jan erkennt auf einem Notenblatt Brads wiederverwendetes Liebeslied.",
+      "context": "Im Landhaus spielt Jan Morrow (Doris Day) die Noten auf dem Klavier und erkennt Brads (Rock Hudson) wiederverwendetes Liebeslied. Damit zerbricht die Tarnung als Rex Stetson. Jonathan Forbes (Tony Randall) trifft ein und nimmt sie mit zurück nach New York.",
+      "anchor": "Das wiederverwendete Lied verrät den erfundenen Rancher.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pillow_Talk_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-166-S1",
+      "originalId": "F240-20261006-166-S1",
+      "knowledgeId": "K-F240-20261006-166-S1",
+      "filmKey": "Pillow Talk|1959",
+      "filmTitle": "Bettgeflüster",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Brads Versöhnungsauftrag wird zur gestalterischen Abrechnung.",
+      "question": "Wie setzt Jan (Doris Day) in „Bettgeflüster“ ihren Dekorationsauftrag als Vergeltung ein?",
+      "answers": [
+        {
+          "id": "F240-20261006-166-S1:a",
+          "text": "Sie richtet Brads Wohnung absichtlich geschmacklos ein.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-S1:b",
+          "text": "Sie richtet die Wohnung für eine große Familie ein.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-S1:c",
+          "text": "Sie entfernt alle Möbel bis auf das Telefon.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-S1:d",
+          "text": "Sie lässt seine Möbel in ihre eigene Wohnung bringen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jan gestaltet Brads Wohnung absichtlich grell und geschmacklos.",
+      "context": "Auf den Rat von Haushälterin Alma (Thelma Ritter) lässt Brad Allen (Rock Hudson) Jan Morrow (Doris Day) seine Wohnung neu gestalten. Sie nimmt den Auftrag zur Rache an. Als er das grelle Ergebnis sieht, trägt er sie im Schlafanzug durch die Straßen zurück in die Wohnung.",
+      "anchor": "Brads Versöhnungsauftrag wird zur gestalterischen Abrechnung.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pillow_Talk_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-166-S2",
+      "originalId": "F240-20261006-166-S2",
+      "knowledgeId": "K-F240-20261006-166-S2",
+      "filmKey": "Pillow Talk|1959",
+      "filmTitle": "Bettgeflüster",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Eine Person lenkt beide Seiten des Gesprächs.",
+      "question": "Wie nutzt Brad (Rock Hudson) in „Bettgeflüster“ seine beiden Identitäten zur Manipulation von Jan (Doris Day)?",
+      "answers": [
+        {
+          "id": "F240-20261006-166-S2:a",
+          "text": "Als Rex bestätigt er Brads Warnungen, um Mitleid zu gewinnen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-S2:b",
+          "text": "Als Brad weckt er Zweifel, die er als Rex scheinbar widerlegt.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-S2:c",
+          "text": "Als Brad empfiehlt er Rex, der ihm als Gegenleistung Geld verspricht.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-S2:d",
+          "text": "Als Rex warnt er vor Brad und bestreitet, dessen Stimme zu kennen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Brad äußert am Telefon Verdächtigungen über Rex und widerlegt sie anschließend in seiner Tarnrolle.",
+      "context": "Brad Allen (Rock Hudson) warnt Jan Morrow (Doris Day) am Telefon vor Rex: Der werde sie mit einem Hotelbesuch verführen wollen. Als Rex zeigt er sich dort aber zurückhaltend. Jan entschuldigt sich für ihr Misstrauen; derjenige, der den Verdacht gesät hat, gewinnt nun ihr Vertrauen.",
+      "anchor": "Eine Person lenkt beide Seiten des Gesprächs.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pillow_Talk_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-166-Y",
+      "originalId": "F240-20261006-166-Y",
+      "knowledgeId": "K-F240-20261006-166-Y",
+      "filmKey": "Pillow Talk|1959",
+      "filmTitle": "Bettgeflüster",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Bettgeflüster erschien 1959.",
+      "question": "In welchem Jahr wurde „Bettgeflüster“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-166-Y:a",
+          "text": "1958",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-Y:b",
+          "text": "1960",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-Y:c",
+          "text": "1959",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-Y:d",
+          "text": "1961",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "1959 erschien der Film.",
+      "context": "Mit „Bettgeflüster“ begann 1959 die gemeinsame Komödienreihe von Doris Day, Rock Hudson und Tony Randall. „Lover Come Back“ folgte 1961, „Send Me No Flowers“ 1964. Zwischen dem ersten und dem dritten Film des Trios liegen fünf Jahre.",
+      "anchor": "1959 beginnt die Komödienreihe des Trios Day, Hudson und Randall.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.tcm.com/articles/12722/pillow-talk"
+      ]
+    },
+    {
+      "id": "F240-20261006-166-D",
+      "originalId": "F240-20261006-166-D",
+      "knowledgeId": "K-F240-20261006-166-D",
+      "filmKey": "Pillow Talk|1959",
+      "filmTitle": "Bettgeflüster",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Michael Gordon führte Regie.",
+      "question": "Wer führte bei „Bettgeflüster“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-166-D:a",
+          "text": "Delbert Mann",
+          "correct": false,
+          "feedback": "Delbert Mann inszenierte „Lover Come Back“, den nächsten Film des Trios."
+        },
+        {
+          "id": "F240-20261006-166-D:b",
+          "text": "George Cukor",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-166-D:c",
+          "text": "Norman Jewison",
+          "correct": false,
+          "feedback": "Norman Jewison inszenierte „Send Me No Flowers“ mit demselben Trio."
+        },
+        {
+          "id": "F240-20261006-166-D:d",
+          "text": "Michael Gordon",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Michael Gordon inszenierte Doris Day und Rock Hudson.",
+      "context": "Rock Hudson hatte noch keine Komödie gedreht und zögerte zunächst. Michael Gordon riet ihm, die Situationen aus Sicht der Figur vollkommen ernst zu nehmen, auch wenn das Publikum ihre Absurdität erkennt. Die Komik sollte aus dem Konflikt entstehen, statt aus einem demonstrativ lustigen Spiel.",
+      "anchor": "Gordon ließ Hudson die komischen Situationen ernst spielen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.tcm.com/articles/12722/pillow-talk",
+        "https://catalog.afi.com/Catalog/moviedetails/52988"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-L-007",
+      "originalId": "MUS-202610-P01-L-007",
+      "knowledgeId": "K-MUS-202610-P01-L-007",
+      "filmKey": "Pink Floyd – The Wall|1982",
+      "filmTitle": "Pink Floyd – The Wall",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Bob Geldof als Rockstar Pink erkennen.",
+      "question": "„Pink Floyd – The Wall“ (1982): Wer spielt den Rockstar Pink?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-L-007:a",
+          "text": "Bob Geldof",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-007:b",
+          "text": "David Gilmour",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-007:c",
+          "text": "David Bowie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-007:d",
+          "text": "Roger Waters",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Bob Geldof spielt den Rockstar Pink.",
+      "context": "Pink (Bob Geldof) ist eine fiktionale Rockstarfigur. Geldof war selbst Musiker, gehört jedoch nicht zu Pink Floyd. Die Rolle verbindet körperlichen Rückzug und aggressive Fantasien; sie ist keine wortgetreue Darstellung eines einzigen Bandmitglieds.",
+      "anchor": "Bob Geldof spielt den Rockstar Pink.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall",
+        "https://de.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-L-008",
+      "originalId": "MUS-202610-P01-L-008",
+      "knowledgeId": "K-MUS-202610-P01-L-008",
+      "filmKey": "Pink Floyd – The Wall|1982",
+      "filmTitle": "Pink Floyd – The Wall",
+      "difficulty": "leicht",
+      "questionType": "Musik",
+      "learningObjective": "Roger Waters als Drehbuchautor zuordnen.",
+      "question": "„Pink Floyd – The Wall“ (1982): Welches Pink-Floyd-Mitglied schrieb das Drehbuch?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-L-008:a",
+          "text": "David Gilmour",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-008:b",
+          "text": "Roger Waters",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-008:c",
+          "text": "Richard Wright",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-008:d",
+          "text": "Nick Mason",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Roger Waters schrieb das Drehbuch auf Grundlage des Albums The Wall.",
+      "context": "Roger Waters schrieb das Drehbuch auf Grundlage des Albums The Wall. Alan Parker führte Regie, Gerald Scarfe gestaltete die Animationen und Bob Geldof spielte Pink. Die Filmfassung vereint somit verschiedene kreative Handschriften. Ihre Songs unterscheiden sich zum Teil von den Albumaufnahmen; When the Tigers Broke Free gehört beispielsweise zur Filmfassung, aber nicht zum ursprünglichen Album von 1979.",
+      "anchor": "Roger Waters schrieb das Drehbuch auf Grundlage des Albums The Wall.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall",
+        "https://alanparker.com/film/pink-floyd-the-Wall/making"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-M-010",
+      "originalId": "MUS-202610-P01-M-010",
+      "knowledgeId": "K-MUS-202610-P01-M-010",
+      "filmKey": "Pink Floyd – The Wall|1982",
+      "filmTitle": "Pink Floyd – The Wall",
+      "difficulty": "mittel",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Gerald Scarfe als Animationsgestalter erkennen.",
+      "question": "„Pink Floyd – The Wall“ (1982): Wer gestaltete die prägnanten Animationssequenzen?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-M-010:a",
+          "text": "Richard Williams",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-010:b",
+          "text": "Terry Gilliam",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-010:c",
+          "text": "Ralph Bakshi",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-010:d",
+          "text": "Gerald Scarfe",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Gerald Scarfe gestaltete die Animationssequenzen.",
+      "context": "Die Blumenanimation begann Gerald Scarfe bereits zur Zeit von „Wish You Were Here“. Für „The Wall“ verwendete er solche früheren Arbeiten weiter. Aus der erotischen Annäherung der Blumen wird ein Kampf: Die weibliche Blüte verschlingt die männliche. Scarfe beschrieb dies als Umschlag von Liebe in Hass.",
+      "anchor": "Scarfes Blumen wechseln von Annäherung zu Verschlingen.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall",
+        "https://mediamikes.com/2012/09/gerald-scarfe-talks-about-animating-pink-floyd-the-wall-and-working-with-the-band/"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-M-011",
+      "originalId": "MUS-202610-P01-M-011",
+      "knowledgeId": "K-MUS-202610-P01-M-011",
+      "filmKey": "Pink Floyd – The Wall|1982",
+      "filmTitle": "Pink Floyd – The Wall",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Pinks psychische Abschottung als Mauer verstehen.",
+      "question": "„Pink Floyd – The Wall“ (1982): Was bedeutet die Mauer hauptsächlich in Pinks (Bob Geldof) Geschichte?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-M-011:a",
+          "text": "Seine zunehmende psychische Abschottung",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-011:b",
+          "text": "Seinen Widerstand gegen die Musikindustrie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-011:c",
+          "text": "Seinen Aufstieg zur öffentlichen Machtfigur",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-011:d",
+          "text": "Seine Abgrenzung von einer früheren Band",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Mauer steht für Pinks zunehmende psychische Abschottung.",
+      "context": "Auf Tour erfährt Pink (Bob Geldof) telefonisch vom Verhältnis seiner Frau (Eleanor David). Eine Besucherin (Jenny Wright) vertreibt er durch die Verwüstung seines Hotelzimmers. Aus Schutz vor weiteren Verletzungen schottet er sich zunehmend ab; die innere Mauer hält schließlich auch ihn selbst gefangen.",
+      "anchor": "Pinks Schutzmauer wird zum eigenen Gefängnis.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-S-010",
+      "originalId": "MUS-202610-P01-S-010",
+      "knowledgeId": "K-MUS-202610-P01-S-010",
+      "filmKey": "Pink Floyd – The Wall|1982",
+      "filmTitle": "Pink Floyd – The Wall",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Den Kriegstod des Vaters als frühe Verletzung erkennen.",
+      "question": "„Pink Floyd – The Wall“ (1982): Welche frühe Erfahrung prägt den Rockstar Pink (Bob Geldof)?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-S-010:a",
+          "text": "Der Tod seines Vaters im Zweiten Weltkrieg",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-010:b",
+          "text": "Der Verlust der Mutter bei einem Verkehrsunfall",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-010:c",
+          "text": "Die Flucht der Familie aus London",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-010:d",
+          "text": "Die Gefangenschaft seines Vaters",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sein Vater stirbt im Zweiten Weltkrieg.",
+      "context": "Pinks (Bob Geldof) Vater (James Laurenson) stirbt im Krieg. Die Erinnerung verbindet private Abwesenheit mit militärischer Gewalt. Roger Waters’ eigene Familiengeschichte beeinflusste dieses Motiv, doch Pink bleibt eine zusammengesetzte Filmfigur mit weiteren fiktionalen Erfahrungen.",
+      "anchor": "Der Kriegstod des Vaters hinterlässt eine frühe Leerstelle.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall",
+        "https://de.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-S-011",
+      "originalId": "MUS-202610-P01-S-011",
+      "knowledgeId": "K-MUS-202610-P01-S-011",
+      "filmKey": "Pink Floyd – The Wall|1982",
+      "filmTitle": "Pink Floyd – The Wall",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Die faschistische Verwandlung der Rockshow erkennen.",
+      "question": "„Pink Floyd – The Wall“ (1982): Welche Form nimmt die Rockshow in einer späteren Fantasie an?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-S-011:a",
+          "text": "Eine religiöse Erweckungsversammlung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-011:b",
+          "text": "Eine revolutionäre Arbeiterversammlung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-011:c",
+          "text": "Eine militärische Siegesparade",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-011:d",
+          "text": "Eine faschistische Massenveranstaltung",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Pink erlebt die Rockshow als faschistische Massenveranstaltung.",
+      "context": "Der Manager (Bob Hoskins) lässt den regungslosen Pink (Bob Geldof) für den Auftritt mit einer Spritze aufputschen. Auf dem Weg zur Show verwandelt er sich in seiner Vorstellung in eine militärische Führerfigur. Die Konzertmenge wird zum faschistischen Gefolge, dessen Gewalt sich anschließend auf die Straßen verlagert.",
+      "anchor": "Aus dem Rockstar wird ein faschistischer Redner.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-M-012",
+      "originalId": "MUS-202610-P01-M-012",
+      "knowledgeId": "K-MUS-202610-P01-M-012",
+      "filmKey": "Pink Floyd – The Wall|1982",
+      "filmTitle": "Pink Floyd – The Wall",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Alan Parkers Übernahme der Regie einordnen.",
+      "question": "Wer führte bei „Pink Floyd – The Wall“ Regie?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-M-012:a",
+          "text": "Baz Luhrmann",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-012:b",
+          "text": "Alan Parker",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-012:c",
+          "text": "Ken Russell",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-012:d",
+          "text": "Miloš Forman",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Bei „Pink Floyd – The Wall“ führte Alan Parker Regie.",
+      "context": "Alan Parker wollte zunächst produzieren; Michael Seresin und Gerald Scarfe sollten gemeinsam inszenieren. Nach den misslungenen Konzertaufnahmen übernahm Parker selbst die Regie. Die Band sollte ursprünglich als Erzähler auftreten. Die Arbeit zeigte ihm jedoch, dass der Film ohne solche Konzertbilder auskommen konnte.",
+      "anchor": "Vom Produzenten zum Regisseur: Parker übernimmt nach den Konzertaufnahmen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://alanparker.com/film/pink-floyd-the-Wall/making"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-S-012",
+      "originalId": "MUS-202610-P01-S-012",
+      "knowledgeId": "K-MUS-202610-P01-S-012",
+      "filmKey": "Pink Floyd – The Wall|1982",
+      "filmTitle": "Pink Floyd – The Wall",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "1982: Rockalbumverfilmung und Beginn der CD-Ära verbinden.",
+      "question": "In welchem Jahr erschien Alan Parkers „Pink Floyd – The Wall“ erstmals?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-S-012:a",
+          "text": "1980",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-012:b",
+          "text": "1981",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-012:c",
+          "text": "1982",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-012:d",
+          "text": "1983",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Pink Floyd – The Wall“ erschien 1982.",
+      "context": "1982 beginnt mit Sonys erstem CD-Player die kommerzielle CD-Ära. Im selben Jahr erscheint „Pink Floyd – The Wall“. Neue digitale Musikwiedergabe und filmische Umsetzung eines Rockalbums geben 1982 zwei unmittelbar passende Medienbilder.",
+      "anchor": "1982: Musik auf CD, Pink Floyds Wall auf Film.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall",
+        "https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-07.html",
+        "https://alanparker.com/film/pink-floyd-the-Wall/making"
+      ]
+    },
+    {
+      "id": "F240-20261006-066-L1",
+      "originalId": "F240-20261006-066-L1",
+      "knowledgeId": "K-F240-20261006-066-L1",
+      "filmKey": "Pinocchio|1940",
+      "filmTitle": "Pinocchio",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Jiminy soll beraten, entscheiden muss Pinocchio.",
+      "question": "Welche Aufgabe erhält Jiminy Cricket in Disneys „Pinocchio“?",
+      "answers": [
+        {
+          "id": "F240-20261006-066-L1:a",
+          "text": "Er soll Pinocchios Gewissen sein.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-L1:b",
+          "text": "Er soll Pinocchios Bühnenauftritte organisieren.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-L1:c",
+          "text": "Er soll Geppetto beim Schnitzen helfen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-L1:d",
+          "text": "Er soll Pinocchio vor allen Lehrern verstecken.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jiminy Cricket (Originalstimme Cliff Edwards) wird Pinocchios Gewissen.",
+      "context": "Jiminy Cricket (Originalstimme Cliff Edwards) soll Pinocchio (Originalstimme Dickie Jones) bei seinen Entscheidungen beraten. Als der Junge auf der Bühne Erfolg hat, meint Jiminy jedoch, ein erfolgreicher Schauspieler brauche kein Gewissen mehr. Er zieht sich zurück und bemerkt erst später die Gefangenschaft seines Freundes.",
+      "anchor": "Jiminy soll beraten, entscheiden muss Pinocchio.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pinocchio_(1940_film)",
+        "https://catalog.afi.com/Catalog/MovieDetails/5131"
+      ]
+    },
+    {
+      "id": "F240-20261006-066-L2",
+      "originalId": "F240-20261006-066-L2",
+      "knowledgeId": "K-F240-20261006-066-L2",
+      "filmKey": "Pinocchio|1940",
+      "filmTitle": "Pinocchio",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Ein echter Junge braucht mehr als einen lebendigen Körper.",
+      "question": "Welche Eigenschaften soll Pinocchio (Originalstimme: Dickie Jones) beweisen, um in Disneys „Pinocchio“ ein echter Junge zu werden?",
+      "answers": [
+        {
+          "id": "F240-20261006-066-L2:a",
+          "text": "Klugheit, Geduld und Höflichkeit",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-L2:b",
+          "text": "Mut, Ehrlichkeit und Selbstlosigkeit",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-L2:c",
+          "text": "Fleiß, Gehorsam und Dankbarkeit",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-L2:d",
+          "text": "Treue, Ausdauer und Bescheidenheit",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Pinocchio (Originalstimme Dickie Jones) soll mutig, ehrlich und selbstlos handeln.",
+      "context": "Pinocchio (Originalstimme Dickie Jones) soll mutig, ehrlich und selbstlos handeln. Die Verwandlung hängt somit an seinen Entscheidungen, nicht allein am ursprünglichen Zauber der Blauen Fee (Originalstimme Evelyn Venable).",
+      "anchor": "Ein echter Junge braucht mehr als einen lebendigen Körper.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pinocchio_(1940_film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-066-M1",
+      "originalId": "F240-20261006-066-M1",
+      "knowledgeId": "K-F240-20261006-066-M1",
+      "filmKey": "Pinocchio|1940",
+      "filmTitle": "Pinocchio",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Bühnenruhm endet zunächst im Käfig.",
+      "question": "Wie reagiert Stromboli in Disneys „Pinocchio“, als Pinocchio (Originalstimme: Dickie Jones) nach dem Auftritt nach Hause möchte?",
+      "answers": [
+        {
+          "id": "F240-20261006-066-M1:a",
+          "text": "Er lässt ihn nur gegen einen neuen Vertrag gehen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-M1:b",
+          "text": "Er übergibt ihn sofort an Honest John.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-M1:c",
+          "text": "Er sperrt ihn in einen Käfig.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-M1:d",
+          "text": "Er gestattet ihm jeden Abend die Heimkehr.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Stromboli (Originalstimme Charles Judels) sperrt Pinocchio (Originalstimme Dickie Jones) ein.",
+      "context": "Jiminy Cricket (Originalstimme Cliff Edwards) kann das Käfigschloss nicht öffnen. Erst die Blaue Fee (Originalstimme Evelyn Venable) befreit Pinocchio (Originalstimme Dickie Jones). Seine Lügen über den versäumten Schulbesuch lassen zuvor die Nase wachsen; er muss versprechen, sich zu bessern, bevor sie ihm hilft.",
+      "anchor": "Der Bühnenruhm endet zunächst im Käfig.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pinocchio_(1940_film)",
+        "https://catalog.afi.com/Catalog/MovieDetails/5131"
+      ]
+    },
+    {
+      "id": "F240-20261006-066-M2",
+      "originalId": "F240-20261006-066-M2",
+      "knowledgeId": "K-F240-20261006-066-M2",
+      "filmKey": "Pinocchio|1940",
+      "filmTitle": "Pinocchio",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Insel macht aus ihren Gästen verkaufbare Esel.",
+      "question": "Welche Gefahr verbirgt die Vergnügungsinsel in Disneys „Pinocchio“?",
+      "answers": [
+        {
+          "id": "F240-20261006-066-M2:a",
+          "text": "Die Jungen werden zu Pferden und vor Kutschen gespannt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-M2:b",
+          "text": "Die Jungen werden zu Hunden und als Wachtiere verkauft.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-M2:c",
+          "text": "Die Jungen werden zu Ziegen und auf Bauernhöfe gebracht.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-M2:d",
+          "text": "Die Jungen werden zu Eseln und verkauft.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Jungen verwandeln sich in Esel und werden verkauft.",
+      "context": "Die Jungen verwandeln sich in Esel und werden verkauft. Pinocchio (Originalstimme Dickie Jones) entkommt vor der vollständigen Verwandlung; das regellose Vergnügen verbirgt ein Geschäft mit Zwangsarbeit.",
+      "anchor": "Die Insel macht aus ihren Gästen verkaufbare Esel.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pinocchio_(1940_film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-066-S1",
+      "originalId": "F240-20261006-066-S1",
+      "knowledgeId": "K-F240-20261006-066-S1",
+      "filmKey": "Pinocchio|1940",
+      "filmTitle": "Pinocchio",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Rauch verwandelt den Walbauch in einen Fluchtweg.",
+      "question": "Wie wollen Pinocchio (Originalstimme: Dickie Jones) und Geppetto in Disneys „Pinocchio“ aus Monstros Bauch entkommen?",
+      "answers": [
+        {
+          "id": "F240-20261006-066-S1:a",
+          "text": "Sie erzeugen Rauch, damit der Wal niest.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-S1:b",
+          "text": "Sie brechen mit dem Floß durch seine Zähne.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-S1:c",
+          "text": "Sie warten auf das nächste Öffnen des Mauls zum Fressen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-S1:d",
+          "text": "Sie locken ihn mit Licht zum Auftauchen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Pinocchio (Originalstimme Dickie Jones) erzeugt Rauch, damit Monstro niest.",
+      "context": "Pinocchio (Originalstimme Dickie Jones) erzeugt Rauch, damit Monstro niest. Die improvisierte Flucht rettet Geppetto (Originalstimme Christian Rub) zunächst aus dem Bauch, beendet aber die Verfolgung durch den Wal noch nicht.",
+      "anchor": "Rauch verwandelt den Walbauch in einen Fluchtweg.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pinocchio_(1940_film)",
+        "https://catalog.afi.com/Catalog/MovieDetails/5131"
+      ]
+    },
+    {
+      "id": "ED125-PILLOW-S-001",
+      "originalId": "ED125-PILLOW-S-001",
+      "knowledgeId": "K-ED125-PILLOW-S-001",
+      "filmKey": "Pillow Talk|1959",
+      "filmTitle": "Bettgeflüster",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Die geteilte Bildfläche als erotische Andeutung innerhalb der Zensurregeln verstehen.",
+      "question": "Welche Doppelwirkung erzeugen die geteilten Bett- und Badewannenbilder in „Bettgeflüster“?",
+      "answers": [
+        {
+          "id": "ED125-PILLOW-S-001:a",
+          "text": "Getrennte Räume erfüllen die Regeln; das Gesamtbild deutet gemeinsame Intimität an.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PILLOW-S-001:b",
+          "text": "Getrennte Räume markieren einen Zeitabstand; das Gesamtbild erklärt die Wiederholung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PILLOW-S-001:c",
+          "text": "Getrennte Räume trennen Wunsch und Wirklichkeit; das Gesamtbild erklärt die Täuschung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PILLOW-S-001:d",
+          "text": "Getrennte Räume zeigen Mithörer; das Gesamtbild enthüllt die Herkunft der Stimmen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Räumliche Trennung und die Andeutung gemeinsamer Intimität bestehen gleichzeitig.",
+      "context": "Jan Morrow (Doris Day) und Brad Allen (Rock Hudson) bleiben in getrennten Wohnungen. Das zusammengesetzte Bild lässt sie dennoch scheinbar Bett oder Badewanne teilen. Columbia beschreibt diese Komik als Möglichkeit, die damaligen Production-Code-Regeln formal einzuhalten und zugleich sexuelle Nähe anzudeuten.",
+      "anchor": "Getrennt gedreht, scheinbar intim verbunden.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://filmglossary.ccnmtl.columbia.edu/term/split-screen/",
+        "https://catalog.afi.com/Catalog/moviedetails/52988"
+      ]
+    },
+    {
+      "id": "ED125-PILLOW-S-002",
+      "originalId": "ED125-PILLOW-S-002",
+      "knowledgeId": "K-ED125-PILLOW-S-002",
+      "filmKey": "Pillow Talk|1959",
+      "filmTitle": "Bettgeflüster",
+      "difficulty": "schwer",
+      "questionType": "Filmgeschichte",
+      "learningObjective": "Michael Gordons Rückkehr nach der Hollywood-Blacklist einordnen.",
+      "question": "Weshalb bedeutete „Bettgeflüster“ für Regisseur Michael Gordon eine Rückkehr?",
+      "answers": [
+        {
+          "id": "ED125-PILLOW-S-002:a",
+          "text": "Er kehrte nach der Hollywood-Blacklist zur Filmregie zurück.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PILLOW-S-002:b",
+          "text": "Er kehrte nach britischen Produktionen erstmals nach Hollywood zurück.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PILLOW-S-002:c",
+          "text": "Er kehrte nach reiner Animationsarbeit zum Spielfilm mit Darstellern zurück.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PILLOW-S-002:d",
+          "text": "Er kehrte nach dem Wechsel zum Fernsehen erstmals zur Kinokomödie zurück.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Gordon drehte nach seiner Aufnahme auf die Blacklist erstmals wieder einen Film.",
+      "context": "Nach „The Secret of Convict Lake“ von 1951 war Gordon im Umfeld der Untersuchungen des Ausschusses für unamerikanische Umtriebe auf die Blacklist geraten. „Bettgeflüster“ wurde 1959 sein erster Film seither. Die erfolgreiche Liebeskomödie steht damit auch für seine Rückkehr in die Hollywood-Produktion.",
+      "anchor": "1951 letzter Film vor der Blacklist, 1959 Rückkehr.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/52988"
+      ]
+    },
+    {
+      "id": "ED125-PIERROT-S-001",
+      "originalId": "ED125-PIERROT-S-001",
+      "knowledgeId": "K-ED125-PIERROT-S-001",
+      "difficulty": "schwer",
+      "questionType": "Filmgeschichte",
+      "learningObjective": "Besetzungswahl und verändertes Liebespaar-Konzept verbinden.",
+      "question": "Welches neue Paar-Konzept beschrieb Godard nach der Besetzung von „Elf Uhr nachts“ mit Jean-Paul Belmondo und Anna Karina?",
+      "answers": [
+        {
+          "id": "ED125-PIERROT-S-001:a",
+          "text": "Das ungleiche Altersverhältnis wich einem wiedervereinten bürgerlichen Ehepaar.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PIERROT-S-001:b",
+          "text": "Das ungleiche Altersverhältnis wich einem leidenschaftlichen jungen Gaunerpaar.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PIERROT-S-001:c",
+          "text": "Das ungleiche Altersverhältnis wich einem letzten romantischen Liebespaar.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PIERROT-S-001:d",
+          "text": "Das ungleiche Altersverhältnis wich einem Liebespaar als politische Verbündete.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Statt eines älteren Mannes mit sehr jungem Mädchen plante Godard nun ein letztes romantisches Liebespaar.",
+      "context": "Godard erwog zunächst Richard Burton mit Anna Karina oder Michel Piccoli mit einer sehr jungen Darstellerin. Schließlich spielte Jean-Paul Belmondo neben Karina. Wie Godard erklärte, veränderte diese Besetzung den Ton: Er wollte nun von den letzten Nachfahren großer romantischer Liebespaare erzählen.",
+      "anchor": "Die Besetzung veränderte nicht nur Gesichter, sondern das Liebespaar-Konzept.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.criterion.com/current/posts/525-pierrot-le-fou-self-portrait-in-a-shattered-lens"
+      ],
+      "filmKey": "Pierrot le fou|1965",
+      "filmTitle": "Elf Uhr nachts"
+    },
+    {
+      "id": "ED125-PIERROT-S-002",
+      "originalId": "ED125-PIERROT-S-002",
+      "knowledgeId": "K-ED125-PIERROT-S-002",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Make-up, Laborkorrektur und weiße Wände im Farbverfahren verbinden.",
+      "question": "Welchen Farbkonflikt erläuterte Raoul Coutard im Umfeld von „Elf Uhr nachts“ bei Godards weißen Wänden?",
+      "answers": [
+        {
+          "id": "ED125-PIERROT-S-002:a",
+          "text": "Rotes Make-up provoziert blaue Laborkorrektur, die auch die Wände verfärbt.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PIERROT-S-002:b",
+          "text": "Rotes Make-up provoziert grüne Laborkorrektur, die nur die Schatten verfärbt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PIERROT-S-002:c",
+          "text": "Blaues Make-up provoziert rote Laborkorrektur, die nur die Kostüme verfärbt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED125-PIERROT-S-002:d",
+          "text": "Blaues Make-up provoziert gelbe Laborkorrektur, die auch die Wände verfärbt.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Wenn das Labor rotes Make-up durch Blau ausgleicht, können weiße Wände blau erscheinen.",
+      "context": "In seinem Bericht erklärt Coutard, dass das Labor die Gesichter zur Farbabstimmung verwendet. Stark rotes Make-up aus der Technicolor-Tradition kann deshalb eine blaue Korrektur auslösen. Godards bevorzugte weiße Wände würden dann ebenfalls blau. Als bereits erprobte Alternative beschreibt Coutard helles, neutrales Make-up bei „Eine Frau ist eine Frau“.",
+      "anchor": "Die Haut als Farbreferenz kann auch den Hintergrund verändern.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.bfi.org.uk/sight-and-sound/features/light-day-raoul-coutard-shooting-film-jean-luc-godard"
+      ],
+      "filmKey": "Pierrot le fou|1965",
+      "filmTitle": "Elf Uhr nachts"
+    },
+    {
+      "id": "PHANTASM-125-S-001",
+      "filmKey": "Phantasm|1979",
+      "filmTitle": "Das Böse",
+      "question": "Welches Verfahren gab der fliegenden Kugel in „Das Böse“ laut Don Coscarelli ihre ungewöhnliche Beschleunigung?",
+      "explanation": "Ein rückwärts abgespielter Wurf ließ die Kugel zunächst langsam und dann schneller fliegen.",
+      "context": "Coscarelli berichtet, dass das Team nach Experimenten die Kugel einfach warf. Rückwärts abgespielt schien sie zunehmend zu beschleunigen, entgegen dem normalen Verlauf eines Wurfs. Diese Bewegung verlieh dem Gegenstand eine eigentümlich belebte Qualität.",
+      "anchor": "Der umgekehrte Wurf lässt die Kugel scheinbar beschleunigen.",
+      "learningObjective": "Praktischen Wurf und umgekehrte Bewegungswirkung verbinden.",
+      "sources": [
+        "https://nofspodcast.com/don-coscarelli-interview-phantasm-director"
+      ],
+      "originalId": "PHANTASM-125-S-001",
+      "knowledgeId": "K-PHANTASM-125-S-001",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "spoilerLevel": "gering",
+      "answers": [
+        {
+          "id": "PHANTASM-125-S-001:a",
+          "text": "Ein rückwärts abgespielter Wurf",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PHANTASM-125-S-001:b",
+          "text": "Ein schneller werdender Kameraschwenk",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PHANTASM-125-S-001:c",
+          "text": "Ein beschleunigter Zoom auf eine ruhende Kugel",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PHANTASM-125-S-001:d",
+          "text": "Eine wiederholte Stop-Motion-Bewegung",
+          "correct": false,
+          "feedback": ""
+        }
+      ]
+    },
+    {
+      "id": "PHANTASM-125-S-002",
+      "filmKey": "Phantasm|1979",
+      "filmTitle": "Das Böse",
+      "question": "Welche Entscheidung traf Don Coscarelli nach den ersten Tests zur Kornreduzierung bei der Restaurierung von „Das Böse“?",
+      "explanation": "Die Reduktion blieb maßvoll, weil ein völlig sauberes Bild fremd wirkte.",
+      "context": "Die Techniker konnten besonders in der blauen Farbschicht viel Korn entfernen. Coscarelli fand das klare Ergebnis zunächst eindrucksvoll, erkannte darin aber seinen Film nicht mehr. Deshalb blieb die Reduktion begrenzt; sichtbare Angelsehnen der Effekte wurden dagegen entfernt.",
+      "anchor": "Korn maßvoll erhalten, störende Angelsehnen entfernen.",
+      "learningObjective": "Restaurierungsgewinn gegen den ursprünglichen Bildeindruck abwägen.",
+      "sources": [
+        "https://filmmakermagazine.com/100440-student-filmmaking-at-its-finest-don-coscarelli-on-phantasm/"
+      ],
+      "originalId": "PHANTASM-125-S-002",
+      "knowledgeId": "K-PHANTASM-125-S-002",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "spoilerLevel": "gering",
+      "answers": [
+        {
+          "id": "PHANTASM-125-S-002:a",
+          "text": "Er ersetzte das gesamte Korn durch ein gleichmäßiges digitales Muster.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PHANTASM-125-S-002:b",
+          "text": "Er reduzierte es maßvoll, damit die ursprüngliche Filmwirkung erhalten blieb.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PHANTASM-125-S-002:c",
+          "text": "Er schärfte jede Aufnahme stark nach, um das Korn hervorzuheben.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PHANTASM-125-S-002:d",
+          "text": "Er entfernte es nur aus den Gesichtern und ließ Hintergründe unbearbeitet.",
+          "correct": false,
+          "feedback": ""
+        }
+      ]
+    },
+    {
+      "id": "PHILADELPHIA-125-S-001",
+      "filmKey": "Philadelphia|1993",
+      "filmTitle": "Philadelphia",
+      "question": "Warum wurden die Szenen von „Philadelphia“ überwiegend in Handlungsreihenfolge gedreht?",
+      "explanation": "Die Reihenfolge unterstützte Hanks’ emotionale Entwicklung und seine zunehmende Abmagerung.",
+      "context": "Tom Hanks bereitete die Rolle des Andrew Beckett mit erheblichem Gewichtsverlust vor. Der weitgehend chronologische Dreh half ihm, die emotionale Entwicklung zu verfolgen und in den letzten Szenen am dünnsten zu sein. Körperliche Veränderung und Spielverlauf wurden so aufeinander abgestimmt.",
+      "anchor": "Handlungsfolge, emotionaler Verlauf und Gewichtsverlust stimmen überein.",
+      "learningObjective": "Drehfolge und körperliche Rollenentwicklung verknüpfen.",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/59629"
+      ],
+      "originalId": "PHILADELPHIA-125-S-001",
+      "knowledgeId": "K-PHILADELPHIA-125-S-001",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "spoilerLevel": "gering",
+      "answers": [
+        {
+          "id": "PHILADELPHIA-125-S-001:a",
+          "text": "Damit Hanks’ Gewichtsverlust und emotionale Entwicklung dem Verlauf folgen konnten.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PHILADELPHIA-125-S-001:b",
+          "text": "Damit jeder Drehort nur einmal vorbereitet werden musste.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PHILADELPHIA-125-S-001:c",
+          "text": "Damit die Gerichtsverhandlung ohne Unterbrechung dokumentarisch aufgezeichnet werden konnte.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PHILADELPHIA-125-S-001:d",
+          "text": "Damit Washington die Dialoge jeweils erst am Drehtag kennenlernte.",
+          "correct": false,
+          "feedback": ""
+        }
+      ]
+    },
+    {
+      "id": "PHILADELPHIA-125-S-002",
+      "filmKey": "Philadelphia|1993",
+      "filmTitle": "Philadelphia",
+      "question": "Wie gestaltet „Philadelphia“ Andrews Erlebnis der Callas-Arie jenseits der üblichen Gesprächssituation?",
+      "explanation": "Eine hohe Kameraposition und starkes Rot heben die Erfahrung aus dem Alltag.",
+      "context": "Andrew Beckett (Tom Hanks) erläutert Joe Miller (Denzel Washington) die Musik. Amy Taubin beschreibt im BFI-Essay die hohe Kameraposition und das Rot, das über den Schein des Kaminfeuers hinausgeht. Bild und Oper machen seine Ergriffenheit sichtbar.",
+      "anchor": "Callas-Arie: hohe Kamera und expressives Rot.",
+      "learningObjective": "Opernerlebnis und expressive Bildgestaltung verbinden.",
+      "sources": [
+        "https://www.bfi.org.uk/sight-and-sound/features/philadelphia-un-packaging-hollywood-aids-drama"
+      ],
+      "originalId": "PHILADELPHIA-125-S-002",
+      "knowledgeId": "K-PHILADELPHIA-125-S-002",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "spoilerLevel": "gering",
+      "answers": [
+        {
+          "id": "PHILADELPHIA-125-S-002:a",
+          "text": "Mit einer weiten Totalen und unveränderter Raumbeleuchtung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PHILADELPHIA-125-S-002:b",
+          "text": "Mit einem Blick von oben und übersteigerter roter Beleuchtung",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PHILADELPHIA-125-S-002:c",
+          "text": "Mit einer weiten Totalen und übersteigerter roter Beleuchtung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PHILADELPHIA-125-S-002:d",
+          "text": "Mit einem Blick von oben und unveränderter Raumbeleuchtung",
+          "correct": false,
+          "feedback": ""
+        }
+      ]
     }
   ]
 }

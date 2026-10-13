@@ -2,7 +2,7 @@
 
 ## Aktuelle Fragenredaktion
 
-Die aktuellen Fragetexte und Quellen stehen in [Fragen.json](Fragenredaktion/Fragen.json), der knappe Bearbeitungsstand in [Fortschritt.json](Fragenredaktion/Fortschritt.json). 6.350 Originalfragen sind geprüft, 6.423 offen; Block 124 ist abgeschlossen. Die Redaktion bis Block 17 ist seit Version 65 veröffentlicht. Spätere Fassungen bleiben Redaktion.
+Die aktuellen Fragetexte und Quellen stehen in [Fragen.json](Fragenredaktion/Fragen.json), der knappe Bearbeitungsstand in [Fortschritt.json](Fragenredaktion/Fortschritt.json). 6.400 Originalfragen sind geprüft, 6.373 offen; Block 125 ist abgeschlossen. Die Redaktion bis Block 17 ist seit Version 65 veröffentlicht. Spätere Fassungen bleiben Redaktion.
 
 ## Maßstab
 
