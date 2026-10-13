@@ -1,0 +1,123 @@
+{
+  "version": 79,
+  "sourceBranch": "main",
+  "sourceCommit": "2b101380aa17842c24af431e6e03831e07697666",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "worktrees": {
+    "inspected": 2,
+    "allBranchesAlreadyIntegrated": true,
+    "outstandingCommits": 0
+  },
+  "checks": {
+    "typeScript": true,
+    "buildVersion": 79,
+    "fullBrowserSuite": false,
+    "unaffectedSuccessfulBrowserChecksReusedFromVersions": [
+      77,
+      78
+    ],
+    "runtimeAndTestsUnchangedSinceVersion": 78,
+    "dependencyChanges": false,
+    "formatAndDiff": true,
+    "unitTests": 456,
+    "unitFiles": 77,
+    "unitDurationSeconds": 122.15
+  },
+  "data": {
+    "questionCount": 12787,
+    "contentHash": "602353a5c010e9e3bf7b84cace6e87ee8f4cc7f9fc4b5b5ff8776978b5717487",
+    "questionImport": false,
+    "migration": false,
+    "reset": false,
+    "productionPlayerDataChanged": false
+  },
+  "editorial": {
+    "newActorsPrepared": 208,
+    "actorQuestionsPrepared": 1664,
+    "preparedTotalActors": 428,
+    "actorsPerPreparedGroup": 107,
+    "appIntegration": "ausstehend",
+    "activeActors": 220
+  },
+  "portraits": {
+    "files": 220,
+    "expiresAt": "2027-03-13T05:01:07.469Z"
+  },
+  "githubPush": false,
+  "archive": {
+    "fileCount": 710,
+    "buildFiles": 709,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 62581671,
+    "sha256": "241b208f1459577d1c0a2bfd21ce96d2ddfc09bc168b7f6173b89c8b85edd08f"
+  },
+  "versionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_5e448d8ae23c8191af754f453dea0280",
+  "deploymentId": "appgdep_6ace60ff2be48191ac6994da7ff5ea70",
+  "publishedAt": "2026-10-13T16:49:24.468641+00:00",
+  "deploymentStatus": "succeeded",
+  "nativeArchive": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000c0cc8210a7152b60974768ce",
+    "content_hash": "sha256:e879170f9f4c14b9cf57db89df946c734e074af9378b2f2c177cf5729b8448be",
+    "size_bytes": 76759040,
+    "file_count": 710
+  },
+  "releaseMetadata": {
+    "storedAndSeparatelyRead": true,
+    "anonymousRpcStatus": 200,
+    "returned": [
+      {
+        "version": 79,
+        "published_at": "2026-10-13T16:49:24.468641+00:00"
+      }
+    ],
+    "directTableSelectAllowed": false
+  },
+  "live": {
+    "htmlStatus": 200,
+    "expectedAssetReferences": true,
+    "fileCount": 225,
+    "portraitCount": 220,
+    "allFilesHttp200AndByteIdentical": true,
+    "files": [
+      {
+        "path": "/account-config.json",
+        "status": 200,
+        "byteIdentical": true
+      },
+      {
+        "path": "/sw.js",
+        "status": 200,
+        "byteIdentical": true
+      },
+      {
+        "path": "/assets/index-BRmgD8C_.css",
+        "status": 200,
+        "byteIdentical": true
+      },
+      {
+        "path": "/disclosures/achievements.png",
+        "status": 200,
+        "byteIdentical": true
+      },
+      {
+        "path": "/assets/index-DF7JJXYC.js",
+        "status": 200,
+        "byteIdentical": true
+      }
+    ],
+    "failures": []
+  },
+  "cleanup": {
+    "completed": true,
+    "removedBytes": 686618778,
+    "releaseDirectoryAbsent": true,
+    "dependenciesPreserved": true,
+    "foreignMifuneConfigurationsPreserved": true,
+    "originalPortraitMetadataRetainedUntil": "replacement or 2027-03-13T05:01:07.469Z"
+  }
+}

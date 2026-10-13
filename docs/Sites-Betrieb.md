@@ -1,5 +1,15 @@
 # Sites-Veröffentlichung
 
+## Version 79: Gesamtstand aus Main
+
+Am **13.10.2026 um 18:49:24 Uhr Europe/Berlin** aus Main (`2b101380aa17842c24af431e6e03831e07697666`) als **Version 79 öffentlich veröffentlicht**, nativer Status **succeeded**. Projekt-ID und Besucherzugriff **public, Revision 2** erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-79.json).
+
+Beide vorhandenen Worktrees geprüft; der saubere Branch `codex/genres-auf-100` war bereits vollständig in Main enthalten, keine unintegrierten Branchcommits. Der aktuelle Main-Quellstand einschließlich abgeschlossener Schauspielerredaktion übertragen. Anwendungscode, Oberfläche, Tests, Datenhaltung und Abhängigkeiten gegenüber Version 78 unverändert. Die 208 neuen Schauspieler und vier Bekanntheitsgruppen sind weiterhin redaktionell vorbereitet; ihr Einbau in den spielbaren Bestand steht aus. Aktiv bleiben 220 Personen und 12.787 Fragen.
+
+**456 Tests in 77 Dateien** (122,15 Sekunden), TypeScript, Produktionsbuild 79 und Diff-Prüfung erfolgreich. Unveränderte erfolgreiche Browsernachweise aus Version 77/78 wiederverwendet; kein neuer Browserlauf. Alle **709 Build-Dateien** im Archiv bytegleich, ausschließlich Build und Hostingmanifest. Öffentlich HTML mit korrekten Build-Verweisen sowie **225 Dateien einschließlich aller 220 Porträtzuordnungen** HTTP 200 und bytegleich. Tatsächliche Versionszeit separat gespeichert, getrennt gelesen und anonym bestätigt; direkter Tabellenzugriff gesperrt. Keine neue Migration, kein Inhaltsimport, kein Reset oder Zugriff auf private Spielstände. Kein GitHub-Push.
+
+Eigene Veröffentlichungskopie, Kontrollentpackung und Transportarchiv nach Pfad- und Verknüpfungsprüfung entfernt; Abwesenheit bestätigt (**686.618.778 Bytes**). Benötigte Abhängigkeiten und originale Porträtzuordnungen erhalten; beide fremden Mifune-Konfigurationen bytegleich erhalten.
+
 ## Freigabe vor jeder Veröffentlichung – 12.10.2026
 
 Jede Veröffentlichung benötigt Luis ausdrückliche Freigabe für den konkreten aktuellen Stand. Frühere Veröffentlichungsaufträge gelten nicht als Dauerfreigabe. Änderungen bis dahin lokal umsetzen, prüfen und committen; weder Sites deployen noch produktive Serverinhalte oder Datenbankänderungen aktivieren. Diese Nutzeranweisung hat Vorrang vor automatischen Veröffentlichungsdefaults aus Skills.

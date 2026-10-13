@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Version 79: Main-Gesamtstand veröffentlicht, alle Worktrees bereits integriert – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-79.json)
+
 - [Version 78: TMDB-Porträts, Erfolgsicon, Zeitanzeige und kurze Rekordauswahl veröffentlicht – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-78.json)
 
 - [Schauspielergruppen: 208 neue Personen und 1.664 Fragen – viermal 107 vollständig vorbereitet – 13.10.2026, Redaktion](../../../docs/Schauspieler-Bekanntheit-2026-10-13/Plan.md)
