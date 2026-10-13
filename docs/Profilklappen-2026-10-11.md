@@ -2,7 +2,7 @@
 
 Seit 11.10.2026 als **Version 67 öffentlich veröffentlicht**. [Gemeinsamer Nachweis](Veroeffentlichung-2026-10-11-Version-67.json). Auftrag: [unveränderte Nutzerquelle](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-11%20Nutzerauftrag%20Profilklappen%20und%20Merksatz.txt).
 
-Lokaler Nachfolgestand vom 12.10.2026: Eine sechste Klappe **Deine Erfolge** ergänzt die Spielstatistik. Sie verwendet das vorhandene Statistikmotiv und dieselbe native Bedienung. Enthalten sind erreichte/offene Erfolgsstufen und Fortschrittsbalken; [Erfolgsvertrag](Erfolge.md). Noch nicht veröffentlicht.
+Seit Version 77 ergänzt eine sechste Klappe **Deine Erfolge** die Spielstatistik. Enthalten sind erreichte/offene Erfolgsstufen und Fortschrittsbalken; [Erfolgsvertrag](Erfolge.md). Lokal am 13.10.2026 erhält sie ein eigenes Motiv: eine goldene Sternmedaille mit elfenbeinfarbenem Zentrum und petrolfarbenen Bändern. Dieses Icon ersetzt das bisher doppelt verwendete Statistikmotiv und ist noch nicht veröffentlicht. [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerauftrag%20Erfolgsicon.txt).
 
 Der erweiterte lokale Stand bündelt dort EXP, Filmwissen insgesamt und je Genre, sichere/gefestigte Fakten, Entdecker-Medaillen, Personen-/Preiswissen, Genrevielfalt und die Sci-Fi-Meisterschaft. Jede Erfolgsreihe hat eine eigene native Unterklappe mit Motiv und aktuellem Stufennamen, damit die vielen offenen Meilensteine die Übersicht nicht ausfüllen. Geöffnet stehen Zählbedingung, nächstes Ziel, Balken, Bestandsgrenze und Medaillen darin. Level und Karrieretitel bleiben oberhalb sichtbar.
 
@@ -12,17 +12,24 @@ Der Merksatz entfällt aus der gemeinsamen Antwortdarstellung einschließlich Ru
 
 ## Bildsymbole
 
-Drei neue Symbole wurden mit dem eingebauten Imagegen-Werkzeug erstellt, mit `public/disclosures/learning.png` als reiner Stilreferenz. Die Originale bleiben am Erzeugungsort; finale transparente PNGs mit 160 × 160 Pixeln liegen unter `public/disclosures/`:
+Am 11.10.2026 wurden drei neue Symbole mit dem eingebauten Imagegen-Werkzeug erstellt, mit `public/disclosures/learning.png` als reiner Stilreferenz. Am 13.10.2026 kam das eigene Erfolgsicon hinzu (Prompt und Herkunft unten). Die Originale bleiben am Erzeugungsort; finale transparente PNGs mit 160 × 160 Pixeln liegen unter `public/disclosures/`:
 
 | Datei | Motiv | Profilbereich |
 | --- | --- | --- |
 | statistics.png | Drei Balken und Rundinstrument | Spielstatistik |
+| achievements.png | Goldene Sternmedaille mit petrolfarbenen Bändern | Deine Erfolge |
 | account.png | Wolke und Schloss | Konto & Speicherung |
 | report.png | Sprechblase und Stift | Problem oder Verbesserung melden |
 
 Die vorhandenen Motive `film.png` und `learning.png` stehen für Filmkarriere und Lernstand. Bilder haben leere Alternativtexte; die Beschriftung der Klappe liefert den zugänglichen Namen.
 
 ## Originalprompts
+
+### achievements.png – 13.10.2026
+
+Mit dem eingebauten Imagegen-Werkzeug neu erzeugt, ohne Bilddatei als Eingabe; vorhandenes Lernstandmotiv visuell als Stilvorlage gesichtet. Transparentes Original auf 160 × 160 Pixel für `public/disclosures/achievements.png` verkleinert, Alphakanal erhalten.
+
+Use case: stylized-concept. Asset type: one compact illustrated UI icon for a film quiz, for the profile section 'Deine Erfolge' (Your achievements). Primary request: one sculptural achievement medal: thick round polished warm gold medallion with an ivory enamel center bearing a bold raised gold five-point star, two short deep petrol teal ribbon tails with gold edging beneath. Match the existing UI icons: dimensional ivory enamel, glossy deep petrol teal and polished warm gold metal, realistic highlights, soft sculptural shading, subtly three-quarter perspective. Single centered isolated object, bold recognizable simple silhouette readable at 40 pixels. Square canvas, object fills about 85% with comfortable transparent margins. Truly transparent background, no cast shadow outside object. No lettering, numbers, additional medals, chart bars, gauge, frame, scenery, watermark or extra symbols. Generate only the medal icon.
 
 ### statistics.png
 
@@ -39,7 +46,9 @@ Use case: stylized-concept. Asset type: one compact illustrated UI icon for a fi
 
 ## Prüfung
 
-Prüfergebnisse werden im [Prüfbericht](Pruefbericht.md) geführt. Neue Browserfälle prüfen bei 320 und 1280 Pixeln alle fünf Klappen, geladene Bildsymbole, Enter/Leertaste, Richtungspfeile, erreichbare Konto-/Meldungsaktionen, WCAG-Automatik, unveränderte Spieldaten und geschlossenen Zustand beim Rückweg.
+Prüfergebnisse werden im [Prüfbericht](Pruefbericht.md) geführt. Die Browserfälle prüfen bei 320 und 1280 Pixeln inzwischen alle sechs Klappen, geladene Bildsymbole, Enter/Leertaste, Richtungspfeile, erreichbare Konto-/Meldungsaktionen, WCAG-Automatik, unveränderte Spieldaten und geschlossenen Zustand beim Rückweg.
+
+13.10.2026: Bestehende Profilprüfung auf das eigene Erfolgsicon angepasst. Beide gezielten Chromium-Fälle bei 320 und 1280 Pixeln bestanden. Transparentes 160-Pixel-Icon und kompaktes Profil visuell geprüft; Prüfung gegen lokalen Vite-Entwicklungsserver, kein Produktionsbuild und keine Veröffentlichung.
 
 
 ## Optionsbereinigung und Übernahme

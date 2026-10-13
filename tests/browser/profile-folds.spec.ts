@@ -25,7 +25,7 @@ for (const width of [320, 1280]) {
       "film",
       "learning",
       "statistics",
-      "statistics",
+      "achievements",
       "account",
       "report",
     ];

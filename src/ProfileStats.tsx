@@ -171,7 +171,7 @@ export function ProfileStats({ state }: { state: State }) {
       </ProfileSection>
       <ProfileSection
         title="Deine Erfolge"
-        subject="statistics"
+        subject="achievements"
         onToggle={setAchievementsOpen}
       >
         {load(

@@ -50,7 +50,7 @@
 
 - [Weitere Serveroptimierungen seit Version 67 produktiv: einziger aktueller Bestand, begrenzter Start, Statistikdifferenzen, Duellsperren, Ranglistencache und einzelne Poster – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md#weitere-optimierungen-seit-version-67-produktiv)
 
-- [Profil: einheitliche Klappen, drei neue Icons und Antwortansicht ohne Merksatz – 11.10.2026](../../../docs/Profilklappen-2026-10-11.md)
+- [Profil: einheitliche Klappen, eigenes Erfolgsicon (lokal 13.10.2026) und Antwortansicht ohne Merksatz](../../../docs/Profilklappen-2026-10-11.md)
 
 - [Weitere Serveroptimierungen: Statistikabschluss, Duellsperre, Kontostart und bedarfsgerechte Abrufe – 11.10.2026](../../../docs/Server-Lernablauf-2026-10-11.md#nachprüfung-weitere-optimierungen--11102026)
 

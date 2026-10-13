@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 13.10.2026 – Eigenes Icon für „Deine Erfolge“
+
+Goldene Sternmedaille mit petrolfarbenen Bändern statt des erneut verwendeten Statistikmotivs. Beide gezielten Chromium-Profilfälle bei 320 und 1280 Pixeln gegen lokalen Vite-Entwicklungsserver bestanden (2/2): sechs Klappen, korrekt geladene Icons, Tastaturbedienung, WCAG-Automatik, unveränderter synthetischer Spielstand und geschlossene Klappen beim Rückweg. Transparentes 160-Pixel-Icon und kompaktes Profil visuell geprüft; `git diff --check` erfolgreich. Keine vollständige Testsuite, kein Produktionsbuild und keine Veröffentlichung für diesen kleinen lokalen Änderungsblock. [Motiv, Originalprompt und Herkunft](Profilklappen-2026-10-11.md#achievementspng--13102026).
+
 ## 12.10.2026 – Die-Maske-Rollenfrage, Version 76
 
 Genau eine Rollenfrage sprachlich korrigiert, ohne Antwort im Filmtitel vorwegzunehmen; Kurzantwort, konkrete Vertiefung, Quellen und Lesefassung abgestimmt. 16 gezielte Inhalts-/Parserprüfungen und anschließend der eingefrorene Main-Stand mit **435 Tests in 72 Dateien**, TypeScript und Build 76 erfolgreich. Erster Prüflauf während der Redaktionsänderung verworfen; gezielte Nachprüfung erfolgreich. Ein Build im gemeinsamen Arbeitsordner traf parallel laufende, noch unfertige Erfolgsänderungen; erfolgreiche Veröffentlichung deshalb aus sauberer Kopie des abgeschlossenen Main-Commits. Fremde Änderungen erhalten. Keine neue UI-Logik oder neuer Browser-Gesamtlauf.

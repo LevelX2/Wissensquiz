@@ -6,6 +6,7 @@ export type DisclosureSubject =
   | "sources"
   | "learning"
   | "statistics"
+  | "achievements"
   | "account"
   | "report";
 
