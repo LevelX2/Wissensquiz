@@ -73,6 +73,7 @@
 - [GitHub-Meldungsdienst: betriebsbereit; Fragetext im Ticket seit Version 67 veröffentlicht – 11.10.2026](../../../docs/GitHub-Meldungen.md)
 
 - [Aktuelle Fragetexte und Quellen](../../../docs/Fragenredaktion/Fragen.json)
+- [Gesamtkatalog zur externen Redaktion: 13.684 Fragen mit Status, nach Genre und Fragenbereich – 13.10.2026](../../../docs/Fragenredaktion/Gesamtkatalog-2026-10-13/README.md)
 - [Redaktionsfortschritt: 6.550 Originalfragen geprüft, 6.223 offen; Block 128 abgeschlossen](../../../docs/Fragenredaktion/Fortschritt.json)
 
 - [Version 64: gesamter Main-Stand einschließlich Proberunde, Serverzeit, Wettbewerbs-XP und Menüicons veröffentlicht](../../../docs/Sites-Betrieb.md)

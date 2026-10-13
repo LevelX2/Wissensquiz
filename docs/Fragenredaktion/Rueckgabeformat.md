@@ -2,10 +2,12 @@
 
 Für die externe Überarbeitung der nächsten 50 Fragen die Datei `Naechste-50-Fragen-Bearbeitung.csv` bearbeiten und als CSV zurückgeben. Die HTML-Datei dient zum Lesen; die CSV ist die strukturierte Rückgabevorlage. Grundlage ist dieselbe offene Warteschlange nach Block 128 und derselbe festgehaltene Katalogstand wie im HTML-Export. Die exportierten Texte sind noch nicht nach dem aktuellen Qualitätsmaßstab überarbeitet. Der Lauf bleibt pausiert.
 
+Für eine Auswahl aus dem [Gesamtkatalog](Gesamtkatalog-2026-10-13/README.md) dieselben Inhalts- und Identitätsregeln anwenden. Dort dienen bereits überarbeitete Fragen als Filmkontext. Nur die tatsächlich ausgewählten Fragen samt neuen Ergänzungen zurückgeben und die ausgewählten Ausgangs-IDs im Begleittext nennen; der gesamte Katalog muss nicht zurückgegeben werden. Alle ausgewählten Ausgangsfragen erhalten, auch wenn einzelne unverändert bleiben.
+
 ## Dateiformat
 
 - UTF-8, Trennzeichen Komma, eine Kopfzeile und ein Datensatz pro Frage.
-- Die 31 Spaltennamen und deren Reihenfolge aus der Vorlage erhalten. Keine Markdown-Codeblöcke, Kommentare, Zwischenüberschriften oder Zusatzzeilen in die CSV schreiben.
+- Die 31 Spaltennamen und deren Reihenfolge aus der Vorlage erhalten. Im Gesamtkatalog folgen zusätzliche Kontextspalten; sie dürfen bei dessen Rückgabe unverändert mitgeliefert oder weggelassen werden. Bearbeitungs- und App-Status setzt Codex nach Prüfung. Keine Markdown-Codeblöcke, Kommentare, Zwischenüberschriften oder Zusatzzeilen in die CSV schreiben.
 - Alle Felder in gerade doppelte Anführungszeichen setzen. Gerade doppelte Anführungszeichen innerhalb eines Feldes verdoppeln. Echte Umlaute und ß verwenden. Zeilenumbrüche innerhalb korrekt gequoteter Textfelder sind erlaubt; CRLF-Zeilenenden sind der bestehende Paketstandard.
 - Alle 50 Ausgangsfragen vollständig zurückgeben, auch unverändert beibehaltene. Neue Fragen dürfen als zusätzliche Datensätze in derselben CSV stehen. Für die Rückgabe zählen Datensätze, nicht physische Textzeilen.
 - `question_id`, `knowledge_id` und `variant_of` bei Überarbeitungen desselben Wissensziels exakt erhalten. Nur bei neuen Fragen darf `question_id` leer bleiben; bei einem neuen Wissensziel bleibt auch `knowledge_id` leer. Die Antwortpositionen bestehender Fragen möglichst erhalten; bei Änderungen muss `correct_answer` weiterhin zur richtigen Option passen.
@@ -49,3 +51,5 @@ Wenn ein Wissensziel grundsätzlich ersetzt werden soll, die alte Zeile nicht st
 Die zurückgegebene CSV ist eine redaktionelle Übergabe, kein automatischer Bestandsupdate-Import. Der normale App-Parser überspringt vorhandene Frage-IDs und lehnt Zeilen ohne Frage-ID ab. Codex prüft deshalb zunächst Struktur, Vollständigkeit der Ausgangsfragen, Identitäten, Lösungen, Varianten und Quellen sowie die redaktionelle Gesamtkomposition. Neue Fragen werden vor dem Parserlauf mit endgültigen IDs versehen; fehlende IDs einer Ausgangsfrage gelten nicht als neue Frage. Anschließend können die freigegebenen Fassungen gezielt in die bestehende Redaktion und bei entsprechendem Auftrag in die Anwendung übernommen werden. Die Formatvorlage selbst ändert keine App-Inhalte, Spielstände oder Bearbeitungszähler. Veröffentlichung und produktive Aktivierung benötigen weiterhin die Freigabe des konkreten aktuellen Stands.
 
 Führend bleiben [Importformat](../Importformat.md) und [Redaktionsvertrag](../Fragenredaktion.md).
+
+Bei Personen- und Preisfragen zusätzlich die jeweiligen Bereichsverträge verwenden. Ihre zusätzlichen Identitäts-, Sichtbarkeits-, Bild- und Filmbezugsfelder aus dem Katalog erhalten; das Filmformat allein beschreibt diese Bereiche nicht vollständig.
