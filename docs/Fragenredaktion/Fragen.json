@@ -327173,6 +327173,2640 @@
           "feedback": ""
         }
       ]
+    },
+    {
+      "id": "WES-M-002-V1",
+      "originalId": "WES-M-002-V1",
+      "knowledgeId": "K-WES-01-04",
+      "filmKey": "Per un pugno di dollari|1964",
+      "filmTitle": "Für eine Handvoll Dollar",
+      "difficulty": "mittel",
+      "questionType": "Ort",
+      "learningObjective": "Der Machtkampf spielt in San Miguel.",
+      "question": "„Für eine Handvoll Dollar“ (1964): In welcher Stadt gerät Joe (Clint Eastwood) zwischen die Rojos und die Baxters?",
+      "answers": [
+        {
+          "id": "WES-M-002-V1:a",
+          "text": "Contention",
+          "correct": false,
+          "feedback": "Contention ist der Ort des Zugfinales in „Todeszug nach Yuma“."
+        },
+        {
+          "id": "WES-M-002-V1:b",
+          "text": "El Paso",
+          "correct": false,
+          "feedback": "El Paso ist der Bankraubschauplatz im nächsten Dollar-Film."
+        },
+        {
+          "id": "WES-M-002-V1:c",
+          "text": "San Miguel",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "WES-M-002-V1:d",
+          "text": "Shinbone",
+          "correct": false,
+          "feedback": "Shinbone gehört zu „Der Mann, der Liberty Valance erschoss“."
+        }
+      ],
+      "explanation": "Der Machtkampf spielt in San Miguel.",
+      "context": "In San Miguel wird Joe (Clint Eastwood) nach der Befreiung Marisols (Marianne Koch) gefoltert. Der Sargtischler Piripero (Josef Egger) schmuggelt ihn in einem Sarg aus dem Ort. Nach der Genesung kehrt Joe zurück, um mit den Rojos abzurechnen.",
+      "anchor": "San Miguel ist die Bühne des ersten Dollar-Spiels.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/F%C3%BCr_eine_Handvoll_Dollar",
+        "https://en.wikipedia.org/wiki/A_Fistful_of_Dollars",
+        "https://en.wikipedia.org/wiki/3:10_to_Yuma_(1957_film)",
+        "https://en.wikipedia.org/wiki/For_a_Few_Dollars_More",
+        "https://en.wikipedia.org/wiki/The_Man_Who_Shot_Liberty_Valance"
+      ],
+      "variantOf": "WES-M-002"
+    },
+    {
+      "id": "WES-S-002-V1",
+      "originalId": "WES-S-002-V1",
+      "knowledgeId": "K-WES-01-06",
+      "filmKey": "Per un pugno di dollari|1964",
+      "filmTitle": "Für eine Handvoll Dollar",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Joe täuscht mit den Leichen lebende Zeugen vor.",
+      "question": "„Für eine Handvoll Dollar“ (1964): Warum reagieren beide Familien auf die angeblichen Überlebenden am Friedhof?",
+      "answers": [
+        {
+          "id": "WES-S-002-V1:a",
+          "text": "Sie wollen die Männer für einen Angriff auf die Rojos anwerben",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "WES-S-002-V1:b",
+          "text": "Sie wollen erfahren, wo die Soldaten das Gold versteckt haben",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "WES-S-002-V1:c",
+          "text": "Sie wollen deren vermeintliche Aussagen nutzen oder verhindern",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "WES-S-002-V1:d",
+          "text": "Sie wollen mit ihnen die Freilassung gefangener Angehöriger aushandeln",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Joe (Clint Eastwood) nutzt die Angst vor belastenden Aussagen und die Hoffnung auf brauchbare Zeugen.",
+      "context": "Joe (Clint Eastwood) braucht für seinen Plan keine überzeugende Rede vor einem Gericht. Es genügt, dass beide Familien glauben, die vermeintlichen Zeugen könnten ihnen schaden oder nützen. Die Szene macht Information selbst zur Waffe. Der Zuschauer kennt den Trick und beobachtet dadurch besonders deutlich, wie Angst und Eigeninteresse das Verhalten der Gegner steuern.",
+      "anchor": "Zwei Tote lösen einen Kampf um Zeugenaussagen aus.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Fistful_of_Dollars"
+      ],
+      "variantOf": "WES-S-002"
+    },
+    {
+      "id": "FF-276-YEAR",
+      "originalId": "FF-276-YEAR",
+      "knowledgeId": "K-FF-276-YEAR",
+      "filmKey": "Per un pugno di dollari|1964",
+      "filmTitle": "Für eine Handvoll Dollar",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "1964: Beatles-Auftritt und Eastwoods Italowestern verbinden.",
+      "question": "„Für eine Handvoll Dollar“: In welchem Jahr erschien der Film von Sergio Leone erstmals?",
+      "answers": [
+        {
+          "id": "FF-276-YEAR:y1964",
+          "text": "1964",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-276-YEAR:y1939",
+          "text": "1963",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-276-YEAR:y1941",
+          "text": "1965",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-276-YEAR:y1943",
+          "text": "1966",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Für eine Handvoll Dollar“ wurde erstmals 1964 veröffentlicht.",
+      "context": "1964 treten die Beatles erstmals in der amerikanischen Ed Sullivan Show auf. Im selben Jahr erobert Clint Eastwood mit „Für eine Handvoll Dollar“ den Italowestern. Britischer Pop in Amerika und ein amerikanischer Star im europäischen Western ergeben zwei Richtungen desselben Kulturjahres.",
+      "anchor": "1964: Beatles nach Amerika, Eastwood in den Italowestern.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Fistful_of_Dollars",
+        "https://ukstore.thebeatles.com/products/the-complete-ed-sullivan-shows-starring-the-beatles-dvd"
+      ]
+    },
+    {
+      "id": "FF-276-DIRECTOR",
+      "originalId": "FF-276-DIRECTOR",
+      "knowledgeId": "K-FF-276-DIRECTOR",
+      "filmKey": "Per un pugno di dollari|1964",
+      "filmTitle": "Für eine Handvoll Dollar",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Sergio Leones Regie zuordnen.",
+      "question": "Wer führte bei „Für eine Handvoll Dollar“ Regie?",
+      "answers": [
+        {
+          "id": "FF-276-DIRECTOR:a",
+          "text": "Sergio Leone",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-276-DIRECTOR:b",
+          "text": "Sergio Corbucci",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-276-DIRECTOR:c",
+          "text": "John Ford",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-276-DIRECTOR:d",
+          "text": "Howard Hawks",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sergio Leone führte Regie.",
+      "context": "Sergio Leone konnte bei „Für eine Handvoll Dollar“ mit Clint Eastwood nicht unmittelbar auf Englisch sprechen. Schauspieler und Stuntmann Benito Stefanelli half als Dolmetscher zwischen Star und italienischem Team. Wie damals häufig wurde ohne fertigen Dialogton gedreht; Stimmen und Geräusche kamen später hinzu. Leones extreme Nahaufnahmen der Gesichter gaben dem Western zusätzlich einen betont opernhaften Ausdruck.",
+      "anchor": "Für eine Handvoll Dollar → Sergio Leone",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Fistful_of_Dollars",
+        "https://www.tcm.com/articles/1085/a-fistful-of-dollars"
+      ]
+    },
+    {
+      "id": "E20261007-F-065-L1",
+      "originalId": "E20261007-F-065-L1",
+      "knowledgeId": "K-E20261007-F-065-L1",
+      "filmKey": "Percy Jackson & the Olympians: The Lightning Thief|2010",
+      "filmTitle": "Percy Jackson: Diebe im Olymp",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Poseidons Sohn besitzt eine besondere Verbindung zum Wasser.",
+      "question": "Welcher griechische Gott ist in „Percy Jackson: Diebe im Olymp“ Percys (Logan Lerman) Vater?",
+      "answers": [
+        {
+          "id": "E20261007-F-065-L1:a",
+          "text": "Zeus",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-L1:b",
+          "text": "Poseidon",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-L1:c",
+          "text": "Hades",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-L1:d",
+          "text": "Hermes",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Percy ist ein Sohn Poseidons und der menschlichen Sally Jackson.",
+      "context": "Percy (Logan Lerman) entdeckt seine Abstammung von Poseidon (Kevin McKidd). Seine besondere Beziehung zum Wasser erhält dadurch eine Erklärung. Die Familienenthüllung ist zugleich gefährlich: Sie zieht ihn in den Streit der Götter hinein, obwohl er dessen Regeln erst kennenlernen muss.",
+      "anchor": "Poseidons Sohn besitzt eine besondere Verbindung zum Wasser.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians:_The_Lightning_Thief",
+        "https://family.20thcenturystudios.com/movies/percy-jackson-and-the-olympians-the-lightning-thief"
+      ]
+    },
+    {
+      "id": "E20261007-F-065-L2",
+      "originalId": "E20261007-F-065-L2",
+      "knowledgeId": "K-E20261007-F-065-L2",
+      "filmKey": "Percy Jackson & the Olympians: The Lightning Thief|2010",
+      "filmTitle": "Percy Jackson: Diebe im Olymp",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Lehrer wird als Kentaur und Ausbilder erkennbar.",
+      "question": "Welche wirkliche Gestalt verbirgt sich in „Percy Jackson: Diebe im Olymp“ hinter Percys (Logan Lerman) Lehrer Mr. Brunner (Pierce Brosnan)?",
+      "answers": [
+        {
+          "id": "E20261007-F-065-L2:a",
+          "text": "Ein Satyr",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-L2:b",
+          "text": "Ein einäugiger Zyklop",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-L2:c",
+          "text": "Der Kentaur Chiron",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-L2:d",
+          "text": "Der Gott Apollo",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Mr. Brunner ist Chiron, ein Kentaur und Ausbilder der Halbgötter.",
+      "context": "Mr. Brunner (Pierce Brosnan) erscheint Percy (Logan Lerman) zunächst als gewöhnlicher Lehrer. Als Chiron gehört er zur mythologischen Welt und führt die Ausbildung der Halbgötter fort. Seine vermeintlich alltägliche Rolle erhält rückblickend einen Sinn: Schutz und Vorbereitung beginnen schon vor Percys Erkenntnis.",
+      "anchor": "Der Lehrer wird als Kentaur und Ausbilder erkennbar.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians:_The_Lightning_Thief",
+        "https://de.wikipedia.org/wiki/Percy_Jackson_%E2%80%93_Diebe_im_Olymp_(Film)"
+      ]
+    },
+    {
+      "id": "E20261007-F-065-M1",
+      "originalId": "E20261007-F-065-M1",
+      "knowledgeId": "K-E20261007-F-065-M1",
+      "filmKey": "Percy Jackson & the Olympians: The Lightning Thief|2010",
+      "filmTitle": "Percy Jackson: Diebe im Olymp",
+      "difficulty": "mittel",
+      "questionType": "Handlungszusammenhang",
+      "learningObjective": "Im Lotus-Casino kostet das Vergessen fast eine Woche.",
+      "question": "Warum verlieren Percy (Logan Lerman) und seine Freunde in „Percy Jackson: Diebe im Olymp“ im Lotus-Casino fast eine Woche?",
+      "answers": [
+        {
+          "id": "E20261007-F-065-M1:a",
+          "text": "Ein Getränk lässt sie den Zweck ihrer Reise vergessen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-M1:b",
+          "text": "Die Musik lässt sie ihre bisherigen Erinnerungen verlieren.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-M1:c",
+          "text": "Eine verzauberte Spielmünze hält sie in einer Zeitschleife fest.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-M1:d",
+          "text": "Die Lotusblüten lassen sie ihren Auftrag und die Zeit vergessen",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die angebotenen Lotusblüten erzeugen eine verführerische Vergessenheit.",
+      "context": "Percy (Logan Lerman), Annabeth (Alexandra Daddario) und Grover (Brandon T. Jackson) lassen sich im Casino von Lotusblüten ablenken. Das angenehme Vergessen verbraucht ihre knappe Zeit. Die Gefahr erscheint daher zunächst als Unterhaltung und wird erst beim Aufbruch als schwere Verzögerung sichtbar.",
+      "anchor": "Im Lotus-Casino kostet das Vergessen fast eine Woche.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians:_The_Lightning_Thief",
+        "https://www.hollywoodchicago.com/reviews/9945/percy-jackson-the-olympians-conjure-up-a-big-bolt-of-bland?page=1"
+      ]
+    },
+    {
+      "id": "E20261007-F-065-M2",
+      "originalId": "E20261007-F-065-M2",
+      "knowledgeId": "K-E20261007-F-065-M2",
+      "filmKey": "Percy Jackson & the Olympians: The Lightning Thief|2010",
+      "filmTitle": "Percy Jackson: Diebe im Olymp",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Drei Perlen reichen für vier Gefährten nicht.",
+      "question": "Warum muss Grover (Brandon T. Jackson) in „Percy Jackson: Diebe im Olymp“ zunächst in der Unterwelt bleiben?",
+      "answers": [
+        {
+          "id": "E20261007-F-065-M2:a",
+          "text": "Für vier Gefährten stehen nur drei Fluchtperlen bereit",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-M2:b",
+          "text": "Hades verlangt immer den ältesten Besucher als Pfand",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-M2:c",
+          "text": "Nur Menschen dürfen die magischen Tore durchqueren",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-M2:d",
+          "text": "Grover muss zuerst den verlorenen Helm finden",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Drei Perlen reichen nicht für Percy, Annabeth, Sally und Grover.",
+      "context": "Percy (Logan Lerman) kann seine Mutter Sally (Catherine Keener) zurückholen, doch die Fluchtmittel reichen nicht für alle. Grover (Brandon T. Jackson) bleibt freiwillig zurück. Der Erfolg der Rettung verlangt dadurch vorübergehend einen neuen Verlust und beruht auf der Solidarität eines Freundes.",
+      "anchor": "Drei Perlen reichen für vier Gefährten nicht.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians:_The_Lightning_Thief"
+      ]
+    },
+    {
+      "id": "E20261007-F-065-S1",
+      "originalId": "E20261007-F-065-S1",
+      "knowledgeId": "K-E20261007-F-065-S1",
+      "filmKey": "Percy Jackson & the Olympians: The Lightning Thief|2010",
+      "filmTitle": "Percy Jackson: Diebe im Olymp",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Der hilfreiche Schild transportiert heimlich das gestohlene Beweisstück.",
+      "question": "Wo ist der gestohlene Blitz in „Percy Jackson: Diebe im Olymp“ verborgen, ohne dass Percy (Logan Lerman) davon weiß?",
+      "answers": [
+        {
+          "id": "E20261007-F-065-S1:a",
+          "text": "In Chirons Schreibstift",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-S1:b",
+          "text": "In dem Schild, den Luke ihm mitgibt",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-S1:c",
+          "text": "In einem von Grovers Schuhen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-S1:d",
+          "text": "In der Halskette von Annabeth",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Luke versteckt den Blitz im übergebenen Schild.",
+      "context": "Luke (Jake Abel) stattet Percy (Logan Lerman) scheinbar hilfreich aus. Der Schild enthält jedoch den gestohlenen Blitz. Ein Schutzgegenstand wird damit zum Mittel der Täuschung: Percy führt das Beweisstück selbst mit und bleibt zugleich über den tatsächlichen Dieb im Unklaren.",
+      "anchor": "Der hilfreiche Schild transportiert heimlich das gestohlene Beweisstück.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians:_The_Lightning_Thief"
+      ]
+    },
+    {
+      "id": "E20261007-F-065-S2",
+      "originalId": "E20261007-F-065-S2",
+      "knowledgeId": "K-E20261007-F-065-S2",
+      "filmKey": "Percy Jackson & the Olympians: The Lightning Thief|2010",
+      "filmTitle": "Percy Jackson: Diebe im Olymp",
+      "difficulty": "mittel",
+      "questionType": "Schauplatz",
+      "learningObjective": "Der moderne Wolkenkratzer übernimmt den Zugang zum Götterberg.",
+      "question": "Welches New Yorker Gebäude dient in „Percy Jackson: Diebe im Olymp“ als Zugang zum Olymp?",
+      "answers": [
+        {
+          "id": "E20261007-F-065-S2:a",
+          "text": "Das Chrysler Building",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-S2:b",
+          "text": "Die Grand Central Station",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-S2:c",
+          "text": "Das Empire State Building",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-S2:d",
+          "text": "Das Metropolitan Museum of Art",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Zugang zur Welt der Götter liegt im Empire State Building.",
+      "context": "Der Olymp ist in dieser Fassung über das Empire State Building erreichbar. Zeus (Sean Bean) und Poseidon (Kevin McKidd) begegnen einander dort über der modernen Stadt. Ein bekanntes Hochhaus übernimmt damit die Funktion des mythologischen Bergs und verbindet antike Höhe mit gegenwärtiger Architektur.",
+      "anchor": "Der moderne Wolkenkratzer übernimmt den Zugang zum Götterberg.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians:_The_Lightning_Thief"
+      ]
+    },
+    {
+      "id": "E20261007-F-065-Y",
+      "originalId": "E20261007-F-065-Y",
+      "knowledgeId": "K-E20261007-F-065-Y",
+      "filmKey": "Percy Jackson & the Olympians: The Lightning Thief|2010",
+      "filmTitle": "Percy Jackson: Diebe im Olymp",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Das Filmjahr 2010 der ersten Percy-Jackson-Verfilmung zuordnen.",
+      "question": "In welchem Jahr wurde „Percy Jackson: Diebe im Olymp“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "E20261007-F-065-Y:a",
+          "text": "2008",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-Y:b",
+          "text": "2009",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-Y:c",
+          "text": "2011",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-Y:d",
+          "text": "2010",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Verfilmung erschien 2010, fünf Jahre nach dem Roman von 2005.",
+      "context": "Rick Riordans „The Lightning Thief“ erschien 2005; die erste Kinofassung folgte 2010. Der Abstand beträgt fünf Jahre. Die literarische Verbindung von jugendlicher Alltagswelt und griechischen Göttern wurde damit rasch in eine Filmreihe übertragen, deren erste Episode den Ursprung von Percys (Logan Lerman) göttlicher Familiengeschichte erzählt.",
+      "anchor": "2005 Romanbeginn, 2010 Kinobeginn: fünf Jahre Abstand.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://family.20thcenturystudios.com/movies/percy-jackson-and-the-olympians-the-lightning-thief",
+        "https://www.readriordan.com/book/the-lightning-thief/feed/"
+      ]
+    },
+    {
+      "id": "E20261007-F-065-D",
+      "originalId": "E20261007-F-065-D",
+      "knowledgeId": "K-E20261007-F-065-D",
+      "filmKey": "Percy Jackson & the Olympians: The Lightning Thief|2010",
+      "filmTitle": "Percy Jackson: Diebe im Olymp",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Chris Columbus als Regisseur zuordnen.",
+      "question": "Wer führte bei „Percy Jackson: Diebe im Olymp“ Regie?",
+      "answers": [
+        {
+          "id": "E20261007-F-065-D:a",
+          "text": "Chris Columbus",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-D:b",
+          "text": "Thor Freudenthal",
+          "correct": false,
+          "feedback": "Thor Freudenthal inszenierte die Fortsetzung „Im Bann des Zyklopen“."
+        },
+        {
+          "id": "E20261007-F-065-D:c",
+          "text": "David Yates",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-065-D:d",
+          "text": "Joe Johnston",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Chris Columbus führte bei der ersten Percy-Jackson-Kinofassung Regie.",
+      "context": "Chris Columbus arbeitete mit Effektleiter Kevin Mack an einer Vielfalt mythologischer Wesen. Laut Mack entstanden die Kreaturen vollständig digital oder als digitale Ergänzungen zu Schauspielern; Animatronics kamen nicht zum Einsatz. Unterschiedliche Monster, Verwandlungen sowie Wasser- und Feuereffekte erforderten dabei die gleichzeitige Entwicklung verschiedener Verfahren.",
+      "anchor": "Columbus und Mack verbinden reale Darsteller mit digitalen Mythengestalten.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://family.20thcenturystudios.com/movies/percy-jackson-and-the-olympians-the-lightning-thief",
+        "https://www.artofvfx.com/percy-jackson-and-the-olympians-the-lightning-thief-kevin-mack-production-vfx-supervisor/",
+        "https://family.20thcenturystudios.com/movies/percy-jackson-sea-of-monsters"
+      ]
+    },
+    {
+      "id": "E20261007-F-066-L1",
+      "originalId": "E20261007-F-066-L1",
+      "knowledgeId": "K-E20261007-F-066-L1",
+      "filmKey": "Percy Jackson: Sea of Monsters|2013",
+      "filmTitle": "Percy Jackson: Im Bann des Zyklopen",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Das Goldene Vlies wird als Heilmittel gebraucht.",
+      "question": "Welchen mythischen Gegenstand suchen Percy (Logan Lerman) und seine Freunde in „Percy Jackson: Im Bann des Zyklopen“ zur Rettung ihrer Heimat?",
+      "answers": [
+        {
+          "id": "E20261007-F-066-L1:a",
+          "text": "Das Goldene Ei",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-L1:b",
+          "text": "Die Büchse der Pandora",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-L1:c",
+          "text": "Das Goldene Vlies",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-L1:d",
+          "text": "Den Dreizack Poseidons",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Goldene Vlies besitzt die benötigte Heilungskraft.",
+      "context": "Das Goldene Vlies kann nicht nur den vergifteten Schutzbaum heilen. Als Annabeth (Alexandra Daddario) im Kampf tödlich verwundet wird, erweckt seine Kraft sie wieder zum Leben. Der spätere Einsatz am Baum zeigt nochmals, dass die Wirkung des Heilmittels über die ursprüngliche Rettungsaufgabe hinausgeht.",
+      "anchor": "Das Goldene Vlies wird als Heilmittel gebraucht.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson:_Sea_of_Monsters",
+        "https://family.20thcenturystudios.com/movies/percy-jackson-sea-of-monsters"
+      ]
+    },
+    {
+      "id": "E20261007-F-066-L2",
+      "originalId": "E20261007-F-066-L2",
+      "knowledgeId": "K-E20261007-F-066-L2",
+      "filmKey": "Percy Jackson: Sea of Monsters|2013",
+      "filmTitle": "Percy Jackson: Im Bann des Zyklopen",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Ein gemeinsamer Vater verbindet Percy mit dem zyklopischen Tyson.",
+      "question": "Welche Beziehung hat Tyson (Douglas Smith) zu Percy (Logan Lerman) in „Percy Jackson: Im Bann des Zyklopen“?",
+      "answers": [
+        {
+          "id": "E20261007-F-066-L2:a",
+          "text": "Er ist sein Cousin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-L2:b",
+          "text": "Er ist sein Adoptivbruder",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-L2:c",
+          "text": "Er ist sein Neffe",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-L2:d",
+          "text": "Er ist sein Halbbruder",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Tyson und Percy haben denselben göttlichen Vater, Poseidon.",
+      "context": "Tyson (Douglas Smith) ist wie Percy (Logan Lerman) ein Sohn Poseidons. Percy reagiert zunächst unsicher auf seinen zyklopischen Halbbruder. Die Verwandtschaft fordert ihn deshalb heraus, auch einen äußerlich anderen Angehörigen anzunehmen, und verbindet die Abenteuerhandlung mit einer Frage familiärer Zugehörigkeit.",
+      "anchor": "Ein gemeinsamer Vater verbindet Percy mit dem zyklopischen Tyson.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson:_Sea_of_Monsters"
+      ]
+    },
+    {
+      "id": "E20261007-F-066-M1",
+      "originalId": "E20261007-F-066-M1",
+      "knowledgeId": "K-E20261007-F-066-M1",
+      "filmKey": "Percy Jackson: Sea of Monsters|2013",
+      "filmTitle": "Percy Jackson: Im Bann des Zyklopen",
+      "difficulty": "mittel",
+      "questionType": "Handlungszusammenhang",
+      "learningObjective": "Ein kranker Baum lässt die Schutzbarriere zusammenbrechen.",
+      "question": "Welche Funktion verliert das Lager in „Percy Jackson: Im Bann des Zyklopen“, als sein magischer Baum beschädigt wird?",
+      "answers": [
+        {
+          "id": "E20261007-F-066-M1:a",
+          "text": "Den Schutzwall gegen eindringende Monster",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-M1:b",
+          "text": "Die Heilung verletzter Halbgötter im Lager",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-M1:c",
+          "text": "Die Tarnung des Lagers vor menschlichen Blicken",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-M1:d",
+          "text": "Die Versorgung des Lagers mit magischen Waffen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Baum sichert die Barriere um Camp Half-Blood.",
+      "context": "Die junge Thalia (Katelyn Mager) opferte sich beim Schutz ihrer Freunde; ihr Vater verwandelte sie in den Baum an der Lagergrenze. Luke (Jake Abel) vergiftet diesen Schutzbaum. Der Angriff eines bronzenen Stiers zeigt, dass Monster nun in Camp Half-Blood eindringen können.",
+      "anchor": "Ein kranker Baum lässt die Schutzbarriere zusammenbrechen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson:_Sea_of_Monsters"
+      ]
+    },
+    {
+      "id": "E20261007-F-066-M2",
+      "originalId": "E20261007-F-066-M2",
+      "knowledgeId": "K-E20261007-F-066-M2",
+      "filmKey": "Percy Jackson: Sea of Monsters|2013",
+      "filmTitle": "Percy Jackson: Im Bann des Zyklopen",
+      "difficulty": "mittel",
+      "questionType": "Motivation",
+      "learningObjective": "Das Heilmittel kann auch Kronos zurückholen.",
+      "question": "Wozu will Luke (Jake Abel) das Goldene Vlies in „Percy Jackson: Im Bann des Zyklopen“ entgegen dem Rettungsplan verwenden?",
+      "answers": [
+        {
+          "id": "E20261007-F-066-M2:a",
+          "text": "Zur Wiedererweckung der im Baum bewahrten Thalia",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-M2:b",
+          "text": "Zur Wiedererweckung des Titanen Kronos",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-M2:c",
+          "text": "Zur Heilung der verwundeten Gefangenen des Zyklopen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-M2:d",
+          "text": "Zur Wiederherstellung der Schutzbarriere unter seiner Kontrolle",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Luke will Kronos zurückholen und gegen den Olymp einsetzen.",
+      "context": "Luke (Jake Abel) möchte mit dem Vlies Kronos (Originalstimme Robert Knepper) wiedererwecken. Derselbe Gegenstand soll also entweder das Lager heilen oder eine zerstörerische Macht zurückholen. Der Konflikt gilt nicht nur dem Besitz des Artefakts, sondern den gegensätzlichen Absichten, die seine Kraft nutzbar machen.",
+      "anchor": "Das Heilmittel kann auch Kronos zurückholen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson:_Sea_of_Monsters"
+      ]
+    },
+    {
+      "id": "E20261007-F-066-S1",
+      "originalId": "E20261007-F-066-S1",
+      "knowledgeId": "K-E20261007-F-066-S1",
+      "filmKey": "Percy Jackson: Sea of Monsters|2013",
+      "filmTitle": "Percy Jackson: Im Bann des Zyklopen",
+      "difficulty": "mittel",
+      "questionType": "Handlungszusammenhang",
+      "learningObjective": "Poseidons Wasser heilt den verletzten Halbbruder.",
+      "question": "Warum überlebt Tyson (Douglas Smith) in „Percy Jackson: Im Bann des Zyklopen“ seinen Sturz nach einer schweren Verletzung?",
+      "answers": [
+        {
+          "id": "E20261007-F-066-S1:a",
+          "text": "Seine Haut stößt jede metallische Waffe ab",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-S1:b",
+          "text": "Das Goldene Vlies befindet sich bereits unter seiner Kleidung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-S1:c",
+          "text": "Das Wasser heilt ihn als Sohn Poseidons",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-S1:d",
+          "text": "Kronos setzt die Zeit vor der Verletzung zurück",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Tysons Abstammung von Poseidon macht das Wasser zur Heilquelle.",
+      "context": "Tyson (Douglas Smith) wird verletzt und fällt ins Wasser. Seine Verbindung zu Poseidon ermöglicht die Heilung. Die zunächst fremd wirkende Gestalt hat dadurch eine entscheidende Stärke mit Percy (Logan Lerman) gemeinsam: Ihr göttlicher Vater verbindet beide auch in der konkreten Wirkung ihrer Kräfte.",
+      "anchor": "Poseidons Wasser heilt den verletzten Halbbruder.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson:_Sea_of_Monsters"
+      ]
+    },
+    {
+      "id": "E20261007-F-066-S2",
+      "originalId": "E20261007-F-066-S2",
+      "knowledgeId": "K-E20261007-F-066-S2",
+      "filmKey": "Percy Jackson: Sea of Monsters|2013",
+      "filmTitle": "Percy Jackson: Im Bann des Zyklopen",
+      "difficulty": "mittel",
+      "questionType": "Handlungszusammenhang",
+      "learningObjective": "Die Heilung des Baums bringt eine weitere mögliche Erfüllung der Prophezeiung zurück.",
+      "question": "Welche unerwartete Folge hat die Heilung des Baums am Ende von „Percy Jackson: Im Bann des Zyklopen“?",
+      "answers": [
+        {
+          "id": "E20261007-F-066-S2:a",
+          "text": "Chiron erhält seine Jugend zurück.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-S2:b",
+          "text": "Tyson erhält eine menschliche Gestalt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-S2:c",
+          "text": "Luke erhält seine göttlichen Kräfte zurück.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-S2:d",
+          "text": "Thalia kehrt als lebende Tochter des Zeus zurück",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Vlies holt auch die im Baum bewahrte Thalia ins Leben zurück.",
+      "context": "Das Vlies stellt die Schutzbarriere wieder her, bringt aber auch Thalia (Paloma Kwiatkowski) in menschlicher Gestalt zurück. Durch ihre göttliche Abstammung kommt sie neben Percy (Logan Lerman) für die Prophezeiung in Frage. Deren angekündigte Entscheidung über das Schicksal des Olymps ist somit nicht mehr eindeutig auf Percy bezogen.",
+      "anchor": "Die Heilung des Baums bringt eine weitere mögliche Erfüllung der Prophezeiung zurück.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Percy_Jackson:_Sea_of_Monsters"
+      ]
+    },
+    {
+      "id": "E20261007-F-066-Y",
+      "originalId": "E20261007-F-066-Y",
+      "knowledgeId": "K-E20261007-F-066-Y",
+      "filmKey": "Percy Jackson: Sea of Monsters|2013",
+      "filmTitle": "Percy Jackson: Im Bann des Zyklopen",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Das Filmjahr 2013 der zweiten Percy-Jackson-Verfilmung zuordnen.",
+      "question": "In welchem Jahr wurde „Percy Jackson: Im Bann des Zyklopen“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "E20261007-F-066-Y:a",
+          "text": "2013",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-Y:b",
+          "text": "2011",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-Y:c",
+          "text": "2012",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-Y:d",
+          "text": "2015",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Fortsetzung erschien 2013, drei Jahre nach 2010.",
+      "context": "Der erste Percy-Jackson-Kinofilm erschien 2010, die zweite Episode 2013. In den drei Jahren wechselte die Regie, während die vertrauten Hauptfiguren zurückkehrten. Logan Lerman spielt in beiden Filmen Percy.",
+      "anchor": "2010 erste Episode, 2013 zweite Episode: drei Jahre und ein Regiewechsel.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://family.20thcenturystudios.com/movies/percy-jackson-sea-of-monsters",
+        "https://family.20thcenturystudios.com/movies/percy-jackson-and-the-olympians-the-lightning-thief",
+        "https://en.wikipedia.org/wiki/Percy_Jackson:_Sea_of_Monsters"
+      ]
+    },
+    {
+      "id": "E20261007-F-066-D",
+      "originalId": "E20261007-F-066-D",
+      "knowledgeId": "K-E20261007-F-066-D",
+      "filmKey": "Percy Jackson: Sea of Monsters|2013",
+      "filmTitle": "Percy Jackson: Im Bann des Zyklopen",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Thor Freudenthal als Regisseur zuordnen.",
+      "question": "Wer führte bei „Percy Jackson: Im Bann des Zyklopen“ Regie?",
+      "answers": [
+        {
+          "id": "E20261007-F-066-D:a",
+          "text": "Joe Johnston",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-D:b",
+          "text": "Thor Freudenthal",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-D:c",
+          "text": "David Yates",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-F-066-D:d",
+          "text": "Andrew Adamson",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Thor Freudenthal inszenierte die zweite Episode.",
+      "context": "Thor Freudenthal zerlegte Szenen zeichnend in einzelne Bilder. Seine Animationserfahrung schärfte dabei die Frage, wozu jede Einstellung dient. Nach eigener Aussage gab ihm diese Vorbereitung am Set mehr Freiheit, Einfälle und Improvisationen der Schauspieler aufzugreifen, statt sich in den vielen Effektdetails zu verlieren.",
+      "anchor": "Freudenthals gezeichnete Vorbereitung schafft Spielraum für die Schauspieler.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://family.20thcenturystudios.com/movies/percy-jackson-sea-of-monsters",
+        "https://www.moviemaker.com/thor-freudenthal-sets-sail-with-percy-jackson-sea-of-monsters/"
+      ]
+    },
+    {
+      "id": "F240-20261006-050-L1",
+      "originalId": "F240-20261006-050-L1",
+      "knowledgeId": "K-F240-20261006-050-L1",
+      "filmKey": "Perfect Days|2023",
+      "filmTitle": "Perfect Days",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Hirayamas Alltag beginnt mit sorgfältiger Reinigungsarbeit.",
+      "question": "Welche Arbeit verrichtet Hirayama (Kōji Yakusho) in „Perfect Days“?",
+      "answers": [
+        {
+          "id": "F240-20261006-050-L1:a",
+          "text": "Er reinigt öffentliche Toiletten.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-L1:b",
+          "text": "Er pflegt öffentliche Grünanlagen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-L1:c",
+          "text": "Er repariert städtische Straßenlaternen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-L1:d",
+          "text": "Er wartet öffentliche Verkaufsautomaten.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Hirayama reinigt öffentliche Toiletten in Tokio.",
+      "context": "Hirayama (Kōji Yakusho) kontrolliert mit einem kleinen Spiegel sogar die Unterseite der Toilettenbecken. Der Film zeigt seine Sorgfalt dort, wo Besucher sie kaum bemerken würden. Für ihn verdient auch diese Arbeit Genauigkeit.",
+      "anchor": "Hirayamas Alltag beginnt mit sorgfältiger Reinigungsarbeit.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Perfect_Days",
+        "https://apnews.com/article/b04fda82549508bf58ffc536414bb670"
+      ]
+    },
+    {
+      "id": "F240-20261006-050-L2",
+      "originalId": "F240-20261006-050-L2",
+      "knowledgeId": "K-F240-20261006-050-L2",
+      "filmKey": "Perfect Days|2023",
+      "filmTitle": "Perfect Days",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Fahrt klingt nach Hirayamas Kassetten.",
+      "question": "Auf welchem Tonträger hört Hirayama (Kōji Yakusho) unterwegs Musik in „Perfect Days“?",
+      "answers": [
+        {
+          "id": "F240-20261006-050-L2:a",
+          "text": "CDs",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-L2:b",
+          "text": "Kassetten",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-L2:c",
+          "text": "MiniDiscs",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-L2:d",
+          "text": "Ein Smartphone",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Hirayama hört Musik von Kassetten.",
+      "context": "Hirayamas (Kōji Yakusho) Kassetten werden zum Verbindungsglied mit Aya (Aoi Yamada): Sie bringt die Patti-Smith-Kassette zurück und möchte sie in seinem Wagen noch einmal hören. Zum Abschied küsst sie ihn auf die Wange. Die private Musiksammlung ermöglicht so eine unerwartete Begegnung.",
+      "anchor": "Die Fahrt klingt nach Hirayamas Kassetten.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Perfect_Days"
+      ]
+    },
+    {
+      "id": "F240-20261006-050-M1",
+      "originalId": "F240-20261006-050-M1",
+      "knowledgeId": "K-F240-20261006-050-M1",
+      "filmKey": "Perfect Days|2023",
+      "filmTitle": "Perfect Days",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Mittagspause bewahrt wechselndes Licht im Baum.",
+      "question": "Was fotografiert Hirayama (Kōji Yakusho) während seiner Mittagspausen in „Perfect Days“?",
+      "answers": [
+        {
+          "id": "F240-20261006-050-M1:a",
+          "text": "Straßenzüge und vorbeifahrende Autos",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-M1:b",
+          "text": "Schaufenster und wechselnde Auslagen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-M1:c",
+          "text": "Baumkronen und Licht zwischen Blättern",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-M1:d",
+          "text": "Toilettenschilder und ihre Umgebung",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Hirayama fotografiert Bäume und das durch Blätter fallende Licht.",
+      "context": "Hirayama (Kōji Yakusho) fotografiert Bäume und das durch Blätter fallende Licht. Er verwendet analogen Film; die kleinen Unterschiede einer wiederkehrenden Aussicht werden damit zu einer eigenen Sammlung.",
+      "anchor": "Die Mittagspause bewahrt wechselndes Licht im Baum.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Perfect_Days"
+      ]
+    },
+    {
+      "id": "F240-20261006-050-M2",
+      "originalId": "F240-20261006-050-M2",
+      "knowledgeId": "K-F240-20261006-050-M2",
+      "filmKey": "Perfect Days|2023",
+      "filmTitle": "Perfect Days",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Nichte bringt Familie in den geregelten Alltag.",
+      "question": "Warum taucht Hirayamas (Kōji Yakusho) Nichte Niko (Arisa Nakano) in „Perfect Days“ unerwartet bei ihm auf?",
+      "answers": [
+        {
+          "id": "F240-20261006-050-M2:a",
+          "text": "Sie hat mit ihrer Mutter einen festen Ferienbesuch vereinbart.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-M2:b",
+          "text": "Sie hat in Tokio eine neue Stelle gefunden.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-M2:c",
+          "text": "Sie wird von ihrer Mutter für eine Ausbildung geschickt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-M2:d",
+          "text": "Sie ist von ihrer Mutter weggelaufen.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Niko ist von ihrer Mutter Keiko (Yumi Asō) weggelaufen.",
+      "context": "Niko (Arisa Nakano) ist von ihrer Mutter Keiko (Yumi Asō) weggelaufen. Sie begleitet Hirayama (Kōji Yakusho) bei der Arbeit, fotografiert mit ihm Bäume und fährt mit ihm Rad. Als Keiko sie im Wagen mit Chauffeur abholt, treffen die getrennten Lebenswelten der Geschwister aufeinander; nach dem Abschied weint Hirayama.",
+      "anchor": "Die Nichte bringt Familie in den geregelten Alltag.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Perfect_Days"
+      ]
+    },
+    {
+      "id": "F240-20261006-050-S1",
+      "originalId": "F240-20261006-050-S1",
+      "knowledgeId": "K-F240-20261006-050-S1",
+      "filmKey": "Perfect Days|2023",
+      "filmTitle": "Perfect Days",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Papier und Spielzüge ersetzen ein Gespräch.",
+      "question": "Wie entsteht in „Perfect Days“ ein stiller Kontakt zu einem unbekannten Toilettenbesucher?",
+      "answers": [
+        {
+          "id": "F240-20261006-050-S1:a",
+          "text": "Durch ein fortgesetztes Tic-Tac-Toe-Spiel auf Papier",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-S1:b",
+          "text": "Durch Briefe in einer gemeinsamen Postbox",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-S1:c",
+          "text": "Durch kurze Nachrichten im Gästebuch",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-S1:d",
+          "text": "Durch Antwortzeichnungen im Fotoalbum",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ein Papier mit Tic-Tac-Toe-Zügen vermittelt den Kontakt.",
+      "context": "Ein Papier mit Tic-Tac-Toe-Zügen vermittelt den Kontakt. Hirayama (Kōji Yakusho) und ein unbekannter Mensch ergänzen abwechselnd das Spiel; Begegnung entsteht ohne sichtbares Gespräch.",
+      "anchor": "Papier und Spielzüge ersetzen ein Gespräch.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Perfect_Days"
+      ]
+    },
+    {
+      "id": "F240-20261006-050-S2",
+      "originalId": "F240-20261006-050-S2",
+      "knowledgeId": "K-F240-20261006-050-S2",
+      "filmKey": "Perfect Days|2023",
+      "filmTitle": "Perfect Days",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die letzte Fahrt verbindet „Feeling Good“ mit wechselnden Gefühlen.",
+      "question": "Welche Musik begleitet Hirayamas (Kōji Yakusho) letzte gezeigte Fahrt in „Perfect Days“?",
+      "answers": [
+        {
+          "id": "F240-20261006-050-S2:a",
+          "text": "Patti Smiths „Redondo Beach“",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-S2:b",
+          "text": "Nina Simones „Feeling Good“",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-S2:c",
+          "text": "Otis Reddings „(Sittin’ On) The Dock of the Bay“",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-S2:d",
+          "text": "Van Morrisons „Brown Eyed Girl“",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Feeling Good begleitet die Schlussfahrt.",
+      "context": "Feeling Good begleitet die Schlussfahrt. Hirayamas (Kōji Yakusho) Gesicht zeigt nacheinander verschiedene Gefühle; die musikalische Zuversicht erzeugt deshalb keinen einfach gleichförmig glücklichen Abschluss.",
+      "anchor": "Die letzte Fahrt verbindet „Feeling Good“ mit wechselnden Gefühlen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Perfect_Days"
+      ]
+    },
+    {
+      "id": "F240-20261006-050-Y",
+      "originalId": "F240-20261006-050-Y",
+      "knowledgeId": "K-F240-20261006-050-Y",
+      "filmKey": "Perfect Days|2023",
+      "filmTitle": "Perfect Days",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "2023 wurde aus dem realen Architekturprojekt The Tokyo Toilet ein Spielfilm über einen Reiniger.",
+      "question": "In welchem Jahr wurde „Perfect Days“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-050-Y:a",
+          "text": "2021",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-Y:b",
+          "text": "2022",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-Y:c",
+          "text": "2023",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-Y:d",
+          "text": "2024",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Film wurde 2023 erstmals veröffentlicht.",
+      "context": "2023 erschien der Film, nachdem Wenders eine Einladung zum Projekt The Tokyo Toilet erhalten hatte. Die zunächst angedachten Kurzfilme wurden zu einem Spielfilm über den Alltag eines Reinigers. Das reale Architekturprojekt ist der konkrete Hintergrund seiner Veröffentlichung.",
+      "anchor": "2023 wurde aus dem realen Architekturprojekt The Tokyo Toilet ein Spielfilm über einen Reiniger.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Perfect_Days"
+      ]
+    },
+    {
+      "id": "F240-20261006-050-D",
+      "originalId": "F240-20261006-050-D",
+      "knowledgeId": "K-F240-20261006-050-D",
+      "filmKey": "Perfect Days|2023",
+      "filmTitle": "Perfect Days",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Wim Wenders inszenierte den Film.",
+      "question": "Wer führte bei „Perfect Days“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-050-D:a",
+          "text": "Jim Jarmusch",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-D:b",
+          "text": "Aki Kaurismäki",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-D:c",
+          "text": "Hirokazu Kore-eda",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-050-D:d",
+          "text": "Wim Wenders",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Regie: Wim Wenders.",
+      "context": "Während Wim Wenders Hirayamas (Kōji Yakusho) Alltag drehte, entwickelte Donata Wenders mit einem eigenen kleinen Team parallel die Traumsequenzen. Sie verarbeitete darin Nachklänge der jeweiligen Tage. Die nächtlichen Bilder stammen damit aus einer eigenständigen künstlerischen Arbeit innerhalb seines Films.",
+      "anchor": "Donata Wenders gestaltete die Träume parallel zum Alltagsdreh.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Perfect_Days",
+        "https://www.slantmagazine.com/film/wim-wenders-interview-anselm-perfect-days/"
+      ]
+    },
+    {
+      "id": "ART-L-005",
+      "originalId": "ART-L-005",
+      "knowledgeId": "K-ART-03-01",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "learningObjective": "Alma ist Krankenschwester.",
+      "question": "„Persona“ (1966): Welchen Beruf hat Alma (Bibi Andersson)?",
+      "answers": [
+        {
+          "id": "ART-L-005:a",
+          "text": "Krankenschwester",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-005:b",
+          "text": "Musiklehrerin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-005:c",
+          "text": "Schauspielerin",
+          "correct": false,
+          "feedback": "Elisabet (Liv Ullmann) ist die Schauspielerin."
+        },
+        {
+          "id": "ART-L-005:d",
+          "text": "Journalistin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Alma (Bibi Andersson) ist Krankenschwester.",
+      "context": "Alma (Bibi Andersson) übernimmt die Pflege der schweigenden Schauspielerin Elisabet (Liv Ullmann). Die Ärztin (Margaretha Krook) stellt keine körperliche Erkrankung fest und schickt beide in ihr Sommerhaus. Aus dem beruflichen Auftrag wird ein Zusammenleben außerhalb des Klinikalltags.",
+      "anchor": "Alma (Bibi Andersson) pflegt, Elisabet (Liv Ullmann) spielt Theater.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persona_(1966_film)"
+      ]
+    },
+    {
+      "id": "ART-L-006",
+      "originalId": "ART-L-006",
+      "knowledgeId": "K-ART-03-02",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "learningObjective": "Elisabet zieht sich ins Schweigen zurück.",
+      "question": "„Persona“ (1966): Welches Verhalten führt Elisabet (Liv Ullmann) in ärztliche Betreuung?",
+      "answers": [
+        {
+          "id": "ART-L-006:a",
+          "text": "Sie kann nicht mehr gehen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-006:b",
+          "text": "Sie hört auf zu sprechen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-006:c",
+          "text": "Sie vergisst sämtliche Melodien",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-006:d",
+          "text": "Sie verliert ihr Sehvermögen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Elisabet (Liv Ullmann) zieht sich ins Schweigen zurück.",
+      "context": "Elisabet (Liv Ullmann) verstummt mitten in einer Aufführung von „Elektra“. In der Klinik erschüttern sie Fernsehbilder eines brennenden vietnamesischen Mönchs; ein Foto ihres Sohnes zerreißt sie. Ihr Schweigen bedeutet damit keinen vollständigen Rückzug von Bildern und Gefühlen.",
+      "anchor": "Das Schweigen setzt die Beziehung in Bewegung.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persona_(1966_film)"
+      ]
+    },
+    {
+      "id": "ART-M-005",
+      "originalId": "ART-M-005",
+      "knowledgeId": "K-ART-03-03",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "mittel",
+      "questionType": "Schauplatz",
+      "learningObjective": "Sie verbringen die Erholungszeit in einem Haus am Meer.",
+      "question": "„Persona“ (1966): Wohin ziehen Alma (Bibi Andersson) und Elisabet (Liv Ullmann) zur Erholung?",
+      "answers": [
+        {
+          "id": "ART-M-005:a",
+          "text": "In ein Haus am Meer",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-005:b",
+          "text": "In ein Sanatorium im Gebirge",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-005:c",
+          "text": "In eine Wohnung in Stockholm",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-005:d",
+          "text": "In ein abgelegenes Landhotel",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sie verbringen die Erholungszeit in einem Haus am Meer.",
+      "context": "Im Sommerhaus erzählt Alma (Bibi Andersson) der schweigenden Elisabet (Liv Ullmann) von einem sexuellen Erlebnis am Strand. Sie berichtet auch von ihrer anschließenden Schwangerschaft und Abtreibung. Die Abgeschiedenheit erleichtert diese Offenheit; später findet sie gerade die intimen Geständnisse in Elisabets Brief wieder.",
+      "anchor": "Meerhaus statt Klinikalltag.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persona_(1966_film)",
+        "https://de.wikipedia.org/wiki/Persona_(1966)"
+      ]
+    },
+    {
+      "id": "ART-M-006",
+      "originalId": "ART-M-006",
+      "knowledgeId": "K-ART-03-04",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Alma liest einen Brief, in dem Elisabet sie als Beobachtungsgegenstand behandelt.",
+      "question": "„Persona“ (1966): Wodurch fühlt Alma (Bibi Andersson) ihr Vertrauen besonders verletzt?",
+      "answers": [
+        {
+          "id": "ART-M-006:a",
+          "text": "Durch eine heimlich verkaufte Wohnung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-006:b",
+          "text": "Durch einen Brief, in dem Elisabet über sie berichtet",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-006:c",
+          "text": "Durch ein öffentliches Theaterinterview",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-006:d",
+          "text": "Durch einen gestohlenen Verlobungsring",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Alma (Bibi Andersson) liest einen Brief, in dem Elisabet (Liv Ullmann) sie als Beobachtungsgegenstand behandelt.",
+      "context": "Alma (Bibi Andersson) hat ihre Offenheit als Zeichen wachsender Vertrautheit erlebt. Elisabets (Liv Ullmann) Brief verändert diesen Eindruck und macht aus dem vermeintlich geschützten Austausch eine Beobachtungssituation. Die Kränkung lässt sich deshalb nicht auf bloße Neugier reduzieren: Entscheidend ist der Unterschied zwischen dem Gefühl, verstanden zu werden, und dem Gefühl, untersucht zu werden.",
+      "anchor": "Vertraulichkeit kippt in Beobachtung.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persona_(1966_film)"
+      ]
+    },
+    {
+      "id": "ART-S-005",
+      "originalId": "ART-S-005",
+      "knowledgeId": "K-ART-03-05",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "mittel",
+      "questionType": "Bildgestaltung",
+      "learningObjective": "Ein bekanntes Bild setzt Gesichtshälften der beiden Frauen zusammen.",
+      "question": "Welches Verfahren verbindet in „Persona“ nach dem Gespräch über Elisabets (Liv Ullmann) Mutterschaft die Gesichter der beiden Frauen?",
+      "answers": [
+        {
+          "id": "ART-S-005:a",
+          "text": "Zusammensetzen ihrer Gesichtshälften",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-005:b",
+          "text": "Überblendung beider vollständigen Gesichter",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-005:c",
+          "text": "Spiegelung desselben Gesichts",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-005:d",
+          "text": "Montage abwechselnder Profilaufnahmen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ein bekanntes Bild setzt Gesichtshälften der beiden Frauen zusammen.",
+      "context": "Die Gesichter von Alma (Bibi Andersson) und Elisabet (Liv Ullmann) werden in einem zusammengesetzten Bild verbunden. Das ist ein überprüfbares Gestaltungsmittel, aber kein zwingender Beweis für nur eine mögliche Identitätsdeutung. Die Einstellung kann den Blick gerade darauf lenken, wie stark wir aus sichtbarer Ähnlichkeit auf inneres Gleichsein schließen möchten.",
+      "anchor": "Ein Bild verschmilzt, die Deutung bleibt offen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persona_(1966_film)",
+        "https://www.criterion.com/current/posts/3116-the-persistence-of-persona",
+        "https://de.wikipedia.org/wiki/Persona_(1966)"
+      ]
+    },
+    {
+      "id": "ART-S-006",
+      "originalId": "ART-S-006",
+      "knowledgeId": "K-ART-03-06",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "mittel",
+      "questionType": "Kamera",
+      "learningObjective": "Sven Nykvist fotografierte den Film.",
+      "question": "„Persona“ (1966): Wer verantwortete die Kameraarbeit?",
+      "answers": [
+        {
+          "id": "ART-S-006:a",
+          "text": "Christopher Doyle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-006:b",
+          "text": "Sven Nykvist",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-006:c",
+          "text": "Robby Müller",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-006:d",
+          "text": "Henri Alekan",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sven Nykvist fotografierte den Film.",
+      "context": "Sven Nykvist erprobte die schwierige Nahaufnahme der zusammenkommenden Kohlenstäbe eines Projektors bereits vor Drehbeginn. Während der Arbeit an „Loving Couples“ nutzte er dafür freie Stunden. Der zusätzliche Rohfilmverbrauch außerhalb des Budgets verärgerte den Studioleiter.",
+      "anchor": "Kohlenstäbe im Projektor erforderten frühe Kameratests.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persona_(1966_film)",
+        "https://www.ingmarbergman.se/en/production/persona"
+      ]
+    },
+    {
+      "id": "ART-L-005-V1",
+      "originalId": "ART-L-005-V1",
+      "knowledgeId": "K-ART-03-01",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "learningObjective": "Alma ist Krankenschwester.",
+      "question": "„Persona“ (1966): In welcher beruflichen Funktion betreut Alma (Bibi Andersson) Elisabet (Liv Ullmann)?",
+      "answers": [
+        {
+          "id": "ART-L-005-V1:a",
+          "text": "Als Krankenschwester",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-005-V1:b",
+          "text": "Als Theaterregisseurin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-005-V1:c",
+          "text": "Als Rechtsanwältin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-L-005-V1:d",
+          "text": "Als Filmkritikerin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Alma (Bibi Andersson) ist Krankenschwester.",
+      "context": "Alma (Bibi Andersson) übernimmt die Pflege der schweigenden Schauspielerin Elisabet (Liv Ullmann). Die Ärztin (Margaretha Krook) stellt keine körperliche Erkrankung fest und schickt beide in ihr Sommerhaus. Aus dem beruflichen Auftrag wird ein Zusammenleben außerhalb des Klinikalltags.",
+      "anchor": "Alma (Bibi Andersson) pflegt, Elisabet (Liv Ullmann) spielt Theater.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persona_(1966_film)"
+      ],
+      "variantOf": "ART-L-005"
+    },
+    {
+      "id": "ART-M-005-V1",
+      "originalId": "ART-M-005-V1",
+      "knowledgeId": "K-ART-03-03",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "mittel",
+      "questionType": "Schauplatz",
+      "learningObjective": "Sie verbringen die Erholungszeit in einem Haus am Meer.",
+      "question": "„Persona“ (1966): Welcher Rückzugsort ersetzt die Klinik im weiteren Verlauf?",
+      "answers": [
+        {
+          "id": "ART-M-005-V1:a",
+          "text": "Ein Haus an der Küste",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-005-V1:b",
+          "text": "Ein Sanatorium im Gebirge",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-005-V1:c",
+          "text": "Eine Wohnung in Stockholm",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-M-005-V1:d",
+          "text": "Ein abgelegenes Landhotel",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sie verbringen die Erholungszeit in einem Haus am Meer.",
+      "context": "Im Sommerhaus erzählt Alma (Bibi Andersson) der schweigenden Elisabet (Liv Ullmann) von einem sexuellen Erlebnis am Strand. Sie berichtet auch von ihrer anschließenden Schwangerschaft und Abtreibung. Die Abgeschiedenheit erleichtert diese Offenheit; später findet sie gerade die intimen Geständnisse in Elisabets Brief wieder.",
+      "anchor": "Meerhaus statt Klinikalltag.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persona_(1966_film)",
+        "https://de.wikipedia.org/wiki/Persona_(1966)"
+      ],
+      "variantOf": "ART-M-005"
+    },
+    {
+      "id": "ART-S-005-V1",
+      "originalId": "ART-S-005-V1",
+      "knowledgeId": "K-ART-03-05",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "mittel",
+      "questionType": "Bildgestaltung",
+      "learningObjective": "Ein bekanntes Bild setzt Gesichtshälften der beiden Frauen zusammen.",
+      "question": "Wie gestaltet „Persona“ das Mischgesicht nach Almas (Bibi Andersson) Erzählung über Elisabets (Liv Ullmann) Mutterschaft?",
+      "answers": [
+        {
+          "id": "ART-S-005-V1:a",
+          "text": "Durch das Zusammensetzen jeweils einer Gesichtshälfte",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-005-V1:b",
+          "text": "Durch eine Überblendung beider vollständigen Gesichter",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-005-V1:c",
+          "text": "Durch die Spiegelung desselben Gesichts",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ART-S-005-V1:d",
+          "text": "Durch eine Montage abwechselnder Profilaufnahmen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ein bekanntes Bild setzt Gesichtshälften der beiden Frauen zusammen.",
+      "context": "Die Gesichter von Alma (Bibi Andersson) und Elisabet (Liv Ullmann) werden in einem zusammengesetzten Bild verbunden. Das ist ein überprüfbares Gestaltungsmittel, aber kein zwingender Beweis für nur eine mögliche Identitätsdeutung. Die Einstellung kann den Blick gerade darauf lenken, wie stark wir aus sichtbarer Ähnlichkeit auf inneres Gleichsein schließen möchten.",
+      "anchor": "Ein Bild verschmilzt, die Deutung bleibt offen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persona_(1966_film)",
+        "https://www.criterion.com/current/posts/3116-the-persistence-of-persona",
+        "https://de.wikipedia.org/wiki/Persona_(1966)"
+      ],
+      "variantOf": "ART-S-005"
+    },
+    {
+      "id": "FF-028-YEAR",
+      "originalId": "FF-028-YEAR",
+      "knowledgeId": "K-FF-028-YEAR",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "1966: „Revolver“ und „Persona“ als Experimente verbinden.",
+      "question": "„Persona“: In welchem Jahr erschien der Film von Ingmar Bergman erstmals?",
+      "answers": [
+        {
+          "id": "FF-028-YEAR:y1966",
+          "text": "1966",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-028-YEAR:y1956",
+          "text": "1965",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-028-YEAR:y1958",
+          "text": "1967",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-028-YEAR:y1960",
+          "text": "1968",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Persona“ wurde erstmals 1966 veröffentlicht.",
+      "context": "1966 erschien das Beatles-Album „Revolver“, das mit ungewohnten Studioklängen experimentierte. Im selben Jahr stellte Ingmar Bergmans „Persona“ Gewissheiten über Gesichter und Identität infrage. Die Verbindung ist ein Vergleich zweier künstlerischer Experimente: Die Popmusik verändert ihre Klangbilder, Bergman zerlegt vertraute Bilder vom Ich.",
+      "anchor": "1966: Revolver verändert Klänge, Persona verändert Gesichter.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persona_(1966_film)",
+        "https://www.thebeatles.com/revolver"
+      ]
+    },
+    {
+      "id": "FF-028-DIRECTOR",
+      "originalId": "FF-028-DIRECTOR",
+      "knowledgeId": "K-FF-028-DIRECTOR",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Ingmar Bergmans Regie zuordnen.",
+      "question": "Wer führte bei „Persona“ Regie?",
+      "answers": [
+        {
+          "id": "FF-028-DIRECTOR:a",
+          "text": "Ingmar Bergman",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-028-DIRECTOR:b",
+          "text": "Bo Widerberg",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-028-DIRECTOR:c",
+          "text": "Jan Troell",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-028-DIRECTOR:d",
+          "text": "Carl Theodor Dreyer",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ingmar Bergman führte Regie.",
+      "context": "Während einer Lungenentzündung begann Ingmar Bergman 1965 im Krankenhaus das Drehbuch zu „Persona“. Das größere Projekt „Die Menschenfresser“ wurde verschoben und später zu „Die Stunde des Wolfs“. Kenne Fant von Svensk Filmindustri half, den kleineren Film nach Bergmans Genesung zu verwirklichen.",
+      "anchor": "Persona → Ingmar Bergman",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persona_(1966_film)",
+        "https://de.wikipedia.org/wiki/Persona_(1966)",
+        "https://www.ingmarbergman.se/en/production/persona"
+      ]
+    },
+    {
+      "id": "HOR-L-023",
+      "originalId": "HOR-L-023",
+      "knowledgeId": "K-HOR-12-church-katze",
+      "filmKey": "Pet Sematary|1989",
+      "filmTitle": "Friedhof der Kuscheltiere",
+      "difficulty": "leicht",
+      "questionType": "Figur",
+      "learningObjective": "Church ist die Katze der Creeds.",
+      "question": "„Friedhof der Kuscheltiere“ (1989): Welches Haustier der Familie heißt Church?",
+      "answers": [
+        {
+          "id": "HOR-L-023:a",
+          "text": "Ein Papagei",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-L-023:b",
+          "text": "Ein Hund",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-L-023:c",
+          "text": "Ein Kaninchen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-L-023:d",
+          "text": "Eine Katze",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Church ist die Katze der Familie Creed.",
+      "context": "Als Church überfahren wird, ist die übrige Familie verreist. Louis Creed (Dale Midkiff) begräbt den Kater auf dem verborgenen Plateau. Er kehrt zurück, riecht aber penetrant und verhält sich bösartig: Der erste Versuch einer Wiederbelebung hinterlässt erkennbare Folgen.",
+      "anchor": "Church ist die Katze der Creeds.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Friedhof_der_Kuscheltiere_(1989)"
+      ]
+    },
+    {
+      "id": "HOR-L-024",
+      "originalId": "HOR-L-024",
+      "knowledgeId": "K-HOR-12-jud-nachbar",
+      "filmKey": "Pet Sematary|1989",
+      "filmTitle": "Friedhof der Kuscheltiere",
+      "difficulty": "leicht",
+      "questionType": "Beziehung",
+      "learningObjective": "Jud öffnet Louis den Weg zum verborgenen Begräbnisplatz.",
+      "question": "„Friedhof der Kuscheltiere“ (1989): Wer zeigt Louis (Dale Midkiff) den besonderen Begräbnisplatz jenseits des Tierfriedhofs?",
+      "answers": [
+        {
+          "id": "HOR-L-024:a",
+          "text": "Sein Schwiegervater Irwin Goldman",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-L-024:b",
+          "text": "Der Student Victor Pascow",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-L-024:c",
+          "text": "Sein Nachbar Jud Crandall",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-L-024:d",
+          "text": "Sein Kollege Steve Masterton",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jud Crandall führt Louis zu dem verborgenen Begräbnisplatz.",
+      "context": "Jud Crandall (Fred Gwynne) zeigt Louis Creed (Dale Midkiff), wie er Ellie (Blaze Berdahl) den Verlust ihres Katers ersparen könnte. Nach dem nächsten Todesfall warnt er ihn jedoch: Schon die Wiederbelebung eines im Krieg gefallenen jungen Mannes endete mit einem brennenden Haus.",
+      "anchor": "Jud zeigt den Weg, warnt später aber vor der Wiederbelebung eines Menschen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)"
+      ]
+    },
+    {
+      "id": "HOR-M-023",
+      "originalId": "HOR-M-023",
+      "knowledgeId": "K-HOR-12-gage-unfall",
+      "filmKey": "Pet Sematary|1989",
+      "filmTitle": "Friedhof der Kuscheltiere",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "In der Verfilmung von 1989 trifft der Unfall Gage.",
+      "question": "Woran stirbt der kleine Gage (Miko Hughes) in „Friedhof der Kuscheltiere“ von 1989?",
+      "answers": [
+        {
+          "id": "HOR-M-023:a",
+          "text": "Er ertrinkt beim Spielen im Fluss.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-M-023:b",
+          "text": "Er wird von einem Lastwagen überfahren.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-M-023:c",
+          "text": "Er stürzt vom Felsplateau in die Tiefe.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-M-023:d",
+          "text": "Er wird von einem umgestürzten Baum erschlagen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Gage wird von einem Lastwagen überfahren.",
+      "context": "Nach Gages (Miko Hughes) Beerdigung reisen Rachel Creed (Denise Crosby) und Ellie (Blaze Berdahl) nach Chicago. Louis Creed (Dale Midkiff) bleibt zurück. Heimlich gräbt er den Leichnam aus und bringt ihn zum verborgenen Begräbnisplatz.",
+      "anchor": "Gages Verkehrstod führt Louis zur heimlichen Umbettung.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58225",
+        "https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)"
+      ]
+    },
+    {
+      "id": "HOR-M-024",
+      "originalId": "HOR-M-024",
+      "knowledgeId": "K-HOR-12-pascow-warnung",
+      "filmKey": "Pet Sematary|1989",
+      "filmTitle": "Friedhof der Kuscheltiere",
+      "difficulty": "mittel",
+      "questionType": "Figur",
+      "learningObjective": "Pascow versucht, Louis von der gefährlichen Grenze fernzuhalten.",
+      "question": "„Friedhof der Kuscheltiere“ (1989): Welche verstorbene Figur erscheint Louis (Dale Midkiff) mit Warnungen?",
+      "answers": [
+        {
+          "id": "HOR-M-024:a",
+          "text": "Zelda Goldman",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-M-024:b",
+          "text": "Missy Dandridge",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-M-024:c",
+          "text": "Victor Pascow",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-M-024:d",
+          "text": "Jud Crandall",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Victor Pascow erscheint Louis nach seinem Tod.",
+      "context": "Victor Pascow (Brad Greenquist) stirbt trotz der ärztlichen Hilfe von Louis Creed (Dale Midkiff). Nachts führt sein Geist Louis zum Tierfriedhof und warnt vor dem Gelände dahinter. Als Louis aufwacht, sind seine Füße schmutzig: Der vermeintliche Traum hat körperliche Spuren.",
+      "anchor": "Pascow versucht, Louis von der gefährlichen Grenze fernzuhalten.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)"
+      ]
+    },
+    {
+      "id": "HOR-S-023",
+      "originalId": "HOR-S-023",
+      "knowledgeId": "K-HOR-12-zelda-schwester",
+      "filmKey": "Pet Sematary|1989",
+      "filmTitle": "Friedhof der Kuscheltiere",
+      "difficulty": "mittel",
+      "questionType": "Beziehung",
+      "learningObjective": "Zelda ist die verstorbene Schwester aus Rachels belastenden Erinnerungen.",
+      "question": "Welche Beziehung hatte Rachel (Denise Crosby) zu der kranken Zelda (Andrew Hubatsek) in „Friedhof der Kuscheltiere“?",
+      "answers": [
+        {
+          "id": "HOR-S-023:a",
+          "text": "Zelda war ihre Tochter.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-S-023:b",
+          "text": "Zelda war ihre Schwester.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-S-023:c",
+          "text": "Zelda war ihre Mutter.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-S-023:d",
+          "text": "Zelda war ihre Lehrerin.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Zelda war Rachels Schwester.",
+      "context": "Rachel Creed (Denise Crosby) sieht in Juds (Fred Gwynne) Haus ihre verstorbene Schwester Zelda (Andrew Hubatsek). Tatsächlich verbirgt sich dahinter der wiedergekehrte Gage (Miko Hughes). Rachel will ihren Sohn umarmen; der vermeintliche Familienmoment endet tödlich.",
+      "anchor": "Die Erscheinung Zeldas geht der tödlichen Begegnung mit Gage voraus.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)"
+      ]
+    },
+    {
+      "id": "HOR-S-024",
+      "originalId": "HOR-S-024",
+      "knowledgeId": "K-HOR-12-rachel-letzter-versuch",
+      "filmKey": "Pet Sematary|1989",
+      "filmTitle": "Friedhof der Kuscheltiere",
+      "difficulty": "mittel",
+      "questionType": "Motiv",
+      "learningObjective": "Louis verwechselt eine kürzere Wartezeit mit einer Lösung des Grundproblems.",
+      "question": "Warum erwartet Louis (Dale Midkiff) in „Friedhof der Kuscheltiere“ bei Rachel (Denise Crosby) eine andere Wiederbelebung als bei Gage (Miko Hughes)?",
+      "answers": [
+        {
+          "id": "HOR-S-024:a",
+          "text": "Er hält die geringere Tiefe ihres Grabes für entscheidend.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-S-024:b",
+          "text": "Er hält ihre Volljährigkeit für entscheidend.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-S-024:c",
+          "text": "Er hält die kürzere Zeit seit ihrem Tod für entscheidend.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "HOR-S-024:d",
+          "text": "Er hält ihre Unkenntnis des Begräbnisplatzes für entscheidend.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Louis erklärt sich das Scheitern mit zu langem Warten und versucht es bei Rachel erneut.",
+      "context": "Louis Creed (Dale Midkiff) tötet den wiedergekehrten Gage (Miko Hughes) mit einer Injektion und verbrennt das Haus. Trotzdem trägt er Rachel (Denise Crosby) zum Plateau. Seine neue Erklärung schützt ihn vor keiner Wiederholung: Zurückgekehrt greift sie nach einem Messer.",
+      "anchor": "Louis verwechselt eine kürzere Wartezeit mit einer Lösung des Grundproblems.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Friedhof_der_Kuscheltiere_(1989)"
+      ]
+    },
+    {
+      "id": "FF-187-YEAR",
+      "originalId": "FF-187-YEAR",
+      "knowledgeId": "K-FF-187-YEAR",
+      "filmKey": "Pet Sematary|1989",
+      "filmTitle": "Friedhof der Kuscheltiere",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "question": "„Friedhof der Kuscheltiere“: In welchem Jahr erschien der Film von Mary Lambert erstmals?",
+      "answers": [
+        {
+          "id": "FF-187-YEAR:y1989",
+          "text": "1989",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-187-YEAR:y1985",
+          "text": "1985",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-187-YEAR:y1987",
+          "text": "1987",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-187-YEAR:y1990",
+          "text": "1990",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Friedhof der Kuscheltiere“ wurde erstmals 1989 veröffentlicht.",
+      "context": "1989 erscheinen „Friedhof der Kuscheltiere“ und „Zurück in die Zukunft II“. Beide zeigen, dass ein Eingriff in die gewöhnliche Ordnung unerwünschte Folgen hat: Tote zurückholen oder die Zeitlinie verändern. Zwei unterschiedliche Warnungen vor dem vermeintlichen Zurückdrehen liegen im selben Jahr.",
+      "anchor": "1989: Tote kehren zurück, Martys Zeitlinie gerät durcheinander.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)",
+        "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II"
+      ],
+      "learningObjective": "Das Veröffentlichungsjahr der ersten Verfilmung einordnen.",
+      "spoilerLevel": "keine"
+    },
+    {
+      "id": "FF-187-DIRECTOR",
+      "originalId": "FF-187-DIRECTOR",
+      "knowledgeId": "K-FF-187-DIRECTOR",
+      "filmKey": "Pet Sematary|1989",
+      "filmTitle": "Friedhof der Kuscheltiere",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "question": "Wer führte bei „Friedhof der Kuscheltiere“ von 1989 Regie?",
+      "answers": [
+        {
+          "id": "FF-187-DIRECTOR:a",
+          "text": "Mary Lambert",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-187-DIRECTOR:b",
+          "text": "Rob Reiner",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-187-DIRECTOR:c",
+          "text": "Chuck Russell",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-187-DIRECTOR:d",
+          "text": "Sam Raimi",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Mary Lambert führte Regie.",
+      "context": "Mary Lambert überzeugte Stephen King mit ihrer Begeisterung für seine Romane und dem Wunsch, der Vorlage treu zu bleiben. King schrieb das Drehbuch und beriet sie während der Produktion. Für das Haus von Nachbar Jud Crandall (Fred Gwynne) wurde eine brennbare Fassade um ein echtes Gebäude gebaut; feuerfestes Material schützte das dahinterliegende Haus beim Filmeffekt.",
+      "anchor": "Friedhof der Kuscheltiere → Mary Lambert",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)"
+      ],
+      "learningObjective": "Die Regisseurin der ersten Verfilmung kennen.",
+      "spoilerLevel": "keine"
+    },
+    {
+      "id": "G100-20261008-HORROR-011-L1",
+      "originalId": "G100-20261008-HORROR-011-L1",
+      "knowledgeId": "K-G100-20261008-HORROR-011-L1",
+      "filmKey": "Phantasm|1979",
+      "filmTitle": "Das Böse",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Mike hält nach dem Verlust der Eltern an seinem Bruder fest.",
+      "question": "In welcher Beziehung stehen Mike (A. Michael Baldwin) und Jody (Bill Thornbury) in „Das Böse“?",
+      "answers": [
+        {
+          "id": "G100-20261008-HORROR-011-L1:a",
+          "text": "Sie sind Cousins.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-L1:b",
+          "text": "Der Ältere ist der Onkel des Jüngeren.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-L1:c",
+          "text": "Der Ältere ist ein nicht verwandter Vormund.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-L1:d",
+          "text": "Sie sind Brüder.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jody ist Mikes älterer Bruder.",
+      "context": "Mike Pearson (A. Michael Baldwin) hat seine Eltern verloren und orientiert sich an seinem älteren Bruder Jody (Bill Thornbury). Er fürchtet, auch ihn zu verlieren oder von ihm verlassen zu werden. Diese familiäre Unsicherheit begleitet seine Beobachtungen am Friedhof. Der Horror hängt dadurch an einer konkreten Beziehung: Die Brüder müssen einander glauben und zusammenarbeiten, obwohl Mike zunächst als ängstliches Kind erscheint.",
+      "anchor": "Mike hält nach dem Verlust der Eltern an seinem Bruder fest.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phantasm_(film)",
+        "https://catalog.afi.com/Catalog/moviedetails/67731"
+      ]
+    },
+    {
+      "id": "G100-20261008-HORROR-011-L2",
+      "originalId": "G100-20261008-HORROR-011-L2",
+      "knowledgeId": "K-G100-20261008-HORROR-011-L2",
+      "filmKey": "Phantasm|1979",
+      "filmTitle": "Das Böse",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Eisverkäufer wird zum Helfer gegen den Tall Man.",
+      "question": "Womit verdient Reggie (Reggie Bannister) in „Das Böse“ seinen Lebensunterhalt?",
+      "answers": [
+        {
+          "id": "G100-20261008-HORROR-011-L2:a",
+          "text": "Er verkauft Eis aus einem Wagen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-L2:b",
+          "text": "Er liefert Brot mit einem Lieferwagen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-L2:c",
+          "text": "Er betreibt einen mobilen Imbiss.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-L2:d",
+          "text": "Er verkauft Blumen am Friedhof.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Reggie arbeitet als Eisverkäufer.",
+      "context": "Reggie (Reggie Bannister) ist mit den Brüdern Mike Pearson (A. Michael Baldwin) und Jody (Bill Thornbury) befreundet und arbeitet als Eisverkäufer. Seine alltägliche Tätigkeit steht im starken Gegensatz zu den Vorgängen im Bestattungsinstitut. Er gehört dennoch zu den Helfern, die Mikes Verdacht ernst nehmen. Der Film führt den Kampf gegen das Unheimliche dadurch über gewöhnliche Menschen und vertraute Gegenstände in die Geschichte ein.",
+      "anchor": "Der Eisverkäufer wird zum Helfer gegen den Tall Man.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phantasm_(film)",
+        "https://catalog.afi.com/Catalog/moviedetails/67731"
+      ]
+    },
+    {
+      "id": "G100-20261008-HORROR-011-M1",
+      "originalId": "G100-20261008-HORROR-011-M1",
+      "knowledgeId": "K-G100-20261008-HORROR-011-M1",
+      "filmKey": "Phantasm|1979",
+      "filmTitle": "Das Böse",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Ein schwerer Sarg ist für den Bestatter auffällig leicht.",
+      "question": "Welche Beobachtung macht Mike (A. Michael Baldwin) in „Das Böse“ beim Bestatter besonders misstrauisch?",
+      "answers": [
+        {
+          "id": "G100-20261008-HORROR-011-M1:a",
+          "text": "Ein Sargdeckel hebt sich neben ihm ohne Berührung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-M1:b",
+          "text": "Er hebt einen schweren Sarg allein mühelos an.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-M1:c",
+          "text": "Aus einem verschlossenen Sarg erklingt eine Kinderstimme.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "G100-20261008-HORROR-011-M1:d",
+          "text": "Er lässt einen Sarg ohne Berührung durch den Raum gleiten.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Mike sieht den Bestatter einen schweren Sarg allein anheben.",
+      "context": "Mike Pearson (A. Michael Baldwin) beobachtet, wie der Tall Man (Angus Scrimm) einen Sarg mühelos allein hebt. Das alltäglich wirkende Bestattungsritual erhält dadurch einen unnatürlichen Bruch. Mike verfügt noch über keine vollständige Erklärung, aber seine Wahrnehmung begründet die weitere Nachforschung. Für die älteren Figuren wirkt sein Verdacht zunächst unglaubwürdig. Der Film stellt damit das genaue Hinsehen eines Kindes gegen die beruhigende Normalität des Ortes.",
+      "anchor": "Ein schwerer Sarg ist für den Bestatter auffällig leicht.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phantasm_(film)",
+        "https://catalog.afi.com/Catalog/moviedetails/67731"
+      ]
+    },
+    {
+      "id": "ED124-PERFECT-S-001",
+      "originalId": "ED124-PERFECT-S-001",
+      "knowledgeId": "K-ED124-PERFECT-S-001",
+      "filmKey": "Perfect Days|2023",
+      "filmTitle": "Perfect Days",
+      "difficulty": "mittel",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Das kompakte Bildformat mit der Sichtbarkeit von Hirayamas Lebens- und Arbeitsraum verbinden.",
+      "question": "Welchen konkreten Vorteil des kompakten Bildformats von „Perfect Days“ betonte Wim Wenders?",
+      "answers": [
+        {
+          "id": "ED124-PERFECT-S-001:a",
+          "text": "Futon und Toilettenboden bleiben sichtbar; der Raum gehört zur Figur.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-PERFECT-S-001:b",
+          "text": "Gesichter rücken ins Zentrum; Randbereiche der Innenräume treten zurück.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-PERFECT-S-001:c",
+          "text": "Türrahmen und Körper gliedern die Bilder; Raumwechsel werden weniger nötig.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-PERFECT-S-001:d",
+          "text": "Fenster beherrschen die Bildmitte; Lichtquellen werden als Orientierung betont.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Format hält auch die unteren Bereiche kleiner Innenräume im Bild.",
+      "context": "Wenders erläuterte, dass ein breites Scope-Bild in Hirayamas (Kōji Yakusho) Zimmer den Futon und in den Toiletten den Boden verlieren würde. Das kompaktere Format zeigt seine Arbeit und seine Aufmerksamkeit für den Raum. Die Form ergibt sich damit aus den konkreten Orten und Tätigkeiten der Figur.",
+      "anchor": "Das Format bewahrt Futon und Boden im Blick.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.eyeforfilm.co.uk/feature/2024-01-27-wim-wenders-in-conversation-on-his-oscar-nominated-perfect-days-yasujiro-ozu-anselm-kiefer-and-ingeborg-bachmann-feature-story-by-anne-katrin-titze"
+      ]
+    },
+    {
+      "id": "ED124-PERFECT-S-002",
+      "originalId": "ED124-PERFECT-S-002",
+      "knowledgeId": "K-ED124-PERFECT-S-002",
+      "filmKey": "Perfect Days|2023",
+      "filmTitle": "Perfect Days",
+      "difficulty": "mittel",
+      "questionType": "Erzählweise",
+      "learningObjective": "Die vertraute Routine als Voraussetzung erzählerischer Auslassungen verstehen.",
+      "question": "Welche Freiheit gewinnt die Erzählung von „Perfect Days“ laut Wenders durch die wiederkehrenden Abläufe?",
+      "answers": [
+        {
+          "id": "ED124-PERFECT-S-002:a",
+          "text": "Vertraute Schritte können entfallen; Momente davor und danach reichen aus.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-PERFECT-S-002:b",
+          "text": "Ausgelassene Schritte werden anschließend in Gesprächen nachgetragen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-PERFECT-S-002:c",
+          "text": "Kalenderbilder übernehmen die Orientierung zwischen den einzelnen Tagen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-PERFECT-S-002:d",
+          "text": "Spätere Rückblenden zeigen die ausgelassenen Tätigkeiten nachträglich.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Publikum ergänzt bekannte Schritte, die der Film nicht jedes Mal erneut zeigt.",
+      "context": "Hirayamas (Kōji Yakusho) Morgen ist bald vertraut: aufstehen, Pflanzen versorgen, Kaffee holen, Kassette einlegen, losfahren. Wenders beschreibt, wie diese Vertrautheit Auslassungen ermöglicht. Ein Ausschnitt vor oder nach einem bekannten Schritt genügt. Der wiederkehrende Ablauf wird zur gemeinsamen Orientierung von Figur und Publikum.",
+      "anchor": "Bekannte Routine lässt uns fehlende Schritte ergänzen.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.screenslate.com/articles/another-little-fleeting-moment-wim-wenders-perfects-days"
+      ]
+    },
+    {
+      "id": "ED124-LIGHTNING-S-001",
+      "originalId": "ED124-LIGHTNING-S-001",
+      "knowledgeId": "K-ED124-LIGHTNING-S-001",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Kopfkonkurrenz als Lösung für die übermächtige Hydra erklären.",
+      "question": "Wie hielt Digital Domain die Hydra in „Percy Jackson: Diebe im Olymp“ trotz ihrer vielen Köpfe auf?",
+      "answers": [
+        {
+          "id": "ED124-LIGHTNING-S-001:a",
+          "text": "Die Köpfe konkurrierten miteinander und behinderten ihre Bewegungen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-LIGHTNING-S-001:b",
+          "text": "Die Köpfe folgten einem starren gemeinsamen Bewegungsrhythmus.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-LIGHTNING-S-001:c",
+          "text": "Die Köpfe reagierten ausschließlich auf Bewegungen ihrer Beute.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-LIGHTNING-S-001:d",
+          "text": "Die Köpfe griffen grundsätzlich nacheinander in fester Reihenfolge an.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Konkurrierende Köpfe behinderten einander beim Angriff.",
+      "context": "Effektleiter Kelly Port beschreibt konkurrierende Köpfe bei derselben Beute. An einer Säule ziehen sie etwa in verschiedene Richtungen. So verschlingt das übermächtige Tier die Jugendlichen nicht sofort.",
+      "anchor": "Viele Köpfe stehen einander im Weg.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.fxguide.com/fxfeatured/digital_domain_the_lightning_thief/"
+      ],
+      "filmKey": "Percy Jackson & the Olympians: The Lightning Thief|2010",
+      "filmTitle": "Percy Jackson: Diebe im Olymp"
+    },
+    {
+      "id": "ED124-LIGHTNING-S-002",
+      "originalId": "ED124-LIGHTNING-S-002",
+      "knowledgeId": "K-ED124-LIGHTNING-S-002",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Das Korrigieren sichtbarer Seilbewegungen im Flugkampf nachvollziehen.",
+      "question": "Wie korrigierte Digital Domain künstlich wirkendes Pendeln im New Yorker Flugkampf von „Percy Jackson: Diebe im Olymp“?",
+      "answers": [
+        {
+          "id": "ED124-LIGHTNING-S-002:a",
+          "text": "Mit einer starren Kopplung der Körper an den Hintergrund.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-LIGHTNING-S-002:b",
+          "text": "Mit getrenntem Tracking von Körper und Kamera sowie zusätzlicher Bewegung.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-LIGHTNING-S-002:c",
+          "text": "Mit identischen Bewegungszyklen für Körper und Kamera.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-LIGHTNING-S-002:d",
+          "text": "Mit nachträglich stabilisiertem Hintergrund und unveränderten Figurenbewegungen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Körper- und Kamerabewegung wurden getrennt erfasst und durch Bewegung ergänzt.",
+      "context": "Seilaufnahmen konnten wie Schaukeln aussehen. Kelly Port beschreibt, wie das Team Figuren- und Kamerabewegung auseinanderhielt und zusätzliche Bewegung ergänzte. So sollten Realaufnahmen und digitale Flugpassagen zusammenpassen.",
+      "anchor": "Seilpendeln durch abgestimmte Körper- und Kamerabewegung überwinden.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.fxguide.com/fxfeatured/digital_domain_the_lightning_thief/"
+      ],
+      "filmKey": "Percy Jackson & the Olympians: The Lightning Thief|2010",
+      "filmTitle": "Percy Jackson: Diebe im Olymp"
+    },
+    {
+      "id": "ED124-SEA-S-001",
+      "originalId": "ED124-SEA-S-001",
+      "knowledgeId": "K-ED124-SEA-S-001",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Vor- und Nachvisualisierung beim Bullenangriff unterscheiden.",
+      "question": "Wie verband Thor Freudenthal Planung und Realaufnahmen beim Bullenangriff in „Percy Jackson: Im Bann des Zyklopen“?",
+      "answers": [
+        {
+          "id": "ED124-SEA-S-001:a",
+          "text": "Er drehte Darsteller und fertige Animation gleichzeitig vor Rückprojektionen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-SEA-S-001:b",
+          "text": "Er filmte zunächst einen mechanischen Bullen und übertrug später dessen Bewegungen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-SEA-S-001:c",
+          "text": "Er plante digital, drehte ohne Bullen und ergänzte einfache Modelle im Schnitt.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-SEA-S-001:d",
+          "text": "Er montierte reale Stieraufnahmen und passte danach die Darstellerbilder an.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Digitale Planung führte über bullenlose Darstelleraufnahmen zur Nachvisualisierung.",
+      "context": "Freudenthal plante komplexe Szenen mit digitalen Figuren und Sets. Beim Dreh fehlte der Bulle; Papiermarkierungen und grüne Reitvorrichtungen halfen den Darstellern. Erst einfache Computermodelle in den geschnittenen Realaufnahmen machten die geplante Aktion wieder sichtbar, bevor die endgültigen Effekte fertig waren.",
+      "anchor": "Vorvisualisierung plant; Nachvisualisierung verbindet den Dreh mit dem Monster.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.thefancarpet.com/interview/thorfreudenthal_percyjackson_seaofmosters_interview/"
+      ],
+      "filmKey": "Percy Jackson: Sea of Monsters|2013",
+      "filmTitle": "Percy Jackson: Im Bann des Zyklopen"
+    },
+    {
+      "id": "ED124-SEA-S-002",
+      "originalId": "ED124-SEA-S-002",
+      "knowledgeId": "K-ED124-SEA-S-002",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Tysons einäugige und menschliche Erscheinung technisch unterscheiden.",
+      "question": "Wie entstanden Tysons unterschiedliche Augenansichten in „Percy Jackson: Im Bann des Zyklopen“?",
+      "answers": [
+        {
+          "id": "ED124-SEA-S-002:a",
+          "text": "Digitales Einzelauge; Stirnprothese bei Sonnenbrille; natürliches Gesicht beim magischen Nebel.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-SEA-S-002:b",
+          "text": "Prothetisches Einzelauge; digitale Braue bei Sonnenbrille; natürliches Gesicht beim magischen Nebel.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-SEA-S-002:c",
+          "text": "Digitales Einzelauge; natürliche Stirn bei Sonnenbrille; digitale Doppelaugen beim magischen Nebel.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-SEA-S-002:d",
+          "text": "Mechanisches Einzelauge; natürliche Stirn bei Sonnenbrille; Vollmaske beim magischen Nebel.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Digitale Effekte, eine kleine Stirnprothese und das natürliche Gesicht wechselten sich ab.",
+      "context": "Für Tyson (Douglas Smith) war zunächst ein künstliches Auge geplant. Stattdessen entstand es vorwiegend digital. Nur bei Sonnenbrille trug Smith eine kleine Stirnprothese für die einzelne Braue. Wenn magischer Nebel zwei Augen vortäuschte, genügte sein unverändertes Gesicht.",
+      "anchor": "Ein Auge digital, Braue praktisch, zwei Augen natürlich.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.philstar.com/entertainment/movies/2013/08/02/1043241/logan-lerman-meets-half-brother-tyson-percy-jackson-sea-monsters"
+      ],
+      "filmKey": "Percy Jackson: Sea of Monsters|2013",
+      "filmTitle": "Percy Jackson: Im Bann des Zyklopen"
+    },
+    {
+      "id": "PETSEMATARY-124-S-001",
+      "knowledgeId": "K-PETSEMATARY-124-S-001",
+      "filmKey": "Pet Sematary|1989",
+      "filmTitle": "Friedhof der Kuscheltiere",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Das wiederkehrende Kostümbild mit Rachels Kindheitsangst verbinden.",
+      "question": "Worauf geht Gages auffälliges Kostüm nach der Wiederbelebung in „Friedhof der Kuscheltiere“ laut Mary Lambert zurück?",
+      "explanation": "Das Kostüm übernimmt ein beängstigendes Bild aus Rachels Kindheit.",
+      "context": "Gage (Miko Hughes) trägt Kleidung aus einem zuvor gezeigten Kinderporträt. Es gehört zu Rachels (Denise Crosby) Kindheitsängsten. Lambert und Stephen King ließen die Verbindung unausgesprochen; das wiederkehrende Motiv folgt der Traumlogik.",
+      "anchor": "Das Kinderporträt kehrt als Gages Kostüm wieder.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://filmmakermagazine.com/98862-mary-lambert-pet-sematary-non-linear-narratives-and-child-actors/"
+      ],
+      "originalId": "PETSEMATARY-124-S-001",
+      "answers": [
+        {
+          "id": "PETSEMATARY-124-S-001:a",
+          "text": "Auf ein Kinderporträt in Rachels Elternhaus",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PETSEMATARY-124-S-001:b",
+          "text": "Auf ein Zirkusplakat in Louis’ Praxis",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PETSEMATARY-124-S-001:c",
+          "text": "Auf eine Schaufensterfigur im örtlichen Kaufhaus",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PETSEMATARY-124-S-001:d",
+          "text": "Auf ein Bühnenkostüm bei Ellies Schulaufführung",
+          "correct": false,
+          "feedback": ""
+        }
+      ]
+    },
+    {
+      "id": "PETSEMATARY-124-S-002",
+      "knowledgeId": "K-PETSEMATARY-124-S-002",
+      "filmKey": "Pet Sematary|1989",
+      "filmTitle": "Friedhof der Kuscheltiere",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Kinderspiel und Puppeneffekt unterscheiden.",
+      "question": "Wie inszenierte Mary Lambert Gages Angriff auf Jud in „Friedhof der Kuscheltiere“?",
+      "explanation": "Eine Puppe übernahm den blutigen Teil nach dem Kinderspiel.",
+      "context": "Gage (Miko Hughes) beginnt den Angriff auf Jud (Fred Gwynne) spielerisch. Für den blutigen Teil am Hals nahm Lambert Hughes vom Set und verwendete eine Puppe. So verband sie die Wirkung des Kindes mit seinem Schutz.",
+      "anchor": "Kinderspiel zuerst, blutiger Puppeneffekt danach.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://filmmakermagazine.com/98862-mary-lambert-pet-sematary-non-linear-narratives-and-child-actors/"
+      ],
+      "originalId": "PETSEMATARY-124-S-002",
+      "answers": [
+        {
+          "id": "PETSEMATARY-124-S-002:a",
+          "text": "Das Kind spielte; Blut ergänzte die Nachbearbeitung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PETSEMATARY-124-S-002:b",
+          "text": "Das Kind begann; eine Puppe übernahm den blutigen Halsbiss.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PETSEMATARY-124-S-002:c",
+          "text": "Ein Double spielte; Gesichtsmasken verdeckten den Wechsel.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PETSEMATARY-124-S-002:d",
+          "text": "Eine Puppe spielte; Nahaufnahmen zeigten das Kind.",
+          "correct": false,
+          "feedback": ""
+        }
+      ]
+    },
+    {
+      "id": "ED124-PERSONA-S-001",
+      "originalId": "ED124-PERSONA-S-001",
+      "knowledgeId": "K-ED124-PERSONA-S-001",
+      "filmKey": "Persona|1966",
+      "filmTitle": "Persona",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Textarbeit und neue Stimmgestaltung des Monologs verbinden.",
+      "question": "Welche Text- und Tonarbeit leistete Bibi Andersson für Almas Strandmonolog in „Persona“?",
+      "answers": [
+        {
+          "id": "ED124-PERSONA-S-001:a",
+          "text": "Sie behielt den Text und nahm ihn leiser am Set auf.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-PERSONA-S-001:b",
+          "text": "Sie änderte Formulierungen und sprach den Monolog später allein tiefer ein.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-PERSONA-S-001:c",
+          "text": "Sie schrieb mit Ullmann um und behielt den gemeinsam gedrehten Originalton.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED124-PERSONA-S-001:d",
+          "text": "Sie kürzte den Text und ließ die Stimme später höher mischen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Andersson änderte Formulierungen und sprach den Monolog später allein mit tieferer Stimme neu ein.",
+      "context": "Bergman erwog, den expliziten Monolog zu streichen. Andersson verteidigte ihn und änderte Formulierungen, die ihr aus männlicher Sicht geschrieben erschienen. Später sollte sie den Text wegen eines angeblichen Tonproblems allein neu sprechen. Dabei verwendete sie eine tiefere Stimme; sie selbst führte die Intimität der Szene auf diese Neuaufnahme zurück.",
+      "anchor": "Überarbeiteter Text und eine tiefere Stimme aus der späteren Neuaufnahme.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://www.ingmarbergman.se/en/production/persona"
+      ]
     }
   ]
 }
