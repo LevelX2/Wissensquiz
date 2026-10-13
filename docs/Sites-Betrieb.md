@@ -4,6 +4,16 @@
 
 Jede Veröffentlichung benötigt Luis ausdrückliche Freigabe für den konkreten aktuellen Stand. Frühere Veröffentlichungsaufträge gelten nicht als Dauerfreigabe. Änderungen bis dahin lokal umsetzen, prüfen und committen; weder Sites deployen noch produktive Serverinhalte oder Datenbankänderungen aktivieren. Diese Nutzeranweisung hat Vorrang vor automatischen Veröffentlichungsdefaults aus Skills.
 
+## Version 78: TMDB-Porträts, Erfolgsicon und Zeitanzeige
+
+Am **13.10.2026 um 09:00:58 Uhr Europe/Berlin** aus Main (`86b79f050c63be46696dbe5815d89aa193b38d97`) als **Version 78 öffentlich veröffentlicht**, nativer Status **succeeded**. Projekt-ID und Besucherzugriff **public, Revision 2** erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-78.json).
+
+Normale Schauspielerfragen zeigen nach der Antwort das TMDB-Porträt mit Personenlink; alle 220 aktuellen Personen berücksichtigt, Erkennungsbilder bleiben erhalten. Eigenes Medaillenicon für Erfolge, bestätigte benötigte Zeit und Restzeit in Zehnerrunden sowie kurze Rekordauswahl „Universal“ beziehungsweise „Genre · …“. Bekanntheitsgruppen, der zusätzliche Schauspielerausbau und die noch nicht integrierte Fragenredaktion bleiben Vorbereitung außerhalb des spielbaren Bestands.
+
+**456 Tests in 77 Dateien**, TypeScript und Produktionsbuild 78 erfolgreich. **60 gezielte Browserfälle in Chromium und mobilem WebKit** ohne Fehler oder Skip; unveränderte erfolgreiche Browsernachweise von Version 77 wiederverwendet, kein neuer Browser-Gesamtlauf. Alle **709 Build-Dateien** im Archiv bytegleich, ausschließlich Build und Hostingmanifest enthalten. Öffentlich HTML mit richtigen Build-Verweisen sowie **225 Dateien einschließlich sämtlicher 220 Porträtzuordnungen** HTTP 200 und bytegleich; Versionszeit separat gespeichert/gelesen und anonym bestätigt. Keine neue Datenbankmigration, kein Inhaltsimport und kein Reset; 12.787 Fragen unverändert. Kein GitHub-Push.
+
+Eigene Veröffentlichungskopie, Build, Browserausgaben und Transportarchiv nach Pfad- und Verknüpfungsprüfung entfernt; Abwesenheit bestätigt (374.440.030 Bytes). Abhängigkeiten, benötigte originale Porträtzuordnungen und fremde Konfigurationen erhalten. Porträtzuordnungen beim Austausch beziehungsweise spätestens zum Ablauf am 13.03.2027 erneuern.
+
 ## Version 77: gemeinsames Erfolgssystem und inkrementelle EXP
 
 Am **13.10.2026 um 00:35:53 Uhr Europe/Berlin** aus Main (`147de3e1341a3adfafdb2b1101562c2eb61ee789`) als **Version 77 öffentlich veröffentlicht**, nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Projekt-ID und Besucherzugriff **public, Revision 2** erhalten. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-77.json).

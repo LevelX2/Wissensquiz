@@ -1,0 +1,138 @@
+{
+  "version": 78,
+  "sourceBranch": "main",
+  "sourceCommit": "86b79f050c63be46696dbe5815d89aa193b38d97",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "checks": {
+    "unitTests": 456,
+    "unitFiles": 77,
+    "unitDurationSeconds": 96.14,
+    "typeScript": true,
+    "buildVersion": 78,
+    "fullBrowserSuite": false,
+    "unaffectedSuccessfulBrowserChecksReusedFromVersion": 77,
+    "dependencyChanges": false,
+    "formatAndDiff": true,
+    "targetedBrowserPassed": 60,
+    "browserProjects": [
+      "chromium",
+      "webkit-mobile"
+    ],
+    "browserDurationMs": 659562.984,
+    "browserFailures": 0,
+    "browserSkips": 0
+  },
+  "data": {
+    "questionCount": 12787,
+    "contentHash": "602353a5c010e9e3bf7b84cace6e87ee8f4cc7f9fc4b5b5ff8776978b5717487",
+    "questionImport": false,
+    "migration": false,
+    "reset": false,
+    "productionPlayerDataChanged": false
+  },
+  "portraits": {
+    "files": 220,
+    "expiresAt": "2027-03-13T05:01:07.469Z",
+    "metadataValidated": true,
+    "privateCredentialsIncluded": false,
+    "liveImageSamples": [
+      {
+        "name": "Jean Reno",
+        "status": 200
+      },
+      {
+        "name": "Jim Carrey",
+        "status": 200
+      },
+      {
+        "name": "Meryl Streep",
+        "status": 200
+      },
+      {
+        "name": "Keanu Reeves",
+        "status": 200
+      }
+    ]
+  },
+  "excluded": {
+    "uncommittedWork": true,
+    "preparedFamiliarityGroupsNotInApp": true,
+    "unintegratedQuestionEditorialNotInApp": true
+  },
+  "archive": {
+    "fileCount": 710,
+    "buildFiles": 709,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 62580184,
+    "sha256": "a9c44271026bf1cd9c69e5c815319ac9c89cc7bb5c81ac12f0da3faf00ae1b78"
+  },
+  "versionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_7e870f2bfed8819196f057d144260e82",
+  "deploymentId": "appgdep_6acdd717876081919733ec8982b145aa",
+  "publishedAt": "2026-10-13T07:00:58.229093+00:00",
+  "deploymentStatus": "succeeded",
+  "nativeArchive": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000bbe0820aa899039ef971670e",
+    "content_hash": "sha256:f20731f3106ac94616d02e29ecd942aa64051efaef5554e932d7886b758f7242",
+    "size_bytes": 76759040,
+    "file_count": 710
+  },
+  "live": {
+    "htmlStatus": 200,
+    "expectedAssetReferences": true,
+    "fileCount": 225,
+    "portraitCount": 220,
+    "allFilesHttp200AndByteIdentical": true,
+    "files": [
+      {
+        "path": "/assets/index-BRmgD8C_.css",
+        "status": 200,
+        "byteIdentical": true
+      },
+      {
+        "path": "/account-config.json",
+        "status": 200,
+        "byteIdentical": true
+      },
+      {
+        "path": "/sw.js",
+        "status": 200,
+        "byteIdentical": true
+      },
+      {
+        "path": "/disclosures/achievements.png",
+        "status": 200,
+        "byteIdentical": true
+      },
+      {
+        "path": "/assets/index-DpM8JWzG.js",
+        "status": 200,
+        "byteIdentical": true
+      }
+    ],
+    "failures": []
+  },
+  "releaseMetadata": {
+    "storedAndSeparatelyRead": true,
+    "anonymousRpcStatus": 200,
+    "returned": [
+      {
+        "version": 78,
+        "published_at": "2026-10-13T07:00:58.229093+00:00"
+      }
+    ]
+  },
+  "cleanup": {
+    "completed": true,
+    "removedBytes": 374440030,
+    "releaseDirectoryAbsent": true,
+    "dependenciesPreserved": true,
+    "foreignMifuneConfigurationsPreserved": true,
+    "originalPortraitMetadataRetainedUntil": "replacement or 2027-03-13T05:01:07.469Z"
+  },
+  "githubPush": false
+}

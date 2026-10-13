@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 13.10.2026 – Version 78 aus Main veröffentlicht
+
+456 Tests in 77 Dateien (96,14 Sekunden), TypeScript und Produktionsbuild 78 auf sauberer Kopie des Main-Commits `86b79f0` erfolgreich. 60 gezielte Browserfälle in Chromium und mobilem WebKit ohne Fehler, Flaky-Fall oder Skip (659,56 Sekunden): Porträts und Bilderkennung, Antwort/Rückblick/Neuladen, Profilklappen, Wiederholungsanfragen, Serverzeit, Rekordmodi und Versionsanzeige. Unveränderte erfolgreiche Browserprüfungen von Version 77 wiederverwendet; kein neuer vollständiger Browserlauf, kein physischer Gerätetest. Keine Abhängigkeitsänderungen.
+
+Alle 220 kleinen Porträtzuordnungen hinsichtlich IDs, Namenszuordnung, erlaubter Felder und Gültigkeit geprüft; vier echte Bildadressen HTTP 200. Alle 709 Builddateien im Transportarchiv bytegleich, nur Build und Hostingmanifest. Nach Veröffentlichung um 09:00:58 Uhr Europe/Berlin HTML/Build-Verweise, 225 öffentliche Dateien einschließlich aller Porträtzuordnungen und anonyme Versions-RPC bestätigt. Fragenbestand unverändert, keine Migration oder Veränderung privater Spielstände. [IDs, Hashes und Abnahme](Veroeffentlichung-2026-10-13-Version-78.json).
+
 ## 13.10.2026 – Antwortzeit in der Zehnerrunde
 
 Lokal ergänzt: „Benötigte Zeit“ und „Restzeit“ mit einer Nachkommastelle aus der bestätigten Antwortzeit. Anzeige vor den beiden Antwortdarstellungen, daher sowohl während der farbigen Auflösung als auch in der direkten Lösung sichtbar. Quellprüfung für richtige/falsche Antwort, „Keine Ahnung“ und Zeitablauf; Restzeit auf null begrenzt, keine weiterlaufende Uhr nach Bestätigung. `npx tsc --noEmit` und `git diff --check` erfolgreich. Kleine Anzeigeänderung ohne neue Tests, vollständigen Testlauf, Produktionsbuild oder Browserabnahme; noch nicht veröffentlicht. [Anzeigevertrag](Rekordmodi-und-Zeitranglisten.md#antwortzeit-in-der-zehnerrunde--13102026).

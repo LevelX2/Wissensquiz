@@ -30,7 +30,7 @@ Korrektur vom 04.10.2026: Alle drei Zeitmodi verwenden die Lösungswahl unter Pr
 
 ## Antwortzeit in der Zehnerrunde – 13.10.2026
 
-Lokal ergänzt, noch nicht veröffentlicht: Im Modus „10 Fragen“ zeigt die Antwortansicht die benötigte Zeit und die verbliebene Restzeit der jeweiligen Frage in Sekunden mit einer Nachkommastelle. Die Werte stehen sowohl während der kurzen farbigen Antwortauflösung als auch bei der anschließenden direkten Lösung. Grundlage ist die bestätigte Antwortzeit (`elapsedMs`), nicht der letzte Countdownstand. Die Restzeit beträgt höchstens 30 Sekunden und fällt bei Zeitablauf auf null; beim Lesen läuft sie nicht weiter. Auch falsche Antworten und „Keine Ahnung“ zeigen beide Zeiten. Wertung und Speicherung bleiben unverändert.
+Seit **Version 78** am 13.10.2026 veröffentlicht: Im Modus „10 Fragen“ zeigt die Antwortansicht die benötigte Zeit und die verbliebene Restzeit der jeweiligen Frage in Sekunden mit einer Nachkommastelle. Die Werte stehen sowohl während der kurzen farbigen Antwortauflösung als auch bei der anschließenden direkten Lösung. Grundlage ist die bestätigte Antwortzeit (`elapsedMs`), nicht der letzte Countdownstand. Die Restzeit beträgt höchstens 30 Sekunden und fällt bei Zeitablauf auf null; beim Lesen läuft sie nicht weiter. Auch falsche Antworten und „Keine Ahnung“ zeigen beide Zeiten. Wertung und Speicherung bleiben unverändert.
 
 ## Zeitkonto-Balance
 
@@ -61,7 +61,7 @@ Alle drei Solo-Rekordmodi vergeben pro rechtzeitigem Treffer `100 + 2 × floor((
 
 ### Kurze Vergleichsauswahl – 13.10.2026
 
-Lokal korrigiert, noch nicht veröffentlicht: Die Vergleichskategorie zeigt nur „Universal“ beziehungsweise „Genre · Horror“ (mit dem jeweiligen Genrenamen). Das gilt für eigene und gemeinsame Online-Rekordlisten sowie die lokale Ergebnisliste. Filter, Fragenzahl, Filmgruppen und technische Wertungsregeln werden nicht mehr in den Auswahltext geschrieben. Kategoriekennungen, getrennte Wertungen und die Auswahl des gerade abgeschlossenen Laufs bleiben unverändert. Anlass ist der [Nutzerhinweis zur unhandlichen Auswahl](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerhinweis%20kurze%20Universal-Auswahl.txt).
+Seit **Version 78** am 13.10.2026 veröffentlicht: Die Vergleichskategorie zeigt nur „Universal“ beziehungsweise „Genre · Horror“ (mit dem jeweiligen Genrenamen). Das gilt für eigene und gemeinsame Online-Rekordlisten sowie die lokale Ergebnisliste. Filter, Fragenzahl, Filmgruppen und technische Wertungsregeln werden nicht mehr in den Auswahltext geschrieben. Kategoriekennungen, getrennte Wertungen und die Auswahl des gerade abgeschlossenen Laufs bleiben unverändert. Anlass ist der [Nutzerhinweis zur unhandlichen Auswahl](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerhinweis%20kurze%20Universal-Auswahl.txt).
 
 Prüfung: 13 bestehende Rekordmodus-/Ranglistentests und `git diff --check` erfolgreich; Auswahlbeschriftungen im Diff geprüft. Kein vollständiger Testlauf, Produktionsbuild oder Browserlauf für diese kleine Textänderung.
 

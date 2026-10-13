@@ -1,16 +1,18 @@
 # Wissensindex
 
+- [Version 78: TMDB-Porträts, Erfolgsicon, Zeitanzeige und kurze Rekordauswahl veröffentlicht – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-78.json)
+
 - [Schauspielergruppen: erster Ausbau mit acht Personen, 64 geprüften Fragen und historischen Porträts; 200 Personen offen – 13.10.2026, Redaktion](../../../docs/Schauspieler-Bekanntheit-2026-10-13/Plan.md)
 
-- [Kompakte Rekord-Vergleichsauswahl: „Universal“ oder Genre – 13.10.2026, lokal](../../../docs/Rekordmodi-und-Zeitranglisten.md#kurze-vergleichsauswahl--13102026)
+- [Kompakte Rekord-Vergleichsauswahl: „Universal“ oder Genre – 13.10.2026, Version 78](../../../docs/Rekordmodi-und-Zeitranglisten.md#kurze-vergleichsauswahl--13102026)
 
-- [Zehnerrunde: benötigte Antwortzeit und Restzeit in der Antwortansicht – 13.10.2026, lokal](../../../docs/Rekordmodi-und-Zeitranglisten.md#antwortzeit-in-der-zehnerrunde--13102026)
+- [Zehnerrunde: benötigte Antwortzeit und Restzeit in der Antwortansicht – 13.10.2026, Version 78](../../../docs/Rekordmodi-und-Zeitranglisten.md#antwortzeit-in-der-zehnerrunde--13102026)
 
 - [Vier Bekanntheitsgruppen für Filme, Schauspieler und Preisträger: Einordnung aller 220 Personen/280 Preisfragen und gezielter Ausbau – 13.10.2026](../../../docs/Bekanntheitsgruppen/Plan.md)
 
-- [TMDB-Porträts für alle 220 Personen; Bilderkennungsfotos bleiben erhalten – lokal am 13.10.2026](../../../docs/Schauspielerportraets.md#tmdb-porträts-für-alle-personen--13102026)
+- [TMDB-Porträts für alle 220 Personen; Bilderkennungsfotos bleiben erhalten – seit Version 78](../../../docs/Schauspielerportraets.md#tmdb-porträts-für-alle-personen--13102026)
 
-- [TMDB-Personenlink bei allen 220 Schauspielerinnen und Schauspielern in der Auflösung – lokal am 13.10.2026](../../../docs/Lernregeln.md#tmdb-personenlink-bei-schauspielerfragen--13102026)
+- [TMDB-Personenlink bei allen 220 Schauspielerinnen und Schauspielern in der Auflösung – seit Version 78](../../../docs/Lernregeln.md#tmdb-personenlink-bei-schauspielerfragen--13102026)
 
 - [Version 77: Erfolge, inkrementelle EXP und Profilabrufe veröffentlicht – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-77.json)
 
