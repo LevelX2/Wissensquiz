@@ -1,0 +1,417 @@
+{
+  "version": 80,
+  "sourceBranch": "main",
+  "sourceCommit": "270d911d2b55ad8b9a398d99f22d60e75cd88170",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "checks": {
+    "unitTests": 473,
+    "unitFiles": 80,
+    "unitDurationSeconds": 155.11,
+    "typeScript": true,
+    "buildVersion": 80,
+    "fullBrowserSuite": true,
+    "dependencyChanges": false,
+    "formatAndDiff": true,
+    "fullBrowserSuitePending": false,
+    "browserWorkers": 3,
+    "abortedEarlierRunsCountedAsPassed": false,
+    "fullBrowserInitialPassed": 366,
+    "fullBrowserInitialFailed": 4,
+    "fullBrowserSkipped": 1,
+    "fullBrowserPlannedCases": 371,
+    "fullBrowserDurationSeconds": 2339.1986500000003,
+    "correctiveBrowserPending": false,
+    "finalTextChange": "Bestehenden UI-Begriff Filmfakten in der Gruppenanzeige beibehalten",
+    "correctiveBrowserCasesPassed": 10,
+    "distinctBrowserCasesPassed": 370,
+    "unresolvedBrowserFailures": 0,
+    "correctiveBrowserDurationSeconds": 71.09775799999998,
+    "nativeMigrationFilenameCheckPassed": 5,
+    "reproducibleIntegrationCheck": true,
+    "historicalEditorialHandoffCheck": true
+  },
+  "data": {
+    "questionCount": 14451,
+    "goals": 13781,
+    "contentHash": "f14fc7868a11cf79341ec79053d741ff192aca9a30e23ffaa50aa71a91ac8cb8",
+    "questionImport": true,
+    "migration": true,
+    "reset": false,
+    "privatePlayerSourceDataChanged": false,
+    "privateTablesGuarded": 10,
+    "stagingNativeCountAndHashVerified": true,
+    "atomicRolloutSha256": "98d8ac8622ce4fa672ab35bbd64687d6ef070f000aab2a057f9cb31c95ffe0c6",
+    "migrationVersion": "20261013215224",
+    "productionProof": {
+      "pools": [
+        {
+          "source": "actors",
+          "difficulty": "leicht",
+          "group_level": 1,
+          "free_questions": 259,
+          "journey_questions": 259
+        },
+        {
+          "source": "actors",
+          "difficulty": "experte",
+          "group_level": 4,
+          "free_questions": 213,
+          "journey_questions": 0
+        },
+        {
+          "source": "awards",
+          "difficulty": "leicht",
+          "group_level": 1,
+          "free_questions": 21,
+          "journey_questions": 21
+        },
+        {
+          "source": "awards",
+          "difficulty": "experte",
+          "group_level": 4,
+          "free_questions": 12,
+          "journey_questions": 0
+        }
+      ],
+      "groups": [
+        {
+          "goals": 838,
+          "source": "actors",
+          "persons": 107,
+          "questions": 839,
+          "familiarity": 1
+        },
+        {
+          "goals": 878,
+          "source": "actors",
+          "persons": 107,
+          "questions": 878,
+          "familiarity": 2
+        },
+        {
+          "goals": 862,
+          "source": "actors",
+          "persons": 107,
+          "questions": 863,
+          "familiarity": 3
+        },
+        {
+          "goals": 843,
+          "source": "actors",
+          "persons": 107,
+          "questions": 844,
+          "familiarity": 4
+        },
+        {
+          "goals": 77,
+          "source": "awards",
+          "persons": 0,
+          "questions": 77,
+          "familiarity": 1
+        },
+        {
+          "goals": 113,
+          "source": "awards",
+          "persons": 0,
+          "questions": 113,
+          "familiarity": 2
+        },
+        {
+          "goals": 61,
+          "source": "awards",
+          "persons": 0,
+          "questions": 61,
+          "familiarity": 3
+        },
+        {
+          "goals": 29,
+          "source": "awards",
+          "persons": 0,
+          "questions": 29,
+          "familiarity": 4
+        },
+        {
+          "goals": 797,
+          "source": "film",
+          "persons": 0,
+          "questions": 950,
+          "familiarity": 1
+        },
+        {
+          "goals": 3937,
+          "source": "film",
+          "persons": 0,
+          "questions": 4134,
+          "familiarity": 2
+        },
+        {
+          "goals": 4272,
+          "source": "film",
+          "persons": 0,
+          "questions": 4372,
+          "familiarity": 3
+        },
+        {
+          "goals": 1262,
+          "source": "film",
+          "persons": 0,
+          "questions": 1291,
+          "familiarity": 4
+        }
+      ],
+      "content": {
+        "hash": "f14fc7868a11cf79341ec79053d741ff192aca9a30e23ffaa50aa71a91ac8cb8",
+        "areas": 14,
+        "goals": 13781,
+        "genres": [
+          "Abenteuer",
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Horror",
+          "Komödie",
+          "Martial Arts & Asia-Film",
+          "Musik",
+          "Rom-Com",
+          "Science-Fiction",
+          "Thriller",
+          "Western"
+        ],
+        "questions": 14451
+      },
+      "journey": {
+        "easy": 0,
+        "hard": 0,
+        "first": 1,
+        "awards": {
+          "easy": 0,
+          "hard": 0,
+          "first": 1,
+          "groups": [
+            {
+              "level": 1,
+              "total": 21,
+              "target": 11,
+              "answered": 0,
+              "unlocked": true,
+              "difficulty": "leicht"
+            },
+            {
+              "level": 2,
+              "total": 33,
+              "target": 17,
+              "answered": 0,
+              "unlocked": false,
+              "difficulty": "leicht"
+            },
+            {
+              "level": 3,
+              "total": 15,
+              "target": 8,
+              "answered": 0,
+              "unlocked": false,
+              "difficulty": "leicht"
+            },
+            {
+              "level": 4,
+              "total": 1,
+              "target": 1,
+              "answered": 0,
+              "unlocked": false,
+              "difficulty": "leicht"
+            }
+          ],
+          "medium": 0,
+          "easyTarget": 35,
+          "hardTarget": 35,
+          "familiarity": 1,
+          "independent": true,
+          "hardUnlocked": false,
+          "mediumTarget": 35,
+          "expertUnlocked": false,
+          "mediumUnlocked": false
+        },
+        "groups": [
+          {
+            "level": 1,
+            "total": 258,
+            "target": 129,
+            "answered": 0,
+            "unlocked": true,
+            "difficulty": "leicht"
+          },
+          {
+            "level": 2,
+            "total": 231,
+            "target": 116,
+            "answered": 0,
+            "unlocked": false,
+            "difficulty": "leicht"
+          },
+          {
+            "level": 3,
+            "total": 209,
+            "target": 105,
+            "answered": 0,
+            "unlocked": false,
+            "difficulty": "leicht"
+          },
+          {
+            "level": 4,
+            "total": 209,
+            "target": 105,
+            "answered": 0,
+            "unlocked": false,
+            "difficulty": "leicht"
+          }
+        ],
+        "medium": 0,
+        "easyTarget": 453,
+        "hardTarget": 424,
+        "familiarity": 1,
+        "independent": true,
+        "hardUnlocked": false,
+        "mediumTarget": 425,
+        "expertUnlocked": false,
+        "mediumUnlocked": false
+      },
+      "staging": 0,
+      "permissions": [
+        {
+          "proname": "journey",
+          "anon_execute": false,
+          "authenticated_execute": false
+        },
+        {
+          "proname": "matches",
+          "anon_execute": false,
+          "authenticated_execute": false
+        },
+        {
+          "proname": "pool",
+          "anon_execute": false,
+          "authenticated_execute": false
+        },
+        {
+          "proname": "refresh_content",
+          "anon_execute": false,
+          "authenticated_execute": false
+        },
+        {
+          "proname": "refresh_groups",
+          "anon_execute": false,
+          "authenticated_execute": false
+        }
+      ]
+    },
+    "atomicPrivateSourceGuardPassed": true,
+    "securityAdvisorCategories": {
+      "rls_enabled_no_policy": 1,
+      "anon_security_definer_function_executable": 1,
+      "authenticated_security_definer_function_executable": 1,
+      "auth_leaked_password_protection": 1
+    },
+    "migrationFileRenamedWithoutSqlChange": true,
+    "nativeMigrationHistoryIncludesAtomicOperatorActivation": true
+  },
+  "actors": {
+    "persons": 428,
+    "newPersons": 208,
+    "questions": 3424,
+    "newQuestions": 1664,
+    "newGoals": 1559,
+    "sharedExistingGoalVariants": 105,
+    "personsPerGroup": [
+      107,
+      107,
+      107,
+      107
+    ],
+    "questionsPerGroup": [
+      839,
+      878,
+      863,
+      844
+    ]
+  },
+  "awards": {
+    "questions": 280,
+    "questionsPerGroup": [
+      77,
+      113,
+      61,
+      29
+    ]
+  },
+  "portraits": {
+    "newLocalOriginals": 195,
+    "newSelectedOnline": 13,
+    "allLocalOriginals": 220,
+    "tmdbPersonLinks": 428,
+    "onlineMetadataFiles": 233,
+    "chosenTmdbPathsVerified": 13
+  },
+  "githubPush": false,
+  "archive": {
+    "fileCount": 920,
+    "buildFiles": 919,
+    "byteIdentical": true,
+    "onlyHostingAndDist": true,
+    "bytes": 78193086,
+    "sha256": "be8d04747cd15b03c295fa2bd7b44fe93b3c085e30db45fb082bfafe598e22c9"
+  },
+  "versionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_ec20d77eef5481919898634d367fb1bb",
+  "deploymentId": "appgdep_6acea9898ac48191b816935780e9ded2",
+  "publishedAt": "2026-10-13T21:59:07.169372+00:00",
+  "deploymentStatus": "succeeded",
+  "nativeArchive": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_000000007960820abe575271b4ed7c7d",
+    "content_hash": "sha256:4542f17c52a52b61b1228c2c250685955b12ffc3342552e2e806d35282aa019d",
+    "size_bytes": 94853120,
+    "file_count": 920
+  },
+  "releaseMetadata": {
+    "storedAndSeparatelyRead": true,
+    "anonymousRpcStatus": 200,
+    "returned": [
+      {
+        "version": 80,
+        "published_at": "2026-10-13T21:59:07.169372+00:00"
+      }
+    ],
+    "directTableSelectAllowed": false
+  },
+  "live": {
+    "htmlStatus": 200,
+    "expectedAssetReferences": true,
+    "indexEndpointCanonicalRedirect": 307,
+    "checkedBuildFileCount": 919,
+    "nonHtmlFileCount": 918,
+    "localPortraitEntries": 220,
+    "portraitFiles": 596,
+    "tmdbMetadataFiles": 233,
+    "allNonHtmlFilesHttp200AndByteIdentical": true,
+    "failures": []
+  },
+  "cleanup": {
+    "completed": true,
+    "removedBytes": 1650164734,
+    "releaseDirectoryAbsent": true,
+    "dependenciesPreserved": true,
+    "rawEditorialOriginalsPreserved": true,
+    "foreignMifuneConfigurationsPreserved": true,
+    "originalPortraitMetadataRetainedUntil": "replacement or per-file expiry on 2027-03-13",
+    "originalFilmPosterMetadataRetainedUntil": "replacement or expiry on 2027-03-10",
+    "ownReadOnlyGitCopiesUnlocked": 23,
+    "sharedGitObjects": false
+  },
+  "worktrees": {
+    "inspected": 2,
+    "allBranchesAlreadyIntegrated": true,
+    "outstandingCommits": 0
+  }
+}

@@ -1585,10 +1585,13 @@
     "3": 0,
     "4": 0
   },
-  "appIntegration": "lokal_integriert",
+  "appIntegration": "veroeffentlicht",
   "publication": "nicht beauftragt",
   "continuousCommission": "Bis vollständigem Ausgleich weiterarbeiten; abgeschlossene Blöcke lokal committen",
   "validatedThroughEntry": 208,
   "editorialStatus": "vollständig abgenommen",
-  "completedOn": "2026-10-13"
+  "completedOn": "2026-10-13",
+  "siteVersion": 80,
+  "publishedAt": "2026-10-13T21:59:07.169372+00:00",
+  "sourceCommit": "270d911d2b55ad8b9a398d99f22d60e75cd88170"
 }

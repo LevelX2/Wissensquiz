@@ -1,22 +1,22 @@
 # Wissensindex
 
-- [Schauspielerausbau und vier Bekanntheitsgruppen in allen Bereichen – 13.10.2026, lokal integriert](../../../docs/Bekanntheitsgruppen/App-Integration-2026-10-13.md)
+- [Version 80: 428 Schauspieler, 1.664 neue Fragen und vier Bekanntheitsgruppen in allen Bereichen – veröffentlicht](../../../docs/Bekanntheitsgruppen/App-Integration-2026-10-13.md)
 
 - [Version 79: Main-Gesamtstand veröffentlicht, alle Worktrees bereits integriert – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-79.json)
 
 - [Version 78: TMDB-Porträts, Erfolgsicon, Zeitanzeige und kurze Rekordauswahl veröffentlicht – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-78.json)
 
-- [Schauspielergruppen: 208 neue Personen und 1.664 Fragen – viermal 107 vollständig vorbereitet – 13.10.2026, Redaktion](../../../docs/Schauspieler-Bekanntheit-2026-10-13/Plan.md)
+- [Schauspielergruppen: 208 neue Personen und 1.664 Fragen – viermal 107 vollständig eingebaut und veröffentlicht – Version 80](../../../docs/Schauspieler-Bekanntheit-2026-10-13/Plan.md)
 
 - [Kompakte Rekord-Vergleichsauswahl: „Universal“ oder Genre – 13.10.2026, Version 78](../../../docs/Rekordmodi-und-Zeitranglisten.md#kurze-vergleichsauswahl--13102026)
 
 - [Zehnerrunde: benötigte Antwortzeit und Restzeit in der Antwortansicht – 13.10.2026, Version 78](../../../docs/Rekordmodi-und-Zeitranglisten.md#antwortzeit-in-der-zehnerrunde--13102026)
 
-- [Vier Bekanntheitsgruppen für Filme, Schauspieler und Preisträger: Einordnung aller 220 Personen/280 Preisfragen und gezielter Ausbau – 13.10.2026](../../../docs/Bekanntheitsgruppen/Plan.md)
+- [Vier Bekanntheitsgruppen für Filme, Schauspieler und Preisträger: Einordnung der ursprünglichen 220 Personen/280 Preisfragen und abgeschlossener Ausbau auf 428 – 13.10.2026](../../../docs/Bekanntheitsgruppen/Plan.md)
 
-- [TMDB-Porträts für alle 220 Personen; Bilderkennungsfotos bleiben erhalten – seit Version 78](../../../docs/Schauspielerportraets.md#tmdb-porträts-für-alle-personen--13102026)
+- [Ausgewählte Porträts für alle 428 Personen; historische freie Bilder bevorzugt – seit Version 80](../../../docs/Schauspielerportraets.md)
 
-- [TMDB-Personenlink bei allen 220 Schauspielerinnen und Schauspielern in der Auflösung – seit Version 78](../../../docs/Lernregeln.md#tmdb-personenlink-bei-schauspielerfragen--13102026)
+- [TMDB-Personenlink bei allen 428 Schauspielerinnen und Schauspielern in der Auflösung – seit Version 80](../../../docs/Lernregeln.md)
 
 - [Version 77: Erfolge, inkrementelle EXP und Profilabrufe veröffentlicht – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-77.json)
 

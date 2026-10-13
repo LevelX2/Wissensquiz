@@ -1,8 +1,8 @@
-# Preisträger – 200 Filmfragen
+# Preisträger – 280 Filmfragen
 
-**13.10.2026 – Gemeinsame Bekanntheitsgruppen lokal integriert:** Alle 280 Preisfragen verwenden die redaktionelle Gruppe ihrer Filmfassung. Gruppenfilter, Filmreise-Freischaltung und sichtbarer Fortschritt gelten auch in reinen Preisrunden; Experte bleibt eine unabhängige Schwierigkeit. Preisjahr und Filmjahr weiterhin getrennt. [Aktueller App-Vertrag](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
+**13.10.2026 – Gemeinsame Bekanntheitsgruppen seit Version 80 veröffentlicht:** Alle 280 Preisfragen verwenden die redaktionelle Gruppe ihrer Filmfassung. Gruppenfilter, Filmreise-Freischaltung und sichtbarer Fortschritt gelten auch in reinen Preisrunden; Experte bleibt eine unabhängige Schwierigkeit. Preisjahr und Filmjahr weiterhin getrennt. [Aktueller App-Vertrag](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
 
-**13.10.2026 – Bekanntheitsgruppen redaktionell vorbereitet:** Alle aktuellen 280 Preisfragen übernehmen die bestehende Gruppe ihrer Filmfassung: 77 / 113 / 61 / 29 Fragen in Gruppen 1–4. Die Bekanntheit der Auszeichnung erzeugt keine eigene Gruppierung. App-Auswahl und Freischaltung noch nicht umgestellt. [Vollständige Zuordnung und gemeinsamer Auftrag](Bekanntheitsgruppen/Plan.md).
+**13.10.2026 – Bekanntheitsgruppen redaktionell vorbereitet:** Alle aktuellen 280 Preisfragen übernehmen die bestehende Gruppe ihrer Filmfassung: 77 / 113 / 61 / 29 Fragen in Gruppen 1–4. Die Bekanntheit der Auszeichnung erzeugt keine eigene Gruppierung. App-Auswahl und Freischaltung seit Version 80 entsprechend umgestellt. [Vollständige Zuordnung und gemeinsamer Auftrag](Bekanntheitsgruppen/Plan.md).
 
 07.10.2026 – **320 Einträge und 2.480 Fragen lokal ergänzt:** Je 20 neue Einträge in allen 16 Auswahlkategorien. Gesamt **24 Pakete, 10.877 Fragen und 10.315 Wissensziele**; 8.837 Filmfragen, 1.760 Personenfragen für 220 Personen und 280 Preisfragen. Filmauswahl vorrangig aus der persönlichen Sammlung; Einzelbesitzangaben bleiben privat. Noch nicht veröffentlicht. [Redaktion, Lesefassung und Prüfnachweise](Erweiterung-2026-10-07/Pruefbericht.md).
 

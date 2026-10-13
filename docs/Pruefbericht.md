@@ -1,5 +1,19 @@
 # Prüfnachweis
 
+## 13.10.2026 – Version 80: 428 Schauspieler und vier Bekanntheitsgruppen
+
+Am **13.10.2026 um 23:59:07 Uhr Europe/Berlin** aus Main (`270d911d2b55ad8b9a398d99f22d60e75cd88170`) als **Version 80 öffentlich veröffentlicht**, nativer Status **succeeded**. Projekt-ID und Besucherzugriff **public, Revision 2** erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-80.json).
+
+Alle **208 neuen Schauspieler und 1.664 Fragen** sind im spielbaren Bestand installiert: **428 Personen, genau 107 je Bekanntheitsgruppe**, 3.424 Schauspielerfragen. Die App umfasst 34 Pakete, 14.451 Fragen und 13.781 Wissensziele. 105 Fragen teilen bestätigte Bestandsziele; 1.559 Ziele sind neu. Alle 280 Preisfragen folgen der Gruppe ihrer Filmfassung. Die 10.747 Filmfragen bleiben erhalten. 195 neue historische Commons-Bilder und 13 ausgewählte TMDB-Onlinefassungen angebunden; hinterlegte freie Porträts haben Vorrang, Personenname ohne doppelten Link.
+
+**473 Tests in 80 Dateien** (155,11 Sekunden), TypeScript, Produktionsbuild 80 und Diff-Prüfung erfolgreich. Vollständiger Browserlauf mit **371 vorgesehenen Fällen** ausgeführt: 366 zunächst erfolgreich, vier veraltete Prüferwartungen durch zehn erfolgreiche Nachprüfungen in Chromium, Firefox und mobilem WebKit geklärt; insgesamt **370 unterschiedliche Fälle erfolgreich**, ein vorgesehener mobiler Desktop-Skip. Unveränderte erfolgreiche Prüfteile wiederverwendet; kein durchgehend grüner erster Gesamtlauf. Frühere abgebrochene Läufe zählen nicht als bestanden. Am finalen Build auch der bestehende Begriff „Filmfakten“ in der Gruppenanzeige bestätigt.
+
+Migration `20261013215224_all_source_familiarity_groups.sql` und Inhaltsaktivierung atomar ausgeführt. Zehn private Quelltabellen einschließlich Kontoköpfen, Fortschrittseinträgen, Lern-/Zeitrunden, Duellen und EXP-Beiträgen innerhalb derselben Transaktion unverändert bestätigt. Keine realen Spielstände für Tests geändert, kein Reset und keine neue Altstandslogik. Native Abnahme bestätigt Frage-/Zielzahlen, viermal 107 Personen, Preisgruppen, freie Expertenwahl und gesperrte Folgegruppen in der Filmreise; Staging leer. Fünf interne Helfer bleiben für anon/authenticated gesperrt; Advisors mit bestehenden Hinweiskategorien. Die neue lokale Migration trägt die bestätigte native Historienkennung, SQL unverändert; fünf zugehörige Serverprüfungen erneut erfolgreich.
+
+Alle **919 Build-Dateien** im Archiv bytegleich, ausschließlich Build und Hostingmanifest. Öffentlich **918 Dateien** HTTP 200 und bytegleich; Startseite HTTP 200 mit den richtigen Build-Verweisen, /index.html leitet regulär auf / um. Tatsächliche Versionszeit separat gespeichert, getrennt gelesen und anonym über die Versions-RPC bestätigt; direkter Tabellenzugriff gesperrt. Kein GitHub-Push.
+
+Eigene Quellkopien, Prüfbuilds, Browserausgaben, Inhalts-SQL, Kontrollentpackung und Transportarchiv nach Pfad- und Verknüpfungsprüfung entfernt; Abwesenheit bestätigt (**1.650.164.734 Bytes**). Versteckte Git-Verzeichnisse und 23 schreibgeschützte eigene Git-Objektkopien vor normaler PowerShell-Löschung entsperrt, keine geteilten Git-Objekte. Originalbilder, benötigte Metadaten und Abhängigkeiten erhalten; beide fremden Mifune-Konfigurationen bytegleich.
+
 ## 13.10.2026 – Version 79, Gesamtstand aus Main veröffentlicht
 
 Am **13.10.2026 um 18:49:24 Uhr Europe/Berlin** aus Main (`2b101380aa17842c24af431e6e03831e07697666`) als **Version 79 öffentlich veröffentlicht**, nativer Status **succeeded**. Projekt-ID und Besucherzugriff **public, Revision 2** erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-79.json).

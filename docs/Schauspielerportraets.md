@@ -1,8 +1,6 @@
 # Schauspielerporträts nach der Antwort
 
-**13.10.2026 – Historischer Ausbau lokal eingebunden:** 195 zusätzliche Commons-Porträts aus der geprüften Redaktion, 13 ausgewählte TMDB-Onlinefassungen und Personenlinks für alle 428 Schauspieler. Hinterlegte freie Porträts erscheinen bevorzugt in der Auflösung; Erkennungsbilder bleiben erhalten. [Umfang und Integration](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
-
-**13.10.2026 – Historische Bilder für den neuen Ausbau vorbereitet:** Acht neue Personen erhalten Aufnahmen aus ihrer prägenden Arbeitszeit, mit dokumentierter Datierungsgenauigkeit und Nutzungsbasis der jeweiligen Commons-Quelle. Alle Originaldateien visuell geprüft; bestehende Zuschnitte und Retuschen nur unverändert übernommen. Noch nicht in der App installiert. [Bilder und Herkunft](Schauspieler-Bekanntheit-2026-10-13/Portraets.json), [Fragen und Übergabe](Schauspieler-Bekanntheit-2026-10-13/Plan.md).
+**13.10.2026 – Historischer Ausbau seit Version 80 veröffentlicht:** 195 zusätzliche Commons-Porträts aus der geprüften Redaktion, 13 ausgewählte TMDB-Onlinefassungen und Personenlinks für alle 428 Schauspieler. Hinterlegte freie Porträts erscheinen bevorzugt in der Auflösung; Erkennungsbilder bleiben erhalten. [Umfang und Integration](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
 
 ## TMDB-Porträts für alle Personen – 13.10.2026
 

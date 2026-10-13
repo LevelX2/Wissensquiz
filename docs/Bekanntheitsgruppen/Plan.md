@@ -1,12 +1,12 @@
 # Vier Bekanntheitsgruppen in allen Fragenbereichen
 
-**App-Integration am 13.10.2026 lokal abgeschlossen:** 428 Personen mit viermal 107, 3.424 Schauspielerfragen und Gruppenfilter/Freischaltungen für Schauspieler und Preise. Zentrale Veröffentlichungsprüfung läuft. Die folgenden Bestandszahlen dokumentieren die ursprüngliche Einordnung vor dem Ausbau. [Aktueller App-Vertrag und Mengen](App-Integration-2026-10-13.md).
+**Seit Version 80 am 13.10.2026 veröffentlicht:** 428 Personen mit viermal 107, 3.424 Schauspielerfragen und gemeinsame Gruppenfilter/Freischaltungen für Schauspieler und Preise. Die folgenden Bestandszahlen dokumentieren die ursprüngliche Einordnung vor dem Ausbau. [Aktueller App-Vertrag und Mengen](App-Integration-2026-10-13.md).
 
 Stand: 13.10.2026. Auf [Nutzerauftrag](../../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerauftrag%20Bekanntheitsgruppen.txt) redaktionell vorbereitet. Die Einordnung und der vollständige Ausbau sind lokal in Auswahl, Oberfläche und serverseitige Freischaltungen integriert. Anschließend begann der beauftragte Ausbau: [208 zusätzliche Personen, 1.664 geprüfte Fragen und geprüfte Porträts](../Schauspieler-Bekanntheit-2026-10-13/Plan.md) redaktionell fertig und lokal installiert. Die Bestandszahlen dieser Seite beziehen sich weiterhin auf die bisherigen 220 Personen.
 
 ## Gemeinsamer Maßstab
 
-Vier Bekanntheitsgruppen gelten künftig in jedem der drei Fragenbereiche Filmfragen, Schauspieler und Preisträger. Die vier Gruppen sind keine vier Fragenbereiche. Als bereichsübergreifende Bezeichnungen eignen sich **Sehr bekannt**, **Bekannt**, **Für Filmkenner** und **Entdeckungen**. Die bisherigen Filmbezeichnungen Film-Ikonen, Bekannte Filme, Kennerfilme und Entdeckungen entsprechen denselben Stufen.
+Vier Bekanntheitsgruppen gelten in jedem der drei Fragenbereiche Filmfragen, Schauspieler und Preisträger. Die vier Gruppen sind keine vier Fragenbereiche. Bereichsübergreifende Bezeichnungen sind **Sehr bekannt**, **Bekannt**, **Für Filmkenner** und **Entdeckungen**. Die bisherigen Filmbezeichnungen Film-Ikonen, Bekannte Filme, Kennerfilme und Entdeckungen entsprechen denselben Stufen.
 
 Bezugsrahmen ist das breite deutschsprachige Kinopublikum, einschließlich älterer Filmklassiker und aktueller populärer Filme. Bekanntheit kann über den Namen oder ein wiedererkennbares Gesicht entstehen. Alter, Herkunft, schauspielerische Qualität und Preise allein bestimmen keine Gruppe. Die Zuordnung ist eine redaktionelle Einschätzung und keine gemessene Bekanntheitsquote. Regionale und generationelle Unterschiede bleiben möglich; spätere sachlich begründete Korrekturen sind zulässig.
 

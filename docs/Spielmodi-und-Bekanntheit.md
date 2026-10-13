@@ -1,8 +1,6 @@
-# Spielmodi und Filmbekanntheit
+# Spielmodi und Bekanntheitsgruppen
 
-**13.10.2026 – Gemeinsame Bekanntheitsgruppen lokal integriert:** Sehr bekannt, Bekannt, Für Filmkenner und Entdeckungen gelten für Filme, Schauspieler und Preisfragen. Personen nach redaktioneller Personengruppe, Preise nach Filmfassung; nächste Gruppe in der Filmreise ab aufgerundet 50 Prozent der aktuellen leichten Ziele der vorherigen Gruppe. Schwierigkeiten bleiben unabhängig, Personen/Preise einschließlich Experte. [Vollständiger aktueller Vertrag](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
-
-**13.10.2026 – Redaktionell vorbereitet, noch nicht in die App integriert:** Vier Bekanntheitsgruppen künftig in allen drei Fragenbereichen. Alle 220 Personen eingeteilt; alle 280 Preisfragen übernehmen die Gruppe ihrer Filmfassung. Unterbesetzte Personengruppen anschließend gezielt ausbauen. Bisherige Bereichsfilter und Freischaltungen unten bleiben bis zur Umsetzung gültig. [Einordnung und Ausbauplanung](Bekanntheitsgruppen/Plan.md).
+**13.10.2026 – Gemeinsame Bekanntheitsgruppen seit Version 80 veröffentlicht:** Sehr bekannt, Bekannt, Für Filmkenner und Entdeckungen gelten für Filme, Schauspieler und Preisfragen. Personen nach redaktioneller Personengruppe, Preise nach Filmfassung; nächste Gruppe in der Filmreise ab aufgerundet 50 Prozent der aktuellen leichten Ziele der vorherigen Gruppe. Schwierigkeiten bleiben unabhängig, Personen/Preise einschließlich Experte. [Vollständiger aktueller Vertrag](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
 
 **Erweitert am 11.10.2026 und als Version 71 veröffentlicht:** Wiederholen verwendet alle gewählten Fragenbereiche; Filmreise und Freies Spiel stellen kürzlich richtig beantwortete, noch nicht fällige Ziele bei passenden Alternativen für 24 Stunden zurück. Die folgenden älteren Beschreibungen ohne diese Ausnahme sind dadurch präzisiert. [Aktueller Auswahlvertrag](Wiederholungen-und-Lernstufen-2026-10-10.md#alle-fragenbereiche-und-24-stunden-abstand--11102026), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-71.json).
 
