@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Kompakte Rekord-Vergleichsauswahl: „Universal“ oder Genre – 13.10.2026, lokal](../../../docs/Rekordmodi-und-Zeitranglisten.md#kurze-vergleichsauswahl--13102026)
+
 - [Zehnerrunde: benötigte Antwortzeit und Restzeit in der Antwortansicht – 13.10.2026, lokal](../../../docs/Rekordmodi-und-Zeitranglisten.md#antwortzeit-in-der-zehnerrunde--13102026)
 
 - [Vier Bekanntheitsgruppen für Filme, Schauspieler und Preisträger: Einordnung aller 220 Personen/280 Preisfragen und gezielter Ausbau – 13.10.2026](../../../docs/Bekanntheitsgruppen/Plan.md)

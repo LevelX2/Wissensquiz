@@ -3,8 +3,7 @@ import { z } from "zod";
 import { RankingContext } from "./SharedLeaderboard";
 import { ActivityContext } from "./GuestActivity";
 import { rankingRequest } from "./rankingRequest";
-import { genreLabel, sourceLabels } from "./filters";
-import { ruleLabel } from "./familiarity";
+import { genreLabel } from "./filters";
 import { type RecordMode, type RecordPeriod } from "./recordModes";
 import { duelSchema } from "./duels";
 import { CareerBadge } from "./CareerProgress";
@@ -53,20 +52,9 @@ const failure = (e: unknown) =>
 const dateLabel = (at: number) =>
   new Date(at).toLocaleString("de-DE", { timeZone: "Europe/Berlin" });
 const label = (c: z.infer<typeof categorySchema>) =>
-  [
-    c.rule_version.endsWith(".genre") ? "Genre-Rekord" : "Universal",
-    c.selection?.sources?.map((s) => sourceLabels[s]).join(" + "),
-    c.genres.map(genreLabel).join(" + "),
-    c.difficulties.map((d) => d[0].toUpperCase() + d.slice(1)).join(" + "),
-    c.selection?.familiarities?.length
-      ? "Filmgruppen " + c.selection.familiarities.join(" + ")
-      : "",
-    c.topic !== "Alle Themen" ? c.topic : "",
-    c.question_count ? c.question_count + " Fragen" : "Endlos",
-    "Regel " + ruleLabel(c.rule_version),
-  ]
-    .filter(Boolean)
-    .join(" · ");
+  c.rule_version.endsWith(".genre")
+    ? `Genre · ${c.genres.map(genreLabel).join(" + ")}`
+    : "Universal";
 function Paging({
   offset,
   length,

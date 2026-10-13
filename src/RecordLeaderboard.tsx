@@ -226,7 +226,7 @@ export function Leaderboard({
                     <option value="">Alle Kategorien</option>
                     {categories.map((g) => (
                       <option key={g.key} value={g.key}>
-                        {categoryLabel(g.round)}
+                        {recordSelectionLabel(g.round)}
                       </option>
                     ))}
                   </select>

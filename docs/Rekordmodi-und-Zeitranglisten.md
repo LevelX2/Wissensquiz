@@ -59,6 +59,12 @@ Alle drei Solo-Rekordmodi vergeben pro rechtzeitigem Treffer `100 + 2 × floor((
 
 ## Highscores
 
+### Kurze Vergleichsauswahl – 13.10.2026
+
+Lokal korrigiert, noch nicht veröffentlicht: Die Vergleichskategorie zeigt nur „Universal“ beziehungsweise „Genre · Horror“ (mit dem jeweiligen Genrenamen). Das gilt für eigene und gemeinsame Online-Rekordlisten sowie die lokale Ergebnisliste. Filter, Fragenzahl, Filmgruppen und technische Wertungsregeln werden nicht mehr in den Auswahltext geschrieben. Kategoriekennungen, getrennte Wertungen und die Auswahl des gerade abgeschlossenen Laufs bleiben unverändert. Anlass ist der [Nutzerhinweis zur unhandlichen Auswahl](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerhinweis%20kurze%20Universal-Auswahl.txt).
+
+Prüfung: 13 bestehende Rekordmodus-/Ranglistentests und `git diff --check` erfolgreich; Auswahlbeschriftungen im Diff geprüft. Kein vollständiger Testlauf, Produktionsbuild oder Browserlauf für diese kleine Textänderung.
+
 Rekordspiele, Duelle und Karriere bilden getrennte Bereiche. Rekordspiele unterscheiden die drei Modi sowie Meine Läufe/Gemeinsame Rangliste. **Jeder abgeschlossene Lauf wird einzeln aufgelistet**, auch mit null Punkten. Derselbe Spieler kann mehrere Plätze belegen. Es gibt keine Reduktion auf den besten Lauf je Spieler und keine Summenwertung der Solo-Läufe.
 
 Die Ergebnisaktion „Bestenliste ansehen“ übergibt die konkrete Runde. Meine Läufe/Allzeit öffnet dadurch mit dem tatsächlichen Modus und ihrem vollständigen kanonischen `recordKey`, einschließlich Filter, Thema, Größe und Regelversion. „Dieser Lauf“ markiert genau den übergebenen Eintrag; Scrollen und Tastaturfokus machen ihn auch unter vielen besseren Ergebnissen sichtbar. Abweichende frühere Regelkennungen erscheinen nicht mehr. Sind andere Kategorien ausgeblendet, zeigt die Liste dies und bietet „Alle Kategorien anzeigen“. Allgemeine Navigation über Highscores bleibt die Übersicht; ein früherer Ergebnisbezug wird dabei nicht übernommen. Die unmittelbaren Duellergebnisse übergeben stattdessen die Begegnung und öffnen den Bereich Duelle mit den eigenen Allzeit-Ergebnissen. Die geladenen eigenen Ergebnisse markieren das passende Duell; die bestehende Begrenzung auf 50 Einträge je Seite bleibt erhalten.
