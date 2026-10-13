@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**13.10.2026 – Redaktion vorbereitet, App noch nicht umgestellt:** Vier Bekanntheitsgruppen auch für Schauspieler und Preisträger. 220 Personen mit Verteilung 83/107/25/5; alle 280 Preisfragen nach vorhandener Filmgruppe (77/113/61/29). Unterbesetzte Personengruppen gezielt ausbauen; vollständiger Ausgleich auf je 107 würde 208 neue Personen benötigen. [Zuordnung und offener Umsetzungsumfang](../docs/Bekanntheitsgruppen/Plan.md).
+
 **13.10.2026 – Lokal, noch nicht veröffentlicht:** TMDB-Porträts für alle 220 Personen bei normalen Schauspielerfragen, mit anklickbarem Bild und Personenlink. Der Name bleibt Klartext, ohne doppelten Link. Bilderkennungsfragen behalten ihr Foto; TMDB-Link erst zur Lösung, auch im Rückblick und in Duellen. Je Person eine kleine Zuordnungsdatei, Bilder ausschließlich online. [Darstellung und Vorbereitung](../docs/Schauspielerportraets.md#tmdb-porträts-für-alle-personen--13102026).
 
 **13.10.2026 – Version 77 veröffentlicht:** Erfolgsstufen, Film-/Genre-/EXP-Meilensteine und gemeinsame Profilübersicht aktiv. Zähler und EXP aus geänderten Beiträgen, Profilabrufe bei Bedarf; doppelte Aktualisierung während laufender Anfrage verhindert. 449 Tests, Build und 356 unterschiedliche erfolgreiche Browserfälle einschließlich Nachprüfungen; ein vorgesehener Skip. Drei private Migrationen aktiviert, Nutzerdaten atomar unverändert, synthetische native Prüfung zurückgerollt. Eigene Artefakte entfernt. [Nachweis](../docs/Veroeffentlichung-2026-10-13-Version-77.json).

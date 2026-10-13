@@ -1,5 +1,7 @@
 # Preisträger – 200 Filmfragen
 
+**13.10.2026 – Bekanntheitsgruppen redaktionell vorbereitet:** Alle aktuellen 280 Preisfragen übernehmen die bestehende Gruppe ihrer Filmfassung: 77 / 113 / 61 / 29 Fragen in Gruppen 1–4. Die Bekanntheit der Auszeichnung erzeugt keine eigene Gruppierung. App-Auswahl und Freischaltung noch nicht umgestellt. [Vollständige Zuordnung und gemeinsamer Auftrag](Bekanntheitsgruppen/Plan.md).
+
 07.10.2026 – **320 Einträge und 2.480 Fragen lokal ergänzt:** Je 20 neue Einträge in allen 16 Auswahlkategorien. Gesamt **24 Pakete, 10.877 Fragen und 10.315 Wissensziele**; 8.837 Filmfragen, 1.760 Personenfragen für 220 Personen und 280 Preisfragen. Filmauswahl vorrangig aus der persönlichen Sammlung; Einzelbesitzangaben bleiben privat. Noch nicht veröffentlicht. [Redaktion, Lesefassung und Prüfnachweise](Erweiterung-2026-10-07/Pruefbericht.md).
 
 

@@ -1,0 +1,1408 @@
+{
+  "asOf": "2026-10-13",
+  "status": "Redaktionell eingeteilt; noch nicht in die App integriert",
+  "audience": "Breites deutschsprachiges Kinopublikum; keine repräsentative Messung",
+  "method": "Jede Preisfrage übernimmt die bestehende Bekanntheitsgruppe ihrer Filmfassung aus src/filmFamiliarity.json. Keine Einstufung nach Bekanntheit der Auszeichnung.",
+  "questions": [
+    {
+      "questionId": "E20261007-A-001-L",
+      "film": "It Happened One Night|1934",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-001-M",
+      "film": "It Happened One Night|1934",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-001-S",
+      "film": "It Happened One Night|1934",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-001-E",
+      "film": "It Happened One Night|1934",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-002-L",
+      "film": "The Apartment|1960",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-002-M",
+      "film": "The Apartment|1960",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-002-S",
+      "film": "The Apartment|1960",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-002-E",
+      "film": "The Apartment|1960",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-003-L",
+      "film": "Lawrence of Arabia|1962",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-003-M",
+      "film": "Lawrence of Arabia|1962",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-003-S",
+      "film": "Lawrence of Arabia|1962",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-003-E",
+      "film": "Lawrence of Arabia|1962",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-004-L",
+      "film": "My Fair Lady|1964",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-004-M",
+      "film": "My Fair Lady|1964",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-004-S",
+      "film": "My Fair Lady|1964",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-004-E",
+      "film": "My Fair Lady|1964",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-005-L",
+      "film": "The Sound of Music|1965",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-005-M",
+      "film": "The Sound of Music|1965",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-005-S",
+      "film": "The Sound of Music|1965",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-005-E",
+      "film": "The Sound of Music|1965",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-006-L",
+      "film": "Midnight Cowboy|1969",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-006-M",
+      "film": "Midnight Cowboy|1969",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-006-S",
+      "film": "Midnight Cowboy|1969",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-006-E",
+      "film": "Midnight Cowboy|1969",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-007-L",
+      "film": "The French Connection|1971",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-007-M",
+      "film": "The French Connection|1971",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-007-S",
+      "film": "The French Connection|1971",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-007-E",
+      "film": "The French Connection|1971",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-008-L",
+      "film": "The Sting|1973",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-008-M",
+      "film": "The Sting|1973",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-008-S",
+      "film": "The Sting|1973",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-008-E",
+      "film": "The Sting|1973",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-009-L",
+      "film": "Rocky|1976",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-009-M",
+      "film": "Rocky|1976",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-009-S",
+      "film": "Rocky|1976",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-009-E",
+      "film": "Rocky|1976",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-010-L",
+      "film": "Annie Hall|1977",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-010-M",
+      "film": "Annie Hall|1977",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-010-S",
+      "film": "Annie Hall|1977",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-010-E",
+      "film": "Annie Hall|1977",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-011-L",
+      "film": "The Deer Hunter|1978",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-011-M",
+      "film": "The Deer Hunter|1978",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-011-S",
+      "film": "The Deer Hunter|1978",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-011-E",
+      "film": "The Deer Hunter|1978",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-012-L",
+      "film": "Kramer vs. Kramer|1979",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-012-M",
+      "film": "Kramer vs. Kramer|1979",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-012-S",
+      "film": "Kramer vs. Kramer|1979",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-012-E",
+      "film": "Kramer vs. Kramer|1979",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-013-L",
+      "film": "Ordinary People|1980",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-013-M",
+      "film": "Ordinary People|1980",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-013-S",
+      "film": "Ordinary People|1980",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-013-E",
+      "film": "Ordinary People|1980",
+      "level": 3
+    },
+    {
+      "questionId": "E20261007-A-014-L",
+      "film": "Chariots of Fire|1981",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-014-M",
+      "film": "Chariots of Fire|1981",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-014-S",
+      "film": "Chariots of Fire|1981",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-014-E",
+      "film": "Chariots of Fire|1981",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-015-L",
+      "film": "Gandhi|1982",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-015-M",
+      "film": "Gandhi|1982",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-015-S",
+      "film": "Gandhi|1982",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-015-E",
+      "film": "Gandhi|1982",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-016-L",
+      "film": "Out of Africa|1985",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-016-M",
+      "film": "Out of Africa|1985",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-016-S",
+      "film": "Out of Africa|1985",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-016-E",
+      "film": "Out of Africa|1985",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-017-L",
+      "film": "Platoon|1986",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-017-M",
+      "film": "Platoon|1986",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-017-S",
+      "film": "Platoon|1986",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-017-E",
+      "film": "Platoon|1986",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-018-L",
+      "film": "The Last Emperor|1987",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-018-M",
+      "film": "The Last Emperor|1987",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-018-S",
+      "film": "The Last Emperor|1987",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-018-E",
+      "film": "The Last Emperor|1987",
+      "level": 2
+    },
+    {
+      "questionId": "E20261007-A-019-L",
+      "film": "Rain Man|1988",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-019-M",
+      "film": "Rain Man|1988",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-019-S",
+      "film": "Rain Man|1988",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-019-E",
+      "film": "Rain Man|1988",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-020-L",
+      "film": "Braveheart|1995",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-020-M",
+      "film": "Braveheart|1995",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-020-S",
+      "film": "Braveheart|1995",
+      "level": 1
+    },
+    {
+      "questionId": "E20261007-A-020-E",
+      "film": "Braveheart|1995",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-001",
+      "film": "Gone with the Wind|1939",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-002",
+      "film": "Ben-Hur|1959",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-003",
+      "film": "The Godfather|1972",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-004",
+      "film": "One Flew Over the Cuckoo's Nest|1975",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-005",
+      "film": "Amadeus|1984",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-006",
+      "film": "The Silence of the Lambs|1991",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-007",
+      "film": "Schindler's List|1993",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-008",
+      "film": "Forrest Gump|1994",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-009",
+      "film": "Titanic|1997",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-010",
+      "film": "Gladiator|2000",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-011",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-012",
+      "film": "Slumdog Millionaire|2008",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-013",
+      "film": "The Hurt Locker|2008",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-014",
+      "film": "Birdman or (The Unexpected Virtue of Ignorance)|2014",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-015",
+      "film": "Moonlight|2016",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-016",
+      "film": "The Shape of Water|2017",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-017",
+      "film": "Gisaengchung|2019",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-018",
+      "film": "Nomadland|2020",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-019",
+      "film": "Everything Everywhere All at Once|2022",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-020",
+      "film": "Oppenheimer|2023",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-021",
+      "film": "Finding Nemo|2003",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-022",
+      "film": "WALL-E|2008",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-023",
+      "film": "Up|2009",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-024",
+      "film": "Coco|2017",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-025",
+      "film": "Guillermo del Toro's Pinocchio|2022",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-001",
+      "film": "Gone with the Wind|1939",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-002",
+      "film": "Gone with the Wind|1939",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-003",
+      "film": "Ben-Hur|1959",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-004",
+      "film": "Ben-Hur|1959",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-005",
+      "film": "The Godfather|1972",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-006",
+      "film": "Cabaret|1972",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-007",
+      "film": "One Flew Over the Cuckoo's Nest|1975",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-008",
+      "film": "One Flew Over the Cuckoo's Nest|1975",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-009",
+      "film": "Amadeus|1984",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-010",
+      "film": "The Silence of the Lambs|1991",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-011",
+      "film": "Philadelphia|1993",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-012",
+      "film": "The Piano|1993",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-013",
+      "film": "Forrest Gump|1994",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-014",
+      "film": "Good Will Hunting|1997",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-015",
+      "film": "Gladiator|2000",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-016",
+      "film": "Erin Brockovich|2000",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-017",
+      "film": "Mystic River|2003",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-018",
+      "film": "The Dark Knight|2008",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-019",
+      "film": "Inglourious Basterds|2009",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-020",
+      "film": "Whiplash|2014",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-021",
+      "film": "Moonlight|2016",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-022",
+      "film": "Joker|2019",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-023",
+      "film": "Nomadland|2020",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-024",
+      "film": "Everything Everywhere All at Once|2022",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-025",
+      "film": "Oppenheimer|2023",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-001",
+      "film": "Gone with the Wind|1939",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-002",
+      "film": "Ben-Hur|1959",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-003",
+      "film": "The Godfather|1972",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-004",
+      "film": "One Flew Over the Cuckoo's Nest|1975",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-005",
+      "film": "Amadeus|1984",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-006",
+      "film": "The Silence of the Lambs|1991",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-007",
+      "film": "Schindler's List|1993",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-008",
+      "film": "Forrest Gump|1994",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-009",
+      "film": "The Lion King|1994",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-010",
+      "film": "Titanic|1997",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-011",
+      "film": "Good Will Hunting|1997",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-012",
+      "film": "Crouching Tiger, Hidden Dragon|2000",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-013",
+      "film": "Almost Famous|2000",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-014",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-015",
+      "film": "Slumdog Millionaire|2008",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-016",
+      "film": "Slumdog Millionaire|2008",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-017",
+      "film": "The Hurt Locker|2008",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-018",
+      "film": "The Grand Budapest Hotel|2014",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-019",
+      "film": "The Imitation Game|2014",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-020",
+      "film": "La La Land|2016",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-021",
+      "film": "The Shape of Water|2017",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-022",
+      "film": "Joker|2019",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-023",
+      "film": "Promising Young Woman|2020",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-024",
+      "film": "Im Westen nichts Neues|2022",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-025",
+      "film": "Oppenheimer|2023",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-001",
+      "film": "Gone with the Wind|1939",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-002",
+      "film": "Ben-Hur|1959",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-003",
+      "film": "Cabaret|1972",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-004",
+      "film": "Barry Lyndon|1975",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-005",
+      "film": "Amadeus|1984",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-006",
+      "film": "JFK|1991",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-007",
+      "film": "Schindler's List|1993",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-008",
+      "film": "Schindler's List|1993",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-009",
+      "film": "Forrest Gump|1994",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-010",
+      "film": "Titanic|1997",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-011",
+      "film": "Titanic|1997",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-012",
+      "film": "Gladiator|2000",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-013",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-014",
+      "film": "Master and Commander: The Far Side of the World|2003",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-015",
+      "film": "Slumdog Millionaire|2008",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-016",
+      "film": "Slumdog Millionaire|2008",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-017",
+      "film": "Avatar|2009",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-018",
+      "film": "The Young Victoria|2009",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-019",
+      "film": "Birdman or (The Unexpected Virtue of Ignorance)|2014",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-020",
+      "film": "Whiplash|2014",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-021",
+      "film": "La La Land|2016",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-022",
+      "film": "Dunkirk|2017",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-023",
+      "film": "Mank|2020",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-024",
+      "film": "Everything Everywhere All at Once|2022",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-025",
+      "film": "Oppenheimer|2023",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-026",
+      "film": "Marty|1955",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-027",
+      "film": "Taxi Driver|1976",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-028",
+      "film": "Paris, Texas|1984",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-029",
+      "film": "Pulp Fiction|1994",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-030",
+      "film": "Secrets & Lies|1996",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-031",
+      "film": "Dancer in the Dark|2000",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-032",
+      "film": "The Pianist|2002",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-033",
+      "film": "Das weiße Band – Eine deutsche Kindergeschichte|2009",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-034",
+      "film": "The Tree of Life|2011",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-035",
+      "film": "Amour|2012",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-036",
+      "film": "Manbiki Kazoku|2018",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-037",
+      "film": "Gisaengchung|2019",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-038",
+      "film": "Anatomie d'une chute|2023",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-026",
+      "film": "The Piano|1993",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-027",
+      "film": "Rosetta|1999",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-028",
+      "film": "Dancer in the Dark|2000",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-029",
+      "film": "Fa yeung nin wa|2000",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-030",
+      "film": "The Pianist|2002",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-031",
+      "film": "Inglourious Basterds|2009",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-032",
+      "film": "The Artist|2011",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-033",
+      "film": "Melancholia|2011",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-034",
+      "film": "Jagten|2012",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-035",
+      "film": "Aus dem Nichts|2017",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-036",
+      "film": "Dolor y gloria|2019",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-037",
+      "film": "Perfect Days|2023",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-026",
+      "film": "Apocalypse Now|1979",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-027",
+      "film": "The Piano|1993",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-028",
+      "film": "Barton Fink|1991",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-029",
+      "film": "Fahrenheit 9/11|2004",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-030",
+      "film": "Volver|2006",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-031",
+      "film": "La Vie d'Adèle – Chapitres 1 & 2|2013",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-032",
+      "film": "Mommy|2014",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-033",
+      "film": "Saul fia|2015",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-034",
+      "film": "Forushande|2016",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-035",
+      "film": "BlacKkKlansman|2018",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-036",
+      "film": "Portrait de la jeune fille en feu|2019",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-037",
+      "film": "Triangle of Sadness|2022",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-038",
+      "film": "The Zone of Interest|2023",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-026",
+      "film": "Apocalypse Now|1979",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-027",
+      "film": "Pulp Fiction|1994",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-028",
+      "film": "The Three Burials of Melquiades Estrada|2005",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-029",
+      "film": "Indigènes|2006",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-030",
+      "film": "Bir Zamanlar Anadolu’da|2011",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-031",
+      "film": "Carol|2015",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-032",
+      "film": "Personal Shopper|2016",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-033",
+      "film": "The Killing of a Sacred Deer|2017",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-034",
+      "film": "Lazzaro felice|2018",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-035",
+      "film": "Memoria|2021",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-036",
+      "film": "Close|2022",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-037",
+      "film": "Kaibutsu|2023",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-039",
+      "film": "The Shape of Water|2017",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-040",
+      "film": "Roma|2018",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-041",
+      "film": "Joker|2019",
+      "level": 1
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-042",
+      "film": "Nomadland|2020",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-043",
+      "film": "L'Événement|2021",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-044",
+      "film": "All the Beauty and the Bloodshed|2022",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-045",
+      "film": "Poor Things|2023",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-046",
+      "film": "The Favourite|2018",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-047",
+      "film": "Pieces of a Woman|2020",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-048",
+      "film": "Madres paralelas|2021",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-049",
+      "film": "Tár|2022",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-L-050",
+      "film": "The Banshees of Inisherin|2022",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-038",
+      "film": "Hannah|2017",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-039",
+      "film": "The Insult|2017",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-040",
+      "film": "At Eternity's Gate|2018",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-041",
+      "film": "Gloria Mundi|2019",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-042",
+      "film": "Martin Eden|2019",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-043",
+      "film": "Padrenostro|2020",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-044",
+      "film": "On the Job: The Missing 8|2021",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-045",
+      "film": "Priscilla|2023",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-046",
+      "film": "Memory|2023",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-047",
+      "film": "Babyteeth|2019",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-048",
+      "film": "È stata la mano di Dio|2021",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-049",
+      "film": "Bones and All|2022",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-M-050",
+      "film": "Io capitano|2023",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-039",
+      "film": "Three Billboards Outside Ebbing, Missouri|2017",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-040",
+      "film": "The Ballad of Buster Scruggs|2018",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-041",
+      "film": "Ji yuan tai qi hao|2019",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-042",
+      "film": "The Disciple|2020",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-043",
+      "film": "The Lost Daughter|2021",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-044",
+      "film": "The Banshees of Inisherin|2022",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-045",
+      "film": "El Conde|2023",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-046",
+      "film": "Jusqu'à la garde|2017",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-047",
+      "film": "The Sisters Brothers|2018",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-048",
+      "film": "Om det oändliga|2019",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-049",
+      "film": "Spy no tsuma|2020",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-S-050",
+      "film": "The Power of the Dog|2021",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-038",
+      "film": "Foxtrot|2017",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-039",
+      "film": "The Favourite|2018",
+      "level": 2
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-040",
+      "film": "J'accuse|2019",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-041",
+      "film": "Nuevo orden|2020",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-042",
+      "film": "È stata la mano di Dio|2021",
+      "level": 3
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-043",
+      "film": "Saint Omer|2022",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-044",
+      "film": "Aku wa sonzai shinai|2023",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-045",
+      "film": "Sweet Country|2017",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-046",
+      "film": "The Nightingale|2018",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-047",
+      "film": "Dorogie tovarishchi!|2020",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-048",
+      "film": "Il buco|2021",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-049",
+      "film": "Khers nist|2022",
+      "level": 4
+    },
+    {
+      "questionId": "PRZ-202610-P01-E-050",
+      "film": "Poor Things|2023",
+      "level": 2
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # Spielmodi und Filmbekanntheit
 
+**13.10.2026 – Redaktionell vorbereitet, noch nicht in die App integriert:** Vier Bekanntheitsgruppen künftig in allen drei Fragenbereichen. Alle 220 Personen eingeteilt; alle 280 Preisfragen übernehmen die Gruppe ihrer Filmfassung. Unterbesetzte Personengruppen anschließend gezielt ausbauen. Bisherige Bereichsfilter und Freischaltungen unten bleiben bis zur Umsetzung gültig. [Einordnung und Ausbauplanung](Bekanntheitsgruppen/Plan.md).
+
 **Erweitert am 11.10.2026 und als Version 71 veröffentlicht:** Wiederholen verwendet alle gewählten Fragenbereiche; Filmreise und Freies Spiel stellen kürzlich richtig beantwortete, noch nicht fällige Ziele bei passenden Alternativen für 24 Stunden zurück. Die folgenden älteren Beschreibungen ohne diese Ausnahme sind dadurch präzisiert. [Aktueller Auswahlvertrag](Wiederholungen-und-Lernstufen-2026-10-10.md#alle-fragenbereiche-und-24-stunden-abstand--11102026), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-71.json).
 
 **Aktuell seit 11.10.2026:** [50-Prozent-Freischaltung und gleichwahrscheinliche neue Schwierigkeiten](Filmreise-Freischaltung-2026-10-11.md) ersetzen die unten dokumentierten eingefrorenen Schwierigkeitsschwellen und historischen Bestandsrechte. Filmgruppen öffnen ebenfalls ab der Hälfte aller aktuellen leichten Ziele der vorherigen Gruppe.

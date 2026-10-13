@@ -1,0 +1,1108 @@
+{
+  "asOf": "2026-10-13",
+  "status": "Redaktionell eingeteilt; noch nicht in die App integriert",
+  "audience": "Breites deutschsprachiges Kinopublikum; keine repräsentative Messung",
+  "method": "Einordnung nach Bekanntheit von Namen/Gesicht, unabhängig von Qualität und Frageschwierigkeit. Keine erzwungene Viertelquote; spätere Ergänzungen in unterbesetzten Gruppen.",
+  "persons": [
+    {
+      "personId": "ACTOR-001",
+      "name": "Tom Hanks",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-002",
+      "name": "Leonardo DiCaprio",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-003",
+      "name": "Brad Pitt",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-004",
+      "name": "Johnny Depp",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-005",
+      "name": "Robert De Niro",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-006",
+      "name": "Al Pacino",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-007",
+      "name": "Jack Nicholson",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-008",
+      "name": "Denzel Washington",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-009",
+      "name": "Morgan Freeman",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-010",
+      "name": "Samuel L. Jackson",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-011",
+      "name": "Harrison Ford",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-012",
+      "name": "Tom Cruise",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-013",
+      "name": "Keanu Reeves",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-014",
+      "name": "Bruce Willis",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-015",
+      "name": "Arnold Schwarzenegger",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-016",
+      "name": "Sylvester Stallone",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-017",
+      "name": "Clint Eastwood",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-018",
+      "name": "Anthony Hopkins",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-019",
+      "name": "Daniel Day-Lewis",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-020",
+      "name": "Gary Oldman",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-021",
+      "name": "Christian Bale",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-022",
+      "name": "Joaquin Phoenix",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-023",
+      "name": "Heath Ledger",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-024",
+      "name": "Robin Williams",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-025",
+      "name": "Jim Carrey",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-026",
+      "name": "Will Smith",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-027",
+      "name": "Matt Damon",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-028",
+      "name": "Ben Affleck",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-029",
+      "name": "George Clooney",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-030",
+      "name": "Sean Connery",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-031",
+      "name": "Daniel Craig",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-032",
+      "name": "Benedict Cumberbatch",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-033",
+      "name": "Ian McKellen",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-034",
+      "name": "Patrick Stewart",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-035",
+      "name": "Michael Caine",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-036",
+      "name": "Alan Rickman",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-037",
+      "name": "Christoph Waltz",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-038",
+      "name": "Daniel Brühl",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-039",
+      "name": "Jürgen Vogel",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-040",
+      "name": "Moritz Bleibtreu",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-041",
+      "name": "Mario Adorf",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-042",
+      "name": "Bruno Ganz",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-043",
+      "name": "Bud Spencer",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-044",
+      "name": "Terence Hill",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-045",
+      "name": "Jackie Chan",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-046",
+      "name": "Bruce Lee",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-047",
+      "name": "Chow Yun-fat",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-048",
+      "name": "Shah Rukh Khan",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-049",
+      "name": "Toshirō Mifune",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-050",
+      "name": "Omar Sharif",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-051",
+      "name": "Meryl Streep",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-052",
+      "name": "Julia Roberts",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-053",
+      "name": "Sandra Bullock",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-054",
+      "name": "Jodie Foster",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-055",
+      "name": "Nicole Kidman",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-056",
+      "name": "Cate Blanchett",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-057",
+      "name": "Kate Winslet",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-058",
+      "name": "Emma Thompson",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-059",
+      "name": "Helen Mirren",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-060",
+      "name": "Judi Dench",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-061",
+      "name": "Maggie Smith",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-062",
+      "name": "Audrey Hepburn",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-063",
+      "name": "Katharine Hepburn",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-064",
+      "name": "Elizabeth Taylor",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-065",
+      "name": "Marilyn Monroe",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-066",
+      "name": "Grace Kelly",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-067",
+      "name": "Sophia Loren",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-068",
+      "name": "Ingrid Bergman",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-069",
+      "name": "Bette Davis",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-070",
+      "name": "Diane Keaton",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-071",
+      "name": "Susan Sarandon",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-072",
+      "name": "Sigourney Weaver",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-073",
+      "name": "Jamie Lee Curtis",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-074",
+      "name": "Michelle Pfeiffer",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-075",
+      "name": "Julianne Moore",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-076",
+      "name": "Natalie Portman",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-077",
+      "name": "Angelina Jolie",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-078",
+      "name": "Charlize Theron",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-079",
+      "name": "Halle Berry",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-080",
+      "name": "Reese Witherspoon",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-081",
+      "name": "Jennifer Lawrence",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-082",
+      "name": "Emma Stone",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-083",
+      "name": "Scarlett Johansson",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-084",
+      "name": "Margot Robbie",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-085",
+      "name": "Anne Hathaway",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-086",
+      "name": "Amy Adams",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-087",
+      "name": "Jessica Chastain",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-088",
+      "name": "Frances McDormand",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-089",
+      "name": "Viola Davis",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-090",
+      "name": "Angela Bassett",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-091",
+      "name": "Whoopi Goldberg",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-092",
+      "name": "Drew Barrymore",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-093",
+      "name": "Winona Ryder",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-094",
+      "name": "Penélope Cruz",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-095",
+      "name": "Salma Hayek",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-096",
+      "name": "Michelle Yeoh",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-097",
+      "name": "Gong Li",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-098",
+      "name": "Franka Potente",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-099",
+      "name": "Diane Kruger",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-100",
+      "name": "Romy Schneider",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-101",
+      "name": "Kevin Costner",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-102",
+      "name": "Russell Crowe",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-103",
+      "name": "Hugh Jackman",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-104",
+      "name": "Ryan Gosling",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-105",
+      "name": "Robert Downey Jr.",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-106",
+      "name": "Edward Norton",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-107",
+      "name": "Nicolas Cage",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-108",
+      "name": "Steve Martin",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-109",
+      "name": "Jeff Bridges",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-110",
+      "name": "Dustin Hoffman",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-111",
+      "name": "Antonio Banderas",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-112",
+      "name": "Ulrich Tukur",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-113",
+      "name": "Armin Mueller-Stahl",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-114",
+      "name": "Olivia Colman",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-115",
+      "name": "Emily Blunt",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-116",
+      "name": "Rachel Weisz",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-117",
+      "name": "Tilda Swinton",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-118",
+      "name": "Saoirse Ronan",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-119",
+      "name": "Kirsten Dunst",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-120",
+      "name": "Helena Bonham Carter",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-121",
+      "name": "Jennifer Aniston",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-122",
+      "name": "Julie Andrews",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-123",
+      "name": "Isabelle Huppert",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-124",
+      "name": "Hildegard Knef",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-125",
+      "name": "Iris Berben",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-126",
+      "name": "Michael Douglas",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-127",
+      "name": "Richard Gere",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-128",
+      "name": "John Travolta",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-129",
+      "name": "Kurt Russell",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-130",
+      "name": "Danny DeVito",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-131",
+      "name": "Bill Murray",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-132",
+      "name": "Eddie Murphy",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-133",
+      "name": "Adam Sandler",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-134",
+      "name": "Brendan Fraser",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-135",
+      "name": "Jake Gyllenhaal",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-136",
+      "name": "Willem Dafoe",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-137",
+      "name": "John Malkovich",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-138",
+      "name": "Ralph Fiennes",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-139",
+      "name": "Colin Firth",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-140",
+      "name": "Liam Neeson",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-141",
+      "name": "Ewan McGregor",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-142",
+      "name": "Cillian Murphy",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-143",
+      "name": "Donald Sutherland",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-144",
+      "name": "Jean Reno",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-145",
+      "name": "Vincent Cassel",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-146",
+      "name": "Mads Mikkelsen",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-147",
+      "name": "Song Kang-ho",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-148",
+      "name": "Donnie Yen",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-149",
+      "name": "Dev Patel",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-150",
+      "name": "Sacha Baron Cohen",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-151",
+      "name": "Shirley MacLaine",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-152",
+      "name": "Julie Christie",
+      "level": 4
+    },
+    {
+      "personId": "ACTOR-153",
+      "name": "Vanessa Redgrave",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-154",
+      "name": "Glenn Close",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-155",
+      "name": "Geena Davis",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-156",
+      "name": "Meg Ryan",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-157",
+      "name": "Andie MacDowell",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-158",
+      "name": "Renée Zellweger",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-159",
+      "name": "Naomi Watts",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-160",
+      "name": "Kate Hudson",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-161",
+      "name": "Rachel McAdams",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-162",
+      "name": "Keira Knightley",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-163",
+      "name": "Felicity Jones",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-164",
+      "name": "Emily Watson",
+      "level": 4
+    },
+    {
+      "personId": "ACTOR-165",
+      "name": "Imelda Staunton",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-166",
+      "name": "Toni Collette",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-167",
+      "name": "Laura Dern",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-168",
+      "name": "Lupita Nyong'o",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-169",
+      "name": "Kerry Washington",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-170",
+      "name": "Octavia Spencer",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-171",
+      "name": "Queen Latifah",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-172",
+      "name": "Zhang Ziyi",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-173",
+      "name": "Marion Cotillard",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-174",
+      "name": "Léa Seydoux",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-175",
+      "name": "Juliette Binoche",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-176",
+      "name": "Robert Redford",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-177",
+      "name": "Paul Newman",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-178",
+      "name": "Humphrey Bogart",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-179",
+      "name": "James Stewart",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-180",
+      "name": "Cary Grant",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-181",
+      "name": "Gregory Peck",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-182",
+      "name": "Marlon Brando",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-183",
+      "name": "James Dean",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-184",
+      "name": "Steve McQueen",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-185",
+      "name": "Sidney Poitier",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-186",
+      "name": "Alain Delon",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-187",
+      "name": "Jean-Paul Belmondo",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-188",
+      "name": "Monica Bellucci",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-189",
+      "name": "Catherine Deneuve",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-190",
+      "name": "Isabelle Adjani",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-191",
+      "name": "Liv Ullmann",
+      "level": 4
+    },
+    {
+      "personId": "ACTOR-192",
+      "name": "Sissy Spacek",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-193",
+      "name": "Emma Watson",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-194",
+      "name": "Emma Roberts",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-195",
+      "name": "Kristen Stewart",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-196",
+      "name": "Jennifer Connelly",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-197",
+      "name": "Michelle Williams",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-198",
+      "name": "Alicia Vikander",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-199",
+      "name": "Rooney Mara",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-200",
+      "name": "Julie Delpy",
+      "level": 4
+    },
+    {
+      "personId": "ACTOR-20261007-001",
+      "name": "Tim Robbins",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-002",
+      "name": "Sean Penn",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-003",
+      "name": "Tommy Lee Jones",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-004",
+      "name": "Dennis Hopper",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-005",
+      "name": "Casey Affleck",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-20261007-006",
+      "name": "Richard Dreyfuss",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-007",
+      "name": "Bill Paxton",
+      "level": 3
+    },
+    {
+      "personId": "ACTOR-20261007-008",
+      "name": "James Caan",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-009",
+      "name": "Peter O’Toole",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-010",
+      "name": "Forest Whitaker",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-011",
+      "name": "Demi Moore",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-20261007-012",
+      "name": "Cameron Diaz",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-20261007-013",
+      "name": "Hilary Swank",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-014",
+      "name": "Uma Thurman",
+      "level": 1
+    },
+    {
+      "personId": "ACTOR-20261007-015",
+      "name": "Annette Bening",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-016",
+      "name": "Faye Dunaway",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-017",
+      "name": "Lauren Bacall",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-018",
+      "name": "Barbara Stanwyck",
+      "level": 4
+    },
+    {
+      "personId": "ACTOR-20261007-019",
+      "name": "Judy Garland",
+      "level": 2
+    },
+    {
+      "personId": "ACTOR-20261007-020",
+      "name": "Doris Day",
+      "level": 1
+    }
+  ]
+}

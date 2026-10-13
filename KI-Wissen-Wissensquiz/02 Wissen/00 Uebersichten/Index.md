@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Vier Bekanntheitsgruppen für Filme, Schauspieler und Preisträger: Einordnung aller 220 Personen/280 Preisfragen und gezielter Ausbau – 13.10.2026](../../../docs/Bekanntheitsgruppen/Plan.md)
+
 - [TMDB-Porträts für alle 220 Personen; Bilderkennungsfotos bleiben erhalten – lokal am 13.10.2026](../../../docs/Schauspielerportraets.md#tmdb-porträts-für-alle-personen--13102026)
 
 - [TMDB-Personenlink bei allen 220 Schauspielerinnen und Schauspielern in der Auflösung – lokal am 13.10.2026](../../../docs/Lernregeln.md#tmdb-personenlink-bei-schauspielerfragen--13102026)

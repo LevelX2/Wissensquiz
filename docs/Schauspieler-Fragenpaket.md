@@ -1,5 +1,7 @@
 # Schauspieler: 1.760 Fragen für 220 Personen
 
+**13.10.2026 – Vier Bekanntheitsgruppen redaktionell vorbereitet:** 83 / 107 / 25 / 5 Personen sinnvoll eingeordnet, ohne Viertelquote. Gezielte Ergänzungen besonders in Gruppen 3 und 4 vorgesehen; keine neuen Personenfragen oder App-Gruppenfreischaltungen dieses Schritts. Ein vollständiger Ausgleich auf je 107 Personen würde 208 zusätzliche Personen benötigen. [Einordnung, Mengen und Ausbauplanung](Bekanntheitsgruppen/Plan.md).
+
 07.10.2026 – **320 Einträge und 2.480 Fragen lokal ergänzt:** Je 20 neue Einträge in allen 16 Auswahlkategorien. Gesamt **24 Pakete, 10.877 Fragen und 10.315 Wissensziele**; 8.837 Filmfragen, 1.760 Personenfragen für 220 Personen und 280 Preisfragen. Filmauswahl vorrangig aus der persönlichen Sammlung; Einzelbesitzangaben bleiben privat. Noch nicht veröffentlicht. [Redaktion, Lesefassung und Prüfnachweise](Erweiterung-2026-10-07/Pruefbericht.md).
 
 

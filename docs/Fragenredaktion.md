@@ -20,6 +20,8 @@ Genres unter 100 Filmen schrittweise auffüllen, beginnend mit Abenteuer. Je Gen
 
 ## Schwierigkeiten und Bekanntheit
 
+**Neuer Nutzerauftrag vom 13.10.2026:** Vier Bekanntheitsgruppen künftig auch für Schauspieler und Preisträger; Personen redaktionell einteilen, Preisfragen nach ihrer Filmfassung. Unterbesetzte Personengruppen später durch gezielte Ergänzungen ausgleichen, ohne erzwungene Umgruppierung. [Vollständige Einordnung, Bestandsmengen und Ausbauumfang](Bekanntheitsgruppen/Plan.md). Die Zuordnung ist vorbereitet; App-Filter und Freischaltungen entsprechen weiterhin dem bisherigen Stand der folgenden Tabelle. Die vier Schwierigkeiten bleiben unabhängig von den vier Bekanntheitsgruppen.
+
 | Fragenbereich | Schwierigkeiten | Bekanntheitsgruppen |
 |---|---|---|
 | Filme | leicht, mittel, schwer | 1 Film-Ikonen, 2 Bekannte Filme, 3 Kennerfilme, 4 Entdeckungen |
