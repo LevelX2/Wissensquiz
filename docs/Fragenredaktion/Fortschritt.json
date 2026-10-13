@@ -1,11 +1,11 @@
 {
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
-  "totalReviewed": 6150,
-  "remainingFilmQuestions": 4583,
+  "totalReviewed": 6200,
+  "remainingFilmQuestions": 4533,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 6623,
-  "lastCompletedBlock": 120,
+  "remainingAllQuestions": 6573,
+  "lastCompletedBlock": 121,
   "reviewedIds": [
     "ART-L-017",
     "ACT-M-025",
@@ -6156,209 +6156,59 @@
     "ART-S-034",
     "FF-042-YEAR",
     "FF-042-DIRECTOR",
-    "WES-L-033"
+    "WES-L-033",
+    "WES-L-034",
+    "WES-M-033",
+    "WES-M-034",
+    "WES-S-033",
+    "WES-S-034",
+    "FF-292-YEAR",
+    "FF-292-DIRECTOR",
+    "G100-20261008-FANTASY-002-L1",
+    "G100-20261008-FANTASY-002-L2",
+    "G100-20261008-FANTASY-002-M1",
+    "G100-20261008-FANTASY-002-M2",
+    "G100-20261008-FANTASY-002-S1",
+    "G100-20261008-FANTASY-002-S2",
+    "G100-20261008-FANTASY-002-Y",
+    "G100-20261008-FANTASY-002-D",
+    "SF-202609-P02-L-089",
+    "SF-202609-P02-L-090",
+    "SF-202609-P02-M-089",
+    "SF-202609-P02-M-090",
+    "SF-202609-P02-S-089",
+    "SF-202609-P02-S-090",
+    "SF-202609-P02-S-089-V1",
+    "FF-370-YEAR",
+    "FF-370-DIRECTOR",
+    "WES-L-019",
+    "WES-L-020",
+    "WES-M-019",
+    "WES-M-020",
+    "WES-S-019",
+    "WES-S-020",
+    "FF-285-YEAR",
+    "FF-285-DIRECTOR",
+    "F240-20261006-116-L1",
+    "F240-20261006-116-L2",
+    "F240-20261006-116-M1",
+    "F240-20261006-116-M2",
+    "F240-20261006-116-S1",
+    "F240-20261006-116-S2",
+    "F240-20261006-116-Y",
+    "F240-20261006-116-D",
+    "SF-202609-P02-L-035",
+    "SF-202609-P02-L-036",
+    "SF-202609-P02-M-035",
+    "SF-202609-P02-M-036",
+    "SF-202609-P02-S-035",
+    "SF-202609-P02-S-036",
+    "SF-202609-P02-L-035-V1",
+    "FF-343-YEAR",
+    "FF-343-DIRECTOR",
+    "KOM-L-041"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "WES-L-034",
-      "filmKey": "Open Range|2003"
-    },
-    {
-      "id": "WES-M-033",
-      "filmKey": "Open Range|2003"
-    },
-    {
-      "id": "WES-M-034",
-      "filmKey": "Open Range|2003"
-    },
-    {
-      "id": "WES-S-033",
-      "filmKey": "Open Range|2003"
-    },
-    {
-      "id": "WES-S-034",
-      "filmKey": "Open Range|2003"
-    },
-    {
-      "id": "FF-292-YEAR",
-      "filmKey": "Open Range|2003"
-    },
-    {
-      "id": "FF-292-DIRECTOR",
-      "filmKey": "Open Range|2003"
-    },
-    {
-      "id": "G100-20261008-FANTASY-002-L1",
-      "filmKey": "Orphée|1950"
-    },
-    {
-      "id": "G100-20261008-FANTASY-002-L2",
-      "filmKey": "Orphée|1950"
-    },
-    {
-      "id": "G100-20261008-FANTASY-002-M1",
-      "filmKey": "Orphée|1950"
-    },
-    {
-      "id": "G100-20261008-FANTASY-002-M2",
-      "filmKey": "Orphée|1950"
-    },
-    {
-      "id": "G100-20261008-FANTASY-002-S1",
-      "filmKey": "Orphée|1950"
-    },
-    {
-      "id": "G100-20261008-FANTASY-002-S2",
-      "filmKey": "Orphée|1950"
-    },
-    {
-      "id": "G100-20261008-FANTASY-002-Y",
-      "filmKey": "Orphée|1950"
-    },
-    {
-      "id": "G100-20261008-FANTASY-002-D",
-      "filmKey": "Orphée|1950"
-    },
-    {
-      "id": "SF-202609-P02-L-089",
-      "filmKey": "Outland|1981"
-    },
-    {
-      "id": "SF-202609-P02-L-090",
-      "filmKey": "Outland|1981"
-    },
-    {
-      "id": "SF-202609-P02-M-089",
-      "filmKey": "Outland|1981"
-    },
-    {
-      "id": "SF-202609-P02-M-090",
-      "filmKey": "Outland|1981"
-    },
-    {
-      "id": "SF-202609-P02-S-089",
-      "filmKey": "Outland|1981"
-    },
-    {
-      "id": "SF-202609-P02-S-090",
-      "filmKey": "Outland|1981"
-    },
-    {
-      "id": "SF-202609-P02-S-089-V1",
-      "filmKey": "Outland|1981"
-    },
-    {
-      "id": "FF-370-YEAR",
-      "filmKey": "Outland|1981"
-    },
-    {
-      "id": "FF-370-DIRECTOR",
-      "filmKey": "Outland|1981"
-    },
-    {
-      "id": "WES-L-019",
-      "filmKey": "Pale Rider|1985"
-    },
-    {
-      "id": "WES-L-020",
-      "filmKey": "Pale Rider|1985"
-    },
-    {
-      "id": "WES-M-019",
-      "filmKey": "Pale Rider|1985"
-    },
-    {
-      "id": "WES-M-020",
-      "filmKey": "Pale Rider|1985"
-    },
-    {
-      "id": "WES-S-019",
-      "filmKey": "Pale Rider|1985"
-    },
-    {
-      "id": "WES-S-020",
-      "filmKey": "Pale Rider|1985"
-    },
-    {
-      "id": "FF-285-YEAR",
-      "filmKey": "Pale Rider|1985"
-    },
-    {
-      "id": "FF-285-DIRECTOR",
-      "filmKey": "Pale Rider|1985"
-    },
-    {
-      "id": "F240-20261006-116-L1",
-      "filmKey": "Palm Springs|2020"
-    },
-    {
-      "id": "F240-20261006-116-L2",
-      "filmKey": "Palm Springs|2020"
-    },
-    {
-      "id": "F240-20261006-116-M1",
-      "filmKey": "Palm Springs|2020"
-    },
-    {
-      "id": "F240-20261006-116-M2",
-      "filmKey": "Palm Springs|2020"
-    },
-    {
-      "id": "F240-20261006-116-S1",
-      "filmKey": "Palm Springs|2020"
-    },
-    {
-      "id": "F240-20261006-116-S2",
-      "filmKey": "Palm Springs|2020"
-    },
-    {
-      "id": "F240-20261006-116-Y",
-      "filmKey": "Palm Springs|2020"
-    },
-    {
-      "id": "F240-20261006-116-D",
-      "filmKey": "Palm Springs|2020"
-    },
-    {
-      "id": "SF-202609-P02-L-035",
-      "filmKey": "Pandorum|2009"
-    },
-    {
-      "id": "SF-202609-P02-L-036",
-      "filmKey": "Pandorum|2009"
-    },
-    {
-      "id": "SF-202609-P02-M-035",
-      "filmKey": "Pandorum|2009"
-    },
-    {
-      "id": "SF-202609-P02-M-036",
-      "filmKey": "Pandorum|2009"
-    },
-    {
-      "id": "SF-202609-P02-S-035",
-      "filmKey": "Pandorum|2009"
-    },
-    {
-      "id": "SF-202609-P02-S-036",
-      "filmKey": "Pandorum|2009"
-    },
-    {
-      "id": "SF-202609-P02-L-035-V1",
-      "filmKey": "Pandorum|2009"
-    },
-    {
-      "id": "FF-343-YEAR",
-      "filmKey": "Pandorum|2009"
-    },
-    {
-      "id": "FF-343-DIRECTOR",
-      "filmKey": "Pandorum|2009"
-    },
-    {
-      "id": "KOM-L-041",
-      "filmKey": "Pappa ante portas|1991"
-    },
     {
       "id": "KOM-L-042",
       "filmKey": "Pappa ante portas|1991"
