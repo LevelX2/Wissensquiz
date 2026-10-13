@@ -1,11 +1,11 @@
 {
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
-  "totalReviewed": 6250,
-  "remainingFilmQuestions": 4483,
+  "totalReviewed": 6300,
+  "remainingFilmQuestions": 4433,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 6523,
-  "lastCompletedBlock": 122,
+  "remainingAllQuestions": 6473,
+  "lastCompletedBlock": 123,
   "reviewedIds": [
     "ART-L-017",
     "ACT-M-025",
@@ -6256,209 +6256,59 @@
     "F240-20261006-047-L2",
     "F240-20261006-047-M1",
     "F240-20261006-047-M2",
-    "F240-20261006-047-S1"
+    "F240-20261006-047-S1",
+    "F240-20261006-047-S2",
+    "F240-20261006-047-Y",
+    "F240-20261006-047-D",
+    "G100-20261008-WESTERN-004-L1",
+    "G100-20261008-WESTERN-004-L2",
+    "G100-20261008-WESTERN-004-M1",
+    "G100-20261008-WESTERN-004-M2",
+    "G100-20261008-WESTERN-004-S1",
+    "G100-20261008-WESTERN-004-S2",
+    "G100-20261008-WESTERN-004-Y",
+    "G100-20261008-WESTERN-004-D",
+    "E20261007-F-247-L1",
+    "E20261007-F-247-L2",
+    "E20261007-F-247-M1",
+    "E20261007-F-247-M2",
+    "E20261007-F-247-S1",
+    "E20261007-F-247-S2",
+    "E20261007-F-247-Y",
+    "E20261007-F-247-D",
+    "E20261007-F-023-L1",
+    "E20261007-F-023-L2",
+    "E20261007-F-023-M1",
+    "E20261007-F-023-M2",
+    "E20261007-F-023-S1",
+    "E20261007-F-023-S2",
+    "E20261007-F-023-Y",
+    "E20261007-F-023-D",
+    "F240-20261006-096-L1",
+    "F240-20261006-096-L2",
+    "F240-20261006-096-M1",
+    "F240-20261006-096-M2",
+    "F240-20261006-096-S1",
+    "F240-20261006-096-S2",
+    "F240-20261006-096-Y",
+    "F240-20261006-096-D",
+    "WES-L-003",
+    "WES-L-004",
+    "WES-M-003",
+    "WES-M-004",
+    "WES-S-003",
+    "WES-S-004",
+    "FF-277-YEAR",
+    "FF-277-DIRECTOR",
+    "WES-L-001",
+    "WES-L-002",
+    "WES-M-001",
+    "WES-M-002",
+    "WES-S-001",
+    "WES-S-002",
+    "WES-L-002-V1"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-047-S2",
-      "filmKey": "Past Lives|2023"
-    },
-    {
-      "id": "F240-20261006-047-Y",
-      "filmKey": "Past Lives|2023"
-    },
-    {
-      "id": "F240-20261006-047-D",
-      "filmKey": "Past Lives|2023"
-    },
-    {
-      "id": "G100-20261008-WESTERN-004-L1",
-      "filmKey": "Pat Garrett and Billy the Kid|1973"
-    },
-    {
-      "id": "G100-20261008-WESTERN-004-L2",
-      "filmKey": "Pat Garrett and Billy the Kid|1973"
-    },
-    {
-      "id": "G100-20261008-WESTERN-004-M1",
-      "filmKey": "Pat Garrett and Billy the Kid|1973"
-    },
-    {
-      "id": "G100-20261008-WESTERN-004-M2",
-      "filmKey": "Pat Garrett and Billy the Kid|1973"
-    },
-    {
-      "id": "G100-20261008-WESTERN-004-S1",
-      "filmKey": "Pat Garrett and Billy the Kid|1973"
-    },
-    {
-      "id": "G100-20261008-WESTERN-004-S2",
-      "filmKey": "Pat Garrett and Billy the Kid|1973"
-    },
-    {
-      "id": "G100-20261008-WESTERN-004-Y",
-      "filmKey": "Pat Garrett and Billy the Kid|1973"
-    },
-    {
-      "id": "G100-20261008-WESTERN-004-D",
-      "filmKey": "Pat Garrett and Billy the Kid|1973"
-    },
-    {
-      "id": "E20261007-F-247-L1",
-      "filmKey": "Paths of Glory|1957"
-    },
-    {
-      "id": "E20261007-F-247-L2",
-      "filmKey": "Paths of Glory|1957"
-    },
-    {
-      "id": "E20261007-F-247-M1",
-      "filmKey": "Paths of Glory|1957"
-    },
-    {
-      "id": "E20261007-F-247-M2",
-      "filmKey": "Paths of Glory|1957"
-    },
-    {
-      "id": "E20261007-F-247-S1",
-      "filmKey": "Paths of Glory|1957"
-    },
-    {
-      "id": "E20261007-F-247-S2",
-      "filmKey": "Paths of Glory|1957"
-    },
-    {
-      "id": "E20261007-F-247-Y",
-      "filmKey": "Paths of Glory|1957"
-    },
-    {
-      "id": "E20261007-F-247-D",
-      "filmKey": "Paths of Glory|1957"
-    },
-    {
-      "id": "E20261007-F-023-L1",
-      "filmKey": "Payback|1999"
-    },
-    {
-      "id": "E20261007-F-023-L2",
-      "filmKey": "Payback|1999"
-    },
-    {
-      "id": "E20261007-F-023-M1",
-      "filmKey": "Payback|1999"
-    },
-    {
-      "id": "E20261007-F-023-M2",
-      "filmKey": "Payback|1999"
-    },
-    {
-      "id": "E20261007-F-023-S1",
-      "filmKey": "Payback|1999"
-    },
-    {
-      "id": "E20261007-F-023-S2",
-      "filmKey": "Payback|1999"
-    },
-    {
-      "id": "E20261007-F-023-Y",
-      "filmKey": "Payback|1999"
-    },
-    {
-      "id": "E20261007-F-023-D",
-      "filmKey": "Payback|1999"
-    },
-    {
-      "id": "F240-20261006-096-L1",
-      "filmKey": "Peeping Tom|1960"
-    },
-    {
-      "id": "F240-20261006-096-L2",
-      "filmKey": "Peeping Tom|1960"
-    },
-    {
-      "id": "F240-20261006-096-M1",
-      "filmKey": "Peeping Tom|1960"
-    },
-    {
-      "id": "F240-20261006-096-M2",
-      "filmKey": "Peeping Tom|1960"
-    },
-    {
-      "id": "F240-20261006-096-S1",
-      "filmKey": "Peeping Tom|1960"
-    },
-    {
-      "id": "F240-20261006-096-S2",
-      "filmKey": "Peeping Tom|1960"
-    },
-    {
-      "id": "F240-20261006-096-Y",
-      "filmKey": "Peeping Tom|1960"
-    },
-    {
-      "id": "F240-20261006-096-D",
-      "filmKey": "Peeping Tom|1960"
-    },
-    {
-      "id": "WES-L-003",
-      "filmKey": "Per qualche dollaro in più|1965"
-    },
-    {
-      "id": "WES-L-004",
-      "filmKey": "Per qualche dollaro in più|1965"
-    },
-    {
-      "id": "WES-M-003",
-      "filmKey": "Per qualche dollaro in più|1965"
-    },
-    {
-      "id": "WES-M-004",
-      "filmKey": "Per qualche dollaro in più|1965"
-    },
-    {
-      "id": "WES-S-003",
-      "filmKey": "Per qualche dollaro in più|1965"
-    },
-    {
-      "id": "WES-S-004",
-      "filmKey": "Per qualche dollaro in più|1965"
-    },
-    {
-      "id": "FF-277-YEAR",
-      "filmKey": "Per qualche dollaro in più|1965"
-    },
-    {
-      "id": "FF-277-DIRECTOR",
-      "filmKey": "Per qualche dollaro in più|1965"
-    },
-    {
-      "id": "WES-L-001",
-      "filmKey": "Per un pugno di dollari|1964"
-    },
-    {
-      "id": "WES-L-002",
-      "filmKey": "Per un pugno di dollari|1964"
-    },
-    {
-      "id": "WES-M-001",
-      "filmKey": "Per un pugno di dollari|1964"
-    },
-    {
-      "id": "WES-M-002",
-      "filmKey": "Per un pugno di dollari|1964"
-    },
-    {
-      "id": "WES-S-001",
-      "filmKey": "Per un pugno di dollari|1964"
-    },
-    {
-      "id": "WES-S-002",
-      "filmKey": "Per un pugno di dollari|1964"
-    },
-    {
-      "id": "WES-L-002-V1",
-      "filmKey": "Per un pugno di dollari|1964"
-    },
     {
       "id": "WES-M-002-V1",
       "filmKey": "Per un pugno di dollari|1964"
