@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [TMDB-Personenlink bei allen 220 Schauspielerinnen und Schauspielern in der Auflösung – lokal am 13.10.2026](../../../docs/Lernregeln.md#tmdb-personenlink-bei-schauspielerfragen--13102026)
+
 - [Version 77: Erfolge, inkrementelle EXP und Profilabrufe veröffentlicht – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-77.json)
 
 - [Erfolge und EXP inkrementell, Profilabrufe bei Bedarf und lokaler Vergleich mit 12.000/48.000 Metadatenzeilen – 12.10.2026](../../../docs/Erfolge.md#inkrementelle-erfolgsberechnung-und-profilabrufe--lokal-am-12102026)

@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**13.10.2026 – Lokal, noch nicht veröffentlicht:** Direkte TMDB-Personenlinks in der Schauspielerauflösung, einschließlich Bilderkennung, Rundenrückblick und Duellen. Alle 220 Personen zugeordnet; Link erst zur Lösung, neuer Tab. [Anzeige und Zuordnungsprüfung](../docs/Lernregeln.md#tmdb-personenlink-bei-schauspielerfragen--13102026).
+
 **13.10.2026 – Version 77 veröffentlicht:** Erfolgsstufen, Film-/Genre-/EXP-Meilensteine und gemeinsame Profilübersicht aktiv. Zähler und EXP aus geänderten Beiträgen, Profilabrufe bei Bedarf; doppelte Aktualisierung während laufender Anfrage verhindert. 449 Tests, Build und 356 unterschiedliche erfolgreiche Browserfälle einschließlich Nachprüfungen; ein vorgesehener Skip. Drei private Migrationen aktiviert, Nutzerdaten atomar unverändert, synthetische native Prüfung zurückgerollt. Eigene Artefakte entfernt. [Nachweis](../docs/Veroeffentlichung-2026-10-13-Version-77.json).
 
 **12.10.2026 – Version 76 veröffentlicht:** Die-Maske-Rollenfrage mit natürlicher Antwort und ohne lösungsverratenden Filmtitel. Genau eine Frage und ihre Darstellung aktualisiert; Spielstände und übrige Inhalte erhalten. 435 Tests, TypeScript, Build und öffentliche Prüfungen erfolgreich. Eigene temporäre Artefakte entfernt. [Nachweis](../docs/Veroeffentlichung-2026-10-12-Version-76.json).
