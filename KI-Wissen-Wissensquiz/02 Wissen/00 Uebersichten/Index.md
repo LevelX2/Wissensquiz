@@ -2,7 +2,7 @@
 
 - [Version 78: TMDB-Porträts, Erfolgsicon, Zeitanzeige und kurze Rekordauswahl veröffentlicht – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-78.json)
 
-- [Schauspielergruppen: 176 Personen und 1.408 Fragen redaktionell fertig, 32 Personen offen – 13.10.2026, Redaktion](../../../docs/Schauspieler-Bekanntheit-2026-10-13/Plan.md)
+- [Schauspielergruppen: 200 Personen und 1.600 Fragen redaktionell fertig, 8 Personen offen – 13.10.2026, Redaktion](../../../docs/Schauspieler-Bekanntheit-2026-10-13/Plan.md)
 
 - [Kompakte Rekord-Vergleichsauswahl: „Universal“ oder Genre – 13.10.2026, Version 78](../../../docs/Rekordmodi-und-Zeitranglisten.md#kurze-vergleichsauswahl--13102026)
 

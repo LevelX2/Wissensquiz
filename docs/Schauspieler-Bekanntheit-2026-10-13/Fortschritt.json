@@ -184,7 +184,31 @@
     "ACTOR-BG-20261013-173",
     "ACTOR-BG-20261013-174",
     "ACTOR-BG-20261013-175",
-    "ACTOR-BG-20261013-176"
+    "ACTOR-BG-20261013-176",
+    "ACTOR-BG-20261013-177",
+    "ACTOR-BG-20261013-178",
+    "ACTOR-BG-20261013-179",
+    "ACTOR-BG-20261013-180",
+    "ACTOR-BG-20261013-181",
+    "ACTOR-BG-20261013-182",
+    "ACTOR-BG-20261013-183",
+    "ACTOR-BG-20261013-184",
+    "ACTOR-BG-20261013-185",
+    "ACTOR-BG-20261013-186",
+    "ACTOR-BG-20261013-187",
+    "ACTOR-BG-20261013-188",
+    "ACTOR-BG-20261013-189",
+    "ACTOR-BG-20261013-190",
+    "ACTOR-BG-20261013-191",
+    "ACTOR-BG-20261013-192",
+    "ACTOR-BG-20261013-193",
+    "ACTOR-BG-20261013-194",
+    "ACTOR-BG-20261013-195",
+    "ACTOR-BG-20261013-196",
+    "ACTOR-BG-20261013-197",
+    "ACTOR-BG-20261013-198",
+    "ACTOR-BG-20261013-199",
+    "ACTOR-BG-20261013-200"
   ],
   "blocks": [
     {
@@ -1333,7 +1357,7 @@
     },
     {
       "block": 9,
-      "status": "Recherche und Redaktion",
+      "status": "Redaktion und App-Parser-Prüfung abgeschlossen; nicht installiert",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -1480,7 +1504,11 @@
           "name": "Kyōko Kagawa",
           "level": 4
         }
-      ]
+      ],
+      "questions": 192,
+      "existingVariants": 8,
+      "newGoals": 184,
+      "portraits": 24
     },
     {
       "block": 10,
@@ -1538,15 +1566,15 @@
       ]
     }
   ],
-  "remainingPersons": 32,
+  "remainingPersons": 8,
   "remainingByGroup": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 32
+    "4": 8
   },
   "appIntegration": "ausstehend",
   "publication": "nicht beauftragt",
   "continuousCommission": "Bis vollständigem Ausgleich weiterarbeiten; abgeschlossene Blöcke lokal committen",
-  "validatedThroughEntry": 176
+  "validatedThroughEntry": 200
 }

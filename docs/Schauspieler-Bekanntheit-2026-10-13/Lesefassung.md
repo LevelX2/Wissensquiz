@@ -31317,3 +31317,4131 @@ Ritter war bereits in ihren Vierzigern, als sie als gestresste Kundin erstmals i
 Merksatz: Ritters Kinoarbeit begann mit einer Kundin im Weihnachtsgeschäft.
 
 Quellen: [1](https://www.criterion.com/current/posts/6001-least-wanted-film-noir-s-character-actors-thelma-ritter), [2](https://catalog.afi.com/Film/25270-MIRACLE-ON-34TH-STREET).
+
+## Judith Anderson · Bekanntheitsgruppe 4
+
+![Judith Anderson (1934)](Portraets/177.jpg)
+
+Bild: 1934; Carl Van Vechten. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Judith_Anderson_3.jpg), [TMDB](https://www.themoviedb.org/person/3362).
+
+### L1 · leicht
+
+Welche Figur spielt Judith Anderson in „Rebecca“?
+
+- Maxims Schwester Beatrice
+
+- Die Gesellschaftsdame Mrs. Van Hopper
+
+- **Richtig: Die Haushälterin Mrs. Danvers**
+
+- Maxims neue Ehefrau
+
+Judith Anderson spielt die Haushälterin Mrs. Danvers.
+
+Danvers hat auf Manderley die Lebensordnung der verstorbenen ersten Ehefrau bewahrt. Die neue Mrs. de Winter (Joan Fontaine) trifft daher auf eine Frau, die ihr jeden Anspruch auf den eigenen Platz im Haus streitig macht. Andersons beherrschtes Auftreten lässt den Konflikt lange als alltägliche Haushaltsführung erscheinen, obwohl Danvers die Unsicherheit ihrer neuen Herrin gezielt verstärkt.
+
+Merksatz: Andersons Mrs. Danvers beherrscht den Haushalt und verteidigt die Vergangenheit.
+
+Antwortzusätze:
+
+- Die Haushälterin Mrs. Danvers: Judith Anderson spielt die Haushälterin Mrs. Danvers.
+
+Gemeinsames Wissensziel: K-CLA-15-03 (CLA-M-029).
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/5132).
+
+### L2 · leicht
+
+In welchem Verhältnis steht Ida Pollitt (Judith Anderson) in „Die Katze auf dem heißen Blechdach“ zum Familienoberhaupt Harvey Pollitt?
+
+- Sie ist seine Schwägerin.
+
+- Sie ist seine Schwester.
+
+- Sie ist seine Cousine.
+
+- **Richtig: Sie ist seine Ehefrau.**
+
+Ida ist Harvey Pollitts Ehefrau und die Mutter von Brick und Gooper.
+
+Ida wird in der Familie Big Mama genannt, ihr Mann Big Daddy (Burl Ives). Die Feier seines Geburtstags bringt die Familie zusammen, während sein Gesundheitszustand und das künftige Erbe die Beziehungen belasten. Ida hält an der gemeinsamen Ehe und der Hoffnung auf Genesung fest. Ihre Perspektive steht damit zwischen der Zuneigung zum Ehemann und den Interessen der beiden Söhne.
+
+Merksatz: Ida und Harvey bilden das Elternpaar der Familie Pollitt.
+
+Antwortzusätze:
+
+- Sie ist seine Ehefrau.: Ida ist Harvey Pollitts Ehefrau und die Mutter von Brick und Gooper.
+
+Quellen: [1](https://catalog.afi.com/Film/52496-CAT-ON-A-HOT-TIN-ROOF).
+
+### M1 · mittel
+
+Wozu versucht Mrs. Danvers (Judith Anderson) die neue Hausherrin nach dem Kostümball in „Rebecca“ am Fenster zu bewegen?
+
+- Sie soll Danvers vor versammelten Gästen aus dem Dienst entlassen.
+
+- Sie soll mit Jack Favell das Anwesen noch vor Tagesanbruch verlassen.
+
+- Sie soll Maxim öffentlich eines Mordes beschuldigen.
+
+- **Richtig: Sie soll aus dem Fenster springen und sich das Leben nehmen.**
+
+Danvers versucht, die verzweifelte Frau zu einem tödlichen Sprung zu bewegen.
+
+Danvers hat die junge Frau bereits mit einem Kostümvorschlag gedemütigt, der Maxim (Laurence Olivier) an seine erste Ehefrau erinnert. Am Fenster behauptet sie nun, die Nachfolgerin könne niemals deren Platz einnehmen. Der Alarm wegen eines gestrandeten Schiffes unterbricht die gefährliche Beeinflussung. Die anschließend entdeckte Leiche verändert den Blick auf jene Vergangenheit, mit der Danvers ihre Herrin unter Druck setzt.
+
+Merksatz: Die Haushälterin steigert die Demütigung zum Versuch, die neue Herrin in den Tod zu treiben.
+
+Antwortzusätze:
+
+- Sie soll aus dem Fenster springen und sich das Leben nehmen.: Danvers versucht, die verzweifelte Frau zu einem tödlichen Sprung zu bewegen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Rebecca_(1940_film)).
+
+### M2 · mittel
+
+Welche Verbindung zu Shelby Carpenter bringt Ann Treadwell (Judith Anderson) in „Laura“ in den Blick der Ermittler?
+
+- **Richtig: Sie unterstützt den Verlobten ihrer Nichte mit Geld.**
+
+- Sie hat für ihn unter falschem Namen eine Wohnung gemietet.
+
+- Sie hat eine Lebensversicherung zu seinen Gunsten abgeschlossen.
+
+- Sie hat seine frühere Ehe heimlich annullieren lassen.
+
+Ann gibt Shelby, dem Verlobten ihrer Nichte Laura, Geld.
+
+Ann gehört zu den Menschen, die der Ermittler Mark McPherson (Dana Andrews) nach dem vermeintlichen Mord an Laura Hunt (Gene Tierney) aufsucht. Ihr finanzieller Einfluss auf Shelby (Vincent Price) kompliziert dessen Verlobung. Der charmante Mann ist von wohlhabenden Frauen abhängig, während Ann ihn für sich gewinnen möchte. Die Untersuchung legt damit hinter gesellschaftlicher Eleganz ein Geflecht aus Begehren und Abhängigkeit frei.
+
+Merksatz: Anns Geld verbindet sie mit dem Verlobten ihrer Nichte.
+
+Antwortzusätze:
+
+- Sie unterstützt den Verlobten ihrer Nichte mit Geld.: Ann gibt Shelby, dem Verlobten ihrer Nichte Laura, Geld.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/24042).
+
+### S1 · schwer
+
+Welches Verhalten der Tante (Judith Anderson) löst in „Die seltsame Liebe der Martha Ivers“ unmittelbar den tödlichen Angriff des Mädchens aus?
+
+- Die Tante kündigt die Einweisung des Mädchens in eine Anstalt an.
+
+- Die Tante verbrennt die Briefe der verstorbenen Mutter.
+
+- **Richtig: Die Tante beschimpft Marthas Vater und schlägt die Katze.**
+
+- Die Tante lässt den Freund des Mädchens wegen Diebstahls verhaften.
+
+Die Tante beleidigt Marthas Vater und greift ihre Katze mit einem Stock an.
+
+Die junge Martha (Janis Wilson) versucht, der Tyrannei ihrer reichen Tante zu entkommen. Nach dem Angriff schlägt sie mit demselben Stock zurück und tötet die Frau. Ihr Hauslehrer und dessen Sohn stützen die erfundene Geschichte eines fremden Eindringlings. Jahre später verbindet diese vertuschte Tat Martha (Barbara Stanwyck) und Walter (Kirk Douglas) weiterhin, obwohl sie inzwischen Ehe und gesellschaftlicher Erfolg zusammenzuhalten scheinen.
+
+Merksatz: Die Gewalt gegen das Mädchen und seine Katze endet in einer vertuschten Tötung.
+
+Antwortzusätze:
+
+- Die Tante beschimpft Marthas Vater und schlägt die Katze.: Die Tante beleidigt Marthas Vater und greift ihre Katze mit einem Stock an.
+
+Quellen: [1](https://catalog.afi.com/Film/24985-THE-STRANGE-LOVE-OF-MARTHA-IVERS).
+
+### S2 · schwer
+
+Welche verborgene Beziehung erklärt in „Verfolgt“ die Verbindung von Ma Callum (Judith Anderson) zu Jebs Familie?
+
+- **Richtig: Sie hatte eine Liebesbeziehung mit Jebs Vater.**
+
+- Sie ist die heimliche Schwester von Jebs Mutter.
+
+- Sie war die erste Ehefrau von Jebs Großvater.
+
+- Sie ist die leibliche Mutter von Jebs älterem Bruder.
+
+Ma Callum hatte eine Affäre mit Jebs Vater.
+
+Ma nimmt den Jungen nach dem Tod seiner Familie bei sich auf. Jeb (Robert Mitchum) leidet später unter bruchstückhaften Erinnerungen und wird weiter von Grant Callum (Dean Jagger) verfolgt. Im Schlusskonflikt erinnert er sich daran, wie Grant Ma mit dem getöteten Liebhaber konfrontierte. Ma beendet schließlich die Verfolgung, indem sie Grant erschießt; ihr Versuch, die Vergangenheit zu verschweigen, ist gescheitert.
+
+Merksatz: Die Ziehmutter ist durch eine frühere Liebesbeziehung mit Jebs Vergangenheit verbunden.
+
+Antwortzusätze:
+
+- Sie hatte eine Liebesbeziehung mit Jebs Vater.: Ma Callum hatte eine Affäre mit Jebs Vater.
+
+Quellen: [1](https://catalog.afi.com/Film/25304-PURSUED).
+
+### E1 · experte
+
+Welche Rolle übernahm Judith Anderson bei ihrer Broadway-Rückkehr zu „Medea“ im Jahr 1982?
+
+- Die Chorführerin
+
+- **Richtig: Die Amme**
+
+- Kreons Tochter
+
+- Jasons Gesandte
+
+Anderson kehrte als Amme zurück, nachdem sie früher die Titelrolle gespielt hatte.
+
+1947 hatte Anderson Medea in Robinson Jeffers’ Bearbeitung unter der Regie von John Gielgud gespielt und dafür einen Tony erhalten. In der späteren Wiederaufnahme wechselte sie zur Amme, während die Titelheldin von einer anderen Darstellerin verkörpert wurde. Auch diese Rückkehr brachte ihr eine Tony-Nominierung ein. Ihre Laufbahn umfasst damit zwei unterschiedliche Blickwinkel innerhalb derselben klassischen Tragödie.
+
+Merksatz: Die frühere Medea kehrt Jahrzehnte später als Amme in die Tragödie zurück.
+
+Antwortzusätze:
+
+- Die Amme: Anderson kehrte als Amme zurück, nachdem sie früher die Titelrolle gespielt hatte.
+
+Quellen: [1](https://www.ibdb.com/broadway-cast-staff/dame-judith-anderson-74327), [2](https://www.ibdb.com/broadway-production/medea-1789).
+
+### E2 · experte
+
+Welche männliche Shakespeare-Hauptfigur spielte Judith Anderson auf einer US-Tournee 1970/71?
+
+- König Lear
+
+- **Richtig: Hamlet**
+
+- Prospero
+
+- Macbeth
+
+Anderson verkörperte den Prinzen Hamlet.
+
+Das Programm der Tournee nennt ausdrücklich Dame Judith Anderson als Hamlet. William Ball führte Regie; Paul Gregory präsentierte die Aufführung gemeinsam mit dem American Conservatory Theatre. Anderson hatte die Königin Gertrude schon in einer früheren Broadway-Produktion gespielt. Die spätere Übernahme des Prinzen machte aus der erfahrenen Tragödiendarstellerin nun selbst die suchende Hauptfigur des Stücks.
+
+Merksatz: Die frühere Gertrude übernimmt später den Prinzen selbst.
+
+Antwortzusätze:
+
+- Hamlet: Anderson verkörperte den Prinzen Hamlet.
+
+Quellen: [1](https://archivesspace.binghamton.edu/public/repositories/2/archival_objects/36134), [2](https://www.ibdb.com/broadway-cast-staff/dame-judith-anderson-74327).
+
+## Dorothy Dandridge · Bekanntheitsgruppe 4
+
+![Dorothy Dandridge (1962)](Portraets/178.jpg)
+
+Bild: 1962; MGM Television. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Dorothy_Dandridge_Cain%27s_Hundred_1962.jpg), [TMDB](https://www.themoviedb.org/person/20155).
+
+### L1 · leicht
+
+Wo arbeitet die Titelfigur (Dorothy Dandridge) zu Beginn von „Carmen Jones“?
+
+- In einer Militärkantine
+
+- **Richtig: In einer Fallschirmfabrik**
+
+- In einer Munitionsspedition
+
+- In einem Armeelazarett
+
+Carmen arbeitet in einer Fallschirmfabrik.
+
+Die Handlung verlegt den Carmen-Stoff in die USA während des Zweiten Weltkriegs. Nach einem Streit am Arbeitsplatz soll der Soldat Joe (Harry Belafonte) Carmen zu den Behörden bringen. Die Begegnung verändert sein Leben und seine Verbindung zur Verlobten Cindy Lou (Olga James). Aus dem militärisch geregelten Auftrag entsteht eine Beziehung, in der Gehorsam und Besitzansprüche mit Carmens Unabhängigkeit kollidieren.
+
+Merksatz: Die Fallschirmfabrik verankert Carmen in der amerikanischen Kriegsgegenwart.
+
+Antwortzusätze:
+
+- In einer Fallschirmfabrik: Carmen arbeitet in einer Fallschirmfabrik.
+
+Quellen: [1](https://silver.afi.com/movies/detail/0100004353/).
+
+### L2 · leicht
+
+Welchen Beruf übt Jane Richards (Dorothy Dandridge) in „Bright Road“ aus?
+
+- Sozialarbeiterin
+
+- Krankenschwester
+
+- **Richtig: Grundschullehrerin**
+
+- Bibliothekarin
+
+Jane Richards beginnt als Grundschullehrerin.
+
+Jane übernimmt eine Klasse an einer ländlichen Schule in Alabama. Besonders beschäftigt sie C. T. Young (Philip Hepburn), der trotz seiner Begabung kaum am Unterricht teilnimmt. Sie sucht nach einem Zugang zu dem Jungen, dessen Familie wirtschaftlich unsicher lebt. Der Schulleiter (Harry Belafonte) bezweifelt zunächst den Erfolg, unterstützt aber ihre Bemühungen. Unterricht wird hier vor allem als Arbeit an Vertrauen und Anerkennung erzählt.
+
+Merksatz: Jane sucht als Lehrerin einen Zugang zu einem entmutigten Schüler.
+
+Antwortzusätze:
+
+- Grundschullehrerin: Jane Richards beginnt als Grundschullehrerin.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Bright_Road).
+
+### M1 · mittel
+
+Welcher Vorfall macht Joe in „Carmen Jones“ mit Dorothy Dandridge zum Deserteur?
+
+- **Richtig: Er schlägt seinen Vorgesetzten Brown nieder und fürchtet eine lange Haftstrafe.**
+
+- Er benutzt die Papiere eines gefallenen Soldaten.
+
+- Er wird beim Verkauf gestohlener Militärfahrzeuge ertappt.
+
+- Er zerstört absichtlich ein für seinen Einsatz vorgesehenes Flugzeug.
+
+Joe flieht, nachdem er seinen Vorgesetzten geschlagen hat.
+
+Joe (Harry Belafonte) könnte seine Ausbildung als Flieger fortsetzen, doch der Konflikt um Carmen bringt ihn gegen Sergeant Brown (Brock Peters) auf. Nach der Gewalttat fährt er mit Carmen nach Chicago und muss sich verborgen halten. Das erhoffte gemeinsame Leben wird dadurch zu einer engen, mittellosen Existenz. Seine wachsende Eifersucht verschärft genau jene Unfreiheit, der Carmen entkommen möchte.
+
+Merksatz: Die Attacke auf den Vorgesetzten zwingt Joe in ein Leben im Versteck.
+
+Antwortzusätze:
+
+- Er schlägt seinen Vorgesetzten Brown nieder und fürchtet eine lange Haftstrafe.: Joe flieht, nachdem er seinen Vorgesetzten geschlagen hat.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Carmen_Jones_(film)).
+
+### M2 · mittel
+
+Wohin geht Bess (Dorothy Dandridge) in „Porgy and Bess“, nachdem Sportin’ Life sie von Porgys dauerndem Verschwinden überzeugt hat?
+
+- Zu einer Fischersiedlung auf einer Insel
+
+- **Richtig: Nach New York**
+
+- Zurück auf Crowns Plantage
+
+- In ein Frauenhaus in Charleston
+
+Bess geht mit Sportin’ Life nach New York.
+
+Porgy (Sidney Poitier) wird zur Identifizierung von Crowns Leiche fortgebracht. Sportin’ Life (Sammy Davis Jr.) nutzt seine Abwesenheit, bietet Bess Drogen an und verspricht ihr ein neues Leben. Als Porgy zurückkehrt, erfährt er von ihrer Abreise. Er gibt die Beziehung dennoch nicht auf und macht sich selbst auf den Weg. Das Ende hält seine Hoffnung neben die Manipulation, die Bess aus der Gemeinschaft herausgeführt hat.
+
+Merksatz: Sportin’ Life lockt Bess nach New York; Porgy folgt ihr schließlich.
+
+Antwortzusätze:
+
+- Nach New York: Bess geht mit Sportin’ Life nach New York.
+
+Quellen: [1](https://catalog.afi.com/Film/53462-PORGY-ANDBESS?cp=1&pos=1&sid=85661b8e-7284-4850-aba7-0ef1c27bdfaa&sr=0.24894808).
+
+### S1 · schwer
+
+Welche Entscheidung trifft Aiché (Dorothy Dandridge) am Ende von „Tamango“, als sie den bedrohten Laderaum verlassen darf?
+
+- Sie flieht mit dem Schiffsarzt in einem Beiboot.
+
+- Sie verrät das Versteck des Anführers gegen ihre Freilassung.
+
+- Sie bittet den Kapitän, die Gefangenen gegen sie auszutauschen.
+
+- **Richtig: Sie bleibt bei den aufständischen Gefangenen.**
+
+Aiché bleibt bei den Gefangenen und teilt ihr tödliches Schicksal.
+
+Aiché ist selbst versklavt und zugleich die Geliebte des Kapitäns Reiker (Curd Jürgens). Während des Aufstands wird sie zum Druckmittel zwischen Besatzung und Gefangenen. Tamango (Alex Cressan) erlaubt ihr schließlich, vor dem angedrohten Kanonenschuss an Deck zurückzukehren. Sie entscheidet sich gegen die persönliche Rettung beim Kapitän. Damit löst sie sich von einer Abhängigkeit, die ihr nur scheinbar Sicherheit gegeben hat.
+
+Merksatz: Aiché verzichtet auf ihre Sonderstellung und bleibt bei den Bedrohten.
+
+Antwortzusätze:
+
+- Sie bleibt bei den aufständischen Gefangenen.: Aiché bleibt bei den Gefangenen und teilt ihr tödliches Schicksal.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Tamango), [2](https://www.tcm.com/articles/1415398/tamango).
+
+### S2 · schwer
+
+Wie deutet Carmen (Dorothy Dandridge) das Kartenorakel in „Carmen Jones“?
+
+- **Richtig: Als Vorzeichen ihres nahen Todes**
+
+- Als Warnung vor Huskys bevorstehender Niederlage
+
+- Als Versprechen einer Heirat mit Joe
+
+- Als Aufforderung, zu ihrer Großmutter zurückzukehren
+
+Carmen sieht in der gezogenen Karte ein Vorzeichen ihres Todes.
+
+Carmen beginnt das Kartenlegen zunächst spielerisch, nimmt das Ergebnis dann aber als tödliche Vorhersage ernst. Sie entscheidet sich, die verbleibende Zeit auszukosten. Zugleich versucht Joe (Harry Belafonte) immer verzweifelter, sie zurückzugewinnen. Ihre spätere Weigerung, zu ihm zurückzukehren, steht damit im Zeichen des angekündigten Endes, ohne ihren Anspruch auf eine eigene Entscheidung aufzuheben.
+
+Merksatz: Die Todesvorhersage nimmt Carmen ihren Willen zur Selbstbestimmung nicht ab.
+
+Antwortzusätze:
+
+- Als Vorzeichen ihres nahen Todes: Carmen sieht in der gezogenen Karte ein Vorzeichen ihres Todes.
+
+Quellen: [1](https://catalog.afi.com/Film/53446-CARMEN-JONES).
+
+### E1 · experte
+
+Wie arbeiteten Dorothy Dandridge und ihre Gesangsstimme Marilyn Horne für „Carmen Jones“ laut Hornes Erinnerung zusammen?
+
+- Horne sang zuerst; Dandridge entwickelte dazu ohne gemeinsame Proben die Gesten.
+
+- Beide sangen gleichzeitig, damit ihre Stimmen später gemischt werden konnten.
+
+- Dandridge sprach die Texte; Horne entwarf unabhängig davon die gesungene Betonung.
+
+- **Richtig: Dandridge sang in bequemer Tonlage vor; Horne übernahm ihre stimmlichen Nuancen.**
+
+Horne orientierte ihre Gesangsaufnahme an Dandridges vorgeführten Betonungen und Klangnuancen.
+
+Dandridge war selbst eine erfahrene Sängerin, konnte die Partie aber nicht in den vorgesehenen Tonarten übernehmen. Horne hörte ihr deshalb beim Vorsingen in einer passenden Lage zu und versuchte, ihre stimmlichen Eigenheiten nachzubilden. Nach Hornes Erinnerung arbeiteten die beiden eng mit Musikdirektor Herschel Burke Gilbert zusammen. Die gespaltene Filmstimme beruhte somit auf einem konkreten Austausch zwischen sichtbarer Darstellerin und Sängerin.
+
+Merksatz: Die Opernstimme übernimmt die persönlichen Nuancen der sichtbaren Carmen.
+
+Antwortzusätze:
+
+- Dandridge sang in bequemer Tonlage vor; Horne übernahm ihre stimmlichen Nuancen.: Horne orientierte ihre Gesangsaufnahme an Dandridges vorgeführten Betonungen und Klangnuancen.
+
+Quellen: [1](https://www.theatermania.com/news/horne-aplenty_4322/).
+
+### E2 · experte
+
+Welches Argument überzeugte Dorothy Dandridge laut dem damaligen Presseheft, die zunächst bezweifelte Rolle in „Bright Road“ anzunehmen?
+
+- Sie konnte dadurch erstmals ihre eigenen Bühnenlieder verfilmen lassen.
+
+- Sie erhielt das Recht, die Besetzung der übrigen Rollen zu bestimmen.
+
+- **Richtig: Sie sah in der Geschichte eine Chance, Verständnis zwischen Menschen zu fördern.**
+
+- Sie erwartete damit den Einstieg in eine langfristige Musicalserie.
+
+Dandridge wollte mit der Geschichte das Verständnis zwischen Menschen fördern.
+
+Dandridge erklärte zunächst, die Lehrerin scheine ihr nicht zu entsprechen, und zweifelte daran, die Rolle bewältigen zu können. Sie nahm die Herausforderung dennoch wegen der vermittelnden Kraft der Geschichte an. Der Film wurde zugleich dafür gelobt und kritisiert, wie vorsichtig er gesellschaftliche Spannungen behandelte. Ihre Entscheidung verbindet damit eine persönliche schauspielerische Herausforderung mit einer bewussten Vorstellung von der Wirkung des Kinos.
+
+Merksatz: Das vermittelnde Anliegen der Geschichte überwiegt Dandridges Zweifel an der Rolle.
+
+Antwortzusätze:
+
+- Sie sah in der Geschichte eine Chance, Verständnis zwischen Menschen zu fördern.: Dandridge wollte mit der Geschichte das Verständnis zwischen Menschen fördern.
+
+Quellen: [1](https://catalog.afi.com/Catalog/MovieDetails/53505).
+
+## Delphine Seyrig · Bekanntheitsgruppe 4
+
+![Delphine Seyrig; Aufnahmejahr nicht belegt](https://image.tmdb.org/t/p/w185/y9dTKRclY0UviYD5OuINL51tue7.jpg)
+
+Bild: Historische Aufnahme; genaues Jahr nicht belegt; Auf TMDB nicht ausgewiesen. TMDB-Onlineporträt; keine freie Lizenz behauptet. [Bildquelle](https://www.themoviedb.org/person/3508), [TMDB](https://www.themoviedb.org/person/3508).
+
+### L1 · leicht
+
+Wann sollen sich die beiden Hauptfiguren in Alain Resnais’ Film von 1961 mit Delphine Seyrig schon einmal begegnet sein?
+
+- In der Vorwoche
+
+- In frühester Kindheit
+
+- Am Vortag
+
+- **Richtig: Im Vorjahr**
+
+Er behauptet, sie hätten sich schon im Vorjahr getroffen.
+
+In „Letztes Jahr in Marienbad“ versucht der von Giorgio Albertazzi gespielte Mann, eine gemeinsame Vergangenheit herzustellen. Die Frau bestätigt seine Erinnerungen jedoch nicht eindeutig. Wiederholungen, wechselnde Versionen und die rätselhafte Umgebung des Schlosses lassen offen, was tatsächlich geschehen ist. Seyrigs zurückhaltendes Spiel hält diese Unsicherheit aufrecht: Eine scheinbar einfache Wiederbegegnung wird zu einer Untersuchung darüber, wie Erinnerung und Begehren einander beeinflussen.
+
+Merksatz: Eine behauptete Wiederbegegnung wird zur unsicheren Erinnerung.
+
+Antwortzusätze:
+
+- Im Vorjahr: Er behauptet, sie hätten sich schon im Vorjahr getroffen.
+
+Quellen: [1](https://www.criterion.com/films/1517-last-year-at-marienbad).
+
+### L2 · leicht
+
+Mit wem lebt Jeanne Dielman (Delphine Seyrig) im gleichnamigen Film zusammen?
+
+- Mit ihrer erwachsenen Schwester
+
+- Mit ihrer pflegebedürftigen Mutter
+
+- **Richtig: Mit ihrem heranwachsenden Sohn**
+
+- Mit ihrem getrennt lebenden Ehemann
+
+Die verwitwete Jeanne lebt mit ihrem Sohn zusammen.
+
+Jeannes Alltag umfasst Einkäufe, Kochen und die Versorgung ihres Sohnes Sylvain (Jan Decorte). Daneben empfängt sie zahlende Männer in der Wohnung. Chantal Akerman gibt den gewöhnlichen Handgriffen ungewöhnlich viel Zeit. Dadurch wird die sorgfältig geordnete Haushaltsführung selbst zum dramatischen Geschehen: Kleine Veränderungen fallen ins Gewicht, weil der Film zunächst die wiederkehrenden Abläufe genau erfahrbar macht.
+
+Merksatz: Mutter und Sohn teilen eine Wohnung und einen streng geordneten Alltag.
+
+Antwortzusätze:
+
+- Mit ihrem heranwachsenden Sohn: Die verwitwete Jeanne lebt mit ihrem Sohn zusammen.
+
+Quellen: [1](https://www.criterion.com/films/302).
+
+### M1 · mittel
+
+Warum gerät Antoine durch seine Anziehung zu Fabienne (Delphine Seyrig) in „Gestohlene Küsse“ in einen beruflichen Interessenkonflikt?
+
+- Sie ist die Vorgesetzte seiner Verlobten.
+
+- **Richtig: Sie ist die Frau des Auftraggebers seiner Detektei.**
+
+- Sie soll als Zeugin gegen seinen Chef aussagen.
+
+- Sie leitet eine konkurrierende Detektei.
+
+Fabienne ist mit einem Auftraggeber von Antoines Detektei verheiratet.
+
+Antoine Doinel (Jean-Pierre Léaud) arbeitet getarnt im Schuhgeschäft von Monsieur Tabard (Michel Lonsdale). Statt die Sorgen des Kunden mit professioneller Distanz zu untersuchen, verliebt er sich in dessen Frau. Fabienne erwidert sein Interesse. So verbinden sich Antoines unsichere Berufslaufbahn und seine wechselnden Liebesbindungen unmittelbar miteinander; der junge Ermittler wird selbst zum Teil jener Verwicklungen, die er beobachten sollte.
+
+Merksatz: Der Ermittler verliebt sich in die Frau seines Auftraggebers.
+
+Antwortzusätze:
+
+- Sie ist die Frau des Auftraggebers seiner Detektei.: Fabienne ist mit einem Auftraggeber von Antoines Detektei verheiratet.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Stolen_Kisses), [2](https://www.criterion.com/films/732).
+
+### M2 · mittel
+
+Womit verdient Hélène (Delphine Seyrig) in „Muriel“ ihren Lebensunterhalt?
+
+- Sie arbeitet als Immobilienmaklerin.
+
+- **Richtig: Sie handelt mit Antiquitäten.**
+
+- Sie führt eine Pension.
+
+- Sie betreibt eine Schneiderei.
+
+Hélène handelt mit Antiquitäten.
+
+Die verwitwete Hélène lebt in Boulogne-sur-Mer, wo ein früherer Geliebter wieder in ihr Leben tritt. Ihr Stiefsohn trägt Erinnerungen an den Algerienkrieg mit sich. Der Handel mit alten Dingen passt zu einer Gegenwart, die ständig von Vergangenem durchzogen wird. Alain Resnais verbindet die privaten Begegnungen mit einer fragmentierten Erzählweise, in der vertraute Orte und Beziehungen ihre Sicherheit verlieren.
+
+Merksatz: Hélène verkauft alte Gegenstände, während die Vergangenheit in ihr Leben zurückkehrt.
+
+Antwortzusätze:
+
+- Sie handelt mit Antiquitäten.: Hélène handelt mit Antiquitäten.
+
+Quellen: [1](https://www.criterion.com/films/28635-muriel-or-the-time-of-return).
+
+### S1 · schwer
+
+Wie verbindet „India Song“ die sichtbare Darstellung Delphine Seyrigs mit den gesprochenen Stimmen?
+
+- **Richtig: Stimmen aus dem Off begleiten die weitgehend stummen Figuren.**
+
+- Zwischentitel ersetzen die gesprochenen Erinnerungen.
+
+- Sie kommentiert ihre Handlungen direkt in die Kamera.
+
+- Die Gespräche werden als gewöhnlicher synchroner Dialog inszeniert.
+
+Die Stimmen kommen aus dem Off, während die sichtbaren Figuren weitgehend stumm bleiben.
+
+Seyrig verkörpert Anne-Marie Stretter in einer von kolonialer Abgeschlossenheit geprägten Gesellschaft. Die Körper bewegen sich langsam durch Räume und Tänze, während Stimmen Erinnerungen, Gerüchte und Leid heraufbeschwören. Selbst die Verzweiflung des Vizekonsuls dringt als Klang in Bilder äußerer Ruhe ein. Marguerite Duras trennt damit das sichtbare Verhalten von einer eindeutigen psychologischen Erklärung durch Dialog.
+
+Merksatz: Sichtbare Körper und erzählende Stimmen gehören unterschiedlichen Ebenen an.
+
+Antwortzusätze:
+
+- Stimmen aus dem Off begleiten die weitgehend stummen Figuren.: Die Stimmen kommen aus dem Off, während die sichtbaren Figuren weitgehend stumm bleiben.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/interviews/marguerite-duras-india-song-colonial-guilt).
+
+### S2 · schwer
+
+Wer ist die nicht sichtbar auftretende Muriel im Film mit Delphine Seyrig?
+
+- Hélènes vermisste Schwester aus der Besatzungszeit
+
+- Alphonses zurückgelassene Ehefrau
+
+- **Richtig: Eine in Algerien gefolterte und getötete Frau**
+
+- Eine frühere Geliebte Hélènes
+
+Muriel ist eine in Algerien gefolterte und getötete Frau.
+
+Bernard (Jean-Baptiste Thiérrée), der Stiefsohn von Hélène (Seyrig), kann diese Erinnerung aus seinem Militärdienst nicht verdrängen. Muriel erhält keine eigene sichtbare Szene; ihre Geschichte kehrt durch das Erzählen zurück. Neben Hélènes beschönigender oder ausweichender Erinnerung steht damit eine Gewalterfahrung, die sich nicht beruhigen lässt. Der private Besuch eines früheren Geliebten und die verdrängte Kolonialgeschichte bilden unterschiedliche Formen einer fortwirkenden Vergangenheit.
+
+Merksatz: Eine unsichtbare Tote macht die Gewalt des Algerienkriegs gegenwärtig.
+
+Antwortzusätze:
+
+- Eine in Algerien gefolterte und getötete Frau: Muriel ist eine in Algerien gefolterte und getötete Frau.
+
+Quellen: [1](https://www.criterion.com/current/posts/4140-muriel-or-the-time-of-return-ashes-of-time).
+
+### E1 · experte
+
+Welche Arbeitsweise förderte laut Delphine Seyrig die Vertrautheit der Gespräche in ihrem Dokumentarfilm „Sois belle et tais-toi!“?
+
+- **Richtig: Zwei filmende Frauen und die gemeinsame Berufserfahrung als Schauspielerinnen**
+
+- Moderierte Gruppengespräche mit gegenseitigen Rückfragen der Gäste
+
+- Eine Journalistin mit zuvor schriftlich abgestimmten Fragen
+
+- Ein Studioteam mit Filmvorführungen als Gesprächsanstoß
+
+Seyrig betonte das kleine Team und die gemeinsame Erfahrung als Schauspielerinnen.
+
+Seyrig und Carole Roussopoulos filmten die Gespräche zu zweit. Französische und amerikanische Schauspielerinnen berichten darin von Arbeitsbedingungen, Rollenbildern und Erfahrungen mit Regisseuren und Filmteams. Seyrig erklärte, der gemeinsame Beruf habe eine besondere Nähe ermöglicht. Der Wechsel hinter die Kamera eröffnete ihr damit einen Raum, in dem Kolleginnen ihre eigenen Erfahrungen formulieren konnten, statt lediglich vorgegebene Figuren zu verkörpern.
+
+Merksatz: Die Kollegin hinter der Kamera schafft Raum für die Erfahrungen anderer Schauspielerinnen.
+
+Antwortzusätze:
+
+- Zwei filmende Frauen und die gemeinsame Berufserfahrung als Schauspielerinnen: Seyrig betonte das kleine Team und die gemeinsame Erfahrung als Schauspielerinnen.
+
+Quellen: [1](https://www.bnf.fr/sites/default/files/2025-09/CP-Sois-belle-et-tais-toi-BnF.pdf).
+
+### E2 · experte
+
+Welches Anliegen stand bei dem von Delphine Seyrig mitgegründeten Centre audiovisuel Simone de Beauvoir im Mittelpunkt?
+
+- Ein internationales Festival für kommerzielle Liebesfilme zu veranstalten
+
+- Eine Schauspielschule mit eigenen Abschlussprüfungen aufzubauen
+
+- Eine Agentur zur Vermittlung französischer Darstellerinnen einzurichten
+
+- **Richtig: Audiovisuelle Zeugnisse über Frauen zu bewahren und neue Arbeiten zu ermöglichen**
+
+Das Zentrum sollte audiovisuelle Dokumente über Frauen bewahren und neue Arbeiten ermöglichen.
+
+Seyrig gründete das Zentrum gemeinsam mit Carole Roussopoulos und Ioana Wieder. Alle drei verbanden feministisches Engagement mit eigener Videoarbeit. Ihr Vorhaben umfasste Dokumente zur Geschichte von Frauen, ihren Rechten, Kämpfen und künstlerischen Arbeiten; zugleich wollten sie weiter selbst Filme herstellen. Seyrigs Arbeit hinter der Kamera mündete damit auch in eine Einrichtung, die solche Bilder für andere zugänglich halten sollte.
+
+Merksatz: Aus eigener Videoarbeit entsteht ein Ort für Bewahrung und weitere Produktion.
+
+Antwortzusätze:
+
+- Audiovisuelle Zeugnisse über Frauen zu bewahren und neue Arbeiten zu ermöglichen: Das Zentrum sollte audiovisuelle Dokumente über Frauen bewahren und neue Arbeiten ermöglichen.
+
+Quellen: [1](https://www.centre-simone-de-beauvoir.com/qui-sommes-nous/notre-histoire/).
+
+## Emmanuelle Riva · Bekanntheitsgruppe 4
+
+![Emmanuelle Riva (1962)](Portraets/180.jpg)
+
+Bild: 1962; Jack de Nijs for Anefo. CC0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Emmanuelle_Riva_(1962).jpg), [TMDB](https://www.themoviedb.org/person/267962).
+
+### L1 · leicht
+
+Welchen Beruf hat die französische Hauptfigur (Emmanuelle Riva) in „Hiroshima mon amour“?
+
+- **Richtig: Schauspielerin**
+
+- Journalistin
+
+- Dolmetscherin
+
+- Ärztin
+
+Die Französin ist Schauspielerin.
+
+In Hiroshima begegnet sie einem japanischen Architekten (Eiji Okada). Aus der kurzen Affäre entstehen Gespräche, in denen persönliche Liebeserfahrungen und die Folgen des Krieges einander berühren. Alain Resnais verbindet Gegenwart und Erinnerung, während Marguerite Duras den Figuren eine stark rhythmisierte Sprache gibt. Rivas Darstellung trägt die Spannung zwischen dem Bedürfnis zu erzählen und der Angst, durch das Erzählen etwas unwiederbringlich zu verlieren.
+
+Merksatz: Eine französische Schauspielerin und ein japanischer Architekt begegnen einander.
+
+Antwortzusätze:
+
+- Schauspielerin: Die Französin ist Schauspielerin.
+
+Quellen: [1](https://www.criterion.com/films/217).
+
+### L2 · leicht
+
+Welchen Beruf hatte Anne (Emmanuelle Riva) in „Liebe“ vor ihrem Ruhestand?
+
+- Übersetzerin
+
+- **Richtig: Musiklehrerin**
+
+- Ärztin
+
+- Architektin
+
+Anne war Musiklehrerin.
+
+Anne und Georges (Jean-Louis Trintignant) sind ein kultiviertes Paar in ihren Achtzigern. Auch ihre Tochter Eva (Isabelle Huppert) ist Musikerin, lebt aber mit ihrer Familie im Ausland. Als Anne einen Anfall erleidet, wird die lange gewachsene Bindung des Paares auf eine schwere Probe gestellt. Der gemeinsame musikalische Hintergrund gehört zu jener vertrauten Lebenswelt, deren Selbstverständlichkeit nun verloren geht.
+
+Merksatz: Die ehemalige Musiklehrerin verliert die Sicherheit ihres vertrauten Alltags.
+
+Antwortzusätze:
+
+- Musiklehrerin: Anne war Musiklehrerin.
+
+Gemeinsames Wissensziel: K-E20261007-F-044-L1 (E20261007-F-044-L1).
+
+Quellen: [1](https://www.sonyclassics.com/amour/amour_presskit.pdf).
+
+### M1 · mittel
+
+Welche religiöse Haltung hat Barny (Emmanuelle Riva) zu Beginn von „Léon Morin, prêtre“?
+
+- Sie gehört einer protestantischen Freikirche an.
+
+- Sie orientiert sich am jüdischen Glauben ihres Mannes.
+
+- Sie hält am strengen katholischen Glauben fest.
+
+- **Richtig: Sie versteht sich als Atheistin.**
+
+Barny begegnet dem Priester zunächst als Atheistin.
+
+Die verwitwete Mutter lebt im besetzten Frankreich. Ihr Kontakt mit dem Priester Léon Morin (Jean-Paul Belmondo) führt zu Gesprächen über Glauben und zu einer zunehmenden persönlichen Anziehung. Religiöse Auseinandersetzung und Begehren lassen sich für sie immer weniger trennen. Jean-Pierre Melville erzählt die Begegnungen aus der Nähe ihrer Erfahrungen, während Morins geistliches Selbstverständnis eine Grenze zwischen beiden aufrechterhält.
+
+Merksatz: Aus atheistischer Distanz entstehen Gespräche über Glauben und Begehren.
+
+Antwortzusätze:
+
+- Sie versteht sich als Atheistin.: Barny begegnet dem Priester zunächst als Atheistin.
+
+Quellen: [1](https://cineuropa.org/en/film/401054/), [2](https://www.criterion.com/films/27660-leon-morin-priest).
+
+### M2 · mittel
+
+Warum sagt Bernard in „Thérèse Desqueyroux“ zugunsten seiner des Giftanschlags beschuldigten Frau (Emmanuelle Riva) falsch aus?
+
+- **Richtig: Er möchte den Familiennamen vor einem Skandal schützen.**
+
+- Er hält die Vergiftung für ein Versehen.
+
+- Er glaubt, damit seine Schwester als Täterin zu decken.
+
+- Er will seiner Frau aus fortdauernder Liebe die Strafe ersparen.
+
+Bernard will verhindern, dass der Familienname durch den Prozess beschmutzt wird.
+
+Seine Aussage bewirkt, dass das Verfahren gegen Thérèse nicht weitergeführt wird. Der juristische Ausgang bedeutet jedoch keine freie oder versöhnte Beziehung. Auf dem Heimweg erinnert sie sich an die Vorgeschichte und überlegt, wie sie ihrem Mann begegnen soll. Georges Franjus Verfilmung des Romans von François Mauriac stellt damit das gesellschaftliche Ansehen der Familie neben eine Ehe, in der die persönliche Verständigung misslingt.
+
+Merksatz: Die Familie rettet ihren Namen, ohne den Ehekonflikt zu lösen.
+
+Antwortzusätze:
+
+- Er möchte den Familiennamen vor einem Skandal schützen.: Bernard will verhindern, dass der Familienname durch den Prozess beschmutzt wird.
+
+Quellen: [1](https://www.cinematheque.fr/film/48627.html).
+
+### S1 · schwer
+
+Warum wird der Französin (Emmanuelle Riva) in ihrer Erinnerung an Nevers in „Hiroshima mon amour“ der Kopf geschoren?
+
+- Wegen der Flucht aus einem Gefängnis
+
+- **Richtig: Wegen ihrer Liebesbeziehung zu einem deutschen Soldaten**
+
+- Wegen der Denunziation eines Widerstandskämpfers
+
+- Wegen eines verweigerten Arbeitsdienstes
+
+Sie wird wegen ihrer Liebe zu einem deutschen Besatzungssoldaten geschoren.
+
+Der junge Soldat wird bei der Befreiung von Nevers tödlich getroffen. Nach der öffentlichen Demütigung wird die junge Frau von ihren Eltern zu Hause verborgen. Die neue Begegnung in Japan ruft diesen verdrängten Verlust wieder auf. Ihre Erzählung verbindet Liebe, Scham und die Angst vor dem Vergessen; sie erklärt, weshalb eine gegenwärtige Nähe zugleich als Gefahr einer erneuten schmerzhaften Trennung erscheint.
+
+Merksatz: Die neue Liebe ruft die bestrafte Liebe aus der Besatzungszeit zurück.
+
+Antwortzusätze:
+
+- Wegen ihrer Liebesbeziehung zu einem deutschen Soldaten: Sie wird wegen ihrer Liebe zu einem deutschen Besatzungssoldaten geschoren.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Hiroshima_mon_amour).
+
+### S2 · schwer
+
+Warum lässt Barny (Emmanuelle Riva) ihre Tochter in „Léon Morin, prêtre“ katholisch taufen?
+
+- Sie will eine Aufnahme in ein kirchliches Internat erreichen.
+
+- Sie betrachtet die Taufe als Abschluss ihres eigenen Übertritts.
+
+- **Richtig: Sie hofft, das Kind jüdischer Herkunft vor Verfolgung zu schützen.**
+
+- Sie erfüllt damit den letzten Wunsch der katholischen Großmutter.
+
+Die Taufe soll ihre Tochter vor der Verfolgung als jüdisches Kind schützen.
+
+Barnys verstorbener Mann war Jude; die Herkunft der Tochter wird während der Besatzung zur Gefahr. Die äußerlich religiöse Handlung entspringt daher zunächst einem Schutzbedürfnis der Mutter. Das unterscheidet sie von Barnys späterer persönlicher Auseinandersetzung mit dem Glauben. Der Film verknüpft ihre Gespräche mit dem Priester mit einem Alltag, in dem politische Gewalt selbst intime Entscheidungen über Familie und Zugehörigkeit bestimmt.
+
+Merksatz: Die Taufe ist zunächst ein Versuch, ein gefährdetes Kind zu schützen.
+
+Antwortzusätze:
+
+- Sie hofft, das Kind jüdischer Herkunft vor Verfolgung zu schützen.: Die Taufe soll ihre Tochter vor der Verfolgung als jüdisches Kind schützen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/L%C3%A9on_Morin,_Priest), [2](https://cineuropa.org/en/film/401054/).
+
+### E1 · experte
+
+Welche Gestaltung von Emmanuelle Rivas Todesszene in „Kapò“ kritisierte Jacques Rivette in „De l’Abjection“?
+
+- Den Schnitt von der Figur auf ein leeres Wachhaus
+
+- Eine Montage aus Reaktionen anderer Gefangener
+
+- **Richtig: Eine Kamerafahrt zur ästhetisch arrangierten Leiche am Stacheldraht**
+
+- Den Wechsel zu einem entfernten Überblick über das Lager
+
+Rivette kritisierte die vorwärtsfahrende Kamera und die gezielte Komposition der Leiche.
+
+Rivas Figur wirft sich an den elektrischen Lagerzaun. Rivette wandte sich dagegen, wie Gillo Pontecorvos Inszenierung den toten Körper anschließend ins Bild setzt: Die Fahrt und die Platzierung der erhobenen Hand erschienen ihm moralisch verwerflich. Aus der konkreten Einstellung entstand eine anhaltende Debatte darüber, ob filmische Gestaltung historisches Leiden verständlich macht oder es zu einem wirkungsvollen ästhetischen Gegenstand formt.
+
+Merksatz: Eine Kamerabewegung wird zur Frage des moralischen Blicks auf Leiden.
+
+Antwortzusätze:
+
+- Eine Kamerafahrt zur ästhetisch arrangierten Leiche am Stacheldraht: Rivette kritisierte die vorwärtsfahrende Kamera und die gezielte Komposition der Leiche.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/features/so-nobody-can-lie-sam-fullers-falkenau-morality-tracking-shots).
+
+### E2 · experte
+
+Was hielt Emmanuelle Riva in ihren eigenen Fotografien während des Aufenthalts für „Hiroshima mon amour“ besonders fest?
+
+- Nachgestellte Erinnerungsbilder für den Filmschnitt
+
+- Systematische Porträtserien für die Besetzung des Films
+
+- Ausgewählte Kostümproben als Anleitung für spätere Anschlüsse
+
+- **Richtig: Straßen, Flussviertel und Menschen im wiederaufgebauten Alltag**
+
+Riva fotografierte die Stadt und ihre Menschen, besonders die Flussviertel und Kinder.
+
+Mit einer in Japan gekauften Kamera erkundete Riva die Stadt zu Fuß. Sie erklärte später, die Begegnungen hätten ihr intuitiv auch beim Aufbau ihrer Figur geholfen. Ihre Bilder zeigen unter anderem Holzhaussiedlungen am Fluss, die bald verschwanden. Jahrzehnte später wurden die Aufnahmen aus ihrem privaten Bestand ausgestellt und veröffentlicht. Aus einem persönlichen Blick während der Filmarbeit wurde so ein seltenes Zeugnis einer Stadt im Wandel.
+
+Merksatz: Der eigene Blick der Schauspielerin bewahrt einen verschwundenen städtischen Alltag.
+
+Antwortzusätze:
+
+- Straßen, Flussviertel und Menschen im wiederaufgebauten Alltag: Riva fotografierte die Stadt und ihre Menschen, besonders die Flussviertel und Kinder.
+
+Quellen: [1](https://www.cinematheque.fr/article/987.html), [2](https://www.mfj.gr.jp/evenement/hiroshima-1958-traces/).
+
+## Anna Karina · Bekanntheitsgruppe 4
+
+![Anna Karina (1968)](Portraets/181.jpg)
+
+Bild: 1968; Joost Evers / Anefo. CC0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Aankomst_Franse_filmster_Anna_Karina_op_Schiphol,_Bestanddeelnr_921-0590.jpg), [TMDB](https://www.themoviedb.org/person/18197).
+
+### L1 · leicht
+
+Wodurch verdient Anna Karinas Nana in „Vivre sa vie“ schließlich ihren Lebensunterhalt?
+
+- Als Krankenschwester
+
+- Durch Modefotografie
+
+- Als Journalistin
+
+- **Richtig: Durch Prostitution**
+
+Nana gerät in die Prostitution.
+
+Die junge Pariserin träumt zunächst davon, Schauspielerin zu werden. Godard erzählt ihren Abstieg in getrennten Bildern und Episoden; neben Gesprächen stehen alltägliche Gesten und Tanz.
+
+Merksatz: Nanas Schauspieltraum zerbricht.
+
+Quellen: [1](https://www.criterion.com/films/3060-vivre-sa-vie).
+
+### L2 · leicht
+
+Welchen Wunsch verfolgt Anna Karinas Angéla in „Eine Frau ist eine Frau“?
+
+- Sie möchte nach Amerika ziehen.
+
+- **Richtig: Sie möchte ein Kind bekommen.**
+
+- Sie möchte ein Hotel eröffnen.
+
+- Sie möchte ihren Beruf aufgeben.
+
+Angéla möchte Mutter werden.
+
+Ihr Partner Émile (Jean-Claude Brialy) will diesen Wunsch nicht erfüllen. Sein Freund Alfred (Jean-Paul Belmondo) macht aus dem Streit eine Dreieckskonstellation, die Godard mit Musik und spielerischen Unterbrechungen inszeniert.
+
+Merksatz: Angélas Kinderwunsch bringt das Dreieck in Bewegung.
+
+Quellen: [1](https://www.criterion.com/films/854-a-woman-is-a-woman).
+
+### M1 · mittel
+
+Durch welches Pariser Museum rennt Anna Karina mit ihren beiden Partnern in „Die Außenseiterbande“?
+
+- Musée Carnavalet
+
+- Musée Rodin
+
+- **Richtig: Louvre**
+
+- Musée de l'Orangerie
+
+Das Trio rennt durch den Louvre.
+
+Die Kriminalgeschichte handelt von einer jungen Frau und zwei Verehrern, die einen Raub planen. Der Museumslauf unterbricht diesen Plan ebenso spielerisch wie der gemeinsame Tanz in einer Bar.
+
+Merksatz: Ein Raubfilm macht einen Umweg durchs Museum.
+
+Quellen: [1](https://www.bfi.org.uk/film/3db2a35f-aa01-5b9e-a6d8-2ab5a148a5bc/bande-a-part).
+
+### M2 · mittel
+
+Was kann Anna Karinas Natacha am Ende von „Alphaville“ gegenüber Lemmy Caution ausdrücken?
+
+- Dass sie ihm misstraut
+
+- Dass sie seinen Auftrag übernimmt
+
+- **Richtig: Dass sie ihn liebt**
+
+- Dass sie zurückkehren möchte
+
+Natacha bringt eine Liebeserklärung hervor.
+
+Die von einem Computer beherrschte Gesellschaft richtet sich gegen selbstständiges Denken und Gefühle. Natachas eigener Liebessatz setzt am Ende ein menschliches Zeichen gegen diese Ordnung.
+
+Merksatz: Natacha findet Worte für ihre Liebe.
+
+Gemeinsames Wissensziel: K-F240-20261006-195-S2 (F240-20261006-195-S2).
+
+Quellen: [1](https://www.criterion.com/current/posts/38-alphaville).
+
+### S1 · schwer
+
+Welchen Stummfilm sieht Anna Karinas Nana im Kino von „Vivre sa vie“?
+
+- Der letzte Mann
+
+- **Richtig: Die Passion der Jungfrau von Orléans**
+
+- Die Mutter
+
+- Die Büchse der Pandora
+
+Sie sieht Dreyers „Die Passion der Jungfrau von Orléans“.
+
+Godard zeigt Nana als Zuschauerin eines anderen Films. Die Begegnung mit dem leidenden Gesicht der Jeanne d’Arc unterbricht ihre eigene Geschichte und gehört zu den bekanntesten Momenten dieser Rolle.
+
+Merksatz: Nana begegnet Jeanne d’Arc im Kino.
+
+Quellen: [1](https://www.criterion.com/films/3060-vivre-sa-vie).
+
+### S2 · schwer
+
+Welche Erfahrung brachte Anna Karina für ihre Hauptrolle in Jacques Rivettes „Die Nonne“ bereits mit?
+
+- **Richtig: Sie hatte Suzanne schon auf der Bühne gespielt.**
+
+- Sie hatte eine Stummfilmfassung synchronisiert.
+
+- Sie hatte die Geschichte fürs Radio bearbeitet.
+
+- Sie hatte den Roman übersetzt.
+
+Karina hatte Suzanne zuvor unter Rivettes Regie am Theater gespielt.
+
+Sie kannte den klassischen Text daher bereits genau. Im Interview beschreibt sie Rivettes ausdauernde Probenarbeit; die Verfilmung folgte erst Jahre nach der Bühnenfassung.
+
+Merksatz: Suzanne führte von der Bühne zum Film.
+
+Quellen: [1](https://www.cinematheque.fr/article/1502.html).
+
+### E1 · experte
+
+Wie beschreibt Anna Karina die scheinbar improvisierten Dialoge in ihren Filmen mit Godard?
+
+- Die Schauspieler entwickelten sie in Gruppengesprächen.
+
+- Sie wurden meist erst bei der Synchronisation formuliert.
+
+- Sie entstanden aus heimlich aufgenommenen Alltagsgesprächen.
+
+- **Richtig: Sie waren weitgehend genau geschrieben und wurden geprobt.**
+
+Die natürlich wirkenden Dialoge waren weitgehend genau vorgegeben.
+
+Karina widerspricht dem Eindruck freier Improvisation. Gute Einfälle konnten übernommen werden, ansonsten galt der Wortlaut; selbst spät übergebene Texte mussten mit Bewegungen und Kameraführung zusammenspielen.
+
+Merksatz: Natürliche Wirkung konnte genaue Arbeit verlangen.
+
+Quellen: [1](https://www.cinematheque.fr/article/1502.html), [2](https://www.bfi.org.uk/features/anna-karina-2-3-things-we-now-know-about-her).
+
+### E2 · experte
+
+Welche Produktionslösung nutzte Anna Karina für ihre erste eigene Regiearbeit „Vivre ensemble“?
+
+- **Richtig: Ihre eigene Wohnung wurde zum Drehstudio eingerichtet.**
+
+- Ein Ferienhotel diente als geschlossenes Atelier.
+
+- Ein befreundetes Theater stellte seine Bühne bereit.
+
+- Eine stillgelegte Schule wurde zum Wohnhaus umgebaut.
+
+Ein Teil der Produktion entstand in ihrer eigenen Wohnung.
+
+Kameramann Claude Agostini richtete dort ein Studio ein. Karina beteiligte sich mit eigenem Geld an dem kleinen Projekt und war danach nach eigener Aussage lange finanziell erschöpft.
+
+Merksatz: Die eigene Wohnung trug den Regieanfang.
+
+Quellen: [1](https://www.cinematheque.fr/article/1502.html).
+
+## Anouk Aimée · Bekanntheitsgruppe 4
+
+![Anouk Aimée (1952)](Portraets/182.jpg)
+
+Bild: 1952; Studio Harcourt. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Anouk_Aim%C3%A9e_Harcourt_1952.jpg), [TMDB](https://www.themoviedb.org/person/5682).
+
+### L1 · leicht
+
+Welchen Beruf hat Anouk Aimées Titelfigur in Jacques Demys „Lola“?
+
+- **Richtig: Sie tritt als Cabaret-Künstlerin auf.**
+
+- Sie ist Modedesignerin.
+
+- Sie ist Lehrerin.
+
+- Sie arbeitet als Ärztin.
+
+Lola arbeitet als Cabaret-Künstlerin.
+
+In Nantes begegnen sich Menschen mit unterschiedlichen Liebeshoffnungen. Roland (Marc Michel) verliebt sich in Lola; sie wartet weiterhin auf einen früheren Geliebten und erwidert seine Gefühle nicht.
+
+Merksatz: Lolas Bühne liegt in Nantes.
+
+Quellen: [1](https://www.criterion.com/films/27932-lola).
+
+### L2 · leicht
+
+Was verbindet Anouk Aimées Anne und Jean-Louis Duroc in „Ein Mann und eine Frau“ bereits bei ihrer Begegnung?
+
+- Beide sind aus Frankreich ausgewandert.
+
+- **Richtig: Beide haben ihren Ehepartner verloren.**
+
+- Beide arbeiten als Schauspieler.
+
+- Beide haben gerade geheiratet.
+
+Beide sind verwitwet und haben ein Kind.
+
+Anne arbeitet beim Film, Jean-Louis (Jean-Louis Trintignant) fährt Rennen. Ihre neue Zuneigung begegnet den Erinnerungen an die verstorbenen Partner; eine Liebesgeschichte beginnt unter dem Einfluss früherer Bindungen.
+
+Merksatz: Neue Liebe nach einem Verlust.
+
+Quellen: [1](https://www.criterion.com/films/34966-a-man-and-a-woman).
+
+### M1 · mittel
+
+Welche Beziehung hat Anouk Aimées Luisa zum Regisseur Guido Anselmi in „8½“?
+
+- Sie ist seine Schwester.
+
+- Sie ist seine Produzentin.
+
+- **Richtig: Sie ist seine Ehefrau.**
+
+- Sie ist seine frühere Schauspielschülerin.
+
+Luisa ist Guidos Ehefrau.
+
+Guido (Marcello Mastroianni) lädt sowohl Luisa als auch seine Geliebte Carla (Sandra Milo) an den Kurort ein. Seine berufliche Krise lässt sich deshalb nicht von den Menschen trennen, deren Erwartungen er auszuweichen versucht.
+
+Merksatz: Luisa kennt den Menschen hinter Guidos Künstlerkrise.
+
+Quellen: [1](https://www.criterion.com/current/posts/8675-8-1-2-the-beautiful-confusion).
+
+### M2 · mittel
+
+Welche Verbindung besteht zwischen Anouk Aimées Rollen in „Lola“ und „Model Shop“?
+
+- Sie spielt die Mutter und später ihre Tochter.
+
+- **Richtig: Sie spielt dieselbe Frau in verschiedenen Lebensphasen.**
+
+- Sie spielt eine Darstellerin und deren Filmrolle.
+
+- Sie spielt zwei Schwestern auf verschiedenen Kontinenten.
+
+In beiden Filmen spielt Aimée Lola.
+
+Demy versetzt die Figur später nach Los Angeles. Aus der Cabaret-Künstlerin in Nantes wird eine Frau, die gegen Geld für Fotografen posiert und sich aus ihrer amerikanischen Lebenslage lösen möchte.
+
+Merksatz: Lola reist durch Demys Filme weiter.
+
+Quellen: [1](https://www.cinematheque.fr/exposition/le-monde-enchante-de-jacques-demy.html).
+
+### S1 · schwer
+
+Auf wen wartet Anouk Aimées Lola trotz Rolands Zuneigung?
+
+- Auf einen früheren Bühnenpartner
+
+- Auf einen vermissten Bruder
+
+- Auf ihren ersten Musiklehrer
+
+- **Richtig: Auf den Vater ihres Sohnes**
+
+Sie wartet auf die Rückkehr des Vaters ihres Sohnes.
+
+Roland ist ein Freund aus ihrer Kindheit. Die erneute Nähe zu ihm beseitigt ihre alte Hoffnung nicht: Gegenwärtige Begegnungen und ein abwesender Geliebter stehen nebeneinander.
+
+Merksatz: Lolas Hoffnung hält an einer Abwesenheit fest.
+
+Quellen: [1](https://www.cinematheque.fr/exposition/le-monde-enchante-de-jacques-demy.html).
+
+### S2 · schwer
+
+In „Der Sprung ins Leere“ spielt Anouk Aimée Marta. Welche Beziehung bestimmt ihren Konflikt mit dem von Michel Piccoli gespielten Richter?
+
+- **Richtig: Sie ist seine Schwester.**
+
+- Sie ist seine frühere Mandantin.
+
+- Sie ist seine geschiedene Frau.
+
+- Sie ist seine Vorgesetzte.
+
+Marta und der Richter sind Geschwister.
+
+Er fürchtet ihre psychische Erkrankung und will sie loswerden. Ein von ihm eingeschalteter Schauspieler bringt ihr jedoch Zuwendung; während Marta sich erholt, zerfällt die vermeintliche Sicherheit ihres Bruders.
+
+Merksatz: Martas Erholung erschüttert den Bruder.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/salto-nel-vuoto/).
+
+### E1 · experte
+
+Mit welchem Zweipersonenstück stand Anouk Aimée über viele Jahre mit wechselnden Partnern wie Philippe Noiret und Jean-Louis Trintignant auf der Bühne?
+
+- Same Time, Next Year
+
+- The Gin Game
+
+- La Musica
+
+- **Richtig: Love Letters**
+
+Sie spielte A. R. Gurneys „Love Letters“.
+
+Von 1990 bis 2014 kehrte Aimée zu Aufführungen des Stücks zurück. Zu ihren Bühnenpartnern gehörten auch Alain Delon und Gérard Depardieu; ihr späteres Werk beschränkte sich daher keineswegs auf Filmrollen.
+
+Merksatz: Eine dauerhafte Bühnenrolle, mehrere Spielpartner.
+
+Quellen: [1](https://www.bfi.org.uk/news/anouk-aimee-obituary-french-new-wave-embodiment-sophisticated-romance).
+
+### E2 · experte
+
+Was half Anouk Aimée nach eigener Aussage beim Spiel in „Die schönsten Jahre eines Lebens“ besonders?
+
+- Eine vorher festgelegte Gebärde für jede Emotion
+
+- Eine genaue psychologische Analyse vor jeder Einstellung
+
+- **Richtig: Die unmittelbare Überraschung in einer vertrauten Situation**
+
+- Das tägliche Nachspielen der alten Filmszenen
+
+Aimée betont unmittelbares Erleben und Überraschung.
+
+Lelouch brachte sie an Orte des früheren Films zurück. Sie vertraute darauf, in der Situation zu reagieren; zu viel Analyse hätte nach ihrer Beschreibung die emotionale Unmittelbarkeit des Spiels geschwächt.
+
+Merksatz: Vertraute Orte ermöglichen neue Reaktionen.
+
+Quellen: [1](https://medias.unifrance.org/medias/46/35/205614/presse/les-plus-belles-annees-d-une-vie-dossier-de-presse-francais.pdf).
+
+## Arletty · Bekanntheitsgruppe 4
+
+![Arletty (1941)](Portraets/183.jpg)
+
+Bild: 1941; Bibliothèque nationale de France, département Arts du spectacle, 8-RSUPP-848.. CC0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Arletty_dans_Madame_Sans-G%C3%AAne_(1941),_exposition_corrig%C3%A9e,_image_recadr%C3%A9e.jpg), [TMDB](https://www.themoviedb.org/person/25154).
+
+### L1 · leicht
+
+Welche Frau spielt Arletty im Zentrum der Liebesgeschichten von „Kinder des Olymp“?
+
+- Raymonde
+
+- Nathalie
+
+- Françoise
+
+- **Richtig: Garance**
+
+Arletty spielt Garance.
+
+Vier Männer aus unterschiedlichen gesellschaftlichen Welten begehren sie. Besonders die Liebe des Pantomimen Baptiste (Jean-Louis Barrault) verbindet Garances Geschichte mit der Pariser Theaterwelt des 19. Jahrhunderts.
+
+Merksatz: Garance steht zwischen Bühne, Straße und Verehrern.
+
+Quellen: [1](https://www.criterion.com/films/683-children-of-paradise).
+
+### L2 · leicht
+
+In welchem Film ruft Arletty die berühmte empörte Frage nach ihrer „Atmosphère“ aus?
+
+- Fric-Frac
+
+- **Richtig: Hôtel du Nord**
+
+- Die Nacht mit dem Teufel
+
+- Der Tag bricht an
+
+Die Replik stammt aus „Hôtel du Nord“.
+
+Als Raymonde liefert sich Arletty einen Wortwechsel mit Edmond (Louis Jouvet). Ihre Betonung machte einen Dialogsatz zu einem bis heute wiedererkennbaren Moment des französischen Kinos.
+
+Merksatz: Raymondes Stimme prägt „Hôtel du Nord“.
+
+Quellen: [1](https://www.ina.fr/ina-eclaire-actu/arletty-carriere-conseils-actrice-marcel-carne).
+
+### M1 · mittel
+
+Mit welchem Auftrag kommt Arlettys Dominique in „Die Nacht mit dem Teufel“ an den Hof des Barons?
+
+- Sie soll einen verborgenen Schatz finden.
+
+- Sie soll den Baron zur Abdankung bewegen.
+
+- **Richtig: Sie soll Liebesbeziehungen zerstören.**
+
+- Sie soll einen Gefangenen befreien.
+
+Dominique soll als Gesandte des Teufels Leid und Liebeskummer verbreiten.
+
+Gemeinsam mit Gilles (Alain Cuny) erscheint sie als fahrende Künstlerin. Doch Gilles verliebt sich in die Braut Anne (Marie Déa), und menschliche Zuneigung durchkreuzt den Auftrag.
+
+Merksatz: Die Verführerin arbeitet gegen das Glück der Liebenden.
+
+Quellen: [1](https://www.criterion.com/films/27685-les-visiteurs-du-soir).
+
+### M2 · mittel
+
+Für wen arbeitet Arlettys Clara in „Der Tag bricht an“ zunächst als Assistentin?
+
+- Für einen Hotelbesitzer
+
+- Für einen Blumenhändler
+
+- Für einen Zeitungsfotografen
+
+- **Richtig: Für den Unterhaltungskünstler Valentin**
+
+Clara ist die Assistentin von Valentin (Jules Berry).
+
+Sie und die Blumenverkäuferin Françoise (Jacqueline Laurent) sind mit dem Arbeiter François (Jean Gabin) verbunden. Valentins manipulative Auftritte belasten dieses Beziehungsgeflecht, das der Film aus Rückblenden rekonstruiert.
+
+Merksatz: Claras Bühnenarbeit gehört zum gefährlichen Beziehungsviereck.
+
+Quellen: [1](https://bfidatadigipres.github.io/big%20screen%20classics/2023/05/09/jour-se-leve/).
+
+### S1 · schwer
+
+Wer schrieb Arlettys berühmte „Atmosphère“-Replik für „Hôtel du Nord“?
+
+- **Richtig: Henri Jeanson**
+
+- Jean Cocteau
+
+- Jacques Prévert
+
+- Sacha Guitry
+
+Der Dialogautor war Henri Jeanson.
+
+Auch Jean Aurenche und Marcel Carné wirkten am Drehbuch mit. Jeanson verantwortete die Dialoge der Verfilmung von Eugène Dabits Roman; nicht jeder berühmte Carné-Satz stammt daher von Prévert.
+
+Merksatz: Raymondes „Atmosphère“ gehört zu Jeanson.
+
+Quellen: [1](https://www.cinematheque.fr/film/47302.html).
+
+### S2 · schwer
+
+Welche Tennessee-Williams-Figur spielte Arletty 1949 in einer französischen Bühnenfassung von Jean Cocteau?
+
+- Maggie Pollitt
+
+- **Richtig: Blanche DuBois**
+
+- Alma Winemiller
+
+- Amanda Wingfield
+
+Sie spielte Blanche in „Endstation Sehnsucht“.
+
+Während ihre Filmkarriere nach dem Krieg an Schwung verlor, gelang ihr mit der Bühnenrolle ein neuer Erfolg. Die französische Bearbeitung verband amerikanisches Theater mit Cocteaus Sprache.
+
+Merksatz: Arlettys Bühnenweg führte zu Blanche.
+
+Quellen: [1](https://www.bnf.fr/fr/arletty-au-dela-de-la-gouaille).
+
+### E1 · experte
+
+Was bleibt nach Arlettys Aussage von 1958 besonders im Gedächtnis, wenn man sich an einen Film erinnert?
+
+- **Richtig: Seltene, unverwechselbare Intonationen**
+
+- Die Präzision der Bühnengesten
+
+- Die Abfolge der Kostümwechsel
+
+- Die genaue Anordnung der Kulissen
+
+Arletty betont unverwechselbare Intonationen.
+
+Sie nennt die Stimme als wesentlichen Teil des Berufs. Autoren, die die Eigenheiten eines Darstellers kennen, könnten ihm eine passende sprachliche Partie schreiben.
+
+Merksatz: Eine Stimme braucht ihre eigene Musik.
+
+Quellen: [1](https://www.ina.fr/ina-eclaire-actu/arletty-carriere-conseils-actrice-marcel-carne).
+
+### E2 · experte
+
+Welche künstlerische Arbeit setzte Arletty im späten Leben fort?
+
+- Sie leitete eine reisende Theatertruppe.
+
+- Sie inszenierte Operetten für das Fernsehen.
+
+- **Richtig: Sie sprach Texte für Dokumentarfilme.**
+
+- Sie unterrichtete an einer Schauspielschule.
+
+Arletty lieh weiterhin Dokumentarfilmen ihre Stimme.
+
+Eine schwere Sehbeeinträchtigung beendete ihre Arbeit auf Bühne und Filmset. Die Stimme blieb ihr dennoch als künstlerisches Ausdrucksmittel erhalten.
+
+Merksatz: Die Stimme überdauerte den Abschied vom Filmset.
+
+Quellen: [1](https://www.ina.fr/ina-eclaire-actu/arletty-carriere-conseils-actrice-marcel-carne).
+
+## Danielle Darrieux · Bekanntheitsgruppe 4
+
+![Danielle Darrieux (1938)](Portraets/184.jpg)
+
+Bild: 1938; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Danielle_Darrieux_The_Rage_of_Paris.jpg), [TMDB](https://www.themoviedb.org/person/236016).
+
+### L1 · leicht
+
+Warum verkauft Danielle Darrieuxs Gräfin zu Beginn von „Madame de …“ ihre Ohrringe?
+
+- Um ihre Tochter auszustatten
+
+- Um eine Reise zu bezahlen
+
+- **Richtig: Um Schulden zu begleichen**
+
+- Um einen Liebhaber freizukaufen
+
+Sie braucht Geld zur Begleichung von Schulden.
+
+Die Ohrringe sind ein Geschenk ihres Mannes (Charles Boyer). Ihr zunächst praktischer Verkauf löst eine Folge von Besitzerwechseln aus, die schließlich in ihre Ehe und eine neue Liebe eingreift.
+
+Merksatz: Ein Schmuckverkauf setzt die Tragödie in Gang.
+
+Quellen: [1](https://www.criterion.com/films/571-the-earrings-of-madame-de).
+
+### L2 · leicht
+
+Wem gibt Danielle Darrieux in der französischen Originalfassung von „Persepolis“ ihre Stimme?
+
+- Der erwachsenen Marjane
+
+- **Richtig: Marjanes Großmutter**
+
+- Marjanes Mutter
+
+- Marjanes Lehrerin
+
+Darrieux spricht Marjanes Großmutter.
+
+Die Figur spricht offen, eigensinnig und mit großer Zuneigung zur Enkelin. Darrieux nahm Satrapis Bücher als Ausgangspunkt und folgte im Studio deren unmittelbarer Anleitung.
+
+Merksatz: Die Großmutter spricht mit Darrieuxs Stimme.
+
+Quellen: [1](https://www.sonyclassics.com/persepolis/presskit/Persepolis.pdf).
+
+### M1 · mittel
+
+Was hat Danielle Darrieuxs Bébé ihrem Mann in „Die Wahrheit über unsere Ehe“ angetan?
+
+- **Richtig: Sie hat ihn vergiftet.**
+
+- Sie hat ihn öffentlich denunziert.
+
+- Sie hat ihn bestohlen.
+
+- Sie hat ihn entführt.
+
+Bébé hat ihren Mann vergiftet.
+
+Der Unternehmer François Donge (Jean Gabin) liegt im Krankenhaus, während sie ihn täglich besucht. Er erinnert sich an ihre gemeinsame Ehe und versucht zu begreifen, wie es zu ihrer Tat kommen konnte.
+
+Merksatz: Die Krankenbesuche stehen im Schatten der Vergiftung.
+
+Quellen: [1](https://www.cinematheque.fr/seance/18770.html).
+
+### M2 · mittel
+
+Was macht Danielle Darrieuxs junge Figur in „Le Bal“ mit den Einladungen zum Fest ihrer Eltern?
+
+- Sie verkauft sie an Schulkameraden.
+
+- Sie verschickt sie an andere Gäste.
+
+- Sie versteckt sie beim Hausmeister.
+
+- **Richtig: Sie wirft sie weg, statt sie zu verschicken.**
+
+Sie beseitigt die Einladungen, statt sie aufzugeben.
+
+Darrieuxs frühe Filmrolle ist ein aufmüpfiges Mädchen, das den gesellschaftlichen Ehrgeiz der Eltern sabotiert. Aus dem kleinen postalischen Auftrag wird eine wirksame Gegenwehr gegen das geplante Fest.
+
+Merksatz: Ohne Einladungen bleibt der Ball leer.
+
+Quellen: [1](https://www.criterion.com/current/posts/5600-look-at-that-girl), [2](https://www.bfi.org.uk/sight-and-sound/news/danielle-darrieux-obituary-from-pre-war-modernity-epitome-parisian-chic).
+
+### S1 · schwer
+
+Warum hatte Danielle Darrieuxs Yvonne in „Die Mädchen von Rochefort“ ihre frühere Liebe verlassen?
+
+- **Richtig: Sie wollte seinen Nachnamen nicht annehmen.**
+
+- Er wollte ihr Café verkaufen.
+
+- Er wollte ins Ausland ziehen.
+
+- Er hatte eine andere Frau geheiratet.
+
+Durch die Heirat hätte sie „Madame Dame“ geheißen.
+
+Der Musikgeschäftbesitzer Simon Dame (Michel Piccoli) ist der Vater ihres jüngsten Kindes. Ein sprachlicher Einwand trennte das Paar; während alle in Rochefort nach Liebe suchen, bleibt auch ihre alte Geschichte offen.
+
+Merksatz: Ein Name stand Yvonnes Heirat im Weg.
+
+Gemeinsames Wissensziel: K-F240-20261006-147-S1 (F240-20261006-147-S1).
+
+Quellen: [1](https://www.ville-rochefort.fr/sites/default/files/Mediatheque/Services/Culture/service%20patrimoine/FOCUS%20demoiselles%202026.pdf?time=1769665017).
+
+### S2 · schwer
+
+Von wem bekommt Danielle Darrieuxs Gräfin die zuvor verkauften Ohrringe in „Madame de …“ als Liebesgeschenk zurück?
+
+- Vom Juwelier Rémy
+
+- Von ihrem Ehemann André
+
+- Von einem befreundeten Theaterdirektor
+
+- **Richtig: Vom Diplomaten Donati**
+
+Der Diplomat Donati schenkt sie ihr.
+
+Donati (Vittorio De Sica) hat den Schmuck auf dessen Reise durch verschiedene Hände erworben. Für die Gräfin verändert sich damit sein Wert: Aus einem entbehrlichen Hochzeitsgeschenk wird ein Zeichen ihrer neuen Leidenschaft.
+
+Merksatz: Dieselben Ohrringe tragen eine andere Liebe.
+
+Quellen: [1](https://www.criterion.com/current/posts/547-the-earrings-of-madame-de-the-cost-of-living).
+
+### E1 · experte
+
+Wessen Singstimme hört man bei Danielle Darrieuxs Yvonne in „Die Mädchen von Rochefort“?
+
+- Die von Danielle Licari
+
+- Die von Claude Parent
+
+- **Richtig: Darrieuxs eigene Stimme**
+
+- Die von Anne Germain
+
+Darrieux singt Yvonnes Part mit ihrer eigenen Stimme.
+
+Viele sichtbare Darsteller erhielten für den Gesang eine andere Stimme. So singt Anne Germain für Catherine Deneuve und Claude Parent für Françoise Dorléac; bei Yvonne bleiben Schauspiel und Gesang bei derselben Künstlerin.
+
+Merksatz: Yvonne bleibt auch singend Darrieux.
+
+Quellen: [1](https://www.ville-rochefort.fr/sites/default/files/Mediatheque/Services/Culture/service%20patrimoine/FOCUS%20demoiselles%202026.pdf?time=1769665017), [2](https://cine-tamaris.fr/jacques-demy/les-parapluies-de-cherbourg-1963/).
+
+### E2 · experte
+
+Wen löste Danielle Darrieux 1970 am Broadway in der Titelrolle des Musicals „Coco“ ab?
+
+- Angela Lansbury
+
+- **Richtig: Katharine Hepburn**
+
+- Lauren Bacall
+
+- Julie Andrews
+
+Darrieux übernahm die Rolle von Katharine Hepburn.
+
+Sie spielte Coco Chanel von August bis Oktober 1970. Das Musical von André Previn und Alan Jay Lerner verband die Biografie der Modeschöpferin mit einer Aufgabe für Darrieux als Schauspielerin und ausgebildete Sängerin.
+
+Merksatz: Von Hepburn zu Darrieux: Coco am Broadway.
+
+Quellen: [1](https://www.ibdb.com/broadway-production/coco-3309), [2](https://playbill.com/article/french-film-star-danielle-darrieux-who-replaced-katharine-hepburn-in-coco-dies-at-100).
+
+## Anna Magnani · Bekanntheitsgruppe 4
+
+![Anna Magnani (1959)](Portraets/185.png)
+
+Bild: 1959; Film diretto da Renato Castellani e prodotto da Riama Film. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Nella_citt%C3%A0_l%27inferno_(film_1959)_Anna_Magnani.png), [TMDB](https://www.themoviedb.org/person/4421).
+
+### L1 · leicht
+
+Wie heißt Anna Magnanis Figur in „Rom, offene Stadt“?
+
+- **Richtig: Pina**
+
+- Agnese
+
+- Marina
+
+- Lauretta
+
+Magnani spielt Pina, die Verlobte eines Mannes aus dem Widerstand.
+
+Ihre Familie und die geplante Hochzeit gehören zum gewöhnlichen Leben unter deutscher Besatzung. Gerade die Verbindung aus Alltagsnähe und entschlossenem Handeln macht ihren Auftritt so eindringlich.
+
+Merksatz: Magnani ist Pina in Rossellinis besetztem Rom.
+
+Quellen: [1](https://www.bfi.org.uk/bfi-film-releases/rome-open-city-roma-citta-aperta).
+
+### L2 · leicht
+
+Welchen Beruf hat Anna Magnanis Serafina in „The Rose Tattoo“?
+
+- **Richtig: Näherin**
+
+- Kellnerin
+
+- Musiklehrerin
+
+- Hebamme
+
+Serafina ist eine aus Sizilien eingewanderte Näherin.
+
+Sie lebt mit ihrer Tochter an der amerikanischen Golfküste. Nach dem Tod ihres Mannes hält sie an einem idealisierten Bild der Ehe fest, bis die Begegnung mit Alvaro neue Gefühle zulässt.
+
+Merksatz: Serafinas Alltag ist der einer Näherin.
+
+Quellen: [1](https://www.tcm.com/articles/87971/the-rose-tattoo).
+
+### M1 · mittel
+
+Welches Ziel verfolgt Anna Magnanis Maddalena mit ihrer Tochter in „Bellissima“?
+
+- Sie soll in einem vornehmen Internat lernen.
+
+- Sie soll einen Tanzwettbewerb in Paris gewinnen.
+
+- Sie soll an einem Musikkonservatorium aufgenommen werden.
+
+- **Richtig: Sie soll eine Filmrolle bei Cinecittà bekommen.**
+
+Maddalena will ihre kleine Tochter als Filmschauspielerin unterbringen.
+
+Der Traum vom sozialen Aufstieg führt die Mutter zu Probeaufnahmen, Unterricht und vermeintlich hilfreichen Vermittlern. Magnani gestaltet den Ehrgeiz zugleich als komisch, schmerzlich und eng mit mütterlicher Fürsorge verbunden.
+
+Merksatz: Der Filmtraum der Tochter ist vor allem Maddalenas Traum.
+
+Quellen: [1](https://www.bfi.org.uk/features/how-anna-magnani-became-face-italian-neorealism).
+
+### M2 · mittel
+
+Welches frühere Erwerbsleben will Anna Magnanis Titelheldin in „Mamma Roma“ hinter sich lassen?
+
+- Den Auftritt als Revuetänzerin
+
+- Die Arbeit als Fabrikarbeiterin
+
+- **Richtig: Die Arbeit als Prostituierte**
+
+- Die Tätigkeit als Hausangestellte
+
+Mamma Roma möchte die Prostitution verlassen.
+
+Als Obst- und Gemüsehändlerin versucht sie, ihrem Sohn Ettore ein respektables Leben zu ermöglichen. Ihr früherer Zuhälter Carmine bringt die Vergangenheit jedoch wieder in ihren Alltag zurück.
+
+Merksatz: Mamma Roma sucht mit Ettore einen sozialen Neubeginn.
+
+Quellen: [1](https://www.criterion.com/films/375), [2](https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=mamma-roma).
+
+### S1 · schwer
+
+Wohin kehrt Anna Magnanis Camilla am Ende von „Die goldene Karosse“ trotz ihrer drei Verehrer zurück?
+
+- An den Hof des Vizekönigs
+
+- Auf das Landgut eines Verehrers
+
+- In das Kloster des Bischofs
+
+- **Richtig: Zu ihrer Schauspieltruppe**
+
+Camilla findet ihren Platz wieder unter den Schauspielern.
+
+Die Liebe außerhalb der Bühne verspricht ihr keine einfache Lösung. Der Schluss verbindet ihre Suche nach persönlichem Glück mit der Fähigkeit, auf der Bühne in andere Menschen zu schlüpfen.
+
+Merksatz: Camillas eigentliches Zuhause bleibt das Theater.
+
+Quellen: [1](https://www.criterion.com/current/posts/673-the-golden-coach).
+
+### S2 · schwer
+
+In welcher Form tritt Anna Magnani in Federico Fellinis „Roma“ auf?
+
+- Als historische römische Kaiserin
+
+- **Richtig: Als sie selbst**
+
+- Als erfundene Theaterdirektorin
+
+- Als Mutter des jungen Fellini
+
+Magnani erscheint als Anna Magnani.
+
+Fellini lässt reale Persönlichkeiten neben gespielten Erinnerungen und fantasievollen Stadtszenen auftreten. Die Darstellerin wird dadurch selbst zu einem Bestandteil des filmischen Bildes von Rom.
+
+Merksatz: Magnani gehört als sie selbst zu Fellinis Stadtporträt.
+
+Quellen: [1](https://www.criterion.com/films/28039-roma).
+
+### E1 · experte
+
+Welche Festlegung ihres Rollenbildes kritisierte Anna Magnani nach den Erfolgen des Neorealismus?
+
+- Die wiederkehrende romantische Opernsängerin
+
+- **Richtig: Die wiederkehrende lautstarke Frau aus der Arbeiterklasse**
+
+- Die wiederkehrende elegante, weltgewandte Aristokratin
+
+- Die wiederkehrende distanzierte Wissenschaftlerin
+
+Magnani wurde die häufige Festlegung auf leidenschaftliche, lautstarke Arbeiterfrauen zu eng.
+
+Schon vor dem internationalen Durchbruch hatte sie sehr unterschiedliche Figuren in Komödien und Dramen gespielt. Der große Erfolg eines bestimmten Rollenbildes konnte ihr weiteres Angebot also zugleich einschränken.
+
+Merksatz: Ein erfolgreiches Starbild kann die Bandbreite einer Darstellerin verdecken.
+
+Quellen: [1](https://www.bfi.org.uk/features/how-anna-magnani-became-face-italian-neorealism).
+
+### E2 · experte
+
+Welcher Dramatiker schrieb die Rolle der Serafina in „The Rose Tattoo“ ursprünglich eigens für Anna Magnani?
+
+- Arthur Miller
+
+- Eugene O’Neill
+
+- **Richtig: Tennessee Williams**
+
+- William Inge
+
+Tennessee Williams entwarf Serafina für Magnani.
+
+Eine dauerhafte Bühnenarbeit auf Englisch traute sie sich zunächst nicht zu. Bei der Verfilmung konnte sie die Sprache von Aufnahme zu Aufnahme erarbeiten; so gelangte die für sie geschriebene Figur schließlich doch zu ihr.
+
+Merksatz: Williams schrieb Serafina für Magnani.
+
+Quellen: [1](https://www.tcm.com/articles/87971/the-rose-tattoo).
+
+## Silvana Mangano · Bekanntheitsgruppe 4
+
+![Silvana Mangano (1953)](Portraets/186.jpg)
+
+Bild: 1953; Unknown (Mondadori Publishers). Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Silvana_Mangano_1953.jpg), [TMDB](https://www.themoviedb.org/person/12520).
+
+### L1 · leicht
+
+Für welchen Tanz begeistert sich Silvana Manganos Figur in „Bitterer Reis“?
+
+- Walzer
+
+- Flamenco
+
+- Tango
+
+- **Richtig: Boogie-Woogie**
+
+Silvana tanzt begeistert Boogie-Woogie.
+
+Amerikanische Unterhaltung fasziniert die junge Saisonarbeiterin. Tanz und Kaugummikauen gehören zu ihrer Erscheinung. Giuseppe De Santis verbindet diese Anziehungskraft der Populärkultur mit einem Melodram unter schlecht bezahlten Arbeiterinnen.
+
+Merksatz: Silvana bringt Boogie-Woogie in die Welt der Reisfelder.
+
+Quellen: [1](https://s3.amazonaws.com/criterion-production/janus_promo_packages/1394-/BITTER_RICE_Janus_Press_Notes_tp_original.pdf).
+
+### L2 · leicht
+
+In welchem Science-Fiction-Universum spielt Silvana Mangano die Ehrwürdige Mutter Ramallo?
+
+- Star Trek
+
+- Star Wars
+
+- **Richtig: Dune**
+
+- Babylon 5
+
+Mangano ist Ramallo in David Lynchs „Dune“ von 1984.
+
+Ramallo gehört zur religiösen Welt der Fremen auf Arrakis. Die Rolle unterscheidet sich von der ebenfalls im Film auftretenden Ehrwürdigen Mutter Mohiam, die Siân Phillips spielt.
+
+Merksatz: Ramallo ist Manganos Rolle im Wüstenplaneten-Universum.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/67647).
+
+### M1 · mittel
+
+In welcher neuen Lebenssituation sehen wir Silvana Manganos Titelheldin in „Anna“, bevor Rückblenden ihre Vergangenheit erzählen?
+
+- **Richtig: Als Krankenpflegerin und Novizin in einem Krankenhaus**
+
+- Als Schauspielerin auf einer Gastspielreise
+
+- Als verwitwete Besitzerin eines Tanzlokals
+
+- Als Lehrerin in einer Klosterschule
+
+Anna arbeitet als Novizin und Krankenschwester in einem Mailänder Krankenhaus.
+
+Die Einlieferung ihres früheren Verlobten ruft Erinnerungen an Liebe und Gewalt wach. Der Film stellt dem neuen religiösen Leben ihre frühere Welt gegenüber.
+
+Merksatz: Anna erscheint zunächst im Dienst des Krankenhauses.
+
+Quellen: [1](https://www.raiplay.it/programmi/anna).
+
+### M2 · mittel
+
+Welche beiden Figuren spielt Silvana Mangano in Mario Camerinis „Ulisse“?
+
+- Helena und Kassandra
+
+- Nausikaa und Kalypso
+
+- Athene und Hera
+
+- **Richtig: Penelope und Kirke**
+
+Mangano verkörpert sowohl Penelope als auch Kirke.
+
+Dieselbe Darstellerin steht für die zu Hause wartende Ehefrau und die verführerische Zauberin auf der Reise. Die Doppelbesetzung verknüpft Odysseus’ Sehnsucht nach Heimkehr mit einer gefährlichen Alternative.
+
+Merksatz: Mangano ist zugleich Penelope und Kirke.
+
+Quellen: [1](https://catalog.afi.com/Catalog/MovieDetails/51709).
+
+### S1 · schwer
+
+Welche Beziehung hat Silvana Manganos Figur zu Tadzio in „Tod in Venedig“?
+
+- Sie ist seine ältere Schwester.
+
+- **Richtig: Sie ist seine Mutter.**
+
+- Sie ist seine Gouvernante.
+
+- Sie ist seine Musiklehrerin.
+
+Mangano spielt Tadzios Mutter.
+
+Sie bewegt sich mit ihrer Familie durch die vornehme Welt des Hotels am Lido. Der Film lässt Aschenbach den Jungen häufig innerhalb dieses familiären Rahmens beobachten; Manganos zurückhaltende Präsenz gehört zur sorgfältigen gesellschaftlichen Choreografie.
+
+Merksatz: Mangano ist Tadzios Mutter, nicht seine Gouvernante.
+
+Quellen: [1](https://www.criterion.com/films/28699-death-in-venice).
+
+### S2 · schwer
+
+Was unternimmt Silvana Manganos Lucia in „Teorema“ nach der Abreise des geheimnisvollen Gastes?
+
+- Sie folgt dem Gast in eine religiöse Gemeinschaft.
+
+- Sie tritt in die Leitung der väterlichen Fabrik ein.
+
+- **Richtig: Sie sucht sexuelle Begegnungen mit fremden jungen Männern.**
+
+- Sie eröffnet gemeinsam mit ihrem Sohn eine Galerie.
+
+Lucia sucht nach der Abreise des Gastes Begegnungen mit jungen Männern.
+
+Die Begegnung erschüttert ihre bislang geschlossene großbürgerliche Lebensordnung. Ihre Suche ist eine eigene Reaktion auf dieselbe Erfahrung, die auch die anderen Mitglieder der Familie aus ihren Rollen herausreißt.
+
+Merksatz: Lucia versucht, die verlorene Begegnung in neuen Kontakten wiederzufinden.
+
+Quellen: [1](https://www.criterion.com/current/posts/6823-teorema-just-a-boy), [2](https://www.treccani.it/enciclopedia/silvana-mangano_(Dizionario-Biografico)/).
+
+### E1 · experte
+
+Wie verbindet Silvana Mangano die fünf Episoden von „Le streghe“ miteinander?
+
+- Sie führt als Erzählerin durch fremde Liebesgeschichten.
+
+- **Richtig: Sie übernimmt in jeder Episode eine andere weibliche Hauptfigur.**
+
+- Sie erscheint in einer Rahmenhandlung als Regisseurin.
+
+- Sie spielt dieselbe Frau in verschiedenen Lebensaltern.
+
+Mangano spielt fünf unterschiedliche Frauen unter fünf verschiedenen Regisseuren.
+
+Der Episodenfilm macht ihre Wandlungsfähigkeit zum gemeinsamen Bezugspunkt. Unterschiedliche komische und satirische Formen treffen dabei auf verschiedene Erwartungen an Frauen in der Gesellschaft.
+
+Merksatz: Fünf Geschichten, fünf Mangano-Figuren.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Witches_(1967_film)).
+
+### E2 · experte
+
+Wer spricht Silvana Manganos Dialoge in der italienischen Originalfassung von „Bitterer Reis“?
+
+- **Richtig: Lydia Simoneschi**
+
+- Tina Lattanzi
+
+- Andreina Pagnani
+
+- Rina Morelli
+
+Lydia Simoneschi lieh Mangano in diesem Film die Dialogstimme.
+
+Manganos körperliche Präsenz und die hörbare Figurenstimme stammen somit von zwei Darstellerinnen. Die nachträgliche Synchronisation gehörte zu den gebräuchlichen Produktionsverfahren des italienischen Kinos.
+
+Merksatz: Manganos Bild wird hier mit Simoneschis Stimme verbunden.
+
+Quellen: [1](https://s3.amazonaws.com/criterion-production/janus_promo_packages/1394-/BITTER_RICE_Janus_Press_Notes_tp_original.pdf).
+
+## Lucia Bosè · Bekanntheitsgruppe 4
+
+![Lucia Bosè (1950)](Portraets/187.jpg)
+
+Bild: 1950; . Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Lucia_bos%C3%A8-la_settimana_incom-9_sett_50.jpg), [TMDB](https://www.themoviedb.org/person/39274).
+
+### L1 · leicht
+
+Welcher Wettbewerb öffnete Lucia Bosè Ende der 1940er-Jahre den Weg zum Film?
+
+- Miss Europa
+
+- Miss Universo
+
+- Miss Roma
+
+- **Richtig: Miss Italia**
+
+Bosè gewann 1947 den Wettbewerb Miss Italia.
+
+Sie hatte zuvor in einer Mailänder Konditorei gearbeitet und verfügte über keine reguläre Schauspielausbildung. Wenige Jahre später erhielt sie Hauptrollen bei Giuseppe De Santis und Michelangelo Antonioni.
+
+Merksatz: Miss Italia wurde zum Ausgangspunkt ihrer Filmkarriere.
+
+Quellen: [1](https://www.archivioantonioni.it/en/approfondimento/lucia-bose/).
+
+### L2 · leicht
+
+Welchen Beruf hatte Lucia Bosès Clara Manni vor ihrer Entdeckung als Filmstar in „La signora senza camelie“?
+
+- Telefonistin
+
+- **Richtig: Verkäuferin**
+
+- Lehrerin
+
+- Krankenschwester
+
+Clara war eine Verkäuferin, bevor ein Produzent sie zum Film holte.
+
+Ihr rascher Aufstieg verschafft ihr Berühmtheit, aber wenig Selbstbestimmung. Das melodramatische Starbild, ein kontrollierender Ehemann und eigene künstlerische Wünsche geraten miteinander in Konflikt.
+
+Merksatz: Clara kommt aus einem Laden in die Filmindustrie.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Lady_Without_Camelias).
+
+### M1 · mittel
+
+Warum lässt Lucia Bosès María José in „Der Tod eines Radfahrers“ das Unfallopfer ohne Hilfe zurück?
+
+- Sie hält den Mann für den Täter eines Überfalls.
+
+- Sie glaubt, ihr Ehemann habe den Unfall verursacht.
+
+- **Richtig: Sie will ihre heimliche Liebesbeziehung verbergen.**
+
+- Sie fürchtet die Beschlagnahmung geschmuggelter Waren.
+
+Hilfe und Ermittlungen könnten die geheime Beziehung zu Juan aufdecken.
+
+Das Paar stellt seinen gesellschaftlichen Ruf über das Leben des verletzten Mannes. Aus dem gemeinsamen Schweigen entwickeln sich Schuld, Erpressbarkeit und ein Konflikt zwischen persönlichem Vorteil und Verantwortung.
+
+Merksatz: Der Schutz der Affäre führt zur unterlassenen Hilfe.
+
+Quellen: [1](https://www.criterion.com/films/537).
+
+### M2 · mittel
+
+Wer veranlasst in „Chronik einer Liebe“ die Untersuchung der Vergangenheit von Lucia Bosès Paola?
+
+- Ihr verschollener Bruder
+
+- **Richtig: Ihr eifersüchtiger Ehemann**
+
+- Ihr früherer Liebhaber
+
+- Ein ehemaliger Schulkamerad
+
+Paolas wohlhabender Mann beauftragt einen Privatdetektiv.
+
+Er möchte mehr über die junge Frau erfahren, die er vor Jahren rasch geheiratet hat. Die Nachforschung setzt jedoch Vorgänge in Gang, die gerade die Sicherheit seiner Ehe gefährden.
+
+Merksatz: Der Ehemann öffnet durch die Ermittlung die Tür zur Vergangenheit.
+
+Quellen: [1](https://player.bfi.org.uk/subscription/film/watch-story-of-a-love-affair-1950-online).
+
+### S1 · schwer
+
+Mit welcher Schauspielerin bildet Lucia Bosè das zentrale Frauenpaar in Marguerite Duras’ „Nathalie Granger“?
+
+- **Richtig: Jeanne Moreau**
+
+- Stéphane Audran
+
+- Emmanuelle Riva
+
+- Delphine Seyrig
+
+Bosè spielt neben Jeanne Moreau.
+
+Duras konzentriert sich auf zwei Frauen in einem Haus und auf Spannungen, die selten direkt ausgesprochen werden. Blicke, Stille und die gemeinsam verbrachte Zeit tragen die Darstellung stärker als eine fortlaufende Erklärung durch Dialoge.
+
+Merksatz: Bosè und Moreau tragen Duras’ stilles Hausporträt.
+
+Quellen: [1](https://www.cinematheque.fr/seance/9034.html), [2](https://www.jeannemoreau.fr/portfolio/nathalie-granger/).
+
+### S2 · schwer
+
+Warum kommt Lucia Bosès Lucia in „Gli sbandati“ auf die Landvilla, wo sie Andrea kennenlernt?
+
+- **Richtig: Ihre Familie hat bei Bombenangriffen die Wohnung verloren.**
+
+- Sie begleitet eine Theatertruppe auf Gastspielreise.
+
+- Ihre Familie verwaltet das Landgut.
+
+- Sie nimmt dort eine Stelle als Gouvernante an.
+
+Lucias Arbeiterfamilie aus Mailand hat ihr Zuhause durch Bomben verloren.
+
+Die Aufnahme in der Villa führt Menschen unterschiedlicher Klassen zusammen. Im Sommer 1943 kann die wohlhabende Jugend die Kriegswirklichkeit nicht länger auf Abstand halten; Lucias Beziehung zu Andrea gehört zu dieser Veränderung.
+
+Merksatz: Der Luftkrieg bringt Lucia in Andreas geschützte Welt.
+
+Quellen: [1](https://asac.labiennale.org/attivita/cinema/4634).
+
+### E1 · experte
+
+Welche Arbeitsweise prägte nach Lucia Bosès eigener Erinnerung die Dreharbeiten zu „Chronik einer Liebe“?
+
+- Kurze Einzelaufnahmen mit erst im Schnitt bestimmter Bewegung
+
+- Weitgehend freie Dialoge vor einer unbewegten Kamera
+
+- **Richtig: Wiederholte Proben und genau festgelegte lange Einstellungen**
+
+- Vorab aufgezeichnete Dialoge als Taktgeber für improvisierte Gesten
+
+Antonioni probte wiederholt und verlangte präzise Arbeit innerhalb langer Einstellungen.
+
+Bosè stellte diesen Ablauf der größeren Freiheit gegenüber, die sie zuvor bei De Santis erlebt hatte. Das scheinbar mühelose Bild setzte damit eine strenge Abstimmung von Darstellung, Bewegung und Kamerafahrt voraus.
+
+Merksatz: Die lange Einstellung verlangte vorbereitete Präzision.
+
+Quellen: [1](https://primipianirivista.com/numeri-della-rivista/xxv-lucia-bose/).
+
+### E2 · experte
+
+Wie beschreibt Pere Portabella die Funktion von Lucia Bosès Figur in seinem experimentellen „Nocturno 29“?
+
+- Als Erzählerin einer lückenlosen Lebensgeschichte
+
+- Als historische Zeitzeugin innerhalb nachgestellter Wochenschauen
+
+- Als Ermittlerin, die einen Kriminalfall Schritt für Schritt löst
+
+- **Richtig: Als Verbindung scheinbar unzusammenhängender, poetischer Situationen**
+
+Die zentrale Figur schafft thematischen Zusammenhang zwischen getrennten Situationen.
+
+Der Film arbeitet mit einem von Joan Brossas visueller Poesie geprägten Drehbuch. Bosès Präsenz hält die Fragmente zusammen, ohne sie zu einer gewöhnlichen, kausal erzählten Handlung umzubauen.
+
+Merksatz: Die Figur verbindet die Fragmente, ohne ihre Brüche aufzulösen.
+
+Quellen: [1](https://www.museoreinasofia.es/actividad/cine-pere-portabella-sesion-1/).
+
+## Valeria Golino · Bekanntheitsgruppe 4
+
+![Valeria Golino (1988)](Portraets/188.jpg)
+
+Bild: 1988; Alan Light. CC BY 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Valeria_Golino_on_the_red_carpet_at_the_60th_Annual_Academy_Awards_cropped.jpg), [TMDB](https://www.themoviedb.org/person/3124).
+
+### L1 · leicht
+
+Welche Beziehung verbindet Valeria Golinos Susanna mit Charlie Babbitt in „Rain Man“?
+
+- Sie ist seine Rechtsanwältin.
+
+- **Richtig: Sie ist seine Freundin.**
+
+- Sie ist seine Schwägerin.
+
+- Sie ist seine Schwester.
+
+Susanna ist Charlies Partnerin und arbeitet auch in seinem Unternehmen.
+
+Sie erlebt seine Begegnung mit dem bislang unbekannten Bruder Raymond mit. Ihr Umgang mit Raymond setzt einen anderen Akzent als Charlies anfängliche Beschäftigung mit Erbe und geschäftlichem Nutzen.
+
+Merksatz: Susanna steht Charlie als Partnerin nahe.
+
+Quellen: [1](https://catalog.afi.com/Film/55772-RAIN-MAN).
+
+### L2 · leicht
+
+Welchen Beruf hat Valeria Golinos Ramada Thompson im ersten „Hot Shots!“-Film?
+
+- **Richtig: Psychiaterin**
+
+- Flugzeugingenieurin
+
+- Nachrichtenoffizierin
+
+- Fluglehrerin
+
+Ramada untersucht Topper Harley als Psychiaterin.
+
+Die berufliche Begegnung geht in eine parodistische Liebesgeschichte über. Der Film verbindet dabei die Untersuchung des belasteten Piloten mit Anspielungen auf andere bekannte Kinofiguren und Liebesszenen.
+
+Merksatz: Ramada begegnet Topper zunächst als Psychiaterin.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/58906).
+
+### M1 · mittel
+
+Warum wollen die Angehörigen Valeria Golinos Grazia in „Respiro“ nach Mailand schicken?
+
+- Sie soll dort das Geschäft ihres verstorbenen Vaters übernehmen.
+
+- Sie haben dort eine Arbeit in einer Fischfabrik gefunden.
+
+- **Richtig: Sie halten eine psychiatrische Behandlung für notwendig.**
+
+- Sie wollen ihre Ausbildung zur Sängerin finanzieren.
+
+Die Familie hält Grazias unberechenbares Verhalten für behandlungsbedürftig.
+
+Grazia lebt mit Mann und Kindern auf Lampedusa. Als der Druck der kleinen Gemeinschaft zunimmt, verweigert sie die Reise; ihr Sohn versucht, sie vor der Entfernung von der Insel zu schützen.
+
+Merksatz: Der geplante Aufenthalt in Mailand bedroht Grazias Nähe zu ihrer Familie.
+
+Quellen: [1](https://s3.amazonaws.com/cdn.filmtrackonline.com/mongrelmedia/starcm_vault_root/images%2Ffiles%2F3d%2F3d8366f0-f751-41c7-92fc-0a68594286ae.pdf).
+
+### M2 · mittel
+
+Welche Figur spielt Valeria Golino in „Porträt einer jungen Frau in Flammen“?
+
+- Héloïses Schwester, die Braut
+
+- **Richtig: Héloïses Mutter, die Gräfin**
+
+- Das Dienstmädchen Sophie
+
+- Die Malerin Marianne
+
+Golino verkörpert die Gräfin und Mutter Héloïses.
+
+Sie gehört zur Ordnung, innerhalb derer ein Heiratsporträt entstehen soll. Ihre zeitweilige Abwesenheit öffnet den jüngeren Frauen einen Freiraum für Nähe und gemeinsame Erfahrung.
+
+Merksatz: Golino ist die Gräfin im Umfeld des Hochzeitsporträts.
+
+Quellen: [1](https://www.criterion.com/films/30469-portrait-of-a-lady-on-fire), [2](https://en.wikipedia.org/wiki/Portrait_of_a_Lady_on_Fire).
+
+### S1 · schwer
+
+Womit beschäftigt sich die Hauptfigur in Valeria Golinos erstem Regie-Langfilm „Miele“ beruflich?
+
+- Mit der Betreuung entlassener Strafgefangener
+
+- Mit der Vermittlung von Kindern an Adoptiveltern
+
+- **Richtig: Mit heimlicher Hilfe beim Sterben schwerkranker Menschen**
+
+- Mit der Suche nach vermissten Kriegsangehörigen
+
+Irene hilft unter dem Namen Miele schwerkranken Menschen beim Sterben.
+
+Die Begegnung mit einem Mann, der lebensmüde, aber nicht todkrank ist, erschüttert ihre bisherigen Gewissheiten. Golinos Film untersucht die Figur und ihre Grenzen, statt eine einfache moralische Antwort vorzugeben.
+
+Merksatz: Mieles Arbeit wird durch einen unerwarteten Klienten in Frage gestellt.
+
+Quellen: [1](https://www.filmlinc.org/films/honey-miele/).
+
+### S2 · schwer
+
+Welche unterschiedlichen Lebenswelten bringen die Brüder in Valeria Golinos Regiefilm „Euforia“ zusammen?
+
+- Die eines Staatsanwalts und eines verschuldeten Gastwirts
+
+- Die eines Landarztes und eines reisenden Musikers
+
+- Die eines Berufssoldaten und eines jungen Priesters
+
+- **Richtig: Die eines erfolgreichen Unternehmers und eines zurückhaltenden Lehrers**
+
+Matteo ist ein weltgewandter Unternehmer; Ettore unterrichtet in der Provinz.
+
+Eine Krankheit zwingt die Brüder in größere Nähe. Ihre äußeren Unterschiede verdecken zunächst, wie beide mit Unsicherheit und Unzufriedenheit auf jeweils eigene Weise umgehen.
+
+Merksatz: Unternehmer Matteo und Lehrer Ettore müssen einander neu kennenlernen.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/euforia/).
+
+### E1 · experte
+
+Welche Schriftstellerin verbindet Valeria Golinos Regiearbeit an „L’arte della gioia“ mit ihrer Hauptrolle in „Fuori“?
+
+- **Richtig: Goliarda Sapienza**
+
+- Elsa Morante
+
+- Anna Maria Ortese
+
+- Natalia Ginzburg
+
+Golino verfilmte Sapienzas Roman und verkörperte danach die Autorin in „Fuori“.
+
+Die beiden Arbeiten ermöglichen unterschiedliche Annäherungen: einmal durch die Inszenierung eines literarischen Werks, einmal durch die Darstellung seiner Verfasserin. Mario Martone führte bei „Fuori“ Regie.
+
+Merksatz: Golino nähert sich Sapienza als Regisseurin und als Darstellerin.
+
+Quellen: [1](https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=fuori-intro-qanda).
+
+### E2 · experte
+
+Wie setzte Valeria Golino das auffällige Lächeln von Jasmine Trinca bei der Regie von „Miele“ bewusst ein?
+
+- Als wiederkehrende freundliche Geste gegenüber jedem Klienten
+
+- Vor allem als Zeichen einer selbstsicheren Liebesverführung
+
+- Als wiederkehrendes Mittel, unangenehme Gespräche zu überspielen
+
+- **Richtig: Sparsam, damit die wenigen Momente besondere Kraft gewinnen**
+
+Golino ließ Trinca nur in wenigen Momenten lächeln, um die Wirkung zu bewahren.
+
+Im Interview erläuterte sie, dass eine häufige Wiederholung die Ausdruckskraft abschwächen würde. Die zurückhaltende Verteilung macht sichtbar, wann die verschlossene Figur eine andere emotionale Seite zulässt.
+
+Merksatz: Ein seltenes Lächeln gewinnt durch seine Seltenheit Gewicht.
+
+Quellen: [1](https://screenanarchy.com/2014/03/interview-valeria-golino-on-directing-honey.html).
+
+## Fernanda Montenegro · Bekanntheitsgruppe 4
+
+![Fernanda Montenegro (2003)](Portraets/189.jpg)
+
+Bild: 2003; Antonio Milena - ABr. CC BY 3.0 br laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Atriz_Fernanda_Montenegro.jpg), [TMDB](https://www.themoviedb.org/person/10055).
+
+### L1 · leicht
+
+Womit verdient Fernanda Montenegros Dora in „Central Station“ Geld?
+
+- Mit der Vermittlung von Fahrkarten
+
+- Mit dem Übersetzen von Büchern
+
+- **Richtig: Mit dem Schreiben von Briefen**
+
+- Mit dem Verkauf von Zeitungen
+
+Dora schreibt gegen Bezahlung Briefe für Menschen, die selbst nicht schreiben können.
+
+Die ehemalige Lehrerin sitzt im Bahnhof von Rio de Janeiro. Dort begegnet sie Josué und dessen Mutter. Nach dem Tod der Mutter wird aus der geschäftlichen Begegnung eine Reisegemeinschaft: Dora begleitet den Jungen auf der Suche nach seinem Vater.
+
+Merksatz: Doras Arbeitsplatz ist ein Schreibtisch im Bahnhof.
+
+Gemeinsames Wissensziel: K-F240-20261006-054-L1 (F240-20261006-054-L1).
+
+Quellen: [1](https://player.bfi.org.uk/subscription/film/watch-central-station-1998-online).
+
+### L2 · leicht
+
+Welche religiöse Gestalt spielt Fernanda Montenegro in der Kinofassung von „O Auto da Compadecida“?
+
+- **Richtig: Die Jungfrau Maria**
+
+- Die heilige Martha
+
+- Maria Magdalena
+
+- Die Samariterin am Brunnen
+
+Sie erscheint als Nossa Senhora, die Jungfrau Maria.
+
+Die Gaunerkomödie führt João Grilo (Matheus Nachtergaele) schließlich vor ein jenseitiges Gericht. Dort stehen Jesus, der Teufel und Maria für unterschiedliche Antworten auf Schuld und menschliche Schwäche. Montenegros Figur bringt das titelgebende Mitgefühl in die Verhandlung.
+
+Merksatz: Montenegro verkörpert die Fürsprecherin Maria.
+
+Quellen: [1](https://gshow.globo.com/cultura-pop/filmes/globo-filmes/generos/comedia/oautodacompadecida.ghtml).
+
+### M1 · mittel
+
+Welche Tätigkeit verfolgt Fernanda Montenegros Regina in „The Other Side of the Street“ neben ihrem Alltag als Rentnerin?
+
+- Sie vermittelt Wohnungen an Touristen.
+
+- **Richtig: Sie unterstützt die Polizei als Informantin.**
+
+- Sie recherchiert für eine Lokalzeitung.
+
+- Sie kontrolliert Häuser für eine Versicherung.
+
+Regina beobachtet ihre Umgebung und gibt Hinweise an die Polizei.
+
+Ihre Aufmerksamkeit richtet sich auf einen Mann gegenüber, den sie eines Verbrechens verdächtigt. Der Kontakt zu ihm verändert jedoch die vermeintlich sichere Distanz zwischen Beobachterin und Beobachtetem. Marcos Bernstein verknüpft so eine Kriminalgeschichte mit der Annäherung zweier älterer Menschen.
+
+Merksatz: Regina schaut im Auftrag der Polizei genauer hin.
+
+Quellen: [1](https://tribecafilm.com/festival/archive/512d008f1c7d76e046002416-other-side-of-the-street).
+
+### M2 · mittel
+
+In welchem Medium begann Fernanda Montenegro ihre berufliche Laufbahn als Texterin, Sprecherin und Darstellerin?
+
+- Im Kino
+
+- **Richtig: Im Hörfunk**
+
+- Im Schallplattenhörspiel
+
+- Im Fernsehen
+
+Sie begann bei Rádio MEC.
+
+Bereits als Jugendliche übernahm sie beim Sender unterschiedliche Aufgaben. Erst danach kamen regelmäßige Theater- und Fernsehauftritte hinzu. Ihr beruflicher Ausgangspunkt liegt damit in einer Arbeit, bei der Stimme, Text und Vorstellungskraft eine Szene tragen mussten.
+
+Merksatz: Vor Theater und Fernsehen stand Rádio MEC.
+
+Quellen: [1](https://memoriaglobo.globo.com/perfil/fernanda-montenegro/noticia/fernanda-montenegro.ghtml).
+
+### S1 · schwer
+
+Was verspricht Fernanda Montenegros Wahrsagerin der verlassenen Macabéa in „A Hora da Estrela“?
+
+- **Richtig: Eine Liebe zu einem reichen Ausländer**
+
+- Eine Bühnenkarriere in einer anderen Stadt
+
+- Eine Erbschaft aus dem Besitz ihrer Familie
+
+- Eine Beförderung zur Leiterin ihres Büros
+
+Sie kündigt Macabéa eine glückliche Zukunft mit einem reichen Ausländer an.
+
+Macabéa (Marcélia Cartaxo) lebt als schlecht bezahlte Schreibkraft in São Paulo und ist von ihrem Freund verlassen worden. Die Vorhersage schenkt ihr plötzlich Zuversicht. Gerade dieser Umschlag von alltäglicher Demütigung zu Hoffnung macht Montenegros kurzen Auftritt für das Ende bedeutsam.
+
+Merksatz: Die Prophezeiung verheißt Liebe und Wohlstand.
+
+Quellen: [1](https://www.rtp.pt/programa/tv/p39853).
+
+### S2 · schwer
+
+Welchen Wunsch verfolgt Fernanda Montenegros Zulmira in „A Falecida“ mit wachsender Besessenheit?
+
+- Eine gemeinsame Auswanderung nach Europa
+
+- Ein großes Fest zur Silberhochzeit
+
+- Ein eigenes Haus an der Meeresküste
+
+- **Richtig: Ein prachtvolles eigenes Begräbnis**
+
+Zulmira möchte mit einem luxuriösen Begräbnis gesellschaftliche Anerkennung erzwingen.
+
+Ihr Leben ist von Armut geprägt, ihr Mann ist arbeitslos. Die erträumte Beerdigung soll nachträglich den Glanz herstellen, der ihr im Leben fehlt. Leon Hirszmans Verfilmung eines Stücks von Nelson Rodrigues macht daraus ein bitteres Bild sozialer Zurücksetzung.
+
+Merksatz: Zulmira setzt ihre Hoffnung auf die eigene Beerdigung.
+
+Quellen: [1](https://www.cinetecanacional.net/sedes/detallePelicula.php?FilmId=HO00007734&cinemaId=003).
+
+### E1 · experte
+
+Wie verteilt „The House of Sand“ die Rollen von Fernanda Montenegro über seine Familiengeschichte?
+
+- Sie spielt dieselbe Frau in drei parallelen Lebensentwürfen.
+
+- Sie spielt eine Mutter und die Erzählerin außerhalb der Handlung.
+
+- Sie spielt zwei Schwestern während einer gemeinsamen Reise.
+
+- **Richtig: Sie spielt drei Generationen jeweils im höheren Alter.**
+
+Montenegro verkörpert die älteren Lebensphasen von Großmutter, Tochter und Enkelin.
+
+Andrucha Waddingtons Film beginnt 1910 in den Dünen von Maranhão. Über die Jahrzehnte wechseln die Gesichter zwischen den Generationen: Montenegro übernimmt Dona Maria sowie spätere Lebensphasen von Áurea und Maria. Wiederkehrende Darstellerinnen lassen familiäre Ähnlichkeiten und den langen Ablauf der Zeit sichtbar werden.
+
+Merksatz: Drei Generationen erhalten im Alter Montenegros Gesicht.
+
+Quellen: [1](https://www.kviff.com/en/programme/film/8/2439-the-house-of-sand).
+
+### E2 · experte
+
+Welches Buch bildet die Grundlage der von Fernanda Montenegro erarbeiteten Beauvoir-Lesung „Fernanda Montenegro lê Simone de Beauvoir“?
+
+- Ein sanfter Tod
+
+- Die Mandarins von Paris
+
+- **Richtig: Die Zeremonie des Abschieds**
+
+- Das andere Geschlecht
+
+Ausgangspunkt ist „Die Zeremonie des Abschieds“.
+
+Montenegro bearbeitete Beauvoirs Erinnerungen für eine szenische Lesung und ergänzte später Ausschnitte aus weiteren Texten. Das Programm entwickelte sich aus einer längeren Beschäftigung mit der Schriftstellerin. Die Darstellerin tritt dabei als Lesende und Gestalterin des Textes auf.
+
+Merksatz: Beauvoirs Abschiedsbuch bildet den Ausgangspunkt.
+
+Quellen: [1](https://www.sescsp.org.br/editorial/fernanda-montenegro-traz-leitura-dramatica-de-simone-de-beauvoir-para-o-sesc-14-bis/).
+
+## Norma Aleandro · Bekanntheitsgruppe 4
+
+![Norma Aleandro (1950er-/1960er-Jahre)](Portraets/190.jpg)
+
+Bild: 1950er-/1960er-Jahre; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Norma_Aleandro.jpg), [TMDB](https://www.themoviedb.org/person/46853).
+
+### L1 · leicht
+
+Welchen Verdacht entwickelt Norma Aleandros Alicia in „Die offizielle Geschichte“ über ihre Adoptivtochter?
+
+- Sie könnte mit einer anderen Adoptivtochter vertauscht worden sein.
+
+- Sie könnte aus einer geheim gehaltenen früheren Ehe stammen.
+
+- Sie könnte die Tochter einer früheren Schülerin sein.
+
+- **Richtig: Sie könnte das Kind politisch Verschwundener sein.**
+
+Alicia befürchtet, dass die leiblichen Eltern ihrer Tochter Opfer der Militärdiktatur sind.
+
+Die Geschichtslehrerin hatte die Adoption bislang ebenso wenig hinterfragt wie die offiziellen Darstellungen der politischen Wirklichkeit. Das Gespräch mit einer zurückgekehrten Freundin erschüttert diese Sicherheit. Die Suche nach Gabis Herkunft wird zur Untersuchung des eigenen Lebens.
+
+Merksatz: Die Frage nach Gabis Eltern öffnet Alicias Augen für das Land.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/la-historia-oficial/), [2](https://studsterkel.wfmt.com/programs/interview-norma-aleandro-and-oscar-kramer).
+
+### L2 · leicht
+
+An welcher Krankheit leidet Norma Aleandros Figur in „Der Sohn der Braut“?
+
+- Parkinson
+
+- **Richtig: Alzheimer**
+
+- Epilepsie
+
+- Multipler Sklerose
+
+Norma Belvedere hat Alzheimer.
+
+Ihr Mann Nino (Héctor Alterio) besucht sie täglich im Pflegeheim. Er möchte ihr den alten Wunsch einer kirchlichen Hochzeit erfüllen. Sohn Rafael (Ricardo Darín) muss sich zugleich fragen, warum er seine Mutter so lange nicht besucht hat und seinen Beruf über seine Beziehungen stellt.
+
+Merksatz: Normas Gedächtnisverlust steht neben Ninos anhaltender Liebe.
+
+Quellen: [1](https://cinenacional.com/pelicula/el-hijo-de-la-novia).
+
+### M1 · mittel
+
+Welche Aufgabe hat Norma Aleandros Florencia in „Gaby: A True Story“?
+
+- Sie ist Gabys Verlegerin.
+
+- Sie ist Gabys Universitätsdozentin.
+
+- **Richtig: Sie ist Gabys Pflegerin.**
+
+- Sie ist Gabys Rechtsanwältin.
+
+Florencia Sánchez Morales unterstützt Gaby als Pflegerin.
+
+Die Geschichte beruht auf dem Leben der mexikanischen Schriftstellerin Gabriela Brimmer. Gaby (Rachel Levin) lebt mit einer schweren Zerebralparese und kann ihren linken Fuß gezielt einsetzen. Florencias Unterstützung gehört zu den Voraussetzungen, unter denen sie Bildung und einen eigenen Ausdruck gewinnt.
+
+Merksatz: Florencia begleitet Gabys Alltag und Entwicklung.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Gaby:_A_True_Story).
+
+### M2 · mittel
+
+Warum gerät Norma Aleandros Beba in „Cama adentro“ mit ihrer langjährigen Hausangestellten in Konflikt?
+
+- **Richtig: Beba kann ihren Lohn seit Monaten nicht zahlen.**
+
+- Beba verlangt den Verkauf ihres eigenen Hauses.
+
+- Beba möchte mit ihr nach Spanien ziehen.
+
+- Beba will ihre Arbeit einem Familienmitglied überlassen.
+
+Beba hält an der Hausangestellten fest, obwohl sie deren Lohn nicht mehr bezahlen kann.
+
+Beba lebt nach Argentiniens Wirtschaftskrise vom Verkauf von Kosmetik. Dora (Norma Argentina) arbeitet seit Jahrzehnten für sie und spart für ein eigenes Haus. Die Beschäftigung bleibt für Beba ein Zeichen ihres früheren Status; für Dora geht es um Arbeit und eine unabhängige Zukunft.
+
+Merksatz: Das frühere Statussymbol wird zur unbezahlbaren Beschäftigung.
+
+Quellen: [1](https://cinenacional.com/pelicula/cama-adentro).
+
+### S1 · schwer
+
+Welche Sängerin verkörpert Norma Aleandro in Terrence McNallys Bühnenstück „Master Class“?
+
+- **Richtig: Maria Callas**
+
+- Montserrat Caballé
+
+- Elisabeth Schwarzkopf
+
+- Renata Tebaldi
+
+Sie spielt Maria Callas.
+
+Das Stück zeigt die weitgehend vom Singen zurückgezogene Künstlerin bei einem Meisterkurs an der Juilliard School. Die Arbeit mit jungen Stimmen ruft Erinnerungen an ihre eigene Laufbahn wach. Aleandro spielt damit die Autorität einer Lehrerin und die Verletzlichkeit hinter der großen öffentlichen Figur.
+
+Merksatz: Aleandros Meisterkurs wird von Maria Callas geleitet.
+
+Quellen: [1](https://cdn.teatroscanal.com/wp-content/uploads/2015/02/PROGRAMACION-TC-13-14.pdf).
+
+### S2 · schwer
+
+Welche zusätzliche Aufgabe übernahm Norma Aleandro bei David Stivels Film „Los herederos“?
+
+- Den Filmschnitt
+
+- **Richtig: Die Mitarbeit am Drehbuch**
+
+- Die Regie der Außenaufnahmen
+
+- Die Produktionsleitung
+
+Sie schrieb mit David Stivel das Drehbuch.
+
+Aleandro spielte zugleich María Concepción. Damit war sie an dem Film vor und während der Dreharbeiten beteiligt. Der Credit zeigt einen frühen Bereich ihres Berufslebens, der neben der späteren Bekanntheit als Darstellerin leicht übersehen wird.
+
+Merksatz: In „Los herederos“ spielte und schrieb Aleandro.
+
+Quellen: [1](https://cinenacional.com/pelicula/los-herederos).
+
+### E1 · experte
+
+Welche Ortsbezüge entfernte Norma Aleandro für ihre Inszenierung von Bergmans „Szenen einer Ehe“ mit Ricardo Darín und Érica Rivas?
+
+- Die Bezüge zu Argentinien
+
+- Die Bezüge zu Spanien
+
+- **Richtig: Die Bezüge zu Schweden**
+
+- Die Bezüge zu Frankreich
+
+Sie strich die ausdrücklichen Bezüge zu Schweden.
+
+Aleandro wollte die Beziehungsgeschichte nicht auf einen bestimmten Ort festlegen. Außerdem wählte sie einen weniger feierlichen Ton, in dem Komik in die dramatischen Auseinandersetzungen hineinwirkt. Die Eingriffe dienten ihrem Zugang zum Stück als Regisseurin.
+
+Merksatz: Aleandro löste Bergmans Ehegeschichte von der schwedischen Ortsbindung.
+
+Quellen: [1](https://www.rtve.es/noticias/20151030/norma-aleandro-director-enfrentarse-a-obra-como-si-fuera-primera-vez/1241101.shtml).
+
+### E2 · experte
+
+Wie beschrieb Norma Aleandro ihre Probenarbeit mit Ricardo Darín und Érica Rivas für „Szenen einer Ehe“?
+
+- Sie gab ihnen Aufzeichnungen ihrer eigenen Darstellung als Modell.
+
+- Sie ließ beide zunächst getrennte Rollenfassungen entwickeln.
+
+- Sie erarbeitete die Rollen vorwiegend durch schriftliche Einzelanweisungen.
+
+- **Richtig: Sie diskutierte eigene und von den Darstellern eingebrachte Vorschläge.**
+
+Ihre Arbeit beruhte auf dem Austausch unterschiedlicher Spielvorschläge.
+
+Aleandro verglich die Regie mit der Hilfe bei einer Geburt: Die Darsteller sollten ihre Figuren hervorbringen können. Das Gespräch während der Proben veränderte die ursprünglichen Ideen. Erfahrung erschien dabei als Grundlage gemeinsamer Arbeit mit eigenständigen Schauspielern.
+
+Merksatz: Die Rollen entstanden im Gespräch über Spielvorschläge.
+
+Quellen: [1](https://www.rtve.es/noticias/20151030/norma-aleandro-director-enfrentarse-a-obra-como-si-fuera-primera-vez/1241101.shtml).
+
+## Sônia Braga · Bekanntheitsgruppe 4
+
+![Sônia Braga (2010)](Portraets/191.jpg)
+
+Bild: 2010; Sônia_Braga_no_Cine_Ceará_2010.jpg : Israel Segundo from Fortaleza, Brasil derivative work: Yanguas. CC BY-SA 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:S%C3%B4nia_Braga_no_Cine_Cear%C3%A1_2010_cropped.jpg), [TMDB](https://www.themoviedb.org/person/27396).
+
+### L1 · leicht
+
+Was geschieht Sônia Bragas Dona Flor nach ihrer erneuten Heirat in „Dona Flor und ihre zwei Ehemänner“?
+
+- Ihr erster Mann wird für lebendig erklärt.
+
+- Ihr zweiter Mann verschwindet während einer Reise.
+
+- **Richtig: Ihr erster Mann kehrt als Geist zurück.**
+
+- Ihr zweiter Mann nimmt den Namen des ersten an.
+
+Der verstorbene erste Ehemann erscheint ihr als Geist.
+
+Dona Flor hat nach dem Tod ihres untreuen Mannes noch einmal geheiratet. Seine Rückkehr macht aus dem Gegensatz zwischen den beiden Beziehungen eine fantastische Komödie. Bruno Barreto verfilmte dafür einen Roman von Jorge Amado.
+
+Merksatz: Der zweite Ehemann gehört zum Alltag, der erste kehrt aus dem Jenseits zurück.
+
+Quellen: [1](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::context_id=&BOparam::WScontent::loadArticle::permalink=dona-flor-and-her-two-husbands).
+
+### L2 · leicht
+
+Wogegen wehrt sich Sônia Bragas Clara in „Aquarius“?
+
+- Gegen die Versteigerung des elterlichen Landguts
+
+- **Richtig: Gegen den Verkauf ihrer Wohnung an eine Baufirma**
+
+- Gegen die Privatisierung des örtlichen Schwimmbads
+
+- Gegen die Schließung ihrer Musikschule
+
+Clara will ihre Wohnung trotz des Drucks einer Baufirma behalten.
+
+Die pensionierte Musikkritikerin ist die letzte Bewohnerin des Hauses Aquarius in Recife. Alle anderen Wohnungen hat das Unternehmen bereits erworben. Ihr Zuhause enthält Erinnerungen und Beziehungen, die sich für sie nicht in einen angebotenen Kaufpreis übersetzen lassen.
+
+Merksatz: Clara hält als letzte Bewohnerin am Aquarius fest.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/aquarius/).
+
+### M1 · mittel
+
+Welche Arbeit findet Sônia Bragas Titelheldin in der Telenovela „Gabriela“ von 1975 bei Nacib?
+
+- Sie wird seine Buchhalterin.
+
+- Sie wird seine Hauslehrerin.
+
+- Sie wird seine Schneiderin.
+
+- **Richtig: Sie wird seine Köchin.**
+
+Gabriela wird als Köchin beschäftigt.
+
+Sie ist vor der Dürre geflohen und findet bei Nacib (Armando Bógus), dem Besitzer des Bar Vesúvio, eine neue Existenz. Zwischen beiden entsteht eine Liebesbeziehung. Die Fassung von 1975 machte Bragas Darstellung der eigensinnigen Romanfigur einem großen Fernsehpublikum bekannt.
+
+Merksatz: Gabrielas Kochkunst führt sie zu Nacib.
+
+Quellen: [1](https://memoriaglobo.globo.com/entretenimento/novelas/gabriela-1a-versao/noticia/gabriela-1a-versao.ghtml).
+
+### M2 · mittel
+
+Welche Funktion hat Sônia Bragas Domingas für die Dorfgemeinschaft in „Bacurau“?
+
+- Sie verwaltet das Rathaus.
+
+- Sie leitet die Schule.
+
+- **Richtig: Sie arbeitet als Ärztin.**
+
+- Sie organisiert den Nahverkehr.
+
+Domingas ist die Ärztin des Ortes.
+
+Das Dorf gerät nach dem Tod seiner alten Matriarchin in eine bedrohliche Lage. Schließlich müssen seine Bewohner sich gegen bewaffnete Fremde verteidigen. Domingas gehört zu einer Gemeinschaft, deren Zusammenhalt sich unter dem Angriff bewährt.
+
+Merksatz: Domingas versorgt die Menschen von Bacurau medizinisch.
+
+Quellen: [1](https://burnsfilmcenter.org/booking/bacurau/).
+
+### S1 · schwer
+
+Was versucht Sônia Bragas Júlia nach ihrer Haftentlassung in „Dancin' Days“ besonders zurückzugewinnen?
+
+- Den Besitz eines vom Vater hinterlassenen Restaurants
+
+- **Richtig: Die Nähe ihrer von der Schwester aufgezogenen Tochter**
+
+- Die Leitung eines früher gemeinsam geführten Hotels
+
+- Die Mitgliedschaft in ihrem früheren Tanzensemble
+
+Júlia möchte das Vertrauen und die Zuneigung ihrer Tochter zurückgewinnen.
+
+Während ihrer langen Haft hat Schwester Yolanda (Joana Fomm) Marisa (Gloria Pires) aufgezogen. Yolanda erschwert nun die Annäherung zwischen Mutter und Tochter. Júlias neuer Anfang ist deshalb zugleich ein Konflikt innerhalb der Familie und ein Kampf mit dem Stigma der Haft.
+
+Merksatz: Júlias Rückkehr führt in einen Kampf um die Beziehung zu Marisa.
+
+Quellen: [1](https://memoriaglobo.globo.com/entretenimento/novelas/dancin-days/noticia/dancin-days.ghtml).
+
+### S2 · schwer
+
+Wie unterstützt Sônia Bragas Ruby Archuleta den Bauern in „Milagro – Der Krieg im Bohnenfeld“?
+
+- **Richtig: Sie lässt den Streit in der Lokalzeitung bekannt machen.**
+
+- Sie beantragt für ihn eine Stelle beim Gouverneur.
+
+- Sie vermittelt ihm einen Vertrag mit dem Bauunternehmen.
+
+- Sie kauft ihm sein umstrittenes Grundstück ab.
+
+Ruby gewinnt den Anwalt und Zeitungsmacher Charlie Bloom für einen Bericht.
+
+Joe Mondragon (Chick Vennera) bewässert sein Feld mit Wasser, dessen Nutzung ein großes Freizeitprojekt beansprucht. Ruby bittet Bloom (John Heard), darüber zu schreiben. Aus dem vermeintlich kleinen Regelverstoß wird ein öffentlicher Konflikt um Wasser, Macht und die Zukunft des Ortes.
+
+Merksatz: Ruby macht den Wasserstreit öffentlich.
+
+Quellen: [1](https://catalog.afi.com/Catalog/MovieDetails/58845).
+
+### E1 · experte
+
+Wie verbindet Sônia Bragas Besetzung in „Der Kuss der Spinnenfrau“ die verschiedenen Erzählebenen?
+
+- **Richtig: Sie spielt Frauen aus dem erzählten Kino, einer Fantasie und Valentins Erinnerung.**
+
+- Sie spielt eine Frau, die ihre Identität gegenüber beiden Gefangenen wechselt.
+
+- Sie spielt eine Gefängnisangestellte und deren wechselnde Deckidentitäten.
+
+- Sie spielt drei Frauen einer Familie in aufeinanderfolgenden Jahrzehnten.
+
+Braga tritt als Leni Lamaison, Spinnenfrau und Marta auf.
+
+Molina (William Hurt) erzählt seinem Zellengenossen Filme nach. Valentín (Raúl Juliá) erinnert sich dagegen an seine geliebte Marta. Bragas wiederkehrendes Gesicht führt durch unterschiedliche Arten von Sehnsucht, während die Männer körperlich im Gefängnis eingeschlossen bleiben.
+
+Merksatz: Bragas Mehrfachbesetzung verbindet Kino, Fantasie und Erinnerung.
+
+Quellen: [1](https://www.criterion.com/current/posts/9049-kiss-of-the-spider-woman-revolutionary-transgressions).
+
+### E2 · experte
+
+Warum schlug Sônia Braga für Clara in „Aquarius“ häufig hochgestecktes Haar vor?
+
+- Um die junge Clara durch denselben Look anzunähern
+
+- Um eine aufwendige Perücke während des Drehs zu vermeiden
+
+- Um einen vorgegebenen historischen Frisurenstil einzuhalten
+
+- **Richtig: Um Schatten und Anschlussprobleme durch offenes Haar zu verringern**
+
+Der Vorschlag erleichterte Lichtgestaltung und Bildanschlüsse.
+
+Braga erklärte, dass bewegtes offenes Haar das Gesicht verschatten und zwischen Einstellungen anders liegen kann. Sie zeigte schnell selbst gesteckte Varianten, die außerdem zu Claras praktischem Alltag zu Hause passten. Eine Produktionsentscheidung wurde so Teil der Figur.
+
+Merksatz: Claras Frisur verbindet Alltag und praktische Dreharbeit.
+
+Quellen: [1](https://www.eyeforfilm.co.uk/feature/2017-02-12-sonia-braga-in-conversation-on-the-magic-of-aquarius-and-director-kleber-mendonca-filho-feature-story-by-anne-katrin-titze).
+
+## Mercedes Morán · Bekanntheitsgruppe 4
+
+![Mercedes Morán (2011)](Portraets/192.jpg)
+
+Bild: 2011; Casa de Gobierno de Argentina. CC BY-SA 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Mercedes_Mor%C3%A1n.jpg), [TMDB](https://www.themoviedb.org/person/18499).
+
+### L1 · leicht
+
+In welcher Beziehung steht Mercedes Moráns Delia del Carril zum Titelhelden von „Neruda“?
+
+- Sie ist seine Schwester.
+
+- Sie ist seine Rechtsanwältin.
+
+- **Richtig: Sie ist seine Lebensgefährtin.**
+
+- Sie ist seine Verlegerin.
+
+Delia ist Nerudas Lebensgefährtin.
+
+Der Film begleitet den Dichter in der Zeit seiner politischen Verfolgung in Chile. Delia ist selbst Malerin. Morán beschrieb sie als eine Frau, die Nerudas Arbeit, Kontakte und Leben über lange Zeit mittrug.
+
+Merksatz: Delia steht Neruda als Partnerin und Künstlerin nahe.
+
+Quellen: [1](https://archiv.polyfilm.at/Neruda/Neruda_PH_100dpi_POLYFILM.pdf).
+
+### L2 · leicht
+
+Welchen Betrieb führt Mercedes Moráns Helena mit ihrer Familie in „La niña santa“?
+
+- Eine Tanzschule
+
+- **Richtig: Ein Hotel**
+
+- Ein Kaufhaus
+
+- Eine Privatklinik
+
+Helena lebt und arbeitet im familiengeführten Hotel Termas.
+
+Dort findet ein Ärztekongress statt. Ihre Tochter Amalia (María Alché) begegnet dem Arzt Jano (Carlos Belloso) und deutet diese Begegnung religiös. Der gemeinsame Schauplatz bringt die Welt der Erwachsenen und die Vorstellungen der Jugendlichen unmittelbar zusammen.
+
+Merksatz: Helena gehört zur Familie des Hotels Termas.
+
+Quellen: [1](https://www.festival-cannes.com/f/la-nina-santa/).
+
+### M1 · mittel
+
+Unter welchem Vorwand planen Mercedes Moráns Tali und Mecha in „La Ciénaga“ einen Ausflug nach Bolivien?
+
+- Sie wollen einen Grundstücksverkauf verhandeln.
+
+- **Richtig: Sie wollen Schulsachen einkaufen.**
+
+- Sie wollen eine Familienhochzeit vorbereiten.
+
+- Sie wollen eine kranke Verwandte besuchen.
+
+Als Anlass dient der Einkauf von Schulsachen.
+
+Tali besucht mit ihren Kindern Mecha (Graciela Borges) auf deren heruntergekommenem Landgut. Zwischen Hitze, Familientreffen und alltäglichen Verpflichtungen entwerfen die Frauen eine gemeinsame Reise. Der beiläufige Plan eröffnet die Aussicht, ihre festgefahrene Umgebung wenigstens vorübergehend zu verlassen.
+
+Merksatz: Schulsachen liefern den Anlass für einen möglichen Aufbruch.
+
+Quellen: [1](https://www.criterion.com/current/posts/3444-la-cienaga-what-s-outside-the-frame).
+
+### M2 · mittel
+
+Welche Veränderung bringt Mercedes Moráns Ana und ihren Mann in „El amor menos pensado“ dazu, ihre Ehe neu zu betrachten?
+
+- **Richtig: Ihr einziger Sohn geht zum Studium ins Ausland.**
+
+- Ana übernimmt einen längerfristigen Auslandsauftrag.
+
+- Ein Elternteil zieht dauerhaft in ihre Wohnung.
+
+- Marcos verliert seine berufliche Stellung.
+
+Der Auszug des Sohnes lässt die Leere in ihrer Beziehung sichtbar werden.
+
+Ana und Marcos (Ricardo Darín) sind seit 25 Jahren verheiratet. Als der Sohn nach Spanien geht, beschließen sie einvernehmlich, sich zu trennen. Die neuen Begegnungen und die Erfahrung des Alleinseins stellen anschließend auch die vermeintliche Freiheit auf die Probe.
+
+Merksatz: Nach dem Auszug des Sohnes steht das Paar sich selbst gegenüber.
+
+Quellen: [1](https://cinenacional.com/pelicula/el-amor-menos-pensado).
+
+### S1 · schwer
+
+Welche Aufgabe zwingt Mercedes Moráns Marcela in „Familia sumergida“ zur Auseinandersetzung mit ihrer Trauer?
+
+- Sie muss das Haus ihrer verstorbenen Mutter umbauen.
+
+- Sie muss die Werkstatt ihres verstorbenen Mannes schließen.
+
+- Sie muss den Nachlass ihres verstorbenen Vaters verkaufen.
+
+- **Richtig: Sie muss die Wohnung ihrer verstorbenen Schwester ausräumen.**
+
+Marcela räumt nach dem Tod ihrer Schwester deren Wohnung aus.
+
+Gegenstände und Gespräche lassen die Vergangenheit in ihren Alltag eindringen. Gleichzeitig sucht ein junger Freund ihrer Tochter ihre Nähe. María Alchés Film verbindet diese gegenwärtigen Begegnungen mit Erinnerungen, die für Marcela eine eigene Präsenz gewinnen.
+
+Merksatz: Beim Ausräumen der Wohnung begegnet Marcela der Vergangenheit.
+
+Quellen: [1](https://www.sansebastianfestival.com/2018/sections_and_films/7/660012/in).
+
+### S2 · schwer
+
+Was treibt Mercedes Moráns Hauptfigur in „Elena sabe“ trotz ihrer fortschreitenden Erkrankung an?
+
+- Die Suche nach ihrer als Kind verschwundenen Schwester
+
+- Die Suche nach dem unbekannten Vater ihres Enkels
+
+- **Richtig: Die Untersuchung des plötzlichen Todes ihrer Tochter**
+
+- Die Aufklärung eines Betrugs durch ihren früheren Mann
+
+Elena will klären, wer für den Tod ihrer Tochter verantwortlich ist.
+
+Die an Parkinson erkrankte Mutter versucht, eine Erklärung für den Verlust zu finden. Ihre körperlichen Einschränkungen begleiten die Suche und bestimmen, was ihr im Alltag möglich ist. Der Film basiert auf einem Roman von Claudia Piñeiro.
+
+Merksatz: Elena setzt ihre Kraft für die Suche nach der Wahrheit über ihre Tochter ein.
+
+Quellen: [1](https://www.netflix.com/es/title/81517483), [2](https://media.netflix.com/en/only-on-netflix/81517483).
+
+### E1 · experte
+
+Welche frühere Zusammenarbeit verband Mercedes Morán mit María Alché, bevor diese sie in „Familia sumergida“ inszenierte?
+
+- **Richtig: Beide hatten in „La niña santa“ Mutter und Tochter gespielt.**
+
+- Alché hatte sie als Dokumentarfilmerin auf einer Tournee begleitet.
+
+- Beide hatten gemeinsam das Drehbuch zu „La Ciénaga“ verfasst.
+
+- Alché hatte ihre Theatermonologe ins Spanische übersetzt.
+
+In „La niña santa“ spielten Morán und Alché Helena und Amalia.
+
+Jahre später stand Morán für Alchés ersten Langfilm vor der Kamera. Im Interview beschrieb sie die Freude darüber, ihre frühere Kollegin nun als Regisseurin arbeiten zu sehen. Die Verbindung führt von einem gemeinsamen Ensemble zu einer neuen künstlerischen Aufgabenverteilung.
+
+Merksatz: Aus der früheren Filmtochter wurde Moráns Regisseurin.
+
+Quellen: [1](https://www.tiempoar.com.ar/ta_article/mercedes-moran-me-divierte-cuando-me-alientan-a-tomar-riesgos/).
+
+### E2 · experte
+
+Welche Art Text wurde für Mercedes Moráns Vorbereitung auf Delia del Carril in „Neruda“ besonders wichtig?
+
+- Eine Sammlung ihrer Briefe an Pablo Neruda
+
+- Eine von Delia selbst verfasste Autobiografie
+
+- Ein Tagebuch aus Nerudas Zeit im Untergrund
+
+- **Richtig: Ein Roman über Delias Erleben und Empfinden**
+
+María Fasces Roman „La mujer de Isla Negra“ half ihr bei der Vorbereitung.
+
+Morán wusste zunächst wenig über Delia und begann zu recherchieren. Die Schriftstellerin schickte ihr das Buch, das keine Biografie ist. Für die Darstellerin vermittelte es einen sinnlichen Zugang zu Gewohnheiten und Gefühlen der Frau, die sie verkörpern sollte.
+
+Merksatz: Ein Roman ergänzte Moráns historische Recherche.
+
+Quellen: [1](https://archiv.polyfilm.at/Neruda/Neruda_PH_100dpi_POLYFILM.pdf).
+
+## Graciela Borges · Bekanntheitsgruppe 4
+
+![Graciela Borges (1960er-Jahre)](Portraets/193.jpg)
+
+Bild: 1960er-Jahre; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Graciela_Borges.jpg), [TMDB](https://www.themoviedb.org/person/590943).
+
+### L1 · leicht
+
+Welchem gesellschaftlichen Milieu gehört Graciela Borges’ Mecha in „La ciénaga“ an?
+
+- Einer Bergarbeiterfamilie
+
+- **Richtig: Einer wohlhabenden bürgerlichen Familie**
+
+- Einer reisenden Schaustellerfamilie
+
+- Einer Landarbeiterfamilie
+
+Mecha gehört einer wohlhabenden bürgerlichen Familie an.
+
+Der Landsitz bietet der Familie Komfort, aber sein Zustand ist heruntergekommen. Erwachsene verbringen den heißen Sommer träge am Pool oder im Bett, während die Kinder zwischen den Räumen und draußen umherziehen. Der Film zeigt, wie die Familie von ihren Hausangestellten abhängt und ihnen zugleich mit Vorurteilen begegnet.
+
+Merksatz: Wohlstand schützt Mechas Familie nicht vor Stillstand.
+
+Quellen: [1](https://www.criterion.com/films/28113), [2](https://www.criterion.com/current/posts/3444-la-cienaga-what-s-outside-the-frame).
+
+### L2 · leicht
+
+Welche Beziehung besteht in „Viudas“ zwischen Graciela Borges’ Elena und der jüngeren Adela?
+
+- **Richtig: Elena ist die Ehefrau, Adela die Geliebte desselben Mannes.**
+
+- Elena ist Adelas Arbeitgeberin in einer Filmproduktion.
+
+- Sie sind Mutter und Tochter.
+
+- Sie sind die beiden früheren Ehefrauen desselben Mannes.
+
+Elena ist Augustos Ehefrau; Adela ist seine Geliebte.
+
+Die Dokumentarfilmerin Elena erfährt im Krankenhaus von der Affäre ihres Mannes. Augusto bittet sie kurz vor seinem Tod, sich um Adela (Valeria Bertuccelli) zu kümmern. Ausgerechnet die Frau, die ihren Verrat verkörpert, wird so zu jemandem, mit dem Elena ihr weiteres Leben arrangieren muss.
+
+Merksatz: Ehefrau und Geliebte teilen denselben Verlust.
+
+Quellen: [1](https://www.ficuba.com/prensa/CATALOGO-FICUBA-2025.pdf).
+
+### M1 · mittel
+
+In welches Nachbarland planen Mecha (Graciela Borges) und Tali in „La ciénaga“ eine Einkaufsreise?
+
+- **Richtig: Bolivien**
+
+- Paraguay
+
+- Chile
+
+- Brasilien
+
+Die beiden wollen nach Bolivien fahren.
+
+Als Anlass nennen sie den Kauf von Schulsachen. Für die Frauen wäre die Fahrt auch eine Unterbrechung des festgefahrenen Familienalltags. Talis Mann Rafael (Daniel Valenzuela) behält jedoch die Kontrolle über ihre Bewegungsfreiheit; der Plan gehört zu den Möglichkeiten des Ausbruchs, die im Film nicht verwirklicht werden.
+
+Merksatz: Die geplante Fahrt nach Bolivien verspricht Abstand vom Alltag.
+
+Quellen: [1](https://www.criterion.com/current/posts/3444-la-cienaga-what-s-outside-the-frame).
+
+### M2 · mittel
+
+Wodurch nimmt Graciela Borges’ Susana ihrem Bruder Marcos in „Dos hermanos“ sein bisheriges Zuhause?
+
+- Sie überträgt die Wohnung an einen Pflegeverein.
+
+- **Richtig: Sie verkauft die Wohnung der verstorbenen Mutter.**
+
+- Sie vermietet das Haus an ihre eigenen Kinder.
+
+- Sie meldet das Haus als nicht bewohnbar.
+
+Susana verkauft die Wohnung ihrer Mutter.
+
+Marcos (Antonio Gasalla) hatte lange dort gelebt und die Mutter gepflegt. Nach deren Tod entscheidet Susana über die Wohnung und drängt ihn schließlich, Buenos Aires in Richtung Uruguay zu verlassen. Ihre gegenseitige Abhängigkeit bleibt bestehen, doch Marcos muss erstmals ein eigenes Leben außerhalb der alten Aufgaben beginnen.
+
+Merksatz: Susanas Wohnungsverkauf zwingt Marcos zum Neubeginn.
+
+Quellen: [1](https://trigon-film.org/en/films/dos-hermanos/).
+
+### S1 · schwer
+
+Auf welche Veränderung setzt Fernández nach seiner Verlobung mit Graciela Borges’ Señorita Plasini in „El dependiente“?
+
+- Auf den Verkauf eines von seiner Verlobten geerbten Grundstücks
+
+- Auf eine Auszahlung aus dem Vermögen der Mutter seiner Verlobten
+
+- **Richtig: Auf den Tod seines Arbeitgebers und die Erbschaft der Eisenwarenhandlung**
+
+- Auf die Aufnahme in den Betrieb seines künftigen Schwiegervaters
+
+Er wartet auf den Tod seines Arbeitgebers, um dessen Geschäft zu erben.
+
+Fernández (Walter Vidarte) arbeitet seit Langem in der Eisenwarenhandlung. Der kinderlose Besitzer erscheint ihm zunehmend als Hindernis auf dem Weg zum erhofften eigenen Leben. Die Beziehung zu Señorita Plasini verbindet sich dadurch mit seinem Besitzwunsch; die intime Liebesgeschichte bekommt einen bedrückenden, von Habgier bestimmten Verlauf.
+
+Merksatz: Die gemeinsame Zukunft hängt für Fernández am Erbe des Ladens.
+
+Quellen: [1](https://www.incaa.gob.ar/funcion-homenaje-de-el-dependiente-en-el-cine-gaumont/), [2](https://www.sansebastianfestival.com/1968/sections_and_films/official_section/8/in).
+
+### S2 · schwer
+
+Welcher politische Hintergrund prägt die Familiengeheimnisse in „La quietud“ mit Graciela Borges?
+
+- Die erste Präsidentschaft Juan Peróns
+
+- Der Falklandkrieg als Fronterfahrung der Töchter
+
+- Der argentinische Unabhängigkeitskrieg
+
+- **Richtig: Die argentinische Militärdiktatur**
+
+Die verdrängte Vergangenheit der Familie führt in die Zeit der Militärdiktatur.
+
+Nach dem Schlaganfall ihres Vaters kehrt Eugenia auf den Landsitz bei Buenos Aires zurück. Das Wiedersehen mit Mutter und Schwester bringt lange verborgene Verletzungen und Eifersucht hervor. Pablo Trapero verknüpft die Nähe der drei Frauen mit einer Familiengeschichte, deren dunkle Seiten nicht abgeschlossen sind.
+
+Merksatz: Die private Familiengeschichte trägt Spuren der Diktatur.
+
+Quellen: [1](https://www.labiennale.org/en/cinema/2018/lineup/out-competition/la-quietud).
+
+### E1 · experte
+
+Warum begann Graciela Borges ihre Laufbahn unter einem anderen Familiennamen als ihrem Geburtsnamen Zabala?
+
+- Sie wollte ihre Theaterarbeit von ihren Filmrollen trennen.
+
+- Ihr erster Filmvertrag verlangte einen literarischen Namen.
+
+- **Richtig: Ihr Vater wollte den Familiennamen nicht mit dem Schauspielberuf verbunden sehen.**
+
+- Eine andere Schauspielerin war unter Zabala bereits bekannt.
+
+Ihr Vater lehnte die Verbindung des Familiennamens mit dem Schauspielberuf ab.
+
+Die junge Schauspielerin begegnete dem Schriftsteller Jorge Luis Borges, als sie wegen des Widerstands ihres Vaters verzweifelt war. Er gestattete ihr, seinen Namen zu verwenden. Diese von ihr selbst wiederholt erzählte Begegnung gab ihr den Künstlernamen, unter dem sie ihre Filmkarriere aufbaute.
+
+Merksatz: Der geliehene Name half ihr, den familiären Widerstand zu umgehen.
+
+Quellen: [1](https://www.argentina.gob.ar/noticias/graciela-borges-genio-y-figura-del-cine-argentino), [2](https://prensa.jujuy.gob.ar/dialogos-altura/dialogos-altura-graciela-borges-n23672).
+
+### E2 · experte
+
+Welchen Festivalpreis gewann Graciela Borges 1971 für „Crónica de una señora“?
+
+- Den Silbernen Bären als beste Darstellerin
+
+- Den Darstellerinnenpreis von Cannes
+
+- Die Coppa Volpi von Venedig
+
+- **Richtig: Den Darstellerinnenpreis von San Sebastián**
+
+Sie gewann den Darstellerinnenpreis von San Sebastián.
+
+Das Festivalarchiv nennt Borges für Raúl de la Torres Film ausdrücklich als beste Schauspielerin der Ausgabe 1971. Das Drehbuch entstand unter Beteiligung María Luisa Bembergs. Die Auszeichnung gehört zu jener Zusammenarbeit mit de la Torre, in der Borges neue dramatische Möglichkeiten mit stilleren, näher beobachteten Figuren entwickelte.
+
+Merksatz: San Sebastián ehrte Borges für „Crónica de una señora“.
+
+Quellen: [1](https://www.sansebastianfestival.com/1971/awards_and_jury_members/awards/1/64/in), [2](https://www.argentina.gob.ar/noticias/graciela-borges-genio-y-figura-del-cine-argentino).
+
+## Maggie Cheung · Bekanntheitsgruppe 4
+
+![Maggie Cheung (2007)](Portraets/194.jpg)
+
+Bild: 2007; Roger Wo. CC BY 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Maggie_Cheung_cropped.jpg), [TMDB](https://www.themoviedb.org/person/1338).
+
+### L1 · leicht
+
+Welche Entdeckung verbindet Maggie Cheungs Su Li-zhen und ihren Nachbarn Chow in „In the Mood for Love“?
+
+- **Richtig: Ihre jeweiligen Ehepartner haben eine Affäre miteinander.**
+
+- Ihre Familien stammen aus demselben Dorf.
+
+- Ihre Arbeitgeber sind heimliche Geschäftspartner.
+
+- Ihre Vermieter wollen beide Wohnungen kündigen.
+
+Sie erkennen, dass ihre Ehepartner eine Affäre miteinander haben.
+
+Su und Chow (Tony Leung Chiu-wai) werden durch den Verrat einander näher. Sie versuchen zu verstehen, wie die Beziehung ihrer Partner begonnen haben könnte. Die eigene Annäherung steht dabei unter dem Vorsatz, anders zu handeln als die beiden Menschen, von denen sie verletzt wurden.
+
+Merksatz: Die betrogenen Nachbarn suchen gemeinsam nach Verständnis.
+
+Gemeinsames Wissensziel: K-ART-19-03 (ART-M-037).
+
+Quellen: [1](https://www.criterion.com/current/posts/197).
+
+### L2 · leicht
+
+Welche Beziehung hat Maggie Cheungs May zu Ka-kui in „Police Story 2“?
+
+- Sie ist seine Schwester.
+
+- **Richtig: Sie ist seine Freundin.**
+
+- Sie ist seine Kollegin im Polizeidienst.
+
+- Sie ist die geschützte Hauptzeugin seines Falls.
+
+May ist Ka-kuis Freundin.
+
+Die Beziehung zu May leidet unter Ka-kuis (Jackie Chan) gefährlicher Polizeiarbeit. Nach seiner Zurückstufung hofft sie auf mehr gemeinsame Zeit. Der neue Bombenfall zieht ihn jedoch erneut in den Einsatz und macht deutlich, wie wenig sich Beruf und Privatleben voneinander trennen lassen.
+
+Merksatz: May erlebt die privaten Folgen von Ka-kuis Einsätzen.
+
+Gemeinsames Wissensziel: K-ASI-202610-P01-L-012 (ASI-202610-P01-L-012).
+
+Quellen: [1](https://www.criterion.com/boxsets/1554-police-story-police-story-2).
+
+### M1 · mittel
+
+Was tut Maggie Cheungs Figur in „Irma Vep“ nachts im Hotel, während sie das schwarze Filmkostüm trägt?
+
+- Sie vertauscht die Filmrollen im Hotelzimmer.
+
+- **Richtig: Sie stiehlt einer anderen Hotelgästin eine Halskette.**
+
+- Sie zerstört die Kostüme ihrer Konkurrentin.
+
+- Sie filmt heimlich ein Gespräch des Produzenten.
+
+Sie stiehlt einer amerikanischen Hotelgästin eine Halskette.
+
+Cheung spielt eine Variante ihrer selbst, die für eine Filmproduktion nach Paris kommt. Mit dem glänzenden schwarzen Anzug übernimmt sie außerhalb des Sets das Verhalten ihrer Filmfigur und flieht mit dem Schmuck aufs Dach. Schauspiel, fremdes Rollenbild und eigene Handlung gehen in dieser nächtlichen Episode ineinander über.
+
+Merksatz: Das Kostüm führt vom gespielten zum tatsächlichen Diebstahl.
+
+Quellen: [1](https://www.criterion.com/current/posts/7369-irma-vep-film-in-flux).
+
+### M2 · mittel
+
+Welches persönliche Ziel verfolgt Maggie Cheungs Emily in „Clean“, während sie ihr Leben neu ordnet?
+
+- **Richtig: Sie will ihren bei den Großeltern lebenden Sohn zurückbekommen.**
+
+- Sie will die Schulden ihrer Schwester übernehmen.
+
+- Sie will ihren früheren Manager als Betrüger überführen.
+
+- Sie will ihre Eltern nach Frankreich holen.
+
+Emily möchte ihren Sohn zurückbekommen.
+
+Die Großeltern ziehen das Kind fern von ihr auf. Emily muss ihre Abhängigkeit überwinden und einen tragfähigen Alltag finden, damit die Annäherung möglich wird. Der Film verbindet ihren Neuanfang mit der Frage, ob verlorenes Vertrauen durch konkrete Veränderungen wieder entstehen kann.
+
+Merksatz: Emilys Neuanfang richtet sich auf das Wiedersehen mit dem Sohn.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/clean/).
+
+### S1 · schwer
+
+Wie ergänzt „Center Stage“ die von Maggie Cheung gespielte Lebensgeschichte Ruan Lingyus?
+
+- Durch die vollständige Übernahme von Ruans Tagebüchern als Off-Text
+
+- Durch kommentarlos aneinandergereihte Originalfilme ohne neue Szenen
+
+- Durch einen zweiten Erzählstrang über eine erfundene Enkelin
+
+- **Richtig: Durch Dokumentaraufnahmen und Interviews neben den Spielszenen**
+
+Der Film verbindet Spielszenen mit dokumentarischen Aufnahmen und Interviews.
+
+Stanley Kwan betrachtet Ruan Lingyu und ihre Kollegen im Shanghai der 1930er Jahre. Die zusätzlichen Gesprächs- und Dokumentarebenen lassen zugleich das Hongkonger Kino der frühen 1990er Jahre sichtbar werden. Cheungs Darstellung steht dadurch in einem Dialog mit überlieferten Bildern und heutigen Erinnerungen.
+
+Merksatz: Die Biografie zeigt zugleich das frühere Kino und den heutigen Blick darauf.
+
+Quellen: [1](https://www.filmarchive.gov.hk/en/web/hkfa/2014/stanley-kwan/pe-past-events-2014-15-fs-film02.html).
+
+### S2 · schwer
+
+Die Lieder welcher Sängerin verbinden Maggie Cheungs Li Qiao und Xiaojun in „Comrades: Almost a Love Story“?
+
+- Faye Wong
+
+- Sally Yeh
+
+- **Richtig: Teresa Teng**
+
+- Anita Mui
+
+Die Musik von Teresa Teng verbindet die beiden.
+
+Li Qiao und Xiaojun (Leon Lai) kommen vom chinesischen Festland nach Hongkong, gehen aber später getrennte Wege. Jahre danach treffen sie in New York wieder aufeinander, als die Nachricht von Teresa Tengs Tod die Aufmerksamkeit auf ihre Musik lenkt. Gemeinsame Erinnerung überdauert Ortswechsel und gescheiterte Lebenspläne.
+
+Merksatz: Teresa Tengs Stimme begleitet eine Liebe über mehrere Orte hinweg.
+
+Quellen: [1](https://www.filmarchive.gov.hk/en/web/hkfa/2026/peter-ho-sun-chan/pe-event-2026-peter-ho-sun-chan-fs-film01.html).
+
+### E1 · experte
+
+Für welchen Film erhielt Maggie Cheung 2004 in Cannes den Darstellerinnenpreis?
+
+- „In the Mood for Love“
+
+- „Irma Vep“
+
+- **Richtig: „Clean“**
+
+- „Center Stage“
+
+Sie wurde für „Clean“ ausgezeichnet.
+
+Cannes ehrte ihre Darstellung der Emily in Olivier Assayas’ Film. Der Preis gehört zu einer Arbeit, in der Cheung eine Frau beim Wiederaufbau ihres Lebens spielt. Er ist von ihrem früheren Berliner Darstellerinnenpreis für „Center Stage“ zu unterscheiden.
+
+Merksatz: Cannes 2004 zeichnete Cheungs Emily aus.
+
+Quellen: [1](https://www.festival-cannes.com/en/p/maggie-cheung/), [2](https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Maggie-CHEUNG_e.pdf).
+
+### E2 · experte
+
+In welcher Form zeigt Isaac Juliens „Ten Thousand Waves“ mit Maggie Cheung seine miteinander verwobenen Bilder?
+
+- Als einzelnes durchgehend ungeschnittenes Leinwandbild
+
+- Als Abfolge unbewegter Fotografien mit Live-Erzählung
+
+- Als eine Filmprojektion mit begleitendem Schattenspiel
+
+- **Richtig: Als Videoinstallation mit neun Projektionsflächen**
+
+Das Werk ist eine Videoinstallation mit neun Projektionsflächen.
+
+Cheung verkörpert die Meeresgöttin Mazu. Julien verbindet den Mythos mit Bildern chinesischer Migration und dem Tod von 23 Muschelsammlern in Morecambe Bay. Die parallel verteilten Bilder lassen verschiedene Zeiten und Geschichten gleichzeitig in Beziehung treten; die Schauspielarbeit wird Teil eines räumlich angeordneten Kunstwerks.
+
+Merksatz: Cheungs Mazu erscheint in einer Installation aus neun Bildkanälen.
+
+Quellen: [1](https://www.mplus.org.hk/en/collection/objects/ten-thousand-waves-201676/).
+
+## Brigitte Lin · Bekanntheitsgruppe 4
+
+![Brigitte Lin (2008)](Portraets/195.jpg)
+
+Bild: 2008; Edmund Yeo. CC BY-SA 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Brigitte_lin_ching_hsia.jpg), [TMDB](https://www.themoviedb.org/person/56830).
+
+### L1 · leicht
+
+Welche Haarfarbe zeigt Brigitte Lins geheimnisvolle Figur in „Chungking Express“ mithilfe einer Perücke?
+
+- Rot
+
+- Schwarz
+
+- Grau
+
+- **Richtig: Blond**
+
+Ihre Figur trägt eine blonde Perücke.
+
+Polizist 223 (Takeshi Kaneshiro) begegnet der Frau in einer Bar, ohne zu wissen, dass sie als Drogenschmugglerin in Schwierigkeiten steckt. Ihr auffälliges Erscheinungsbild steht einer kaum greifbaren Identität gegenüber. Der Film führt diese kurze Begegnung anschließend in eine zweite, andere Liebesgeschichte über.
+
+Merksatz: Die blonde Perücke gehört zur rätselhaften Frau der ersten Geschichte.
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-great-films-set-hong-kong).
+
+### L2 · leicht
+
+Welche Funktion hat Brigitte Lins Salina im Fall gegen den Drogenboss in „Police Story“?
+
+- **Richtig: Sie ist eine wichtige Zeugin, die Ka-kui schützen soll.**
+
+- Sie leitet verdeckt Ka-kuis Polizeieinsatz.
+
+- Sie ist die Strafverteidigerin des Drogenbosses.
+
+- Sie ermittelt als Journalistin gegen den Drogenboss.
+
+Salina ist eine zentrale Zeugin, deren Schutz Ka-kui übernimmt.
+
+Ka-kui (Jackie Chan) soll verhindern, dass die Zeugin eingeschüchtert oder beseitigt wird. Dieser Auftrag zieht sie in seine gefährliche Auseinandersetzung mit dem Verbrecherboss hinein. Salinas Nähe zum kriminellen Umfeld wird damit zur Gefahr und zugleich zur Möglichkeit, belastendes Wissen gegen den Boss einzusetzen.
+
+Merksatz: Salina wird vom Umfeld des Bosses zur geschützten Zeugin.
+
+Gemeinsames Wissensziel: K-MAR-05-01 (MAR-L-009).
+
+Quellen: [1](https://www.criterion.com/boxsets/1554-police-story-police-story-2).
+
+### M1 · mittel
+
+Was will Brigitte Lins Dongfang Bubai in „Swordsman II“ durch die körperliche Verwandlung erreichen?
+
+- Eine schwere Vergiftung rückgängig machen
+
+- **Richtig: Die Kräfte des Sonnenblumen-Handbuchs meistern**
+
+- Als Doppelgänger einer gegnerischen Anführerin deren Gefolge übernehmen
+
+- Unsterblichkeit durch die Rückkehr in einen jüngeren Körper gewinnen
+
+Dongfang will die Kampfkunst des Sonnenblumen-Handbuchs beherrschen.
+
+Die Figur unterzieht sich dafür einer Kastration. Der Film rückt den im Roman kleineren Gegenspieler ins Zentrum und verbindet Machtstreben mit einer veränderten geschlechtlichen Erscheinung. Linghu Chong (Jet Li) verliebt sich in Dongfang, ohne zunächst die Identität der vermeintlich unbekannten Frau zu erkennen.
+
+Merksatz: Dongfang verändert den Körper für die Macht des Handbuchs.
+
+Quellen: [1](https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2017-13-1-6.html).
+
+### M2 · mittel
+
+In welchen Loyalitätskonflikt gerät Brigitte Lins Tsao Wan in „Peking Opera Blues“?
+
+- Sie schützt den Juwelenschatz ihres Vaters vor ihrer Schwester.
+
+- Sie dient als Spionin ihres Mannes im Haus ihres Bruders.
+
+- Sie muss zwischen zwei konkurrierenden Operntruppen wählen.
+
+- **Richtig: Sie ist die Tochter eines Kriegsherrn und unterstützt die Revolutionäre.**
+
+Tsao Wan stammt aus dem Haus eines Kriegsherrn, will aber den revolutionären Kräften helfen.
+
+Zufällig verbündet sie sich mit der angehenden Darstellerin Bai Niu (Sally Yeh) und der Sängerin Sheung Hung (Cherie Chung). Ihre unterschiedlichen Vorhaben führen die drei Frauen zusammen. Schließlich planen sie gemeinsam, geheime Briefe Yuan Shikais zu entwenden, wodurch persönliche Wünsche in eine politische Aktion übergehen.
+
+Merksatz: Tsao Wans politischer Weg richtet sich gegen ihr familiäres Machtmilieu.
+
+Quellen: [1](https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2016-9-1-23.html).
+
+### S1 · schwer
+
+Wie sind die von Brigitte Lin gespielten Gestalten Murong Yin und Murong Yang in „Ashes of Time Redux“ verbunden?
+
+- Sie sind getrennt lebende Zwillinge.
+
+- **Richtig: Sie sind zwei Identitäten derselben Figur.**
+
+- Sie sind Lehrerin und Schüler.
+
+- Sie sind Mutter und Sohn.
+
+Murong Yin und Murong Yang sind zwei Identitäten einer Figur.
+
+Das scheinbare Geschwisterpaar begegnet Ouyang Feng (Leslie Cheung) mit widersprüchlichen Aufträgen. Hinter beiden steht dieselbe verletzte Bindung an Huang Yaoshi (Tony Leung Ka-fai): Liebe und der Wunsch, ihn töten zu lassen, lassen sich nicht auf getrennte Menschen verteilen. Lin verändert Haltung und Auftreten für diese gegensätzlichen Selbstbilder.
+
+Merksatz: Yin und Yang teilen eine Person und einen Liebeskonflikt.
+
+Quellen: [1](https://bfidatadigipres.github.io/world%20of%20wong%20kar%20wai/2021/07/10/ashes-of-time/).
+
+### S2 · schwer
+
+Welchen anderen Zugang zum Spiel verlangte Patrick Tam von Brigitte Lin für „Love Massacre“?
+
+- Eine durchgehend starre Haltung vor der Kamera
+
+- Mehr pathetische Deklamation langer Dialoge
+
+- **Richtig: Mehr Ausdruck durch Gesten und Bewegungstempo**
+
+- Ein ausschließlich aus Großaufnahmen bestehendes Mienenspiel
+
+Tam lenkte ihr Spiel stärker auf Gesten und Bewegungstempo.
+
+Lin kam aus romantischen Melodramen, die stark auf Dialog und Gesichtsausdruck setzten. Für den Thriller erhielten ihre kurzen Haare und die westlich geprägte Kleidung ein neues Gegenstück im körperlicheren Spiel. Die Arbeit gehört zu ihrem Übergang vom taiwanischen Starimage zu anderen Ausdrucksformen im Hongkonger Kino.
+
+Merksatz: Tam veränderte nicht nur Lins Erscheinungsbild, sondern ihren körperlichen Ausdruck.
+
+Quellen: [1](https://www.mplus.org.hk/en/cinema/mplus-restored-programme/outside-the-window/), [2](https://www.mplus.org.hk/en/cinema/mplus-restored-programme/love-massacre/).
+
+### E1 · experte
+
+Die Romanverfilmungen welcher Schriftstellerin prägten Brigitte Lins frühes Image als romantische Heldin?
+
+- Sanmao
+
+- Eileen Chang
+
+- **Richtig: Chiung Yao**
+
+- Bing Xin
+
+Die Vorlagen von Chiung Yao prägten viele ihrer frühen Erfolgsfilme.
+
+Schon ihr Debüt „Outside the Window“ zeigt eine Schülerin, die sich in ihren Literaturlehrer verliebt. Die Liebesgeschichte wird durch gesellschaftliche Ablehnung und den Eingriff ihrer Mutter zerstört. Solche Melodramen bestimmten Lins Bild beim Publikum, bevor sie im Hongkonger Kino andere Genres und Figuren erschloss.
+
+Merksatz: Chiung-Yaos Romanwelten gehören zu Lins frühem Starimage.
+
+Quellen: [1](https://goldenhorse.org.tw/news/detail/1922?r=en), [2](https://www.mplus.org.hk/en/cinema/mplus-restored-programme/outside-the-window/).
+
+### E2 · experte
+
+Für welchen Film gewann Brigitte Lin 1990 den Golden Horse als beste Hauptdarstellerin?
+
+- **Richtig: „Red Dust“**
+
+- „Peking Opera Blues“
+
+- „Outside the Window“
+
+- „Police Story“
+
+Der Preis galt ihrer Darstellung in „Red Dust“.
+
+In Yim Hos Film spielt Lin die Schriftstellerin Shen Shaohua, deren Liebe durch Krieg und politische Konflikte belastet wird. Maggie Cheung steht ihr als Freundin zur Seite. Die Golden-Horse-Retrospektive nennt Lins Sieg ausdrücklich; im selben Jahr gewann der Film zahlreiche weitere Preise des Festivals.
+
+Merksatz: Der Golden Horse von 1990 gehört zu Lins Schriftstellerinnenrolle.
+
+Quellen: [1](https://www.goldenhorse.org.tw/film/programme/films/detail/3722?search_category=FF&search_year=2023), [2](https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2024-qp-fs-film04.html).
+
+## Anita Mui · Bekanntheitsgruppe 4
+
+![Anita Mui; Aufnahmejahr nicht belegt](https://image.tmdb.org/t/p/w185/2OXZK1P9SLpx2Uin50HZpvzoOu5.jpg)
+
+Bild: Historische Aufnahme; genaues Jahr nicht belegt; Auf TMDB nicht ausgewiesen. TMDB-Onlineporträt; keine freie Lizenz behauptet. [Bildquelle](https://www.themoviedb.org/person/44917), [TMDB](https://www.themoviedb.org/person/44917).
+
+### L1 · leicht
+
+Welchen Beruf übt Anita Muis Fleur vor ihrem Tod in „Rouge“ aus?
+
+- Ärztin
+
+- Journalistin
+
+- **Richtig: Kurtisane**
+
+- Lehrerin
+
+Fleur ist eine Kurtisane im Hongkong der 1930er Jahre.
+
+Im Vergnügungsviertel Shek Tong Tsui verliebt sich Fleur in den reichen Erben Chan Chen-pang (Leslie Cheung). Seine Familie lehnt die Verbindung ab. Ihre unterschiedliche gesellschaftliche Stellung verhindert damit eine Zukunft, die seine großzügigen Geschenke zunächst möglich erscheinen lassen.
+
+Merksatz: Fleur liebt über die Klassengrenze hinweg.
+
+Quellen: [1](https://www.criterion.com/current/posts/7833-rouge-love-out-of-time).
+
+### L2 · leicht
+
+Was führt Anita Muis Hausfrau in „The Heroic Trio“ nachts heimlich?
+
+- Eine Schmugglergruppe
+
+- Ein illegales Glücksspielhaus
+
+- Eine Klinik für verletzte Gangster
+
+- **Richtig: Ein Leben als Verbrechensbekämpferin**
+
+Sie kämpft nachts als maskierte Heldin gegen Verbrechen.
+
+Als Wonder Woman verfolgt sie die Entführung von Babys. Dabei trifft sie auf eine bewaffnete Söldnerin (Maggie Cheung) und eine geheimnisvolle Frau mit einem unsichtbar machenden Gewand (Michelle Yeoh). Aus ihren unterschiedlichen Positionen entsteht das ungewöhnliche Heldinnentrio.
+
+Merksatz: Hausfrau am Tag, Heldin bei Nacht.
+
+Quellen: [1](https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2018-13-1-21.html).
+
+### M1 · mittel
+
+Mit welchem öffentlichen Suchmittel versucht Anita Muis Fleur in „Rouge“, ihren verschwundenen Geliebten wiederzufinden?
+
+- Einem Aufruf in einer Radiosendung
+
+- **Richtig: Einer Vermisstenanzeige in der Zeitung**
+
+- Einem Suchbrief an die Polizei
+
+- Einem Plakat am ehemaligen Opernhaus
+
+Fleur möchte eine Vermisstenanzeige in der Zeitung aufgeben.
+
+Die Geisterfrau erscheint in einer Redaktion der 1980er Jahre. Der Journalist Yuan (Alex Man) und seine Freundin Chu (Emily Chu) werden in ihre Suche hineingezogen. Für das moderne Paar wird die Begegnung zugleich zu einer Prüfung der eigenen Vorstellungen von Liebe und Treue.
+
+Merksatz: Die Liebe aus der Vergangenheit landet in der Redaktion.
+
+Quellen: [1](https://www.criterion.com/current/posts/7833-rouge-love-out-of-time).
+
+### M2 · mittel
+
+Welche gegensätzlichen Lebensrollen verbindet Anita Muis Titelfigur in „Kawashima Yoshiko“?
+
+- **Richtig: Mandschurische Prinzessin und Spionin**
+
+- Japanische Bäuerin und Opernstar
+
+- Chinesische Ärztin und Widerstandskämpferin
+
+- Russische Aristokratin und Schmugglerin
+
+Sie verkörpert eine mandschurische Prinzessin, die Spionin wird.
+
+Eddie Fongs historisches Epos stellt eine Figur in den Mittelpunkt, deren Auftreten zwischen männlichen und weiblichen Rollen wechselt. Mui verbindet die höfische Herkunft mit dem gefährlichen Leben der Spionin. Die Filmfigur bezieht sich auf die historische Yoshiko Kawashima.
+
+Merksatz: Aus der Prinzessin wird eine Spionin.
+
+Quellen: [1](https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2023-cheungmui-fs-film08.html).
+
+### S1 · schwer
+
+Warum verrät Anita Muis Manlu ihre jüngere Schwester in „Eighteen Springs“?
+
+- Um deren Fabrikarbeitsplatz zu übernehmen
+
+- **Richtig: Um ihre eigene Ehe zu retten**
+
+- Um die Schwester vor einer Auswanderung zu bewahren
+
+- Um eine politische Verhaftung abzuwenden
+
+Manlu verrät ihre Schwester, um die eigene Ehe zu retten.
+
+Manlu hat zuvor zum Unterhalt der Familie beigetragen. Ihre Schwester Manjing (Jacklyn Wu) liebt den wohlhabenden Shijun (Leon Lai). Ausgerechnet die ältere Schwester zerstört nun diese Aussicht auf Glück: Ihr Bedürfnis, die eigene Ehe zu sichern, überwiegt die frühere familiäre Fürsorge.
+
+Merksatz: Familiäre Fürsorge schlägt in Verrat um.
+
+Quellen: [1](https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2023-cheungmui-fs-film20.html).
+
+### S2 · schwer
+
+Wem wendet sich Anita Muis Chan Man-ching in „July Rhapsody“ während ihrer Ehekrise fürsorglich zu?
+
+- **Richtig: Ihrem sterbenden früheren Geliebten**
+
+- Dem neuen Partner ihrer Schwester
+
+- Einem ehemaligen Schüler ihres Mannes
+
+- Dem Vater der Schülerin ihres Mannes
+
+Sie pflegt ihren sterbenden früheren Geliebten.
+
+Während Man-ching sich um Mr. Seng (Tou Chung-hua) kümmert, erlebt ihr Mann Lam Yiu-kwok (Jacky Cheung) die Annäherung einer Schülerin (Karena Lam). Ann Huis Film verbindet Beziehungen zweier Generationen mit einer Ehe, in der lange zurückliegende Erfahrungen erneut wirksam werden.
+
+Merksatz: Die Ehekrise öffnet sich zu einer früheren Liebe.
+
+Quellen: [1](https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2023-cheungmui-fs-film10.html).
+
+### E1 · experte
+
+Welcher Wettbewerb gab Anita Muis Gesangskarriere 1982 den entscheidenden öffentlichen Schub?
+
+- Das Seoul International Song Festival
+
+- Das World Popular Song Festival
+
+- **Richtig: Die New Talent Singing Awards**
+
+- Das Tokyo Music Festival
+
+Sie gewann die ersten New Talent Singing Awards.
+
+Mui stand bereits als Kind auf kleinen Unterhaltungsbühnen. Der Wettbewerb machte ihre lange Bühnenerfahrung und ihre tiefe Stimme einem großen Publikum bekannt. Später verband sie ihre Filmrollen mit einer eigenständigen Karriere als Cantopop-Sängerin und wandelbarer Konzertkünstlerin.
+
+Merksatz: Die erfahrene junge Sängerin gewinnt New Talent.
+
+Quellen: [1](https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Anita-MUI_e.pdf), [2](https://artsandculture.google.com/story/anita-mui-ever-changing-singing-diva-hong-kong-heritage-museum/2wWBO4AGwW53MA?hl=en).
+
+### E2 · experte
+
+Welchen persönlichen Wunsch inszenierte Anita Mui 2003 mit den von Eddie Lau entworfenen Hochzeitskostümen ihrer letzten Konzertreihe?
+
+- Die Hochzeit ihrer Eltern nachzustellen
+
+- Eine traditionelle Opernbraut zu verkörpern
+
+- Eine frühere Filmhochzeit zu wiederholen
+
+- **Richtig: Mit der Bühne verheiratet zu sein**
+
+Die Kostüme erfüllten symbolisch ihren Wunsch, mit der Bühne verheiratet zu sein.
+
+Eddie Lau gestaltete für den Konzertbeginn ein rotgoldenes Gewand und für den Abschied ein helles Brautkleid mit Schleier und langer Schleppe. Die beiden hatten Muis Bühnenbilder über viele Jahre gemeinsam entwickelt. Ihr letzter Auftritt verwandelte diese Zusammenarbeit in eine sehr persönliche Abschiedsgeste.
+
+Merksatz: Das Brautkleid verbindet Anita mit ihrer Bühne.
+
+Quellen: [1](https://artsandculture.google.com/story/anita-mui-ever-changing-singing-diva-hong-kong-heritage-museum/2wWBO4AGwW53MA?hl=en).
+
+## Machiko Kyō · Bekanntheitsgruppe 4
+
+![Machiko Kyō (1959)](Portraets/197.jpg)
+
+Bild: 1959; Daiei Motion Picture Company （大映株式会社）. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Machiko_Ky%C5%8D_1959_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/7451).
+
+### L1 · leicht
+
+In welcher Beziehung steht Machiko Kyōs Figur in „Rashomon“ zum getöteten Samurai?
+
+- Sie ist seine Dienstherrin.
+
+- Sie ist seine Schwester.
+
+- **Richtig: Sie ist seine Ehefrau.**
+
+- Sie ist seine Tochter.
+
+Machiko Kyō spielt die Ehefrau des Samurai.
+
+Die Frau ist selbst Opfer des Überfalls und gehört zu den Figuren, deren Aussagen einander widersprechen. Kyō gestaltet ihre Rolle in den verschiedenen Berichten unterschiedlich. So entsteht kein beständiges Porträt, sondern eine Figur, die sich mit jeder erzählten Version verändert.
+
+Merksatz: Eine Ehefrau, mehrere widersprüchliche Darstellungen.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/news/kyo-machiko-obituary-last-japans-golden-stars).
+
+### L2 · leicht
+
+Was verbirgt sich hinter Machiko Kyōs verführerischer Lady Wakasa in „Ugetsu“?
+
+- Eine Spionin des gegnerischen Heeres
+
+- **Richtig: Der Geist einer verstorbenen Adligen**
+
+- Die verschollene Schwester des Töpfers
+
+- Eine als Adlige verkleidete Räuberin
+
+Lady Wakasa ist der Geist einer verstorbenen Adligen.
+
+Der Töpfer Genjūrō (Masayuki Mori) lässt sich von Wakasa verführen und entfernt sich von seiner Frau und seiner Arbeit. Der vermeintliche gesellschaftliche Aufstieg führt ihn in eine unwirkliche Welt. Kyōs zurückhaltende Bewegungen tragen dazu bei, die Anziehungskraft unheimlich erscheinen zu lassen.
+
+Merksatz: Die verführerische Adlige gehört dem Jenseits an.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/news/kyo-machiko-obituary-last-japans-golden-stars), [2](https://www.criterion.com/films/369).
+
+### M1 · mittel
+
+Wen stellt Machiko Kyōs Kesa zu Beginn von „Gate of Hell“ als Ablenkungsmanöver dar?
+
+- Die Tochter eines Rebellenführers
+
+- **Richtig: Die Kaiserin auf der Flucht**
+
+- Die Schwester des Kriegers Morito
+
+- Eine Botin des gegnerischen Clans
+
+Kesa gibt sich als Kaiserin aus, um die Verfolger abzulenken.
+
+Während des Aufstands soll die fingierte Flucht die Rebellen vom wirklichen Herrscher weglocken. Morito (Kazuo Hasegawa) beschützt Kesas Wagen und verliebt sich in sie. Seine zunächst ehrenhafte Hilfe verwandelt sich später in Besitzansprüche gegenüber der bereits verheirateten Frau.
+
+Merksatz: Die vorgetäuschte Kaiserinnenflucht führt zur gefährlichen Liebe.
+
+Quellen: [1](https://www.criterion.com/current/posts/2727-gate-of-hell-a-colorful-history).
+
+### M2 · mittel
+
+Welches Geheimnis ihres Geliebten bedroht Machiko Kyōs Sumiko in „Floating Weeds“?
+
+- Er hat das Vermögen der Truppe verspielt.
+
+- Er ist mit ihrer jüngeren Kollegin verheiratet.
+
+- **Richtig: Er besucht eine frühere Geliebte und den gemeinsamen Sohn.**
+
+- Er hat einen anderen Künstlernamen angenommen.
+
+Der Leiter der Theatertruppe hat im Ort eine frühere Geliebte und einen Sohn.
+
+Komajūrō (Ganjirō Nakamura) spielt gegenüber seinem Sohn Kiyoshi (Hiroshi Kawaguchi) den Onkel. Sumiko erkennt, dass sein Leben außerhalb der wandernden Truppe weit mehr umfasst, als sie wusste. Ihre Eifersucht gefährdet das Familiengeheimnis, während die Aufführungen wenig Publikum finden.
+
+Merksatz: Der angebliche Onkel führt eine verborgene Vaterrolle.
+
+Quellen: [1](https://harvardfilmarchive.org/calendar/floating-weeds).
+
+### S1 · schwer
+
+Welche kulturelle Orientierung prägt Machiko Kyōs Mickey in „Street of Shame“ besonders?
+
+- Die französische höfische Etikette
+
+- Die sowjetische Arbeiterkultur
+
+- Die traditionelle japanische Hofkultur
+
+- **Richtig: Die amerikanische Alltags- und Popkultur**
+
+Mickey präsentiert sich deutlich amerikanisiert.
+
+Mickey gehört zu den Frauen im Bordell Dreamland. Ihr freches, körperlich lebhaftes Auftreten unterscheidet sie von den anderen Beschäftigten. Die Flucht vor einem beherrschenden Vater hat ihr jedoch keine gesicherte Unabhängigkeit gebracht: Auch dieser Arbeitsort bindet die Frauen an wirtschaftliche Abhängigkeiten.
+
+Merksatz: Amerikanisierte Frechheit schützt Mickey nicht vor Abhängigkeit.
+
+Quellen: [1](https://www.criterion.com/current/posts/705-eclipse-series-13-kenji-mizoguchi-s-fallen-women).
+
+### S2 · schwer
+
+Warum bringt Ikukos Ehemann Machiko Kyōs Figur in „Odd Obsession“ mit einem jüngeren Mann zusammen?
+
+- **Richtig: Er hofft, durch Eifersucht seine eigene Potenz zu beleben.**
+
+- Er will seine Frau zu einer Scheidung zwingen.
+
+- Er möchte die Heirat seiner Tochter verhindern.
+
+- Er will einen Erben für sein Geschäft gewinnen.
+
+Er will seine eigene sexuelle Erregung durch Eifersucht wiederbeleben.
+
+Kenji Kenmochi (Ganjirō Nakamura) fühlt sich von der Jugend seiner Frau Ikuko eingeschüchtert. Er bezieht deshalb den jungen Mann aus dem Umfeld ihrer Tochter in sein intimes Kalkül ein. Kon Ichikawas schwarze Komödie macht aus dem vermeintlichen Heilmittel ein zerstörerisches Beziehungsmanöver.
+
+Merksatz: Der Ehemann verordnet sich Eifersucht.
+
+Quellen: [1](https://www.criterionchannel.com/odd-obsession/videos/odd-obsession), [2](https://www.bfi.org.uk/sight-and-sound/news/kyo-machiko-obituary-last-japans-golden-stars).
+
+### E1 · experte
+
+An welche japanische Theatertradition knüpft Machiko Kyōs Bewegungsstil als Lady Wakasa in „Ugetsu“ an?
+
+- **Richtig: Nō**
+
+- Shingeki
+
+- Bunraku
+
+- Kyōgen
+
+Der Bewegungsstil greift die Tradition des Nō-Theaters auf.
+
+Nō kennt Geistergestalten, deren unerfüllte Wünsche sie an die Lebenden binden. Kyō nutzt die langsame, kontrollierte Bewegung für Wakasas unheimliche Präsenz. Die Wirkung entsteht damit aus einer konkreten darstellerischen Tradition und nicht allein aus der Enthüllung ihrer übernatürlichen Identität.
+
+Merksatz: Wakasas Geisterwirkung lebt auch von Nō-Bewegungen.
+
+Quellen: [1](https://www.criterion.com/current/posts/6408-remembering-machiko-kyo).
+
+### E2 · experte
+
+Warum erhielt Machiko Kyō den Beinamen „Grand Prix actress“?
+
+- Sie übernahm die Hauptrollen einer preisgekrönten Fernsehtrilogie.
+
+- Sie gewann dreimal den Schauspielpreis desselben Festivals.
+
+- Sie leitete die Jury des ersten japanischen Filmfestivals.
+
+- **Richtig: Mehrere ihrer Filme feierten internationale Festival- und Auslandserfolge.**
+
+Ihre Rollen in international ausgezeichneten Filmen begründeten den Beinamen.
+
+Daiei setzte bei der Vermarktung auf Kyōs Präsenz in „Rashomon“, „Ugetsu“ und „Gate of Hell“. Die Erfolge auf Festivals und die anschließenden amerikanischen Kinoauswertungen machten sie im Ausland zu einem Gesicht des japanischen Films. Der Beiname bezeichnet diese Verbindung mehrerer Werke, keinen einzelnen Schauspielpreis.
+
+Merksatz: Drei erfolgreiche Filme machen Kyō international sichtbar.
+
+Quellen: [1](https://www.criterion.com/current/posts/6408-remembering-machiko-kyo).
+
+## Hideko Takamine · Bekanntheitsgruppe 4
+
+![Hideko Takamine (Um 1955)](Portraets/198.jpg)
+
+Bild: Um 1955; 挿美会. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Hideko_Takamine,_circa_1955.jpg), [TMDB](https://www.themoviedb.org/person/213504).
+
+### L1 · leicht
+
+Welchen Beruf übt Hideko Takamines Hisako in „Twenty-Four Eyes“ aus?
+
+- Krankenschwester
+
+- **Richtig: Lehrerin**
+
+- Postbeamtin
+
+- Fischerin
+
+Hisako ist Lehrerin in einer ländlichen Inselgemeinde.
+
+Der Film begleitet ihre ersten zwölf Schulkinder vom Ende der 1920er Jahre durch Krieg und Nachkriegszeit. Hisako nimmt die familiären Sorgen der Kinder ernst. Viele Lebenswege verändern sich durch Armut und Krieg; ihre Verbundenheit mit den ehemaligen Schülern reicht weit über den Unterricht hinaus.
+
+Merksatz: Hisako begleitet ihre Schulkinder durch die Zeit.
+
+Quellen: [1](https://www.criterion.com/films/745-twenty-), [2](https://www.criterion.com/current/posts/582-twenty-four-eyes-growing-pains).
+
+### L2 · leicht
+
+In welchem Arbeitsumfeld begegnet Hideko Takamines Keiko in „When a Woman Ascends the Stairs“ ihren Kunden?
+
+- **Richtig: In einer Bar als Gastgeberin**
+
+- In einer Schneiderei
+
+- In einer Arztpraxis
+
+- In einem Reisebüro
+
+Keiko arbeitet als Barhostess im Tokioter Ginza-Viertel.
+
+Nach dem Tod ihres Mannes bestreitet sie als geschätzte Gastgeberin ihren Lebensunterhalt. Sie unterhält Geschäftsleute nach Feierabend, möchte aber über ihre Zukunft selbst bestimmen. Ihr Ansehen schützt sie kaum vor den Erwartungen der Männer, von denen ihr Einkommen abhängt.
+
+Merksatz: Keiko arbeitet in Ginzas nächtlicher Barwelt.
+
+Quellen: [1](https://www.criterion.com/films/816).
+
+### M1 · mittel
+
+Mit welcher Idee will Hideko Takamines Okoma in „Hideko the Bus Conductor“ mehr Fahrgäste gewinnen?
+
+- Sie lässt Kinder kostenlos mitfahren.
+
+- Sie richtet einen Nachtverkehr ein.
+
+- Sie verkauft Mahlzeiten während der Fahrt.
+
+- **Richtig: Sie erläutert während der Fahrt die Sehenswürdigkeiten.**
+
+Okoma will die Busfahrt durch einen gesprochenen Reisekommentar aufwerten.
+
+Die kleine Busgesellschaft verliert Kunden an eine beliebtere Konkurrenz. Okoma bereitet deshalb Erklärungen zu den Stationen und Landschaften der Strecke vor und übt Stimme und Gesten. Ihr Engagement richtet sich auf den bedrohten Betrieb, während die Entscheidung über dessen Zukunft bei anderen liegt.
+
+Merksatz: Aus der Busfahrt soll eine kleine Besichtigungstour werden.
+
+Quellen: [1](https://www.criterion.com/current/posts/7394-step-by-step-hideko-takamine-in-when-a-woman-ascends-the-stairs), [2](https://harvardfilmarchive.org/public/upload/print/6862c621a7f6a.pdf).
+
+### M2 · mittel
+
+In welcher familiären Beziehung steht der verliebte Kōji zu Hideko Takamines verwitweter Reiko in „Yearning“?
+
+- Er ist ihr Cousin.
+
+- **Richtig: Er ist ihr Schwager.**
+
+- Er ist ihr Onkel.
+
+- Er ist ihr Stiefsohn.
+
+Kōji ist Reikos Schwager, der Bruder ihres verstorbenen Mannes.
+
+Reiko führt den Laden der Familie ihres gefallenen Mannes. Während dessen Schwestern ihre weitere Beschäftigung infrage stellen, fordert Kōji (Yūzō Kayama), dass sie sich mit seiner Liebe auseinandersetzt. Familiäre Pflicht, wirtschaftliche Zukunft und verdrängtes Begehren geraten miteinander in Konflikt.
+
+Merksatz: Der Schwager stellt Reikos familiäre Bindung auf die Probe.
+
+Quellen: [1](https://rijs.fas.harvard.edu/events/film-screening-yearning-midareru), [2](https://jffau.jpf.go.jp/film/yearning/).
+
+### S1 · schwer
+
+Wie versucht Hideko Takamines Keiko in „When a Woman Ascends the Stairs“, eine eigene Bar zu finanzieren, ohne die Geliebte eines Geldgebers zu werden?
+
+- Durch einen Kredit ihres Barleiters
+
+- Durch den Vorschuss eines Getränkehändlers
+
+- **Richtig: Durch finanzielle Beiträge mehrerer wohlhabender Kunden**
+
+- Durch den Verkauf des Familienhauses
+
+Sie wirbt bei mehreren reichen Kunden um Geld für die eigene Bar.
+
+Ein einzelner Patron würde zwar die Eröffnung ermöglichen, aber persönliche Gegenleistungen erwarten. Keiko sucht deshalb eine andere Finanzierung. Die Alternative einer Ehe erscheint ebenfalls unsicher: Ihr scheinbar zuverlässiger Bewerber Sekine (Daisuke Katō) entpuppt sich als bereits verheirateter Mann.
+
+Merksatz: Mehrere Geldgeber sollen den persönlichen Patron ersetzen.
+
+Quellen: [1](https://www.criterion.com/current/posts/471-when-a-woman-ascends-the-stairs-they-endure).
+
+### S2 · schwer
+
+Wo begann die Kriegsaffäre, die Hideko Takamines Yukiko in „Floating Clouds“ nach der Heimkehr wiederbeleben möchte?
+
+- In Korea
+
+- In der Mandschurei
+
+- Auf Okinawa
+
+- **Richtig: In Französisch-Indochina**
+
+Die Beziehung begann während ihrer Arbeit in Französisch-Indochina.
+
+Yukiko arbeitete dort als Schreibkraft, Kengo (Masayuki Mori) als verheirateter Mitarbeiter des Forstministeriums. Im zerstörten Nachkriegsjapan suchen sie Anschluss an die frühere Beziehung. Die Rückblenden an den hellen kolonialen Schauplatz stehen gegen die bedrückende Gegenwart und die Aussichtslosigkeit ihrer Wiederannäherung.
+
+Merksatz: Die helle Kriegsvergangenheit liegt in Französisch-Indochina.
+
+Quellen: [1](https://rijs.fas.harvard.edu/events/film-screening-floating-clouds-ukigumo).
+
+### E1 · experte
+
+Wie veränderte Hideko Takamine ab „Lightning“ gemeinsam mit Mikio Naruse manche Dialogstellen?
+
+- Sie ergänzte erklärende Erzählerkommentare.
+
+- Sie ließ die Dialoge als Zwischentitel einblenden.
+
+- **Richtig: Sie ersetzte gesprochene Sätze durch Blicke oder Gesten.**
+
+- Sie übertrug die Sätze auf andere Figuren.
+
+Sie strich Sätze und ersetzte sie durch Blicke oder Gesten.
+
+Takamines ausdrucksstarkes Gesicht trug die Darstellung, ohne große Gefühlsausbrüche zu benötigen. Naruse gab ihr nach ihrer eigenen Erinnerung kaum direkte Spielanweisungen. Dass sie an den Texten mitarbeitete, erklärt einen Teil der präzisen stummen Reaktionen in ihren gemeinsamen Filmen.
+
+Merksatz: Weniger gesprochene Worte, mehr darstellerische Präzision.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/news/takamine-hideko-1924-2010).
+
+### E2 · experte
+
+Welchen beruflichen Schritt machte Hideko Takamine 1950, um Rollen bei unterschiedlichen Regisseuren freier wählen zu können?
+
+- **Richtig: Sie verließ Shintōhō und arbeitete freiberuflich.**
+
+- Sie gründete eine eigene Theatertruppe.
+
+- Sie wechselte in die feste Besetzung eines Rundfunksenders.
+
+- Sie band sich exklusiv an ein Fernsehstudio.
+
+Sie verließ das Studio Shintōhō und wurde freiberufliche Schauspielerin.
+
+Diese Entscheidung erweiterte ihre Wahlmöglichkeiten über die Bindung an ein einzelnes Studio hinaus. Auch nach ihrer Heirat mit dem Drehbuchautor und Regisseur Zenzō Matsuyama blieb sie berufstätig. Takamine verstand die arbeitende Ehefrau ausdrücklich als ein Lebensmodell, das sie selbst verwirklichen wollte.
+
+Merksatz: Freie Rollenwahl statt Bindung an Shintōhō.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/news/takamine-hideko-1924-2010).
+
+## Isuzu Yamada · Bekanntheitsgruppe 4
+
+![Isuzu Yamada (1936)](Portraets/199.jpg)
+
+Bild: 1936; Daiichi Eiga. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Isuzu_Yamada_in_Naniwa_erejii_(1936).jpg), [TMDB](https://www.themoviedb.org/person/33761).
+
+### L1 · leicht
+
+In welcher Beziehung steht Isuzu Yamadas Asaji zu Washizu in „Das Schloss im Spinnwebwald“?
+
+- Sie ist seine Tochter.
+
+- Sie ist seine Schwester.
+
+- Sie ist seine Dienstherrin.
+
+- **Richtig: Sie ist seine Ehefrau.**
+
+Asaji ist die Ehefrau des ehrgeizigen Kriegers Washizu.
+
+Die beiden bilden das Machtzentrum von Kurosawas japanischer Bearbeitung der Macbeth-Geschichte. Washizu (Toshirō Mifune) reagiert heftig und körperlich, während Asaji ihre Absichten mit kontrollierter Ruhe verfolgt. Der Gegensatz ihrer Darstellung macht die gemeinsame politische Ambition besonders beunruhigend.
+
+Merksatz: Asaji und Washizu bilden ein gefährliches Ehepaar.
+
+Quellen: [1](https://bfidatadigipres.github.io/japan%202021%3Cbr%3E%20100%20years%20of%20japanese%20cinema/2021/10/19/throne-of-blood/), [2](https://www.criterion.com/current/posts/270-throne-of-blood-shakespeare-transposed).
+
+### L2 · leicht
+
+Welchen Beruf hat Isuzu Yamadas Omocha in „Sisters of the Gion“?
+
+- **Richtig: Geisha**
+
+- Verkäuferin
+
+- Fabrikarbeiterin
+
+- Lehrerin
+
+Omocha arbeitet wie ihre ältere Schwester als Geisha.
+
+Die Schwestern leben im Kyōtoer Gion-Viertel. Omocha begegnet männlichen Geldgebern misstrauisch und versucht, sie für den eigenen Vorteil einzusetzen. Ihre Schwester Umekichi (Yōko Umemura) hält dagegen an Loyalität und traditionellen Verpflichtungen fest. Beide suchen Sicherheit innerhalb derselben Abhängigkeit.
+
+Merksatz: Omocha kämpft als Geisha gegen die Regeln ihres Berufs.
+
+Quellen: [1](https://www.criterion.com/current/posts/705-eclipse-series-13-kenji-mizoguchi-s-fallen-women).
+
+### M1 · mittel
+
+Warum lässt sich Isuzu Yamadas Ayako in „Osaka Elegy“ auf die Beziehung mit ihrem Vorgesetzten ein?
+
+- Um den Geliebten ihrer Schwester zu vertreiben
+
+- Um eine Ausreisegenehmigung zu erhalten
+
+- Um eine eigene Vermittlungsagentur zu eröffnen
+
+- **Richtig: Um ihren verschwenderischen Vater finanziell zu unterstützen**
+
+Sie will ihrem verschwenderischen Vater aus finanziellen Schwierigkeiten helfen.
+
+Ayako arbeitet als Telefonistin. Der Versuch, die wirtschaftlichen Folgen des väterlichen Verhaltens aufzufangen, bringt sie in ein kompromittierendes Verhältnis zu ihrem Chef. Ihre familiäre Hilfsbereitschaft verschafft ihr dadurch keine Anerkennung, sondern verschärft ihre eigene gesellschaftliche Verwundbarkeit.
+
+Merksatz: Ayako bezahlt für die Geldnot ihres Vaters.
+
+Quellen: [1](https://www.criterion.com/films/968-osaka-elegy), [2](https://www.criterion.com/current/posts/915-osaka-elegy).
+
+### M2 · mittel
+
+Welche Handlung wiederholt Isuzu Yamadas Asaji gegen Ende von „Das Schloss im Spinnwebwald“ zwanghaft?
+
+- Sie verbrennt blutbefleckte Briefe.
+
+- Sie schabt einen Blutfleck von der Wand.
+
+- **Richtig: Sie versucht, ihre Hände sauber zu waschen.**
+
+- Sie vergräbt eine blutige Waffe.
+
+Asaji versucht immer wieder, ihre Hände sauber zu waschen.
+
+Die zuvor beherrschte Figur verliert die Kontrolle. Die Handbewegung verdichtet ihren Zusammenbruch, während Washizus Herrschaft bereits bedroht ist. Kurosawa verbindet das Motiv aus der Shakespeare-Tragödie mit stilisierten Bewegungen des Nō-Theaters; die seelische Krise wird als körperlicher Vorgang sichtbar.
+
+Merksatz: Asajis ruhige Kontrolle endet im zwanghaften Waschen.
+
+Quellen: [1](https://bfidatadigipres.github.io/japan%202021%3Cbr%3E%20100%20years%20of%20japanese%20cinema/2021/10/19/throne-of-blood/).
+
+### S1 · schwer
+
+Wie bewertet der Ausgang von „Sisters of the Gion“ die unterschiedlichen Überlebensstrategien von Isuzu Yamadas Omocha und ihrer Schwester?
+
+- Umekichis Loyalität verschafft beiden einen unabhängigen Beruf.
+
+- Die Schwestern tauschen erfolgreich ihre Geldgeber aus.
+
+- **Richtig: Weder Auflehnung noch Anpassung befreien sie aus der Abhängigkeit.**
+
+- Omochas Täuschungen sichern beiden dauerhaften Wohlstand.
+
+Keine der beiden Strategien verschafft den Schwestern einen gesicherten Ausweg.
+
+Omocha manipuliert ihre Kunden, während Umekichi an ihrer Bindung zu einem gescheiterten Geschäftsmann festhält. Mizoguchi führt beide Wege in die Enttäuschung. Omochas abschließende Anklage richtet sich deshalb gegen die Einrichtung des Geisha-Berufs und die Macht der Männer über die Frauen.
+
+Merksatz: Auflehnung und Loyalität enden im selben System.
+
+Quellen: [1](https://www.criterion.com/current/posts/705-eclipse-series-13-kenji-mizoguchi-s-fallen-women).
+
+### S2 · schwer
+
+Welche Entdeckung über Isuzu Yamadas Mutterfigur erschüttert die Töchter in „Tokyo Twilight“?
+
+- **Richtig: Die für tot gehaltene Mutter lebt in der Nähe mit einem anderen Mann.**
+
+- Ihre Mutter hat heimlich den Familienbetrieb übernommen.
+
+- Die vermeintliche Mutter ist die Schwester ihres Vaters.
+
+- Die Eltern waren entgegen ihrer Erzählung nie verheiratet.
+
+Die Töchter erfahren, dass ihre vermeintlich verstorbene Mutter noch in der Nähe lebt.
+
+Takako (Setsuko Hara) und Akiko (Ineko Arima) leben beim Vater Shūkichi (Chishū Ryū). Die Wiederkehr der verlassenen Vergangenheit verschärft ihre gegenwärtigen Beziehungskrisen. Ozu erzählt hier von einer Familie, deren Trennung lange verdrängt wurde und nun schmerzlich sichtbar wird.
+
+Merksatz: Die tote Mutter lebt als verdrängte Vergangenheit weiter.
+
+Quellen: [1](https://harvardfilmarchive.org/calendar/twilight-in-tokyo-1999-10), [2](https://www.criterion.com/films/771-tokyo).
+
+### E1 · experte
+
+Woran orientierten sich Isuzu Yamadas Gesichtsausdruck und Schminke als Asaji in „Das Schloss im Spinnwebwald“?
+
+- An naturalistischen Fotografien von Hofdamen
+
+- **Richtig: An Masken des Nō-Theaters**
+
+- An der Schminkweise des japanischen Revuetheaters
+
+- An europäischen Porträts der Renaissance
+
+Kurosawa ließ Ausdruck und Schminke an Nō-Masken anknüpfen.
+
+Die maskenhafte Ruhe gehört zu einem umfassenderen Gestaltungskonzept. Nō prägt auch Bewegungen, Musik und karge Räume. Yamada spielt Asaji deshalb mit stark kontrollierter Mimik, während die Landschaft und das Wetter einen Teil der emotionalen Spannung tragen.
+
+Merksatz: Asajis Gesicht wirkt wie eine Nō-Maske.
+
+Quellen: [1](https://www.criterion.com/current/posts/270-throne-of-blood-shakespeare-transposed).
+
+### E2 · experte
+
+Wessen Bühnenstück über gesellschaftlich Ausgestoßene liegt „Nachtasyl“ mit Isuzu Yamada als Vermieterin Osugi zugrunde?
+
+- Nikolai Gogols
+
+- **Richtig: Maxim Gorkis**
+
+- Iwan Turgenews
+
+- Anton Tschechows
+
+Der Film bearbeitet Maxim Gorkis Stück „Nachtasyl“.
+
+Kurosawa verlegt die Geschichte in das Japan des 19. Jahrhunderts. Osugi und ihr Mann Rokubei (Ganjirō Nakamura) vermieten Schlafplätze an Menschen am Rand der Gesellschaft. Das enge Quartier verbindet ein großes Ensemble; Illusionen über ein anderes Leben treffen dort auf bedrückende materielle Verhältnisse.
+
+Merksatz: Gorkis Nachtasyl wird zum japanischen Quartier.
+
+Quellen: [1](https://www.criterion.com/films/857-the-lower-depths), [2](https://www.criterionchannel.com/films/OUTXNejH/the-lower-depths).
+
+## Kyōko Kagawa · Bekanntheitsgruppe 4
+
+![Kyōko Kagawa (1952)](Portraets/200.jpg)
+
+Bild: 1952; Directed by en:Mikio Naruse , produced by en:Daiei Film. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Ky%C5%8Dko_Kagawa_2.jpg), [TMDB](https://www.themoviedb.org/person/34374).
+
+### L1 · leicht
+
+Welche Stellung hat Kyōko Kagawas Figur Kyōko in der Familie von „Die Reise nach Tokyo“?
+
+- Die Enkelin des alten Ehepaars
+
+- Die Schwiegertochter des alten Ehepaars
+
+- **Richtig: Die jüngste Tochter des alten Ehepaars**
+
+- Die Nichte des alten Ehepaars
+
+Kyōko ist die jüngste Tochter des Ehepaars Hirayama.
+
+Sie bleibt in Onomichi, während die Eltern ihre anderen Kinder besuchen. Anders als die verheirateten Geschwister lebt sie noch am Heimatort. Nach der Rückkehr und dem Tod der Mutter tritt ihre Enttäuschung über das Verhalten der älteren Geschwister offen hervor.
+
+Merksatz: Kyōko bleibt als jüngste Tochter in Onomichi.
+
+Quellen: [1](https://www.criterion.com/current/posts/301-tokyo-story-compassionate-detachment), [2](https://www.criterion.com/current/posts/9249-kyoko-kagawa-rarities).
+
+### L2 · leicht
+
+Welche Figur spielt Kyōko Kagawa in Kurosawas Entführungsthriller „Zwischen Himmel und Hölle“?
+
+- Die Ärztin des Entführers
+
+- **Richtig: Die Ehefrau des Unternehmers Gondo**
+
+- Die Vorgesetzte des Ermittlers
+
+- Die Schwester des Chauffeurs
+
+Sie spielt Reiko, die Ehefrau des Unternehmers Kingo Gondo.
+
+Gondo (Toshirō Mifune) glaubt zunächst, sein Sohn sei entführt worden. Als sich herausstellt, dass der Täter das Kind des Chauffeurs erwischt hat, bleibt die Lösegeldforderung bestehen. Die Krise dringt damit in den häuslichen Raum ein und zwingt die Familie zur Auseinandersetzung mit ihrer gesellschaftlichen Stellung.
+
+Merksatz: Reiko gehört zur Familie des bedrohten Unternehmers.
+
+Quellen: [1](https://www.criterion.com/films/543-high-and-low), [2](https://whatson.bfi.org.uk/Online/article/high-and-low-2024).
+
+### M1 · mittel
+
+Wessen Flucht schützt Anju (Kyōko Kagawa) in „Sansho the Bailiff“ mit ihrem eigenen Leben?
+
+- Die Flucht von Sanshos Sohn
+
+- Die Flucht ihrer Mutter
+
+- Die Flucht ihres Vaters
+
+- **Richtig: Die Flucht ihres Bruders Zushiō**
+
+Anju opfert sich, um die Flucht ihres Bruders Zushiō zu schützen.
+
+Die Geschwister sind als Kinder in die Sklaverei verkauft worden. Während Zushiō (Yoshiaki Hanayagi) sich zeitweise den brutalen Regeln des Lagers anpasst, bewahrt Anju die Erinnerung an die Menschlichkeit ihres Vaters. Ihr Opfer ermöglicht dem Bruder den Weg aus der Gefangenschaft.
+
+Merksatz: Anju schützt Zushiōs Weg in die Freiheit.
+
+Quellen: [1](https://www.criterion.com/current/posts/960-sansho-the-bailiff).
+
+### M2 · mittel
+
+Was bringt Osan (Kyōko Kagawa) in „A Story from Chikamatsu“ auf dem Biwa-See dazu, den geplanten gemeinsamen Tod abzulehnen?
+
+- Ein Angebot zur Begnadigung
+
+- **Richtig: Moheis Liebesgeständnis**
+
+- Die Nachricht vom Tod ihres Mannes
+
+- Die Aussicht auf eine Überfahrt ins Ausland
+
+Moheis Liebesgeständnis weckt in Osan den Wunsch weiterzuleben.
+
+Osan und Mohei (Kazuo Hasegawa) werden als Ehebrecher verfolgt, obwohl ihre Beziehung bis dahin platonisch war. Im Boot bereiten sie ihren Tod vor. Erst dort gesteht Mohei seine lange verborgene Liebe; Osan erwidert sie und entscheidet sich für ein gemeinsames Leben auf der Flucht.
+
+Merksatz: Am Rand des Todes entsteht der Wille zum gemeinsamen Leben.
+
+Quellen: [1](https://www.criterion.com/current/posts/6021-a-story-from-chikamatsu-from-a-distance).
+
+### S1 · schwer
+
+Wie ordnet Kurosawa Kyōko Kagawa und Yūzō Kayama in einer Begegnung von Patientin und jungem Arzt in „Rotbart“ im Bild an?
+
+- **Richtig: An entgegengesetzten Bildrändern, mit Kerzenlicht in der dunklen Mitte**
+
+- In überlagerten Gesichtern einer Doppelbelichtung
+
+- In zwei Spiegelbildern hinter dem Arzt
+
+- Als Silhouetten vor einem hellen Fenster
+
+Die Figuren stehen an entgegengesetzten Bildrändern; Kerzenlicht belebt die dunkle Mitte.
+
+Kagawas abgesondert untergebrachte Patientin weckt den Ehrgeiz Yasumotos (Yūzō Kayama), gerade diesen schwierigen Fall zu behandeln. Die Begegnung wird für ihn gefährlich und erschüttert seine Selbstüberschätzung. Die feste Kamera hält beide Figuren in einem gemeinsamen, spannungsvoll geteilten Raum.
+
+Merksatz: Zwei Figuren am Rand, unruhiges Licht dazwischen.
+
+Quellen: [1](https://bfidatadigipres.github.io/kurosawa/2023/02/11/red-beard/).
+
+### S2 · schwer
+
+Welche frühere Verbindung zwischen Kyōko Kagawas Frau Watanabe und dem Berater Mochizuki wird in „After Life“ durch Lebensaufzeichnungen sichtbar?
+
+- Sie war die Schwester seines Vorgesetzten.
+
+- Sie war die Ärztin, die ihn behandelte.
+
+- **Richtig: Sie war seine Verlobte.**
+
+- Sie war seine Lehrerin.
+
+Frau Watanabe war vor Mochizukis Kriegstod seine Verlobte.
+
+Mochizuki (Arata) hilft dem verstorbenen Ichirō Watanabe (Taketoshi Naitō), eine Erinnerung für die Ewigkeit auszuwählen. Auf dessen Lebensbändern erkennt er seine frühere Verlobte wieder. Die Archivbilder verbinden so die Lebenswege der beiden Männer und erschüttern die Distanz des vermeintlich unbeteiligten Beraters.
+
+Merksatz: Das Lebensarchiv zeigt Mochizukis verlorene Verlobte.
+
+Quellen: [1](https://peripherfilm.de/afterlife/heft1.PDF), [2](https://www.criterion.com/films/29081-after-life).
+
+### E1 · experte
+
+Welchen eigenen Film wählte Kyōko Kagawa für die Sondervorführung zu ihrer FIAF-Ehrung 2011?
+
+- „Zwischen Himmel und Hölle“
+
+- „Sansho the Bailiff“
+
+- „Die Reise nach Tokyo“
+
+- **Richtig: „A Story from Chikamatsu“**
+
+Sie wählte „Chikamatsu monogatari“, auch „A Story from Chikamatsu“ genannt.
+
+Die Auswahl begründete Kagawa mit ihrer besonders guten, unvergesslichen Erinnerung an die Produktion und an Kenji Mizoguchi. Die Ehrung in Tokyo stellte damit nicht nur ihre lange Laufbahn aus, sondern ließ sie selbst einen wichtigen Film und eine prägende Zusammenarbeit hervorheben.
+
+Merksatz: Kagawa erinnert an ihre Arbeit mit Mizoguchi.
+
+Quellen: [1](https://www.fiafnet.org/images/tinyUpload/Publications/FIAF-Bulletin-Online_/FBO1_EN.pdf).
+
+### E2 · experte
+
+Welches Engagement würdigte der FIAF Award 2011 bei Kyōko Kagawa?
+
+- **Richtig: Die Bewahrung und Zugänglichkeit des Filmerbes**
+
+- Die Ausbildung junger Stuntdarsteller
+
+- Die Koordination asiatischer Filmförderungen
+
+- Die Aushandlung internationaler Schauspielverträge
+
+Die Auszeichnung würdigt den Einsatz für Bewahrung und Zugänglichkeit des Filmerbes.
+
+Die FIAF ehrt Persönlichkeiten außerhalb der eigentlichen Archivarbeit, deren Erfahrung und Engagement ihre Aufgaben unterstützen. Kagawas lebenslanges Interesse an Filmarchiven und Filmerhaltung wurde im Verbandsbericht eigens hervorgehoben. Der Preis verbindet ihre Arbeit vor der Kamera mit dem Fortbestehen dieser Filme für spätere Generationen.
+
+Merksatz: Kagawas Filme sollen auch künftig gesehen werden können.
+
+Quellen: [1](https://www.fiafnet.org/is/2/Events/old-version-FIAF-Award.html), [2](https://www.fiafnet.org/images/tinyUpload/E-Resources/Official-Documents/Protected_Files/Congress-Reports/2011_Pretoria_Congress_Report_LR.pdf).
