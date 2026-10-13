@@ -1,11 +1,11 @@
 {
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
-  "totalReviewed": 6400,
-  "remainingFilmQuestions": 4333,
+  "totalReviewed": 6450,
+  "remainingFilmQuestions": 4283,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 6373,
-  "lastCompletedBlock": 125,
+  "remainingAllQuestions": 6323,
+  "lastCompletedBlock": 126,
   "reviewedIds": [
     "ART-L-017",
     "ACT-M-025",
@@ -6406,209 +6406,59 @@
     "F240-20261006-066-L2",
     "F240-20261006-066-M1",
     "F240-20261006-066-M2",
-    "F240-20261006-066-S1"
+    "F240-20261006-066-S1",
+    "F240-20261006-066-S2",
+    "F240-20261006-066-Y",
+    "F240-20261006-066-D",
+    "SF-202609-P02-L-033",
+    "SF-202609-P02-L-034",
+    "SF-202609-P02-M-033",
+    "SF-202609-P02-M-034",
+    "SF-202609-P02-S-033",
+    "SF-202609-P02-S-034",
+    "SF-202609-P02-L-033-V1",
+    "FF-342-YEAR",
+    "FF-342-DIRECTOR",
+    "MUS-202610-P01-L-015",
+    "MUS-202610-P01-L-016",
+    "MUS-202610-P01-M-022",
+    "MUS-202610-P01-M-023",
+    "MUS-202610-P01-S-022",
+    "MUS-202610-P01-S-023",
+    "MUS-202610-P01-M-024",
+    "MUS-202610-P01-S-024",
+    "SF-202609-P02-L-013",
+    "SF-202609-P02-L-014",
+    "SF-202609-P02-M-013",
+    "SF-202609-P02-M-014",
+    "SF-202609-P02-S-013",
+    "SF-202609-P02-S-014",
+    "SF-202609-P02-L-013-V1",
+    "SF-202609-P02-S-014-V1",
+    "FF-332-YEAR",
+    "FF-332-DIRECTOR",
+    "F240-20261006-072-L1",
+    "F240-20261006-072-L2",
+    "F240-20261006-072-M1",
+    "F240-20261006-072-M2",
+    "F240-20261006-072-S1",
+    "F240-20261006-072-S2",
+    "F240-20261006-072-Y",
+    "F240-20261006-072-D",
+    "F240-20261006-176-L1",
+    "F240-20261006-176-L2",
+    "F240-20261006-176-M1",
+    "F240-20261006-176-M2",
+    "F240-20261006-176-S1",
+    "F240-20261006-176-S2",
+    "F240-20261006-176-Y",
+    "F240-20261006-176-D",
+    "ACT-202610-P01-L-017",
+    "ACT-202610-P01-L-018",
+    "ACT-202610-P01-M-025",
+    "ACT-202610-P01-M-026"
   ],
   "pendingFilmQueue": [
-    {
-      "id": "F240-20261006-066-S2",
-      "filmKey": "Pinocchio|1940"
-    },
-    {
-      "id": "F240-20261006-066-Y",
-      "filmKey": "Pinocchio|1940"
-    },
-    {
-      "id": "F240-20261006-066-D",
-      "filmKey": "Pinocchio|1940"
-    },
-    {
-      "id": "SF-202609-P02-L-033",
-      "filmKey": "Pitch Black|2000"
-    },
-    {
-      "id": "SF-202609-P02-L-034",
-      "filmKey": "Pitch Black|2000"
-    },
-    {
-      "id": "SF-202609-P02-M-033",
-      "filmKey": "Pitch Black|2000"
-    },
-    {
-      "id": "SF-202609-P02-M-034",
-      "filmKey": "Pitch Black|2000"
-    },
-    {
-      "id": "SF-202609-P02-S-033",
-      "filmKey": "Pitch Black|2000"
-    },
-    {
-      "id": "SF-202609-P02-S-034",
-      "filmKey": "Pitch Black|2000"
-    },
-    {
-      "id": "SF-202609-P02-L-033-V1",
-      "filmKey": "Pitch Black|2000"
-    },
-    {
-      "id": "FF-342-YEAR",
-      "filmKey": "Pitch Black|2000"
-    },
-    {
-      "id": "FF-342-DIRECTOR",
-      "filmKey": "Pitch Black|2000"
-    },
-    {
-      "id": "MUS-202610-P01-L-015",
-      "filmKey": "Pitch Perfect|2012"
-    },
-    {
-      "id": "MUS-202610-P01-L-016",
-      "filmKey": "Pitch Perfect|2012"
-    },
-    {
-      "id": "MUS-202610-P01-M-022",
-      "filmKey": "Pitch Perfect|2012"
-    },
-    {
-      "id": "MUS-202610-P01-M-023",
-      "filmKey": "Pitch Perfect|2012"
-    },
-    {
-      "id": "MUS-202610-P01-S-022",
-      "filmKey": "Pitch Perfect|2012"
-    },
-    {
-      "id": "MUS-202610-P01-S-023",
-      "filmKey": "Pitch Perfect|2012"
-    },
-    {
-      "id": "MUS-202610-P01-M-024",
-      "filmKey": "Pitch Perfect|2012"
-    },
-    {
-      "id": "MUS-202610-P01-S-024",
-      "filmKey": "Pitch Perfect|2012"
-    },
-    {
-      "id": "SF-202609-P02-L-013",
-      "filmKey": "Planet of the Apes|1968"
-    },
-    {
-      "id": "SF-202609-P02-L-014",
-      "filmKey": "Planet of the Apes|1968"
-    },
-    {
-      "id": "SF-202609-P02-M-013",
-      "filmKey": "Planet of the Apes|1968"
-    },
-    {
-      "id": "SF-202609-P02-M-014",
-      "filmKey": "Planet of the Apes|1968"
-    },
-    {
-      "id": "SF-202609-P02-S-013",
-      "filmKey": "Planet of the Apes|1968"
-    },
-    {
-      "id": "SF-202609-P02-S-014",
-      "filmKey": "Planet of the Apes|1968"
-    },
-    {
-      "id": "SF-202609-P02-L-013-V1",
-      "filmKey": "Planet of the Apes|1968"
-    },
-    {
-      "id": "SF-202609-P02-S-014-V1",
-      "filmKey": "Planet of the Apes|1968"
-    },
-    {
-      "id": "FF-332-YEAR",
-      "filmKey": "Planet of the Apes|1968"
-    },
-    {
-      "id": "FF-332-DIRECTOR",
-      "filmKey": "Planet of the Apes|1968"
-    },
-    {
-      "id": "F240-20261006-072-L1",
-      "filmKey": "Pleasantville|1998"
-    },
-    {
-      "id": "F240-20261006-072-L2",
-      "filmKey": "Pleasantville|1998"
-    },
-    {
-      "id": "F240-20261006-072-M1",
-      "filmKey": "Pleasantville|1998"
-    },
-    {
-      "id": "F240-20261006-072-M2",
-      "filmKey": "Pleasantville|1998"
-    },
-    {
-      "id": "F240-20261006-072-S1",
-      "filmKey": "Pleasantville|1998"
-    },
-    {
-      "id": "F240-20261006-072-S2",
-      "filmKey": "Pleasantville|1998"
-    },
-    {
-      "id": "F240-20261006-072-Y",
-      "filmKey": "Pleasantville|1998"
-    },
-    {
-      "id": "F240-20261006-072-D",
-      "filmKey": "Pleasantville|1998"
-    },
-    {
-      "id": "F240-20261006-176-L1",
-      "filmKey": "Plus One|2019"
-    },
-    {
-      "id": "F240-20261006-176-L2",
-      "filmKey": "Plus One|2019"
-    },
-    {
-      "id": "F240-20261006-176-M1",
-      "filmKey": "Plus One|2019"
-    },
-    {
-      "id": "F240-20261006-176-M2",
-      "filmKey": "Plus One|2019"
-    },
-    {
-      "id": "F240-20261006-176-S1",
-      "filmKey": "Plus One|2019"
-    },
-    {
-      "id": "F240-20261006-176-S2",
-      "filmKey": "Plus One|2019"
-    },
-    {
-      "id": "F240-20261006-176-Y",
-      "filmKey": "Plus One|2019"
-    },
-    {
-      "id": "F240-20261006-176-D",
-      "filmKey": "Plus One|2019"
-    },
-    {
-      "id": "ACT-202610-P01-L-017",
-      "filmKey": "Point Break|1991"
-    },
-    {
-      "id": "ACT-202610-P01-L-018",
-      "filmKey": "Point Break|1991"
-    },
-    {
-      "id": "ACT-202610-P01-M-025",
-      "filmKey": "Point Break|1991"
-    },
-    {
-      "id": "ACT-202610-P01-M-026",
-      "filmKey": "Point Break|1991"
-    },
     {
       "id": "ACT-202610-P01-S-025",
       "filmKey": "Point Break|1991"

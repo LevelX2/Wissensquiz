@@ -332393,6 +332393,2596 @@
           "feedback": ""
         }
       ]
+    },
+    {
+      "id": "F240-20261006-066-S2",
+      "originalId": "F240-20261006-066-S2",
+      "knowledgeId": "K-F240-20261006-066-S2",
+      "filmKey": "Pinocchio|1940",
+      "filmTitle": "Pinocchio",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Rettung des Vaters macht Pinocchio zum echten Jungen.",
+      "question": "Welchen Entschluss trifft Pinocchio (Originalstimme Dickie Jones) im Finale von Disneys „Pinocchio“?",
+      "answers": [
+        {
+          "id": "F240-20261006-066-S2:a",
+          "text": "Er verlässt den Wal mit Jiminy und holt später Hilfe.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-S2:b",
+          "text": "Pinocchio rettet Geppetto unter Lebensgefahr.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-S2:c",
+          "text": "Er überlässt Geppetto das Floß und schwimmt allein heim.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-S2:d",
+          "text": "Er bleibt im Wal und wartet auf dessen Rückkehr zum Ufer.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Pinocchio (Originalstimme Dickie Jones) rettet Geppetto (Originalstimme Christian Rub) und riskiert dabei sein Leben.",
+      "context": "Der Wal zerstört das Fluchtfloß. Pinocchio (Originalstimme Dickie Jones) zieht Geppetto (Originalstimme Christian Rub) in eine schützende Felsbucht. Pinocchio überlebt die Rettung zunächst nicht. Zu Hause trauert Geppetto um ihn. Erst jetzt erweckt die Blaue Fee (Originalstimme Evelyn Venable) ihn als echten Jungen.",
+      "anchor": "Die Rettung des Vaters macht Pinocchio zum echten Jungen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pinocchio_(1940_film)",
+        "https://catalog.afi.com/Catalog/MovieDetails/5131"
+      ]
+    },
+    {
+      "id": "F240-20261006-066-Y",
+      "originalId": "F240-20261006-066-Y",
+      "knowledgeId": "K-F240-20261006-066-Y",
+      "filmKey": "Pinocchio|1940",
+      "filmTitle": "Pinocchio",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Collodis Buch von 1883 wurde 57 Jahre später, 1940, Disneys zweiter langer Animationsfilm.",
+      "question": "In welchem Jahr wurde Disneys klassische Zeichentrickfassung von „Pinocchio“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-066-Y:a",
+          "text": "1938",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-Y:b",
+          "text": "1939",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-Y:c",
+          "text": "1940",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-Y:d",
+          "text": "1941",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Film wurde 1940 erstmals veröffentlicht.",
+      "context": "1940 erschien Disneys zweiter abendfüllender Animationsfilm. Carlo Collodis Buch war 1883 veröffentlicht worden, 57 Jahre zuvor. Der Film verbindet den älteren Stoff mit neuen Figuren und dem Lied When You Wish Upon a Star.",
+      "anchor": "Collodis Buch von 1883 wurde 57 Jahre später, 1940, Disneys zweiter langer Animationsfilm.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pinocchio_(1940_film)",
+        "https://www.waltdisney.org/blog/pinocchio-history"
+      ]
+    },
+    {
+      "id": "F240-20261006-066-D",
+      "originalId": "F240-20261006-066-D",
+      "knowledgeId": "K-F240-20261006-066-D",
+      "filmKey": "Pinocchio|1940",
+      "filmTitle": "Pinocchio",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Übergeordnete Regie und Sequenzregie unterscheiden.",
+      "question": "Welche beiden übergeordneten Regisseure leiteten Disneys Zeichentrickfilm „Pinocchio“?",
+      "answers": [
+        {
+          "id": "F240-20261006-066-D:a",
+          "text": "John Musker und Ron Clements",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-D:b",
+          "text": "Don Bluth und Gary Goldman",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-D:c",
+          "text": "Pete Docter und Bob Peterson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-066-D:d",
+          "text": "Ben Sharpsteen und Hamilton Luske",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ben Sharpsteen und Hamilton Luske waren die übergeordneten Regisseure.",
+      "context": "Ben Sharpsteen und Hamilton Luske leiteten die Gesamtproduktion; Bill Roberts, Norman Ferguson, Jack Kinney, Wilfred Jackson und T. Hee verantworteten Sequenzen. Walt Disney produzierte, steht aber nicht anstelle dieses Regieteams.",
+      "anchor": "Sharpsteen und Luske führten die übergeordnete Regie.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pinocchio_(1940_film)",
+        "https://d23.com/a-to-z/pinocchio-film/"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-L-033",
+      "originalId": "SF-202609-P02-L-033",
+      "knowledgeId": "K-SF-202609-P02-L-033",
+      "filmKey": "Pitch Black|2000",
+      "filmTitle": "Pitch Black – Planet der Finsternis",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Vin Diesel spielt Riddick.",
+      "question": "Wer spielt den gefährlichen Gefangenen Richard B. Riddick in „Pitch Black – Planet der Finsternis“?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-L-033:a",
+          "text": "Vin Diesel",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-033:b",
+          "text": "Jason Statham",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-033:c",
+          "text": "Dwayne Johnson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-033:d",
+          "text": "Karl Urban",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Vin Diesel spielt Riddick.",
+      "context": "Für Riddick (Vin Diesel) verlangte das Studio zunächst Steven Seagal. Twohy lehnte ab: Obwohl Diesels Vorsprechen schwach gewesen war, hatte er ihn im Kurzfilm „Multi-Facial“ als natürlich und überzeugend erlebt.",
+      "anchor": "Ein Kurzfilm überzeugte Twohy von Diesel.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Black_(film)",
+        "https://www.scifinow.co.uk/interviews/pitch-black-interview-with-david-twohy/"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-L-034",
+      "originalId": "SF-202609-P02-L-034",
+      "knowledgeId": "K-SF-202609-P02-L-034",
+      "filmKey": "Pitch Black|2000",
+      "filmTitle": "Pitch Black – Planet der Finsternis",
+      "difficulty": "leicht",
+      "questionType": "Weltwissen",
+      "learningObjective": "Riddicks veränderte Augen ermöglichen ihm Nachtsicht.",
+      "question": "Welche Fähigkeit verschafft Riddick (Vin Diesel) in „Pitch Black“ einen Vorteil während der Finsternis?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-L-034:a",
+          "text": "Er kann Beute über große Entfernungen riechen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-034:b",
+          "text": "Er kann bei sehr wenig Licht sehen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-034:c",
+          "text": "Er kann sich anhand von Echos orientieren.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-034:d",
+          "text": "Er kann lange ohne Sauerstoff auskommen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Riddicks veränderte Augen ermöglichen ihm Nachtsicht.",
+      "context": "Riddick (Vin Diesel) braucht im grellen Tageslicht eine Schutzbrille. In der Finsternis führt er dagegen die Überlebenden durch das Gelände. Die mitgetragenen Lampen und Fackeln bleiben unverzichtbar: Sie halten die lichtscheuen Raubwesen auf Abstand, während seine Nachtsicht der Orientierung dient.",
+      "anchor": "Riddicks Augen brauchen tagsüber Schutz, nachts helfen sie.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Black_(film)",
+        "https://de.wikipedia.org/wiki/Pitch_Black_%E2%80%93_Planet_der_Finsternis"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-M-033",
+      "originalId": "SF-202609-P02-M-033",
+      "knowledgeId": "K-SF-202609-P02-M-033",
+      "filmKey": "Pitch Black|2000",
+      "filmTitle": "Pitch Black – Planet der Finsternis",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Eine Finsternis nimmt den lichtscheuen Kreaturen ihre natürliche Barriere.",
+      "question": "Welches astronomische Ereignis bringt in „Pitch Black“ die Kreaturen an die Oberfläche?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-M-033:a",
+          "text": "Eine Sonnenfinsternis",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-033:b",
+          "text": "Ein Meteorschauer",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-033:c",
+          "text": "Eine Polverschiebung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-033:d",
+          "text": "Eine Supernova",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eine Sonnenfinsternis lässt die lichtscheuen Kreaturen an die Oberfläche kommen.",
+      "context": "In der verlassenen Forschungsstation entdeckt Carolyn Fry (Radha Mitchell), dass sich alle 22 Jahre eine Sonnenfinsternis wiederholt. Die früheren Bewohner haben diese Dunkelphase nicht überlebt. Die Gruppe erkennt, dass die nächste Finsternis unmittelbar bevorsteht.",
+      "anchor": "Die Finsternis verwandelt die Oberfläche in Jagdgebiet.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Black_(film)",
+        "https://de.wikipedia.org/wiki/Pitch_Black_%E2%80%93_Planet_der_Finsternis"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-M-034",
+      "originalId": "SF-202609-P02-M-034",
+      "knowledgeId": "K-SF-202609-P02-M-034",
+      "filmKey": "Pitch Black|2000",
+      "filmTitle": "Pitch Black – Planet der Finsternis",
+      "difficulty": "leicht",
+      "questionType": "Figuren",
+      "learningObjective": "Carolyn Fry ist Pilotin des abgestürzten Transportschiffs.",
+      "question": "Welchen Beruf hat Carolyn Fry (Radha Mitchell) in „Pitch Black“?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-M-034:a",
+          "text": "Geologin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-034:b",
+          "text": "Pilotin",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-034:c",
+          "text": "Kopfgeldjägerin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-034:d",
+          "text": "Ärztin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Carolyn Fry ist Pilotin des abgestürzten Transportschiffs.",
+      "context": "Beim Absturz will Carolyn Fry (Radha Mitchell) die schlafenden Passagiere abwerfen, um sich selbst zu retten; ihr Kollege verhindert es. Später lehnt sie Riddicks (Vin Diesel) Angebot ab, die anderen zurückzulassen. Sie holt die Verbliebenen und kehrt schließlich auch für den verletzten Riddick um, wobei sie stirbt.",
+      "anchor": "Fry muss Verantwortung praktisch übernehmen.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Black_(film)",
+        "https://de.wikipedia.org/wiki/Pitch_Black_%E2%80%93_Planet_der_Finsternis"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-S-033",
+      "originalId": "SF-202609-P02-S-033",
+      "knowledgeId": "K-SF-202609-P02-S-033",
+      "filmKey": "Pitch Black|2000",
+      "filmTitle": "Pitch Black – Planet der Finsternis",
+      "difficulty": "mittel",
+      "questionType": "Handlungsdetail",
+      "learningObjective": "William Johns ist ein Kopfgeldjäger, kein regulärer Gesetzeshüter.",
+      "question": "Was ist William Johns (Cole Hauser), der Riddick bewacht, in „Pitch Black“ tatsächlich von Beruf?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-S-033:a",
+          "text": "Ein Kopfgeldjäger",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-033:b",
+          "text": "Ein Geheimdienstanalytiker",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-033:c",
+          "text": "Ein Handelskapitän",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-033:d",
+          "text": "Ein Militärarzt",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "William Johns ist ein Kopfgeldjäger, kein regulärer Gesetzeshüter.",
+      "context": "William Johns (Cole Hauser) trägt ein Abzeichen, ist aber ein morphinabhängiger Kopfgeldjäger. Als die Flucht gefährlich wird, schlägt er vor, Jack (Rhiana Griffith) zu verletzen und als Ablenkung zurückzulassen. Riddick (Vin Diesel) greift stattdessen Johns an, der daraufhin den Kreaturen zum Opfer fällt.",
+      "anchor": "Johns’ Autorität beruht auf einem falschen Eindruck.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Black_(film)",
+        "https://www.scifinow.co.uk/interviews/pitch-black-interview-with-david-twohy/"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-S-034",
+      "originalId": "SF-202609-P02-S-034",
+      "knowledgeId": "K-SF-202609-P02-S-034",
+      "filmKey": "Pitch Black|2000",
+      "filmTitle": "Pitch Black – Planet der Finsternis",
+      "difficulty": "mittel",
+      "questionType": "Handlungsdetail",
+      "learningObjective": "Die Gruppe muss Energiezellen aus dem abgestürzten Schiff transportieren.",
+      "question": "Welche Ausrüstung benötigt die Gruppe in „Pitch Black“ für das startfähige Rettungsschiff?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-S-034:a",
+          "text": "Wasser aus einer Höhle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-034:b",
+          "text": "Energiezellen aus dem Wrack",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-034:c",
+          "text": "Eine Antenne aus dem Lager",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-034:d",
+          "text": "Metallplatten vom Funkmast",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Gruppe muss Energiezellen aus dem abgestürzten Schiff transportieren.",
+      "context": "Die Gruppe nutzt zunächst ein solarbetriebenes Fahrzeug, um die Zellen zu bergen. Mit der Finsternis sitzen die Überlebenden jedoch im Wrack fest. Riddick (Vin Diesel) muss sie anschließend mit künstlichen Lichtquellen zum Rettungsschiff führen.",
+      "anchor": "Ohne Energiezellen bleibt das Rettungsschiff am Boden.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Black_(film)",
+        "https://de.wikipedia.org/wiki/Pitch_Black_%E2%80%93_Planet_der_Finsternis"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-L-033-V1",
+      "originalId": "SF-202609-P02-L-033-V1",
+      "knowledgeId": "K-SF-202609-P02-L-033",
+      "filmKey": "Pitch Black|2000",
+      "filmTitle": "Pitch Black – Planet der Finsternis",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Vin Diesel spielt Riddick.",
+      "question": "Welcher Darsteller verkörpert den Gefangenen Riddick in „Pitch Black – Planet der Finsternis“?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-L-033-V1:a",
+          "text": "Vin Diesel",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-033-V1:b",
+          "text": "Dwayne Johnson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-033-V1:c",
+          "text": "Karl Urban",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-033-V1:d",
+          "text": "Jason Statham",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Vin Diesel spielt Riddick.",
+      "context": "Für Riddick (Vin Diesel) verlangte das Studio zunächst Steven Seagal. Twohy lehnte ab: Obwohl Diesels Vorsprechen schwach gewesen war, hatte er ihn im Kurzfilm „Multi-Facial“ als natürlich und überzeugend erlebt.",
+      "anchor": "Ein Kurzfilm überzeugte Twohy von Diesel.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Black_(film)",
+        "https://www.scifinow.co.uk/interviews/pitch-black-interview-with-david-twohy/"
+      ],
+      "variantOf": "SF-202609-P02-L-033"
+    },
+    {
+      "id": "FF-342-YEAR",
+      "originalId": "FF-342-YEAR",
+      "knowledgeId": "K-FF-342-YEAR",
+      "filmKey": "Pitch Black|2000",
+      "filmTitle": "Pitch Black – Planet der Finsternis",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "„Pitch Black“ und „Tiger and Dragon“ zeitlich verbinden.",
+      "question": "„Pitch Black – Planet der Finsternis“: In welchem Jahr erschien der Film von David Twohy erstmals?",
+      "answers": [
+        {
+          "id": "FF-342-YEAR:y2000",
+          "text": "2000",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-342-YEAR:y1990",
+          "text": "1998",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-342-YEAR:y1992",
+          "text": "1999",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-342-YEAR:y1994",
+          "text": "2001",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Pitch Black – Planet der Finsternis“ wurde erstmals 2000 veröffentlicht.",
+      "context": "2000 erscheinen „Pitch Black“ und „Tiger and Dragon“. Vin Diesel bewegt sich in einer finsteren außerirdischen Welt, Michelle Yeoh und Chow Yun-fat durch eine fantastische Kampfkunstwelt. Die beiden Abenteuer markieren denselben Jahrgang auf sehr unterschiedliche Weise.",
+      "anchor": "2000: Riddick im Dunkeln, Tiger and Dragon im Schwertflug.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Black_(film)",
+        "https://www.sonypictures.com/movies/crouchingtigerhiddendragon"
+      ]
+    },
+    {
+      "id": "FF-342-DIRECTOR",
+      "originalId": "FF-342-DIRECTOR",
+      "knowledgeId": "K-FF-342-DIRECTOR",
+      "filmKey": "Pitch Black|2000",
+      "filmTitle": "Pitch Black – Planet der Finsternis",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Twohys Weiterentwicklung des ursprünglichen Stoffes kennen.",
+      "question": "Wer führte bei „Pitch Black – Planet der Finsternis“ Regie?",
+      "answers": [
+        {
+          "id": "FF-342-DIRECTOR:a",
+          "text": "David Twohy",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-342-DIRECTOR:b",
+          "text": "Steven Spielberg",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-342-DIRECTOR:c",
+          "text": "David Cronenberg",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-342-DIRECTOR:d",
+          "text": "Josef Rusnak",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "David Twohy führte Regie.",
+      "context": "David Twohy erhielt die Regie, nachdem er das Konzept der Brüder Ken und Jim Wheat weiterbearbeitet hatte. Ursprünglich sollten Geister während einer Finsternis auftauchen; daraus wurden körperliche Raubwesen. Die Außenaufnahmen entstanden überwiegend bei Coober Pedy in Australien. Für die unterschiedlichen Sonnen wurde bei manchen Tagesszenen zusätzlich ein Bleach-Bypass-Verfahren in der Nachbearbeitung verwendet.",
+      "anchor": "Pitch Black – Planet der Finsternis → David Twohy",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Black_(film)",
+        "https://www.scifinow.co.uk/interviews/pitch-black-interview-with-david-twohy/"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-L-015",
+      "originalId": "MUS-202610-P01-L-015",
+      "knowledgeId": "K-MUS-202610-P01-L-015",
+      "filmKey": "Pitch Perfect|2012",
+      "filmTitle": "Pitch Perfect",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Anna Kendrick als Beca Mitchell erkennen.",
+      "question": "Wer spielt in „Pitch Perfect“ die musikbegeisterte College-Anfängerin Beca Mitchell, die eigene Mash-ups produziert?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-L-015:a",
+          "text": "Brittany Snow",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-015:b",
+          "text": "Anna Camp",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-015:c",
+          "text": "Anna Kendrick",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-015:d",
+          "text": "Rebel Wilson",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Anna Kendrick spielt Beca Mitchell.",
+      "context": "Beca Mitchell (Anna Kendrick) möchte Musik produzieren und beschäftigt sich mit Mash-ups. Ihr Eintritt in die Hochschulgruppe verbindet individuelle Gestaltungsideen mit gemeinsamem Singen. Der Film zeigt damit auch einen Streit darüber, ob eine Gruppe an bewährten Arrangements festhalten oder neue Einflüsse zulassen sollte.",
+      "anchor": "Anna Kendrick spielt Beca Mitchell.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Perfect",
+        "https://de.wikipedia.org/wiki/Pitch_Perfect"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-L-016",
+      "originalId": "MUS-202610-P01-L-016",
+      "knowledgeId": "K-MUS-202610-P01-L-016",
+      "filmKey": "Pitch Perfect|2012",
+      "filmTitle": "Pitch Perfect",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Die Barden Bellas als weibliche Gesangsgruppe erkennen.",
+      "question": "„Pitch Perfect“ (2012): Wie heißt die weibliche Gesangsgruppe?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-L-016:a",
+          "text": "New Directions",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-016:b",
+          "text": "Barden Bellas",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-016:c",
+          "text": "The Wonders",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-L-016:d",
+          "text": "Treblemakers",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Gruppe heißt Barden Bellas.",
+      "context": "Beim ersten gezeigten Finale erbricht Aubrey (Anna Camp) auf der Bühne und die Bellas verlieren gegen die Treblemakers. Im folgenden Studienjahr müssen sie viele Abgänge ersetzen. Aubrey und Chloe (Brittany Snow) werben deshalb neue Sängerinnen an, darunter Beca (Anna Kendrick).",
+      "anchor": "Die Barden Bellas treten als A-cappella-Gruppe an.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Perfect"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-M-022",
+      "originalId": "MUS-202610-P01-M-022",
+      "knowledgeId": "K-MUS-202610-P01-M-022",
+      "filmKey": "Pitch Perfect|2012",
+      "filmTitle": "Pitch Perfect",
+      "difficulty": "leicht",
+      "questionType": "Musik",
+      "learningObjective": "A cappella als unbegleiteten Gesang verstehen.",
+      "question": "„Pitch Perfect“ (2012): Was bedeutet A cappella im Kontext des Wettbewerbs?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-M-022:a",
+          "text": "Gesang ohne instrumentale Begleitung",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-022:b",
+          "text": "Gesang mit einem kleinen Instrumentalensemble",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-022:c",
+          "text": "Gesang über einem vorproduzierten Instrumentalplayback",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-022:d",
+          "text": "Gesang ausschließlich in einstimmigen Chorarrangements",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "A cappella bedeutet Gesang ohne instrumentale Begleitung.",
+      "context": "Die Gruppen erzeugen Melodie, Harmonien und rhythmische Begleitung mit Stimmen. Dadurch stehen Abstimmung und Arrangement im Mittelpunkt. Beatboxing kann Teil dieser vokalen Gestaltung sein; die Abwesenheit eines Orchesters bedeutet daher nicht, dass die Musik nur aus einer einstimmigen Melodie besteht.",
+      "anchor": "Stimmen übernehmen auch die instrumentalen Aufgaben.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_cappella",
+        "https://www.postmagazine.com/publications/2012/october-1-2012/film-sound-pitch-perfect/"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-M-023",
+      "originalId": "MUS-202610-P01-M-023",
+      "knowledgeId": "K-MUS-202610-P01-M-023",
+      "filmKey": "Pitch Perfect|2012",
+      "filmTitle": "Pitch Perfect",
+      "difficulty": "mittel",
+      "questionType": "Besetzung",
+      "learningObjective": "Rebel Wilson als Fat Amy erkennen.",
+      "question": "Wer spielt in „Pitch Perfect“ die selbstbewusste australische Bellas-Sängerin Fat Amy?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-M-023:a",
+          "text": "Rebel Wilson",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-023:b",
+          "text": "Melissa McCarthy",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-023:c",
+          "text": "Ellie Kemper",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-023:d",
+          "text": "Anna Faris",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Rebel Wilson spielt Fat Amy.",
+      "context": "Patricia, genannt Fat Amy (Rebel Wilson), tritt mit großem Selbstbewusstsein auf. Ihre komischen Einwürfe unterbrechen die strengen Vorstellungen von Aubrey (Anna Camp), während Beca (Anna Kendrick) neue musikalische Ideen einbringt. Das Ensemble verteilt seine Komik somit auf unterschiedliche Temperamente: Gruppenleitung, musikalische Eigenständigkeit und Amy als besonders direkte Gesprächspartnerin.",
+      "anchor": "Rebel Wilson spielt Fat Amy.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Perfect",
+        "https://de.wikipedia.org/wiki/Pitch_Perfect"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-S-022",
+      "originalId": "MUS-202610-P01-S-022",
+      "knowledgeId": "K-MUS-202610-P01-S-022",
+      "filmKey": "Pitch Perfect|2012",
+      "filmTitle": "Pitch Perfect",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Den Regelverstoß der Footnotes erkennen.",
+      "question": "„Pitch Perfect“ (2012): Warum werden die Footnotes disqualifiziert und die Bellas nachträglich zum Finale zugelassen?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-S-022:a",
+          "text": "Sie singen ein nicht zugelassenes Lied",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-022:b",
+          "text": "Sie verwenden verbotene Instrumente",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-022:c",
+          "text": "Sie haben die Teilnahmegebühr nicht bezahlt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-022:d",
+          "text": "Ihr Leadsänger geht noch zur Highschool",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Leadsänger der Footnotes besucht noch die Highschool.",
+      "context": "Benji (Ben Platt) entdeckt, dass der Leadsänger der Footnotes noch Schüler ist. Damit erfüllt die Gruppe die Teilnahmebedingungen des Hochschulwettbewerbs nicht. Die Barden Bellas erhalten dadurch eine zweite Chance; der Weg ins Finale hängt hier also zunächst an einer konkreten Wettbewerbsregel und erst anschließend an ihrer verbesserten musikalischen Zusammenarbeit.",
+      "anchor": "Ein Highschool-Schüler darf nicht im Hochschulwettbewerb antreten.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Perfect"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-S-023",
+      "originalId": "MUS-202610-P01-S-023",
+      "knowledgeId": "K-MUS-202610-P01-S-023",
+      "filmKey": "Pitch Perfect|2012",
+      "filmTitle": "Pitch Perfect",
+      "difficulty": "mittel",
+      "questionType": "Musik",
+      "learningObjective": "Becas Vorsingen mit „When I’m Gone“ zuordnen.",
+      "question": "„Pitch Perfect“ (2012): Welches Lied singt Beca bei der Aufnahmeprüfung mit Becherbegleitung?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-S-023:a",
+          "text": "Titanium",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-023:b",
+          "text": "When I’m Gone",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-023:c",
+          "text": "No Diggity",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-023:d",
+          "text": "Since U Been Gone",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Beca singt „When I’m Gone“ mit Becherbegleitung.",
+      "context": "Chloe (Brittany Snow) hört Beca (Anna Kendrick) unter der Dusche „Titanium“ singen und drängt sie zum Vorsingen. Bei der Aufnahmeprüfung verwendet Beca stattdessen „When I’m Gone“ und einen Becher als Rhythmusinstrument. Damit erhält sie einen Platz bei den Bellas.",
+      "anchor": "Beca bringt einen Becher zum Vorsingen mit.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pitch_Perfect"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-M-024",
+      "originalId": "MUS-202610-P01-M-024",
+      "knowledgeId": "K-MUS-202610-P01-M-024",
+      "filmKey": "Pitch Perfect|2012",
+      "filmTitle": "Pitch Perfect",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Jason Moores Regie zuordnen.",
+      "question": "Wer führte bei „Pitch Perfect“ Regie?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-M-024:a",
+          "text": "Adam Shankman",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-024:b",
+          "text": "Jason Moore",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-024:c",
+          "text": "Tom Hooper",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-M-024:d",
+          "text": "Frank Oz",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Bei „Pitch Perfect“ führte Jason Moore Regie.",
+      "context": "Jason Moore entwickelte Becas (Anna Kendrick) Musikstil über die Mash-ups hinaus in Richtung DJ-Techniken. Nach seiner Darstellung war dieser Ansatz im ursprünglichen Drehbuch noch wenig ausgearbeitet. Er ergänzte stärkeres Beatboxing und einen Dubstep-Abschnitt: neuere Musikstile innerhalb der vertrauten Form des A-cappella-Gesangs.",
+      "anchor": "Moore bringt DJ-Stile in die A-cappella-Form.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://moveablefest.com/jason-moore-pitch-perfect-interview/",
+        "https://www.universalpicturesathome.com/movies/pitch-perfect"
+      ]
+    },
+    {
+      "id": "MUS-202610-P01-S-024",
+      "originalId": "MUS-202610-P01-S-024",
+      "knowledgeId": "K-MUS-202610-P01-S-024",
+      "filmKey": "Pitch Perfect|2012",
+      "filmTitle": "Pitch Perfect",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Das Filmjahr 2012 zuordnen.",
+      "question": "In welchem Jahr erschien „Pitch Perfect“ erstmals?",
+      "answers": [
+        {
+          "id": "MUS-202610-P01-S-024:a",
+          "text": "2013",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-024:b",
+          "text": "2012",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-024:c",
+          "text": "2010",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "MUS-202610-P01-S-024:d",
+          "text": "2011",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Pitch Perfect“ erschien 2012.",
+      "context": "2012 erscheinen „Pitch Perfect“ und „Les Misérables“. College-A-cappella und historisches Filmmusical zeigen zwei sehr unterschiedliche Möglichkeiten gemeinschaftlichen Singens. Die beiden Filmwelten können denselben Musikjahrgang gegenseitig verankern.",
+      "anchor": "2012: Pitch Perfect am College, Les Misérables in Frankreich.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.universalpicturesathome.com/movies/pitch-perfect",
+        "https://en.wikipedia.org/wiki/Les_Misérables_(2012_film)"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-L-013",
+      "originalId": "SF-202609-P02-L-013",
+      "knowledgeId": "K-SF-202609-P02-L-013",
+      "filmKey": "Planet of the Apes|1968",
+      "filmTitle": "Planet der Affen",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Charlton Heston spielt George Taylor.",
+      "question": "„Planet der Affen“ (1968): Wer spielt den Astronauten George Taylor?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-L-013:a",
+          "text": "Charlton Heston",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-013:b",
+          "text": "Burt Lancaster",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-013:c",
+          "text": "Gregory Peck",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-013:d",
+          "text": "Rod Taylor",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Charlton Heston spielt George Taylor.",
+      "context": "George Taylor (Charlton Heston) bringt das Selbstbewusstsein eines Menschen mit, der sich als Vertreter einer überlegenen Zivilisation versteht. In der neuen Umgebung wird gerade diese Annahme unbrauchbar. Seine kräftige, vertraute Starpräsenz verstärkt den Effekt der Erniedrigung: Der Film macht aus einem erwartbaren Abenteuerhelden zunächst einen Gefangenen, dessen Sprache, Herkunft und Anspruch auf Anerkennung von anderen bewertet werden.",
+      "anchor": "Heston als gefangener Astronaut Taylor.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)",
+        "https://catalog.afi.com/Film/22314-PLANET-OFTHEAPES"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-L-014",
+      "originalId": "SF-202609-P02-L-014",
+      "knowledgeId": "K-SF-202609-P02-L-014",
+      "filmKey": "Planet of the Apes|1968",
+      "filmTitle": "Planet der Affen",
+      "difficulty": "leicht",
+      "questionType": "Weltwissen",
+      "learningObjective": "Die Stellung der Menschen in der herrschenden Affengesellschaft erkennen.",
+      "question": "„Planet der Affen“ (1968): Wie behandelt die herrschende Affengesellschaft die Menschen?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-L-014:a",
+          "text": "Als wilde Tiere",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-014:b",
+          "text": "Als gleichberechtigte Bürger",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-014:c",
+          "text": "Als angesehene Wissenschaftler",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-014:d",
+          "text": "Als religiöse Autoritäten",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Menschen werden wie wilde Tiere behandelt: Die Affen jagen sie, halten sie gefangen und verwenden sie für Experimente.",
+      "context": "George Taylor (Charlton Heston) gerät in eine Gesellschaft, die Menschen als Tiere betrachtet. Nach seiner Gefangennahme wird er in einem Käfig gehalten; die Forscherin Zira (Kim Hunter) untersucht ihn. Seine Fähigkeit zu sprechen, zu lesen und zu schreiben stellt die Annahmen der Affen infrage. Die Umkehrung der vertrauten Rollen macht den Umgang mit gefangenen Lebewesen und die Zuschreibung von Vernunft zum zentralen Konflikt.",
+      "anchor": "Die Affen bestimmen, die Menschen sitzen im Käfig.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Film/22314-PLANET-OFTHEAPES"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-M-013",
+      "originalId": "SF-202609-P02-M-013",
+      "knowledgeId": "K-SF-202609-P02-M-013",
+      "filmKey": "Planet of the Apes|1968",
+      "filmTitle": "Planet der Affen",
+      "difficulty": "mittel",
+      "questionType": "Figuren",
+      "learningObjective": "Zira erkennt Taylors besondere Fähigkeiten und hilft ihm.",
+      "question": "„Planet der Affen“ (1968): Welche Schimpansenforscherin setzt sich für Taylor (Charlton Heston) ein?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-M-013:a",
+          "text": "Zira",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-013:b",
+          "text": "Ari",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-013:c",
+          "text": "Nova",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-013:d",
+          "text": "Lisa",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Zira (Kim Hunter) setzt sich für Taylor (Charlton Heston) ein.",
+      "context": "Taylor (Charlton Heston) überzeugt Zira (Kim Hunter) und Cornelius (Roddy McDowall), dass er lesen und schreiben kann. Sie bewahren ihn vor Experimenten. Als Dr. Zaius (Maurice Evans) seine Ausschaltung verlangt, helfen sie ihm und Nova (Linda Harrison) bei der Flucht in die Verbotene Zone.",
+      "anchor": "Zira nimmt den sprechenden Menschen ernst.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)",
+        "https://catalog.afi.com/Film/22314-PLANET-OFTHEAPES"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-M-014",
+      "originalId": "SF-202609-P02-M-014",
+      "knowledgeId": "K-SF-202609-P02-M-014",
+      "filmKey": "Planet of the Apes|1968",
+      "filmTitle": "Planet der Affen",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Die Reste der Freiheitsstatue enthüllen, dass Taylor auf der Erde ist.",
+      "question": "„Planet der Affen“ (1968): Welches Bauwerk erkennt Taylor (Charlton Heston) im Schlussbild?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-M-014:a",
+          "text": "Das Kolosseum",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-014:b",
+          "text": "Die Freiheitsstatue",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-014:c",
+          "text": "Den Eiffelturm",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-M-014:d",
+          "text": "Die Sphinx von Gizeh",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Reste der Freiheitsstatue enthüllen, dass Taylor auf der Erde ist.",
+      "context": "George Taylor (Charlton Heston) und Nova (Linda Harrison) erreichen eine Küste, an der ein einziges bekanntes Bildzeichen die bisherige Reise neu ordnet. Eine lange Erklärung wäre weniger wirksam als die beschädigte Statue. Das Schlussbild verändert rückwirkend die Bedeutung des fremden Planeten: Nicht eine weit entfernte Welt ist das eigentliche Rätsel, sondern die zerstörerische Geschichte der eigenen Spezies.",
+      "anchor": "Die Freiheitsstatue macht die Fremde zur Erde.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)",
+        "https://catalog.afi.com/Film/22314-PLANET-OFTHEAPES"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-S-013",
+      "originalId": "SF-202609-P02-S-013",
+      "knowledgeId": "K-SF-202609-P02-S-013",
+      "filmKey": "Planet of the Apes|1968",
+      "filmTitle": "Planet der Affen",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Eine Halsverletzung verhindert zunächst Taylors Sprache.",
+      "question": "„Planet der Affen“ (1968): Warum kann Taylor (Charlton Heston) nach seiner Gefangennahme zunächst nicht sprechen?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-S-013:a",
+          "text": "Er wurde am Hals verletzt",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-013:b",
+          "text": "Er leidet an einer Kehlkopfentzündung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-013:c",
+          "text": "Er wurde mit einem Betäubungsmittel behandelt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-013:d",
+          "text": "Er hat beim Absturz die Sprache vergessen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eine Halsverletzung verhindert zunächst Taylors Sprache.",
+      "context": "Bei der Jagd wird Taylor (Charlton Heston) in den Hals geschossen. Seine Mitreisenden trifft es anders: Dodge (Jeff Burton) wird getötet und als Museumspräparat ausgestellt; Landon (Robert Gunner) wird durch eine Lobotomie ausgeschaltet. Taylor muss um die Anerkennung seiner geistigen Fähigkeiten kämpfen.",
+      "anchor": "Verletzter Hals, verweigerte Anerkennung.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Film/22314-PLANET-OFTHEAPES",
+        "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-S-014",
+      "originalId": "SF-202609-P02-S-014",
+      "knowledgeId": "K-SF-202609-P02-S-014",
+      "filmKey": "Planet of the Apes|1968",
+      "filmTitle": "Planet der Affen",
+      "difficulty": "mittel",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "John Chambers verantwortete das prägende Affen-Make-up.",
+      "question": "„Planet der Affen“ (1968): Wer entwickelte das prägende Affen-Make-up?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-S-014:a",
+          "text": "Rob Bottin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-014:b",
+          "text": "John Chambers",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-014:c",
+          "text": "Rick Baker",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-014:d",
+          "text": "Stan Winston",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "John Chambers verantwortete das prägende Affen-Make-up.",
+      "context": "Die Masken müssen gleichzeitig eine andere Spezies zeigen und menschliche Darstellerleistung lesbar lassen. Besonders Zira (Kim Hunter) und Cornelius (Roddy McDowall) benötigen differenzierte Reaktionen, damit ihre Gespräche nicht wie ein bloßes Kostümspiel wirken. Das Make-up ist deshalb eng mit der Glaubwürdigkeit der Gesellschaft verbunden. Es ermöglicht nicht nur einen spektakulären Anblick, sondern trägt die politischen und persönlichen Auseinandersetzungen des Films.",
+      "anchor": "Chambers gibt der Affengesellschaft Gesichter.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Film/22314-PLANET-OFTHEAPES",
+        "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)"
+      ]
+    },
+    {
+      "id": "SF-202609-P02-L-013-V1",
+      "originalId": "SF-202609-P02-L-013-V1",
+      "knowledgeId": "K-SF-202609-P02-L-013",
+      "filmKey": "Planet of the Apes|1968",
+      "filmTitle": "Planet der Affen",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Charlton Heston spielt George Taylor.",
+      "question": "„Planet der Affen“ (1968): Welcher Darsteller verkörpert den auf einem fremdartigen Planeten gestrandeten Taylor?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-L-013-V1:a",
+          "text": "Gregory Peck",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-013-V1:b",
+          "text": "Rod Taylor",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-013-V1:c",
+          "text": "Charlton Heston",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-L-013-V1:d",
+          "text": "Burt Lancaster",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Charlton Heston spielt George Taylor.",
+      "context": "George Taylor (Charlton Heston) bringt das Selbstbewusstsein eines Menschen mit, der sich als Vertreter einer überlegenen Zivilisation versteht. In der neuen Umgebung wird gerade diese Annahme unbrauchbar. Seine kräftige, vertraute Starpräsenz verstärkt den Effekt der Erniedrigung: Der Film macht aus einem erwartbaren Abenteuerhelden zunächst einen Gefangenen, dessen Sprache, Herkunft und Anspruch auf Anerkennung von anderen bewertet werden.",
+      "anchor": "Heston als gefangener Astronaut Taylor.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)",
+        "https://catalog.afi.com/Film/22314-PLANET-OFTHEAPES"
+      ],
+      "variantOf": "SF-202609-P02-L-013"
+    },
+    {
+      "id": "SF-202609-P02-S-014-V1",
+      "originalId": "SF-202609-P02-S-014-V1",
+      "knowledgeId": "K-SF-202609-P02-S-014",
+      "filmKey": "Planet of the Apes|1968",
+      "filmTitle": "Planet der Affen",
+      "difficulty": "mittel",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "John Chambers verantwortete das prägende Affen-Make-up.",
+      "question": "„Planet der Affen“ (1968): Wer entwarf die Masken, mit denen die Schauspieler zu sprechenden Affen wurden?",
+      "answers": [
+        {
+          "id": "SF-202609-P02-S-014-V1:a",
+          "text": "John Chambers",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-014-V1:b",
+          "text": "Rick Baker",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-014-V1:c",
+          "text": "Rob Bottin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SF-202609-P02-S-014-V1:d",
+          "text": "Stan Winston",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "John Chambers verantwortete das prägende Affen-Make-up.",
+      "context": "Die Masken müssen gleichzeitig eine andere Spezies zeigen und menschliche Darstellerleistung lesbar lassen. Besonders Zira (Kim Hunter) und Cornelius (Roddy McDowall) benötigen differenzierte Reaktionen, damit ihre Gespräche nicht wie ein bloßes Kostümspiel wirken. Das Make-up ist deshalb eng mit der Glaubwürdigkeit der Gesellschaft verbunden. Es ermöglicht nicht nur einen spektakulären Anblick, sondern trägt die politischen und persönlichen Auseinandersetzungen des Films.",
+      "anchor": "Chambers gibt der Affengesellschaft Gesichter.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Film/22314-PLANET-OFTHEAPES",
+        "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)"
+      ],
+      "variantOf": "SF-202609-P02-S-014"
+    },
+    {
+      "id": "FF-332-YEAR",
+      "originalId": "FF-332-YEAR",
+      "knowledgeId": "K-FF-332-YEAR",
+      "filmKey": "Planet of the Apes|1968",
+      "filmTitle": "Planet der Affen",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Das Filmjahr 1968 zuordnen.",
+      "question": "„Planet der Affen“: In welchem Jahr erschien der Film von Franklin J. Schaffner erstmals?",
+      "answers": [
+        {
+          "id": "FF-332-YEAR:y1968",
+          "text": "1968",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-332-YEAR:y1958",
+          "text": "1967",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-332-YEAR:y1960",
+          "text": "1969",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-332-YEAR:y1962",
+          "text": "1970",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Planet der Affen“ wurde erstmals 1968 veröffentlicht.",
+      "context": "1968 verlassen Menschen mit Apollo 8 erstmals die Erdumlaufbahn Richtung Mond. „Planet der Affen“ schickt im selben Jahr Astronauten in eine Welt, deren Herkunft zum großen Rätsel wird. Wirklicher und erfundener Raumflug ergeben einen unmittelbaren Anker für 1968.",
+      "anchor": "1968: Apollo 8 Richtung Mond, Planet der Affen ins Unbekannte.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Film/22314-PLANET-OFTHEAPES",
+        "https://www.nasa.gov/specials/apollo50th/missions.html"
+      ]
+    },
+    {
+      "id": "FF-332-DIRECTOR",
+      "originalId": "FF-332-DIRECTOR",
+      "knowledgeId": "K-FF-332-DIRECTOR",
+      "filmKey": "Planet of the Apes|1968",
+      "filmTitle": "Planet der Affen",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Franklin J. Schaffners Regie zuordnen.",
+      "question": "Wer führte bei „Planet der Affen“ von 1968 Regie?",
+      "answers": [
+        {
+          "id": "FF-332-DIRECTOR:a",
+          "text": "Franklin J. Schaffner",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "FF-332-DIRECTOR:b",
+          "text": "Stanley Kubrick",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-332-DIRECTOR:c",
+          "text": "George Lucas",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "FF-332-DIRECTOR:d",
+          "text": "Robert Wise",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Franklin J. Schaffner führte Regie.",
+      "context": "Franklin J. Schaffner inszenierte die Verfilmung nach zahlreichen Drehbuchfassungen von Rod Serlings ursprünglichem Entwurf; auch Michael Wilson ist als Autor genannt. Wüstenszenen entstanden am Lake Powell und im Glen-Canyon-Gebiet. Die weniger technisierte Affengesellschaft der Filmfassung war zugleich eine bewusste Produktionsentscheidung zur Senkung der Kosten.",
+      "anchor": "Planet der Affen → Franklin J. Schaffner",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)",
+        "https://catalog.afi.com/Film/22314-PLANET-OFTHEAPES"
+      ]
+    },
+    {
+      "id": "F240-20261006-072-L1",
+      "originalId": "F240-20261006-072-L1",
+      "knowledgeId": "K-F240-20261006-072-L1",
+      "filmKey": "Pleasantville|1998",
+      "filmTitle": "Pleasantville – Zu schön, um wahr zu sein",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Fernbedienung versetzt die Geschwister in Serienrollen.",
+      "question": "Wie gelangen David (Tobey Maguire) und Jennifer (Reese Witherspoon) in „Pleasantville – Zu schön, um wahr zu sein“ in die Fernsehwelt?",
+      "answers": [
+        {
+          "id": "F240-20261006-072-L1:a",
+          "text": "Durch eine besondere Fernbedienung",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-L1:b",
+          "text": "Durch die Reparatur des defekten Fernsehers",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-L1:c",
+          "text": "Durch einen persönlich betretenen Studiobau",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-L1:d",
+          "text": "Durch das Einschlafen bei derselben Folge",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eine besondere Fernbedienung versetzt David (Tobey Maguire) und Jennifer (Reese Witherspoon) in die Sitcom.",
+      "context": "Ein Fernsehtechniker (Don Knotts) ersetzt die zerbrochene Fernbedienung. Beim erneuten Streit um das Gerät gelangen David (Tobey Maguire) und Jennifer (Reese Witherspoon) in die Serie. Als Bud und Mary Sue müssen sie sich in die Familie Parker einfügen; David will zunächst den bekannten Ablauf bewahren.",
+      "anchor": "Die Fernbedienung macht Zuschauer zu Serienfiguren.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pleasantville_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-072-L2",
+      "originalId": "F240-20261006-072-L2",
+      "knowledgeId": "K-F240-20261006-072-L2",
+      "filmKey": "Pleasantville|1998",
+      "filmTitle": "Pleasantville – Zu schön, um wahr zu sein",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Fernsehwelt beginnt in Schwarzweiß.",
+      "question": "Wie sieht die Fernsehwelt am Anfang von „Pleasantville – Zu schön, um wahr zu sein“ aus?",
+      "answers": [
+        {
+          "id": "F240-20261006-072-L2:a",
+          "text": "Vollständig sepiafarben",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-L2:b",
+          "text": "Schwarzweiß",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-L2:c",
+          "text": "Wie ein Negativbild",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-L2:d",
+          "text": "Nur als Zeichentrick",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Sitcomwelt ist schwarzweiß.",
+      "context": "Die Sitcomwelt ist schwarzweiß. David (Tobey Maguire) kennt ihre festen Geschichten; Veränderungen durch die Neuankömmlinge werden später über auftauchende Farbe sichtbar.",
+      "anchor": "Der anfangs feste Alltag besitzt noch keine Farbe.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pleasantville_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-072-M1",
+      "originalId": "F240-20261006-072-M1",
+      "knowledgeId": "K-F240-20261006-072-M1",
+      "filmKey": "Pleasantville|1998",
+      "filmTitle": "Pleasantville – Zu schön, um wahr zu sein",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Erzählte Geschichten füllen die leeren Bücher.",
+      "question": "Was verändert sich in „Pleasantville – Zu schön, um wahr zu sein“ an den zuvor leeren Büchern?",
+      "answers": [
+        {
+          "id": "F240-20261006-072-M1:a",
+          "text": "Ihre Seiten enthalten plötzlich nur Fotografien.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-M1:b",
+          "text": "Ihre Texte bleiben für die Bewohner unlesbar.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-M1:c",
+          "text": "Ihre Seiten füllen sich mit Text.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-M1:d",
+          "text": "Sie erhalten nur die bereits bekannten Fernsehskripte.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Seiten füllen sich mit Text.",
+      "context": "Jennifer (Reese Witherspoon) erzählt von einem Roman, den sie nur teilweise gelesen hat. Entsprechend füllen sich die Seiten zunächst nur bis zu der ihr bekannten Floßfahrt. David (Tobey Maguire) ergänzt die Geschichte. Die neugierigen Jugendlichen wollen nun weitere Bücher kennenlernen.",
+      "anchor": "Erinnerte Geschichten lassen Text auf leeren Seiten erscheinen.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pleasantville_(film)",
+        "https://www.springfieldspringfield.co.uk/movie_script.php?movie=pleasantville"
+      ]
+    },
+    {
+      "id": "F240-20261006-072-M2",
+      "originalId": "F240-20261006-072-M2",
+      "knowledgeId": "K-F240-20261006-072-M2",
+      "filmKey": "Pleasantville|1998",
+      "filmTitle": "Pleasantville – Zu schön, um wahr zu sein",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Straßen bilden zunächst einen geschlossenen Kreis.",
+      "question": "Welche Eigenschaft der Straßen begrenzt die Welt in „Pleasantville – Zu schön, um wahr zu sein“ zunächst?",
+      "answers": [
+        {
+          "id": "F240-20261006-072-M2:a",
+          "text": "Sie enden alle an der Grenze der Stadt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-M2:b",
+          "text": "Sie brechen unvermittelt an einem Abgrund ab.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-M2:c",
+          "text": "Sie verwandeln sich außerhalb des Orts in Feldwege.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-M2:d",
+          "text": "Sie führen stets zurück in die Stadt.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Straßen führen zurück in die Stadt.",
+      "context": "Die Straßen führen zurück in die Stadt. Das Weltbild kennt zunächst kein wirkliches Außen; erst die Veränderungen öffnen Wege über den festgelegten Serienraum hinaus.",
+      "anchor": "Die frühen Straßen lassen kein Außen zu.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pleasantville_(film)",
+        "https://www.springfieldspringfield.co.uk/movie_script.php?movie=pleasantville"
+      ]
+    },
+    {
+      "id": "F240-20261006-072-S1",
+      "originalId": "F240-20261006-072-S1",
+      "knowledgeId": "K-F240-20261006-072-S1",
+      "filmKey": "Pleasantville|1998",
+      "filmTitle": "Pleasantville – Zu schön, um wahr zu sein",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Aus dem Farbwechsel wird ein Konflikt um Freiheit.",
+      "question": "Wie reagiert die Stadtführung in „Pleasantville – Zu schön, um wahr zu sein“ auf die Menschen, die farbig geworden sind?",
+      "answers": [
+        {
+          "id": "F240-20261006-072-S1:a",
+          "text": "Sie führt Ausgrenzung und Verbote ein.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-S1:b",
+          "text": "Sie ordnet eine allgemeine medizinische Untersuchung an.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-S1:c",
+          "text": "Sie richtet getrennte Wohnviertel für beide Gruppen ein.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-S1:d",
+          "text": "Sie erklärt Farbe zu einer rein privaten Angelegenheit.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Stadtführung grenzt farbig gewordene Menschen aus.",
+      "context": "Die Stadt verbietet unter anderem Lesen, Rockmusik und farbige Malerei. David (Tobey Maguire) und Bill Johnson (Jeff Daniels) antworten darauf mit einem bunten Wandbild am Diner. Sie werden verhaftet. Der Streit um neue Erfahrungen wird damit zum öffentlichen Prozess über die Ordnung der Stadt.",
+      "anchor": "Die Farbe führt zur Frage, wer in der Stadt dazugehören darf.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pleasantville_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-072-S2",
+      "originalId": "F240-20261006-072-S2",
+      "knowledgeId": "K-F240-20261006-072-S2",
+      "filmKey": "Pleasantville|1998",
+      "filmTitle": "Pleasantville – Zu schön, um wahr zu sein",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Jennifer wählt ein Studium in der veränderten Welt.",
+      "question": "Warum kehrt Jennifer (Reese Witherspoon) am Ende von „Pleasantville – Zu schön, um wahr zu sein“ nicht mit David zurück?",
+      "answers": [
+        {
+          "id": "F240-20261006-072-S2:a",
+          "text": "Sie möchte die Familie Parker dauerhaft unterstützen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-S2:b",
+          "text": "Sie möchte dort studieren.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-S2:c",
+          "text": "Sie möchte mit Skip eine Familie gründen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-S2:d",
+          "text": "Sie möchte dort als Lehrerin arbeiten.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jennifer entscheidet sich fürs Studium in der veränderten Welt.",
+      "context": "Jennifer (Reese Witherspoon) entdeckt in Pleasantville ihre Begeisterung für Literatur. Sie bleibt, um am College zu studieren. David (Tobey Maguire) kehrt dagegen in die Gegenwart zurück. Dort tröstet er seine weinende Mutter (Jane Kaczmarek): Ihr Leben muss keinem perfekten Familienbild entsprechen.",
+      "anchor": "Jennifer wählt eine Zukunft innerhalb der veränderten Welt.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pleasantville_(film)",
+        "https://de.wikipedia.org/wiki/Pleasantville_%E2%80%93_Zu_sch%C3%B6n%2C_um_wahr_zu_sein"
+      ]
+    },
+    {
+      "id": "F240-20261006-072-Y",
+      "originalId": "F240-20261006-072-Y",
+      "knowledgeId": "K-F240-20261006-072-Y",
+      "filmKey": "Pleasantville|1998",
+      "filmTitle": "Pleasantville – Zu schön, um wahr zu sein",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "1998 verbindet digitales Filmverfahren mit dem alten Fernsehideal.",
+      "question": "In welchem Jahr wurde „Pleasantville – Zu schön, um wahr zu sein“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-072-Y:a",
+          "text": "1997",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-Y:b",
+          "text": "2000",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-Y:c",
+          "text": "1998",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-Y:d",
+          "text": "1999",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Film wurde 1998 erstmals veröffentlicht.",
+      "context": "1998 erschien der Film über eine Fernsehfamilie der fünfziger Jahre. Seine selektive Farbgestaltung entstand aus zunächst vollständig farbig aufgenommenem Material, das digital entsättigt wurde. Das moderne Verfahren lässt sich mit dem dargestellten älteren Fernsehideal verbinden.",
+      "anchor": "1998 machte digitale Entsättigung aus farbigen Aufnahmen eine veränderliche Schwarzweiß-Sitcomwelt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pleasantville_(film)",
+        "https://theasc.com/article/pleasantville-black-and-white-in-color/",
+        "https://catalog.afi.com/Film/61514-PLEASANTVILLE"
+      ]
+    },
+    {
+      "id": "F240-20261006-072-D",
+      "originalId": "F240-20261006-072-D",
+      "knowledgeId": "K-F240-20261006-072-D",
+      "filmKey": "Pleasantville|1998",
+      "filmTitle": "Pleasantville – Zu schön, um wahr zu sein",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Gary Ross gab sein Regiedebüt mit gezielter Vorbereitung.",
+      "question": "Wer führte bei „Pleasantville – Zu schön, um wahr zu sein“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-072-D:a",
+          "text": "Robert Zemeckis",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-D:b",
+          "text": "Joe Dante",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-D:c",
+          "text": "Peter Weir",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-072-D:d",
+          "text": "Gary Ross",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Regie: Gary Ross.",
+      "context": "Gary Ross hatte vor seinem Regiedebüt bereits Drehbücher geschrieben, Theater inszeniert und Schauspiel studiert. Bei den Proben zu „Pleasantville“ suchte er vor allem selbst nach der Absicht jeder Szene. Er wollte diese Fragen vor dem Drehtag klären, ohne die Darsteller auf eine starre Spielweise festzulegen.",
+      "anchor": "Ross nutzte Proben zur eigenen Vorbereitung auf die Inszenierung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://uncleanarts.com/interview-gary-ross/",
+        "https://catalog.afi.com/Film/61514-PLEASANTVILLE"
+      ]
+    },
+    {
+      "id": "F240-20261006-176-L1",
+      "originalId": "F240-20261006-176-L1",
+      "knowledgeId": "K-F240-20261006-176-L1",
+      "filmKey": "Plus One|2019",
+      "filmTitle": "Plus One",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Hochzeitsbegleitung verändert eine Freundschaft.",
+      "question": "Welches Arrangement treffen Alice (Maya Erskine) und Ben (Jack Quaid) in „Plus One“?",
+      "answers": [
+        {
+          "id": "F240-20261006-176-L1:a",
+          "text": "Sie begleiten einander auf Hochzeiten.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-L1:b",
+          "text": "Sie spielen auf jeder Hochzeit ein verlobtes Paar.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-L1:c",
+          "text": "Sie vertreten einander als Trauzeugen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-L1:d",
+          "text": "Sie organisieren gemeinsam die Hochzeitsmusik.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Alice und Ben begleiten einander während der Hochzeitssaison.",
+      "context": "Hochzeit um Hochzeit sitzen Alice (Maya Erskine) und Ben (Jack Quaid) zwischen frisch verheirateten Freunden und suchenden Singles. Auch Bens Vater gehört zu den Heiratswilligen. Ihre Vereinbarung verschafft den beiden Gesellschaft in einer Umgebung, die ständig den eigenen Beziehungsstatus vorführt.",
+      "anchor": "Die Hochzeitsbegleitung verändert eine Freundschaft.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://tribecafilm.com/festival/archive/plus-one-2019"
+      ]
+    },
+    {
+      "id": "F240-20261006-176-L2",
+      "originalId": "F240-20261006-176-L2",
+      "knowledgeId": "K-F240-20261006-176-L2",
+      "filmKey": "Plus One|2019",
+      "filmTitle": "Plus One",
+      "difficulty": "leicht",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Angst vor Fehlern wird zur Angst vor Bindung.",
+      "question": "Was hemmt Ben (Jack Quaid) in „Plus One“ besonders bei neuen Beziehungen?",
+      "answers": [
+        {
+          "id": "F240-20261006-176-L2:a",
+          "text": "Die Angst, seinen Beruf für eine Ehe aufzugeben",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-L2:b",
+          "text": "Die Suche nach dem vollkommen passenden Menschen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-L2:c",
+          "text": "Ein Streit über den gemeinsamen Wohnort",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-L2:d",
+          "text": "Der Wunsch, erst einen finanziellen Gewinn abzuwarten",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ben sucht eine perfekte Beziehung ohne Fehlerrisiko.",
+      "context": "Alice (Maya Erskine) stellt Ben (Jack Quaid) auf den Feiern anderen Frauen vor. Auch nach einer gemeinsamen Nacht verfolgt er eine Bekanntschaft nicht weiter: Er wartet auf sein perfektes Gegenüber.",
+      "anchor": "Die Angst vor Fehlern wird zur Angst vor Bindung.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plus_One_(2019_film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-176-M1",
+      "originalId": "F240-20261006-176-M1",
+      "knowledgeId": "K-F240-20261006-176-M1",
+      "filmKey": "Plus One|2019",
+      "filmTitle": "Plus One",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Die Familienerfahrung bestimmt Bens Maßstab.",
+      "question": "Weshalb zweifelt Ben (Jack Quaid) in „Plus One“ an der neuen Hochzeit seines Vaters?",
+      "answers": [
+        {
+          "id": "F240-20261006-176-M1:a",
+          "text": "Er vermutet finanzielle Hintergedanken.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-M1:b",
+          "text": "Er bezweifelt die gegenseitige Zuneigung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-M1:c",
+          "text": "Er erinnert sich an dessen zwei gescheiterte Ehen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-M1:d",
+          "text": "Er vermutet eine geplante Scheinehe.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ben misstraut der neuen Ehe seines Vaters Chuck (Ed Begley Jr.), weil zwei frühere scheiterten.",
+      "context": "Chuck (Ed Begley Jr.) bittet Ben (Jack Quaid), sein Trauzeuge zu werden. Ben zögert. Alice (Maya Erskine) verweist auf ihre unglücklichen Eltern, die nur wegen der Kinder zusammenbleiben. Auch eine dauerhafte Ehe kann abschrecken.",
+      "anchor": "Die Familienerfahrung bestimmt Bens Maßstab.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plus_One_(2019_film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-176-M2",
+      "originalId": "F240-20261006-176-M2",
+      "knowledgeId": "K-F240-20261006-176-M2",
+      "filmKey": "Plus One|2019",
+      "filmTitle": "Plus One",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der verpasste Shuttle führt vom gemeinsamen Weg zur Nähe.",
+      "question": "Wo führt ein verpasster Shuttle in „Plus One“ zur ersten sexuellen Annäherung?",
+      "answers": [
+        {
+          "id": "F240-20261006-176-M2:a",
+          "text": "In einem verlassenen Gewächshaus",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-M2:b",
+          "text": "In einem geschlossenen Hotelrestaurant",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-M2:c",
+          "text": "In einer leeren Bahnhofshalle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-M2:d",
+          "text": "Auf einem Friedhof",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Annäherung findet auf einem Friedhof statt.",
+      "context": "Alice (Maya Erskine) und Ben (Jack Quaid) nehmen einen Weg durch einen Friedhof. Als Alice stürzt, hilft Ben ihr; aus dem Moment gegenseitiger Fürsorge entwickelt sich die Annäherung.",
+      "anchor": "Der verpasste Shuttle führt vom gemeinsamen Weg zur Nähe.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plus_One_(2019_film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-176-S1",
+      "originalId": "F240-20261006-176-S1",
+      "knowledgeId": "K-F240-20261006-176-S1",
+      "filmKey": "Plus One|2019",
+      "filmTitle": "Plus One",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Der Anspruch auf Sicherheit zerstört die vorhandene Beziehung.",
+      "question": "Woran zerbricht Alice (Maya Erskine) und Bens (Jack Quaid) Beziehung in „Plus One“ zunächst?",
+      "answers": [
+        {
+          "id": "F240-20261006-176-S1:a",
+          "text": "Ben kann ihre Liebeserklärung nicht erwidern.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-S1:b",
+          "text": "Ben möchte jede Verabredung weiterhin als bloße Begleitung behandeln.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-S1:c",
+          "text": "Alice verlangt sofort eine Hochzeit als Beweis.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-S1:d",
+          "text": "Ben kehrt ohne Erklärung zu einer früheren Partnerin zurück.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Als Alice ihre Liebe ausdrückt, antwortet Ben mit Ungewissheit.",
+      "context": "Auf Hawaii werden Alice (Maya Erskine) und Ben (Jack Quaid) ein Paar. Später eskaliert ein Streit um ein vergessenes Hochzeitsgeschenk. Ben gesteht Beziehungszweifel; Alice erklärt ihre Liebe, bekommt aber keine entsprechende Antwort.",
+      "anchor": "Der Anspruch auf Sicherheit zerstört die vorhandene Beziehung.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plus_One_(2019_film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-176-S2",
+      "originalId": "F240-20261006-176-S2",
+      "knowledgeId": "K-F240-20261006-176-S2",
+      "filmKey": "Plus One|2019",
+      "filmTitle": "Plus One",
+      "difficulty": "mittel",
+      "questionType": "Filmwissen",
+      "learningObjective": "Eine gescheiterte Ehe kann dennoch Wertvolles hinterlassen.",
+      "question": "Welche Einsicht vermittelt Chuck (Ed Begley Jr.) seinem Sohn in „Plus One“ trotz seiner gescheiterten Ehen?",
+      "answers": [
+        {
+          "id": "F240-20261006-176-S2:a",
+          "text": "Eine neue Ehe macht frühere Beziehungen wertlos.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-S2:b",
+          "text": "Auch gescheiterte Beziehungen können Wertvolles hervorbringen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-S2:c",
+          "text": "Eine gute Partnerschaft erfordert immer die völlige Übereinstimmung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-S2:d",
+          "text": "Eine Trennung beweist stets, dass die Beziehung ein Fehler war.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Auch gescheiterte Beziehungen können Wertvolles hervorbringen: Chuck nennt seinen Sohn Ben als Beispiel.",
+      "context": "Nach seinem Junggesellenabend lässt Chuck (Ed Begley Jr.) sich von Ben (Jack Quaid) abholen. Das folgende Vater-Sohn-Gespräch bereitet Bens Trauzeugenrede vor: Bei Chucks Hochzeit spricht er schließlich mit aufrichtiger Zuneigung.",
+      "anchor": "Chuck betrachtet Ben als bleibenden Gewinn seiner gescheiterten Ehe.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plus_One_(2019_film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-176-Y",
+      "originalId": "F240-20261006-176-Y",
+      "knowledgeId": "K-F240-20261006-176-Y",
+      "filmKey": "Plus One|2019",
+      "filmTitle": "Plus One",
+      "difficulty": "mittel",
+      "questionType": "Filmjahr",
+      "learningObjective": "Man Up 2015, Plus One 2019: Vier Jahre trennen Datingverwechslung und vereinbarte Hochzeitsbegleitung als Wege zur Nähe.",
+      "question": "In welchem Jahr wurde „Plus One“ erstmals veröffentlicht?",
+      "answers": [
+        {
+          "id": "F240-20261006-176-Y:a",
+          "text": "2017",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-Y:b",
+          "text": "2018",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-Y:c",
+          "text": "2019",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-Y:d",
+          "text": "2020",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "2019 wurde der Film beim Tribeca-Festival erstmals gezeigt.",
+      "context": "2019 wurde Plus One beim Tribeca-Festival erstmals gezeigt. Man Up war 2015 erschienen: Vier Jahre trennen zwei Komödien, in denen eine praktische Datingrolle ungeplant in echte Nähe übergeht. Die Hochzeitsbegleitung entwickelt hier aus wiederholten Begegnungen eine Beziehung.",
+      "anchor": "Man Up 2015, Plus One 2019: Vier Jahre trennen Datingverwechslung und vereinbarte Hochzeitsbegleitung als Wege zur Nähe.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plus_One_(2019_film)",
+        "https://en.wikipedia.org/wiki/Man_Up_(film)"
+      ]
+    },
+    {
+      "id": "F240-20261006-176-D",
+      "originalId": "F240-20261006-176-D",
+      "knowledgeId": "K-F240-20261006-176-D",
+      "filmKey": "Plus One|2019",
+      "filmTitle": "Plus One",
+      "difficulty": "mittel",
+      "questionType": "Regie",
+      "learningObjective": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam.",
+      "question": "Wer führte bei „Plus One“ Regie?",
+      "answers": [
+        {
+          "id": "F240-20261006-176-D:a",
+          "text": "Phil Lord und Christopher Miller",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-D:b",
+          "text": "John Requa und Glenn Ficarra",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-D:c",
+          "text": "Joe Russo und Anthony Russo",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "F240-20261006-176-D:d",
+          "text": "Jeff Chan und Andrew Rhymer",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam.",
+      "context": "Chan und Rhymer schrieben meist aus verschiedenen Städten. Einer überarbeitete die letzten Seiten des anderen und fügte neue hinzu; dann wechselten sie. Erst beim fertigen Entwurf saßen beide gemeinsam vor dem Text und gingen ihn Zeile für Zeile durch.",
+      "anchor": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.sagindie.org/interviews/jeff-chan-andrew-rhymer-plus-one/",
+        "https://tribecafilm.com/festival/archive/plus-one-2019"
+      ]
+    },
+    {
+      "id": "ACT-202610-P01-L-017",
+      "originalId": "ACT-202610-P01-L-017",
+      "knowledgeId": "K-ACT-202610-P01-L-017",
+      "filmKey": "Point Break|1991",
+      "filmTitle": "Gefährliche Brandung",
+      "difficulty": "leicht",
+      "questionType": "Handlung",
+      "learningObjective": "Utah ermittelt in der Surferszene.",
+      "question": "„Gefährliche Brandung“ (1991): In welche Szene schleust sich FBI-Agent Johnny Utah (Keanu Reeves) ein?",
+      "answers": [
+        {
+          "id": "ACT-202610-P01-L-017:a",
+          "text": "Die Surferszene",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-017:b",
+          "text": "Die Kunstfälscher",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-017:c",
+          "text": "Die Motorradclubs",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-017:d",
+          "text": "Die Börsenhändler",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Johnny Utah (Keanu Reeves) ermittelt verdeckt in der Surferszene.",
+      "context": "Beim Strandfootball erkennt Bodhi (Patrick Swayze) in Utah (Keanu Reeves) einen früheren College-Spieler wieder. Utah nutzt seine echte Sportvergangenheit für die Tarnung, behauptet aber, inzwischen Anwalt zu sein.",
+      "anchor": "Utahs wirkliche Footballvergangenheit stützt seine falsche Identität.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/59006"
+      ]
+    },
+    {
+      "id": "ACT-202610-P01-L-018",
+      "originalId": "ACT-202610-P01-L-018",
+      "knowledgeId": "K-ACT-202610-P01-L-018",
+      "filmKey": "Point Break|1991",
+      "filmTitle": "Gefährliche Brandung",
+      "difficulty": "leicht",
+      "questionType": "Besetzung",
+      "learningObjective": "Swayze spielt Bodhi.",
+      "question": "„Gefährliche Brandung“ (1991): Wer spielt den charismatischen Surfer Bodhi?",
+      "answers": [
+        {
+          "id": "ACT-202610-P01-L-018:a",
+          "text": "Mickey Rourke",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-018:b",
+          "text": "Val Kilmer",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-018:c",
+          "text": "Kurt Russell",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-L-018:d",
+          "text": "Patrick Swayze",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Patrick Swayze spielt den charismatischen Surfer Bodhi.",
+      "context": "Patrick Swayze sprang als erfahrener Fallschirmspringer selbst, musste jedoch Surfen lernen. Lori Petty, die Surflehrerin Tyler spielt, lernte es ebenfalls für den Film und war zuvor nie im Meer gewesen.",
+      "anchor": "Patrick Swayze spielt den charismatischen Surfer Bodhi.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/59006"
+      ]
+    },
+    {
+      "id": "ACT-202610-P01-M-025",
+      "originalId": "ACT-202610-P01-M-025",
+      "knowledgeId": "K-ACT-202610-P01-M-025",
+      "filmKey": "Point Break|1991",
+      "filmTitle": "Gefährliche Brandung",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Die Bankräuber tragen Masken ehemaliger US-Präsidenten.",
+      "question": "„Gefährliche Brandung“ (1991): Welche Masken tragen die Bankräuber?",
+      "answers": [
+        {
+          "id": "ACT-202610-P01-M-025:a",
+          "text": "Ehemalige US-Präsidenten",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-M-025:b",
+          "text": "Clowns",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-M-025:c",
+          "text": "Hollywoodstars",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-M-025:d",
+          "text": "Comicfiguren",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Masken stellen ehemalige US-Präsidenten dar.",
+      "context": "Beim letzten Bankraub lässt Bodhi (Patrick Swayze) den Tresor öffnen. Die zusätzliche Zeit wird verhängnisvoll: Ein bewaffneter Polizist unter den Kunden löst ein Feuergefecht aus.",
+      "anchor": "Präsidentenmasken verbergen die Identität der Bankräuber.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/59006"
+      ]
+    },
+    {
+      "id": "ACT-202610-P01-M-026",
+      "originalId": "ACT-202610-P01-M-026",
+      "knowledgeId": "K-ACT-202610-P01-M-026",
+      "filmKey": "Point Break|1991",
+      "filmTitle": "Gefährliche Brandung",
+      "difficulty": "mittel",
+      "questionType": "Handlung",
+      "learningObjective": "Tyler bringt Utah das Surfen bei.",
+      "question": "„Gefährliche Brandung“ (1991): Wer bringt Utah (Keanu Reeves) das Surfen bei?",
+      "answers": [
+        {
+          "id": "ACT-202610-P01-M-026:a",
+          "text": "Harp",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-M-026:b",
+          "text": "Bodhi",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-M-026:c",
+          "text": "Pappas",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ACT-202610-P01-M-026:d",
+          "text": "Tyler",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Tyler Endicott (Lori Petty) bringt Johnny Utah (Keanu Reeves) das Surfen bei.",
+      "context": "Utah (Keanu Reeves) liest in Tylers (Lori Petty) Akte vom Unfalltod ihrer Eltern. Er behauptet daraufhin, selbst beide Eltern verloren zu haben. Die erfundene Gemeinsamkeit gewinnt ihr Vertrauen.",
+      "anchor": "Eine erfundene gemeinsame Verlusterfahrung öffnet Utah den Zugang zu Tyler.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/59006"
+      ]
+    },
+    {
+      "id": "ED126-PLUSONE-S-001",
+      "originalId": "ED126-PLUSONE-S-001",
+      "knowledgeId": "K-ED126-PLUSONE-S-001",
+      "filmKey": "Plus One|2019",
+      "filmTitle": "Plus One",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Hochzeitsreden als komische Verdichtung und Mittel der Produktionsökonomie verstehen.",
+      "question": "Welche doppelte Funktion erfüllen die Hochzeitsreden in „Plus One“ laut den Filmemachern?",
+      "answers": [
+        {
+          "id": "ED126-PLUSONE-S-001:a",
+          "text": "Sie verdichten die Feiern komisch und ersparen vollständig ausgestattete Empfänge.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PLUSONE-S-001:b",
+          "text": "Sie erklären die Vergangenheit rückblickend und ersetzen private Gespräche des Paars.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PLUSONE-S-001:c",
+          "text": "Sie erzählen die Zukunft voraus und ersetzen sichtbare Entwicklungen der Beziehung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PLUSONE-S-001:d",
+          "text": "Sie kommentieren das Geschehen sachlich und ersetzen die subjektiven Sichtweisen der Gäste.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Reden stehen komisch für die Feiern und begrenzen deren nötigen Aufwand.",
+      "context": "Jeff Chan berichtet, dass fast alle Reden auf tatsächlich gehörten Ansprachen beruhen. Andrew Rhymer beschreibt sie als Stellvertreter der ganzen Hochzeiten: Gezeigt werden auch Nebenräume beim Üben, statt jeden Empfang vollständig auszurichten. Die Komik einzelner Auftritte trägt so eine größere Hochzeitswelt.",
+      "anchor": "Eine Rede lässt eine ganze Feier entstehen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.nylon.com/plus-one-movie-interview"
+      ]
+    },
+    {
+      "id": "ED126-PLUSONE-M-002",
+      "originalId": "ED126-PLUSONE-M-002",
+      "knowledgeId": "K-ED126-PLUSONE-M-002",
+      "filmKey": "Plus One|2019",
+      "filmTitle": "Plus One",
+      "difficulty": "mittel",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Mehrere erzählte Hochzeitsorte durch die Nutzung eines Drehorts unterscheiden.",
+      "question": "Wie erzeugte die Produktion von „Plus One“ verschiedene Hochzeitsorte mit begrenzten Mitteln?",
+      "answers": [
+        {
+          "id": "ED126-PLUSONE-M-002:a",
+          "text": "Sie verband reale Empfangsbilder anderer Hochzeiten mit neu gedrehten Nahaufnahmen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PLUSONE-M-002:b",
+          "text": "Sie baute einen Saal vollständig um und filmte alle Feiern aus gleicher Perspektive.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PLUSONE-M-002:c",
+          "text": "Sie nutzte verschiedene Bereiche desselben Drehorts für unterschiedliche Feiern.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PLUSONE-M-002:d",
+          "text": "Sie ergänzte denselben leeren Saal jeweils um digital erzeugte Gäste und Dekorationen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Verschiedene Bereiche eines Drehorts stellten unterschiedliche Orte der Geschichte dar.",
+      "context": "Ein Countryclub lieferte den Pool, die Hotellobby mit dem ungewöhnlichen Concierge (Finn Wittrock) und Chucks (Ed Begley Jr.) Hochzeit. Laut Chan suchte das Team bei Besichtigungen gezielt nach solchen mehrfach nutzbaren Orten. Mehrere Szenen konnten dort entstehen, ohne ständig die gesamte Ausrüstung umzuziehen.",
+      "anchor": "Ein Countryclub wird zu mehreren Orten der Geschichte.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.sagindie.org/interviews/jeff-chan-andrew-rhymer-plus-one/",
+        "https://en.wikipedia.org/wiki/Plus_One_(2019_film)"
+      ]
+    },
+    {
+      "id": "ED126-PITCH-S-001",
+      "originalId": "ED126-PITCH-S-001",
+      "knowledgeId": "K-ED126-PITCH-S-001",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Probenaufnahme und Gesangsvorlage als Arbeitsfolge verbinden.",
+      "question": "Wie ersetzte Musikmischer Joseph Magee in „Pitch Perfect“ zu starre Gesangsvorlagen?",
+      "answers": [
+        {
+          "id": "ED126-PITCH-S-001:a",
+          "text": "Durch Probenmitschnitte, denen die Darsteller mit eigenen Stimmen folgten.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PITCH-S-001:b",
+          "text": "Durch Instrumentalvorlagen, denen die Darsteller später frei folgten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PITCH-S-001:c",
+          "text": "Durch Solovorlagen von Studioprofis, denen die Darsteller später folgten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PITCH-S-001:d",
+          "text": "Durch Metronomspuren, die erst nach dem Dreh Gesang erhielten.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Darsteller sangen später zu ihren eigenen Probenstimmen.",
+      "context": "Die Demos klangen Moore zu glatt und starr. Magees Team bearbeitete Handyaufnahmen der Proben. Bei den späteren Gesangsaufnahmen orientierte sich die Besetzung an diesen eigenen Stimmen.",
+      "anchor": "Eigene Probenstimmen statt zu glatter Vorlagen.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.postmagazine.com/publications/2012/october-1-2012/film-sound-pitch-perfect/"
+      ],
+      "filmKey": "Pitch Perfect|2012",
+      "filmTitle": "Pitch Perfect"
+    },
+    {
+      "id": "ED126-PITCH-S-002",
+      "originalId": "ED126-PITCH-S-002",
+      "knowledgeId": "K-ED126-PITCH-S-002",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Den räumlichen Aufbau des Gesangs erklären.",
+      "question": "Wie verband Tonmischer Kevin O’Connell in „Pitch Perfect“ Dialog und Gesang?",
+      "answers": [
+        {
+          "id": "ED126-PITCH-S-002:a",
+          "text": "Er begann mit Surroundklang und zog den Chor nach vorn.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PITCH-S-002:b",
+          "text": "Er begann bei den Figuren und breitete Stimmen allmählich räumlich aus.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PITCH-S-002:c",
+          "text": "Er hielt die Stimmen vorn und verteilte ausschließlich Publikumsrufe.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PITCH-S-002:d",
+          "text": "Er begann mit Hintergrundstimmen hinten und ergänzte Solostimmen vorn.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Er breitete den zunächst frontalen Gesang allmählich im Kinoraum aus.",
+      "context": "Moore wollte einen plötzlichen Wechsel zur produzierten Musiknummer vermeiden. O’Connell behandelte Gesang zunächst wie nachgesprochenen Dialog und erweiterte mit dem Arrangement den Klangraum.",
+      "anchor": "Vorne beginnen, den Klangraum allmählich erweitern.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.postmagazine.com/publications/2012/october-1-2012/film-sound-pitch-perfect/"
+      ],
+      "filmKey": "Pitch Perfect|2012",
+      "filmTitle": "Pitch Perfect"
+    },
+    {
+      "id": "ED126-APES-S-001",
+      "originalId": "ED126-APES-S-001",
+      "knowledgeId": "K-ED126-APES-S-001",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Gebauten und gemalten Anteil des Schlussbildes unterscheiden.",
+      "question": "Wie entstand die Freiheitsstatue im Schlussbild von „Planet der Affen“?",
+      "answers": [
+        {
+          "id": "ED126-APES-S-001:a",
+          "text": "Als vollständiges Modell am Strand, optisch verkleinert.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-APES-S-001:b",
+          "text": "Als gemalte Basis mit separat gefilmter voller Statue.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-APES-S-001:c",
+          "text": "Als gebaute Basis am Strand mit ergänzendem Matte Painting.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-APES-S-001:d",
+          "text": "Als gefilmte echte Statue vor einem Studiostrand.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eine gebaute Basis am Strand wurde durch ein Matte Painting ergänzt.",
+      "context": "Die Basis entstand am Zuma Beach. Der übrige Teil der Statue wurde als gemaltes Bild mit der Realaufnahme verbunden. So konnte Taylor (Charlton Heston) vor einem monumentalen Ruinenbild erscheinen, ohne dass die gesamte Statue am Strand gebaut werden musste.",
+      "anchor": "Gebauter Sockel und gemalte Ergänzung ergeben die Statue.",
+      "spoilerLevel": "hoch",
+      "sources": [
+        "https://catalog.afi.com/Film/22314-PLANET-OFTHEAPES"
+      ],
+      "filmKey": "Planet of the Apes|1968",
+      "filmTitle": "Planet der Affen"
+    },
+    {
+      "id": "PITCHBLACK-126-S-001",
+      "originalId": "PITCHBLACK-126-S-001",
+      "knowledgeId": "K-PITCHBLACK-126-S-001",
+      "filmKey": "Pitch Black|2000",
+      "filmTitle": "Pitch Black – Planet der Finsternis",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Subjektive Bildgestaltung und erzählerische Unterscheidbarkeit verbinden.",
+      "question": "Wie gestaltete David Twohy in „Pitch Black“ die subjektiven Blickbilder von Riddick (Vin Diesel) und den Raubwesen?",
+      "answers": [
+        {
+          "id": "PITCHBLACK-126-S-001:a",
+          "text": "Riddicks Blick war Schwarzweiß, der Blick der Raubwesen rot getönt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PITCHBLACK-126-S-001:b",
+          "text": "Riddicks Blick war violett getönt, der Blick der Raubwesen Schwarzweiß.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PITCHBLACK-126-S-001:c",
+          "text": "Beide Blickbilder waren Schwarzweiß, unterschieden sich aber im Bildausschnitt.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PITCHBLACK-126-S-001:d",
+          "text": "Beide Blickbilder waren violett, unterschieden sich aber in der Bildschärfe.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Riddicks violett getönter Blick unterscheidet sich von der Schwarzweißsicht der Raubwesen.",
+      "context": "Riddick (Vin Diesel) und die Kreaturen erhalten unterschiedliche subjektive Bilder. Twohy beschrieb Riddicks über die visuellen Effekte entwickelte Sicht als ultraviolett wirkend. Weil auch die Raubwesen eigene Blickbilder haben, brauchten beide Perspektiven eine erkennbare Unterscheidung; deren Sicht blieb Schwarzweiß.",
+      "anchor": "Zwei ungewöhnliche Wahrnehmungen bekommen unterschiedliche Bildsprachen.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.scifinow.co.uk/interviews/pitch-black-interview-with-david-twohy/"
+      ]
+    },
+    {
+      "id": "PITCHBLACK-126-S-002",
+      "originalId": "PITCHBLACK-126-S-002",
+      "knowledgeId": "K-PITCHBLACK-126-S-002",
+      "filmKey": "Pitch Black|2000",
+      "filmTitle": "Pitch Black – Planet der Finsternis",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Materialbearbeitung und unterschiedliche Wirkung der Schauplätze verbinden.",
+      "question": "Warum wählte David Eggby bei „Pitch Black“ Bleach Bypass am Originalnegativ statt an Zwischenkopien?",
+      "answers": [
+        {
+          "id": "PITCHBLACK-126-S-002:a",
+          "text": "Um Außenbilder stark zu verändern, Innenbilder aber normaler zu halten.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "PITCHBLACK-126-S-002:b",
+          "text": "Um Innen- und Außenbilder durchgehend an dieselbe Farbwirkung anzugleichen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PITCHBLACK-126-S-002:c",
+          "text": "Um ausschließlich die Nachtbilder zu verändern und Tagesbilder unbehandelt zu lassen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "PITCHBLACK-126-S-002:d",
+          "text": "Um ausschließlich die Innenbilder zu verändern und Außenbilder unbehandelt zu lassen.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Am Originalnegativ ließ sich die extreme Behandlung auf die Außenaufnahmen begrenzen.",
+      "context": "Bei einer Zwischenkopie hätte die Behandlung die ganze Rolle erfasst, also auch Innenaufnahmen. Eggby wollte die fremdartige Planetenoberfläche stark verfremden, das Raumschiff aber normaler zeigen. Deshalb ließ er beim Originalnegativ den Bleichschritt auslassen und Silber erhalten. So konnten die unterschiedlichen Bildwirkungen im Film wechseln.",
+      "anchor": "Der Eingriff am Originalnegativ erlaubte gezielte Unterschiede zwischen außen und innen.",
+      "spoilerLevel": "gering",
+      "sources": [
+        "https://www.livedesignonline.com/staging-rental/dark-deeds-dp-david-eggby-goes-to-extremes-pitch-black"
+      ]
+    },
+    {
+      "id": "ED126-PLEASANTVILLE-S-001",
+      "originalId": "ED126-PLEASANTVILLE-S-001",
+      "knowledgeId": "K-ED126-PLEASANTVILLE-S-001",
+      "filmKey": "Pleasantville|1998",
+      "filmTitle": "Pleasantville – Zu schön, um wahr zu sein",
+      "difficulty": "schwer",
+      "questionType": "Filmgestaltung",
+      "learningObjective": "Schärfe und farbiges Reflexlicht mit der Wahl des Aufnahmematerials verbinden.",
+      "question": "Welche beiden Vorteile gaben nach den Tests den Ausschlag, „Pleasantville“ auf Farbnegativ zu drehen?",
+      "answers": [
+        {
+          "id": "ED126-PLEASANTVILLE-S-001:a",
+          "text": "Mehr Schärfe nach Rückübertragung; farbiges Reflexlicht war bereits aufgenommen.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PLEASANTVILLE-S-001:b",
+          "text": "Geringerer Kontrast nach Rückübertragung; Hauttöne ließen sich vollständig automatisch trennen.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PLEASANTVILLE-S-001:c",
+          "text": "Einheitliches Korn mit Schwarzweißmaterial; stärkere Sättigung entstand ohne digitale Bearbeitung.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "ED126-PLEASANTVILLE-S-001:d",
+          "text": "Mehr Zeichnung in dunklen Partien; Farbreflexe konnten am Set vermieden werden.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Farbnegativ bewahrte mehr Schärfe bei der Rückübertragung und zeichnete farbiges Reflexlicht mit auf.",
+      "context": "Schwarzweiß-Testbilder verloren bei der Rückübertragung auf Film zu viel Schärfe. Beim nachträglichen Kolorieren musste zudem selbst das bläuliche Himmelslicht auf einem Arm ergänzt werden. Mit Farbnegativ waren solche Reflexfarben bereits erfasst. John Lindley hielt diesen Ausgangspunkt deshalb für genauer und effizienter, obwohl später viel Farbe entfernt wurde.",
+      "anchor": "Erst Farbdetails bewahren, dann gezielt entsättigen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://theasc.com/article/pleasantville-black-and-white-in-color/"
+      ]
     }
   ]
 }
