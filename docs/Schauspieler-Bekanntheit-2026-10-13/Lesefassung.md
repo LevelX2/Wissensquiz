@@ -27073,3 +27073,4247 @@ Das Hong Kong Film Archive führt den Film von 1994 als Chows Regiedebüt und ne
 Merksatz: Chows frühe Regiearbeit entstand mit Lee Lik-chee.
 
 Quellen: [1](https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Stephen-CHOW_e.pdf).
+
+## Takeshi Kitano · Bekanntheitsgruppe 4
+
+![Takeshi Kitano (1997 laut Quellenkategorie)](Portraets/153.jpg)
+
+Bild: 1997 laut Quellenkategorie; The original uploader was TheMally at Italian Wikipedia .. CC BY-SA 4.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Takeshi_Kitano_Leone_D%27oro.jpg), [TMDB](https://www.themoviedb.org/person/3317).
+
+### L1 · leicht
+
+Auf welcher Seite des Gefangenenlagers steht Hara (Takeshi Kitano) in „Merry Christmas, Mr. Lawrence“?
+
+- Er ist ein ziviler Verbindungsmann des Roten Kreuzes.
+
+- Er ist ein gefangener britischer Sanitätsoffizier.
+
+- **Richtig: Er gehört als Feldwebel zur japanischen Bewachung.**
+
+- Er ist ein niederländischer Dolmetscher unter den Gefangenen.
+
+Hara ist ein japanischer Feldwebel und Lageraufseher.
+
+Im japanischen Kriegsgefangenenlager begegnen sich unterschiedliche Vorstellungen von Ehre, Scham und Gehorsam. Der britische Offizier Lawrence (Tom Conti) versteht Japanisch und versucht, zwischen den Seiten zu vermitteln. Auch Hara zeigt hinter seiner Härte Momente von Mitgefühl. Die Rolle bedeutete für den in Japan als Komiker bekannten Kitano einen frühen markanten Auftritt in einem internationalen Kinofilm.
+
+Merksatz: Der Komiker Kitano tritt als harter japanischer Lageraufseher auf.
+
+Antwortzusätze:
+
+- Er gehört als Feldwebel zur japanischen Bewachung.: Hara ist ein japanischer Feldwebel und Lageraufseher.
+
+Quellen: [1](https://bfidatadigipres.github.io/big%20screen%20classics/2024/12/03/merry-christmas-mr-lawrence/), [2](https://www.arrowfilms.com/p/merry-christmas-mr-lawrence-blu-ray/12528810/).
+
+### L2 · leicht
+
+Welchen Beruf hat Nishi (Takeshi Kitano) vor seinem Ausscheiden aus dem Dienst in „Hana-bi“?
+
+- **Richtig: Polizist**
+
+- Taxifahrer
+
+- Bankangestellter
+
+- Arzt
+
+Nishi ist ein ehemaliger Polizeiermittler.
+
+Nishi fühlt sich für das zerstörte Leben von Menschen in seiner Nähe verantwortlich. Seine Frau ist schwer krank; ein Kollege wurde bei einem Einsatz so verletzt, dass er im Rollstuhl lebt. Der Rückzug aus dem Polizeidienst löst diese Belastungen nicht auf. Seine Versuche, etwas wiedergutzumachen, führen ihn zu verzweifelten Entscheidungen und verbinden Fürsorge mit erneuter Gewalt.
+
+Merksatz: Der frühere Ermittler versucht, persönliches Unglück mit radikalen Mitteln auszugleichen.
+
+Antwortzusätze:
+
+- Polizist: Nishi ist ein ehemaliger Polizeiermittler.
+
+Quellen: [1](https://www.americancinematheque.com/now-showing/hana-bi-7-3-22/), [2](https://thirdwindowfilms.com/films/hana-bi/).
+
+### M1 · mittel
+
+Wen soll Kikujiro (Takeshi Kitano) für den kleinen Masao in „Kikujiros Sommer“ auf einer Reise finden?
+
+- Den Vater, der als Seemann verschwunden ist.
+
+- **Richtig: Die Mutter, deren Adresse Masao entdeckt hat.**
+
+- Den Bruder, der in Tokio eine Arbeit sucht.
+
+- Den Großvater, der in ein Pflegeheim gezogen ist.
+
+Masao möchte seine Mutter wiederfinden.
+
+Masao lebt bei seiner Großmutter. Kikujiros Frau verpflichtet ihren unzuverlässigen Mann, den Jungen auf der Suche zu begleiten. Der Erwachsene verspielt zunächst das Reisegeld, und beide sind auf Hilfe unterwegs angewiesen. Als sie die Mutter schließlich mit einer anderen Familie sehen, bleibt die erhoffte Wiedervereinigung aus. Die Reise erhält ihren Wert zunehmend durch die Zuwendung, die Kikujiro dem enttäuschten Kind entgegenbringt.
+
+Merksatz: Die Suche nach der Mutter führt zu einer unerwarteten Freundschaft.
+
+Antwortzusätze:
+
+- Die Mutter, deren Adresse Masao entdeckt hat.: Masao möchte seine Mutter wiederfinden.
+
+Quellen: [1](https://www.sonypictures.com/movies/kikujiro), [2](https://en.wikipedia.org/wiki/Kikujiro).
+
+### M2 · mittel
+
+Mit welchem Auftrag wird Murakawa (Takeshi Kitano) in „Sonatine“ nach Okinawa geschickt?
+
+- **Richtig: Er soll in einen Konflikt zwischen örtlichen Gangstergruppen eingreifen.**
+
+- Er soll eine verschwundene Lieferung seines Clans wiederbeschaffen.
+
+- Er soll einen Kronzeugen vor dessen Gerichtsverhandlung einschüchtern.
+
+- Er soll für einen neuen Glücksspielbetrieb Personal anwerben.
+
+Murakawa soll in einem örtlichen Bandenkrieg vermitteln beziehungsweise eingreifen.
+
+Der erfahrene Gangster ist seiner Arbeit müde und denkt an den Rückzug. Der Auftrag auf Okinawa führt jedoch nicht zu einer geordneten Lösung: Die Lage eskaliert, und Murakawa flieht mit den Überlebenden in ein abgelegenes Haus am Strand. Während sie warten und spielen, bleibt die Gefahr bestehen. Das scheinbare Ferienidyll ist ein vorläufiger Aufschub vor dem nächsten Gewaltausbruch.
+
+Merksatz: Der Auftrag im Bandenkrieg endet zunächst im Versteck am Strand.
+
+Antwortzusätze:
+
+- Er soll in einen Konflikt zwischen örtlichen Gangstergruppen eingreifen.: Murakawa soll in einem örtlichen Bandenkrieg vermitteln beziehungsweise eingreifen.
+
+Quellen: [1](https://player.bfi.org.uk/subscription/film/watch-sonatine-1993-online).
+
+### S1 · schwer
+
+Was macht Murakawas (Takeshi Kitano) scheinbar tödlichen letzten Versuch beim Russischen Roulette in „Sonatine“ zum makabren Streich?
+
+- Der Schuss geht in einen verborgenen Sandsack.
+
+- Murakawa löst nur eine vorbereitete Knallpatrone aus.
+
+- **Richtig: Die Trommel ist tatsächlich leer.**
+
+- Ein Mitspieler hat seine Waffe unbemerkt gegen eine Attrappe getauscht.
+
+Erst nach dem Abdrücken wird sichtbar, dass der Revolver leer ist.
+
+Die Männer vertreiben sich die Zeit im Strandversteck mit Spielen, die immer wieder in Gewalt übergehen. Murakawa verwandelt einen Schießwettbewerb in Russisches Roulette und erschreckt die anderen mit seinem scheinbaren Selbstmord. Später träumt er dieselbe Situation mit einer geladenen Waffe. Der zunächst folgenlose Streich legt damit ein Todesmotiv frei, das sich nicht dauerhaft vom wirklichen Geschehen trennen lässt.
+
+Merksatz: Das leere Spiel mit dem Tod kehrt als tödlicher Traum zurück.
+
+Antwortzusätze:
+
+- Die Trommel ist tatsächlich leer.: Erst nach dem Abdrücken wird sichtbar, dass der Revolver leer ist.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Sonatine_(1993_film)).
+
+### S2 · schwer
+
+Womit unterstützt Nishi (Takeshi Kitano) seinen gelähmten Kollegen Horibe (Ren Ōsugi) in „Hana-bi“?
+
+- Er bezahlt ihm den Einstieg in ein kleines Geschäft.
+
+- Er organisiert ihm eine Reise zu seiner Familie.
+
+- Er verschafft ihm eine Stelle als Ausbilder neuer Polizisten.
+
+- **Richtig: Er schickt ihm Materialien zum Malen.**
+
+Nishi schickt Horibe Malutensilien.
+
+Horibe hat nach seiner Verletzung nicht nur die Arbeit, sondern auch das Zusammenleben mit Frau und Tochter verloren. Er spricht von Selbstmord und davon, gern malen zu wollen, sich die Materialien aber nicht leisten zu können. Nach einem gescheiterten Suizidversuch erreicht ihn Nishis Paket. Die entstehenden Bilder begleiten einen Versuch, wieder eine eigene Form des Weiterlebens zu finden.
+
+Merksatz: Das Paket eröffnet Horibe eine künstlerische Tätigkeit nach dem Zusammenbruch seines bisherigen Lebens.
+
+Antwortzusätze:
+
+- Er schickt ihm Materialien zum Malen.: Nishi schickt Horibe Malutensilien.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Hana-bi).
+
+### E1 · experte
+
+Wie kam Takeshi Kitano bei „Violent Cop“ erstmals zur Filmregie?
+
+- Er wurde erst nach Abschluss des Drehs mit einer neuen Schnittfassung beauftragt.
+
+- **Richtig: Er war als Hauptdarsteller engagiert und übernahm nach Kinji Fukasakus Ausstieg auch die Regie.**
+
+- Er übernahm zusätzliche Szenen und wurde gleichberechtigter zweiter Regisseur.
+
+- Er entwickelte den Stoff als eigenes Regieprojekt und suchte danach den Hauptdarsteller.
+
+Kitano übernahm die Regie, nachdem der ursprünglich vorgesehene Kinji Fukasaku ausgestiegen war.
+
+Die Hauptrolle hatte Kitano bereits übernommen, als sich die Leitung des Projekts änderte. Aus dem Engagement als Darsteller wurde so sein Regiedebüt. Der Film stellte zugleich die Erwartungen an seinen komischen Starauftritt infrage: Der Polizeiermittler Azuma ist ein brutaler, unberechenbarer Mann. Die zusätzliche Verantwortung hinter der Kamera eröffnete Kitano eine eigene filmische Laufbahn und ein anderes öffentliches Bild.
+
+Merksatz: Aus einem Schauspielengagement wird unerwartet ein Regiedebüt.
+
+Antwortzusätze:
+
+- Er war als Hauptdarsteller engagiert und übernahm nach Kinji Fukasakus Ausstieg auch die Regie.: Kitano übernahm die Regie, nachdem der ursprünglich vorgesehene Kinji Fukasaku ausgestiegen war.
+
+Quellen: [1](https://www.bfi.org.uk/features/where-begin-takeshi-kitano).
+
+### E2 · experte
+
+Welche Verbindung haben Horibes Bilder in „Hana-bi“ zu Takeshi Kitano selbst?
+
+- Sie wurden nach Kitanos Skizzen von seinem Ausstatter ausgeführt.
+
+- Sie sind Reproduktionen von Werken eines Malers, den Kitano porträtierte.
+
+- Sie stammen aus der Sammlung seiner Eltern und wurden für den Film verändert.
+
+- **Richtig: Kitano malte sie selbst nach seinem schweren Motorradunfall.**
+
+Die im Film gezeigten Bilder sind Kitanos eigene Arbeiten aus der Zeit nach seinem Unfall.
+
+Kitano begann während der langen Erholung nach dem Motorradunfall von 1994 zu malen. In „Hana-bi“ wird diese Tätigkeit dem gelähmten Horibe zugeordnet, während Kitano selbst dessen Freund Nishi spielt. Die biografische Erfahrung wird also auf verschiedene Figuren verteilt. Sie bereichert die Fiktion, ohne dass Nishi einfach eine autobiografische Selbstabbildung des Darstellers wäre.
+
+Merksatz: Kitanos eigene Malerei erscheint als Arbeit einer anderen Figur.
+
+Antwortzusätze:
+
+- Kitano malte sie selbst nach seinem schweren Motorradunfall.: Die im Film gezeigten Bilder sind Kitanos eigene Arbeiten aus der Zeit nach seinem Unfall.
+
+Quellen: [1](https://www.sensesofcinema.com/2000/takeshi-kitano/hanabi/).
+
+## Choi Min-sik · Bekanntheitsgruppe 4
+
+![Choi Min-sik (2009)](Portraets/154.jpg)
+
+Bild: 2009; che (Please credit as "Petr Novák, Wikipedia" in case you use this outside Wikimedia projects.). CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Choi_Min-sik.jpg), [TMDB](https://www.themoviedb.org/person/64880).
+
+### L1 · leicht
+
+Wie lange wird Oh Dae-su (Choi Min-sik) in „Oldboy“ ohne Erklärung gefangen gehalten?
+
+- 5 Jahre
+
+- 20 Jahre
+
+- 10 Jahre
+
+- **Richtig: 15 Jahre**
+
+Oh Dae-su verbringt 15 Jahre in der geheimen Gefangenschaft.
+
+Sein Gefängnis sieht wie ein gewöhnliches Zimmer aus; ein Fernseher bietet ihm den einzigen Blick nach draußen. Die plötzliche Freilassung erklärt weder die Entführung noch die verlorenen Jahre. Dae-su beginnt deshalb eine gewaltsame Suche nach dem Verantwortlichen. Das Rätsel betrifft nicht nur die Identität seines Peinigers, sondern auch die Gründe, aus denen dessen Plan gerade jetzt in eine neue Phase tritt.
+
+Merksatz: Nach 15 verlorenen Jahren beginnt die Suche nach dem Warum.
+
+Antwortzusätze:
+
+- 15 Jahre: Oh Dae-su verbringt 15 Jahre in der geheimen Gefangenschaft.
+
+Quellen: [1](https://player.bfi.org.uk/subscription/film/watch-oldboy-2003-online).
+
+### L2 · leicht
+
+Welche Rolle spielt Kyung-chul (Choi Min-sik) im Konflikt von „I Saw the Devil“?
+
+- Den Kollegen, der die private Rache verhindern möchte.
+
+- Den pensionierten Polizeichef, der die Ermittlungen unterstützt.
+
+- Den Geheimagenten, dessen Verlobte getötet wird.
+
+- **Richtig: Den Serienmörder, den der Geheimagent verfolgt.**
+
+Kyung-chul ist der Serienmörder und Gegner des Geheimagenten.
+
+Nach dem Mord an seiner Verlobten sucht Soo-hyun (Lee Byung-hun) den Täter auf eigene Faust. Kyung-chul ist ein gefährlicher Psychopath, der aus Vergnügen tötet. Die Begegnung führt zu einem Rachekampf, in dem der Verfolger seine dienstlichen Grenzen überschreitet. Choi verkörpert den Täter, dessen Grausamkeit durch die Vergeltung nicht einfach zum Stillstand kommt.
+
+Merksatz: Choi spielt den Täter, Lee Byung-hun den rächenden Verfolger.
+
+Antwortzusätze:
+
+- Den Serienmörder, den der Geheimagent verfolgt.: Kyung-chul ist der Serienmörder und Gegner des Geheimagenten.
+
+Quellen: [1](https://www.isawthedevilmovie.com/).
+
+### M1 · mittel
+
+Welche Besonderheit prägt Kang-jaes (Choi Min-sik) Ehe mit Failan (Cecilia Cheung) im gleichnamigen Film?
+
+- Sie leben zusammen, sprechen aber keine gemeinsame Sprache.
+
+- Sie halten ihre bereits vollzogene Scheidung vor den Behörden geheim.
+
+- **Richtig: Die Ehe entsteht gegen Geld, und sie begegnen sich zu ihren Lebzeiten nicht.**
+
+- Sie heiraten aus Liebe, müssen ihre Verbindung jedoch vor ihren Familien verbergen.
+
+Kang-jae geht eine bezahlte Ehe ein, ohne Failan persönlich kennenzulernen.
+
+Failan kommt aus China nach Korea, findet ihre Verwandten dort aber nicht mehr vor. Die vermittelte Ehe ermöglicht ihr zu bleiben; Kang-jae nimmt aus Geldnot daran teil. Während sie in seinem Foto und in ungesendeten Briefen eine Bindung zu ihm aufbaut, bleibt er ein erfolgloser Kleingangster. Erst ihr Tod führt ihn zu einer Begegnung mit den Spuren eines Lebens, dessen Bedeutung für ihn ihm zuvor entgangen ist.
+
+Merksatz: Die rechtliche Verbindung besteht früher als jede persönliche Begegnung.
+
+Antwortzusätze:
+
+- Die Ehe entsteht gegen Geld, und sie begegnen sich zu ihren Lebzeiten nicht.: Kang-jae geht eine bezahlte Ehe ein, ohne Failan persönlich kennenzulernen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Failan), [2](https://www.bifan.kr/eng/bifan/history_program_view.asp?pk_seq=6743&sc_category1=&sc_year=2023).
+
+### M2 · mittel
+
+Weshalb lässt Soo-hyun den gefangenen Kyung-chul (Choi Min-sik) in „I Saw the Devil“ wieder frei?
+
+- **Richtig: Er will ihn verfolgen und wiederholt misshandeln, statt die Rache sofort zu beenden.**
+
+- Er hält ihn nach einer Verwechslung für den falschen Verdächtigen.
+
+- Er will ihn als Zeugen gegen einen größeren Verbrecherring benutzen.
+
+- Er muss sich einem Freilassungsbefehl seiner Vorgesetzten beugen.
+
+Soo-hyun beginnt ein bewusstes Spiel aus Freilassen, Verfolgen und erneuter Gewalt.
+
+Der Geheimagent findet den Mörder seiner Verlobten rasch. Statt ihn festnehmen zu lassen oder sofort zu töten, verletzt er ihn schwer und versieht ihn mit einem Ortungsgerät. Die wiederholte Jagd soll den Täter das Leiden seiner Opfer erfahren lassen. Doch Soo-hyun unterschätzt, welche weiteren Gefahren entstehen, wenn ein weiterhin handlungsfähiger Mörder Teil seines privaten Racheplans bleibt.
+
+Merksatz: Die Freilassung setzt die Vergeltung fort und lässt zugleich weitere Gewalt zu.
+
+Antwortzusätze:
+
+- Er will ihn verfolgen und wiederholt misshandeln, statt die Rache sofort zu beenden.: Soo-hyun beginnt ein bewusstes Spiel aus Freilassen, Verfolgen und erneuter Gewalt.
+
+Quellen: [1](https://www.koreanfilm.or.kr/eng/news/inFocus.jsp?blbdComCd=601018&mode=VIEW&pageIndex=1&pageRowSize=10&seq=333).
+
+### S1 · schwer
+
+Womit droht Polizeichef Kang (Choi Min-sik) dem verdeckten Ermittler Ja-sung (Lee Jung-jae) in „New World“, als dieser aussteigen will?
+
+- Er werde Ja-sung öffentlich zum Zeugen gegen seinen Partner machen.
+
+- **Richtig: Er werde dessen wahre Identität an das Syndikat verraten.**
+
+- Er werde Ja-sungs Anteil an einem früheren Mord veröffentlichen.
+
+- Er werde Ja-sungs Familie wegen ihrer Geldgeschäfte anklagen.
+
+Kang droht damit, Ja-sungs Identität als Polizist offenzulegen.
+
+Ja-sung arbeitet seit Jahren innerhalb des mächtigen Goldmoon-Syndikats und lebt ständig mit der Gefahr, enttarnt zu werden. Kang verspricht ihm einen anderen Einsatz, verschiebt den Ausstieg jedoch immer wieder. Seine Drohung macht deutlich, wie abhängig der Ermittler auch von der eigenen Behörde ist. Die vermeintliche Rückversicherung durch die Polizei wird zu einer weiteren Bedrohung seines Lebens.
+
+Merksatz: Die Polizei benutzt die Lebensgefahr des eigenen Ermittlers als Druckmittel.
+
+Antwortzusätze:
+
+- Er werde dessen wahre Identität an das Syndikat verraten.: Kang droht damit, Ja-sungs Identität als Polizist offenzulegen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/New_World_(2013_film)).
+
+### S2 · schwer
+
+Was möchte Oh Dae-su (Choi Min-sik) gegen Ende von „Oldboy“ durch Hypnose vergessen?
+
+- Den Ort seines früheren Gefängnisses.
+
+- Dass er den Tod seiner Frau im Fernsehen gesehen hat.
+
+- **Richtig: Dass Mi-do seine eigene Tochter ist.**
+
+- Den Namen des Mannes, der ihn entführen ließ.
+
+Er will das Wissen auslöschen lassen, dass Mi-do seine Tochter ist.
+
+Dae-su hat mit Mi-do (Kang Hye-jung) eine Liebesbeziehung begonnen, bevor er ihre Identität erfährt. Die Enthüllung vollendet den Racheplan seines Gegners. Er sucht deshalb eine Hypnotiseurin auf und bittet um das Vergessen der Verwandtschaft. Das abschließende Wiedersehen im Schnee bietet keine sichere Bestätigung, dass die Trennung zwischen Erinnerung und verdrängtem Wissen tatsächlich gelungen ist.
+
+Merksatz: Die letzte Bitte betrifft das eigene Wissen, nicht mehr den äußeren Gegner.
+
+Antwortzusätze:
+
+- Dass Mi-do seine eigene Tochter ist.: Er will das Wissen auslöschen lassen, dass Mi-do seine Tochter ist.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Oldboy_(2003_film)).
+
+### E1 · experte
+
+Welche Änderung schlug Choi Min-sik laut Park Chan-wook für Dae-sus Auftreten vor der Entführung in „Oldboy“ vor?
+
+- Er sollte bereits dieselbe kontrollierte Härte wie nach der Gefangenschaft zeigen.
+
+- **Richtig: Er sollte weniger sympathisch wirken, damit seine spätere Veränderung stärker hervortritt.**
+
+- Er sollte als fürsorglicher Vater die Sympathie gewinnen.
+
+- Er sollte körperlich schwach erscheinen, um den späteren Kämpfer stärker abzusetzen.
+
+Choi wollte den Dae-su vor der Entführung weniger sympathisch anlegen.
+
+Choi war bereits besetzt, während das Drehbuch noch überarbeitet wurde, und beteiligte sich an dieser Arbeit. Park beschreibt die frühe Fassung als wesentlich sympathischer. Der Vorschlag des Darstellers vergrößerte den Kontrast zur späteren Figur. Die Rolle ist damit auch ein Beispiel dafür, wie ein Schauspieler die Anlage einer erzählten Veränderung mitgestalten kann, bevor die konkrete Darstellung vor der Kamera beginnt.
+
+Merksatz: Der Schauspieler verstärkt den Wandel, indem er den Ausgangspunkt verändert.
+
+Antwortzusätze:
+
+- Er sollte weniger sympathisch wirken, damit seine spätere Veränderung stärker hervortritt.: Choi wollte den Dae-su vor der Entführung weniger sympathisch anlegen.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/features/out-revenge-park-chan-wook-oldboy).
+
+### E2 · experte
+
+Wie entstand Choi Min-siks tierischer Gegenspieler Dae-ho in „The Tiger“?
+
+- **Richtig: Der Tiger wurde vollständig als computergenerierte Figur geschaffen.**
+
+- Ein dressierter Tiger wurde mit digital veränderten Augen aufgenommen.
+
+- Eine bewegliche Großpuppe wurde mit einzelnen Naturaufnahmen kombiniert.
+
+- Mehrere echte Tiger wurden durch Montage zu einer Figur verbunden.
+
+Dae-ho ist vollständig computergeneriert.
+
+Choi spielt den erfahrenen Jäger Man-duk in einer Geschichte aus der japanischen Kolonialzeit. Der Tiger besitzt nicht nur Gewicht als Jagdbeute, sondern wird mit eigenen emotionalen Reaktionen gestaltet. KOFIC hebt etwa seine Kämpfe und den Verlust seiner Jungen hervor. Die digitale Figur muss deshalb neben der physischen Gefahr auch Gefühle vermitteln und als Gegenüber eines menschlichen Darstellers bestehen.
+
+Merksatz: Der digitale Tiger ist eine handelnde Figur mit eigener emotionaler Gestaltung.
+
+Antwortzusätze:
+
+- Der Tiger wurde vollständig als computergenerierte Figur geschaffen.: Dae-ho ist vollständig computergeneriert.
+
+Quellen: [1](https://www.koreanfilm.or.kr/eng/news/infographic.jsp?mode=VIEW&seq=55).
+
+## Sol Kyung-gu · Bekanntheitsgruppe 4
+
+![Sol Kyung-gu (2019)](Portraets/155.jpg)
+
+Bild: 2019; Harald Krichel. CC BY-SA 4.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Sol_Kyung-gu-9435.jpg), [TMDB](https://www.themoviedb.org/person/85008).
+
+### L1 · leicht
+
+Welchen Beruf hat Kang Chul-joong (Sol Kyung-gu) in „Public Enemy“?
+
+- Gefängniswärter
+
+- Staatsanwalt
+
+- **Richtig: Polizeiermittler**
+
+- Investmentmanager
+
+Kang Chul-joong arbeitet als Polizeiermittler.
+
+Kang verhält sich selbst korrupt, nimmt Bestechungsgeld an und missachtet die Regeln seines Berufs. Sein Gegner Gyu-hwan (Lee Sung-jae) tritt dagegen als erfolgreicher, respektabler Finanzmann auf, ist aber ein skrupelloser Mörder. Der Konflikt stellt keinen makellosen Vertreter des Gesetzes gegen einen offen erkennbaren Verbrecher. Die gesellschaftlich angesehenen Fassaden und das tatsächliche Verhalten der Männer fallen vielmehr deutlich auseinander.
+
+Merksatz: Ein korrupter Ermittler verfolgt einen äußerlich respektablen Mörder.
+
+Antwortzusätze:
+
+- Polizeiermittler: Kang Chul-joong arbeitet als Polizeiermittler.
+
+Quellen: [1](https://www.koreanfilm.or.kr/eng/films/index/filmsView.jsp?movieCd=20020065), [2](https://www.koreanfilm.or.kr/view/news.jsp?category=IN_FOCUS&seq=180).
+
+### L2 · leicht
+
+Welche Krankheit beeinträchtigt Byeong-su (Sol Kyung-gu) in „Memoir of a Murderer“?
+
+- Multiple Sklerose
+
+- Parkinson
+
+- Epilepsie
+
+- **Richtig: Alzheimer**
+
+Byeong-su leidet an Alzheimer.
+
+Der frühere Serienmörder lebt mit seiner Tochter Eun-hee (Kim Seol-hyun), die sich um ihn kümmert. Als sie einen neuen Freund mitbringt, hält er auch diesen für einen Mörder. Sein Versuch, die Tochter zu schützen, gerät mit den Grenzen seines eigenen Gedächtnisses in Konflikt. Der Thriller macht die Unsicherheit darüber, woran er sich verlässlich erinnern kann, zu einem zentralen Bestandteil der Bedrohung.
+
+Merksatz: Ein gefährlicher Verdacht trifft auf ein zunehmend unsicheres Gedächtnis.
+
+Antwortzusätze:
+
+- Alzheimer: Byeong-su leidet an Alzheimer.
+
+Quellen: [1](https://wellgousa.com/films/memoir-murderer).
+
+### M1 · mittel
+
+Für wen hat Jong-du (Sol Kyung-gu) in „Oasis“ die Gefängnisstrafe wegen eines tödlichen Verkehrsunfalls übernommen?
+
+- Für seinen Vater.
+
+- Für seinen früheren Arbeitgeber.
+
+- **Richtig: Für seinen älteren Bruder.**
+
+- Für seinen besten Freund.
+
+Sein älterer Bruder verursachte den Unfall; Jong-du nahm die Schuld auf sich.
+
+Nach seiner Entlassung nimmt die Familie Jong-du nur widerwillig wieder auf. Er sucht die Angehörigen des Unfallopfers auf und begegnet Gong-ju (Moon So-ri), dessen Tochter. Dass er selbst gar nicht der Fahrer war, wird erst später deutlich. Die Enthüllung verändert den Blick auf seine Stellung in der eigenen Familie: Der angebliche Störenfried hat für einen anderen gebüßt, ohne dafür verlässliche Zugehörigkeit zu erhalten.
+
+Merksatz: Der ausgegrenzte Bruder trägt die Strafe eines anderen Familienmitglieds.
+
+Antwortzusätze:
+
+- Für seinen älteren Bruder.: Sein älterer Bruder verursachte den Unfall; Jong-du nahm die Schuld auf sich.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Oasis_(2002_film)).
+
+### M2 · mittel
+
+Auf welche Mission wird die Einheit um Kang In-chan (Sol Kyung-gu) im Film „Silmido“ vorbereitet?
+
+- Auf die Befreiung südkoreanischer Gefangener in China.
+
+- **Richtig: Auf ein Attentat gegen den nordkoreanischen Machthaber Kim Il-sung.**
+
+- Auf die Sabotage einer sowjetischen Marinebasis.
+
+- Auf den Schutz des südkoreanischen Präsidenten bei einem Staatsbesuch.
+
+Die Männer sollen Kim Il-sung töten.
+
+Die Filmhandlung führt verurteilte Männer auf eine isolierte Insel, wo sie unter extremen Bedingungen ausgebildet werden. Als sich die politische Lage ändert, wird ihr Einsatz aufgegeben. Aus dem versprochenen Weg in ein neues Leben entsteht eine tödliche Sackgasse. Der Film greift die Geschichte einer realen Geheimdiensteinheit auf, dramatisiert jedoch Ereignisse und stellt seine Figuren nicht als lückenlos dokumentierte Biografien dar.
+
+Merksatz: Der aufgegebene Attentatsplan macht die ausgebildeten Männer selbst zum Problem.
+
+Antwortzusätze:
+
+- Auf ein Attentat gegen den nordkoreanischen Machthaber Kim Il-sung.: Die Männer sollen Kim Il-sung töten.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Silmido_(film)), [2](https://www.koreanfilm.co.uk/wp-content/uploads/LKFF13-Brochure.pdf).
+
+### S1 · schwer
+
+Welches Ereignis traumatisiert Young-ho (Sol Kyung-gu) während seines Militäreinsatzes in „Peppermint Candy“?
+
+- **Richtig: Er erschießt versehentlich eine Schülerin.**
+
+- Er wird von seinem Vorgesetzten zu einer eigenen Scheinhinrichtung geführt.
+
+- Er überlebt als Einziger die Sprengung seines Truppentransporters.
+
+- Er verrät das Versteck eines verfolgten Freundes.
+
+Young-ho tötet versehentlich eine Schülerin während des Einsatzes in Gwangju.
+
+Der junge Soldat wird verletzt und bleibt zurück, während seine Einheit weiterzieht. Eine Schülerin bittet ihn trotz Ausgangssperre um Erlaubnis, nach Hause zu gehen. Als seine Kameraden zurückkommen, feuert er aufgeregt Warnschüsse ab und trifft sie tödlich. Der Film verbindet dieses Erlebnis mit dem späteren Verlust seiner Unschuld und seiner Entwicklung zu einem brutalen Polizisten.
+
+Merksatz: Der junge Soldat wird selbst zum Täter in einer Situation, die ihn überfordert.
+
+Antwortzusätze:
+
+- Er erschießt versehentlich eine Schülerin.: Young-ho tötet versehentlich eine Schülerin während des Einsatzes in Gwangju.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Peppermint_Candy).
+
+### S2 · schwer
+
+Was tut Jong-du (Sol Kyung-gu) gegen Ende von „Oasis“, um Gong-jus Angst vor dem Schatten vor ihrem Fenster zu lindern?
+
+- Er ersetzt die Beleuchtung des gegenüberliegenden Hauses.
+
+- **Richtig: Er klettert auf den Baum und schneidet die störenden Äste ab.**
+
+- Er bringt einen Spiegel an, der den Schatten umlenkt.
+
+- Er übermalt das Wandbild, auf dem der Schatten erscheint.
+
+Er schneidet die Äste des Baums vor ihrem Fenster ab.
+
+Gong-ju (Moon So-ri) hat Jong-du von ihrer Angst vor dem Baumschatten erzählt. Nach der erneuten Festnahme entkommt er vorübergehend der Polizei und kehrt zu ihrer Wohnung zurück. Die Beseitigung der Äste löst weder ihre gesellschaftliche Ausgrenzung noch seine rechtlichen Probleme. Sie erfüllt aber ein sehr persönliches Versprechen und macht seine Zuwendung in einer konkreten Handlung sichtbar.
+
+Merksatz: Eine kleine Veränderung vor dem Fenster erfüllt ein persönliches Versprechen.
+
+Antwortzusätze:
+
+- Er klettert auf den Baum und schneidet die störenden Äste ab.: Er schneidet die Äste des Baums vor ihrem Fenster ab.
+
+Quellen: [1](https://filmmovement.com/userFiles/uploads/films/oasis/OASIS_pk-temp.pdf).
+
+### E1 · experte
+
+Wie ordnet „Peppermint Candy“ die Lebensabschnitte von Young-ho (Sol Kyung-gu)?
+
+- Von der Jugend bis zum Tod mit einem abschließenden Rückblick.
+
+- Als wechselnde Zukunftsentwürfe nach einem Unfall.
+
+- Als parallele Lebenswege zweier gleich aussehender Männer.
+
+- **Richtig: Vom gescheiterten Erwachsenen rückwärts bis zu seiner idealistischen Jugend.**
+
+Der Film erzählt die entscheidenden Lebensabschnitte in umgekehrter zeitlicher Reihenfolge.
+
+Am Anfang steht der zerstörte Mann, dessen Tod bereits sichtbar wird. Die folgenden Abschnitte führen schrittweise zu den früheren Entscheidungen und Erfahrungen zurück. Erst am Ende begegnet das Publikum dem jungen Mann, der noch Hoffnungen besitzt. Sols Darstellung muss deshalb einen Menschen in verschiedenen Lebensphasen erkennbar halten, während die Erzählung die Gründe seines Scheiterns nach und nach freilegt.
+
+Merksatz: Das sichtbare Ende wird rückwärts aus der verlorenen Jugend erklärt.
+
+Antwortzusätze:
+
+- Vom gescheiterten Erwachsenen rückwärts bis zu seiner idealistischen Jugend.: Der Film erzählt die entscheidenden Lebensabschnitte in umgekehrter zeitlicher Reihenfolge.
+
+Quellen: [1](https://www.siff.net/programs-and-events/the-early-films-of-lee-chang-dong/peppermint-candy).
+
+### E2 · experte
+
+Welche Organisation der Dreharbeiten half Sol Kyung-gu nach eigener Aussage bei der emotionalen Entwicklung seiner Vaterfigur in „Hope“?
+
+- **Richtig: Die Szenen wurden in der Reihenfolge des Drehbuchs aufgenommen.**
+
+- Begegnungen mit der Tochter entstanden getrennt von übrigen Familienszenen.
+
+- Die schwierigsten Szenen wurden zuerst gedreht und die leichteren später ergänzt.
+
+- Die Szenen wurden nach Drehorten gebündelt und erst im Schnitt emotional verbunden.
+
+Die chronologische Drehreihenfolge erleichterte ihm die Entwicklung der Gefühle.
+
+Sol spielt einen Vater, dessen Familie eine schwere Gewalttat gegen die Tochter verarbeiten muss. Im Interview beschrieb er die fortlaufende Aufnahme der Geschichte als Hilfe: Er musste weniger zwischen weit auseinanderliegenden emotionalen Zuständen springen. Lee Joon-ik hielt die Atmosphäre am Set zudem bewusst leichter, auch aus Rücksicht auf die Kinderdarstellerin. Die belastende Filmhandlung und die tatsächliche Arbeitsumgebung unterschieden sich also deutlich.
+
+Merksatz: Die Drehfolge lässt die Gefühle mit der erzählten Entwicklung wachsen.
+
+Antwortzusätze:
+
+- Die Szenen wurden in der Reihenfolge des Drehbuchs aufgenommen.: Die chronologische Drehreihenfolge erleichterte ihm die Entwicklung der Gefühle.
+
+Quellen: [1](https://thedivareview.com/NYAFF14_Hope_Sol_Kyung-gu_Exclusive_Interview.htm).
+
+## Lee Byung-hun · Bekanntheitsgruppe 4
+
+![Lee Byung-hun (2013)](Portraets/156.jpg)
+
+Bild: 2013; Eva Rinaldi. CC BY-SA 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Lee_Byung-hun_2013.jpg), [TMDB](https://www.themoviedb.org/person/25002).
+
+### L1 · leicht
+
+Welche Figur spielt Lee Byung-hun in „Squid Game“?
+
+- Den anzugtragenden Anwerber mit dem Ddakji-Spiel.
+
+- Den Polizisten auf der Suche nach seinem Bruder.
+
+- **Richtig: Den Front Man hinter der dunklen Maske.**
+
+- Den verschuldeten Hauptteilnehmer Seong Gi-hun.
+
+Lee Byung-hun verkörpert den Front Man.
+
+Der Front Man leitet die tödliche Spielorganisation von der Kontrollseite aus. Seine Maske verbirgt zunächst die persönliche Geschichte des Mannes, der selbst einmal an dem Wettbewerb teilgenommen hat. In den späteren Staffeln tritt diese Vergangenheit stärker hervor. Lee gestaltet damit eine Autoritätsfigur, deren Verhältnis zu den Spielen über die bloße Aufsicht weit hinausgeht.
+
+Merksatz: Lee steht als Front Man auf der Leitungsseite der Spiele.
+
+Antwortzusätze:
+
+- Den Front Man hinter der dunklen Maske.: Lee Byung-hun verkörpert den Front Man.
+
+Quellen: [1](https://www.netflix.com/tudum/articles/front-man-squid-game-lee-byung-hun-interview).
+
+### L2 · leicht
+
+Für den besonders geschickten Einsatz welcher Waffe ist Billy Rocks (Lee Byung-hun) in „Die glorreichen Sieben“ von 2016 bekannt?
+
+- Scharfschützengewehr
+
+- **Richtig: Messer**
+
+- Lasso
+
+- Langbogen
+
+Billy Rocks ist besonders geschickt mit Messern.
+
+Billy gehört zu den sieben Kämpfern, die ein bedrohtes Dorf gegen Bartholomew Bogue verteidigen. Er ist eng mit dem ehemaligen Scharfschützen Goodnight Robicheaux (Ethan Hawke) verbunden. Ihre verschiedenen Fähigkeiten ergänzen ein Ensemble, das keinen einheitlichen Typ von Westernhelden bildet. Billys präzise Arbeit mit der Klinge unterscheidet ihn innerhalb dieser Gruppe deutlich von den klassischen Revolverschützen.
+
+Merksatz: Billy Rocks ergänzt die Schützen durch seine Arbeit mit der Klinge.
+
+Antwortzusätze:
+
+- Messer: Billy Rocks ist besonders geschickt mit Messern.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Magnificent_Seven_(2016_film)).
+
+### M1 · mittel
+
+Welche Entscheidung bringt Sun-woo (Lee Byung-hun) in „A Bittersweet Life“ gegen seinen Boss auf?
+
+- **Richtig: Er verschont die untreue Freundin des Bosses und ihren Liebhaber.**
+
+- Er verhandelt ohne Erlaubnis über den Verkauf des Nachtclubs.
+
+- Er verweigert eine Geldübergabe an dessen politischen Beschützer.
+
+- Er warnt einen rivalisierenden Gangster vor einem geplanten Anschlag.
+
+Sun-woo tötet das Paar nicht und verheimlicht die Affäre.
+
+Der Boss Kang (Kim Yeong-cheol) beauftragt seinen loyalen Helfer, Hee-soo (Shin Min-a) zu beobachten. Sun-woo entdeckt tatsächlich einen anderen Mann, lässt beide jedoch unter der Bedingung frei, sich zu trennen. Kang erfährt von der Vertuschung und deutet sie als Verrat. Der kurze Ausbruch aus dem Gehorsam zerstört Sun-woos bisherige Stellung und löst seine gewaltsame Gegenwehr aus.
+
+Merksatz: Ein Akt des Verschonens wird innerhalb der Gangsterordnung zum Verrat.
+
+Antwortzusätze:
+
+- Er verschont die untreue Freundin des Bosses und ihren Liebhaber.: Sun-woo tötet das Paar nicht und verheimlicht die Affäre.
+
+Quellen: [1](https://en.wikipedia.org/wiki/A_Bittersweet_Life).
+
+### M2 · mittel
+
+Woher kommt Ha-sun (Lee Byung-hun), der in „Masquerade“ den König vertreten soll?
+
+- Er ist ein junger Schreiber aus dem königlichen Archiv.
+
+- Er ist ein entlassener Offizier der Palastwache.
+
+- **Richtig: Er ist ein einfacher Spaßmacher und Nachahmer.**
+
+- Er ist ein reisender Arzt ohne feste Anstellung.
+
+Ha-sun ist ein Spaßmacher, der dem König auffallend ähnlich sieht.
+
+Der Berater Heo entdeckt den gewöhnlichen Mann als möglichen Doppelgänger für Gwanghae. Als der Herrscher vergiftet wird, muss Ha-sun dessen Platz einnehmen. Die vertrauten Rangordnungen am Hof erscheinen dadurch aus einer fremden Perspektive. Seine Unsicherheit führt zunächst zu Komik, entwickelt sich aber auch zu einem anderen Verständnis davon, wie ein Herrscher die Menschen behandeln sollte.
+
+Merksatz: Der Außenseiter am Hof lernt die Rolle des Herrschers aus eigener Erfahrung.
+
+Antwortzusätze:
+
+- Er ist ein einfacher Spaßmacher und Nachahmer.: Ha-sun ist ein Spaßmacher, der dem König auffallend ähnlich sieht.
+
+Quellen: [1](https://www.koreanfilm.or.kr/view/news.jsp?category=IN_FOCUS&seq=322).
+
+### S1 · schwer
+
+Welches Material bringt Ahn Sang-goo (Lee Byung-hun) in „Inside Men“ in tödlichen Konflikt mit seinen bisherigen Auftraggebern?
+
+- Verträge für den illegalen Verkauf von Staatsland.
+
+- **Richtig: Unterlagen über einen politischen Geheimfonds.**
+
+- Ein geheimes Gutachten über eine verseuchte Fabrik.
+
+- Tonaufnahmen über einen geplanten Militärputsch.
+
+Es geht um belastende Unterlagen zu einem politischen Geheimfonds.
+
+Sang-goo arbeitet als Handlanger im Umfeld mächtiger Geschäftsleute, Politiker und Medienvertreter. Als er sich belastender Finanzunterlagen bemächtigt, überschätzt er das Vertrauen seines journalistischen Beschützers. Die Mächtigen lassen ihn brutal bestrafen und verschwinden. Später sucht er Vergeltung und verbündet sich mit einem Staatsanwalt. Die Dokumente verbinden somit persönliche Rache mit dem Versuch, das Korruptionsnetz offenzulegen.
+
+Merksatz: Die belastenden Finanzunterlagen machen den Handlanger zur Gefahr für seine Auftraggeber.
+
+Antwortzusätze:
+
+- Unterlagen über einen politischen Geheimfonds.: Es geht um belastende Unterlagen zu einem politischen Geheimfonds.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Inside_Men_(film)).
+
+### S2 · schwer
+
+Welcher Vorfall begründet in „Joint Security Area“ die heimliche Freundschaft von Soo-hyeok (Lee Byung-hun) mit nordkoreanischen Soldaten?
+
+- **Richtig: Sie retten ihn, nachdem er auf eine Mine geraten ist.**
+
+- Sie helfen ihm, einen verletzten Kameraden über die Grenze zu bringen.
+
+- Sie verstecken ihn vor einer irrtümlich nach ihm suchenden Patrouille.
+
+- Sie geben ihm eine abgefangene Nachricht seiner Familie zurück.
+
+Die nordkoreanischen Soldaten retten Soo-hyeok aus einer Minenfalle.
+
+Soo-hyeok hat sich von seiner Patrouille getrennt und befindet sich auf der nördlichen Seite der Grenze. Die Hilfe durch Kyeong-pil (Song Kang-ho) und Woo-jin (Shin Ha-kyun) eröffnet einen persönlichen Kontakt. Schriftliche Nachrichten und heimliche Besuche folgen. Die Männer versuchen, Politik aus ihrer Freundschaft auszuklammern; als sie entdeckt werden, bricht die militärische Ordnung jedoch gewaltsam in ihre Verbindung ein.
+
+Merksatz: Eine Rettung über die Frontlinie hinweg ermöglicht eine verbotene Freundschaft.
+
+Antwortzusätze:
+
+- Sie retten ihn, nachdem er auf eine Mine geraten ist.: Die nordkoreanischen Soldaten retten Soo-hyeok aus einer Minenfalle.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Joint_Security_Area_(film)).
+
+### E1 · experte
+
+Weshalb beschrieb Lee Byung-hun seine Doppelrolle in „Masquerade“ als beinahe dreifache Aufgabe?
+
+- Der König musste in Jugend, mittlerem Alter und hohem Alter erscheinen.
+
+- Beide Figuren sollten zusätzlich in einer gemeinsamen Traumfigur verschmelzen.
+
+- Der Darsteller musste König, Spaßmacher und dessen unbekannten Bruder unterscheiden.
+
+- **Richtig: Neben König und Spaßmacher musste er den Spaßmacher beim Spielen des Königs gestalten.**
+
+Er spielte auch Ha-sun, während dieser seinerseits Gwanghae darstellt.
+
+Lee unterschied den wirklichen Herrscher, den gewöhnlichen Ha-sun und Ha-suns allmählich überzeugenderes Auftreten als König. Die dritte Ebene ist keine zusätzliche Person, sondern eine Darstellung innerhalb der Darstellung. Im Interview betonte er, dass diese Entwicklung für das Publikum nachvollziehbar sein müsse. Die Komik und das ernsthafte menschliche Drama sollten dadurch innerhalb derselben Rollenanlage zusammenhalten.
+
+Merksatz: Der Doppelgänger spielt eine Rolle, die auch der Schauspieler erkennbar gestalten muss.
+
+Antwortzusätze:
+
+- Neben König und Spaßmacher musste er den Spaßmacher beim Spielen des Königs gestalten.: Er spielte auch Ha-sun, während dieser seinerseits Gwanghae darstellt.
+
+Quellen: [1](https://www.koreanfilm.or.kr/eng/news/interview.jsp?blbdComCd=601019&mode=INTERVIEW_VIEW&pageIndex=31&returnUrl=&searchKeyword=&seq=4).
+
+### E2 · experte
+
+Wie entstand laut Netflix die Vorgeschichte von Lee Byung-huns Front Man für die zweite Staffel von „Squid Game“?
+
+- Lee übernahm eine vor seiner Besetzung fertig festgelegte Vorgeschichte.
+
+- Die Biografie entstand durch spontane Improvisation während der Dreharbeiten.
+
+- Lee lieferte dem Regisseur einen allein verfassten vollständigen Biografieentwurf.
+
+- **Richtig: Lee entwickelte sie gemeinsam mit dem Regisseur Hwang Dong-hyuk.**
+
+Lee und Hwang entwickelten die Vorgeschichte der Figur gemeinsam.
+
+Der Front Man erscheint zunächst als undurchsichtiger Leiter des Wettbewerbs. Die zweite Staffel erweitert die Figur um Erfahrungen aus ihrem früheren Leben und um miteinander verflochtene Gefühle. Lee war an der Entwicklung dieses Hintergrunds beteiligt und beschrieb gerade die emotionale Komplexität als reizvolle Herausforderung. Die Arbeit am Charakter ging damit über das Ausführen einer bereits sichtbaren maskierten Autorität hinaus.
+
+Merksatz: Die hinter der Maske verborgene Geschichte entsteht im Austausch von Darsteller und Regisseur.
+
+Antwortzusätze:
+
+- Lee entwickelte sie gemeinsam mit dem Regisseur Hwang Dong-hyuk.: Lee und Hwang entwickelten die Vorgeschichte der Figur gemeinsam.
+
+Quellen: [1](https://www.netflix.com/tudum/articles/squid-game-season-2-cast).
+
+## Ricardo Darín · Bekanntheitsgruppe 4
+
+![Ricardo Darín (2010)](Portraets/157.jpg)
+
+Bild: 2010; presidencia.gov.ar. CC BY 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Ricardo_Dar%C3%ADn_en_la_Casa_Rosada_2010-03-18.jpg), [TMDB](https://www.themoviedb.org/person/69310).
+
+### L1 · leicht
+
+Welchen Beruf hatte Benjamín Espósito (Ricardo Darín) vor seinem Ruhestand in „In ihren Augen“?
+
+- Gefängnisdirektor
+
+- **Richtig: Ermittler bei der Strafjustiz**
+
+- Gerichtsmediziner
+
+- Strafverteidiger
+
+Espósito war Ermittler bei der Strafjustiz.
+
+Im Ruhestand beginnt Espósito einen Roman über einen alten Mordfall. Dabei kehrt auch seine unerfüllte Liebe zu Irene (Soledad Villamil) zurück, die damals eine Vorgesetzte war. Die Ermittlungsarbeit der Vergangenheit und das Schreiben in der Gegenwart verschränken sich. Der Fall ist für ihn deshalb keine abgeschlossene berufliche Erinnerung, sondern berührt weiterhin sein eigenes Leben.
+
+Merksatz: Der pensionierte Justizermittler schreibt über einen Fall, der ihn nicht loslässt.
+
+Antwortzusätze:
+
+- Ermittler bei der Strafjustiz: Espósito war Ermittler bei der Strafjustiz.
+
+Quellen: [1](https://sonyclassics.com/thesecretintheireyes/thesecretintheireyes_presskit.pdf).
+
+### L2 · leicht
+
+Welches Geschäft betreibt Roberto (Ricardo Darín) in „Chinese Take-Away“?
+
+- Eine Buchhandlung
+
+- Eine Schneiderei
+
+- Eine Schuhwerkstatt
+
+- **Richtig: Eine Eisenwarenhandlung**
+
+Roberto betreibt eine Eisenwarenhandlung.
+
+Roberto ordnet seine Welt bis zur Anzahl der Schrauben in einer Packung. Als der Chinese Jun (Ignacio Huang) vor seinen Augen aus einem Taxi geworfen wird, hilft er ihm widerwillig. Beide sprechen die Sprache des anderen nicht. Die Suche nach Juns Verwandtem unterbricht Robertos sorgfältig geregelten Alltag und zwingt den Einzelgänger, sich auf einen anderen Menschen einzulassen.
+
+Merksatz: Schrauben und eiserne Ordnung bestimmen Robertos Alltag.
+
+Antwortzusätze:
+
+- Eine Eisenwarenhandlung: Roberto betreibt eine Eisenwarenhandlung.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Chinese_Take-Away).
+
+### M1 · mittel
+
+Welches gesundheitliche Ereignis bringt Rafael (Ricardo Darín) in „Der Sohn der Braut“ dazu, sein Leben neu zu bewerten?
+
+- Ein Schlaganfall
+
+- Ein schwerer Verkehrsunfall
+
+- **Richtig: Ein Herzinfarkt**
+
+- Ein unerwarteter Hörverlust
+
+Ein Herzinfarkt unterbricht Rafaels überlasteten Alltag.
+
+Rafael führt das Restaurant seiner Eltern und vernachlässigt darüber persönliche Beziehungen. Nach dem Aufenthalt auf der Intensivstation denkt er über einen Verkauf und einen radikalen Neuanfang nach. Gleichzeitig möchte sein Vater Nino (Héctor Alterio) seiner kranken Frau eine kirchliche Hochzeit ermöglichen. Rafaels Suche nach Freiheit trifft so auf eine andere Vorstellung davon, was ein erfülltes Leben ausmacht.
+
+Merksatz: Der Herzinfarkt zwingt den Restaurantbesitzer zur Bestandsaufnahme.
+
+Antwortzusätze:
+
+- Ein Herzinfarkt: Ein Herzinfarkt unterbricht Rafaels überlasteten Alltag.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Son_of_the_Bride).
+
+### M2 · mittel
+
+Was löst den Konflikt des Sprengexperten Simón (Ricardo Darín) mit den Behörden in „Wild Tales“ aus?
+
+- **Richtig: Das aus seiner Sicht unberechtigte Abschleppen seines Autos**
+
+- Ein entzogener Führerschein
+
+- Eine irrtümliche Steuernachforderung
+
+- Eine verweigerte Baugenehmigung
+
+Simón wehrt sich gegen das Abschleppen und die erhobenen Gebühren.
+
+Nach dem Kauf eines Geburtstagskuchens findet Simón sein Auto nicht mehr vor. Er bestreitet, im Halteverbot gestanden zu haben, muss aber zahlen und verpasst die Feier seiner Tochter. Seine erfolglose Beschwerde eskaliert; Beruf und Ehe geraten in die Krise. Schließlich nutzt er seine Sprengkenntnisse für einen Anschlag auf die Abschleppstelle, den der Film als groteske Rache an einem Verwaltungssystem zuspitzt.
+
+Merksatz: Eine Abschleppgebühr wächst zur zerstörerischen Auseinandersetzung.
+
+Antwortzusätze:
+
+- Das aus seiner Sicht unberechtigte Abschleppen seines Autos: Simón wehrt sich gegen das Abschleppen und die erhobenen Gebühren.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Wild_Tales_(film)), [2](https://www.sonyclassics.com/wildtales/).
+
+### S1 · schwer
+
+Wie gerät der Tierpräparator (Ricardo Darín) in „El aura“ an die Gelegenheit zu einem Raubüberfall?
+
+- Er entdeckt bei einem Präparationsauftrag Pläne in einem Tierkörper.
+
+- **Richtig: Er erschießt bei einer Jagd versehentlich einen Mann mit Raubplänen.**
+
+- Ein ehemaliger Mithäftling wirbt ihn als Fahrer an.
+
+- Er erhält die Raubpläne eines verschuldeten Gangsters als Pfand.
+
+Ein versehentlicher tödlicher Jagdschuss öffnet ihm den Zugang zu einem geplanten Überfall.
+
+Der zurückgezogene Mann träumt schon lange vom perfekten Verbrechen. Nach einem epileptischen Anfall im Wald erschießt er versehentlich Dietrich (Manuel Rodal), dessen Telefon ihn auf kriminelle Geschäfte führt. Er findet Pläne für den Überfall auf einen Geldtransporter und gibt sich gegenüber den Komplizen als Eingeweihter aus. Die kontrollierbare Fantasie wird damit zu einer Wirklichkeit, die seine Übersicht überfordert.
+
+Merksatz: Der vermeintliche Planer erhält seine Chance durch einen unkontrollierten Unfall.
+
+Antwortzusätze:
+
+- Er erschießt bei einer Jagd versehentlich einen Mann mit Raubplänen.: Ein versehentlicher tödlicher Jagdschuss öffnet ihm den Zugang zu einem geplanten Überfall.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Aura_(film)).
+
+### S2 · schwer
+
+Warum erweist sich der Scheck für Marcos (Ricardo Darín) in „Nine Queens“ als wertlos?
+
+- **Richtig: Die ausstellende Bank ist durch betrügerische Geschäfte zusammengebrochen.**
+
+- Die Unterschrift gehört zu einem bereits verstorbenen Kontoinhaber.
+
+- Der Käufer hat ihn nach der Übergabe sperren lassen.
+
+- Der Betrag ist nur in nicht konvertierbarer Fremdwährung gedeckt.
+
+Die Bank ist zusammengebrochen; der bestätigte Scheck lässt sich nicht einlösen.
+
+Marcos und Juan (Gastón Pauls) glauben, mit seltenen Briefmarken ein großes Geschäft gemacht zu haben. Vor der Bank erfahren sie jedoch vom Zusammenbruch des Instituts. Der scheinbar sichere Erlös verschwindet. Die abschließende Enthüllung verschiebt zugleich den Blick auf ihre Partnerschaft: Marcos, der andere jederzeit übervorteilen möchte, hat seine eigene Stellung in dem aufwendigen Betrug falsch eingeschätzt.
+
+Merksatz: Auch der bestätigte Scheck schützt Marcos nicht vor dem Bankenzusammenbruch.
+
+Antwortzusätze:
+
+- Die ausstellende Bank ist durch betrügerische Geschäfte zusammengebrochen.: Die Bank ist zusammengebrochen; der bestätigte Scheck lässt sich nicht einlösen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Nine_Queens).
+
+### E1 · experte
+
+Warum muss Strassera (Ricardo Darín) in „Argentina, 1985“ vorwiegend junge, unerfahrene Mitarbeiter für die Anklage gewinnen?
+
+- Sein Stellvertreter organisiert den Prozess als praktische Universitätsprüfung.
+
+- Das Gericht lässt erfahrene Juristen wegen früherer Verteidigungsmandate nicht zu.
+
+- **Richtig: Viele erfahrene Juristen scheuen die politischen und persönlichen Risiken des Prozesses.**
+
+- Die Regierung verlangt Mitarbeiter, die noch kein Staatsamt bekleidet haben.
+
+Erfahrene Juristen scheuen das Risiko des Prozesses gegen die Militärführung.
+
+Strassera soll die Anklage gegen die frühere Junta vertreten, findet aber kaum erfahrene Unterstützer. Mit Luis Moreno Ocampo (Peter Lanzani) baut er deshalb ein junges Team auf, das Zeugenaussagen und Belege zusammenträgt. Der Film erzählt die juristische Aufgabe auch als Arbeit unter Drohungen. Sein Blick auf die Nachwuchskräfte macht sichtbar, wie die demokratische Justiz ihre Handlungsfähigkeit erst gewinnen muss.
+
+Merksatz: Die junge Anklagemannschaft entsteht aus dem Rückzug erfahrener Juristen.
+
+Antwortzusätze:
+
+- Viele erfahrene Juristen scheuen die politischen und persönlichen Risiken des Prozesses.: Erfahrene Juristen scheuen das Risiko des Prozesses gegen die Militärführung.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Argentina,_1985).
+
+### E2 · experte
+
+Wie beschrieb Ricardo Darín seinen darstellerischen Zugang zum historischen Staatsanwalt in „Argentina, 1985“?
+
+- Er übernahm dessen Stimme und entwickelte die übrige Figur ohne Recherche.
+
+- Er spielte Strassera als erkennbare Mischung mehrerer Staatsanwälte.
+
+- Er orientierte jede Bewegung an erhaltenen Filmaufnahmen.
+
+- **Richtig: Er untersuchte das Vorbild genau und entwickelte daraus eine freie Interpretation.**
+
+Darín recherchierte Strassera und nahm sich auf dieser Grundlage darstellerische Freiheit.
+
+Darín erklärte im Interview, das Drehbuch strebe keine lückenlose Kopie des Lebens seiner Figuren an. Auch er wollte Strassera nach genauer Beschäftigung mit dem Vorbild eigenständig gestalten. Zugleich beschrieb er Filmarbeit als schrittweise Annäherung: Szenen, Rückmeldungen und Korrekturen lassen den Charakter während des Drehens entstehen. Historische Recherche und lebendige Darstellung waren für ihn miteinander verbunden.
+
+Merksatz: Die Recherche bildet die Grundlage einer Interpretation, nicht eines mechanischen Nachspielens.
+
+Antwortzusätze:
+
+- Er untersuchte das Vorbild genau und entwickelte daraus eine freie Interpretation.: Darín recherchierte Strassera und nahm sich auf dieser Grundlage darstellerische Freiheit.
+
+Quellen: [1](https://www.sensacine.com/noticias/cine/noticia-18595205/).
+
+## Federico Luppi · Bekanntheitsgruppe 4
+
+![Federico Luppi (1982)](Portraets/158.jpg)
+
+Bild: 1982; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Federico_Luppi.JPG), [TMDB](https://www.themoviedb.org/person/17094).
+
+### L1 · leicht
+
+Welchen Beruf übt Jesús Gris (Federico Luppi) in „Cronos“ aus?
+
+- **Richtig: Antiquitätenhändler**
+
+- Arzt
+
+- Restaurator von Gemälden
+
+- Uhrmacher
+
+Jesús Gris betreibt einen Antiquitätenhandel.
+
+In einer alten Statue entdeckt Gris einen goldenen Mechanismus in Käferform. Das Gerät verspricht neue Lebenskraft, bindet den alternden Mann aber an ein wachsendes Verlangen nach Blut. Ein kranker Geschäftsmann will es ebenfalls besitzen und lässt ihn verfolgen. Der Fund im alltäglichen Laden eröffnet so eine Geschichte über die verführerische und zerstörerische Aussicht auf Unsterblichkeit.
+
+Merksatz: Der Antiquitätenhändler findet das Versprechen ewiger Jugend in einem alten Gegenstand.
+
+Antwortzusätze:
+
+- Antiquitätenhändler: Jesús Gris betreibt einen Antiquitätenhandel.
+
+Quellen: [1](https://www.criterion.com/films/27534-cronos).
+
+### L2 · leicht
+
+Welche Aufgabe hat Casares (Federico Luppi) in „The Devil’s Backbone“?
+
+- Er verwaltet das Vermögen einer Flüchtlingsfamilie.
+
+- Er vermittelt Pflegefamilien für Kinder in der Hauptstadt.
+
+- **Richtig: Er ist Arzt an einem ländlichen Waisenhaus.**
+
+- Er bewacht ein militärisches Gefangenenlager.
+
+Casares ist der Arzt des Waisenhauses.
+
+Das abgelegene Haus nimmt während des Spanischen Bürgerkriegs Kinder der republikanischen Seite auf. Casares und Carmen (Marisa Paredes) versuchen, ihnen Schutz zu geben. Mit der Ankunft von Carlos (Fernando Tielve) treten die verborgenen Konflikte des Hauses und die Geschichte eines getöteten Jungen hervor. Die Erwachsenen können den Krieg und die Gewalt auch an diesem Zufluchtsort nicht dauerhaft fernhalten.
+
+Merksatz: Casares versucht, in einem bedrohten Waisenhaus für die Kinder zu sorgen.
+
+Antwortzusätze:
+
+- Er ist Arzt an einem ländlichen Waisenhaus.: Casares ist der Arzt des Waisenhauses.
+
+Quellen: [1](https://www.criterion.com/films/27914-the-devil-s-backbone).
+
+### M1 · mittel
+
+Welche Unfallfolge täuscht Pedro Bengoa (Federico Luppi) in „Tiempo de revancha“ vor, um gegen seinen Arbeitgeber vorzugehen?
+
+- Den Verlust des Augenlichts
+
+- **Richtig: Den Verlust seiner Sprechfähigkeit**
+
+- Eine gelähmte Hand
+
+- Einen vollständigen Gedächtnisverlust
+
+Bengoa täuscht vor, durch die Explosion stumm geworden zu sein.
+
+Bengoa und sein Kollege Bruno Di Toro (Ulises Dumont) planen einen fingierten Arbeitsunfall, um den korrupten Konzern zu einer Zahlung zu zwingen. Die Explosion tötet jedoch Di Toro. Bengoa führt den Plan allein weiter und muss sein Schweigen aufrechterhalten. Als das Unternehmen schließlich einen Vergleich anbietet, genügt ihm das Geld nicht mehr: Er will den Konflikt vor Gericht austragen.
+
+Merksatz: Das vorgetäuschte Verstummen wird zur dauernden Verpflichtung im Kampf gegen den Konzern.
+
+Antwortzusätze:
+
+- Den Verlust seiner Sprechfähigkeit: Bengoa täuscht vor, durch die Explosion stumm geworden zu sein.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Time_for_Revenge).
+
+### M2 · mittel
+
+Was zwingt Fernando Robles (Federico Luppi) und seine Frau in „Lugares comunes“ zu einem wirtschaftlichen Neuanfang?
+
+- Der Verlust ihrer Ersparnisse durch den Sohn
+
+- Der Konkurs des gemeinsamen Buchverlags
+
+- **Richtig: Seine erzwungene vorzeitige Pensionierung**
+
+- Die Enteignung ihres Familienhauses
+
+Der Literaturprofessor wird vorzeitig in den Ruhestand versetzt.
+
+Fernando und Liliana (Mercedes Sampietro) müssen ihre bisherige Lebensführung aufgeben. Sie versuchen einen Neuanfang auf einer kleinen Lavendelfarm in Córdoba und setzen sich zugleich mit ihrem nach Spanien ausgewanderten Sohn auseinander. Fernando hält Gedanken für einen Roman fest. Nach seinem Tod entscheidet Liliana, auf dem Hof zu bleiben und das begonnene Leben weiterzuführen.
+
+Merksatz: Der erzwungene Ruhestand führt von der Universität auf die Lavendelfarm.
+
+Antwortzusätze:
+
+- Seine erzwungene vorzeitige Pensionierung: Der Literaturprofessor wird vorzeitig in den Ruhestand versetzt.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Common_Ground_(2002_film)).
+
+### S1 · schwer
+
+Welche Entscheidung trifft Jesús Gris (Federico Luppi) am Ende von „Cronos“, als ihn das Blut seiner Enkelin lockt?
+
+- Er verkauft das Gerät, um eine medizinische Heilung zu bezahlen.
+
+- Er lässt die Enkelin allein zurück und behält das Gerät.
+
+- Er überlässt das Gerät seiner Enkelin, damit sie sein Schicksal teilt.
+
+- **Richtig: Er beherrscht sich und zerstört das lebensverlängernde Gerät.**
+
+Gris verschont Aurora und zerstört den Mechanismus.
+
+Aurora (Tamara Shanath) hat ihren Großvater auch nach seiner körperlichen Verwandlung beschützt. Als sie ihn mit dem Gerät wieder zu sich bringt, sieht er ihre blutende Hand und spürt erneut seinen Durst. Er widersteht und zerstört die Quelle der versprochenen Unsterblichkeit, obwohl er vor den tödlichen Folgen gewarnt wurde. Zuletzt liegt er zu Hause bei seiner Frau und der Enkelin.
+
+Merksatz: Gris gibt die versprochene Unsterblichkeit auf, um Aurora zu schützen.
+
+Antwortzusätze:
+
+- Er beherrscht sich und zerstört das lebensverlängernde Gerät.: Gris verschont Aurora und zerstört den Mechanismus.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Cronos_(film)).
+
+### S2 · schwer
+
+Warum verbrennt Mario (Federico Luppi) in „Un lugar en el mundo“ die gelagerte Wolle?
+
+- **Richtig: Er will einen Verkauf unter Wert verhindern und den Widerstand der Genossenschaft erneuern.**
+
+- Er möchte eine von ihm verschuldete Veruntreuung verbergen.
+
+- Er möchte das Lager räumen, bevor der Staudamm es überflutet.
+
+- Er muss eine tiermedizinisch angeordnete Vernichtung durchführen.
+
+Mario reagiert auf den drohenden Ausverkauf der Genossenschaft mit der Zerstörung der Wolle.
+
+Mario hat die Wollgenossenschaft gegründet, damit die Bauern gemeinsam bessere Bedingungen erreichen. Unter dem Druck des örtlichen Machthabers wollen sie dennoch billig verkaufen. Seine Brandstiftung soll diese Aufgabe des gemeinsamen Widerstands verhindern und zeigt zugleich die problematische Härte seiner Überzeugungen. Der erwachsene Ernesto erinnert die Ereignisse seiner Kindheit, während wirtschaftliche Macht und ein geplantes Staudammprojekt die Zukunft des Ortes verändern.
+
+Merksatz: Mario zerstört die Ware, um die Aufgabe des gemeinsamen Widerstands zu verhindern.
+
+Antwortzusätze:
+
+- Er will einen Verkauf unter Wert verhindern und den Widerstand der Genossenschaft erneuern.: Mario reagiert auf den drohenden Ausverkauf der Genossenschaft mit der Zerstörung der Wolle.
+
+Quellen: [1](https://en.wikipedia.org/wiki/A_Place_in_the_World_(film)).
+
+### E1 · experte
+
+Wozu dienen laut John Sayles die indigenen Sprachen in „Men with Guns“ mit Federico Luppi?
+
+- Sie ersetzen Ortsnamen, damit jede Sprache ein bestimmtes Land vertritt.
+
+- Sie unterscheiden ausschließlich die Sprache der Guerilla von jener der Armee.
+
+- Sie kennzeichnen ausschließlich Rückblenden in die Kindheit des Arztes.
+
+- **Richtig: Sie lassen den Arzt erfahren, wie wenig er die Menschen seines Landes versteht.**
+
+Die Sprachbarrieren machen die Unkenntnis des Arztes erfahrbar.
+
+Dr. Fuentes sucht frühere Schüler, die er für die medizinische Arbeit auf dem Land ausgebildet hat. Außerhalb der Hauptstadt kann er sich oft nicht ohne einen Übersetzer verständigen und weiß nicht, ob er die Antworten richtig erhält. Sayles verband diese Unsicherheit mit kulturellen und sozialen Unterschieden. Auch das Publikum soll die Grenzen des vermeintlich kundigen, wohlmeinenden Arztes erleben.
+
+Merksatz: Die Reise durch das eigene Land wird auch zu einer Reise an sprachliche Grenzen.
+
+Antwortzusätze:
+
+- Sie lassen den Arzt erfahren, wie wenig er die Menschen seines Landes versteht.: Die Sprachbarrieren machen die Unkenntnis des Arztes erfahrbar.
+
+Quellen: [1](https://bombmagazine.org/articles/1998/04/01/john-sayles/).
+
+### E2 · experte
+
+Welche Änderung der historischen Anlage nahm Guillermo del Toro bei „The Devil’s Backbone“ mit Federico Luppi während der Stoffentwicklung vor?
+
+- Spanischer Bürgerkrieg → Mexikanische Revolution
+
+- **Richtig: Mexikanische Revolution → Spanischer Bürgerkrieg**
+
+- Mexikanische Revolution → Zweiter Weltkrieg
+
+- Zweiter Weltkrieg → Spanischer Bürgerkrieg
+
+Die ursprüngliche Anlage vor dem Hintergrund der Mexikanischen Revolution wich dem Spanischen Bürgerkrieg.
+
+Del Toro sah im Schicksal der Waisen eine Parallele zu einem Spanien, das von Europa dem Faschismus überlassen worden war. Die Verlegung gab seiner Geistergeschichte einen anderen politischen Rahmen. Casares und Carmen schützen Kinder der republikanischen Seite, während Gefahr auch innerhalb des Hauses entsteht. Das Fantastische und die historische Bedrohung entwickeln sich damit aus demselben Schauplatz.
+
+Merksatz: Der Wechsel nach Spanien verbindet das Waisenhaus mit einem verlassenen Land.
+
+Antwortzusätze:
+
+- Mexikanische Revolution → Spanischer Bürgerkrieg: Die ursprüngliche Anlage vor dem Hintergrund der Mexikanischen Revolution wich dem Spanischen Bürgerkrieg.
+
+Quellen: [1](https://www.criterion.com/current/posts/2850-the-devil-s-backbone-the-past-is-never-dead).
+
+## Arturo de Córdova · Bekanntheitsgruppe 4
+
+![Arturo de Córdova (1943)](Portraets/159.jpg)
+
+Bild: 1943; Trailer screenshot (Paramount Pictures). Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Arturo_de_C%C3%B3rdova_in_For_Whom_the_Bell_Tolls_trailer.jpg), [TMDB](https://www.themoviedb.org/person/99171).
+
+### L1 · leicht
+
+Welche innere Besessenheit zerstört die Ehe von Francisco (Arturo de Córdova) in „Él“?
+
+- Seine unkontrollierte Spielsucht
+
+- Seine Überzeugung, religiös verfolgt zu werden
+
+- Seine panische Angst vor Verarmung
+
+- **Richtig: Seine krankhafte Eifersucht**
+
+Francisco steigert sich in krankhafte Eifersucht hinein.
+
+Der wohlhabende Francisco begegnet Gloria (Delia Garcés) in einer Kirche und gewinnt sie für eine Heirat. Hinter seiner gesellschaftlich geachteten Erscheinung entwickelt sich ein immer gewaltsamerer Besitzanspruch. Gloria wird von Menschen in ihrem Umfeld zunächst nicht ernst genommen. Das Melodram führt dadurch von einer scheinbar vorbildlichen Verbindung in die verzerrte Wahrnehmung und zunehmende Bedrohlichkeit des Ehemanns.
+
+Merksatz: Franciscos geachtete Fassade verbirgt zerstörerische Eifersucht.
+
+Antwortzusätze:
+
+- Seine krankhafte Eifersucht: Francisco steigert sich in krankhafte Eifersucht hinein.
+
+Quellen: [1](https://www.criterion.com/films/33695-el), [2](https://www.bfi.org.uk/film/4365d6b7-b3cb-5a9b-8edb-981cc0d2e328/el).
+
+### L2 · leicht
+
+Wer ist Jean Benoit Aubrey (Arturo de Córdova) in „Frenchman’s Creek“?
+
+- Ein französischer Arzt auf einem englischen Landsitz
+
+- **Richtig: Ein französischer Pirat an der Küste Cornwalls**
+
+- Ein französischer Offizier in englischer Kriegsgefangenschaft
+
+- Ein französischer Diplomat im englischen Exil
+
+Aubrey ist ein französischer Pirat.
+
+Dona St. Columb (Joan Fontaine) flieht mit ihren Kindern vor dem oberflächlichen Londoner Gesellschaftsleben auf ihren Landsitz. Dort entdeckt sie, dass Aubrey ihn als Stützpunkt nutzt. Der vermeintliche Schurke erweist sich als gebildeter und anziehender Mann. Dona schließt sich sogar als Schiffsjunge verkleidet einer seiner Unternehmungen an, bevor ihre familiären Verpflichtungen die romantische Flucht begrenzen.
+
+Merksatz: Der Pirat eröffnet Dona eine Welt jenseits ihres bisherigen Gesellschaftslebens.
+
+Antwortzusätze:
+
+- Ein französischer Pirat an der Küste Cornwalls: Aubrey ist ein französischer Pirat.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Frenchman%27s_Creek_(film)).
+
+### M1 · mittel
+
+Woher bekommt der angebliche Hellseher Karín (Arturo de Córdova) in „En la palma de tu mano“ Informationen über seine Kundinnen?
+
+- Aus den Briefen, die ein Postbeamter für ihn öffnet
+
+- Aus polizeilichen Akten eines befreundeten Ermittlers
+
+- **Richtig: Von seiner Frau, die in einem Schönheitssalon arbeitet**
+
+- Von einem bestochenen Notar, der deren Testamente kennt
+
+Seine Frau liefert ihm Informationen aus einem Schönheitssalon.
+
+Karín nutzt die privaten Kenntnisse, um seinen Kundinnen übernatürliche Fähigkeiten vorzutäuschen. Die Nachricht vom Tod eines reichen Mannes bringt ihn auf die Spur von dessen Witwe Ada (Leticia Palma). Er vermutet einen Mord und versucht, daraus durch Erpressung Gewinn zu ziehen. Die elegante Betrugsroutine führt ihn so in ein gefährlicheres Spiel, dessen Beteiligte ebenfalls zu Täuschung bereit sind.
+
+Merksatz: Der vermeintliche Blick in die Zukunft beruht auf Informationen aus dem Schönheitssalon.
+
+Antwortzusätze:
+
+- Von seiner Frau, die in einem Schönheitssalon arbeitet: Seine Frau liefert ihm Informationen aus einem Schönheitssalon.
+
+Quellen: [1](https://www.cinematheque.qc.ca/en/cinema/en-la-palma-de-tu-mano/), [2](https://es.wikipedia.org/wiki/En_la_palma_de_tu_mano).
+
+### M2 · mittel
+
+Wessen Körper stand für die Statue Modell, die Antonio (Arturo de Córdova) seiner Frau in „La diosa arrodillada“ schenkt?
+
+- **Richtig: Der Körper seiner Geliebten Raquel**
+
+- Der Körper von Elenas Schwester
+
+- Der Körper einer ihm unbekannten Künstlerin
+
+- Der Körper seiner Frau Elena
+
+Das Modell war Antonios Geliebte Raquel.
+
+Antonio bringt das Bild seiner Geliebten Raquel (María Félix) als Geschenk in das gemeinsame Haus mit Elena (Rosario Granados). Nach Elenas rätselhaftem Tod fordert Raquel die Heirat und droht mit Enthüllungen. Die Statue verbindet das nach außen gepflegte Eheleben mit dem verborgenen Begehren. Ihre dauernde Anwesenheit gibt der Verstrickung aus Liebe, Verdacht und Erpressung eine sichtbare Form.
+
+Merksatz: Im Ehehaus steht das Abbild der verborgenen Geliebten.
+
+Antwortzusätze:
+
+- Der Körper seiner Geliebten Raquel: Das Modell war Antonios Geliebte Raquel.
+
+Quellen: [1](https://moreliafilmfest.com/en/peliculas/kneeling-goddess), [2](https://www.filmlinc.org/films/the-kneeling-goddess/).
+
+### S1 · schwer
+
+Warum wird Pablo Morales (Arturo de Córdova) in „El esqueleto de la señora Morales“ trotz des verdächtigen Skeletts freigesprochen?
+
+- Ein Zahnarzt erkennt das Gebiss einer anderen, noch lebenden Patientin.
+
+- Das Skelett stammt laut Altersbestimmung von einer wesentlich jüngeren Frau.
+
+- Die Rechtsmedizin findet Spuren einer jahrelangen Lagerung im Erdboden.
+
+- **Richtig: Die Krankenakte seiner Frau belegt, dass ihr Knieleiden keine Knochenverformung verursachte.**
+
+Die auffällige Knochenverformung passt nicht zum dokumentierten Knieleiden seiner Frau.
+
+Der Tierpräparator hat Gloria (Amparo Rivelles) vergiftet und stellt anschließend ein Skelett mit auffälligem Knie aus. Gerade dieses scheinbar eindeutige Merkmal trägt zu seinem Freispruch bei, weil Glorias Leiden die Knochen nicht betraf. Danach gesteht er dem Priester unter dem Schutz der Beichte. Die schwarze Komödie lässt den Täter damit juristische und kirchliche Regeln gegen seine Gegner verwenden.
+
+Merksatz: Das auffälligste vermeintliche Beweisstück wird zum Entlastungsargument.
+
+Antwortzusätze:
+
+- Die Krankenakte seiner Frau belegt, dass ihr Knieleiden keine Knochenverformung verursachte.: Die auffällige Knochenverformung passt nicht zum dokumentierten Knieleiden seiner Frau.
+
+Quellen: [1](https://es.wikipedia.org/wiki/El_esqueleto_de_la_se%C3%B1ora_Morales).
+
+### S2 · schwer
+
+Was erlebt Francisco (Arturo de Córdova) bei seinem letzten Kirchenbesuch in „Él“ als Ausdruck seines Wahns?
+
+- Er meint, die Kirche werde allein für seine Verhaftung geräumt.
+
+- Er hält die Trauung eines fremden Paares für seine eigene Hochzeit.
+
+- **Richtig: Er glaubt, die ganze Gemeinde und der Priester lachten ihn aus.**
+
+- Er erkennt in einem Heiligenbild das Gesicht seines verstorbenen Vaters.
+
+Er halluziniert, dass Gemeinde und Priester ihn verspotten.
+
+Francisco verfolgt ein Paar, das er irrtümlich für Gloria und ihren früheren Verlobten hält. In der Kirche erkennt er die fremden Gesichter, verliert aber weiter den Bezug zur Wirklichkeit. Das vermeintliche Gelächter treibt ihn zum Angriff auf den Priester. Der Schauplatz seiner ersten Begegnung mit Gloria wird damit zum Ort, an dem seine verzerrte Wahrnehmung offen zusammenbricht.
+
+Merksatz: Die Kirche wird in Franciscos Wahrnehmung zum versammelten Spottgericht.
+
+Antwortzusätze:
+
+- Er glaubt, die ganze Gemeinde und der Priester lachten ihn aus.: Er halluziniert, dass Gemeinde und Priester ihn verspotten.
+
+Quellen: [1](https://en.wikipedia.org/wiki/%C3%89l_(film)).
+
+### E1 · experte
+
+Welche Einstellung in „Él“ zeigt laut Criterion Luis Buñuel selbst anstelle von Arturo de Córdova?
+
+- **Richtig: Den abschließenden Zickzackgang der verhüllten Figur im Kloster**
+
+- Franciscos Blick von einem Glockenturm auf die Passanten
+
+- Franciscos erste Annäherung an Gloria während der Kirchenzeremonie
+
+- Die Hand mit dem Revolver während der vorgetäuschten Hinrichtung
+
+Buñuel übernahm den abschließenden Gang unter Mönchskutte und Kapuze.
+
+Am Ende lebt Francisco in einem Kloster und scheint sich beruhigt zu haben. Der erneut schwankende Gang stellt diese Gewissheit infrage. Unter der verhüllenden Kleidung befindet sich in dieser Einstellung der Regisseur. Criterion verbindet den Austausch mit Buñuels eigener Nähe zu den Obsessionen des Films: Der Blick auf die paranoide Figur erhält dadurch auch eine persönliche, selbstreflexive Ebene.
+
+Merksatz: Der Regisseur tritt im letzten Gang in die Gestalt seines besessenen Helden.
+
+Antwortzusätze:
+
+- Den abschließenden Zickzackgang der verhüllten Figur im Kloster: Buñuel übernahm den abschließenden Gang unter Mönchskutte und Kapuze.
+
+Quellen: [1](https://www.criterion.com/current/posts/8980-el-mad-love).
+
+### E2 · experte
+
+Welche Forderung stellte die Zensurbehörde PCA an Donas Beziehung zum Piraten (Arturo de Córdova) in „Frenchman’s Creek“?
+
+- Dona musste schon vor der Begegnung rechtskräftig geschieden sein.
+
+- **Richtig: Die Inszenierung und der Dialog mussten eine sexuelle Beziehung ausschließen.**
+
+- Der Pirat musste am Ende für die Verführung hingerichtet werden.
+
+- Donas Ehemann musste vor Beginn der Affäre für tot erklärt werden.
+
+Die PCA verlangte, eine vollzogene außereheliche Beziehung auszuschließen.
+
+Mehrere Anläufe zur Verfilmung von Daphne du Mauriers Roman scheiterten zunächst an den Einwänden gegen Ehebruch. Die PCA forderte unter anderem eine eindeutige Versicherung, dass zwischen Dona und dem Piraten keine unmoralische Beziehung stattgefunden habe. Der Schlussdialog sichert entsprechend die Möglichkeit ihrer Rückkehr zur Familie ab. Die Grenzen des romantischen Abenteuers wurden also auch durch die Zulassungsbedingungen des Studiosystems geformt.
+
+Merksatz: Die romantische Flucht musste eine Rückkehr in eine weiterhin gültige Ehe zulassen.
+
+Antwortzusätze:
+
+- Die Inszenierung und der Dialog mussten eine sexuelle Beziehung ausschließen.: Die PCA verlangte, eine vollzogene außereheliche Beziehung auszuschließen.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/1617).
+
+## Ida Lupino · Bekanntheitsgruppe 4
+
+![Ida Lupino (1943)](Portraets/160.jpg)
+
+Bild: 1943; Trailer screenshot. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Ida_Lupino_in_The_Hard_Way_trailer_cropped.jpg), [TMDB](https://www.themoviedb.org/person/46617).
+
+### L1 · leicht
+
+In welchem Verhältnis steht Marie (Ida Lupino) zu Roy Earle in „High Sierra“?
+
+- **Richtig: Sie wird seine verliebte Begleiterin auf der Flucht.**
+
+- Sie ist seine Bewährungshelferin.
+
+- Sie ist seine Schwester und verwaltet die Beute.
+
+- Sie ist seine getrennt lebende Ehefrau.
+
+Marie verliebt sich in Roy und begleitet ihn nach dem Überfall auf der Flucht.
+
+Marie kommt zunächst als Freundin eines jüngeren Bandenmitglieds ins Versteck. Sie fühlt sich jedoch zu Roy (Humphrey Bogart) hingezogen, der anfangs auf eine andere Zukunft hofft. Nach dem gescheiterten Überfall bleibt Marie an seiner Seite. Als die Polizei ihn in den Bergen einkreist, verweigert sie die Aufforderung, ihn aus dem Versteck zu locken: Sie weiß, dass er nicht ins Gefängnis zurückkehren will.
+
+Merksatz: Marie hält auch während Roys aussichtsloser Flucht zu ihm.
+
+Antwortzusätze:
+
+- Sie wird seine verliebte Begleiterin auf der Flucht.: Marie verliebt sich in Roy und begleitet ihn nach dem Überfall auf der Flucht.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/26738).
+
+### L2 · leicht
+
+Welche Arbeit übernimmt Lily Stevens (Ida Lupino) in „Road House“ von 1948?
+
+- Kassiererin
+
+- Bowlingtrainerin
+
+- Bardame
+
+- **Richtig: Sängerin und Pianistin**
+
+Lily tritt als Sängerin auf und begleitet sich am Klavier.
+
+Jefty Robbins (Richard Widmark) bringt Lily in seinen Nachtclub und erwartet auch ihre Zuneigung. Sie interessiert sich jedoch für den Geschäftsführer Pete Morgan (Cornel Wilde). Aus dem Engagement wird ein Dreieckskonflikt, in dem Jefty Liebe mit Besitz verwechselt. Seine falsche Diebstahlsbeschuldigung gegen Pete bindet den Rivalen sogar gerichtlich an ihn und verschärft Lilys bedrängte Lage.
+
+Merksatz: Lilys Auftritt im Nachtclub steht am Anfang eines gewaltsamen Dreieckskonflikts.
+
+Antwortzusätze:
+
+- Sängerin und Pianistin: Lily tritt als Sängerin auf und begleitet sich am Klavier.
+
+Quellen: [1](https://catalog.afi.com/Film/25699-ROAD-HOUSE).
+
+### M1 · mittel
+
+Was bringt Lana (Ida Lupino) in „They Drive by Night“ dazu, Joe eine Beteiligung am Mord an ihrem Mann vorzuwerfen?
+
+- Sie erfährt, dass Joe gegen sie als Zeuge aussagen wird.
+
+- Sie glaubt, Joe habe ihren Mann wegen seiner Schulden bedroht.
+
+- Sie entdeckt, dass Joe Firmenmittel unterschlagen hat.
+
+- **Richtig: Sie erfährt, dass Joe Cassie heiraten will.**
+
+Lana reagiert auf Joes Heiratspläne mit Cassie.
+
+Lana hat ihren betrunkenen Mann Ed (Alan Hale) mit laufendem Motor in der Garage zurückgelassen. Nach dessen Tod bietet sie Joe (George Raft) eine geschäftliche Partnerschaft an und hofft auf eine gemeinsame Zukunft. Seine geplante Ehe mit Cassie (Ann Sheridan) zerstört diese Hoffnung. Erst Lanas Zusammenbruch im Zeugenstand befreit Joe von der falschen Anschuldigung.
+
+Merksatz: Die verschmähte Hoffnung auf Joe schlägt in eine falsche Mordbeschuldigung um.
+
+Antwortzusätze:
+
+- Sie erfährt, dass Joe Cassie heiraten will.: Lana reagiert auf Joes Heiratspläne mit Cassie.
+
+Quellen: [1](https://catalog.afi.com/Film/4635-THEY-DRIVE-BY-NIGHT).
+
+### M2 · mittel
+
+Welcher Umstand führt Harry in „The Bigamist“ dazu, Phyllis (Ida Lupino) trotz seiner bestehenden Ehe zu heiraten?
+
+- Phyllis droht, seinen Arbeitgeber über die Affäre zu informieren.
+
+- Phyllis erhält nur als Ehefrau eine Aufenthaltserlaubnis.
+
+- **Richtig: Phyllis erwartet ein gemeinsames Kind.**
+
+- Phyllis muss für eine Adoption verheiratet sein.
+
+Harry erfährt, dass Phyllis von ihm schwanger ist.
+
+Harry (Edmond O’Brien) hat Phyllis in Los Angeles kennengelernt, während er mit Eve (Joan Fontaine) in San Francisco verheiratet bleibt. Phyllis möchte zunächst keine Heirat aus Pflichtgefühl; erst seine Liebesversicherung überzeugt sie. Der Film verteilt das Wissen über Harrys Doppelleben ungleich. Als eine Adoptionsprüfung die zweite Familie aufdeckt, müssen beide Frauen mit einer Wahrheit umgehen, die ihnen vorenthalten wurde.
+
+Merksatz: Die Schwangerschaft verstärkt Harrys Verantwortungsgefühl, ohne sein Doppelleben zu lösen.
+
+Antwortzusätze:
+
+- Phyllis erwartet ein gemeinsames Kind.: Harry erfährt, dass Phyllis von ihm schwanger ist.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/50764).
+
+### S1 · schwer
+
+Warum hat die blinde Mary (Ida Lupino) in „On Dangerous Ground“ laut ihrem Bruder eine möglicherweise sehvermögensrettende Operation versäumt?
+
+- **Richtig: Sie blieb nach dem Tod der Mutter bei ihrem hilfsbedürftigen Bruder.**
+
+- Sie fürchtete, nach der Behandlung ihre Farm zu verlieren.
+
+- Sie wollte den gewalttätigen Polizisten nicht als Schuldnerin verpflichtet sein.
+
+- Sie wollte das Geld für die Verteidigung ihres Vaters sparen.
+
+Mary blieb nach dem Tod der Mutter bei ihrem Bruder Danny.
+
+Mary verbirgt Danny (Sumner Williams), der wegen eines Mordes gesucht wird. Dem Polizisten Jim Wilson (Robert Ryan) gelingt es zunächst, ihr Vertrauen zu gewinnen und eine freiwillige Übergabe anzubahnen. Danny flieht dennoch und erzählt Jim von Marys Verzicht auf die Operation. Ihre Fürsorge steht dem von Rache getriebenen Vater des Opfers gegenüber und verändert auch Jims bisherigen Umgang mit Menschen.
+
+Merksatz: Marys Fürsorge hat sie eine mögliche Behandlung ihrer eigenen Blindheit gekostet.
+
+Antwortzusätze:
+
+- Sie blieb nach dem Tod der Mutter bei ihrem hilfsbedürftigen Bruder.: Mary blieb nach dem Tod der Mutter bei ihrem Bruder Danny.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/50230).
+
+### S2 · schwer
+
+Unter welcher Bedingung lehnt Marion (Ida Lupino) in „The Big Knife“ eine Rückkehr zu ihrem Mann endgültig ab?
+
+- Wenn er den Unfall öffentlich eingesteht.
+
+- **Richtig: Wenn er den neuen Vertrag beim bisherigen Studioboss unterschreibt.**
+
+- Wenn er das Filmgeschäft zugunsten des Theaters verlässt.
+
+- Wenn er sich vom bisherigen Agenten trennt.
+
+Marion will nicht zurückkehren, wenn Charlie erneut beim Studioboss unterschreibt.
+
+Marion hält das Filmgeschäft für die Ursache von Charlie Castles (Jack Palance) verlorenem Anstand. Der Studioboss Hoff (Rod Steiger) hat einen tödlichen Unfall gedeckt und nutzt dieses Wissen, um den Star zu binden. Charlie steht damit zwischen der erhofften familiären Erneuerung und seiner erpresserischen beruflichen Abhängigkeit. Die Vertragsentscheidung betrifft seine Ehe ebenso wie seine Karriere.
+
+Merksatz: Der neue Studiovertrag gefährdet zugleich Charlies Chance auf eine erneuerte Ehe.
+
+Antwortzusätze:
+
+- Wenn er den neuen Vertrag beim bisherigen Studioboss unterschreibt.: Marion will nicht zurückkehren, wenn Charlie erneut beim Studioboss unterschreibt.
+
+Quellen: [1](https://catalog.afi.com/Film/51444-THE-BIG-KNIFE).
+
+### E1 · experte
+
+Wie kam Ida Lupino bei „Not Wanted“ zu ihrer ersten Regiearbeit?
+
+- Sie drehte parallel eine eigenständige europäische Fassung des Films.
+
+- Sie wurde nach erfolglosen Vorführungen mit einem vollständigen Neudreh beauftragt.
+
+- **Richtig: Sie übernahm für Elmer Clifton, der einen Herzinfarkt erlitten hatte.**
+
+- Sie ersetzte den Regisseur nach einem Streit über die Besetzung.
+
+Lupino sprang für den erkrankten Elmer Clifton ein.
+
+Lupino war bereits als Autorin und Produzentin an dem Projekt beteiligt. Nach Cliftons Erkrankung führte sie Regie, ließ ihm aber den offiziellen Regiecredit. Die mit geringen Mitteln gedrehte Geschichte einer unverheirateten Mutter nutzte Straßen und umfunktionierte Räume statt aufwendiger Studiobauten. Der praktische Einstieg verband sich damit unmittelbar mit ihrem Interesse an gesellschaftlichen Problemen außerhalb üblicher Starvehikel.
+
+Merksatz: Die Produzentin und Autorin übernimmt die praktische Regie, während Clifton den Credit behält.
+
+Antwortzusätze:
+
+- Sie übernahm für Elmer Clifton, der einen Herzinfarkt erlitten hatte.: Lupino sprang für den erkrankten Elmer Clifton ein.
+
+Quellen: [1](https://www.bfi.org.uk/lists/ida-lupino-director), [2](https://en.wikipedia.org/wiki/Not_Wanted).
+
+### E2 · experte
+
+Welche sprachliche Einschränkung setzte die PCA bei Ida Lupinos „Outrage“ durch?
+
+- Die Handlung durfte ausschließlich durch einen männlichen Erzähler erläutert werden.
+
+- **Richtig: Die Begriffe für Vergewaltigung und Vergewaltiger sollten im Dialog entfallen.**
+
+- Das Opfer durfte die Tat nur in einem gerichtlichen Geständnis benennen.
+
+- Alle Gespräche über die Tat mussten als Rückblenden erscheinen.
+
+Die Wörter „rape“ und „rapist“ wurden aus dem Drehbuch entfernt.
+
+Die PCA hatte eine frühe Fassung wegen ihrer Behandlung sexueller Gewalt abgelehnt. Nach Überarbeitungen billigte Joseph Breen das Drehbuch und verlangte weiterhin Zurückhaltung bei der Darstellung. Die Tat und ihre Folgen bleiben dennoch der Kern des Films: Ann (Mala Powers) flieht vor ihrer vertrauten Umgebung und muss mit anhaltender Angst leben. Die Einschränkung betrifft also die Benennung eines Geschehens, das die Erzählung vollständig prägt.
+
+Merksatz: Der Film erzählt die Folgen einer Vergewaltigung, ohne das Wort auszusprechen.
+
+Antwortzusätze:
+
+- Die Begriffe für Vergewaltigung und Vergewaltiger sollten im Dialog entfallen.: Die Wörter „rape“ und „rapist“ wurden aus dem Drehbuch entfernt.
+
+Quellen: [1](https://catalog.afi.com/Film/26441-OUTRAGE).
+
+## Gloria Swanson · Bekanntheitsgruppe 4
+
+![Gloria Swanson (1922)](Portraets/161.jpg)
+
+Bild: 1922; Edward Thayer Monroe. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Gloria_Swanson_-_Jan_1922_Photoplay.jpg), [TMDB](https://www.themoviedb.org/person/8629).
+
+### L1 · leicht
+
+Wodurch war Gloria Swansons Norma Desmond in „Boulevard der Dämmerung“ einst berühmt?
+
+- Als Fernsehmoderatorin
+
+- **Richtig: Als Stummfilmstar**
+
+- Als Opernsängerin
+
+- Als Radiokomikerin
+
+Norma Desmond war ein Star des Stummfilms.
+
+Sie lebt abgeschieden in Erinnerungen an ihren früheren Ruhm. Die Begegnung mit einem erfolglosen Drehbuchautor nährt ihren Glauben an ein großes Comeback.
+
+Merksatz: Normas Gegenwart wird von ihrem Stummfilmruhm beherrscht.
+
+Quellen: [1](https://www.tcm.com/articles/afi-top-100/99390/sunset-boulevard-1950), [2](https://catalog.afi.com/Film/26513-SUNSET-BLVD).
+
+### L2 · leicht
+
+Welcher Regisseur machte Gloria Swanson bei Paramount mit Filmen wie „Male and Female“ zum großen Star?
+
+- **Richtig: Cecil B. DeMille**
+
+- Frank Borzage
+
+- King Vidor
+
+- Ernst Lubitsch
+
+Swansons Aufstieg bei Paramount ist eng mit Cecil B. DeMille verbunden.
+
+Die aufwendig inszenierten Gesellschaftsfilme prägten ihr glamouröses Leinwandbild. Ihre frühere Arbeit in kurzen Komödien erhielt damit einen neuen Rahmen.
+
+Merksatz: DeMille verwandelte Swanson in einen Paramount-Star.
+
+Quellen: [1](https://research.hrc.utexas.edu/fasearch/findingaid.cfm?eadid=00154).
+
+### M1 · mittel
+
+Mit welchem Gegenspieler gerät Gloria Swansons Sadie in „Sadie Thompson“ auf der Südseeinsel in Konflikt?
+
+- Mit einem skrupellosen Plantagenbesitzer
+
+- Mit einem eifersüchtigen Schiffsarzt
+
+- Mit einem korrupten Hafenkommandanten
+
+- **Richtig: Mit einem übereifrigen Missionar**
+
+Der Missionar Davidson bedrängt Sadie.
+
+Die Frau versucht, ihre Vergangenheit hinter sich zu lassen. Sein Anspruch, über ihre Moral und ihre Zukunft zu entscheiden, macht den Aufenthalt auf der Insel zum Kampf um Selbstbestimmung.
+
+Merksatz: Davidsons Moralanspruch bedroht Sadies Neuanfang.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Sadie_Thompson_(film)), [2](https://catalog.afi.com/Film/11838-SADIE-THOMPSON).
+
+### M2 · mittel
+
+Welche Rolle übernimmt Gloria Swanson unter den Passagieren in „Airport 1975“?
+
+- Eine frühere Operndiva
+
+- Eine vermögende Kunsthändlerin
+
+- **Richtig: Sich selbst als berühmte Schauspielerin**
+
+- Eine pensionierte Pilotin
+
+Swanson tritt als Gloria Swanson auf.
+
+Die Figur reist mit ihrer Assistentin. Der Auftritt nutzt die erkennbare Filmgeschichte der Darstellerin innerhalb eines großen Katastrophenfilm-Ensembles.
+
+Merksatz: Der berühmte Passagier heißt wie die Darstellerin.
+
+Quellen: [1](https://catalog.afi.com/Film/53905-AIRPORT-1975).
+
+### S1 · schwer
+
+Welches berufliche Ziel verfolgte Gloria Swanson mit ihrem Wechsel von Paramount zu United Artists?
+
+- Die Sicherung eines höheren garantierten Wochenhonorars
+
+- Die langfristige Zusammenarbeit mit einem festen Schauspielensemble
+
+- Den Aufbau eines eigenen europäischen Filmverleihs
+
+- **Richtig: Die unabhängige Produktion eigener Filme**
+
+Sie wollte ihre Filme selbstständig produzieren.
+
+Ihre Produktionsfirmen ermöglichten künstlerische Entscheidungen, brachten aber auch erhebliche finanzielle Belastungen. Die Arbeit als Unternehmerin gehörte damit unmittelbar zu ihrer Schauspielkarriere.
+
+Merksatz: Mehr Entscheidungsmacht bedeutete für Swanson auch eigenes finanzielles Risiko.
+
+Quellen: [1](https://research.hrc.utexas.edu/fasearch/findingaid.cfm?eadid=00154).
+
+### S2 · schwer
+
+Welchen Schritt in Gloria Swansons Filmkarriere markiert „The Trespasser“?
+
+- Ihren ersten vollständig gesungenen Spielfilm
+
+- Ihren ersten Film mit einzelnen nachträglich vertonten Szenen
+
+- **Richtig: Ihren ersten vollständig gesprochenen Spielfilm**
+
+- Ihren ersten parallel auf Englisch und Französisch gedrehten Film
+
+„The Trespasser“ war Swansons erster vollständig gesprochener Film.
+
+Die zeitgenössischen Kritiken lobten ihre Darstellung und die Dialoggestaltung. Der Erfolg zeigte, dass ihre Ausdruckskraft den Übergang zum Tonfilm tragen konnte.
+
+Merksatz: Swansons Stimme erhielt im Trespasser eine vollständige Filmrolle.
+
+Quellen: [1](https://catalog.afi.com/Film/12830-THE-TRESPASSER).
+
+### E1 · experte
+
+Warum stoppte Gloria Swanson nach eigener Darstellung die ursprüngliche Produktion von „Queen Kelly“?
+
+- Der Verleih bestand auf einer vollständigen Neubesetzung der Hofgesellschaft.
+
+- **Richtig: Ihre eigene Produktion drohte an Zensur und übermäßigem Aufwand zu scheitern.**
+
+- Die Genehmigungen für die geplanten Auslandsdrehs wurden endgültig verweigert.
+
+- Der Verleih verlangte die Verlegung der gesamten Handlung nach Amerika.
+
+Swanson sah Zensurprobleme und den ausufernden Produktionsaufwand.
+
+Sie beschrieb von Stroheims enorme Materialmengen und Kosten als Gefahr für das eigene Unternehmen. Ihre Entscheidung fiel in der Doppelrolle als Hauptdarstellerin und verantwortliche Produzentin.
+
+Merksatz: Die Produzentin musste den Traum ihres Regisseurs begrenzen.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/features/i-am-not-going-write-my-memoirs-gloria-swanson-talks-pictures).
+
+### E2 · experte
+
+Wie versuchte Gloria Swanson später, das vorhandene Material von „Queen Kelly“ verwertbar zu machen?
+
+- **Richtig: Sie kürzte die Geschichte und ergänzte einen neuen tragischen Schluss.**
+
+- Sie veröffentlichte das Material unverändert als Auftakt eines Zweiteilers.
+
+- Sie vollendete die Afrika-Handlung mit einer Ersatzdarstellerin.
+
+- Sie drehte den Film mit neuem Ensemble als Tonfilm nach.
+
+Sie schnitt eine kürzere Fassung und ergänzte ein Todesende.
+
+Der umfangreiche Afrika-Teil der ursprünglichen Handlung entfiel. Eine neu aufgenommene Szene sollte dem vorhandenen europäischen Handlungsabschnitt einen Abschluss geben.
+
+Merksatz: Ein neuer Schluss machte aus dem Fragment eine vorführbare Fassung.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/features/i-am-not-going-write-my-memoirs-gloria-swanson-talks-pictures).
+
+## Louise Brooks · Bekanntheitsgruppe 4
+
+![Louise Brooks (Um 1929)](Portraets/162.jpg)
+
+Bild: Um 1929; Bain News Service. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Louise_Brooks_detail_ggbain.32453u.jpg), [TMDB](https://www.themoviedb.org/person/13904).
+
+### L1 · leicht
+
+Wie heißt Louise Brooks’ Hauptfigur in „Die Büchse der Pandora“?
+
+- Mimi
+
+- Nana
+
+- **Richtig: Lulu**
+
+- Lola
+
+Brooks spielt Lulu.
+
+Die lebensfrohe Frau zieht sehr unterschiedliche Menschen an. Ihr Weg durch Theater, bürgerliche Gesellschaft und Armut macht sie zu einer prägenden Figur des späten Stummfilms.
+
+Merksatz: Louise Brooks wurde als Lulu zur Filmikone.
+
+Quellen: [1](https://www.criterion.com/films/362-pandora-s-box).
+
+### L2 · leicht
+
+Welche Frisur gehört besonders zum berühmten Leinwandbild von Louise Brooks?
+
+- Ein streng nach hinten gekämmter Zopf
+
+- **Richtig: Ein kurzer glatter Bob mit Pony**
+
+- Ein hochgesteckter Haarknoten
+
+- Lange offene Locken
+
+Ihr glatter Bob mit Pony wurde vielfach nachgeahmt.
+
+Die klare Form rahmt ihr Gesicht und macht es unmittelbar wiedererkennbar. Das Bild wurde über ihre eigenen Filme hinaus zu einem Zeichen moderner Weiblichkeit.
+
+Merksatz: Der Lulu-Bob gehört zu Brooks’ filmischem Markenzeichen.
+
+Quellen: [1](https://www.bfi.org.uk/features/louise-brooks-lulu-bob-haircut).
+
+### M1 · mittel
+
+Wohin schickt die Familie Louise Brooks’ Thymian nach der Geburt ihres Kindes in „Tagebuch einer Verlorenen“?
+
+- Zu Verwandten auf ein abgelegenes Landgut
+
+- In eine Krankenpflegeschule außerhalb der Stadt
+
+- Als Dienstmädchen in einen wohlhabenden Haushalt
+
+- **Richtig: In eine streng geführte Erziehungsanstalt**
+
+Thymian kommt in eine brutale Erziehungsanstalt.
+
+Die Familie bestraft die junge Frau für eine Schwangerschaft, die auf sexuelle Gewalt zurückgeht. Die angebliche Fürsorge der Institution setzt ihre Entmündigung fort.
+
+Merksatz: Die Erziehungsanstalt schützt die gesellschaftliche Moral statt Thymian.
+
+Quellen: [1](https://www.tcm.com/articles/1196072/diary-of-a-lost-girl), [2](https://en.wikipedia.org/wiki/Diary_of_a_Lost_Girl).
+
+### M2 · mittel
+
+Wie verbirgt Louise Brooks’ Nancy in „Beggars of Life“ ihre Identität während der Flucht?
+
+- Sie gibt sich als verheiratete Lehrerin aus.
+
+- Sie reist als Mitglied einer Theatertruppe.
+
+- **Richtig: Sie trägt Jungenkleidung und reist mit Landstreichern.**
+
+- Sie benutzt die Papiere einer verstorbenen Frau.
+
+Nancy flieht in Jungenkleidung.
+
+Nach dem Tod ihres gewalttätigen Pflegevaters hilft ihr ein junger Wanderarbeiter. Die Verkleidung ermöglicht ihr, sich durch eine gefährliche, überwiegend männliche Welt zu bewegen.
+
+Merksatz: Jungenkleidung wird für Nancy zum Schutz auf der Flucht.
+
+Quellen: [1](https://www.pandorasbox.com/films-of-louise-brooks/beggars_of_life/).
+
+### S1 · schwer
+
+Was verlangt der eifersüchtige Verlobte von Louise Brooks’ Lucienne in „Prix de beauté“ nach ihrem Wettbewerbserfolg?
+
+- **Richtig: Sie soll ihre Karriere zugunsten des gemeinsamen Lebens aufgeben.**
+
+- Sie soll ihren Künstlernamen durch seinen Familiennamen ersetzen.
+
+- Sie soll weitere Auftritte nur noch im Ausland annehmen.
+
+- Sie soll den Preis für seine berufliche Ausbildung verwenden.
+
+André fordert den Verzicht auf die neue Karriere.
+
+Lucienne kehrt zunächst zu ihm zurück. Das alltägliche Leben und seine wachsende Eifersucht lassen den gewonnenen Freiraum jedoch immer wichtiger erscheinen.
+
+Merksatz: Die gewonnene Freiheit trifft auf Andrés Besitzanspruch.
+
+Quellen: [1](https://www.cinematheque.fr/media/pdf/hollywood-prix-beaute.pdf).
+
+### S2 · schwer
+
+Welcher Dramatiker schuf die Lulu-Stücke, auf denen Louise Brooks’ „Die Büchse der Pandora“ beruht?
+
+- Bertolt Brecht
+
+- **Richtig: Frank Wedekind**
+
+- Gerhart Hauptmann
+
+- Arthur Schnitzler
+
+Frank Wedekind schrieb die beiden Lulu-Stücke.
+
+Pabst verband Erdgeist und Die Büchse der Pandora für die Verfilmung. Brooks’ Darstellung gab der bereits umstrittenen Bühnenfigur eine neue filmische Präsenz.
+
+Merksatz: Wedekinds Lulu wurde durch Brooks zur Leinwandfigur.
+
+Quellen: [1](https://www.criterion.com/films/362-pandora-s-box).
+
+### E1 · experte
+
+Wodurch trugen Henri Langlois und die Cinémathèque française zur Wiederentdeckung von Louise Brooks bei?
+
+- **Richtig: Durch die Sicherung und erneute Vorführung ihrer früheren Filme**
+
+- Durch die Organisation einer Tournee mit ihren früheren Bühnentänzen
+
+- Durch die Veröffentlichung ungedrehter Drehbücher für ihre Rückkehr
+
+- Durch die Vermittlung einer Hauptrolle in einem neuen Tonfilm
+
+Die Archivierung und Wiederaufführung machten ihre Filme neu zugänglich.
+
+Zusammen mit James Card gehörte Langlois zu den entscheidenden Fürsprechern. Die Retrospektive in Paris machte aus einer lange vergessenen Darstellerin wieder einen Gegenstand lebhafter Filmdebatten.
+
+Merksatz: Brooks’ zweiter Ruhm entstand durch das Wiedersehen mit ihren Filmen.
+
+Quellen: [1](https://www.cinematheque.fr/media/pdf/hollywood-prix-beaute.pdf), [2](https://www.pandorasbox.com/life_and_times_of_louise_brooks/louise-brooks-and-henri-langlois/).
+
+### E2 · experte
+
+Welche Art von Arbeit veröffentlichte Louise Brooks mit „Lulu in Hollywood“?
+
+- Einen Roman über eine erfundene Schauspielerfamilie
+
+- Ein Lehrbuch zur Inszenierung von Bühnentanz
+
+- Eine Sammlung ihrer unverfilmten Drehbücher
+
+- **Richtig: Eine Sammlung autobiografischer Filmessays**
+
+Das Buch versammelt autobiografische Essays über das Filmgeschäft.
+
+Nach ihrer Schauspielkarriere entwickelte Brooks eine eigene schriftstellerische Stimme. Ihre Beobachtungen verbanden persönliche Erfahrung mit kritischen Urteilen über Menschen und Arbeitsweisen des Kinos.
+
+Merksatz: Lulu wurde auch zur kritischen Beobachterin Hollywoods.
+
+Quellen: [1](https://www.pandorasbox.com/life_and_times_of_louise_brooks/), [2](https://www.bfi.org.uk/sight-and-sound/features/humphrey-bogey-bogart-louise-brooks).
+
+## Lillian Gish · Bekanntheitsgruppe 4
+
+![Lillian Gish (1921)](Portraets/163.jpg)
+
+Bild: 1921; Bain News Service; Uploaded by Calliopejen ; Edited by jjron .. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Lillian_Gish-edit1.jpg), [TMDB](https://www.themoviedb.org/person/8828).
+
+### L1 · leicht
+
+Welche Aufgabe übernimmt Lillian Gishs Rachel in „Die Nacht des Jägers“ gegenüber den verfolgten Kindern?
+
+- Sie führt sie gegen Bezahlung zu ihrem Verfolger.
+
+- **Richtig: Sie versteckt sie und widersetzt sich ihrem Verfolger.**
+
+- Sie übergibt sie sofort einem entfernten Verwandten.
+
+- Sie schickt sie allein zur nächsten Polizeistation.
+
+Rachel nimmt die Kinder auf und schützt sie vor Powell.
+
+Die ältere Frau erkennt die Gefahr hinter dem Auftreten des Predigers. Ihre Entschlossenheit bildet den Gegenpol zu seiner Verführungskunst.
+
+Merksatz: Rachel bietet den Kindern einen Schutzraum.
+
+Gemeinsames Wissensziel: K-CLA-09-05 (CLA-S-017).
+
+Quellen: [1](https://www.bfi.org.uk/film/313424b8-8d3b-5180-86ef-2887a36a393a/the-night-of-the-hunter).
+
+### L2 · leicht
+
+Wie hieß die ebenfalls als Schauspielerin tätige Schwester, mit der Lillian Gish mehrfach vor der Kamera stand?
+
+- Natalie
+
+- Norma
+
+- Constance
+
+- **Richtig: Dorothy**
+
+Ihre Schwester Dorothy Gish war ebenfalls Schauspielerin.
+
+Die beiden arbeiteten in mehreren Filmen zusammen. Dabei konnten ihre unterschiedlichen Stärken, darunter Dorothys komische Begabung, innerhalb großer gemeinsamer Geschichten hervortreten.
+
+Merksatz: Lillian und Dorothy bildeten ein Schauspielerinnenpaar.
+
+Quellen: [1](https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/5839/releases/MOMA_1980_0042_45.pdf).
+
+### M1 · mittel
+
+Wie zwingt Lillian Gishs Lucy in „Gebrochene Blüten“ ihr Gesicht zu einem Lächeln?
+
+- Sie hält eine Stoffschleife zwischen den Zähnen.
+
+- Sie spannt die Lippen vor einem Handspiegel.
+
+- **Richtig: Sie zieht die Mundwinkel mit den Fingern nach oben.**
+
+- Sie presst ihre Wangen gegen eine Fensterscheibe.
+
+Lucy hebt die Mundwinkel mit den Fingern.
+
+Die kleine körperliche Handlung steht neben der Angst vor ihrem gewalttätigen Vater. Ein äußerliches Zeichen von Freude wird dadurch zum Ausdruck fehlender Freude.
+
+Merksatz: Das mit den Fingern erzeugte Lächeln zeigt Lucys Verzweiflung.
+
+Quellen: [1](https://www.bfi.org.uk/features/where-begin-with-lillian-gish).
+
+### M2 · mittel
+
+Wofür wird Lillian Gishs Hester in „Der scharlachrote Buchstabe“ von der puritanischen Gemeinde bestraft?
+
+- Für einen öffentlich begangenen Diebstahl
+
+- Für die Aufnahme verfolgter Glaubensflüchtlinge
+
+- **Richtig: Für ein außerehelich geborenes Kind**
+
+- Für die Verweigerung des Kirchgangs
+
+Hesters Kind gilt der Gemeinde als Beweis des Ehebruchs.
+
+Sie muss die öffentliche Kennzeichnung ertragen und weigert sich, den Vater zu nennen. Die Geschichte stellt gesellschaftliche Härte und persönliche Verantwortung gegeneinander.
+
+Merksatz: Hester trägt die sichtbare Last einer verborgenen gemeinsamen Schuld.
+
+Quellen: [1](https://catalog.afi.com/Film/11912-THE-SCARLET-LETTER).
+
+### S1 · schwer
+
+In welchem Verhältnis steht Lillian Gishs Sarah zu Bette Davis’ Libby in „Wale im August“?
+
+- **Richtig: Sie ist ihre jüngere Schwester und kümmert sich um sie.**
+
+- Sie ist ihre Schwägerin und verwaltet ihr Vermögen.
+
+- Sie ist ihre ehemalige Haushälterin.
+
+- Sie ist ihre frühere Schauspielkollegin.
+
+Sarah versorgt ihre blinde Schwester Libby.
+
+Die beiden Witwen verbringen den Sommer im vertrauten Haus am Meer. Kleine Entscheidungen über dieses Zuhause legen ihre sehr verschiedenen Haltungen zum Alter und zu Veränderung offen.
+
+Merksatz: Die gemeinsame Vergangenheit verbindet die ungleichen Schwestern.
+
+Quellen: [1](https://www.tcm.com/articles/1233567/the-whales-of-august).
+
+### S2 · schwer
+
+Welche Aufgabe übernahm Lillian Gish bei „Remodeling Her Husband“ hinter der Kamera?
+
+- **Richtig: Die Regie**
+
+- Das Kostümbild
+
+- Die Kamera
+
+- Die Filmmusik
+
+Gish führte bei dem Spielfilm Regie.
+
+Die Arbeit gehört zu den frühen Regieleistungen von Frauen im amerikanischen Kino. Gish gewann auch bei späteren Schauspielprojekten beträchtlichen Einfluss auf künstlerische Entscheidungen.
+
+Merksatz: Gish gestaltete einen Spielfilm auch als Regisseurin.
+
+Quellen: [1](https://www.afi.com/laa/lillian-gish/).
+
+### E1 · experte
+
+Welche Vorrichtung erzeugte den Sturm, dem Lillian Gish bei den Dreharbeiten zu „The Wind“ ausgesetzt war?
+
+- Druckluftschläuche entlang der Kulissen
+
+- **Richtig: Flugzeugpropeller am Drehort**
+
+- Große Ventilatoren auf einer beweglichen Studiobühne
+
+- Eine Reihe dampfbetriebener Gebläse
+
+Flugzeugpropeller erzeugten den starken Wind.
+
+Gedreht wurde unter anderem in der Mojave-Wüste. Die körperlich belastenden Bedingungen gehören zu einer Darstellung, in der die Landschaft die seelische Bedrängnis der Figur verstärkt.
+
+Merksatz: Flugzeugpropeller machten den Wind am Set körperlich spürbar.
+
+Quellen: [1](https://www.bfi.org.uk/features/where-begin-with-lillian-gish).
+
+### E2 · experte
+
+Welche Einrichtung unterstützte Lillian Gish dabei, D. W. Griffiths Filme für eine dauerhafte Sammlung zu sichern?
+
+- Das George Eastman Museum in Rochester
+
+- Die Library of Congress in Washington
+
+- Das UCLA Film & Television Archive in Los Angeles
+
+- **Richtig: Das Museum of Modern Art in New York**
+
+Gish half dem Museum of Modern Art bei der Sicherung der Griffith-Filme.
+
+Sie half, Griffiths Filme für das Museum of Modern Art zu sichern, und überzeugte Mary Pickford vom Wert der Bewahrung eigener Filme. Ihre Vorträge förderten das Verständnis für Film als erhaltenswertes Kulturgut.
+
+Merksatz: Die Schauspielerin half, die Grundlage späterer Wiederaufführungen zu erhalten.
+
+Quellen: [1](https://www.afi.com/laa/lillian-gish/).
+
+## Mary Pickford · Bekanntheitsgruppe 4
+
+![Mary Pickford (Zwischen 1910 und 1920)](Portraets/164.jpg)
+
+Bild: Zwischen 1910 und 1920; Rufus Porter Moody. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Mary_Pickford_cph.3c17995u.jpg), [TMDB](https://www.themoviedb.org/person/100047).
+
+### L1 · leicht
+
+Unter welchem Beinamen wurde Mary Pickford besonders berühmt?
+
+- The Swedish Sphinx
+
+- **Richtig: America’s Sweetheart**
+
+- The It Girl
+
+- The Divine Sarah
+
+Pickford wurde als America’s Sweetheart bekannt.
+
+Der Name begleitete ihre enorme Popularität in der Stummfilmzeit. Ihre häufigen Kinder- und Jugendrollen prägten das öffentliche Bild der zugänglichen, gefühlvollen Darstellerin.
+
+Merksatz: America’s Sweetheart war Mary Pickford.
+
+Quellen: [1](https://marypickford.org/mary-pickford-chronology/).
+
+### L2 · leicht
+
+Wem hilft Mary Pickfords Molly in „Sparrows“ bei der Flucht aus einem abgelegenen Sumpfgebiet?
+
+- Einer Gruppe gestrandeter Schauspieler
+
+- Einer Gruppe verfolgter Schmuggler
+
+- **Richtig: Einer Gruppe ausgebeuteter Kinder**
+
+- Einer Gruppe entflohener Strafgefangener
+
+Molly beschützt Kinder, die auf einer Kinderfarm ausgebeutet werden.
+
+Sie übernimmt die Verantwortung für die Jüngeren. Die Flucht durch den bedrohlichen Sumpf verbindet ihre fürsorgliche Rolle mit einer körperlichen Mutprobe.
+
+Merksatz: Molly führt die Kinder aus der Gewalt ihres Ausbeuters.
+
+Quellen: [1](https://www.tcm.com/articles/86468/sparrows).
+
+### M1 · mittel
+
+Welchen Beruf hat der Vater von Mary Pickfords Annie in „Little Annie Rooney“?
+
+- Hafenarbeiter
+
+- **Richtig: Polizist**
+
+- Gemüsehändler
+
+- Straßenbahnschaffner
+
+Annies Vater ist Polizist.
+
+Die Kinderstreiche und die Konflikte älterer Jugendbanden spielen im selben Viertel. Als der Vater bei einem Streit getötet wird, verwandelt sich die Alltagskomödie in ein Familiendrama.
+
+Merksatz: Annies Viertel ist zugleich das Revier ihres Vaters.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Little_Annie_Rooney_(1925_film)).
+
+### M2 · mittel
+
+Was weiß Mary Pickfords Maggie in „My Best Girl“ zunächst nicht über ihren Arbeitskollegen Joe?
+
+- **Richtig: Er ist der Sohn des Warenhausbesitzers.**
+
+- Er ermittelt verdeckt gegen die Geschäftsleitung.
+
+- Er schreibt heimlich für eine Gewerkschaftszeitung.
+
+- Er hat bereits eine eigene Warenhauskette gegründet.
+
+Joe arbeitet unerkannt im Warenhaus seines Vaters.
+
+Maggie hilft dem vermeintlich gewöhnlichen Anfänger. Die Liebesgeschichte entwickelt sich deshalb zunächst ohne das Wissen um den tatsächlichen sozialen Abstand.
+
+Merksatz: Der neue Kollege gehört zur Eigentümerfamilie.
+
+Quellen: [1](https://www.capa.com/productions/my-best-girl/), [2](https://catalog.afi.com/Film/10882-MY-BESTGIRL).
+
+### S1 · schwer
+
+Welche gegensätzlichen Figuren spielt Mary Pickford in „Stella Maris“?
+
+- Eine erfolgreiche Schauspielerin und ihre eifersüchtige ältere Schwester
+
+- Eine reisende Gräfin und eine ehrgeizige Großstadtjournalistin
+
+- Eine strenge Lehrerin und eine junge entlaufene Schülerin
+
+- **Richtig: Eine wohlhabend behütete junge Frau und ein misshandeltes Waisenmädchen**
+
+Pickford spielt die behütete Stella und die ausgebeutete Unity.
+
+Maskenbild, Haltung und Auftreten unterscheiden die beiden Lebenswelten deutlich. Die Doppelrolle erlaubte ihr, das vertraute Bild der schönen jungen Heldin bewusst zu durchbrechen.
+
+Merksatz: Stella und Unity zeigen zwei Seiten derselben Darstellerin.
+
+Quellen: [1](https://marypickford.org/wp-content/uploads/2025/11/12-page-booklet-Stella-Maris-web.pdf).
+
+### S2 · schwer
+
+Welche Absicht verband Mary Pickford mit der Mitgründung von United Artists?
+
+- Die Zusammenlegung der großen Kinoketten unter einer Leitung
+
+- Die Beschränkung des amerikanischen Filmexports nach Europa
+
+- Die Ausbildung von Nachwuchskräften durch ein gemeinsames Studio
+
+- **Richtig: Die Sicherung künstlerischer und finanzieller Kontrolle über eigene Filme**
+
+Die Beteiligten wollten ihre eigenen Produktionen kontrollieren.
+
+Pickford, Fairbanks, Chaplin und Griffith reagierten auf die Macht wachsender Studiounternehmen. Ihr gemeinsamer Vertrieb schuf einen Rahmen für selbstständig produzierte Filme.
+
+Merksatz: Die Stars wollten auch über das eigene Produkt entscheiden.
+
+Quellen: [1](https://marypickford.org/about-mary/), [2](https://marypickford.org/mary-pickford-chronology/).
+
+### E1 · experte
+
+Welches Lichtverfahren half Mary Pickford, in „Little Annie Rooney“ deutlich jünger zu wirken?
+
+- **Richtig: Ein gezielt auf das Gesicht gerichtetes Baby-Spot-Licht**
+
+- Eine dunkle Silhouette vor hellem Hintergrund
+
+- Eine harte Beleuchtung ausschließlich von unten
+
+- Eine seitliche Beleuchtung durch wechselnde Farbscheiben
+
+Ein Baby-Spot-Licht unterstützte die jugendliche Gesichtserscheinung.
+
+Pickford war beim Dreh bereits erwachsen und spielte eine junge Teenagerin. Beleuchtung und ihr körperlich lebhaftes Spiel arbeiteten gemeinsam an diesem Altersunterschied.
+
+Merksatz: Ein kleiner Lichtakzent unterstützte eine große Altersverwandlung.
+
+Quellen: [1](https://marypickford.org/caris-articles/story-behind-making-little-annie-rooney/).
+
+### E2 · experte
+
+Welche Drehorganisation setzte Mary Pickford bei „Little Annie Rooney“ zur Entwicklung ihrer Figur ein?
+
+- Sie sammelte zunächst alle Großaufnahmen unabhängig von der Handlung.
+
+- Sie ließ sämtliche Außenszenen vor den Innenräumen aufnehmen.
+
+- **Richtig: Sie drehte die Handlung in ihrer erzählten Reihenfolge.**
+
+- Sie drehte zuerst den Schluss und entwickelte den Anfang rückwärts.
+
+Der Film wurde in der Reihenfolge seiner Handlung gedreht.
+
+Als Produzentin konnte Pickford diese Arbeitsweise bestimmen. Sie hielt den fortlaufenden Aufbau für hilfreich, um ihre Figur durch die Geschichte hindurch zu entwickeln.
+
+Merksatz: Die Reihenfolge der Dreharbeiten folgte Annies Geschichte.
+
+Quellen: [1](https://marypickford.org/caris-articles/story-behind-making-little-annie-rooney/).
+
+## Jean Arthur · Bekanntheitsgruppe 4
+
+![Jean Arthur; Aufnahmejahr nicht belegt](https://image.tmdb.org/t/p/w185/h46KhIQOOMPUMIdGNSN3A4zwcGQ.jpg)
+
+Bild: Historische Aufnahme; genaues Jahr nicht belegt; Auf TMDB nicht ausgewiesen. TMDB-Onlineporträt; keine freie Lizenz behauptet. [Bildquelle](https://www.themoviedb.org/person/30210), [TMDB](https://www.themoviedb.org/person/30210).
+
+### L1 · leicht
+
+Welche Stellung hat Jean Arthurs Marian in der Familie Starrett in „Shane“?
+
+- Sie ist Joes Schwester und Joeys Tante.
+
+- **Richtig: Sie ist Joes Frau und Joeys Mutter.**
+
+- Sie ist Joes Mutter und Joeys Großmutter.
+
+- Sie ist Joes Cousine und Joeys Lehrerin.
+
+Marian Starrett ist Joes Frau und Joeys Mutter.
+
+Die Familie nimmt den fremden Reiter auf. Marians Fürsorge und ihre Abneigung gegen Gewalt bilden ein Gegengewicht zur Faszination, die Shane auf ihren Sohn ausübt.
+
+Merksatz: Marian gehört zur Siedlerfamilie Starrett.
+
+Quellen: [1](https://catalog.afi.com/Film/51022-SHANE).
+
+### L2 · leicht
+
+Welchen Beruf hat Jean Arthurs Clarissa Saunders in „Mr. Smith Goes to Washington“?
+
+- Richterin
+
+- Rechtsanwältin
+
+- **Richtig: Sekretärin**
+
+- Zeitungsreporterin
+
+Saunders arbeitet als Sekretärin im politischen Washington.
+
+Sie kennt das parlamentarische Geschäft weit besser als der neue Senator. Ihre Erfahrung wird wichtig, als Smith sich gegen die eingespielten Interessen seiner Umgebung wehrt.
+
+Merksatz: Saunders kennt den Senat aus dem Arbeitsalltag.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Mr._Smith_Goes_to_Washington).
+
+### M1 · mittel
+
+Mit welchem Instrument findet Jean Arthurs Bonnie Lee in „Only Angels Have Wings“ Zugang zur Gemeinschaft der Flieger?
+
+- **Richtig: Mit dem Klavier**
+
+- Mit dem Akkordeon
+
+- Mit der Violine
+
+- Mit der Trompete
+
+Bonnie setzt sich ans Klavier und spielt für die Gruppe.
+
+Nach dem Tod eines Piloten führt die Szene musikalisches Können und gesellschaftliche Aufnahme zusammen. Bonnie beobachtet die Männer nicht nur von außen, sondern behauptet sich als unterhaltsame, eigenständige Partnerin.
+
+Merksatz: Bonnies Klavierspiel schafft Nähe.
+
+Quellen: [1](https://bfidatadigipres.github.io/pdf/2023-06-03-only-angels-have-wings.pdf).
+
+### M2 · mittel
+
+Warum vermietet Jean Arthurs Connie Milligan in „The More the Merrier“ einen Teil ihrer Wohnung?
+
+- Eine Scheidung zwingt sie zum Hausverkauf.
+
+- Ein Hotelbrand macht ihre Verwandten obdachlos.
+
+- Ihre Firma richtet darin eine Dienstwohnung ein.
+
+- **Richtig: Im Washington der Kriegszeit herrscht Wohnungsnot.**
+
+Die Wohnungsnot im Washington des Zweiten Weltkriegs führt zur Untervermietung.
+
+Der erste Untermieter nimmt seinerseits einen jungen Soldaten auf. Aus der beengten Wohnung entsteht eine Komödie über Zeitpläne, Privatsphäre und eine allmähliche Annäherung.
+
+Merksatz: Wohnungsnot bringt das ungewöhnliche Zusammenleben zustande.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/574).
+
+### S1 · schwer
+
+In welcher öffentlichen Funktion reist Jean Arthurs Phoebe Frost in „A Foreign Affair“ ins besetzte Berlin?
+
+- Als Richterin für Kriegsverbrecherprozesse
+
+- Als Sonderbeauftragte des Roten Kreuzes
+
+- **Richtig: Als Kongressabgeordnete auf Inspektionsreise**
+
+- Als Botschafterin beim sowjetischen Oberkommando
+
+Phoebe Frost ist eine Kongressabgeordnete aus Iowa.
+
+Sie soll die Moral der amerikanischen Besatzungssoldaten untersuchen. Ihre strengen Maßstäbe geraten mit Schwarzmarkt, Liebesbeziehungen und der widersprüchlichen Nachkriegswirklichkeit in Konflikt.
+
+Merksatz: Frost kommt als politische Kontrolleurin nach Berlin.
+
+Quellen: [1](https://catalog.afi.com/Film/25544-A-FOREIGNAFFAIR).
+
+### S2 · schwer
+
+Wer verbirgt sich in „The Devil and Miss Jones“ hinter dem vermeintlichen Kollegen, mit dem Jean Arthurs Verkäuferin Mary Jones Freundschaft schließt?
+
+- Ein Reporter, der Arbeitsbedingungen untersucht
+
+- **Richtig: Der Eigentümer des Kaufhauses**
+
+- Ein Gewerkschafter, der anonym Mitglieder wirbt
+
+- Der neue Personalchef des Kaufhauses
+
+Der inkognito arbeitende Kollege ist der Kaufhauseigentümer Merrick.
+
+Er will die gewerkschaftliche Organisation in seinem Betrieb bekämpfen. Marys Umgang mit ihm konfrontiert den reichen Unternehmer jedoch mit dem Leben der Menschen, über die er entscheidet.
+
+Merksatz: Mary freundet sich mit dem unerkannten Eigentümer an.
+
+Quellen: [1](https://www.siskelfilmcenter.org/devil-and-miss-jones).
+
+### E1 · experte
+
+Welche Vergütungsvereinbarung traf Jean Arthur für die unabhängige Produktion „The Devil and Miss Jones“?
+
+- **Richtig: Eine Beteiligung am Gewinn statt einer festen Gage**
+
+- Ein Jahresvertrag mit dem verleihenden Studio
+
+- Eine feste Gage statt einer Gewinnbeteiligung
+
+- Eine Tagesgage mit Zuschlägen für Wiederholungen
+
+Arthur arbeitete auf Gewinnbeteiligung statt gegen eine feste Gage.
+
+Auch Regisseur Sam Wood und Autor Norman Krasna beteiligten sich auf dieser Grundlage. Die Vereinbarung gehörte zum Produktionsmodell von Frank Ross; RKO übernahm den Vertrieb.
+
+Merksatz: Gewinnbeteiligung verband Darstellerin und unabhängige Produktion.
+
+Quellen: [1](https://catalog.afi.com/Film/26668-THE-DEVIL-AND-MISS-JONES).
+
+### E2 · experte
+
+Welche Eigenschaft von Jean Arthurs Stimme hob Frank Capra als besonderen Reiz hervor?
+
+- Ihren gleichmäßig dunklen, sonoren Klang
+
+- Ihre flüsternde, nahezu tonlose Sprechweise
+
+- Ihr durchgehend hohes, metallisches Register
+
+- **Richtig: Den Wechsel von rauer Tiefe in hellere Höhen**
+
+Capra beschrieb eine tiefe, raue Stimme, die in höhere Lagen wechseln konnte.
+
+Arthur konnte innerhalb weniger Sätze zwischen souveräner Schlagfertigkeit und verletzlicher Wärme wechseln. Die auffällige Stimmführung, anfangs als mögliches Karrierehindernis betrachtet, wurde so zu einem wesentlichen Bestandteil ihrer Komik.
+
+Merksatz: Die Stimme verbindet Rauheit mit überraschender Helligkeit.
+
+Quellen: [1](https://www.criterion.com/current/posts/6930-jean-arthur-the-nonconformist).
+
+## Carole Lombard · Bekanntheitsgruppe 4
+
+![Carole Lombard (1937)](Portraets/166.jpg)
+
+Bild: 1937; Film screenshot. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Carole_Lombard_in_Nothing_Sacred_cropped.jpg), [TMDB](https://www.themoviedb.org/person/2491).
+
+### L1 · leicht
+
+Aus welchem gesellschaftlichen Umfeld stammt Carole Lombards Irene Bullock in „My Man Godfrey“?
+
+- **Richtig: Aus einer wohlhabenden New Yorker Familie**
+
+- Aus einer verarmten Bergarbeiterfamilie
+
+- Aus einer verschuldeten Farmerfamilie
+
+- Aus einer kleinbürgerlichen Handwerkerfamilie
+
+Irene gehört zur reichen New Yorker Gesellschaft.
+
+Ihre Begegnung mit einem scheinbar mittellosen Mann führt zwei sehr verschiedene Lebenswelten zusammen. Der Luxus ihrer Familie schützt diese keineswegs vor Rücksichtslosigkeit oder chaotischem Verhalten.
+
+Merksatz: Irene gehört zu den reichen Bullocks.
+
+Quellen: [1](https://www.criterion.com/films/653).
+
+### L2 · leicht
+
+Welchen Beruf übt Carole Lombards Maria Tura in „To Be or Not to Be“ aus?
+
+- Diplomatin
+
+- Journalistin
+
+- **Richtig: Schauspielerin**
+
+- Ärztin
+
+Maria Tura ist Schauspielerin an einem Warschauer Theater.
+
+Unter deutscher Besatzung gewinnen Verkleidung und gespielte Identität eine gefährliche Bedeutung. Die beruflichen Fähigkeiten des Ensembles helfen beim Widerstand gegen die Nationalsozialisten.
+
+Merksatz: Marias Schauspielkunst wird zum Mittel des Widerstands.
+
+Quellen: [1](https://www.criterion.com/films/27690-to-be-or-not-to-be).
+
+### M1 · mittel
+
+Welche Täuschung hält Carole Lombards Hazel Flagg in „Nothing Sacred“ aufrecht?
+
+- Sie gibt sich als verschollene Millionenerbin aus.
+
+- **Richtig: Sie behauptet, an einer tödlichen Radiumvergiftung zu leiden.**
+
+- Sie täuscht einen Gedächtnisverlust nach einem Zugunglück vor.
+
+- Sie erklärt sich zur Überlebenden einer Polarexpedition.
+
+Hazel lässt die Öffentlichkeit weiter an ihre vermeintlich tödliche Erkrankung glauben.
+
+Die Diagnose hat sich bereits als falsch erwiesen. Ein Reporter macht sie dennoch zum Medienereignis; Hazel genießt die Reise nach New York und die Anteilnahme, die auf dem Irrtum beruhen.
+
+Merksatz: Die vermeintlich todkranke Hazel ist gesund.
+
+Quellen: [1](https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=nothing-sacred).
+
+### M2 · mittel
+
+Welche berufliche Verwandlung vollzieht Carole Lombards Mildred Plotka unter dem Namen Lily Garland in „Twentieth Century“?
+
+- Von einer Sekretärin zur Theateragentin
+
+- Von einer Tänzerin zur Kostümbildnerin
+
+- Von einer Sängerin zur Rundfunksprecherin
+
+- **Richtig: Von einem Wäschemodel zum Bühnenstar**
+
+Der Theatermacher Oscar Jaffe macht aus dem Wäschemodel Mildred Plotka den Star Lily Garland.
+
+Die neue Identität wird Teil eines Machtkampfs zwischen Darstellerin und Entdecker. Lily löst sich von Jaffe; dessen Versuch, sie zurückzugewinnen, eskaliert auf einer Zugfahrt.
+
+Merksatz: Lily Garland ist die von Jaffe aufgebaute Bühnenkünstlerin.
+
+Quellen: [1](https://afisilver.afi.com/films/preview/archive/AFIPreview_70.pdf).
+
+### S1 · schwer
+
+Welche Nachricht erschüttert die Beziehung von Carole Lombards Ann und ihrem Mann in „Mr. & Mrs. Smith“ von 1941?
+
+- Seine frühere Scheidung ist noch nicht rechtskräftig.
+
+- Ihre gemeinsame Wohnung gehört seiner früheren Verlobten.
+
+- Der Ehevertrag wurde ohne ihre Zustimmung verändert.
+
+- **Richtig: Die gemeinsame Ehe ist aus juristischen Gründen ungültig.**
+
+Ein Zuständigkeitsfehler macht ihre bisherige Eheschließung ungültig.
+
+Ann erwartet nun eine erneute Heirat aus freier Entscheidung. Dass David den entscheidenden Antrag hinauszögert, setzt Trennung, Eifersucht und neue Annäherungsversuche in Gang.
+
+Merksatz: Die Ehe muss gewissermaßen neu begonnen werden.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Mr._%26_Mrs._Smith_(1941_film)).
+
+### S2 · schwer
+
+Was hindert Carole Lombards Julie Eden und Alec Walker in „In Name Only“ zunächst an einer gemeinsamen Zukunft?
+
+- Julie muss eine bestehende Verlobung lösen.
+
+- Julie darf nach dem Testament ihres Mannes nicht wieder heiraten.
+
+- **Richtig: Alec ist verheiratet, und seine Frau verweigert die Scheidung.**
+
+- Alec steht unter der Vormundschaft seines Bruders.
+
+Alecs Frau Maida blockiert die Scheidung.
+
+Julie ist eine verwitwete Werbegrafikerin und Mutter. Der Konflikt setzt Lombard in einer ernsten Liebesgeschichte ein, in der Maidas Interesse an Geld und gesellschaftlicher Stellung die neue Beziehung bedroht.
+
+Merksatz: Eine blockierte Scheidung trennt Julie und Alec.
+
+Quellen: [1](https://catalog.afi.com/Film/5042-IN-NAME-ONLY).
+
+### E1 · experte
+
+Welche Spielweise wollte Howard Hawks bei Carole Lombard während der Arbeit an „Twentieth Century“ besonders freisetzen?
+
+- **Richtig: Ihre spontane, temperamentvolle Reaktion aus dem Alltag**
+
+- Eine sorgfältig kontrollierte, feierliche Bühnendiktion
+
+- Eine zurückgenommene, überwiegend mimische Komik
+
+- Eine nüchterne, gleichmäßige Wiedergabe der Dialoge
+
+Hawks wollte ihre spontane Persönlichkeit statt steif einstudierter Darstellung nutzen.
+
+Er drängte Lombard, auf ihren Partner so unmittelbar zu reagieren wie außerhalb des Studios. Das Ergebnis war eine energische Komik aus Ausbrüchen, Bewegung und schnellem Gegenspiel mit John Barrymore.
+
+Merksatz: Hawks machte Lombards Spontaneität zum schauspielerischen Werkzeug.
+
+Quellen: [1](https://www.tcm.com/articles/962194/behind-the-camera-twentieth-century).
+
+### E2 · experte
+
+An welchem Vorbild orientierte sich Carole Lombard für die Figur Irene in „My Man Godfrey“?
+
+- An einer Gastgeberin aus der New Yorker Gesellschaft
+
+- **Richtig: An der Sekretärin von Regisseur Gregory La Cava**
+
+- An einer Verkäuferin ihres Kostümateliers
+
+- An der Tochter des Kameramanns
+
+Lombard nahm La Cavas Sekretärin als Vorbild für Irene.
+
+Der Regisseur Mitchell Leisen berichtete von dieser Orientierung. Die scheinbar gedankenlos sprunghafte Figur erforderte eine bewusste Gestaltung; Lombards eigene Schlagfertigkeit war mit Irenes Denkweise keineswegs identisch.
+
+Merksatz: Eine reale Sekretärin lieferte Material für die exzentrische Erbin.
+
+Quellen: [1](https://www.criterion.com/current/posts/5928-my-man-godfrey-the-right-kind-of-people).
+
+## Claudette Colbert · Bekanntheitsgruppe 4
+
+![Claudette Colbert (1933)](Portraets/167.jpg)
+
+Bild: 1933; Film screenshot. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Claudette_Colbert_in_I_Cover_the_Waterfront_2.jpg), [TMDB](https://www.themoviedb.org/person/30155).
+
+### L1 · leicht
+
+Welche soziale Stellung hat Claudette Colberts Ellie Andrews in „It Happened One Night“?
+
+- Sie ist eine verschuldete Farmerin.
+
+- Sie ist eine arbeitslose Verkäuferin.
+
+- Sie ist eine verarmte Schauspielerin.
+
+- **Richtig: Sie ist eine wohlhabende Erbin.**
+
+Ellie ist die Tochter eines reichen Mannes und Erbin.
+
+Die Flucht aus dem Einflussbereich ihres Vaters bringt sie in eine ihr fremde Alltagswelt. Unterwegs muss sie sich mit dem arbeitslosen Reporter Peter Warne arrangieren.
+
+Merksatz: Die reiche Ellie lernt unterwegs ein anderes Leben kennen.
+
+Quellen: [1](https://www.sonypictures.com/movies/ithappenedonenight).
+
+### L2 · leicht
+
+Welche historische Herrscherin verkörperte Claudette Colbert 1934 in einem aufwendigen Film von Cecil B. DeMille?
+
+- **Richtig: Kleopatra**
+
+- Joséphine de Beauharnais
+
+- Elisabeth I.
+
+- Maria Stuart
+
+Colbert spielte die ägyptische Königin Kleopatra.
+
+DeMille verbindet politische Machtkämpfe mit ihren Beziehungen zu Julius Caesar und Marcus Antonius. Die Inszenierung setzt dabei auf prunkvolle Bauten, Kostüme und den Star im Zentrum des Bildes.
+
+Merksatz: Colbert war DeMilles Kleopatra.
+
+Quellen: [1](https://catalog.afi.com/Film/7710-CLEOPATRA).
+
+### M1 · mittel
+
+Womit baut Claudette Colberts Beatrice Pullman in „Imitation of Life“ von 1934 ein erfolgreiches Unternehmen auf?
+
+- Mit Delilahs Kleiderentwürfen
+
+- Mit Delilahs Musikkompositionen
+
+- Mit Delilahs Kosmetikrezeptur
+
+- **Richtig: Mit Delilahs Pfannkuchenrezept**
+
+Beatrice vermarktet Delilahs Pfannkuchen und später die zugehörige Backmischung.
+
+Der wirtschaftliche Aufstieg beider Frauen beseitigt die rassistischen Machtverhältnisse ihrer Welt nicht. Delilahs Arbeit, ihr Bild auf der Verpackung und ihre fortbestehende Stellung im Haushalt machen den Erfolg widersprüchlich.
+
+Merksatz: Delilahs Rezept trägt Beatrices Unternehmen.
+
+Quellen: [1](https://catalog.afi.com/Film/1130-IMITATION-OF-LIFE).
+
+### M2 · mittel
+
+Was will Claudette Colberts Gerry in „The Palm Beach Story“ durch eine Trennung von ihrem Mann erreichen?
+
+- Ein gemeinsames Hotel vor dem Verkauf retten
+
+- **Richtig: Einen reichen Mann finden und die Geldsorgen lösen**
+
+- Mit einem Erbe ihre Familie versöhnen
+
+- Als Schauspielerin in Florida neu anfangen
+
+Gerry hofft, durch eine neue wohlhabende Verbindung die Geldprobleme zu lösen.
+
+Auch ihr bisheriger Mann Tom soll davon profitieren und seine Erfindung finanzieren können. Die vermeintlich vernünftige Lösung führt Liebe und ökonomisches Kalkül in eine höchst unvernünftige Konstellation.
+
+Merksatz: Gerry versucht, die Liebe über eine finanzielle Umordnung zu retten.
+
+Quellen: [1](https://www.criterion.com/current/posts/3438-the-palm-beach-story-love-in-a-warm-climate).
+
+### S1 · schwer
+
+Wer spielt an der Seite von Claudette Colberts Poppaea den Kaiser Nero in „The Sign of the Cross“?
+
+- Warren William
+
+- **Richtig: Charles Laughton**
+
+- Fredric March
+
+- Henry Wilcoxon
+
+Charles Laughton spielt Nero, Colbert die Kaiserin Poppaea.
+
+DeMilles Film stellt die römische Herrschaft einer verfolgten christlichen Gemeinschaft gegenüber. Poppaeas Begehren und Eifersucht greifen in den Konflikt zwischen dem Präfekten Marcus und der Christin Mercia ein.
+
+Merksatz: Laughton und Colbert bilden das römische Herrscherpaar.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/3859).
+
+### S2 · schwer
+
+Welche Aufgabe steht für Claudette Colberts Anne Hilton in „Since You Went Away“ im Mittelpunkt?
+
+- Sie begleitet ihren Mann als Dolmetscherin an die Front.
+
+- Sie leitet auf der Flucht aus Europa ein Kinderheim.
+
+- **Richtig: Sie hält während des Kriegseinsatzes ihres Mannes die Familie zusammen.**
+
+- Sie baut nach der Rückkehr ihres Mannes eine Farm wieder auf.
+
+Anne bewältigt mit ihren Töchtern das Familienleben an der amerikanischen Heimatfront.
+
+Ein Untermieter hilft gegen Geldknappheit; Rationierung und die Sorgen um Angehörige prägen den Alltag. Der Film betrachtet den Krieg aus der Perspektive der Menschen, die zu Hause auf Nachricht warten.
+
+Merksatz: Anne Hilton trägt die Verantwortung an der Heimatfront.
+
+Quellen: [1](https://watch.afi.com/movie/since-you-went-away-1944).
+
+### E1 · experte
+
+Wie änderte Frank Capra nach Claudette Colberts Einwand die nächtliche Umkleideszene in „It Happened One Night“?
+
+- Er ersetzte die Szene durch eine Ansicht von der Straße.
+
+- Er filmte sie durchgehend aus der Perspektive ihres Partners.
+
+- **Richtig: Er ließ ihre Gestalt hauptsächlich im schwachen Fensterlicht erscheinen.**
+
+- Er zeigte sie in einer hell ausgeleuchteten Nahaufnahme.
+
+Capra reduzierte die Beleuchtung; das Fensterlicht zeichnet Colberts Gestalt im Halbdunkel.
+
+Die Schauspielerin hatte gegen die ursprünglich freizügigere Aufnahme Einwände. Capra empfand die zurückhaltendere Inszenierung später als reizvoller: Das Bild verlagert die Wirkung von deutlicher Sichtbarkeit auf Andeutung.
+
+Merksatz: Weniger Licht verstärkte die Andeutung.
+
+Quellen: [1](https://www.criterion.com/current/posts/3369-it-happened-one-night-all-aboard).
+
+### E2 · experte
+
+Welche Erfahrung brachte Eunice Hatchitt als Fachberaterin in den Film „So Proudly We Hail!“ mit Claudette Colbert ein?
+
+- **Richtig: Militärischen Pflegedienst auf Bataan und Corregidor**
+
+- Pflegeeinsätze im Spanischen Bürgerkrieg
+
+- Lazarettarbeit während des Frankreichfeldzugs
+
+- Krankenhausarbeit während des Londoner Blitz
+
+Hatchitt hatte als Armeekrankenschwester auf Bataan und Corregidor gearbeitet.
+
+Sie beriet die Produktion und trug auch zur Geschichte bei. Colberts Figur Davey steht an der Spitze einer Gruppe von Krankenschwestern; hinter der dramatisierten Handlung liegen Erfahrungen des Army Nurse Corps auf den Philippinen.
+
+Merksatz: Eine beteiligte Krankenschwester brachte Kriegserfahrung in die Produktion ein.
+
+Quellen: [1](https://catalog.afi.com/Film/674-).
+
+## Greer Garson · Bekanntheitsgruppe 4
+
+![Greer Garson (1940er-Jahre)](Portraets/168.jpg)
+
+Bild: 1940er-Jahre; MGM studio. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Greer_Garson-publicity_(cropped).JPG), [TMDB](https://www.themoviedb.org/person/93805).
+
+### L1 · leicht
+
+Welche Ausgangsrolle hat Greer Garsons Kay in „Mrs. Miniver“ vor dem Krieg?
+
+- **Richtig: Eine Hausfrau und Mutter im englischen Mittelstand**
+
+- Eine Dorflehrerin im Ruhestand
+
+- Eine Londoner Krankenhausärztin
+
+- Eine verwitwete Betreiberin eines Gasthofs
+
+Kay Miniver lebt als Hausfrau und Mutter in einem englischen Dorf.
+
+Zunächst gehören Einkäufe, Familienbesuche und die örtliche Blumenschau zu ihrem Leben. Der Krieg verwandelt diese vertraute Welt und fordert von ihr zunehmend Mut und Verantwortung.
+
+Merksatz: Der Krieg trifft Kays gewöhnliches Familienleben.
+
+Quellen: [1](https://catalog.afi.com/Film/27360-MRS.-MINIVER).
+
+### L2 · leicht
+
+Welche der Bennet-Schwestern spielt Greer Garson in „Pride and Prejudice“ von 1940?
+
+- Lydia
+
+- Kitty
+
+- **Richtig: Elizabeth**
+
+- Jane
+
+Garson spielt Elizabeth Bennet; Laurence Olivier ist Mr. Darcy.
+
+Elizabeths Schlagfertigkeit und ihr eigenständiges Urteil tragen den romantischen Konflikt. Die Verfilmung zeigt Garson damit auch als Komödiendarstellerin, bevor ihre großen Kriegsdramen ihr Starbild prägten.
+
+Merksatz: Garson und Olivier sind Elizabeth und Darcy.
+
+Quellen: [1](https://catalog.afi.com/Film/5077-PRIDE-AND-PREJUDICE).
+
+### M1 · mittel
+
+Warum wird Greer Garsons Paula in „Random Harvest“ zur Sekretärin ihres eigenen Mannes?
+
+- Sie will ihn bei einer heimlich geplanten Scheidung beobachten.
+
+- Er hat nach einer Firmenpleite das gemeinsame Vermögen verloren.
+
+- Er muss ihre frühere Bühnenkarriere vor seiner Familie verbergen.
+
+- **Richtig: Er erinnert sich nach einem Unfall nicht mehr an ihre gemeinsame Zeit.**
+
+Nach der Rückkehr seiner früheren Erinnerung hat er die Zeit mit Paula vergessen.
+
+Sie bleibt unter anderem Namen in seiner Nähe. Die Liebesgeschichte beruht auf zwei getrennten Erinnerungswelten: Der Mann kennt sein früheres Leben wieder, verliert damit jedoch Frau und gemeinsame Vergangenheit.
+
+Merksatz: Paula sucht Nähe zu einem Mann, der sie nicht wiedererkennt.
+
+Quellen: [1](https://www.tcm.com/watchtcm/titles/2716).
+
+### M2 · mittel
+
+Wie beeinflusst Greer Garsons Katherine den Lehrer Chipping in „Goodbye, Mr. Chips“ von 1939?
+
+- **Richtig: Sie öffnet ihn für Humor und einen wärmeren Umgang mit Schülern.**
+
+- Sie bewegt ihn zu einem Wechsel an eine Mädchenschule.
+
+- Sie überzeugt ihn, die Schule zugunsten der Politik zu verlassen.
+
+- Sie bestärkt ihn in größerer Strenge gegenüber seinen Schülern.
+
+Katherine hilft dem zurückhaltenden Lehrer zu mehr Wärme und Humor.
+
+Die kurze Ehe verändert seine Beziehung zur Schule dauerhaft. Ihr Einfluss wirkt in seinem späteren Umgang mit Generationen von Schülern weiter, obwohl ihr eigener Anteil an seiner Lebensgeschichte zeitlich begrenzt bleibt.
+
+Merksatz: Katherine öffnet Chips für menschliche Nähe.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Goodbye,_Mr._Chips_(1939_film)).
+
+### S1 · schwer
+
+Mit welchem Schauspieler bildete Greer Garson zwischen 1941 und 1953 ein wiederkehrendes Leinwandpaar in acht Filmen?
+
+- Robert Donat
+
+- **Richtig: Walter Pidgeon**
+
+- Ronald Colman
+
+- Spencer Tracy
+
+Walter Pidgeon war Garsons Partner in acht Spielfilmen.
+
+Die Verbindung stand häufig für Würde, Verlässlichkeit und ein kultiviertes Familienleben. Garsons Figuren trugen meist den Schwerpunkt der Geschichten; Pidgeons ruhiges Spiel unterstützte ihre Wirkung.
+
+Merksatz: Garson und Pidgeon waren ein festes Filmpaar bei MGM.
+
+Quellen: [1](https://www.tcm.com/articles/020754/tcm-birthday-tribute-greer-garson-9-29-daytime).
+
+### S2 · schwer
+
+Welche rechtliche Veränderung erstrebt Greer Garsons Edna Gladney in „Blossoms in the Dust“?
+
+- Ein Verbot der Beschäftigung von Kindern in Baumwollmühlen
+
+- Die Einführung einer Schulpflicht bis zum achtzehnten Lebensjahr
+
+- Eine staatliche Finanzierung sämtlicher privater Waisenhäuser
+
+- **Richtig: Das Ende der Bezeichnung unehelich auf Geburtsurkunden**
+
+Gladney kämpft gegen den stigmatisierenden Vermerk auf Geburtsurkunden.
+
+Der Film verbindet ihre Adoptionsarbeit mit einer konkreten Reform in Texas. Kinder sollen nicht lebenslang für die gesellschaftlich missbilligten Umstände ihrer Geburt benachteiligt werden.
+
+Merksatz: Gladneys Kampf gilt dem Stigma auf der Geburtsurkunde.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/26626).
+
+### E1 · experte
+
+Mit welchem Kameramann entwickelte Greer Garson bei „Random Harvest“ eine Zeichensprache für vorteilhafte Kopfhaltungen vor der Kamera?
+
+- William H. Daniels
+
+- **Richtig: Joseph Ruttenberg**
+
+- Karl Freund
+
+- George J. Folsey
+
+Garson und Joseph Ruttenberg verständigten sich durch dezente Zeichen über den richtigen Aufnahmewinkel.
+
+Sie schätzte seine Arbeit schon bei „Mrs. Miniver“ und wollte wieder von ihm fotografiert werden. Die Zusammenarbeit macht sichtbar, dass ein Starauftritt auch aus abgestimmter Arbeit zwischen Darstellerin, Licht und Kamera entsteht.
+
+Merksatz: Ruttenberg half Garson mit Zeichen, den passenden Winkel zu finden.
+
+Quellen: [1](https://www.tcm.com/articles/67069/random-harvest).
+
+### E2 · experte
+
+Welche akrobatische Aufgabe übernahm Greer Garson in der Komödie „Julia Misbehaves“ selbst?
+
+- Einen Sprung durch einen brennenden Reifen
+
+- Einen Tanz auf Rollschuhen über eine Rampe
+
+- **Richtig: Einen Auftritt auf der Spitze einer Menschenpyramide**
+
+- Einen Ritt auf einem ungesattelten Pferd
+
+Garson stand für die Akrobatiknummer selbst auf einer Menschenpyramide.
+
+Die Rolle der Showkünstlerin Julia gab ihr Gelegenheit zu ausgelassener körperlicher Komik. Nach zahlreichen würdevollen, leidenden Frauengestalten empfand sie die Rückkehr zur Komödie als Befreiung.
+
+Merksatz: Die Menschenpyramide gehört zu Garsons eigener körperlicher Komik.
+
+Quellen: [1](https://www.tcm.com/articles/021812/tcm-summer-under-the-stars-greer-garson).
+
+## Norma Shearer · Bekanntheitsgruppe 4
+
+![Norma Shearer (Um 1934)](Portraets/169.jpg)
+
+Bild: Um 1934; George Hurrell. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Norma_Shearer_-_circa_1934.jpg), [TMDB](https://www.themoviedb.org/person/88867).
+
+### L1 · leicht
+
+Welches Problem erschüttert Norma Shearers Mary Haines in „Die Frauen“ von 1939?
+
+- Ihre Tochter verschwindet nach einem Streit.
+
+- Ihre beste Freundin veröffentlicht ihre Briefe.
+
+- Ihr Bruder veruntreut ihr Erbe.
+
+- **Richtig: Ihr Mann hat eine Affäre mit einer Verkäuferin.**
+
+Mary erfährt von der Affäre ihres Mannes mit der Verkäuferin Crystal.
+
+Klatsch im Freundeskreis bringt die Ehekrise ans Licht. Mary lässt sich zunächst scheiden, erkennt später jedoch, dass auch Crystal untreu ist. Sie nutzt schließlich die Gesprächigkeit ihrer Umgebung für ihre eigenen Pläne. George Cukors Ensemblefilm zeigt die Männer, um die sich vieles dreht, dabei nie auf der Leinwand.
+
+Merksatz: Marys Ehe zerbricht am öffentlich gewordenen Seitensprung.
+
+Quellen: [1](https://catalog.afi.com/Film/5135-THE-WOMEN).
+
+### L2 · leicht
+
+Welcher Dichter liebt Norma Shearers Elizabeth in „The Barretts of Wimpole Street“ von 1934?
+
+- **Richtig: Robert Browning**
+
+- Lord Byron
+
+- John Keats
+
+- Percy Bysshe Shelley
+
+Elizabeth verliebt sich in Robert Browning.
+
+Ihr Vater erlaubt den Briefwechsel zunächst, weil er die Verbindung für rein beruflich hält. Er kontrolliert auch die Beziehungen ihrer Schwestern. Als Robert die gesundheitlich geschwächte Elizabeth besucht, gewinnt sie durch die Liebe zunehmend den Mut, sich aus der väterlichen Bevormundung zu lösen.
+
+Merksatz: Elizabeths Briefpartner wird Robert Browning.
+
+Quellen: [1](https://catalog.afi.com/Film/7335-THE-BARRETTS-OF-WIMPOLE-STREET).
+
+### M1 · mittel
+
+Welche Doppelmoral erlebt Norma Shearers Jerry in „The Divorcee“?
+
+- Ihr Mann verlangt Geld, obwohl er selbst nicht arbeitet.
+
+- **Richtig: Ihr Mann erwartet Vergebung für seine Affäre, verurteilt aber ihre.**
+
+- Ihr Mann verbietet Reisen, während er ständig fort ist.
+
+- Ihr Mann verlangt Verschwiegenheit, während er Interviews gibt.
+
+Ted nimmt sich eine Affäre heraus, akzeptiert Jerrys entsprechende Freiheit aber nicht.
+
+Jerry erfährt am Hochzeitstag von seiner Untreue. Ihr Versuch, für beide dieselben Regeln gelten zu lassen, führt zur Scheidung. Robert Z. Leonards Film entstand vor der strengen Durchsetzung des Production Code; Shearers Darstellung dieser selbstbewussten Frau erhielt den Schauspiel-Oscar.
+
+Merksatz: Jerry fordert für beide dieselben Regeln.
+
+Quellen: [1](https://catalog.afi.com/Film/3776-THE-DIVORCE).
+
+### M2 · mittel
+
+Wie begegnet Norma Shearers Amanda ihrem geschiedenen Mann in „Private Lives“ überraschend wieder?
+
+- Bei der Taufe eines gemeinsamen Patenkindes
+
+- Als Gastgeberin seines neuen Arbeitgebers
+
+- **Richtig: Auf den benachbarten Hotelbalkonen ihrer neuen Hochzeitsreisen**
+
+- Als Zeugin in seinem Gerichtsprozess
+
+Die beiden verbringen mit ihren neuen Ehepartnern die Flitterwochen im selben Hotel.
+
+Amanda und Elyot haben nach ihrer Scheidung jeweils neu geheiratet. Die zufällige Nähe lässt ihre alte Anziehung wieder aufleben, obwohl ihre Beziehung von Streit geprägt war. Noël Cowards Komödie treibt den Widerspruch zwischen gegenseitigem Begehren und dauernder Unverträglichkeit voran.
+
+Merksatz: Neue Hochzeitsreisen bringen das alte Ehepaar zusammen.
+
+Quellen: [1](https://catalog.afi.com/Film/7361-PRIVATE-LIVES).
+
+### S1 · schwer
+
+Welche Verwandtschaft verbindet Norma Shearers zwei Figuren Moonyean und Kathleen in „Smilin’ Through“ von 1932?
+
+- Großmutter und Enkelin
+
+- Mutter und Tochter
+
+- **Richtig: Tante und Nichte**
+
+- Ältere und jüngere Schwester
+
+Kathleen ist die Nichte der verstorbenen Moonyean.
+
+John Carteret nimmt die verwaiste Kathleen auf, nachdem er seine Braut Moonyean am Hochzeitstag verloren hat. Als Kathleen erwachsen ist, verliebt sie sich ausgerechnet in den Sohn des Mannes, der Moonyean erschoss. Shearers Doppelrolle macht die Ähnlichkeit beider Generationen auch sichtbar.
+
+Merksatz: Kathleen ist Moonyeans Nichte und Ebenbild.
+
+Quellen: [1](https://catalog.afi.com/Film/5450-SMILIN-THROUGH).
+
+### S2 · schwer
+
+Wie kommt Norma Shearers Jan in „A Free Soul“ erstmals näher mit dem Gangster Ace in Kontakt?
+
+- **Richtig: Ihr Vater verteidigt ihn in einem Mordprozess.**
+
+- Er rettet ihren Bruder aus dem Gefängnis.
+
+- Er kauft das Haus ihrer Familie.
+
+- Sie arbeitet als Zeugin gegen ihn.
+
+Jans Vater ist der Strafverteidiger des wegen Mordes angeklagten Ace.
+
+Der trinkende Anwalt Stephen Ashe bringt seinen Mandanten zum Essen der vornehmen Familie mit. Jan wehrt sich gegen deren abweisende Reaktion und findet Ace aufregender als ihren bisherigen Verlobten. Der Vater, der die familiären Konventionen selbst missachtet, will die daraus entstehende Beziehung jedoch verhindern.
+
+Merksatz: Der Mandant des Vaters wird Jans Geliebter.
+
+Quellen: [1](https://catalog.afi.com/Film/7362-A-FREE-SOUL).
+
+### E1 · experte
+
+In welchem Arbeitsbereich gewann Norma Shearers Bruder Douglas bei der dritten Oscarverleihung im November 1930 für „The Big House“?
+
+- Szenenbild
+
+- Kamera
+
+- Filmschnitt
+
+- **Richtig: Tonaufnahme**
+
+Douglas Shearer wurde als Tonverantwortlicher des MGM Studio Sound Department ausgezeichnet.
+
+Norma erhielt am selben Abend den Schauspielpreis für „The Divorcee“. Die Geschwister standen damit für zwei Seiten des frühen Tonfilms: die sichtbare Darstellung und die technische Tonarbeit. Die Academy führt den Tonpreis mit Studioabteilung und verantwortlichem Sound Director auf.
+
+Merksatz: Die Shearers: Schauspiel und Ton am selben Oscarabend.
+
+Quellen: [1](https://www.oscars.org/oscars/ceremonies/1931/T), [2](https://www.canadaswalkoffame.com/inductees/douglas-and-norma-shearer/).
+
+### E2 · experte
+
+Welches Material zog das Team um Norma Shearer bei der Arbeit an „Private Lives“ wiederholt zurate?
+
+- Improvisierte Probenszenen anderer MGM-Stars
+
+- **Richtig: Filmaufnahmen der New Yorker Bühnenaufführung**
+
+- Historische Aufnahmen europäischer Hochzeitsreisen
+
+- Tonaufnahmen von Cowards früheren Hörspielen
+
+Regisseur Sidney Franklin hatte die Bühnenaufführung gefilmt; das Team sah sich diese Aufnahmen immer wieder an.
+
+In der New Yorker Inszenierung spielten Noël Coward und Gertrude Lawrence. Bei Fragen zur Gestaltung einzelner Szenen unterbrach das Filmteam laut zeitgenössischem Bericht die Arbeit und betrachtete Franklins Aufnahmen. Die Filmfassung entstand damit unter enger Beobachtung der bereits erfolgreichen Bühnenversion.
+
+Merksatz: Franklins Bühnenfilm dient dem Kinoteam als Arbeitsmaterial.
+
+Quellen: [1](https://catalog.afi.com/Film/7361-PRIVATE-LIVES).
+
+## Loretta Young · Bekanntheitsgruppe 4
+
+![Loretta Young (1940er-Jahre)](Portraets/170.jpg)
+
+Bild: 1940er-Jahre; Unknown author studio photographer. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Loretta_young_studio_portrait_(rotated_and_cropped).jpg), [TMDB](https://www.themoviedb.org/person/85848).
+
+### L1 · leicht
+
+In welchen Bereich steigt Loretta Youngs zunächst als Hausangestellte arbeitende Katie in „Die Farmerstochter“ ein?
+
+- Radiounterhaltung
+
+- Kommunalpolizei
+
+- Zeitungsjournalismus
+
+- **Richtig: Kongresspolitik**
+
+Katie wird Kandidatin für den US-Kongress.
+
+Die junge Frau wollte eigentlich eine Krankenpflegeausbildung beginnen. Geldnot führt sie vorübergehend in den Haushalt eines Kongressabgeordneten. Ihre klare Haltung zu sozialen Fragen fällt dort auf; aus einer als Dienstmädchen unterschätzten Frau wird eine politische Konkurrentin etablierter Kräfte.
+
+Merksatz: Katie geht vom Abgeordnetenhaushalt in die Politik.
+
+Quellen: [1](https://catalog.afi.com/Film/25160-THE-FARMER%27S-DAUGHTER).
+
+### L2 · leicht
+
+Was ist Cary Grants Dudley, der Loretta Youngs Julia in „The Bishop’s Wife“ begegnet?
+
+- **Richtig: Ein Engel in Menschengestalt**
+
+- Ein menschlicher Hochstapler
+
+- Ein verstoßener Heiliger
+
+- Ein wiedergekehrter Verstorbener
+
+Dudley ist ein Engel in menschlicher Gestalt.
+
+Julias Mann, ein Bischof, verliert sich in der Finanzierung einer neuen Kathedrale und vernachlässigt das gemeinsame Leben. Dudley kommt auf dessen Bitte um Hilfe, bringt aber mehr als Geld ins Spiel. Er schenkt Julia Aufmerksamkeit und erinnert den Bischof an die Menschen, für die er verantwortlich ist.
+
+Merksatz: Dudley hilft als Engel in Menschengestalt.
+
+Quellen: [1](https://catalog.afi.com/Film/25469-THE-BISHOPS-WIFE).
+
+### M1 · mittel
+
+Welche verborgene Vergangenheit hat Loretta Youngs Ehemann in „Die Spur des Fremden“?
+
+- Er ist ein ehemaliger Spion der amerikanischen Marine.
+
+- Er hat als Bankräuber unter falschem Namen gelebt.
+
+- Er ist aus einem Mordprozess in England geflohen.
+
+- **Richtig: Er ist ein gesuchter nationalsozialistischer Kriegsverbrecher.**
+
+Marys Mann ist Franz Kindler, ein gesuchter NS-Kriegsverbrecher.
+
+Unter dem Namen Charles Rankin hat er sich in einer amerikanischen Kleinstadt als Lehrer etabliert. Mary hält zunächst zu ihm und akzeptiert seine Erklärungen, während Ermittler Wilson seine Tarnung aufdeckt. Der private Vertrauensbruch macht die Verfolgung des Kriegsverbrechers zugleich zu einer Geschichte gefährlicher Verdrängung.
+
+Merksatz: Marys angesehener Mann verbirgt Kindlers Verbrechen.
+
+Gemeinsames Wissensziel: K-E20261007-F-252-L1 (E20261007-F-252-L1).
+
+Quellen: [1](https://catalog.afi.com/Film/24989-THE-STRANGER).
+
+### M2 · mittel
+
+Was wollen Loretta Young und Celeste Holm als Ordensschwestern in „Come to the Stable“ in Connecticut errichten?
+
+- **Richtig: Ein Kinderkrankenhaus**
+
+- Ein Internat für Musikerinnen
+
+- Ein Waisenhaus mit Landwirtschaft
+
+- Ein Altenheim für Kriegsveteranen
+
+Sie wollen ein Kinderkrankenhaus bauen.
+
+Schwester Margaret hatte während des Krieges in der Normandie Kinder versorgt. Ein amerikanischer General verschonte das von Deutschen militärisch genutzte Krankenhaus auf ihre Bitte, wobei amerikanische Soldaten starben. Aus Dankbarkeit versprach sie, später ein Kinderkrankenhaus in Amerika zu gründen.
+
+Merksatz: Ein Kriegsversprechen führt zum Kinderkrankenhaus.
+
+Quellen: [1](https://catalog.afi.com/Film/25883-COME-TOTHESTABLE).
+
+### S1 · schwer
+
+Welche ungewöhnliche Ausgangslage prägt Loretta Youngs Ehe in „Rachel and the Stranger“?
+
+- Rachel heiratet, um einen Gefangenen zu befreien.
+
+- Der Witwer heiratet sie für eine gemeinsame Erbschaft.
+
+- **Richtig: Der Witwer übernimmt ihren Dienstvertrag und heiratet sie als Haushaltshilfe.**
+
+- Rachel heiratet den Bruder ihres verstorbenen Mannes.
+
+Der Witwer übernimmt Rachels Dienstverpflichtung und heiratet sie, um seinen Haushalt und Sohn versorgen zu lassen.
+
+Big Davey behandelt Rachel zunächst als Arbeitskraft und Ersatz für die verstorbene Mutter seines Sohnes. Erst als sein Freund Jim echtes Interesse an ihr zeigt, verändert sich die Lage. Der Film führt die Zweckgemeinschaft zur Anerkennung einer Frau, deren Wünsche anfangs kaum berücksichtigt werden.
+
+Merksatz: Rachel kommt als verpflichtete Arbeitskraft und wird erst später als Frau wahrgenommen.
+
+Quellen: [1](https://catalog.afi.com/Film/25688-RACHEL-AND-THE-STRANGER).
+
+### S2 · schwer
+
+Was kennzeichnet Loretta Youngs Mabel Hubbard in „The Story of Alexander Graham Bell“ besonders?
+
+- Sie finanziert Bell als verwitwete Fabrikbesitzerin.
+
+- **Richtig: Sie ist gehörlos und unterstützt Bells Experimente.**
+
+- Sie ist die Erbin eines Telegraphenpatents.
+
+- Sie arbeitet selbst als Elektroingenieurin.
+
+Mabel ist gehörlos und unterstützt Bells Arbeit.
+
+Bell lernt sie als Tochter eines möglichen Geldgebers kennen. Als er wegen seiner finanziellen Lage seine Experimente aufgeben will, ermutigt Mabel ihn zum Weitermachen. Später hilft sie im Patentstreit mit entscheidendem Beweismaterial. Die Filmfigur ist damit mehr als die romantische Belohnung des Erfinders.
+
+Merksatz: Mabel bestärkt Bell und hilft im Patentstreit.
+
+Quellen: [1](https://catalog.afi.com/Film/4229-THE-STORY-OF-ALEXANDER-GRAHAM-BELL).
+
+### E1 · experte
+
+Wie verband Loretta Young in „The Loretta Young Show“ Moderation und Schauspiel?
+
+- Sie moderierte einen fortlaufenden Kriminalfall als dieselbe Ermittlerin.
+
+- **Richtig: Sie rahmte abgeschlossene Geschichten und spielte darin unterschiedliche Figuren.**
+
+- Sie interviewte Gäste und spielte mit ihnen improvisierte Szenen.
+
+- Sie kommentierte jede Woche einen eigenen älteren Kinofilm.
+
+Young stellte einzelne abgeschlossene Geschichten vor und spielte in vielen Folgen wechselnde Rollen.
+
+Die Anthologie begann als „Letter to Loretta“ mit dramatisierten Zuschauerbriefen. Auch nach der Aufgabe dieses Rahmens eröffnete und schloss Young die Geschichten. Ihr inszenierter Auftritt im Abendkleid wurde dabei ebenso zum Markenzeichen wie die kurzen Dramen und Komödien.
+
+Merksatz: Eine Gastgeberin, viele Geschichten und Figuren.
+
+Quellen: [1](https://interviews.televisionacademy.com/shows/loretta-young-show-the).
+
+### E2 · experte
+
+Welche eigene Firma produzierte die letzten drei Staffeln von Loretta Youngs Anthologieserie?
+
+- Desilu
+
+- Lewislor Enterprises
+
+- **Richtig: Toreto Enterprises**
+
+- Four Star Productions
+
+Die letzten drei Staffeln wurden von Toreto Enterprises produziert.
+
+Die ersten fünf Staffeln entstanden unter Lewislor Enterprises, der gemeinsamen Firma von Young und Thomas Lewis. Nach ihrer persönlichen und geschäftlichen Trennung gründete sie Toreto. In der ersten Staffel hatte Desilu die Dreharbeiten übernommen; Produzentenfirma und ausführendes Studio sind daher zu unterscheiden.
+
+Merksatz: Auf Lewislor folgt Youngs Toreto.
+
+Quellen: [1](https://interviews.televisionacademy.com/shows/loretta-young-show-the).
+
+## Jane Wyman · Bekanntheitsgruppe 4
+
+![Jane Wyman (1943)](Portraets/171.jpg)
+
+Bild: 1943; Photographer not credited. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Jane_Wyman,_1943.jpg), [TMDB](https://www.themoviedb.org/person/20391).
+
+### L1 · leicht
+
+In welcher Branche übt Jane Wymans Angela Channing in „Falcon Crest“ ihre Macht aus?
+
+- Pferdezucht
+
+- **Richtig: Weinbau**
+
+- Hotellerie
+
+- Ölförderung
+
+Angela Channing ist die bestimmende Matriarchin eines Weinguts.
+
+Die Serie verbindet Familienkonflikte mit wirtschaftlicher Macht im kalifornischen Weinland. Angela steht dabei ihrem Neffen Chase Gioberti gegenüber, der nach dem Tod seines Vaters zurückkehrt. Wyman spielte diese kontrollierende Unternehmerin Jahrzehnte nach ihren bekannten Kinomelodramen.
+
+Merksatz: Angela herrscht über das Weingut Falcon Crest.
+
+Quellen: [1](https://interviews.televisionacademy.com/shows/falcon-crest).
+
+### L2 · leicht
+
+In wen verliebt sich Jane Wymans wohlhabende Witwe in „Was der Himmel erlaubt“?
+
+- Einen reisenden Handelsvertreter
+
+- Einen jüngeren Landarzt
+
+- **Richtig: Ihren jüngeren Gärtner**
+
+- Einen früheren Studienfreund
+
+Cary Scott verliebt sich in ihren jüngeren Gärtner Ron Kirby.
+
+Ihre Kinder und die Freunde im Country Club reagieren mit Ablehnung auf Alter und soziale Stellung des Mannes. Cary muss zwischen einem eigenen Liebesleben und der Zustimmung ihrer Umgebung wählen. Douglas Sirk macht die gesellschaftliche Kontrolle gerade im gepflegten, wohlhabenden Kleinstadtleben sichtbar.
+
+Merksatz: Cary liebt den Gärtner gegen den Willen ihres Umfelds.
+
+Quellen: [1](https://www.criterion.com/films/635-all-that-heaven-allows).
+
+### M1 · mittel
+
+Wie hilft der Arzt Jane Wymans Belinda in „Johnny Belinda“, mit ihrer Umgebung zu kommunizieren?
+
+- **Richtig: Er lehrt sie Gebärdensprache und Lippenlesen.**
+
+- Er verschafft ihr eine Operation am Gehör.
+
+- Er lässt sie ausschließlich mit Bildern schreiben.
+
+- Er setzt ein neu entwickeltes Hörgerät ein.
+
+Dr. Richardson vermittelt Belinda Gebärdensprache und Lippenlesen.
+
+Die gehörlose Frau wird im Dorf fälschlich für geistig beeinträchtigt gehalten. Als ihr Vater erstmals mit ihr kommunizieren kann, verändert sich seine Beziehung zu ihr. Der Film zeigt damit zunächst, wie ein fehlender Zugang zu Sprache zu einem falschen Urteil über einen Menschen führt.
+
+Merksatz: Gebärden und Lippenlesen öffnen Belindas Umgebung.
+
+Quellen: [1](https://catalog.afi.com/Film/25600-JOHNNY-BELINDA).
+
+### M2 · mittel
+
+Warum fehlt Jane Wymans Mann in „Die wunderbare Macht“ das lebensrettende Gerät, als er einen Herzinfarkt erleidet?
+
+- Es wurde für eine Klinik im Ausland gespendet.
+
+- Es ist bei einer Überschwemmung beschädigt worden.
+
+- Ein Kollege hat es für eine Operation ausgeliehen.
+
+- **Richtig: Es wird gerade für die Rettung des verunglückten Bob Merrick gebraucht.**
+
+Der einzige Wiederbelebungsapparat wird zur Rettung von Bob Merrick eingesetzt.
+
+Merrick überlebt seinen leichtsinnig verursachten Bootsunglücksfall, während Dr. Phillips stirbt. Dessen Witwe Helen muss damit leben, dass ausgerechnet ein rücksichtsloser Mann gerettet wurde. Für Merrick wird die Begegnung mit der Familie des Verstorbenen zum Ausgangspunkt einer grundlegenden Veränderung.
+
+Merksatz: Bobs Rettung lässt Helens Mann ohne Gerät sterben.
+
+Quellen: [1](https://catalog.afi.com/Film/51269-MAGNIFICENT-OBSESSION).
+
+### S1 · schwer
+
+Warum schießt Jane Wymans Orry in „Die Wildnis ruft“ auf das zahme Reh ihres Sohnes?
+
+- Es trägt eine ansteckende Krankheit.
+
+- Es hat einen Nachbarn verletzt.
+
+- Es lockt Wölfe zum Haus.
+
+- **Richtig: Es hat die letzte Nahrungsgrundlage der Familie zerstört.**
+
+Das Reh hat die Maisernte und damit die verbliebene Nahrung zerstört.
+
+Jody hatte das Tier als verwaistes Kitz aufgenommen. Sein Vater hatte bereits verlangt, es abzugeben, doch das Reh kehrt zurück. Orrys Schuss verletzt es so schwer, dass Jody selbst den tödlichen Schuss abgeben muss. Der Verlust steht im Film neben der harten wirtschaftlichen Lage der Farmerfamilie.
+
+Merksatz: Orry schützt die Ernte; Jody verliert sein Reh.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/25058).
+
+### S2 · schwer
+
+Welches Vorhaben setzen die Bewohner in „Pollyanna“ gegen den Einfluss von Jane Wymans Tante Polly durch?
+
+- Eine neue Schule mit kostenlosem Unterricht
+
+- Ein öffentliches Konzert für einen neuen Bahnhof
+
+- **Richtig: Ein Wohltätigkeitsfest für ein neues Waisenhaus**
+
+- Den Bau einer Klinik für Bergarbeiter
+
+Die Stadt veranstaltet ein eigenes Fest zugunsten eines neuen Waisenhauses.
+
+Polly Harrington beherrscht die Kleinstadt und hält am gewohnten gesellschaftlichen Gefüge fest. Die optimistische Nichte ermutigt andere, selbstständiger zu handeln. Als Pollyanna beim Versuch, am Fest teilzunehmen, schwer verunglückt, verändert sich auch die Haltung der Tante.
+
+Merksatz: Pollyannas Stadt organisiert ihr eigenes Waisenhausfest.
+
+Quellen: [1](https://d23.com/a-to-z/pollyanna-film/).
+
+### E1 · experte
+
+Welche aktive Rolle spielte Jane Wyman bei der Entstehung von „Die wunderbare Macht“ von 1954?
+
+- **Richtig: Sie regte die neue Verfilmung selbst an.**
+
+- Sie verantwortete den Filmschnitt.
+
+- Sie schrieb die endgültige Drehbuchfassung.
+
+- Sie übernahm die Regie.
+
+Jane Wyman brachte selbst die Idee einer erneuten Verfilmung ein.
+
+Douglas Sirk berichtete, dass Wyman mit dem Vorschlag zu ihm kam. Produzent Ross Hunter legte dann einen Entwurf vor, der den Regisseur überzeugte. Der Erfolg des Films führte zur erneuten Zusammenarbeit von Wyman, Rock Hudson und Sirk bei „Was der Himmel erlaubt“.
+
+Merksatz: Wyman stößt die neue Verfilmung selbst an.
+
+Quellen: [1](https://catalog.afi.com/Film/51269-MAGNIFICENT-OBSESSION), [2](https://www.criterion.com/current/posts/3200-jane-wyman-and-all-that-heaven-allows).
+
+### E2 · experte
+
+Welche französische Darstellerin hatte Jane Wymans Rolle in der Vorlage zu „The Blue Veil“ zuvor gespielt?
+
+- Madeleine Renaud
+
+- **Richtig: Gaby Morlay**
+
+- Michèle Morgan
+
+- Françoise Rosay
+
+Gaby Morlay spielte die Rolle in „Le voile bleu“ von 1942.
+
+Die amerikanische Fassung von 1951 ist eine Neuverfilmung des französischen Films von Jean Stelli. Wyman spielt die Frau, die nach dem Verlust ihres eigenen Kindes andere Kinder großzieht. Die Arbeit als Kinderfrau verbindet mehrere Lebensabschnitte und Familien; für diese Darstellung erhielt sie eine Oscar-Nominierung.
+
+Merksatz: Von Morlays französischer Kinderfrau zu Wymans amerikanischer Fassung.
+
+Quellen: [1](https://catalog.afi.com/Film/50034-THE-BLUE-VEIL).
+
+## Maureen O’Hara · Bekanntheitsgruppe 4
+
+![Maureen O’Hara (1947)](Portraets/172.jpg)
+
+Bild: 1947; Dell Publishing. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Maureen_O%27Hara_1947_2.jpg), [TMDB](https://www.themoviedb.org/person/70035).
+
+### L1 · leicht
+
+Welche Aufgabe hat Maureen O’Haras Doris Walker zu Beginn von „Das Wunder von Manhattan“ von 1947?
+
+- **Richtig: Sie organisiert die Thanksgiving-Parade von Macy’s.**
+
+- Sie leitet ein Kinderheim in Manhattan.
+
+- Sie führt die Spielzeugabteilung von Gimbels.
+
+- Sie betreut die Anklage im Weihnachtsmann-Prozess.
+
+Doris organisiert die jährliche Thanksgiving-Parade von Macy’s.
+
+Als der vorgesehene Weihnachtsmann betrunken ist, stellt sie Kris Kringle als Ersatz ein. Der neue Mitarbeiter überzeugt nicht nur im Kaufhaus, sondern stellt auch Doris’ nüchterne Haltung zu Fantasie und Vertrauen infrage. Ihre Tochter Susan ist ebenfalls zunächst daran gewöhnt, alles Übernatürliche abzulehnen.
+
+Merksatz: Doris engagiert Kris als Ersatz für die Kaufhausparade.
+
+Quellen: [1](https://catalog.afi.com/Film/25270-MIRACLE-ON-34TH-STREET).
+
+### L2 · leicht
+
+Wie wollen die Zwillinge Maureen O’Haras Maggie und ihren geschiedenen Mann in „The Parent Trap“ von 1961 wieder zusammenbringen?
+
+- Sie täuschen den Gewinn einer Familienkreuzfahrt vor.
+
+- Sie laden beide heimlich zu einem Theaterwettbewerb ein.
+
+- Sie erfinden eine gemeinsame Schulreise.
+
+- **Richtig: Sie tauschen ihre Identitäten und reisen zum jeweils anderen Elternteil.**
+
+Sharon und Susan vertauschen ihre Rollen, um die getrennten Eltern wieder zusammenzuführen.
+
+Beide wachsen getrennt auf und begegnen sich zufällig im Ferienlager. Hayley Mills spielt die zwei Schwestern, O’Hara ihre Mutter Maggie. Die Pläne werden durch Vicky erschwert, die den Vater wegen seines Geldes heiraten möchte und sich erst bei einem gemeinsamen Campingausflug vertreiben lässt.
+
+Merksatz: Die Zwillinge wechseln die Plätze und bewegen die Eltern.
+
+Quellen: [1](https://d23.com/a-to-z/parent-trap-the-film/).
+
+### M1 · mittel
+
+Warum ist die zurückgehaltene Mitgift für Maureen O’Haras Mary Kate in „Der Sieger“ so bedeutsam?
+
+- Sie muss damit die Schulden ihres Mannes tilgen.
+
+- Sie braucht sie zur Finanzierung eines eigenen Geschäfts.
+
+- **Richtig: Sie verbindet damit ihre Würde und ihren rechtmäßigen Anteil.**
+
+- Sie will damit die Reise nach Amerika bezahlen.
+
+Mary Kate geht es um ihren rechtmäßigen Besitz und ihre Würde.
+
+Ihr Bruder hält Geld und persönliche Dinge zurück, während ihr Mann Sean den Streit zunächst nicht ernst genug nimmt. Sean hält den Konflikt zunächst für einen bloßen Streit um Geld; Mary Kate erlebt dagegen, dass ihr Anspruch auf Anerkennung übergangen wird. Erst als Sean sich dem Bruder stellt, verändert sich der Konflikt.
+
+Merksatz: Mary Kates Mitgift bedeutet Anerkennung und Eigenständigkeit.
+
+Quellen: [1](https://catalog.afi.com/Film/53543-THE-QUIET-MAN).
+
+### M2 · mittel
+
+Wen heiratet Maureen O’Haras Angharad in „Schlagende Wetter“, obwohl sie den Pfarrer Gruffydd liebt?
+
+- Einen älteren Grubenaufseher
+
+- **Richtig: Den Sohn des Bergwerksbesitzers**
+
+- Den Lehrer ihres Bruders
+
+- Den Sohn des Dorfpfarrers
+
+Angharad heiratet Iestyn Evans, den Sohn des Bergwerksbesitzers.
+
+Ihre Liebe zu Mr. Gruffydd bleibt unerfüllt. Die Ehe mit dem wohlhabenden Iestyn entfernt sie von dem Menschen, den sie wirklich liebt. John Fords Familiengeschichte verbindet solche privaten Enttäuschungen mit dem Wandel einer walisischen Bergarbeitergemeinschaft.
+
+Merksatz: Angharad heiratet Evans, ihr Herz bleibt bei Gruffydd.
+
+Quellen: [1](https://catalog.afi.com/Film/26746-HOW-GREEN-WAS-MY-VALLEY).
+
+### S1 · schwer
+
+Wie rettet Maureen O’Haras Esmeralda in „Der Glöckner von Notre Dame“ von 1939 zunächst den Dichter Gringoire?
+
+- Sie tauscht ihn gegen einen gefangenen Soldaten aus.
+
+- Sie bezahlt seine Schulden bei den Bettlern.
+
+- Sie versteckt ihn im Glockenturm.
+
+- **Richtig: Sie erklärt sich bereit, ihn zu heiraten.**
+
+Esmeralda nimmt Gringoire zum Mann und bewahrt ihn dadurch vor dem Tod.
+
+Sie gelangt in die Unterwelt der Bettler, in der der fremde Dichter in Lebensgefahr gerät. Ihre Ehe ist zunächst eine Rettungshandlung; Esmeralda liebt den Soldaten Phoebus. Der Film unterscheidet damit ihre Hilfsbereitschaft von den Besitzansprüchen der Männer, die sie verfolgen.
+
+Merksatz: Esmeraldas Heiratszusage rettet den Dichter.
+
+Quellen: [1](https://catalog.afi.com/Film/5097-THE-HUNCHBACK-OF-NOTRE-DAME).
+
+### S2 · schwer
+
+Welche Wahrheit über Sir Humphrey Pengallan entdeckt Maureen O’Haras Mary in „Jamaica Inn“?
+
+- Er ist ein Ermittler, der sich als Gutsherr tarnt.
+
+- **Richtig: Er steht hinter der verbrecherischen Strandräuberbande.**
+
+- Er ist der verschollene Vater ihrer Tante.
+
+- Er hat als Kapitän selbst sein Schiff versenkt.
+
+Der scheinbar angesehene Gutsherr lenkt die verbrecherische Bande.
+
+Mary kommt nach dem Tod ihrer Mutter zu ihrer Tante an die Küste Cornwalls. Das Gasthaus dient einer Gruppe als Stützpunkt, die Schiffe zum Untergang bringt und Überlebende beseitigt. Die Verbindung zum örtlichen Honoratioren macht die Suche nach verlässlicher Hilfe besonders gefährlich.
+
+Merksatz: Hinter den Strandräubern steht der Gutsherr.
+
+Quellen: [1](https://shop.bfi.org.uk/jamaica-inn-dual-format-edition/).
+
+### E1 · experte
+
+Wer verpflichtete Maureen O’Hara nach einem Londoner Kameratest und änderte ihren öffentlichen Namen von Maureen FitzSimons?
+
+- **Richtig: Charles Laughton**
+
+- John Ford
+
+- Erich Pommer
+
+- William Dieterle
+
+Charles Laughton gab ihr einen Vertrag und den Namen Maureen O’Hara.
+
+Er erkannte ihr Potenzial in einem Kameratest und band sie für sieben Jahre. Danach spielte sie in „Jamaica Inn“ und reiste für „Der Glöckner von Notre Dame“ nach Hollywood. Der Kriegsausbruch erschwerte ihre Rückkehr nach Irland; ihr Vertrag ging später an RKO über.
+
+Merksatz: Laughton öffnet FitzSimons als O’Hara den Filmweg.
+
+Quellen: [1](https://www.oscars.org/governors-awards/2014/maureen-ohara).
+
+### E2 · experte
+
+Welche Art von Verkehrsunternehmen leitete Maureen O’Hara nach dem Tod ihres Mannes Charles Blair?
+
+- Ein Reisebusunternehmen
+
+- Eine Kreuzfahrtreederei
+
+- **Richtig: Eine Fluggesellschaft zwischen Karibikinseln**
+
+- Eine Fährgesellschaft
+
+Sie übernahm die Leitung einer regionalen Fluggesellschaft in der Karibik.
+
+Schon vor Blairs Tod hatte O’Hara mit dem Piloten das Unternehmen betrieben und sich vom Film zurückgezogen. Nach seinem tödlichen Flugzeugunfall führte sie die Gesellschaft weiter. Ihre spätere Rückkehr auf die Leinwand folgte erst nach einer langen Unterbrechung.
+
+Merksatz: O’Hara führte nach dem Film eine karibische Fluggesellschaft.
+
+Quellen: [1](https://www.oscars.org/governors-awards/2014/maureen-ohara).
+
+## Susan Hayward · Bekanntheitsgruppe 4
+
+![Susan Hayward (1940er-Jahre laut Beschreibung)](Portraets/173.jpg)
+
+Bild: 1940er-Jahre laut Beschreibung; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Studio_publicity_Susan_Hayward.jpg), [TMDB](https://www.themoviedb.org/person/30124).
+
+### L1 · leicht
+
+Welche reale Frau verkörpert Susan Hayward in „Laßt mich leben!“?
+
+- Ruth Snyder
+
+- Bonnie Parker
+
+- **Richtig: Barbara Graham**
+
+- Ma Barker
+
+Susan Hayward spielt die zum Tode verurteilte Barbara Graham.
+
+Robert Wises Film verfolgt Grahams Festnahme, Prozess und Hinrichtung. Er stellt ihre behauptete Unschuld und die Kritik an der Todesstrafe in den Mittelpunkt. Die Darstellung des tatsächlichen Falls blieb umstritten; der Film ist als dramatische Sicht auf Graham zu verstehen, nicht als abschließende historische Klärung ihrer Schuld.
+
+Merksatz: Hayward spielt die zum Tode verurteilte Barbara Graham.
+
+Quellen: [1](https://catalog.afi.com/Film/52606-I-WANT-TO-LIVE%21).
+
+### L2 · leicht
+
+Welche Sängerin porträtiert Susan Hayward in „With a Song in My Heart“?
+
+- Helen Morgan
+
+- **Richtig: Jane Froman**
+
+- Lillian Roth
+
+- Fanny Brice
+
+Sie spielt Jane Froman.
+
+Der Film erzählt von Fromans Karriere und ihrem Weiterarbeiten nach einem schweren Flugzeugunglück. Die dargestellte Sängerin war an der Tonspur selbst beteiligt: Sie nahm die Lieder vorab auf, während Hayward die Gesangsszenen vor der Kamera spielte. Leinwanddarstellung und hörbare Stimme stammen damit von zwei Frauen.
+
+Merksatz: Hayward verkörpert Froman, Froman singt.
+
+Quellen: [1](https://catalog.afi.com/Film/50722-WITH-A-SONG-IN-MY-HEART).
+
+### M1 · mittel
+
+Mit welcher Abhängigkeit kämpft Susan Haywards Lillian Roth in „I'll Cry Tomorrow“?
+
+- **Richtig: Alkoholabhängigkeit**
+
+- Schlafmittelabhängigkeit
+
+- Kokainabhängigkeit
+
+- Morphiumabhängigkeit
+
+Lillian Roth kämpft gegen ihre Alkoholabhängigkeit.
+
+Nach dem Tod ihres Verlobten verliert die erfolgreiche Bühnenkünstlerin zunehmend die Kontrolle über ihr Leben. Hilfe findet sie schließlich bei den Anonymen Alkoholikern und ihrem Begleiter Burt McGuire. Die Geschichte verbindet den beruflichen Absturz mit einem mühsamen Weg zurück zu eigenen Entscheidungen.
+
+Merksatz: Roths Bühnenkarriere wird vom Alkohol verdrängt.
+
+Quellen: [1](https://catalog.afi.com/Film/51533-I%27LL-CRY-TOMORROW).
+
+### M2 · mittel
+
+Welche Entdeckung belastet Susan Haywards Rachel und Andrew Jackson in „The President’s Lady“?
+
+- **Richtig: Rachels erste Ehe war bei ihrer Heirat noch nicht geschieden.**
+
+- Rachel stammt aus einer Familie politischer Gegner.
+
+- Andrew ist heimlich mit einer anderen Frau verlobt.
+
+- Andrew hat Rachels Vermögen ohne ihr Wissen eingesetzt.
+
+Die beiden erfahren, dass Rachels erste Ehe noch nicht wirksam geschieden war.
+
+Rachel und Andrew hatten die Scheidung für abgeschlossen gehalten. Der Skandal wird gegen sie eingesetzt und überschattet Jacksons politischen Aufstieg. Im Film stirbt Rachel nach seiner Wahl, bevor er das Präsidentenamt antritt; die ersehnte gemeinsame Zeit im Weißen Haus bleibt aus.
+
+Merksatz: Ein unvollendetes Scheidungsverfahren verfolgt die Jacksons.
+
+Quellen: [1](https://catalog.afi.com/Film/50980-THE-PRESIDENT%27S-LADY).
+
+### S1 · schwer
+
+Welche politische Position verfolgt die Familie von Susan Haywards Morna in „Tap Roots“ beim Ausbruch des Bürgerkriegs?
+
+- Sie will nach Mexiko auswandern.
+
+- Sie will Mississippi an Louisiana anschließen.
+
+- **Richtig: Sie will ihr Tal aus Mississippi lösen und neutral halten.**
+
+- Sie will eine eigene Brigade der Konföderierten finanzieren.
+
+Mornas Vater will das Tal abtrennen und zu einem neutralen Gebiet erklären.
+
+Mornas Verlobter Clay hält dagegen zur Konföderation. Der politische Riss geht damit mitten durch ihre persönlichen Beziehungen. Zeitungsverleger Keith unterstützt schließlich den Neutralitätsplan des Vaters und tritt auch als Rivale um Morna auf; Familiengeschichte und Bürgerkrieg sind eng verschränkt.
+
+Merksatz: Das Dabney-Tal soll neutral bleiben.
+
+Quellen: [1](https://catalog.afi.com/Film/25764-TAP-ROOTS).
+
+### S2 · schwer
+
+Wie verändert sich im Film „Laßt mich leben!“ der Journalist Ed Montgomery gegenüber Susan Haywards Barbara Graham?
+
+- Er wird vom Zeugen der Anklage zu ihrem Verteidiger vor Gericht.
+
+- Er bietet ihr Geld für ein öffentliches Geständnis.
+
+- Er zieht sich nach dem Urteil aus der Berichterstattung zurück.
+
+- **Richtig: Er unterstützt nach belastender Berichterstattung den Versuch, ihre Hinrichtung zu verhindern.**
+
+Montgomery setzt sich nach seiner zunächst belastenden Berichterstattung gegen ihre Hinrichtung ein.
+
+Die Figur verbindet die öffentliche Wahrnehmung Grahams mit dem späteren Einsatz für sie. Montgomerys Artikel gehörten auch zu den Vorlagen der Produktion. Gerade diese Verbindung führte nach der Veröffentlichung zu Diskussionen darüber, welche Teile des realen Falls ausgewählt oder ausgelassen worden waren.
+
+Merksatz: Montgomery wechselt von belastender Presse zum Rettungsversuch.
+
+Quellen: [1](https://catalog.afi.com/Film/52606-I-WANT-TO-LIVE%21).
+
+### E1 · experte
+
+Wer singt Susan Haywards Lieder jeweils in „I'll Cry Tomorrow“ und „With a Song in My Heart“?
+
+- Jane Froman; Jo Ann Greer
+
+- Jo Ann Greer; Lillian Roth
+
+- Lillian Roth; Hayward selbst
+
+- **Richtig: Hayward selbst; Jane Froman**
+
+In „I'll Cry Tomorrow“ singt Hayward selbst; in „With a Song in My Heart“ singt Jane Froman.
+
+Für die Roth-Biografie erwog MGM zunächst eine Gesangsdoppelung durch Sande Harris, entschied sich dann aber für Haywards eigene Stimme. Das unterscheidet diese Arbeit von der früheren Froman-Biografie, deren Lieder das reale Vorbild vorab eingesungen hatte.
+
+Merksatz: Roth-Rolle: Haywards Stimme. Froman-Rolle: Fromans Stimme.
+
+Quellen: [1](https://catalog.afi.com/Film/51533-I%27LL-CRY-TOMORROW), [2](https://catalog.afi.com/Film/50722-WITH-A-SONG-IN-MY-HEART).
+
+### E2 · experte
+
+Für welchen Film erhielt Susan Hayward 1956 in Cannes den internationalen Darstellerinnenpreis?
+
+- „With a Song in My Heart“
+
+- **Richtig: „I'll Cry Tomorrow“**
+
+- „Laßt mich leben!“
+
+- „The President’s Lady“
+
+Ausgezeichnet wurde ihre Darstellung in „I'll Cry Tomorrow“.
+
+Die offizielle Cannes-Liste nennt Hayward für die Rolle der Sängerin Lillian Roth. Der Film war bereits im Dezember 1955 in den USA angelaufen; 1956 bezeichnet hier die Festivalteilnahme und die Auszeichnung. Die zeitliche Trennung verhindert, dass Preisjahr und Erstveröffentlichung verwechselt werden.
+
+Merksatz: Haywards Roth gewann in Cannes 1956.
+
+Quellen: [1](https://www.festival-cannes.com/en/retrospective/1956/awards/), [2](https://catalog.afi.com/Film/51533-I%27LL-CRY-TOMORROW).
+
+## Veronica Lake · Bekanntheitsgruppe 4
+
+![Veronica Lake (1941)](Portraets/174.png)
+
+Bild: 1941; Paramount Pictures, Inc.. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Veronica_Lake_-_Studio_portrait_(1941).png), [TMDB](https://www.themoviedb.org/person/79245).
+
+### L1 · leicht
+
+Wen begleitet Veronica Lakes namenlose junge Frau in „Sullivan’s Travels“ auf seiner Reise?
+
+- Einen flüchtigen Bankangestellten
+
+- Einen wandernden Arzt
+
+- **Richtig: Einen verkleideten Filmregisseur**
+
+- Einen arbeitslosen Reporter
+
+Sie begleitet einen erfolgreichen Filmregisseur, der als Landstreicher unterwegs ist.
+
+John L. Sullivan (Joel McCrea) möchte Armut aus eigener Erfahrung kennenlernen, bevor er einen ernsten Film darüber dreht. Seine Begleiterin kennt die Not bereits. Die Reise führt von komischen Missgeschicken bis zu Sullivans Gefangenschaft; dort entdeckt er, welchen Wert gemeinsames Lachen für Menschen in aussichtsloser Lage haben kann.
+
+Merksatz: Die mittellose Frau begleitet den Regisseur in seiner Landstreicherrolle.
+
+Quellen: [1](https://www.criterion.com/current/posts/3548-laughter-behind-the-screen).
+
+### L2 · leicht
+
+Aus welcher Familie stammt Veronica Lakes Janet Henry in „The Glass Key“?
+
+- Aus der Familie eines Polizeichefs
+
+- Aus der Familie eines Gangsterbosses
+
+- Aus der Familie eines Zeitungsverlegers
+
+- **Richtig: Aus der Familie eines Gouverneurskandidaten**
+
+Janet ist die Tochter des Gouverneurskandidaten Ralph Henry.
+
+Der politische Machtvermittler Paul Madvig (Brian Donlevy) unterstützt Henry und möchte Janet heiraten. Sie fühlt sich jedoch zu Pauls Vertrautem Ed Beaumont (Alan Ladd) hingezogen. Nach dem Tod ihres Bruders geraten die persönliche Rivalität und die politische Zusammenarbeit zugleich unter Druck.
+
+Merksatz: Janet verbindet die politische Allianz mit einer Liebesrivalität.
+
+Quellen: [1](https://catalog.afi.com/Film/27248-THE-GLASS-KEY).
+
+### M1 · mittel
+
+Was durchkreuzt Jennifers Verführungsplan in „I Married a Witch“ mit Veronica Lake?
+
+- Der Zauber wirkt auf den Vater ihres Auserwählten.
+
+- **Richtig: Sie trinkt versehentlich selbst den Liebestrank.**
+
+- Ihr Ziel entdeckt das Rezept und vernichtet es.
+
+- Ihr Vater vertauscht ihren Körper mit dem ihrer Rivalin.
+
+Jennifer trinkt den Liebestrank selbst und verliebt sich in den Mann, den sie bestrafen wollte.
+
+Jennifer will sich an Wallace Wooley (Fredric March), einem Nachfahren ihrer früheren Verfolger, rächen. Als ihr eigenes Zaubermittel sie trifft, verändert sich ihr Vorhaben: Sie muss nun um den Mann kämpfen, dessen Leben sie zuvor durch eine unglückliche Liebe verderben wollte.
+
+Merksatz: Jennifers eigener Trank macht aus Rache Verliebtheit.
+
+Quellen: [1](https://www.criterion.com/current/posts/2924-i-married-a-witch-its-such-an-ancient-pitch).
+
+### M2 · mittel
+
+Wie ist Veronica Lakes Joyce in „The Blue Dahlia“ mit dem Nachtclubbesitzer Eddie Harwood verbunden?
+
+- **Richtig: Sie ist seine getrennt lebende Ehefrau.**
+
+- Sie ist seine frühere Privatdetektivin.
+
+- Sie ist die Witwe seines Geschäftspartners.
+
+- Sie ist seine erwachsene Tochter.
+
+Joyce ist Eddies getrennt lebende Ehefrau.
+
+Joyce nimmt den heimgekehrten Johnny Morrison (Alan Ladd) im Auto mit, ohne zunächst seine Identität zu kennen. Johnny hat gerade die Affäre seiner Frau Helen (Doris Dowling) mit Eddie (Howard Da Silva) entdeckt. Als Helen ermordet wird, sind Joyce und Johnny bereits über ihre zerrütteten Ehen miteinander verbunden.
+
+Merksatz: Joyce und Johnny sind über Eddie und Helen verbunden.
+
+Quellen: [1](https://catalog.afi.com/Film/24704-THE-BLUE-DAHLIA).
+
+### S1 · schwer
+
+Welchen Auftrag verfolgt Veronica Lakes Ellen Graham heimlich in „This Gun for Hire“?
+
+- Sie soll gestohlene Rüstungsgelder zurückholen.
+
+- **Richtig: Sie soll den Verkauf einer Giftgasformel an den Feind aufklären.**
+
+- Sie soll einen untergetauchten Militärarzt finden.
+
+- Sie soll einen entführten Gewerkschafter befreien.
+
+Ellen untersucht für Senator Burnett den Verrat einer Giftgasformel.
+
+Als Sängerin und Zauberkünstlerin erhält Ellen Zugang zum Umfeld des verdächtigen Willard Gates (Laird Cregar). Zufällig begegnet sie dem Auftragsmörder Raven (Alan Ladd), den Gates ebenfalls betrogen hat. Sie bewegt Raven dazu, ein schriftliches Geständnis der Verräter zu verlangen, statt sich auf persönliche Rache zu beschränken.
+
+Merksatz: Ellens Bühnenengagement dient einem geheimen Ermittlungsauftrag.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/27508).
+
+### S2 · schwer
+
+Wie ermöglicht Veronica Lakes Olivia den anderen Krankenschwestern in „So Proudly We Hail!“ die Flucht?
+
+- Sie führt die Verfolger auf einen verminten Weg.
+
+- Sie täuscht eine Kapitulation vor und entwendet ein Funkgerät.
+
+- Sie organisiert einen versteckten Lastwagen.
+
+- **Richtig: Sie nähert sich den Soldaten mit einer Handgranate und sprengt sich.**
+
+Olivia opfert sich mit einer Handgranate, damit ihre Kameradinnen entkommen.
+
+Die Krankenschwestern geraten beim Rückzug auf den Philippinen in eine ausweglose Lage. Olivia, deren Verlobter in Pearl Harbor getötet wurde, tritt den heranrückenden Soldaten entgegen. Ihr Tod gibt den übrigen Frauen die Gelegenheit zu entkommen; der Film setzt die Arbeit der Pflegerinnen mitten ins Kriegsgeschehen.
+
+Merksatz: Olivia erkauft die Flucht durch ihr eigenes Opfer.
+
+Quellen: [1](https://catalog.afi.com/Film/674-SO-PROUDLY-WE-HAIL%21).
+
+### E1 · experte
+
+Warum beteiligte sich Veronica Lake 1943 öffentlich an einer Änderung ihrer berühmten Frisur?
+
+- Militärhelferinnen sollten vorgeschriebene Kopfbedeckungen leichter tragen können.
+
+- Frauen im Zivilschutz sollten bei Verdunkelung bessere Sicht haben.
+
+- **Richtig: Nachahmerinnen sollten ihre Haare sicherer an Fabrikmaschinen tragen.**
+
+- Rationierte Pflegeprodukte sollten durch kürzere Frisuren eingespart werden.
+
+Ihr Beispiel sollte Fabrikarbeiterinnen zu einer sichereren Frisur bewegen.
+
+Lakes über ein Auge fallende Haarsträhne wurde häufig nachgeahmt. Während des Krieges arbeiteten viele Frauen an Maschinen, an denen offen getragenes Haar gefährlich war. Auf Bitte der War Manpower Commission zeigte Lake eine andere Frisur; das Office of War Information verbreitete die Aufnahmen.
+
+Merksatz: Der berühmte Filmlook wurde zum Thema der Arbeitssicherheit.
+
+Quellen: [1](https://www.cinematheque.fr/expositions-virtuelles/bruneblonde/item.php?id=19&lang=en).
+
+### E2 · experte
+
+Welcher Krimiautor schrieb für „The Blue Dahlia“ mit Veronica Lake sein erstes Originaldrehbuch?
+
+- **Richtig: Raymond Chandler**
+
+- Dashiell Hammett
+
+- Cornell Woolrich
+
+- James M. Cain
+
+Raymond Chandler schrieb das Originaldrehbuch.
+
+Chandler arbeitete hier an einer eigens für den Film entwickelten Geschichte. Die Produktion begann, bevor das Drehbuch vollständig vorlag. In seinen Briefen beklagte er außerdem Eingriffe in den Schluss: Die amerikanische Marine hatte Einfluss darauf genommen, wer am Ende als Mörder entlarvt werden durfte.
+
+Merksatz: Chandlers erstes Originaldrehbuch entstand unter Produktions- und Militärdruck.
+
+Quellen: [1](https://catalog.afi.com/Film/24704-THE-BLUE-DAHLIA).
+
+## Agnes Moorehead · Bekanntheitsgruppe 4
+
+![Agnes Moorehead (1969)](Portraets/175.jpg)
+
+Bild: 1969; ABC Television. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Agnes_Moorehead_Bewitched_1969.JPG), [TMDB](https://www.themoviedb.org/person/11025).
+
+### L1 · leicht
+
+Wie ist Agnes Mooreheads Endora in „Verliebt in eine Hexe“ mit Samantha verwandt?
+
+- Sie ist Samanthas Großmutter.
+
+- **Richtig: Sie ist Samanthas Mutter.**
+
+- Sie ist Samanthas Schwester.
+
+- Sie ist Samanthas Tante.
+
+Endora ist Samanthas Mutter.
+
+Samantha (Elizabeth Montgomery) möchte mit ihrem sterblichen Mann Darrin ein weitgehend gewöhnliches Vorstadtleben führen. Endora kann diese Entscheidung nicht nachvollziehen. Ihre Eingriffe stellen Darrin immer wieder vor Schwierigkeiten und machen aus einem privaten Ehekonflikt eine übernatürliche Familienkomödie.
+
+Merksatz: Endora ist die zaubernde Schwiegermutter Darrins.
+
+Quellen: [1](https://www.sonypictures.com/tv/bewitched).
+
+### L2 · leicht
+
+Welche Angehörige von Charles Foster Kane verkörpert Agnes Moorehead in „Citizen Kane“?
+
+- **Richtig: Seine Mutter**
+
+- Seine erste Ehefrau
+
+- Seine Schwester
+
+- Seine Schwiegermutter
+
+Moorehead spielt Kanes Mutter Mary.
+
+Mary Kane verfügt unerwartet über ein großes Vermögen aus Minenanteilen. Während ihr Sohn draußen im Schnee spielt, überträgt sie dem Finanzier Thatcher (George Coulouris) die Vormundschaft. Gegen den Widerstand des Jungen entscheidet sie damit über seine Trennung vom Elternhaus und seinen weiteren Lebensweg.
+
+Merksatz: Mary Kane gibt den Sohn in Thatchers Obhut.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/27624).
+
+### M1 · mittel
+
+Womit erfreut Pollyanna Agnes Mooreheads mürrische Mrs. Snow beim Besuch in „Pollyanna“?
+
+- Mit einer Spieluhr aus dem Elternhaus
+
+- Mit einem gemalten Porträt ihrer Tochter
+
+- Mit einem Käfig voller Singvögel
+
+- **Richtig: Mit Glasprismen, die Regenbögen an die Wand werfen**
+
+Pollyanna hängt Glasprismen auf und lässt Regenbögen im Zimmer entstehen.
+
+Mrs. Snow hält sich für schwer krank und beschäftigt sich sogar mit der Ausstattung ihres Sarges. Pollyanna (Hayley Mills) bringt Farbe in ihr abgeschottetes Zimmer. Die Frau beginnt später wieder am gemeinschaftlichen Leben teilzunehmen und hilft schließlich selbst, dem verletzten Mädchen Mut zu machen.
+
+Merksatz: Die Prismen bringen Farbe in Mrs. Snows Rückzug.
+
+Quellen: [1](https://catalog.afi.com/Film/53251-POLLYANNA).
+
+### M2 · mittel
+
+Für welchen Mann hegt Agnes Mooreheads Tante Fanny in „Der Glanz des Hauses Amberson“ unerwiderte Gefühle?
+
+- Roger Bronson
+
+- George Minafer
+
+- Jack Amberson
+
+- **Richtig: Eugene Morgan**
+
+Fanny liebt Eugene Morgan, dessen Gefühle Isabel gelten.
+
+Eugene (Joseph Cotten) kehrt als verwitweter Erfinder in die Stadt zurück. Fanny hofft auf seine Zuneigung, während er wieder Isabel (Dolores Costello) näherkommt. Ihre Enttäuschung verschärft die Spannungen innerhalb der Familie; Mooreheads Spiel zeigt hinter der aufdringlichen Tante eine einsame, abhängige Frau.
+
+Merksatz: Fanny liebt Eugene, Eugene liebt Isabel.
+
+Quellen: [1](https://catalog.afi.com/Film/27328-THE-MAGNIFICENT-AMBERSONS), [2](https://www.criterion.com/current/posts/6061-what-is-and-what-might-have-been).
+
+### S1 · schwer
+
+Welche Absicht durchschaut Agnes Mooreheads Haushälterin Velma in „Hush…Hush, Sweet Charlotte“?
+
+- Miriam und Drew wollen Charlotte zum Verkauf an die Straßenbehörde überreden.
+
+- Miriam und Drew wollen Charlotte zur Flucht vor einem neuen Prozess bewegen.
+
+- **Richtig: Miriam und Drew wollen Charlotte um den Verstand bringen und ihr Geld bekommen.**
+
+- Miriam und Drew wollen Charlotte mit ihrem früheren Liebhaber zusammenführen.
+
+Velma erkennt, dass Miriam und Drew Charlotte gezielt in den Wahnsinn treiben wollen.
+
+Charlotte (Bette Davis) wird von scheinbaren Erscheinungen ihres ermordeten Liebhabers gequält. Ihre Cousine Miriam (Olivia de Havilland) und Arzt Drew (Joseph Cotten) nutzen ihre Schuldängste aus. Als Velma versucht, sie aus dem Haus in Sicherheit zu bringen, tötet Miriam die Haushälterin.
+
+Merksatz: Velma erkennt die inszenierte Bedrohung und will Charlotte schützen.
+
+Quellen: [1](https://catalog.afi.com/Film/22295-HUSHHUSH-SWEETCHARLOTTE).
+
+### S2 · schwer
+
+Wen soll der Mord treffen, dessen Planung Agnes Mooreheads Figur im Radiohörspiel „Sorry, Wrong Number“ zufällig mithört?
+
+- **Richtig: Die telefonierende Frau selbst**
+
+- Die Vermittlerin der Telefonzentrale
+
+- Den abwesenden Ehemann
+
+- Den behandelnden Arzt
+
+Mrs. Stevenson selbst ist das vorgesehene Mordopfer.
+
+Durch eine falsch geschaltete Telefonverbindung hört die bettlägerige Frau von einem geplanten Mord. Ihre Versuche, am Telefon Hilfe zu finden, steigern die Panik, bis sie ihre eigene Gefährdung erkennt. Lucille Fletchers Stück nutzt Gesprächspausen, Geräusche und Mooreheads Stimme, um die Bedrohung ohne sichtbare Bilder aufzubauen.
+
+Merksatz: Das belauschte Mordkomplott richtet sich gegen die Zuhörerin selbst.
+
+Quellen: [1](https://memory.loc.gov/static/programs/national-recording-preservation-board/documents/SorryWrongNumber.pdf).
+
+### E1 · experte
+
+Aus welchem Ensemble kam Agnes Moorehead mit mehreren Kollegen zu „Citizen Kane“?
+
+- Actors Studio
+
+- Federal Theatre Project
+
+- **Richtig: Mercury Theatre**
+
+- Group Theatre
+
+Sie gehörte zu Orson Welles’ Mercury Theatre.
+
+Die Theater- und Radioarbeit des Ensembles bildete eine Grundlage für Welles’ Kinodebüt. Neben Moorehead kamen etwa Joseph Cotten, Ray Collins und Everett Sloane aus diesem Umfeld. Der Filmabspann stellte die dem Kinopublikum noch wenig vertrauten Darsteller ausdrücklich als Mitglieder des Mercury Theatre vor.
+
+Merksatz: Das Mercury-Ensemble wechselte gemeinsam zum Film.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/27624).
+
+### E2 · experte
+
+Für welche Fernsehserie gewann Agnes Moorehead 1967 ihren Emmy?
+
+- „Wagon Train“
+
+- **Richtig: „The Wild, Wild West“**
+
+- „Bewitched“
+
+- „The Twilight Zone“
+
+Den Emmy gewann sie für „The Wild, Wild West“.
+
+Die Television Academy verzeichnet für Moorehead 1967 den Sieg als Nebendarstellerin in einem Drama. Ihre zahlreichen Nominierungen als Endora in „Bewitched“ führten dagegen zu keinem Sieg. Der Preis gehört damit zu einer anderen Fernseharbeit als ihrer bekanntesten Serienrolle.
+
+Merksatz: Mooreheads Emmy gehört zum Wilden Westen, nicht zu Endora.
+
+Quellen: [1](https://www.televisionacademy.com/bios/agnes-moorehead).
+
+## Thelma Ritter · Bekanntheitsgruppe 4
+
+![Thelma Ritter (Werbefoto zu All About Eve (1950); Aufnahme undatiert)](Portraets/176.jpg)
+
+Bild: Werbefoto zu All About Eve (1950); Aufnahme undatiert; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Thelma_Ritter_-_All_About_Eve.jpg), [TMDB](https://www.themoviedb.org/person/7684).
+
+### L1 · leicht
+
+In welcher Funktion kümmert sich Thelma Ritters Stella in „Das Fenster zum Hof“ um Jeff?
+
+- Als persönliche Assistentin
+
+- **Richtig: Als Krankenschwester**
+
+- Als Haushälterin
+
+- Als Physiotherapeutin
+
+Stella ist Jeffs Krankenschwester.
+
+Der Fotograf Jeff (James Stewart) muss mit einem gebrochenen Bein in seiner Wohnung bleiben. Stella versorgt ihn und kommentiert seine Beobachtungen der Nachbarn zunächst kritisch. Als der Mordverdacht konkreter wird, beteiligt sie sich selbst an der Suche und unterstützt Lisa (Grace Kelly) bei den Nachforschungen.
+
+Merksatz: Stella kommt zur Pflege und wird zur Verbündeten.
+
+Quellen: [1](https://catalog.afi.com/Film/51318-REAR-WINDOW).
+
+### L2 · leicht
+
+Für wen arbeitet Thelma Ritters Birdie Coonan in „Alles über Eva“?
+
+- **Richtig: Für Margo Channing**
+
+- Für Karen Richards
+
+- Für Eve Harrington
+
+- Für Addison DeWitt
+
+Birdie arbeitet für den Theaterstar Margo Channing.
+
+Birdie (Thelma Ritter), selbst eine frühere Varietékünstlerin, kennt Margo (Bette Davis) gut. Auf die scheinbar bescheidene Eve (Anne Baxter) reagiert sie früh misstrauisch. Während andere von Eves Bewunderung geschmeichelt sind, erkennt Birdie, wie zielstrebig die junge Frau sich im Alltag des Stars unentbehrlich macht.
+
+Merksatz: Birdie gehört zu Margos vertrautem Umfeld.
+
+Quellen: [1](https://catalog.afi.com/Catalog/MovieDetails/26204).
+
+### M1 · mittel
+
+Warum verweigert Thelma Ritters Moe dem Spion Joey in „Pickup on South Street“ Auskunft über Skip?
+
+- **Richtig: Sie will nicht mit kommunistischen Spionen zusammenarbeiten.**
+
+- Sie hat Skip versprochen, ihm bei jedem Polizeiverhör zu helfen.
+
+- Sie glaubt, Skip habe den gesuchten Mikrofilm bereits vernichtet.
+
+- Sie hält Joey für einen verdeckten Polizeibeamten.
+
+Moe zieht eine Grenze bei der Zusammenarbeit mit kommunistischen Spionen.
+
+Moe verdient an Informationen aus der Unterwelt und hatte der Polizei Skips Aufenthaltsort bereits verraten. Als Joey (Richard Kiley) dasselbe Wissen für seinen Spionagering verlangt, lehnt sie ab. Auch seine Drohungen ändern ihre Entscheidung nicht; er erschießt sie.
+
+Merksatz: Moe verkauft Informationen, aber nicht an Joeys Spionagering.
+
+Quellen: [1](https://catalog.afi.com/Film/50975-PICKUP-ON-SOUTH-STREET).
+
+### M2 · mittel
+
+Für wen hält die frisch verheiratete Maggie Thelma Ritters Ellen bei deren Ankunft in „The Mating Season“?
+
+- Für die Mutter ihres Mannes
+
+- **Richtig: Für die bestellte Köchin**
+
+- Für eine frühere Arbeitgeberin
+
+- Für die neue Vermieterin
+
+Maggie hält ihre Schwiegermutter Ellen für die erwartete Köchin.
+
+Ellen möchte eigentlich die Frau ihres Sohnes Val (John Lund) kennenlernen. Maggie (Gene Tierney) braucht dringend Hilfe für ein Essen und deutet den Besuch falsch. Ellen lässt die Verwechslung bestehen, um den jungen Haushalt nicht als Schwiegermutter zu belasten; daraus entstehen zunehmend neue Missverständnisse.
+
+Merksatz: Die Schwiegermutter wird als Köchin in den Haushalt aufgenommen.
+
+Quellen: [1](https://catalog.afi.com/Catalog/moviedetails/50204).
+
+### S1 · schwer
+
+Wofür spart Thelma Ritters Moe in „Pickup on South Street“ ihr mühsam verdientes Geld?
+
+- Für die Überfahrt zu Verwandten
+
+- Für die Ausbildung eines Enkelkindes
+
+- **Richtig: Für ein würdiges Begräbnis und einen Friedhofsplatz**
+
+- Für eine eigene kleine Pension
+
+Sie spart für ein ordentliches Begräbnis.
+
+Moe fürchtet, namenlos in einem Armengrab zu enden. Nach ihrem Tod holt Skip (Richard Widmark) ihren Sarg von der städtischen Transportbarke und sorgt für die gewünschte Bestattung. Seine Fürsorge erfüllt den Wunsch der Frau, die ihn zuvor vor den Spionen gewarnt hatte.
+
+Merksatz: Moes bescheidener Lebenstraum ist ein würdiges Grab.
+
+Quellen: [1](https://www.criterion.com/current/posts/6001-least-wanted-film-noir-s-character-actors-thelma-ritter).
+
+### S2 · schwer
+
+Bei wem erreicht Thelma Ritters Elizabeth Stroud in „Der Gefangene von Alcatraz“ entscheidende Hilfe gegen die Hinrichtung ihres Sohnes?
+
+- Beim Gouverneur von Alaska
+
+- Beim Vorsitzenden des Obersten Gerichtshofs
+
+- Beim Direktor des Gefängnisses Alcatraz
+
+- **Richtig: Bei der Ehefrau von Präsident Woodrow Wilson**
+
+Sie wendet sich an Präsidentengattin Edith Wilson.
+
+Nach dem Mord an einem Gefängniswärter soll Robert Stroud (Burt Lancaster) hingerichtet werden. Seine Mutter erreicht Mrs. Wilson (Adrienne Marden), die sich beim Präsidenten für ihn einsetzt. Die Todesstrafe wird im Film in lebenslange Haft umgewandelt; der weitere Weg des Gefangenen bleibt dennoch von Isolation geprägt.
+
+Merksatz: Elizabeths Einsatz führt über die First Lady zur Begnadigung.
+
+Quellen: [1](https://catalog.afi.com/Film/22974-BIRDMAN-OF-ALCATRAZ?cxt=filmography).
+
+### E1 · experte
+
+Mit welcher Kollegin teilte Thelma Ritter 1958 den Tony als beste Musicaldarstellerin für „New Girl in Town“?
+
+- Janis Paige
+
+- Judy Holliday
+
+- Julie Andrews
+
+- **Richtig: Gwen Verdon**
+
+Thelma Ritter und Gwen Verdon erhielten beide den Preis.
+
+Die offizielle Tony-Chronik führt die beiden Darstellerinnen derselben Produktion als gemeinsamen Gewinnerfall. Die Auszeichnung betrifft ihre Bühnenarbeit; Ritters sechs Oscar-Nominierungen als Filmnebendarstellerin führten dagegen zu keinem Sieg.
+
+Merksatz: Ritter und Verdon gewannen gemeinsam für dasselbe Musical.
+
+Quellen: [1](https://www.tonyawards.com/history/facts-and-trivia/), [2](https://www.criterion.com/current/posts/6001-least-wanted-film-noir-s-character-actors-thelma-ritter).
+
+### E2 · experte
+
+Mit welchem Film gab Thelma Ritter ihr Kinodebüt?
+
+- „Alles über Eva“
+
+- „Ein Brief an drei Frauen“
+
+- **Richtig: „Das Wunder von Manhattan“**
+
+- „The Mating Season“
+
+Ihr Kinodebüt hatte sie in „Das Wunder von Manhattan“ von 1947.
+
+Ritter war bereits in ihren Vierzigern, als sie als gestresste Kundin erstmals im Kino erschien. Zuvor hatte sie auf der Bühne, im Varieté und im Radio gearbeitet. Der späte Wechsel zum Film erklärt, warum sie schon zu Beginn ihrer Kinokarriere als erfahrene Charakterdarstellerin auftrat.
+
+Merksatz: Ritters Kinoarbeit begann mit einer Kundin im Weihnachtsgeschäft.
+
+Quellen: [1](https://www.criterion.com/current/posts/6001-least-wanted-film-noir-s-character-actors-thelma-ritter), [2](https://catalog.afi.com/Film/25270-MIRACLE-ON-34TH-STREET).

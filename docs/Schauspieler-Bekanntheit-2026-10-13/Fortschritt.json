@@ -160,7 +160,31 @@
     "ACTOR-BG-20261013-149",
     "ACTOR-BG-20261013-150",
     "ACTOR-BG-20261013-151",
-    "ACTOR-BG-20261013-152"
+    "ACTOR-BG-20261013-152",
+    "ACTOR-BG-20261013-153",
+    "ACTOR-BG-20261013-154",
+    "ACTOR-BG-20261013-155",
+    "ACTOR-BG-20261013-156",
+    "ACTOR-BG-20261013-157",
+    "ACTOR-BG-20261013-158",
+    "ACTOR-BG-20261013-159",
+    "ACTOR-BG-20261013-160",
+    "ACTOR-BG-20261013-161",
+    "ACTOR-BG-20261013-162",
+    "ACTOR-BG-20261013-163",
+    "ACTOR-BG-20261013-164",
+    "ACTOR-BG-20261013-165",
+    "ACTOR-BG-20261013-166",
+    "ACTOR-BG-20261013-167",
+    "ACTOR-BG-20261013-168",
+    "ACTOR-BG-20261013-169",
+    "ACTOR-BG-20261013-170",
+    "ACTOR-BG-20261013-171",
+    "ACTOR-BG-20261013-172",
+    "ACTOR-BG-20261013-173",
+    "ACTOR-BG-20261013-174",
+    "ACTOR-BG-20261013-175",
+    "ACTOR-BG-20261013-176"
   ],
   "blocks": [
     {
@@ -1154,7 +1178,7 @@
     },
     {
       "block": 8,
-      "status": "Recherche und Redaktion",
+      "status": "Redaktion und App-Parser-Prüfung abgeschlossen; nicht installiert",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -1301,7 +1325,11 @@
           "name": "Thelma Ritter",
           "level": 4
         }
-      ]
+      ],
+      "questions": 192,
+      "existingVariants": 2,
+      "newGoals": 190,
+      "portraits": 24
     },
     {
       "block": 9,
@@ -1456,7 +1484,7 @@
     },
     {
       "block": 10,
-      "status": "Geplant",
+      "status": "Recherche und Redaktion",
       "plannedQuestions": 64,
       "persons": [
         {
@@ -1510,15 +1538,15 @@
       ]
     }
   ],
-  "remainingPersons": 56,
+  "remainingPersons": 32,
   "remainingByGroup": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 56
+    "4": 32
   },
   "appIntegration": "ausstehend",
   "publication": "nicht beauftragt",
   "continuousCommission": "Bis vollständigem Ausgleich weiterarbeiten; abgeschlossene Blöcke lokal committen",
-  "validatedThroughEntry": 152
+  "validatedThroughEntry": 176
 }
