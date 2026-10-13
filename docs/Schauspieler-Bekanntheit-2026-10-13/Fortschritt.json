@@ -1,0 +1,91 @@
+{
+  "startedOn": "2026-10-13",
+  "targetNewPersons": 208,
+  "baseline": {
+    "1": 83,
+    "2": 107,
+    "3": 25,
+    "4": 5
+  },
+  "targetPersonsPerGroup": 107,
+  "completedPersons": [
+    "ACTOR-BG-20261013-001",
+    "ACTOR-BG-20261013-002",
+    "ACTOR-BG-20261013-003",
+    "ACTOR-BG-20261013-004",
+    "ACTOR-BG-20261013-005",
+    "ACTOR-BG-20261013-006",
+    "ACTOR-BG-20261013-007",
+    "ACTOR-BG-20261013-008"
+  ],
+  "blocks": [
+    {
+      "block": 1,
+      "status": "Redaktion und App-Parser-Prüfung abgeschlossen; nicht installiert",
+      "plannedQuestions": 64,
+      "persons": [
+        {
+          "entry": 1,
+          "personId": "ACTOR-BG-20261013-001",
+          "name": "Peter Lorre",
+          "level": 3
+        },
+        {
+          "entry": 2,
+          "personId": "ACTOR-BG-20261013-002",
+          "name": "Charles Laughton",
+          "level": 3
+        },
+        {
+          "entry": 3,
+          "personId": "ACTOR-BG-20261013-003",
+          "name": "Gena Rowlands",
+          "level": 3
+        },
+        {
+          "entry": 4,
+          "personId": "ACTOR-BG-20261013-004",
+          "name": "Deborah Kerr",
+          "level": 3
+        },
+        {
+          "entry": 5,
+          "personId": "ACTOR-BG-20261013-005",
+          "name": "Setsuko Hara",
+          "level": 4
+        },
+        {
+          "entry": 6,
+          "personId": "ACTOR-BG-20261013-006",
+          "name": "Kinuyo Tanaka",
+          "level": 4
+        },
+        {
+          "entry": 7,
+          "personId": "ACTOR-BG-20261013-007",
+          "name": "Chishū Ryū",
+          "level": 4
+        },
+        {
+          "entry": 8,
+          "personId": "ACTOR-BG-20261013-008",
+          "name": "Jean-Pierre Léaud",
+          "level": 4
+        }
+      ],
+      "questions": 64,
+      "newGoals": 59,
+      "existingVariants": 5,
+      "portraits": 8
+    }
+  ],
+  "remainingPersons": 200,
+  "remainingByGroup": {
+    "1": 24,
+    "2": 0,
+    "3": 78,
+    "4": 98
+  },
+  "appIntegration": "ausstehend",
+  "publication": "nicht beauftragt"
+}

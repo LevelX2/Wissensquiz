@@ -1,5 +1,7 @@
 # Schauspielerporträts nach der Antwort
 
+**13.10.2026 – Historische Bilder für den neuen Ausbau vorbereitet:** Acht neue Personen erhalten Aufnahmen aus ihrer prägenden Arbeitszeit, mit dokumentierter Datierungsgenauigkeit und Nutzungsbasis der jeweiligen Commons-Quelle. Alle Originaldateien visuell geprüft; bestehende Zuschnitte und Retuschen nur unverändert übernommen. Noch nicht in der App installiert. [Bilder und Herkunft](Schauspieler-Bekanntheit-2026-10-13/Portraets.json), [Fragen und Übergabe](Schauspieler-Bekanntheit-2026-10-13/Plan.md).
+
 ## TMDB-Porträts für alle Personen – 13.10.2026
 
 Lokal umgesetzt, noch nicht veröffentlicht, als Ergänzung des [Nutzerauftrags zu TMDB-Personenlinks](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerauftrag%20TMDB-Personenlinks.txt): Normale Schauspielerfragen zeigen zur Auflösung das TMDB-Porträt der zugehörigen Person. Bild und „Porträt · TMDB ↗“ führen direkt zur Personenseite und öffnen einen neuen Tab. Der Personenname darüber bleibt auf weiteren Nutzerhinweis Klartext; kein doppelter Personenlink am Namen. Alle **220 aktuellen Personen** sind erfasst; die Beschränkung auf 25 Fotos bei normalen Personenfragen entfällt. Personenname und Porträt erscheinen auch im unmittelbaren Rundenrückblick und in Duellauflösungen. Bei gesammelten Lösungen wird das Foto erst im Rückblick geladen.

@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**13.10.2026 – Erster Schauspielerausbau redaktionell fertig:** Acht neue Personen für Bekanntheitsgruppen 3/4, 64 Fragen mit historischen Porträts; 59 neue Ziele und fünf Bestandsvarianten. Echter App-Parser ohne Fehler, acht Bilder visuell geprüft, 44 neue Filmreferenzen. Noch nicht installiert oder veröffentlicht; vollständiger Ausgleich weiterhin offen (200 weitere Personen). [Fragen und Fortsetzung](../docs/Schauspieler-Bekanntheit-2026-10-13/Plan.md).
+
 **13.10.2026 – Redaktion vorbereitet, App noch nicht umgestellt:** Vier Bekanntheitsgruppen auch für Schauspieler und Preisträger. 220 Personen mit Verteilung 83/107/25/5; alle 280 Preisfragen nach vorhandener Filmgruppe (77/113/61/29). Unterbesetzte Personengruppen gezielt ausbauen; vollständiger Ausgleich auf je 107 würde 208 neue Personen benötigen. [Zuordnung und offener Umsetzungsumfang](../docs/Bekanntheitsgruppen/Plan.md).
 
 **13.10.2026 – Lokal, noch nicht veröffentlicht:** TMDB-Porträts für alle 220 Personen bei normalen Schauspielerfragen, mit anklickbarem Bild und Personenlink. Der Name bleibt Klartext, ohne doppelten Link. Bilderkennungsfragen behalten ihr Foto; TMDB-Link erst zur Lösung, auch im Rückblick und in Duellen. Je Person eine kleine Zuordnungsdatei, Bilder ausschließlich online. [Darstellung und Vorbereitung](../docs/Schauspielerportraets.md#tmdb-porträts-für-alle-personen--13102026).

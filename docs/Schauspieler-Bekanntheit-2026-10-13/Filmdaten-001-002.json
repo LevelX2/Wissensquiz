@@ -1,0 +1,134 @@
+{
+  "as_of": "2026-10-13",
+  "films": [
+    {
+      "film_id": "The Man Who Knew Too Much|1934",
+      "title": "Der Mann, der zuviel wusste",
+      "original_title": "The Man Who Knew Too Much",
+      "first_release_year": 1934,
+      "directors": ["Alfred Hitchcock"],
+      "production_countries": ["Vereinigtes Königreich"],
+      "release_note": "Britische Originalfassung von 1934; nicht Hitchcocks Neufassung von 1956.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "source_urls": [
+        "https://www.criterion.com/films/27999-the-man-who-knew-too-much"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Der Verlorene|1951",
+      "title": "Der Verlorene",
+      "original_title": "Der Verlorene",
+      "first_release_year": 1951,
+      "directors": ["Peter Lorre"],
+      "production_countries": ["BR Deutschland"],
+      "release_note": "Produktion 1950/1951; Uraufführung am 7. September 1951 in Köln laut Filmportal.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "source_urls": [
+        "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/2322/releases/MOMA_1958_0005_5.pdf",
+        "https://www.filmportal.de/film/der-verlorene_68c17635f2364a9396d6cc446e916d93",
+        "https://www.filmportal.de/node/25773/material/731101"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Think Fast, Mr. Moto|1937",
+      "title": "Think Fast, Mr. Moto",
+      "original_title": "Think Fast, Mr. Moto",
+      "first_release_year": 1937,
+      "directors": ["Norman Foster"],
+      "production_countries": ["USA"],
+      "release_note": "US-Veröffentlichung am 27. August 1937 laut AFI.",
+      "director_note": "",
+      "country_note": "",
+      "series": {
+        "name": "Mr. Moto",
+        "position": 1,
+        "note": "Erster Film der achtteiligen Reihe mit Peter Lorre."
+      },
+      "source_urls": ["https://catalog.afi.com/Catalog/moviedetails/1188"],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "The Hunchback of Notre Dame|1939",
+      "title": "Der Glöckner von Notre Dame",
+      "original_title": "The Hunchback of Notre Dame",
+      "first_release_year": 1939,
+      "directors": ["William Dieterle"],
+      "production_countries": ["USA"],
+      "release_note": "US-Veröffentlichung am 29. Dezember 1939 laut AFI; Realfilm mit Charles Laughton.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "source_urls": [
+        "https://catalog.afi.com/Film/5097-THE-HUNCHBACK-OF-NOTRE-DAME"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Mutiny on the Bounty|1935",
+      "title": "Meuterei auf der Bounty",
+      "original_title": "Mutiny on the Bounty",
+      "first_release_year": 1935,
+      "directors": ["Frank Lloyd"],
+      "production_countries": ["USA"],
+      "release_note": "US-Veröffentlichung am 8. November 1935 laut AFI; Fassung mit Charles Laughton und Clark Gable.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "source_urls": ["https://catalog.afi.com/Film/7072-MUTINY-ON-THE-BOUNTY"],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Spartacus|1960",
+      "title": "Spartacus",
+      "original_title": "Spartacus",
+      "first_release_year": 1960,
+      "directors": ["Stanley Kubrick"],
+      "production_countries": ["USA"],
+      "release_note": "Erstveröffentlichung 1960; spätere Restaurierungen sind keine neue Filmfassung für diese Referenz.",
+      "director_note": "Regiecredit des veröffentlichten Films: Stanley Kubrick.",
+      "country_note": "",
+      "series": null,
+      "source_urls": [
+        "https://www.criterion.com/films/449-spartacus",
+        "https://catalog.afi.com/Film/53291-SPARTACUS"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Island of Lost Souls|1932",
+      "title": "Island of Lost Souls",
+      "original_title": "Island of Lost Souls",
+      "first_release_year": 1932,
+      "directors": ["Erle C. Kenton"],
+      "production_countries": ["USA"],
+      "release_note": "Die frühe H.-G.-Wells-Verfilmung von 1932 mit Charles Laughton.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "source_urls": [
+        "https://www.criterion.com/films/27861-island-of-lost-souls"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "The Big Clock|1948",
+      "title": "The Big Clock",
+      "original_title": "The Big Clock",
+      "first_release_year": 1948,
+      "directors": ["John Farrow"],
+      "production_countries": ["USA"],
+      "release_note": "US-Veröffentlichung am 9. April 1948 laut AFI; die Hauptdreharbeiten fanden 1947 statt.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "source_urls": ["https://catalog.afi.com/Film/25465-THE-BIG-CLOCK"],
+      "verification_status": "redaktionell_quellengeprueft"
+    }
+  ]
+}

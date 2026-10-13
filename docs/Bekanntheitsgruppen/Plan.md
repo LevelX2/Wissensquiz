@@ -1,6 +1,6 @@
 # Vier Bekanntheitsgruppen in allen Fragenbereichen
 
-Stand: 13.10.2026. Auf [Nutzerauftrag](../../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerauftrag%20Bekanntheitsgruppen.txt) redaktionell vorbereitet. Die Einordnung ist lokal gespeichert; Auswahl, Oberfläche und serverseitige Freischaltungen der App sind noch nicht umgestellt. Neue Personen und Fragen wurden in diesem Schritt nicht ergänzt.
+Stand: 13.10.2026. Auf [Nutzerauftrag](../../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerauftrag%20Bekanntheitsgruppen.txt) redaktionell vorbereitet. Die Einordnung des bisherigen Bestands ist lokal gespeichert; Auswahl, Oberfläche und serverseitige Freischaltungen der App sind noch nicht umgestellt. Anschließend begann der beauftragte Ausbau: [acht zusätzliche Personen, 64 geprüfte Fragen und historische Porträts](../Schauspieler-Bekanntheit-2026-10-13/Plan.md) redaktionell fertig, noch nicht installiert. Die Bestandszahlen dieser Seite beziehen sich weiterhin auf die bisherigen 220 Personen.
 
 ## Gemeinsamer Maßstab
 
@@ -52,6 +52,8 @@ Das ist eine Umfangsberechnung, keine bereits erstellte Personenliste oder ferti
 Der Ausbau sollte in überschaubaren redaktionellen Paketen beginnen, vorrangig in Gruppen 3 und 4. Der bestehende Bestand enthält 25 Personen mit ausschließlich einer Bilderkennungsfrage. Dieser ausdrücklich beauftragte frühere Erkennungsumfang erzeugt keine nachträgliche automatische Acht-Fragen-Pflicht. Deshalb bedeuten gleich große Personengruppen nur annähernd gleich große Fragenpools; Fragen- und Zielzahlen bleiben zusätzlich sichtbar. Neue vollständige Personenpakete folgen dem aktuellen [Redaktionsvertrag](../Fragenredaktion.md#schauspielerfragen).
 
 ## App-Integration als nächster eigener Schritt
+
+Erster Redaktionsblock abgeschlossen: je vier weitere Personen für Gruppen 3 und 4. Nach dessen Einbau wäre die Personenverteilung 83/107/29/9; bis zum vollständigen redaktionellen Ausgleich fehlen noch 24/0/78/98, insgesamt 200 Personen. [Fragen und laufender Ausbau](../Schauspieler-Bekanntheit-2026-10-13/Plan.md).
 
 Aktuell begrenzen Filmgruppen ausschließlich Filmfragen; Schauspieler und Preisträger umgehen diesen Filter und haben keine entsprechenden Gruppenfreischaltungen. Für die gewünschte Einheitlichkeit sind Gruppenfilter, serverseitige Auswahl, Freischaltung und sichtbare Fortschritte gemeinsam anzupassen. Allein das Speichern dieser Zuordnungen ändert die Fragenauswahl noch nicht. Das analoge 50-Prozent-Prinzip ist ein naheliegender Vorschlag; die konkrete Regel ist noch nicht implementiert.
 

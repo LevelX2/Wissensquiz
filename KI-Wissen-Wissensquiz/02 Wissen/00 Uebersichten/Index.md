@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Schauspielergruppen: erster Ausbau mit acht Personen, 64 geprüften Fragen und historischen Porträts; 200 Personen offen – 13.10.2026, Redaktion](../../../docs/Schauspieler-Bekanntheit-2026-10-13/Plan.md)
+
 - [Kompakte Rekord-Vergleichsauswahl: „Universal“ oder Genre – 13.10.2026, lokal](../../../docs/Rekordmodi-und-Zeitranglisten.md#kurze-vergleichsauswahl--13102026)
 
 - [Zehnerrunde: benötigte Antwortzeit und Restzeit in der Antwortansicht – 13.10.2026, lokal](../../../docs/Rekordmodi-und-Zeitranglisten.md#antwortzeit-in-der-zehnerrunde--13102026)

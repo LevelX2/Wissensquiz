@@ -20,6 +20,8 @@ Genres unter 100 Filmen schrittweise auffüllen, beginnend mit Abenteuer. Je Gen
 
 ## Schwierigkeiten und Bekanntheit
 
+**13.10.2026 – Ausbau begonnen:** Erster Personenblock mit acht neuen Personen, 64 Fragen und historischen Porträts redaktionell abgeschlossen und mit dem App-Parser geprüft. 59 neue Ziele, fünf Bestandsvarianten; noch nicht installiert. Vollständiger Ausgleich weiterhin in Arbeit, 200 Personen offen. [Fragen, Bildquellen und Fortsetzungsstand](Schauspieler-Bekanntheit-2026-10-13/Plan.md).
+
 **Neuer Nutzerauftrag vom 13.10.2026:** Vier Bekanntheitsgruppen künftig auch für Schauspieler und Preisträger; Personen redaktionell einteilen, Preisfragen nach ihrer Filmfassung. Unterbesetzte Personengruppen später durch gezielte Ergänzungen ausgleichen, ohne erzwungene Umgruppierung. [Vollständige Einordnung, Bestandsmengen und Ausbauumfang](Bekanntheitsgruppen/Plan.md). Die Zuordnung ist vorbereitet; App-Filter und Freischaltungen entsprechen weiterhin dem bisherigen Stand der folgenden Tabelle. Die vier Schwierigkeiten bleiben unabhängig von den vier Bekanntheitsgruppen.
 
 | Fragenbereich | Schwierigkeiten | Bekanntheitsgruppen |
