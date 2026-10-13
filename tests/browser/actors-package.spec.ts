@@ -14,12 +14,35 @@ import { emptyState, type State } from "../../src/model";
 import { startRound } from "../../src/engine";
 import { actorPresentation } from "../../src/actorEditorial";
 import portraits from "../../src/actorPortraits.json" with { type: "json" };
-const portraitEvidence = JSON.parse(
-  readFileSync(
-    "KI-Wissen-Wissensquiz/01 Rohquellen/Schauspielerportraets-2026-10-04/Nachweis.json",
-    "utf8",
-  ),
-) as { images: { src: string; bytes: number; sha256: string }[] };
+import tmdbLinks from "../../src/actorTmdbLinks.json" with { type: "json" };
+import { actorTmdbUrl } from "../../src/actorTmdb";
+
+test.beforeEach(async ({ page }) => {
+  await page.route("**/actor-tmdb-portraits/*.json", (route) => {
+    const id = Number(
+      new URL(route.request().url()).pathname
+        .split("/")
+        .at(-1)!
+        .replace(".json", ""),
+    );
+    const person = Object.values(tmdbLinks).find((p) => p.tmdbId === id)!;
+    return route.fulfill({
+      json: {
+        tmdbId: id,
+        name: person.name,
+        profilePath: `/Portrait${id}.jpg`,
+        checkedAt: "2026-10-01T00:00:00Z",
+        expiresAt: "2027-03-01T00:00:00Z",
+      },
+    });
+  });
+  await page.route("https://image.tmdb.org/**", (route) =>
+    route.fulfill({
+      contentType: "image/jpeg",
+      body: readFileSync(`public${portraits["ACTOR-001"].src}`),
+    }),
+  );
+});
 
 const now = new Date("2026-10-03T12:00:00+02:00");
 async function writeState(page: Page, value: State) {
@@ -166,13 +189,13 @@ for (const [questionId, person, film] of [
     await page.locator(".answer").filter({ hasText: person }).click();
     await expect(page.locator(".actor-name > span")).toHaveText("Schauspiel");
     await expect(page.locator(".actor-name > strong")).toHaveText(person);
-    if (person === "Tom Hanks") {
-      await expect(
-        page.getByRole("img", { name: `Porträt von ${person}` }),
-      ).toBeVisible();
-    } else {
-      await expect(page.locator(".actor-portrait")).toHaveCount(0);
-    }
+    await expect(
+      page.getByRole("img", { name: `Porträt von ${person}` }),
+    ).toBeVisible();
+    await expect(page.locator(".tmdb-portrait > a")).toHaveAttribute(
+      "href",
+      actorTmdbUrl(q)!,
+    );
     await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
     await expect(page.locator(".explanation")).toContainText(q.context);
     await expect(page.locator(".film-data")).toHaveCount(1);
@@ -180,121 +203,121 @@ for (const [questionId, person, film] of [
     await expect(page.locator(".film-data")).toContainText(film);
   });
 
-for (const [personId, person, response] of [
-  ["ACTOR-051", "Meryl Streep", "unknown"],
-  ["ACTOR-013", "Keanu Reeves", "wrong"],
-] as const)
-  test(`Porträt von ${person} erscheint nach ${response} und bleibt mit Bildnachweis nach Neuladen verfügbar`, async ({
-    page,
-    context,
-    browserName,
-  }) => {
-    await page.clock.install({ time: now });
-    await page.setViewportSize({ width: 320, height: 740 });
-    await page.goto("/");
-    await expect(
-      page.getByRole("button", { name: "Losspielen" }),
-    ).toBeEnabled();
-    const state = emptyState();
-    addPackages(
-      state,
-      packages.map((p) => ({
-        filename: p.filename,
-        text: readFileSync(`public${p.path}`, "utf8"),
-      })),
-    );
-    const q = state.questions.find(
-      (q) => q.metadata.person_id === personId && q.id.endsWith("L-1"),
-    )!;
-    const catalog = state.questions;
-    state.questions = [q];
-    startRound(
-      state,
-      { mode: "ueben", topic: "Schauspieler", difficulty: "leicht" },
-      now.getTime(),
-    );
-    state.questions = catalog;
-    await writeState(page, state);
-    await page.reload();
-    await page.getByRole("button", { name: "Fortsetzen" }).click();
-    await expect(page.locator(".actor-portrait")).toHaveCount(0);
-    if (response === "unknown") {
-      await page
-        .getByRole("button", { name: "Keine Ahnung", exact: true })
-        .click();
-    } else {
-      const wrong = q.answers.find((answer) => answer.id !== q.correctId)!;
-      await page.locator(".answer").filter({ hasText: wrong.text }).click();
-    }
-    const image = page.getByRole("img", { name: `Porträt von ${person}` });
-    await expect(image).toBeVisible();
-    await expect
-      .poll(() =>
-        image.evaluate((img) => (img as HTMLImageElement).naturalWidth),
-      )
-      .toBeGreaterThan(0);
-    await page.screenshot({
-      path: `test-results/portrait-${personId}-${browserName}-closed.png`,
-      fullPage: true,
-    });
-    await page.getByText("Bildnachweis", { exact: true }).click();
-    const credit = page.locator(".actor-portrait figcaption");
-    const portrait = portraits[personId];
-    await expect(credit).toContainText(portrait.photographer);
-    await expect(
-      credit.getByRole("link", { name: portrait.license, exact: true }),
-    ).toHaveAttribute("href", portrait.licenseUrl);
-    await expect(
-      credit.getByRole("link", { name: "Wikimedia Commons", exact: true }),
-    ).toHaveAttribute("href", portrait.sourceUrl);
-    expect(
-      await page.evaluate(
-        () => document.documentElement.scrollWidth <= innerWidth,
-      ),
-    ).toBe(true);
-    expect(
-      (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
-        .violations,
-    ).toEqual([]);
-    await page.screenshot({
-      path: `test-results/portrait-${personId}-${browserName}.png`,
-      fullPage: true,
-    });
-    await page.getByRole("button", { name: "Pause & Startseite" }).click();
-    await page.getByRole("button", { name: "Profil", exact: true }).click();
-    await page.getByRole("button", { name: "Optionen" }).click();
-    if (browserName === "chromium") {
+test.describe("TMDB-Porträts in Auflösung und Rückblick", () => {
+  test.use({ acknowledgeIncidentalSuccess: true });
+  for (const [personId, person, response] of [
+    ["ACTOR-051", "Meryl Streep", "unknown"],
+    ["ACTOR-013", "Keanu Reeves", "wrong"],
+  ] as const)
+    test(`Porträt von ${person} erscheint nach ${response} und bleibt mit TMDB-Nachweis nach Neuladen verfügbar`, async ({
+      page,
+      context,
+      browserName,
+    }) => {
+      await page.clock.install({ time: now });
+      const portraitRequests: string[] = [];
+      page.on("request", (r) => {
+        if (r.url().includes("/actor-tmdb-portraits/"))
+          portraitRequests.push(r.url());
+      });
+      await page.setViewportSize({ width: 320, height: 740 });
+      await page.goto("/");
+      await expect(
+        page.getByRole("button", { name: "Losspielen" }),
+      ).toBeEnabled();
+      const state = emptyState();
+      addPackages(
+        state,
+        packages.map((p) => ({
+          filename: p.filename,
+          text: readFileSync(`public${p.path}`, "utf8"),
+        })),
+      );
+      const q = state.questions.find(
+        (q) => q.metadata.person_id === personId && q.id.endsWith("L-1"),
+      )!;
+      const catalog = state.questions;
+      state.questions = [q];
+      startRound(
+        state,
+        { mode: "ueben", topic: "Schauspieler", difficulty: "leicht" },
+        now.getTime(),
+      );
+      state.questions = catalog;
+      await writeState(page, state);
       await page.reload();
-    } else {
-      await page.reload();
-    }
-    await page.getByRole("button", { name: "Fortsetzen" }).click();
-    await expect(image).toBeVisible();
-    await expect
-      .poll(() =>
-        image.evaluate((img) => (img as HTMLImageElement).naturalWidth),
-      )
-      .toBeGreaterThan(0);
-    const loaded = await page.evaluate(
-      async (images) =>
-        Promise.all(
-          images.map(async (image) => {
-            const response = await fetch(image.src);
-            if (!response.ok) return false;
-            const bytes = await response.arrayBuffer();
-            const hash = Array.from(
-              new Uint8Array(await crypto.subtle.digest("SHA-256", bytes)),
-              (byte) => byte.toString(16).padStart(2, "0"),
-            ).join("");
-            return bytes.byteLength === image.bytes && hash === image.sha256;
-          }),
+      await page.getByRole("button", { name: "Fortsetzen" }).click();
+      await expect(page.locator(".actor-portrait")).toHaveCount(0);
+      expect(portraitRequests).toHaveLength(0);
+      if (response === "unknown") {
+        await page
+          .getByRole("button", { name: "Keine Ahnung", exact: true })
+          .click();
+      } else {
+        const wrong = q.answers.find((answer) => answer.id !== q.correctId)!;
+        await page.locator(".answer").filter({ hasText: wrong.text }).click();
+      }
+      const image = page.getByRole("img", { name: `Porträt von ${person}` });
+      await expect(image).toBeVisible();
+      expect(portraitRequests).toHaveLength(1);
+      await expect
+        .poll(() =>
+          image.evaluate((img) => (img as HTMLImageElement).naturalWidth),
+        )
+        .toBeGreaterThan(0);
+      await page.screenshot({
+        path: test.info().outputPath("portrait-closed.png"),
+        fullPage: true,
+      });
+      const credit = page.locator(".actor-portrait figcaption");
+      await expect(
+        credit.getByRole("link", { name: "Porträt · TMDB ↗" }),
+      ).toHaveAttribute("href", actorTmdbUrl(q)!);
+      await expect(page.locator(".tmdb-portrait > a")).toHaveAttribute(
+        "href",
+        actorTmdbUrl(q)!,
+      );
+      await expect(page.locator(".tmdb-portrait > a")).toHaveAttribute(
+        "target",
+        "_blank",
+      );
+      expect(
+        await page.evaluate(
+          () => document.documentElement.scrollWidth <= innerWidth,
         ),
-      portraitEvidence.images,
-    );
-    expect(loaded).toEqual(Array(25).fill(true));
-    await page.getByText("Bildnachweis", { exact: true }).click();
-    await expect(credit).toContainText(portrait.photographer);
-  });
+      ).toBe(true);
+      expect(
+        (
+          await new AxeBuilder({ page })
+            .withTags(["wcag2a", "wcag2aa"])
+            .analyze()
+        ).violations,
+      ).toEqual([]);
+      await page.screenshot({
+        path: test.info().outputPath("portrait.png"),
+        fullPage: true,
+      });
+      await page.getByRole("button", { name: "Pause & Startseite" }).click();
+      await page.getByRole("button", { name: "Profil", exact: true }).click();
+      await page.getByRole("button", { name: "Optionen" }).click();
+      if (browserName === "chromium") {
+        await page.reload();
+      } else {
+        await page.reload();
+      }
+      await page.getByRole("button", { name: "Fortsetzen" }).click();
+      await expect(image).toBeVisible();
+      await expect
+        .poll(() =>
+          image.evaluate((img) => (img as HTMLImageElement).naturalWidth),
+        )
+        .toBeGreaterThan(0);
+      await expect(credit).toContainText("Porträt · TMDB ↗");
+      await page.getByRole("button", { name: "Runde abschließen" }).click();
+      await page.locator(".review > details > summary").click();
+      await expect(image).toBeVisible();
+    });
+});
 
 test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und vollständig sichern", async ({
   page,

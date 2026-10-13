@@ -2,6 +2,7 @@ import type { Question } from "./model";
 import { DisclosureArtwork } from "./DisclosureArtwork";
 import type { z } from "zod";
 import type { portraitSchema } from "./questionSchema";
+import { actorTmdbUrl } from "./actorTmdb";
 type Portrait = z.infer<typeof portraitSchema>;
 export function recognitionVariants(q: Question): Portrait[] {
   return q.metadata.question_image_id ? (q.presentation?.portraits ?? []) : [];
@@ -35,6 +36,7 @@ export function ActorPortrait({
     : (recognitionPortrait(q, selectionKey) ?? q.presentation?.portraits[0]);
   if (!portrait || (!beforeAnswer && portrait.name !== q.metadata.person_name))
     return null;
+  const personUrl = !beforeAnswer ? actorTmdbUrl(q) : undefined;
   const crop = portrait.crop;
   const scale = crop
     ? Math.min(
@@ -69,25 +71,32 @@ export function ActorPortrait({
     />
   );
 
+  const framed = crop ? (
+    <div
+      style={{
+        position: "relative",
+        overflow: "hidden",
+        margin: "0 auto",
+        borderRadius: 10,
+        width: crop.width * scale,
+        height: crop.height * scale,
+      }}
+    >
+      {photo}
+    </div>
+  ) : (
+    photo
+  );
   return (
     <figure
       className={`actor-portrait${beforeAnswer ? " recognition-portrait" : ""}`}
     >
-      {crop ? (
-        <div
-          style={{
-            position: "relative",
-            overflow: "hidden",
-            margin: "0 auto",
-            borderRadius: 10,
-            width: crop.width * scale,
-            height: crop.height * scale,
-          }}
-        >
-          {photo}
-        </div>
+      {personUrl ? (
+        <a href={personUrl} target="_blank" rel="noreferrer">
+          {framed}
+        </a>
       ) : (
-        photo
+        framed
       )}
       <figcaption>
         {beforeAnswer ? (

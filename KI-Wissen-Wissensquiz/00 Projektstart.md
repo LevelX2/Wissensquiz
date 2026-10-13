@@ -1,6 +1,6 @@
 # Projektstart Wissensquiz
 
-**13.10.2026 – Lokal, noch nicht veröffentlicht:** Direkte TMDB-Personenlinks in der Schauspielerauflösung, einschließlich Bilderkennung, Rundenrückblick und Duellen. Alle 220 Personen zugeordnet; Link erst zur Lösung, neuer Tab. [Anzeige und Zuordnungsprüfung](../docs/Lernregeln.md#tmdb-personenlink-bei-schauspielerfragen--13102026).
+**13.10.2026 – Lokal, noch nicht veröffentlicht:** TMDB-Porträts für alle 220 Personen bei normalen Schauspielerfragen, mit anklickbarem Bild und Personenlink. Der Name bleibt Klartext, ohne doppelten Link. Bilderkennungsfragen behalten ihr Foto; TMDB-Link erst zur Lösung, auch im Rückblick und in Duellen. Je Person eine kleine Zuordnungsdatei, Bilder ausschließlich online. [Darstellung und Vorbereitung](../docs/Schauspielerportraets.md#tmdb-porträts-für-alle-personen--13102026).
 
 **13.10.2026 – Version 77 veröffentlicht:** Erfolgsstufen, Film-/Genre-/EXP-Meilensteine und gemeinsame Profilübersicht aktiv. Zähler und EXP aus geänderten Beiträgen, Profilabrufe bei Bedarf; doppelte Aktualisierung während laufender Anfrage verhindert. 449 Tests, Build und 356 unterschiedliche erfolgreiche Browserfälle einschließlich Nachprüfungen; ein vorgesehener Skip. Drei private Migrationen aktiviert, Nutzerdaten atomar unverändert, synthetische native Prüfung zurückgerollt. Eigene Artefakte entfernt. [Nachweis](../docs/Veroeffentlichung-2026-10-13-Version-77.json).
 

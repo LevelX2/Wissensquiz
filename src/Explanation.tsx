@@ -6,7 +6,7 @@ import { additionalAnswerFeedback, answerExplanation } from "./answerFeedback";
 import { DisclosureArtwork } from "./DisclosureArtwork";
 import type { ReactNode } from "react";
 import { questionSourceOf } from "./filters";
-import { actorTmdbUrl } from "./actorTmdb";
+import { ActorTmdbPortrait } from "./ActorTmdbPortrait";
 
 export function Explanation({
   q,
@@ -23,7 +23,6 @@ export function Explanation({
   const director = q.presentation?.director;
   const deepContext = q.presentation?.deepContext ?? q.context;
   const explanation = answerExplanation(q);
-  const personUrl = actorTmdbUrl(q);
   const subject =
     q.metadata.person_name ||
     q.metadata.film_title_de ||
@@ -47,18 +46,14 @@ export function Explanation({
           className={`explanation-subject${q.metadata.person_name ? " actor-name" : ""}`}
         >
           <span>{subjectLabel}</span>
-          <strong>
-            {personUrl ? (
-              <a href={personUrl} target="_blank" rel="noreferrer">
-                {subject} auf TMDB ↗
-              </a>
-            ) : (
-              subject
-            )}
-          </strong>
+          <strong>{subject}</strong>
         </p>
       )}
-      <ActorPortrait q={q} selectionKey={event.id} />
+      {q.metadata.question_image_id ? (
+        <ActorPortrait q={q} selectionKey={event.id} />
+      ) : (
+        <ActorTmdbPortrait q={q} />
+      )}
       {explanation && <p>{explanation}</p>}
       {!event.correct && feedback && (
         <p className="specific-feedback">{feedback}</p>

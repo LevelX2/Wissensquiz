@@ -10,6 +10,7 @@
     "test": "vitest run",
     "test:browser": "playwright test",
     "prepare:posters": "node scripts/prepare-film-posters.mjs",
+    "prepare:actor-portraits": "node scripts/prepare-actor-tmdb-portraits.mjs",
     "check:questions": "node scripts/check-question-organization.mjs",
     "prepare:server-content": "node scripts/prepare-server-content.mjs"
   },

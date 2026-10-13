@@ -9,6 +9,7 @@ import { ActorPortrait } from "../src/ActorPortrait";
 import { importCsv } from "../src/importer";
 import type { AnswerEvent } from "../src/model";
 import { packages } from "../src/packages";
+import { preparePresentation } from "../src/questionPresentation";
 
 const questions = packages.flatMap(
   (pkg) =>
@@ -44,7 +45,7 @@ it("vermeidet falsche Links bei unbekannten Personen oder abweichendem Namen und
     expect(actorTmdbUrl({ ...hanks, metadata })).toBeUndefined();
 });
 
-it("zeigt den direkten Personenlink mit neuem Tab in der gemeinsamen Auflösung", () => {
+it("verlinkt das Porträt zur Person ohne einen doppelten Link am Namen", () => {
   const event = {
     id: "tmdb-test",
     answerId: hanks.correctId,
@@ -53,14 +54,20 @@ it("zeigt den direkten Personenlink mit neuem Tab in der gemeinsamen Auflösung"
   const html = renderToStaticMarkup(
     createElement(Explanation, { q: hanks, event }),
   );
-  expect(html).toContain(
-    '<a href="https://www.themoviedb.org/person/31" target="_blank" rel="noreferrer">Tom Hanks auf TMDB ↗</a>',
-  );
-  const recognition = actors.find((q) => q.metadata.question_image_id)!;
+  expect(html).toContain("<strong>Tom Hanks</strong>");
+  expect(html).not.toContain("Tom Hanks auf TMDB");
+  const original = actors.find((q) => q.metadata.question_image_id)!;
+  const presentation = preparePresentation(original);
+  const recognition = {
+    ...original,
+    presentation,
+    image: presentation.portraits[0],
+  };
   const recognitionHtml = renderToStaticMarkup(
     createElement(Explanation, { q: recognition, event }),
   );
   expect(recognitionHtml).toContain(`href="${actorTmdbUrl(recognition)}"`);
+  expect(recognitionHtml).toContain('target="_blank" rel="noreferrer"');
   expect(
     renderToStaticMarkup(
       createElement(ActorPortrait, { q: recognition, beforeAnswer: true }),

@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [TMDB-Porträts für alle 220 Personen; Bilderkennungsfotos bleiben erhalten – lokal am 13.10.2026](../../../docs/Schauspielerportraets.md#tmdb-porträts-für-alle-personen--13102026)
+
 - [TMDB-Personenlink bei allen 220 Schauspielerinnen und Schauspielern in der Auflösung – lokal am 13.10.2026](../../../docs/Lernregeln.md#tmdb-personenlink-bei-schauspielerfragen--13102026)
 
 - [Version 77: Erfolge, inkrementelle EXP und Profilabrufe veröffentlicht – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-77.json)

@@ -9,6 +9,7 @@ import portraits from "../../src/actorRecognitionPortraits.json" with { type: "j
 import alternates from "../../src/actorRecognitionAlternatePortraits.json" with { type: "json" };
 import { recognitionPortrait } from "../../src/portraitCatalog";
 import { eventIdFor } from "../../src/recordModes";
+import { actorTmdbUrl } from "../../src/actorTmdb";
 
 test.use({ acknowledgeIncidentalSuccess: true });
 
@@ -99,7 +100,7 @@ for (const [number, choice, variant] of [
       ),
     ).toBe(true);
     await page.screenshot({
-      path: `test-results/recognition-${number}-${variant}-${info.project.name}-before.png`,
+      path: test.info().outputPath("recognition-before.png"),
       fullPage: true,
     });
     expect(
@@ -128,6 +129,9 @@ for (const [number, choice, variant] of [
     await expect(
       page.getByRole("img", { name: `Porträt von ${portrait.name}` }),
     ).toHaveAttribute("src", portrait.src);
+    await expect(
+      page.locator(".explanation .actor-portrait > a"),
+    ).toHaveAttribute("href", actorTmdbUrl(q)!);
     await page.getByText("Bildnachweis", { exact: true }).click();
     await expect(page.locator(".actor-portrait figcaption")).toContainText(
       portrait.photographer,
