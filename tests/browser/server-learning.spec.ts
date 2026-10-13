@@ -241,12 +241,12 @@ test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
   ).toHaveAttribute("max", "194");
   await expect(
     page.getByRole("progressbar", {
-      name: "Abenteuer: Fortschritt zur nächsten Filmgruppe",
+      name: "Abenteuer: Fortschritt zur nächsten Bekanntheitsgruppe",
       exact: true,
     }),
   ).toHaveAttribute("max", "8");
   await expect(page.locator(".learning-path")).toContainText(
-    "Filmgruppe 1: 0 von 15 leichten Filmfakten sicher beantwortet",
+    "Bekanntheitsgruppe 1: 0 von 15 leichten Filmfakten sicher beantwortet",
   );
   await expect(page.locator(".learning-path")).toContainText(
     "2 · Bekannt freischalten: 8 sichere Ziele nötig (50 %)",
@@ -319,7 +319,7 @@ test("zeigt den Gesamtbestand unabhängig von Genre und Bereich und zählt Varia
   await expect(overview).toContainText("50er-Medaille · noch 47 Filmfakten");
   await expect(overview).not.toContainText(/gefestigt|unentdeckt|von 12/);
   await expect(overview).not.toContainText(
-    /Filmgruppe|Martial Arts|Nächste Etappe/,
+    /Bekanntheitsgruppe|Martial Arts|Nächste Etappe/,
   );
   await expect(overview.getByRole("progressbar")).toHaveAttribute(
     "aria-valuemax",

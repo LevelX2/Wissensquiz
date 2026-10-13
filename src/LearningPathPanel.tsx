@@ -109,7 +109,7 @@ export function LearningPath({
         Filmfakt – in allen Modi. Geratene Treffer und Varianten erhöhen den
         Zähler nicht. Die Balken zeigen den Fortschritt bis zur Freischaltung.
         Für die nächste Bekanntheitsgruppe zählen aufgerundet 50 Prozent der
-        aktuellen leichten Wissensziele der vorherigen Gruppe.
+        aktuellen leichten Filmfakten der vorherigen Gruppe.
       </p>
       <div className="path-progress">
         {[
@@ -175,7 +175,7 @@ export function LearningPath({
                     <>
                       <span>
                         Bekanntheitsgruppe {current.level}: {current.answered}{" "}
-                        von {current.total} leichten Wissenszielen sicher
+                        von {current.total} leichten Filmfakten sicher
                         beantwortet
                       </span>
                       <span>

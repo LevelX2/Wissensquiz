@@ -33,6 +33,7 @@ test("Leere Online-Highscores und Rekordauswahl bleiben erreichbar; angemeldete 
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await modePreparation(page, /^10 Fragen 30 Sekunden/).click();
+  await openRoundSetup(page);
   await expect(modePreparation(page, /^10 Fragen 30 Sekunden/)).toHaveAttribute(
     "aria-pressed",
     "true",
