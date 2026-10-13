@@ -7,14 +7,14 @@ Für die externe Überarbeitung der nächsten 50 Fragen die Datei `Naechste-50-F
 - UTF-8, Trennzeichen Komma, eine Kopfzeile und ein Datensatz pro Frage.
 - Die 31 Spaltennamen und deren Reihenfolge aus der Vorlage erhalten. Keine Markdown-Codeblöcke, Kommentare, Zwischenüberschriften oder Zusatzzeilen in die CSV schreiben.
 - Alle Felder in gerade doppelte Anführungszeichen setzen. Gerade doppelte Anführungszeichen innerhalb eines Feldes verdoppeln. Echte Umlaute und ß verwenden. Zeilenumbrüche innerhalb korrekt gequoteter Textfelder sind erlaubt; CRLF-Zeilenenden sind der bestehende Paketstandard.
-- Alle 50 Fragen vollständig zurückgeben, auch unverändert beibehaltene. Für die Rückgabe zählen Datensätze, nicht physische Textzeilen.
-- `question_id`, `knowledge_id` und `variant_of` bei Überarbeitungen desselben Wissensziels exakt erhalten. Die Antwortpositionen möglichst erhalten; bei Änderungen muss `correct_answer` weiterhin zur richtigen Option passen.
+- Alle 50 Ausgangsfragen vollständig zurückgeben, auch unverändert beibehaltene. Neue Fragen dürfen als zusätzliche Datensätze in derselben CSV stehen. Für die Rückgabe zählen Datensätze, nicht physische Textzeilen.
+- `question_id`, `knowledge_id` und `variant_of` bei Überarbeitungen desselben Wissensziels exakt erhalten. Nur bei neuen Fragen darf `question_id` leer bleiben; bei einem neuen Wissensziel bleibt auch `knowledge_id` leer. Die Antwortpositionen bestehender Fragen möglichst erhalten; bei Änderungen muss `correct_answer` weiterhin zur richtigen Option passen.
 
 ## Felder
 
 | Spalten | Rückgaberegel |
 |---|---|
-| `question_id`, `knowledge_id`, `variant_of` | Stabile Identitäten und vorhandener Variantenbezug. Keine stillen Umbenennungen oder Änderung des abgefragten Sachverhalts unter einer alten Wissensziel-ID. |
+| `question_id`, `knowledge_id`, `variant_of` | Bei bestehenden Fragen stabile Identitäten und Variantenbezug erhalten. Bei einer neuen eigenständigen Frage alle drei Felder leer lassen; bei einer neuen Variante `question_id` leer lassen und die bestehende Ausgangsfrage in `variant_of` angeben. Ihre `knowledge_id` darf leer bleiben oder muss dem bestehenden Ziel entsprechen. Keine stillen Umbenennungen oder Änderung des abgefragten Sachverhalts unter einer alten Wissensziel-ID. |
 | `language`, `domain`, `subdomain` | Vorhandene Zuordnung erhalten; Sprache `de`. |
 | `film_title_de`, `film_title_original`, `film_year`, `franchise` | Filmidentität erhalten. `film_year` bezeichnet die erste Veröffentlichung einschließlich Premiere/Festival, nicht einen späteren deutschen Kinostart. |
 | `difficulty` | Redaktionell passend `leicht`, `mittel` oder `schwer`. |
@@ -38,10 +38,14 @@ Die CSV bezeichnet die Optionen über ihre Spalten A–D. Einige vorhandene Jahr
 
 ## Ersatzfragen und Ergänzungen
 
-Wenn ein Wissensziel grundsätzlich ersetzt werden soll, die alte Zeile nicht still mit einem anderen Sachverhalt überschreiben. Den Ersatz separat mit Bezug auf die ursprüngliche `question_id` liefern. Für zusätzliche Ziele ebenfalls eine getrennte Datei oder eindeutig bezeichnete Liste verwenden. Frage-, Wissensziel- und Variantenidentitäten werden vor der Übernahme ausdrücklich zugeordnet; Varianten desselben Ziels teilen ihre Lernidentität. Unveränderte Rohquellen bleiben erhalten.
+Neue Fragen dürfen in derselben CSV als zusätzliche Zeilen ohne `question_id` stehen. Für ein neues eigenständiges Wissensziel auch `knowledge_id` und `variant_of` leer lassen. Alle übrigen fachlichen Felder einschließlich vier Antworten, Lösung, Erklärungen, Schwierigkeit und Quellen vollständig ausfüllen. Keine Nummern oder Platzhalter wie `NEU-1` erfinden. Codex prüft bei der Integration die neuen Ziele gegen den Gesamtbestand und vergibt anschließend eindeutige Frage- und Wissensziel-IDs.
+
+Bei einer neuen Variante einer bestehenden Frage die vorhandene Ausgangs-ID in `variant_of` angeben. Sie erhält eine neue Frage-ID, teilt jedoch die bestehende Wissensziel-ID. Soll eine Variante auf eine ebenfalls neue, noch unnummerierte Frage verweisen, diesen Zusammenhang im Begleittext eindeutig anhand von Film und vollständigem Fragetext benennen; die endgültigen Bezüge werden bei der Integration vergeben.
+
+Wenn ein Wissensziel grundsätzlich ersetzt werden soll, die alte Zeile nicht still mit einem anderen Sachverhalt überschreiben. Die Ausgangszeile erhalten, den Ersatz als neue Zeile ohne ID ergänzen und im Begleittext die zu ersetzende `question_id` mit dem vollständigen neuen Fragetext zuordnen. Ergänzungen und Ersatzfragen müssen so unterscheidbar sein. Unveränderte Rohquellen bleiben erhalten.
 
 ## Übernahme
 
-Die zurückgegebene CSV ist eine redaktionelle Übergabe, kein automatischer Bestandsupdate-Import. Der normale App-Parser überspringt vorhandene Frage-IDs. Codex prüft deshalb zunächst Struktur, Identitäten, Lösungen, Varianten und Quellen sowie die redaktionelle Gesamtkomposition. Anschließend können die freigegebenen Fassungen gezielt in die bestehende Redaktion und bei entsprechendem Auftrag in die Anwendung übernommen werden. Die Formatvorlage selbst ändert keine App-Inhalte, Spielstände oder Bearbeitungszähler. Veröffentlichung und produktive Aktivierung benötigen weiterhin die Freigabe des konkreten aktuellen Stands.
+Die zurückgegebene CSV ist eine redaktionelle Übergabe, kein automatischer Bestandsupdate-Import. Der normale App-Parser überspringt vorhandene Frage-IDs und lehnt Zeilen ohne Frage-ID ab. Codex prüft deshalb zunächst Struktur, Vollständigkeit der Ausgangsfragen, Identitäten, Lösungen, Varianten und Quellen sowie die redaktionelle Gesamtkomposition. Neue Fragen werden vor dem Parserlauf mit endgültigen IDs versehen; fehlende IDs einer Ausgangsfrage gelten nicht als neue Frage. Anschließend können die freigegebenen Fassungen gezielt in die bestehende Redaktion und bei entsprechendem Auftrag in die Anwendung übernommen werden. Die Formatvorlage selbst ändert keine App-Inhalte, Spielstände oder Bearbeitungszähler. Veröffentlichung und produktive Aktivierung benötigen weiterhin die Freigabe des konkreten aktuellen Stands.
 
 Führend bleiben [Importformat](../Importformat.md) und [Redaktionsvertrag](../Fragenredaktion.md).
