@@ -18557,3 +18557,4257 @@ Riemann unterstützte UNICEF Deutschland bereits seit 1999 und besuchte Projekte
 Merksatz: Riemanns Projektreisen gehören zu ihrem UNICEF-Engagement.
 
 Quellen: [1](https://www.unicef.de/informieren/ueber-uns/unicef-deutschland/prominente/katja-riemann).
+
+## Charlotte Rampling · Bekanntheitsgruppe 3
+
+![Charlotte Rampling (1974)](Portraets/105.jpg)
+
+Bild: 1974; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Charlotte_rampling.jpg), [TMDB](https://www.themoviedb.org/person/44079).
+
+### L1 · leicht
+
+Welchen Beruf übt Sarah Morton (Charlotte Rampling) in „Swimming Pool“ aus?
+
+- Kunsthistorikerin
+
+- Literaturagentin
+
+- Strafverteidigerin
+
+- **Richtig: Kriminalschriftstellerin**
+
+Sarah Morton schreibt Kriminalromane.
+
+Sarah zieht sich in das französische Ferienhaus ihres Verlegers zurück, um wieder arbeiten zu können. Dort stört Julie (Ludivine Sagnier) ihre gewünschte Ruhe. Die Begegnung mit der jüngeren Frau wird zugleich zum Anstoß für neue Geschichten. Der Film verknüpft das Beobachten einer fremden Lebensweise mit Sarahs Arbeit an einer Fiktion und lässt die Grenze zwischen beidem unsicher werden.
+
+Merksatz: Sarahs Beobachtungen werden zum Material einer Schriftstellerin.
+
+Antwortzusätze:
+
+- Kriminalschriftstellerin: Sarah Morton schreibt Kriminalromane.
+
+Quellen: [1](https://bfidatadigipres.github.io/big%20screen%20classics/2025/07/25/swimming-pool/), [2](https://en.wikipedia.org/wiki/Swimming_Pool_(2003_film)).
+
+### L2 · leicht
+
+Welche familiäre Beziehung hat Gaby (Charlotte Rampling) zu Justine (Kirsten Dunst) in „Melancholia“?
+
+- Sie ist Justines Tante.
+
+- Sie ist Justines ältere Schwester.
+
+- **Richtig: Sie ist Justines Mutter.**
+
+- Sie ist Justines Schwiegermutter.
+
+Gaby ist die Mutter von Justine und Claire.
+
+Justines Hochzeit soll ein harmonisches Fest werden, doch ihre geschiedenen Eltern tragen ihre Feindseligkeit vor den Gästen aus. Gaby und Dexter (John Hurt) geben ihrer Tochter dadurch wenig Halt. Ramplings Gaby gehört zur familiären Umgebung, deren Ansprüche und Konflikte Justines Feier überlagern. Später verlagert sich der Film von der gescheiterten Hochzeit auf die beiden Schwestern und die drohende Planetenkollision.
+
+Merksatz: Gaby und Dexter sind die geschiedenen Eltern der Braut.
+
+Antwortzusätze:
+
+- Sie ist Justines Mutter.: Gaby ist die Mutter von Justine und Claire.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Melancholia_(2011_film)).
+
+### M1 · mittel
+
+Welches Ereignis erschüttert Maries (Charlotte Rampling) Alltag in „Unter dem Sand“?
+
+- Ihr Mann verliert nach einem Unfall sein Gedächtnis.
+
+- **Richtig: Ihr Mann kehrt vom Schwimmen nicht zurück.**
+
+- Ihr Mann wird nach einem Streit inhaftiert.
+
+- Ihr Mann gesteht eine zweite Ehe.
+
+Maries Mann verschwindet während eines Strandurlaubs beim Schwimmen.
+
+Marie und Jean (Bruno Cremer) sind seit vielen Jahren verheiratet. Während sie am Strand einschläft, geht er ins Meer und verschwindet. Ohne Augenzeugen und zunächst ohne Leiche lässt sich sein Schicksal nicht eindeutig klären. Nach ihrer Rückkehr nach Paris hält Marie an seiner Gegenwart fest und sieht ihn weiterhin. Ihre Trauer beginnt in einer Situation, in der selbst der Verlust noch bestritten werden kann.
+
+Merksatz: Jean verschwindet im Meer, ohne Marie einen eindeutigen Abschied zu hinterlassen.
+
+Antwortzusätze:
+
+- Ihr Mann kehrt vom Schwimmen nicht zurück.: Maries Mann verschwindet während eines Strandurlaubs beim Schwimmen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Under_the_Sand).
+
+### M2 · mittel
+
+Woher kennt Lucia (Charlotte Rampling) den Hotelangestellten Max (Dirk Bogarde) in „Der Nachtportier“?
+
+- **Richtig: Sie war seine Gefangene im Konzentrationslager gewesen.**
+
+- Sie hatte als Dolmetscherin seiner Einheit gearbeitet.
+
+- Sie hatte zu seiner Widerstandsgruppe gehört.
+
+- Sie hatte ihn im Kriegslazarett gepflegt.
+
+Lucia begegnet ihrem früheren Peiniger aus dem Konzentrationslager wieder.
+
+Lucia reist mit ihrem Mann, einem Dirigenten, nach Wien und trifft dort Max wieder. Die Begegnung führt nicht zu einem einfachen Neubeginn nach dem Krieg. Sie setzt ein zerstörerisches Verhältnis aus ihrer Gefangenschaft fort. Zugleich betrachten ehemalige Nationalsozialisten Lucia als gefährliche Zeugin. Der Film verbindet die intime Abhängigkeit mit einem Netzwerk, das die eigene Vergangenheit beseitigen möchte.
+
+Merksatz: Die Wiederbegegnung verbindet frühere Gefangenschaft mit gegenwärtiger Abhängigkeit.
+
+Antwortzusätze:
+
+- Sie war seine Gefangene im Konzentrationslager gewesen.: Lucia begegnet ihrem früheren Peiniger aus dem Konzentrationslager wieder.
+
+Quellen: [1](https://www.criterion.com/current/posts/3393-the-night-porter-power-spectacle-and-desire).
+
+### S1 · schwer
+
+Was erkennt Kate (Charlotte Rampling) auf den alten Dias von Katya in „45 Years“?
+
+- Katya hatte bereits einen kleinen Sohn.
+
+- Katya war mit einem anderen Mann verheiratet.
+
+- Katya kannte Kate schon vor deren Hochzeit.
+
+- **Richtig: Katya war schwanger.**
+
+Die Dias zeigen, dass Katya schwanger war.
+
+Kurz vor dem Ehejubiläum erfährt Geoff (Tom Courtenay), dass der Körper seiner früheren Geliebten im Gletscher gefunden wurde. Kate durchsucht später die Erinnerungsstücke auf dem Dachboden und entdeckt die Schwangerschaft. Für das kinderlose Paar betrifft diese Nachricht mehr als eine alte Liebe: Kate beginnt zu fragen, wie stark eine ihr unbekannte Vergangenheit ihre gemeinsamen Entscheidungen geprägt haben könnte.
+
+Merksatz: Die entdeckte Schwangerschaft verändert Kates Blick auf ihre kinderlose Ehe.
+
+Antwortzusätze:
+
+- Katya war schwanger.: Die Dias zeigen, dass Katya schwanger war.
+
+Quellen: [1](https://en.wikipedia.org/wiki/45_Years).
+
+### S2 · schwer
+
+Welche verdeckte Funktion hat Laura Fischer (Charlotte Rampling) gegenüber Frank Galvin (Paul Newman) in „The Verdict“?
+
+- **Richtig: Sie liefert Informationen an die gegnerische Anwaltsseite.**
+
+- Sie sammelt Material für die Presse.
+
+- Sie überprüft ihn für die Anwaltskammer.
+
+- Sie sucht Beweise im Auftrag der Klägerfamilie.
+
+Laura ist eine Informantin des gegnerischen Anwalts Ed Concannon.
+
+Galvin begegnet Laura in einer Bar und beginnt mit ihr eine Beziehung, während er gegen ein Krankenhaus prozessiert. Sein Helfer Mickey Morrissey (Jack Warden) findet jedoch einen Scheck des gegnerischen Anwalts Concannon (James Mason) in ihrer Tasche. Der vermeintlich private Rückhalt erweist sich als Teil der Gegenseite. Galvin muss den persönlichen Verrat verkraften und zugleich den Prozess weiterführen.
+
+Merksatz: Eine Liebesbeziehung wird zum Zugang zu Galvins vertraulichen Informationen.
+
+Antwortzusätze:
+
+- Sie liefert Informationen an die gegnerische Anwaltsseite.: Laura ist eine Informantin des gegnerischen Anwalts Ed Concannon.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Verdict).
+
+### E1 · experte
+
+Wie bereitete Andrew Haigh die Szenen mit Charlotte Rampling und Tom Courtenay für „45 Years“ vor?
+
+- Durch getrennte Drehbucharbeit ohne Begegnung der beiden Darsteller
+
+- **Richtig: Durch Gespräche über Figuren und Leben, ohne die Szenen vorab zu proben**
+
+- Durch ausführliche gemeinsame Szenenproben vor Drehbeginn
+
+- Durch improvisierte Probewochen in der vollständigen Wohnung
+
+Haigh besprach die Figuren mit den Darstellern, verzichtete aber auf Szenenproben.
+
+Haigh traf Rampling und Courtenay zunächst einzeln. Sie sprachen über die Figuren, eigene Erfahrungen und ihre Deutung des Stoffes. Die eigentliche szenische Arbeit sollte dann vor laufender Kamera entstehen, damit unerwartete Momente erhalten blieben. Seine präzisen Vorstellungen von Positionen und Abläufen schlossen Änderungen während der Aufnahme ein. Die Methode verband gemeinsame Orientierung mit Offenheit im Spiel.
+
+Merksatz: Die Vorbereitung klärt die Figuren; die spontane Begegnung entsteht erst während der Aufnahme.
+
+Antwortzusätze:
+
+- Durch Gespräche über Figuren und Leben, ohne die Szenen vorab zu proben: Haigh besprach die Figuren mit den Darstellern, verzichtete aber auf Szenenproben.
+
+Quellen: [1](https://www.filmcomment.com/interview-andrew-haigh-45-years/).
+
+### E2 · experte
+
+Welche Veränderung an David Constantines Vorlage macht Charlotte Ramplings Kate zum Mittelpunkt von „45 Years“?
+
+- Die Handlung wird als Kates Erinnerung nach Geoffs Tod erzählt.
+
+- Kate erhält eine eigene frühere Liebesbeziehung als parallele Geschichte.
+
+- **Richtig: Die Erzählperspektive wechselt vom Mann zu seiner Frau.**
+
+- Kates Tagebuch ersetzt die Gespräche des Ehepaars.
+
+Haigh verschiebt die Perspektive von Geoff in der Kurzgeschichte zu Kate im Film.
+
+Der Fund von Katyas Körper betrifft zunächst Geoffs Vergangenheit. Die Verfilmung folgt jedoch zunehmend der Frau, die beobachten muss, wie diese Vergangenheit in ihre Ehe eindringt. Ramplings Reaktionen tragen so den entscheidenden inneren Verlauf. Kate hat keinen neu aufgetauchten Geliebten; sie muss ihr eigenes Leben angesichts einer fremden früheren Beziehung neu betrachten.
+
+Merksatz: Eine Nachricht über Geoff wird zum Film über Kates Krise.
+
+Antwortzusätze:
+
+- Die Erzählperspektive wechselt vom Mann zu seiner Frau.: Haigh verschiebt die Perspektive von Geoff in der Kurzgeschichte zu Kate im Film.
+
+Quellen: [1](https://www.criterion.com/films/28908-45-years), [2](https://www.criterion.com/current/posts/4451-45-years-fissures).
+
+## Kristin Scott Thomas · Bekanntheitsgruppe 3
+
+![Kristin Scott Thomas (2009)](Portraets/106.jpg)
+
+Bild: 2009; Georges Biard. CC BY 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Kristin_Scott_Thomas_Cannes.jpg), [TMDB](https://www.themoviedb.org/person/5470).
+
+### L1 · leicht
+
+In welcher Beziehung steht Katharine (Kristin Scott Thomas) zu Geoffrey Clifton (Colin Firth) in „Der englische Patient“?
+
+- Sie ist seine Schwester.
+
+- **Richtig: Sie ist seine Ehefrau.**
+
+- Sie ist seine Forschungsassistentin.
+
+- Sie ist seine frühere Verlobte.
+
+Katharine ist mit Geoffrey Clifton verheiratet.
+
+Das Ehepaar kommt zu einer Expedition in die Sahara. Katharine begegnet dort dem Forscher László Almásy (Ralph Fiennes) und beginnt mit ihm eine Affäre. Die spätere Erzählung des schwer verbrannten Almásy verbindet diese Liebe mit dem Krieg und ihrem tragischen Ende. Scott Thomas spielt Katharine vor allem in jener Vergangenheit, die der Patient nur nach und nach preisgibt.
+
+Merksatz: Die Liebesgeschichte beginnt innerhalb einer bestehenden Ehe.
+
+Antwortzusätze:
+
+- Sie ist seine Ehefrau.: Katharine ist mit Geoffrey Clifton verheiratet.
+
+Quellen: [1](https://www.bfi.org.uk/film/fb428f8a-5d2a-5604-9993-c136e1a7d6a4/the-english-patient), [2](https://www.irishtimes.com/news/patient-endeavours-1.50462).
+
+### L2 · leicht
+
+In wen ist Fiona (Kristin Scott Thomas) in „Vier Hochzeiten und ein Todesfall“ seit Langem verliebt?
+
+- In Matthew
+
+- In Gareth
+
+- **Richtig: In Charles**
+
+- In Tom
+
+Fiona liebt ihren Freund Charles, ohne dass er ihre Gefühle erwidert.
+
+Bei den wiederkehrenden Feiern begleitet Fiona den Freundeskreis mit scharfem Witz. Hinter ihrer souveränen Haltung verbirgt sich eine unerwiderte Liebe zu Charles (Hugh Grant), der seinerseits Carrie (Andie MacDowell) nachgeht. Als Fiona ihre Gefühle schließlich ausspricht, zeigt die Komödie eine andere Art von Liebesgeschichte: langes stilles Warten innerhalb einer Freundschaft.
+
+Merksatz: Fionas Schlagfertigkeit verdeckt ihre unerwiderte Liebe zu Charles.
+
+Antwortzusätze:
+
+- In Charles: Fiona liebt ihren Freund Charles, ohne dass er ihre Gefühle erwidert.
+
+Gemeinsames Wissensziel: K-ROM-06-03 (ROM-M-011).
+
+Quellen: [1](https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral).
+
+### M1 · mittel
+
+Welcher bislang verschwiegene Umstand erklärt Juliettes (Kristin Scott Thomas) Tat in „So viele Jahre liebe ich dich“?
+
+- **Richtig: Ihr Sohn litt an einer unheilbaren, qualvollen Krankheit.**
+
+- Sie hatte einen gemeinsamen Suizidversuch selbst überlebt.
+
+- Sie hatte die Wirkung einer verabreichten Medikamentendosis falsch eingeschätzt.
+
+- Sie hatte während einer schweren psychotischen Krise gehandelt.
+
+Juliette tötete ihren schwer und unheilbar kranken Sohn, um sein Leiden zu beenden.
+
+Nach ihrer Haft zieht Juliette bei ihrer Schwester Léa (Elsa Zylberstein) ein. Die Familie kennt ihre Verurteilung wegen des Todes ihres Kindes, aber nicht den entscheidenden Hintergrund. Juliette hat ihre Gründe auch im Prozess verschwiegen und sich selbst für die Existenz und das Leiden ihres Sohnes bestraft. Erst das Gespräch mit Léa verbindet die lange Isolation mit einer erklärbaren, weiterhin schmerzhaften Vergangenheit.
+
+Merksatz: Die verschwiegene Krankheit verändert Léas Verständnis der Tat.
+
+Antwortzusätze:
+
+- Ihr Sohn litt an einer unheilbaren, qualvollen Krankheit.: Juliette tötete ihren schwer und unheilbar kranken Sohn, um sein Leiden zu beenden.
+
+Quellen: [1](https://en.wikipedia.org/wiki/I%27ve_Loved_You_So_Long).
+
+### M2 · mittel
+
+Welche Verbindung hat Hélène (Kristin Scott Thomas) zum verfolgten Arzt Alexandre Beck (François Cluzet) in „Kein Sterbenswort“?
+
+- Sie ist die Schwester seiner verstorben geglaubten Frau.
+
+- **Richtig: Sie ist die Partnerin seiner Schwester.**
+
+- Sie ist seine frühere Vorgesetzte im Krankenhaus.
+
+- Sie ist seine getrennt lebende Ehefrau.
+
+Hélène ist mit Alex’ Schwester Anne zusammen.
+
+Alex erhält nach Jahren der Trauer Hinweise, dass seine Frau noch leben könnte, und gerät selbst unter Mordverdacht. Hélène gehört über Anne (Marina Hands) zu seiner Familie. Die beiden Frauen verschaffen ihm über eine Anwältin ein Alibi. Ihre Hilfe steht neben der Unterstützung anderer Personen, denen Alex früher geholfen hat, während Polizei und Verfolger seinen Bewegungsraum immer weiter einschränken.
+
+Merksatz: Hélène und Anne gehören zu Alex’ familiären Unterstützerinnen.
+
+Antwortzusätze:
+
+- Sie ist die Partnerin seiner Schwester.: Hélène ist mit Alex’ Schwester Anne zusammen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Tell_No_One).
+
+### S1 · schwer
+
+Was verbindet Julias (Kristin Scott Thomas) eigene Familie mit ihrer Recherche in „Sarahs Schlüssel“?
+
+- Ihr Schwiegervater war der Polizist, der Sarah entkommen ließ.
+
+- Ihr Mann hatte Sarahs verschollene Tagebücher herausgegeben.
+
+- Ihre Mutter war mit Sarah aus dem Lager geflohen.
+
+- **Richtig: Die Familie ihres Mannes übernahm Sarahs frühere Wohnung.**
+
+Die Wohnung der Familie ihres Mannes war zuvor Sarahs Familienwohnung.
+
+Julia recherchiert die Pariser Deportationsrazzia von 1942. Zugleich soll sie in eine Wohnung ziehen, die aus der Familie ihres Mannes stammt. Dort lebte einst Sarah (Mélusine Mayance), die ihren kleinen Bruder vor der Polizei in einem Schrank versteckt hatte. Julias Schwiegervater (Michel Duchaussoy) war der Junge, der Sarah bei ihrer Rückkehr die Tür öffnete. Historische Recherche greift so in eine scheinbar vertraute Familiengeschichte ein.
+
+Merksatz: Die geplante Familienwohnung wird zum Ort einer verdrängten Geschichte.
+
+Antwortzusätze:
+
+- Die Familie ihres Mannes übernahm Sarahs frühere Wohnung.: Die Wohnung der Familie ihres Mannes war zuvor Sarahs Familienwohnung.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Sarah%27s_Key_(film)).
+
+### S2 · schwer
+
+Welcher Gegensatz prägt Crystal (Kristin Scott Thomas) und ihren Sohn Julian (Ryan Gosling) nach Billys Tod in „Only God Forgives“?
+
+- **Richtig: Crystal verlangt Rache; Julian hält die erste Vergeltung für gerechtfertigt.**
+
+- Crystal will aussagen; Julian will die Polizei bestechen.
+
+- Crystal will das Land verlassen; Julian will das Geschäft ausbauen.
+
+- Crystal schützt den Täter; Julian will seinen Bruder rächen.
+
+Crystal verlangt Vergeltung, während Julian den Vater von Billys Opfer zunächst verschont.
+
+Billy hat ein Mädchen ermordet und wird von dessen Vater getötet. Julian hört die Hintergründe und lässt den Vater leben. Seine Mutter Crystal, die zugleich das Familienverbrechen beherrscht, akzeptiert diese Entscheidung nicht. Sie organisiert selbst weitere Gewalt und setzt Julian unter Druck. Der Konflikt beruht somit auch auf unterschiedlichen Maßstäben dafür, wessen Tod gerächt werden soll.
+
+Merksatz: Crystals Familienloyalität verlangt eine Rache, die Julian zunächst verweigert.
+
+Antwortzusätze:
+
+- Crystal verlangt Rache; Julian hält die erste Vergeltung für gerechtfertigt.: Crystal verlangt Vergeltung, während Julian den Vater von Billys Opfer zunächst verschont.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Only_God_Forgives).
+
+### E1 · experte
+
+Welche Sorge gefährdete laut Kristin Scott Thomas zunächst die Finanzierung von „Der englische Patient“?
+
+- Das Studio hielt die Wüstendrehs für zu aufwendig.
+
+- Das Studio wollte eine wesentlich kürzere Kinofassung.
+
+- Das Studio misstraute der Erzählung auf mehreren Zeitebenen.
+
+- **Richtig: Das Studio wollte eine prominentere Hauptbesetzung.**
+
+20th Century Fox bevorzugte aus geschäftlichen Gründen eine stärker mit Stars besetzte Produktion.
+
+Scott Thomas berichtete, Fox habe geglaubt, der Stoff brauche eine besonders prominente Besetzung. Anthony Minghella hielt jedoch an den vorgesehenen Darstellern fest; schließlich übernahm Miramax die Unterstützung. Der Konflikt betraf damit die wirtschaftliche Einschätzung einer Besetzung, die später als passend zum Film wahrgenommen wurde. Für Scott Thomas war Katharine zudem eine bewusst offenere Rolle als viele ihrer zuvor reservierten Figuren.
+
+Merksatz: Minghella hielt an seiner Besetzung fest und fand eine andere Finanzierung.
+
+Antwortzusätze:
+
+- Das Studio wollte eine prominentere Hauptbesetzung.: 20th Century Fox bevorzugte aus geschäftlichen Gründen eine stärker mit Stars besetzte Produktion.
+
+Quellen: [1](https://www.irishtimes.com/news/patient-endeavours-1.50462).
+
+### E2 · experte
+
+Wie bewältigte Kristin Scott Thomas die rumänischen Dialoge in „Ein unvergesslicher Sommer“?
+
+- Sie lernte zuerst die Sprache in einem mehrjährigen Studium.
+
+- Sie improvisierte anhand einer französischen Zusammenfassung.
+
+- **Richtig: Sie übte den Text intensiv nach Gehör mit einer Sprachbetreuerin.**
+
+- Sie spielte stumm und ließ ihre Rolle nachsynchronisieren.
+
+Sie lernte die Aussprache des Textes intensiv und ist im fertigen Film mit eigener Stimme zu hören.
+
+In ihrem BAFTA-Gespräch beschrieb Scott Thomas tägliche Arbeit am Drehbuch über mehrere Wochen. Die komplizierte Aussprache lernte sie nach Gehör. Sie hatte mit einer späteren Synchronisation gerechnet, entdeckte aber ihre eigene Stimme im Film. Die Aufgabe ging über ihre vertraute Arbeit auf Englisch und Französisch hinaus und verlangte eine besondere sprachliche Vorbereitung.
+
+Merksatz: Der rumänische Text wurde nach Gehör erarbeitet und mit ihrer eigenen Stimme verwendet.
+
+Antwortzusätze:
+
+- Sie übte den Text intensiv nach Gehör mit einer Sprachbetreuerin.: Sie lernte die Aussprache des Textes intensiv und ist im fertigen Film mit eigener Stimme zu hören.
+
+Quellen: [1](https://static.bafta.org/uploads_pre_202411/transcripts/baftaalifeinpictureskristinscottthomas.pdf).
+
+## Jeanne Moreau · Bekanntheitsgruppe 3
+
+![Jeanne Moreau (1958)](Portraets/107.jpg)
+
+Bild: 1958; Mario De Biasi (1923–2013). Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Jeanne_Moreau_1958.jpg), [TMDB](https://www.themoviedb.org/person/14812).
+
+### L1 · leicht
+
+Welche Frau spielt Jeanne Moreau im Liebesdreieck von „Jules und Jim“?
+
+- Lucie
+
+- Thérèse
+
+- **Richtig: Catherine**
+
+- Gilberte
+
+Moreau spielt Catherine, die beide Freunde anzieht.
+
+Jules (Oskar Werner) und Jim (Henri Serre) verbindet eine enge Freundschaft, als sie Catherine begegnen. Sie heiratet Jules, doch ihre Beziehung zu Jim bleibt ebenfalls entscheidend. Der Film folgt über viele Jahre den Versuchen, Freundschaft, Ehe und Freiheit miteinander zu vereinbaren. Catherine ist dabei nicht nur der Anlass für einen Streit zwischen Männern, sondern treibt die wechselnden Bindungen selbst voran.
+
+Merksatz: Catherine steht zwischen den Freunden und handelt nach ihren eigenen Wünschen.
+
+Antwortzusätze:
+
+- Catherine: Moreau spielt Catherine, die beide Freunde anzieht.
+
+Quellen: [1](https://www.criterion.com/films/218-jules-and-jim), [2](https://en.wikipedia.org/wiki/Jules_and_Jim).
+
+### L2 · leicht
+
+Welche gemeinsame Arbeit nehmen die von Jeanne Moreau und Brigitte Bardot gespielten Frauen in „Viva Maria!“ zunächst auf?
+
+- Sie arbeiten als Krankenschwestern.
+
+- Sie leiten eine Sprachschule.
+
+- Sie betreiben eine Gastwirtschaft.
+
+- **Richtig: Sie treten als Gesangs- und Tanzduo auf.**
+
+Die beiden Marias bilden ein Gesangs- und Tanzduo in einer reisenden Truppe.
+
+Maria (Jeanne Moreau) hat bereits Bühnenerfahrung, als die von Brigitte Bardot gespielte zweite Maria bei der Truppe Zuflucht findet. Eine gemeinsame Nummer bringt den Frauen Erfolg. Auf der Reise werden sie jedoch mit der Gewalt eines Großgrundbesitzers konfrontiert. Aus dem Auftreten vor Publikum entwickelt sich eine politische Rolle, bis die beiden selbst einen Aufstand anführen.
+
+Merksatz: Aus dem Bühnenduo werden Anführerinnen einer Revolution.
+
+Antwortzusätze:
+
+- Sie treten als Gesangs- und Tanzduo auf.: Die beiden Marias bilden ein Gesangs- und Tanzduo in einer reisenden Truppe.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Viva_Maria!).
+
+### M1 · mittel
+
+Warum glaubt Florence (Jeanne Moreau) in „Fahrstuhl zum Schafott“ zunächst, Julien habe sie wegen einer anderen Frau verlassen?
+
+- Sie entdeckt eine für zwei Personen gebuchte Schiffsreise.
+
+- **Richtig: Sie sieht eine junge Frau in seinem vorbeifahrenden Wagen.**
+
+- Sie hört ihn ein Telefongespräch mit einer Geliebten führen.
+
+- Sie findet seinen Abschiedsbrief an der Hotelrezeption.
+
+Florence sieht eine andere Frau in Juliens Wagen und deutet dies als Untreue.
+
+Florence wartet nach dem geplanten Mord an ihrem Mann auf Julien (Maurice Ronet). Sein Wagen fährt mit Véronique (Yori Bertin) vorbei; tatsächlich haben die junge Frau und ihr Freund das Auto gestohlen. Julien selbst steckt im abgeschalteten Aufzug des Bürohauses fest. Florences nächtliche Suche entsteht damit aus einem Missverständnis, während der Autodiebstahl eine weitere Verbrechenskette auslöst.
+
+Merksatz: Der gestohlene Wagen liefert Florence ein irreführendes Bild.
+
+Antwortzusätze:
+
+- Sie sieht eine junge Frau in seinem vorbeifahrenden Wagen.: Florence sieht eine andere Frau in Juliens Wagen und deutet dies als Untreue.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Elevator_to_the_Gallows).
+
+### M2 · mittel
+
+Welches Spiel zieht Jackie (Jeanne Moreau) und Jean (Claude Mann) in „Die blonde Sünderin“ immer wieder ins Casino?
+
+- Poker
+
+- **Richtig: Roulette**
+
+- Blackjack
+
+- Baccarat
+
+Jackie und Jean spielen Roulette.
+
+Jackie und der jüngere Jean erleben ihre Annäherung zwischen Gewinnen und Verlusten an der Riviera. Das Geld erlaubt zeitweise ein luxuriöses Leben, verschwindet aber ebenso rasch wieder. Jackie fasziniert das Spiel von Zahlen und Zufall. Der Film baut ihre Beziehung als Folge von Wiederholungen und wechselnden Glückslagen auf, statt sie auf einen geplanten großen Gewinn hinzuführen.
+
+Merksatz: Die Beziehung folgt dem Wechsel von Gewinnen und Verlusten am Roulettetisch.
+
+Antwortzusätze:
+
+- Roulette: Jackie und Jean spielen Roulette.
+
+Quellen: [1](https://www.criterion.com/current/posts/3234-bay-of-angels-walking-on-sand).
+
+### S1 · schwer
+
+Wie entscheidet sich Jeanne (Jeanne Moreau) am Ende von „Die Liebenden“ nach der Nacht mit Bernard?
+
+- Sie kehrt mit ihrem bisherigen Liebhaber Raoul nach Paris zurück.
+
+- Sie bittet ihren Mann, Bernard aus dem Haus zu weisen.
+
+- **Richtig: Sie verlässt ihr bisheriges Leben gemeinsam mit Bernard.**
+
+- Sie bleibt bei ihrer Familie und bricht den Kontakt zu Bernard ab.
+
+Jeanne fährt mit Bernard fort und lässt ihr bisheriges bürgerliches Leben zurück.
+
+Jeanne hat bereits einen Liebhaber, Raoul (José Luis de Villalonga), als der fremde Archäologe Bernard (Jean-Marc Bory) ihr nach einer Autopanne hilft. Ihr Mann Henri (Alain Cuny) lädt auch ihn ins Haus ein. Nach einer gemeinsamen Nacht trifft Jeanne eine Entscheidung, die über die bisherige diskrete Affäre hinausgeht. Die Abfahrt eröffnet eine gemeinsame Zukunft, ohne deren Gelingen zu versprechen.
+
+Merksatz: Jeanne ersetzt die heimliche Affäre durch einen offenen, ungewissen Aufbruch.
+
+Antwortzusätze:
+
+- Sie verlässt ihr bisheriges Leben gemeinsam mit Bernard.: Jeanne fährt mit Bernard fort und lässt ihr bisheriges bürgerliches Leben zurück.
+
+Quellen: [1](https://www.criterion.com/current/posts/545-the-lovers-succ-s-de-scandale).
+
+### S2 · schwer
+
+Von wem stammt der Liebesbrief, den Lidia (Jeanne Moreau) am Ende von „Die Nacht“ vorliest?
+
+- Von ihrem verstorbenen Freund Tommaso
+
+- Von einem Verehrer aus ihrer Schulzeit
+
+- Von ihrer neuen Bekanntschaft Roberto
+
+- **Richtig: Von ihrem Mann Giovanni aus der Zeit vor ihrer Ehe**
+
+Giovanni selbst hatte den Brief vor ihrer Hochzeit an Lidia geschrieben.
+
+Nach einem langen Tag und einer Gesellschaftsnacht sprechen Lidia und Giovanni (Marcello Mastroianni) über ihre zerfallende Ehe. Lidia erzählt von Tommaso (Bernhard Wicki), der sie früher unterstützt hatte und nun gestorben ist. Anschließend liest sie Giovannis alten Brief. Die Worte einer einst intensiven Liebe stehen neben ihrer gegenwärtigen Feststellung, dass sie ihn nicht mehr liebt.
+
+Merksatz: Giovannis frühere Liebesworte treffen auf Lidias gegenwärtige Entfremdung.
+
+Antwortzusätze:
+
+- Von ihrem Mann Giovanni aus der Zeit vor ihrer Ehe: Giovanni selbst hatte den Brief vor ihrer Hochzeit an Lidia geschrieben.
+
+Quellen: [1](https://en.wikipedia.org/wiki/La_Notte).
+
+### E1 · experte
+
+Welchen Erfahrungsbereich stellt Jeanne Moreau in ihrem Regiedebüt „Lumière“ in den Mittelpunkt?
+
+- **Richtig: Die Freundschaft und das Berufsleben mehrerer Schauspielerinnen**
+
+- Die Gründung einer reisenden Theaterkompanie
+
+- Die Rivalität zweier Dirigentinnen um eine Opernproduktion
+
+- Den Arbeitskampf von Kostümbildnerinnen in einem Filmstudio
+
+„Lumière“ erzählt von vier Schauspielerinnen und ihren beruflichen wie persönlichen Beziehungen.
+
+Moreau schrieb das Drehbuch und übernahm neben der Regie selbst die Rolle der Sarah. Die Frauen sind in verschiedenen Lebensphasen, doch ihr Beruf hat sie zusammengeführt. Über Jahre entwickelte Moreau ihre Figuren in Notizbüchern und mehreren Drehbuchfassungen. Ihr erster eigener Spielfilm nutzt die Erfahrung vor der Kamera für eine Geschichte über Nähe, Verletzlichkeit und Entscheidungen innerhalb dieses Milieus.
+
+Merksatz: Moreau blickt als Regisseurin auf Frauen in ihrem eigenen Beruf.
+
+Antwortzusätze:
+
+- Die Freundschaft und das Berufsleben mehrerer Schauspielerinnen: „Lumière“ erzählt von vier Schauspielerinnen und ihren beruflichen wie persönlichen Beziehungen.
+
+Quellen: [1](https://2022.festival-lumiere.org/manifestations/lumiere.html).
+
+### E2 · experte
+
+Welche Entscheidung prägte Jeanne Moreaus Erscheinung in den Pariser Nachtszenen von „Fahrstuhl zum Schafott“?
+
+- **Richtig: Ein ungeschminktes Gesicht bei zurückhaltender vorhandener Beleuchtung**
+
+- Eine Studiokulisse mit nachträglich eingesetzten Straßenbildern
+
+- Weichzeichner und eine durchgehende Lichtblende vor dem Gesicht
+
+- Starkes Bühnen-Make-up und frontal gesetzte Scheinwerfer
+
+Louis Malle ließ Moreau ohne starkes Make-up und mit wenig Licht durch Paris gehen.
+
+Moreaus nächtlicher Gang durch Paris wurde mit dem Licht der Straßen und Schaufenster aufgenommen. Malle und Kameramann Henri Decaë verzichteten dabei auf die zuvor übliche starke Ausleuchtung und schweres Make-up. Die Entscheidung änderte das sichtbare Schauspielerbild: Florences innere Unruhe wird durch ihren Blick, ihren Gang und die Umgebung erfahrbar, während sie nach Julien sucht.
+
+Merksatz: Die reduzierte Ausleuchtung bringt Moreaus Gesicht anders zur Geltung als die übliche Starbeleuchtung.
+
+Antwortzusätze:
+
+- Ein ungeschminktes Gesicht bei zurückhaltender vorhandener Beleuchtung: Louis Malle ließ Moreau ohne starkes Make-up und mit wenig Licht durch Paris gehen.
+
+Quellen: [1](https://www.criterion.com/films/539-the-lovers), [2](https://en.wikipedia.org/wiki/Elevator_to_the_Gallows).
+
+## Simone Signoret · Bekanntheitsgruppe 3
+
+![Simone Signoret (1962)](Portraets/108.jpg)
+
+Bild: 1962; Pic, Roger (1920-2001). Photographe. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Simone_Signoret_1962_(facecrop_1).jpg), [TMDB](https://www.themoviedb.org/person/12266).
+
+### L1 · leicht
+
+Welchen Beruf übt Nicole Horner (Simone Signoret) in „Die Teuflischen“ aus?
+
+- **Richtig: Lehrerin**
+
+- Sekretärin
+
+- Hotelbesitzerin
+
+- Krankenschwester
+
+Nicole ist Lehrerin am Internat.
+
+Nicole arbeitet an der Schule, die Michel Delassalle (Paul Meurisse) zusammen mit seiner Frau Christina (Véra Clouzot) führt. Zugleich ist Nicole seine Geliebte. Die berufliche Nähe hält die drei Figuren in derselben abgeschlossenen Umgebung zusammen. Nicoles scheinbares Bündnis mit Christina lässt die beiden Frauen zunächst als Opfer desselben herrischen Mannes erscheinen.
+
+Merksatz: Nicole gehört als Lehrerin zum engen Kreis der Schule.
+
+Antwortzusätze:
+
+- Lehrerin: Nicole ist Lehrerin am Internat.
+
+Quellen: [1](https://www.criterion.com/current/posts/53-diabolique).
+
+### L2 · leicht
+
+Für welche Kinder sorgt Madame Rosa (Simone Signoret) in „Madame Rosa“ gegen Bezahlung?
+
+- **Richtig: Für Kinder von Prostituierten**
+
+- Für Kinder einer reisenden Theatertruppe
+
+- Für Kinder von Diplomaten
+
+- Für Kinder in einem staatlichen Waisenhaus
+
+Madame Rosa betreut vor allem Kinder von Prostituierten.
+
+Rosa war selbst Prostituierte und lebt in einem alten Haus im Pariser Viertel Belleville. Zu ihren Schützlingen gehört Momo (Samy Ben Youb), ein algerischer Junge. Die jüdische Überlebende der Verfolgung wird für ihn zur wichtigsten Bezugsperson, obwohl ihre Verbindung voller Reibungen ist. Mit Rosas zunehmender Krankheit kehrt sich das Verhältnis um: Der Junge muss nun für die Frau sorgen, die ihn aufgezogen hat.
+
+Merksatz: Die ehemalige Prostituierte wird zur Ersatzmutter von Kindern aus demselben Milieu.
+
+Antwortzusätze:
+
+- Für Kinder von Prostituierten: Madame Rosa betreut vor allem Kinder von Prostituierten.
+
+Quellen: [1](https://boutique.arte.tv/detail/la-vie-devant-soi-moshe-mizrahi).
+
+### M1 · mittel
+
+Welches Angebot drängt Joe (Laurence Harvey) in „Der Weg nach oben“ dazu, Alice (Simone Signoret) zu verlassen?
+
+- Alices Mann bietet ihm Geld für einen dauerhaften Fortzug an.
+
+- **Richtig: Susans Vater bietet nach ihrer Schwangerschaft Heirat und beruflichen Aufstieg an.**
+
+- Alice erhält eine Stelle in Frankreich und möchte ihn mitnehmen.
+
+- Sein Arbeitgeber verspricht ihm für eine Versetzung eine Führungsposition.
+
+Joe soll die schwangere Susan heiraten und dafür im Unternehmen ihres Vaters aufsteigen.
+
+Joe schwankt zwischen Alice und Susan (Heather Sears), der Tochter eines wohlhabenden Industriellen. Mit Alice verbindet ihn eine leidenschaftliche Beziehung, doch ihr Mann verweigert die Scheidung. Susan ist von Joe schwanger. Das Angebot ihres Vaters verbindet eine Heirat mit dem gesellschaftlichen Aufstieg, den Joe gesucht hat. Er entscheidet sich dafür; Alices anschließender Tod bleibt als Schuld hinter seinem äußeren Erfolg.
+
+Merksatz: Joe erhält die erhoffte Stellung, verliert aber die Frau, die er liebt.
+
+Antwortzusätze:
+
+- Susans Vater bietet nach ihrer Schwangerschaft Heirat und beruflichen Aufstieg an.: Joe soll die schwangere Susan heiraten und dafür im Unternehmen ihres Vaters aufsteigen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Room_at_the_Top_(1959_film)).
+
+### M2 · mittel
+
+In welchen Mann verliebt sich Marie (Simone Signoret) in „Goldhelm“ neu und löst damit gefährliche Rivalitäten aus?
+
+- In Roland
+
+- In Raymond
+
+- In Leca
+
+- **Richtig: In Manda**
+
+Marie verliebt sich in Manda, den Serge Reggiani spielt.
+
+Bei einem Ausflug trifft Marie den aus dem kriminellen Leben ausgestiegenen Manda (Serge Reggiani). Ihr bisheriger Gefährte Roland fühlt sich herausgefordert, während auch Bandenchef Leca (Claude Dauphin) Marie besitzen möchte. Die kurze Nähe des neuen Paares steht deshalb unter dem Druck einer Umgebung, in der Begehren und Machtanspruch in Gewalt umschlagen. Becker stellt dem die verletzlichen, ruhigen Momente der beiden gegenüber.
+
+Merksatz: Maries neue Liebe gerät in die Machtkämpfe ihres bisherigen Milieus.
+
+Antwortzusätze:
+
+- In Manda: Marie verliebt sich in Manda, den Serge Reggiani spielt.
+
+Quellen: [1](https://www.criterion.com/films/942-casque-d-or), [2](https://en.wikipedia.org/wiki/Casque_d%27Or).
+
+### S1 · schwer
+
+Wodurch wird Mathilde (Simone Signoret) in „Armee im Schatten“ nach ihrer Festnahme erpressbar?
+
+- Durch den Nachweis einer Unterschlagung von Widerstandsgeldern
+
+- Durch die drohende Beschlagnahmung ihres Elternhauses
+
+- Durch einen alten Schuldschein bei einem Informanten
+
+- **Richtig: Durch die Drohung gegen ihre Tochter**
+
+Die Gestapo bedroht Mathildes Tochter, um Informationen zu erzwingen.
+
+Mathilde hat die Widerstandsgruppe mit außergewöhnlicher Umsicht unterstützt und Gerbier (Lino Ventura) sogar vor einer Erschießung gerettet. Nach ihrer Festnahme macht ihre Familie sie verwundbar. Die Gruppe fürchtet, dass die Drohung gegen die Tochter sie zu weiteren Aussagen zwingen wird. Ihre Gefährten entscheiden sich schließlich, die verdiente Mitstreiterin zu töten, bevor noch mehr Personen verraten werden können.
+
+Merksatz: Die Helferin wird über ihre Tochter selbst zum Sicherheitsrisiko der Gruppe.
+
+Antwortzusätze:
+
+- Durch die Drohung gegen ihre Tochter: Die Gestapo bedroht Mathildes Tochter, um Informationen zu erzwingen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Army_of_Shadows).
+
+### S2 · schwer
+
+Wohin zieht sich die schwer kranke Rosa (Simone Signoret) im Finale von „Madame Rosa“ zurück?
+
+- In das Zimmer ihrer früheren Arbeitskollegin
+
+- **Richtig: In ihr verborgenes Refugium unter der Treppe**
+
+- In ein Kloster außerhalb der Stadt
+
+- In ein jüdisches Pflegeheim
+
+Rosa zieht sich in ihr verborgenes jüdisches Refugium unter der Treppe zurück, um dort zu sterben.
+
+Rosas Erinnerungen an Auschwitz und die Verfolgung kehren im Alter zunehmend als Angst und Verwirrung zurück. Ihr versteckter Raum bietet ihr einen eigenen Rückzugspunkt. Sie lehnt eine Einweisung ins Krankenhaus ab. Momo (Samy Ben Youb) begleitet sie in das Refugium und bleibt auch nach ihrem Tod bei ihr, bis beide gefunden werden. Die Ersatzmutter wird von ihrem Schützling bis zuletzt nicht verlassen.
+
+Merksatz: Momo bleibt bei Rosa in dem Raum, der ihr Sicherheit geben sollte.
+
+Antwortzusätze:
+
+- In ihr verborgenes Refugium unter der Treppe: Rosa zieht sich in ihr verborgenes jüdisches Refugium unter der Treppe zurück, um dort zu sterben.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Madame_Rosa).
+
+### E1 · experte
+
+Welches Spielprinzip verlangte Jacques Becker vom Ensemble um Simone Signoret für den historischen Film „Goldhelm“?
+
+- Eine bewusst moderne Körpersprache als Bruch mit den historischen Kostümen
+
+- Eine stilisierte Pantomime nach frühen Stummfilmen
+
+- **Richtig: Ein Verhalten wie von Menschen, die selbstverständlich in jener Epoche leben**
+
+- Eine Rekonstruktion des pathetischen Bühnenstils der Jahrhundertwende
+
+Die Darsteller sollten sich wie Bewohner der Epoche verhalten.
+
+Becker legte großen Wert auf die Dinge, Räume und alltäglichen Umgangsformen seiner Figuren. Historische Kleidung allein sollte das Milieu nicht herstellen. Signoret und Serge Reggiani bewegen sich als Marie und Manda in einer detaillierten Welt, die auch abseits des zentralen Paares weiterzuleben scheint. Das Spiel sollte diese Vertrautheit ausdrücken, anstatt den Zuschauern eine historische Ausstattung vorzuführen.
+
+Merksatz: Die Epoche wird durch selbstverständliches Verhalten innerhalb einer vollständigen Lebenswelt erfahrbar.
+
+Antwortzusätze:
+
+- Ein Verhalten wie von Menschen, die selbstverständlich in jener Epoche leben: Die Darsteller sollten sich wie Bewohner der Epoche verhalten.
+
+Quellen: [1](https://www.criterion.com/current/posts/679-casque-d-or-tenderness-and-violence).
+
+### E2 · experte
+
+Warum hatte „Das Geständnis“ für Simone Signoret und Yves Montand auch eine persönliche politische Bedeutung?
+
+- Sie wollten die sowjetische Niederschlagung des Prager Frühlings verteidigen.
+
+- Sie verfilmten die eigene Gefangenschaft in einem sowjetischen Lager.
+
+- **Richtig: Sie setzten sich nach früherer Sympathie kritisch mit sowjetischer Politik auseinander.**
+
+- Sie wollten ihre damalige Abkehr von jeder politischen Tätigkeit erklären.
+
+Der Film gehörte zu ihrer kritischen Auseinandersetzung mit der früher unterstützten sowjetischen Politik.
+
+Signoret und Montand waren öffentlich engagierte Linke und hatten gemeinsam den Ostblock bereist. Nach der Niederschlagung des Prager Frühlings waren sie von der sowjetischen Politik erschüttert. Costa-Gavras’ Film über einen kommunistischen Funktionär, dem ein Geständnis abgepresst wird, machte diese Kritik sichtbar. Signoret spielt die Frau des Verfolgten. Gerade innerhalb der französischen Linken war das Projekt deshalb umstritten.
+
+Merksatz: Die Kritik an stalinistischen Schauprozessen kam auch aus dem eigenen politischen Lager.
+
+Antwortzusätze:
+
+- Sie setzten sich nach früherer Sympathie kritisch mit sowjetischer Politik auseinander.: Der Film gehörte zu ihrer kritischen Auseinandersetzung mit der früher unterstützten sowjetischen Politik.
+
+Quellen: [1](https://www.criterion.com/current/posts/3578-the-confession-enthralling-absurdity).
+
+## Monica Vitti · Bekanntheitsgruppe 3
+
+![Monica Vitti (1965)](Portraets/109.jpg)
+
+Bild: 1965; Jack de Nijs for Anefo. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Monica_Vitti_(1965)_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/41779).
+
+### L1 · leicht
+
+Welche Beziehung verbindet Claudia (Monica Vitti) und die verschwundene Anna (Lea Massari) in „Die mit der Liebe spielen“?
+
+- **Richtig: Sie sind enge Freundinnen.**
+
+- Sie sind Arbeitskolleginnen.
+
+- Sie sind Schwestern.
+
+- Sie sind Cousinen.
+
+Claudia ist Annas enge Freundin.
+
+Claudia begleitet Anna und deren Freund Sandro (Gabriele Ferzetti) auf einer Bootsfahrt. Auf einer kargen Insel verschwindet Anna, und Claudia beteiligt sich intensiv an der Suche. Ihre Nähe zur Vermissten bestimmt zunächst ihr Verhalten. Als sie selbst Gefühle für Sandro entwickelt, macht gerade diese Freundschaft die neue Beziehung zu einem Loyalitätskonflikt.
+
+Merksatz: Claudia sucht ihre Freundin und gerät später in deren Beziehung hinein.
+
+Antwortzusätze:
+
+- Sie sind enge Freundinnen.: Claudia ist Annas enge Freundin.
+
+Quellen: [1](https://en.wikipedia.org/wiki/L%27Avventura).
+
+### L2 · leicht
+
+Welche Umgebung prägt Giulianas (Monica Vitti) Alltag in „Die rote Wüste“?
+
+- Ein mondäner Kurort in den Alpen
+
+- **Richtig: Ein von Fabriken und Hafenanlagen bestimmtes Industriegebiet**
+
+- Ein bäuerliches Weinanbaugebiet
+
+- Ein abgeschiedenes Bergdorf
+
+Giuliana lebt in einer von Industrieanlagen und Umweltbelastung geprägten Umgebung.
+
+Giuliana bewegt sich zwischen Fabriken, Hafenanlagen und vergifteten Landschaften. Ihr Mann Ugo (Carlo Chionetti) arbeitet in dieser Industriewelt und findet sich in ihr viel selbstverständlicher zurecht. Für Giuliana wird das äußere Umfeld mit ihrer inneren Unruhe verbunden. Die Bilder bestehen zugleich aus präzise gestalteten Farben und Formen; sie zeigen mehr als einen bloßen Schauplatz hinter der Figur.
+
+Merksatz: Giulianas innere Unruhe begegnet einer technisch geformten Landschaft.
+
+Antwortzusätze:
+
+- Ein von Fabriken und Hafenanlagen bestimmtes Industriegebiet: Giuliana lebt in einer von Industrieanlagen und Umweltbelastung geprägten Umgebung.
+
+Quellen: [1](https://www.criterion.com/films/1454-red-desert), [2](https://en.wikipedia.org/wiki/Red_Desert_(film)).
+
+### M1 · mittel
+
+Wie verändert sich Claudias (Monica Vitti) Verhältnis zu Sandro während der Suche in „Die mit der Liebe spielen“?
+
+- Sie setzen eine frühere Affäre fort.
+
+- Sie entwickeln eine rein platonische Freundschaft.
+
+- Sie trennen sich nach einer früheren Verlobung.
+
+- **Richtig: Sie beginnen eine neue Liebesbeziehung.**
+
+Claudia und Sandro beginnen während der Suche nach Anna eine Liebesbeziehung.
+
+Die Suche nach der verschwundenen Anna (Lea Massari) führt Claudia und Sandro (Gabriele Ferzetti) zusammen. Claudia wehrt sich zunächst gegen seine Annäherung, weil sie ihrer Freundin verbunden ist. Nach und nach rückt jedoch ihre eigene Beziehung in den Vordergrund. Die ursprüngliche Vermisstenhandlung erhält keine abschließende Aufklärung; entscheidend wird, wie rasch Gefühle und Bindungen ihren Platz wechseln können.
+
+Merksatz: Die Suche nach Anna wird zur Geschichte von Claudia und Sandro.
+
+Antwortzusätze:
+
+- Sie beginnen eine neue Liebesbeziehung.: Claudia und Sandro beginnen während der Suche nach Anna eine Liebesbeziehung.
+
+Quellen: [1](https://www.criterion.com/current/posts/99-l-avventura-a-present-absence).
+
+### M2 · mittel
+
+In welchem Berufsfeld arbeitet Piero (Alain Delon), dem Vittoria (Monica Vitti) in „Liebe 1962“ näherkommt?
+
+- **Richtig: Im Börsenhandel**
+
+- In der Architektur
+
+- In der Luftfahrt
+
+- Im Verlagswesen
+
+Piero arbeitet als Börsenmakler.
+
+Vittoria hat sich von Riccardo (Francisco Rabal) getrennt und begegnet Piero im Umfeld der Börse, an der ihre Mutter spekuliert. Seine schnelle, geschäftige Welt steht neben Vittorias suchendem, oft zögerndem Umgang mit ihren Gefühlen. Der Film setzt die lärmenden Geldgeschäfte und die stilleren Begegnungen des neuen Paares in ein Spannungsverhältnis, ohne aus der Beziehung eine sichere gemeinsame Zukunft abzuleiten.
+
+Merksatz: Piero bewegt sich in der Welt der schnellen Börsengeschäfte.
+
+Antwortzusätze:
+
+- Im Börsenhandel: Piero arbeitet als Börsenmakler.
+
+Quellen: [1](https://en.wikipedia.org/wiki/L%27Eclisse).
+
+### S1 · schwer
+
+Wie gestaltet „Liebe 1962“ seine letzte längere Montage nach der Geschichte von Vittoria (Monica Vitti) und Piero (Alain Delon)?
+
+- Ihr Abschied wird als Folge von Standbildern wiederholt.
+
+- Beide bilanzieren ihre Beziehung getrennt direkt in die Kamera.
+
+- **Richtig: Vertraute Orte erscheinen, während beide Hauptfiguren fehlen.**
+
+- Ihre Wiederbegegnung wird aus dem Blick eines Kindes gezeigt.
+
+Die Schlussmontage zeigt Orte und andere Menschen ohne das zentrale Paar.
+
+Der Film kehrt zu Straßen, Baustellen und anderen Motiven aus Vittorias Umgebung zurück. Die Kamera folgt nun Passanten, Licht und Gegenständen, statt die Liebesgeschichte mit einem letzten Gespräch aufzulösen. Die bekannten Räume bestehen weiter, während das Paar aus dem Bild verschwindet. Dadurch wird die ausbleibende gemeinsame Zukunft als eine konkrete Abwesenheit im zuvor vertrauten Stadtraum erfahrbar.
+
+Merksatz: Die Welt des Paares bleibt sichtbar, das Paar selbst fehlt.
+
+Antwortzusätze:
+
+- Vertraute Orte erscheinen, während beide Hauptfiguren fehlen.: Die Schlussmontage zeigt Orte und andere Menschen ohne das zentrale Paar.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/features/wandering-souls-ending-leclisse).
+
+### S2 · schwer
+
+Wie entscheidet sich Assunta (Monica Vitti) am Ende von „Mit Pistolen fängt man keine Männer“?
+
+- Sie heiratet ihn und kehrt mit ihm nach Sizilien zurück.
+
+- Sie bringt ihn vor ein britisches Gericht und reist allein ab.
+
+- Sie gibt ihren Beruf auf und übernimmt mit ihm ein Restaurant.
+
+- **Richtig: Sie lässt ihn nach einer gemeinsamen Nacht zurück und fährt zu Osborne.**
+
+Assunta verlässt Vincenzo und fährt zu Dr. Osborne.
+
+Assunta reist zunächst von Sizilien nach Großbritannien, um den Mann zu verfolgen, der sie verlassen hat. Unterwegs lernt sie, außerhalb der alten Ehrvorstellungen zu leben. Als Vincenzo (Carlo Giuffrè) später wieder Anspruch auf sie erhebt, scheint sie ihm nachzugeben. Am folgenden Morgen lässt sie ihn jedoch zurück und nimmt die Fähre zu Osborne (Stanley Baker). Ihre Vergeltung besteht schließlich im eigenen Fortgehen.
+
+Merksatz: Assunta kehrt die frühere Verlassenheit um und entscheidet selbst über ihre Zukunft.
+
+Antwortzusätze:
+
+- Sie lässt ihn nach einer gemeinsamen Nacht zurück und fährt zu Osborne.: Assunta verlässt Vincenzo und fährt zu Dr. Osborne.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Girl_with_the_Pistol).
+
+### E1 · experte
+
+Wie veränderte die Produktion von „Die rote Wüste“ Teile der Umgebung, in der Monica Vitti spielte?
+
+- Die Außenbilder entstanden hinter ständig wechselnden Farbfiltern.
+
+- Die Farben der Außenwelt wurden erst auf der fertigen Kopie aufgetragen.
+
+- **Richtig: Landschaftsteile und Gegenstände wurden vor Ort gezielt übermalt.**
+
+- Alle Industrieanlagen wurden als farbige Studiominiaturen gebaut.
+
+Antonioni ließ Landschaftsteile und Gegenstände mit Farbe übermalen.
+
+Für bestimmte Einstellungen beauftragte Antonioni Szenenbildner Piero Poletto, Farben direkt auf die Landschaft und auf Gegenstände aufzutragen, etwa auf Früchte eines Verkaufswagens. Vitti spielte damit in einer materiell veränderten Umgebung. Die Farbgestaltung reicht darüber hinaus von industriellen Signalfarben bis zu gedämpften Hafenansichten und den leuchtenden Bildern einer erzählten Inselgeschichte.
+
+Merksatz: Die Farben wurden teilweise schon in der wirklichen Drehumgebung hergestellt.
+
+Antwortzusätze:
+
+- Landschaftsteile und Gegenstände wurden vor Ort gezielt übermalt.: Antonioni ließ Landschaftsteile und Gegenstände mit Farbe übermalen.
+
+Quellen: [1](https://www.criterion.com/current/posts/1491-red-desert-in-this-world).
+
+### E2 · experte
+
+Welche besondere Darstellungsaufgabe übernimmt Monica Vitti in Dino Risis Episodenfilm „Wir Frauen sind so“?
+
+- Sie führt als Erzählerin durch die Rollen anderer Schauspielerinnen.
+
+- **Richtig: Sie verkörpert verschiedene Frauen in getrennten Episoden.**
+
+- Sie spielt Zwillingsschwestern innerhalb einer einzigen Handlung.
+
+- Sie spielt dieselbe Frau durch mehrere Jahrzehnte.
+
+Vitti spielt in den einzelnen Episoden unterschiedliche Frauenrollen.
+
+Der Film bündelt zahlreiche komische Miniaturen und gibt Vitti darin zwölf verschiedene Rollen. Eine Episode greift sogar das Bild ihrer Antonioni-Figuren auf: Eine schweigsame Frau im dunklen Mantel bewegt sich mit einem großen Koffer durch moderne Architektur. Das Ensemble unterschiedlicher Frauen zeigt ihre komische Wandlungsfähigkeit, die in der internationalen Wahrnehmung neben ihren berühmten Dramen lange weniger sichtbar war.
+
+Merksatz: Der Episodenfilm macht Vitti zur Trägerin vieler verschiedener komischer Figuren.
+
+Antwortzusätze:
+
+- Sie verkörpert verschiedene Frauen in getrennten Episoden.: Vitti spielt in den einzelnen Episoden unterschiedliche Frauenrollen.
+
+Quellen: [1](https://www.bfi.org.uk/news/monica-vitti-1931-2022).
+
+## Giulietta Masina · Bekanntheitsgruppe 3
+
+![Giulietta Masina (1960)](Portraets/110.jpg)
+
+Bild: 1960; Wim van Rossem for Anefo. CC BY-SA 3.0 nl laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Giulietta_Masina_1960.jpg), [TMDB](https://www.themoviedb.org/person/5402).
+
+### L1 · leicht
+
+Wie kommt Gelsomina (Giulietta Masina) in „La Strada“ zu Zampanò (Anthony Quinn)?
+
+- Sie gewinnt bei ihm einen Lehrvertrag.
+
+- Sie übernimmt nach seinem Unfall seine Schaustellertruppe.
+
+- Sie heiratet ihn gegen den Willen ihrer Mutter.
+
+- **Richtig: Ihre Mutter verkauft sie ihm als Gehilfin.**
+
+Gelsominas Mutter verkauft ihre Tochter an den reisenden Kraftartisten.
+
+Zampanò braucht eine Gehilfin für sein Leben als reisender Kraftartist. Gelsominas arme Mutter nimmt sein Geld an und schickt ihre Tochter mit ihm fort. Gelsomina begleitet seine Kettenbrechernummer mit Musik und komischen Einlagen. Aus der wirtschaftlichen Abhängigkeit wird eine leidvolle Bindung an einen Mann, der ihre Zuneigung kaum erwidern kann.
+
+Merksatz: Der Aufbruch beginnt mit einem Handel über Gelsominas Leben.
+
+Antwortzusätze:
+
+- Ihre Mutter verkauft sie ihm als Gehilfin.: Gelsominas Mutter verkauft ihre Tochter an den reisenden Kraftartisten.
+
+Quellen: [1](https://www.acaciasfilms.com/film/la-strada/), [2](https://www.criterion.com/current/posts/929-la-strada).
+
+### L2 · leicht
+
+Womit verdient Cabiria (Giulietta Masina) in „Die Nächte der Cabiria“ ihren Lebensunterhalt?
+
+- **Richtig: Als Prostituierte in Rom.**
+
+- Als Tänzerin in einer Revue.
+
+- Als Straßenverkäuferin.
+
+- Als Garderobiere eines Theaters.
+
+Cabiria arbeitet als Prostituierte in Rom.
+
+Cabiria hat sich eine gewisse Unabhängigkeit erkämpft, bleibt aber für Liebesversprechen empfänglich. Fellini stellt ihre Hoffnungen und Enttäuschungen in den Mittelpunkt, statt sie auf ihren Beruf zu reduzieren. Masinas Spiel verbindet dabei demonstrative Selbstbehauptung mit einer Verletzlichkeit, die immer wieder durch die komischen Gesten hindurch sichtbar wird.
+
+Merksatz: Cabirias Selbstständigkeit schützt sie nicht vor Liebesbetrug.
+
+Antwortzusätze:
+
+- Als Prostituierte in Rom.: Cabiria arbeitet als Prostituierte in Rom.
+
+Quellen: [1](https://www.criterion.com/films/243).
+
+### M1 · mittel
+
+Was möchte der Seiltänzer (Richard Basehart) Gelsomina (Giulietta Masina) in „La Strada“ mit einem kleinen Stein erklären?
+
+- Dass ein Künstler sein Handwerk ständig üben muss.
+
+- **Richtig: Dass jedes Ding und jeder Mensch eine Aufgabe hat.**
+
+- Dass Reisen wertvoller als dauerhafte Bindungen sind.
+
+- Dass sie sich ohne Geld keine Zukunft aufbauen kann.
+
+Selbst ein unscheinbarer Stein hat eine Aufgabe; deshalb muss auch Gelsominas Leben einen Sinn haben.
+
+Gelsomina zweifelt daran, jemandem nützlich zu sein. Der Seiltänzer beantwortet ihre Verzweiflung mit dem Bild des Steins, dessen Zweck man nicht kennen muss, um an ihn zu glauben. Sie hält daraufhin an der Bindung zu Zampanò (Anthony Quinn) fest. Als dieser den Seiltänzer erschlägt, zerbricht gerade jene Zuversicht, die ihr das Gespräch gegeben hatte.
+
+Merksatz: Der kleine Stein wird zum Bild für Gelsominas Daseinsberechtigung.
+
+Antwortzusätze:
+
+- Dass jedes Ding und jeder Mensch eine Aufgabe hat.: Selbst ein unscheinbarer Stein hat eine Aufgabe; deshalb muss auch Gelsominas Leben einen Sinn haben.
+
+Quellen: [1](https://en.wikipedia.org/wiki/La_Strada).
+
+### M2 · mittel
+
+Was erkennt Cabiria (Giulietta Masina) am Ende ihrer Beziehung zu Oscar (François Périer) in „Die Nächte der Cabiria“?
+
+- Er ist bereits verheiratet und verheimlicht seine Familie.
+
+- Er will sie zu einem Umzug ins Ausland überreden.
+
+- **Richtig: Sein Heiratsversprechen soll ihm Zugang zu ihrem Geld verschaffen.**
+
+- Er hat sie als Vorbild für ein Theaterstück benutzt.
+
+Oscar hat es auf Cabirias Ersparnisse abgesehen.
+
+Nach einem öffentlichen Hypnoseauftritt scheint Oscar ihre Sehnsucht nach einer verlässlichen Liebe ernst zu nehmen. Für die geplante Hochzeit verkauft Cabiria ihr Haus und hebt ihre Ersparnisse ab. Beim gemeinsamen Spaziergang erkennt sie seine Absicht, wirft ihm die Tasche vor die Füße und bleibt allein zurück. Die anschließende Begegnung mit musizierenden Jugendlichen lässt ihr dennoch ein zaghaftes Lächeln.
+
+Merksatz: Das erhoffte gemeinsame Leben endet mit dem Verlust ihrer Ersparnisse.
+
+Antwortzusätze:
+
+- Sein Heiratsversprechen soll ihm Zugang zu ihrem Geld verschaffen.: Oscar hat es auf Cabirias Ersparnisse abgesehen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Nights_of_Cabiria).
+
+### S1 · schwer
+
+Welche Krise verbindet Giuliettas (Giulietta Masina) innere Bilderwelt mit ihrem Alltag in „Julia und die Geister“?
+
+- Ein Erbschaftsstreit mit ihrer Schwester.
+
+- Der Verlust ihrer beruflichen Stellung.
+
+- Der geplante Verkauf ihres Elternhauses.
+
+- **Richtig: Die Untreue und Vernachlässigung durch ihren Mann.**
+
+Giuliettas Ehekrise bildet den Ausgangspunkt ihrer Begegnungen mit Erinnerungen und Geistern.
+
+Giuliettas Mann Giorgio (Mario Pisu) vergisst den Hochzeitstag; nach einer spiritistischen Sitzung dringen phantastische Gestalten in ihre Wahrnehmung ein. Zugleich muss sie sich mit seiner Untreue und den eigenen unterdrückten Wünschen beschäftigen. Die sinnliche Nachbarin Suzy (Sandra Milo) eröffnet ihr eine andere Lebenswelt, deren Verlockungen sie zunächst überfordern. Alltag und Vision lassen sich dabei kaum noch trennen.
+
+Merksatz: Die Geister begleiten eine Frau, deren bisherige Ehegewissheit zerfällt.
+
+Antwortzusätze:
+
+- Die Untreue und Vernachlässigung durch ihren Mann.: Giuliettas Ehekrise bildet den Ausgangspunkt ihrer Begegnungen mit Erinnerungen und Geistern.
+
+Quellen: [1](https://www.criterion.com/current/posts/190-juliet-of-the-spirits).
+
+### S2 · schwer
+
+Was unterbricht den gemeinsamen Fernsehauftritt von Amelia (Giulietta Masina) und Pippo (Marcello Mastroianni) in „Ginger und Fred“?
+
+- **Richtig: Ein Stromausfall im Studio.**
+
+- Ein defektes Tonband mit ihrer Tanzmusik.
+
+- Ein Streit mit dem Moderator.
+
+- Ein Zusammenbruch im Publikum.
+
+Ein Stromausfall unterbricht die Tanznummer.
+
+Die beiden früheren Tanzpartner sollen nach Jahrzehnten für eine Weihnachtsshow wieder zusammen auftreten. Im Dunkeln erzählt Pippo von seinem psychischen Zusammenbruch nach ihrer Trennung. Beide wollen die missglückte Rückkehr abbrechen, doch das Licht geht rechtzeitig wieder an. Sie beenden die Nummer trotz eines Missgeschicks und verabschieden sich später am Bahnhof voneinander.
+
+Merksatz: Die technische Panne schafft Raum für ein persönliches Eingeständnis.
+
+Antwortzusätze:
+
+- Ein Stromausfall im Studio.: Ein Stromausfall unterbricht die Tanznummer.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Ginger_and_Fred).
+
+### E1 · experte
+
+Welche persönliche Anregung gab Fellini Giulietta Masina für Gelsominas Spiel in „La Strada“?
+
+- Sie sollte die Körpersprache einer Wochenschaufigur studieren.
+
+- Sie sollte die Gestik einer älteren Verwandten übernehmen.
+
+- **Richtig: Sie sollte sich von ihrer eigenen Kindheit anregen lassen.**
+
+- Sie sollte Bewegungen einer bestimmten Zirkusartistin nachbilden.
+
+Fellini regte Masina durch ihre eigenen Kindheitsfotos zu Gelsominas Gestaltung an.
+
+Nachdem Fellini Fotografien der jungen Masina gesehen hatte, bat er sie, bei der Figur an ihre eigene Kindheit anzuknüpfen. Gelsominas staunender Blick und ihre clownesken Bewegungen geben ihrer Abhängigkeit von Zampanò (Anthony Quinn) eine besondere körperliche Form. Die Figur ist eine erwachsene Frau; der Bezug zur Kindheit ist ein Mittel ihrer schauspielerischen Gestaltung.
+
+Merksatz: Kindheitsfotos halfen, Gelsominas kindlich staunende Haltung zu entwickeln.
+
+Antwortzusätze:
+
+- Sie sollte sich von ihrer eigenen Kindheit anregen lassen.: Fellini regte Masina durch ihre eigenen Kindheitsfotos zu Gelsominas Gestaltung an.
+
+Quellen: [1](https://www.criterion.com/current/posts/7590-la-strada-beauty-and-the-beast).
+
+### E2 · experte
+
+Wie verbindet sich Giulietta Masinas kurzer Auftritt in „Der weiße Scheich“ mit einer späteren Fellini-Hauptrolle?
+
+- Die Figur kehrt später als Tänzerin Amelia in einer Fernsehshow zurück.
+
+- **Richtig: Sie spielt bereits Cabiria, die später einen eigenen Film erhält.**
+
+- Ihre Figur wird später zur Zirkusgehilfin Gelsomina umgeschrieben.
+
+- Fellini übernimmt daraus die Ehefrau Giulietta mit derselben Familie.
+
+Masina tritt bereits als Cabiria auf; später steht diese Figur im Zentrum von „Die Nächte der Cabiria“.
+
+In der Geschichte eines jungen Ehepaars auf Hochzeitsreise gehört Cabiria zunächst zu den Randfiguren des nächtlichen Rom. Fellini erkannte in Masinas kurzem Auftritt eine Verbindung von dramatischem Spiel und tragikomischer Pantomime. Aus dieser kleinen Begegnung entwickelte sich später eine ganze Erzählung um Cabirias Einsamkeit, Stolz und wiederkehrende Hoffnung auf Liebe.
+
+Merksatz: Eine Nebenfigur des frühen Films wird zur späteren Hauptfigur.
+
+Antwortzusätze:
+
+- Sie spielt bereits Cabiria, die später einen eigenen Film erhält.: Masina tritt bereits als Cabiria auf; später steht diese Figur im Zentrum von „Die Nächte der Cabiria“.
+
+Quellen: [1](https://www.criterion.com/films/374-the-white-sheik), [2](https://www.criterion.com/current/posts/57-nights-of-cabiria).
+
+## Buster Keaton · Bekanntheitsgruppe 4
+
+![Buster Keaton (1924)](Portraets/111.jpg)
+
+Bild: 1924; Photoplay Publishing Co.. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Buster_Keaton_in_Photoplay,_December_1924.jpg), [TMDB](https://www.themoviedb.org/person/8635).
+
+### L1 · leicht
+
+Welchen Beruf hat Johnnie Gray (Buster Keaton) in „Der General“?
+
+- Bahnhofsvorsteher.
+
+- **Richtig: Lokomotivführer.**
+
+- Gleisbauer.
+
+- Telegrafist.
+
+Johnnie Gray ist Lokomotivführer.
+
+Johnnies große Bindungen gelten seiner Lokomotive und Annabelle Lee (Marion Mack). Als gegnerische Soldaten den Zug im amerikanischen Bürgerkrieg entführen, setzt er ihnen nach. Seine praktische Vertrautheit mit der Maschine wird dabei entscheidend: Der vermeintlich unmilitärische Eisenbahner bewährt sich durch Improvisation und Beharrlichkeit.
+
+Merksatz: Der Lokomotivführer kennt seine Maschine besser als die Entführer.
+
+Antwortzusätze:
+
+- Lokomotivführer.: Johnnie Gray ist Lokomotivführer.
+
+Gemeinsames Wissensziel: K-KOM-202609-P02-L-075 (KOM-202609-P02-L-075).
+
+Quellen: [1](https://www.loc.gov/item/2016684114/), [2](https://en.wikipedia.org/wiki/The_General_(1926_film)).
+
+### L2 · leicht
+
+Womit verdient Buster Keatons Hauptfigur in „Sherlock Jr.“ ihr Geld, bevor sie sich als Detektiv erträumt?
+
+- **Richtig: Als Filmvorführer.**
+
+- Als Zeitungsverkäufer.
+
+- Als Nachtwächter.
+
+- Als Hotelpage.
+
+Die Hauptfigur arbeitet als Filmvorführer in einem Kino.
+
+Der junge Vorführer liest ein Detektivhandbuch und versucht auch im wirklichen Leben, einen Diebstahl aufzuklären. Dabei gerät er selbst unter Verdacht. Während einer Vorstellung schläft er ein und träumt sich als erfolgreicher Ermittler in den Film hinein. Das Kino ist damit zugleich sein Arbeitsplatz und der Ort seiner ersehnten Verwandlung.
+
+Merksatz: Aus der Vorführkabine führt der Traum auf die Leinwand.
+
+Antwortzusätze:
+
+- Als Filmvorführer.: Die Hauptfigur arbeitet als Filmvorführer in einem Kino.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Sherlock_Jr.).
+
+### M1 · mittel
+
+Warum gerät Willies (Buster Keaton) Liebe zu Kitty (Marion Byron) in „Steamboat Bill, Jr.“ in den Streit der Väter?
+
+- Kittys Vater hat Willie wegen einer alten Schuld verklagt.
+
+- Ihre Väter streiten um die Leitung derselben Werft.
+
+- Kittys Vater will Willies Vater als Kapitän einstellen.
+
+- **Richtig: Ihre Väter betreiben konkurrierende Dampfschiffe.**
+
+Die Väter sind Konkurrenten im Dampfschiffgeschäft.
+
+Willie kehrt als wenig seemännisch wirkender junger Mann zu seinem Vater zurück. Dieser möchte aus dem Sohn einen passenden Nachfolger machen und stößt sich an dessen Erscheinung. Die Beziehung zu Kitty, der Tochter des mächtigen Konkurrenten, verschärft den Familienkonflikt. Erst die Katastrophe des abschließenden Wirbelsturms gibt Willie Gelegenheit, seine Fähigkeiten unter Beweis zu stellen.
+
+Merksatz: Die Rivalität auf dem Fluss belastet auch die Liebe der Kinder.
+
+Antwortzusätze:
+
+- Ihre Väter betreiben konkurrierende Dampfschiffe.: Die Väter sind Konkurrenten im Dampfschiffgeschäft.
+
+Quellen: [1](https://player.bfi.org.uk/subscription/film/watch-steamboat-bill-jr-1928-online).
+
+### M2 · mittel
+
+Welche Bedingung muss Jimmie Shannon (Buster Keaton) in „Seven Chances“ erfüllen, um das angekündigte Vermögen zu erben?
+
+- **Richtig: Er muss innerhalb der gesetzten Frist heiraten.**
+
+- Er muss seine Anteile am Unternehmen verkaufen.
+
+- Er muss die Schulden seiner Firma vorher zurückzahlen.
+
+- Er muss einen verschollenen Verwandten finden.
+
+Das Erbe ist an eine fristgerechte Heirat gebunden.
+
+Jimmies Firma steht vor dem Ruin, als ein Anwalt ihm die ungewöhnliche Erbbedingung eröffnet. Seine erste Erklärung gegenüber Mary Jones (Ruth Dwyer) klingt so ungeschickt, dass sie den Antrag zurücknimmt. Die Suche nach einer anderen Braut wächst durch eine Zeitungsanzeige zur Massenverfolgung an. Jimmie muss schließlich nicht nur seine Liebe, sondern auch die Uhrzeit richtig verstehen.
+
+Merksatz: Aus einer Erbbedingung wird eine immer größere Jagd nach einer Hochzeit.
+
+Antwortzusätze:
+
+- Er muss innerhalb der gesetzten Frist heiraten.: Das Erbe ist an eine fristgerechte Heirat gebunden.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Seven_Chances).
+
+### S1 · schwer
+
+Was macht den Eintritt von Buster Keatons Traumfigur auf die Leinwand in „Sherlock Jr.“ zunächst so schwierig?
+
+- Er bleibt für alle anderen Figuren unsichtbar.
+
+- Die Filmhandlung läuft rückwärts, sobald er sich bewegt.
+
+- **Richtig: Schnitte versetzen ihn unvermittelt in andere Schauplätze.**
+
+- Die Leinwandfiguren wiederholen jede seiner Bewegungen.
+
+Die wechselnden Einstellungen ändern den Raum um ihn herum, ohne Rücksicht auf seine Bewegung.
+
+Keaton behandelt den Filmschnitt wie eine körperlich erfahrbare Gefahr: Die Traumfigur befindet sich scheinbar im Bild, kann aber dessen Ortswechsel nicht kontrollieren. Aus einer Bewegung wird dadurch ein Hindernis, weil die nächste Einstellung eine andere Umgebung bietet. Erst später beherrscht der geträumte Detektiv die Filmwelt mit jener Sicherheit, die dem Vorführer im Alltag fehlt.
+
+Merksatz: Der Schnitt wechselt die Welt unter Keatons Füßen.
+
+Antwortzusätze:
+
+- Schnitte versetzen ihn unvermittelt in andere Schauplätze.: Die wechselnden Einstellungen ändern den Raum um ihn herum, ohne Rücksicht auf seine Bewegung.
+
+Quellen: [1](https://www.bfi.org.uk/film/4f7add12-c2af-5c5c-bb49-1647ce3240df/sherlock-jr).
+
+### S2 · schwer
+
+Worin liegt die besondere Überforderung von Rollo (Buster Keaton) und Betsy (Kathryn McGuire) in „The Navigator“?
+
+- Sie sollen einen Luxusliner vor seiner ersten Fahrt überprüfen.
+
+- **Richtig: Zwei verwöhnte Menschen müssen ein riesiges Schiff ohne Personal bewältigen.**
+
+- Sie müssen ein Passagierschiff in ein Kriegsschiff umbauen.
+
+- Sie müssen eine Schiffsbesatzung gegen eine Meuterei führen.
+
+Die beiden an Bedienung gewöhnten Menschen müssen auf dem verlassenen Ozeandampfer selbst zurechtkommen.
+
+Rollo geht versehentlich auf das falsche Schiff, während Betsy dort ihren entführten Vater sucht. Der Dampfer treibt davon, und die beiden entdecken einander zunächst nicht einmal. Nun müssen sie in Anlagen für Hunderte von Menschen ihren Alltag zu zweit organisieren. Besonders die überdimensionierte Küche verwandelt alltägliche Verrichtungen in technische und körperliche Probleme.
+
+Merksatz: Ein schwimmender Großbetrieb wird zum Haushalt zweier völlig Ungeübter.
+
+Antwortzusätze:
+
+- Zwei verwöhnte Menschen müssen ein riesiges Schiff ohne Personal bewältigen.: Die beiden an Bedienung gewöhnten Menschen müssen auf dem verlassenen Ozeandampfer selbst zurechtkommen.
+
+Quellen: [1](https://blogs.loc.gov/now-see-hear/2023/02/remembering-buster-keaton-and-the-navigator-1924/).
+
+### E1 · experte
+
+Wie übersteht Buster Keaton in „Steamboat Bill, Jr.“ den Sturz der Hausfassade in dem berühmten Stunt?
+
+- Er springt im letzten Moment in eine Vertiefung im Boden.
+
+- Die Fassade wird vor seinem Körper von einem Stahlseil angehalten.
+
+- **Richtig: Er steht genau in der Falllinie einer offenen Fensteröffnung.**
+
+- Eine aufschwingende Tür lenkt die Fassade an ihm vorbei.
+
+Die offene Fensteröffnung fällt genau über Keatons Körper hinweg.
+
+Der Gag verlangt einen präzisen Standpunkt: Während die schwere Fassade nach vorn kippt, bleibt Keaton unbewegt, und die Öffnung umschließt ihn beim Aufschlag. Ausstatter Fred Gabourie konstruierte die Vorrichtung; verdeckte Helfer lösten die Halteseile. Die sichtbare Ruhe des Darstellers steht im scharfen Gegensatz zu dem Aufwand und Risiko hinter der Einstellung.
+
+Merksatz: Keatons Standpunkt und die Fensteröffnung müssen exakt zusammentreffen.
+
+Antwortzusätze:
+
+- Er steht genau in der Falllinie einer offenen Fensteröffnung.: Die offene Fensteröffnung fällt genau über Keatons Körper hinweg.
+
+Quellen: [1](https://silentfilm.org/steamboat-bill-jr-2/).
+
+### E2 · experte
+
+Welche berufliche Veränderung brachte Buster Keatons Wechsel zu MGM zur Zeit von „The Cameraman“ mit sich?
+
+- Er musste seine Filme nun selbst finanzieren und vertreiben.
+
+- Er erhielt die Leitung einer eigenen Abteilung für Trickfilme.
+
+- Er konzentrierte sich auf Regieaufgaben für andere Komiker.
+
+- **Richtig: Er gab seine unabhängige Produktion zugunsten der Studioorganisation auf.**
+
+Bei MGM verlor Keaton die zuvor weitgehende kreative Selbstständigkeit seiner eigenen Produktion.
+
+Zuvor hatte Keaton mit einem vertrauten Team eigene Filme entwickelt und Joseph Schenck als Produzenten hinter sich gehabt. MGM bot einen großen Studioapparat, bestand aber zunehmend auf der Auswahl von Stoffen und Material durch seine Abteilungen. „The Cameraman“ bewahrt noch viel von Keatons eigener Filmkunst; die Schwierigkeiten des Wechsels sind deshalb am Ergebnis dieses ersten Films weniger deutlich als an seiner Arbeitsweise.
+
+Merksatz: Der Studiovertrag verändert, wer über Keatons Komik entscheidet.
+
+Antwortzusätze:
+
+- Er gab seine unabhängige Produktion zugunsten der Studioorganisation auf.: Bei MGM verlor Keaton die zuvor weitgehende kreative Selbstständigkeit seiner eigenen Produktion.
+
+Quellen: [1](https://busterkeaton.org/about-buster/part-3-the-worst-mistake/).
+
+## Harold Lloyd · Bekanntheitsgruppe 4
+
+![Harold Lloyd (1923)](Portraets/112.jpg)
+
+Bild: 1923; Gene Kornman. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Harold_Lloyd_in_The_Blue_Book_of_the_Screen.jpg), [TMDB](https://www.themoviedb.org/person/88953).
+
+### L1 · leicht
+
+Welche Arbeit hat Harold Lloyds Hauptfigur in „Safety Last!“ zu Beginn ihres Großstadtlebens?
+
+- Buchhalter in einer Bank.
+
+- **Richtig: Verkäufer in einem Kaufhaus.**
+
+- Bürogehilfe in einer Zeitung.
+
+- Empfangsangestellter in einem Hotel.
+
+Der junge Mann arbeitet als Verkäufer in einem Kaufhaus.
+
+Ein junger Mann vom Land sucht sein Glück in der Großstadt und findet zunächst eine untergeordnete Stelle im Kaufhaus. Um Aufmerksamkeit für das Geschäft zu gewinnen, entwickelt er eine spektakuläre Werbeaktion: Ein Mann soll die hohe Fassade erklimmen. Der ehrgeizige Angestellte wird dabei selbst zum Kletterer, und aus dem Wunsch nach beruflichem Aufstieg entsteht die lange Schlusssequenz.
+
+Merksatz: Der soziale Aufsteiger muss am Ende wirklich hinaufklettern.
+
+Antwortzusätze:
+
+- Verkäufer in einem Kaufhaus.: Der junge Mann arbeitet als Verkäufer in einem Kaufhaus.
+
+Quellen: [1](https://www.criterion.com/films/28446-safety-last).
+
+### L2 · leicht
+
+Mit welcher Sportart will Harold Lamb (Harold Lloyd) in „The Freshman“ Anerkennung an seinem College gewinnen?
+
+- Baseball.
+
+- **Richtig: American Football.**
+
+- Leichtathletik.
+
+- Rudern.
+
+Harold versucht sich in der Footballmannschaft des Colleges zu etablieren.
+
+Der Studienanfänger möchte unbedingt beliebt werden und übernimmt dafür sogar die Gesten eines Filmidols. Seine Anstrengungen machen ihn zunächst zum Gegenstand von Spott. Das Footballfeld bietet ihm schließlich eine wirkliche Gelegenheit, sich zu bewähren. Neben der Anerkennung der Mitstudenten zählt für ihn die Zuneigung von Peggy (Jobyna Ralston).
+
+Merksatz: Der Wunsch nach Beliebtheit führt Harold ins Footballteam.
+
+Antwortzusätze:
+
+- American Football.: Harold versucht sich in der Footballmannschaft des Colleges zu etablieren.
+
+Quellen: [1](https://www.criterion.com/films/28510-the-freshman), [2](https://www.criterion.com/current/posts/3112-the-freshman-speedy-saves-the-day-a-harold-lamb-adventure).
+
+### M1 · mittel
+
+Warum muss Harold (Harold Lloyd) in „Safety Last!“ immer weiterklettern, obwohl sein Freund Bill (Bill Strother) übernehmen sollte?
+
+- Bill hat seine Kletterausrüstung im verschlossenen Lager vergessen.
+
+- Die Kaufhausleitung besteht auf Harold als angekündigtem Kletterer.
+
+- **Richtig: Ein Polizist verfolgt Bill und verhindert wiederholt den Wechsel.**
+
+- Bill verlangt unterwegs einen höheren Anteil an der Prämie.
+
+Bills Verfolgung durch einen Polizisten vereitelt den geplanten Austausch auf der Fassade.
+
+Harold hat die Werbeaktion organisiert, weil Bill Gebäude erklettern kann. Doch aus einem früheren Streich hat dieser noch einen Polizisten gegen sich. Harold soll nur den Anfang machen; der Wechsel scheitert dann auf immer neuen Stockwerken. So bleibt der ungeübte Organisator selbst draußen und muss die Hindernisse bewältigen, mit denen er eigentlich seinen Freund beauftragt hatte.
+
+Merksatz: Jede verpasste Ablösung zwingt Harold ein Stockwerk höher.
+
+Antwortzusätze:
+
+- Ein Polizist verfolgt Bill und verhindert wiederholt den Wechsel.: Bills Verfolgung durch einen Polizisten vereitelt den geplanten Austausch auf der Fassade.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Safety_Last!).
+
+### M2 · mittel
+
+Welcher Sportstar spielt in „Speedy“ einen Fahrgast im Taxi von Harold Lloyds Hauptfigur?
+
+- **Richtig: Babe Ruth.**
+
+- Lou Gehrig.
+
+- Walter Johnson.
+
+- Ty Cobb.
+
+Babe Ruth tritt als er selbst auf und fährt in Speedys Taxi mit.
+
+Speedys Begeisterung für die Yankees lenkt ihn immer wieder von seiner Arbeit ab. Ausgerechnet bei der Fahrt mit Babe Ruth verwandelt sich diese Schwärmerei in eine turbulente Begegnung mit dem Idol. Der Gastauftritt gehört zu den vielen Verbindungen des Films mit dem damaligen New York, dessen Straßen und Vergnügungsorte weit mehr als austauschbare Kulissen bilden.
+
+Merksatz: Der Yankees-Fan chauffiert sein eigenes Idol.
+
+Antwortzusätze:
+
+- Babe Ruth.: Babe Ruth tritt als er selbst auf und fährt in Speedys Taxi mit.
+
+Quellen: [1](https://www.criterion.com/films/28497-speedy), [2](https://www.criterion.com/current/posts/3826-speedy-the-comic-figure-of-the-average-man).
+
+### S1 · schwer
+
+Welche Stellung erhält Harold (Harold Lloyd) zunächst heimlich im Footballteam von „The Freshman“, während er sich für aufgenommen hält?
+
+- Er soll die Spielzüge des Gegners auskundschaften.
+
+- Er soll den Mannschaftskapitän bei Auswärtsspielen vertreten.
+
+- **Richtig: Er soll als Wasserträger beim Team bleiben.**
+
+- Er soll das Training als Schiedsrichter begleiten.
+
+Man lässt Harold als Wasserträger bleiben, ohne ihm die wirkliche Stellung klarzumachen.
+
+Im Training wird Harold nach dem Ausfall der Übungspuppe selbst zum ständig umgerissenen Ziel. Sein ungebrochener Eifer beeindruckt den Trainer, reicht aber zunächst nicht für einen Mannschaftsplatz. Der Kapitän schlägt vor, ihn als Wasserträger zu behalten und im Glauben an seine Aufnahme zu lassen. Erst als im entscheidenden Spiel die Ersatzspieler ausgehen, bekommt Harold die erhoffte echte Chance.
+
+Merksatz: Die vermeintliche Aufnahme ist zunächst eine höflich verpackte Zurücksetzung.
+
+Antwortzusätze:
+
+- Er soll als Wasserträger beim Team bleiben.: Man lässt Harold als Wasserträger bleiben, ohne ihm die wirkliche Stellung klarzumachen.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Freshman_(1925_film)).
+
+### S2 · schwer
+
+Wie täuscht Harold Hickory (Harold Lloyd) Sandoni (Constantine Romanoff) auf dem Schiff in „The Kid Brother“ über seinen Standort?
+
+- Er lässt einen Plattenspieler Stimmen auf dem Oberdeck wiedergeben.
+
+- Er stößt in einem anderen Raum absichtlich eine Kiste um.
+
+- Er bewegt mit einer Schnur eine Jacke hinter einem Fenster.
+
+- **Richtig: Er lässt einen Affen mit seinen Schuhen auf dem Oberdeck laufen.**
+
+Ein Affe läuft in Harolds Schuhen über ihm und erzeugt die irreführenden Schritte.
+
+Auf dem Schiff entdeckt Harold die Diebe des Geldes für den neuen Staudamm. Gegen den kräftigen Sandoni setzt er Einfallsreichtum ein: Während der Affe oben vermeintliche menschliche Schritte erzeugt, versteckt er sich selbst unten in einem Schrank. Der Stummfilm macht den gedachten Klang durch die sichtbare Ursache verständlich und nutzt ihn als Bestandteil des Versteckspiels.
+
+Merksatz: Sichtbare Schuhe erzeugen einen Ton, den das Publikum innerlich ergänzt.
+
+Antwortzusätze:
+
+- Er lässt einen Affen mit seinen Schuhen auf dem Oberdeck laufen.: Ein Affe läuft in Harolds Schuhen über ihm und erzeugt die irreführenden Schritte.
+
+Quellen: [1](https://www.criterion.com/current/posts/6239-the-kid-brother-mettle-is-stronger-than-muscle).
+
+### E1 · experte
+
+Welche Verletzungsfolge kaschierte Harold Lloyd bei seinen späteren Filmauftritten mit einem Spezialhandschuh?
+
+- **Richtig: Den Verlust von Daumen und Zeigefinger der rechten Hand.**
+
+- Eine steife linke Hand nach einer Sehnenverletzung.
+
+- Eine Lähmung einzelner Finger an beiden Händen.
+
+- Eine großflächige Brandnarbe auf dem linken Unterarm.
+
+Lloyd hatte Daumen und Zeigefinger der rechten Hand verloren.
+
+Bei einem Fototermin explodierte eine vermeintliche Requisitenbombe in Lloyds Hand. Nach der Genesung verdeckte ein Handschuh mit künstlichen Fingern die bleibende Verletzung vor der Kamera. Die späteren körperlich anspruchsvollen Auftritte, darunter „Safety Last!“, entstanden damit unter einer Einschränkung, die aus der Erscheinung des unauffälligen Brillenträgers kaum abzulesen ist.
+
+Merksatz: Die scheinbar unversehrte Filmhand enthält zwei künstliche Finger.
+
+Antwortzusätze:
+
+- Den Verlust von Daumen und Zeigefinger der rechten Hand.: Lloyd hatte Daumen und Zeigefinger der rechten Hand verloren.
+
+Quellen: [1](https://www.criterion.com/current/posts/2804-safety-last-high-flying-harold).
+
+### E2 · experte
+
+Welche Aufnahmetechnik erzeugt in den Nahaufnahmen von Harold Lloyds Fassadenkletterei in „Safety Last!“ den Eindruck eines durchgehenden Aufstiegs?
+
+- Ein waagerecht liegendes Gebäude mit seitlich gedrehter Kamera.
+
+- Eine bemalte Glasplatte zwischen Darsteller und Straßenaufnahme.
+
+- Eine bewegliche Miniaturfassade vor einer Rückprojektion.
+
+- **Richtig: Fassadenkulissen auf echten Dächern, deren Boden die Kamera ausspart.**
+
+Kulissen auf mehreren Gebäudedächern und sorgfältige Bildausschnitte erzeugen die scheinbar zusammenhängende Fassade.
+
+Die Produktion errichtete Kletterkulissen auf unterschiedlich hohen Dächern in Los Angeles. Ein benachbarter Kameraturm ermöglichte den Blick auf Lloyd und die echte Stadt darunter, während das unmittelbar unter ihm liegende Dach aus dem Bild blieb. Die tatsächliche Höhe und die begrenzte Sturztiefe gehörten so zur selben Aufnahme. Ergänzend zeigen Fernaufnahmen den professionellen Kletterer Bill Strother.
+
+Merksatz: Das ausgesparte Dach lässt eine Kulisse wie die Fortsetzung der ganzen Hauswand erscheinen.
+
+Antwortzusätze:
+
+- Fassadenkulissen auf echten Dächern, deren Boden die Kamera ausspart.: Kulissen auf mehreren Gebäudedächern und sorgfältige Bildausschnitte erzeugen die scheinbar zusammenhängende Fassade.
+
+Quellen: [1](https://www.laconservancy.org/wp-content/uploads/2022/10/HaroldLloydSafetyLastTour.pdf).
+
+## Jacques Tati · Bekanntheitsgruppe 4
+
+![Jacques Tati (1969)](Portraets/113.jpg)
+
+Bild: 1969; Kari Santala / Lehtikuva. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Jacques-Tati-1969-a.jpg), [TMDB](https://www.themoviedb.org/person/5763).
+
+### L1 · leicht
+
+Welche wiederkehrende Figur verkörpert Jacques Tati in „Mein Onkel“ und „Playtime“?
+
+- Monsieur Jourdain
+
+- **Richtig: Monsieur Hulot**
+
+- Monsieur Verdoux
+
+- Monsieur Hire
+
+Tatis wiederkehrende Filmfigur heißt Monsieur Hulot.
+
+Mit Mantel, Hut und Schirm gerät Hulot in eine Umgebung, deren Regeln er nie ganz versteht. Seine Bewegungen bringen die sorgfältig geordneten Räume durcheinander.
+
+Merksatz: Mantel, Schirm und die Welt im Umbruch: Hulot.
+
+Quellen: [1](https://www.criterion.com/films/360).
+
+### L2 · leicht
+
+Welchen Beruf hat Jacques Tatis François in „Tatis Schützenfest“?
+
+- Bahnhofsvorsteher
+
+- Feuerwehrmann
+
+- Dorfschullehrer
+
+- **Richtig: Briefträger**
+
+François ist der Briefträger des Dorfes.
+
+Seine vertraute Runde wird zum Schauplatz körperlicher Komik. Der Jahrmarkt bringt ein neues Bild von Fortschritt in die kleine Gemeinde.
+
+Merksatz: François trägt die Post aus.
+
+Gemeinsames Wissensziel: K-F240-20261006-109-L1 (F240-20261006-109-L1).
+
+Quellen: [1](https://theamericanfrenchfilmfestival.org/jour-de-fete/).
+
+### M1 · mittel
+
+Welches Vorbild bringt Jacques Tatis Briefträger in „Tatis Schützenfest“ zu immer hektischeren Zustellversuchen?
+
+- Ein Werbefilm für die Eisenbahn
+
+- Eine Reportage über Pariser Fahrradkuriere
+
+- **Richtig: Ein Film über die amerikanische Post**
+
+- Eine Vorführung der französischen Luftwaffe
+
+Ein Film über den US-Postbetrieb weckt seinen Ehrgeiz.
+
+François versucht, das spektakuläre Tempo der Leinwand in seinem Dorf nachzuahmen. Sein eigenes Fahrrad setzt diesem Ideal sehr sichtbare Grenzen.
+
+Merksatz: Amerikanische Postbilder beschleunigen die Dorfrunde.
+
+Gemeinsames Wissensziel: K-F240-20261006-109-M1 (F240-20261006-109-M1).
+
+Quellen: [1](https://theamericanfrenchfilmfestival.org/jour-de-fete/).
+
+### M2 · mittel
+
+Wo verbringt Jacques Tatis Figur ihre Ferien in „Die Ferien des Monsieur Hulot“?
+
+- **Richtig: In einem Hotel am Meer**
+
+- Auf einem Flusskreuzfahrtschiff
+
+- Auf einem ländlichen Bauernhof
+
+- In einem Bergsanatorium
+
+Hulot besucht einen Badeort mit Strandhotel.
+
+Gemeinsames Essen, Strandbesuche und Spiele organisieren die Urlaubstage. Tati gewinnt seine Komik aus kleinen Störungen dieser gesellschaftlichen Rituale.
+
+Merksatz: Hulots Urlaub führt ins Strandhotel.
+
+Quellen: [1](https://www.criterion.com/films/360), [2](https://www.bfi.org.uk/lists/10-great-films-set-hotels).
+
+### S1 · schwer
+
+Was war „Tativille“, das Jacques Tati für „Playtime“ errichten ließ?
+
+- Ein Verfahren für bewegliche Kamerawände
+
+- **Richtig: Eine eigens gebaute moderne Filmstadt**
+
+- Ein mobiles Ensemble von Straßenkünstlern
+
+- Ein Studio für die französische Synchronfassung
+
+Tativille war die eigens errichtete Stadtkulisse.
+
+Hochhäuser, Straßen und technische Versorgung machten die Anlage zu einer kleinen künstlichen Stadt. Tati konnte ihre Räume genau auf die Bewegungen und Missverständnisse seiner Komödie abstimmen.
+
+Merksatz: Tativille machte moderne Architektur zur bespielbaren Kulisse.
+
+Quellen: [1](https://www.criterion.com/current/posts/5699-tativille-in-louisville).
+
+### S2 · schwer
+
+Warum ließ Jacques Tati für „Die Ferien des Monsieur Hulot“ eine zusätzliche Hotelfassade bauen?
+
+- Um dieselben Szenen im Winter nachdrehen zu können
+
+- Um an einem zweiten Strand parallel drehen zu können
+
+- Um den Bau wie ein britisches Hotel wirken zu lassen
+
+- **Richtig: Um den laufenden Betrieb des echten Hotels zu schonen**
+
+Die Kulisse begrenzte Eingriffe in den wirklichen Hotelbetrieb.
+
+Tati wollte das echte Hôtel de la Plage weiter nutzen, während dort Gäste wohnten. Die gebaute Vorderseite gab dem Team zusätzliche Kontrolle über die Dreharbeiten.
+
+Merksatz: Eine künstliche Vorderseite schützte den echten Alltag.
+
+Quellen: [1](https://www.criterion.com/current/posts/3337-jacques-tati-composing-in-sound-and-image).
+
+### E1 · experte
+
+Warum kam Jacques Tatis ursprünglich farbig konzipiertes „Tatis Schützenfest“ zunächst in Schwarz-Weiß heraus?
+
+- Die Farbnegative waren beim Transport durch Hitze beschädigt worden.
+
+- Eine fehlerhafte Belichtung machte das Farbmaterial unbrauchbar.
+
+- **Richtig: Die Entwicklung des experimentellen Farbverfahrens scheiterte.**
+
+- Der Verleih scheute die Kosten für die Herstellung von Farbkopien.
+
+Das Thomson-Color-Material ließ sich zunächst nicht entwickeln.
+
+Eine zweite Kamera hatte vorsorglich Schwarz-Weiß-Material aufgenommen. Erst lange nach Tatis Tod gelang die Aufbereitung der ursprünglichen Farbnegative.
+
+Merksatz: Die zweite Kamera rettete die Veröffentlichung.
+
+Quellen: [1](https://www.criterion.com/current/posts/3337-jacques-tati-composing-in-sound-and-image).
+
+### E2 · experte
+
+Welche Arbeitsweise prägte Jacques Tatis Gestaltung des Filmtons?
+
+- **Richtig: Er komponierte die Tonspur getrennt nach den stummen Aufnahmen.**
+
+- Er improvisierte Bildfolgen zu einer zuvor fertigen Tonspur.
+
+- Er ließ Bewegungen zu einer vorab aufgenommenen Musik einstudieren.
+
+- Er arbeitete überwiegend mit direkt am Drehort aufgenommenem Originalton.
+
+Tati gestaltete den Ton nach der Bildaufnahme gesondert.
+
+Er konnte Geräusche hervorheben und damit den Blick auf Einzelheiten lenken. Bild und Ton bilden so eine präzise organisierte Komik, auch wenn Dialog kaum Handlung erklärt.
+
+Merksatz: Geräusche führen den Blick durch Tatis Bilder.
+
+Quellen: [1](https://www.criterion.com/current/posts/3337-jacques-tati-composing-in-sound-and-image).
+
+## Michel Piccoli · Bekanntheitsgruppe 4
+
+![Michel Piccoli (1965)](Portraets/114.jpg)
+
+Bild: 1965; Audreey.ma. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Michel_Piccoli_anno_1965_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/3784).
+
+### L1 · leicht
+
+Welchen Beruf hat Michel Piccolis Paul Javal in „Die Verachtung“?
+
+- Filmkomponist
+
+- Kameramann
+
+- Filmproduzent
+
+- **Richtig: Drehbuchautor**
+
+Paul Javal arbeitet als Drehbuchautor.
+
+Ein Auftrag verbindet seine beruflichen Kompromisse mit einer Ehekrise. Während er am Filmtext arbeitet, verliert er zunehmend den Zugang zu seiner Frau Camille.
+
+Merksatz: Paul soll ein Drehbuch überarbeiten.
+
+Gemeinsames Wissensziel: K-E20261007-F-263-L1 (E20261007-F-263-L1).
+
+Quellen: [1](https://www.criterion.com/films/239-contempt).
+
+### L2 · leicht
+
+Was verhindert zunächst den öffentlichen Auftritt von Michel Piccolis neu gewähltem Papst in „Habemus Papam“?
+
+- Eine plötzliche Heiserkeit
+
+- Ein Streit um die Gültigkeit der Wahl
+
+- **Richtig: Eine akute Panikreaktion**
+
+- Eine Warnung der Sicherheitskräfte
+
+Eine Panikreaktion verhindert den geplanten ersten Auftritt.
+
+Der erwartete öffentliche Auftritt wird zur persönlichen Krise. Piccoli verbindet die Komik des entlaufenen Würdenträgers mit Angst vor einer gewaltigen Verantwortung.
+
+Merksatz: Ein gewählter Papst kann sein Amt nicht annehmen.
+
+Quellen: [1](https://www.bfi.org.uk/lists/michel-piccoli-10-essential-films).
+
+### M1 · mittel
+
+Welche geheime Stellung hat Michel Piccolis Figur in Alfred Hitchcocks „Topas“?
+
+- Leiter einer britischen Spionageabwehr
+
+- **Richtig: Chef eines sowjetischen Spionagerings in Frankreich**
+
+- Kurier einer kubanischen Widerstandsgruppe
+
+- Informant der amerikanischen Botschaft in Moskau
+
+Piccoli spielt den Kopf eines sowjetischen Spionagerings.
+
+Die Figur gehört zur französischen Machtelite und arbeitet verdeckt für die Gegenseite. Der vertraute Umgang der Beteiligten wird dadurch selbst verdächtig.
+
+Merksatz: Ein französischer Insider führt ein sowjetisches Netz.
+
+Quellen: [1](https://www.bfi.org.uk/lists/michel-piccoli-10-essential-films).
+
+### M2 · mittel
+
+Wozu wirbt Michel Piccolis älterer Krimineller den jungen Alex in „Die Nacht ist jung“ an?
+
+- **Richtig: Zum Diebstahl eines Serums gegen eine neue Krankheit**
+
+- Zur Entführung eines internationalen Waffenhändlers
+
+- Zur Flucht eines Gefangenen aus einem Krankenhaus
+
+- Zum Austausch gefälschter Dokumente im Flughafen
+
+Alex soll ein wertvolles Serum stehlen.
+
+Leos Carax verbindet eine Gangstergeschichte mit einer erfundenen Epidemie. Zwischen Piccolis erfahrenem Verbrecher und dem jungen Alex stehen auch verschiedene Vorstellungen von Liebe und Zukunft.
+
+Merksatz: Ein Serumraub verbindet die Generationen.
+
+Quellen: [1](https://www.bfi.org.uk/lists/michel-piccoli-10-essential-films).
+
+### S1 · schwer
+
+Warum engagiert Michel Piccolis alternder Simon in Agnès Vardas „Hundert und eine Nacht“ eine junge Filmstudentin?
+
+- Sie soll seine unvollendeten Drehbücher verkaufen.
+
+- **Richtig: Sie soll ihm Filmgeschichten gegen den Gedächtnisverlust erzählen.**
+
+- Sie soll sein Schloss als Filmstudio vermieten.
+
+- Sie soll verschollene Tonnegative restaurieren.
+
+Die Filmstudentin soll seine Erinnerungen an das Kino auffrischen.
+
+Simon Cinéma lebt zwischen Filmgeschichte und persönlicher Erinnerung. Varda macht Piccolis Figur zum Gastgeber eines Spiels mit Stars, Zitaten und den Bildern vergangener Jahrzehnte.
+
+Merksatz: Filmgeschichten helfen Simon Cinémas Gedächtnis.
+
+Quellen: [1](https://www.bfi.org.uk/lists/michel-piccoli-10-essential-films).
+
+### S2 · schwer
+
+Was entwickelt Michel Piccolis Glauco beruflich in „Dillinger ist tot“?
+
+- **Richtig: Gasmasken**
+
+- Überwachungskameras
+
+- Kühlschränke
+
+- Automatische Spielautomaten
+
+Glauco konstruiert Gasmasken.
+
+Seine Arbeit macht das Atmen in einer gefährlichen Umgebung möglich. Ferreri stellt daneben einen Mann, der sich auch privat in eine abgeschlossene, technisch ausgestattete Welt zurückzieht.
+
+Merksatz: Der Gasmaskenkonstrukteur lebt selbst abgeschirmt.
+
+Quellen: [1](https://www.criterion.com/current/posts/1409-dillinger-is-dead-apocalypse-now).
+
+### E1 · experte
+
+Welcher literarische Text inspirierte „Die schöne Querulantin“, in dem Michel Piccoli den Maler Frenhofer spielt?
+
+- Zolas „Das Werk“
+
+- Wilde: „Das Bildnis des Dorian Gray“
+
+- **Richtig: Balzacs „Das unbekannte Meisterwerk“**
+
+- Prousts „Die Gefangene“
+
+Rivette griff Balzacs Künstlererzählung auf.
+
+Der Film übernimmt die Konstellation eines Malers und eines schwer erreichbaren Werkes. Lange Arbeitssequenzen verlagern die Aufmerksamkeit auf den Vorgang des Zeichnens und Malens.
+
+Merksatz: Frenhofers Suche führt zu Balzacs unbekanntem Meisterwerk.
+
+Quellen: [1](https://www.bfi.org.uk/lists/michel-piccoli-10-essential-films).
+
+### E2 · experte
+
+Wessen malende Hände ersetzen Michel Piccolis Hände in Nahaufnahmen von „Die schöne Querulantin“?
+
+- Die Hände des Kameramanns William Lubtchansky
+
+- Die Hände des Darstellers David Bursztein
+
+- Die Hände des Regisseurs Jacques Rivette
+
+- **Richtig: Die Hände des Malers Bernard Dufour**
+
+Bernard Dufour führte die sichtbaren Mal- und Zeichenarbeiten aus.
+
+Seine Hände verleihen der dargestellten Arbeit eine tatsächliche handwerkliche Dauer. Piccolis Figur und Dufours Ausführung werden durch den Schnitt zu einem gemeinsamen Künstlerkörper.
+
+Merksatz: Piccoli spielt Frenhofer, Dufour zeichnet und malt.
+
+Quellen: [1](https://era.ed.ac.uk/server/api/core/bitstreams/58b488de-4a26-4514-9ca3-ee37c6eb59c3/content), [2](https://bfidatadigipres.github.io/michel%20piccoli%3Cbr%3Ea%20fearless%20talent/2023/06/24/belle-noiseuse/).
+
+## Philippe Noiret · Bekanntheitsgruppe 4
+
+![Philippe Noiret (1989)](Portraets/115.jpg)
+
+Bild: 1989; Georges Biard. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Philippe_Noiret_Cannes_1989_cropped.jpg), [TMDB](https://www.themoviedb.org/person/24366).
+
+### L1 · leicht
+
+Welchen Beruf übt Philippe Noirets Alfredo in „Cinema Paradiso“ aus?
+
+- **Richtig: Filmvorführer**
+
+- Kinobesitzer
+
+- Drehbuchautor
+
+- Wanderfotograf
+
+Alfredo ist der Filmvorführer des Dorfkinos.
+
+Der kleine Salvatore darf ihm bei der Arbeit zusehen und lernt die technische Seite der Bilder kennen. Aus dieser Begegnung entsteht eine lebenslange Bindung an das Kino.
+
+Merksatz: Alfredo öffnet Salvatore die Vorführkabine.
+
+Quellen: [1](https://www.miramax.com/movie/cinema-paradiso/).
+
+### L2 · leicht
+
+Welchen wirklichen Dichter spielt Philippe Noiret in „Der Postmann“?
+
+- Federico García Lorca
+
+- **Richtig: Pablo Neruda**
+
+- Antonio Machado
+
+- Jorge Luis Borges
+
+Noiret verkörpert den chilenischen Dichter Pablo Neruda.
+
+Im italienischen Exil freundet er sich mit seinem Postboten Mario an. Die Gespräche über Dichtung verändern Marios Blick auf die eigene Umgebung und seine Liebe.
+
+Merksatz: Noiret bringt Neruda auf die italienische Insel.
+
+Quellen: [1](https://www.miramax.com/movie/the-postman-il-postino/).
+
+### M1 · mittel
+
+Wie verändert Philippe Noirets Bauer nach dem Tod seiner Frau seinen Alltag in „Alexander, der Lebenskünstler“?
+
+- Er übernimmt die Leitung einer landwirtschaftlichen Genossenschaft.
+
+- Er eröffnet mit seinem Hund eine Wandervorstellung.
+
+- **Richtig: Er bleibt zunächst im Bett und widmet sich dem Müßiggang.**
+
+- Er verkauft die Felder und zieht nach Paris.
+
+Alexander verweigert die bisherige Arbeitshetze.
+
+Die Witwerschaft befreit ihn von den unablässigen Aufträgen seiner Frau. Sein demonstrativer Müßiggang stört die Ordnung des Dorfes und findet zugleich Nachahmer.
+
+Merksatz: Alexander entdeckt die Freiheit des Nichtstuns.
+
+Quellen: [1](https://fr.wikipedia.org/wiki/Alexandre_le_Bienheureux), [2](https://www.cinematheque.qc.ca/fr/cinema/alexandre-le-bienheureux/).
+
+### M2 · mittel
+
+Was löst Philippe Noirets Rachefeldzug in „Das alte Gewehr“ aus?
+
+- Die Deportation seines Bruders
+
+- Die Denunziation eines Widerstandsfreundes
+
+- **Richtig: Die Ermordung seiner Frau und Tochter**
+
+- Die Zerstörung seines Krankenhauses
+
+Deutsche Soldaten haben seine Frau und seine Tochter ermordet.
+
+Der zuvor friedfertige Chirurg Julien Dandieu findet die beiden im vermeintlich sicheren Familienanwesen. Die Rückblenden auf ihr gemeinsames Leben stehen neben seiner Gewalt gegen die Täter.
+
+Merksatz: Der Chirurg verliert Frau und Tochter.
+
+Quellen: [1](https://fr.wikipedia.org/wiki/Le_Vieux_Fusil).
+
+### S1 · schwer
+
+Welche Stellung hat Philippe Noirets Lucien Cordier in „Der Saustall“?
+
+- Leiter einer Missionsschule
+
+- **Richtig: Polizeichef in einer französischen Kolonialstadt**
+
+- Schiffsarzt im Dienst einer Handelsgesellschaft
+
+- Verwalter einer britischen Plantage
+
+Cordier ist ein kolonialer Polizeichef in Französisch-Westafrika.
+
+Seine scheinbare Trägheit verbirgt eine wachsende Fähigkeit zur Manipulation. Wenn er gegen seine Gegner vorgeht, benutzt er die Gewalt jener Ordnung, für die er selbst steht.
+
+Merksatz: Cordiers Amt gehört zum kolonialen System.
+
+Quellen: [1](https://www.criterion.com/films/647-coup-de-torchon), [2](https://www.criterion.com/current/posts/9248-coup-de-torchon-all-crimes-are-collective).
+
+### S2 · schwer
+
+Was bringt Philippe Noirets René seinem jungen Kollegen in „Die Bestechlichen“ näher?
+
+- Die Technik der forensischen Spurensicherung
+
+- Die Arbeit einer verdeckten Terrorfahndung
+
+- Den Aufbau eines polizeilichen Zeugenschutzprogramms
+
+- **Richtig: Den Alltag aus Bestechung und geduldeten Regelbrüchen**
+
+René führt den Kollegen in seinen korrupten Polizeialltag ein.
+
+Er behandelt lokale Rechtsverstöße als verhandelbare Geschäfte und finanziert damit seine Gewohnheiten. Der unerfahrene François gerät zwischen anfängliche Prinzipien und die Bequemlichkeit dieses Systems.
+
+Merksatz: René unterrichtet Korruption als Alltagsroutine.
+
+Quellen: [1](https://fr.wikipedia.org/wiki/Les_Ripoux).
+
+### E1 · experte
+
+In welchem Ensemble Jean Vilars sammelte Philippe Noiret wichtige Bühnenerfahrung vor seiner großen Filmkarriere?
+
+- Im Théâtre du Soleil
+
+- In der Comédie-Française
+
+- In der Compagnie Renaud-Barrault
+
+- **Richtig: Im Théâtre National Populaire**
+
+Noiret gehörte zu Jean Vilars Théâtre National Populaire.
+
+Die Truppe verband ein anspruchsvolles Repertoire mit dem Ziel, neue Zuschauer zu erreichen. Zu ihrem Ensemble gehörten Darsteller, die später auch das französische Kino prägten.
+
+Merksatz: Noirets Bühne war Vilars TNP.
+
+Quellen: [1](https://www.tnp-villeurbanne.com/app/uploads/2021/07/21-22-bref-4-format-print-planche2.pdf).
+
+### E2 · experte
+
+Welche Verlagerung prägt „Der Saustall“ mit Philippe Noiret gegenüber Jim Thompsons Roman „Pop. 1280“?
+
+- **Richtig: Vom amerikanischen Süden in Französisch-Westafrika**
+
+- Vom französischen Kaiserreich in die Gegenwart
+
+- Vom kolonialen Afrika ins besetzte Paris
+
+- Von der Sowjetunion in eine amerikanische Kleinstadt
+
+Die US-Kleinstadt wird zur französischen Kolonialgesellschaft.
+
+Tavernier versetzt die Handlung in die Zeit vor dem Zweiten Weltkrieg. Die Anpassung bewahrt die Verbindung von persönlicher Gewalt und rassistischer Ordnung und verändert ihren historischen Bezug.
+
+Merksatz: Thompsons amerikanischer Sheriff wird ein französischer Kolonialpolizist.
+
+Quellen: [1](https://www.criterion.com/current/posts/9248-coup-de-torchon-all-crimes-are-collective).
+
+## Jean Rochefort · Bekanntheitsgruppe 4
+
+![Jean Rochefort (1979)](Portraets/116.jpg)
+
+Bild: 1979; Hans van Dijk for Anefo. CC0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Jean_Rochefort,_Bestanddeelnr_930-2697.jpg), [TMDB](https://www.themoviedb.org/person/24421).
+
+### L1 · leicht
+
+Welche literarische Figur sollte Jean Rochefort in Terry Gilliams 2000 abgebrochenem Filmprojekt spielen, dessen Scheitern „Lost in La Mancha“ zeigt?
+
+- Gulliver
+
+- Baron Münchhausen
+
+- Robinson Crusoe
+
+- **Richtig: Don Quijote**
+
+Rochefort war als Don Quijote vorgesehen.
+
+Die Dokumentation begleitet eine Produktion, in der technische, meteorologische und gesundheitliche Probleme zusammenkommen. Der Film mit dieser Besetzung konnte damals nicht fertiggestellt werden.
+
+Merksatz: Rochefort war Gilliams erster gedrehter Don Quijote.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/interviews/terry-gilliam-on-set-man-who-killed-don-quixote-adaptation-jonathan-pryce-adam-driver), [2](https://en.wikipedia.org/wiki/Lost_in_La_Mancha).
+
+### L2 · leicht
+
+Welche Stellung hat Jean Rocheforts Colonel Toulouse in „Der große Blonde mit dem schwarzen Schuh“?
+
+- Ermittler der amerikanischen Drogenfahndung
+
+- **Richtig: Chef des französischen Geheimdienstes**
+
+- Leiter der Flughafensicherheit von Orly
+
+- Dirigent eines Pariser Orchesters
+
+Toulouse ist Chef eines französischen Geheimdienstes.
+
+Er täuscht seinem rivalisierenden Stellvertreter vor, ein zufällig ausgewählter Reisender sei ein Spitzenagent. Die Täuschung verwandelt gewöhnliches Verhalten in scheinbar bedeutsame Spionagezeichen.
+
+Merksatz: Toulouse organisiert die Falle für seinen Stellvertreter.
+
+Quellen: [1](https://fr.wikipedia.org/wiki/Le_Grand_Blond_avec_une_chaussure_noire).
+
+### M1 · mittel
+
+Welche Tätigkeit übt Jean Rocheforts Michel Mortez in „Tandem“ aus?
+
+- Er organisiert Gastspiele eines Theaterensembles.
+
+- Er führt ein mobiles Kino durch Frankreich.
+
+- **Richtig: Er moderiert ein reisendes Radioquiz.**
+
+- Er kommentiert Pferderennen im Fernsehen.
+
+Mortez moderiert eine Radiospielsendung auf Tournee.
+
+Mit seinem Tontechniker fährt er von Ort zu Ort. Hinter den routinierten Auftritten wachsen berufliche Unsicherheit und die Abhängigkeit der beiden voneinander.
+
+Merksatz: Mortez und sein Techniker reisen für ein Radioquiz.
+
+Quellen: [1](https://www.canalplus.com/cinema/tandem/h/8023120_40099/resume-casting/), [2](https://fr.wikipedia.org/wiki/Tandem_(film)).
+
+### M2 · mittel
+
+Mit welcher wiederkehrenden körperlichen Darbietung fällt Jean Rocheforts Antoine in „Der Mann der Friseuse“ auf?
+
+- **Richtig: Mit ausgelassenen Bauchtänzen**
+
+- Mit akrobatischen Steptänzen
+
+- Mit pantomimischen Boxkämpfen
+
+- Mit Drehorgelauftritten vor dem Salon
+
+Antoine tanzt immer wieder Bauchtanz.
+
+Die eigentümlichen Bewegungen gehören zu seiner ganz eigenen Welt der Freude. Seine Liebe zu Mathilde und zum Friseursalon wird auch durch solche körperlichen Ausbrüche erzählt.
+
+Merksatz: Antoines Begeisterung nimmt die Form eines Tanzes an.
+
+Quellen: [1](https://www.lemonde.fr/archives/article/1990/10/05/l-amour-tricote-main-avec-le-mari-de-la-coiffeuse-son-dixieme-film-patrice-leconte-reussit-l-impossible-traduire-un-fantasme-en-images_3982444_1819218.html), [2](https://scholar.lib.vt.edu/InterNews/LeMonde/issues/2000/monde.20001231.pdf).
+
+### S1 · schwer
+
+Welche gemeinsame Vergangenheit belastet Jean Rocheforts Kommandanten und seine Kameraden in „Der Haudegen“?
+
+- Den spanischen Bürgerkrieg und die Besatzung Madrids
+
+- Die russische Revolution und den Bürgerkrieg
+
+- Den Koreakrieg und die amerikanische Luftbrücke
+
+- **Richtig: Die französischen Kolonialkriege in Indochina und Algerien**
+
+Die Erinnerungen führen nach Indochina und Algerien.
+
+Auf dem Kriegsschiff wird der abwesende Willsdorff zur beherrschenden Gestalt. Die Männer sprechen zugleich über Kameradschaft, frühere Entscheidungen und das, was sie einander schuldig geblieben sind.
+
+Merksatz: Willsdorffs Erinnerung verbindet zwei französische Kolonialkriege.
+
+Quellen: [1](https://www.cinematheque.fr/film/51222.html).
+
+### S2 · schwer
+
+Wie hilft Jean Rocheforts Marquis de Bellegarde dem Neuankömmling in „Ridicule“?
+
+- **Richtig: Er verschafft ihm Unterkunft und Zugang zum Hof.**
+
+- Er beschafft ihm ein militärisches Kommando.
+
+- Er vermittelt ihm eine Stelle als königlicher Musiklehrer.
+
+- Er macht ihn zum Herausgeber einer Hofzeitung.
+
+Bellegarde beherbergt Grégoire und führt ihn am Hof ein.
+
+Für den jungen Mann wird gesellschaftlicher Witz zu einer Voraussetzung politischen Gehörs. Rocheforts Figur vermittelt zwischen dem Anliegen des Besuchers und den Spielregeln von Versailles.
+
+Merksatz: Bellegarde öffnet die Türen der höfischen Gesellschaft.
+
+Quellen: [1](https://fr.wikipedia.org/wiki/Ridicule).
+
+### E1 · experte
+
+Welches gesundheitliche Problem machte Jean Rochefort die Weiterarbeit an Gilliams erster gedrehter Quijote-Fassung unmöglich?
+
+- Eine Netzhautablösung
+
+- **Richtig: Ein doppelter Bandscheibenvorfall**
+
+- Eine schwere Kehlkopfentzündung
+
+- Ein gerissener Achillessehnenansatz
+
+Ein doppelter Bandscheibenvorfall verhinderte die Weiterarbeit.
+
+Nach Fluglärm und Unwetterschäden fehlte damit auch der Hauptdarsteller. Die Dokumentation hält fest, wie mehrere Probleme einen bereits begonnenen Dreh zum Stillstand bringen.
+
+Merksatz: Die Erkrankung des Hauptdarstellers entschied das Ende des Drehs mit.
+
+Quellen: [1](https://www.bfi.org.uk/sight-and-sound/interviews/terry-gilliam-on-set-man-who-killed-don-quixote-adaptation-jonathan-pryce-adam-driver).
+
+### E2 · experte
+
+Welche Sehnsucht verbindet Jean Rocheforts pensionierten Lehrer mit dem Bankräuber in „Das zweite Leben des Monsieur Manesquier“?
+
+- Beide wünschen sich eine Karriere im Musiktheater.
+
+- Beide wollen zu ihren früheren Ehefrauen zurückkehren.
+
+- **Richtig: Jeder sehnt sich nach der Lebensweise des anderen.**
+
+- Beide suchen die Familie eines vermissten Freundes.
+
+Lehrer und Räuber beneiden einander um ihre unterschiedlichen Leben.
+
+Manesquier stellt sich Abenteuer vor, während Milan Ruhe und Kultur anziehen. Rocheforts bürgerliche Figur und Johnny Hallydays Gangster lassen dadurch sichtbar werden, was ihren bisherigen Lebenswegen fehlt.
+
+Merksatz: Der Lehrer träumt vom Abenteuer, der Räuber von Ruhe.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Man_on_the_Train_(2002_film)), [2](https://www.rottentomatoes.com/m/the_man_on_the_train).
+
+## Gian Maria Volonté · Bekanntheitsgruppe 4
+
+![Gian Maria Volonté (Historische Aufnahme; genaues Jahr nicht belegt)](Portraets/117.jpg)
+
+Bild: Historische Aufnahme; genaues Jahr nicht belegt; Elena Torre from Viareggio, Italia. CC BY-SA 2.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Gian_Maria_Volont%C3%A8.jpg), [TMDB](https://www.themoviedb.org/person/14276).
+
+### L1 · leicht
+
+Welchen Gegner Clint Eastwoods spielt Gian Maria Volonté in „Für eine Handvoll Dollar“?
+
+- Tuco
+
+- Angel Eyes
+
+- **Richtig: Ramón Rojo**
+
+- Frank
+
+Volonté spielt Ramón Rojo.
+
+Ramón gehört zu den rivalisierenden Machthabern des Grenzortes. Die Rolle verbindet demonstrative Selbstsicherheit mit einer Gewalt, auf die der Fremde mit Täuschung reagiert.
+
+Merksatz: Volontés erster Leone-Gegner heißt Ramón.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Gian_Maria_Volont%C3%A9).
+
+### L2 · leicht
+
+Wie heißt der von Gian Maria Volonté gespielte Bandenführer in „Für ein paar Dollar mehr“?
+
+- Tuco
+
+- **Richtig: El Indio**
+
+- El Chuncho
+
+- Cheyenne
+
+Volonté verkörpert El Indio.
+
+Der von einer Spieluhr begleitete Gegner wird von zwei Kopfgeldjägern verfolgt. Volonté kehrt nach dem ersten Dollar-Film mit einer neuen Figur zurück.
+
+Merksatz: Volontés zweiter Leone-Gegner heißt El Indio.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Gian_Maria_Volont%C3%A9).
+
+### M1 · mittel
+
+Was macht Gian Maria Volontés Polizeichef in „Ermittlungen gegen einen über jeden Verdacht erhabenen Bürger“ zum Täter und Ermittler zugleich?
+
+- Er untersucht einen von ihm angeordneten Bankraub.
+
+- Er untersucht den von ihm vertuschten Tod seines Vorgesetzten.
+
+- **Richtig: Er untersucht den Mord an seiner eigenen Geliebten, den er begangen hat.**
+
+- Er untersucht einen Anschlag, den er selbst überlebt hat.
+
+Er hat seine Geliebte ermordet und wirkt an der Untersuchung mit.
+
+Der Kommissar verlässt sich auf den Schutz seines Ranges. Die Handlung stellt die Frage, ob eine Institution die Schuld eines mächtigen eigenen Mitglieds überhaupt anerkennen kann.
+
+Merksatz: Der Ermittler untersucht sein eigenes Verbrechen.
+
+Quellen: [1](https://www.criterion.com/films/27911-investigation-of-a-citizen-above-suspicion).
+
+### M2 · mittel
+
+Welches Ereignis erschüttert Gian Maria Volontés Akkordarbeiter in „Die Arbeiterklasse kommt ins Paradies“?
+
+- **Richtig: Der Verlust eines Fingers bei der Arbeit**
+
+- Die Verhaftung seines Sohnes bei einem Streik
+
+- Der Verlust seiner Wohnung nach einer Lohnkürzung
+
+- Die Schließung des Werks ohne Vorankündigung
+
+Ein Arbeitsunfall kostet ihn einen Finger.
+
+Lulù war zuvor ein Vorbild für hohes Arbeitstempo. Nach dem Unfall verändert sich sein Verhältnis zu Leistung, Kollegen und den Konflikten vor dem Fabriktor.
+
+Merksatz: Der Akkordmeister verliert einen Finger.
+
+Quellen: [1](https://www.museocinema.it/it/press/comunicati-stampa/fare-gli-italiani-la-storia-ditalia-nel-cinema-la-classe-operaia-va).
+
+### S1 · schwer
+
+Wessen innere Verbannung spielt Gian Maria Volonté in „Christus kam nur bis Eboli“?
+
+- **Richtig: Die Carlo Levis**
+
+- Die Ignazio Silones
+
+- Die Cesare Paveses
+
+- Die Antonio Gramscis
+
+Volonté verkörpert Carlo Levi.
+
+Das faschistische Regime verbannt den antifaschistischen Künstler und ausgebildeten Arzt in den armen Süden Italiens. Seine Begegnungen werden später zur Grundlage des autobiografischen Buches.
+
+Merksatz: Carlo Levi lernt im Exil das ländliche Süditalien kennen.
+
+Quellen: [1](https://www.criterion.com/current/posts/7107-christ-stopped-at-eboli-memories-of-exile).
+
+### S2 · schwer
+
+Welchen Wirtschaftsbereich leitete der von Gian Maria Volonté gespielte Enrico Mattei in „Der Fall Mattei“?
+
+- Den italienischen Stahlkonzern Italsider
+
+- **Richtig: Den staatlichen Energiekonzern ENI**
+
+- Die italienische Automobilindustrie bei Fiat
+
+- Die nationale Fluggesellschaft Alitalia
+
+Mattei war Präsident des Energiekonzerns ENI.
+
+Der Film untersucht seine Rolle in der italienischen Energiepolitik und die ungeklärten Umstände seines Flugzeugabsturzes. Internationale wirtschaftliche Interessen gehören damit zum Hintergrund des Porträts.
+
+Merksatz: Matteis Machtzentrum war ENI.
+
+Quellen: [1](https://www.festival-cannes.com/f/il-caso-mattei/), [2](https://www.cinematheque.qc.ca/fr/cinema/the-mattei-affair/).
+
+### E1 · experte
+
+Welches reale Ereignis floss in Francesco Rosis „Der Fall Mattei“ mit Gian Maria Volonté ein, während der Film recherchiert wurde?
+
+- Ein überlebender Pilot veröffentlichte ein Geständnis.
+
+- Ein ehemaliger Minister zog seine Aussage vor Gericht zurück.
+
+- Die Filmproduktion erhielt Matteis unveröffentlichtes Testament.
+
+- **Richtig: Der recherchierende Journalist Mauro De Mauro verschwand.**
+
+Der für die Recherche tätige Journalist De Mauro verschwand.
+
+Die Suche nach Informationen wurde selbst Teil des Stoffes. Rosis Film behandelt damit auch die Schwierigkeiten und Gefahren, unter denen ein politischer Todesfall untersucht wird.
+
+Merksatz: Die filmische Recherche bekam einen eigenen Vermisstenfall.
+
+Quellen: [1](https://www.festival-cannes.com/f/il-caso-mattei/).
+
+### E2 · experte
+
+Wodurch zeigt Gian Maria Volontés Polizeichef in „Ermittlungen gegen einen über jeden Verdacht erhabenen Bürger“ Macht als eingeübte Darstellung?
+
+- Er übernimmt im Verhör konsequent die Sprechweise der Verdächtigen.
+
+- Er spricht öffentliche Befehle ausschließlich aus dem Off.
+
+- Er verzichtet im Dienst auf Rangzeichen und persönliche Rituale.
+
+- **Richtig: Er übt seine Aussagen mit eigener Tonaufnahme und wiederholten Gesten.**
+
+Er probt Sprache und Gesten anhand seiner eigenen Aufnahme.
+
+Die wiederholten Lautstärkewechsel und Bewegungen machen Autorität zu einer Vorstellung, die sich selbst bestätigt. Sein amtlicher Auftritt gehört ebenso zur Figur wie das Verbrechen.
+
+Merksatz: Der Kommissar inszeniert sich selbst als Autorität.
+
+Quellen: [1](https://www.criterion.com/current/posts/2979-investigation-of-a-citizen-above-suspicion-the-long-harm-of-the-law).
+
+## Vittorio Gassman · Bekanntheitsgruppe 4
+
+![Vittorio Gassman (1983/1984; Beschreibung und Datumsfeld weichen ab)](Portraets/118.jpg)
+
+Bild: 1983/1984; Beschreibung und Datumsfeld weichen ab; Michaud, Fernand (1929-2012). Photographe. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Vittorio_Gassman_-_portrait_de_Fernand_Michaud_-_btv1b10329562g.jpg), [TMDB](https://www.themoviedb.org/person/12259).
+
+### L1 · leicht
+
+Wen nimmt Vittorio Gassmans Bruno in „Verliebt in scharfe Kurven“ auf seine rasante Fahrt mit?
+
+- **Richtig: Einen schüchternen Jurastudenten**
+
+- Einen frisch entlassenen Strafgefangenen
+
+- Einen mittellosen amerikanischen Musiker
+
+- Einen jungen Polizisten außer Dienst
+
+Bruno nimmt den zurückhaltenden Studenten Roberto mit.
+
+Gassmans redseliger Draufgänger und Jean-Louis Trintignants vorsichtiger Mitfahrer reagieren sehr verschieden auf dieselben Begegnungen. Die Reise bringt sie einander näher und führt zugleich auf eine Katastrophe zu.
+
+Merksatz: Brunos Tempo trifft auf Robertos Vorsicht.
+
+Quellen: [1](https://www.criterion.com/films/28429-il-sorpasso).
+
+### L2 · leicht
+
+Welche körperliche Einschränkung hat Vittorio Gassmans pensionierter Offizier in „Der Duft der Frauen“?
+
+- Er ist auf einem Ohr taub.
+
+- **Richtig: Er ist erblindet.**
+
+- Er kann nicht mehr sprechen.
+
+- Er kann einen Arm nicht bewegen.
+
+Fausto ist blind.
+
+Ein junger Soldat begleitet ihn auf einer Reise. Der schroffe Offizier versucht, Abhängigkeit mit demonstrativer Sicherheit und Provokationen zu überspielen.
+
+Merksatz: Faustos Schärfe steht neben seiner Blindheit.
+
+Quellen: [1](https://en.wikipedia.org/wiki/Scent_of_a_Woman_(1974_film)).
+
+### M1 · mittel
+
+Welchen Beruf hat Vittorio Gassmans Peppe vor dem Einbruchsplan in „Diebe haben’s schwer“?
+
+- Schneider
+
+- Fotograf
+
+- **Richtig: Boxer**
+
+- Straßenbahnschaffner
+
+Peppe ist ein erfolgloser Boxer.
+
+Sein großspuriger Führungsanspruch steht auf schwachen Beinen. Der Film stellt eine Gruppe mit alltäglichen Sorgen vor, deren Auftreten professioneller wirkt als ihre Fähigkeiten.
+
+Merksatz: Peppes Stärke reicht weder im Ring noch beim Einbruch aus.
+
+Quellen: [1](https://www.criterion.com/current/posts/142-big-deal-on-madonna-street).
+
+### M2 · mittel
+
+An welcher Front kämpfen Vittorio Gassman und Alberto Sordi in „Man nennt es den großen Krieg“?
+
+- An der italienischen Front des Zweiten Weltkriegs
+
+- An der Kolonialfront in Äthiopien
+
+- An der spanischen Bürgerkriegsfront
+
+- **Richtig: An der italienischen Front des Ersten Weltkriegs**
+
+Sie spielen italienische Soldaten im Ersten Weltkrieg.
+
+Die zunächst eigennützigen Männer versuchen, den Gefahren auszuweichen. Ihre Erfahrung an der Front führt die Komik gewöhnlicher Überlebensversuche in eine tragische Entscheidung.
+
+Merksatz: Gassman und Sordi geraten in den Ersten Weltkrieg.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Great_War_(1959_film)).
+
+### S1 · schwer
+
+Welche Entscheidung kennzeichnet Vittorio Gassmans gesellschaftlichen Aufstieg in „Wir waren so verliebt“?
+
+- Er gründet mit seinen Freunden ein öffentliches Krankenhaus.
+
+- Er übernimmt die Redaktion einer linken Tageszeitung.
+
+- Er lässt sich als Abgeordneter einer Widerstandspartei wählen.
+
+- **Richtig: Er heiratet die Tochter eines skrupellosen Bauunternehmers.**
+
+Gianni heiratet die Tochter eines reichen Bauunternehmers.
+
+Die Verbindung verschafft ihm Wohlstand, entfernt ihn aber von früheren Bindungen. Seine Geschichte steht neben anderen Lebenswegen aus derselben Widerstandsgeneration.
+
+Merksatz: Giannis Aufstieg kostet ihn frühere Gemeinsamkeit.
+
+Quellen: [1](https://www.cinematheque.fr/seance/22063.html).
+
+### S2 · schwer
+
+Welche Art von Held ist Vittorio Gassmans Brancaleone in „Die unglaublichen Abenteuer des hochwohllöblichen Ritters Branca Leone“?
+
+- Ein königlicher Gesandter auf einer diplomatischen Mission
+
+- **Richtig: Ein wenig erfolgreicher Ritter mit einer zusammengewürfelten Gefolgschaft**
+
+- Ein gelehrter Klostervorsteher auf Pilgerreise
+
+- Ein wohlhabender Kaufmann mit einer professionellen Eskorte
+
+Brancaleone ist ein großspuriger Ritter mit wenig ruhmreicher Truppe.
+
+Die mittelalterliche Reise zerlegt Vorstellungen von Ritterlichkeit und heroischer Führung. Gassmans feierliche Rede steht dabei neben Armut, Zufall und sehr handfesten Bedürfnissen.
+
+Merksatz: Große Ritterworte begleiten eine armselige Truppe.
+
+Quellen: [1](https://en.wikipedia.org/wiki/L%27armata_Brancaleone).
+
+### E1 · experte
+
+Welches Ziel verfolgte Vittorio Gassman mit dem Teatro Popolare Italiano und seinem großen Theaterzelt?
+
+- **Richtig: Anspruchsvolles Theater auch bisher ausgeschlossenen Zuschauern zugänglich zu machen**
+
+- Gemeinsame Tourneen mehrerer Stadttheater zu organisieren
+
+- Italienische Klassiker mit einem festen Ensemble im Ausland bekannt zu machen
+
+- Erfolgreiche Inszenierungen an andere Theater weiterzugeben
+
+Das Projekt sollte neue Zuschauer für anspruchsvolles Theater gewinnen.
+
+Niedrige Eintrittspreise und eine große Zeltbühne gehörten zum Vorhaben. Der tatsächliche Transport erwies sich als schwierig; die Arbeit an einem breiteren Publikum blieb dennoch sein Kern.
+
+Merksatz: Gassmans Theaterprojekt sollte ein neues Publikum erreichen.
+
+Quellen: [1](https://www.treccani.it/enciclopedia/vittorio-gassman_(Dizionario-Biografico)/).
+
+### E2 · experte
+
+Wie veränderte Vittorio Gassman für Peppe in „Diebe haben’s schwer“ sein zuvor elegantes Leinwandbild?
+
+- Durch militärischen Kurzhaarschnitt und durchgehend nüchterne Diktion
+
+- Durch betont aristokratische Kleidung und flüsternde Aussprache
+
+- **Richtig: Durch veränderte Gesichtszüge im Maskenbild und stotternde Sprache**
+
+- Durch Verzicht auf Mimik und eine unbewegliche Körperhaltung
+
+Maskenbild und stotternde Sprache machten Peppe zur komischen Gegenfigur.
+
+Abstehende Ohren, eine vergrößerte Nase und die Sprechweise schwächten das vertraute elegante Erscheinungsbild. Monicelli nutzte so Gassmans schon auf der Bühne erprobte komische Fähigkeiten.
+
+Merksatz: Peppe bricht mit Gassmans früherem Liebhaberbild.
+
+Quellen: [1](https://www.treccani.it/enciclopedia/vittorio-gassman_(Dizionario-Biografico)/).
+
+## Nino Manfredi · Bekanntheitsgruppe 4
+
+![Nino Manfredi (1970er-Jahre; Metadaten 1973, Filmjahr in Beschreibung 1974)](Portraets/119.jpg)
+
+Bild: 1970er-Jahre; Metadaten 1973, Filmjahr in Beschreibung 1974; Franco Brusati. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Pane_e_cioccolata_-_Nino_Manfredi.jpg), [TMDB](https://www.themoviedb.org/person/37583).
+
+### L1 · leicht
+
+Welche Figur spielt Nino Manfredi in Luigi Comencinis Fernsehfassung von „Pinocchio“?
+
+- **Richtig: Geppetto**
+
+- Meister Kirsch
+
+- Der Fuchs
+
+- Mangiafuoco
+
+Manfredi spielt den Holzschnitzer Geppetto.
+
+Die Rai-Verfilmung gibt Pinocchios Schöpfer die Gestalt eines armen, sorgenvollen Vaters. Manfredis Spiel verbindet dessen Zuneigung mit den Mühen des täglichen Lebens.
+
+Merksatz: Manfredi ist Pinocchios Geppetto.
+
+Quellen: [1](https://www.raicultura.it/cinema/articoli/2021/03/Le-avventure-di-Pinocchio-di-Luigi-Comencini-038c6e93-0a75-49f1-bf63-a7de9adf3386.html).
+
+### L2 · leicht
+
+In welchem Land sucht Nino Manfredis italienischer Arbeiter in „Brot und Schokolade“ Arbeit und Anerkennung?
+
+- In Deutschland
+
+- In Belgien
+
+- **Richtig: In der Schweiz**
+
+- In Frankreich
+
+Er lebt als italienischer Migrant in der Schweiz.
+
+Er versucht, in einer fremden Umgebung Arbeit und Würde zu bewahren. Die komischen Situationen entstehen oft aus dem Wunsch, nicht als unerwünschter Außenseiter aufzufallen.
+
+Merksatz: Manfredis Nino kämpft in der Schweiz um Zugehörigkeit.
+
+Quellen: [1](https://www.museocinema.it/it/press/comunicati-stampa/fare-gli-italiani-la-storia-ditalia-nel-cinema-la-classe-operaia-va).
+
+### M1 · mittel
+
+Welche Arbeit verrichtet Nino Manfredis Antonio in „Wir waren so verliebt“?
+
+- Er schreibt Filmkritiken für eine Zeitung.
+
+- **Richtig: Er arbeitet als Krankenhausträger.**
+
+- Er unterrichtet an einer Schule.
+
+- Er arbeitet als Rechtsanwalt.
+
+Antonio arbeitet als Träger im Krankenhaus.
+
+Unter den drei früheren Widerstandskämpfern bleibt er dem proletarischen Alltag am nächsten. Sein Lebensweg steht neben dem sozialen Aufstieg und den enttäuschten Hoffnungen seiner Freunde.
+
+Merksatz: Antonio bleibt im Alltag des Krankenhauses verankert.
+
+Quellen: [1](https://www.treccani.it/enciclopedia/nino-manfredi_(Enciclopedia-del-Cinema)/).
+
+### M2 · mittel
+
+Woher stammt das Geld, das Nino Manfredis Giacinto in „Die Schmutzigen, die Hässlichen und die Gemeinen“ vor seiner Familie bewacht?
+
+- Aus dem Verkauf einer geerbten Wohnung
+
+- Aus einem Gewinn bei der Fußballlotterie
+
+- Aus einem gemeinsamen Einbruch der Familie
+
+- **Richtig: Aus einer Entschädigung nach dem Verlust eines Auges**
+
+Giacinto hat nach einer Augenverletzung eine Entschädigung erhalten.
+
+Das Geld liegt mitten in einer überfüllten Hütte, bleibt aber seiner Kontrolle unterworfen. Es verschärft den Streit zwischen einem tyrannischen Familienoberhaupt und seinen Angehörigen.
+
+Merksatz: Eine Invaliditätsentschädigung wird zum Familienkonflikt.
+
+Quellen: [1](https://www.critikat.com/actualite-cine/critique/affreux-sales-et-mechants/), [2](https://www.institut-lumiere.org/francais/pdf/RDPF106.pdf).
+
+### S1 · schwer
+
+Welche Beziehung entdeckt Nino Manfredis geistlicher Richter zum jungen Angeklagten in „Im Namen des Papstes“?
+
+- Der Angeklagte ist sein jüngerer Halbbruder.
+
+- **Richtig: Der Angeklagte ist sein unehelicher Sohn.**
+
+- Der Angeklagte ist der Sohn seines Lehrmeisters.
+
+- Der Angeklagte ist sein früherer Adoptivsohn.
+
+Cesare ist der leibliche Sohn des Richters.
+
+Die Enthüllung macht einen politischen Prozess zur persönlichen Gewissensfrage. Colombo muss seine institutionelle Rolle und die Verantwortung für den eigenen Sohn zusammenbringen.
+
+Merksatz: Der päpstliche Richter urteilt über seinen Sohn.
+
+Quellen: [1](https://www.cinematheque.fr/film/57369.html).
+
+### S2 · schwer
+
+Welche Auszeichnung erhielt Nino Manfredi in Cannes für seine Regiearbeit an „Per grazia ricevuta“?
+
+- **Richtig: Den Preis für das beste Erstlingswerk**
+
+- Den Preis für die beste Regie
+
+- Den Preis für den besten Darsteller
+
+- Den Preis für das beste Drehbuch
+
+Der Film erhielt 1971 den Preis für das beste Erstlingswerk.
+
+Manfredi stand hier auch hinter der Kamera und erzählte eine Geschichte mit autobiografischen Zügen. Die Auszeichnung galt diesem Schritt zum langen eigenen Film.
+
+Merksatz: Cannes würdigte Manfredis erstes langes Regiewerk.
+
+Quellen: [1](https://www.festival-cannes.com/f/per-grazia-ricevuta/), [2](https://www.treccani.it/enciclopedia/nino-manfredi_(Enciclopedia-del-Cinema)/).
+
+### E1 · experte
+
+Welche Vorlage übertrug Nino Manfredi für sein weitgehend stummes Regiedebüt „L’avventura di un soldato“ auf die Leinwand?
+
+- Ein Hörspiel von Cesare Zavattini
+
+- Eine Erzählung von Alberto Moravia
+
+- **Richtig: Eine Erzählung von Italo Calvino**
+
+- Ein Bühnenstück von Eduardo De Filippo
+
+Der kurze Episodenfilm beruht auf einer Erzählung Italo Calvinos.
+
+Manfredi setzte bei dieser frühen Regiearbeit auf Rhythmus, Mimik und knappe Beobachtungen. Das literarische Material wurde so zu einer Erzählung mit stark körperlichen Ausdrucksmitteln.
+
+Merksatz: Calvinos Soldat wurde zu Manfredis früher Regieprobe.
+
+Quellen: [1](https://www.treccani.it/enciclopedia/nino-manfredi_(Enciclopedia-del-Cinema)/).
+
+### E2 · experte
+
+Mit welchem Ensembleumfeld musste Nino Manfredi sein Spiel als Giacinto in „Die Schmutzigen, die Hässlichen und die Gemeinen“ verbinden?
+
+- Mit international besetzten Stars aus mehreren Sprachräumen
+
+- Mit einem festen Ensemble des italienischen Rundfunks
+
+- Mit einer Gruppe klassisch ausgebildeter Shakespeare-Darsteller
+
+- **Richtig: Mit Laiendarstellern aus römischen Vorstadtsiedlungen**
+
+Er spielte mit Laiendarstellern aus dem dargestellten sozialen Milieu.
+
+Manfredi musste seine Erfahrung in eine Besetzung einfügen, die selbst dem Leben der römischen Siedlungen nahestand. Die Figur behält dabei eine starke tragische und komische Präsenz.
+
+Merksatz: Ein erfahrener Hauptdarsteller spielt mitten in einem Laienensemble.
+
+Quellen: [1](https://www.critikat.com/actualite-cine/critique/affreux-sales-et-mechants/).
+
+## Alberto Sordi · Bekanntheitsgruppe 4
+
+![Alberto Sordi (1972)](Portraets/120.png)
+
+Bild: 1972; Luigi Comencini (director), De Laurentis Inter. Ma. Co. (production). Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Lo_scopone_scientifico_(1972)_Alberto_Sordi_(3).png), [TMDB](https://www.themoviedb.org/person/45982).
+
+### L1 · leicht
+
+Welches Essen besiegt Alberto Sordis Begeisterung für amerikanische Ernährungsgewohnheiten in der berühmten Küchenszene von „Ein Amerikaner in Rom“?
+
+- Eine Pizza
+
+- Eine Schüssel Polenta
+
+- Ein Teller Risotto
+
+- **Richtig: Ein Teller Pasta**
+
+Nando greift schließlich zum Teller Pasta.
+
+Seine Begeisterung für amerikanische Vorbilder hält der vertrauten Küche nicht stand. Die Szene macht den Gegensatz von angelerntem Auftreten und alltäglichem Geschmack sichtbar.
+
+Merksatz: Nandos Amerika-Traum scheitert am Pastateller.
+
+Quellen: [1](https://cinetecadibologna.it/programmazione/proiezione/un-americano-a-roma/).
+
+### L2 · leicht
+
+In welchem Unterhaltungsmedium ist Alberto Sordis „weißer Scheich“ in Fellinis gleichnamigem Film ein Star?
+
+- In einer Operettenbühne
+
+- **Richtig: In einem Fotoroman**
+
+- In einer Radio-Abenteuerserie
+
+- In einer Wochenschau
+
+Der Scheich ist der Held eines Fotoromans.
+
+Die frisch verheiratete Wanda sucht ihren romantischen Medienhelden persönlich auf. Der wirkliche Mann hinter der fotografierten Figur entspricht ihren Vorstellungen jedoch kaum.
+
+Merksatz: Der Fotoromanheld hält der wirklichen Begegnung nicht stand.
+
+Quellen: [1](https://www.criterion.com/films/374-the-white-sheik).
+
+### M1 · mittel
+
+Warum erscheint Alberto Sordis Geschäftsmann in „Der Witwer“ der vermeintliche Tod seiner Frau zunächst als Glücksfall?
+
+- Er rechnet mit dem Verkauf ihrer gemeinsamen Firma.
+
+- Er glaubt, seine geschäftlichen Konkurrenten verlieren damit ihren Einfluss.
+
+- **Richtig: Er hofft auf ihre finanzielle Hinterlassenschaft.**
+
+- Er erwartet die Auszahlung einer hohen Lebensversicherung.
+
+Er erhofft sich Zugang zum Vermögen seiner Frau.
+
+Alberto Nardi ist ein erfolgloser, verschwenderischer Unternehmer. Seine wohlhabende Frau kontrolliert das Geld und begegnet seinem großspurigen Auftreten mit Verachtung.
+
+Merksatz: Nardis Witwerglück beruht auf dem Vermögen seiner Frau.
+
+Quellen: [1](https://www.cinematheque.fr/film/66911.html).
+
+### M2 · mittel
+
+Weshalb werden Alberto Sordis Oreste und sein Kamerad am Ende von „Man nennt es den großen Krieg“ erschossen?
+
+- Sie werden beim Diebstahl österreichischer Waffen erwischt.
+
+- Sie sollen als Geiseln einen Gefangenenaustausch erzwingen.
+
+- **Richtig: Sie verraten den Österreichern die italienischen Stellungen nicht.**
+
+- Sie haben einen feindlichen Offizier bei der Flucht getötet.
+
+Die beiden geben die militärischen Informationen nicht preis.
+
+Die Männer hatten zuvor vor allem das eigene Überleben gesucht. In der Gefangenschaft verweigern sie schließlich den Verrat; ihre Kameraden erfahren nichts von diesem Opfer.
+
+Merksatz: Die vermeintlichen Drückeberger verweigern am Ende den Verrat.
+
+Quellen: [1](https://en.wikipedia.org/wiki/The_Great_War_(1959_film)).
+
+### S1 · schwer
+
+Welcher Konflikt prägt Alberto Sordis früheren Partisanen Silvio in „Ein schweres Leben“?
+
+- Sein journalistischer Ehrgeiz führt zum Bruch mit seinen bäuerlichen Eltern.
+
+- **Richtig: Seine politischen Überzeugungen geraten mit Wohlstand und beruflichen Kompromissen in Konflikt.**
+
+- Seine Unterstützung der Monarchie belastet seine frühere Widerstandsgruppe.
+
+- Sein Wunsch nach einer politischen Karriere widerspricht der Parteidisziplin.
+
+Silvio ringt mit dem Preis gesellschaftlicher Anpassung.
+
+Der ehemalige Widerstandskämpfer erlebt den wirtschaftlichen Aufstieg Italiens aus einer immer prekäreren Position. Persönliche Würde, Ehe und die Aussicht auf materielle Sicherheit lassen sich schwer zusammenhalten.
+
+Merksatz: Silvios Ideale treffen auf das Italien des Wirtschaftsbooms.
+
+Quellen: [1](https://www.cinematheque.fr/film/42364.html), [2](https://www.treccani.it/enciclopedia/una-vita-difficile_(Enciclopedia-del-Cinema)/).
+
+### S2 · schwer
+
+Wie reagiert Alberto Sordis Giovanni in „Ein wahrer Mensch“ auf die Ermordung seines Sohnes?
+
+- **Richtig: Er entführt und foltert den erkannten Täter selbst.**
+
+- Er veröffentlicht ein anonymes Geständnis des Täters.
+
+- Er tritt als Verteidiger des Täters vor Gericht auf.
+
+- Er gründet eine politische Bewegung gegen die Polizei.
+
+Giovanni wird selbst zum Entführer und Folterer.
+
+Der kleine Beamte hatte seinem Sohn eine sichere berufliche Zukunft verschaffen wollen. Nach dessen Tod verwandelt sich der Wunsch nach Ordnung in grausame private Gewalt.
+
+Merksatz: Der angepasste Vater wird zum Täter.
+
+Quellen: [1](https://www.fondazionecsc.it/evento/cinema-trevi-sordi-politico-2/).
+
+### E1 · experte
+
+Welchem amerikanischen Komiker lieh Alberto Sordi in italienischen Synchronfassungen seine Stimme, während Mauro Zambuto den Partner sprach?
+
+- **Richtig: Oliver Hardy**
+
+- Groucho Marx
+
+- Buster Keaton
+
+- W. C. Fields
+
+Sordi sprach Oliver Hardy, Zambuto Stan Laurel.
+
+Die italienischen Stimmen wurden zu einem eigenen Teil der Wirkung des Komikerduos. Sordis Arbeit am Mikrophon gehörte zu seiner Laufbahn vor und neben den eigenen Leinwandrollen.
+
+Merksatz: Sordi war eine italienische Stimme von Ollio.
+
+Quellen: [1](https://www.fondazionecsc.it/lomaggio-della-cn-avviene-in-occasione-della-presentazione-del-documentario-e-del-libro-di-enzo-pio-pignatiello/).
+
+### E2 · experte
+
+Worauf richtet Alberto Sordi als Regisseur und Hauptdarsteller die Schlusssatire von „Solange es Krieg gibt, gibt es Hoffnung“?
+
+- Auf Generäle, die Friedensverhandlungen für persönliche Gewinne verschleppen
+
+- Auf Hilfsorganisationen, die heimlich an Waffenlieferungen verdienen
+
+- Auf Journalisten, die Waffenverkäufe gegen Honorare beschönigen
+
+- **Richtig: Auf eine Familie, die für ihren Wohlstand den Waffenhandel weiter akzeptiert**
+
+Die Familie will den vom Waffenhandel finanzierten Lebensstandard behalten.
+
+Pietro stellt sie vor die Wahl zwischen weniger Geld und der Fortsetzung seiner Geschäfte. Ihre Entscheidung bindet den privaten Konsum an die Gewalt, die seine Einnahmen ermöglicht.
+
+Merksatz: Der familiäre Wohlstand verlängert die Geschäfte des Waffenhändlers.
+
+Quellen: [1](https://it.wikipedia.org/wiki/Finch%C3%A9_c%27%C3%A8_guerra_c%27%C3%A8_speranza), [2](https://www.pieropiccioni.com/film.php?movie=61).
+
+## Ugo Tognazzi · Bekanntheitsgruppe 4
+
+![Ugo Tognazzi (1964)](Portraets/121.jpg)
+
+Bild: 1964; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Ugo_Tognazzi_-_La_vita_agra_frame.jpg), [TMDB](https://www.themoviedb.org/person/32312).
+
+### L1 · leicht
+
+Welche Aufgabe hat Ugo Tognazzis Renato in „Ein Käfig voller Narren“?
+
+- Er choreografiert die Revue
+
+- Er tritt als deren Travestiestar auf
+
+- **Richtig: Er leitet einen Nachtclub**
+
+- Er entwirft die Bühnenkostüme
+
+Renato ist der Leiter des Nachtclubs.
+
+Sein Lebenspartner Albin (Michel Serrault) steht als Zaza auf der Bühne. Die beiden haben Renatos Sohn großgezogen und bilden eine Familie, die durch dessen Heiratspläne auf eine Bewährungsprobe gestellt wird.
+
+Merksatz: Renato führt den Club; Albin ist dessen Star.
+
+Quellen: [1](https://www.criterion.com/films/28045-la-cage-aux-folles).
+
+### L2 · leicht
+
+Welche der fünf Freundesfiguren spielt Ugo Tognazzi in „Amici miei“?
+
+- Den Arzt Sassaroli
+
+- Den Journalisten Perozzi
+
+- Den Architekten Melandri
+
+- **Richtig: Den Grafen Mascetti**
+
+Er spielt Graf Lello Mascetti.
+
+Die Freunde ziehen mit immer neuen Streichen durch Florenz und seine Umgebung. Ihr gemeinsamer Hang zum Unsinn überdauert die Jugend und reicht noch bis in die ernsten Situationen ihres Erwachsenenlebens.
+
+Merksatz: Tognazzi ist der Graf der Florentiner Freundesrunde.
+
+Quellen: [1](https://www.cinematografo.it/film/amici-miei-qvf6f8sb).
+
+### M1 · mittel
+
+Warum versuchen Ugo Tognazzis Renato und sein Partner in „Ein Käfig voller Narren“, ihren gemeinsamen Lebensstil zu verbergen?
+
+- Weil sie einen Hotelkritiker erwarten
+
+- **Richtig: Weil die konservativen Eltern der künftigen Schwiegertochter kommen**
+
+- Weil sie vor der Steuerfahndung fliehen
+
+- Weil sie den Club verkaufen wollen
+
+Der Besuch der konservativen künftigen Schwiegereltern setzt sie unter Druck.
+
+Renatos Sohn möchte heiraten. Um bei den Eltern seiner Verlobten einen bürgerlichen Eindruck zu erwecken, sollen Renato und Albin (Michel Serrault) ihre Beziehung und ihr Zuhause verstellen; gerade daraus erwachsen die Verwicklungen der Farce.
+
+Merksatz: Der Familienbesuch zwingt Renato und Albin zur Tarnung.
+
+Quellen: [1](https://www.criterion.com/films/28045-la-cage-aux-folles), [2](https://www.criterion.com/current/posts/789-la-cage-aux-folles).
+
+### M2 · mittel
+
+Welches gemeinsame Ziel verfolgen Ugo Tognazzis Ugo und seine Freunde bei ihrem Treffen in „Das große Fressen“?
+
+- **Richtig: Sie wollen sich zu Tode essen**
+
+- Sie wollen eine verlorene kulinarische Wette gewinnen
+
+- Sie wollen einen Restaurantkritiker täuschen
+
+- Sie wollen eine neue Kochschule eröffnen
+
+Die Männer wollen durch maßloses Essen sterben.
+
+Vier wohlhabende Männer ziehen sich mit großen Vorräten in eine Villa zurück. Das Fest wird zur geplanten Selbstzerstörung: Marco Ferreri verbindet den Überfluss mit einer grotesken Darstellung körperlichen Verfalls.
+
+Merksatz: Das Festmahl ist ein gemeinsamer Selbstmordplan.
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-great-films-about-cooking).
+
+### S1 · schwer
+
+Was bedeutet für Ugo Tognazzis Patienten in „Il fischio al naso“ die Verlegung in ein höheres Stockwerk der Klinik?
+
+- Er erhält jeweils weniger intensive Behandlung
+
+- Er gewinnt jeweils mehr Bewegungsfreiheit
+
+- **Richtig: Er gilt als zunehmend schwer krank**
+
+- Er wird auf die Entlassung vorbereitet
+
+Jede höhere Etage steht für eine Verschlechterung seines Zustands.
+
+Der Industrielle kommt wegen eines störenden Atemgeräuschs in die Klinik. Mit immer neuen Begründungen wird er weiter nach oben geschickt; seine Umgebung behandelt ihn zunehmend als hilflosen Kranken. Tognazzi inszenierte diese Buzzati-Adaption auch selbst.
+
+Merksatz: In dieser Klinik führt der Weg nach oben zum Tod.
+
+Quellen: [1](https://www.cinematografo.it/film/il-fischio-al-naso-f7n3vm03).
+
+### S2 · schwer
+
+Mit wem beginnt die zunächst treue Ehefrau von Ugo Tognazzis Andrea in „Il magnifico cornuto“ schließlich eine Affäre?
+
+- **Richtig: Mit dem Arzt, der Andrea behandelt**
+
+- Mit Andreas Geschäftspartner
+
+- Mit einem Freund aus ihrer Jugend
+
+- Mit Andreas Chauffeur
+
+Sie beginnt ein Verhältnis mit Andreas behandelndem Arzt.
+
+Andrea quält Maria Grazia (Claudia Cardinale) mit unbegründeter Eifersucht. Nachdem er bei der Suche nach einem vermeintlichen Rivalen einen Unfall hatte und endlich beruhigt ist, entsteht die tatsächliche Untreue ausgerechnet in seinem eigenen Krankenzimmer.
+
+Merksatz: Andreas Eifersucht endet in der Affäre mit seinem Arzt.
+
+Quellen: [1](https://www.cinematografo.it/film/il-magnifico-cornuto-ghnk6ky0).
+
+### E1 · experte
+
+Mit welchem Komiker bildete Ugo Tognazzi das Fernsehduo von „Un, due, tre“?
+
+- Nino Manfredi
+
+- Vittorio Gassman
+
+- Alberto Sordi
+
+- **Richtig: Raimondo Vianello**
+
+Sein Partner war Raimondo Vianello.
+
+Die Zusammenarbeit reichte von einer gemeinsamen Theaterkompanie zu zahlreichen Filmen und Fernsehsendungen. In „Un, due, tre“ entwickelten beide Gesellschaftskarikaturenuren und komische Figuren für ein breites Fernsehpublikum.
+
+Merksatz: Tognazzi und Vianello gehören zusammen.
+
+Quellen: [1](https://www.raiplay.it/amp/video/2018/10/Coppie-comiche-Toggnazzi-Vianello-9ff17ab0-a60e-4984-85d7-25eb337e04a6.html).
+
+### E2 · experte
+
+Für welchen Film erhielt Ugo Tognazzi in Cannes 1981 den Darstellerpreis?
+
+- Amici miei
+
+- **Richtig: La tragedia di un uomo ridicolo**
+
+- La grande bouffe
+
+- La Cage aux folles
+
+Er wurde für „La tragedia di un uomo ridicolo“ ausgezeichnet.
+
+Tognazzi spielt den aus einfachen Verhältnissen aufgestiegenen Käsefabrikanten Primo Spaggiari. Bernardo Bertoluccis Film verbindet dessen wirtschaftliche Existenz mit einer Krise um seinen Sohn; der Preis galt Tognazzis Darstellung, nicht dem Film als Ganzem.
+
+Merksatz: Tognazzis Cannes-Preis gehört zu Bertoluccis Fabrikanten.
+
+Quellen: [1](https://www.festival-cannes.com/en/p/ugo-tognazzi/), [2](https://www.festival-cannes.com/en/f/la-tragedia-di-un-uomo-ridiculo/).
+
+## Totò · Bekanntheitsgruppe 4
+
+![Totò; Aufnahmejahr nicht belegt](https://image.tmdb.org/t/p/w185/x8sM4HlITfhAoXJ2FZrQA7wFgXg.jpg)
+
+Bild: Historische Aufnahme; genaues Jahr nicht belegt; Auf TMDB nicht ausgewiesen. TMDB-Onlineporträt; keine freie Lizenz behauptet. [Bildquelle](https://www.themoviedb.org/person/132190), [TMDB](https://www.themoviedb.org/person/132190).
+
+### L1 · leicht
+
+Welches Spezialwissen vermittelt Totòs Dante den unerfahrenen Einbrechern in „Diebe haben’s schwer“?
+
+- **Richtig: Wie man Tresore öffnet**
+
+- Wie man Autos kurzschließt
+
+- Wie man Alarmleitungen anzapft
+
+- Wie man Pässe fälscht
+
+Dante unterrichtet die Gruppe im Tresorknacken.
+
+Die Kleinkriminellen wollen einen großen Coup landen, besitzen dafür aber kaum praktische Fähigkeiten. Totòs erfahrene Figur bildet einen Gegenpol zu den dilettantischen Vorbereitungen der Bande.
+
+Merksatz: Dante ist der Tresorlehrer der Anfänger.
+
+Quellen: [1](https://www.criterion.com/current/posts/142-big-deal-on-madonna-street).
+
+### L2 · leicht
+
+Auf welcher Seite des Gesetzes steht Totòs Ferdinando Esposito in „Räuber und Gendarm“?
+
+- Er ist Gefängniswärter
+
+- Er ist Untersuchungsrichter
+
+- **Richtig: Er ist ein kleiner Dieb**
+
+- Er ist Polizist
+
+Esposito ist ein Dieb.
+
+Ihm gegenüber steht der Brigadier Bottoni (Aldo Fabrizi). Die Komödie betrachtet beide als Menschen, deren finanzielle und familiäre Sorgen die klare Trennung zwischen Verfolger und Verfolgtem komplizieren.
+
+Merksatz: Totò stiehlt, Fabrizi verfolgt ihn.
+
+Quellen: [1](https://www.cinematografo.it/film/guardie-e-ladri-ec3ncyym).
+
+### M1 · mittel
+
+An wen richten Totò und Peppino De Filippo ihren berühmten, mühsam formulierten Brief in „Totò, Peppino e la… malafemmina“?
+
+- **Richtig: An die Freundin ihres Neffen**
+
+- An den Lehrer ihres Neffen
+
+- An den Arbeitgeber ihres Neffen
+
+- An den Vermieter ihres Neffen
+
+Der Brief gilt der Freundin ihres Neffen.
+
+Der junge Mann liebt eine Varietékünstlerin, doch seine Familie ist gegen die Verbindung. Beim Versuch, schriftlich einzugreifen, machen die beiden Onkel aus einem alltäglichen Vorgang eine Komödie um Sprache und Formulierung.
+
+Merksatz: Zwei Onkel schreiben der unerwünschten Freundin.
+
+Quellen: [1](https://www.raiplay.it/video/2025/02/Toto-e-Peppino-Lettera-a-una-malafemmina---Come-ridevamo---27022025-c627188f-2c2f-40d8-8e6b-24c016481467.html), [2](https://www.raiplay.it/programmi/totopeppinoelamalafemmina).
+
+### M2 · mittel
+
+Welche Ideologie wird in Totòs Wanderung mit Ninetto Davoli und einem sprechenden Raben in „Große Vögel, kleine Vögel“ verhandelt?
+
+- Anarchismus
+
+- Monarchismus
+
+- **Richtig: Marxismus**
+
+- Faschismus
+
+Pasolinis Fabel beschäftigt sich mit dem Marxismus und seiner Krise.
+
+Vater und Sohn durchstreifen eine sich rasch verändernde italienische Landschaft. Der philosophierende Vogel begleitet Begegnungen mit Armut, Religion und gesellschaftlichen Gegensätzen; Totòs Körperkomik verbindet diese Gedanken mit Slapstick.
+
+Merksatz: Totò und der Rabe treffen auf die Krise des Marxismus.
+
+Quellen: [1](https://cinetecadibologna.it/programmazione/proiezione/uccellacci-e-uccellini/), [2](https://www.criterion.com/films/31439-the-hawks-and-the-sparrows).
+
+### S1 · schwer
+
+Was macht Totò in der berühmten Spaghetti-Szene von „Miseria e nobiltà“?
+
+- Er versteigert den gefüllten Teller
+
+- **Richtig: Er tanzt auf dem gedeckten Tisch**
+
+- Er balanciert den Teller auf dem Kopf
+
+- Er wirft die Spaghetti aus dem Fenster
+
+Er führt einen komischen Tanz auf dem gedeckten Tisch auf.
+
+Die Verfilmung von Eduardo Scarpettas Komödie verbindet Verwechslungen mit dem Hunger ihrer armen Figuren. Totòs Spaghetti-Ballett macht daraus eine körperliche Szene, die an die Tradition des neapolitanischen Volkstheaters anknüpft.
+
+Merksatz: Hunger wird bei Totò zum Tanz auf dem Tisch.
+
+Quellen: [1](https://cinetecadibologna.it/programmazione/proiezione/miseria-e-nobilta/).
+
+### S2 · schwer
+
+Mit welchem Farbverfahren wurde „Totò a colori“ hergestellt?
+
+- Eastmancolor
+
+- Technicolor
+
+- Agfacolor
+
+- **Richtig: Ferraniacolor**
+
+Der Film wurde in Ferraniacolor aufgenommen.
+
+Stenos Film von 1952 nutzt ein italienisches Farbverfahren. Totò spielt den von sich überzeugten Musiker Antonio Scannagatti, der auf die Anerkennung seiner Komposition wartet; seine Bühnenkomik wurde damit in einem neuen technischen Umfeld präsentiert.
+
+Merksatz: Totòs Farbe kam von Ferrania.
+
+Quellen: [1](https://www.cinematografo.it/film/toto-a-colori-ordmfilo), [2](https://www.museocinema.it/it/film/6907).
+
+### E1 · experte
+
+Welche bekannte neapolitanische Liedkomposition stammt von Totò?
+
+- Funiculì, funiculà
+
+- Torna a Surriento
+
+- O sole mio
+
+- **Richtig: Malafemmena**
+
+Totò schrieb „Malafemmena“.
+
+Neben Theater und Film verfasste er Lieder und Gedichte im neapolitanischen Dialekt. Zu seinem literarischen Werk gehört auch „’A livella“; sein künstlerischer Ausdruck reichte damit deutlich über die gespielten Figuren hinaus.
+
+Merksatz: Totò war auch der Autor von „Malafemmena“.
+
+Quellen: [1](https://www.treccani.it/enciclopedia/toto_%28Enciclopedia-dei-ragazzi%29/).
+
+### E2 · experte
+
+Welche körperliche Darstellungsform prägte Totòs frühen Stil auf der Varietébühne?
+
+- Der streng symmetrische Gesellschaftstanz
+
+- **Richtig: Die scheinbar gelenklose Bewegung einer Marionette**
+
+- Die akrobatische Bewegung eines Seiltänzers
+
+- Der naturalistische Gang eines Straßensängers
+
+Er entwickelte eine scheinbar zerlegbare Marionettenfigur.
+
+Totò knüpfte zunächst an die Marionettennummer des Varietékomikers De Marco an. Seine späteren Auftritte verbanden diese ungewöhnliche Beweglichkeit mit einer starken Gesichtsmimik und sprachlichen Verdrehungen; der ganze Körper wurde zum komischen Ausdrucksmittel.
+
+Merksatz: Totòs Körper wirkt wie eine eigensinnige Marionette.
+
+Quellen: [1](https://www.treccani.it/enciclopedia/toto/), [2](https://www.treccani.it/enciclopedia/toto_%28Enciclopedia-dei-ragazzi%29/).
+
+## Fernando Rey · Bekanntheitsgruppe 4
+
+![Fernando Rey (1974)](Portraets/123.jpg)
+
+Bild: 1974; Enzo Roìss. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Fernando_Rey.jpg), [TMDB](https://www.themoviedb.org/person/14821).
+
+### L1 · leicht
+
+Auf welcher Seite des Drogengeschäfts steht Fernando Reys Alain Charnier in „French Connection“?
+
+- Er verkauft als Straßenhändler einzelne Dosen
+
+- **Richtig: Er organisiert den Schmuggel**
+
+- Er ist ein eingeschleuster Drogenfahnder
+
+- Er behandelt die abhängigen Käufer
+
+Charnier organisiert den internationalen Drogenschmuggel.
+
+Der elegante Franzose ist das Gegenüber der New Yorker Ermittler. William Friedkin hatte zunächst einen raueren Darsteller im Sinn; Rey gab dem Verbrecher stattdessen die beherrschte, kultivierte Erscheinung, die den Polizisten so fremd bleibt.
+
+Merksatz: Charnier organisiert das Geschäft hinter der Straßenkriminalität.
+
+Quellen: [1](https://www.dga.org/Events/2003/04-April/The-French-Connection-William-Friedkin).
+
+### L2 · leicht
+
+In welchem verwandtschaftlichen Verhältnis steht Fernando Reys Don Jaime zur Titelfigur von „Viridiana“?
+
+- Er ist ihr Cousin
+
+- Er ist ihr Bruder
+
+- **Richtig: Er ist ihr Onkel**
+
+- Er ist ihr Vater
+
+Don Jaime ist Viridianas Onkel.
+
+Die Novizin Viridiana (Silvia Pinal) besucht den Mann, der ihre Ausbildung unterstützt hat. Er bedrängt sie mit einem Heiratswunsch; nach seinem Tod versucht sie auf dem Anwesen, ihre christlichen Ideale durch Hilfe für Bedürftige zu verwirklichen.
+
+Merksatz: Viridianas Wohltäter ist ihr Onkel Don Jaime.
+
+Quellen: [1](https://www.criterion.com/films/373-viridiana), [2](https://www.criterion.com/current/posts/423-viridiana-the-human-comedy).
+
+### M1 · mittel
+
+Welche Verantwortung trägt Fernando Reys Don Lope zu Beginn von „Tristana“ gegenüber der jungen Frau?
+
+- Er ist ihr Beichtvater
+
+- Er ist ihr Arbeitgeber
+
+- Er ist ihr Hausarzt
+
+- **Richtig: Er ist ihr Vormund**
+
+Don Lope ist Tristanas Vormund.
+
+Die verwaiste Tristana (Catherine Deneuve) ist von ihm abhängig. Don Lope beansprucht für sich persönliche Freiheit, nutzt seine Stellung aber, um sie sexuell und emotional an sich zu binden; Fürsorge und Besitzanspruch fallen auseinander.
+
+Merksatz: Don Lopes Vormundschaft wird zum Machtverhältnis.
+
+Quellen: [1](https://www.bfi.org.uk/lists/10-great-films-from-1970).
+
+### M2 · mittel
+
+Welches öffentliche Amt bekleidet Fernando Reys Rafael Acosta in „Der diskrete Charme der Bourgeoisie“?
+
+- **Richtig: Botschafter**
+
+- Staatsanwalt
+
+- Finanzminister
+
+- Polizeipräfekt
+
+Rafael Acosta ist Botschafter.
+
+Er gehört zur eleganten Gesellschaft, deren gemeinsame Mahlzeiten immer wieder scheitern. Der diplomatische Rang schützt die Figur nicht vor Buñuels Spott: respektable Umgangsformen und fragwürdige Geschäfte bestehen nebeneinander.
+
+Merksatz: Rafael Acosta vertritt einen Staat als Botschafter.
+
+Quellen: [1](https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie).
+
+### S1 · schwer
+
+Welche besondere Besetzung erlebt Fernando Reys Mathieu bei seiner Geliebten in „Dieses obskure Objekt der Begierde“?
+
+- Conchita wird abwechselnd als Frau und Mann gespielt
+
+- Zwei Schauspielerinnen verkörpern vertauschte Zwillingsschwestern
+
+- Dieselbe Schauspielerin spielt auch ihre Mutter
+
+- **Richtig: Zwei Schauspielerinnen verkörpern dieselbe Conchita**
+
+Carole Bouquet und Ángela Molina spielen beide Conchita.
+
+Buñuel wechselt zwischen beiden Darstellerinnen, ohne daraus zwei Figuren zu machen. Mathieu erlebt eine einzige Geliebte, deren widersprüchliches Verhalten sich durch diesen sichtbaren Besetzungswechsel besonders schwer festlegen lässt.
+
+Merksatz: Zwei Darstellerinnen, eine Conchita.
+
+Quellen: [1](https://www.criterion.com/films/686-that-obscure-object-of-desire), [2](https://www.criterion.com/current/posts/895-that-obscure-object-of-desire).
+
+### S2 · schwer
+
+Welche Tätigkeit von Fernando Reys zurückgezogen lebendem Luis wird in „Elisa, vida mía“ mit den Gesprächen seiner Tochter verflochten?
+
+- Er übersetzt ein mittelalterliches Gedicht
+
+- **Richtig: Er schreibt an einer Erzählung**
+
+- Er entwickelt eine mathematische Theorie
+
+- Er restauriert ein beschädigtes Gemälde
+
+Luis schreibt an einer Erzählung.
+
+Elisa (Geraldine Chaplin) besucht ihren Vater in dessen abgelegenem Haus. Erinnerungen, Gespräche und der geschriebene Text gehen ineinander über, sodass die Grenze zwischen Luis’ Erzählung und dem gemeinsamen Erleben unsicher wird.
+
+Merksatz: Luis’ Schreiben und Elisas Besuch durchdringen einander.
+
+Quellen: [1](https://www.festival-cannes.com/f/elisa-vida-mia/), [2](https://cultura.cervantes.es/frankfurt/es/elisa/181038).
+
+### E1 · experte
+
+Welchen Schauspieler hatte William Friedkin eigentlich gesucht, als durch eine Verwechslung Fernando Rey für „French Connection“ verpflichtet wurde?
+
+- **Richtig: Francisco Rabal**
+
+- Gian Maria Volonté
+
+- José Luis López Vázquez
+
+- Adolfo Celi
+
+Friedkin hatte Francisco Rabal gemeint.
+
+Friedkin erinnerte sich an einen Darsteller aus „Belle de jour“, kannte aber dessen Namen nicht. Die Suche führte zunächst zu Rey; als der Irrtum auffiel, war Rabal nicht verfügbar. Rey blieb und wurde zu Charnier.
+
+Merksatz: Aus der Verwechslung mit Rabal entstand Reys Charnier.
+
+Quellen: [1](https://www.dga.org/Events/2003/04-April/The-French-Connection-William-Friedkin).
+
+### E2 · experte
+
+Wer spielte Sancho Panza an der Seite von Fernando Rey als Don Quijote in der Fernsehserie „El Quijote“?
+
+- Fernando Fernán Gómez
+
+- Francisco Rabal
+
+- **Richtig: Alfredo Landa**
+
+- José Luis López Vázquez
+
+Alfredo Landa spielte Sancho Panza.
+
+Landa stand früh als Sancho fest, während die Besetzung des Ritters zahlreiche Proben erforderte. Rey zögerte wegen der körperlichen Anforderungen des Reitens in Rüstung, übernahm die Rolle aber schließlich für Manuel Gutiérrez Aragóns Fernsehfassung.
+
+Merksatz: Reys Don Quijote wird von Landas Sancho begleitet.
+
+Quellen: [1](https://www.rtve.es/play/videos/el-quijote/).
+
+## Francisco Rabal · Bekanntheitsgruppe 4
+
+![Francisco Rabal (1960)](Portraets/124.jpg)
+
+Bild: 1960; Unknown, none visible and no marks. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Francisco_Rabal_in_El_hombre_de_la_isla_(1960).jpg), [TMDB](https://www.themoviedb.org/person/9768).
+
+### L1 · leicht
+
+Welchen Beruf übt Francisco Rabals Titelfigur in Buñuels „Nazarín“ aus?
+
+- Lehrer
+
+- Rechtsanwalt
+
+- **Richtig: Priester**
+
+- Arzt
+
+Nazarín ist katholischer Priester.
+
+Er lebt unter armen Menschen in Mexiko und möchte ohne Vorbehalte helfen. Gerade seine konsequente Nächstenliebe bringt ihn jedoch mit gesellschaftlichen Erwartungen und kirchlichen Autoritäten in Konflikt.
+
+Merksatz: Nazarín versucht, seinen Glauben durch praktische Hilfe zu leben.
+
+Quellen: [1](https://www.festival-cannes.com/en/2019/nazarin-by-luis-bunuel-the-limits-of-unfailing-belief/).
+
+### L2 · leicht
+
+Was ist Francisco Rabals Nilo in „Sorcerer“, bevor er mit anderen Flüchtigen einen gefährlichen Transport übernimmt?
+
+- Ein arabischer Terrorist
+
+- Ein französischer Wirtschaftsbetrüger
+
+- **Richtig: Ein mexikanischer Auftragsmörder**
+
+- Ein amerikanischer Gangster
+
+Nilo ist ein mexikanischer Auftragsmörder.
+
+Vier Männer unterschiedlicher Herkunft übernehmen in einer südamerikanischen Gegend die Fahrt mit hochexplosivem Material. Ihre Vergangenheit führt sie zusammen; auf der Strecke müssen sie mit verfallenen Lastwagen und lebensgefährlichen Hindernissen zurechtkommen.
+
+Merksatz: Nilo ist der Auftragsmörder unter den vier Fahrern.
+
+Quellen: [1](https://www.criterion.com/films/34370-sorcerer).
+
+### M1 · mittel
+
+Wem gewährt Francisco Rabals Priester in „Nazarín“ Schutz und gerät dadurch selbst in Schwierigkeiten?
+
+- Einem wegen Diebstahls gesuchten Kind
+
+- **Richtig: Einer des Mordes beschuldigten Prostituierten**
+
+- Einem desertierten Soldaten
+
+- Einem entflohenen politischen Gefangenen
+
+Er nimmt die des Mordes beschuldigte Andara auf.
+
+Andara (Rita Macedo) sucht Zuflucht bei ihm. Als die Ereignisse um sie in einen Brand münden, verliert der Priester seine Unterkunft und beginnt eine Wanderschaft, auf der auch seine Hilfsbereitschaft immer wieder abgewiesen wird.
+
+Merksatz: Nazaríns Schutz für Andara macht ihn selbst zum Außenseiter.
+
+Quellen: [1](https://www.festival-cannes.com/en/f/nazarin/), [2](https://www.festival-cannes.com/en/2019/nazarin-by-luis-bunuel-the-limits-of-unfailing-belief/).
+
+### M2 · mittel
+
+Was geschieht zwischen Francisco Rabals Riccardo und Vittoria zu Beginn von Antonionis „L’eclisse“?
+
+- Sie lernen sich bei einem Börsengeschäft kennen
+
+- **Richtig: Ihre Liebesbeziehung endet**
+
+- Sie suchen gemeinsam eine vermisste Freundin
+
+- Sie verloben sich nach langer Trennung
+
+Vittoria beendet ihre Beziehung zu Riccardo.
+
+Nach einer langen Nacht der Auseinandersetzung trennt sich Vittoria (Monica Vitti) von Riccardo. Später begegnet sie dem Börsenmakler Piero (Alain Delon); der Film folgt ihren neuen Annäherungen und der Schwierigkeit, Nähe dauerhaft herzustellen.
+
+Merksatz: Riccardo gehört zur Beziehung, die am Filmanfang zerbricht.
+
+Quellen: [1](https://www.criterion.com/films/928-l-eclisse), [2](https://www.criterion.com/current/posts/7830-at-the-end-of-love-s-road-with-michelangelo-antonioni).
+
+### S1 · schwer
+
+Was übersieht Francisco Rabals Jorge in „Viridiana“, nachdem er einen an einen fahrenden Karren gebundenen Hund gekauft hat?
+
+- Dass der Karren inzwischen ohne den Besitzer davonfährt
+
+- Dass der befreite Hund zum selben Besitzer zurückläuft
+
+- Dass der Verkäufer ihm das Geld wieder zusteckt
+
+- **Richtig: Dass ein zweiter Karren einen weiteren Hund hinter sich herzieht**
+
+Ein weiterer Karren zieht einen anderen Hund hinter sich her.
+
+Jorge möchte das einzelne Tier aus seinem Elend retten. Die gleichzeitige Wiederholung auf der anderen Straßenseite macht sichtbar, wie begrenzt diese Hilfe bleibt; sie spiegelt den Konflikt um Viridianas (Silvia Pinal) Wohltätigkeit.
+
+Merksatz: Ein Hund wird gerettet, der nächste zieht schon vorbei.
+
+Quellen: [1](https://www.criterion.com/current/posts/423-viridiana-the-human-comedy).
+
+### S2 · schwer
+
+Was löst in „Los santos inocentes“ die tödliche Rache von Francisco Rabals Azarías am Gutsherrn aus?
+
+- Der Gutsherr lässt sein Elternhaus abreißen
+
+- Der Gutsherr verbietet den Besuch seiner Schwester
+
+- Der Gutsherr verkauft sein Pferd
+
+- **Richtig: Der Gutsherr erschießt seinen geliebten Vogel**
+
+Iván erschießt den Vogel, um den Azarías sich liebevoll kümmert.
+
+Die Familie lebt in großer Abhängigkeit von den Besitzern des Gutes. Für Azarías ist der Vogel eine enge Bindung; als Iván (Juan Diego) ihn tötet, schlägt die bisher ertragene Herrschaft in eine persönliche Vergeltung um.
+
+Merksatz: Der Tod der „milana“ führt zu Azarías’ Rache.
+
+Quellen: [1](https://www.fheargentina.com.ar/los-santos-inocentes/), [2](https://cvc.cervantes.es/artes/cine/hojas/los-santos-inocentes.htm).
+
+### E1 · experte
+
+Mit welchem Mitspieler teilte Francisco Rabal für „Los santos inocentes“ den Darstellerpreis in Cannes 1984?
+
+- **Richtig: Alfredo Landa**
+
+- Agustín González
+
+- Fernando Rey
+
+- Juan Diego
+
+Er teilte den Preis mit Alfredo Landa.
+
+Rabal spielt Azarías, Landa den Landarbeiter Paco. Beide gehören zu derselben bedrängten Familie; die Jury zeichnete ihre Leistungen gemeinsam mit dem Preis für den besten Schauspieler aus.
+
+Merksatz: Cannes ehrte Rabal und Landa gemeinsam.
+
+Quellen: [1](https://www.festival-cannes.com/en/p/francisco-rabal/), [2](https://cvc.cervantes.es/artes/cine/hojas/los-santos-inocentes.htm).
+
+### E2 · experte
+
+Wessen Sprechweise nahm Francisco Rabal auf Anregung Carlos Sauras als Vorbild für den alten Maler in „Goya en Burdeos“?
+
+- **Richtig: Luis Buñuels**
+
+- Salvador Dalís
+
+- Antonio Machados
+
+- Pablo Picassos
+
+Er orientierte sich an Luis Buñuel.
+
+Rabal und Saura kannten Buñuel persönlich. Bei der Arbeit an Goya verbanden sie das Bild des tauben, im Exil lebenden Künstlers mit Erinnerungen an den Regisseur; Saura bat Rabal, dessen Stimme mit Zurückhaltung anklingen zu lassen.
+
+Merksatz: Rabal ließ in Goyas Stimme Erinnerungen an Buñuel einfließen.
+
+Quellen: [1](https://cvc.cervantes.es/actcult/cine/testimonios/rodajes/rodajes_08.htm), [2](https://cvc.cervantes.es/actcult/cine/testimonios/memoria/memoria_04.htm).
+
+## José Luis López Vázquez · Bekanntheitsgruppe 4
+
+![José Luis López Vázquez (1989)](Portraets/125.jpg)
+
+Bild: 1989; Ateneo de Córdoba. CC BY-SA 3.0 laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:El_actor_Jos%C3%A9_Lu%C3%ADs_L%C3%B3pez_V%C3%A1zquez_recibe_la_Fiambrera_de_Plata._(Diciembre,1989).jpg), [TMDB](https://www.themoviedb.org/person/231170).
+
+### L1 · leicht
+
+Welchen internationalen Fernsehpreis gewann „La cabina“ mit José Luis López Vázquez in der Hauptrolle?
+
+- Die Goldene Rose von Montreux
+
+- **Richtig: Einen Emmy**
+
+- Die Goldene Nymphe von Monte Carlo
+
+- Den britischen BAFTA-Fernsehpreis
+
+„La cabina“ wurde mit einem Emmy ausgezeichnet.
+
+Antonio Merceros Film entstand für Televisión Española. López Vázquez spielt einen Mann, der in einer Telefonzelle eingeschlossen ist; eine alltägliche Verrichtung entwickelt sich zu einer beklemmenden Situation, der die Hilfe der Umstehenden nicht gewachsen ist.
+
+Merksatz: Die Telefonzelle brachte dem Fernsehfilm einen Emmy.
+
+Quellen: [1](https://www.rtve.es/play/videos/cine-en-el-archivo-de-rtve/cabina-presentacion-mercero-lopez-vazquez/393271/), [2](https://www.academiadecine.com/actividades/homenaje-a-antonio-mercero-la-cabina/).
+
+### L2 · leicht
+
+Welche berufliche Gruppe bildet in „Atraco a las tres“ das Team um José Luis López Vázquez?
+
+- Taxifahrer
+
+- Postbeamte
+
+- Hotelangestellte
+
+- **Richtig: Bankangestellte**
+
+Das Team besteht aus Bankangestellten.
+
+Nach dem Austausch ihres geschätzten Direktors planen die schlecht bezahlten Mitarbeiter einen Überfall auf die eigene Filiale. Ihre Vorstellungen vom Verbrechen stammen aus amerikanischen Gangsterfilmen und treffen auf ihre sehr begrenzte praktische Erfahrung.
+
+Merksatz: Die Bank wird von ihren eigenen Mitarbeitern ins Visier genommen.
+
+Quellen: [1](https://www.academiadecine.com/actividades/atraco-a-las-tres/).
+
+### M1 · mittel
+
+Warum heiratet José Luis López Vázquez’ Figur in „El pisito“ eine alte Frau, obwohl er eine andere Partnerin hat?
+
+- Um ihre Krankenhausbehandlung bezahlen zu können
+
+- Um ihrem Sohn die Vormundschaft zu entziehen
+
+- Um eine Aufenthaltserlaubnis zu bekommen
+
+- **Richtig: Um nach ihrem Tod die Wohnung übernehmen zu können**
+
+Die Heirat soll ihm später die Wohnung sichern.
+
+Das Paar kann sich keinen gemeinsamen Wohnraum leisten. Die Aussicht auf die Wohnung der alten Frau macht aus der Ehe ein Mittel zum Zweck; Rafael Azconas Geschichte verbindet die Wohnungsnot mit einer zunehmend bedrückenden moralischen Entscheidung.
+
+Merksatz: Wohnungsnot führt zur kalkulierten Ehe.
+
+Quellen: [1](https://www.academiadecine.com/2021/10/15/el-pisito-retrato-de-la-derrota/).
+
+### M2 · mittel
+
+Wozu rät die Ehefrau José Luis López Vázquez’ Straßenkehrer in „Un millón en la basura“, nachdem er Geld gefunden hat?
+
+- Es unter den Kollegen aufzuteilen
+
+- Es für die Ausbildung der Kinder anzulegen
+
+- **Richtig: Es zurückzugeben**
+
+- Es gemeinsam im Ausland auszugeben
+
+Sie rät ihm, das Geld zurückzugeben.
+
+Er findet eine Million Peseten in einem Abfalleimer. Wegen seiner wirtschaftlichen Not möchte er den Fund behalten; seine Frau hält ihm die Pflicht entgegen, fremdes Eigentum zurückzugeben. Der mögliche Ausweg aus der Armut wird zur Gewissensfrage.
+
+Merksatz: Der Geldfund trennt Not und Pflichtgefühl.
+
+Quellen: [1](https://www.academiadecine.com/actividades/un-millon-en-la-basura/).
+
+### S1 · schwer
+
+Wie verkörpert José Luis López Vázquez in „La prima Angélica“ die Kindheit seiner erwachsenen Figur?
+
+- Er erscheint als stummer Zuschauer der Kindheitsszenen
+
+- **Richtig: Er spielt den Jungen selbst mit seinem erwachsenen Körper**
+
+- Er spielt den Vater, der Junge bleibt außerhalb des Bildes
+
+- Ein Kind spielt sie, während er aus dem Off spricht
+
+López Vázquez spielt selbst den Jungen in den Erinnerungen.
+
+Luis kehrt nach Segovia zurück und erinnert sich an den Bürgerkrieg und seine Cousine. Der erwachsene Darsteller tritt unmittelbar in diese Vergangenheit ein und handelt dort als Kind; Erinnerung wird dadurch sichtbar mit der Gegenwart verschränkt.
+
+Merksatz: Der Erwachsene erlebt seine Kindheit im eigenen Körper.
+
+Quellen: [1](https://www.rtve.es/noticias/20230210/carlos-saura-mejores-peliculas/2422010.shtml).
+
+### S2 · schwer
+
+Welche Aufgabe hat die von José Luis López Vázquez gespielte Hauptfigur in der spanischen Bühnenfassung von „Equus“?
+
+- **Richtig: Sie behandelt den Jugendlichen als Psychiater**
+
+- Sie unterrichtet den Jugendlichen im Reiten
+
+- Sie verteidigt den angeklagten Jugendlichen vor Gericht
+
+- Sie ermittelt als Polizeibeamter gegen den Jugendlichen
+
+Er spielte den behandelnden Psychiater.
+
+Peter Shaffers Stück konfrontiert den Arzt mit einem jungen Mann, der Pferde geblendet hat. López Vázquez stand in Manuel Collados Madrider Inszenierung neben Juan Ribó; die Arbeit beschäftigte ihn über einen langen Theaterlauf hinweg.
+
+Merksatz: López Vázquez stand in „Equus“ auf der Seite des behandelnden Arztes.
+
+Quellen: [1](https://www.aisge.es/media/uploads/revista_actua/revista-actua-75.pdf), [2](https://www.teatro.es/quiosco/peter-shaffer-grandes-duelos-y-comedias-ligeras).
+
+### E1 · experte
+
+Welche gestalterischen Arbeiten übernahm José Luis López Vázquez schon vor seiner großen Schauspielkarriere?
+
+- **Richtig: Kostüm- und Bühnenbildentwürfe**
+
+- Kameraarbeit und Laborentwicklung
+
+- Filmmusik und Orchesterarrangements
+
+- Tonschnitt und Geräuschaufnahmen
+
+Er arbeitete als Kostüm- und Bühnenbildgestalter.
+
+Sein Weg zum Theater führte auch über das Zeichnen. Unter anderem durch José Caballero interessierte er sich für Szenografie und Kostüme; im Teatro Español Universitario lernte er zugleich das Spiel auf der Bühne kennen.
+
+Merksatz: López Vázquez zeichnete zunächst auch für die Bühne.
+
+Quellen: [1](https://www.academiadecine.com/2022/03/11/jose-luis-lopez-vazquez-el-rostro-comun-mas-unico-del-cine-espanol/), [2](https://www.teatro.es/efemerides/jose-luis-lopez-vazquez-cien-anos-con-nosotros).
+
+### E2 · experte
+
+Wessen Stimme ist für José Luis López Vázquez als Adela in „Mi querida señorita“ zu hören?
+
+- Matilde Conesas
+
+- María Luisa Solás
+
+- **Richtig: Irene Guerrero de Lunas**
+
+- Elsa Fábregas’
+
+Irene Guerrero de Luna sprach Adelas Stimme.
+
+Jaime de Armiñán ließ die Figur von einer Synchronsprecherin vertonen. Der Film behandelt Adelas Suche nach der eigenen Identität; die andere Stimme gehörte zur bewussten Gestaltung dieser ernst gespielten Figur.
+
+Merksatz: Adelas Körper spielt López Vázquez, ihre Stimme spricht Guerrero de Luna.
+
+Quellen: [1](https://amp.rtve.es/play/noticias/20220304/querida-senorita-donde-ver-lopez-vazquez-peliculas-va-usted-a-contar/2300427.shtml).
+
+## Conrad Veidt · Bekanntheitsgruppe 4
+
+![Conrad Veidt (um 1920)](Portraets/126.jpg)
+
+Bild: um 1920; Alexander Binder. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Conrad_Veidt_by_Binder.jpg), [TMDB](https://www.themoviedb.org/person/3001).
+
+### L1 · leicht
+
+Welche Art von Figur spielt Conrad Veidt als Cesare in „Das Cabinet des Dr. Caligari“?
+
+- **Richtig: Einen Schlafwandler**
+
+- Einen Zauberer
+
+- Einen Bauchredner
+
+- Einen Gedächtniskünstler
+
+Cesare ist ein Schlafwandler.
+
+Dr. Caligari (Werner Krauß) präsentiert ihn als Jahrmarktsattraktion, die die Zukunft vorhersagen soll. Die unheimliche Verbindung zwischen dem Schausteller und dem willenlosen Cesare gehört zum Zentrum der Mordgeschichte.
+
+Merksatz: Cesare ist Caligaris somnambuler Gehilfe.
+
+Gemeinsames Wissensziel: K-G100-20261008-HORROR-001-L2 (G100-20261008-HORROR-001-L2).
+
+Quellen: [1](https://www.filmportal.de/person/conrad-veidt_b591556003274a50a97caba1e0536c30).
+
+### L2 · leicht
+
+Welche Stellung hat Conrad Veidts Strasser in „Casablanca“?
+
+- Er ist ein deutscher Flüchtling
+
+- **Richtig: Er ist ein deutscher Major**
+
+- Er ist ein französischer Polizeichef
+
+- Er ist ein italienischer Offizier
+
+Strasser ist ein deutscher Major.
+
+Er vertritt die nationalsozialistische Macht, die den Widerstandskämpfer Victor Laszlo (Paul Henreid) festsetzen möchte. Veidt, selbst ein Gegner des Regimes, verkörperte im Exil wiederholt deutsche Täterfiguren.
+
+Merksatz: Veidt spielt den deutschen Major, der Laszlo aufhalten will.
+
+Quellen: [1](https://www.filmportal.de/person/conrad-veidt_b591556003274a50a97caba1e0536c30).
+
+### M1 · mittel
+
+Warum fürchtet Conrad Veidts Pianist in „Orlacs Hände“, zum Mörder zu werden?
+
+- Weil sein Arzt ihn unter Hypnose setzt
+
+- Weil er im Schlaf Gewalttaten ausführt
+
+- **Richtig: Weil ihm die Hände eines hingerichteten Mörders transplantiert wurden**
+
+- Weil er sich an einen verdrängten Kriegseinsatz erinnert
+
+Er glaubt, mit den transplantierten Händen auch die Gewaltneigung ihres früheren Besitzers erhalten zu haben.
+
+Nach einem Unfall soll die Operation Orlacs musikalische Existenz retten. Doch seine Kunst kehrt nicht zurück; Drohungen verstärken seine Angst. Als sein Vater getötet wird, gerät er unter Verdacht und zweifelt selbst an seiner Unschuld.
+
+Merksatz: Orlac verwechselt transplantierte Hände mit übertragener Schuld.
+
+Quellen: [1](https://www.filmportal.de/film/orlacs-haende_d7d072b79116451394a3a7d36b497916).
+
+### M2 · mittel
+
+Womit wird Conrad Veidts Geiger Paul Körner in „Anders als die Andern“ erpresst?
+
+- Mit einer gefälschten Konzertabrechnung
+
+- **Richtig: Mit seiner Homosexualität**
+
+- Mit seiner früheren Haft wegen Betrugs
+
+- Mit einem verschwiegenen Plagiat
+
+Der Erpresser droht, Körners Homosexualität anzuzeigen.
+
+Körner wehrt sich mit einer Anzeige gegen den Erpresser. Der damalige § 175 führt aber auch zu seiner eigenen Verurteilung; der Film zeigt, wie die Strafbarkeit gleichgeschlechtlicher Beziehungen Erpressung begünstigt und das Leben des Musikers zerstört.
+
+Merksatz: Die gesetzliche Verfolgung ermöglicht Körners Erpressung.
+
+Quellen: [1](https://www.filmportal.de/film/anders-als-die-andern_825fa647845a4ece8ac65a580b3387ee).
+
+### S1 · schwer
+
+Welche gegensätzlichen Figuren spielt Conrad Veidt in der Doppelrolle von „Nazi Agent“?
+
+- Einen deutschen General und dessen amerikanischen Verhörer
+
+- Einen Gestapo-Offizier und dessen französisches Opfer
+
+- Einen britischen Diplomaten und dessen deutschen Übersetzer
+
+- **Richtig: Einen amerikanischen Buchhändler und dessen Bruder im deutschen Konsulat**
+
+Er spielt den amerikanischen Buchhändler Otto Becker und dessen Zwillingsbruder, den deutschen Konsul Hugo von Detner.
+
+Der vor den Nationalsozialisten geflohene Otto soll seinen Laden für Spione zur Verfügung stellen. Nach dem Tod Hugos nimmt er dessen Identität an und versucht, aus dem gegnerischen Netzwerk heraus Sabotage zu verhindern.
+
+Merksatz: Zwei Brüder, zwei politische Seiten, ein Identitätswechsel.
+
+Quellen: [1](https://catalog.afi.com/Film/27372-NAZI-AGENT).
+
+### S2 · schwer
+
+Wodurch entstand das dauernde Grinsen von Conrad Veidts Gwynplaine in „The Man Who Laughs“?
+
+- **Richtig: Durch eine als Kind erzwungene Operation**
+
+- Durch eine angeborene Gesichtslähmung
+
+- Durch die Verletzung bei einer Bühnenexplosion
+
+- Durch das Make-up seiner Clownsrolle
+
+Sein Gesicht wurde als Kind auf königlichen Befehl chirurgisch entstellt.
+
+Die grausame Strafe galt seinem Vater, einem Gegner des Königs. Gwynplaine verdient später als Schausteller seinen Lebensunterhalt; sein lächelndes Gesicht drückt deshalb nicht sein inneres Empfinden aus, sondern eine ihm angetane Verletzung.
+
+Merksatz: Gwynplaines Grinsen ist eine erzwungene Maske.
+
+Quellen: [1](https://catalog.afi.com/Film/10606-THE-MAN-WHO-LAUGHS).
+
+### E1 · experte
+
+Auf wessen Roman basiert Lothar Mendes’ britischer Film „Jew Süss“ mit Conrad Veidt?
+
+- Arthur Schnitzlers
+
+- Joseph Roths
+
+- **Richtig: Lion Feuchtwangers**
+
+- Wilhelm Hauffs
+
+Mendes verfilmte Lion Feuchtwangers Roman.
+
+Die britische Adaption entstand mit Veidt im Exil und gilt dem jüdischen Protagonisten mit Sympathie. Der historische Stoff erlaubte zugleich Anspielungen auf die Verfolgung unter den Nationalsozialisten; diese Fassung ist von Harlans späterem antisemitischem Propagandafilm zu unterscheiden.
+
+Merksatz: Mendes und Veidt verfilmten Feuchtwangers „Jud Süß“.
+
+Quellen: [1](https://replay.bfi.org.uk/video/e6b25b27-5d06-5c1a-abfe-acb8698454d8), [2](https://catalog.afi.com/Film/8717-POWER).
+
+### E2 · experte
+
+Was geschah mit Conrad Veidts Rolle in der ersten deutschen Kinofassung von „Casablanca“ 1952?
+
+- Sie wurde als französischer Geheimagent umgedeutet
+
+- Sie wurde durch einen anderen Darsteller nachgedreht
+
+- Sie erhielt zusätzliche Szenen aus einem anderen Film
+
+- **Richtig: Sie wurde vollständig herausgeschnitten**
+
+Veidts Rolle wurde aus der deutschen Fassung entfernt.
+
+Der deutsche Kinostart erfolgte mit einer stark veränderten Bearbeitung. Major Strasser fehlte darin vollständig; erst eine spätere Neufassung machte Veidts Auftritt wieder für das deutsche Publikum sichtbar.
+
+Merksatz: Der deutsche „Casablanca“-Start fand ohne Veidts Strasser statt.
+
+Quellen: [1](https://www.filmportal.de/person/conrad-veidt_b591556003274a50a97caba1e0536c30).
+
+## Emil Jannings · Bekanntheitsgruppe 4
+
+![Emil Jannings (um 1926)](Portraets/127.jpg)
+
+Bild: um 1926; Unknown author. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Emil_Jannings_-_no_watermark_(cropped).jpg), [TMDB](https://www.themoviedb.org/person/2895).
+
+### L1 · leicht
+
+Welchen Beruf hat Emil Jannings’ Immanuel Rath zu Beginn von „Der blaue Engel“?
+
+- Polizeibeamter
+
+- Zirkusdirektor
+
+- **Richtig: Gymnasiallehrer**
+
+- Hotelportier
+
+Rath ist Gymnasiallehrer.
+
+Er sucht das Lokal zunächst wegen seiner Schüler auf. Dort begegnet er Lola Lola (Marlene Dietrich); seine Bindung an die Sängerin führt ihn aus dem geregelten Schulalltag in eine Existenz, in der er seine frühere Autorität verliert.
+
+Merksatz: Rath kommt aus dem Klassenzimmer in den Blauen Engel.
+
+Gemeinsames Wissensziel: K-CLA-21-02 (CLA-L-042).
+
+Quellen: [1](https://www.filmportal.de/person/emil-jannings_3377e94609d3412cae1cc341360254ba), [2](https://www.criterion.com/current/posts/1569-the-last-command-illusions-and-delusions).
+
+### L2 · leicht
+
+Welche Arbeit verrichtet Emil Jannings’ Figur anfangs in Murnaus „Der letzte Mann“?
+
+- **Richtig: Er ist Hotelportier**
+
+- Er leitet die Hotelküche
+
+- Er arbeitet als Nachtwächter
+
+- Er führt die Hotelbuchhaltung
+
+Er ist Portier eines vornehmen Hotels.
+
+Die prächtige Uniform verleiht ihm auch in seiner Wohngegend hohes Ansehen. Als die Hotelleitung ihn für die körperliche Arbeit zu alt findet, verliert er mit der Stellung auch diesen sichtbaren Rang.
+
+Merksatz: Der stolze Portier lebt von seiner Stellung und ihrer Uniform.
+
+Quellen: [1](https://www.filmportal.de/film/der-letzte-mann_354d606172df4e89aee14c93fa47a89a).
+
+### M1 · mittel
+
+Was treibt Emil Jannings’ Artisten in „Varieté“ dazu, seinen Partner Artinelli zu töten?
+
+- **Richtig: Artinellis Verhältnis mit seiner Geliebten**
+
+- Artinellis Sabotage des Trapezes
+
+- Artinellis Erpressung wegen einer früheren Straftat
+
+- Artinellis Diebstahl der gemeinsamen Gage
+
+Er erfährt vom Verhältnis seiner Geliebten mit Artinelli.
+
+Boss Huller hat für Berta-Marie (Lya de Putti) seine Familie verlassen. Als erfolgreiches Artistentrio arbeiten beide mit Artinelli (Warwick Ward); der berufliche Partner wird zum Liebesrivalen, und Hullers Eifersucht endet in einem Mordgeständnis.
+
+Merksatz: Das erfolgreiche Trio zerbricht an Eifersucht.
+
+Quellen: [1](https://www.filmportal.de/film/variete_6948b7c456b44c88864a9486b2bcfca8).
+
+### M2 · mittel
+
+Welche frühere Stellung hatte Emil Jannings’ Hollywoodstatist in „The Last Command“?
+
+- Er war amerikanischer Berufsoffizier
+
+- Er war deutscher Militärattaché
+
+- Er war Direktor eines russischen Theaters
+
+- **Richtig: Er war General des russischen Zaren**
+
+Er war General im zaristischen Russland.
+
+Der verarmte Emigrant erhält am Filmset eine Rolle, die seiner früheren Stellung entspricht. Beim Nachspielen des Krieges verwischen für ihn Darstellung und Erinnerung, bis die Wiederholung seiner Vergangenheit zur tödlichen Überforderung wird.
+
+Merksatz: Der Statist muss seine eigene verlorene Macht nachspielen.
+
+Quellen: [1](https://www.criterion.com/films/6721-the-last-command), [2](https://www.criterion.com/current/posts/1569-the-last-command-illusions-and-delusions).
+
+### S1 · schwer
+
+Warum trägt Emil Jannings’ degradierter Portier in „Der letzte Mann“ bei einem Familienfest wieder seine alte Uniform?
+
+- Weil er sich für eine neue Anstellung bewerben soll
+
+- **Richtig: Weil er sie gestohlen hat, um seinen Abstieg zu verbergen**
+
+- Weil die Hotelleitung ihn für den Abend zurückbefördert
+
+- Weil die Familie ihm eine Nachbildung geschenkt hat
+
+Er stiehlt die Uniform, um den Verlust seiner Stellung zu verheimlichen.
+
+Nach der Versetzung zum Toilettenwärter wagt er nicht, seine neue Arbeit einzugestehen. Die Uniform soll beim Hochzeitsfest den bisherigen Respekt bewahren; als der Schwindel auffliegt, erlebt er auch zu Hause Spott und Zurückweisung.
+
+Merksatz: Die Uniform schützt den Schein, bis der Schwindel auffliegt.
+
+Quellen: [1](https://www.filmportal.de/film/der-letzte-mann_354d606172df4e89aee14c93fa47a89a).
+
+### S2 · schwer
+
+Womit bringt Emil Jannings’ Mephisto in Murnaus „Faust“ den Gelehrten zunächst dazu, Hilfe beim Teufel zu suchen?
+
+- Mit einem Krieg gegen seine Heimatstadt
+
+- Mit der Entführung seiner Schülerin
+
+- Mit dem Verlust seines Vermögens
+
+- **Richtig: Mit einer Pestepidemie**
+
+Mephisto lässt die Pest über das Land kommen.
+
+Faust (Gösta Ekman) kann den sterbenden Menschen nicht helfen und erhält auch durch seine Gebete keine Rettung. In dieser Verzweiflung wendet er sich an Mephisto; das Versprechen von Jugend und Macht führt anschließend zum Pakt.
+
+Merksatz: Mephisto macht Fausts Hilflosigkeit gegenüber der Pest zum Einfallstor.
+
+Quellen: [1](https://www.filmportal.de/film/faust_cff7c3b9e2fa42808ca1aa64b803765f).
+
+### E1 · experte
+
+Welche beiden Filme wurden bei Emil Jannings’ Schauspiel-Oscar der ersten Verleihung 1929 berücksichtigt?
+
+- Der blaue Engel und Faust
+
+- Der letzte Mann und Varieté
+
+- **Richtig: The Way of All Flesh und The Last Command**
+
+- The Last Command und The Patriot
+
+Der Preis galt „The Way of All Flesh“ und „The Last Command“.
+
+Bei der ersten Oscarvergabe konnte eine Schauspielleistung aus mehreren Filmen gemeinsam gewürdigt werden. Jannings’ Auszeichnung bezog sich auf zwei amerikanische Stummfilme; sein späterer Tonfilmerfolg „Der blaue Engel“ gehörte nicht dazu.
+
+Merksatz: Ein Oscar würdigte zwei Hollywoodfilme von Jannings.
+
+Quellen: [1](https://www.oscars.org/oscars/ceremonies/1929), [2](https://www.oscars.org/oscars/statuette).
+
+### E2 · experte
+
+Mit welchem Produzenten gründete Emil Jannings 1922 seine eigene Filmgesellschaft?
+
+- Joe May
+
+- **Richtig: Paul Davidson**
+
+- Erich Pommer
+
+- Arnold Pressburger
+
+Sein Partner war Paul Davidson.
+
+Die Emil Jannings-Film GmbH blieb kurzlebig. Nach „Alles für Geld“ wurde sie wieder aufgelöst; Ernst Lubitschs früher Ausstieg und Übersiedlung in die USA gehörten zu den Gründen, weshalb die geplante Zusammenarbeit nicht fortgesetzt wurde.
+
+Merksatz: Jannings und Davidson versuchten eine eigene Produktionsfirma.
+
+Quellen: [1](https://www.filmportal.de/person/emil-jannings_3377e94609d3412cae1cc341360254ba).
+
+## Anton Walbrook · Bekanntheitsgruppe 4
+
+![Anton Walbrook (um 1935)](Portraets/128.jpg)
+
+Bild: um 1935; unknown ; inconnu. Public domain laut Wikimedia Commons. [Bildquelle](https://commons.wikimedia.org/wiki/File:Anton_Walbrook_1935.jpg), [TMDB](https://www.themoviedb.org/person/88935).
+
+### L1 · leicht
+
+Welche Funktion hat Anton Walbrooks Boris Lermontov in „Die roten Schuhe“?
+
+- Er ist der Komponist des Balletts
+
+- Er ist der erste Solotänzer
+
+- **Richtig: Er leitet die Ballettkompanie**
+
+- Er entwirft die Bühnenbilder
+
+Lermontov leitet die Ballettkompanie.
+
+Er entdeckt das Potenzial von Victoria Page (Moira Shearer) und fordert ihre vorbehaltlose Hingabe an den Tanz. Als sie sich in einen Komponisten verliebt, gerät sie zwischen persönliche Liebe und Lermontovs Anspruch auf ihr künstlerisches Leben.
+
+Merksatz: Lermontov bestimmt über die Kompanie und verlangt vollständige Hingabe.
+
+Quellen: [1](https://www.bfi.org.uk/film/3b330bf5-17bf-5fb6-8377-ccf367e58c15/the-red-shoes).
+
+### L2 · leicht
+
+Wonach sucht Anton Walbrooks Ehemann in der britischen „Gaslight“-Verfilmung, während er seine Frau an ihrem Verstand zweifeln lässt?
+
+- Nach gestohlenen Militärplänen
+
+- Nach Briefen ihres früheren Geliebten
+
+- Nach einem gefälschten Testament
+
+- **Richtig: Nach versteckten Juwelen**
+
+Er sucht nach versteckten Juwelen.
+
+Paul Mallen nutzt nachts die oberen Räume des Hauses, um die Beute eines früheren Mordes zu finden. Bella (Diana Wynyard) soll ihre Wahrnehmung für unzuverlässig halten, damit seine verdächtigen Aktivitäten unentdeckt bleiben.
+
+Merksatz: Pauls Manipulation deckt seine Suche nach der Mordbeute.
+
+Quellen: [1](https://shop.bfi.org.uk/gaslight/).
+
+### M1 · mittel
+
+Wie beginnt in „Leben und Sterben des Colonel Blimp“ die Beziehung zwischen Anton Walbrooks Theo und dem britischen Clive Candy?
+
+- **Richtig: Als Gegner in einem Duell**
+
+- Als gemeinsame Rekruten in der Fremdenlegion
+
+- Als Verhandlungspartner beim Waffenstillstand
+
+- Als Kameraden nach einem Flugzeugabsturz
+
+Sie begegnen einander zunächst als Duellgegner.
+
+Theo Kretschmar-Schuldorff soll nach einem Zwischenfall deutsche Ehre verteidigen. Aus der Konfrontation mit Candy (Roger Livesey) wächst eine Freundschaft, die unterschiedliche Nationen, mehrere Kriege und die Veränderung ihrer politischen Überzeugungen überdauert.
+
+Merksatz: Aus dem Duell entwickelt sich eine lebenslange Freundschaft.
+
+Quellen: [1](https://www.criterion.com/current/posts/2699-the-life-and-death-and-life-of-colonel-blimp).
+
+### M2 · mittel
+
+Welche erzählerische Aufgabe übernimmt Anton Walbrook in Max Ophuls’ „La ronde“?
+
+- Er erinnert als gealterter Soldat an seine früheren Affären
+
+- **Richtig: Er führt als Spielleiter zwischen den Liebesepisoden hindurch**
+
+- Er untersucht als Polizist die Verbindungen der Liebespaare
+
+- Er erzählt als Ehemann die Geschichte seiner gescheiterten Ehe
+
+Walbrook ist der Spielleiter, der die Episoden miteinander verbindet.
+
+Die einzelnen Begegnungen reichen durch verschiedene gesellschaftliche Schichten. Sein Conférencier kommentiert und vermittelt die Übergänge; er gehört damit zur Gestaltung des Erzählens, statt lediglich einer der aufeinanderfolgenden Liebhaber zu sein.
+
+Merksatz: Walbrook hält den Reigen der Episoden zusammen.
+
+Quellen: [1](https://www.filmportal.de/person/adolf-wohlbrueck_102ea96f2718406e9c16cab47f74d5e2), [2](https://www.criterion.com/films/573-la-ronde).
+
+### S1 · schwer
+
+Welches Musikstück ist eng mit Anton Walbrooks Pianistenrolle in „Dangerous Moonlight“ verbunden?
+
+- Dream of Olwen
+
+- **Richtig: Warsaw Concerto**
+
+- Cornish Rhapsody
+
+- Rhapsody in Blue
+
+Das „Warsaw Concerto“ gehört zu „Dangerous Moonlight“.
+
+Walbrook spielt einen polnischen Piloten und Pianisten, in den sich eine amerikanische Reporterin (Sally Gray) verliebt. Die Musik wurde über den Film hinaus bekannt und verband sich für viele britische Zuhörer mit den Erfahrungen der Luftangriffe.
+
+Merksatz: Walbrooks Pianist gehört zum „Warsaw Concerto“.
+
+Quellen: [1](https://www.bfi.org.uk/film/0a6de421-dca6-5c15-964e-12c082e5b31d/dangerous-moonlight).
+
+### S2 · schwer
+
+Welchen bayerischen König verkörpert Anton Walbrook in „Lola Montès“?
+
+- **Richtig: Ludwig I.**
+
+- Maximilian II.
+
+- Maximilian I. Joseph
+
+- Ludwig II.
+
+Walbrook spielt Ludwig I. von Bayern.
+
+Ophuls erzählt Lola Montès’ (Martine Carol) Beziehungen als Rückblicke aus einer Zirkusvorstellung. Zu ihren früheren Gönnern gehört Ludwig I.; Walbrooks monarchische Figur steht neben dem jungen Studenten (Oskar Werner) und dem späteren Zirkusdirektor (Peter Ustinov).
+
+Merksatz: Walbrooks Ludwig ist der erste, nicht der zweite bayerische König dieses Namens.
+
+Quellen: [1](https://www.criterion.com/films/938-lola-montes).
+
+### E1 · experte
+
+Unter welchen Umständen gründete Anton Walbrook im Ersten Weltkrieg eine Theatergruppe?
+
+- Während eines Lazarettaufenthalts in Wien
+
+- Während einer Reise als Truppenunterhalter
+
+- **Richtig: Während seiner französischen Kriegsgefangenschaft**
+
+- Während einer Ausbildung als Sanitätssoldat
+
+Er gründete die Gruppe in französischer Kriegsgefangenschaft.
+
+Der damals noch unter Adolf Wohlbrück auftretende Schauspieler setzte seine Theaterarbeit mit Mitgefangenen fort. Nach dem Krieg erhielt er Bühnenengagements in mehreren deutschen Städten, bevor der Tonfilm seine Kinokarriere entscheidend voranbrachte.
+
+Merksatz: Wohlbrück organisierte Theater mit Kriegsgefangenen.
+
+Quellen: [1](https://www.filmportal.de/person/adolf-wohlbrueck_102ea96f2718406e9c16cab47f74d5e2).
+
+### E2 · experte
+
+Wie unterstützte Anton Walbrook aus dem Londoner Exil von den Nationalsozialisten verfolgte Filmschaffende?
+
+- Er produzierte für sie eine regelmäßige Hörspielreihe in New York
+
+- Er organisierte für sie eine feste Tourneebühne in Südamerika
+
+- Er eröffnete für sie eine eigene Schauspielschule in Paris
+
+- **Richtig: Er half finanziell und bei der Flucht aus Deutschland**
+
+Er unterstützte sie mit Geld und Fluchthilfe.
+
+Walbrook hatte Deutschland selbst verlassen und baute in England eine neue Karriere auf. Filmportal dokumentiert, dass er seine Londoner Möglichkeiten auch nutzte, um nach den nationalsozialistischen Rassegesetzen verfolgten Kollegen zu helfen.
+
+Merksatz: Walbrooks Exilkarriere schloss praktische Hilfe für Verfolgte ein.
+
+Quellen: [1](https://www.filmportal.de/person/adolf-wohlbrueck_102ea96f2718406e9c16cab47f74d5e2).

@@ -1,0 +1,230 @@
+{
+  "entry": 111,
+  "personId": "ACTOR-BG-20261013-111",
+  "name": "Buster Keaton",
+  "level": 4,
+  "period": "1910er bis 1960er Jahre",
+  "articleUrl": "https://busterkeaton.org/about-buster/part-3-the-worst-mistake/",
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf hat Johnnie Gray (Buster Keaton) in „Der General“?",
+      "answers": [
+        "Bahnhofsvorsteher.",
+        "Lokomotivführer.",
+        "Gleisbauer.",
+        "Telegrafist."
+      ],
+      "correct": 1,
+      "short": "Johnnie Gray ist Lokomotivführer.",
+      "context": "Johnnies große Bindungen gelten seiner Lokomotive und Annabelle Lee (Marion Mack). Als gegnerische Soldaten den Zug im amerikanischen Bürgerkrieg entführen, setzt er ihnen nach. Seine praktische Vertrautheit mit der Maschine wird dabei entscheidend: Der vermeintlich unmilitärische Eisenbahner bewährt sich durch Improvisation und Beharrlichkeit.",
+      "anchor": "Der Lokomotivführer kennt seine Maschine besser als die Entführer.",
+      "interest": "Keatons Berufswahl für die Figur verbindet den Liebeskonflikt mit der Eisenbahnverfolgung.",
+      "feedback": [
+        "",
+        "Johnnie Gray ist Lokomotivführer.",
+        "",
+        ""
+      ],
+      "films": [
+        "The General|1926"
+      ],
+      "extraSources": [
+        "https://www.loc.gov/item/2016684114/",
+        "https://en.wikipedia.org/wiki/The_General_(1926_film)"
+      ],
+      "knowledge_id": "K-KOM-202609-P02-L-075",
+      "variant_of": "KOM-202609-P02-L-075",
+      "knowledge_note": "Umgekehrter Zugang zum vorhandenen Besetzungsziel Buster Keaton als Lokomotivführer Johnnie Gray."
+    },
+    {
+      "code": "L2",
+      "question": "Womit verdient Buster Keatons Hauptfigur in „Sherlock Jr.“ ihr Geld, bevor sie sich als Detektiv erträumt?",
+      "answers": [
+        "Als Filmvorführer.",
+        "Als Zeitungsverkäufer.",
+        "Als Nachtwächter.",
+        "Als Hotelpage."
+      ],
+      "correct": 0,
+      "short": "Die Hauptfigur arbeitet als Filmvorführer in einem Kino.",
+      "context": "Der junge Vorführer liest ein Detektivhandbuch und versucht auch im wirklichen Leben, einen Diebstahl aufzuklären. Dabei gerät er selbst unter Verdacht. Während einer Vorstellung schläft er ein und träumt sich als erfolgreicher Ermittler in den Film hinein. Das Kino ist damit zugleich sein Arbeitsplatz und der Ort seiner ersehnten Verwandlung.",
+      "anchor": "Aus der Vorführkabine führt der Traum auf die Leinwand.",
+      "interest": "Der Beruf schafft die unmittelbare Verbindung zwischen Alltag und Filmphantasie.",
+      "feedback": [
+        "Die Hauptfigur arbeitet als Filmvorführer in einem Kino.",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Sherlock Jr.|1924"
+      ],
+      "extraSources": [
+        "https://en.wikipedia.org/wiki/Sherlock_Jr."
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum gerät Willies (Buster Keaton) Liebe zu Kitty (Marion Byron) in „Steamboat Bill, Jr.“ in den Streit der Väter?",
+      "answers": [
+        "Kittys Vater hat Willie wegen einer alten Schuld verklagt.",
+        "Ihre Väter streiten um die Leitung derselben Werft.",
+        "Kittys Vater will Willies Vater als Kapitän einstellen.",
+        "Ihre Väter betreiben konkurrierende Dampfschiffe."
+      ],
+      "correct": 3,
+      "short": "Die Väter sind Konkurrenten im Dampfschiffgeschäft.",
+      "context": "Willie kehrt als wenig seemännisch wirkender junger Mann zu seinem Vater zurück. Dieser möchte aus dem Sohn einen passenden Nachfolger machen und stößt sich an dessen Erscheinung. Die Beziehung zu Kitty, der Tochter des mächtigen Konkurrenten, verschärft den Familienkonflikt. Erst die Katastrophe des abschließenden Wirbelsturms gibt Willie Gelegenheit, seine Fähigkeiten unter Beweis zu stellen.",
+      "anchor": "Die Rivalität auf dem Fluss belastet auch die Liebe der Kinder.",
+      "interest": "Der Film verschränkt einen Vater-Sohn-Konflikt mit einer Liebesgeschichte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        "Die Väter sind Konkurrenten im Dampfschiffgeschäft."
+      ],
+      "films": [
+        "Steamboat Bill, Jr.|1928"
+      ],
+      "extraSources": [
+        "https://player.bfi.org.uk/subscription/film/watch-steamboat-bill-jr-1928-online"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Bedingung muss Jimmie Shannon (Buster Keaton) in „Seven Chances“ erfüllen, um das angekündigte Vermögen zu erben?",
+      "answers": [
+        "Er muss innerhalb der gesetzten Frist heiraten.",
+        "Er muss seine Anteile am Unternehmen verkaufen.",
+        "Er muss die Schulden seiner Firma vorher zurückzahlen.",
+        "Er muss einen verschollenen Verwandten finden."
+      ],
+      "correct": 0,
+      "short": "Das Erbe ist an eine fristgerechte Heirat gebunden.",
+      "context": "Jimmies Firma steht vor dem Ruin, als ein Anwalt ihm die ungewöhnliche Erbbedingung eröffnet. Seine erste Erklärung gegenüber Mary Jones (Ruth Dwyer) klingt so ungeschickt, dass sie den Antrag zurücknimmt. Die Suche nach einer anderen Braut wächst durch eine Zeitungsanzeige zur Massenverfolgung an. Jimmie muss schließlich nicht nur seine Liebe, sondern auch die Uhrzeit richtig verstehen.",
+      "anchor": "Aus einer Erbbedingung wird eine immer größere Jagd nach einer Hochzeit.",
+      "interest": "Die Frist setzt die komische Eskalation des Films in Gang.",
+      "feedback": [
+        "Das Erbe ist an eine fristgerechte Heirat gebunden.",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Seven Chances|1925"
+      ],
+      "extraSources": [
+        "https://en.wikipedia.org/wiki/Seven_Chances"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was macht den Eintritt von Buster Keatons Traumfigur auf die Leinwand in „Sherlock Jr.“ zunächst so schwierig?",
+      "answers": [
+        "Er bleibt für alle anderen Figuren unsichtbar.",
+        "Die Filmhandlung läuft rückwärts, sobald er sich bewegt.",
+        "Schnitte versetzen ihn unvermittelt in andere Schauplätze.",
+        "Die Leinwandfiguren wiederholen jede seiner Bewegungen."
+      ],
+      "correct": 2,
+      "short": "Die wechselnden Einstellungen ändern den Raum um ihn herum, ohne Rücksicht auf seine Bewegung.",
+      "context": "Keaton behandelt den Filmschnitt wie eine körperlich erfahrbare Gefahr: Die Traumfigur befindet sich scheinbar im Bild, kann aber dessen Ortswechsel nicht kontrollieren. Aus einer Bewegung wird dadurch ein Hindernis, weil die nächste Einstellung eine andere Umgebung bietet. Erst später beherrscht der geträumte Detektiv die Filmwelt mit jener Sicherheit, die dem Vorführer im Alltag fehlt.",
+      "anchor": "Der Schnitt wechselt die Welt unter Keatons Füßen.",
+      "interest": "Eine grundlegende Technik des Kinos wird selbst zum Gegenstand der Komik.",
+      "feedback": [
+        "",
+        "",
+        "Die wechselnden Einstellungen ändern den Raum um ihn herum, ohne Rücksicht auf seine Bewegung.",
+        ""
+      ],
+      "films": [
+        "Sherlock Jr.|1924"
+      ],
+      "extraSources": [
+        "https://www.bfi.org.uk/film/4f7add12-c2af-5c5c-bb49-1647ce3240df/sherlock-jr"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Worin liegt die besondere Überforderung von Rollo (Buster Keaton) und Betsy (Kathryn McGuire) in „The Navigator“?",
+      "answers": [
+        "Sie sollen einen Luxusliner vor seiner ersten Fahrt überprüfen.",
+        "Zwei verwöhnte Menschen müssen ein riesiges Schiff ohne Personal bewältigen.",
+        "Sie müssen ein Passagierschiff in ein Kriegsschiff umbauen.",
+        "Sie müssen eine Schiffsbesatzung gegen eine Meuterei führen."
+      ],
+      "correct": 1,
+      "short": "Die beiden an Bedienung gewöhnten Menschen müssen auf dem verlassenen Ozeandampfer selbst zurechtkommen.",
+      "context": "Rollo geht versehentlich auf das falsche Schiff, während Betsy dort ihren entführten Vater sucht. Der Dampfer treibt davon, und die beiden entdecken einander zunächst nicht einmal. Nun müssen sie in Anlagen für Hunderte von Menschen ihren Alltag zu zweit organisieren. Besonders die überdimensionierte Küche verwandelt alltägliche Verrichtungen in technische und körperliche Probleme.",
+      "anchor": "Ein schwimmender Großbetrieb wird zum Haushalt zweier völlig Ungeübter.",
+      "interest": "Die Größenverhältnisse erklären, wie Keaton aus einem einzigen Schauplatz zahlreiche Gags entwickelt.",
+      "feedback": [
+        "",
+        "Die beiden an Bedienung gewöhnten Menschen müssen auf dem verlassenen Ozeandampfer selbst zurechtkommen.",
+        "",
+        ""
+      ],
+      "films": [
+        "The Navigator|1924"
+      ],
+      "extraSources": [
+        "https://blogs.loc.gov/now-see-hear/2023/02/remembering-buster-keaton-and-the-navigator-1924/"
+      ]
+    },
+    {
+      "code": "E1",
+      "question": "Wie übersteht Buster Keaton in „Steamboat Bill, Jr.“ den Sturz der Hausfassade in dem berühmten Stunt?",
+      "answers": [
+        "Er springt im letzten Moment in eine Vertiefung im Boden.",
+        "Die Fassade wird vor seinem Körper von einem Stahlseil angehalten.",
+        "Er steht genau in der Falllinie einer offenen Fensteröffnung.",
+        "Eine aufschwingende Tür lenkt die Fassade an ihm vorbei."
+      ],
+      "correct": 2,
+      "short": "Die offene Fensteröffnung fällt genau über Keatons Körper hinweg.",
+      "context": "Der Gag verlangt einen präzisen Standpunkt: Während die schwere Fassade nach vorn kippt, bleibt Keaton unbewegt, und die Öffnung umschließt ihn beim Aufschlag. Ausstatter Fred Gabourie konstruierte die Vorrichtung; verdeckte Helfer lösten die Halteseile. Die sichtbare Ruhe des Darstellers steht im scharfen Gegensatz zu dem Aufwand und Risiko hinter der Einstellung.",
+      "anchor": "Keatons Standpunkt und die Fensteröffnung müssen exakt zusammentreffen.",
+      "interest": "Der Stunt verbindet Raumplanung, Bühnentechnik und körperliche Kontrolle.",
+      "feedback": [
+        "",
+        "",
+        "Die offene Fensteröffnung fällt genau über Keatons Körper hinweg.",
+        ""
+      ],
+      "films": [
+        "Steamboat Bill, Jr.|1928"
+      ],
+      "extraSources": [
+        "https://silentfilm.org/steamboat-bill-jr-2/"
+      ]
+    },
+    {
+      "code": "E2",
+      "question": "Welche berufliche Veränderung brachte Buster Keatons Wechsel zu MGM zur Zeit von „The Cameraman“ mit sich?",
+      "answers": [
+        "Er musste seine Filme nun selbst finanzieren und vertreiben.",
+        "Er erhielt die Leitung einer eigenen Abteilung für Trickfilme.",
+        "Er konzentrierte sich auf Regieaufgaben für andere Komiker.",
+        "Er gab seine unabhängige Produktion zugunsten der Studioorganisation auf."
+      ],
+      "correct": 3,
+      "short": "Bei MGM verlor Keaton die zuvor weitgehende kreative Selbstständigkeit seiner eigenen Produktion.",
+      "context": "Zuvor hatte Keaton mit einem vertrauten Team eigene Filme entwickelt und Joseph Schenck als Produzenten hinter sich gehabt. MGM bot einen großen Studioapparat, bestand aber zunehmend auf der Auswahl von Stoffen und Material durch seine Abteilungen. „The Cameraman“ bewahrt noch viel von Keatons eigener Filmkunst; die Schwierigkeiten des Wechsels sind deshalb am Ergebnis dieses ersten Films weniger deutlich als an seiner Arbeitsweise.",
+      "anchor": "Der Studiovertrag verändert, wer über Keatons Komik entscheidet.",
+      "interest": "Der Übergang erklärt die berufliche Zäsur jenseits des bloßen Wechsels zum Tonfilm.",
+      "feedback": [
+        "",
+        "",
+        "",
+        "Bei MGM verlor Keaton die zuvor weitgehende kreative Selbstständigkeit seiner eigenen Produktion."
+      ],
+      "films": [
+        "The Cameraman|1928"
+      ],
+      "extraSources": [
+        "https://busterkeaton.org/about-buster/part-3-the-worst-mistake/"
+      ]
+    }
+  ]
+}

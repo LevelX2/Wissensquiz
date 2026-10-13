@@ -112,7 +112,31 @@
     "ACTOR-BG-20261013-101",
     "ACTOR-BG-20261013-102",
     "ACTOR-BG-20261013-103",
-    "ACTOR-BG-20261013-104"
+    "ACTOR-BG-20261013-104",
+    "ACTOR-BG-20261013-105",
+    "ACTOR-BG-20261013-106",
+    "ACTOR-BG-20261013-107",
+    "ACTOR-BG-20261013-108",
+    "ACTOR-BG-20261013-109",
+    "ACTOR-BG-20261013-110",
+    "ACTOR-BG-20261013-111",
+    "ACTOR-BG-20261013-112",
+    "ACTOR-BG-20261013-113",
+    "ACTOR-BG-20261013-114",
+    "ACTOR-BG-20261013-115",
+    "ACTOR-BG-20261013-116",
+    "ACTOR-BG-20261013-117",
+    "ACTOR-BG-20261013-118",
+    "ACTOR-BG-20261013-119",
+    "ACTOR-BG-20261013-120",
+    "ACTOR-BG-20261013-121",
+    "ACTOR-BG-20261013-122",
+    "ACTOR-BG-20261013-123",
+    "ACTOR-BG-20261013-124",
+    "ACTOR-BG-20261013-125",
+    "ACTOR-BG-20261013-126",
+    "ACTOR-BG-20261013-127",
+    "ACTOR-BG-20261013-128"
   ],
   "blocks": [
     {
@@ -796,7 +820,7 @@
     },
     {
       "block": 6,
-      "status": "Recherche und Redaktion",
+      "status": "Redaktion und App-Parser-Prüfung abgeschlossen; nicht installiert",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -943,11 +967,15 @@
           "name": "Anton Walbrook",
           "level": 4
         }
-      ]
+      ],
+      "questions": 192,
+      "newGoals": 185,
+      "existingVariants": 7,
+      "portraits": 24
     },
     {
       "block": 7,
-      "status": "Geplant",
+      "status": "Recherche und Redaktion",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -1098,7 +1126,7 @@
     },
     {
       "block": 8,
-      "status": "Geplant",
+      "status": "Recherche und Redaktion",
       "plannedQuestions": 192,
       "persons": [
         {
@@ -1454,15 +1482,15 @@
       ]
     }
   ],
-  "remainingPersons": 104,
+  "remainingPersons": 80,
   "remainingByGroup": {
     "1": 0,
     "2": 0,
-    "3": 6,
-    "4": 98
+    "3": 0,
+    "4": 80
   },
   "appIntegration": "ausstehend",
   "publication": "nicht beauftragt",
   "continuousCommission": "Bis vollständigem Ausgleich weiterarbeiten; abgeschlossene Blöcke lokal committen",
-  "validatedThroughEntry": 104
+  "validatedThroughEntry": 128
 }

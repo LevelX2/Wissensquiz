@@ -1,0 +1,230 @@
+{
+  "entry": 126,
+  "personId": "ACTOR-BG-20261013-126",
+  "name": "Conrad Veidt",
+  "level": 4,
+  "period": "1910er bis 1940er Jahre",
+  "articleUrl": "https://www.filmportal.de/person/conrad-veidt_b591556003274a50a97caba1e0536c30",
+  "questions": [
+    {
+      "code": "L1",
+      "knowledge_id": "K-G100-20261008-HORROR-001-L2",
+      "variant_of": "G100-20261008-HORROR-001-L2",
+      "knowledge_note": "Cesares Auftreten als Schlafwandler ist bereits ein Filmziel; Personenvariante teilt dessen Wissensziel.",
+      "question": "Welche Art von Figur spielt Conrad Veidt als Cesare in „Das Cabinet des Dr. Caligari“?",
+      "answers": [
+        "Einen Schlafwandler",
+        "Einen Zauberer",
+        "Einen Bauchredner",
+        "Einen Gedächtniskünstler"
+      ],
+      "correct": 0,
+      "short": "Cesare ist ein Schlafwandler.",
+      "context": "Dr. Caligari (Werner Krauß) präsentiert ihn als Jahrmarktsattraktion, die die Zukunft vorhersagen soll. Die unheimliche Verbindung zwischen dem Schausteller und dem willenlosen Cesare gehört zum Zentrum der Mordgeschichte.",
+      "anchor": "Cesare ist Caligaris somnambuler Gehilfe.",
+      "interest": "Eine zentrale Figur des expressionistischen Kinos wiedererkennen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Das Cabinet des Dr. Caligari|1920"
+      ],
+      "extraSources": [
+        "https://www.filmportal.de/person/conrad-veidt_b591556003274a50a97caba1e0536c30"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Stellung hat Conrad Veidts Strasser in „Casablanca“?",
+      "answers": [
+        "Er ist ein deutscher Flüchtling",
+        "Er ist ein deutscher Major",
+        "Er ist ein französischer Polizeichef",
+        "Er ist ein italienischer Offizier"
+      ],
+      "correct": 1,
+      "short": "Strasser ist ein deutscher Major.",
+      "context": "Er vertritt die nationalsozialistische Macht, die den Widerstandskämpfer Victor Laszlo (Paul Henreid) festsetzen möchte. Veidt, selbst ein Gegner des Regimes, verkörperte im Exil wiederholt deutsche Täterfiguren.",
+      "anchor": "Veidt spielt den deutschen Major, der Laszlo aufhalten will.",
+      "interest": "Darsteller und politische Funktion seiner Filmfigur unterscheiden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Casablanca|1942"
+      ],
+      "extraSources": [
+        "https://www.filmportal.de/person/conrad-veidt_b591556003274a50a97caba1e0536c30"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum fürchtet Conrad Veidts Pianist in „Orlacs Hände“, zum Mörder zu werden?",
+      "answers": [
+        "Weil sein Arzt ihn unter Hypnose setzt",
+        "Weil er im Schlaf Gewalttaten ausführt",
+        "Weil ihm die Hände eines hingerichteten Mörders transplantiert wurden",
+        "Weil er sich an einen verdrängten Kriegseinsatz erinnert"
+      ],
+      "correct": 2,
+      "short": "Er glaubt, mit den transplantierten Händen auch die Gewaltneigung ihres früheren Besitzers erhalten zu haben.",
+      "context": "Nach einem Unfall soll die Operation Orlacs musikalische Existenz retten. Doch seine Kunst kehrt nicht zurück; Drohungen verstärken seine Angst. Als sein Vater getötet wird, gerät er unter Verdacht und zweifelt selbst an seiner Unschuld.",
+      "anchor": "Orlac verwechselt transplantierte Hände mit übertragener Schuld.",
+      "interest": "Die psychologische Angst hinter einem frühen Körperhorrorfilm verstehen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Orlacs Hände|1924"
+      ],
+      "extraSources": [
+        "https://www.filmportal.de/film/orlacs-haende_d7d072b79116451394a3a7d36b497916"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Womit wird Conrad Veidts Geiger Paul Körner in „Anders als die Andern“ erpresst?",
+      "answers": [
+        "Mit einer gefälschten Konzertabrechnung",
+        "Mit seiner Homosexualität",
+        "Mit seiner früheren Haft wegen Betrugs",
+        "Mit einem verschwiegenen Plagiat"
+      ],
+      "correct": 1,
+      "short": "Der Erpresser droht, Körners Homosexualität anzuzeigen.",
+      "context": "Körner wehrt sich mit einer Anzeige gegen den Erpresser. Der damalige § 175 führt aber auch zu seiner eigenen Verurteilung; der Film zeigt, wie die Strafbarkeit gleichgeschlechtlicher Beziehungen Erpressung begünstigt und das Leben des Musikers zerstört.",
+      "anchor": "Die gesetzliche Verfolgung ermöglicht Körners Erpressung.",
+      "interest": "Den gesellschaftlichen Konflikt einer frühen queeren Filmrolle erfassen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Anders als die Andern|1919"
+      ],
+      "extraSources": [
+        "https://www.filmportal.de/film/anders-als-die-andern_825fa647845a4ece8ac65a580b3387ee"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche gegensätzlichen Figuren spielt Conrad Veidt in der Doppelrolle von „Nazi Agent“?",
+      "answers": [
+        "Einen deutschen General und dessen amerikanischen Verhörer",
+        "Einen Gestapo-Offizier und dessen französisches Opfer",
+        "Einen britischen Diplomaten und dessen deutschen Übersetzer",
+        "Einen amerikanischen Buchhändler und dessen Bruder im deutschen Konsulat"
+      ],
+      "correct": 3,
+      "short": "Er spielt den amerikanischen Buchhändler Otto Becker und dessen Zwillingsbruder, den deutschen Konsul Hugo von Detner.",
+      "context": "Der vor den Nationalsozialisten geflohene Otto soll seinen Laden für Spione zur Verfügung stellen. Nach dem Tod Hugos nimmt er dessen Identität an und versucht, aus dem gegnerischen Netzwerk heraus Sabotage zu verhindern.",
+      "anchor": "Zwei Brüder, zwei politische Seiten, ein Identitätswechsel.",
+      "interest": "Doppelrolle und Verkleidung innerhalb derselben Spionagehandlung unterscheiden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Nazi Agent|1942"
+      ],
+      "extraSources": [
+        "https://catalog.afi.com/Film/27372-NAZI-AGENT"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wodurch entstand das dauernde Grinsen von Conrad Veidts Gwynplaine in „The Man Who Laughs“?",
+      "answers": [
+        "Durch eine als Kind erzwungene Operation",
+        "Durch eine angeborene Gesichtslähmung",
+        "Durch die Verletzung bei einer Bühnenexplosion",
+        "Durch das Make-up seiner Clownsrolle"
+      ],
+      "correct": 0,
+      "short": "Sein Gesicht wurde als Kind auf königlichen Befehl chirurgisch entstellt.",
+      "context": "Die grausame Strafe galt seinem Vater, einem Gegner des Königs. Gwynplaine verdient später als Schausteller seinen Lebensunterhalt; sein lächelndes Gesicht drückt deshalb nicht sein inneres Empfinden aus, sondern eine ihm angetane Verletzung.",
+      "anchor": "Gwynplaines Grinsen ist eine erzwungene Maske.",
+      "interest": "Äußeren Ausdruck und Gefühl in einer berühmten Stummfilmgestaltung unterscheiden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "The Man Who Laughs|1928"
+      ],
+      "extraSources": [
+        "https://catalog.afi.com/Film/10606-THE-MAN-WHO-LAUGHS"
+      ]
+    },
+    {
+      "code": "E1",
+      "question": "Auf wessen Roman basiert Lothar Mendes’ britischer Film „Jew Süss“ mit Conrad Veidt?",
+      "answers": [
+        "Arthur Schnitzlers",
+        "Joseph Roths",
+        "Lion Feuchtwangers",
+        "Wilhelm Hauffs"
+      ],
+      "correct": 2,
+      "short": "Mendes verfilmte Lion Feuchtwangers Roman.",
+      "context": "Die britische Adaption entstand mit Veidt im Exil und gilt dem jüdischen Protagonisten mit Sympathie. Der historische Stoff erlaubte zugleich Anspielungen auf die Verfolgung unter den Nationalsozialisten; diese Fassung ist von Harlans späterem antisemitischem Propagandafilm zu unterscheiden.",
+      "anchor": "Mendes und Veidt verfilmten Feuchtwangers „Jud Süß“.",
+      "interest": "Literarische Vorlage und politische Ausrichtung einer Exilproduktion verbinden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Jew Süss|1934"
+      ],
+      "extraSources": [
+        "https://replay.bfi.org.uk/video/e6b25b27-5d06-5c1a-abfe-acb8698454d8",
+        "https://catalog.afi.com/Film/8717-POWER"
+      ]
+    },
+    {
+      "code": "E2",
+      "question": "Was geschah mit Conrad Veidts Rolle in der ersten deutschen Kinofassung von „Casablanca“ 1952?",
+      "answers": [
+        "Sie wurde als französischer Geheimagent umgedeutet",
+        "Sie wurde durch einen anderen Darsteller nachgedreht",
+        "Sie erhielt zusätzliche Szenen aus einem anderen Film",
+        "Sie wurde vollständig herausgeschnitten"
+      ],
+      "correct": 3,
+      "short": "Veidts Rolle wurde aus der deutschen Fassung entfernt.",
+      "context": "Der deutsche Kinostart erfolgte mit einer stark veränderten Bearbeitung. Major Strasser fehlte darin vollständig; erst eine spätere Neufassung machte Veidts Auftritt wieder für das deutsche Publikum sichtbar.",
+      "anchor": "Der deutsche „Casablanca“-Start fand ohne Veidts Strasser statt.",
+      "interest": "Die Wirkung einer nachträglichen nationalen Filmbearbeitung erkennen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Casablanca|1942"
+      ],
+      "extraSources": [
+        "https://www.filmportal.de/person/conrad-veidt_b591556003274a50a97caba1e0536c30"
+      ]
+    }
+  ]
+}

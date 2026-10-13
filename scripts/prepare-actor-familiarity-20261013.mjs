@@ -75,7 +75,7 @@ for (const file of fs
   }
 }
 const server = await createServer({
-  server: { middlewareMode: true, hmr: false, ws: false },
+  server: { middlewareMode: true, hmr: false, ws: false, watch: null },
   optimizeDeps: { noDiscovery: true, entries: [] },
 });
 try {
