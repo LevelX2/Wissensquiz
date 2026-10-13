@@ -32,6 +32,7 @@ import { DisclosureArtwork } from "./DisclosureArtwork";
 
 import {
   isRecordMode,
+  QUESTION_LIMIT,
   isEndlessMode,
   allowsSolutionChoice,
   questionLimit,
@@ -541,6 +542,23 @@ export function QuestionScreen({
         )}
         {event && (!collected || showReveal) && (
           <div ref={feedback} tabIndex={-1} className="feedback" role="status">
+            {round.mode === "rekord" && !round.duel && (
+              <p className="quiet-note">
+                Benötigte Zeit:{" "}
+                {(event.elapsedMs / 1000).toLocaleString("de-DE", {
+                  minimumFractionDigits: 1,
+                  maximumFractionDigits: 1,
+                })}{" "}
+                s · Restzeit:{" "}
+                {(
+                  Math.max(0, QUESTION_LIMIT - event.elapsedMs) / 1000
+                ).toLocaleString("de-DE", {
+                  minimumFractionDigits: 1,
+                  maximumFractionDigits: 1,
+                })}{" "}
+                s
+              </p>
+            )}
             {showReveal ? (
               <div className="solution-reveal">
                 {answerOptions}

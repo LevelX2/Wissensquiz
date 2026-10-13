@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 13.10.2026 – Antwortzeit in der Zehnerrunde
+
+Lokal ergänzt: „Benötigte Zeit“ und „Restzeit“ mit einer Nachkommastelle aus der bestätigten Antwortzeit. Anzeige vor den beiden Antwortdarstellungen, daher sowohl während der farbigen Auflösung als auch in der direkten Lösung sichtbar. Quellprüfung für richtige/falsche Antwort, „Keine Ahnung“ und Zeitablauf; Restzeit auf null begrenzt, keine weiterlaufende Uhr nach Bestätigung. `npx tsc --noEmit` und `git diff --check` erfolgreich. Kleine Anzeigeänderung ohne neue Tests, vollständigen Testlauf, Produktionsbuild oder Browserabnahme; noch nicht veröffentlicht. [Anzeigevertrag](Rekordmodi-und-Zeitranglisten.md#antwortzeit-in-der-zehnerrunde--13102026).
+
 ## 13.10.2026 – Eigenes Icon für „Deine Erfolge“
 
 Goldene Sternmedaille mit petrolfarbenen Bändern statt des erneut verwendeten Statistikmotivs. Beide gezielten Chromium-Profilfälle bei 320 und 1280 Pixeln gegen lokalen Vite-Entwicklungsserver bestanden (2/2): sechs Klappen, korrekt geladene Icons, Tastaturbedienung, WCAG-Automatik, unveränderter synthetischer Spielstand und geschlossene Klappen beim Rückweg. Transparentes 160-Pixel-Icon und kompaktes Profil visuell geprüft; `git diff --check` erfolgreich. Keine vollständige Testsuite, kein Produktionsbuild und keine Veröffentlichung für diesen kleinen lokalen Änderungsblock. [Motiv, Originalprompt und Herkunft](Profilklappen-2026-10-11.md#achievementspng--13102026).

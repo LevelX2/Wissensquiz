@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Zehnerrunde: benötigte Antwortzeit und Restzeit in der Antwortansicht – 13.10.2026, lokal](../../../docs/Rekordmodi-und-Zeitranglisten.md#antwortzeit-in-der-zehnerrunde--13102026)
+
 - [Vier Bekanntheitsgruppen für Filme, Schauspieler und Preisträger: Einordnung aller 220 Personen/280 Preisfragen und gezielter Ausbau – 13.10.2026](../../../docs/Bekanntheitsgruppen/Plan.md)
 
 - [TMDB-Porträts für alle 220 Personen; Bilderkennungsfotos bleiben erhalten – lokal am 13.10.2026](../../../docs/Schauspielerportraets.md#tmdb-porträts-für-alle-personen--13102026)

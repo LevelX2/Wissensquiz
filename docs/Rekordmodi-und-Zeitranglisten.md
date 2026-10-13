@@ -28,6 +28,10 @@ Die Uhr startet nach dem Rendern der bedienbaren Frage. Erklärungen, Speichern 
 
 Korrektur vom 04.10.2026: Alle drei Zeitmodi verwenden die Lösungswahl unter Profil → Optionen. Direktes Feedback erlaubt Lesen und manuelles Weitergehen ohne laufende Frageuhr. Bei gesammelten Lösungen folgen die Fragen nach dem Speichern automatisch aufeinander; der unmittelbare Rundenrückblick öffnet sich am Laufende. Neue Duelle verwenden zwingend gesammelte Lösungen nach der eigenen Zehnerrunde. Neue Zehnerrekorde verwenden unabhängig davon dieselbe Wertungskategorie; `.L`-Zusatzwertungen und frühere eigene Filterwertungen werden nicht mehr geführt. [Vollständige Zuordnung](Lernregeln.md#korrigierte-zuordnung-und-ablauf--04102026).
 
+## Antwortzeit in der Zehnerrunde – 13.10.2026
+
+Lokal ergänzt, noch nicht veröffentlicht: Im Modus „10 Fragen“ zeigt die Antwortansicht die benötigte Zeit und die verbliebene Restzeit der jeweiligen Frage in Sekunden mit einer Nachkommastelle. Die Werte stehen sowohl während der kurzen farbigen Antwortauflösung als auch bei der anschließenden direkten Lösung. Grundlage ist die bestätigte Antwortzeit (`elapsedMs`), nicht der letzte Countdownstand. Die Restzeit beträgt höchstens 30 Sekunden und fällt bei Zeitablauf auf null; beim Lesen läuft sie nicht weiter. Auch falsche Antworten und „Keine Ahnung“ zeigen beide Zeiten. Wertung und Speicherung bleiben unverändert.
+
 ## Zeitkonto-Balance
 
 Bei einer Trefferquote p und mittlerer Antwortzeit t Sekunden beträgt die mittlere Veränderung ohne Deckelung `60p − 45 − t` Sekunden je Antwort. Für Neutralität braucht man `p = (45 + t) / 60`.
