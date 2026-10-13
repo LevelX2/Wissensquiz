@@ -20,6 +20,7 @@ import {
   learningPathProgress,
   pathQuestions,
   newlyUnlocked,
+  serverUnlocks,
 } from "../src/learningPath";
 import { validateBackup } from "../src/backupValidation";
 
@@ -191,3 +192,31 @@ for (const source of ["actors", "awards"] as const)
       expect(pathQuestions(s, "ueben")).toContain(expert);
     },
   );
+
+it("feiert serverseitig nur erspielte Gruppen und weiterhin alle neuen Schwierigkeitsstufen", () => {
+  for (const genre of ["Horror", "Schauspieler", "Preisträger"]) {
+    const before = emptyState();
+    const after = emptyState();
+    before.journey = {
+      version: 1,
+      earned: { [genre]: { familiarity: 0, difficulty: 0 } },
+    };
+    after.journey = {
+      version: 1,
+      earned: { [genre]: { familiarity: 1, difficulty: 0 } },
+    };
+    expect(serverUnlocks(before, after)).toEqual([]);
+
+    before.journey.earned[genre].familiarity = 1;
+    after.journey.earned[genre].familiarity = 2;
+    expect(serverUnlocks(before, after)).toEqual([{ genre, familiarity: 2 }]);
+
+    before.journey.earned[genre].familiarity = 0;
+    after.journey.earned[genre] = { familiarity: 1, difficulty: 3 };
+    expect(serverUnlocks(before, after)).toEqual([
+      { genre, difficulty: "mittel" },
+      { genre, difficulty: "schwer" },
+      { genre, difficulty: "experte" },
+    ]);
+  }
+});

@@ -220,7 +220,11 @@ export function serverUnlocks(before: State, after: State): PathUnlock[] {
         if (old.difficulty < level && current.difficulty >= level)
           result.push({ genre, difficulty });
       for (const familiarity of [1, 2, 3, 4] as const)
-        if (familiarity > old.familiarity && familiarity <= current.familiarity)
+        if (
+          old.familiarity > 0 &&
+          familiarity > old.familiarity &&
+          familiarity <= current.familiarity
+        )
           result.push({ genre, familiarity });
       return result;
     },
