@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Erfolgsprogression: zehn bis zwölf Stufen, Langzeitziele und Bestandsgrenzen – 15.10.2026, lokal](../../../docs/Erfolge.md#prüfung-und-progressionsentscheidung--15102026)
+
 - [Version 80: 428 Schauspieler, 1.664 neue Fragen und vier Bekanntheitsgruppen in allen Bereichen – veröffentlicht](../../../docs/Bekanntheitsgruppen/App-Integration-2026-10-13.md)
 
 - [Version 79: Main-Gesamtstand veröffentlicht, alle Worktrees bereits integriert – 13.10.2026](../../../docs/Veroeffentlichung-2026-10-13-Version-79.json)

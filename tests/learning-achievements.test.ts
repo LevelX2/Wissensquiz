@@ -185,7 +185,7 @@ it("initialisiert aktuelle Spielstände ohne Quellenänderung und trennt einen N
   }
 });
 
-it("feiert übersprungene Schwellen und erhält alle acht Entdecker-Ziele sowie EXP", () => {
+it("feiert übersprungene Schwellen und erweitert die acht Entdecker-Ziele sowie EXP", () => {
   const reward = {
     before: {
       films: 9,
@@ -226,7 +226,7 @@ it("feiert übersprungene Schwellen und erhält alle acht Entdecker-Ziele sowie 
     (t) => t.id === "discoveredFacts",
   )!;
   expect(discovery.milestones).toEqual([
-    50, 100, 250, 500, 1000, 2500, 5000, 10000,
+    50, 100, 250, 500, 1000, 2500, 5000, 10000, 12500, 15000, 20000, 25000,
   ]);
   expect(
     learningAchievementTracks({
@@ -242,7 +242,7 @@ it("feiert übersprungene Schwellen und erhält alle acht Entdecker-Ziele sowie 
         available: { discoveredFacts: 10000 },
       },
     })[0].tier.id,
-  ).toBe("diamond");
+  ).toBe("ruby");
 });
 
 it("leitet private Film- und Genreerfolge aus sicheren Zielen ab, erhält erreichte Stände und liefert unveränderliche Rundenschnappschüsse", async () => {

@@ -16,9 +16,11 @@ export const achievementTracks = [
     description:
       "Abgeschlossene Runden in allen Spielarten. Auch kurze Runden zählen; abgebrochene nicht.",
     message: "Du bleibst dran. Eine Runde weiter!",
-    milestones: [1, 10, 25, 50, 100],
+    milestones: [1, 10, 25, 50, 100, 250, 500, 1000, 2500, 5000, 10000, 25000],
     label: (n: number) =>
-      n === 1 ? "Erste Runde abgeschlossen" : `${n} Runden abgeschlossen`,
+      n === 1
+        ? "Erste Runde abgeschlossen"
+        : `${n.toLocaleString("de-DE")} Runden abgeschlossen`,
   },
   {
     id: "perfectTens",

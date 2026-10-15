@@ -11,7 +11,8 @@ import {
 } from "../src/achievements";
 import { celebrationTier, successTiers } from "../src/successTiers";
 
-it("ordnet Meilensteine eindeutig fünf Stufen zu und bündelt gleichzeitige Erfolge nach der höchsten Stufe", () => {
+it("ordnet alle zwölf Stufen eindeutig zu und bündelt gleichzeitige Erfolge nach der höchsten Stufe", () => {
+  expect(successTiers).toHaveLength(12);
   for (const track of achievementTracks) {
     expect(track.milestones.length).toBeLessThanOrEqual(successTiers.length);
     for (const [index, count] of track.milestones.entries()) {
@@ -36,6 +37,12 @@ it("ordnet Meilensteine eindeutig fünf Stufen zu und bündelt gleichzeitige Erf
   expect(simultaneous).toHaveLength(2);
   expect(celebrationTier(simultaneous, 2).id).toBe("diamond");
   expect(celebrationTier([], 20).id).toBe("platinum");
+  expect(
+    celebrationTier(
+      reachedAchievements({ completed: 25000, perfectTens: 2500, zeroTens: 0 }),
+      35,
+    ).id,
+  ).toBe("olympus");
 });
 
 it("zählt vollständige Runden einschließlich aktueller Archivfakten und trennt Nulltreffer von Zeitablauf", () => {

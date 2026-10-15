@@ -4,9 +4,16 @@ import { syncFixture } from "./helpers/sync-fixture";
 import { prepareTestContent } from "./helpers/test-content";
 import { importCsv } from "../src/importer";
 import { OnlineGameStore } from "../src/onlineGameStore";
-import { newPerfectRoundBadge } from "../src/perfectRounds";
+import {
+  newPerfectRoundBadge,
+  perfectRoundMilestones,
+} from "../src/perfectRounds";
 
-it("vergibt genau die fünf Abzeichenschwellen", () => {
+it("erhält die ersten fünf Abzeichenschwellen und vergibt auch die langfristigen Ziele exakt", () => {
+  for (const target of perfectRoundMilestones) {
+    expect(newPerfectRoundBadge(target)).toBe(target);
+    expect(newPerfectRoundBadge(target + 1)).toBeUndefined();
+  }
   expect(
     [0, 1, 2, 9, 10, 11, 24, 25, 26, 49, 50, 51, 99, 100, 101].map(
       newPerfectRoundBadge,

@@ -1,5 +1,37 @@
 # Erfolge und Erfolgsstufen
 
+## Prüfung und Progressionsentscheidung – 15.10.2026
+
+**Lokal umgesetzt, noch nicht veröffentlicht:** zehn bis zwölf Meilensteine je wachsender Reihe und zwölf unterscheidbare Erfolgsstufen. [Auftrag](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-15 Nutzerauftrag Erfolgsprogression.txt>). Die folgenden Tabellen sind der aktuelle lokale Vertrag; die Abschnitte ab „Veröffentlichter Ausgangsstand“ dokumentieren die ursprüngliche Fassung. Öffentlich bleibt Version 80 aktiv.
+
+Die Stufen sind **I Bronze, II Silber, III Gold, IV Platin, V Diamant, VI Saphir, VII Smaragd, VIII Rubin, IX Amethyst, X Meister, XI Legende, XII Film-Olymp**. Die Position des Meilensteins bestimmt den Rang; Reihen mit zehn Zielen enden bei Meister. Jede Entdecker-Medaille hat jetzt eine eigene Stufe. Rangpunkte sind für zwölf Stufen auf zwei Reihen verteilt; Signale bleiben auf höchstens fünf Feuerwerksimpulse begrenzt. Karrierelevel und Titelkurve ändern sich nicht.
+
+| Reihe | Meilensteine in Stufenreihenfolge |
+| --- | --- |
+| Immer eine Runde weiter | 1, 10, 25, 50, 100, 250, 500, 1.000, 2.500, 5.000, 10.000, 25.000 |
+| Perfekte Zehnerrunden | 1, 10, 25, 50, 100, 200, 350, 500, 750, 1.000, 1.500, 2.500 |
+| Erfahrung gesammelt | 100, 500, 1.000, 5.000, 10.000, 25.000, 50.000, 100.000, 150.000, 250.000, 500.000, 1.000.000 EXP |
+| Filmkenner | 1, 10, 25, 50, 100, 200, 350, 500, 750, 1.000 |
+| Filmkenner je Genre | 1, 3, 5, 10, 15, 25, 40, 50, 75, 100 |
+| Sicher gewusst | 1, 10, 25, 50, 100, 250, 500, 1.000, 2.500, 5.000, 10.000, 12.500 |
+| Wissen, das bleibt | 10, 25, 50, 100, 250, 500, 1.000, 2.500, 5.000, 7.500, 10.000, 12.500 |
+| Entdecker-Medaillen | 50, 100, 250, 500, 1.000, 2.500, 5.000, 10.000, 12.500, 15.000, 20.000, 25.000 |
+| Gesichter des Kinos | 1, 10, 25, 50, 100, 150, 200, 300, 400, 500 |
+| Preiswissen | 1, 3, 5, 10, 15, 25, 40, 50, 75, 100 |
+| Über den Tellerrand | 1, 2, 3, 4, 5, 7, 9, 10, 12, 15 |
+
+Alle 34 lokalen App-Pakete mit dem bestehenden Parser und der lokalen Erfolgsprojektion ausgewertet, ohne Kontodaten: **13.781 Fakten, 1.215 geeignete Filmthemen, zwölf Genres mit 83 bis 135 Filmthemen, 412 geeignete Personenthemen und 67 Preisthemen**. Das sind Themen mit mindestens einem leichten Ziel gemäß Erfolgsvertrag; nicht die Zahl aller Metadateneinträge oder einzelner Preise.
+
+100 sichere Fakten entsprechen nur etwa 0,73 Prozent des Bestands; die bisherigen 100 Filme rund 8,2 Prozent. Die neuen höchsten sicheren/gefestigten Faktenziele liegen bei rund 90,7 Prozent, das höchste Filmziel bei rund 82,3 Prozent. Kumulierte Runden und EXP erhalten längere Reihen, weil Wiederholung ihren Wert weiter erhöhen kann. Perfekte Zehnerrunden steigen langsamer als bloß abgeschlossene Runden. Begrenzte Kategorien erhalten kleinere Zwischenschritte statt derselben Tausenderziele; ein vollständig erlerntes Genre darf seine Reihe abschließen. Keine Verlängerung durch mehrfaches Zählen derselben Fakten.
+
+Alle bisherigen Erfolgs-IDs und Schwellen bleiben enthalten. Zwischenziele bei Genre-, Preis- und Breitenreihen können den angezeigten Rang anheben; bestehende Ziele und Abzeichen entfallen nicht. Die alten Entdeckerziele ab 2.500 erhalten eigene höhere Ränge. Der vorhandene Höchststand genügt für die erweiterten Profilanzeigen. Neue Dialogmeldungen entstehen weiterhin nur beim Überschreiten einer Schwelle in einer Runde; das Profil feiert bereits überschrittene neue Ziele nicht rückwirkend.
+
+Ziele oberhalb des Bestands bleiben als Ausbauziele bestehen, darunter 15 Genres und 500 Personenthemen. Auch die nächste Zielüberschrift weist nun ausdrücklich auf benötigte weitere Inhalte hin. EXP und Runden sind unbegrenzt kumulierbar; höhere EXP-Abzeichen tragen deshalb nicht mehr irreführend „Mit weiteren Inhalten“. Die einmalige Nulltreffer-Auszeichnung und das bestehende besondere Sci-Fi-Abzeichen bleiben einzeln.
+
+Zähldimensionen bleiben getrennt: sichere Fakten, gefestigte Fakten, Begegnungen, vollständige leichte Themen, Genrebreite, Runden und EXP. Keine zusätzlichen EXP-Belohnungen, keine neue Datenbankmigration und keine produktive Aktivierung. Bedingungen, Höchststände, Kontotrennung und Vergabewege entsprechen dem bestehenden Vertrag unten. [Gezielte lokale Prüfung](Pruefbericht.md#15102026--erweiterte-erfolgsprogression-lokal).
+
+## Veröffentlichter Ausgangsstand
+
 **Veröffentlicht am 13.10.2026 um 00:35:53 Uhr Europe/Berlin:** gemeinsame Erfolgsstufen, Film-/Genre-/EXP-Reihen, bedarfsgerechte Profilansichten und inkrementelle Zähler aktiv. Jede produktive SQL-Aktivierung bestätigt innerhalb derselben Transaktion unveränderte Antworten, Kontoköpfe, Generationen und kanonische XP-Beiträge. Native synthetische Zähler-/Differenz-/Höchststands-/Beleg-/Rechteprüfung vollständig zurückgerollt. Der zusätzliche Ansichtsabruf während einer noch laufenden Antwort ist gesperrt; neun gezielte Browserfälle bestätigen Wiederholung und Profilfehler. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-77.json). Die historischen lokalen Prüfgrenzen unten bleiben als Messgrenzen bestehen.
 
 ## Stand – 13.10.2026

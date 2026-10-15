@@ -1,6 +1,6 @@
 import { AchievementIcon } from "./AchievementIcon";
 import { achievementTracks, type AchievementCounts } from "./achievements";
-import { stageLabel } from "./successTiers";
+import { stageLabel, successTiers } from "./successTiers";
 import {
   learningAchievementTracks,
   learningAchievementTier,
@@ -11,30 +11,35 @@ export function AchievementProgress({
   count,
   milestones,
   label,
+  available,
 }: {
   count: number;
   milestones: readonly number[];
   label: (n: number) => string;
+  available?: number;
 }) {
   const next = milestones.find((n) => n > count);
+  const needsContent =
+    next !== undefined && available !== undefined && next > available;
+  const goalText = next
+    ? `${needsContent ? "Nächstes Ziel mit weiteren Inhalten" : "Nächstes Ziel"}: ${label(next)}`
+    : "Alle Meilensteine erreicht";
   return (
     <div className="achievement-progress">
-      <strong>
-        {next ? `Nächstes Ziel: ${label(next)}` : "Alle Meilensteine erreicht"}
-      </strong>
+      <strong>{goalText}</strong>
       <progress
         value={Math.min(count, next ?? count)}
         max={next ?? Math.max(1, count)}
         aria-label={
           next
-            ? `${count} von ${next} · ${label(next)}`
+            ? `${count} von ${next} · ${goalText}`
             : "Alle Meilensteine erreicht"
         }
       />
       <span className="tiny muted">
         {count.toLocaleString("de-DE")}
         {next
-          ? ` / ${next.toLocaleString("de-DE")} · Noch ${next - count}`
+          ? ` / ${next.toLocaleString("de-DE")} · Noch ${(next - count).toLocaleString("de-DE")}`
           : " geschafft"}
       </span>
     </div>
@@ -74,11 +79,12 @@ export function Achievements({
         </strong>
       </p>
       <p className="tiny muted">
-        Über alle Fragenbereiche und Spielarten. Die Erfolgsstufen sind Bronze,
-        Silber, Gold, Platin und Diamant. Neue Erfolge erscheinen nach dem
-        Rundenabschluss; hier kannst Du sie jederzeit nachsehen. Bereits
-        erreichte Erfolge bleiben erhalten, auch wenn Dein aktueller Lernstand
-        sich ändert.
+        Über alle Fragenbereiche und Spielarten. Es gibt bis zu{" "}
+        {successTiers.length} Erfolgsstufen:{" "}
+        {successTiers.map((tier) => tier.label).join(", ")}. Neue Erfolge
+        erscheinen nach dem Rundenabschluss; hier kannst Du sie jederzeit
+        nachsehen. Bereits erreichte Erfolge bleiben erhalten, auch wenn Dein
+        aktueller Lernstand sich ändert.
       </p>
       {tracks.map((track) => (
         <section
@@ -123,6 +129,9 @@ export function Achievements({
               count={track.count}
               milestones={track.milestones}
               label={track.label}
+              available={
+                track.id === "experience" ? undefined : track.available
+              }
             />
             {track.available !== undefined && track.id !== "experience" && (
               <p className="tiny muted">
@@ -147,7 +156,8 @@ export function Achievements({
                   <small>
                     {track.count >= target
                       ? "✓ Erreicht"
-                      : track.available !== undefined &&
+                      : track.id !== "experience" &&
+                          track.available !== undefined &&
                           target > track.available
                         ? "Mit weiteren Inhalten"
                         : "Noch offen"}

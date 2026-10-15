@@ -1,5 +1,5 @@
 export const discoveryMedalTargets = [
-  50, 100, 250, 500, 1000, 2500, 5000, 10000,
+  50, 100, 250, 500, 1000, 2500, 5000, 10000, 12500, 15000, 20000, 25000,
 ] as const;
 
 export function discoveryMedals(encountered: number) {

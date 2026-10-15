@@ -23,7 +23,8 @@ export type LearningAchievementTrack = {
   milestones: readonly number[];
   label: (n: number) => string;
 };
-const filmMilestones = [1, 10, 25, 50, 100];
+const filmMilestones = [1, 10, 25, 50, 100, 200, 350, 500, 750, 1000];
+const genreFilmMilestones = [1, 3, 5, 10, 15, 25, 40, 50, 75, 100];
 const learnedDescription =
   "Alle leichten Wissensziele einmal sicher richtig, in abgeschlossenen Runden. Varianten und Wiederholungen zählen nicht zusätzlich.";
 
@@ -37,7 +38,10 @@ export function learningAchievementTracks(
       description:
         "Deine insgesamt verdienten Erfahrungspunkte (EXP/XP). Level und Karrieretitel werden zusätzlich in der Filmkarriere angezeigt.",
       icon: "trophy",
-      milestones: [100, 500, 1000, 5000, 10000],
+      milestones: [
+        100, 500, 1000, 5000, 10000, 25000, 50000, 100000, 150000, 250000,
+        500000, 1000000,
+      ],
       label: (n) => `${n.toLocaleString("de-DE")} EXP gesammelt`,
     },
     {
@@ -54,9 +58,11 @@ export function learningAchievementTracks(
       description:
         "Unterschiedliche Wissensziele in abgeschlossenen Runden sicher richtig beantwortet. Geratene Treffer zählen nicht; dieselbe Tatsache zählt einmal.",
       icon: "star",
-      milestones: filmMilestones,
+      milestones: [
+        1, 10, 25, 50, 100, 250, 500, 1000, 2500, 5000, 10000, 12500,
+      ],
       label: (n) =>
-        `${n} ${n === 1 ? "Fakt sicher gewusst" : "Fakten sicher gewusst"}`,
+        `${n.toLocaleString("de-DE")} ${n === 1 ? "Fakt sicher gewusst" : "Fakten sicher gewusst"}`,
     },
     {
       id: "masteredFacts",
@@ -64,8 +70,10 @@ export function learningAchievementTracks(
       description:
         "Unterschiedliche Wissensziele durch Wiederholung bis zur Lernstufe 4 gefestigt.",
       icon: "book",
-      milestones: [10, 25, 50, 100, 250],
-      label: (n) => `${n} Filmfakten gefestigt`,
+      milestones: [
+        10, 25, 50, 100, 250, 500, 1000, 2500, 5000, 7500, 10000, 12500,
+      ],
+      label: (n) => `${n.toLocaleString("de-DE")} Filmfakten gefestigt`,
     },
     {
       id: "discoveredFacts",
@@ -81,7 +89,7 @@ export function learningAchievementTracks(
       title: "Gesichter des Kinos",
       description: learnedDescription,
       icon: "person",
-      milestones: filmMilestones,
+      milestones: [1, 10, 25, 50, 100, 150, 200, 300, 400, 500],
       label: (n) => `${n} ${n === 1 ? "Person gelernt" : "Personen gelernt"}`,
     },
     {
@@ -90,7 +98,7 @@ export function learningAchievementTracks(
       description:
         "Alle leichten Wissensziele eines Preisthemas sicher richtig beantwortet. Ein Thema zählt einmal, unabhängig von seinen Fragevarianten.",
       icon: "trophy",
-      milestones: filmMilestones,
+      milestones: [1, 3, 5, 10, 15, 25, 40, 50, 75, 100],
       label: (n) =>
         `${n} ${n === 1 ? "Preisthema gelernt" : "Preisthemen gelernt"}`,
     },
@@ -99,7 +107,7 @@ export function learningAchievementTracks(
       title: "Über den Tellerrand",
       description: "In jedem gezählten Genre mindestens einen Film gelernt.",
       icon: "compass",
-      milestones: [1, 3, 5, 10, 15],
+      milestones: [1, 2, 3, 4, 5, 7, 9, 10, 12, 15],
       label: (n) => `${n} ${n === 1 ? "Genre erkundet" : "Genres erkundet"}`,
     },
     {
@@ -126,7 +134,7 @@ export function learningAchievementTracks(
       title: `${genre}-Filmkenner`,
       description: learnedDescription,
       icon: "film",
-      milestones: filmMilestones,
+      milestones: genreFilmMilestones,
       label: (n) =>
         `${n} ${genre}-${n === 1 ? "Film gelernt" : "Filme gelernt"}`,
     });
@@ -138,8 +146,7 @@ export function learningAchievementTracks(
   );
 }
 
-// Extra discovery milestones retain their targets; Diamant continues beyond
-// 1,000 facts. Medal target and visual rank are both shown, without losing 5k/10k.
+// Every milestone has its own visual rank, including the extended discovery row.
 export const learningAchievementTier = (index: number) =>
   successTiers[Math.min(index, successTiers.length - 1)];
 function achievementMessage(id: string) {

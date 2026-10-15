@@ -74,8 +74,13 @@ export function AchievementIcon({
       {Array.from({ length: tier.rank }, (_, i) => (
         <circle
           key={i}
-          cx={50 + (i - (tier.rank - 1) / 2) * 9}
-          cy="87"
+          cx={
+            50 +
+            ((i % 6) -
+              (Math.min(6, tier.rank - Math.floor(i / 6) * 6) - 1) / 2) *
+              9
+          }
+          cy={87 + Math.floor(i / 6) * 8}
           r="2"
           fill="currentColor"
           stroke="none"

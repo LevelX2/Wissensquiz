@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 15.10.2026 – Erweiterte Erfolgsprogression, lokal
+
+21 gezielte Tests in fünf Dateien erfolgreich (`achievements`, `learning-achievements`, `achievement-progress`, `discovery-medals`, `perfect-rounds`): sämtliche zwölf Rangzuordnungen, verlängerte Runden- und Lernreihen, übersprungene Schwellen, unveränderte Wiederholungsbelege, Bestandsgrenzen, EXP ohne künstliche Kataloggrenze und zwölf Rangpunkte innerhalb des SVG. Bestehende isolierte SQL-Prüfungen der Erfolgsprojektion im gezielten Lauf enthalten. `npx tsc --noEmit` und `git diff --check` erfolgreich. Die 34 lokalen App-Pakete mit dem bestehenden Parser und der lokalen Erfolgsprojektion ausgewertet: 13.781 Fakten, 1.215 geeignete Filmthemen, zwölf Genres (83–135 Themen), 412 geeignete Personenthemen, 67 Preisthemen. Keine echten Spielstände verändert, keine Datenbankänderung. Kein vollständiger Testlauf, Produktionsbuild oder neue Browserabnahme; keine Veröffentlichung. [Entscheidung und Schwellen](Erfolge.md#prüfung-und-progressionsentscheidung--15102026).
+
 ## 13.10.2026 – Version 80: 428 Schauspieler und vier Bekanntheitsgruppen
 
 Am **13.10.2026 um 23:59:07 Uhr Europe/Berlin** aus Main (`270d911d2b55ad8b9a398d99f22d60e75cd88170`) als **Version 80 öffentlich veröffentlicht**, nativer Status **succeeded**. Projekt-ID und Besucherzugriff **public, Revision 2** erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-80.json).
