@@ -165,6 +165,9 @@ for (const { sound, promote } of [
       await expect(dialog).toContainText("100 EXP gesammelt");
     }
     await expect(dialog).toContainText("Erste perfekte Zehnerrunde");
+    // Five learned Sci-Fi films now reach Gold, including without a level-up.
+    await expect(dialog).toHaveAttribute("data-success-tier", "gold");
+    if (!promote) await expect(dialog).toContainText("5 Sci-Fi-Filme gelernt");
     await expect(
       dialog.getByRole("button", { name: "Weiter zum Ergebnis" }),
     ).toBeFocused();
@@ -172,11 +175,7 @@ for (const { sound, promote } of [
       () => (window as unknown as { successNotes: number[] }).successNotes,
     );
     expect(notes.filter((n) => n !== 600)).toEqual(
-      sound
-        ? promote
-          ? [392, 523, 659, 784, 1047]
-          : [523, 659, 784, 1047]
-        : [],
+      sound ? [392, 523, 659, 784, 1047] : [],
     );
     expect(
       await page.evaluate(
@@ -184,7 +183,7 @@ for (const { sound, promote } of [
           (window as unknown as { successVibrations: unknown[] })
             .successVibrations,
       ),
-    ).toEqual([promote ? [30, 50, 30, 50, 60] : [25, 50, 25, 50, 45]]);
+    ).toEqual([[30, 50, 30, 50, 60]]);
     expect(
       (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
         .violations,
