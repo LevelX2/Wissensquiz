@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Audio-Sitzung nach Tab- und Appwechsel erneuern – 15.10.2026, lokal](../../../docs/Lernregeln.md#neue-audio-sitzung-nach-tab--und-appwechsel--15102026)
+
 **15.10.2026 – Gesamtstand aus Main als Version 81 veröffentlicht:** Neue Filmreiseziele zuerst gleichwahrscheinlich nach freigespielter Bekanntheitsgruppe; zwölf Erfolgsstufen und erweiterte Meilensteine. 483 Tests, Build und 370 unterschiedliche Browserfälle einschließlich 24 erfolgreicher Nachprüfungen bestanden; ein geplanter Skip. Serverfunktion aktiviert, acht private Quelltabellen unverändert, synthetische Prüfungen zurückgerollt. Alle 919 öffentlichen Dateien geprüft, Versionszeit 20:00:48 Uhr Europe/Berlin bestätigt; eigene Veröffentlichungsartefakte vollständig entfernt. [Nachweis](../../../docs/Veroeffentlichung-2026-10-15-Version-81.json).
 
 - [Erfolgsprogression: zehn bis zwölf Stufen, Langzeitziele und Bestandsgrenzen – 15.10.2026, Version 81](../../../docs/Erfolge.md#prüfung-und-progressionsentscheidung--15102026)

@@ -39,6 +39,9 @@ async function prepare(page: Page) {
         async suspend() {
           this.state = "suspended";
         }
+        async close() {
+          this.state = "closed";
+        }
         createOscillator() {
           return {
             frequency: { value: 0 },
@@ -233,6 +236,117 @@ test("Töne kehren nach einer Audio-Unterbrechung beim nächsten Klick zurück",
   await expect.poll(async () => (await notes(page)).length).toBe(before + 1);
   await page.getByRole("button", { name: "Verbesserung vorschlagen" }).click();
   expect(await respond(page, true)).toHaveLength(2);
+});
+
+for (const event of ["visibilitychange", "pagehide", "blur"]) {
+  test(`Audio-Sitzung wird nach ${event} beim ersten Klick erneuert`, async ({
+    page,
+  }) => {
+    await prepare(page);
+    await page.getByRole("button", { name: "Profil", exact: true }).click();
+    await expect.poll(async () => (await notes(page)).length).toBe(1);
+    const summary = page.locator(".profile-section > summary").first();
+    for (let cycle = 0; cycle < 3; cycle++) {
+      const before = (await notes(page)).length;
+      await page.evaluate((event) => {
+        const probe = (window as unknown as { audioProbe: AudioProbe })
+          .audioProbe;
+        const previous = probe.context!;
+        Object.assign(window, { previousAudio: previous });
+        // Model the device failure: the old context claims to run but is unusable.
+        Object.defineProperty(previous, "state", {
+          configurable: true,
+          value: "running",
+        });
+        previous.resume = () => new Promise<void>(() => {});
+        previous.createOscillator = () => {
+          throw new Error("stale audio session");
+        };
+        if (event === "visibilitychange") {
+          Object.defineProperty(document, "visibilityState", {
+            configurable: true,
+            value: "hidden",
+          });
+          document.dispatchEvent(new Event(event));
+          Object.defineProperty(document, "visibilityState", {
+            configurable: true,
+            value: "visible",
+          });
+          document.dispatchEvent(new Event(event));
+        } else window.dispatchEvent(new Event(event));
+        window.dispatchEvent(new Event("focus"));
+        window.dispatchEvent(new Event("pageshow"));
+      }, event);
+      expect(await notes(page)).toHaveLength(before);
+      expect(
+        await page.evaluate(() => {
+          const probe = window as unknown as {
+            audioProbe: AudioProbe;
+            previousAudio: AudioContext;
+          };
+          return probe.audioProbe.context === probe.previousAudio;
+        }),
+      ).toBe(true);
+      await summary.click();
+      await expect
+        .poll(async () => (await notes(page)).length)
+        .toBe(before + 1);
+      expect(
+        await page.evaluate(() => {
+          const probe = window as unknown as {
+            audioProbe: AudioProbe;
+            previousAudio: AudioContext;
+          };
+          return probe.audioProbe.context === probe.previousAudio;
+        }),
+      ).toBe(false);
+    }
+    await page.getByRole("button", { name: "Optionen" }).click();
+    await page.getByLabel("Soundeffekte", { exact: true }).click();
+    await expect(
+      page.getByLabel("Soundeffekte", { exact: true }),
+    ).not.toBeChecked();
+    const muted = (await notes(page)).length;
+    await page.evaluate(() => window.dispatchEvent(new Event("blur")));
+    await page.getByRole("button", { name: /Zurück zum Profil/ }).click();
+    await summary.click();
+    expect(await notes(page)).toHaveLength(muted);
+    expect((await readStoredState(page)).settings.sound).toBe(false);
+  });
+}
+
+test("Filmquelle im zweiten Tab und Rückkehr erlauben wieder Antwort- und Klappentöne", async ({
+  page,
+  context,
+}) => {
+  await prepare(page);
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await respond(page, true);
+  const summary = page.locator(".answer-sources > summary");
+  await summary.click();
+  const link = page.locator(".answer-sources a[target='_blank']").first();
+  const url = (await link.getAttribute("href"))!;
+  await context.route(url, (route) =>
+    route.fulfill({
+      contentType: "text/html",
+      body: "<title>Filmquelle im Test</title>Filmquelle",
+    }),
+  );
+  const popupPromise = page.waitForEvent("popup");
+  await link.click();
+  const popup = await popupPromise;
+  await popup.waitForLoadState();
+  await expect(popup).toHaveTitle("Filmquelle im Test");
+  // Headless browsers do not reliably emit mobile background events for tabs.
+  // Send the lifecycle explicitly; the actual link/popup above stays covered.
+  await page.evaluate(() => window.dispatchEvent(new Event("pagehide")));
+  await popup.close();
+  await page.bringToFront();
+  const before = (await notes(page)).length;
+  await summary.click();
+  await expect.poll(async () => (await notes(page)).length).toBe(before + 1);
+  await page.getByRole("button", { name: "Nächste Frage" }).click();
+  expect(await respond(page, false)).toHaveLength(2);
 });
 
 for (const interrupted of [false, true]) {

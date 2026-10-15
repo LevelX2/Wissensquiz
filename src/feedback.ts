@@ -46,6 +46,7 @@ export async function unlockSound(
   settings: State["settings"],
 ): Promise<SoundStatus> {
   if (settings.sound === false) return "off";
+  if (document.visibilityState === "hidden") return "blocked";
   try {
     const Audio =
       window.AudioContext ||
@@ -77,7 +78,7 @@ export async function unlockSound(
       resuming = pending;
       await pending;
     }
-    return audio.state === "running" ? "ready" : "blocked";
+    return context === audio && audio.state === "running" ? "ready" : "blocked";
   } catch {
     /* Sound support must never prevent an answer from being saved. */
     return "blocked";
@@ -97,6 +98,21 @@ export function stopFeedback() {
     if (supportsHaptics()) navigator.vibrate(0);
   } catch {
     /* Optional hardware. */
+  }
+}
+
+// Backgrounded mobile audio can stay silent even while reporting "running".
+// Retire that session; create its replacement only in the next user gesture.
+export function releaseFeedbackAudio() {
+  stopFeedback();
+  const previous = context;
+  context = undefined;
+  resuming = undefined;
+  try {
+    if (previous && previous.state !== "closed")
+      void previous.close().catch(() => {});
+  } catch {
+    /* A failed close must not retain an unusable session. */
   }
 }
 export function playFeedback(

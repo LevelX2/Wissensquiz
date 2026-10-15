@@ -38,6 +38,7 @@ import { SyncSymbol, type SyncDisplay } from "./SyncIndicator";
 import {
   playClickFeedback,
   playFeedback,
+  releaseFeedbackAudio,
   stopFeedback,
   unlockSound,
 } from "./feedback";
@@ -158,12 +159,16 @@ export function App({
   }, [state?.settings.sound]);
   useEffect(() => {
     const stopHidden = () => {
-      if (document.visibilityState === "hidden") stopFeedback();
+      if (document.visibilityState === "hidden") releaseFeedbackAudio();
     };
     document.addEventListener("visibilitychange", stopHidden);
+    window.addEventListener("pagehide", releaseFeedbackAudio);
+    window.addEventListener("blur", releaseFeedbackAudio);
     return () => {
       document.removeEventListener("visibilitychange", stopHidden);
-      stopFeedback();
+      window.removeEventListener("pagehide", releaseFeedbackAudio);
+      window.removeEventListener("blur", releaseFeedbackAudio);
+      releaseFeedbackAudio();
     };
   }, []);
   useEffect(() => {

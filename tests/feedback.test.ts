@@ -14,6 +14,9 @@ class FakeAudio {
   currentTime = 0;
   destination = {};
   resume = vi.fn(() => resume());
+  close = vi.fn(async () => {
+    this.state = "closed";
+  });
   constructor() {
     audio = this;
   }
@@ -223,6 +226,68 @@ it("stoppt laufende Töne und ersetzt einen geschlossenen Audiokontext", async (
   ).toBe(true);
   const previous = audio;
   previous.state = "closed";
+  expect(await feedback.unlockSound(settings)).toBe("ready");
+  expect(audio).not.toBe(previous);
+});
+
+it.each(["running", "interrupted", "suspended"])(
+  "ersetzt eine nach dem Verlassen unbrauchbare %s-Sitzung erst beim nächsten Bedienimpuls",
+  async (state) => {
+    await feedback.unlockSound(settings);
+    feedback.playFeedback("click", settings);
+    const previous = audio;
+    previous.state = state;
+    // Even a browser that never completes close() cannot retain the old session.
+    previous.close.mockImplementation(() => new Promise<void>(() => {}));
+    feedback.releaseFeedbackAudio();
+    feedback.releaseFeedbackAudio();
+    expect(previous.close).toHaveBeenCalledOnce();
+    expect(oscillators[0].stop).toHaveBeenCalledTimes(2);
+    feedback.playFeedback("correct", settings);
+    expect(oscillators).toHaveLength(1);
+    expect(audio).toBe(previous);
+    expect(await feedback.unlockSound({ ...settings, sound: false })).toBe(
+      "off",
+    );
+    expect(audio).toBe(previous);
+    expect(await feedback.unlockSound(settings)).toBe("ready");
+    expect(audio).not.toBe(previous);
+    feedback.playFeedback("correct", settings);
+    expect(oscillators).toHaveLength(3);
+  },
+);
+
+it("verwirft die alte wartende Aktivierung beim Sitzungswechsel", async () => {
+  initialState = "suspended";
+  let release!: () => void;
+  resume = () =>
+    new Promise<void>((resolve) => {
+      release = resolve;
+    });
+  const first = feedback.unlockSound(settings);
+  const previous = audio;
+  feedback.playFeedback("correct", settings);
+  feedback.releaseFeedbackAudio();
+  resume = async () => {
+    audio.state = "running";
+  };
+  expect(await feedback.unlockSound(settings)).toBe("ready");
+  feedback.playFeedback("click", settings);
+  previous.state = "running";
+  release();
+  expect(await first).toBe("blocked");
+  expect(oscillators).toHaveLength(1);
+});
+
+it("erstellt im Hintergrund keine Audio-Instanz und verträgt Fehler beim Schließen", async () => {
+  Object.assign(document, { visibilityState: "hidden" });
+  expect(await feedback.unlockSound(settings)).toBe("blocked");
+  expect(oscillators).toHaveLength(0);
+  Object.assign(document, { visibilityState: "visible" });
+  await feedback.unlockSound(settings);
+  const previous = audio;
+  previous.close.mockRejectedValue(new Error("interrupted"));
+  feedback.releaseFeedbackAudio();
   expect(await feedback.unlockSound(settings)).toBe("ready");
   expect(audio).not.toBe(previous);
 });

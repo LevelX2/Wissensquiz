@@ -22,6 +22,7 @@ export default defineConfig({
     {
       name: "firefox",
       testMatch: [
+        "audio.spec.ts",
         "updates.spec.ts",
         "entry-sync.spec.ts",
         "server-learning.spec.ts",

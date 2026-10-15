@@ -1,5 +1,15 @@
 # Prüfnachweis
 
+## 15.10.2026 – Audio-Sitzung nach Tab- und Appwechsel
+
+Lokal umgesetzt: Beim Ausblenden, `pagehide` oder Fenster-Fokusverlust wird die Audio-Sitzung freigegeben und erst beim nächsten Bedienimpuls neu erstellt. Die vorige, möglicherweise festhängende Instanz wird auch bei nicht abgeschlossenem `close()` nicht mehr verwendet. Veraltete Aktivierungen und vorgemerkte Signale werden verworfen; Rückkehr ohne Bedienaktion bleibt still, ausgeschalteter Ton bleibt aus. [Vertrag und Grenzen](Lernregeln.md#neue-audio-sitzung-nach-tab--und-appwechsel--15102026).
+
+**16 Audio-Unit-Tests und 18 gezielte Browserfälle erfolgreich**: drei aufeinanderfolgende Wechsel je Ereignis (`visibilitychange`, `pagehide`, `blur`), unbrauchbarer alter Kontext trotz Zustand `running`, Rückkehr vom tatsächlichen Quellenlink in einem zweiten Tab mit abgefangenem Testziel, anschließende Klappen-/Antworttöne, Stummschaltung und bisherige wartende Aktivierung in `suspended`/`interrupted`. Je sechs Browserfälle in Chromium, Firefox und mobilem Windows-WebKit; abschließender Browserlauf 3,5 Minuten. Chromium/Firefox verwenden native Web Audio, Windows-WebKit eine ausdrücklich ausgewiesene simulierte Audio-Schnittstelle. Headless-Lebenszykluswechsel werden gezielt ausgelöst; keine physische Hörabnahme am iPhone und keine abschließende Zuordnung seines Browserfehlers.
+
+`npx tsc --noEmit`, isoliertes Vite-Testbundle und `git diff --check` erfolgreich. Der erste Versuch über den Entwicklungsserver lief beim Seitenladen in das 60-Sekunden-Limit; die Audiofälle wurden danach mit dem statischen Testbundle geprüft. Neue Testabläufe für die asynchrone Tonschalter-Speicherung und die Rückkehr zur Profilansicht korrigiert; alle betroffenen Fälle im abschließenden Lauf erfolgreich. Keine vollständige Testsuite und keine Veröffentlichung. Ausschließlich isolierte Browserprofile, kontrollierte Kalenderzeit und synthetischer Testserver; keine echten Konten oder Spielstände verändert.
+
+Eigene Ausgabebereiche `tmp-browser-build/port-4313` und `test-results/port-4313` nach Ende des Prüfservers sowie Pfad-/Verknüpfungsprüfung ohne `-Force` entfernt (93.278.819 Bytes); Abwesenheit beider Ziele bestätigt. Temporäre Browserkonfiguration entfernt. Fremde Arbeitsstände erhalten.
+
 ## 15.10.2026 – Action/Drama und Entfernung der Merksätze, lokal
 
 Action, Drama und Abenteuer vollständig strukturell und redaktionell gelesen; fachliche Belege gezielt gegengeprüft, keine erneute Vollprüfung sämtlicher Quellen. Action und Drama nach gezielten Korrekturen lokal integriert: 695 aktuelle Fassungen, darunter vier Ersatzfragen und 105 Ergänzungen; eine überholte Variante entfernt. Eine bereichsübergreifende Variante teilt das bestehende Schauspielerziel. Abenteuer bleibt außerhalb der Integration. Der Serienlauf bleibt pausiert. Aktueller lokaler App-Katalog: 35 Pakete, 14.555 Fragen, 13.885 Wissensziele. Zwei ergänzte Gilbert-Grape-Fragen sind mittel; schwere Inhaltsziele bleiben dort offen.
