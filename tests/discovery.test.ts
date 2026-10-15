@@ -1,11 +1,13 @@
 import { expect, it } from "vitest";
 import { readFileSync } from "node:fs";
-import { emptyState, type State } from "../src/model";
+import { emptyState, type Question, type State } from "../src/model";
 import { importCsv } from "../src/importer";
 import { answer, complete, selectQuestions, startRound } from "../src/engine";
 import { discoveryContext } from "../src/discovery";
 import { genreOf } from "../src/filters";
 import { familiarityOf } from "../src/familiarity";
+import filmCatalog from "../src/filmFamiliarity.json" with { type: "json" };
+import people from "../src/personFamiliarity.json" with { type: "json" };
 import { addPackages, packages } from "../src/packages";
 import { pathQuestions } from "../src/learningPath";
 
@@ -156,6 +158,134 @@ it("zieht neue Schwierigkeiten gleichwahrscheinlich trotz ungleicher Ziel- und V
     },
   );
   expect(filtered.every((q) => q.difficulty === "leicht")).toBe(true);
+});
+
+function groupQuestion(level: number, id: string): Question {
+  const film = filmCatalog.films.find((f) => f.level === level)!;
+  const [title, year] = film.film.split("|");
+  return {
+    ...questions[0],
+    id,
+    knowledgeId: id,
+    difficulty: "leicht",
+    tags: [],
+    metadata: {
+      ...questions[0].metadata,
+      person_id: "",
+      film_title_original: title,
+      film_year: year,
+    },
+  };
+}
+
+it("zieht freigespielte Bekanntheitsgruppen gleichwahrscheinlich trotz ungleicher Zielmengen und Schwierigkeiten", () => {
+  const pool = [1, 2, 3, 4].flatMap((level, index) =>
+    Array.from({ length: [120, 35, 20, 12][index] }, (_, i) => {
+      const q = groupQuestion(level, level + "-" + i);
+      if (level === 1)
+        q.difficulty =
+          i < 90
+            ? "leicht"
+            : i < 100
+              ? "mittel"
+              : i < 110
+                ? "schwer"
+                : "experte";
+      if (level === 3) q.difficulty = "mittel";
+      if (i % 3 === 0 || q.difficulty === "experte")
+        q.metadata.person_id = people.persons.find(
+          (p) => p.level === level,
+        )!.person_id;
+      else if (i % 3 === 1) q.tags = ["Preisträger"];
+      return q;
+    }),
+  );
+  // Extra variants within a group/stage must not give a goal extra tickets.
+  pool.push(
+    ...Array.from({ length: 20 }, (_, i) => ({
+      ...pool[0],
+      id: "variant" + i,
+    })),
+  );
+  let seed = 91;
+  const random = () =>
+    (seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296;
+  const counts = [0, 0, 0, 0];
+  const stages = { leicht: 0, mittel: 0, schwer: 0, experte: 0 };
+  const roundGroupCounts = new Set<number>();
+  for (let i = 0; i < 400; i++) {
+    const selected = selectQuestions(pool, {}, options, random);
+    expect(new Set(selected.map((q) => q.knowledgeId)).size).toBe(10);
+    for (const q of selected) {
+      const level = familiarityOf(q)!;
+      counts[level - 1]++;
+      if (level === 1) stages[q.difficulty]++;
+    }
+    roundGroupCounts.add(selected.filter((q) => familiarityOf(q) === 1).length);
+  }
+  for (const count of counts) {
+    expect(count).toBeGreaterThan(850);
+    expect(count).toBeLessThan(1150);
+  }
+  for (const count of Object.values(stages)) {
+    expect(count).toBeGreaterThan(180);
+    expect(count).toBeLessThan(320);
+  }
+  expect(roundGroupCounts.size).toBeGreaterThan(3); // Random mix, no fixed quarter quota.
+
+  const onlyTwoGroups = pool.filter((q) => familiarityOf(q)! <= 2);
+  const restricted = selectQuestions(onlyTwoGroups, {}, options, random);
+  expect(restricted).toHaveLength(10);
+  expect(restricted.every((q) => familiarityOf(q)! <= 2)).toBe(true);
+});
+
+it("entfernt gemeinsame Ziele aus allen Bekanntheitsgruppen und Stufen und schöpft kleine Pools aus", () => {
+  const shared = [1, 2, 3].map((level) => ({
+    ...groupQuestion(level, "variant" + level),
+    knowledgeId: "shared",
+    difficulty: ["leicht", "mittel", "schwer"][
+      level - 1
+    ] as Question["difficulty"],
+  }));
+  const pool = [...shared, groupQuestion(4, "unique")];
+  for (const random of [() => 0, () => 0.5, () => 0.999]) {
+    const selected = selectQuestions(pool, {}, options, random);
+    expect(selected).toHaveLength(2);
+    expect(new Set(selected.map((q) => q.knowledgeId))).toEqual(
+      new Set(["shared", "unique"]),
+    );
+  }
+});
+
+it("nimmt ausgeschöpfte Gruppen nicht in die neue Ziehung und füllt danach mit bekannten Zielen auf", () => {
+  const known = Array.from({ length: 10 }, (_, i) =>
+    groupQuestion(1, "known" + i),
+  );
+  const fresh = Array.from({ length: 3 }, (_, i) =>
+    groupQuestion(2, "new" + i),
+  );
+  const s = emptyState();
+  for (const q of known)
+    s.learning[q.knowledgeId] = {
+      knowledgeId: q.knowledgeId,
+      status: "entdeckt",
+      stage: 1,
+      due: 9999999999999,
+      seen: 1,
+      lastSeenAt: 1,
+      lastSecure: 1,
+      lastAdvancedDay: null,
+      secureDays: [],
+    };
+  const selected = selectQuestions(
+    [...known, ...fresh],
+    s.learning,
+    options,
+    () => 0,
+  );
+  expect(selected).toHaveLength(10);
+  expect(selected.filter((q) => familiarityOf(q) === 2)).toHaveLength(3);
+  expect(new Set(selected.map((q) => q.knowledgeId)).size).toBe(10);
 });
 
 it("füllt die Filmreise mit fälligen Zielen, wenn keine neuen verfügbar sind", () => {

@@ -38,6 +38,198 @@ const filters: QuizFilters = {
   familiarities: [1, 2, 3, 4],
 };
 
+it("zieht neue Serverziele zuerst nach freigespielter Bekanntheit, unabhängig von Bestandsgröße und Stufenanzahl", async () => {
+  const { owner, generation } = await player();
+  await fixture.db.exec("begin");
+  try {
+    await fixture.db.exec(`
+      delete from quiz_game_internal.catalog_meta;
+      insert into quiz_game_internal.catalog_meta
+      select level||'-'||i,level||'-'||i,'Test',
+        case source when 'film' then 'Abenteuer' when 'actors' then 'Schauspieler' else 'Preisträger' end,
+        source,difficulty,level,'[]'
+      from (values (1,120),(2,35),(3,20),(4,12)) sizes(level,n)
+      cross join lateral generate_series(0,n-1) i
+      cross join lateral (select case when level=1 then
+        case when i<90 then 'leicht' when i<100 then 'mittel' when i<110 then 'schwer' else 'experte' end
+        when level=3 and i>=3 then 'mittel' else 'leicht' end difficulty) d
+      cross join lateral (select case when i%3=0 or difficulty='experte' then 'actors' when i%3=1 then 'awards' else 'film' end source) s;
+      insert into quiz_game_internal.catalog_meta
+      select 'variant'||i,knowledge_id,topic,genre,source,difficulty,familiarity,tags
+      from quiz_game_internal.catalog_meta cross join generate_series(1,20) i where id='1-0';
+      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+    await fixture.db.query(
+      `
+      insert into quiz_game_internal.secure_goals
+      select distinct $1::uuid,$2::uuid,knowledge_id,
+        case source when 'actors' then 'Schauspieler' when 'awards' then 'Preisträger' else genre end,difficulty
+      from quiz_game_internal.catalog_meta`,
+      [owner, generation],
+    );
+    const queue = async (selected = filters) =>
+      (
+        await fixture.db.query<{ ids: string[] }>(
+          "select quiz_game_internal.select_queue($1,$2,$3,'Europe/Berlin') ids",
+          [
+            owner,
+            generation,
+            JSON.stringify({
+              mode: "entdecken",
+              topic: "Alle Themen",
+              filters: selected,
+            }),
+          ],
+        )
+      ).rows[0].ids;
+    const catalog = new Map(
+      (
+        await fixture.db.query<{
+          id: string;
+          knowledge_id: string;
+          familiarity: number;
+          difficulty: string;
+          source: string;
+        }>(
+          "select id,knowledge_id,familiarity,difficulty,source from quiz_game_internal.catalog_meta",
+        )
+      ).rows.map((q) => [q.id, q]),
+    );
+    const counts = [0, 0, 0, 0];
+    const stages: Record<string, number> = {
+      leicht: 0,
+      mittel: 0,
+      schwer: 0,
+      experte: 0,
+    };
+    const mixes = new Set<number>();
+    for (let i = 0; i < 120; i++) {
+      const rows = (await queue()).map((id) => catalog.get(id)!);
+      expect(rows).toHaveLength(10);
+      expect(new Set(rows.map((q) => q.knowledge_id)).size).toBe(10);
+      for (const q of rows) {
+        counts[q.familiarity - 1]++;
+        if (q.familiarity === 1) stages[q.difficulty]++;
+      }
+      mixes.add(rows.filter((q) => q.familiarity === 1).length);
+    }
+    for (const count of counts) {
+      expect(count).toBeGreaterThan(210);
+      expect(count).toBeLessThan(390);
+    }
+    for (const count of Object.values(stages)) {
+      expect(count).toBeGreaterThan(30);
+      expect(count).toBeLessThan(125);
+    }
+    expect(mixes.size).toBeGreaterThan(3);
+    expect(
+      (await queue({ ...filters, familiarities: [2] })).every(
+        (id) => catalog.get(id)!.familiarity === 2,
+      ),
+    ).toBe(true);
+    expect(
+      (await queue({ ...filters, genres: [], sources: ["actors"] })).every(
+        (id) => catalog.get(id)!.source === "actors",
+      ),
+    ).toBe(true);
+
+    // Different areas may have different unlock levels; a global group draw
+    // must never make a locked actor question eligible through an open film group.
+    await fixture.db.query(
+      "delete from quiz_game_internal.secure_goals where owner_id=$1 and generation=$2 and area='Schauspieler'",
+      [owner, generation],
+    );
+    await fixture.db.exec("delete from quiz_game_internal.journey_cache");
+    const available = (
+      await fixture.db.query<{
+        source: string;
+        familiarity: number;
+        difficulty: string;
+      }>(
+        "select source,familiarity,difficulty from quiz_game_internal.pool($1,$2,'entdecken',$3,'Alle Themen',quiz_game_internal.cached_journey($1,$2))",
+        [owner, generation, JSON.stringify(filters)],
+      )
+    ).rows;
+    expect(
+      available.some((q) => q.source === "film" && q.familiarity === 4),
+    ).toBe(true);
+    expect(
+      available
+        .filter((q) => q.source === "actors")
+        .every((q) => q.familiarity === 1 && q.difficulty === "leicht"),
+    ).toBe(true);
+    for (let i = 0; i < 10; i++) {
+      for (const id of await queue()) {
+        const q = catalog.get(id)!;
+        if (q.source === "actors")
+          expect(q).toMatchObject({ familiarity: 1, difficulty: "leicht" });
+      }
+    }
+    expect(
+      (
+        await fixture.db.query<{ allowed: boolean }>(
+          "select has_function_privilege('authenticated','quiz_game_internal.select_queue(uuid,uuid,jsonb,text)','execute') allowed",
+        )
+      ).rows[0].allowed,
+    ).toBe(false);
+  } finally {
+    await fixture.db.exec("rollback");
+  }
+});
+
+it("entfernt Serverziele aus allen Gruppen und füllt nach Ausschöpfung mit bekannten Zielen auf", async () => {
+  const { owner, generation } = await player();
+  await fixture.db.exec("begin");
+  try {
+    await fixture.db.exec(`
+      delete from quiz_game_internal.catalog_meta;
+      insert into quiz_game_internal.catalog_meta values
+      ('film','shared','Test','Abenteuer','film','leicht',1,'[]'),
+      ('actor','shared','Test','Schauspieler','actors','leicht',2,'[]'),
+      ('award','shared','Test','Preisträger','awards','leicht',3,'[]'),
+      ('unique','unique','Test','Abenteuer','film','leicht',4,'[]');
+      insert into quiz_game_internal.catalog_meta
+      select 'known'||i,'known'||i,'Test','Abenteuer','film','leicht',1,'[]' from generate_series(1,10) i;
+      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+    await fixture.db.query(
+      `
+      insert into quiz_game_internal.secure_goals
+      select $1,$2,knowledge_id,case source when 'actors' then 'Schauspieler' when 'awards' then 'Preisträger' else genre end,difficulty
+      from quiz_game_internal.catalog_meta`,
+      [owner, generation],
+    );
+    await fixture.db.query(
+      `
+      insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
+      select $1,$2,'learning','known'||i,i,'{"stage":1,"due":9999999999999,"seen":1,"lastSeenAt":1,"lastSecure":1}',0 from generate_series(1,10) i`,
+      [owner, generation],
+    );
+    for (let i = 0; i < 8; i++) {
+      const ids = (
+        await fixture.db.query<{ ids: string[] }>(
+          "select quiz_game_internal.select_queue($1,$2,$3,'Europe/Berlin') ids",
+          [
+            owner,
+            generation,
+            JSON.stringify({
+              mode: "entdecken",
+              topic: "Alle Themen",
+              filters,
+            }),
+          ],
+        )
+      ).rows[0].ids;
+      expect(ids).toHaveLength(10);
+      expect(ids).toContain("unique");
+      expect(
+        ids.filter((id) => ["film", "actor", "award"].includes(id)),
+      ).toHaveLength(1);
+      expect(ids.filter((id) => id.startsWith("known"))).toHaveLength(8);
+    }
+  } finally {
+    await fixture.db.exec("rollback");
+  }
+});
+
 it("projiziert Bekanntheit für alle Quellen aus der vorbereiteten Präsentation", async () => {
   await fixture.db.exec("begin");
   try {

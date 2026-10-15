@@ -25,3 +25,7 @@ Serverseitig stammen alle Gruppenzuordnungen aus der vorbereiteten Darstellung d
 Die bestehende Prüfung historischer Personen-Snapshots bleibt erhalten; keine zusätzliche Altstandsanpassung. Der anfängliche Gruppenzustand 1 erzeugt keine erspielte Freischaltungsfeier. 473 Unit-Tests, Build 80 und 370 unterschiedliche Browserfälle einschließlich zehn erfolgreicher Nachprüfungen bestanden; ein vorgesehener Skip. Veröffentlichung und Bereinigung dokumentiert.
 
 Der vorbereitende Helfer `scripts/prepare-actor-familiarity-20261013.mjs --check` prüft die redaktionelle Übergabe gegen den damaligen Bestand mit 12.787 Fragen. Den aktuellen App-Einbau bestätigen `scripts/integrate-actor-familiarity-20261013.mjs --check`, Fortschritt und Veröffentlichungsnachweis. Beide Prüfungen nach dem Abschluss erneut erfolgreich.
+
+## Lokale Folgeänderung – 15.10.2026
+
+Auf präzisierten Nutzerauftrag werden neue Filmreiseziele zuerst gleichwahrscheinlich nach freigespielter Bekanntheitsgruppe gewählt. Erst innerhalb dieser Gruppe folgen Schwierigkeit, Ziel und Variante. Die seit Version 80 bestehenden Freischaltungen je Bereich bleiben die Voraussetzung; offene Filmgruppen öffnen keine Schauspieler-/Preisgruppen. Keine Bereichsquote oder feste Viertelung einer Runde. Fällige Wiederholungen bleiben nach Lerntermin priorisiert. Lokal geprüft, noch nicht veröffentlicht oder produktiv aktiviert. [Auswahl und Grenzen](../Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).

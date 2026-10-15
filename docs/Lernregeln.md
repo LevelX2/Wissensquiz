@@ -1,5 +1,7 @@
 # Lern-, Runden- und Speichervertrag
 
+**15.10.2026 – Lokal umgesetzt, noch nicht veröffentlicht:** Die Filmreise zieht neue Ziele zuerst gleichwahrscheinlich nach freigespielter Bekanntheitsgruppe, dann nach verfügbarer Schwierigkeit, Ziel und Variante. Je Bereich bleiben nur dessen eigene freigespielte Gruppen zulässig. Keine feste Viertelquote oder Bereichsgewichtung; fällige Wiederholungen bleiben termingesteuert. [Aktueller Auswahlvertrag](Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).
+
 ## Schauspielerausbau und Bekanntheitsgruppen seit Version 80
 
 Seit 13.10.2026 sind alle 428 Schauspieler über das Porträt mit ihrer geprüften TMDB-Personenseite verknüpft. 220 hinterlegte freie Bilder haben Vorrang vor allgemeinen TMDB-Porträts; darunter 195 neue historische Originalfassungen. 13 neue Online-Ausnahmen verwenden die redaktionell ausgewählte TMDB-Bildreferenz. Bilder, Datierung und Nutzungsbasis erscheinen erst nach der Antwort beziehungsweise im Rückblick; der Name bleibt Klartext. Bekanntheit und Schwierigkeit sind unabhängige Achsen für alle drei Fragenbereiche. [Vollständiger aktueller Vertrag](Bekanntheitsgruppen/App-Integration-2026-10-13.md), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-80.json).

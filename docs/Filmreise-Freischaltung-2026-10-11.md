@@ -1,10 +1,10 @@
 # Filmreise: 50-Prozent-Freischaltung und Fragenauswahl
 
-Stand: 12.10.2026, Umsetzung auf Nutzerauftrag. Ersetzt die eingefrorenen Schwierigkeitsschwellen und ihren Bestandsschutz.
+Stand: 15.10.2026. Die unten beschriebene Bekanntheitsauswahl ist lokal umgesetzt und geprüft, noch nicht veröffentlicht. Die Freischaltung ist seit Version 80 für alle drei Fragenbereiche produktiv.
 
 ## Freischaltung
 
-Je Filmgenre müssen mindestens 50 Prozent der aktuellen eindeutigen Wissensziele der vorherigen Schwierigkeit sicher beantwortet sein. Aufrunden auf ganze Ziele. Mittel setzt die Leicht-Schwelle voraus, Schwer zusätzlich die Mittel-Schwelle. Schauspieler und Preisträger folgen derselben Regel bis Experte, unabhängig von Filmgenres und ohne Bekanntheitsgruppen.
+Je Filmgenre müssen mindestens 50 Prozent der aktuellen eindeutigen Wissensziele der vorherigen Schwierigkeit sicher beantwortet sein. Aufrunden auf ganze Ziele. Mittel setzt die Leicht-Schwelle voraus, Schwer zusätzlich die Mittel-Schwelle. Schauspieler und Preisträger folgen derselben Regel bis Experte, unabhängig von Filmgenres; alle drei Fragenbereiche besitzen vier Bekanntheitsgruppen gemäß [aktuellem Gruppenvertrag](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
 
 Gezählt wird jedes aktuelle Ziel einmal je Bereich und Schwierigkeit aus abgeschlossenen Runden aller Modi. Wiederholungen, Varianten, geratene Treffer, falsche oder unbeantwortete Fragen sowie aktive/abgebrochene Runden bringen keinen zusätzlichen Freischaltfortschritt. Spätere Fehler löschen frühere sichere Treffer nicht. Entfernte Ziele zählen nicht mehr; Ergänzungen erhöhen gegebenenfalls den Nenner. Alte Kurzfreigaben umgehen die Berechnung nicht. Antworten, Lerntermine, XP und Rundenergebnisse bleiben erhalten; die gespeicherten Schwierigkeitsfreigaben werden neu projiziert.
 
@@ -32,11 +32,19 @@ Der Client verwendet die vorhandene globale Serveransicht `summary`, dieselbe wi
 
 ## Auswahl neuer Ziele
 
-Der Server begrenzt zuerst den Pool durch Auswahl und aktuelle Freigaben. Für jeden neuen Platz zieht er gleichwahrscheinlich eine Schwierigkeit mit noch ungesehenen geeigneten Zielen, dann gleichwahrscheinlich ein Ziel darin, zuletzt eine passende Variante. Bei zwei verfügbaren Stufen jeweils 50 Prozent, bei drei je ein Drittel. Keine feste Quote je kurzer Runde. Ein Ziel mit Varianten in mehreren Stufen erscheint trotzdem höchstens einmal pro Runde. Leere Stufen nehmen nicht an der Ziehung teil. Der bisherige Vorrang frisch geöffneter Etappen entfällt.
+Auf [präzisierten Nutzerauftrag vom 15.10.2026](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-15%20Nutzerauftrag%20Filmreise%20Bekanntheitsauswahl.txt) steuert zuerst die freigespielte Bekanntheitsgruppe die Auswahl neuer Ziele. Lokal umgesetzt, noch nicht produktiv aktiviert.
 
-Bei ausreichendem Bestand weiterhin vier fällige Wiederholungen und sechs neue Ziele. Fehlende Wiederholungen werden durch neue Ziele ergänzt; fehlen neue Ziele, kommen weitere fällige und danach bekannte Ziele hinzu. Fällige Wiederholungen werden nicht nach Schwierigkeit gleichverteilt. Freies Spiel und Rekordmodi behalten ihre eigenen Auswahlregeln. Mehrere Genres/Bereiche teilen den Pool; keine feste Genrequote.
+Der Server begrenzt zuerst den Pool durch Themen-/Bereichsauswahl und die aktuellen Freigaben **je Filmgenre, Schauspieler- und Preisbereich**. Eine offene Filmgruppe macht keine gesperrte Schauspieler- oder Preisgruppe verfügbar. Für jeden neuen Platz zieht er anschließend gleichwahrscheinlich eine Bekanntheitsgruppe mit noch unbekannten geeigneten Zielen, darin gleichwahrscheinlich eine verfügbare Schwierigkeit, dann ein Wissensziel und zuletzt eine passende Variante. Bei zwei verfügbaren Gruppen jeweils 50 Prozent, bei drei je ein Drittel, bei vier je 25 Prozent; unabhängig von ihrer Zielzahl und Zahl offener Schwierigkeiten. Die Auslosung wird nach jeder Ziehung anhand der Restmengen wiederholt.
+
+Leere oder vollständig bekannte Gruppen sowie leere Schwierigkeiten nehmen nicht an der neuen Ziehung teil. Ein gezogenes Ziel wird mit sämtlichen Varianten aus allen Gruppen und Schwierigkeiten entfernt und erscheint höchstens einmal pro Runde. Varianten innerhalb derselben Gruppe/Schwierigkeit geben keine zusätzlichen Lose. Bei Varianten in mehreren Gruppen oder Schwierigkeiten addieren sich die jeweiligen Auswahlwege; diese bestehende Grenze wird nicht durch eine künstliche Gruppenzuordnung verändert.
+
+Die Gleichgewichtung gilt über viele Ziehungen, ohne feste Viertelquote einer Zehnerrunde. Film-, Schauspieler- und Preisfragen bleiben innerhalb der jeweils zulässigen Gruppe im gemeinsamen Pool; keine zusätzliche Bereichsgewichtung. Ist nur eine Gruppe verfügbar, verändert die neue Gruppenstufe deren interne Mischung nicht. Bei unterschiedlichen Freigaben können etwa Filmfragen aus Gruppe 3 und Schauspielerfragen nur aus Gruppe 1 teilnehmen.
+
+Bei ausreichendem Bestand weiterhin vier fällige Wiederholungen und sechs neue Ziele. Fehlende Wiederholungen werden durch neue Ziele ergänzt; fehlen neue Ziele, kommen weitere fällige und danach bekannte Ziele hinzu. Fällige Wiederholungen werden nicht nach Schwierigkeit gleichverteilt. Freies Spiel und Rekordmodi behalten ihre eigenen Auswahlregeln. Mehrere Genres/Bereiche teilen den Pool; keine feste Genre- oder Bereichsquote. Fällige Wiederholungen folgen weiterhin den Lernterminen und werden nicht nach Bekanntheit gleichverteilt.
 
 ## Betrieb und Grenzen
+
+Die lokale Folgeänderung `20261015170544_journey_familiarity_balanced_new_questions.sql` ersetzt ausschließlich die private Auswahlfunktion; `src/engine.ts` folgt derselben Hierarchie. Keine neuen Tabellen, Fortschrittsfelder, Katalogimporte oder Änderungen bestehender Antworten und Runden. Für die produktive Aktivierung ist eine gesonderte Freigabe des aktuellen Stands erforderlich.
 
 Private SQL-Funktionen berechnen Freigaben aus vorbereiteten aktuellen Zielmengen und inkrementell gepflegten sicheren Zielen. Auswahl bleibt auf dem Server; kein Vollkatalogabruf beim Kontostart, keine neue Clientablage und keine historischen Kataloge. Die lokale Proberunden-/Prüflogik folgt denselben Regeln. Datenbankänderungen: `20261011135954_journey_half_progress_and_balanced_new_questions.sql` für Schwierigkeiten und Auswahl sowie `20261011201651_journey_group_half_current_goals.sql` für Filmgruppen. Deren aktuelle leichte Zielmengen werden bei Inhaltsaktivierung in der privaten Tabelle `film_group_goals` vorbereitet; Kontoabfragen lesen diese kleinen Mengen und den bestehenden Cache. Kein Fragenbestand wird für jede Berechnung neu durchsucht. Bestehende Caches werden verworfen; die normale Revision informiert weitere Geräte über neu projizierte Freigaben. Bereits laufende Runden behalten ihre beim Start gezogene Folge, neue Starts verwenden die neue Regel.
 

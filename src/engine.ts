@@ -174,8 +174,15 @@ export function selectQuestions(
   if (options.mode === "entdecken") {
     // Reserve room for consolidation even while new goals remain available.
     take(due, Math.floor(options.size * 0.4));
-    const buckets = new Map<Difficulty, Map<string, Question[]>>();
+    // Unlocked familiarity groups get equal chances, regardless of pool size.
+    const groups = new Map<
+      ReturnType<typeof familiarityOf>,
+      Map<Difficulty, Map<string, Question[]>>
+    >();
     for (const q of pool.filter((q) => !learning[q.knowledgeId])) {
+      const group = familiarityOf(q);
+      if (!groups.has(group)) groups.set(group, new Map());
+      const buckets = groups.get(group)!;
       if (!buckets.has(q.difficulty)) buckets.set(q.difficulty, new Map());
       const goals = buckets.get(q.difficulty)!;
       if (!goals.has(q.knowledgeId)) goals.set(q.knowledgeId, []);
@@ -183,13 +190,17 @@ export function selectQuestions(
     }
     const draw = <T>(items: T[]) =>
       items[Math.min(items.length - 1, Math.floor(random() * items.length))];
-    while (result.length < options.size && buckets.size) {
+    while (result.length < options.size && groups.size) {
+      const buckets = draw([...groups.values()]);
       const level = draw([...buckets.keys()]);
       const [goal, variants] = draw([...buckets.get(level)!.entries()]);
       result.push(draw(variants));
-      for (const [difficulty, goals] of buckets) {
-        goals.delete(goal);
-        if (!goals.size) buckets.delete(difficulty);
+      for (const [group, stages] of groups) {
+        for (const [difficulty, goals] of stages) {
+          goals.delete(goal);
+          if (!goals.size) stages.delete(difficulty);
+        }
+        if (!stages.size) groups.delete(group);
       }
     }
     // A small remaining pool must not artificially shorten the round.

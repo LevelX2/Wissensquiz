@@ -6,7 +6,7 @@ Stand 03.10.2026, als Sites-Version 41 erfolgreich veröffentlicht. Die drei Fra
 
 ## Fortschritt
 
-Seit 11.10.2026 gilt der [gemeinsame 50-Prozent-Vertrag](Filmreise-Freischaltung-2026-10-11.md): Schauspieler und Preisträger beginnen mit Leicht; mindestens die Hälfte der aktuellen eindeutigen Ziele der vorherigen Schwierigkeit, aufgerundet, öffnet Mittel, Schwer und Experte. Nur sichere Antworten abgeschlossener Runden zählen; jeder Bereich separat, keine Filmgruppen. Alte 20-Ziele-Freigaben werden neu berechnet. Filmgenres verwenden ebenfalls 50 Prozent; Preis-/Personenantworten erhöhen deren Zähler nicht. Neue Fragen werden gleichwahrscheinlich über verfügbare offene Schwierigkeiten gezogen, ohne Einführungsvorrang. Keine feste Quote je Fragenbereich.
+Seit 11.10.2026 gilt der [gemeinsame 50-Prozent-Vertrag](Filmreise-Freischaltung-2026-10-11.md): Schauspieler und Preisträger beginnen mit Leicht; mindestens die Hälfte der aktuellen eindeutigen Ziele der vorherigen Schwierigkeit, aufgerundet, öffnet Mittel, Schwer und Experte. Nur sichere Antworten abgeschlossener Runden zählen; jeder Bereich separat; inzwischen besitzen auch Personen und Preise vier Bekanntheitsgruppen. Alte 20-Ziele-Freigaben werden neu berechnet. Filmgenres verwenden ebenfalls 50 Prozent; Preis-/Personenantworten erhöhen deren Zähler nicht. Seit dem lokalen Folgeauftrag vom 15.10.2026 werden neue Fragen zuerst gleichwahrscheinlich über freigespielte Bekanntheitsgruppen und darin über offene Schwierigkeiten gezogen, ohne Einführungsvorrang. Noch nicht veröffentlicht. Keine feste Quote je Fragenbereich.
 
 ## Namen und Vertiefungen
 
